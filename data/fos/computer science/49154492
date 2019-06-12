@@ -1,0 +1,4 @@
+{"count": 709, "name": "CPU power dissipation", "weight": 4.0, "id": 178264456, "level": 3}
+{"count": 234, "name": "CPU card", "weight": 1.0, "id": 2781169092, "level": 3}
+{"count": 947, "name": "CPU socket", "weight": 6.0, "id": 171337045, "level": 3}
+{"count": 1533, "name": "CPU shielding", "weight": 10.0, "id": 180613757, "level": 3}

@@ -1,0 +1,22 @@
+{"count": 6502, "name": "Distributed shared memory", "weight": 8.0, "id": 39528615, "level": 5}
+{"count": 1930, "name": "Non-uniform memory access", "weight": 2.0, "id": 133371097, "level": 5}
+{"count": 3784, "name": "Cache-only memory architecture", "weight": 4.0, "id": 3720319, "level": 5}
+{"count": 101, "name": "TreadMarks", "weight": 0.0, "id": 42597108, "level": 5}
+{"count": 384, "name": "Memory coherence", "weight": 0.0, "id": 61729252, "level": 5}
+{"count": 3521, "name": "Extended memory", "weight": 4.0, "id": 171675096, "level": 5}
+{"count": 32, "name": "Memory dependence prediction", "weight": 0.0, "id": 2777743528, "level": 5}
+{"count": 373, "name": "Memory ordering", "weight": 0.0, "id": 133482787, "level": 5}
+{"count": 128, "name": "Hybrid Memory Cube", "weight": 0.0, "id": 2778594728, "level": 5}
+{"count": 562, "name": "Supercomputer architecture", "weight": 0.0, "id": 106011394, "level": 5}
+{"count": 481, "name": "Shared disk architecture", "weight": 0.0, "id": 94267665, "level": 5}
+{"count": 60, "name": "Average memory access time", "weight": 0.0, "id": 2780938252, "level": 5}
+{"count": 244, "name": "Memory barrier", "weight": 0.0, "id": 111094320, "level": 5}
+{"count": 28, "name": "Computational RAM", "weight": 0.0, "id": 2777999738, "level": 5}
+{"count": 1443, "name": "CUDA Pinned memory", "weight": 1.0, "id": 78687567, "level": 5}
+{"count": 173, "name": "Slab allocation", "weight": 0.0, "id": 10145245, "level": 5}
+{"count": 38, "name": "I/O Acceleration Technology", "weight": 0.0, "id": 201037649, "level": 5}
+{"count": 3273, "name": "Data diffusion machine", "weight": 4.0, "id": 180089779, "level": 5}
+{"count": 411, "name": "Base and bounds", "weight": 0.0, "id": 1539903, "level": 5}
+{"count": 299, "name": "Memory geometry", "weight": 0.0, "id": 44877061, "level": 5}
+{"count": 3057, "name": "Computing with Memory", "weight": 3.0, "id": 152890283, "level": 5}
+{"count": 7653, "name": "Conventional memory", "weight": 10.0, "id": 53838383, "level": 5}

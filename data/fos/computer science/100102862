@@ -1,0 +1,8 @@
+{"count": 4045, "name": "Passive radar", "weight": 5.0, "id": 151120012, "level": 5}
+{"count": 772, "name": "Multistatic radar", "weight": 1.0, "id": 2777585438, "level": 5}
+{"count": 7420, "name": "Fire-control radar", "weight": 10.0, "id": 84236424, "level": 5}
+{"count": 177, "name": "Bistatic sonar", "weight": 0.0, "id": 2779265095, "level": 5}
+{"count": 5339, "name": "3D radar", "weight": 7.0, "id": 81076408, "level": 5}
+{"count": 2938, "name": "Low-frequency radar", "weight": 3.0, "id": 192314852, "level": 5}
+{"count": 1175, "name": "Radar MASINT", "weight": 1.0, "id": 157511527, "level": 5}
+{"count": 761, "name": "Semi-active radar homing", "weight": 1.0, "id": 131055897, "level": 5}

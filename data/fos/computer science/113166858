@@ -1,0 +1,18 @@
+{"count": 1930, "name": "Non-uniform memory access", "weight": 2.0, "id": 133371097, "level": 5}
+{"count": 3784, "name": "Cache-only memory architecture", "weight": 4.0, "id": 3720319, "level": 5}
+{"count": 2111, "name": "Cache-oblivious algorithm", "weight": 2.0, "id": 59687516, "level": 5}
+{"count": 933, "name": "Least frequently used", "weight": 1.0, "id": 141822785, "level": 5}
+{"count": 8197, "name": "Page cache", "weight": 10.0, "id": 36340418, "level": 5}
+{"count": 2946, "name": "Write-once", "weight": 3.0, "id": 107814850, "level": 5}
+{"count": 2218, "name": "MESI protocol", "weight": 2.0, "id": 120936851, "level": 5}
+{"count": 4462, "name": "Snoopy cache", "weight": 5.0, "id": 59689275, "level": 5}
+{"count": 60, "name": "Average memory access time", "weight": 0.0, "id": 2780938252, "level": 5}
+{"count": 5853, "name": "Bus sniffing", "weight": 7.0, "id": 51185590, "level": 5}
+{"count": 168, "name": "Uncore", "weight": 0.0, "id": 14358572, "level": 5}
+{"count": 47, "name": "Global Assembly Cache", "weight": 0.0, "id": 19572077, "level": 5}
+{"count": 829, "name": "Adaptive replacement cache", "weight": 1.0, "id": 120348434, "level": 5}
+{"count": 1050, "name": "Tag RAM", "weight": 1.0, "id": 146690236, "level": 5}
+{"count": 249, "name": "Cache stampede", "weight": 0.0, "id": 119022675, "level": 5}
+{"count": 164, "name": "FR-V", "weight": 0.0, "id": 154572764, "level": 5}
+{"count": 2123, "name": "MESIF protocol", "weight": 2.0, "id": 199979278, "level": 5}
+{"count": 3521, "name": "Pipeline burst cache", "weight": 4.0, "id": 157547923, "level": 5}

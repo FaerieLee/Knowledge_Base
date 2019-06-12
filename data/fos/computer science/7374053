@@ -1,0 +1,5 @@
+{"count": 323, "name": "Local feature size", "weight": 0.0, "id": 131342689, "level": 4}
+{"count": 1795, "name": "Kanade\u2013Lucas\u2013Tomasi feature tracker", "weight": 2.0, "id": 29597544, "level": 4}
+{"count": 266, "name": "Principal curvature-based region detector", "weight": 0.0, "id": 186926958, "level": 4}
+{"count": 740, "name": "Minimum redundancy feature selection", "weight": 0.0, "id": 16811321, "level": 4}
+{"count": 8874, "name": "Feature (machine learning)", "weight": 10.0, "id": 40608802, "level": 4}

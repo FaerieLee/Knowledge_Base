@@ -1,0 +1,23 @@
+{"count": 30908, "name": "Electric machine", "weight": 10.0, "id": 2777672618, "level": 4}
+{"count": 6779, "name": "Ultrasonic motor", "weight": 2.0, "id": 138794181, "level": 4}
+{"count": 3471, "name": "Cogging torque", "weight": 1.0, "id": 2776830253, "level": 4}
+{"count": 3032, "name": "Flux linkage", "weight": 0.0, "id": 155343825, "level": 4}
+{"count": 16029, "name": "Squirrel-cage rotor", "weight": 5.0, "id": 177500038, "level": 4}
+{"count": 1702, "name": "Torque density", "weight": 0.0, "id": 2780932299, "level": 4}
+{"count": 1304, "name": "Copper loss", "weight": 0.0, "id": 61906436, "level": 4}
+{"count": 380, "name": "Rotor\u2013stator interaction", "weight": 0.0, "id": 2776219102, "level": 4}
+{"count": 1068, "name": "Magnetomotive force", "weight": 0.0, "id": 154607430, "level": 4}
+{"count": 6933, "name": "Field coil", "weight": 2.0, "id": 124162555, "level": 4}
+{"count": 13116, "name": "Wound rotor motor", "weight": 4.0, "id": 42672440, "level": 4}
+{"count": 199, "name": "Winding factor", "weight": 0.0, "id": 2779103923, "level": 4}
+{"count": 106, "name": "Variable-frequency transformer", "weight": 0.0, "id": 2776790908, "level": 4}
+{"count": 491, "name": "Circle diagram", "weight": 0.0, "id": 190587461, "level": 4}
+{"count": 180, "name": "TEFC", "weight": 0.0, "id": 170064086, "level": 4}
+{"count": 193, "name": "Slot insulation", "weight": 0.0, "id": 2780706688, "level": 4}
+{"count": 29, "name": "Blocked rotor test", "weight": 0.0, "id": 2781357920, "level": 4}
+{"count": 86, "name": "Brushless DC electric motor", "weight": 0.0, "id": 2780232863, "level": 4}
+{"count": 90, "name": "Angel wing", "weight": 0.0, "id": 2778559444, "level": 4}
+{"count": 189, "name": "Magneto", "weight": 0.0, "id": 171636128, "level": 4}
+{"count": 12, "name": "Rotary phase converter", "weight": 0.0, "id": 2778352093, "level": 4}
+{"count": 63, "name": "Repulsion motor", "weight": 0.0, "id": 2780266040, "level": 4}
+{"count": 640, "name": "Wave motor", "weight": 0.0, "id": 2779152014, "level": 4}

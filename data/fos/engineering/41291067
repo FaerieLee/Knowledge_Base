@@ -1,0 +1,34 @@
+{"count": 28095, "name": "Maximum power point tracking", "weight": 10.0, "id": 36139824, "level": 3}
+{"count": 26176, "name": "Solar power", "weight": 9.0, "id": 2777618391, "level": 3}
+{"count": 19952, "name": "Photovoltaics", "weight": 7.0, "id": 542589376, "level": 3}
+{"count": 4371, "name": "Photovoltaic effect", "weight": 1.0, "id": 67377204, "level": 3}
+{"count": 11846, "name": "Solar air conditioning", "weight": 4.0, "id": 160798176, "level": 3}
+{"count": 9471, "name": "Solar cell efficiency", "weight": 3.0, "id": 190168584, "level": 3}
+{"count": 2760, "name": "Building-integrated photovoltaics", "weight": 0.0, "id": 110455383, "level": 3}
+{"count": 4168, "name": "Solar tracker", "weight": 1.0, "id": 119338728, "level": 3}
+{"count": 3056, "name": "Grid connection", "weight": 1.0, "id": 2780685028, "level": 3}
+{"count": 1029, "name": "Multijunction photovoltaic cell", "weight": 0.0, "id": 73949472, "level": 3}
+{"count": 13815, "name": "Maximum power principle", "weight": 4.0, "id": 116615679, "level": 3}
+{"count": 4109, "name": "Diesel generator", "weight": 1.0, "id": 2776301318, "level": 3}
+{"count": 1527, "name": "Power conditioner", "weight": 0.0, "id": 2780765089, "level": 3}
+{"count": 622, "name": "Net metering", "weight": 0.0, "id": 2779961549, "level": 3}
+{"count": 528, "name": "Microgeneration", "weight": 0.0, "id": 2781019048, "level": 3}
+{"count": 995, "name": "Solar Resource", "weight": 0.0, "id": 2778676262, "level": 3}
+{"count": 6617, "name": "Grid parity", "weight": 2.0, "id": 186503672, "level": 3}
+{"count": 433, "name": "Luminescent solar concentrator", "weight": 0.0, "id": 2779431981, "level": 3}
+{"count": 11348, "name": "Stand-alone power system", "weight": 4.0, "id": 104708988, "level": 3}
+{"count": 592, "name": "Concentrated photovoltaics", "weight": 0.0, "id": 47651138, "level": 3}
+{"count": 1399, "name": "Charge controller", "weight": 0.0, "id": 2776636718, "level": 3}
+{"count": 222, "name": "Balance of system", "weight": 0.0, "id": 2780653031, "level": 3}
+{"count": 186, "name": "Soft Costs", "weight": 0.0, "id": 2571954, "level": 3}
+{"count": 758, "name": "Solar vehicle", "weight": 0.0, "id": 540793156, "level": 3}
+{"count": 396, "name": "Solar charger", "weight": 0.0, "id": 2779848691, "level": 3}
+{"count": 190, "name": "Solar controller", "weight": 0.0, "id": 2779601174, "level": 3}
+{"count": 10, "name": "Stand-alone photovoltaic power system", "weight": 0.0, "id": 116437574, "level": 3}
+{"count": 57, "name": "Solar tree", "weight": 0.0, "id": 2777538026, "level": 3}
+{"count": 26, "name": "Half Acceptance angle", "weight": 0.0, "id": 2775932068, "level": 3}
+{"count": 96, "name": "Solar street light", "weight": 0.0, "id": 2781158724, "level": 3}
+{"count": 42, "name": "Solar-powered pump", "weight": 0.0, "id": 2776773097, "level": 3}
+{"count": 16416, "name": "Photovoltaic thermal hybrid solar collector", "weight": 5.0, "id": 202112998, "level": 3}
+{"count": 30, "name": "Price per watt", "weight": 0.0, "id": 2781286989, "level": 3}
+{"count": 12, "name": "Growth of photovoltaics", "weight": 0.0, "id": 2775903857, "level": 3}

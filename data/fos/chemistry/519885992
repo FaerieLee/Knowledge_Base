@@ -1,0 +1,78 @@
+{"count": 60679, "name": "Glass fiber", "weight": 7.0, "id": 177229083, "level": 3}
+{"count": 26087, "name": "Electrospinning", "weight": 3.0, "id": 144796933, "level": 3}
+{"count": 13660, "name": "Synthetic fiber", "weight": 1.0, "id": 64208038, "level": 3}
+{"count": 11638, "name": "Fiber-reinforced composite", "weight": 1.0, "id": 53256841, "level": 3}
+{"count": 5740, "name": "Natural fiber", "weight": 0.0, "id": 2776176653, "level": 3}
+{"count": 491, "name": "Fiber crop", "weight": 0.0, "id": 2779099287, "level": 3}
+{"count": 78414, "name": "Spinning", "weight": 10.0, "id": 154815118, "level": 3}
+{"count": 6583, "name": "Fiber bundle", "weight": 0.0, "id": 146710177, "level": 3}
+{"count": 7885, "name": "Fiber-reinforced concrete", "weight": 1.0, "id": 2779016933, "level": 3}
+{"count": 13494, "name": "Aramid", "weight": 1.0, "id": 127995812, "level": 3}
+{"count": 5969, "name": "Microfiber", "weight": 0.0, "id": 12820456, "level": 3}
+{"count": 2156, "name": "SISAL", "weight": 0.0, "id": 2777547799, "level": 3}
+{"count": 13378, "name": "Polyacrylonitrile", "weight": 1.0, "id": 2776056205, "level": 3}
+{"count": 3242, "name": "Filament winding", "weight": 0.0, "id": 2780008023, "level": 3}
+{"count": 2944, "name": "Chemical vapor infiltration", "weight": 0.0, "id": 120024216, "level": 3}
+{"count": 3204, "name": "Biocomposite", "weight": 0.0, "id": 2777869788, "level": 3}
+{"count": 4279, "name": "Pultrusion", "weight": 0.0, "id": 52359486, "level": 3}
+{"count": 1705, "name": "Silica fiber", "weight": 0.0, "id": 2777229284, "level": 3}
+{"count": 4107, "name": "Kenaf", "weight": 0.0, "id": 2778328744, "level": 3}
+{"count": 8290, "name": "Hollow fiber membrane", "weight": 1.0, "id": 2778260969, "level": 3}
+{"count": 13665, "name": "Cellulose fiber", "weight": 1.0, "id": 54965259, "level": 3}
+{"count": 3820, "name": "Coir", "weight": 0.0, "id": 2779584405, "level": 3}
+{"count": 3334, "name": "Kevlar", "weight": 0.0, "id": 2777618003, "level": 3}
+{"count": 3313, "name": "Ramie", "weight": 0.0, "id": 2775898421, "level": 3}
+{"count": 1871, "name": "Fusion splicing", "weight": 0.0, "id": 11645699, "level": 3}
+{"count": 17339, "name": "Woven fabric", "weight": 2.0, "id": 2777297030, "level": 3}
+{"count": 2209, "name": "Lyocell", "weight": 0.0, "id": 162096220, "level": 3}
+{"count": 2624, "name": "Basalt fiber", "weight": 0.0, "id": 193483257, "level": 3}
+{"count": 1331, "name": "Retting", "weight": 0.0, "id": 2775919159, "level": 3}
+{"count": 2424, "name": "Disperse dye", "weight": 0.0, "id": 2779272887, "level": 3}
+{"count": 292, "name": "Boron fiber", "weight": 0.0, "id": 2779685798, "level": 3}
+{"count": 3661, "name": "Bast fibre", "weight": 0.0, "id": 193274303, "level": 3}
+{"count": 9616, "name": "Viscose", "weight": 1.0, "id": 2187297, "level": 3}
+{"count": 366, "name": "Fiber metal laminate", "weight": 0.0, "id": 2778923211, "level": 3}
+{"count": 7331, "name": "Carding", "weight": 0.0, "id": 2780744312, "level": 3}
+{"count": 13436, "name": "Nonwoven fabric", "weight": 1.0, "id": 2776416690, "level": 3}
+{"count": 1003, "name": "Wood fibre", "weight": 0.0, "id": 2778633583, "level": 3}
+{"count": 1876, "name": "Acrylic fiber", "weight": 0.0, "id": 2780332503, "level": 3}
+{"count": 264, "name": "Orientation tensor", "weight": 0.0, "id": 118026978, "level": 3}
+{"count": 236, "name": "Hollow fiber bioreactor", "weight": 0.0, "id": 2776404430, "level": 3}
+{"count": 136, "name": "Bridging model", "weight": 0.0, "id": 2776881475, "level": 3}
+{"count": 170, "name": "Zylon", "weight": 0.0, "id": 2780994307, "level": 3}
+{"count": 425, "name": "Melt blowing", "weight": 0.0, "id": 2778114122, "level": 3}
+{"count": 355, "name": "Fibre cement", "weight": 0.0, "id": 2779527186, "level": 3}
+{"count": 519, "name": "Stainless steel fiber", "weight": 0.0, "id": 2779332230, "level": 3}
+{"count": 3088, "name": "Fiber pull-out", "weight": 0.0, "id": 85111493, "level": 3}
+{"count": 3274, "name": "Optical fiber connector", "weight": 0.0, "id": 2779370546, "level": 3}
+{"count": 151, "name": "Vectran", "weight": 0.0, "id": 2780753380, "level": 3}
+{"count": 1469, "name": "Reinforced rubber", "weight": 0.0, "id": 2776843555, "level": 3}
+{"count": 326, "name": "Mechanical splice", "weight": 0.0, "id": 182087806, "level": 3}
+{"count": 66, "name": "Intrafusal muscle fiber", "weight": 0.0, "id": 2780014566, "level": 3}
+{"count": 1062, "name": "Cement board", "weight": 0.0, "id": 2776177899, "level": 3}
+{"count": 274, "name": "Fluff pulp", "weight": 0.0, "id": 113125285, "level": 3}
+{"count": 53, "name": "Sorona", "weight": 0.0, "id": 2779007315, "level": 3}
+{"count": 132, "name": "Coolmax", "weight": 0.0, "id": 2776895193, "level": 3}
+{"count": 54, "name": "Sansevieria cylindrica", "weight": 0.0, "id": 2777520000, "level": 3}
+{"count": 121, "name": "Pre-preg", "weight": 0.0, "id": 133116355, "level": 3}
+{"count": 183, "name": "Fiber volume ratio", "weight": 0.0, "id": 2780680814, "level": 3}
+{"count": 312, "name": "Modacrylic", "weight": 0.0, "id": 2777358871, "level": 3}
+{"count": 143, "name": "PTFE fiber", "weight": 0.0, "id": 2781118231, "level": 3}
+{"count": 214, "name": "Defibrator", "weight": 0.0, "id": 85982484, "level": 3}
+{"count": 35, "name": "Tailored fiber placement", "weight": 0.0, "id": 2780787415, "level": 3}
+{"count": 57, "name": "Vibroscope", "weight": 0.0, "id": 2776346514, "level": 3}
+{"count": 12, "name": "Sansevieria ehrenbergii", "weight": 0.0, "id": 2779628152, "level": 3}
+{"count": 21, "name": "Cut-resistant gloves", "weight": 0.0, "id": 2781201595, "level": 3}
+{"count": 24, "name": "Advanced fiber placement", "weight": 0.0, "id": 2779071632, "level": 3}
+{"count": 19, "name": "Northern bleached softwood kraft", "weight": 0.0, "id": 2780327359, "level": 3}
+{"count": 7, "name": "Steam exploded fiber", "weight": 0.0, "id": 2779219449, "level": 3}
+{"count": 9, "name": "M5 fiber", "weight": 0.0, "id": 2778393934, "level": 3}
+{"count": 15, "name": "Nuclear bag fiber", "weight": 0.0, "id": 2776507211, "level": 3}
+{"count": 26, "name": "Dimethylol ethylene urea", "weight": 0.0, "id": 2778063525, "level": 3}
+{"count": 27, "name": "Fiber simulation", "weight": 0.0, "id": 2779307293, "level": 3}
+{"count": 256, "name": "Long-fiber-reinforced thermoplastic", "weight": 0.0, "id": 2780950489, "level": 3}
+{"count": 39, "name": "Fiber roll", "weight": 0.0, "id": 2776681846, "level": 3}
+{"count": 2989, "name": "Subwavelength-diameter optical fibre", "weight": 0.0, "id": 104942882, "level": 3}
+{"count": 10, "name": "Bamboo textile", "weight": 0.0, "id": 2776640444, "level": 3}
+{"count": 15, "name": "Fiber derivative", "weight": 0.0, "id": 2780828901, "level": 3}
+{"count": 31, "name": "Polybenzimidazole fiber", "weight": 0.0, "id": 2777820910, "level": 3}

@@ -1,0 +1,45 @@
+{"count": 13898, "name": "Terrestrial ecosystem", "weight": 10.0, "id": 65680412, "level": 3}
+{"count": 12773, "name": "Food web", "weight": 9.0, "id": 109931610, "level": 3}
+{"count": 10701, "name": "Nutrient cycle", "weight": 7.0, "id": 164638232, "level": 3}
+{"count": 8394, "name": "Primary production", "weight": 6.0, "id": 24717449, "level": 3}
+{"count": 13368, "name": "Marine ecosystem", "weight": 9.0, "id": 151152651, "level": 3}
+{"count": 11080, "name": "Ecosystem management", "weight": 7.0, "id": 130094819, "level": 3}
+{"count": 4034, "name": "Ecosystem model", "weight": 2.0, "id": 64107356, "level": 3}
+{"count": 6345, "name": "Ecosystem health", "weight": 4.0, "id": 141818822, "level": 3}
+{"count": 1849, "name": "Ecosystem engineer", "weight": 1.0, "id": 32120771, "level": 3}
+{"count": 875, "name": "Plant functional type", "weight": 0.0, "id": 2780946806, "level": 3}
+{"count": 2480, "name": "Ecological indicator", "weight": 1.0, "id": 168956269, "level": 3}
+{"count": 819, "name": "Alternative stable state", "weight": 0.0, "id": 12064787, "level": 3}
+{"count": 1441, "name": "Ecological stability", "weight": 1.0, "id": 34506677, "level": 3}
+{"count": 1336, "name": "Ecosystem-based management", "weight": 0.0, "id": 2779042980, "level": 3}
+{"count": 1598, "name": "Ecosystem approach", "weight": 1.0, "id": 2779071118, "level": 3}
+{"count": 833, "name": "Ecological stoichiometry", "weight": 0.0, "id": 73447217, "level": 3}
+{"count": 5407, "name": "Freshwater ecosystem", "weight": 3.0, "id": 46685645, "level": 3}
+{"count": 834, "name": "Biological soil crust", "weight": 0.0, "id": 2780257989, "level": 3}
+{"count": 755, "name": "Millennium Ecosystem Assessment", "weight": 0.0, "id": 2776254840, "level": 3}
+{"count": 2857, "name": "Decomposer", "weight": 2.0, "id": 104170005, "level": 3}
+{"count": 356, "name": "Biomass (ecology)", "weight": 0.0, "id": 115540264, "level": 3}
+{"count": 4106, "name": "Ecosystem diversity", "weight": 2.0, "id": 179768671, "level": 3}
+{"count": 671, "name": "Ecosystem ecology", "weight": 0.0, "id": 59275919, "level": 3}
+{"count": 422, "name": "Novel ecosystem", "weight": 0.0, "id": 180440007, "level": 3}
+{"count": 483, "name": "Foundation species", "weight": 0.0, "id": 31262351, "level": 3}
+{"count": 2314, "name": "Primary producers", "weight": 1.0, "id": 170859357, "level": 3}
+{"count": 254, "name": "Consumer", "weight": 0.0, "id": 28864654, "level": 3}
+{"count": 463, "name": "Software ecosystem", "weight": 0.0, "id": 2780776881, "level": 3}
+{"count": 490, "name": "Entrepreneurial ecosystem", "weight": 0.0, "id": 2780861103, "level": 3}
+{"count": 139, "name": "Outwelling", "weight": 0.0, "id": 2780513062, "level": 3}
+{"count": 182, "name": "Rare biosphere", "weight": 0.0, "id": 2780967750, "level": 3}
+{"count": 546, "name": "Human ecosystem", "weight": 0.0, "id": 200930007, "level": 3}
+{"count": 163, "name": "Ecological threshold", "weight": 0.0, "id": 2777266071, "level": 3}
+{"count": 720, "name": "Boreal ecosystem", "weight": 0.0, "id": 12202269, "level": 3}
+{"count": 258, "name": "Mangrove restoration", "weight": 0.0, "id": 2777256072, "level": 3}
+{"count": 387, "name": "Alpine-steppe", "weight": 0.0, "id": 2776669934, "level": 3}
+{"count": 203, "name": "Ecological pyramid", "weight": 0.0, "id": 133432491, "level": 3}
+{"count": 106, "name": "Autogenic succession", "weight": 0.0, "id": 89312913, "level": 3}
+{"count": 111, "name": "Landscape limnology", "weight": 0.0, "id": 183270102, "level": 3}
+{"count": 125, "name": "Ecological goods and services", "weight": 0.0, "id": 2778127861, "level": 3}
+{"count": 68, "name": "Economics of biodiversity", "weight": 0.0, "id": 2778553607, "level": 3}
+{"count": 49, "name": "Patterned vegetation", "weight": 0.0, "id": 2781011026, "level": 3}
+{"count": 94, "name": "The Economics of Ecosystems and Biodiversity", "weight": 0.0, "id": 2776845475, "level": 3}
+{"count": 19, "name": "Climate change and ecosystems", "weight": 0.0, "id": 68799841, "level": 3}
+{"count": 57, "name": "Mycotroph", "weight": 0.0, "id": 17084213, "level": 3}

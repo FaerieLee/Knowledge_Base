@@ -1,0 +1,23 @@
+{"count": 50253, "name": "Tensile testing", "weight": 10.0, "id": 182508753, "level": 3}
+{"count": 10572, "name": "Izod impact strength test", "weight": 2.0, "id": 102267420, "level": 3}
+{"count": 7885, "name": "Fiber-reinforced concrete", "weight": 1.0, "id": 2779016933, "level": 3}
+{"count": 8194, "name": "Charpy impact test", "weight": 1.0, "id": 127205250, "level": 3}
+{"count": 7037, "name": "Necking", "weight": 1.0, "id": 119001679, "level": 3}
+{"count": 2551, "name": "Dynamic strain aging", "weight": 0.0, "id": 117087868, "level": 3}
+{"count": 5665, "name": "Tear resistance", "weight": 1.0, "id": 163936134, "level": 3}
+{"count": 7631, "name": "Flexural modulus", "weight": 1.0, "id": 809718, "level": 3}
+{"count": 318, "name": "Tensometer", "weight": 0.0, "id": 2778305745, "level": 3}
+{"count": 2084, "name": "Brinell scale", "weight": 0.0, "id": 28369735, "level": 3}
+{"count": 646, "name": "Textile-reinforced concrete", "weight": 0.0, "id": 2778289140, "level": 3}
+{"count": 1556, "name": "Rule of mixtures", "weight": 0.0, "id": 135377553, "level": 3}
+{"count": 435, "name": "Microvoid coalescence", "weight": 0.0, "id": 164990259, "level": 3}
+{"count": 1598, "name": "Ultimate failure", "weight": 0.0, "id": 2778969670, "level": 3}
+{"count": 6145, "name": "Universal testing machine", "weight": 1.0, "id": 180478085, "level": 3}
+{"count": 359, "name": "Folding endurance", "weight": 0.0, "id": 2777937549, "level": 3}
+{"count": 152, "name": "Tensile structure", "weight": 0.0, "id": 2776107940, "level": 3}
+{"count": 314, "name": "Yield strength anomaly", "weight": 0.0, "id": 101440886, "level": 3}
+{"count": 54, "name": "Sansevieria cylindrica", "weight": 0.0, "id": 2777520000, "level": 3}
+{"count": 183, "name": "Fiber volume ratio", "weight": 0.0, "id": 2780680814, "level": 3}
+{"count": 24, "name": "Tieghemella heckelii", "weight": 0.0, "id": 2781280203, "level": 3}
+{"count": 135, "name": "International Annealed Copper Standard", "weight": 0.0, "id": 2777599389, "level": 3}
+{"count": 137, "name": "Rsl testing", "weight": 0.0, "id": 106527120, "level": 3}

@@ -1,0 +1,200 @@
+{"count": 454283, "name": "Plasma", "weight": 4.0, "id": 82706917, "level": 2}
+{"count": 89602, "name": "Isotope", "weight": 0.0, "id": 164304813, "level": 2}
+{"count": 80226, "name": "Charged particle", "weight": 0.0, "id": 35048267, "level": 2}
+{"count": 38316, "name": "Stable isotope ratio", "weight": 0.0, "id": 22117777, "level": 2}
+{"count": 378632, "name": "Atom", "weight": 3.0, "id": 181819025, "level": 2}
+{"count": 86623, "name": "Gamma ray", "weight": 0.0, "id": 7910260, "level": 2}
+{"count": 67865, "name": "Cosmic ray", "weight": 0.0, "id": 111309251, "level": 2}
+{"count": 149950, "name": "Irradiation", "weight": 1.0, "id": 111337013, "level": 2}
+{"count": 191344, "name": "Proton", "weight": 1.0, "id": 54516573, "level": 2}
+{"count": 83996, "name": "Nuclear reaction", "weight": 0.0, "id": 206191943, "level": 2}
+{"count": 72896, "name": "Radioactive waste", "weight": 0.0, "id": 89690796, "level": 2}
+{"count": 58244, "name": "Binding energy", "weight": 0.0, "id": 93282013, "level": 2}
+{"count": 24039, "name": "Beta decay", "weight": 0.0, "id": 46805990, "level": 2}
+{"count": 978922, "name": "Radiation", "weight": 10.0, "id": 153385146, "level": 2}
+{"count": 72196, "name": "Nuclear reactor", "weight": 0.0, "id": 541523362, "level": 2}
+{"count": 175297, "name": "Neutron", "weight": 1.0, "id": 152568617, "level": 2}
+{"count": 46070, "name": "Radiography", "weight": 0.0, "id": 36454342, "level": 2}
+{"count": 18906, "name": "Isotopes of carbon", "weight": 0.0, "id": 185059815, "level": 2}
+{"count": 57447, "name": "Sterilization (microbiology)", "weight": 0.0, "id": 82339955, "level": 2}
+{"count": 69369, "name": "Deuterium", "weight": 0.0, "id": 58364064, "level": 2}
+{"count": 193887, "name": "Lithium", "weight": 1.0, "id": 523925430, "level": 2}
+{"count": 108020, "name": "Boron", "weight": 1.0, "id": 501308230, "level": 2}
+{"count": 145394, "name": "X-ray", "weight": 1.0, "id": 2779328170, "level": 2}
+{"count": 24184, "name": "Tritium", "weight": 0.0, "id": 62538594, "level": 2}
+{"count": 21544, "name": "Human decontamination", "weight": 0.0, "id": 107211472, "level": 2}
+{"count": 7866, "name": "Half-life", "weight": 0.0, "id": 3941253, "level": 2}
+{"count": 393991, "name": "Particle", "weight": 4.0, "id": 102725377, "level": 2}
+{"count": 22986, "name": "Beryllium", "weight": 0.0, "id": 506630978, "level": 2}
+{"count": 43442, "name": "Nuclear power plant", "weight": 0.0, "id": 2779979336, "level": 2}
+{"count": 57189, "name": "Neutrino", "weight": 0.0, "id": 186453547, "level": 2}
+{"count": 28936, "name": "Strontium", "weight": 0.0, "id": 518915863, "level": 2}
+{"count": 18416, "name": "Nuclear structure", "weight": 0.0, "id": 67327403, "level": 2}
+{"count": 15203, "name": "SHELL model", "weight": 0.0, "id": 2777227988, "level": 2}
+{"count": 13086, "name": "Site selection", "weight": 0.0, "id": 2780561860, "level": 2}
+{"count": 25882, "name": "Caesium", "weight": 0.0, "id": 519659679, "level": 2}
+{"count": 21444, "name": "Alpha particle", "weight": 0.0, "id": 66385817, "level": 2}
+{"count": 29998, "name": "Xenon", "weight": 0.0, "id": 548442186, "level": 2}
+{"count": 8098, "name": "Rare-earth element", "weight": 0.0, "id": 2777615417, "level": 2}
+{"count": 9312, "name": "Electron\u2013positron annihilation", "weight": 0.0, "id": 2778671642, "level": 2}
+{"count": 17216, "name": "Nuclear fission product", "weight": 0.0, "id": 113411277, "level": 2}
+{"count": 14219, "name": "Exponential decay", "weight": 0.0, "id": 180188523, "level": 2}
+{"count": 37491, "name": "Radionuclide", "weight": 0.0, "id": 158973077, "level": 2}
+{"count": 50791, "name": "Nuclear power", "weight": 0.0, "id": 513653683, "level": 2}
+{"count": 9555, "name": "Nucleosynthesis", "weight": 0.0, "id": 4397270, "level": 2}
+{"count": 23301, "name": "Fission", "weight": 0.0, "id": 12294094, "level": 2}
+{"count": 25244, "name": "Plutonium", "weight": 0.0, "id": 540271850, "level": 2}
+{"count": 22793, "name": "Branching fraction", "weight": 0.0, "id": 46460574, "level": 2}
+{"count": 35699, "name": "Muon", "weight": 0.0, "id": 205334942, "level": 2}
+{"count": 20071, "name": "Cyclotron", "weight": 0.0, "id": 39527238, "level": 2}
+{"count": 15960, "name": "Fission products", "weight": 0.0, "id": 103522932, "level": 2}
+{"count": 26263, "name": "Lanthanum", "weight": 0.0, "id": 555894677, "level": 2}
+{"count": 22867, "name": "Radon", "weight": 0.0, "id": 545943180, "level": 2}
+{"count": 67977, "name": "Coolant", "weight": 0.0, "id": 91914117, "level": 2}
+{"count": 3289, "name": "Carbon-14", "weight": 0.0, "id": 196284684, "level": 2}
+{"count": 15513, "name": "Coprecipitation", "weight": 0.0, "id": 28737856, "level": 2}
+{"count": 11956, "name": "Vitrification", "weight": 0.0, "id": 2778022349, "level": 2}
+{"count": 7767, "name": "Liquid scintillation counting", "weight": 0.0, "id": 194097036, "level": 2}
+{"count": 5744, "name": "Helium-4", "weight": 0.0, "id": 15522680, "level": 2}
+{"count": 23595, "name": "Nuclear weapon", "weight": 0.0, "id": 194110935, "level": 2}
+{"count": 5577, "name": "Heavy water", "weight": 0.0, "id": 2776294576, "level": 2}
+{"count": 19673, "name": "Shutdown", "weight": 0.0, "id": 2780263472, "level": 2}
+{"count": 1226, "name": "Technetium-99", "weight": 0.0, "id": 2780723685, "level": 2}
+{"count": 14518, "name": "Q value", "weight": 0.0, "id": 2779142801, "level": 2}
+{"count": 18191, "name": "Nuclear fuel", "weight": 0.0, "id": 2779819667, "level": 2}
+{"count": 10429, "name": "Beta particle", "weight": 0.0, "id": 163688568, "level": 2}
+{"count": 12225, "name": "Embrittlement", "weight": 0.0, "id": 142282041, "level": 2}
+{"count": 8411, "name": "Uranium dioxide", "weight": 0.0, "id": 2778472420, "level": 2}
+{"count": 14590, "name": "Criticality", "weight": 0.0, "id": 125611927, "level": 2}
+{"count": 7583, "name": "Gaseous diffusion", "weight": 0.0, "id": 173938606, "level": 2}
+{"count": 7694, "name": "Physicist", "weight": 0.0, "id": 2780146352, "level": 2}
+{"count": 1476, "name": "Isotopes of cobalt", "weight": 0.0, "id": 82387480, "level": 2}
+{"count": 9159, "name": "Radioactive decay", "weight": 0.0, "id": 20381300, "level": 2}
+{"count": 5484, "name": "Fission track dating", "weight": 0.0, "id": 92217149, "level": 2}
+{"count": 2447, "name": "Abundance of the chemical elements", "weight": 0.0, "id": 68944897, "level": 2}
+{"count": 14504, "name": "Radium", "weight": 0.0, "id": 550196577, "level": 2}
+{"count": 11113, "name": "Cherenkov radiation", "weight": 0.0, "id": 72591435, "level": 2}
+{"count": 10563, "name": "Radiometric dating", "weight": 0.0, "id": 170187044, "level": 2}
+{"count": 15316, "name": "Deterrence theory", "weight": 0.0, "id": 60643870, "level": 2}
+{"count": 26111, "name": "Synchrotron", "weight": 0.0, "id": 21368211, "level": 2}
+{"count": 5606, "name": "Strangeness", "weight": 0.0, "id": 2776440232, "level": 2}
+{"count": 2433, "name": "Nuclear reaction analysis", "weight": 0.0, "id": 2780839960, "level": 2}
+{"count": 5039, "name": "Alpha decay", "weight": 0.0, "id": 141752856, "level": 2}
+{"count": 3956, "name": "Relativistic Heavy Ion Collider", "weight": 0.0, "id": 2780765408, "level": 2}
+{"count": 4511, "name": "Phosphate glass", "weight": 0.0, "id": 2781094431, "level": 2}
+{"count": 9036, "name": "SAGE", "weight": 0.0, "id": 2775870830, "level": 2}
+{"count": 4918, "name": "Remote operation", "weight": 0.0, "id": 2778697102, "level": 2}
+{"count": 4995, "name": "Chalcogen", "weight": 0.0, "id": 158733187, "level": 2}
+{"count": 3700, "name": "Nuclear astrophysics", "weight": 0.0, "id": 54116275, "level": 2}
+{"count": 5960, "name": "Safety culture", "weight": 0.0, "id": 2779240384, "level": 2}
+{"count": 9717, "name": "Overpressure", "weight": 0.0, "id": 29452850, "level": 2}
+{"count": 8654, "name": "Arms control", "weight": 0.0, "id": 538168058, "level": 2}
+{"count": 9706, "name": "Fermilab", "weight": 0.0, "id": 2779848721, "level": 2}
+{"count": 8808, "name": "Spall", "weight": 0.0, "id": 64355373, "level": 2}
+{"count": 1073, "name": "Chemical oceanography", "weight": 0.0, "id": 205834528, "level": 2}
+{"count": 3857, "name": "Lutetium", "weight": 0.0, "id": 520551903, "level": 2}
+{"count": 5883, "name": "Civil defense", "weight": 0.0, "id": 529740132, "level": 2}
+{"count": 1091, "name": "Oxygen-17", "weight": 0.0, "id": 5150642, "level": 2}
+{"count": 14347, "name": "TRACER", "weight": 0.0, "id": 2778863792, "level": 2}
+{"count": 25245, "name": "Centrifuge", "weight": 0.0, "id": 2780657338, "level": 2}
+{"count": 545, "name": "Doubly labeled water", "weight": 0.0, "id": 113098757, "level": 2}
+{"count": 10030, "name": "Microprobe", "weight": 0.0, "id": 125206250, "level": 2}
+{"count": 2614, "name": "Steam explosion", "weight": 0.0, "id": 138875322, "level": 2}
+{"count": 2582, "name": "Polonium", "weight": 0.0, "id": 499713411, "level": 2}
+{"count": 1366, "name": "Particle-induced X-ray emission", "weight": 0.0, "id": 165699444, "level": 2}
+{"count": 3751, "name": "Mass number", "weight": 0.0, "id": 75812238, "level": 2}
+{"count": 1746, "name": "Nuclear explosion", "weight": 0.0, "id": 2780766239, "level": 2}
+{"count": 325, "name": "Ames Laboratory", "weight": 0.0, "id": 2776762116, "level": 2}
+{"count": 3332, "name": "Phosphogypsum", "weight": 0.0, "id": 34671766, "level": 2}
+{"count": 1215, "name": "Isotopes of caesium", "weight": 0.0, "id": 160416210, "level": 2}
+{"count": 3808, "name": "Geiger counter", "weight": 0.0, "id": 88033656, "level": 2}
+{"count": 1031, "name": "Emergency procedure", "weight": 0.0, "id": 2777943205, "level": 2}
+{"count": 2975, "name": "Sodium iodide", "weight": 0.0, "id": 2776787092, "level": 2}
+{"count": 792, "name": "Counts per minute", "weight": 0.0, "id": 50440113, "level": 2}
+{"count": 667, "name": "Chlorine-36", "weight": 0.0, "id": 33942473, "level": 2}
+{"count": 856, "name": "Krypton-85", "weight": 0.0, "id": 59366349, "level": 2}
+{"count": 3378, "name": "Lithium fluoride", "weight": 0.0, "id": 2778563736, "level": 2}
+{"count": 4008, "name": "Atomic nucleus", "weight": 0.0, "id": 127774322, "level": 2}
+{"count": 13232, "name": "Nuclide", "weight": 0.0, "id": 177571023, "level": 2}
+{"count": 750, "name": "BOAR", "weight": 0.0, "id": 2777359717, "level": 2}
+{"count": 1094, "name": "Special nuclear material", "weight": 0.0, "id": 2780200219, "level": 2}
+{"count": 2763, "name": "Chemical element", "weight": 0.0, "id": 168512113, "level": 2}
+{"count": 1103, "name": "Cold fusion", "weight": 0.0, "id": 137418554, "level": 2}
+{"count": 2008, "name": "Nuclear emulsion", "weight": 0.0, "id": 2777505555, "level": 2}
+{"count": 835, "name": "Isotopes of molybdenum", "weight": 0.0, "id": 94245067, "level": 2}
+{"count": 496, "name": "Isotopes of promethium", "weight": 0.0, "id": 160666168, "level": 2}
+{"count": 657, "name": "Cornell Electron Storage Ring", "weight": 0.0, "id": 2779673619, "level": 2}
+{"count": 1667, "name": "Cloud chamber", "weight": 0.0, "id": 108036090, "level": 2}
+{"count": 750, "name": "Radioecology", "weight": 0.0, "id": 204431084, "level": 2}
+{"count": 1492, "name": "Thorotrast", "weight": 0.0, "id": 2780353417, "level": 2}
+{"count": 2874, "name": "Pertechnetate", "weight": 0.0, "id": 2778136224, "level": 2}
+{"count": 2385, "name": "Women in science", "weight": 0.0, "id": 2776762731, "level": 2}
+{"count": 7990, "name": "Curie", "weight": 0.0, "id": 26325048, "level": 2}
+{"count": 2863, "name": "Bubble chamber", "weight": 0.0, "id": 35785392, "level": 2}
+{"count": 1530, "name": "Strategic Defense Initiative", "weight": 0.0, "id": 4639250, "level": 2}
+{"count": 4159, "name": "Warhead", "weight": 0.0, "id": 149617267, "level": 2}
+{"count": 1092, "name": "Astron", "weight": 0.0, "id": 2776611462, "level": 2}
+{"count": 918, "name": "Barium fluoride", "weight": 0.0, "id": 2781364294, "level": 2}
+{"count": 1119, "name": "Inherent safety", "weight": 0.0, "id": 64695881, "level": 2}
+{"count": 7044, "name": "Atomic energy", "weight": 0.0, "id": 2779740123, "level": 2}
+{"count": 1209, "name": "Environmental radioactivity", "weight": 0.0, "id": 53362150, "level": 2}
+{"count": 5800, "name": "Oak Ridge National Laboratory", "weight": 0.0, "id": 2775907726, "level": 2}
+{"count": 542, "name": "Transactinide element", "weight": 0.0, "id": 12051729, "level": 2}
+{"count": 720, "name": "Nimrod", "weight": 0.0, "id": 2778783057, "level": 2}
+{"count": 2312, "name": "Nuclear material", "weight": 0.0, "id": 2776893251, "level": 2}
+{"count": 239, "name": "Medical geology", "weight": 0.0, "id": 2778839144, "level": 2}
+{"count": 974, "name": "Demining", "weight": 0.0, "id": 2776498708, "level": 2}
+{"count": 356, "name": "Prototype Fast Breeder Reactor", "weight": 0.0, "id": 2777662094, "level": 2}
+{"count": 1233, "name": "Ground zero", "weight": 0.0, "id": 2780518707, "level": 2}
+{"count": 900, "name": "Half time", "weight": 0.0, "id": 176574934, "level": 2}
+{"count": 1584, "name": "Decay chain", "weight": 0.0, "id": 35826630, "level": 2}
+{"count": 1198, "name": "Idaho National Laboratory", "weight": 0.0, "id": 2781208552, "level": 2}
+{"count": 2149, "name": "CUORE", "weight": 0.0, "id": 2778908705, "level": 2}
+{"count": 185, "name": "Dual-use technology", "weight": 0.0, "id": 2777257180, "level": 2}
+{"count": 2801, "name": "Van de Graaff generator", "weight": 0.0, "id": 189778682, "level": 2}
+{"count": 2601, "name": "ASTRA", "weight": 0.0, "id": 2776902872, "level": 2}
+{"count": 125, "name": "Iron fluoride", "weight": 0.0, "id": 2779507308, "level": 2}
+{"count": 606, "name": "S-factor", "weight": 0.0, "id": 2778965516, "level": 2}
+{"count": 148, "name": "Lanthanum hydroxide", "weight": 0.0, "id": 2781346475, "level": 2}
+{"count": 141, "name": "Insertion time", "weight": 0.0, "id": 2777355271, "level": 2}
+{"count": 654, "name": "Becquerel", "weight": 0.0, "id": 35844672, "level": 2}
+{"count": 3678, "name": "BELLA", "weight": 0.0, "id": 2779204790, "level": 2}
+{"count": 785, "name": "Recovery procedure", "weight": 0.0, "id": 2778589938, "level": 2}
+{"count": 2660, "name": "Stockpile", "weight": 0.0, "id": 2781425195, "level": 2}
+{"count": 345, "name": "Technophobia", "weight": 0.0, "id": 2778920184, "level": 2}
+{"count": 3459, "name": "Glovebox", "weight": 0.0, "id": 5379308, "level": 2}
+{"count": 1359, "name": "AGATA", "weight": 0.0, "id": 2780421547, "level": 2}
+{"count": 1028, "name": "Mature technology", "weight": 0.0, "id": 2781019351, "level": 2}
+{"count": 181, "name": "Moorella thermoacetica", "weight": 0.0, "id": 2779887689, "level": 2}
+{"count": 712, "name": "BaBar experiment", "weight": 0.0, "id": 2777979353, "level": 2}
+{"count": 244, "name": "Lithia", "weight": 0.0, "id": 2777701108, "level": 2}
+{"count": 172, "name": "Mellitic acid", "weight": 0.0, "id": 2778694841, "level": 2}
+{"count": 2118, "name": "Iron group", "weight": 0.0, "id": 107031643, "level": 2}
+{"count": 476, "name": "Superdeformation", "weight": 0.0, "id": 2775860635, "level": 2}
+{"count": 68, "name": "Project Vela", "weight": 0.0, "id": 2779041732, "level": 2}
+{"count": 54, "name": "Hyperdeformation", "weight": 0.0, "id": 2776865908, "level": 2}
+{"count": 103, "name": "Shelter in place", "weight": 0.0, "id": 2780290438, "level": 2}
+{"count": 305, "name": "Autoradiograph", "weight": 0.0, "id": 2780280314, "level": 2}
+{"count": 425, "name": "Isotone", "weight": 0.0, "id": 10562378, "level": 2}
+{"count": 235, "name": "Nuclear detection", "weight": 0.0, "id": 2778506922, "level": 2}
+{"count": 109, "name": "Gadolinite", "weight": 0.0, "id": 2781036526, "level": 2}
+{"count": 225, "name": "NOREM", "weight": 0.0, "id": 2776916390, "level": 2}
+{"count": 206, "name": "Nuclear fallout", "weight": 0.0, "id": 2780383739, "level": 2}
+{"count": 587, "name": "Geiger\u2013M\u00fcller tube", "weight": 0.0, "id": 49304484, "level": 2}
+{"count": 383, "name": "Mass\u2013energy equivalence", "weight": 0.0, "id": 185321693, "level": 2}
+{"count": 881, "name": "New START", "weight": 0.0, "id": 2780121217, "level": 2}
+{"count": 250, "name": "Dynamitron", "weight": 0.0, "id": 103359713, "level": 2}
+{"count": 83, "name": "Radioanalytical chemistry", "weight": 0.0, "id": 154179222, "level": 2}
+{"count": 371, "name": "Age of the Earth", "weight": 0.0, "id": 2780721252, "level": 2}
+{"count": 167, "name": "Camphoric acid", "weight": 0.0, "id": 2780585530, "level": 2}
+{"count": 11, "name": "Samarium (153Sm) lexidronam", "weight": 0.0, "id": 2780055624, "level": 2}
+{"count": 313, "name": "Little Boy", "weight": 0.0, "id": 2781459956, "level": 2}
+{"count": 970, "name": "Counterforce", "weight": 0.0, "id": 201769648, "level": 2}
+{"count": 135, "name": "China Experimental Fast Reactor", "weight": 0.0, "id": 2779583551, "level": 2}
+{"count": 63, "name": "Project Chariot", "weight": 0.0, "id": 2781146142, "level": 2}
+{"count": 94, "name": "EBOR", "weight": 0.0, "id": 2780046703, "level": 2}
+{"count": 74, "name": "Traveling wave reactor", "weight": 0.0, "id": 2776088017, "level": 2}
+{"count": 22, "name": "Kramers' law", "weight": 0.0, "id": 185623440, "level": 2}
+{"count": 139, "name": "Symbol (chemistry)", "weight": 0.0, "id": 194685804, "level": 2}
+{"count": 111, "name": "Nuclear chain reaction", "weight": 0.0, "id": 143635350, "level": 2}
+{"count": 368, "name": "Firestorm", "weight": 0.0, "id": 62647757, "level": 2}

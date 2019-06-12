@@ -1,0 +1,177 @@
+{"count": 50356, "name": "Genomics", "weight": 10.0, "id": 189206191, "level": 4}
+{"count": 22359, "name": "Whole genome sequencing", "weight": 4.0, "id": 24432333, "level": 4}
+{"count": 25604, "name": "Human genome", "weight": 5.0, "id": 197077220, "level": 4}
+{"count": 6182, "name": "Genomic organization", "weight": 1.0, "id": 22322919, "level": 4}
+{"count": 19010, "name": "Transposable element", "weight": 3.0, "id": 4918238, "level": 4}
+{"count": 5302, "name": "Repeated sequence", "weight": 1.0, "id": 169802333, "level": 4}
+{"count": 12294, "name": "Comparative genomics", "weight": 2.0, "id": 105176652, "level": 4}
+{"count": 8361, "name": "Horizontal gene transfer", "weight": 1.0, "id": 92938381, "level": 4}
+{"count": 5231, "name": "Chloroplast DNA", "weight": 1.0, "id": 48050816, "level": 4}
+{"count": 7693, "name": "Genome evolution", "weight": 1.0, "id": 174600577, "level": 4}
+{"count": 7744, "name": "Pseudogene", "weight": 1.0, "id": 34957205, "level": 4}
+{"count": 2905, "name": "Gene prediction", "weight": 0.0, "id": 105565629, "level": 4}
+{"count": 6193, "name": "Genome size", "weight": 1.0, "id": 61271108, "level": 4}
+{"count": 3713, "name": "Bacterial artificial chromosome", "weight": 0.0, "id": 182901222, "level": 4}
+{"count": 8409, "name": "Genome project", "weight": 1.0, "id": 89566754, "level": 4}
+{"count": 5482, "name": "Inverted repeat", "weight": 1.0, "id": 51603236, "level": 4}
+{"count": 3902, "name": "Direct repeat", "weight": 0.0, "id": 29511175, "level": 4}
+{"count": 4760, "name": "Bacterial genome size", "weight": 0.0, "id": 3742359, "level": 4}
+{"count": 6711, "name": "Retrotransposon", "weight": 1.0, "id": 7029365, "level": 4}
+{"count": 3279, "name": "GC-content", "weight": 0.0, "id": 42251679, "level": 4}
+{"count": 4149, "name": "Synteny", "weight": 0.0, "id": 53702515, "level": 4}
+{"count": 5858, "name": "Contig", "weight": 1.0, "id": 59582021, "level": 4}
+{"count": 421, "name": "Podoviridae", "weight": 0.0, "id": 2780128593, "level": 4}
+{"count": 2488, "name": "Shotgun sequencing", "weight": 0.0, "id": 101985253, "level": 4}
+{"count": 7935, "name": "GenBank", "weight": 1.0, "id": 79029880, "level": 4}
+{"count": 660, "name": "Myoviridae", "weight": 0.0, "id": 2780984408, "level": 4}
+{"count": 690, "name": "Siphoviridae", "weight": 0.0, "id": 2778303719, "level": 4}
+{"count": 1377, "name": "Primer walking", "weight": 0.0, "id": 205644761, "level": 4}
+{"count": 1663, "name": "Phylogenomics", "weight": 0.0, "id": 70343354, "level": 4}
+{"count": 4641, "name": "Prophage", "weight": 0.0, "id": 73445445, "level": 4}
+{"count": 6758, "name": "Nuclear gene", "weight": 1.0, "id": 20750100, "level": 4}
+{"count": 2582, "name": "Reassortment", "weight": 0.0, "id": 16154277, "level": 4}
+{"count": 4927, "name": "Sequence assembly", "weight": 0.0, "id": 18949551, "level": 4}
+{"count": 1029, "name": "Segmental duplication", "weight": 0.0, "id": 57808653, "level": 4}
+{"count": 3879, "name": "Indel", "weight": 0.0, "id": 119054055, "level": 4}
+{"count": 2063, "name": "Aegilops", "weight": 0.0, "id": 2776829050, "level": 4}
+{"count": 590, "name": "Buchnera", "weight": 0.0, "id": 2778182832, "level": 4}
+{"count": 80, "name": "Mouse Genome Database", "weight": 0.0, "id": 2780317649, "level": 4}
+{"count": 1778, "name": "Triticeae", "weight": 0.0, "id": 2778064478, "level": 4}
+{"count": 178, "name": "Microviridae", "weight": 0.0, "id": 2778686079, "level": 4}
+{"count": 278, "name": "Codon Adaptation Index", "weight": 0.0, "id": 2780039906, "level": 4}
+{"count": 1235, "name": "Population genomics", "weight": 0.0, "id": 2779040068, "level": 4}
+{"count": 15, "name": "Inoviridae", "weight": 0.0, "id": 2779056743, "level": 4}
+{"count": 135, "name": "Nodaviridae", "weight": 0.0, "id": 2778701811, "level": 4}
+{"count": 1781, "name": "Genome engineering", "weight": 0.0, "id": 145290725, "level": 4}
+{"count": 10896, "name": "ENCODE", "weight": 2.0, "id": 66746571, "level": 4}
+{"count": 974, "name": "Aegilops tauschii", "weight": 0.0, "id": 2778083003, "level": 4}
+{"count": 534, "name": "Polydnavirus", "weight": 0.0, "id": 2780480693, "level": 4}
+{"count": 5643, "name": "Reference genome", "weight": 1.0, "id": 192953774, "level": 4}
+{"count": 585, "name": "Brachypodium", "weight": 0.0, "id": 2777749068, "level": 4}
+{"count": 1269, "name": "Noncoding DNA", "weight": 0.0, "id": 64554109, "level": 4}
+{"count": 204, "name": "Drosophila yakuba", "weight": 0.0, "id": 2776802416, "level": 4}
+{"count": 734, "name": "Genomic island", "weight": 0.0, "id": 2780258820, "level": 4}
+{"count": 224, "name": "Phycodnaviridae", "weight": 0.0, "id": 2779791336, "level": 4}
+{"count": 913, "name": "Brachypodium distachyon", "weight": 0.0, "id": 2777911459, "level": 4}
+{"count": 466, "name": "Proteogenomics", "weight": 0.0, "id": 145741570, "level": 4}
+{"count": 310, "name": "Orthoreovirus", "weight": 0.0, "id": 2779068005, "level": 4}
+{"count": 396, "name": "Bovine genome", "weight": 0.0, "id": 2776473694, "level": 4}
+{"count": 570, "name": "Subfunctionalization", "weight": 0.0, "id": 2779922708, "level": 4}
+{"count": 337, "name": "Mimivirus", "weight": 0.0, "id": 2779415702, "level": 4}
+{"count": 256, "name": "Caulimoviridae", "weight": 0.0, "id": 2776115074, "level": 4}
+{"count": 161, "name": "Phytoreovirus", "weight": 0.0, "id": 2776378675, "level": 4}
+{"count": 478, "name": "Musa balbisiana", "weight": 0.0, "id": 2777593900, "level": 4}
+{"count": 221, "name": "Rfam", "weight": 0.0, "id": 8227967, "level": 4}
+{"count": 245, "name": "Caudovirales", "weight": 0.0, "id": 2776691746, "level": 4}
+{"count": 760, "name": "ORFS", "weight": 0.0, "id": 2780530800, "level": 4}
+{"count": 361, "name": "Uniparental inheritance", "weight": 0.0, "id": 184169590, "level": 4}
+{"count": 211, "name": "Domain (biology)", "weight": 0.0, "id": 52591245, "level": 4}
+{"count": 187, "name": "Fijivirus", "weight": 0.0, "id": 2776610264, "level": 4}
+{"count": 298, "name": "Banana streak virus", "weight": 0.0, "id": 2779814550, "level": 4}
+{"count": 237, "name": "Triticum urartu", "weight": 0.0, "id": 2778399368, "level": 4}
+{"count": 81, "name": "Sequence Read Archive", "weight": 0.0, "id": 21856720, "level": 4}
+{"count": 160, "name": "Neanderthal genome project", "weight": 0.0, "id": 109274645, "level": 4}
+{"count": 108, "name": "Nicotiana tomentosiformis", "weight": 0.0, "id": 2776418081, "level": 4}
+{"count": 157, "name": "Gene redundancy", "weight": 0.0, "id": 2779017525, "level": 4}
+{"count": 143, "name": "Picobirnavirus", "weight": 0.0, "id": 2776257294, "level": 4}
+{"count": 187, "name": "Nucleomorph", "weight": 0.0, "id": 2777997293, "level": 4}
+{"count": 110, "name": "Tymoviridae", "weight": 0.0, "id": 2778983229, "level": 4}
+{"count": 245, "name": "Orphan gene", "weight": 0.0, "id": 73437507, "level": 4}
+{"count": 281, "name": "Viral metagenomics", "weight": 0.0, "id": 2778886985, "level": 4}
+{"count": 588, "name": "Phenome", "weight": 0.0, "id": 7952369, "level": 4}
+{"count": 526, "name": "Minimal genome", "weight": 0.0, "id": 42480944, "level": 4}
+{"count": 385, "name": "Genomic signature", "weight": 0.0, "id": 2777192749, "level": 4}
+{"count": 185, "name": "Niche adaptation", "weight": 0.0, "id": 2777253238, "level": 4}
+{"count": 750, "name": "Ensembl", "weight": 0.0, "id": 141674004, "level": 4}
+{"count": 187, "name": "Ostreococcus tauri", "weight": 0.0, "id": 2776145150, "level": 4}
+{"count": 209, "name": "Ostreococcus", "weight": 0.0, "id": 2775888974, "level": 4}
+{"count": 484, "name": "Transplastomic plant", "weight": 0.0, "id": 81804095, "level": 4}
+{"count": 1069, "name": "Copy number analysis", "weight": 0.0, "id": 166608930, "level": 4}
+{"count": 148, "name": "Cypovirus", "weight": 0.0, "id": 2777178756, "level": 4}
+{"count": 656, "name": "Fosmid", "weight": 0.0, "id": 127196793, "level": 4}
+{"count": 160, "name": "Avulavirus", "weight": 0.0, "id": 2778190331, "level": 4}
+{"count": 79, "name": "Pelagibacter ubique", "weight": 0.0, "id": 2777879760, "level": 4}
+{"count": 134, "name": "DNase-Seq", "weight": 0.0, "id": 107801524, "level": 4}
+{"count": 139, "name": "Paleopolyploidy", "weight": 0.0, "id": 207733477, "level": 4}
+{"count": 168, "name": "Z curve", "weight": 0.0, "id": 46280910, "level": 4}
+{"count": 62, "name": "Coccolithovirus", "weight": 0.0, "id": 2776618319, "level": 4}
+{"count": 21, "name": "Uptake signal sequence", "weight": 0.0, "id": 2777476891, "level": 4}
+{"count": 74, "name": "Fuselloviridae", "weight": 0.0, "id": 2778307284, "level": 4}
+{"count": 113, "name": "Wound tumor virus", "weight": 0.0, "id": 2780519359, "level": 4}
+{"count": 138, "name": "Amphimedon queenslandica", "weight": 0.0, "id": 2778243980, "level": 4}
+{"count": 645, "name": "Three-domain system", "weight": 0.0, "id": 188880781, "level": 4}
+{"count": 180, "name": "Denisovan", "weight": 0.0, "id": 2781366069, "level": 4}
+{"count": 180, "name": "Selaginella moellendorffii", "weight": 0.0, "id": 2777602501, "level": 4}
+{"count": 163, "name": "GC skew", "weight": 0.0, "id": 181802890, "level": 4}
+{"count": 362, "name": "Tetraodon", "weight": 0.0, "id": 2777610523, "level": 4}
+{"count": 243, "name": "ORFeome", "weight": 0.0, "id": 70841334, "level": 4}
+{"count": 102, "name": "Arachis duranensis", "weight": 0.0, "id": 2778308125, "level": 4}
+{"count": 121, "name": "Primary nutritional groups", "weight": 0.0, "id": 117057483, "level": 4}
+{"count": 160, "name": "Phylogenetic profiling", "weight": 0.0, "id": 2777002700, "level": 4}
+{"count": 50, "name": "Ascoviridae", "weight": 0.0, "id": 2779363496, "level": 4}
+{"count": 111, "name": "Picornavirales", "weight": 0.0, "id": 2780273322, "level": 4}
+{"count": 84, "name": "Arabidopsis arenosa", "weight": 0.0, "id": 2777857044, "level": 4}
+{"count": 66, "name": "Blattabacterium", "weight": 0.0, "id": 2780723751, "level": 4}
+{"count": 105, "name": "Conserved signature indels", "weight": 0.0, "id": 2780286368, "level": 4}
+{"count": 682, "name": "Adenovirus genome", "weight": 0.0, "id": 145085861, "level": 4}
+{"count": 214, "name": "Paleovirology", "weight": 0.0, "id": 22368276, "level": 4}
+{"count": 83, "name": "Natural genetic engineering", "weight": 0.0, "id": 2780300294, "level": 4}
+{"count": 41, "name": "Vesper bat", "weight": 0.0, "id": 2779003890, "level": 4}
+{"count": 82, "name": "Oxytricha trifallax", "weight": 0.0, "id": 2776303810, "level": 4}
+{"count": 163, "name": "Anelloviridae", "weight": 0.0, "id": 2776192869, "level": 4}
+{"count": 10, "name": "CG suppression", "weight": 0.0, "id": 2777136734, "level": 4}
+{"count": 94, "name": "Pylaiella", "weight": 0.0, "id": 2781369973, "level": 4}
+{"count": 70, "name": "Chromadorea", "weight": 0.0, "id": 2776597034, "level": 4}
+{"count": 60, "name": "Chilodonella uncinata", "weight": 0.0, "id": 2780645681, "level": 4}
+{"count": 76, "name": "Nudivirus", "weight": 0.0, "id": 2776765271, "level": 4}
+{"count": 27, "name": "Cycas taitungensis", "weight": 0.0, "id": 2779884857, "level": 4}
+{"count": 43, "name": "Reclinomonas", "weight": 0.0, "id": 2777187568, "level": 4}
+{"count": 44, "name": "Phalaenopsis equestris", "weight": 0.0, "id": 2780616528, "level": 4}
+{"count": 71, "name": "Variome", "weight": 0.0, "id": 93252950, "level": 4}
+{"count": 173, "name": "Saccharomycotina", "weight": 0.0, "id": 2779581025, "level": 4}
+{"count": 218, "name": "Blast2GO", "weight": 0.0, "id": 2777586271, "level": 4}
+{"count": 93, "name": "PlasmoDB", "weight": 0.0, "id": 88683482, "level": 4}
+{"count": 55, "name": "Nuclear dimorphism", "weight": 0.0, "id": 2776890024, "level": 4}
+{"count": 22, "name": "Gossypium australe", "weight": 0.0, "id": 2778589234, "level": 4}
+{"count": 119, "name": "Horse genome", "weight": 0.0, "id": 2777730331, "level": 4}
+{"count": 22, "name": "Melainabacteria", "weight": 0.0, "id": 2776371848, "level": 4}
+{"count": 110, "name": "EcoCyc", "weight": 0.0, "id": 176916602, "level": 4}
+{"count": 30, "name": "Megabat", "weight": 0.0, "id": 2777962484, "level": 4}
+{"count": 115, "name": "WormBase", "weight": 0.0, "id": 106437936, "level": 4}
+{"count": 71, "name": "Epifagus", "weight": 0.0, "id": 2776585020, "level": 4}
+{"count": 138, "name": "European Nucleotide Archive", "weight": 0.0, "id": 29635780, "level": 4}
+{"count": 65, "name": "Poribacteria", "weight": 0.0, "id": 2781463934, "level": 4}
+{"count": 68, "name": "Otophora", "weight": 0.0, "id": 2775965518, "level": 4}
+{"count": 11, "name": "Phred quality score", "weight": 0.0, "id": 2780220143, "level": 4}
+{"count": 36, "name": "Corynebacterium efficiens", "weight": 0.0, "id": 2778657764, "level": 4}
+{"count": 32, "name": "DUF1220", "weight": 0.0, "id": 2777075141, "level": 4}
+{"count": 27, "name": "Indonesian coelacanth", "weight": 0.0, "id": 2778794492, "level": 4}
+{"count": 24, "name": "Sycon ciliatum", "weight": 0.0, "id": 2780092747, "level": 4}
+{"count": 54, "name": "International Knockout Mouse Consortium", "weight": 0.0, "id": 204337752, "level": 4}
+{"count": 32, "name": "Bocaparvovirus", "weight": 0.0, "id": 2779831637, "level": 4}
+{"count": 15, "name": "Adineta ricciae", "weight": 0.0, "id": 2779876944, "level": 4}
+{"count": 232, "name": "Gene orders", "weight": 0.0, "id": 2779821365, "level": 4}
+{"count": 22, "name": "crAssphage", "weight": 0.0, "id": 2780604217, "level": 4}
+{"count": 28, "name": "Lokiarchaeota", "weight": 0.0, "id": 2780271675, "level": 4}
+{"count": 39, "name": "Lachancea kluyveri", "weight": 0.0, "id": 2779652419, "level": 4}
+{"count": 18, "name": "Tymovirales", "weight": 0.0, "id": 2777895587, "level": 4}
+{"count": 19, "name": "Biological dark matter", "weight": 0.0, "id": 2781029699, "level": 4}
+{"count": 21, "name": "Deferribacteraceae", "weight": 0.0, "id": 2778590665, "level": 4}
+{"count": 70, "name": "Western clawed frog", "weight": 0.0, "id": 2780554498, "level": 4}
+{"count": 21, "name": "Xenbase", "weight": 0.0, "id": 96127413, "level": 4}
+{"count": 16, "name": "Colpodium", "weight": 0.0, "id": 2777142117, "level": 4}
+{"count": 21, "name": "Desulforudis", "weight": 0.0, "id": 2777924464, "level": 4}
+{"count": 15, "name": "Spironucleus salmonicida", "weight": 0.0, "id": 2777611438, "level": 4}
+{"count": 34, "name": "Jakobid", "weight": 0.0, "id": 2779013118, "level": 4}
+{"count": 44, "name": "Tandemly arrayed genes", "weight": 0.0, "id": 2780695713, "level": 4}
+{"count": 8, "name": "Cot filtration", "weight": 0.0, "id": 2776973491, "level": 4}
+{"count": 137, "name": "Guillardia", "weight": 0.0, "id": 2780787506, "level": 4}
+{"count": 10, "name": "Human mitochondrial molecular clock", "weight": 0.0, "id": 84804214, "level": 4}
+{"count": 38, "name": "Thermofilum", "weight": 0.0, "id": 2777880044, "level": 4}
+{"count": 9, "name": "Ambidensovirus", "weight": 0.0, "id": 2781136908, "level": 4}
+{"count": 16, "name": "Jumping library", "weight": 0.0, "id": 2776555706, "level": 4}
+{"count": 7, "name": "End-sequence profiling", "weight": 0.0, "id": 2779679156, "level": 4}
+{"count": 17, "name": "Croceibacter", "weight": 0.0, "id": 2776097802, "level": 4}
+{"count": 18, "name": "Co-option", "weight": 0.0, "id": 147356732, "level": 4}
+{"count": 122, "name": "Non-cellular life", "weight": 0.0, "id": 92178133, "level": 4}
+{"count": 21, "name": "Rudivirus", "weight": 0.0, "id": 2780783079, "level": 4}

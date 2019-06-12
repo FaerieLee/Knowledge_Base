@@ -1,0 +1,5 @@
+{"count": 1801, "name": "Order picking", "weight": 10.0, "id": 2779454638, "level": 3}
+{"count": 105, "name": "Bonded warehouse", "weight": 0.0, "id": 161313399, "level": 3}
+{"count": 204, "name": "Warehouse receipt", "weight": 1.0, "id": 2776961342, "level": 3}
+{"count": 18, "name": "Spatial ETL", "weight": 0.0, "id": 2780300218, "level": 3}
+{"count": 22, "name": "Pick and pack", "weight": 0.0, "id": 2776129165, "level": 3}

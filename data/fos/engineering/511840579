@@ -1,0 +1,45 @@
+{"count": 14632, "name": "Heat engine", "weight": 2.0, "id": 57198161, "level": 3}
+{"count": 20582, "name": "Compression ratio", "weight": 3.0, "id": 25797200, "level": 3}
+{"count": 6411, "name": "Spark-ignition engine", "weight": 1.0, "id": 2777703250, "level": 3}
+{"count": 17278, "name": "Diesel exhaust", "weight": 3.0, "id": 3432839, "level": 3}
+{"count": 54027, "name": "Fuel injection", "weight": 10.0, "id": 9526370, "level": 3}
+{"count": 7030, "name": "Air\u2013fuel ratio", "weight": 1.0, "id": 2775956859, "level": 3}
+{"count": 31821, "name": "Exhaust gas recirculation", "weight": 5.0, "id": 103206924, "level": 3}
+{"count": 17833, "name": "Petrol engine", "weight": 3.0, "id": 39573554, "level": 3}
+{"count": 22165, "name": "Homogeneous charge compression ignition", "weight": 4.0, "id": 96949565, "level": 3}
+{"count": 9037, "name": "Catalytic converter", "weight": 1.0, "id": 2778727938, "level": 3}
+{"count": 24891, "name": "Turbocharger", "weight": 4.0, "id": 21541133, "level": 3}
+{"count": 10831, "name": "Brake specific fuel consumption", "weight": 2.0, "id": 73081478, "level": 3}
+{"count": 7396, "name": "Octane rating", "weight": 1.0, "id": 163721339, "level": 3}
+{"count": 27933, "name": "Crankshaft", "weight": 5.0, "id": 2776981777, "level": 3}
+{"count": 25307, "name": "Cylinder head", "weight": 4.0, "id": 183562833, "level": 3}
+{"count": 10984, "name": "Cylinder block", "weight": 2.0, "id": 174262327, "level": 3}
+{"count": 18389, "name": "Camshaft", "weight": 3.0, "id": 138027316, "level": 3}
+{"count": 6915, "name": "Engine efficiency", "weight": 1.0, "id": 163011139, "level": 3}
+{"count": 639, "name": "Otto cycle", "weight": 0.0, "id": 130207615, "level": 3}
+{"count": 12606, "name": "Ignition timing", "weight": 2.0, "id": 96532641, "level": 3}
+{"count": 11008, "name": "Crankcase", "weight": 2.0, "id": 134640818, "level": 3}
+{"count": 10504, "name": "Engine control unit", "weight": 1.0, "id": 47659340, "level": 3}
+{"count": 13102, "name": "Valve timing", "weight": 2.0, "id": 80380853, "level": 3}
+{"count": 14057, "name": "Inlet manifold", "weight": 2.0, "id": 3531765, "level": 3}
+{"count": 3994, "name": "Intercooler", "weight": 0.0, "id": 158139659, "level": 3}
+{"count": 10860, "name": "Hydrogen fuel enhancement", "weight": 2.0, "id": 170528557, "level": 3}
+{"count": 9216, "name": "Carburetor", "weight": 1.0, "id": 2777208044, "level": 3}
+{"count": 3426, "name": "Hybrid drive", "weight": 0.0, "id": 2780270850, "level": 3}
+{"count": 2675, "name": "Idle speed", "weight": 0.0, "id": 2780635424, "level": 3}
+{"count": 6844, "name": "Supercharger", "weight": 1.0, "id": 2777172038, "level": 3}
+{"count": 12105, "name": "Vapor lock", "weight": 2.0, "id": 42020924, "level": 3}
+{"count": 2490, "name": "Mean effective pressure", "weight": 0.0, "id": 128143373, "level": 3}
+{"count": 438, "name": "Otto engine", "weight": 0.0, "id": 2778677453, "level": 3}
+{"count": 15339, "name": "Engine coolant temperature sensor", "weight": 2.0, "id": 159725792, "level": 3}
+{"count": 513, "name": "Indirect injection", "weight": 0.0, "id": 2775927348, "level": 3}
+{"count": 233, "name": "E-diesel", "weight": 0.0, "id": 2778199400, "level": 3}
+{"count": 284, "name": "Wide open throttle", "weight": 0.0, "id": 2777048332, "level": 3}
+{"count": 4650, "name": "Fuel mass fraction", "weight": 0.0, "id": 70247577, "level": 3}
+{"count": 748, "name": "Air flow meter", "weight": 0.0, "id": 2779511240, "level": 3}
+{"count": 1106, "name": "Ring oiler", "weight": 0.0, "id": 82114994, "level": 3}
+{"count": 168, "name": "Stationary engine", "weight": 0.0, "id": 2781409727, "level": 3}
+{"count": 1190, "name": "Compound engine", "weight": 0.0, "id": 89905698, "level": 3}
+{"count": 47, "name": "Fuel management systems", "weight": 0.0, "id": 2779729286, "level": 3}
+{"count": 181, "name": "Air flow bench", "weight": 0.0, "id": 49639426, "level": 3}
+{"count": 252, "name": "Compression release", "weight": 0.0, "id": 2781158127, "level": 3}

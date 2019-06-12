@@ -1,0 +1,45 @@
+{"count": 4322, "name": "Cladocera", "weight": 10.0, "id": 2778208666, "level": 3}
+{"count": 900, "name": "Biomanipulation", "weight": 2.0, "id": 2777423067, "level": 3}
+{"count": 1214, "name": "Calanus finmarchicus", "weight": 2.0, "id": 2776258690, "level": 3}
+{"count": 1039, "name": "Acartia tonsa", "weight": 2.0, "id": 2781305811, "level": 3}
+{"count": 392, "name": "Continuous Plankton Recorder", "weight": 0.0, "id": 2776854206, "level": 3}
+{"count": 2031, "name": "Calanus", "weight": 4.0, "id": 2775941659, "level": 3}
+{"count": 645, "name": "Chaetognatha", "weight": 1.0, "id": 2779771341, "level": 3}
+{"count": 534, "name": "Gelatinous zooplankton", "weight": 1.0, "id": 2777807006, "level": 3}
+{"count": 353, "name": "Mysis relicta", "weight": 0.0, "id": 2779179946, "level": 3}
+{"count": 1194, "name": "Acartia", "weight": 2.0, "id": 2778043853, "level": 3}
+{"count": 391, "name": "Acartia clausi", "weight": 0.0, "id": 2776297789, "level": 3}
+{"count": 408, "name": "Keratella cochlearis", "weight": 0.0, "id": 2777945777, "level": 3}
+{"count": 576, "name": "Planktivore", "weight": 1.0, "id": 159463551, "level": 3}
+{"count": 242, "name": "Bythotrephes longimanus", "weight": 0.0, "id": 2779710914, "level": 3}
+{"count": 71, "name": "Acartia hudsonica", "weight": 0.0, "id": 2778764035, "level": 3}
+{"count": 139, "name": "Daphnia lumholtzi", "weight": 0.0, "id": 2778605082, "level": 3}
+{"count": 426, "name": "Meroplankton", "weight": 0.0, "id": 202733679, "level": 3}
+{"count": 142, "name": "Cercopagis pengoi", "weight": 0.0, "id": 2776426471, "level": 3}
+{"count": 231, "name": "Oikopleura dioica", "weight": 0.0, "id": 2781157540, "level": 3}
+{"count": 585, "name": "Mesocyclops", "weight": 1.0, "id": 2776071164, "level": 3}
+{"count": 1215, "name": "Moina", "weight": 2.0, "id": 2777489812, "level": 3}
+{"count": 673, "name": "Mnemiopsis", "weight": 1.0, "id": 2780404116, "level": 3}
+{"count": 532, "name": "Diaptomus", "weight": 1.0, "id": 2776455756, "level": 3}
+{"count": 252, "name": "Eudiaptomus", "weight": 0.0, "id": 2778600955, "level": 3}
+{"count": 190, "name": "Oikopleura", "weight": 0.0, "id": 2776682916, "level": 3}
+{"count": 145, "name": "Pleurobrachia pileus", "weight": 0.0, "id": 2779550299, "level": 3}
+{"count": 110, "name": "Thysanoessa raschii", "weight": 0.0, "id": 2780509107, "level": 3}
+{"count": 57, "name": "Limacina retroversa", "weight": 0.0, "id": 2777707759, "level": 3}
+{"count": 259, "name": "Oncaea", "weight": 0.0, "id": 2778044870, "level": 3}
+{"count": 375, "name": "Thermocyclops", "weight": 0.0, "id": 2778556242, "level": 3}
+{"count": 176, "name": "Nyctiphanes", "weight": 0.0, "id": 2780561167, "level": 3}
+{"count": 294, "name": "Acanthocyclops", "weight": 0.0, "id": 2777112204, "level": 3}
+{"count": 81, "name": "Pleurobrachia", "weight": 0.0, "id": 2776056023, "level": 3}
+{"count": 18, "name": "Chrysaora melanaster", "weight": 0.0, "id": 2779439109, "level": 3}
+{"count": 15, "name": "Ellobiopsis", "weight": 0.0, "id": 2777657607, "level": 3}
+{"count": 50, "name": "Oncaea venusta", "weight": 0.0, "id": 2780742471, "level": 3}
+{"count": 118, "name": "Tropocyclops", "weight": 0.0, "id": 2776650809, "level": 3}
+{"count": 86, "name": "Muggiaea atlantica", "weight": 0.0, "id": 2777066397, "level": 3}
+{"count": 106, "name": "Notodiaptomus", "weight": 0.0, "id": 2778252169, "level": 3}
+{"count": 59, "name": "Tomopteris", "weight": 0.0, "id": 2777567022, "level": 3}
+{"count": 22, "name": "Doliolida", "weight": 0.0, "id": 2779484176, "level": 3}
+{"count": 44, "name": "Hesperodiaptomus", "weight": 0.0, "id": 2776950292, "level": 3}
+{"count": 175, "name": "Arctodiaptomus", "weight": 0.0, "id": 2780338184, "level": 3}
+{"count": 105, "name": "Rotaria", "weight": 0.0, "id": 2776948538, "level": 3}
+{"count": 48, "name": "Skistodiaptomus", "weight": 0.0, "id": 2778240337, "level": 3}

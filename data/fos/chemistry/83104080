@@ -1,0 +1,15 @@
+{"count": 3966, "name": "Ramjet", "weight": 4.0, "id": 116575374, "level": 4}
+{"count": 3695, "name": "Staged combustion", "weight": 4.0, "id": 184464539, "level": 4}
+{"count": 8549, "name": "Gas burner", "weight": 10.0, "id": 2776547972, "level": 4}
+{"count": 5180, "name": "Scramjet", "weight": 6.0, "id": 56278489, "level": 4}
+{"count": 362, "name": "Micro-combustion", "weight": 0.0, "id": 2778360187, "level": 4}
+{"count": 1224, "name": "Flameout", "weight": 1.0, "id": 6662132, "level": 4}
+{"count": 475, "name": "Wobbe index", "weight": 0.0, "id": 47333565, "level": 4}
+{"count": 261, "name": "Tangential firing", "weight": 0.0, "id": 2780028338, "level": 4}
+{"count": 257, "name": "Laminar flamelet model", "weight": 0.0, "id": 2777354371, "level": 4}
+{"count": 2129, "name": "Oil burner", "weight": 2.0, "id": 2776274649, "level": 4}
+{"count": 122, "name": "Package boiler", "weight": 0.0, "id": 2776378362, "level": 4}
+{"count": 387, "name": "Pilot light", "weight": 0.0, "id": 2775880222, "level": 4}
+{"count": 46, "name": "Flame rectification", "weight": 0.0, "id": 2777089282, "level": 4}
+{"count": 226, "name": "Oxidizing and reducing flames", "weight": 0.0, "id": 205531651, "level": 4}
+{"count": 2657, "name": "Meker-Fisher burner", "weight": 3.0, "id": 72080964, "level": 4}

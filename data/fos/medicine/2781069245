@@ -1,0 +1,42 @@
+{"count": 48239, "name": "Mycobacterium tuberculosis", "weight": 10.0, "id": 2777975735, "level": 3}
+{"count": 37141, "name": "Sputum", "weight": 7.0, "id": 2776301714, "level": 3}
+{"count": 23326, "name": "Streptomycin", "weight": 4.0, "id": 2775843808, "level": 3}
+{"count": 19563, "name": "Mycobacterium", "weight": 4.0, "id": 2780374374, "level": 3}
+{"count": 16500, "name": "Isoniazid", "weight": 3.0, "id": 2776967927, "level": 3}
+{"count": 14848, "name": "Rifampicin", "weight": 3.0, "id": 2778607973, "level": 3}
+{"count": 19755, "name": "Tuberculin", "weight": 4.0, "id": 2776247216, "level": 3}
+{"count": 11176, "name": "Tubercle", "weight": 2.0, "id": 162884822, "level": 3}
+{"count": 2721, "name": "Contact tracing", "weight": 0.0, "id": 113162765, "level": 3}
+{"count": 3779, "name": "Acid-fast", "weight": 0.0, "id": 101077360, "level": 3}
+{"count": 1955, "name": "Immune reconstitution inflammatory syndrome", "weight": 0.0, "id": 2779778235, "level": 3}
+{"count": 6618, "name": "Tuberculous meningitis", "weight": 1.0, "id": 2776896556, "level": 3}
+{"count": 1936, "name": "Cycloserine", "weight": 0.0, "id": 2781122200, "level": 3}
+{"count": 2812, "name": "Tuberculoma", "weight": 0.0, "id": 2778406374, "level": 3}
+{"count": 2653, "name": "Miliary tuberculosis", "weight": 0.0, "id": 2778329809, "level": 3}
+{"count": 1314, "name": "Lupus vulgaris", "weight": 0.0, "id": 2779591661, "level": 3}
+{"count": 936, "name": "Multi-drug-resistant tuberculosis", "weight": 0.0, "id": 2777025531, "level": 3}
+{"count": 775, "name": "Paradoxical reaction", "weight": 0.0, "id": 184138380, "level": 3}
+{"count": 1386, "name": "Tuberculous lymphadenitis", "weight": 0.0, "id": 2779747981, "level": 3}
+{"count": 321, "name": "History of tuberculosis", "weight": 0.0, "id": 2780499168, "level": 3}
+{"count": 551, "name": "Bedaquiline", "weight": 0.0, "id": 2780544761, "level": 3}
+{"count": 613, "name": "Tuberculous pericarditis", "weight": 0.0, "id": 2781269394, "level": 3}
+{"count": 382, "name": "Erythema induratum", "weight": 0.0, "id": 2777802469, "level": 3}
+{"count": 531, "name": "Plombage", "weight": 0.0, "id": 2776278343, "level": 3}
+{"count": 623, "name": "Caseous necrosis", "weight": 0.0, "id": 2781320305, "level": 3}
+{"count": 393, "name": "Cold abscess", "weight": 0.0, "id": 2778519546, "level": 3}
+{"count": 634, "name": "Urogenital tuberculosis", "weight": 0.0, "id": 2781223058, "level": 3}
+{"count": 561, "name": "Langhans giant cell", "weight": 0.0, "id": 70508372, "level": 3}
+{"count": 107, "name": "Pott disease", "weight": 0.0, "id": 2778963124, "level": 3}
+{"count": 129, "name": "Lichen scrofulosorum", "weight": 0.0, "id": 2776431302, "level": 3}
+{"count": 370, "name": "Phthisiology", "weight": 0.0, "id": 2777500505, "level": 3}
+{"count": 241, "name": "Tuberculosis management", "weight": 0.0, "id": 2777857489, "level": 3}
+{"count": 112, "name": "Papulonecrotic tuberculid", "weight": 0.0, "id": 2777265018, "level": 3}
+{"count": 30, "name": "DOTS (Directly Observed Treatment, Short-Course)", "weight": 0.0, "id": 2779043370, "level": 3}
+{"count": 26, "name": "Rasmussen's aneurysm", "weight": 0.0, "id": 2780671206, "level": 3}
+{"count": 78, "name": "Phlyctenular keratoconjunctivitis", "weight": 0.0, "id": 2779354354, "level": 3}
+{"count": 161, "name": "Promin", "weight": 0.0, "id": 2776319518, "level": 3}
+{"count": 21, "name": "Ghon focus", "weight": 0.0, "id": 2778216746, "level": 3}
+{"count": 238, "name": "Tuberculosis in India", "weight": 0.0, "id": 2780949770, "level": 3}
+{"count": 43, "name": "Gibbus deformity", "weight": 0.0, "id": 2776626855, "level": 3}
+{"count": 10, "name": "Genetics of tuberculosis", "weight": 0.0, "id": 2779900581, "level": 3}
+{"count": 8, "name": "Streptoduocin", "weight": 0.0, "id": 2780891994, "level": 3}

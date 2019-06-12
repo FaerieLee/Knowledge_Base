@@ -1,0 +1,19 @@
+{"count": 3369, "name": "Climate sensitivity", "weight": 3.0, "id": 54464151, "level": 4}
+{"count": 9518, "name": "Downscaling", "weight": 10.0, "id": 41156917, "level": 4}
+{"count": 2136, "name": "Cloud forcing", "weight": 2.0, "id": 114203453, "level": 4}
+{"count": 537, "name": "Atmospheric Model Intercomparison Project", "weight": 0.0, "id": 134790666, "level": 4}
+{"count": 885, "name": "Community Climate System Model", "weight": 0.0, "id": 96941661, "level": 4}
+{"count": 758, "name": "Biosphere model", "weight": 0.0, "id": 96650669, "level": 4}
+{"count": 118, "name": "Earth System Grid", "weight": 0.0, "id": 2777746431, "level": 4}
+{"count": 751, "name": "Representative Concentration Pathways", "weight": 0.0, "id": 2778760939, "level": 4}
+{"count": 143, "name": "Canadian Land Surface Scheme", "weight": 0.0, "id": 2779476281, "level": 4}
+{"count": 82, "name": "HadGEM1", "weight": 0.0, "id": 2781209829, "level": 4}
+{"count": 356, "name": "ECHAM", "weight": 0.0, "id": 2779994751, "level": 4}
+{"count": 115, "name": "Paleoclimate Modelling Intercomparison Project", "weight": 0.0, "id": 2780159183, "level": 4}
+{"count": 2347, "name": "Coupled model intercomparison project", "weight": 2.0, "id": 25022447, "level": 4}
+{"count": 323, "name": "Climateprediction.net", "weight": 0.0, "id": 204332947, "level": 4}
+{"count": 91, "name": "Pseudoproxy", "weight": 0.0, "id": 2778595383, "level": 4}
+{"count": 163, "name": "IPCC Fourth Assessment Report", "weight": 0.0, "id": 2778329665, "level": 4}
+{"count": 418, "name": "Special Report on Emissions Scenarios", "weight": 0.0, "id": 2780899440, "level": 4}
+{"count": 47, "name": "Climate ensemble", "weight": 0.0, "id": 2776097500, "level": 4}
+{"count": 43, "name": "Geophysical Fluid Dynamics Laboratory Coupled Model", "weight": 0.0, "id": 142054593, "level": 4}

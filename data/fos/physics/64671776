@@ -1,0 +1,13 @@
+{"count": 11020, "name": "Smart antenna", "weight": 10.0, "id": 143635782, "level": 4}
+{"count": 5588, "name": "Horn antenna", "weight": 5.0, "id": 182810700, "level": 4}
+{"count": 9734, "name": "Reconfigurable antenna", "weight": 8.0, "id": 131369404, "level": 4}
+{"count": 5191, "name": "Conformal antenna", "weight": 4.0, "id": 182697305, "level": 4}
+{"count": 3577, "name": "Cassegrain antenna", "weight": 3.0, "id": 183006278, "level": 4}
+{"count": 3441, "name": "Electrical length", "weight": 3.0, "id": 16193135, "level": 4}
+{"count": 2416, "name": "Feed horn", "weight": 2.0, "id": 37397216, "level": 4}
+{"count": 639, "name": "Sector antenna", "weight": 0.0, "id": 96625880, "level": 4}
+{"count": 76, "name": "Self-complementary antenna", "weight": 0.0, "id": 2776081846, "level": 4}
+{"count": 139, "name": "Rhombic antenna", "weight": 0.0, "id": 104673124, "level": 4}
+{"count": 54, "name": "Beverage antenna", "weight": 0.0, "id": 126556450, "level": 4}
+{"count": 9540, "name": "Reflective array antenna", "weight": 8.0, "id": 169466946, "level": 4}
+{"count": 1931, "name": "WokFi", "weight": 1.0, "id": 124946342, "level": 4}

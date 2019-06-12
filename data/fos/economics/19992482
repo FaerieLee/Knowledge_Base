@@ -1,0 +1,5 @@
+{"count": 192, "name": "Currency swap", "weight": 3.0, "id": 2776409498, "level": 5}
+{"count": 325, "name": "Basis swap", "weight": 6.0, "id": 82775222, "level": 5}
+{"count": 228, "name": "Overnight indexed swap", "weight": 4.0, "id": 163737698, "level": 5}
+{"count": 504, "name": "Revaluation", "weight": 10.0, "id": 190539079, "level": 5}
+{"count": 52, "name": "Dual currency deposit", "weight": 1.0, "id": 157399126, "level": 5}

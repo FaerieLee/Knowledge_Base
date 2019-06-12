@@ -1,0 +1,35 @@
+{"count": 16214, "name": "Rapid prototyping", "weight": 10.0, "id": 2780395129, "level": 2}
+{"count": 6664, "name": "Flexible manufacturing system", "weight": 4.0, "id": 2777869240, "level": 2}
+{"count": 15622, "name": "Computer-integrated manufacturing", "weight": 9.0, "id": 53688548, "level": 2}
+{"count": 10765, "name": "Design for manufacturability", "weight": 6.0, "id": 62064638, "level": 2}
+{"count": 2571, "name": "Group technology", "weight": 1.0, "id": 2780443747, "level": 2}
+{"count": 7704, "name": "Production engineering", "weight": 4.0, "id": 101826366, "level": 2}
+{"count": 11918, "name": "Advanced manufacturing", "weight": 7.0, "id": 77854861, "level": 2}
+{"count": 2252, "name": "Plastics industry", "weight": 1.0, "id": 536799390, "level": 2}
+{"count": 5723, "name": "Industrial technology", "weight": 3.0, "id": 26915998, "level": 2}
+{"count": 2547, "name": "Metalworking", "weight": 1.0, "id": 54539864, "level": 2}
+{"count": 1050, "name": "Design for assembly", "weight": 0.0, "id": 113378356, "level": 2}
+{"count": 843, "name": "Knowledge-based engineering", "weight": 0.0, "id": 2778142872, "level": 2}
+{"count": 4098, "name": "Packaging engineering", "weight": 2.0, "id": 193149544, "level": 2}
+{"count": 723, "name": "Space manufacturing", "weight": 0.0, "id": 2780198859, "level": 2}
+{"count": 1317, "name": "Digital manufacturing", "weight": 0.0, "id": 2780841897, "level": 2}
+{"count": 389, "name": "Digital factory", "weight": 0.0, "id": 2777513880, "level": 2}
+{"count": 250, "name": "Just-in-time manufacturing", "weight": 0.0, "id": 2777635934, "level": 2}
+{"count": 3088, "name": "Manufacturing operations", "weight": 1.0, "id": 154742593, "level": 2}
+{"count": 279, "name": "Poka-yoke", "weight": 0.0, "id": 2779556059, "level": 2}
+{"count": 827, "name": "Discrete manufacturing", "weight": 0.0, "id": 2780720960, "level": 2}
+{"count": 192, "name": "Nano manufacturing", "weight": 0.0, "id": 2779951582, "level": 2}
+{"count": 1000, "name": "Machine shop", "weight": 0.0, "id": 2778372311, "level": 2}
+{"count": 201, "name": "Design for additive manufacturing", "weight": 0.0, "id": 2778315417, "level": 2}
+{"count": 501, "name": "Process manufacturing", "weight": 0.0, "id": 2776916405, "level": 2}
+{"count": 1021, "name": "Computer-aided technologies", "weight": 0.0, "id": 35096461, "level": 2}
+{"count": 114, "name": "Model-based definition", "weight": 0.0, "id": 2780920493, "level": 2}
+{"count": 1220, "name": "Industrial engineering and operations research", "weight": 0.0, "id": 552609196, "level": 2}
+{"count": 29, "name": "Computer-aided production engineering", "weight": 0.0, "id": 2780005672, "level": 2}
+{"count": 24, "name": "Production Systems Engineering", "weight": 0.0, "id": 165941376, "level": 2}
+{"count": 1313, "name": "Child-resistant packaging", "weight": 0.0, "id": 119751540, "level": 2}
+{"count": 270, "name": "Motronic", "weight": 0.0, "id": 105244621, "level": 2}
+{"count": 17, "name": "eXtreme Manufacturing", "weight": 0.0, "id": 2777587312, "level": 2}
+{"count": 84, "name": "Toolroom", "weight": 0.0, "id": 2776839557, "level": 2}
+{"count": 55, "name": "Industrial finishing", "weight": 0.0, "id": 2781418735, "level": 2}
+{"count": 14, "name": "Toyota UZ engine", "weight": 0.0, "id": 4465461, "level": 2}

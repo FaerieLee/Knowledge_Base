@@ -1,0 +1,70 @@
+{"count": 30608, "name": "Solvent effects", "weight": 8.0, "id": 132439834, "level": 3}
+{"count": 12355, "name": "Liquid\u2013liquid extraction", "weight": 3.0, "id": 2776108993, "level": 3}
+{"count": 34163, "name": "Solvation", "weight": 10.0, "id": 148093993, "level": 3}
+{"count": 5886, "name": "Dichloromethane", "weight": 1.0, "id": 2780400988, "level": 3}
+{"count": 5903, "name": "Solvatochromism", "weight": 1.0, "id": 67218372, "level": 3}
+{"count": 6507, "name": "Hildebrand solubility parameter", "weight": 1.0, "id": 100293340, "level": 3}
+{"count": 1234, "name": "Accelerated solvent extraction", "weight": 0.0, "id": 2777725935, "level": 3}
+{"count": 585, "name": "N-Methyl-2-pyrrolidone", "weight": 0.0, "id": 2780179790, "level": 3}
+{"count": 3349, "name": "Extractive distillation", "weight": 0.0, "id": 19924549, "level": 3}
+{"count": 2760, "name": "Extraction (chemistry)", "weight": 0.0, "id": 4725764, "level": 3}
+{"count": 1149, "name": "Biginelli reaction", "weight": 0.0, "id": 2778526080, "level": 3}
+{"count": 1335, "name": "Protic solvent", "weight": 0.0, "id": 2775847089, "level": 3}
+{"count": 1048, "name": "Aliquat 336", "weight": 0.0, "id": 2781178581, "level": 3}
+{"count": 2171, "name": "Methyl isobutyl ketone", "weight": 0.0, "id": 2778156934, "level": 3}
+{"count": 1906, "name": "Sulfolane", "weight": 0.0, "id": 2780298326, "level": 3}
+{"count": 2735, "name": "Tributyl phosphate", "weight": 0.0, "id": 2777943141, "level": 3}
+{"count": 246, "name": "Silica sulfuric acid", "weight": 0.0, "id": 2778821643, "level": 3}
+{"count": 589, "name": "Di-(2-ethylhexyl)phosphoric acid", "weight": 0.0, "id": 2777115618, "level": 3}
+{"count": 461, "name": "Mixer-settler", "weight": 0.0, "id": 2778538948, "level": 3}
+{"count": 3312, "name": "Dimethylacetamide", "weight": 0.0, "id": 2777921878, "level": 3}
+{"count": 1131, "name": "Glycol ethers", "weight": 0.0, "id": 2780164140, "level": 3}
+{"count": 334, "name": "N-Methylmorpholine N-oxide", "weight": 0.0, "id": 2778488525, "level": 3}
+{"count": 750, "name": "Solvent exposure", "weight": 0.0, "id": 2776721935, "level": 3}
+{"count": 904, "name": "Trioctylphosphine oxide", "weight": 0.0, "id": 2780211455, "level": 3}
+{"count": 842, "name": "Thenoyltrifluoroacetone", "weight": 0.0, "id": 2780072822, "level": 3}
+{"count": 340, "name": "Pechmann condensation", "weight": 0.0, "id": 167794386, "level": 3}
+{"count": 3303, "name": "Raffinate", "weight": 0.0, "id": 12898812, "level": 3}
+{"count": 653, "name": "Work-up", "weight": 0.0, "id": 2779681694, "level": 3}
+{"count": 422, "name": "Isopropyl acetate", "weight": 0.0, "id": 2780594019, "level": 3}
+{"count": 183, "name": "Thermal dissolution", "weight": 0.0, "id": 2777447571, "level": 3}
+{"count": 1025, "name": "Solvophobic", "weight": 0.0, "id": 166361863, "level": 3}
+{"count": 602, "name": "Soxhlet extractor", "weight": 0.0, "id": 2780847017, "level": 3}
+{"count": 316, "name": "Hydrofluoroether", "weight": 0.0, "id": 2779979597, "level": 3}
+{"count": 158, "name": "BTBP", "weight": 0.0, "id": 2779750087, "level": 3}
+{"count": 224, "name": "Deuterated chloroform", "weight": 0.0, "id": 2780471044, "level": 3}
+{"count": 311, "name": "Anthraquinone process", "weight": 0.0, "id": 2777505639, "level": 3}
+{"count": 581, "name": "Rotary evaporator", "weight": 0.0, "id": 2779017447, "level": 3}
+{"count": 137, "name": "Crystal violet lactone", "weight": 0.0, "id": 2780333168, "level": 3}
+{"count": 234, "name": "Paint stripper", "weight": 0.0, "id": 2777047294, "level": 3}
+{"count": 49, "name": "Ouzo effect", "weight": 0.0, "id": 2781036783, "level": 3}
+{"count": 115, "name": "Hexafluoro-2-propanol", "weight": 0.0, "id": 2779094580, "level": 3}
+{"count": 1117, "name": "Polymer ratio", "weight": 0.0, "id": 2777654461, "level": 3}
+{"count": 176, "name": "Vapor degreasing", "weight": 0.0, "id": 2777026514, "level": 3}
+{"count": 151, "name": "Autoprotolysis", "weight": 0.0, "id": 154859136, "level": 3}
+{"count": 46, "name": "Schlenk flask", "weight": 0.0, "id": 2779468604, "level": 3}
+{"count": 109, "name": "Cyclopentyl methyl ether", "weight": 0.0, "id": 2780145078, "level": 3}
+{"count": 248, "name": "Separatory funnel", "weight": 0.0, "id": 2781141868, "level": 3}
+{"count": 175, "name": "Leveling effect", "weight": 0.0, "id": 88254960, "level": 3}
+{"count": 62, "name": "Solvent dye", "weight": 0.0, "id": 2781150864, "level": 3}
+{"count": 118, "name": "Soap scum", "weight": 0.0, "id": 2780055457, "level": 3}
+{"count": 53, "name": "Cryoscopic constant", "weight": 0.0, "id": 146426632, "level": 3}
+{"count": 137, "name": "Difluorophosphate", "weight": 0.0, "id": 2781267611, "level": 3}
+{"count": 1197, "name": "Molar solubility", "weight": 0.0, "id": 31057274, "level": 3}
+{"count": 148, "name": "Dibasic ester", "weight": 0.0, "id": 2775875589, "level": 3}
+{"count": 84, "name": "Solvent degreasing", "weight": 0.0, "id": 2780322344, "level": 3}
+{"count": 20, "name": "4-Methyl-2-pentanol", "weight": 0.0, "id": 2778289586, "level": 3}
+{"count": 1018, "name": "Solvent extraction and electrowinning", "weight": 0.0, "id": 140517558, "level": 3}
+{"count": 46, "name": "4,4'-Dichlorodiphenyl sulfone", "weight": 0.0, "id": 2781324086, "level": 3}
+{"count": 26, "name": "Disperse Red 11", "weight": 0.0, "id": 2778740019, "level": 3}
+{"count": 26, "name": "Carbyl sulfate", "weight": 0.0, "id": 2777817306, "level": 3}
+{"count": 17, "name": "Parachlorobenzotrifluoride", "weight": 0.0, "id": 2777816683, "level": 3}
+{"count": 22, "name": "Zahn cup", "weight": 0.0, "id": 107288118, "level": 3}
+{"count": 14, "name": "Broadband acoustic resonance dissolution spectroscopy", "weight": 0.0, "id": 2781254262, "level": 3}
+{"count": 37, "name": "Silver bromate", "weight": 0.0, "id": 2777815421, "level": 3}
+{"count": 14, "name": "Lyonium ion", "weight": 0.0, "id": 2778779893, "level": 3}
+{"count": 200, "name": "Hard-surface cleaner", "weight": 0.0, "id": 2777346706, "level": 3}
+{"count": 21, "name": "Isobutyl chloride", "weight": 0.0, "id": 2781340546, "level": 3}
+{"count": 62, "name": "Ink eraser", "weight": 0.0, "id": 2776502520, "level": 3}
+{"count": 14, "name": "Polyhexahydrotriazine", "weight": 0.0, "id": 2777590445, "level": 3}
+{"count": 14, "name": "Sol", "weight": 0.0, "id": 181775810, "level": 3}

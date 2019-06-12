@@ -1,0 +1,12 @@
+{"count": 4224, "name": "Pole\u2013zero plot", "weight": 10.0, "id": 43656286, "level": 3}
+{"count": 945, "name": "Minimal realization", "weight": 2.0, "id": 205609532, "level": 3}
+{"count": 1281, "name": "Head-related transfer function", "weight": 3.0, "id": 151382886, "level": 3}
+{"count": 1395, "name": "Bode plot", "weight": 3.0, "id": 92487091, "level": 3}
+{"count": 1497, "name": "Closed-loop transfer function", "weight": 3.0, "id": 158664035, "level": 3}
+{"count": 546, "name": "Transfer function matrix", "weight": 1.0, "id": 2777136036, "level": 3}
+{"count": 91, "name": "Fractional-order integrator", "weight": 0.0, "id": 2779894793, "level": 3}
+{"count": 32, "name": "Extra element theorem", "weight": 0.0, "id": 2780471435, "level": 3}
+{"count": 26, "name": "Kautz filter", "weight": 0.0, "id": 2777466447, "level": 3}
+{"count": 17, "name": "Mason's gain formula", "weight": 0.0, "id": 32464869, "level": 3}
+{"count": 116, "name": "Proper transfer function", "weight": 0.0, "id": 198142155, "level": 3}
+{"count": 621, "name": "Realization (systems)", "weight": 1.0, "id": 68173885, "level": 3}

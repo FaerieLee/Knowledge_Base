@@ -1,0 +1,51 @@
+{"count": 21089, "name": "Dopamine receptor", "weight": 4.0, "id": 120069818, "level": 3}
+{"count": 18838, "name": "Nucleus accumbens", "weight": 4.0, "id": 2776552330, "level": 3}
+{"count": 22549, "name": "Substantia nigra", "weight": 4.0, "id": 2780938664, "level": 3}
+{"count": 32415, "name": "Striatum", "weight": 7.0, "id": 2780062018, "level": 3}
+{"count": 14337, "name": "Tyrosine hydroxylase", "weight": 3.0, "id": 159167319, "level": 3}
+{"count": 15465, "name": "Dopamine receptor D2", "weight": 3.0, "id": 44208683, "level": 3}
+{"count": 19857, "name": "Amphetamine", "weight": 4.0, "id": 2777193897, "level": 3}
+{"count": 4041, "name": "Dopamine antagonist", "weight": 0.0, "id": 2781353949, "level": 3}
+{"count": 8976, "name": "Apomorphine", "weight": 1.0, "id": 2777525119, "level": 3}
+{"count": 16251, "name": "Monoamine neurotransmitter", "weight": 3.0, "id": 187714386, "level": 3}
+{"count": 2352, "name": "Medial forebrain bundle", "weight": 0.0, "id": 2776669363, "level": 3}
+{"count": 5187, "name": "Homovanillic acid", "weight": 1.0, "id": 2775841634, "level": 3}
+{"count": 2864, "name": "Sulpiride", "weight": 0.0, "id": 2780806966, "level": 3}
+{"count": 1301, "name": "Dihydroxyphenylalanine", "weight": 0.0, "id": 2777440324, "level": 3}
+{"count": 2626, "name": "Aromatic L-amino acid decarboxylase", "weight": 0.0, "id": 58824617, "level": 3}
+{"count": 1461, "name": "Pimozide", "weight": 0.0, "id": 2777845345, "level": 3}
+{"count": 1999, "name": "Norepinephrine transporter", "weight": 0.0, "id": 176233148, "level": 3}
+{"count": 1070, "name": "Dopamine beta-monooxygenase", "weight": 0.0, "id": 203531881, "level": 3}
+{"count": 45723, "name": "Dopaminergic", "weight": 10.0, "id": 137183658, "level": 3}
+{"count": 1950, "name": "Pargyline", "weight": 0.0, "id": 2777067607, "level": 3}
+{"count": 3870, "name": "Reward system", "weight": 0.0, "id": 143661069, "level": 3}
+{"count": 1272, "name": "Nomifensine", "weight": 0.0, "id": 2777078754, "level": 3}
+{"count": 528, "name": "Incentive salience", "weight": 0.0, "id": 2780160660, "level": 3}
+{"count": 560, "name": "Mazindol", "weight": 0.0, "id": 2779126938, "level": 3}
+{"count": 696, "name": "Lisuride", "weight": 0.0, "id": 2777095659, "level": 3}
+{"count": 4704, "name": "Reuptake", "weight": 1.0, "id": 99631742, "level": 3}
+{"count": 402, "name": "AMPT", "weight": 0.0, "id": 2779891124, "level": 3}
+{"count": 103, "name": "Benzatropine", "weight": 0.0, "id": 2778540959, "level": 3}
+{"count": 296, "name": "Trace amine", "weight": 0.0, "id": 2777099321, "level": 3}
+{"count": 15400, "name": "Neurochemical", "weight": 3.0, "id": 25876315, "level": 3}
+{"count": 110, "name": "Tetrahydropapaveroline", "weight": 0.0, "id": 2781209232, "level": 3}
+{"count": 3058, "name": "Catecholaminergic", "weight": 0.0, "id": 2776824294, "level": 3}
+{"count": 179, "name": "Clebopride", "weight": 0.0, "id": 2781007145, "level": 3}
+{"count": 67, "name": "Indatraline", "weight": 0.0, "id": 2780841228, "level": 3}
+{"count": 38, "name": "Nepicastat", "weight": 0.0, "id": 2778179069, "level": 3}
+{"count": 139, "name": "2-Aminotetralin", "weight": 0.0, "id": 2776911142, "level": 3}
+{"count": 29, "name": "4-Methylaminorex", "weight": 0.0, "id": 2778618066, "level": 3}
+{"count": 75, "name": "PPP1R1B", "weight": 0.0, "id": 2777359193, "level": 3}
+{"count": 8, "name": "ABT-724", "weight": 0.0, "id": 2776481832, "level": 3}
+{"count": 10, "name": "OSU-6162", "weight": 0.0, "id": 2777904348, "level": 3}
+{"count": 105, "name": "Noradrenergic cell groups", "weight": 0.0, "id": 2780548568, "level": 3}
+{"count": 26, "name": "Moperone", "weight": 0.0, "id": 2780680913, "level": 3}
+{"count": 19, "name": "D-DOPA", "weight": 0.0, "id": 2779649018, "level": 3}
+{"count": 7, "name": "RTI-113", "weight": 0.0, "id": 2777892774, "level": 3}
+{"count": 96, "name": "False neurotransmitter", "weight": 0.0, "id": 2780745104, "level": 3}
+{"count": 7, "name": "GBR-13069", "weight": 0.0, "id": 2779611772, "level": 3}
+{"count": 7, "name": "GBR-13098", "weight": 0.0, "id": 2777279392, "level": 3}
+{"count": 24, "name": "Cephalic flexure", "weight": 0.0, "id": 194570595, "level": 3}
+{"count": 11, "name": "EXP-561", "weight": 0.0, "id": 2779623267, "level": 3}
+{"count": 6, "name": "2\u03b2-Propanoyl-3\u03b2-(4-tolyl)-tropane", "weight": 0.0, "id": 2777917185, "level": 3}
+{"count": 8, "name": "Dopastin", "weight": 0.0, "id": 2779437085, "level": 3}

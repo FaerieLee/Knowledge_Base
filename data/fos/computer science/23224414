@@ -1,0 +1,6 @@
+{"count": 1421, "name": "TIMIT", "weight": 10.0, "id": 2778724510, "level": 3}
+{"count": 960, "name": "Sequence labeling", "weight": 6.0, "id": 35639132, "level": 3}
+{"count": 492, "name": "Triphone", "weight": 3.0, "id": 2777801985, "level": 3}
+{"count": 103, "name": "FMLLR", "weight": 0.0, "id": 2779301648, "level": 3}
+{"count": 34, "name": "Layered hidden Markov model", "weight": 0.0, "id": 2776777365, "level": 3}
+{"count": 18, "name": "Poisson hidden Markov model", "weight": 0.0, "id": 2781135469, "level": 3}

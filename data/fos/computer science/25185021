@@ -1,0 +1,6 @@
+{"count": 2881, "name": "Serializability", "weight": 5.0, "id": 191558696, "level": 4}
+{"count": 5736, "name": "Online transaction processing", "weight": 10.0, "id": 191087605, "level": 4}
+{"count": 972, "name": "Two-phase commit protocol", "weight": 1.0, "id": 111009948, "level": 4}
+{"count": 329, "name": "Consistency (database systems)", "weight": 0.0, "id": 121163568, "level": 4}
+{"count": 25, "name": "Long-running transaction", "weight": 0.0, "id": 2776334297, "level": 4}
+{"count": 36, "name": "Savepoint", "weight": 0.0, "id": 2779464021, "level": 4}

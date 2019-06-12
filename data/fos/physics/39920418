@@ -1,0 +1,20 @@
+{"count": 22487, "name": "Robot kinematics", "weight": 10.0, "id": 74222875, "level": 3}
+{"count": 13344, "name": "Parallel manipulator", "weight": 5.0, "id": 138094506, "level": 3}
+{"count": 11068, "name": "Inverse kinematics", "weight": 4.0, "id": 17816587, "level": 3}
+{"count": 5022, "name": "Inverse dynamics", "weight": 2.0, "id": 187523126, "level": 3}
+{"count": 3526, "name": "Kinematic chain", "weight": 1.0, "id": 62837456, "level": 3}
+{"count": 2292, "name": "Four-bar linkage", "weight": 1.0, "id": 122920182, "level": 3}
+{"count": 4309, "name": "Revolute joint", "weight": 1.0, "id": 5643039, "level": 3}
+{"count": 793, "name": "Dual quaternion", "weight": 0.0, "id": 145941777, "level": 3}
+{"count": 107, "name": "Overconstrained mechanism", "weight": 0.0, "id": 2778382995, "level": 3}
+{"count": 362, "name": "Kinematic coupling", "weight": 0.0, "id": 2780143407, "level": 3}
+{"count": 560, "name": "Leg mechanism", "weight": 0.0, "id": 2776192736, "level": 3}
+{"count": 362, "name": "Joint constraints", "weight": 0.0, "id": 177811870, "level": 3}
+{"count": 142, "name": "Six-bar linkage", "weight": 0.0, "id": 207631450, "level": 3}
+{"count": 22, "name": "Chasles' theorem", "weight": 0.0, "id": 2779836402, "level": 3}
+{"count": 230, "name": "Double wishbone suspension", "weight": 0.0, "id": 2777270807, "level": 3}
+{"count": 145, "name": "Rational motion", "weight": 0.0, "id": 100412989, "level": 3}
+{"count": 34, "name": "Eight-bar linkage", "weight": 0.0, "id": 2778968658, "level": 3}
+{"count": 9, "name": "Kinematic determinacy", "weight": 0.0, "id": 2777086028, "level": 3}
+{"count": 14, "name": "Sarrus linkage", "weight": 0.0, "id": 2778570776, "level": 3}
+{"count": 66, "name": "Hitting mechanics", "weight": 0.0, "id": 169773698, "level": 3}

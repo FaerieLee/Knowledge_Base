@@ -1,0 +1,13 @@
+{"count": 9707, "name": "Memory controller", "weight": 6.0, "id": 100800780, "level": 4}
+{"count": 5703, "name": "Memory bank", "weight": 3.0, "id": 48149935, "level": 4}
+{"count": 1571, "name": "Universal memory", "weight": 1.0, "id": 195053848, "level": 4}
+{"count": 14334, "name": "Interleaved memory", "weight": 9.0, "id": 63511323, "level": 4}
+{"count": 4151, "name": "Volatile memory", "weight": 2.0, "id": 6338478, "level": 4}
+{"count": 15350, "name": "Memory map", "weight": 10.0, "id": 74426580, "level": 4}
+{"count": 3677, "name": "Sequential access memory", "weight": 2.0, "id": 164145335, "level": 4}
+{"count": 14327, "name": "Uniform memory access", "weight": 9.0, "id": 51290061, "level": 4}
+{"count": 1077, "name": "Memory-mapped I/O", "weight": 0.0, "id": 143225877, "level": 4}
+{"count": 12441, "name": "Memory refresh", "weight": 8.0, "id": 87907426, "level": 4}
+{"count": 873, "name": "Aperture (computer memory)", "weight": 0.0, "id": 78336883, "level": 4}
+{"count": 30, "name": "Serial presence detect", "weight": 0.0, "id": 189219839, "level": 4}
+{"count": 60, "name": "ECC memory", "weight": 0.0, "id": 2776257961, "level": 4}

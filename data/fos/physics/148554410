@@ -1,0 +1,48 @@
+{"count": 3163, "name": "Orbital mechanics", "weight": 5.0, "id": 6629501, "level": 3}
+{"count": 6261, "name": "Orbit determination", "weight": 9.0, "id": 107768556, "level": 3}
+{"count": 6305, "name": "Orbital elements", "weight": 10.0, "id": 97784730, "level": 3}
+{"count": 5864, "name": "Circular orbit", "weight": 9.0, "id": 59108619, "level": 3}
+{"count": 3067, "name": "Elliptic orbit", "weight": 4.0, "id": 173990265, "level": 3}
+{"count": 2493, "name": "Orbital eccentricity", "weight": 3.0, "id": 125311221, "level": 3}
+{"count": 2233, "name": "Orbital maneuver", "weight": 3.0, "id": 136319028, "level": 3}
+{"count": 812, "name": "Orbital decay", "weight": 1.0, "id": 178957599, "level": 3}
+{"count": 881, "name": "Orbit insertion", "weight": 1.0, "id": 60485486, "level": 3}
+{"count": 774, "name": "Halo orbit", "weight": 1.0, "id": 136336744, "level": 3}
+{"count": 508, "name": "Electrodynamic tether", "weight": 0.0, "id": 2779848686, "level": 3}
+{"count": 236, "name": "Secular resonance", "weight": 0.0, "id": 2780625385, "level": 3}
+{"count": 1625, "name": "Orbital plane", "weight": 2.0, "id": 63436455, "level": 3}
+{"count": 456, "name": "Orbital resonance", "weight": 0.0, "id": 55711588, "level": 3}
+{"count": 588, "name": "Transfer orbit", "weight": 0.0, "id": 2776999251, "level": 3}
+{"count": 352, "name": "True anomaly", "weight": 0.0, "id": 62790324, "level": 3}
+{"count": 296, "name": "Kepler orbit", "weight": 0.0, "id": 88599020, "level": 3}
+{"count": 1206, "name": "Apsidal precession", "weight": 1.0, "id": 194056267, "level": 3}
+{"count": 1317, "name": "Orbital inclination", "weight": 2.0, "id": 10632323, "level": 3}
+{"count": 84, "name": "Kirkwood gap", "weight": 0.0, "id": 2777673493, "level": 3}
+{"count": 441, "name": "Parking orbit", "weight": 0.0, "id": 134240934, "level": 3}
+{"count": 193, "name": "Eccentric anomaly", "weight": 0.0, "id": 29783740, "level": 3}
+{"count": 1937, "name": "Mean motion", "weight": 3.0, "id": 197464742, "level": 3}
+{"count": 99, "name": "Ballistic capture", "weight": 0.0, "id": 2780782035, "level": 3}
+{"count": 484, "name": "Orbital node", "weight": 0.0, "id": 183008300, "level": 3}
+{"count": 70, "name": "Lambert's problem", "weight": 0.0, "id": 2778865457, "level": 3}
+{"count": 183, "name": "Orbit equation", "weight": 0.0, "id": 83460361, "level": 3}
+{"count": 66, "name": "Low-energy transfer", "weight": 0.0, "id": 2777078616, "level": 3}
+{"count": 169, "name": "Two-line element set", "weight": 0.0, "id": 156210404, "level": 3}
+{"count": 283, "name": "Hill sphere", "weight": 0.0, "id": 109283285, "level": 3}
+{"count": 511, "name": "Spin-stabilized satellite", "weight": 0.0, "id": 65140031, "level": 3}
+{"count": 21, "name": "Sharkovskii's theorem", "weight": 0.0, "id": 2777709815, "level": 3}
+{"count": 78, "name": "Invariable plane", "weight": 0.0, "id": 2780375347, "level": 3}
+{"count": 94, "name": "Lyapunov time", "weight": 0.0, "id": 2781169138, "level": 3}
+{"count": 74, "name": "Patched conic approximation", "weight": 0.0, "id": 100940109, "level": 3}
+{"count": 158, "name": "Apse line", "weight": 0.0, "id": 7292814, "level": 3}
+{"count": 99, "name": "Circular reference", "weight": 0.0, "id": 76916086, "level": 3}
+{"count": 95, "name": "Lunar precession", "weight": 0.0, "id": 69607633, "level": 3}
+{"count": 95, "name": "Nodal precession", "weight": 0.0, "id": 2776848316, "level": 3}
+{"count": 37, "name": "Horseshoe orbit", "weight": 0.0, "id": 105409864, "level": 3}
+{"count": 65, "name": "Longitude of the periapsis", "weight": 0.0, "id": 88963372, "level": 3}
+{"count": 17, "name": "X-ray astronomy satellites", "weight": 0.0, "id": 116231623, "level": 3}
+{"count": 29, "name": "Earth-centered inertial", "weight": 0.0, "id": 2778531370, "level": 3}
+{"count": 32, "name": "Near-equatorial orbit", "weight": 0.0, "id": 2779080924, "level": 3}
+{"count": 16, "name": "Orbit phasing", "weight": 0.0, "id": 2781069393, "level": 3}
+{"count": 69, "name": "Fixed orbit", "weight": 0.0, "id": 2779048135, "level": 3}
+{"count": 64, "name": "Orbiting body", "weight": 0.0, "id": 2778411676, "level": 3}
+{"count": 207, "name": "Orbit Attitude and Maneuvering System", "weight": 0.0, "id": 181752697, "level": 3}

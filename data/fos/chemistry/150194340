@@ -1,0 +1,98 @@
+{"count": 87356, "name": "Regulation of gene expression", "weight": 10.0, "id": 165864922, "level": 4}
+{"count": 35834, "name": "Gene expression profiling", "weight": 4.0, "id": 18431079, "level": 4}
+{"count": 32613, "name": "DNA microarray", "weight": 3.0, "id": 95371953, "level": 4}
+{"count": 41266, "name": "Transcriptional regulation", "weight": 4.0, "id": 27153228, "level": 4}
+{"count": 35442, "name": "Reporter gene", "weight": 4.0, "id": 161733203, "level": 4}
+{"count": 20045, "name": "Northern blot", "weight": 2.0, "id": 177707886, "level": 4}
+{"count": 18567, "name": "Microarray analysis techniques", "weight": 2.0, "id": 8415881, "level": 4}
+{"count": 14018, "name": "Regulatory sequence", "weight": 1.0, "id": 21592294, "level": 4}
+{"count": 3778, "name": "Immediate early gene", "weight": 0.0, "id": 2779555244, "level": 4}
+{"count": 11715, "name": "Regulator gene", "weight": 1.0, "id": 33498276, "level": 4}
+{"count": 4844, "name": "Antisense RNA", "weight": 0.0, "id": 202416437, "level": 4}
+{"count": 3971, "name": "Housekeeping gene", "weight": 0.0, "id": 33922130, "level": 4}
+{"count": 4134, "name": "Differential display", "weight": 0.0, "id": 2776657240, "level": 4}
+{"count": 4630, "name": "TATA box", "weight": 0.0, "id": 65888428, "level": 4}
+{"count": 6012, "name": "RNA-Seq", "weight": 0.0, "id": 107397762, "level": 4}
+{"count": 2248, "name": "Chloramphenicol acetyltransferase", "weight": 0.0, "id": 2780730277, "level": 4}
+{"count": 92, "name": "Naringenin-chalcone synthase", "weight": 0.0, "id": 2780383398, "level": 4}
+{"count": 2302, "name": "Cauliflower mosaic virus", "weight": 0.0, "id": 2780037811, "level": 4}
+{"count": 532, "name": "Representational difference analysis", "weight": 0.0, "id": 2779372761, "level": 4}
+{"count": 4565, "name": "KEGG", "weight": 0.0, "id": 152724338, "level": 4}
+{"count": 1683, "name": "5' flanking region", "weight": 0.0, "id": 186493320, "level": 4}
+{"count": 362, "name": "1-aminocyclopropane-1-carboxylate synthase", "weight": 0.0, "id": 2778566642, "level": 4}
+{"count": 2832, "name": "Riboswitch", "weight": 0.0, "id": 148625055, "level": 4}
+{"count": 203, "name": "Host cell factor C1", "weight": 0.0, "id": 100898757, "level": 4}
+{"count": 544, "name": "Whey Acidic Protein", "weight": 0.0, "id": 2777074263, "level": 4}
+{"count": 2620, "name": "Chimeric gene", "weight": 0.0, "id": 26260077, "level": 4}
+{"count": 278, "name": "Codon Adaptation Index", "weight": 0.0, "id": 2780039906, "level": 4}
+{"count": 2323, "name": "Reference genes", "weight": 0.0, "id": 2779148672, "level": 4}
+{"count": 1461, "name": "YY1", "weight": 0.0, "id": 62944979, "level": 4}
+{"count": 2936, "name": "CAAT box", "weight": 0.0, "id": 179716448, "level": 4}
+{"count": 1741, "name": "P-bodies", "weight": 0.0, "id": 162419368, "level": 4}
+{"count": 325, "name": "EGR1", "weight": 0.0, "id": 2780600689, "level": 4}
+{"count": 1486, "name": "WRKY protein domain", "weight": 0.0, "id": 79877727, "level": 4}
+{"count": 48, "name": "Caffeate O-methyltransferase", "weight": 0.0, "id": 2780022625, "level": 4}
+{"count": 397, "name": "RNA integrity number", "weight": 0.0, "id": 440869, "level": 4}
+{"count": 1257, "name": "Translational efficiency", "weight": 0.0, "id": 2775992057, "level": 4}
+{"count": 399, "name": "Riboprobe", "weight": 0.0, "id": 2778837531, "level": 4}
+{"count": 2822, "name": "Expression cassette", "weight": 0.0, "id": 100012643, "level": 4}
+{"count": 51, "name": "Expression index", "weight": 0.0, "id": 2778150043, "level": 4}
+{"count": 75, "name": "PBAD promoter", "weight": 0.0, "id": 2776055791, "level": 4}
+{"count": 892, "name": "Hypersensitive site", "weight": 0.0, "id": 58237431, "level": 4}
+{"count": 637, "name": "Maternal to zygotic transition", "weight": 0.0, "id": 17341445, "level": 4}
+{"count": 1246, "name": "Polyhedrin", "weight": 0.0, "id": 2781140520, "level": 4}
+{"count": 242, "name": "SATB1", "weight": 0.0, "id": 2779524329, "level": 4}
+{"count": 506, "name": "Gap gene", "weight": 0.0, "id": 184937244, "level": 4}
+{"count": 274, "name": "BTG2", "weight": 0.0, "id": 2778777542, "level": 4}
+{"count": 271, "name": "USF2", "weight": 0.0, "id": 2780199632, "level": 4}
+{"count": 297, "name": "Segmentation gene", "weight": 0.0, "id": 2781185869, "level": 4}
+{"count": 251, "name": "Hepatocyte nuclear factors", "weight": 0.0, "id": 99535661, "level": 4}
+{"count": 97, "name": "Nuclear run-on", "weight": 0.0, "id": 2780520864, "level": 4}
+{"count": 290, "name": "PLCE1", "weight": 0.0, "id": 52674547, "level": 4}
+{"count": 213, "name": "Overlapping gene", "weight": 0.0, "id": 2779141245, "level": 4}
+{"count": 129, "name": "Cancer Genome Anatomy Project", "weight": 0.0, "id": 2780231420, "level": 4}
+{"count": 787, "name": "MiRBase", "weight": 0.0, "id": 49305753, "level": 4}
+{"count": 215, "name": "Gene co-expression network", "weight": 0.0, "id": 2778022302, "level": 4}
+{"count": 212, "name": "SPI1", "weight": 0.0, "id": 2775987198, "level": 4}
+{"count": 105, "name": "Synexpression", "weight": 0.0, "id": 2777904207, "level": 4}
+{"count": 61, "name": "HBE1", "weight": 0.0, "id": 2778822335, "level": 4}
+{"count": 190, "name": "Hfq protein", "weight": 0.0, "id": 2779556579, "level": 4}
+{"count": 76, "name": "Intron-mediated enhancement", "weight": 0.0, "id": 2779959203, "level": 4}
+{"count": 35, "name": "Run-off transcription", "weight": 0.0, "id": 2779072182, "level": 4}
+{"count": 160, "name": "Transcriptional bursting", "weight": 0.0, "id": 2776032711, "level": 4}
+{"count": 39, "name": "BURP domain", "weight": 0.0, "id": 2778437637, "level": 4}
+{"count": 191, "name": "ZFP36", "weight": 0.0, "id": 2780268602, "level": 4}
+{"count": 32, "name": "ATP5G1", "weight": 0.0, "id": 2775982000, "level": 4}
+{"count": 60, "name": "HomoloGene", "weight": 0.0, "id": 43774780, "level": 4}
+{"count": 41, "name": "HNRNPC", "weight": 0.0, "id": 2780441661, "level": 4}
+{"count": 53, "name": "UBE2I", "weight": 0.0, "id": 2778039080, "level": 4}
+{"count": 28, "name": "ATP2A3", "weight": 0.0, "id": 2778236409, "level": 4}
+{"count": 136, "name": "IER3", "weight": 0.0, "id": 2776586218, "level": 4}
+{"count": 78, "name": "FOSL2", "weight": 0.0, "id": 2776008071, "level": 4}
+{"count": 452, "name": "Class II gene", "weight": 0.0, "id": 2780154175, "level": 4}
+{"count": 15, "name": "Anti-miRNA oligonucleotides", "weight": 0.0, "id": 2779329391, "level": 4}
+{"count": 38, "name": "PSMB6", "weight": 0.0, "id": 2780831328, "level": 4}
+{"count": 38, "name": "TP53I3", "weight": 0.0, "id": 2778984508, "level": 4}
+{"count": 24, "name": "Sugar signal transduction", "weight": 0.0, "id": 2776530949, "level": 4}
+{"count": 17, "name": "ATP5F1", "weight": 0.0, "id": 2779197232, "level": 4}
+{"count": 22, "name": "GNG11", "weight": 0.0, "id": 2780915625, "level": 4}
+{"count": 105, "name": "Spatiotemporal gene expression", "weight": 0.0, "id": 2780204373, "level": 4}
+{"count": 49, "name": "EMAGE", "weight": 0.0, "id": 2776318505, "level": 4}
+{"count": 14, "name": "SLC25A6", "weight": 0.0, "id": 2778682531, "level": 4}
+{"count": 20, "name": "ATP5C1", "weight": 0.0, "id": 2778530651, "level": 4}
+{"count": 87, "name": "MiRTarBase", "weight": 0.0, "id": 167363718, "level": 4}
+{"count": 29, "name": "PSMC4", "weight": 0.0, "id": 2776003835, "level": 4}
+{"count": 30, "name": "LRRN3", "weight": 0.0, "id": 2777193841, "level": 4}
+{"count": 26, "name": "NFX1", "weight": 0.0, "id": 2776437806, "level": 4}
+{"count": 64, "name": "Genomatix", "weight": 0.0, "id": 2779909809, "level": 4}
+{"count": 15, "name": "GNG7", "weight": 0.0, "id": 2779242865, "level": 4}
+{"count": 22, "name": "ATP1B3", "weight": 0.0, "id": 2775884970, "level": 4}
+{"count": 15, "name": "H1F0", "weight": 0.0, "id": 2780324555, "level": 4}
+{"count": 42, "name": "Calmodulin 1", "weight": 0.0, "id": 2780928625, "level": 4}
+{"count": 166, "name": "Embryomics", "weight": 0.0, "id": 206704781, "level": 4}
+{"count": 25, "name": "MS4A3", "weight": 0.0, "id": 2778776251, "level": 4}
+{"count": 43, "name": "H2AFZ", "weight": 0.0, "id": 2779204991, "level": 4}
+{"count": 27, "name": "PSMC2", "weight": 0.0, "id": 2776495923, "level": 4}
+{"count": 29, "name": "PSMD1", "weight": 0.0, "id": 2779321109, "level": 4}
+{"count": 406, "name": "Sporulation in Bacillus subtilis", "weight": 0.0, "id": 158325283, "level": 4}
+{"count": 54, "name": "Gene Ontology Term Enrichment", "weight": 0.0, "id": 2777719804, "level": 4}

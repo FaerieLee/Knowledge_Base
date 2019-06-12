@@ -1,0 +1,11 @@
+{"count": 275, "name": "Berkeley Software Distribution", "weight": 5.0, "id": 546350949, "level": 5}
+{"count": 212, "name": "troff", "weight": 4.0, "id": 171187321, "level": 5}
+{"count": 57, "name": "Unix security", "weight": 1.0, "id": 2777219658, "level": 5}
+{"count": 53, "name": "Time of check to time of use", "weight": 1.0, "id": 167854663, "level": 5}
+{"count": 48, "name": "Kernel panic", "weight": 1.0, "id": 37236084, "level": 5}
+{"count": 26, "name": "Unix philosophy", "weight": 0.0, "id": 2779694967, "level": 5}
+{"count": 248, "name": "Unix signal", "weight": 5.0, "id": 133558526, "level": 5}
+{"count": 354, "name": "File descriptor", "weight": 7.0, "id": 195015458, "level": 5}
+{"count": 104, "name": "Command substitution", "weight": 2.0, "id": 11193054, "level": 5}
+{"count": 475, "name": "TMPDIR", "weight": 10.0, "id": 117326824, "level": 5}
+{"count": 20, "name": "sigaction", "weight": 0.0, "id": 149888835, "level": 5}

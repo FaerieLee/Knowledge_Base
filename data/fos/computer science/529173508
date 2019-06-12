@@ -1,0 +1,38 @@
+{"count": 22502, "name": "Software development process", "weight": 5.0, "id": 180152950, "level": 4}
+{"count": 2552, "name": "Software evolution", "weight": 0.0, "id": 202105479, "level": 4}
+{"count": 4178, "name": "Software product line", "weight": 1.0, "id": 2778177629, "level": 4}
+{"count": 1902, "name": "Extreme programming", "weight": 0.0, "id": 122944926, "level": 4}
+{"count": 3886, "name": "Domain engineering", "weight": 0.0, "id": 5977032, "level": 4}
+{"count": 10965, "name": "Software project management", "weight": 2.0, "id": 40919944, "level": 4}
+{"count": 7321, "name": "Systems development life cycle", "weight": 1.0, "id": 120617098, "level": 4}
+{"count": 777, "name": "Distributed development", "weight": 0.0, "id": 2781421246, "level": 4}
+{"count": 1121, "name": "Pair programming", "weight": 0.0, "id": 174063052, "level": 4}
+{"count": 846, "name": "Open-source software development", "weight": 0.0, "id": 2778642129, "level": 4}
+{"count": 792, "name": "Agent-oriented software engineering", "weight": 0.0, "id": 2778956278, "level": 4}
+{"count": 2209, "name": "System programming", "weight": 0.0, "id": 69941290, "level": 4}
+{"count": 834, "name": "Test-driven development", "weight": 0.0, "id": 4478048, "level": 4}
+{"count": 602, "name": "N-version programming", "weight": 0.0, "id": 166069155, "level": 4}
+{"count": 181, "name": "Object-oriented software engineering", "weight": 0.0, "id": 87632977, "level": 4}
+{"count": 554, "name": "Aspect-oriented software development", "weight": 0.0, "id": 2776240610, "level": 4}
+{"count": 353, "name": "Model-driven software development", "weight": 0.0, "id": 2781406519, "level": 4}
+{"count": 892, "name": "Software asset management", "weight": 0.0, "id": 10164756, "level": 4}
+{"count": 868, "name": "COCOMO", "weight": 0.0, "id": 53238903, "level": 4}
+{"count": 570, "name": "Technical debt", "weight": 0.0, "id": 159198006, "level": 4}
+{"count": 227, "name": "Software Design and Development", "weight": 0.0, "id": 2777551364, "level": 4}
+{"count": 40596, "name": "Software construction", "weight": 10.0, "id": 186846655, "level": 4}
+{"count": 5504, "name": "Lean software development", "weight": 1.0, "id": 199561411, "level": 4}
+{"count": 182, "name": "Programming in the large and programming in the small", "weight": 0.0, "id": 180436386, "level": 4}
+{"count": 332, "name": "Software crisis", "weight": 0.0, "id": 2779946957, "level": 4}
+{"count": 511, "name": "Software business", "weight": 0.0, "id": 2776219032, "level": 4}
+{"count": 558, "name": "Release management", "weight": 0.0, "id": 190508002, "level": 4}
+{"count": 28, "name": "Conway's law", "weight": 0.0, "id": 9165965, "level": 4}
+{"count": 94, "name": "Jackson system development", "weight": 0.0, "id": 2778859594, "level": 4}
+{"count": 35249, "name": "Social software engineering", "weight": 8.0, "id": 182500959, "level": 4}
+{"count": 66, "name": "Team programming", "weight": 0.0, "id": 2778302645, "level": 4}
+{"count": 68, "name": "Problem frames approach", "weight": 0.0, "id": 2777834701, "level": 4}
+{"count": 35, "name": "Scrumban", "weight": 0.0, "id": 2778370692, "level": 4}
+{"count": 27, "name": "Daily build", "weight": 0.0, "id": 2776271911, "level": 4}
+{"count": 54, "name": "Product family engineering", "weight": 0.0, "id": 2776958455, "level": 4}
+{"count": 37, "name": "Naked objects", "weight": 0.0, "id": 87367792, "level": 4}
+{"count": 28993, "name": "Package development process", "weight": 7.0, "id": 123551368, "level": 4}
+{"count": 105, "name": "Study software", "weight": 0.0, "id": 2777702105, "level": 4}

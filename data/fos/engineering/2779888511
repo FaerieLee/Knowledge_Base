@@ -1,0 +1,6 @@
+{"count": 4936, "name": "Road pricing", "weight": 6.0, "id": 2777718309, "level": 3}
+{"count": 3942, "name": "Congestion pricing", "weight": 5.0, "id": 8007445, "level": 3}
+{"count": 877, "name": "Transportation demand management", "weight": 1.0, "id": 2776752413, "level": 3}
+{"count": 792, "name": "Active traffic management", "weight": 1.0, "id": 91021667, "level": 3}
+{"count": 197, "name": "Reversible lane", "weight": 0.0, "id": 2777471869, "level": 3}
+{"count": 7516, "name": "Traffic congestion reconstruction with Kerner's three-phase theory", "weight": 10.0, "id": 25492975, "level": 3}

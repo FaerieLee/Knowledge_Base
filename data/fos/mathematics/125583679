@@ -1,0 +1,7 @@
+{"count": 3172, "name": "Binary search algorithm", "weight": 5.0, "id": 121610932, "level": 3}
+{"count": 1036, "name": "Depth-first search", "weight": 1.0, "id": 62692426, "level": 3}
+{"count": 6012, "name": "Beam search", "weight": 10.0, "id": 19889080, "level": 3}
+{"count": 3639, "name": "Guided Local Search", "weight": 6.0, "id": 90189156, "level": 3}
+{"count": 174, "name": "Alpha\u2013beta pruning", "weight": 0.0, "id": 19001118, "level": 3}
+{"count": 56, "name": "Very large-scale neighborhood search", "weight": 0.0, "id": 2780663532, "level": 3}
+{"count": 69, "name": "Proof-number search", "weight": 0.0, "id": 2780137890, "level": 3}

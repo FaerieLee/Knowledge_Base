@@ -1,0 +1,7 @@
+{"count": 3506, "name": "IEEE 802.11s", "weight": 6.0, "id": 31533079, "level": 4}
+{"count": 31, "name": "Intra-flow interference", "weight": 0.0, "id": 2781383235, "level": 4}
+{"count": 167, "name": "Expected transmission count", "weight": 0.0, "id": 2778404175, "level": 4}
+{"count": 21, "name": "Roofnet", "weight": 0.0, "id": 2776943081, "level": 4}
+{"count": 23, "name": "Freifunk", "weight": 0.0, "id": 2776864612, "level": 4}
+{"count": 5740, "name": "Order One Network Protocol", "weight": 10.0, "id": 124255616, "level": 4}
+{"count": 4214, "name": "Switched mesh", "weight": 7.0, "id": 165323707, "level": 4}

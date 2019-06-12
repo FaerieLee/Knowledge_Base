@@ -1,0 +1,6 @@
+{"count": 340, "name": "Montague grammar", "weight": 3.0, "id": 149966734, "level": 5}
+{"count": 500, "name": "Syntax (logic)", "weight": 5.0, "id": 166553842, "level": 5}
+{"count": 979, "name": "Proof-theoretic semantics", "weight": 10.0, "id": 61151141, "level": 5}
+{"count": 649, "name": "Failure semantics", "weight": 6.0, "id": 76247875, "level": 5}
+{"count": 315, "name": "Statistical semantics", "weight": 3.0, "id": 66974007, "level": 5}
+{"count": 587, "name": "Type erasure", "weight": 6.0, "id": 48522483, "level": 5}

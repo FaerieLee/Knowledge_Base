@@ -1,0 +1,200 @@
+{"count": 65079, "name": "Scheduling (production processes)", "weight": 4.0, "id": 206729178, "level": 2}
+{"count": 116329, "name": "Supply chain", "weight": 7.0, "id": 108713360, "level": 2}
+{"count": 68156, "name": "Quality assurance", "weight": 4.0, "id": 106436119, "level": 2}
+{"count": 66452, "name": "Service quality", "weight": 4.0, "id": 140781008, "level": 2}
+{"count": 67972, "name": "Quality management", "weight": 4.0, "id": 71405471, "level": 2}
+{"count": 20376, "name": "Performance improvement", "weight": 1.0, "id": 2778915421, "level": 2}
+{"count": 71168, "name": "Purchasing", "weight": 4.0, "id": 2778813691, "level": 2}
+{"count": 157223, "name": "Management system", "weight": 10.0, "id": 198783460, "level": 2}
+{"count": 42609, "name": "Manufacturing", "weight": 2.0, "id": 175700187, "level": 2}
+{"count": 19646, "name": "Failure mode and effects analysis", "weight": 1.0, "id": 66283442, "level": 2}
+{"count": 25765, "name": "Data envelopment analysis", "weight": 1.0, "id": 22088475, "level": 2}
+{"count": 19666, "name": "Cost reduction", "weight": 1.0, "id": 2778820799, "level": 2}
+{"count": 25283, "name": "Cost estimate", "weight": 1.0, "id": 93983250, "level": 2}
+{"count": 23438, "name": "Total quality management", "weight": 1.0, "id": 138897024, "level": 2}
+{"count": 8871, "name": "Production control", "weight": 0.0, "id": 2780682718, "level": 2}
+{"count": 13642, "name": "Inventory control", "weight": 0.0, "id": 117938511, "level": 2}
+{"count": 31940, "name": "Warehouse", "weight": 2.0, "id": 50416739, "level": 2}
+{"count": 13330, "name": "Vehicle routing problem", "weight": 0.0, "id": 123784306, "level": 2}
+{"count": 11202, "name": "Lead time", "weight": 0.0, "id": 2781468064, "level": 2}
+{"count": 10307, "name": "Production manager", "weight": 0.0, "id": 135909481, "level": 2}
+{"count": 15773, "name": "Environmental management system", "weight": 1.0, "id": 51832835, "level": 2}
+{"count": 24443, "name": "Activity-based costing", "weight": 1.0, "id": 164624739, "level": 2}
+{"count": 9348, "name": "Fixed cost", "weight": 0.0, "id": 42866809, "level": 2}
+{"count": 13895, "name": "Production planning", "weight": 0.0, "id": 2777909354, "level": 2}
+{"count": 23263, "name": "Work in process", "weight": 1.0, "id": 174998907, "level": 2}
+{"count": 6407, "name": "Capacity planning", "weight": 0.0, "id": 2781007418, "level": 2}
+{"count": 15000, "name": "Level of service", "weight": 0.0, "id": 58037377, "level": 2}
+{"count": 12808, "name": "Statistical process control", "weight": 0.0, "id": 113644684, "level": 2}
+{"count": 6931, "name": "Facility location problem", "weight": 0.0, "id": 108005400, "level": 2}
+{"count": 6664, "name": "Flexible manufacturing system", "weight": 0.0, "id": 2777869240, "level": 2}
+{"count": 11318, "name": "Control chart", "weight": 0.0, "id": 196985124, "level": 2}
+{"count": 8790, "name": "Net present value", "weight": 0.0, "id": 181230689, "level": 2}
+{"count": 3321, "name": "Information protection policy", "weight": 0.0, "id": 168297262, "level": 2}
+{"count": 13544, "name": "Demand forecasting", "weight": 0.0, "id": 193809577, "level": 2}
+{"count": 14072, "name": "Lean manufacturing", "weight": 0.0, "id": 137335462, "level": 2}
+{"count": 20600, "name": "Cost accounting", "weight": 1.0, "id": 94107157, "level": 2}
+{"count": 15551, "name": "Service level", "weight": 0.0, "id": 181889124, "level": 2}
+{"count": 6689, "name": "Goal programming", "weight": 0.0, "id": 61157135, "level": 2}
+{"count": 4864, "name": "Process capability", "weight": 0.0, "id": 91439571, "level": 2}
+{"count": 31144, "name": "Bottleneck", "weight": 1.0, "id": 2780513914, "level": 2}
+{"count": 365, "name": "Specific identification", "weight": 0.0, "id": 45222066, "level": 2}
+{"count": 2607, "name": "Integrated business planning", "weight": 0.0, "id": 191489605, "level": 2}
+{"count": 8380, "name": "Quality function deployment", "weight": 0.0, "id": 86992474, "level": 2}
+{"count": 10573, "name": "Operating cost", "weight": 0.0, "id": 2777347956, "level": 2}
+{"count": 5413, "name": "Capacity utilization", "weight": 0.0, "id": 13166094, "level": 2}
+{"count": 11658, "name": "Capital cost", "weight": 0.0, "id": 157062255, "level": 2}
+{"count": 7214, "name": "Verification and validation", "weight": 0.0, "id": 48002344, "level": 2}
+{"count": 9083, "name": "Six Sigma", "weight": 0.0, "id": 23119410, "level": 2}
+{"count": 3329, "name": "Column generation", "weight": 0.0, "id": 168956720, "level": 2}
+{"count": 6231, "name": "Internal rate of return", "weight": 0.0, "id": 37917861, "level": 2}
+{"count": 5554, "name": "Economic order quantity", "weight": 0.0, "id": 1199943, "level": 2}
+{"count": 4390, "name": "Cost allocation", "weight": 0.0, "id": 2781426564, "level": 2}
+{"count": 29280, "name": "Spare part", "weight": 1.0, "id": 194648553, "level": 2}
+{"count": 41822, "name": "Production line", "weight": 2.0, "id": 99862985, "level": 2}
+{"count": 3643, "name": "Trip generation", "weight": 0.0, "id": 2778226110, "level": 2}
+{"count": 2327, "name": "Location model", "weight": 0.0, "id": 2776608338, "level": 2}
+{"count": 2571, "name": "Group technology", "weight": 0.0, "id": 2780443747, "level": 2}
+{"count": 2444, "name": "Value of time", "weight": 0.0, "id": 2775939957, "level": 2}
+{"count": 6927, "name": "Variable cost", "weight": 0.0, "id": 145760622, "level": 2}
+{"count": 2168, "name": "Vehicle miles of travel", "weight": 0.0, "id": 2778207038, "level": 2}
+{"count": 3861, "name": "Product life-cycle management", "weight": 0.0, "id": 7465953, "level": 2}
+{"count": 4765, "name": "Fleet management", "weight": 0.0, "id": 2777305159, "level": 2}
+{"count": 4282, "name": "Distribution center", "weight": 0.0, "id": 2781463594, "level": 2}
+{"count": 4305, "name": "Muda", "weight": 0.0, "id": 2778163872, "level": 2}
+{"count": 2219, "name": "Tolerance analysis", "weight": 0.0, "id": 2780080018, "level": 2}
+{"count": 3230, "name": "Material requirements planning", "weight": 0.0, "id": 167523981, "level": 2}
+{"count": 7209, "name": "Electric utility", "weight": 0.0, "id": 2777819126, "level": 2}
+{"count": 3717, "name": "Value engineering", "weight": 0.0, "id": 71822192, "level": 2}
+{"count": 3648, "name": "Intermediate product", "weight": 0.0, "id": 2780938118, "level": 2}
+{"count": 5614, "name": "Remanufacturing", "weight": 0.0, "id": 2778738845, "level": 2}
+{"count": 2748, "name": "Cellular manufacturing", "weight": 0.0, "id": 2778106978, "level": 2}
+{"count": 2044, "name": "Visual control", "weight": 0.0, "id": 2780527621, "level": 2}
+{"count": 38506, "name": "Total cost", "weight": 2.0, "id": 182299520, "level": 2}
+{"count": 3871, "name": "Batch production", "weight": 0.0, "id": 2776043813, "level": 2}
+{"count": 3069, "name": "Stock management", "weight": 0.0, "id": 150418976, "level": 2}
+{"count": 2217, "name": "Standard operating procedure", "weight": 0.0, "id": 2778974597, "level": 2}
+{"count": 5274, "name": "Shipyard", "weight": 0.0, "id": 86154893, "level": 2}
+{"count": 5527, "name": "Operating expense", "weight": 0.0, "id": 87450203, "level": 2}
+{"count": 8587, "name": "Operational efficiency", "weight": 0.0, "id": 2778964270, "level": 2}
+{"count": 3878, "name": "Air cargo", "weight": 0.0, "id": 2778788726, "level": 2}
+{"count": 25306, "name": "Pareto principle", "weight": 1.0, "id": 137635306, "level": 2}
+{"count": 2321, "name": "Build to order", "weight": 0.0, "id": 142000545, "level": 2}
+{"count": 11918, "name": "Advanced manufacturing", "weight": 0.0, "id": 77854861, "level": 2}
+{"count": 5346, "name": "Original equipment manufacturer", "weight": 0.0, "id": 68694590, "level": 2}
+{"count": 5778, "name": "Payback period", "weight": 0.0, "id": 144553756, "level": 2}
+{"count": 2893, "name": "Quality costs", "weight": 0.0, "id": 86920780, "level": 2}
+{"count": 2445, "name": "Combat readiness", "weight": 0.0, "id": 2775923906, "level": 2}
+{"count": 5461, "name": "Materials management", "weight": 0.0, "id": 78285338, "level": 2}
+{"count": 7466, "name": "Continuous monitoring", "weight": 0.0, "id": 2776902269, "level": 2}
+{"count": 2311, "name": "Theory of constraints", "weight": 0.0, "id": 161036016, "level": 2}
+{"count": 1392, "name": "Good manufacturing practice", "weight": 0.0, "id": 2779709869, "level": 2}
+{"count": 3521, "name": "CUSUM", "weight": 0.0, "id": 178518018, "level": 2}
+{"count": 7368, "name": "Warranty", "weight": 0.0, "id": 2779056723, "level": 2}
+{"count": 3060, "name": "Kaizen", "weight": 0.0, "id": 2776600044, "level": 2}
+{"count": 2768, "name": "Unit price", "weight": 0.0, "id": 8326231, "level": 2}
+{"count": 2878, "name": "Kanban", "weight": 0.0, "id": 2775914053, "level": 2}
+{"count": 955, "name": "Extended enterprise", "weight": 0.0, "id": 2777660587, "level": 2}
+{"count": 1891, "name": "Inventory turnover", "weight": 0.0, "id": 199226685, "level": 2}
+{"count": 1783, "name": "Total cost of ownership", "weight": 0.0, "id": 2778434605, "level": 2}
+{"count": 1574, "name": "Stock control", "weight": 0.0, "id": 134209975, "level": 2}
+{"count": 5453, "name": "Cost database", "weight": 0.0, "id": 15716912, "level": 2}
+{"count": 8345, "name": "Utilization rate", "weight": 0.0, "id": 2778275397, "level": 2}
+{"count": 2113, "name": "Life-cycle cost analysis", "weight": 0.0, "id": 2778580826, "level": 2}
+{"count": 1832, "name": "External quality assessment", "weight": 0.0, "id": 2778618615, "level": 2}
+{"count": 3076, "name": "PDCA", "weight": 0.0, "id": 66882329, "level": 2}
+{"count": 2388, "name": "Capacity management", "weight": 0.0, "id": 191068436, "level": 2}
+{"count": 14676, "name": "Time horizon", "weight": 0.0, "id": 28761237, "level": 2}
+{"count": 3202, "name": "Transshipment", "weight": 0.0, "id": 87296916, "level": 2}
+{"count": 6398, "name": "Scientific management", "weight": 0.0, "id": 754379, "level": 2}
+{"count": 4208, "name": "Turnaround time", "weight": 0.0, "id": 176553487, "level": 2}
+{"count": 1487, "name": "Total productive maintenance", "weight": 0.0, "id": 3285680, "level": 2}
+{"count": 3496, "name": "Cold chain", "weight": 0.0, "id": 2780114722, "level": 2}
+{"count": 2318, "name": "Break-even (economics)", "weight": 0.0, "id": 86223996, "level": 2}
+{"count": 1075, "name": "Work Measurement", "weight": 0.0, "id": 2777618087, "level": 2}
+{"count": 5028, "name": "Peak demand", "weight": 0.0, "id": 147940328, "level": 2}
+{"count": 3104, "name": "Lesson study", "weight": 0.0, "id": 2776089186, "level": 2}
+{"count": 1816, "name": "Low-cost carrier", "weight": 0.0, "id": 175353025, "level": 2}
+{"count": 1980, "name": "Finished good", "weight": 0.0, "id": 161741011, "level": 2}
+{"count": 1791, "name": "Quality circle", "weight": 0.0, "id": 111162892, "level": 2}
+{"count": 1390, "name": "Common cause and special cause", "weight": 0.0, "id": 14396502, "level": 2}
+{"count": 5581, "name": "Overtime", "weight": 0.0, "id": 2780407378, "level": 2}
+{"count": 1083, "name": "Quality by Design", "weight": 0.0, "id": 204320433, "level": 2}
+{"count": 3174, "name": "Hot stamping", "weight": 0.0, "id": 2779771641, "level": 2}
+{"count": 510, "name": "Personal effectiveness", "weight": 0.0, "id": 82107236, "level": 2}
+{"count": 2427, "name": "Bulk cargo", "weight": 0.0, "id": 206037427, "level": 2}
+{"count": 4419, "name": "Rework", "weight": 0.0, "id": 2776543023, "level": 2}
+{"count": 3057, "name": "Operational planning", "weight": 0.0, "id": 2776613951, "level": 2}
+{"count": 1218, "name": "Green logistics", "weight": 0.0, "id": 2780040678, "level": 2}
+{"count": 405, "name": "Experience curve effects", "weight": 0.0, "id": 21877207, "level": 2}
+{"count": 1320, "name": "Spoke-hub distribution paradigm", "weight": 0.0, "id": 120387236, "level": 2}
+{"count": 1473, "name": "Conformity assessment", "weight": 0.0, "id": 5911748, "level": 2}
+{"count": 8781, "name": "Humanitarian Logistics", "weight": 0.0, "id": 205548138, "level": 2}
+{"count": 3778, "name": "Line management", "weight": 0.0, "id": 40213455, "level": 2}
+{"count": 1613, "name": "Go/no go", "weight": 0.0, "id": 67225533, "level": 2}
+{"count": 3144, "name": "Cost driver", "weight": 0.0, "id": 95821633, "level": 2}
+{"count": 1098, "name": "Rush hour", "weight": 0.0, "id": 2777579922, "level": 2}
+{"count": 1933, "name": "Order processing", "weight": 0.0, "id": 156749511, "level": 2}
+{"count": 446, "name": "Peak-load pricing", "weight": 0.0, "id": 2776677171, "level": 2}
+{"count": 941, "name": "Contract price", "weight": 0.0, "id": 2778315431, "level": 2}
+{"count": 6044, "name": "Unit cost", "weight": 0.0, "id": 87864170, "level": 2}
+{"count": 1053, "name": "Framework agreement", "weight": 0.0, "id": 2776464061, "level": 2}
+{"count": 2328, "name": "Rejection rate", "weight": 0.0, "id": 140685023, "level": 2}
+{"count": 1582, "name": "Stockout", "weight": 0.0, "id": 50601946, "level": 2}
+{"count": 565, "name": "Freight forwarder", "weight": 0.0, "id": 2776141452, "level": 2}
+{"count": 1029, "name": "Overall equipment effectiveness", "weight": 0.0, "id": 2781106871, "level": 2}
+{"count": 1106, "name": "Load shifting", "weight": 0.0, "id": 2777030403, "level": 2}
+{"count": 1248, "name": "Change order", "weight": 0.0, "id": 158045935, "level": 2}
+{"count": 459, "name": "On-time performance", "weight": 0.0, "id": 2780836475, "level": 2}
+{"count": 1041, "name": "Lost sales", "weight": 0.0, "id": 2781161759, "level": 2}
+{"count": 3190, "name": "Postponement", "weight": 0.0, "id": 2779466795, "level": 2}
+{"count": 211, "name": "Good engineering practice", "weight": 0.0, "id": 2778379900, "level": 2}
+{"count": 1033, "name": "Regulatory affairs", "weight": 0.0, "id": 2780511413, "level": 2}
+{"count": 1317, "name": "Digital manufacturing", "weight": 0.0, "id": 2780841897, "level": 2}
+{"count": 655, "name": "ABC analysis", "weight": 0.0, "id": 2780235804, "level": 2}
+{"count": 968, "name": "Location-allocation", "weight": 0.0, "id": 2778212267, "level": 2}
+{"count": 738, "name": "Alternative fuel vehicle", "weight": 0.0, "id": 13763315, "level": 2}
+{"count": 1509, "name": "Product testing", "weight": 0.0, "id": 526771534, "level": 2}
+{"count": 2731, "name": "Airlift", "weight": 0.0, "id": 2779593757, "level": 2}
+{"count": 678, "name": "Short sea shipping", "weight": 0.0, "id": 2779279276, "level": 2}
+{"count": 1183, "name": "Operating budget", "weight": 0.0, "id": 58048580, "level": 2}
+{"count": 2716, "name": "Consumer Bill of Rights", "weight": 0.0, "id": 20220385, "level": 2}
+{"count": 3321, "name": "Factor cost", "weight": 0.0, "id": 100709819, "level": 2}
+{"count": 519, "name": "Ishikawa diagram", "weight": 0.0, "id": 70726487, "level": 2}
+{"count": 2909, "name": "Thinking processes", "weight": 0.0, "id": 187179951, "level": 2}
+{"count": 697, "name": "Investment control", "weight": 0.0, "id": 2779577709, "level": 2}
+{"count": 1296, "name": "Inventory valuation", "weight": 0.0, "id": 143385712, "level": 2}
+{"count": 3074, "name": "Holding cost", "weight": 0.0, "id": 192365026, "level": 2}
+{"count": 304, "name": "Military rations", "weight": 0.0, "id": 2778223614, "level": 2}
+{"count": 2137, "name": "Punctuality", "weight": 0.0, "id": 2779548549, "level": 2}
+{"count": 1450, "name": "Nonconformity", "weight": 0.0, "id": 2781103444, "level": 2}
+{"count": 549, "name": "Dominant design", "weight": 0.0, "id": 2776228155, "level": 2}
+{"count": 125, "name": "Reserve power", "weight": 0.0, "id": 2780357294, "level": 2}
+{"count": 1430, "name": "Logistics center", "weight": 0.0, "id": 2776756026, "level": 2}
+{"count": 345, "name": "Contingent work", "weight": 0.0, "id": 2776898870, "level": 2}
+{"count": 1705, "name": "Consignment", "weight": 0.0, "id": 101516089, "level": 2}
+{"count": 1886, "name": "Mura", "weight": 0.0, "id": 2776147852, "level": 2}
+{"count": 2835, "name": "Seven Basic Tools of Quality", "weight": 0.0, "id": 113296540, "level": 2}
+{"count": 696, "name": "Work sampling", "weight": 0.0, "id": 2778298967, "level": 2}
+{"count": 29225, "name": "Subtitle", "weight": 1.0, "id": 2780364048, "level": 2}
+{"count": 771, "name": "Pareto chart", "weight": 0.0, "id": 15165950, "level": 2}
+{"count": 12823, "name": "Root cause", "weight": 0.0, "id": 84945661, "level": 2}
+{"count": 889, "name": "Bill of materials", "weight": 0.0, "id": 2779799902, "level": 2}
+{"count": 658, "name": "Contribution margin", "weight": 0.0, "id": 102723702, "level": 2}
+{"count": 882, "name": "Statistical thinking", "weight": 0.0, "id": 2779765252, "level": 2}
+{"count": 2325, "name": "Transfer line", "weight": 0.0, "id": 2781029164, "level": 2}
+{"count": 2375, "name": "Integrated production", "weight": 0.0, "id": 66341344, "level": 2}
+{"count": 533, "name": "Deferred maintenance", "weight": 0.0, "id": 112008065, "level": 2}
+{"count": 1157, "name": "Operational excellence", "weight": 0.0, "id": 2778597612, "level": 2}
+{"count": 250, "name": "Just-in-time manufacturing", "weight": 0.0, "id": 2777635934, "level": 2}
+{"count": 1467, "name": "Forwarder", "weight": 0.0, "id": 2781363737, "level": 2}
+{"count": 2912, "name": "Purchase order", "weight": 0.0, "id": 134418285, "level": 2}
+{"count": 914, "name": "Physical test", "weight": 0.0, "id": 2780259907, "level": 2}
+{"count": 393, "name": "Logistics engineering", "weight": 0.0, "id": 2781094044, "level": 2}
+{"count": 219, "name": "Qubes", "weight": 0.0, "id": 2778096823, "level": 2}
+{"count": 1887, "name": "Takt time", "weight": 0.0, "id": 379567, "level": 2}
+{"count": 1851, "name": "Work order", "weight": 0.0, "id": 158066952, "level": 2}
+{"count": 446, "name": "Port State Control", "weight": 0.0, "id": 2778330474, "level": 2}
+{"count": 952, "name": "Grain elevator", "weight": 0.0, "id": 49578298, "level": 2}
+{"count": 347, "name": "5S", "weight": 0.0, "id": 162334176, "level": 2}
+{"count": 362, "name": "Technology life cycle", "weight": 0.0, "id": 2776155606, "level": 2}

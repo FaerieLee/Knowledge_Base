@@ -1,0 +1,5 @@
+{"count": 4598, "name": "Significant wave height", "weight": 10.0, "id": 85910571, "level": 3}
+{"count": 3258, "name": "Infragravity wave", "weight": 7.0, "id": 190791664, "level": 3}
+{"count": 143, "name": "Microbarom", "weight": 0.0, "id": 71756627, "level": 3}
+{"count": 2497, "name": "Wind wave model", "weight": 5.0, "id": 140927136, "level": 3}
+{"count": 15, "name": "Lysekil Project", "weight": 0.0, "id": 2779314743, "level": 3}

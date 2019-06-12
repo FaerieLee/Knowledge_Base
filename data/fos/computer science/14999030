@@ -1,0 +1,6 @@
+{"count": 280, "name": "Concatenative synthesis", "weight": 3.0, "id": 2780693439, "level": 3}
+{"count": 301, "name": "Text normalization", "weight": 3.0, "id": 2776524288, "level": 3}
+{"count": 262, "name": "PSOLA", "weight": 3.0, "id": 2779307609, "level": 3}
+{"count": 544, "name": "Diphone", "weight": 6.0, "id": 2780859827, "level": 3}
+{"count": 160, "name": "Articulatory synthesis", "weight": 1.0, "id": 2777175421, "level": 3}
+{"count": 877, "name": "Chinese speech synthesis", "weight": 10.0, "id": 73411735, "level": 3}

@@ -1,0 +1,8 @@
+{"count": 868, "name": "Dead code elimination", "weight": 10.0, "id": 2144512, "level": 5}
+{"count": 488, "name": "Threaded code", "weight": 5.0, "id": 176486055, "level": 5}
+{"count": 836, "name": "Self-modifying code", "weight": 9.0, "id": 161353683, "level": 5}
+{"count": 721, "name": "Code bloat", "weight": 8.0, "id": 126471770, "level": 5}
+{"count": 738, "name": "Code Access Security", "weight": 8.0, "id": 146870623, "level": 5}
+{"count": 36, "name": "Undefined variable", "weight": 0.0, "id": 105756495, "level": 5}
+{"count": 492, "name": "Loop-invariant code motion", "weight": 5.0, "id": 36270733, "level": 5}
+{"count": 16, "name": "Blittable types", "weight": 0.0, "id": 159583250, "level": 5}

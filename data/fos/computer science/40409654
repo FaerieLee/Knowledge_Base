@@ -1,0 +1,27 @@
+{"count": 7034, "name": "Frequency-division multiplexing", "weight": 6.0, "id": 89061704, "level": 4}
+{"count": 5090, "name": "Frequency-division multiple access", "weight": 4.0, "id": 2776208322, "level": 4}
+{"count": 11545, "name": "Frequency offset", "weight": 10.0, "id": 49319798, "level": 4}
+{"count": 4104, "name": "Cyclic prefix", "weight": 3.0, "id": 2778775284, "level": 4}
+{"count": 4732, "name": "Orthogonal frequency-division multiple access", "weight": 4.0, "id": 2775907427, "level": 4}
+{"count": 10484, "name": "Subcarrier", "weight": 9.0, "id": 198329298, "level": 4}
+{"count": 1621, "name": "Digital audio broadcasting", "weight": 1.0, "id": 2779106878, "level": 4}
+{"count": 1561, "name": "Guard interval", "weight": 1.0, "id": 2777796584, "level": 4}
+{"count": 532, "name": "Error vector magnitude", "weight": 0.0, "id": 161612827, "level": 4}
+{"count": 10929, "name": "MIMO-OFDM", "weight": 9.0, "id": 130946814, "level": 4}
+{"count": 1445, "name": "DVB-T", "weight": 1.0, "id": 2777058275, "level": 4}
+{"count": 1152, "name": "IEEE 802.11a-1999", "weight": 0.0, "id": 50515283, "level": 4}
+{"count": 1812, "name": "Companding", "weight": 1.0, "id": 104250799, "level": 4}
+{"count": 48, "name": "Spectrum pooling", "weight": 0.0, "id": 2780422808, "level": 4}
+{"count": 484, "name": "Cyclic delay diversity", "weight": 0.0, "id": 2777147546, "level": 4}
+{"count": 598, "name": "SC-FDE", "weight": 0.0, "id": 2781397150, "level": 4}
+{"count": 278, "name": "Carrier interferometry", "weight": 0.0, "id": 2777845385, "level": 4}
+{"count": 369, "name": "IQ imbalance", "weight": 0.0, "id": 2778619084, "level": 4}
+{"count": 245, "name": "Digital Radio Mondiale", "weight": 0.0, "id": 2777967102, "level": 4}
+{"count": 261, "name": "Water filling algorithm", "weight": 0.0, "id": 21705452, "level": 4}
+{"count": 112, "name": "Zadoff\u2013Chu sequence", "weight": 0.0, "id": 2780538828, "level": 4}
+{"count": 47, "name": "Bussgang theorem", "weight": 0.0, "id": 2779330191, "level": 4}
+{"count": 8, "name": "Dynamic single-frequency networks", "weight": 0.0, "id": 2780510757, "level": 4}
+{"count": 29, "name": "China Multimedia Mobile Broadcasting", "weight": 0.0, "id": 2780671870, "level": 4}
+{"count": 64, "name": "MSML", "weight": 0.0, "id": 2776428250, "level": 4}
+{"count": 35, "name": "Frequency ambiguity resolution", "weight": 0.0, "id": 2777693100, "level": 4}
+{"count": 21, "name": "Bandplan", "weight": 0.0, "id": 2778859121, "level": 4}

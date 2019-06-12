@@ -1,0 +1,12 @@
+{"count": 1155, "name": "6LoWPAN", "weight": 2.0, "id": 99400001, "level": 4}
+{"count": 4519, "name": "IPv4", "weight": 10.0, "id": 2779233093, "level": 4}
+{"count": 2524, "name": "IPv6 address", "weight": 5.0, "id": 204142451, "level": 4}
+{"count": 336, "name": "DHCPv6", "weight": 0.0, "id": 2781459675, "level": 4}
+{"count": 177, "name": "Secure Neighbor Discovery", "weight": 0.0, "id": 12546149, "level": 4}
+{"count": 37, "name": "Unidirectional Lightweight Encapsulation", "weight": 0.0, "id": 2777549458, "level": 4}
+{"count": 519, "name": "IPv6 packet", "weight": 1.0, "id": 85187216, "level": 4}
+{"count": 24, "name": "Identifier/Locator Network Protocol", "weight": 0.0, "id": 2776403400, "level": 4}
+{"count": 8, "name": "Teredo tunneling", "weight": 0.0, "id": 2778196491, "level": 4}
+{"count": 15, "name": "Internet Control Message Protocol version 6", "weight": 0.0, "id": 2780275859, "level": 4}
+{"count": 8, "name": "Multiprotocol BGP", "weight": 0.0, "id": 2777935908, "level": 4}
+{"count": 7, "name": "IPv4 Residual Deployment", "weight": 0.0, "id": 2780019570, "level": 4}

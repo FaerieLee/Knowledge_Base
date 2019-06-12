@@ -1,0 +1,9 @@
+{"count": 508, "name": "Globally asynchronous locally synchronous", "weight": 1.0, "id": 2780070417, "level": 3}
+{"count": 2655, "name": "Universal asynchronous receiver/transmitter", "weight": 10.0, "id": 161911788, "level": 3}
+{"count": 715, "name": "Asynchronous operation", "weight": 2.0, "id": 34845716, "level": 3}
+{"count": 541, "name": "Asynchronous method invocation", "weight": 2.0, "id": 8973012, "level": 3}
+{"count": 149, "name": "Asynchronous I/O", "weight": 0.0, "id": 43397165, "level": 3}
+{"count": 671, "name": "Asynchronous serial communication", "weight": 2.0, "id": 57485573, "level": 3}
+{"count": 1174, "name": "Synchronous serial communication", "weight": 4.0, "id": 155787647, "level": 3}
+{"count": 96, "name": "Asynchronous serial interface", "weight": 0.0, "id": 2775885681, "level": 3}
+{"count": 48, "name": "Channel (programming)", "weight": 0.0, "id": 45746551, "level": 3}

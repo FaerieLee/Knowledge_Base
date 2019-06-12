@@ -1,0 +1,47 @@
+{"count": 20520, "name": "Soil conservation", "weight": 10.0, "id": 109162521, "level": 3}
+{"count": 9569, "name": "Soil retrogression and degradation", "weight": 4.0, "id": 141185391, "level": 3}
+{"count": 7376, "name": "Erosion control", "weight": 3.0, "id": 2780833732, "level": 3}
+{"count": 7643, "name": "Coastal erosion", "weight": 3.0, "id": 154261466, "level": 3}
+{"count": 2432, "name": "Bank erosion", "weight": 1.0, "id": 64584415, "level": 3}
+{"count": 4646, "name": "Denudation", "weight": 2.0, "id": 87432785, "level": 3}
+{"count": 268, "name": "Drainage divide", "weight": 0.0, "id": 12729749, "level": 3}
+{"count": 2776, "name": "Universal Soil Loss Equation", "weight": 1.0, "id": 2777610965, "level": 3}
+{"count": 2525, "name": "Erosion corrosion", "weight": 1.0, "id": 106303946, "level": 3}
+{"count": 4251, "name": "Siltation", "weight": 2.0, "id": 206700591, "level": 3}
+{"count": 3253, "name": "Beach nourishment", "weight": 1.0, "id": 139146106, "level": 3}
+{"count": 4344, "name": "Deposition (geology)", "weight": 2.0, "id": 64297162, "level": 3}
+{"count": 1186, "name": "Sediment control", "weight": 0.0, "id": 2780981602, "level": 3}
+{"count": 1796, "name": "Mass wasting", "weight": 0.0, "id": 38458734, "level": 3}
+{"count": 884, "name": "Overwash", "weight": 0.0, "id": 2779462494, "level": 3}
+{"count": 399, "name": "Erosion surface", "weight": 0.0, "id": 2780099070, "level": 3}
+{"count": 615, "name": "Check dam", "weight": 0.0, "id": 2776227726, "level": 3}
+{"count": 736, "name": "Foredune", "weight": 0.0, "id": 2778986533, "level": 3}
+{"count": 295, "name": "Soil bioengineering", "weight": 0.0, "id": 2778577444, "level": 3}
+{"count": 730, "name": "Internal erosion", "weight": 0.0, "id": 2779606758, "level": 3}
+{"count": 552, "name": "Peneplain", "weight": 0.0, "id": 182949541, "level": 3}
+{"count": 191, "name": "River incision", "weight": 0.0, "id": 2778380848, "level": 3}
+{"count": 1657, "name": "Rill", "weight": 0.0, "id": 2779135002, "level": 3}
+{"count": 216, "name": "Cycle of erosion", "weight": 0.0, "id": 25481499, "level": 3}
+{"count": 247, "name": "Planation surface", "weight": 0.0, "id": 2779776539, "level": 3}
+{"count": 112, "name": "SHETRAN", "weight": 0.0, "id": 2779447469, "level": 3}
+{"count": 51, "name": "Burned area emergency response", "weight": 0.0, "id": 2776745867, "level": 3}
+{"count": 381, "name": "Headward erosion", "weight": 0.0, "id": 182126134, "level": 3}
+{"count": 174, "name": "Hypsometric curve", "weight": 0.0, "id": 150600104, "level": 3}
+{"count": 275, "name": "Landscape evolution model", "weight": 0.0, "id": 2776875504, "level": 3}
+{"count": 61, "name": "Horton overland flow", "weight": 0.0, "id": 63931902, "level": 3}
+{"count": 61, "name": "Wave-cut platform", "weight": 0.0, "id": 8092218, "level": 3}
+{"count": 45, "name": "Tree throw", "weight": 0.0, "id": 2775839585, "level": 3}
+{"count": 120, "name": "Corrasion", "weight": 0.0, "id": 110405619, "level": 3}
+{"count": 191, "name": "Erodability", "weight": 0.0, "id": 2780338631, "level": 3}
+{"count": 49, "name": "Grassed waterway", "weight": 0.0, "id": 2780547781, "level": 3}
+{"count": 102, "name": "Groundwater sapping", "weight": 0.0, "id": 2776572357, "level": 3}
+{"count": 97, "name": "Overdeepening", "weight": 0.0, "id": 2780144284, "level": 3}
+{"count": 21, "name": "Lynchet", "weight": 0.0, "id": 4289732, "level": 3}
+{"count": 33, "name": "Depression storage capacity", "weight": 0.0, "id": 67719675, "level": 3}
+{"count": 171, "name": "Erosion and tectonics", "weight": 0.0, "id": 50169152, "level": 3}
+{"count": 26, "name": "River bank failure", "weight": 0.0, "id": 2781436672, "level": 3}
+{"count": 21, "name": "Terracette", "weight": 0.0, "id": 2779131275, "level": 3}
+{"count": 41, "name": "River channel migration", "weight": 0.0, "id": 2781010294, "level": 3}
+{"count": 13, "name": "Weraroa", "weight": 0.0, "id": 2779303049, "level": 3}
+{"count": 32, "name": "Permanent vegetative cover", "weight": 0.0, "id": 2779648537, "level": 3}
+{"count": 1675, "name": "Vegetation and slope stability", "weight": 0.0, "id": 31600081, "level": 3}

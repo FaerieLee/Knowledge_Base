@@ -1,0 +1,8 @@
+{"count": 503, "name": "Variable-geometry turbocharger", "weight": 2.0, "id": 2778832254, "level": 4}
+{"count": 288, "name": "Compressor map", "weight": 1.0, "id": 2778063886, "level": 4}
+{"count": 2027, "name": "Naturally aspirated engine", "weight": 10.0, "id": 91337280, "level": 4}
+{"count": 741, "name": "Wastegate", "weight": 3.0, "id": 2776822376, "level": 4}
+{"count": 30, "name": "Hybrid turbocharger", "weight": 0.0, "id": 2776734430, "level": 4}
+{"count": 98, "name": "Twin-turbo", "weight": 0.0, "id": 2777292999, "level": 4}
+{"count": 55, "name": "Turbine map", "weight": 0.0, "id": 2781337760, "level": 4}
+{"count": 50, "name": "Turbo-compound engine", "weight": 0.0, "id": 2779174137, "level": 4}

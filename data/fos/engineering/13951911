@@ -1,0 +1,17 @@
+{"count": 9599, "name": "Traffic simulation", "weight": 9.0, "id": 2778391309, "level": 3}
+{"count": 1454, "name": "Traffic count", "weight": 1.0, "id": 2780866138, "level": 3}
+{"count": 1777, "name": "Highway Capacity Manual", "weight": 1.0, "id": 2776983907, "level": 3}
+{"count": 643, "name": "Cell Transmission Model", "weight": 0.0, "id": 139417690, "level": 3}
+{"count": 10333, "name": "Floating car data", "weight": 10.0, "id": 64093975, "level": 3}
+{"count": 3094, "name": "Signal timing", "weight": 2.0, "id": 2776006172, "level": 3}
+{"count": 480, "name": "Cooperative Adaptive Cruise Control", "weight": 0.0, "id": 2780150632, "level": 3}
+{"count": 278, "name": "One-way traffic", "weight": 0.0, "id": 2778546251, "level": 3}
+{"count": 154, "name": "Ground delay program", "weight": 0.0, "id": 2777135535, "level": 3}
+{"count": 2119, "name": "Microscopic traffic flow model", "weight": 2.0, "id": 205269179, "level": 3}
+{"count": 197, "name": "Reversible lane", "weight": 0.0, "id": 2777471869, "level": 3}
+{"count": 155, "name": "Climbing lane", "weight": 0.0, "id": 2776551011, "level": 3}
+{"count": 76, "name": "Nagel\u2013Schreckenberg model", "weight": 0.0, "id": 2779680406, "level": 3}
+{"count": 85, "name": "Uncontrolled intersection", "weight": 0.0, "id": 2775872601, "level": 3}
+{"count": 7065, "name": "Vehicle Information and Communication System", "weight": 6.0, "id": 146799927, "level": 3}
+{"count": 288, "name": "Diamond interchange", "weight": 0.0, "id": 2777488192, "level": 3}
+{"count": 7516, "name": "Traffic congestion reconstruction with Kerner's three-phase theory", "weight": 7.0, "id": 25492975, "level": 3}

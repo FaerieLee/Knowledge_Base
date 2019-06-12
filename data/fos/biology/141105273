@@ -1,0 +1,30 @@
+{"count": 1954, "name": "Aeroallergen", "weight": 3.0, "id": 2778391694, "level": 4}
+{"count": 5181, "name": "Basophil", "weight": 10.0, "id": 2777456892, "level": 4}
+{"count": 1605, "name": "Radioallergosorbent test", "weight": 3.0, "id": 2780451875, "level": 4}
+{"count": 2159, "name": "Allergic bronchopulmonary aspergillosis", "weight": 4.0, "id": 2778871687, "level": 4}
+{"count": 3296, "name": "Omalizumab", "weight": 6.0, "id": 2778564945, "level": 4}
+{"count": 1719, "name": "Peanut allergy", "weight": 3.0, "id": 2778012357, "level": 4}
+{"count": 713, "name": "Oral allergy syndrome", "weight": 1.0, "id": 2780596994, "level": 4}
+{"count": 3233, "name": "CD23", "weight": 6.0, "id": 34814297, "level": 4}
+{"count": 686, "name": "Oral food challenge", "weight": 1.0, "id": 2776203516, "level": 4}
+{"count": 879, "name": "Egg allergy", "weight": 1.0, "id": 2777752580, "level": 4}
+{"count": 1195, "name": "SCORAD", "weight": 2.0, "id": 2780501606, "level": 4}
+{"count": 425, "name": "Fel d 1", "weight": 0.0, "id": 2776967454, "level": 4}
+{"count": 349, "name": "Nasal provocation test", "weight": 0.0, "id": 2776472760, "level": 4}
+{"count": 463, "name": "Wheat allergy", "weight": 0.0, "id": 2781369853, "level": 4}
+{"count": 498, "name": "Timothy-grass", "weight": 0.0, "id": 2780086673, "level": 4}
+{"count": 2048, "name": "Allergic response", "weight": 3.0, "id": 2776953665, "level": 4}
+{"count": 229, "name": "Allergoid", "weight": 0.0, "id": 2777404416, "level": 4}
+{"count": 116, "name": "Cross-reactive carbohydrate determinants", "weight": 0.0, "id": 2780762271, "level": 4}
+{"count": 126, "name": "Fruit allergy", "weight": 0.0, "id": 2776023512, "level": 4}
+{"count": 218, "name": "Dock8", "weight": 0.0, "id": 2779333739, "level": 4}
+{"count": 642, "name": "Type I hypersensitivity", "weight": 1.0, "id": 2780232473, "level": 4}
+{"count": 160, "name": "FCER1", "weight": 0.0, "id": 2775885226, "level": 4}
+{"count": 862, "name": "Dander", "weight": 1.0, "id": 74962801, "level": 4}
+{"count": 206, "name": "Phadebas", "weight": 0.0, "id": 2777811719, "level": 4}
+{"count": 70, "name": "Animal allergy", "weight": 0.0, "id": 2781292997, "level": 4}
+{"count": 151, "name": "Shellfish allergy", "weight": 0.0, "id": 2779725137, "level": 4}
+{"count": 96, "name": "FCER1A", "weight": 0.0, "id": 2776988797, "level": 4}
+{"count": 88, "name": "Galactose-alpha-1,3-galactose", "weight": 0.0, "id": 2777117682, "level": 4}
+{"count": 17, "name": "Corn allergy", "weight": 0.0, "id": 2776650433, "level": 4}
+{"count": 22, "name": "Allergy to cats", "weight": 0.0, "id": 2779956377, "level": 4}

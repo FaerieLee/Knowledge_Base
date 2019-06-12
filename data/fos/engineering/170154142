@@ -1,0 +1,70 @@
+{"count": 59675, "name": "Penetration (firestop)", "weight": 10.0, "id": 104493866, "level": 2}
+{"count": 3524, "name": "Atrium (architecture)", "weight": 0.0, "id": 114021368, "level": 2}
+{"count": 15962, "name": "Thermal comfort", "weight": 2.0, "id": 133913538, "level": 2}
+{"count": 15288, "name": "Building design", "weight": 2.0, "id": 190831278, "level": 2}
+{"count": 18779, "name": "HVAC", "weight": 3.0, "id": 122346748, "level": 2}
+{"count": 19606, "name": "Fire protection", "weight": 3.0, "id": 122156500, "level": 2}
+{"count": 6305, "name": "Building envelope", "weight": 1.0, "id": 196803488, "level": 2}
+{"count": 17916, "name": "Firefighting", "weight": 3.0, "id": 557531904, "level": 2}
+{"count": 9032, "name": "Fire prevention", "weight": 1.0, "id": 2777498119, "level": 2}
+{"count": 9048, "name": "Firewall (construction)", "weight": 1.0, "id": 192690888, "level": 2}
+{"count": 17796, "name": "Facade", "weight": 2.0, "id": 2780113678, "level": 2}
+{"count": 2862, "name": "Fire test", "weight": 0.0, "id": 124363303, "level": 2}
+{"count": 19038, "name": "Occupancy", "weight": 3.0, "id": 160331591, "level": 2}
+{"count": 3641, "name": "Building code", "weight": 0.0, "id": 2777212017, "level": 2}
+{"count": 5091, "name": "Fire detection", "weight": 0.0, "id": 2780836893, "level": 2}
+{"count": 5957, "name": "Fire control", "weight": 0.0, "id": 81545478, "level": 2}
+{"count": 4706, "name": "Thermal mass", "weight": 0.0, "id": 128014804, "level": 2}
+{"count": 925, "name": "Radiant cooling", "weight": 0.0, "id": 2777087718, "level": 2}
+{"count": 3122, "name": "TRNSYS", "weight": 0.0, "id": 2778457487, "level": 2}
+{"count": 7660, "name": "Guiding Principles", "weight": 1.0, "id": 2779422429, "level": 2}
+{"count": 1318, "name": "Post-occupancy evaluation", "weight": 0.0, "id": 2778215892, "level": 2}
+{"count": 1470, "name": "Fire performance", "weight": 0.0, "id": 2781465349, "level": 2}
+{"count": 3377, "name": "Fireproofing", "weight": 0.0, "id": 94422084, "level": 2}
+{"count": 820, "name": "Reflective surfaces", "weight": 0.0, "id": 39308168, "level": 2}
+{"count": 11473, "name": "Curtain wall", "weight": 1.0, "id": 2776187311, "level": 2}
+{"count": 451, "name": "Stachybotrys chartarum", "weight": 0.0, "id": 2777120075, "level": 2}
+{"count": 1243, "name": "Penetrant (mechanical, electrical, or structural)", "weight": 0.0, "id": 173215773, "level": 2}
+{"count": 680, "name": "Fire investigation", "weight": 0.0, "id": 2776634852, "level": 2}
+{"count": 3532, "name": "ASHRAE 90.1", "weight": 0.0, "id": 206145494, "level": 2}
+{"count": 779, "name": "Building engineering physics", "weight": 0.0, "id": 103008708, "level": 2}
+{"count": 6316, "name": "Fire extinguisher", "weight": 1.0, "id": 2778825863, "level": 2}
+{"count": 513, "name": "CASBEE", "weight": 0.0, "id": 2778722790, "level": 2}
+{"count": 310, "name": "Building inspection", "weight": 0.0, "id": 2778259003, "level": 2}
+{"count": 579, "name": "Low-rise", "weight": 0.0, "id": 2780391660, "level": 2}
+{"count": 2697, "name": "Standpipe (firefighting)", "weight": 0.0, "id": 161315499, "level": 2}
+{"count": 690, "name": "Building life cycle", "weight": 0.0, "id": 2780656496, "level": 2}
+{"count": 3474, "name": "Building science", "weight": 0.0, "id": 69752020, "level": 2}
+{"count": 572, "name": "Green wall", "weight": 0.0, "id": 2780389483, "level": 2}
+{"count": 4634, "name": "Smart lighting", "weight": 0.0, "id": 89505729, "level": 2}
+{"count": 684, "name": "Underfloor heating", "weight": 0.0, "id": 2777977549, "level": 2}
+{"count": 571, "name": "Solar Decathlon", "weight": 0.0, "id": 2780113057, "level": 2}
+{"count": 495, "name": "Fire-resistance rating", "weight": 0.0, "id": 150122244, "level": 2}
+{"count": 295, "name": "Chilled beam", "weight": 0.0, "id": 195058189, "level": 2}
+{"count": 208, "name": "Backdraft", "weight": 0.0, "id": 2778529586, "level": 2}
+{"count": 67, "name": "2-Hexanone", "weight": 0.0, "id": 2776812042, "level": 2}
+{"count": 153, "name": "Epipremnum aureum", "weight": 0.0, "id": 2778608425, "level": 2}
+{"count": 690, "name": "Fire pump", "weight": 0.0, "id": 2779804329, "level": 2}
+{"count": 98, "name": "Chamaedorea elegans", "weight": 0.0, "id": 2777186076, "level": 2}
+{"count": 1175, "name": "Fire escape", "weight": 0.0, "id": 2780042314, "level": 2}
+{"count": 47, "name": "Earthship", "weight": 0.0, "id": 161387119, "level": 2}
+{"count": 495, "name": "Fire sprinkler", "weight": 0.0, "id": 2780339069, "level": 2}
+{"count": 153, "name": "Fire sprinkler system", "weight": 0.0, "id": 2780766801, "level": 2}
+{"count": 153, "name": "Industrial fire", "weight": 0.0, "id": 2776385305, "level": 2}
+{"count": 66, "name": "Circuit integrity", "weight": 0.0, "id": 203048400, "level": 2}
+{"count": 64, "name": "Multi-family residential", "weight": 0.0, "id": 2778322343, "level": 2}
+{"count": 37, "name": "BS 7671", "weight": 0.0, "id": 1064095, "level": 2}
+{"count": 31, "name": "Clean room design", "weight": 0.0, "id": 2776893555, "level": 2}
+{"count": 32, "name": "Durisol", "weight": 0.0, "id": 2776197324, "level": 2}
+{"count": 17, "name": "Area of refuge", "weight": 0.0, "id": 2776341672, "level": 2}
+{"count": 96, "name": "Mechanical room", "weight": 0.0, "id": 2777472684, "level": 2}
+{"count": 20, "name": "Siamese connection", "weight": 0.0, "id": 103507932, "level": 2}
+{"count": 2, "name": "Airlog", "weight": 0.0, "id": 2780745767, "level": 2}
+{"count": 3, "name": "Certification listing", "weight": 0.0, "id": 2778764374, "level": 2}
+{"count": 4, "name": "Listing and approval use and compliance", "weight": 0.0, "id": 177158759, "level": 2}
+{"count": 4, "name": "Grease duct", "weight": 0.0, "id": 2777171079, "level": 2}
+{"count": 2, "name": "Indira Paryavaran Bhawan", "weight": 0.0, "id": 2777605325, "level": 2}
+{"count": 1, "name": "3-Methyl-2-pentanone", "weight": 0.0, "id": 2779653979, "level": 2}
+{"count": 41, "name": "Fire shelter", "weight": 0.0, "id": 133755612, "level": 2}
+{"count": 1, "name": "External water spray system", "weight": 0.0, "id": 2780603692, "level": 2}
+{"count": 1, "name": "Nephrolepis obliterata", "weight": 0.0, "id": 2776422615, "level": 2}

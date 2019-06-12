@@ -1,0 +1,16 @@
+{"count": 2762, "name": "Non-homologous end joining", "weight": 10.0, "id": 122917832, "level": 4}
+{"count": 1490, "name": "Holliday junction", "weight": 5.0, "id": 130965112, "level": 4}
+{"count": 1097, "name": "RecBCD", "weight": 3.0, "id": 174742784, "level": 4}
+{"count": 1763, "name": "Mitotic crossover", "weight": 6.0, "id": 127764415, "level": 4}
+{"count": 2650, "name": "RAD51", "weight": 9.0, "id": 2779012473, "level": 4}
+{"count": 2106, "name": "FLP-FRT recombination", "weight": 7.0, "id": 135300049, "level": 4}
+{"count": 369, "name": "Sgs1", "weight": 1.0, "id": 2777754453, "level": 4}
+{"count": 451, "name": "MRN complex", "weight": 1.0, "id": 142564062, "level": 4}
+{"count": 508, "name": "RecQ helicase", "weight": 1.0, "id": 2780751114, "level": 4}
+{"count": 341, "name": "Spo11", "weight": 1.0, "id": 2780684046, "level": 4}
+{"count": 672, "name": "Ectopic recombination", "weight": 2.0, "id": 50919411, "level": 4}
+{"count": 230, "name": "Recombination hotspot", "weight": 0.0, "id": 2777734642, "level": 4}
+{"count": 198, "name": "PRDM9", "weight": 0.0, "id": 2779897004, "level": 4}
+{"count": 140, "name": "RMI1", "weight": 0.0, "id": 2780816725, "level": 4}
+{"count": 61, "name": "MCM8", "weight": 0.0, "id": 2777762315, "level": 4}
+{"count": 440, "name": "Site-specific recombinase technology", "weight": 1.0, "id": 146298003, "level": 4}

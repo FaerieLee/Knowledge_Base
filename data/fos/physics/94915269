@@ -1,0 +1,103 @@
+{"count": 50171, "name": "Particle detector", "weight": 10.0, "id": 183680338, "level": 3}
+{"count": 13748, "name": "Photon counting", "weight": 2.0, "id": 2781402376, "level": 3}
+{"count": 9250, "name": "Avalanche photodiode", "weight": 1.0, "id": 109679912, "level": 3}
+{"count": 14729, "name": "Photomultiplier", "weight": 2.0, "id": 113879476, "level": 3}
+{"count": 29690, "name": "Scintillator", "weight": 5.0, "id": 161694136, "level": 3}
+{"count": 13046, "name": "Semiconductor detector", "weight": 2.0, "id": 148704626, "level": 3}
+{"count": 15371, "name": "Phase detector", "weight": 3.0, "id": 110086884, "level": 3}
+{"count": 11029, "name": "Infrared detector", "weight": 2.0, "id": 2779818494, "level": 3}
+{"count": 7575, "name": "X-ray detector", "weight": 1.0, "id": 146108262, "level": 3}
+{"count": 6310, "name": "Particle identification", "weight": 1.0, "id": 2779510917, "level": 3}
+{"count": 9035, "name": "Bolometer", "weight": 1.0, "id": 21028948, "level": 3}
+{"count": 10331, "name": "Preamplifier", "weight": 2.0, "id": 14245642, "level": 3}
+{"count": 1541, "name": "Nuclear electronics", "weight": 0.0, "id": 2780832482, "level": 3}
+{"count": 3441, "name": "Mercury cadmium telluride", "weight": 0.0, "id": 2778959120, "level": 3}
+{"count": 2094, "name": "Interaction point", "weight": 0.0, "id": 2778453073, "level": 3}
+{"count": 2745, "name": "Time projection chamber", "weight": 0.0, "id": 169192303, "level": 3}
+{"count": 2008, "name": "Detective quantum efficiency", "weight": 0.0, "id": 86169459, "level": 3}
+{"count": 1652, "name": "Focal Plane Arrays", "weight": 0.0, "id": 2781299968, "level": 3}
+{"count": 3146, "name": "LIGO", "weight": 0.0, "id": 2780688901, "level": 3}
+{"count": 1339, "name": "Compact Muon Solenoid", "weight": 0.0, "id": 2780509222, "level": 3}
+{"count": 3743, "name": "Microchannel plate detector", "weight": 0.0, "id": 104287447, "level": 3}
+{"count": 1241, "name": "Failure detector", "weight": 0.0, "id": 160629490, "level": 3}
+{"count": 1813, "name": "International Linear Collider", "weight": 0.0, "id": 2777289228, "level": 3}
+{"count": 12267, "name": "Responsivity", "weight": 2.0, "id": 178889773, "level": 3}
+{"count": 1330, "name": "Gas electron multiplier", "weight": 0.0, "id": 126093786, "level": 3}
+{"count": 3523, "name": "Silicon photomultiplier", "weight": 0.0, "id": 104335537, "level": 3}
+{"count": 1215, "name": "Cadmium zinc telluride", "weight": 0.0, "id": 2776614250, "level": 3}
+{"count": 1416, "name": "CR-39", "weight": 0.0, "id": 2780745476, "level": 3}
+{"count": 996, "name": "Silicon drift detector", "weight": 0.0, "id": 2777249081, "level": 3}
+{"count": 2071, "name": "Flat panel detector", "weight": 0.0, "id": 94898600, "level": 3}
+{"count": 591, "name": "CALICE", "weight": 0.0, "id": 2776097582, "level": 3}
+{"count": 4845, "name": "Proportional counter", "weight": 0.0, "id": 47560508, "level": 3}
+{"count": 3778, "name": "Solid angle", "weight": 0.0, "id": 166070808, "level": 3}
+{"count": 1134, "name": "MicroMegas detector", "weight": 0.0, "id": 30284251, "level": 3}
+{"count": 1595, "name": "Charge sharing", "weight": 0.0, "id": 2781179661, "level": 3}
+{"count": 1699, "name": "Coded aperture", "weight": 0.0, "id": 2779464207, "level": 3}
+{"count": 2540, "name": "Cherenkov detector", "weight": 0.0, "id": 124888863, "level": 3}
+{"count": 1824, "name": "Kinetic inductance", "weight": 0.0, "id": 107923615, "level": 3}
+{"count": 453, "name": "Radiation length", "weight": 0.0, "id": 2776076439, "level": 3}
+{"count": 499, "name": "Alpha Magnetic Spectrometer", "weight": 0.0, "id": 41613298, "level": 3}
+{"count": 2753, "name": "Radioactive source", "weight": 0.0, "id": 2777962739, "level": 3}
+{"count": 1029, "name": "Flame detector", "weight": 0.0, "id": 2779513438, "level": 3}
+{"count": 2803, "name": "ATLAS experiment", "weight": 0.0, "id": 2777065543, "level": 3}
+{"count": 2089, "name": "Thermal conductivity detector", "weight": 0.0, "id": 133033854, "level": 3}
+{"count": 977, "name": "Hodoscope", "weight": 0.0, "id": 176430495, "level": 3}
+{"count": 246, "name": "Cat's-whisker detector", "weight": 0.0, "id": 174569167, "level": 3}
+{"count": 2471, "name": "Motion detector", "weight": 0.0, "id": 2778382403, "level": 3}
+{"count": 484, "name": "Solid-state nuclear track detector", "weight": 0.0, "id": 2776940089, "level": 3}
+{"count": 3943, "name": "Air shower", "weight": 0.0, "id": 151456734, "level": 3}
+{"count": 980, "name": "Wire chamber", "weight": 0.0, "id": 112378827, "level": 3}
+{"count": 829, "name": "Event reconstruction", "weight": 0.0, "id": 2775853353, "level": 3}
+{"count": 610, "name": "Magnetic detector", "weight": 0.0, "id": 2777737143, "level": 3}
+{"count": 1303, "name": "Induction loop", "weight": 0.0, "id": 8406815, "level": 3}
+{"count": 196, "name": "Staring array", "weight": 0.0, "id": 2781177977, "level": 3}
+{"count": 743, "name": "Readout integrated circuit", "weight": 0.0, "id": 2776603980, "level": 3}
+{"count": 466, "name": "Constant fraction discriminator", "weight": 0.0, "id": 177765686, "level": 3}
+{"count": 245, "name": "Superconducting nanowire single-photon detector", "weight": 0.0, "id": 2777807228, "level": 3}
+{"count": 119, "name": "Flat-field correction", "weight": 0.0, "id": 2779841204, "level": 3}
+{"count": 167, "name": "Anti-scatter grid", "weight": 0.0, "id": 2777423577, "level": 3}
+{"count": 239, "name": "Muon tomography", "weight": 0.0, "id": 2778717261, "level": 3}
+{"count": 225, "name": "Position sensitive device", "weight": 0.0, "id": 2780843109, "level": 3}
+{"count": 130, "name": "Zero suppression", "weight": 0.0, "id": 94546878, "level": 3}
+{"count": 339, "name": "Heat detector", "weight": 0.0, "id": 2777456900, "level": 3}
+{"count": 146, "name": "Golay cell", "weight": 0.0, "id": 2777215697, "level": 3}
+{"count": 207, "name": "Time of flight detector", "weight": 0.0, "id": 2779832385, "level": 3}
+{"count": 272, "name": "Calorimeter (particle physics)", "weight": 0.0, "id": 18073261, "level": 3}
+{"count": 144, "name": "Roman pot", "weight": 0.0, "id": 2776651326, "level": 3}
+{"count": 1928, "name": "Gas chromatography ion detector", "weight": 0.0, "id": 47602665, "level": 3}
+{"count": 718, "name": "Noise-equivalent temperature", "weight": 0.0, "id": 2777571809, "level": 3}
+{"count": 444, "name": "Particle physics experiments", "weight": 0.0, "id": 2779736871, "level": 3}
+{"count": 73, "name": "Muography", "weight": 0.0, "id": 2781146295, "level": 3}
+{"count": 296, "name": "Beam crossing", "weight": 0.0, "id": 2777236017, "level": 3}
+{"count": 84, "name": "Supermodule", "weight": 0.0, "id": 2776197776, "level": 3}
+{"count": 101, "name": "Pixel geometry", "weight": 0.0, "id": 2780003111, "level": 3}
+{"count": 317, "name": "NA62 experiment", "weight": 0.0, "id": 2777732469, "level": 3}
+{"count": 113, "name": "Laser warning receiver", "weight": 0.0, "id": 143700934, "level": 3}
+{"count": 216, "name": "GlueX", "weight": 0.0, "id": 2777081946, "level": 3}
+{"count": 257, "name": "Cold shield", "weight": 0.0, "id": 2776389481, "level": 3}
+{"count": 258, "name": "Plate detector", "weight": 0.0, "id": 2779108096, "level": 3}
+{"count": 2282, "name": "Test light", "weight": 0.0, "id": 123392854, "level": 3}
+{"count": 31, "name": "Magnetic anomaly detector", "weight": 0.0, "id": 2776959900, "level": 3}
+{"count": 41, "name": "Straw tracker", "weight": 0.0, "id": 2780943789, "level": 3}
+{"count": 155, "name": "Ice detector", "weight": 0.0, "id": 84167998, "level": 3}
+{"count": 106, "name": "VEPP-2000", "weight": 0.0, "id": 2777767899, "level": 3}
+{"count": 88, "name": "High Luminosity Large Hadron Collider", "weight": 0.0, "id": 2780818262, "level": 3}
+{"count": 286, "name": "Water detector", "weight": 0.0, "id": 2779033382, "level": 3}
+{"count": 117, "name": "Digicon", "weight": 0.0, "id": 2776012508, "level": 3}
+{"count": 23, "name": "High time-resolution astrophysics", "weight": 0.0, "id": 2779756497, "level": 3}
+{"count": 117, "name": "Window detector", "weight": 0.0, "id": 2779748320, "level": 3}
+{"count": 72, "name": "Circular Electron Positron Collider", "weight": 0.0, "id": 2777171550, "level": 3}
+{"count": 71, "name": "Particle shower", "weight": 0.0, "id": 2781321235, "level": 3}
+{"count": 228, "name": "Hermetic detector", "weight": 0.0, "id": 69258756, "level": 3}
+{"count": 17, "name": "Orphan source", "weight": 0.0, "id": 104306197, "level": 3}
+{"count": 20, "name": "Quasi-peak detector", "weight": 0.0, "id": 2781289736, "level": 3}
+{"count": 38, "name": "Lidar detector", "weight": 0.0, "id": 2777935028, "level": 3}
+{"count": 28, "name": "Solar X-ray Imager", "weight": 0.0, "id": 2776088661, "level": 3}
+{"count": 18, "name": "Electrolytic detector", "weight": 0.0, "id": 50766129, "level": 3}
+{"count": 35, "name": "Falsing", "weight": 0.0, "id": 2779304688, "level": 3}
+{"count": 107, "name": "Explosimeter", "weight": 0.0, "id": 88566213, "level": 3}
+{"count": 233, "name": "Grid-leak detector", "weight": 0.0, "id": 62711739, "level": 3}
+{"count": 13, "name": "Meter water equivalent", "weight": 0.0, "id": 2779209354, "level": 3}
+{"count": 10, "name": "Korea Invisible Mass Search", "weight": 0.0, "id": 201911534, "level": 3}
+{"count": 31, "name": "Nuclear interaction length", "weight": 0.0, "id": 2779819111, "level": 3}

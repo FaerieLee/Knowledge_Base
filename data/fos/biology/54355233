@@ -1,0 +1,200 @@
+{"count": 323124, "name": "Cell culture", "weight": 3.0, "id": 81885089, "level": 2}
+{"count": 396688, "name": "Bacteria", "weight": 3.0, "id": 523546767, "level": 2}
+{"count": 1057615, "name": "Gene", "weight": 10.0, "id": 104317684, "level": 2}
+{"count": 439698, "name": "Chemotherapy", "weight": 4.0, "id": 2776694085, "level": 2}
+{"count": 413285, "name": "DNA", "weight": 3.0, "id": 552990157, "level": 2}
+{"count": 280426, "name": "Signal transduction", "weight": 2.0, "id": 62478195, "level": 2}
+{"count": 183430, "name": "In vitro", "weight": 1.0, "id": 202751555, "level": 2}
+{"count": 492765, "name": "Virus", "weight": 4.0, "id": 2522874641, "level": 2}
+{"count": 515449, "name": "Immune system", "weight": 4.0, "id": 8891405, "level": 2}
+{"count": 159009, "name": "Cell growth", "weight": 1.0, "id": 62112901, "level": 2}
+{"count": 494861, "name": "Pregnancy", "weight": 4.0, "id": 2779234561, "level": 2}
+{"count": 116726, "name": "Binding site", "weight": 1.0, "id": 107824862, "level": 2}
+{"count": 285322, "name": "Antibiotics", "weight": 2.0, "id": 501593827, "level": 2}
+{"count": 137916, "name": "Cell cycle", "weight": 1.0, "id": 29537977, "level": 2}
+{"count": 11896, "name": "Polymorphism (computer science)", "weight": 0.0, "id": 149737253, "level": 2}
+{"count": 187421, "name": "Cytokine", "weight": 1.0, "id": 2778690821, "level": 2}
+{"count": 111530, "name": "Phenotype", "weight": 1.0, "id": 127716648, "level": 2}
+{"count": 204128, "name": "RNA", "weight": 1.0, "id": 67705224, "level": 2}
+{"count": 10599, "name": "Environmental factor", "weight": 0.0, "id": 2779237853, "level": 2}
+{"count": 232431, "name": "Genotype", "weight": 2.0, "id": 135763542, "level": 2}
+{"count": 128384, "name": "Embryo", "weight": 1.0, "id": 196843134, "level": 2}
+{"count": 61216, "name": "Phylogenetics", "weight": 0.0, "id": 90132467, "level": 2}
+{"count": 71407, "name": "Glycoprotein", "weight": 0.0, "id": 108625454, "level": 2}
+{"count": 198266, "name": "Stem cell", "weight": 1.0, "id": 28328180, "level": 2}
+{"count": 113979, "name": "Cellular differentiation", "weight": 1.0, "id": 148738053, "level": 2}
+{"count": 166251, "name": "Tumor necrosis factor alpha", "weight": 1.0, "id": 17991360, "level": 2}
+{"count": 81252, "name": "Nucleotide", "weight": 0.0, "id": 512185932, "level": 2}
+{"count": 101295, "name": "Epithelium", "weight": 0.0, "id": 529295009, "level": 2}
+{"count": 72547, "name": "Saccharomyces cerevisiae", "weight": 0.0, "id": 2777576037, "level": 2}
+{"count": 134304, "name": "Nucleic acid", "weight": 1.0, "id": 24107716, "level": 2}
+{"count": 236997, "name": "In vivo", "weight": 2.0, "id": 207001950, "level": 2}
+{"count": 153116, "name": "Phosphorylation", "weight": 1.0, "id": 11960822, "level": 2}
+{"count": 414529, "name": "Carcinoma", "weight": 3.0, "id": 2777546739, "level": 2}
+{"count": 88255, "name": "Endothelial stem cell", "weight": 0.0, "id": 123012128, "level": 2}
+{"count": 48851, "name": "Binding protein", "weight": 0.0, "id": 553089730, "level": 2}
+{"count": 257677, "name": "Fetus", "weight": 2.0, "id": 172680121, "level": 2}
+{"count": 101280, "name": "Transfection", "weight": 0.0, "id": 54009773, "level": 2}
+{"count": 100381, "name": "Protein kinase A", "weight": 0.0, "id": 97029542, "level": 2}
+{"count": 53735, "name": "Proteomics", "weight": 0.0, "id": 46111723, "level": 2}
+{"count": 116215, "name": "Mitochondrion", "weight": 1.0, "id": 28859421, "level": 2}
+{"count": 86067, "name": "Genetic variation", "weight": 0.0, "id": 68873052, "level": 2}
+{"count": 206303, "name": "Bone marrow", "weight": 1.0, "id": 2780007613, "level": 2}
+{"count": 155678, "name": "Chromosome", "weight": 1.0, "id": 30481170, "level": 2}
+{"count": 61953, "name": "Protein biosynthesis", "weight": 0.0, "id": 3675279, "level": 2}
+{"count": 13303, "name": "Sequence alignment", "weight": 0.0, "id": 45484198, "level": 2}
+{"count": 29142, "name": "Flow cytometry", "weight": 0.0, "id": 553184892, "level": 2}
+{"count": 121873, "name": "Yeast", "weight": 1.0, "id": 2779222958, "level": 2}
+{"count": 486209, "name": "Membrane", "weight": 4.0, "id": 41625074, "level": 2}
+{"count": 16142, "name": "Developmental biology", "weight": 0.0, "id": 183074962, "level": 2}
+{"count": 89591, "name": "microRNA", "weight": 0.0, "id": 145059251, "level": 2}
+{"count": 65106, "name": "Gel electrophoresis", "weight": 0.0, "id": 116084860, "level": 2}
+{"count": 19459, "name": "Systems biology", "weight": 0.0, "id": 152662350, "level": 2}
+{"count": 49321, "name": "Cell wall", "weight": 0.0, "id": 125235067, "level": 2}
+{"count": 101000, "name": "Estrogen", "weight": 0.0, "id": 2777164284, "level": 2}
+{"count": 64800, "name": "Tissue culture", "weight": 0.0, "id": 90703135, "level": 2}
+{"count": 119948, "name": "Fertility", "weight": 1.0, "id": 518429986, "level": 2}
+{"count": 106383, "name": "Staphylococcus aureus", "weight": 1.0, "id": 2779489039, "level": 2}
+{"count": 39749, "name": "Electrophoresis", "weight": 0.0, "id": 40250595, "level": 2}
+{"count": 75941, "name": "Drug resistance", "weight": 0.0, "id": 114851261, "level": 2}
+{"count": 15465, "name": "Nuclear protein", "weight": 0.0, "id": 29512474, "level": 2}
+{"count": 41217, "name": "Forensic science", "weight": 0.0, "id": 140505726, "level": 2}
+{"count": 17876, "name": "Cell nucleus", "weight": 0.0, "id": 2780114586, "level": 2}
+{"count": 70152, "name": "Interleukin", "weight": 0.0, "id": 74172505, "level": 2}
+{"count": 67118, "name": "Chromatin", "weight": 0.0, "id": 83640560, "level": 2}
+{"count": 60106, "name": "Real-time polymerase chain reaction", "weight": 0.0, "id": 48023723, "level": 2}
+{"count": 56834, "name": "Circadian rhythm", "weight": 0.0, "id": 121446783, "level": 2}
+{"count": 564857, "name": "Cell", "weight": 5.0, "id": 1491633281, "level": 2}
+{"count": 31408, "name": "Histology", "weight": 0.0, "id": 57742111, "level": 2}
+{"count": 37780, "name": "Senescence", "weight": 0.0, "id": 522857546, "level": 2}
+{"count": 30087, "name": "Genetic variability", "weight": 0.0, "id": 172777353, "level": 2}
+{"count": 33782, "name": "Mutagenesis", "weight": 0.0, "id": 16318435, "level": 2}
+{"count": 43772, "name": "Fibroblast", "weight": 0.0, "id": 2780381497, "level": 2}
+{"count": 30445, "name": "Population genetics", "weight": 0.0, "id": 85721925, "level": 2}
+{"count": 75246, "name": "Metabolite", "weight": 0.0, "id": 2777477808, "level": 2}
+{"count": 81975, "name": "Genetic enhancement", "weight": 0.0, "id": 111599444, "level": 2}
+{"count": 37481, "name": "Heat shock protein", "weight": 0.0, "id": 205260736, "level": 2}
+{"count": 87924, "name": "Reactive oxygen species", "weight": 0.0, "id": 48349386, "level": 2}
+{"count": 56692, "name": "Pseudomonas aeruginosa", "weight": 0.0, "id": 2777637488, "level": 2}
+{"count": 161466, "name": "Biomarker (medicine)", "weight": 1.0, "id": 7466232, "level": 2}
+{"count": 47135, "name": "Methylation", "weight": 0.0, "id": 33288867, "level": 2}
+{"count": 40705, "name": "Matrix metalloproteinase", "weight": 0.0, "id": 109523444, "level": 2}
+{"count": 47900, "name": "Red blood cell", "weight": 0.0, "id": 2776557347, "level": 2}
+{"count": 142020, "name": "Ageing", "weight": 1.0, "id": 500499127, "level": 2}
+{"count": 128247, "name": "Lymphocyte", "weight": 1.0, "id": 2777761686, "level": 2}
+{"count": 46972, "name": "Chromosomal translocation", "weight": 0.0, "id": 138626823, "level": 2}
+{"count": 57210, "name": "Hepatitis C virus", "weight": 0.0, "id": 2776408679, "level": 2}
+{"count": 120901, "name": "Leukemia", "weight": 1.0, "id": 2778461978, "level": 2}
+{"count": 41482, "name": "Quantitative trait locus", "weight": 0.0, "id": 81941488, "level": 2}
+{"count": 73011, "name": "Genetic diversity", "weight": 0.0, "id": 81977670, "level": 2}
+{"count": 85458, "name": "Testosterone", "weight": 0.0, "id": 539436888, "level": 2}
+{"count": 36680, "name": "In situ hybridization", "weight": 0.0, "id": 81439078, "level": 2}
+{"count": 38255, "name": "Histone", "weight": 0.0, "id": 64927066, "level": 2}
+{"count": 103769, "name": "Protein subunit", "weight": 0.0, "id": 104292427, "level": 2}
+{"count": 58156, "name": "Mitosis", "weight": 0.0, "id": 93304396, "level": 2}
+{"count": 72379, "name": "Necrosis", "weight": 0.0, "id": 503630168, "level": 2}
+{"count": 29258, "name": "Bioassay", "weight": 0.0, "id": 104488531, "level": 2}
+{"count": 61937, "name": "Helicobacter pylori", "weight": 0.0, "id": 2776409635, "level": 2}
+{"count": 40892, "name": "Plant disease resistance", "weight": 0.0, "id": 93678976, "level": 2}
+{"count": 45988, "name": "Somatic cell", "weight": 0.0, "id": 134305767, "level": 2}
+{"count": 22101, "name": "Green fluorescent protein", "weight": 0.0, "id": 142613039, "level": 2}
+{"count": 56815, "name": "Tissue engineering", "weight": 0.0, "id": 49892992, "level": 2}
+{"count": 52069, "name": "Connective tissue", "weight": 0.0, "id": 518705261, "level": 2}
+{"count": 58211, "name": "Wound healing", "weight": 0.0, "id": 2780269544, "level": 2}
+{"count": 26097, "name": "Mineralization (biology)", "weight": 0.0, "id": 65542558, "level": 2}
+{"count": 74060, "name": "Embryonic stem cell", "weight": 0.0, "id": 145103041, "level": 2}
+{"count": 50219, "name": "Hepatitis B virus", "weight": 0.0, "id": 2780593183, "level": 2}
+{"count": 22268, "name": "Chinese hamster ovary cell", "weight": 0.0, "id": 175656101, "level": 2}
+{"count": 34060, "name": "Morphogenesis", "weight": 0.0, "id": 40692019, "level": 2}
+{"count": 62416, "name": "Phospholipid", "weight": 0.0, "id": 2778918659, "level": 2}
+{"count": 89602, "name": "Phylogenetic tree", "weight": 0.0, "id": 193252679, "level": 2}
+{"count": 10284, "name": "Microbial population biology", "weight": 0.0, "id": 81407943, "level": 2}
+{"count": 27256, "name": "Interleukin 2", "weight": 0.0, "id": 2777371288, "level": 2}
+{"count": 46641, "name": "Cytology", "weight": 0.0, "id": 18823058, "level": 2}
+{"count": 158283, "name": "Intracellular", "weight": 1.0, "id": 79879829, "level": 2}
+{"count": 46316, "name": "Androgen", "weight": 0.0, "id": 2777911890, "level": 2}
+{"count": 19794, "name": "Speciation", "weight": 0.0, "id": 119752804, "level": 2}
+{"count": 46768, "name": "Chemokine", "weight": 0.0, "id": 13373296, "level": 2}
+{"count": 21501, "name": "Natural selection", "weight": 0.0, "id": 75268714, "level": 2}
+{"count": 62059, "name": "Hepatitis C", "weight": 0.0, "id": 2776455275, "level": 2}
+{"count": 66599, "name": "Epigenetics", "weight": 0.0, "id": 41091548, "level": 2}
+{"count": 97641, "name": "Haematopoiesis", "weight": 0.0, "id": 109159458, "level": 2}
+{"count": 34886, "name": "Multiple drug resistance", "weight": 0.0, "id": 133936738, "level": 2}
+{"count": 50624, "name": "Monocyte", "weight": 0.0, "id": 2781184567, "level": 2}
+{"count": 78272, "name": "Hepatitis B", "weight": 0.0, "id": 2777382497, "level": 2}
+{"count": 24592, "name": "Calmodulin", "weight": 0.0, "id": 29688787, "level": 2}
+{"count": 48638, "name": "Human fertilization", "weight": 0.0, "id": 88972607, "level": 2}
+{"count": 37867, "name": "Candida albicans", "weight": 0.0, "id": 2780917455, "level": 2}
+{"count": 30518, "name": "Ribosome", "weight": 0.0, "id": 88478588, "level": 2}
+{"count": 15301, "name": "Human genetics", "weight": 0.0, "id": 47042493, "level": 2}
+{"count": 91928, "name": "Vesicle", "weight": 0.0, "id": 130316041, "level": 2}
+{"count": 47551, "name": "Macromolecule", "weight": 0.0, "id": 204389451, "level": 2}
+{"count": 26333, "name": "Cryopreservation", "weight": 0.0, "id": 179933525, "level": 2}
+{"count": 72704, "name": "Stromal cell", "weight": 0.0, "id": 16930146, "level": 2}
+{"count": 17021, "name": "Omics", "weight": 0.0, "id": 157585117, "level": 2}
+{"count": 2671, "name": "Hot spot (veterinary medicine)", "weight": 0.0, "id": 2778518061, "level": 2}
+{"count": 166378, "name": "Kinase", "weight": 1.0, "id": 184235292, "level": 2}
+{"count": 21627, "name": "Biological process", "weight": 0.0, "id": 113219260, "level": 2}
+{"count": 9032, "name": "Molecular epidemiology", "weight": 0.0, "id": 97669555, "level": 2}
+{"count": 7185, "name": "Molecular probe", "weight": 0.0, "id": 145169222, "level": 2}
+{"count": 36077, "name": "Glycosylation", "weight": 0.0, "id": 2777313579, "level": 2}
+{"count": 77195, "name": "Endocrine system", "weight": 0.0, "id": 46699223, "level": 2}
+{"count": 38035, "name": "Dairy cattle", "weight": 0.0, "id": 2776977481, "level": 2}
+{"count": 50318, "name": "Cytosol", "weight": 0.0, "id": 98539663, "level": 2}
+{"count": 38580, "name": "Bone remodeling", "weight": 0.0, "id": 170033053, "level": 2}
+{"count": 26479, "name": "Auxin", "weight": 0.0, "id": 207778908, "level": 2}
+{"count": 4514, "name": "Human development (biology)", "weight": 0.0, "id": 15783243, "level": 2}
+{"count": 33092, "name": "Gonadotropin", "weight": 0.0, "id": 2778782382, "level": 2}
+{"count": 44766, "name": "Activator (genetics)", "weight": 0.0, "id": 88045685, "level": 2}
+{"count": 26826, "name": "Retinoic acid", "weight": 0.0, "id": 2781121885, "level": 2}
+{"count": 116721, "name": "Extracellular", "weight": 1.0, "id": 28406088, "level": 2}
+{"count": 30665, "name": "Longevity", "weight": 0.0, "id": 2776759703, "level": 2}
+{"count": 67049, "name": "Human leukocyte antigen", "weight": 0.0, "id": 188280979, "level": 2}
+{"count": 2877, "name": "Cell lineage", "weight": 0.0, "id": 2777620950, "level": 2}
+{"count": 25030, "name": "Population size", "weight": 0.0, "id": 169733012, "level": 2}
+{"count": 29495, "name": "Menstrual cycle", "weight": 0.0, "id": 2779058012, "level": 2}
+{"count": 38552, "name": "Heritability", "weight": 0.0, "id": 161890455, "level": 2}
+{"count": 61183, "name": "Genetic analysis", "weight": 0.0, "id": 23085057, "level": 2}
+{"count": 19282, "name": "Aneuploidy", "weight": 0.0, "id": 2779672484, "level": 2}
+{"count": 19493, "name": "Telomere", "weight": 0.0, "id": 177336024, "level": 2}
+{"count": 49026, "name": "Amyloid", "weight": 0.0, "id": 88760351, "level": 2}
+{"count": 22340, "name": "Granulocyte", "weight": 0.0, "id": 2777983669, "level": 2}
+{"count": 26828, "name": "Spermatogenesis", "weight": 0.0, "id": 123765429, "level": 2}
+{"count": 26820, "name": "Acetylation", "weight": 0.0, "id": 119157956, "level": 2}
+{"count": 12592, "name": "P-glycoprotein", "weight": 0.0, "id": 2778707650, "level": 2}
+{"count": 18687, "name": "Methyltransferase", "weight": 0.0, "id": 91965660, "level": 2}
+{"count": 23892, "name": "Bacteriophage", "weight": 0.0, "id": 2776441376, "level": 2}
+{"count": 28054, "name": "Bone resorption", "weight": 0.0, "id": 673006, "level": 2}
+{"count": 14075, "name": "Bone morphogenetic protein", "weight": 0.0, "id": 31507581, "level": 2}
+{"count": 13218, "name": "Blood cell", "weight": 0.0, "id": 2779979121, "level": 2}
+{"count": 6606, "name": "Multiple sequence alignment", "weight": 0.0, "id": 88031987, "level": 2}
+{"count": 19915, "name": "Keratin", "weight": 0.0, "id": 81241287, "level": 2}
+{"count": 31099, "name": "Zebrafish", "weight": 0.0, "id": 2776878037, "level": 2}
+{"count": 27276, "name": "Gene flow", "weight": 0.0, "id": 107023163, "level": 2}
+{"count": 22530, "name": "Down syndrome", "weight": 0.0, "id": 2779954681, "level": 2}
+{"count": 22616, "name": "Neuroblastoma", "weight": 0.0, "id": 2776715637, "level": 2}
+{"count": 1903, "name": "Phycomycetes", "weight": 0.0, "id": 2779310556, "level": 2}
+{"count": 11635, "name": "ATP-binding cassette transporter", "weight": 0.0, "id": 44312359, "level": 2}
+{"count": 6786, "name": "Calcium-binding protein", "weight": 0.0, "id": 122229402, "level": 2}
+{"count": 9851, "name": "Pattern formation", "weight": 0.0, "id": 207016750, "level": 2}
+{"count": 20988, "name": "Germ cell", "weight": 0.0, "id": 2779122487, "level": 2}
+{"count": 43196, "name": "Ploidy", "weight": 0.0, "id": 143191323, "level": 2}
+{"count": 22579, "name": "Thymidine", "weight": 0.0, "id": 2777108182, "level": 2}
+{"count": 19772, "name": "Xenopus", "weight": 0.0, "id": 2779535977, "level": 2}
+{"count": 39818, "name": "Ovulation", "weight": 0.0, "id": 2777702977, "level": 2}
+{"count": 10520, "name": "Protein engineering", "weight": 0.0, "id": 147816474, "level": 2}
+{"count": 11297, "name": "Retinoblastoma", "weight": 0.0, "id": 2776577112, "level": 2}
+{"count": 22540, "name": "Klebsiella pneumoniae", "weight": 0.0, "id": 2777058267, "level": 2}
+{"count": 13045, "name": "Animal breeding", "weight": 0.0, "id": 2016182, "level": 2}
+{"count": 19293, "name": "Sex pheromone", "weight": 0.0, "id": 64778439, "level": 2}
+{"count": 53278, "name": "Hybrid", "weight": 0.0, "id": 48189365, "level": 2}
+{"count": 24594, "name": "Human skin", "weight": 0.0, "id": 2777459323, "level": 2}
+{"count": 34012, "name": "Vasopressin", "weight": 0.0, "id": 2776370428, "level": 2}
+{"count": 12693, "name": "Cell fate determination", "weight": 0.0, "id": 163952510, "level": 2}
+{"count": 23463, "name": "Genetic testing", "weight": 0.0, "id": 2780673598, "level": 2}
+{"count": 25382, "name": "Hyaluronic acid", "weight": 0.0, "id": 2777529286, "level": 2}
+{"count": 15540, "name": "Pharmacogenetics", "weight": 0.0, "id": 55775858, "level": 2}
+{"count": 11776, "name": "Metallothionein", "weight": 0.0, "id": 20719415, "level": 2}
+{"count": 27148, "name": "Streptococcus", "weight": 0.0, "id": 2778276568, "level": 2}
+{"count": 3994, "name": "Immunogenetics", "weight": 0.0, "id": 1547928, "level": 2}
+{"count": 3049, "name": "Sex characteristics", "weight": 0.0, "id": 2778945730, "level": 2}

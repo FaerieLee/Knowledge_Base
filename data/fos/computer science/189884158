@@ -1,0 +1,5 @@
+{"count": 71, "name": "Fisheye State Routing", "weight": 0.0, "id": 2781013576, "level": 4}
+{"count": 3533, "name": "Interior gateway protocol", "weight": 6.0, "id": 52837422, "level": 4}
+{"count": 2528, "name": "Routing Information Protocol", "weight": 4.0, "id": 7573999, "level": 4}
+{"count": 5549, "name": "Path vector protocol", "weight": 10.0, "id": 128917274, "level": 4}
+{"count": 159, "name": "Collection Tree Protocol", "weight": 0.0, "id": 2778807401, "level": 4}

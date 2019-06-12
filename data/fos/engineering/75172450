@@ -1,0 +1,5 @@
+{"count": 206, "name": "Block floating-point", "weight": 2.0, "id": 2781185314, "level": 3}
+{"count": 930, "name": "Spectral leakage", "weight": 10.0, "id": 113407356, "level": 3}
+{"count": 421, "name": "Bluestein's FFT algorithm", "weight": 4.0, "id": 120924271, "level": 3}
+{"count": 227, "name": "Complex multiplier", "weight": 2.0, "id": 2777477796, "level": 3}
+{"count": 11, "name": "Fast Fourier Transform Telescope", "weight": 0.0, "id": 2780319688, "level": 3}

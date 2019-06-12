@@ -1,0 +1,41 @@
+{"count": 72222, "name": "Aquifer", "weight": 10.0, "id": 75622301, "level": 3}
+{"count": 31069, "name": "Hydrogeology", "weight": 4.0, "id": 33556824, "level": 3}
+{"count": 25196, "name": "Water table", "weight": 3.0, "id": 39769621, "level": 3}
+{"count": 13640, "name": "Vadose zone", "weight": 1.0, "id": 35588792, "level": 3}
+{"count": 8629, "name": "Subsurface flow", "weight": 1.0, "id": 100187453, "level": 3}
+{"count": 4594, "name": "Arsenic contamination of groundwater", "weight": 0.0, "id": 132165134, "level": 3}
+{"count": 1653, "name": "Hyporheic zone", "weight": 0.0, "id": 2777333993, "level": 3}
+{"count": 1370, "name": "Permeable reactive barrier", "weight": 0.0, "id": 2776087716, "level": 3}
+{"count": 4584, "name": "Meteoric water", "weight": 0.0, "id": 92720285, "level": 3}
+{"count": 969, "name": "Maximum Contaminant Level", "weight": 0.0, "id": 2776695260, "level": 3}
+{"count": 3425, "name": "Groundwater remediation", "weight": 0.0, "id": 37992848, "level": 3}
+{"count": 1571, "name": "Sodium adsorption ratio", "weight": 0.0, "id": 2776332401, "level": 3}
+{"count": 1348, "name": "Geochemical modeling", "weight": 0.0, "id": 48663136, "level": 3}
+{"count": 1153, "name": "Conjunctive use", "weight": 0.0, "id": 2778247438, "level": 3}
+{"count": 296, "name": "Dense non-aqueous phase liquid", "weight": 0.0, "id": 2778652849, "level": 3}
+{"count": 952, "name": "Environmental isotopes", "weight": 0.0, "id": 161382645, "level": 3}
+{"count": 783, "name": "Isotope hydrology", "weight": 0.0, "id": 188295176, "level": 3}
+{"count": 907, "name": "Air sparging", "weight": 0.0, "id": 2776334353, "level": 3}
+{"count": 276, "name": "Phreatophyte", "weight": 0.0, "id": 2778419835, "level": 3}
+{"count": 217, "name": "Stygofauna", "weight": 0.0, "id": 2776342442, "level": 3}
+{"count": 375, "name": "MIKE SHE", "weight": 0.0, "id": 2778158528, "level": 3}
+{"count": 230, "name": "Hydrogeomorphology", "weight": 0.0, "id": 2776757554, "level": 3}
+{"count": 429, "name": "Dye tracing", "weight": 0.0, "id": 175568690, "level": 3}
+{"count": 256, "name": "Qanat", "weight": 0.0, "id": 2778654236, "level": 3}
+{"count": 97, "name": "Hydrologic Evaluation of Landfill Performance", "weight": 0.0, "id": 2775893241, "level": 3}
+{"count": 695, "name": "Electrical resistance survey", "weight": 0.0, "id": 207484415, "level": 3}
+{"count": 691, "name": "Tube well", "weight": 0.0, "id": 2778211487, "level": 3}
+{"count": 375, "name": "Vapor intrusion", "weight": 0.0, "id": 2780788393, "level": 3}
+{"count": 54, "name": "Eucalyptus largiflorens", "weight": 0.0, "id": 2776803717, "level": 3}
+{"count": 115, "name": "Water banking", "weight": 0.0, "id": 2778652117, "level": 3}
+{"count": 86, "name": "Nitrate vulnerable zone", "weight": 0.0, "id": 2776855685, "level": 3}
+{"count": 102, "name": "Groundwater sapping", "weight": 0.0, "id": 2776572357, "level": 3}
+{"count": 287, "name": "Drinking water quality standards", "weight": 0.0, "id": 2779678948, "level": 3}
+{"count": 73, "name": "Kankar", "weight": 0.0, "id": 2780664233, "level": 3}
+{"count": 264, "name": "Pit water", "weight": 0.0, "id": 2776069950, "level": 3}
+{"count": 164, "name": "French drain", "weight": 0.0, "id": 27964430, "level": 3}
+{"count": 23, "name": "Helium dating", "weight": 0.0, "id": 2776387773, "level": 3}
+{"count": 114, "name": "Carbonate hardness", "weight": 0.0, "id": 2777076574, "level": 3}
+{"count": 25, "name": "Rope pump", "weight": 0.0, "id": 2776762656, "level": 3}
+{"count": 76, "name": "Lacustrine plain", "weight": 0.0, "id": 2777411070, "level": 3}
+{"count": 42, "name": "Isotopes of radium", "weight": 0.0, "id": 2776314629, "level": 3}

@@ -1,0 +1,37 @@
+{"count": 3643, "name": "Negative refraction", "weight": 4.0, "id": 70324355, "level": 3}
+{"count": 1352, "name": "Negative index metamaterials", "weight": 1.0, "id": 150780120, "level": 3}
+{"count": 1568, "name": "Refractometry", "weight": 2.0, "id": 123419976, "level": 3}
+{"count": 2600, "name": "Refractometer", "weight": 3.0, "id": 6043685, "level": 3}
+{"count": 749, "name": "Snell's law", "weight": 1.0, "id": 90081545, "level": 3}
+{"count": 4164, "name": "Refractive index profile", "weight": 5.0, "id": 206369100, "level": 3}
+{"count": 7372, "name": "High-refractive-index polymer", "weight": 10.0, "id": 47378062, "level": 3}
+{"count": 342, "name": "Moire deflectometry", "weight": 0.0, "id": 2779185888, "level": 3}
+{"count": 791, "name": "Refractive index contrast", "weight": 1.0, "id": 2776000941, "level": 3}
+{"count": 1055, "name": "Minimum deviation", "weight": 1.0, "id": 66896534, "level": 3}
+{"count": 87, "name": "Thermo-optic coefficient", "weight": 0.0, "id": 2777951188, "level": 3}
+{"count": 2001, "name": "Gradient-index optics", "weight": 2.0, "id": 83934398, "level": 3}
+{"count": 883, "name": "Scintillometer", "weight": 1.0, "id": 100433359, "level": 3}
+{"count": 565, "name": "Molar refractivity", "weight": 0.0, "id": 2780708107, "level": 3}
+{"count": 1622, "name": "Crown glass (optics)", "weight": 2.0, "id": 79956572, "level": 3}
+{"count": 354, "name": "Thin-film optics", "weight": 0.0, "id": 555048382, "level": 3}
+{"count": 374, "name": "Sellmeier equation", "weight": 0.0, "id": 144956170, "level": 3}
+{"count": 1064, "name": "Total external reflection", "weight": 1.0, "id": 142737757, "level": 3}
+{"count": 340, "name": "Fringe shift", "weight": 0.0, "id": 53641464, "level": 3}
+{"count": 1093, "name": "Abbe number", "weight": 1.0, "id": 6887064, "level": 3}
+{"count": 1376, "name": "Oil immersion", "weight": 1.0, "id": 177634673, "level": 3}
+{"count": 453, "name": "Thin-film interference", "weight": 0.0, "id": 10248492, "level": 3}
+{"count": 20, "name": "Lorentz\u2013Lorenz equation", "weight": 0.0, "id": 2778954844, "level": 3}
+{"count": 340, "name": "Abbe refractometer", "weight": 0.0, "id": 3291275, "level": 3}
+{"count": 278, "name": "Differential refractometer", "weight": 0.0, "id": 2779206699, "level": 3}
+{"count": 147, "name": "Effective medium approximations", "weight": 0.0, "id": 2776076974, "level": 3}
+{"count": 224, "name": "Index ellipsoid", "weight": 0.0, "id": 142586254, "level": 3}
+{"count": 63, "name": "Christiansen effect", "weight": 0.0, "id": 2776643281, "level": 3}
+{"count": 6, "name": "Gladstone\u2013Dale relation", "weight": 0.0, "id": 2779690300, "level": 3}
+{"count": 165, "name": "Index-matching material", "weight": 0.0, "id": 31590821, "level": 3}
+{"count": 75, "name": "Jamin interferometer", "weight": 0.0, "id": 2777241263, "level": 3}
+{"count": 85, "name": "Dispersion staining", "weight": 0.0, "id": 2780728553, "level": 3}
+{"count": 38, "name": "Becke line test", "weight": 0.0, "id": 69913742, "level": 3}
+{"count": 839, "name": "Organic photorefractive materials", "weight": 1.0, "id": 25517290, "level": 3}
+{"count": 51, "name": "Rayleigh interferometer", "weight": 0.0, "id": 2780717710, "level": 3}
+{"count": 366, "name": "Optical properties of water and ice", "weight": 0.0, "id": 42318101, "level": 3}
+{"count": 95, "name": "Glass code", "weight": 0.0, "id": 78180279, "level": 3}

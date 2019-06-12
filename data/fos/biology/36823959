@@ -1,0 +1,17 @@
+{"count": 2649, "name": "Tandem exon duplication", "weight": 6.0, "id": 156446351, "level": 4}
+{"count": 1864, "name": "Group II intron", "weight": 4.0, "id": 64962909, "level": 4}
+{"count": 2880, "name": "Splicing factor", "weight": 7.0, "id": 73758832, "level": 4}
+{"count": 3441, "name": "Exonic splicing enhancer", "weight": 8.0, "id": 42576000, "level": 4}
+{"count": 659, "name": "Trans-splicing", "weight": 1.0, "id": 47124935, "level": 4}
+{"count": 1501, "name": "SR protein", "weight": 3.0, "id": 10447831, "level": 4}
+{"count": 2210, "name": "Exon skipping", "weight": 5.0, "id": 2778776201, "level": 4}
+{"count": 4076, "name": "Splice site mutation", "weight": 10.0, "id": 62257209, "level": 4}
+{"count": 1652, "name": "Post-transcriptional modification", "weight": 4.0, "id": 22232683, "level": 4}
+{"count": 1977, "name": "Minigene", "weight": 4.0, "id": 166342232, "level": 4}
+{"count": 982, "name": "SMN1", "weight": 2.0, "id": 2778045022, "level": 4}
+{"count": 1036, "name": "Primary transcript", "weight": 2.0, "id": 67585878, "level": 4}
+{"count": 1257, "name": "Exon trapping", "weight": 3.0, "id": 39917842, "level": 4}
+{"count": 231, "name": "PTBP1", "weight": 0.0, "id": 2776414840, "level": 4}
+{"count": 39, "name": "Genitopatellar syndrome", "weight": 0.0, "id": 2777767922, "level": 4}
+{"count": 15, "name": "SL2 RNA", "weight": 0.0, "id": 2778706612, "level": 4}
+{"count": 16, "name": "ECgene", "weight": 0.0, "id": 2777881849, "level": 4}

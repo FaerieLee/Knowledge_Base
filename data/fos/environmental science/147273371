@@ -1,0 +1,77 @@
+{"count": 11430, "name": "Cultural control", "weight": 10.0, "id": 55347375, "level": 3}
+{"count": 2060, "name": "Weed science", "weight": 1.0, "id": 2777890039, "level": 3}
+{"count": 3554, "name": "Simazine", "weight": 3.0, "id": 2778659605, "level": 3}
+{"count": 2694, "name": "Alachlor", "weight": 2.0, "id": 2780359760, "level": 3}
+{"count": 2297, "name": "Metolachlor", "weight": 2.0, "id": 2778787149, "level": 3}
+{"count": 2700, "name": "Trifluralin", "weight": 2.0, "id": 2776425178, "level": 3}
+{"count": 2696, "name": "MCPA", "weight": 2.0, "id": 2780659323, "level": 3}
+{"count": 3640, "name": "Pendimethalin", "weight": 3.0, "id": 2778302866, "level": 3}
+{"count": 2381, "name": "Metribuzin", "weight": 2.0, "id": 2779315688, "level": 3}
+{"count": 2360, "name": "Dicamba", "weight": 2.0, "id": 2780864232, "level": 3}
+{"count": 1146, "name": "Cirsium arvense", "weight": 1.0, "id": 2779016451, "level": 3}
+{"count": 1098, "name": "Triclopyr", "weight": 0.0, "id": 2779695316, "level": 3}
+{"count": 1154, "name": "Bromoxynil", "weight": 1.0, "id": 2776917638, "level": 3}
+{"count": 877, "name": "Terbuthylazine", "weight": 0.0, "id": 2777203505, "level": 3}
+{"count": 1042, "name": "Propanil", "weight": 0.0, "id": 2778863655, "level": 3}
+{"count": 915, "name": "Imazapyr", "weight": 0.0, "id": 2778575864, "level": 3}
+{"count": 739, "name": "Oryzalin", "weight": 0.0, "id": 2778098538, "level": 3}
+{"count": 1569, "name": "Butachlor", "weight": 1.0, "id": 2780324493, "level": 3}
+{"count": 636, "name": "Acifluorfen", "weight": 0.0, "id": 2778597315, "level": 3}
+{"count": 718, "name": "Chlorpropham", "weight": 0.0, "id": 2781441284, "level": 3}
+{"count": 704, "name": "Dinoseb", "weight": 0.0, "id": 2778549181, "level": 3}
+{"count": 818, "name": "Hexazinone", "weight": 0.0, "id": 2779884234, "level": 3}
+{"count": 986, "name": "Clopyralid", "weight": 0.0, "id": 2778575697, "level": 3}
+{"count": 583, "name": "Imazaquin", "weight": 0.0, "id": 2780291076, "level": 3}
+{"count": 1043, "name": "Clomazone", "weight": 0.0, "id": 2780604538, "level": 3}
+{"count": 1059, "name": "Digitaria sanguinalis", "weight": 0.0, "id": 2776154959, "level": 3}
+{"count": 1138, "name": "Bentazon", "weight": 0.0, "id": 2777418805, "level": 3}
+{"count": 193, "name": "2,4-DB", "weight": 0.0, "id": 2780702041, "level": 3}
+{"count": 3071, "name": "Echinochloa", "weight": 2.0, "id": 2779357833, "level": 3}
+{"count": 474, "name": "Fluometuron", "weight": 0.0, "id": 2779103709, "level": 3}
+{"count": 887, "name": "Mesotrione", "weight": 0.0, "id": 2778953665, "level": 3}
+{"count": 758, "name": "Quinclorac", "weight": 0.0, "id": 2776337664, "level": 3}
+{"count": 584, "name": "Bioherbicide", "weight": 0.0, "id": 2780843696, "level": 3}
+{"count": 850, "name": "Fluroxypyr", "weight": 0.0, "id": 2780752877, "level": 3}
+{"count": 462, "name": "Metsulfuron-methyl", "weight": 0.0, "id": 2778369213, "level": 3}
+{"count": 395, "name": "Mycoherbicide", "weight": 0.0, "id": 2778281970, "level": 3}
+{"count": 381, "name": "Asulam", "weight": 0.0, "id": 2778696710, "level": 3}
+{"count": 221, "name": "Fenoprop", "weight": 0.0, "id": 2779880015, "level": 3}
+{"count": 278, "name": "Setaria faberi", "weight": 0.0, "id": 2776009609, "level": 3}
+{"count": 503, "name": "Mechanical weed control", "weight": 0.0, "id": 2777042369, "level": 3}
+{"count": 597, "name": "Imazapic", "weight": 0.0, "id": 2779575946, "level": 3}
+{"count": 1159, "name": "Noxious weed", "weight": 1.0, "id": 121364248, "level": 3}
+{"count": 151, "name": "Ipomoea lacunosa", "weight": 0.0, "id": 2778707540, "level": 3}
+{"count": 647, "name": "Sulfentrazone", "weight": 0.0, "id": 2779760571, "level": 3}
+{"count": 281, "name": "Elymus repens", "weight": 0.0, "id": 2778969175, "level": 3}
+{"count": 237, "name": "Monolinuron", "weight": 0.0, "id": 2781109266, "level": 3}
+{"count": 347, "name": "Lactofen", "weight": 0.0, "id": 2778932485, "level": 3}
+{"count": 413, "name": "Amaranthus palmeri", "weight": 0.0, "id": 2777704452, "level": 3}
+{"count": 144, "name": "Ipomoea hederacea", "weight": 0.0, "id": 2776746103, "level": 3}
+{"count": 101, "name": "Digitaria ischaemum", "weight": 0.0, "id": 2779786681, "level": 3}
+{"count": 214, "name": "Bifenox", "weight": 0.0, "id": 2779010232, "level": 3}
+{"count": 444, "name": "Phalaris minor", "weight": 0.0, "id": 2775888576, "level": 3}
+{"count": 163, "name": "Chloroxuron", "weight": 0.0, "id": 2776272472, "level": 3}
+{"count": 360, "name": "Commelina benghalensis", "weight": 0.0, "id": 2779900843, "level": 3}
+{"count": 829, "name": "Alopecurus", "weight": 0.0, "id": 2780289172, "level": 3}
+{"count": 242, "name": "Viola arvensis", "weight": 0.0, "id": 2776620728, "level": 3}
+{"count": 163, "name": "Chrysanthemoides monilifera", "weight": 0.0, "id": 2778346260, "level": 3}
+{"count": 280, "name": "Aminopyralid", "weight": 0.0, "id": 2777511776, "level": 3}
+{"count": 283, "name": "Flufenacet", "weight": 0.0, "id": 2780061808, "level": 3}
+{"count": 49, "name": "Malva pusilla", "weight": 0.0, "id": 2776911210, "level": 3}
+{"count": 98, "name": "Setaria pumila", "weight": 0.0, "id": 2778615293, "level": 3}
+{"count": 266, "name": "Trianthema portulacastrum", "weight": 0.0, "id": 2778603116, "level": 3}
+{"count": 84, "name": "Methazole", "weight": 0.0, "id": 2779522515, "level": 3}
+{"count": 332, "name": "Saflufenacil", "weight": 0.0, "id": 2778236474, "level": 3}
+{"count": 104, "name": "Veronica hederifolia", "weight": 0.0, "id": 2776384937, "level": 3}
+{"count": 126, "name": "Bensulide", "weight": 0.0, "id": 2780059135, "level": 3}
+{"count": 248, "name": "Flazasulfuron", "weight": 0.0, "id": 2779499519, "level": 3}
+{"count": 117, "name": "Fallopia convolvulus", "weight": 0.0, "id": 2775938937, "level": 3}
+{"count": 280, "name": "Rottboellia", "weight": 0.0, "id": 2775932875, "level": 3}
+{"count": 139, "name": "Aminocyclopyrachlor", "weight": 0.0, "id": 2776034020, "level": 3}
+{"count": 70, "name": "Asparagus asparagoides", "weight": 0.0, "id": 2777573464, "level": 3}
+{"count": 43, "name": "Proboscidea louisianica", "weight": 0.0, "id": 2780018730, "level": 3}
+{"count": 217, "name": "Apera", "weight": 0.0, "id": 2780049724, "level": 3}
+{"count": 45, "name": "Preemergent herbicide", "weight": 0.0, "id": 2781116103, "level": 3}
+{"count": 419, "name": "Crop weed", "weight": 0.0, "id": 2777944067, "level": 3}
+{"count": 59, "name": "Lumax", "weight": 0.0, "id": 2779960324, "level": 3}
+{"count": 213, "name": "Soybean management practices", "weight": 0.0, "id": 26785111, "level": 3}

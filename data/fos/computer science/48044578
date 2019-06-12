@@ -1,0 +1,18 @@
+{"count": 2309, "name": "Distributed hash table", "weight": 2.0, "id": 2780224649, "level": 3}
+{"count": 7888, "name": "Scalable Video Coding", "weight": 10.0, "id": 133529210, "level": 3}
+{"count": 3372, "name": "NoSQL", "weight": 4.0, "id": 2779599972, "level": 3}
+{"count": 816, "name": "Gossip protocol", "weight": 1.0, "id": 145928361, "level": 3}
+{"count": 148, "name": "Global Arrays", "weight": 0.0, "id": 2780626711, "level": 3}
+{"count": 1139, "name": "Petascale computing", "weight": 1.0, "id": 185410017, "level": 3}
+{"count": 115, "name": "Many-task computing", "weight": 0.0, "id": 2778362760, "level": 3}
+{"count": 533, "name": "Exascale computing", "weight": 0.0, "id": 2778837361, "level": 3}
+{"count": 232, "name": "Bisection bandwidth", "weight": 0.0, "id": 2780610565, "level": 3}
+{"count": 172, "name": "Graph500", "weight": 0.0, "id": 108747526, "level": 3}
+{"count": 94, "name": "COLA (software architecture)", "weight": 0.0, "id": 146995729, "level": 3}
+{"count": 60, "name": "Distributed data flow", "weight": 0.0, "id": 2777832147, "level": 3}
+{"count": 103, "name": "Cray XT5", "weight": 0.0, "id": 2781157231, "level": 3}
+{"count": 40, "name": "Jaql", "weight": 0.0, "id": 2777123220, "level": 3}
+{"count": 228, "name": "Scalability testing", "weight": 0.0, "id": 155815358, "level": 3}
+{"count": 16, "name": "Relativistic programming", "weight": 0.0, "id": 2780407152, "level": 3}
+{"count": 16, "name": "PlanetSim", "weight": 0.0, "id": 2781227079, "level": 3}
+{"count": 119, "name": "Transactions per second", "weight": 0.0, "id": 2777882138, "level": 3}

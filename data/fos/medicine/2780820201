@@ -1,0 +1,52 @@
+{"count": 6455, "name": "Antipyretic", "weight": 8.0, "id": 2779252780, "level": 3}
+{"count": 7891, "name": "Tramadol", "weight": 10.0, "id": 2779777798, "level": 3}
+{"count": 4017, "name": "Patient-controlled analgesia", "weight": 5.0, "id": 2776045914, "level": 3}
+{"count": 3713, "name": "Ketorolac", "weight": 4.0, "id": 2778446825, "level": 3}
+{"count": 4185, "name": "Oxycodone", "weight": 5.0, "id": 2776029756, "level": 3}
+{"count": 3305, "name": "Pethidine", "weight": 4.0, "id": 2781168792, "level": 3}
+{"count": 1093, "name": "Tail flick test", "weight": 1.0, "id": 52396799, "level": 3}
+{"count": 2401, "name": "Pentazocine", "weight": 3.0, "id": 2780802079, "level": 3}
+{"count": 1368, "name": "Propoxyphene", "weight": 1.0, "id": 508975757, "level": 3}
+{"count": 1312, "name": "Nalbuphine", "weight": 1.0, "id": 2778977083, "level": 3}
+{"count": 1572, "name": "Hot plate test", "weight": 1.0, "id": 197711040, "level": 3}
+{"count": 1102, "name": "Parecoxib", "weight": 1.0, "id": 2779262571, "level": 3}
+{"count": 1066, "name": "Lornoxicam", "weight": 1.0, "id": 2779040406, "level": 3}
+{"count": 563, "name": "Nefopam", "weight": 0.0, "id": 2781083246, "level": 3}
+{"count": 533, "name": "Dezocine", "weight": 0.0, "id": 2779872152, "level": 3}
+{"count": 271, "name": "Propacetamol", "weight": 0.0, "id": 2778296953, "level": 3}
+{"count": 385, "name": "Ziconotide", "weight": 0.0, "id": 2777114647, "level": 3}
+{"count": 887, "name": "Tapentadol", "weight": 1.0, "id": 2780505013, "level": 3}
+{"count": 585, "name": "Flupirtine", "weight": 0.0, "id": 2780193447, "level": 3}
+{"count": 303, "name": "Meptazinol", "weight": 0.0, "id": 2780187501, "level": 3}
+{"count": 249, "name": "Suprofen", "weight": 0.0, "id": 2779767578, "level": 3}
+{"count": 356, "name": "Dexketoprofen", "weight": 0.0, "id": 2776940929, "level": 3}
+{"count": 269, "name": "Zomepirac", "weight": 0.0, "id": 2779803550, "level": 3}
+{"count": 572, "name": "Metamizole", "weight": 0.0, "id": 2778808936, "level": 3}
+{"count": 269, "name": "Piritramide", "weight": 0.0, "id": 2780046799, "level": 3}
+{"count": 542, "name": "Intravenous regional anesthesia", "weight": 0.0, "id": 2778835552, "level": 3}
+{"count": 87, "name": "Ethenzamide", "weight": 0.0, "id": 2779911732, "level": 3}
+{"count": 153, "name": "Ketobemidone", "weight": 0.0, "id": 2778517144, "level": 3}
+{"count": 185, "name": "Preventive analgesia", "weight": 0.0, "id": 2778389909, "level": 3}
+{"count": 130, "name": "Dihydroetorphine", "weight": 0.0, "id": 2780373087, "level": 3}
+{"count": 160, "name": "Tilidine", "weight": 0.0, "id": 2776493987, "level": 3}
+{"count": 169, "name": "Randall\u2013Selitto test", "weight": 0.0, "id": 97210371, "level": 3}
+{"count": 48, "name": "Ciramadol", "weight": 0.0, "id": 2780517169, "level": 3}
+{"count": 79, "name": "Floctafenine", "weight": 0.0, "id": 2781283791, "level": 3}
+{"count": 188, "name": "Pain in animals", "weight": 0.0, "id": 2780888089, "level": 3}
+{"count": 159, "name": "Algesia", "weight": 0.0, "id": 2780987439, "level": 3}
+{"count": 182, "name": "Active placebo", "weight": 0.0, "id": 2780627508, "level": 3}
+{"count": 69, "name": "Thladiantha dubia", "weight": 0.0, "id": 2776925568, "level": 3}
+{"count": 64, "name": "Eptazocine", "weight": 0.0, "id": 2777858587, "level": 3}
+{"count": 23, "name": "Ibuprofen/paracetamol", "weight": 0.0, "id": 2776356895, "level": 3}
+{"count": 43, "name": "Azidomorphine", "weight": 0.0, "id": 2778601573, "level": 3}
+{"count": 347, "name": "Equianalgesic", "weight": 0.0, "id": 2778517885, "level": 3}
+{"count": 37, "name": "Bicifadine", "weight": 0.0, "id": 2779062236, "level": 3}
+{"count": 36, "name": "Vedaprofen", "weight": 0.0, "id": 2778402503, "level": 3}
+{"count": 319, "name": "Infiltration analgesia", "weight": 0.0, "id": 2776903914, "level": 3}
+{"count": 24, "name": "Bezitramide", "weight": 0.0, "id": 2778394955, "level": 3}
+{"count": 68, "name": "Continuous wound infiltration", "weight": 0.0, "id": 2780030215, "level": 3}
+{"count": 31, "name": "Viminol", "weight": 0.0, "id": 2778659929, "level": 3}
+{"count": 32, "name": "Rebound headaches", "weight": 0.0, "id": 2780980412, "level": 3}
+{"count": 11, "name": "Prosidol", "weight": 0.0, "id": 2777843480, "level": 3}
+{"count": 24, "name": "Isomethadone", "weight": 0.0, "id": 2777940012, "level": 3}
+{"count": 44, "name": "Compound analgesic", "weight": 0.0, "id": 2777327771, "level": 3}

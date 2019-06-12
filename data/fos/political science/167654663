@@ -1,0 +1,16 @@
+{"count": 1135, "name": "Approval voting", "weight": 6.0, "id": 100479058, "level": 5}
+{"count": 1240, "name": "Single-member district", "weight": 7.0, "id": 48487596, "level": 5}
+{"count": 139, "name": "Sincere voting", "weight": 0.0, "id": 2777974950, "level": 5}
+{"count": 111, "name": "Tactical voting", "weight": 0.0, "id": 2779267529, "level": 5}
+{"count": 140, "name": "May's theorem", "weight": 0.0, "id": 4424865, "level": 5}
+{"count": 37, "name": "Range voting", "weight": 0.0, "id": 2778796795, "level": 5}
+{"count": 558, "name": "Calculus of voting", "weight": 3.0, "id": 69409115, "level": 5}
+{"count": 54, "name": "Bucklin voting", "weight": 0.0, "id": 195861665, "level": 5}
+{"count": 213, "name": "Ranked pairs", "weight": 1.0, "id": 46113874, "level": 5}
+{"count": 21, "name": "ThreeBallot", "weight": 0.0, "id": 2779750200, "level": 5}
+{"count": 1533, "name": "Anti-plurality voting", "weight": 9.0, "id": 70095417, "level": 5}
+{"count": 124, "name": "Coombs' method", "weight": 0.0, "id": 99029307, "level": 5}
+{"count": 219, "name": "Positional voting system", "weight": 1.0, "id": 151986153, "level": 5}
+{"count": 148, "name": "Kemeny\u2013Young method", "weight": 0.0, "id": 164799726, "level": 5}
+{"count": 757, "name": "Preferential block voting", "weight": 4.0, "id": 179637079, "level": 5}
+{"count": 1653, "name": "Bullet voting", "weight": 10.0, "id": 102483414, "level": 5}

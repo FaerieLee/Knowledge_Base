@@ -1,0 +1,32 @@
+{"count": 27822, "name": "Proteinuria", "weight": 10.0, "id": 2779561371, "level": 4}
+{"count": 11158, "name": "Microalbuminuria", "weight": 4.0, "id": 2781203188, "level": 4}
+{"count": 12924, "name": "Albuminuria", "weight": 4.0, "id": 2776174234, "level": 4}
+{"count": 12580, "name": "Renal blood flow", "weight": 4.0, "id": 142225936, "level": 4}
+{"count": 12156, "name": "Blood urea nitrogen", "weight": 4.0, "id": 2778176769, "level": 4}
+{"count": 7404, "name": "Cystatin C", "weight": 2.0, "id": 2779548226, "level": 4}
+{"count": 5813, "name": "Natriuresis", "weight": 2.0, "id": 174459258, "level": 4}
+{"count": 10373, "name": "Renal physiology", "weight": 3.0, "id": 161457703, "level": 4}
+{"count": 3651, "name": "Acute tubular necrosis", "weight": 1.0, "id": 2777350860, "level": 4}
+{"count": 2181, "name": "Iohexol", "weight": 0.0, "id": 2779093167, "level": 4}
+{"count": 2676, "name": "Azotemia", "weight": 0.0, "id": 2775919214, "level": 4}
+{"count": 1228, "name": "Cardiorenal syndrome", "weight": 0.0, "id": 2781309322, "level": 4}
+{"count": 4452, "name": "Renal ischemia", "weight": 1.0, "id": 2780721119, "level": 4}
+{"count": 1885, "name": "Urine osmolality", "weight": 0.0, "id": 2778534349, "level": 4}
+{"count": 564, "name": "Peritoneal equilibration test", "weight": 0.0, "id": 2779554178, "level": 4}
+{"count": 937, "name": "Free water clearance", "weight": 0.0, "id": 33893070, "level": 4}
+{"count": 445, "name": "Radioisotope renography", "weight": 0.0, "id": 2781182678, "level": 4}
+{"count": 891, "name": "Glomerular hyperfiltration", "weight": 0.0, "id": 2776179406, "level": 4}
+{"count": 302, "name": "Efferent arteriole", "weight": 0.0, "id": 2780020492, "level": 4}
+{"count": 1240, "name": "Urine flow rate", "weight": 0.0, "id": 2779805383, "level": 4}
+{"count": 1017, "name": "Fractional excretion of sodium", "weight": 0.0, "id": 2780343553, "level": 4}
+{"count": 17, "name": "Iotalamic acid", "weight": 0.0, "id": 2776924304, "level": 4}
+{"count": 152, "name": "Bardoxolone methyl", "weight": 0.0, "id": 2780939180, "level": 4}
+{"count": 103, "name": "Mesoamerican nephropathy", "weight": 0.0, "id": 2780355955, "level": 4}
+{"count": 207, "name": "Sickle cell nephropathy", "weight": 0.0, "id": 2776173147, "level": 4}
+{"count": 94, "name": "Benign nephrosclerosis", "weight": 0.0, "id": 2780992289, "level": 4}
+{"count": 57, "name": "Renal angina", "weight": 0.0, "id": 2775988621, "level": 4}
+{"count": 63, "name": "Sinistrin", "weight": 0.0, "id": 2781012055, "level": 4}
+{"count": 39, "name": "Acute proliferative glomerulonephritis", "weight": 0.0, "id": 2778856068, "level": 4}
+{"count": 101, "name": "Hypertensive kidney disease", "weight": 0.0, "id": 2779539593, "level": 4}
+{"count": 439, "name": "Aminohippuric acid", "weight": 0.0, "id": 2776982352, "level": 4}
+{"count": 15, "name": "Renal clearance ratio", "weight": 0.0, "id": 2780320136, "level": 4}

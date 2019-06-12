@@ -1,0 +1,6 @@
+{"count": 3203, "name": "Alternating direction implicit method", "weight": 6.0, "id": 142363948, "level": 3}
+{"count": 1819, "name": "Crank\u2013Nicolson method", "weight": 3.0, "id": 180931078, "level": 3}
+{"count": 757, "name": "Compact finite difference", "weight": 1.0, "id": 2780829570, "level": 3}
+{"count": 4916, "name": "Finite difference coefficient", "weight": 10.0, "id": 108268861, "level": 3}
+{"count": 153, "name": "Five-point stencil", "weight": 0.0, "id": 3032387, "level": 3}
+{"count": 1096, "name": "Numerical solution of the convection\u2013diffusion equation", "weight": 2.0, "id": 101303905, "level": 3}

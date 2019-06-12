@@ -1,0 +1,141 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "analysis": {
+      "normalizer": {
+        "lowercase_normalizer": {
+          "type": "custom",
+          "char_filter": [],
+          "filter": ["lowercase"]
+        }
+      }
+    }
+  },
+  "mapping": {
+    "properties": {
+      "abstract": {
+        "type": "text",
+        "analyzer": "standard"
+      },
+      "authors": {
+        "properties": {
+          "name": {
+            "type": "keyword",
+            "eager_global_ordinals": true,
+            "fields": {
+              "name_word": {
+                "type": "text",
+                "index_options": "offsets",
+                "analyzer": "standard"
+              }
+            },
+            "normalizer": "lowercase_normalizer"
+          },
+          "org": {
+            "type": "text",
+            "index_options": "offsets",
+            "analyzer": "standard",
+            "index_phrases": true
+          }
+        }
+      },
+      "doc_type": {
+        "type": "keyword",
+        "index": false,
+        "doc_values": false
+      },
+      "doi": {
+        "type": "keyword",
+        "doc_values": false
+      },
+      "fos": {
+        "type": "keyword",
+        "eager_global_ordinals": true,
+        "normalizer": "lowercase_normalizer"
+      },
+      "id": {
+        "type": "keyword"
+      },
+      "isbn": {
+        "type": "keyword",
+        "doc_values": false
+      },
+      "issn": {
+        "type": "keyword",
+        "doc_values": false
+      },
+      "issue": {
+        "type": "keyword",
+        "index": false,
+        "doc_values": false
+      },
+      "keywords": {
+        "type": "keyword",
+        "normalizer": "lowercase_normalizer"
+      },
+      "lang": {
+        "type": "keyword",
+        "doc_values": false,
+        "normalizer": "lowercase_normalizer"
+      },
+      "n_citation": {
+        "type": "integer",
+        "index": false
+      },
+      "page_end": {
+        "type": "keyword",
+        "index": false,
+        "doc_values": false
+      },
+      "page_start": {
+        "type": "keyword",
+        "index": false,
+        "doc_values": false
+      },
+      "pdf": {
+        "type": "keyword",
+        "doc_values": false
+      },
+      "publisher": {
+        "type": "keyword",
+        "eager_global_ordinals": true,
+        "normalizer": "lowercase_normalizer"
+      },
+      "references": {
+        "type": "keyword",
+        "doc_values": false
+      },
+      "sub_abstract": {
+        "type": "keyword",
+        "index": false,
+        "doc_values": false
+      },
+      "title": {
+        "type": "text",
+        "index_options": "offsets",
+        "analyzer": "standard",
+        "index_phrases": true
+      },
+      "url": {
+        "type": "keyword",
+        "doc_values": false
+      },
+      "venue": {
+        "type": "text",
+        "index_options": "offsets",
+        "analyzer": "standard",
+        "index_phrases": true
+      },
+      "volume": {
+        "type": "keyword",
+        "index": false,
+        "doc_values": false
+      },
+      "year": {
+        "type": "keyword",
+        "eager_global_ordinals": true
+      }
+    }
+  }
+}

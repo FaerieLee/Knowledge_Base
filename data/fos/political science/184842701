@@ -1,0 +1,19 @@
+{"count": 14255, "name": "Utility computing", "weight": 10.0, "id": 85106507, "level": 4}
+{"count": 4278, "name": "Covert channel", "weight": 3.0, "id": 29024540, "level": 4}
+{"count": 8687, "name": "Information security management", "weight": 6.0, "id": 148976360, "level": 4}
+{"count": 406, "name": "Storage security", "weight": 0.0, "id": 2778334072, "level": 4}
+{"count": 5593, "name": "Critical security studies", "weight": 3.0, "id": 505623098, "level": 4}
+{"count": 1033, "name": "Cloud management", "weight": 0.0, "id": 2780530298, "level": 4}
+{"count": 137, "name": "Cloud broker", "weight": 0.0, "id": 2776786916, "level": 4}
+{"count": 11222, "name": "Network security policy", "weight": 7.0, "id": 117110713, "level": 4}
+{"count": 188, "name": "Security as a service", "weight": 0.0, "id": 2778984155, "level": 4}
+{"count": 72, "name": "Vendor lock-in", "weight": 0.0, "id": 2778260400, "level": 4}
+{"count": 124, "name": "Storage as a service", "weight": 0.0, "id": 2778877452, "level": 4}
+{"count": 11781, "name": "Cloud testing", "weight": 8.0, "id": 120115606, "level": 4}
+{"count": 2291, "name": "Logical security", "weight": 1.0, "id": 178639896, "level": 4}
+{"count": 4759, "name": "Distributed System Security Architecture", "weight": 3.0, "id": 77290126, "level": 4}
+{"count": 6460, "name": "Information security audit", "weight": 4.0, "id": 39358052, "level": 4}
+{"count": 75, "name": "Security operations center", "weight": 0.0, "id": 2776178651, "level": 4}
+{"count": 58, "name": "Managed security service", "weight": 0.0, "id": 2781052828, "level": 4}
+{"count": 42, "name": "Computer security policy", "weight": 0.0, "id": 2777216119, "level": 4}
+{"count": 12705, "name": "Security through obscurity", "weight": 8.0, "id": 114869243, "level": 4}

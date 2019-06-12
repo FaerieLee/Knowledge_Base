@@ -1,0 +1,6 @@
+{"count": 8060, "name": "Execution unit", "weight": 10.0, "id": 131301208, "level": 3}
+{"count": 3883, "name": "Instruction cycle", "weight": 4.0, "id": 98327394, "level": 3}
+{"count": 1104, "name": "Instruction unit", "weight": 1.0, "id": 2776380190, "level": 3}
+{"count": 5145, "name": "Instruction register", "weight": 6.0, "id": 33769335, "level": 3}
+{"count": 1065, "name": "Transmission control unit", "weight": 1.0, "id": 2780682211, "level": 3}
+{"count": 15, "name": "Vision processing unit", "weight": 0.0, "id": 2779825894, "level": 3}

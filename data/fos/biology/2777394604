@@ -1,0 +1,12 @@
+{"count": 2895, "name": "Pupillary response", "weight": 10.0, "id": 149288182, "level": 3}
+{"count": 1371, "name": "Pupillometry", "weight": 4.0, "id": 2778711042, "level": 3}
+{"count": 838, "name": "Pupillary reflex", "weight": 2.0, "id": 51261617, "level": 3}
+{"count": 1201, "name": "Miosis", "weight": 4.0, "id": 2777724181, "level": 3}
+{"count": 849, "name": "Pupillary light reflex", "weight": 2.0, "id": 2781184276, "level": 3}
+{"count": 724, "name": "Anisocoria", "weight": 2.0, "id": 2776107088, "level": 3}
+{"count": 215, "name": "Stiles\u2013Crawford effect", "weight": 0.0, "id": 60455684, "level": 3}
+{"count": 1006, "name": "Pupil function", "weight": 3.0, "id": 33995572, "level": 3}
+{"count": 79, "name": "Hippus", "weight": 0.0, "id": 200248424, "level": 3}
+{"count": 69, "name": "Swinging-flashlight test", "weight": 0.0, "id": 2777759593, "level": 3}
+{"count": 27, "name": "Iridoplegia", "weight": 0.0, "id": 2781191352, "level": 3}
+{"count": 52, "name": "Pupilometer", "weight": 0.0, "id": 2779215330, "level": 3}

@@ -1,0 +1,54 @@
+{"count": 13364, "name": "Synovial fluid", "weight": 10.0, "id": 2776268809, "level": 4}
+{"count": 7609, "name": "Synovial membrane", "weight": 5.0, "id": 2777652487, "level": 4}
+{"count": 11752, "name": "Rheumatoid factor", "weight": 8.0, "id": 2776232647, "level": 4}
+{"count": 9194, "name": "Etanercept", "weight": 6.0, "id": 2777226972, "level": 4}
+{"count": 11315, "name": "Psoriatic arthritis", "weight": 8.0, "id": 2776260265, "level": 4}
+{"count": 10481, "name": "Synovitis", "weight": 7.0, "id": 2779244835, "level": 4}
+{"count": 9834, "name": "Adalimumab", "weight": 7.0, "id": 2780132546, "level": 4}
+{"count": 1539, "name": "Collagen-induced arthritis", "weight": 1.0, "id": 2778844214, "level": 4}
+{"count": 4076, "name": "Sulfasalazine", "weight": 3.0, "id": 2779383735, "level": 4}
+{"count": 4415, "name": "Hydroxychloroquine", "weight": 3.0, "id": 2779123688, "level": 4}
+{"count": 5608, "name": "Inflammatory arthritis", "weight": 4.0, "id": 2776821229, "level": 4}
+{"count": 3064, "name": "Leflunomide", "weight": 2.0, "id": 2775905006, "level": 4}
+{"count": 3771, "name": "Tocilizumab", "weight": 2.0, "id": 2777178219, "level": 4}
+{"count": 2317, "name": "Abatacept", "weight": 1.0, "id": 2779605438, "level": 4}
+{"count": 3229, "name": "Synovectomy", "weight": 2.0, "id": 2775882047, "level": 4}
+{"count": 993, "name": "Auranofin", "weight": 0.0, "id": 2776243873, "level": 4}
+{"count": 548, "name": "Rheumatoid nodule", "weight": 0.0, "id": 2777840918, "level": 4}
+{"count": 2006, "name": "Pannus", "weight": 1.0, "id": 2777746085, "level": 4}
+{"count": 1150, "name": "PTPN22", "weight": 0.0, "id": 2779356809, "level": 4}
+{"count": 1167, "name": "Citrullination", "weight": 0.0, "id": 48632299, "level": 4}
+{"count": 260, "name": "Aurothioglucose", "weight": 0.0, "id": 2778258053, "level": 4}
+{"count": 1118, "name": "Bone erosion", "weight": 0.0, "id": 2778673415, "level": 4}
+{"count": 1270, "name": "Tofacitinib", "weight": 0.0, "id": 2778886723, "level": 4}
+{"count": 562, "name": "Felty's syndrome", "weight": 0.0, "id": 2778491709, "level": 4}
+{"count": 433, "name": "Disease-modifying antirheumatic drug", "weight": 0.0, "id": 2777307765, "level": 4}
+{"count": 270, "name": "Bucillamine", "weight": 0.0, "id": 2778953507, "level": 4}
+{"count": 323, "name": "Sodium aurothiomalate", "weight": 0.0, "id": 2777455310, "level": 4}
+{"count": 413, "name": "Rheumatoid vasculitis", "weight": 0.0, "id": 2777534891, "level": 4}
+{"count": 168, "name": "Immune-mediated inflammatory diseases", "weight": 0.0, "id": 2779220105, "level": 4}
+{"count": 177, "name": "Fibroblast-like synoviocyte", "weight": 0.0, "id": 2776348350, "level": 4}
+{"count": 128, "name": "Digital X-ray radiogrammetry", "weight": 0.0, "id": 2779233479, "level": 4}
+{"count": 170, "name": "Swan neck deformity", "weight": 0.0, "id": 2778147918, "level": 4}
+{"count": 211, "name": "Palindromic rheumatism", "weight": 0.0, "id": 2777645300, "level": 4}
+{"count": 213, "name": "Baricitinib", "weight": 0.0, "id": 2781376670, "level": 4}
+{"count": 145, "name": "Interstitial granulomatous dermatitis", "weight": 0.0, "id": 2777912675, "level": 4}
+{"count": 608, "name": "Gold salts", "weight": 0.0, "id": 2780570811, "level": 4}
+{"count": 154, "name": "Fostamatinib", "weight": 0.0, "id": 2781001424, "level": 4}
+{"count": 157, "name": "Iguratimod", "weight": 0.0, "id": 2779716339, "level": 4}
+{"count": 64, "name": "Actarit", "weight": 0.0, "id": 2781370979, "level": 4}
+{"count": 142, "name": "Sarilumab", "weight": 0.0, "id": 2778385702, "level": 4}
+{"count": 295, "name": "Anti-IL-6", "weight": 0.0, "id": 2779449192, "level": 4}
+{"count": 109, "name": "Caplan's syndrome", "weight": 0.0, "id": 2778457166, "level": 4}
+{"count": 71, "name": "Sirukumab", "weight": 0.0, "id": 2779435527, "level": 4}
+{"count": 18, "name": "Pegsunercept", "weight": 0.0, "id": 2780987164, "level": 4}
+{"count": 53, "name": "Rheumatoid neutrophilic dermatitis", "weight": 0.0, "id": 2778563404, "level": 4}
+{"count": 88, "name": "Filgotinib", "weight": 0.0, "id": 2776801339, "level": 4}
+{"count": 19, "name": "Prosorba column", "weight": 0.0, "id": 2780026293, "level": 4}
+{"count": 39, "name": "Mavrilimumab", "weight": 0.0, "id": 2778977146, "level": 4}
+{"count": 30, "name": "Rheumatoid pleuritis", "weight": 0.0, "id": 2779102472, "level": 4}
+{"count": 91, "name": "Rheumatoid lung disease", "weight": 0.0, "id": 2775862881, "level": 4}
+{"count": 24, "name": "Indometacin farnesil", "weight": 0.0, "id": 2780306310, "level": 4}
+{"count": 97, "name": "Horizon Pharma", "weight": 0.0, "id": 2779163786, "level": 4}
+{"count": 26, "name": "Zeria", "weight": 0.0, "id": 2778882554, "level": 4}
+{"count": 16, "name": "The Rheumatoid Arthritis Quality of Life Questionnaire", "weight": 0.0, "id": 2780198759, "level": 4}

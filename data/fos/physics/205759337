@@ -1,0 +1,17 @@
+{"count": 6376, "name": "Thermal ionization", "weight": 10.0, "id": 162633436, "level": 5}
+{"count": 1588, "name": "Desorption electrospray ionization", "weight": 2.0, "id": 153540111, "level": 5}
+{"count": 2998, "name": "Double ionization", "weight": 4.0, "id": 2778734467, "level": 5}
+{"count": 3517, "name": "Ambient ionization", "weight": 5.0, "id": 138850012, "level": 5}
+{"count": 458, "name": "Appearance energy", "weight": 0.0, "id": 2780368406, "level": 5}
+{"count": 966, "name": "Tunnel ionization", "weight": 1.0, "id": 96441178, "level": 5}
+{"count": 341, "name": "McLafferty rearrangement", "weight": 0.0, "id": 2779755430, "level": 5}
+{"count": 6140, "name": "Atmospheric-pressure laser ionization", "weight": 9.0, "id": 53730454, "level": 5}
+{"count": 550, "name": "Laser spray ionization", "weight": 0.0, "id": 81428125, "level": 5}
+{"count": 33, "name": "Electron capture ionization", "weight": 0.0, "id": 2777279274, "level": 5}
+{"count": 34, "name": "Desorption atmospheric pressure photoionization", "weight": 0.0, "id": 2776693183, "level": 5}
+{"count": 1944, "name": "Matrix-assisted laser desorption electrospray ionization", "weight": 3.0, "id": 67839113, "level": 5}
+{"count": 86, "name": "Laser ablation electrospray ionization", "weight": 0.0, "id": 2777240130, "level": 5}
+{"count": 46, "name": "Gamow factor", "weight": 0.0, "id": 2780163760, "level": 5}
+{"count": 50, "name": "Mass-analyzed ion-kinetic-energy spectrometry", "weight": 0.0, "id": 2779660309, "level": 5}
+{"count": 1880, "name": "Soft laser desorption", "weight": 2.0, "id": 61001039, "level": 5}
+{"count": 2749, "name": "Molar ionization energies of the elements", "weight": 4.0, "id": 133572782, "level": 5}

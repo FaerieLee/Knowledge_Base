@@ -1,0 +1,8 @@
+{"count": 1145, "name": "Long short term memory", "weight": 1.0, "id": 133488467, "level": 4}
+{"count": 1389, "name": "Echo state network", "weight": 1.0, "id": 172025690, "level": 4}
+{"count": 1174, "name": "Reservoir computing", "weight": 1.0, "id": 135796866, "level": 4}
+{"count": 7098, "name": "Stochastic neural network", "weight": 7.0, "id": 86582703, "level": 4}
+{"count": 885, "name": "Random neural network", "weight": 0.0, "id": 33010914, "level": 4}
+{"count": 261, "name": "Backpropagation through time", "weight": 0.0, "id": 2780005939, "level": 4}
+{"count": 89, "name": "Vanishing gradient problem", "weight": 0.0, "id": 2778149865, "level": 4}
+{"count": 9002, "name": "Types of artificial neural networks", "weight": 10.0, "id": 177973122, "level": 4}

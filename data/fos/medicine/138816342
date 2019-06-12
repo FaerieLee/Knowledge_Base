@@ -1,0 +1,53 @@
+{"count": 134760, "name": "Health education", "weight": 10.0, "id": 113807197, "level": 3}
+{"count": 124966, "name": "Health policy", "weight": 9.0, "id": 47344431, "level": 3}
+{"count": 120159, "name": "Health promotion", "weight": 8.0, "id": 185618831, "level": 3}
+{"count": 33516, "name": "Health informatics", "weight": 2.0, "id": 145642194, "level": 3}
+{"count": 15928, "name": "Health economics", "weight": 1.0, "id": 524218345, "level": 3}
+{"count": 30278, "name": "Health equity", "weight": 2.0, "id": 2250968, "level": 3}
+{"count": 6838, "name": "Biostatistics", "weight": 0.0, "id": 140556311, "level": 3}
+{"count": 43249, "name": "Community health", "weight": 3.0, "id": 2775951005, "level": 3}
+{"count": 22283, "name": "Population health", "weight": 1.0, "id": 2778149918, "level": 3}
+{"count": 13020, "name": "Health psychology", "weight": 0.0, "id": 155164915, "level": 3}
+{"count": 26008, "name": "Social determinants of health", "weight": 1.0, "id": 78491826, "level": 3}
+{"count": 3928, "name": "Social medicine", "weight": 0.0, "id": 142164852, "level": 3}
+{"count": 7993, "name": "Military medicine", "weight": 0.0, "id": 544453697, "level": 3}
+{"count": 7631, "name": "Health indicator", "weight": 0.0, "id": 121272143, "level": 3}
+{"count": 10454, "name": "Tobacco control", "weight": 0.0, "id": 2780832096, "level": 3}
+{"count": 6732, "name": "Health facility", "weight": 0.0, "id": 2775949068, "level": 3}
+{"count": 803, "name": "Disability-adjusted life year", "weight": 0.0, "id": 2778049256, "level": 3}
+{"count": 5485, "name": "Disease surveillance", "weight": 0.0, "id": 2776480101, "level": 3}
+{"count": 3158, "name": "Public health surveillance", "weight": 0.0, "id": 2776361769, "level": 3}
+{"count": 2359, "name": "Disaster medicine", "weight": 0.0, "id": 2779272995, "level": 3}
+{"count": 2518, "name": "Health impact assessment", "weight": 0.0, "id": 2780456720, "level": 3}
+{"count": 1898, "name": "Environmental medicine", "weight": 0.0, "id": 540213393, "level": 3}
+{"count": 602, "name": "Financing cost", "weight": 0.0, "id": 2779327488, "level": 3}
+{"count": 1839, "name": "Epidemiological transition", "weight": 0.0, "id": 28039750, "level": 3}
+{"count": 688, "name": "Integrated Management of Childhood Illness", "weight": 0.0, "id": 2776408227, "level": 3}
+{"count": 3177, "name": "One Health", "weight": 0.0, "id": 2780120632, "level": 3}
+{"count": 1246, "name": "Dental public health", "weight": 0.0, "id": 2776618447, "level": 3}
+{"count": 1280, "name": "Partner notification", "weight": 0.0, "id": 2777595491, "level": 3}
+{"count": 2234, "name": "Essential medicines", "weight": 0.0, "id": 2777424817, "level": 3}
+{"count": 6787, "name": "Health department", "weight": 0.0, "id": 2780016893, "level": 3}
+{"count": 163, "name": "Clinical officer", "weight": 0.0, "id": 2776758788, "level": 3}
+{"count": 777, "name": "Veterinary public health", "weight": 0.0, "id": 2776094605, "level": 3}
+{"count": 375, "name": "Public Health Ethics", "weight": 0.0, "id": 2776514525, "level": 3}
+{"count": 351, "name": "School-based health centers", "weight": 0.0, "id": 2778258675, "level": 3}
+{"count": 539, "name": "National Rural Health Mission", "weight": 0.0, "id": 2779015095, "level": 3}
+{"count": 873, "name": "Notifiable disease", "weight": 0.0, "id": 2779373090, "level": 3}
+{"count": 218, "name": "Healthy Life Years", "weight": 0.0, "id": 2779938330, "level": 3}
+{"count": 308, "name": "Immunization registry", "weight": 0.0, "id": 2777287908, "level": 3}
+{"count": 217, "name": "Diseases of poverty", "weight": 0.0, "id": 2776605987, "level": 3}
+{"count": 127, "name": "Strategic National Stockpile", "weight": 0.0, "id": 2776942337, "level": 3}
+{"count": 64, "name": "Laboratory Response Network", "weight": 0.0, "id": 2781164611, "level": 3}
+{"count": 41, "name": "ProMED-mail", "weight": 0.0, "id": 2779122709, "level": 3}
+{"count": 170, "name": "NHS health check", "weight": 0.0, "id": 2775911139, "level": 3}
+{"count": 116, "name": "Alameda County Study", "weight": 0.0, "id": 2780872398, "level": 3}
+{"count": 160, "name": "Epidemic Intelligence Service", "weight": 0.0, "id": 2776976097, "level": 3}
+{"count": 34, "name": "Eatwell plate", "weight": 0.0, "id": 56358462, "level": 3}
+{"count": 31, "name": "Toxic Substances Control Act of 1976", "weight": 0.0, "id": 2779959764, "level": 3}
+{"count": 155, "name": "National Center for Injury Prevention and Control", "weight": 0.0, "id": 2776287345, "level": 3}
+{"count": 30, "name": "ICECI", "weight": 0.0, "id": 2777171314, "level": 3}
+{"count": 136, "name": "Public health observatory", "weight": 0.0, "id": 2778662395, "level": 3}
+{"count": 33, "name": "HIV/AIDS in Brazil", "weight": 0.0, "id": 2777799370, "level": 3}
+{"count": 128, "name": "Healthy development measurement tool", "weight": 0.0, "id": 31235001, "level": 3}
+{"count": 44, "name": "Exercise trends", "weight": 0.0, "id": 52075106, "level": 3}

@@ -1,0 +1,10 @@
+{"count": 4853, "name": "Principal component regression", "weight": 8.0, "id": 74887250, "level": 3}
+{"count": 5791, "name": "Kernel principal component analysis", "weight": 10.0, "id": 182335926, "level": 3}
+{"count": 2463, "name": "Eigenface", "weight": 4.0, "id": 104906051, "level": 3}
+{"count": 1654, "name": "Multiple correspondence analysis", "weight": 2.0, "id": 97448799, "level": 3}
+{"count": 861, "name": "Robust principal component analysis", "weight": 1.0, "id": 2777749129, "level": 3}
+{"count": 544, "name": "Functional principal component analysis", "weight": 0.0, "id": 71176878, "level": 3}
+{"count": 375, "name": "Principal geodesic analysis", "weight": 0.0, "id": 41568685, "level": 3}
+{"count": 1289, "name": "Sparse PCA", "weight": 2.0, "id": 24252448, "level": 3}
+{"count": 367, "name": "Multilinear principal component analysis", "weight": 0.0, "id": 91352546, "level": 3}
+{"count": 24, "name": "ANOVA\u2013simultaneous component analysis", "weight": 0.0, "id": 2780858684, "level": 3}

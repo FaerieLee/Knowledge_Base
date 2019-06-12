@@ -1,0 +1,7 @@
+{"count": 1500, "name": "Atmospheric tide", "weight": 5.0, "id": 145025062, "level": 4}
+{"count": 2654, "name": "Mesopause", "weight": 10.0, "id": 109714416, "level": 4}
+{"count": 205, "name": "Turbopause", "weight": 0.0, "id": 206643129, "level": 4}
+{"count": 474, "name": "Millstone Hill", "weight": 1.0, "id": 2778732512, "level": 4}
+{"count": 35, "name": "NRLMSISE-00", "weight": 0.0, "id": 2778114547, "level": 4}
+{"count": 65, "name": "Thermopause", "weight": 0.0, "id": 95098488, "level": 4}
+{"count": 38, "name": "Jacchia Reference Atmosphere", "weight": 0.0, "id": 76592663, "level": 4}

@@ -1,0 +1,17 @@
+{"count": 7991, "name": "Peripheral blood lymphocyte", "weight": 10.0, "id": 2780218660, "level": 3}
+{"count": 3763, "name": "Mixed lymphocyte reaction", "weight": 4.0, "id": 2778740727, "level": 3}
+{"count": 1880, "name": "Lymphocytopenia", "weight": 2.0, "id": 2777990475, "level": 3}
+{"count": 1583, "name": "Donor lymphocyte infusion", "weight": 1.0, "id": 2779695342, "level": 3}
+{"count": 3030, "name": "Pokeweed mitogen", "weight": 3.0, "id": 2781005381, "level": 3}
+{"count": 1682, "name": "Lymphocyte homing receptor", "weight": 2.0, "id": 167454224, "level": 3}
+{"count": 2479, "name": "Neutrophil to lymphocyte ratio", "weight": 3.0, "id": 2778963024, "level": 3}
+{"count": 2858, "name": "Phytohaemagglutinin", "weight": 3.0, "id": 2780050583, "level": 3}
+{"count": 782, "name": "Addressin", "weight": 0.0, "id": 4175445, "level": 3}
+{"count": 224, "name": "Carboxyfluorescein diacetate succinimidyl ester", "weight": 0.0, "id": 2780620174, "level": 3}
+{"count": 424, "name": "BTLA", "weight": 0.0, "id": 2780237676, "level": 3}
+{"count": 541, "name": "Lymphoproliferative response", "weight": 0.0, "id": 2776969849, "level": 3}
+{"count": 24, "name": "Helper/suppressor ratio", "weight": 0.0, "id": 2780120612, "level": 3}
+{"count": 118, "name": "Autologous lymphocyte", "weight": 0.0, "id": 2779892732, "level": 3}
+{"count": 86, "name": "Erythrocyte rosetting", "weight": 0.0, "id": 2779326982, "level": 3}
+{"count": 48, "name": "Reactive lymphocyte", "weight": 0.0, "id": 2779127350, "level": 3}
+{"count": 21, "name": "CD278", "weight": 0.0, "id": 2779060893, "level": 3}

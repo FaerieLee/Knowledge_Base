@@ -1,0 +1,16 @@
+{"count": 1837, "name": "Program comprehension", "weight": 4.0, "id": 2777561058, "level": 3}
+{"count": 4439, "name": "Static program analysis", "weight": 10.0, "id": 137287247, "level": 3}
+{"count": 269, "name": "Proof-carrying code", "weight": 0.0, "id": 2776219632, "level": 3}
+{"count": 454, "name": "Code mobility", "weight": 1.0, "id": 180232117, "level": 3}
+{"count": 3143, "name": "Object code", "weight": 7.0, "id": 154526789, "level": 3}
+{"count": 3965, "name": "Redundant code", "weight": 8.0, "id": 151578736, "level": 3}
+{"count": 122, "name": "Decompiler", "weight": 0.0, "id": 2781433556, "level": 3}
+{"count": 136, "name": "Conditional compilation", "weight": 0.0, "id": 2777161762, "level": 3}
+{"count": 131, "name": "Syntax highlighting", "weight": 0.0, "id": 2777784593, "level": 3}
+{"count": 963, "name": "Codebase", "weight": 2.0, "id": 51929080, "level": 3}
+{"count": 31, "name": "Control Structure Diagram", "weight": 0.0, "id": 2779728928, "level": 3}
+{"count": 168, "name": "Hand coding", "weight": 0.0, "id": 184633998, "level": 3}
+{"count": 16, "name": "Code audit", "weight": 0.0, "id": 2780695876, "level": 3}
+{"count": 11, "name": "Source code escrow", "weight": 0.0, "id": 2777113594, "level": 3}
+{"count": 23, "name": "Database dump", "weight": 0.0, "id": 2777751466, "level": 3}
+{"count": 6, "name": "Cfront", "weight": 0.0, "id": 2777319086, "level": 3}

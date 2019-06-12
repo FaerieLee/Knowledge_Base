@@ -1,0 +1,35 @@
+{"count": 60971, "name": "Digital image", "weight": 10.0, "id": 42781572, "level": 3}
+{"count": 36528, "name": "Edge detection", "weight": 5.0, "id": 193536780, "level": 3}
+{"count": 25690, "name": "Image restoration", "weight": 4.0, "id": 106430172, "level": 3}
+{"count": 47468, "name": "Color image", "weight": 7.0, "id": 142616399, "level": 3}
+{"count": 35154, "name": "Image texture", "weight": 5.0, "id": 63099799, "level": 3}
+{"count": 49992, "name": "Digital image processing", "weight": 8.0, "id": 104317675, "level": 3}
+{"count": 8670, "name": "Mathematical morphology", "weight": 1.0, "id": 185568154, "level": 3}
+{"count": 29326, "name": "Binary image", "weight": 4.0, "id": 193828747, "level": 3}
+{"count": 25560, "name": "Image formation", "weight": 4.0, "id": 125045340, "level": 3}
+{"count": 3061, "name": "Edge enhancement", "weight": 0.0, "id": 30108884, "level": 3}
+{"count": 6184, "name": "Non-local means", "weight": 1.0, "id": 101453961, "level": 3}
+{"count": 2566, "name": "Image conversion", "weight": 0.0, "id": 2776334786, "level": 3}
+{"count": 1472, "name": "Normalization (image processing)", "weight": 0.0, "id": 195653225, "level": 3}
+{"count": 330, "name": "Panoramic photography", "weight": 0.0, "id": 2779370272, "level": 3}
+{"count": 15694, "name": "Image processor", "weight": 2.0, "id": 2775941181, "level": 3}
+{"count": 1235, "name": "Frame grabber", "weight": 0.0, "id": 131228702, "level": 3}
+{"count": 1095, "name": "Image moment", "weight": 0.0, "id": 108311513, "level": 3}
+{"count": 468, "name": "Vision chip", "weight": 0.0, "id": 2775908279, "level": 3}
+{"count": 248, "name": "Ridge detection", "weight": 0.0, "id": 117590967, "level": 3}
+{"count": 951, "name": "Unsharp masking", "weight": 0.0, "id": 79052406, "level": 3}
+{"count": 1668, "name": "Image-based lighting", "weight": 0.0, "id": 204060014, "level": 3}
+{"count": 112, "name": "Hexagonal sampling", "weight": 0.0, "id": 2778707140, "level": 3}
+{"count": 2488, "name": "Sub-pixel resolution", "weight": 0.0, "id": 152363868, "level": 3}
+{"count": 316, "name": "Shift-and-add", "weight": 0.0, "id": 157423763, "level": 3}
+{"count": 84, "name": "Poisson image editing", "weight": 0.0, "id": 2779108453, "level": 3}
+{"count": 67, "name": "Red-eye effect", "weight": 0.0, "id": 76030789, "level": 3}
+{"count": 27, "name": "Projective frame", "weight": 0.0, "id": 2780498705, "level": 3}
+{"count": 202, "name": "Multi-scale approaches", "weight": 0.0, "id": 155860300, "level": 3}
+{"count": 44, "name": "Kuwahara filter", "weight": 0.0, "id": 2781025829, "level": 3}
+{"count": 5749, "name": "System image", "weight": 0.0, "id": 135802121, "level": 3}
+{"count": 101, "name": "Jaggies", "weight": 0.0, "id": 84196779, "level": 3}
+{"count": 27, "name": "Automated tissue image analysis", "weight": 0.0, "id": 14983750, "level": 3}
+{"count": 23, "name": "FireWire camera", "weight": 0.0, "id": 2779235723, "level": 3}
+{"count": 1745, "name": "Automated X-ray inspection", "weight": 0.0, "id": 146920229, "level": 3}
+{"count": 36355, "name": "Feature detection (computer vision)", "weight": 5.0, "id": 126422989, "level": 3}

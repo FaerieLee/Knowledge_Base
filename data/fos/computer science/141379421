@@ -1,0 +1,18 @@
+{"count": 11720, "name": "Reconstruction algorithm", "weight": 10.0, "id": 2779898584, "level": 3}
+{"count": 2001, "name": "Electrical capacitance tomography", "weight": 1.0, "id": 2777418626, "level": 3}
+{"count": 10345, "name": "Tomographic reconstruction", "weight": 8.0, "id": 97742081, "level": 3}
+{"count": 4519, "name": "Electrical impedance tomography", "weight": 3.0, "id": 155175808, "level": 3}
+{"count": 714, "name": "Process tomography", "weight": 0.0, "id": 2780302697, "level": 3}
+{"count": 1462, "name": "Algebraic Reconstruction Technique", "weight": 1.0, "id": 206654267, "level": 3}
+{"count": 739, "name": "Visual hull", "weight": 0.0, "id": 2776863239, "level": 3}
+{"count": 551, "name": "Discrete tomography", "weight": 0.0, "id": 2776060418, "level": 3}
+{"count": 1393, "name": "Diffraction tomography", "weight": 1.0, "id": 2780977457, "level": 3}
+{"count": 460, "name": "Magnetic induction tomography", "weight": 0.0, "id": 2778608604, "level": 3}
+{"count": 460, "name": "Landweber iteration", "weight": 0.0, "id": 25484224, "level": 3}
+{"count": 503, "name": "Ordered subset expectation maximization", "weight": 0.0, "id": 41233406, "level": 3}
+{"count": 70, "name": "Photo-consistency", "weight": 0.0, "id": 2778951238, "level": 3}
+{"count": 273, "name": "Data truncation", "weight": 0.0, "id": 47650051, "level": 3}
+{"count": 219, "name": "Radon space", "weight": 0.0, "id": 2780700699, "level": 3}
+{"count": 69, "name": "Interior reconstruction", "weight": 0.0, "id": 2778202834, "level": 3}
+{"count": 33, "name": "Noiselet", "weight": 0.0, "id": 155632945, "level": 3}
+{"count": 24, "name": "Stanford bunny", "weight": 0.0, "id": 2777844434, "level": 3}

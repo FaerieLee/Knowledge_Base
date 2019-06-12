@@ -1,0 +1,30 @@
+{"count": 4740, "name": "Epitope mapping", "weight": 10.0, "id": 2781241564, "level": 4}
+{"count": 1640, "name": "Immunodominance", "weight": 3.0, "id": 2776525413, "level": 4}
+{"count": 1393, "name": "Circumsporozoite protein", "weight": 2.0, "id": 2781074509, "level": 4}
+{"count": 3451, "name": "Gp41", "weight": 7.0, "id": 2776258796, "level": 4}
+{"count": 1785, "name": "Peptide vaccine", "weight": 3.0, "id": 2776789287, "level": 4}
+{"count": 930, "name": "Mimotope", "weight": 1.0, "id": 9365378, "level": 4}
+{"count": 1118, "name": "Biopanning", "weight": 2.0, "id": 104428545, "level": 4}
+{"count": 1519, "name": "V3 loop", "weight": 3.0, "id": 2779921545, "level": 4}
+{"count": 914, "name": "Conformational epitope", "weight": 1.0, "id": 2780632150, "level": 4}
+{"count": 415, "name": "Reverse vaccinology", "weight": 0.0, "id": 2781152039, "level": 4}
+{"count": 320, "name": "Synthetic vaccine", "weight": 0.0, "id": 2780144520, "level": 4}
+{"count": 2929, "name": "Linear epitope", "weight": 6.0, "id": 78598654, "level": 4}
+{"count": 116, "name": "Cross-reactive carbohydrate determinants", "weight": 0.0, "id": 2780762271, "level": 4}
+{"count": 456, "name": "Paratope", "weight": 0.0, "id": 9086966, "level": 4}
+{"count": 142, "name": "HLA-A24", "weight": 0.0, "id": 2779706122, "level": 4}
+{"count": 150, "name": "T-cell vaccine", "weight": 0.0, "id": 2776956730, "level": 4}
+{"count": 35, "name": "Epitope binning", "weight": 0.0, "id": 2777320470, "level": 4}
+{"count": 101, "name": "Self-protein", "weight": 0.0, "id": 2776312229, "level": 4}
+{"count": 62, "name": "Tetramer assay", "weight": 0.0, "id": 2779741351, "level": 4}
+{"count": 58, "name": "Hamster polyomavirus", "weight": 0.0, "id": 2778438708, "level": 4}
+{"count": 49, "name": "Glycoprotein 100", "weight": 0.0, "id": 2779455433, "level": 4}
+{"count": 63, "name": "Surface probability", "weight": 0.0, "id": 2778839274, "level": 4}
+{"count": 26, "name": "HLA-DR53", "weight": 0.0, "id": 2778941770, "level": 4}
+{"count": 15, "name": "Cryptotope", "weight": 0.0, "id": 2776438310, "level": 4}
+{"count": 159, "name": "Peplomer", "weight": 0.0, "id": 14290400, "level": 4}
+{"count": 21, "name": "Neoantigenic determinant", "weight": 0.0, "id": 2779601326, "level": 4}
+{"count": 24, "name": "CR6261", "weight": 0.0, "id": 2776837404, "level": 4}
+{"count": 32, "name": "CTL-mediated cytotoxicity", "weight": 0.0, "id": 2779110211, "level": 4}
+{"count": 50, "name": "Hydrophilicity plot", "weight": 0.0, "id": 2778335059, "level": 4}
+{"count": 21, "name": "Epstein\u2013Barr virus latent membrane protein 2", "weight": 0.0, "id": 2777836569, "level": 4}

@@ -1,0 +1,13 @@
+{"count": 3986, "name": "Ocean dynamics", "weight": 10.0, "id": 7228185, "level": 3}
+{"count": 2198, "name": "Ocean general circulation model", "weight": 5.0, "id": 2781281996, "level": 3}
+{"count": 3466, "name": "Boundary current", "weight": 8.0, "id": 60069189, "level": 3}
+{"count": 1680, "name": "Geostrophic current", "weight": 4.0, "id": 193163614, "level": 3}
+{"count": 589, "name": "World Ocean Circulation Experiment", "weight": 1.0, "id": 2779590395, "level": 3}
+{"count": 3479, "name": "Ocean surface topography", "weight": 8.0, "id": 150320492, "level": 3}
+{"count": 165, "name": "Parallel Ocean Program", "weight": 0.0, "id": 2777538948, "level": 3}
+{"count": 1963, "name": "Drifter", "weight": 4.0, "id": 95826659, "level": 3}
+{"count": 122, "name": "Brazil\u2013Malvinas Confluence", "weight": 0.0, "id": 15996123, "level": 3}
+{"count": 336, "name": "Subsurface currents", "weight": 0.0, "id": 190960893, "level": 3}
+{"count": 26, "name": "Coastal ocean dynamics applications radar", "weight": 0.0, "id": 2778079102, "level": 3}
+{"count": 21, "name": "Ekman velocity", "weight": 0.0, "id": 2778912082, "level": 3}
+{"count": 77, "name": "Rotor current meter", "weight": 0.0, "id": 82067656, "level": 3}

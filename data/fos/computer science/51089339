@@ -1,0 +1,5 @@
+{"count": 1040, "name": "Genlock", "weight": 3.0, "id": 12693000, "level": 4}
+{"count": 2658, "name": "S-Video", "weight": 10.0, "id": 164781476, "level": 4}
+{"count": 296, "name": "Component video", "weight": 1.0, "id": 2776683473, "level": 4}
+{"count": 641, "name": "Dot crawl", "weight": 2.0, "id": 33689520, "level": 4}
+{"count": 97, "name": "Blanking level", "weight": 0.0, "id": 2780787118, "level": 4}

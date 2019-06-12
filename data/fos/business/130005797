@@ -1,0 +1,8 @@
+{"count": 1866, "name": "Forward contract", "weight": 4.0, "id": 38904191, "level": 3}
+{"count": 393, "name": "Weather derivative", "weight": 0.0, "id": 2777137640, "level": 3}
+{"count": 4274, "name": "Forward market", "weight": 10.0, "id": 52837651, "level": 3}
+{"count": 1680, "name": "Contango", "weight": 3.0, "id": 90937171, "level": 3}
+{"count": 1402, "name": "Market neutral", "weight": 3.0, "id": 95982191, "level": 3}
+{"count": 155, "name": "Indifference price", "weight": 0.0, "id": 2780402437, "level": 3}
+{"count": 44, "name": "Replicating strategy", "weight": 0.0, "id": 2778805304, "level": 3}
+{"count": 1141, "name": "Commodity swap", "weight": 2.0, "id": 175992601, "level": 3}

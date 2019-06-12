@@ -1,0 +1,116 @@
+{"count": 26303, "name": "Ubiquitous computing", "weight": 2.0, "id": 172195944, "level": 2}
+{"count": 91877, "name": "Usability", "weight": 10.0, "id": 170130773, "level": 2}
+{"count": 24105, "name": "Task analysis", "weight": 2.0, "id": 175154964, "level": 2}
+{"count": 14690, "name": "Collaborative software", "weight": 1.0, "id": 554579003, "level": 2}
+{"count": 6771, "name": "Experience design", "weight": 0.0, "id": 9496109, "level": 2}
+{"count": 21611, "name": "Conceptual design", "weight": 2.0, "id": 120208923, "level": 2}
+{"count": 13789, "name": "Information and Computer Science", "weight": 1.0, "id": 556297831, "level": 2}
+{"count": 35240, "name": "User experience design", "weight": 3.0, "id": 201025465, "level": 2}
+{"count": 11547, "name": "Hypermedia", "weight": 1.0, "id": 2780126544, "level": 2}
+{"count": 13173, "name": "Metaverse", "weight": 1.0, "id": 53332860, "level": 2}
+{"count": 7289, "name": "Computer-supported cooperative work", "weight": 0.0, "id": 198439703, "level": 2}
+{"count": 8734, "name": "Interface design", "weight": 0.0, "id": 139366241, "level": 2}
+{"count": 9472, "name": "Interaction design", "weight": 1.0, "id": 13854087, "level": 2}
+{"count": 11286, "name": "Design research", "weight": 1.0, "id": 119142448, "level": 2}
+{"count": 7081, "name": "Context awareness", "weight": 0.0, "id": 2781368080, "level": 2}
+{"count": 8540, "name": "User-centered design", "weight": 0.0, "id": 161772715, "level": 2}
+{"count": 5060, "name": "Interactive video", "weight": 0.0, "id": 2776566319, "level": 2}
+{"count": 5389, "name": "Ambient intelligence", "weight": 0.0, "id": 201638289, "level": 2}
+{"count": 7791, "name": "Designtheory", "weight": 0.0, "id": 542192845, "level": 2}
+{"count": 6089, "name": "Participatory design", "weight": 0.0, "id": 2777455480, "level": 2}
+{"count": 6487, "name": "Iterative design", "weight": 0.0, "id": 106246047, "level": 2}
+{"count": 3744, "name": "Human interface device", "weight": 0.0, "id": 101749295, "level": 2}
+{"count": 11178, "name": "Affordance", "weight": 1.0, "id": 194995250, "level": 2}
+{"count": 41865, "name": "Persona", "weight": 4.0, "id": 313442, "level": 2}
+{"count": 3911, "name": "Information design", "weight": 0.0, "id": 120588126, "level": 2}
+{"count": 3965, "name": "Smart environment", "weight": 0.0, "id": 152223200, "level": 2}
+{"count": 5376, "name": "Design thinking", "weight": 0.0, "id": 142778471, "level": 2}
+{"count": 2782, "name": "Multimodal interaction", "weight": 0.0, "id": 135641252, "level": 2}
+{"count": 816, "name": "Distributed collaboration", "weight": 0.0, "id": 2777298481, "level": 2}
+{"count": 3543, "name": "Virtual Laboratory", "weight": 0.0, "id": 2777609615, "level": 2}
+{"count": 5721, "name": "Communication design", "weight": 0.0, "id": 41022531, "level": 2}
+{"count": 4745, "name": "Sensemaking", "weight": 0.0, "id": 2780554381, "level": 2}
+{"count": 2193, "name": "Auditory display", "weight": 0.0, "id": 171179263, "level": 2}
+{"count": 1697, "name": "Intelligent environment", "weight": 0.0, "id": 2778895906, "level": 2}
+{"count": 995, "name": "Fitts's law", "weight": 0.0, "id": 159842133, "level": 2}
+{"count": 2710, "name": "Minimalism (technical communication)", "weight": 0.0, "id": 88100979, "level": 2}
+{"count": 1907, "name": "Information behavior", "weight": 0.0, "id": 2776933542, "level": 2}
+{"count": 6809, "name": "Needs analysis", "weight": 0.0, "id": 76681756, "level": 2}
+{"count": 1008, "name": "Ubiquitous learning", "weight": 0.0, "id": 2777531565, "level": 2}
+{"count": 2238, "name": "Sonification", "weight": 0.0, "id": 91607612, "level": 2}
+{"count": 2899, "name": "Multi-touch", "weight": 0.0, "id": 2780753109, "level": 2}
+{"count": 2817, "name": "Contextual design", "weight": 0.0, "id": 71611378, "level": 2}
+{"count": 1329, "name": "Interactive art", "weight": 0.0, "id": 2777432453, "level": 2}
+{"count": 550, "name": "Social navigation", "weight": 0.0, "id": 2778099689, "level": 2}
+{"count": 460, "name": "Anchored Instruction", "weight": 0.0, "id": 2780994701, "level": 2}
+{"count": 568, "name": "Urban computing", "weight": 0.0, "id": 2778459138, "level": 2}
+{"count": 3974, "name": "Smart device", "weight": 0.0, "id": 2776898695, "level": 2}
+{"count": 1413, "name": "Collaboration", "weight": 0.0, "id": 559553711, "level": 2}
+{"count": 1014, "name": "Interactive computing", "weight": 0.0, "id": 40866790, "level": 2}
+{"count": 405, "name": "Information foraging", "weight": 0.0, "id": 2776496588, "level": 2}
+{"count": 231, "name": "Programming by example", "weight": 0.0, "id": 2778999678, "level": 2}
+{"count": 1949, "name": "Interactive design", "weight": 0.0, "id": 86297840, "level": 2}
+{"count": 3475, "name": "Functional approach", "weight": 0.0, "id": 2777131603, "level": 2}
+{"count": 368, "name": "Value sensitive design", "weight": 0.0, "id": 2779523757, "level": 2}
+{"count": 1177, "name": "Contextual inquiry", "weight": 0.0, "id": 135355979, "level": 2}
+{"count": 1991, "name": "Living lab", "weight": 0.0, "id": 3503070, "level": 2}
+{"count": 789, "name": "Screen reader", "weight": 0.0, "id": 2778535757, "level": 2}
+{"count": 3616, "name": "Human\u2013machine system", "weight": 0.0, "id": 146047270, "level": 2}
+{"count": 271, "name": "Urban informatics", "weight": 0.0, "id": 2779000246, "level": 2}
+{"count": 493, "name": "Interaction Styles", "weight": 0.0, "id": 2776181424, "level": 2}
+{"count": 1620, "name": "Card sorting", "weight": 0.0, "id": 5563205, "level": 2}
+{"count": 645, "name": "Gerontechnology", "weight": 0.0, "id": 2777635720, "level": 2}
+{"count": 1528, "name": "User expectations", "weight": 0.0, "id": 2777911697, "level": 2}
+{"count": 852, "name": "Collaboratory", "weight": 0.0, "id": 2776787376, "level": 2}
+{"count": 817, "name": "Physical computing", "weight": 0.0, "id": 128582244, "level": 2}
+{"count": 3307, "name": "Whiteboard", "weight": 0.0, "id": 2780315633, "level": 2}
+{"count": 416, "name": "Diary studies", "weight": 0.0, "id": 2780707977, "level": 2}
+{"count": 102, "name": "Psychology of programming", "weight": 0.0, "id": 2777817761, "level": 2}
+{"count": 326, "name": "Virtual research environment", "weight": 0.0, "id": 2778730959, "level": 2}
+{"count": 257, "name": "Design fiction", "weight": 0.0, "id": 2779317788, "level": 2}
+{"count": 497, "name": "Digital Life", "weight": 0.0, "id": 2779865128, "level": 2}
+{"count": 1986, "name": "Office chair", "weight": 0.0, "id": 2780047860, "level": 2}
+{"count": 949, "name": "Discoverability", "weight": 0.0, "id": 2778531742, "level": 2}
+{"count": 538, "name": "Digital artifact", "weight": 0.0, "id": 12769787, "level": 2}
+{"count": 368, "name": "Smart products", "weight": 0.0, "id": 2779929061, "level": 2}
+{"count": 467, "name": "Security pattern", "weight": 0.0, "id": 2776501252, "level": 2}
+{"count": 132, "name": "Wizard of Oz experiment", "weight": 0.0, "id": 56067085, "level": 2}
+{"count": 46, "name": "Critical technical practice", "weight": 0.0, "id": 2779805356, "level": 2}
+{"count": 150, "name": "Metadesign", "weight": 0.0, "id": 2776878660, "level": 2}
+{"count": 126, "name": "AgentSheets", "weight": 0.0, "id": 2781002258, "level": 2}
+{"count": 214, "name": "Collaborative working environment", "weight": 0.0, "id": 2780253551, "level": 2}
+{"count": 7, "name": "Pictive", "weight": 0.0, "id": 2779401907, "level": 2}
+{"count": 158, "name": "Natural mapping", "weight": 0.0, "id": 89717301, "level": 2}
+{"count": 39, "name": "Activity-centered design", "weight": 0.0, "id": 2779606596, "level": 2}
+{"count": 135, "name": "Transformation design", "weight": 0.0, "id": 2777699114, "level": 2}
+{"count": 31, "name": "Skeuomorph", "weight": 0.0, "id": 160862168, "level": 2}
+{"count": 54, "name": "Telepointer", "weight": 0.0, "id": 2776530446, "level": 2}
+{"count": 73, "name": "Progressive disclosure", "weight": 0.0, "id": 2775955550, "level": 2}
+{"count": 30, "name": "IntraText", "weight": 0.0, "id": 2779484273, "level": 2}
+{"count": 22, "name": "Modal window", "weight": 0.0, "id": 2778290656, "level": 2}
+{"count": 4, "name": "Thanatosensitivity", "weight": 0.0, "id": 172912844, "level": 2}
+{"count": 83, "name": "Archy", "weight": 0.0, "id": 2780380947, "level": 2}
+{"count": 22, "name": "Optophone", "weight": 0.0, "id": 187819029, "level": 2}
+{"count": 19, "name": "Transgenerational design", "weight": 0.0, "id": 2775995775, "level": 2}
+{"count": 12, "name": "Principle of least astonishment", "weight": 0.0, "id": 182291661, "level": 2}
+{"count": 25, "name": "SixthSense", "weight": 0.0, "id": 2779077420, "level": 2}
+{"count": 3, "name": "Social information architecture", "weight": 0.0, "id": 2780434795, "level": 2}
+{"count": 1, "name": "Crossing-based interface", "weight": 0.0, "id": 2779674242, "level": 2}
+{"count": 57, "name": "E-professional", "weight": 0.0, "id": 2779330260, "level": 2}
+{"count": 11, "name": "Chief experience officer", "weight": 0.0, "id": 2777272536, "level": 2}
+{"count": 7, "name": "Nearables", "weight": 0.0, "id": 2777512690, "level": 2}
+{"count": 2, "name": "CMN-GOMS", "weight": 0.0, "id": 121526340, "level": 2}
+{"count": 1, "name": "Learner-generated context", "weight": 0.0, "id": 2779871092, "level": 2}
+{"count": 15, "name": "Gulf of evaluation", "weight": 0.0, "id": 2777787320, "level": 2}
+{"count": 6, "name": "Master of Information Management", "weight": 0.0, "id": 2778288302, "level": 2}
+{"count": 11, "name": "Gulf of execution", "weight": 0.0, "id": 2779000000, "level": 2}
+{"count": 2, "name": "Google Contact Lens", "weight": 0.0, "id": 2780583174, "level": 2}
+{"count": 7, "name": "Command verb", "weight": 0.0, "id": 2779844642, "level": 2}
+{"count": 1, "name": "Website wireframe", "weight": 0.0, "id": 2776379307, "level": 2}
+{"count": 1, "name": "Alert dialog box", "weight": 0.0, "id": 2780238774, "level": 2}
+{"count": 2, "name": "Ergonomics in Canada", "weight": 0.0, "id": 2777702515, "level": 2}
+{"count": 1, "name": "Interruption science", "weight": 0.0, "id": 2780642171, "level": 2}
+{"count": 3, "name": "Scratch input", "weight": 0.0, "id": 79381667, "level": 2}
+{"count": 3, "name": "Application posture", "weight": 0.0, "id": 2778813097, "level": 2}
+{"count": 10, "name": "Seven stages of action", "weight": 0.0, "id": 202758568, "level": 2}
+{"count": 15, "name": "The Semantic Turn", "weight": 0.0, "id": 2776655412, "level": 2}

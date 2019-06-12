@@ -1,0 +1,21 @@
+{"count": 2712, "name": "Advanced life support", "weight": 7.0, "id": 2777045030, "level": 4}
+{"count": 2916, "name": "Basic life support", "weight": 7.0, "id": 2779084015, "level": 4}
+{"count": 3084, "name": "Return of spontaneous circulation", "weight": 8.0, "id": 2778619729, "level": 4}
+{"count": 1486, "name": "Advanced cardiac life support", "weight": 4.0, "id": 2778496132, "level": 4}
+{"count": 1548, "name": "Automated external defibrillator", "weight": 4.0, "id": 2779729227, "level": 4}
+{"count": 1787, "name": "Coronary perfusion pressure", "weight": 4.0, "id": 2777862461, "level": 4}
+{"count": 1037, "name": "Pulseless electrical activity", "weight": 2.0, "id": 2777205947, "level": 4}
+{"count": 323, "name": "Pediatric advanced life support", "weight": 0.0, "id": 2779234708, "level": 4}
+{"count": 206, "name": "Impedance threshold device", "weight": 0.0, "id": 2778084729, "level": 4}
+{"count": 341, "name": "Utstein Style", "weight": 0.0, "id": 2777899739, "level": 4}
+{"count": 411, "name": "Extracorporeal cardiopulmonary resuscitation", "weight": 1.0, "id": 2780640149, "level": 4}
+{"count": 138, "name": "Mouth-to-mouth resuscitation", "weight": 0.0, "id": 2777364418, "level": 4}
+{"count": 559, "name": "Chain of survival", "weight": 1.0, "id": 2777386880, "level": 4}
+{"count": 3671, "name": "Clinical death", "weight": 10.0, "id": 172408975, "level": 4}
+{"count": 231, "name": "Traumatic cardiac arrest", "weight": 0.0, "id": 2776445469, "level": 4}
+{"count": 137, "name": "AutoPulse", "weight": 0.0, "id": 2775831499, "level": 4}
+{"count": 37, "name": "Agonal respiration", "weight": 0.0, "id": 2779588518, "level": 4}
+{"count": 37, "name": "Pocket mask", "weight": 0.0, "id": 2777504772, "level": 4}
+{"count": 13, "name": "Cough CPR", "weight": 0.0, "id": 2776515089, "level": 4}
+{"count": 191, "name": "Resuscitation Outcomes Consortium", "weight": 0.0, "id": 2779372242, "level": 4}
+{"count": 19, "name": "Advanced Medical Priority Dispatch System", "weight": 0.0, "id": 2777957448, "level": 4}

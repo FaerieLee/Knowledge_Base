@@ -1,0 +1,55 @@
+{"count": 113609, "name": "Lymph node", "weight": 10.0, "id": 2780849966, "level": 4}
+{"count": 36448, "name": "Tumor progression", "weight": 3.0, "id": 2779256057, "level": 4}
+{"count": 16205, "name": "Epithelial\u2013mesenchymal transition", "weight": 1.0, "id": 76419328, "level": 4}
+{"count": 10085, "name": "Bone metastasis", "weight": 0.0, "id": 2777783956, "level": 4}
+{"count": 10720, "name": "Neck dissection", "weight": 0.0, "id": 2778474501, "level": 4}
+{"count": 3289, "name": "Lewis lung carcinoma", "weight": 0.0, "id": 2777847059, "level": 4}
+{"count": 8811, "name": "Circulating tumor cell", "weight": 0.0, "id": 61238886, "level": 4}
+{"count": 6839, "name": "Brain metastasis", "weight": 0.0, "id": 2778164965, "level": 4}
+{"count": 3297, "name": "Tumor initiation", "weight": 0.0, "id": 2778287671, "level": 4}
+{"count": 2100, "name": "Anoikis", "weight": 0.0, "id": 152000582, "level": 4}
+{"count": 2193, "name": "Heparanase", "weight": 0.0, "id": 2777478136, "level": 4}
+{"count": 3360, "name": "Perineural invasion", "weight": 0.0, "id": 2777154038, "level": 4}
+{"count": 2264, "name": "Metastasectomy", "weight": 0.0, "id": 2778601017, "level": 4}
+{"count": 31944, "name": "Primary tumor", "weight": 2.0, "id": 2780283643, "level": 4}
+{"count": 543, "name": "Tumor-associated macrophage", "weight": 0.0, "id": 2779482015, "level": 4}
+{"count": 1605, "name": "Signet ring cell carcinoma", "weight": 0.0, "id": 2780238495, "level": 4}
+{"count": 1105, "name": "Maspin", "weight": 0.0, "id": 2778900538, "level": 4}
+{"count": 912, "name": "Vasculogenic mimicry", "weight": 0.0, "id": 2779944901, "level": 4}
+{"count": 916, "name": "Invadopodia", "weight": 0.0, "id": 200786668, "level": 4}
+{"count": 2743, "name": "MMP2", "weight": 0.0, "id": 2780699576, "level": 4}
+{"count": 4579, "name": "Metastatic carcinoma", "weight": 0.0, "id": 2779975986, "level": 4}
+{"count": 726, "name": "HOTAIR", "weight": 0.0, "id": 2781128886, "level": 4}
+{"count": 100, "name": "Raf kinase inhibitor protein", "weight": 0.0, "id": 2780031759, "level": 4}
+{"count": 658, "name": "MALAT1", "weight": 0.0, "id": 2779134362, "level": 4}
+{"count": 518, "name": "Krukenberg tumor", "weight": 0.0, "id": 2776726509, "level": 4}
+{"count": 887, "name": "Intravasation", "weight": 0.0, "id": 2778050619, "level": 4}
+{"count": 513, "name": "Mammaglobin", "weight": 0.0, "id": 2777383545, "level": 4}
+{"count": 1834, "name": "Metastasis suppressor", "weight": 0.0, "id": 2778025950, "level": 4}
+{"count": 598, "name": "RhoC", "weight": 0.0, "id": 2779473599, "level": 4}
+{"count": 1212, "name": "TNM staging system", "weight": 0.0, "id": 2776808855, "level": 4}
+{"count": 304, "name": "AGR2", "weight": 0.0, "id": 2778903859, "level": 4}
+{"count": 60, "name": "Pre-metastatic niche", "weight": 0.0, "id": 2777609930, "level": 4}
+{"count": 378, "name": "Peritoneal washing", "weight": 0.0, "id": 2779762460, "level": 4}
+{"count": 315, "name": "MTDH", "weight": 0.0, "id": 2781133596, "level": 4}
+{"count": 71, "name": "Prinomastat", "weight": 0.0, "id": 2778111101, "level": 4}
+{"count": 220, "name": "NEDD9", "weight": 0.0, "id": 2779412762, "level": 4}
+{"count": 55, "name": "Glomangiosarcoma", "weight": 0.0, "id": 2776979501, "level": 4}
+{"count": 181, "name": "CDCP1", "weight": 0.0, "id": 2780952087, "level": 4}
+{"count": 142, "name": "Cancer dormancy", "weight": 0.0, "id": 2775998941, "level": 4}
+{"count": 222, "name": "Melanoma inhibitory activity", "weight": 0.0, "id": 2779813992, "level": 4}
+{"count": 374, "name": "Metastatic liver disease", "weight": 0.0, "id": 2777742982, "level": 4}
+{"count": 115, "name": "Sister Mary Joseph nodule", "weight": 0.0, "id": 2779517365, "level": 4}
+{"count": 29, "name": "Fresolimumab", "weight": 0.0, "id": 2776626048, "level": 4}
+{"count": 33, "name": "Malignant pilomatricoma", "weight": 0.0, "id": 2776685672, "level": 4}
+{"count": 81, "name": "Primary cutaneous adenoid cystic carcinoma", "weight": 0.0, "id": 2780959955, "level": 4}
+{"count": 53, "name": "Alopecia neoplastica", "weight": 0.0, "id": 2781365366, "level": 4}
+{"count": 79, "name": "Cancer of unknown primary origin", "weight": 0.0, "id": 2779409118, "level": 4}
+{"count": 80, "name": "Sarcomatoid carcinoma of the lung", "weight": 0.0, "id": 2776131420, "level": 4}
+{"count": 37, "name": "ARHGDIB", "weight": 0.0, "id": 2777823596, "level": 4}
+{"count": 22, "name": "TMSB10", "weight": 0.0, "id": 2779551241, "level": 4}
+{"count": 22, "name": "Zosteriform metastasis", "weight": 0.0, "id": 2777696381, "level": 4}
+{"count": 18, "name": "Melanocytic tumors of uncertain malignant potential", "weight": 0.0, "id": 2776744123, "level": 4}
+{"count": 368, "name": "The Hallmarks of Cancer", "weight": 0.0, "id": 2776199265, "level": 4}
+{"count": 16, "name": "B3GALNT1", "weight": 0.0, "id": 2779535957, "level": 4}
+{"count": 23, "name": "Astasis", "weight": 0.0, "id": 2780396645, "level": 4}

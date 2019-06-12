@@ -1,0 +1,20 @@
+{"count": 5249, "name": "Elliptic curve cryptography", "weight": 10.0, "id": 167615521, "level": 3}
+{"count": 1366, "name": "Complex multiplication", "weight": 2.0, "id": 80146680, "level": 3}
+{"count": 263, "name": "Weil pairing", "weight": 0.0, "id": 2775911450, "level": 3}
+{"count": 2462, "name": "Scalar multiplication", "weight": 4.0, "id": 171182647, "level": 3}
+{"count": 370, "name": "Tate pairing", "weight": 0.0, "id": 2778557125, "level": 3}
+{"count": 3092, "name": "Supersingular elliptic curve", "weight": 5.0, "id": 157567686, "level": 3}
+{"count": 301, "name": "Selmer group", "weight": 0.0, "id": 2780201822, "level": 3}
+{"count": 141, "name": "Birch and Swinnerton-Dyer conjecture", "weight": 0.0, "id": 2781368179, "level": 3}
+{"count": 560, "name": "Isogeny", "weight": 1.0, "id": 2779765290, "level": 3}
+{"count": 75, "name": "Tate\u2013Shafarevich group", "weight": 0.0, "id": 2775991827, "level": 3}
+{"count": 2565, "name": "Modular elliptic curve", "weight": 4.0, "id": 73683783, "level": 3}
+{"count": 64, "name": "Heegner point", "weight": 0.0, "id": 2777570162, "level": 3}
+{"count": 245, "name": "Congruent number", "weight": 0.0, "id": 33738233, "level": 3}
+{"count": 98, "name": "Field arithmetic", "weight": 0.0, "id": 2777427355, "level": 3}
+{"count": 50, "name": "Tate curve", "weight": 0.0, "id": 2776286205, "level": 3}
+{"count": 2959, "name": "Elliptic curve point multiplication", "weight": 5.0, "id": 117121985, "level": 3}
+{"count": 6, "name": "Szpiro's conjecture", "weight": 0.0, "id": 2778963761, "level": 3}
+{"count": 12, "name": "Frey curve", "weight": 0.0, "id": 2778655970, "level": 3}
+{"count": 8, "name": "Mordell curve", "weight": 0.0, "id": 2779587272, "level": 3}
+{"count": 30, "name": "Index calculus algorithm", "weight": 0.0, "id": 2776476781, "level": 3}

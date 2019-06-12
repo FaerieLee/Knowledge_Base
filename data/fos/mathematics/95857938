@@ -1,0 +1,19 @@
+{"count": 1681, "name": "Principal bundle", "weight": 10.0, "id": 56907000, "level": 3}
+{"count": 261, "name": "Higgs bundle", "weight": 1.0, "id": 2780342243, "level": 3}
+{"count": 195, "name": "Stable vector bundle", "weight": 1.0, "id": 2777377036, "level": 3}
+{"count": 405, "name": "Holomorphic vector bundle", "weight": 2.0, "id": 2778927517, "level": 3}
+{"count": 1426, "name": "Frame bundle", "weight": 8.0, "id": 191961195, "level": 3}
+{"count": 143, "name": "Complex vector bundle", "weight": 0.0, "id": 2778592143, "level": 3}
+{"count": 120, "name": "Brill\u2013Noether theory", "weight": 0.0, "id": 2779369822, "level": 3}
+{"count": 96, "name": "Fourier\u2013Mukai transform", "weight": 0.0, "id": 2780454892, "level": 3}
+{"count": 999, "name": "Splitting principle", "weight": 5.0, "id": 19485645, "level": 3}
+{"count": 289, "name": "Subbundle", "weight": 1.0, "id": 2777225126, "level": 3}
+{"count": 51, "name": "Reflexive sheaf", "weight": 0.0, "id": 2777710977, "level": 3}
+{"count": 29, "name": "Banach bundle", "weight": 0.0, "id": 2778151454, "level": 3}
+{"count": 893, "name": "Tautological line bundle", "weight": 5.0, "id": 144947467, "level": 3}
+{"count": 62, "name": "Bundle map", "weight": 0.0, "id": 2777752288, "level": 3}
+{"count": 113, "name": "Projectivization", "weight": 0.0, "id": 2779341499, "level": 3}
+{"count": 51, "name": "Dual bundle", "weight": 0.0, "id": 2777360910, "level": 3}
+{"count": 1348, "name": "Connection (vector bundle)", "weight": 8.0, "id": 96372148, "level": 3}
+{"count": 1285, "name": "Vector-valued differential form", "weight": 7.0, "id": 44234333, "level": 3}
+{"count": 923, "name": "Section (fiber bundle)", "weight": 5.0, "id": 50208158, "level": 3}

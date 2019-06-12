@@ -1,0 +1,4 @@
+{"count": 1188, "name": "Augmented Dickey\u2013Fuller test", "weight": 10.0, "id": 128063223, "level": 4}
+{"count": 298, "name": "Trend stationary", "weight": 2.0, "id": 72532847, "level": 4}
+{"count": 471, "name": "KPSS test", "weight": 3.0, "id": 62687755, "level": 4}
+{"count": 22, "name": "IPS panel", "weight": 0.0, "id": 2780455533, "level": 4}

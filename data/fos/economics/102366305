@@ -1,0 +1,11 @@
+{"count": 8565, "name": "Nonparametric regression", "weight": 10.0, "id": 74127309, "level": 3}
+{"count": 4611, "name": "Semiparametric model", "weight": 5.0, "id": 78297888, "level": 3}
+{"count": 2410, "name": "Dirichlet process", "weight": 2.0, "id": 2781280628, "level": 3}
+{"count": 3728, "name": "Semiparametric regression", "weight": 4.0, "id": 19539793, "level": 3}
+{"count": 533, "name": "Median test", "weight": 0.0, "id": 81164222, "level": 3}
+{"count": 64, "name": "Indian buffet process", "weight": 0.0, "id": 2778374948, "level": 3}
+{"count": 431, "name": "L-estimator", "weight": 0.0, "id": 70594655, "level": 3}
+{"count": 267, "name": "Chinese restaurant process", "weight": 0.0, "id": 5357010, "level": 3}
+{"count": 154, "name": "Backfitting algorithm", "weight": 0.0, "id": 22526026, "level": 3}
+{"count": 11, "name": "Siegel\u2013Tukey test", "weight": 0.0, "id": 2777276316, "level": 3}
+{"count": 494, "name": "Pseudomedian", "weight": 0.0, "id": 168940685, "level": 3}

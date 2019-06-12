@@ -1,0 +1,35 @@
+{"count": 24126, "name": "Superconducting magnet", "weight": 7.0, "id": 172108966, "level": 3}
+{"count": 32853, "name": "Electromagnet", "weight": 10.0, "id": 106997767, "level": 3}
+{"count": 19946, "name": "Magnetic circuit", "weight": 6.0, "id": 24214142, "level": 3}
+{"count": 12666, "name": "Magnetic levitation", "weight": 3.0, "id": 206736587, "level": 3}
+{"count": 22701, "name": "Permanent magnet synchronous generator", "weight": 6.0, "id": 201320609, "level": 3}
+{"count": 4493, "name": "Permanent magnet motor", "weight": 1.0, "id": 2776617710, "level": 3}
+{"count": 1889, "name": "Single-molecule magnet", "weight": 0.0, "id": 2777336399, "level": 3}
+{"count": 5308, "name": "Neodymium magnet", "weight": 1.0, "id": 110135171, "level": 3}
+{"count": 988, "name": "Magnetic gear", "weight": 0.0, "id": 2775996065, "level": 3}
+{"count": 1720, "name": "Eddy current brake", "weight": 0.0, "id": 54855816, "level": 3}
+{"count": 3210, "name": "Quadrupole magnet", "weight": 0.0, "id": 176234127, "level": 3}
+{"count": 925, "name": "Halbach array", "weight": 0.0, "id": 42283938, "level": 3}
+{"count": 1529, "name": "Shim (magnetism)", "weight": 0.0, "id": 94589931, "level": 3}
+{"count": 8965, "name": "Pole piece", "weight": 2.0, "id": 159605311, "level": 3}
+{"count": 4929, "name": "Dipole magnet", "weight": 1.0, "id": 182213014, "level": 3}
+{"count": 1423, "name": "Rare-earth magnet", "weight": 0.0, "id": 2779938282, "level": 3}
+{"count": 3158, "name": "Reed switch", "weight": 0.0, "id": 186477452, "level": 3}
+{"count": 571, "name": "Decrepitation", "weight": 0.0, "id": 2779020347, "level": 3}
+{"count": 871, "name": "Alnico", "weight": 0.0, "id": 2778877899, "level": 3}
+{"count": 610, "name": "Magnetic detector", "weight": 0.0, "id": 2777737143, "level": 3}
+{"count": 211, "name": "Molecule-based magnets", "weight": 0.0, "id": 2775887543, "level": 3}
+{"count": 184, "name": "Magnetic water treatment", "weight": 0.0, "id": 2779737725, "level": 3}
+{"count": 152, "name": "Permendur", "weight": 0.0, "id": 2776568885, "level": 3}
+{"count": 146, "name": "Exchange spring magnet", "weight": 0.0, "id": 2780936582, "level": 3}
+{"count": 151, "name": "Lodestone", "weight": 0.0, "id": 2777771453, "level": 3}
+{"count": 104, "name": "Tubular linear motor", "weight": 0.0, "id": 2776442434, "level": 3}
+{"count": 58, "name": "Vicalloy", "weight": 0.0, "id": 2776021305, "level": 3}
+{"count": 78, "name": "Samarium\u2013cobalt magnet", "weight": 0.0, "id": 2779135096, "level": 3}
+{"count": 311, "name": "Plastic magnet", "weight": 0.0, "id": 2780942455, "level": 3}
+{"count": 51, "name": "Wiegand effect", "weight": 0.0, "id": 58635098, "level": 3}
+{"count": 19, "name": "Dresden High Magnetic Field Laboratory", "weight": 0.0, "id": 2777567408, "level": 3}
+{"count": 58, "name": "Refrigerator magnet", "weight": 0.0, "id": 2780695784, "level": 3}
+{"count": 9, "name": "Programmable magnet", "weight": 0.0, "id": 2778732683, "level": 3}
+{"count": 15, "name": "Magnet keeper", "weight": 0.0, "id": 2780297684, "level": 3}
+{"count": 16, "name": "Twistor memory", "weight": 0.0, "id": 67102328, "level": 3}

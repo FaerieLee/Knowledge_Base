@@ -1,0 +1,7 @@
+{"count": 8407, "name": "Ensemble Kalman filter", "weight": 9.0, "id": 79334102, "level": 4}
+{"count": 2989, "name": "Covariance intersection", "weight": 3.0, "id": 83042196, "level": 4}
+{"count": 4371, "name": "Filtering problem", "weight": 4.0, "id": 41614226, "level": 4}
+{"count": 7295, "name": "Alpha beta filter", "weight": 8.0, "id": 11588082, "level": 4}
+{"count": 8807, "name": "Fast Kalman filter", "weight": 9.0, "id": 150679823, "level": 4}
+{"count": 48, "name": "Triad method", "weight": 0.0, "id": 12088944, "level": 4}
+{"count": 8819, "name": "Invariant extended Kalman filter", "weight": 10.0, "id": 8639503, "level": 4}

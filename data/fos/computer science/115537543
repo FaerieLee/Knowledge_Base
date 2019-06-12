@@ -1,0 +1,20 @@
+{"count": 13692, "name": "CPU cache", "weight": 8.0, "id": 189783530, "level": 3}
+{"count": 3414, "name": "Memory hierarchy", "weight": 2.0, "id": 2778100165, "level": 3}
+{"count": 3125, "name": "Cache coherence", "weight": 1.0, "id": 141917322, "level": 3}
+{"count": 16387, "name": "Cache algorithms", "weight": 10.0, "id": 38556500, "level": 3}
+{"count": 1951, "name": "Translation lookaside buffer", "weight": 1.0, "id": 116007543, "level": 3}
+{"count": 1442, "name": "Locality of reference", "weight": 0.0, "id": 27602214, "level": 3}
+{"count": 721, "name": "Content centric networking", "weight": 0.0, "id": 2779649860, "level": 3}
+{"count": 2417, "name": "Disk buffer", "weight": 1.0, "id": 202623185, "level": 3}
+{"count": 3402, "name": "Instruction prefetch", "weight": 2.0, "id": 133588205, "level": 3}
+{"count": 388, "name": "Scratchpad memory", "weight": 0.0, "id": 2779522410, "level": 3}
+{"count": 120, "name": "Trace Cache", "weight": 0.0, "id": 2777434531, "level": 3}
+{"count": 14742, "name": "Cache coloring", "weight": 9.0, "id": 201148951, "level": 3}
+{"count": 2413, "name": "Write buffer", "weight": 1.0, "id": 89089495, "level": 3}
+{"count": 33, "name": "Independent Reference Model", "weight": 0.0, "id": 2776683993, "level": 3}
+{"count": 19, "name": "Flashcache", "weight": 0.0, "id": 2781218082, "level": 3}
+{"count": 104, "name": "Runahead", "weight": 0.0, "id": 2779002373, "level": 3}
+{"count": 25, "name": "SuperSPARC", "weight": 0.0, "id": 2776578718, "level": 3}
+{"count": 114, "name": "Working set size", "weight": 0.0, "id": 2781084685, "level": 3}
+{"count": 7, "name": "Hardware scout", "weight": 0.0, "id": 2777574544, "level": 3}
+{"count": 32, "name": "P2P caching", "weight": 0.0, "id": 2776392923, "level": 3}

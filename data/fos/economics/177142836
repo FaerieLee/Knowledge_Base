@@ -1,0 +1,31 @@
+{"count": 4980, "name": "Prisoner's dilemma", "weight": 10.0, "id": 113494165, "level": 3}
+{"count": 2121, "name": "Evolutionarily stable strategy", "weight": 4.0, "id": 2519700, "level": 3}
+{"count": 3643, "name": "Solution concept", "weight": 7.0, "id": 11343654, "level": 3}
+{"count": 3169, "name": "Evolutionary game theory", "weight": 6.0, "id": 20249471, "level": 3}
+{"count": 2114, "name": "Zero-sum game", "weight": 4.0, "id": 136356330, "level": 3}
+{"count": 3343, "name": "Shapley value", "weight": 6.0, "id": 199022921, "level": 3}
+{"count": 1921, "name": "Cooperative game theory", "weight": 3.0, "id": 2781416736, "level": 3}
+{"count": 2568, "name": "Bayesian game", "weight": 5.0, "id": 200594392, "level": 3}
+{"count": 3861, "name": "Normal-form game", "weight": 7.0, "id": 155930848, "level": 3}
+{"count": 911, "name": "Potential game", "weight": 1.0, "id": 2778079155, "level": 3}
+{"count": 702, "name": "Fictitious play", "weight": 1.0, "id": 145071142, "level": 3}
+{"count": 1909, "name": "Extensive-form game", "weight": 3.0, "id": 146930158, "level": 3}
+{"count": 991, "name": "Strong reciprocity", "weight": 1.0, "id": 31250377, "level": 3}
+{"count": 206, "name": "Bimatrix game", "weight": 0.0, "id": 2775897363, "level": 3}
+{"count": 4274, "name": "Combinatorial game theory", "weight": 8.0, "id": 102234262, "level": 3}
+{"count": 295, "name": "Behavioral game theory", "weight": 0.0, "id": 2778615081, "level": 3}
+{"count": 2172, "name": "Algorithmic game theory", "weight": 4.0, "id": 69663246, "level": 3}
+{"count": 2931, "name": "Positive political theory", "weight": 5.0, "id": 63379403, "level": 3}
+{"count": 2367, "name": "Implementation theory", "weight": 4.0, "id": 11934016, "level": 3}
+{"count": 144, "name": "Two-player game", "weight": 0.0, "id": 2778049925, "level": 3}
+{"count": 375, "name": "Stag hunt", "weight": 0.0, "id": 26669159, "level": 3}
+{"count": 199, "name": "Search game", "weight": 0.0, "id": 2780786728, "level": 3}
+{"count": 67, "name": "Positional game", "weight": 0.0, "id": 2778143488, "level": 3}
+{"count": 38, "name": "No-trade theorem", "weight": 0.0, "id": 2780385574, "level": 3}
+{"count": 20, "name": "n-player game", "weight": 0.0, "id": 2778444582, "level": 3}
+{"count": 40, "name": "Rubinstein bargaining model", "weight": 0.0, "id": 2779945543, "level": 3}
+{"count": 51, "name": "Metagame analysis", "weight": 0.0, "id": 27104638, "level": 3}
+{"count": 4864, "name": "Simulations and games in economics education", "weight": 9.0, "id": 14642086, "level": 3}
+{"count": 497, "name": "Core (game theory)", "weight": 0.0, "id": 195023057, "level": 3}
+{"count": 14, "name": "Fundamental theorem of poker", "weight": 0.0, "id": 127057551, "level": 3}
+{"count": 20, "name": "Kuhn poker", "weight": 0.0, "id": 2778399548, "level": 3}

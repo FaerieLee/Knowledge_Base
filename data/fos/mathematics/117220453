@@ -1,0 +1,7 @@
+{"count": 257, "name": "Correlation immunity", "weight": 2.0, "id": 2781037745, "level": 3}
+{"count": 1006, "name": "Correlation integral", "weight": 8.0, "id": 168702700, "level": 3}
+{"count": 1230, "name": "Correlation ratio", "weight": 10.0, "id": 103423394, "level": 3}
+{"count": 147, "name": "Correlation inequality", "weight": 1.0, "id": 2779495198, "level": 3}
+{"count": 578, "name": "Total correlation", "weight": 4.0, "id": 109510780, "level": 3}
+{"count": 1171, "name": "Fisher transformation", "weight": 9.0, "id": 106366893, "level": 3}
+{"count": 566, "name": "Scaled correlation", "weight": 4.0, "id": 59679729, "level": 3}

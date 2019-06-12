@@ -1,0 +1,45 @@
+{"count": 20354, "name": "5-HT receptor", "weight": 10.0, "id": 53910766, "level": 3}
+{"count": 7920, "name": "Reuptake inhibitor", "weight": 3.0, "id": 31487548, "level": 3}
+{"count": 7310, "name": "Serotonin transporter", "weight": 3.0, "id": 2778897192, "level": 3}
+{"count": 5339, "name": "Dorsal raphe nucleus", "weight": 2.0, "id": 32610206, "level": 3}
+{"count": 16251, "name": "Monoamine neurotransmitter", "weight": 7.0, "id": 187714386, "level": 3}
+{"count": 5729, "name": "Citalopram", "weight": 2.0, "id": 2777490545, "level": 3}
+{"count": 3514, "name": "Raphe nuclei", "weight": 1.0, "id": 2777865548, "level": 3}
+{"count": 2991, "name": "Fluvoxamine", "weight": 1.0, "id": 2779910183, "level": 3}
+{"count": 2673, "name": "Fenfluramine", "weight": 1.0, "id": 2779638493, "level": 3}
+{"count": 4886, "name": "Serotonin reuptake inhibitor", "weight": 2.0, "id": 2780092697, "level": 3}
+{"count": 2162, "name": "Tryptophan hydroxylase", "weight": 1.0, "id": 2775951788, "level": 3}
+{"count": 1999, "name": "Norepinephrine transporter", "weight": 0.0, "id": 176233148, "level": 3}
+{"count": 1727, "name": "Enterochromaffin cell", "weight": 0.0, "id": 90423213, "level": 3}
+{"count": 1861, "name": "Methysergide", "weight": 0.0, "id": 2781005078, "level": 3}
+{"count": 1147, "name": "5-Hydroxyindoleacetic acid", "weight": 0.0, "id": 2779164789, "level": 3}
+{"count": 1261, "name": "5-Hydroxytryptophan", "weight": 0.0, "id": 2779399491, "level": 3}
+{"count": 1567, "name": "Serotonin syndrome", "weight": 0.0, "id": 2780179036, "level": 3}
+{"count": 2785, "name": "Raphe", "weight": 1.0, "id": 2777615928, "level": 3}
+{"count": 1000, "name": "Milnacipran", "weight": 0.0, "id": 2780199185, "level": 3}
+{"count": 103, "name": "Fenclonine", "weight": 0.0, "id": 2779124435, "level": 3}
+{"count": 19644, "name": "Serotonergic", "weight": 9.0, "id": 37000724, "level": 3}
+{"count": 4704, "name": "Reuptake", "weight": 2.0, "id": 99631742, "level": 3}
+{"count": 396, "name": "Zimelidine", "weight": 0.0, "id": 2776590727, "level": 3}
+{"count": 39, "name": "meta-Chlorophenylpiperazine", "weight": 0.0, "id": 2777102986, "level": 3}
+{"count": 107, "name": "Alaproclate", "weight": 0.0, "id": 2780985866, "level": 3}
+{"count": 171, "name": "5-HT2B receptor", "weight": 0.0, "id": 2781061528, "level": 3}
+{"count": 294, "name": "Cinanserin", "weight": 0.0, "id": 2777901440, "level": 3}
+{"count": 621, "name": "Norepinephrine reuptake inhibitor", "weight": 0.0, "id": 2780209506, "level": 3}
+{"count": 93, "name": "Indalpine", "weight": 0.0, "id": 2780533649, "level": 3}
+{"count": 117, "name": "Bufotenin", "weight": 0.0, "id": 2777445357, "level": 3}
+{"count": 188, "name": "Indolamines", "weight": 0.0, "id": 2777048208, "level": 3}
+{"count": 100, "name": "Femoxetine", "weight": 0.0, "id": 2779367609, "level": 3}
+{"count": 78, "name": "Desmethylsertraline", "weight": 0.0, "id": 2776037110, "level": 3}
+{"count": 14, "name": "Cianopramine", "weight": 0.0, "id": 2780118792, "level": 3}
+{"count": 47, "name": "Serotonylation", "weight": 0.0, "id": 2777463337, "level": 3}
+{"count": 139, "name": "Serotonin pathway", "weight": 0.0, "id": 2779222165, "level": 3}
+{"count": 21, "name": "Litoxetine", "weight": 0.0, "id": 2780792115, "level": 3}
+{"count": 21, "name": "alpha-Methyltryptamine", "weight": 0.0, "id": 2777255243, "level": 3}
+{"count": 20, "name": "Dipropyltryptamine", "weight": 0.0, "id": 2776555102, "level": 3}
+{"count": 10, "name": "N-Methylserotonin", "weight": 0.0, "id": 2780316602, "level": 3}
+{"count": 23, "name": "Decynium-22", "weight": 0.0, "id": 2778947018, "level": 3}
+{"count": 6, "name": "alpha-Methylserotonin", "weight": 0.0, "id": 2776712813, "level": 3}
+{"count": 25, "name": "Bufotenidine", "weight": 0.0, "id": 2781129862, "level": 3}
+{"count": 28, "name": "Heterocyclic antidepressant", "weight": 0.0, "id": 2780898734, "level": 3}
+{"count": 13, "name": "Desoxyfructo-serotonin", "weight": 0.0, "id": 2779568658, "level": 3}

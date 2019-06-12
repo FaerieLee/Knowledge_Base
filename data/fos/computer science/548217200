@@ -1,0 +1,53 @@
+{"count": 1553, "name": "Non-blocking I/O", "weight": 2.0, "id": 74575197, "level": 3}
+{"count": 6916, "name": "Java applet", "weight": 9.0, "id": 15524039, "level": 3}
+{"count": 1064, "name": "Just-in-time compilation", "weight": 1.0, "id": 76782552, "level": 3}
+{"count": 1855, "name": "Bytecode", "weight": 2.0, "id": 2779818221, "level": 3}
+{"count": 1011, "name": "AspectJ", "weight": 1.0, "id": 2781009160, "level": 3}
+{"count": 7465, "name": "Real time Java", "weight": 10.0, "id": 132106392, "level": 3}
+{"count": 1409, "name": "JavaBeans", "weight": 1.0, "id": 18640598, "level": 3}
+{"count": 4486, "name": "Scala", "weight": 6.0, "id": 109701466, "level": 3}
+{"count": 918, "name": "Sun Microsystems", "weight": 1.0, "id": 507390436, "level": 3}
+{"count": 155, "name": "Dynamic software updating", "weight": 0.0, "id": 527894882, "level": 3}
+{"count": 493, "name": "Enterprise JavaBeans", "weight": 0.0, "id": 2776396197, "level": 3}
+{"count": 287, "name": "DACAPO", "weight": 0.0, "id": 2777303225, "level": 3}
+{"count": 364, "name": "Java servlet", "weight": 0.0, "id": 2780685630, "level": 3}
+{"count": 138, "name": "Rich client platform", "weight": 0.0, "id": 2776455134, "level": 3}
+{"count": 484, "name": "WAR", "weight": 0.0, "id": 89571265, "level": 3}
+{"count": 232, "name": "Dependency injection", "weight": 0.0, "id": 100359661, "level": 3}
+{"count": 112, "name": "Mobile Information Device Profile", "weight": 0.0, "id": 2776870086, "level": 3}
+{"count": 256, "name": "JavaServer Pages", "weight": 0.0, "id": 2778840402, "level": 3}
+{"count": 345, "name": "Java collections framework", "weight": 0.0, "id": 206526619, "level": 3}
+{"count": 190, "name": "Clojure", "weight": 0.0, "id": 2777596660, "level": 3}
+{"count": 32, "name": "Type qualifier", "weight": 0.0, "id": 2777202898, "level": 3}
+{"count": 155, "name": "Javadoc", "weight": 0.0, "id": 2777031696, "level": 3}
+{"count": 190, "name": "Java package", "weight": 0.0, "id": 2779823388, "level": 3}
+{"count": 58, "name": "Umple", "weight": 0.0, "id": 2779962295, "level": 3}
+{"count": 77, "name": "Access modifiers", "weight": 0.0, "id": 104188567, "level": 3}
+{"count": 56, "name": "RenderScript", "weight": 0.0, "id": 2778536271, "level": 3}
+{"count": 67, "name": "Allocation site", "weight": 0.0, "id": 2778834526, "level": 3}
+{"count": 74, "name": "Inner class", "weight": 0.0, "id": 2779955874, "level": 3}
+{"count": 106, "name": "Entity Bean", "weight": 0.0, "id": 2780463228, "level": 3}
+{"count": 113, "name": "Jython", "weight": 0.0, "id": 2780830657, "level": 3}
+{"count": 5604, "name": "Java annotation", "weight": 7.0, "id": 168702491, "level": 3}
+{"count": 91, "name": "JCSP", "weight": 0.0, "id": 138985949, "level": 3}
+{"count": 21, "name": "Open/closed principle", "weight": 0.0, "id": 136550210, "level": 3}
+{"count": 34, "name": "JSLEE", "weight": 0.0, "id": 2776220072, "level": 3}
+{"count": 114, "name": "Primitive wrapper class", "weight": 0.0, "id": 204708165, "level": 3}
+{"count": 39, "name": "Method overriding", "weight": 0.0, "id": 2778267733, "level": 3}
+{"count": 19, "name": "RMI-IIOP", "weight": 0.0, "id": 2778755451, "level": 3}
+{"count": 42, "name": "Widget toolkit", "weight": 0.0, "id": 2776504685, "level": 3}
+{"count": 41, "name": "BioJava", "weight": 0.0, "id": 2776819486, "level": 3}
+{"count": 34, "name": "Java Naming and Directory Interface", "weight": 0.0, "id": 2780097365, "level": 3}
+{"count": 17, "name": "Component Pascal", "weight": 0.0, "id": 2776629631, "level": 3}
+{"count": 21, "name": "FXML", "weight": 0.0, "id": 2776222129, "level": 3}
+{"count": 12, "name": "Deterministic Parallel Java", "weight": 0.0, "id": 2780829793, "level": 3}
+{"count": 75, "name": "Object lifetime", "weight": 0.0, "id": 2778866541, "level": 3}
+{"count": 14, "name": "Java APIs for Integrated Networks", "weight": 0.0, "id": 2776702113, "level": 3}
+{"count": 27, "name": "Java Data Mining", "weight": 0.0, "id": 2778801447, "level": 3}
+{"count": 32, "name": "Java Cryptography Extension", "weight": 0.0, "id": 2780879383, "level": 3}
+{"count": 24, "name": "Definite assignment analysis", "weight": 0.0, "id": 99618754, "level": 3}
+{"count": 66, "name": "Open Source Physics", "weight": 0.0, "id": 2780903760, "level": 3}
+{"count": 9, "name": "Java Persistence Query Language", "weight": 0.0, "id": 2780508275, "level": 3}
+{"count": 15, "name": "Java Secure Socket Extension", "weight": 0.0, "id": 2779656155, "level": 3}
+{"count": 27, "name": "Exception handling syntax", "weight": 0.0, "id": 144041743, "level": 3}
+{"count": 21, "name": "Bigloo", "weight": 0.0, "id": 2779315453, "level": 3}

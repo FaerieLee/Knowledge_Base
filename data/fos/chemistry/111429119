@@ -1,0 +1,6 @@
+{"count": 114, "name": "Chemical shift index", "weight": 6.0, "id": 2779190930, "level": 3}
+{"count": 20, "name": "ShiftX", "weight": 1.0, "id": 2775868109, "level": 3}
+{"count": 187, "name": "Aromatic ring current", "weight": 10.0, "id": 108567136, "level": 3}
+{"count": 8, "name": "Protein chemical shift prediction", "weight": 0.0, "id": 128265829, "level": 3}
+{"count": 138, "name": "Protein chemical shift re-referencing", "weight": 7.0, "id": 182805252, "level": 3}
+{"count": 49, "name": "RefDB", "weight": 2.0, "id": 109365771, "level": 3}

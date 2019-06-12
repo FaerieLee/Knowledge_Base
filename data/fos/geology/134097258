@@ -1,0 +1,22 @@
+{"count": 5166, "name": "Teleconnection", "weight": 10.0, "id": 123576220, "level": 3}
+{"count": 3133, "name": "Sea-surface height", "weight": 6.0, "id": 142672198, "level": 3}
+{"count": 4781, "name": "Pacific decadal oscillation", "weight": 9.0, "id": 154808844, "level": 3}
+{"count": 3980, "name": "Ocean heat content", "weight": 7.0, "id": 187850051, "level": 3}
+{"count": 2452, "name": "Indian Ocean Dipole", "weight": 4.0, "id": 62897925, "level": 3}
+{"count": 3206, "name": "Atlantic multidecadal oscillation", "weight": 6.0, "id": 11308688, "level": 3}
+{"count": 950, "name": "Alkenone", "weight": 1.0, "id": 2777066016, "level": 3}
+{"count": 2254, "name": "Tropical Atlantic", "weight": 4.0, "id": 2779547961, "level": 3}
+{"count": 66, "name": "Maximum potential intensity", "weight": 0.0, "id": 2780210877, "level": 3}
+{"count": 279, "name": "Simple Ocean Data Assimilation", "weight": 0.0, "id": 2781001439, "level": 3}
+{"count": 149, "name": "Antarctic Circumpolar Wave", "weight": 0.0, "id": 2778645670, "level": 3}
+{"count": 261, "name": "TEX86", "weight": 0.0, "id": 2778282301, "level": 3}
+{"count": 36, "name": "International Comprehensive Ocean-Atmosphere Data Set", "weight": 0.0, "id": 2776832099, "level": 3}
+{"count": 294, "name": "Tropical instability waves", "weight": 0.0, "id": 2780016533, "level": 3}
+{"count": 1212, "name": "Western Hemisphere Warm Pool", "weight": 2.0, "id": 102107297, "level": 3}
+{"count": 122, "name": "Brazil\u2013Malvinas Confluence", "weight": 0.0, "id": 15996123, "level": 3}
+{"count": 158, "name": "Neon flying squid", "weight": 0.0, "id": 2779716213, "level": 3}
+{"count": 299, "name": "World Ocean Atlas", "weight": 0.0, "id": 2778584248, "level": 3}
+{"count": 53, "name": "Diploria labyrinthiformis", "weight": 0.0, "id": 2778171711, "level": 3}
+{"count": 35, "name": "Westerly wind burst", "weight": 0.0, "id": 2780429900, "level": 3}
+{"count": 213, "name": "Pliocene climate", "weight": 0.0, "id": 2776643094, "level": 3}
+{"count": 131, "name": "Tropical rain belt", "weight": 0.0, "id": 90226458, "level": 3}

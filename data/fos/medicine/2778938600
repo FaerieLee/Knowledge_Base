@@ -1,0 +1,175 @@
+{"count": 15305, "name": "Opioid receptor", "weight": 10.0, "id": 2779886867, "level": 4}
+{"count": 7237, "name": "Dopamine agonist", "weight": 4.0, "id": 2778258207, "level": 4}
+{"count": 4081, "name": "5-HT1A receptor", "weight": 2.0, "id": 2781093953, "level": 4}
+{"count": 3369, "name": "Adrenergic agonist", "weight": 2.0, "id": 2780013391, "level": 4}
+{"count": 4663, "name": "GABAB receptor", "weight": 3.0, "id": 101027131, "level": 4}
+{"count": 7199, "name": "Dopamine receptor D1", "weight": 4.0, "id": 120750228, "level": 4}
+{"count": 8845, "name": "Partial agonist", "weight": 5.0, "id": 58732023, "level": 4}
+{"count": 2817, "name": "Autoreceptor", "weight": 1.0, "id": 8439214, "level": 4}
+{"count": 4831, "name": "Muscimol", "weight": 3.0, "id": 2779188335, "level": 4}
+{"count": 1037, "name": "Agonist-antagonist", "weight": 0.0, "id": 2778539182, "level": 4}
+{"count": 1582, "name": "Melanocortin receptor", "weight": 1.0, "id": 2777241137, "level": 4}
+{"count": 6120, "name": "Adenosine A1 receptor", "weight": 4.0, "id": 182683403, "level": 4}
+{"count": 3444, "name": "Cannabinoid receptor type 2", "weight": 2.0, "id": 93248783, "level": 4}
+{"count": 1966, "name": "Quinpirole", "weight": 1.0, "id": 2778296116, "level": 4}
+{"count": 5151, "name": "Inverse agonist", "weight": 3.0, "id": 89951826, "level": 4}
+{"count": 3380, "name": "Ketanserin", "weight": 2.0, "id": 2777785214, "level": 4}
+{"count": 2045, "name": "Oxotremorine", "weight": 1.0, "id": 2778824757, "level": 4}
+{"count": 1761, "name": "Methoxamine", "weight": 1.0, "id": 2780745239, "level": 4}
+{"count": 1769, "name": "Buserelin", "weight": 1.0, "id": 2777230143, "level": 4}
+{"count": 1609, "name": "Idazoxan", "weight": 1.0, "id": 2780939551, "level": 4}
+{"count": 1202, "name": "Ritanserin", "weight": 0.0, "id": 2777450907, "level": 4}
+{"count": 796, "name": "Fenoldopam", "weight": 0.0, "id": 2779867896, "level": 4}
+{"count": 809, "name": "Quipazine", "weight": 0.0, "id": 2777448245, "level": 4}
+{"count": 1036, "name": "Capsazepine", "weight": 0.0, "id": 2780071552, "level": 4}
+{"count": 920, "name": "PPADS", "weight": 0.0, "id": 2780019924, "level": 4}
+{"count": 689, "name": "Etorphine", "weight": 0.0, "id": 2779166228, "level": 4}
+{"count": 1535, "name": "Gonadotropin-releasing hormone agonist", "weight": 1.0, "id": 2776363309, "level": 4}
+{"count": 1755, "name": "Intrinsic activity", "weight": 1.0, "id": 38533456, "level": 4}
+{"count": 1764, "name": "Adenosine A2A receptor", "weight": 1.0, "id": 2778491162, "level": 4}
+{"count": 678, "name": "Metergoline", "weight": 0.0, "id": 2776120623, "level": 4}
+{"count": 610, "name": "5-HT4 receptor", "weight": 0.0, "id": 192096249, "level": 4}
+{"count": 841, "name": "Oxymetazoline", "weight": 0.0, "id": 2780042274, "level": 4}
+{"count": 314, "name": "WIN 55,212-2", "weight": 0.0, "id": 2780044521, "level": 4}
+{"count": 724, "name": "Thioperamide", "weight": 0.0, "id": 2778997900, "level": 4}
+{"count": 342, "name": "Gepirone", "weight": 0.0, "id": 2779096726, "level": 4}
+{"count": 1200, "name": "Functional selectivity", "weight": 0.0, "id": 43587935, "level": 4}
+{"count": 624, "name": "5-HT2C receptor", "weight": 0.0, "id": 2780632750, "level": 4}
+{"count": 434, "name": "Iodocyanopindolol", "weight": 0.0, "id": 2776180500, "level": 4}
+{"count": 1626, "name": "Allosteric modulator", "weight": 1.0, "id": 2776038425, "level": 4}
+{"count": 912, "name": "Rauwolscine", "weight": 0.0, "id": 2776504411, "level": 4}
+{"count": 263, "name": "Zacopride", "weight": 0.0, "id": 2780493212, "level": 4}
+{"count": 98, "name": "CP 55,940", "weight": 0.0, "id": 2776212097, "level": 4}
+{"count": 505, "name": "Eticlopride", "weight": 0.0, "id": 2778125517, "level": 4}
+{"count": 1907, "name": "Muscarinic agonist", "weight": 1.0, "id": 2779600325, "level": 4}
+{"count": 475, "name": "Guanabenz", "weight": 0.0, "id": 2778680573, "level": 4}
+{"count": 466, "name": "Bay K8644", "weight": 0.0, "id": 2781391105, "level": 4}
+{"count": 628, "name": "AM251", "weight": 0.0, "id": 2776158853, "level": 4}
+{"count": 285, "name": "Tandospirone", "weight": 0.0, "id": 2779591901, "level": 4}
+{"count": 459, "name": "Procaterol", "weight": 0.0, "id": 2780540182, "level": 4}
+{"count": 402, "name": "Cannabinoid receptor antagonist", "weight": 0.0, "id": 2780433416, "level": 4}
+{"count": 767, "name": "Mirabegron", "weight": 0.0, "id": 2778164427, "level": 4}
+{"count": 188, "name": "Xanomeline", "weight": 0.0, "id": 2776003651, "level": 4}
+{"count": 203, "name": "Progabide", "weight": 0.0, "id": 2776578721, "level": 4}
+{"count": 235, "name": "Receptor theory", "weight": 0.0, "id": 79829604, "level": 4}
+{"count": 124, "name": "HU-210", "weight": 0.0, "id": 2780491314, "level": 4}
+{"count": 1318, "name": "PPAR agonist", "weight": 0.0, "id": 7341990, "level": 4}
+{"count": 612, "name": "Dimaprit", "weight": 0.0, "id": 2776166919, "level": 4}
+{"count": 455, "name": "Deslorelin", "weight": 0.0, "id": 2780283313, "level": 4}
+{"count": 3213, "name": "Competitive antagonist", "weight": 2.0, "id": 86811712, "level": 4}
+{"count": 207, "name": "Gaboxadol", "weight": 0.0, "id": 2780397327, "level": 4}
+{"count": 160, "name": "BQ-788", "weight": 0.0, "id": 2777698145, "level": 4}
+{"count": 307, "name": "Impromidine", "weight": 0.0, "id": 2777185142, "level": 4}
+{"count": 228, "name": "Sarafotoxin", "weight": 0.0, "id": 2777859025, "level": 4}
+{"count": 151, "name": "BIBP-3226", "weight": 0.0, "id": 2779587197, "level": 4}
+{"count": 180, "name": "Denopamine", "weight": 0.0, "id": 2780396949, "level": 4}
+{"count": 118, "name": "BMY-14802", "weight": 0.0, "id": 2779290963, "level": 4}
+{"count": 263, "name": "Bupranolol", "weight": 0.0, "id": 2779984476, "level": 4}
+{"count": 110, "name": "MK-212", "weight": 0.0, "id": 2779443382, "level": 4}
+{"count": 333, "name": "Cirazoline", "weight": 0.0, "id": 2775942171, "level": 4}
+{"count": 170, "name": "Head-twitch response", "weight": 0.0, "id": 2778351968, "level": 4}
+{"count": 95, "name": "5-HT1D receptor", "weight": 0.0, "id": 2778804718, "level": 4}
+{"count": 468, "name": "Sphingosine-1-phosphate receptor", "weight": 0.0, "id": 2776549689, "level": 4}
+{"count": 296, "name": "Cyanopindolol", "weight": 0.0, "id": 2780467761, "level": 4}
+{"count": 135, "name": "Rimcazole", "weight": 0.0, "id": 2776131323, "level": 4}
+{"count": 1484, "name": "Homologous desensitization", "weight": 0.0, "id": 92759361, "level": 4}
+{"count": 388, "name": "Prostacyclin receptor", "weight": 0.0, "id": 2780736905, "level": 4}
+{"count": 126, "name": "Eltoprazine", "weight": 0.0, "id": 2781365626, "level": 4}
+{"count": 67, "name": "Mivazerol", "weight": 0.0, "id": 2777062917, "level": 4}
+{"count": 78, "name": "SB-206553", "weight": 0.0, "id": 2778102078, "level": 4}
+{"count": 123, "name": "Renzapride", "weight": 0.0, "id": 2777427891, "level": 4}
+{"count": 57, "name": "CP-93129", "weight": 0.0, "id": 2781422242, "level": 4}
+{"count": 114, "name": "Histrelin", "weight": 0.0, "id": 2779698516, "level": 4}
+{"count": 268, "name": "Alpha-1 adrenergic receptor", "weight": 0.0, "id": 2780091355, "level": 4}
+{"count": 151, "name": "Stepholidine", "weight": 0.0, "id": 2780855196, "level": 4}
+{"count": 703, "name": "Adrenergic antagonist", "weight": 0.0, "id": 2778196918, "level": 4}
+{"count": 113, "name": "Zinterol", "weight": 0.0, "id": 2778797888, "level": 4}
+{"count": 80, "name": "Morphiceptin", "weight": 0.0, "id": 2780909910, "level": 4}
+{"count": 39, "name": "PRE-084", "weight": 0.0, "id": 2778116278, "level": 4}
+{"count": 231, "name": "Phenylbiguanide", "weight": 0.0, "id": 2778960130, "level": 4}
+{"count": 15, "name": "CP-122,288", "weight": 0.0, "id": 2779214502, "level": 4}
+{"count": 45, "name": "BW-723C86", "weight": 0.0, "id": 2778697101, "level": 4}
+{"count": 326, "name": "Motilin receptor", "weight": 0.0, "id": 2781179677, "level": 4}
+{"count": 43, "name": "L-745,870", "weight": 0.0, "id": 2776510943, "level": 4}
+{"count": 65, "name": "Indorenate", "weight": 0.0, "id": 2776767579, "level": 4}
+{"count": 218, "name": "Melatonin receptor agonist", "weight": 0.0, "id": 2776523831, "level": 4}
+{"count": 157, "name": "GPR35", "weight": 0.0, "id": 2778967702, "level": 4}
+{"count": 53, "name": "4-Methylhistamine", "weight": 0.0, "id": 2779472365, "level": 4}
+{"count": 56, "name": "Broxaterol", "weight": 0.0, "id": 2777129259, "level": 4}
+{"count": 127, "name": "7,8-Dihydroxyflavone", "weight": 0.0, "id": 2776443342, "level": 4}
+{"count": 31, "name": "Alniditan", "weight": 0.0, "id": 2781237313, "level": 4}
+{"count": 122, "name": "Spiroxatrine", "weight": 0.0, "id": 2778400260, "level": 4}
+{"count": 273, "name": "GW501516", "weight": 0.0, "id": 2779805866, "level": 4}
+{"count": 29, "name": "Tretoquinol", "weight": 0.0, "id": 2779410399, "level": 4}
+{"count": 91, "name": "BRL-44408", "weight": 0.0, "id": 2780605504, "level": 4}
+{"count": 207, "name": "Selexipag", "weight": 0.0, "id": 2777464663, "level": 4}
+{"count": 531, "name": "Schild regression", "weight": 0.0, "id": 75214554, "level": 4}
+{"count": 1477, "name": "Agonist\u2013antagonist", "weight": 0.0, "id": 142666515, "level": 4}
+{"count": 30, "name": "SB-216641", "weight": 0.0, "id": 2778736560, "level": 4}
+{"count": 7, "name": "WAY-100,135", "weight": 0.0, "id": 2781428418, "level": 4}
+{"count": 55, "name": "N-Arachidonoyl dopamine", "weight": 0.0, "id": 2780736824, "level": 4}
+{"count": 56, "name": "Igmesine", "weight": 0.0, "id": 2780114849, "level": 4}
+{"count": 142, "name": "Adenophostin", "weight": 0.0, "id": 2781233285, "level": 4}
+{"count": 203, "name": "GW0742", "weight": 0.0, "id": 2777750172, "level": 4}
+{"count": 12, "name": "BIMU8", "weight": 0.0, "id": 2779320788, "level": 4}
+{"count": 32, "name": "Ketazocine", "weight": 0.0, "id": 2776713256, "level": 4}
+{"count": 95, "name": "SR 59230A", "weight": 0.0, "id": 2777768056, "level": 4}
+{"count": 22, "name": "Avitriptan", "weight": 0.0, "id": 2780888940, "level": 4}
+{"count": 167, "name": "Irreversible antagonist", "weight": 0.0, "id": 2776930245, "level": 4}
+{"count": 10, "name": "CGS-12066A", "weight": 0.0, "id": 2780264573, "level": 4}
+{"count": 107, "name": "Trifluoromethylphenylpiperazine", "weight": 0.0, "id": 2779549434, "level": 4}
+{"count": 8, "name": "SKF-38,393", "weight": 0.0, "id": 2779219559, "level": 4}
+{"count": 43, "name": "Sumanirole", "weight": 0.0, "id": 2778957644, "level": 4}
+{"count": 11, "name": "2-Methyl-5-hydroxytryptamine", "weight": 0.0, "id": 2777613450, "level": 4}
+{"count": 79, "name": "DCPG", "weight": 0.0, "id": 2775858624, "level": 4}
+{"count": 14, "name": "RDS-127", "weight": 0.0, "id": 2779513715, "level": 4}
+{"count": 28, "name": "Picenadol", "weight": 0.0, "id": 2778228304, "level": 4}
+{"count": 36, "name": "Guanoxabenz", "weight": 0.0, "id": 2776468624, "level": 4}
+{"count": 9, "name": "PNU-142633", "weight": 0.0, "id": 2780004661, "level": 4}
+{"count": 106, "name": "Pepducin", "weight": 0.0, "id": 2776012696, "level": 4}
+{"count": 38, "name": "BD-1047", "weight": 0.0, "id": 2778706328, "level": 4}
+{"count": 10, "name": "L-741,626", "weight": 0.0, "id": 2777684573, "level": 4}
+{"count": 22, "name": "2,5-Dimethoxy-4-iodoamphetamine", "weight": 0.0, "id": 2777170839, "level": 4}
+{"count": 18, "name": "RS-127445", "weight": 0.0, "id": 2778859883, "level": 4}
+{"count": 12, "name": "2-Pyridylethylamine", "weight": 0.0, "id": 2779867909, "level": 4}
+{"count": 52, "name": "AdipoRon", "weight": 0.0, "id": 2776569486, "level": 4}
+{"count": 5, "name": "YM-31636", "weight": 0.0, "id": 2778060294, "level": 4}
+{"count": 38, "name": "Lasmiditan", "weight": 0.0, "id": 2778037713, "level": 4}
+{"count": 20, "name": "Mirfentanil", "weight": 0.0, "id": 2780622302, "level": 4}
+{"count": 174, "name": "Serotonin receptor agonist", "weight": 0.0, "id": 2778046384, "level": 4}
+{"count": 10, "name": "GR-89696", "weight": 0.0, "id": 2779906743, "level": 4}
+{"count": 24, "name": "SB-204741", "weight": 0.0, "id": 2780451476, "level": 4}
+{"count": 10, "name": "L-838,417", "weight": 0.0, "id": 2781212238, "level": 4}
+{"count": 21, "name": "TCB-2", "weight": 0.0, "id": 2781145789, "level": 4}
+{"count": 55, "name": "5-HT1F receptor", "weight": 0.0, "id": 2775990922, "level": 4}
+{"count": 15, "name": "Osemozotan", "weight": 0.0, "id": 2779722058, "level": 4}
+{"count": 21, "name": "Vabicaserin", "weight": 0.0, "id": 2777074307, "level": 4}
+{"count": 60, "name": "Chlorophenylbiguanide", "weight": 0.0, "id": 2780478788, "level": 4}
+{"count": 10, "name": "Amibegron", "weight": 0.0, "id": 2781095339, "level": 4}
+{"count": 17, "name": "Pindobind", "weight": 0.0, "id": 2780215624, "level": 4}
+{"count": 20, "name": "Ulimorelin", "weight": 0.0, "id": 2779784043, "level": 4}
+{"count": 42, "name": "VUAA1", "weight": 0.0, "id": 2780204664, "level": 4}
+{"count": 19, "name": "Farglitazar", "weight": 0.0, "id": 2776088521, "level": 4}
+{"count": 87, "name": "Isonipecotic acid", "weight": 0.0, "id": 2776949469, "level": 4}
+{"count": 21, "name": "Bromoacetylalprenololmenthane", "weight": 0.0, "id": 2778601379, "level": 4}
+{"count": 73, "name": "Dihydroxyphenylglycine", "weight": 0.0, "id": 2780114352, "level": 4}
+{"count": 11, "name": "Cutamesine", "weight": 0.0, "id": 2777074200, "level": 4}
+{"count": 10, "name": "AS-19", "weight": 0.0, "id": 2775923185, "level": 4}
+{"count": 21, "name": "Mapracorat", "weight": 0.0, "id": 2777177971, "level": 4}
+{"count": 48, "name": "Cannabinoidergic", "weight": 0.0, "id": 2777353570, "level": 4}
+{"count": 42, "name": "Arachidonylcyclopropylamide", "weight": 0.0, "id": 2780975151, "level": 4}
+{"count": 15, "name": "Cyclorphan", "weight": 0.0, "id": 2780177248, "level": 4}
+{"count": 10, "name": "Homoquinolinic acid", "weight": 0.0, "id": 2776936023, "level": 4}
+{"count": 154, "name": "Propylnorapomorphine", "weight": 0.0, "id": 2776955855, "level": 4}
+{"count": 9, "name": "RU-24,969", "weight": 0.0, "id": 2778479107, "level": 4}
+{"count": 8, "name": "Methimepip", "weight": 0.0, "id": 2777016829, "level": 4}
+{"count": 6, "name": "MBX-8025", "weight": 0.0, "id": 2776684122, "level": 4}
+{"count": 19, "name": "HT3R", "weight": 0.0, "id": 2780827081, "level": 4}
+{"count": 12, "name": "Setmelanotide", "weight": 0.0, "id": 2778836458, "level": 4}
+{"count": 334, "name": "Melatonergic", "weight": 0.0, "id": 2780045588, "level": 4}
+{"count": 30, "name": "TAS2R14", "weight": 0.0, "id": 2781352575, "level": 4}
+{"count": 6, "name": "SR-57227", "weight": 0.0, "id": 2780538936, "level": 4}
+{"count": 33, "name": "Iodoresiniferatoxin", "weight": 0.0, "id": 2776185646, "level": 4}
+{"count": 7, "name": "CR665", "weight": 0.0, "id": 2781136297, "level": 4}
+{"count": 25, "name": "Benzilylcholine mustard", "weight": 0.0, "id": 2780513856, "level": 4}
+{"count": 25, "name": "Serotonin releasing agent", "weight": 0.0, "id": 2776760074, "level": 4}

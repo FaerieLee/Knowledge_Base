@@ -1,0 +1,28 @@
+{"count": 15511, "name": "Rayleigh fading", "weight": 6.0, "id": 56985126, "level": 4}
+{"count": 11618, "name": "Antenna diversity", "weight": 4.0, "id": 60069766, "level": 4}
+{"count": 4233, "name": "Space\u2013time code", "weight": 1.0, "id": 132778218, "level": 4}
+{"count": 24415, "name": "Channel state information", "weight": 10.0, "id": 148063708, "level": 4}
+{"count": 2574, "name": "Trellis modulation", "weight": 1.0, "id": 197712280, "level": 4}
+{"count": 2604, "name": "Diversity combining", "weight": 1.0, "id": 136817519, "level": 4}
+{"count": 3993, "name": "Transmit diversity", "weight": 1.0, "id": 117218131, "level": 4}
+{"count": 5866, "name": "Space\u2013time block code", "weight": 2.0, "id": 83487572, "level": 4}
+{"count": 5856, "name": "Cooperative diversity", "weight": 2.0, "id": 6832461, "level": 4}
+{"count": 5259, "name": "Rake receiver", "weight": 2.0, "id": 23486597, "level": 4}
+{"count": 6690, "name": "Diversity scheme", "weight": 2.0, "id": 198746922, "level": 4}
+{"count": 4808, "name": "Diversity gain", "weight": 1.0, "id": 164785522, "level": 4}
+{"count": 1102, "name": "Pairwise error probability", "weight": 0.0, "id": 2780839233, "level": 4}
+{"count": 2547, "name": "Maximal-ratio combining", "weight": 1.0, "id": 86024645, "level": 4}
+{"count": 6252, "name": "Delay spread", "weight": 2.0, "id": 49456836, "level": 4}
+{"count": 4302, "name": "Nakagami distribution", "weight": 1.0, "id": 115098869, "level": 4}
+{"count": 4875, "name": "Rician fading", "weight": 1.0, "id": 60472773, "level": 4}
+{"count": 1039, "name": "Time diversity", "weight": 0.0, "id": 2779512956, "level": 4}
+{"count": 977, "name": "Log-distance path loss model", "weight": 0.0, "id": 97316775, "level": 4}
+{"count": 432, "name": "Macrodiversity", "weight": 0.0, "id": 28239884, "level": 4}
+{"count": 241, "name": "Fade margin", "weight": 0.0, "id": 172554984, "level": 4}
+{"count": 124, "name": "Marcum Q-function", "weight": 0.0, "id": 2776275716, "level": 4}
+{"count": 25, "name": "Troxler's fading", "weight": 0.0, "id": 194571859, "level": 4}
+{"count": 28, "name": "Residual bit error rate", "weight": 0.0, "id": 2778412326, "level": 4}
+{"count": 84, "name": "Generalized selection", "weight": 0.0, "id": 2776505365, "level": 4}
+{"count": 66, "name": "WSSUS model", "weight": 0.0, "id": 176747982, "level": 4}
+{"count": 14, "name": "Mobile Slotted Aloha", "weight": 0.0, "id": 2781080064, "level": 4}
+{"count": 35, "name": "Radio channel emulator", "weight": 0.0, "id": 2781209782, "level": 4}

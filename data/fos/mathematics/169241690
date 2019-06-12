@@ -1,0 +1,8 @@
+{"count": 2597, "name": "Iteratively reweighted least squares", "weight": 8.0, "id": 126090379, "level": 5}
+{"count": 1675, "name": "Least trimmed squares", "weight": 5.0, "id": 25294789, "level": 5}
+{"count": 2970, "name": "Residual sum of squares", "weight": 10.0, "id": 49392186, "level": 5}
+{"count": 1319, "name": "Lack-of-fit sum of squares", "weight": 4.0, "id": 166811707, "level": 5}
+{"count": 775, "name": "Non-linear iterative partial least squares", "weight": 2.0, "id": 115013011, "level": 5}
+{"count": 684, "name": "Total sum of squares", "weight": 2.0, "id": 54719702, "level": 5}
+{"count": 409, "name": "Partition of sums of squares", "weight": 1.0, "id": 46969970, "level": 5}
+{"count": 305, "name": "Deviance (statistics)", "weight": 1.0, "id": 177599991, "level": 5}

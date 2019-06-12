@@ -1,0 +1,6 @@
+{"count": 1019, "name": "Non-ionizing radiation", "weight": 10.0, "id": 152744366, "level": 4}
+{"count": 342, "name": "Linear no-threshold model", "weight": 3.0, "id": 143038170, "level": 4}
+{"count": 414, "name": "Radiation-induced cancer", "weight": 4.0, "id": 145640628, "level": 4}
+{"count": 264, "name": "Radiation hormesis", "weight": 2.0, "id": 202708147, "level": 4}
+{"count": 198, "name": "Chronic radiation syndrome", "weight": 1.0, "id": 134039515, "level": 4}
+{"count": 32, "name": "MoEDAL experiment", "weight": 0.0, "id": 2781223109, "level": 4}

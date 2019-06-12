@@ -1,0 +1,68 @@
+{"count": 34817, "name": "Fluorescence spectroscopy", "weight": 10.0, "id": 158711907, "level": 3}
+{"count": 23902, "name": "Fluorescence microscope", "weight": 6.0, "id": 169274487, "level": 3}
+{"count": 34378, "name": "Quantum yield", "weight": 9.0, "id": 171001562, "level": 3}
+{"count": 20415, "name": "Laser-induced fluorescence", "weight": 5.0, "id": 1342733, "level": 3}
+{"count": 3812, "name": "Fluorescent labelling", "weight": 1.0, "id": 52909226, "level": 3}
+{"count": 16404, "name": "Fluorescence-lifetime imaging microscopy", "weight": 4.0, "id": 57477423, "level": 3}
+{"count": 16759, "name": "F\u00f6rster resonance energy transfer", "weight": 4.0, "id": 96305047, "level": 3}
+{"count": 14302, "name": "X-ray fluorescence", "weight": 4.0, "id": 162170617, "level": 3}
+{"count": 23330, "name": "Quenching (fluorescence)", "weight": 6.0, "id": 121745418, "level": 3}
+{"count": 4474, "name": "Fluorescence anisotropy", "weight": 1.0, "id": 111357860, "level": 3}
+{"count": 20642, "name": "Phosphorescence", "weight": 5.0, "id": 181817918, "level": 3}
+{"count": 14780, "name": "Excimer", "weight": 4.0, "id": 74561354, "level": 3}
+{"count": 8977, "name": "Time-resolved spectroscopy", "weight": 2.0, "id": 133279788, "level": 3}
+{"count": 7707, "name": "Rhodamine", "weight": 2.0, "id": 2779916640, "level": 3}
+{"count": 5018, "name": "Fluorescence correlation spectroscopy", "weight": 1.0, "id": 144618238, "level": 3}
+{"count": 6305, "name": "Photobleaching", "weight": 1.0, "id": 31332276, "level": 3}
+{"count": 14016, "name": "Fluorophore", "weight": 4.0, "id": 2778617687, "level": 3}
+{"count": 8334, "name": "Autofluorescence", "weight": 2.0, "id": 179687394, "level": 3}
+{"count": 4059, "name": "Stokes shift", "weight": 1.0, "id": 80994870, "level": 3}
+{"count": 5350, "name": "Rhodamine 6G", "weight": 1.0, "id": 2777829344, "level": 3}
+{"count": 18971, "name": "Fluorescent lamp", "weight": 5.0, "id": 2776018380, "level": 3}
+{"count": 255, "name": "Aequorea victoria", "weight": 0.0, "id": 2777105759, "level": 3}
+{"count": 2833, "name": "Fluorometer", "weight": 0.0, "id": 202800777, "level": 3}
+{"count": 202, "name": "Judd\u2013Ofelt theory", "weight": 0.0, "id": 2776694963, "level": 3}
+{"count": 3807, "name": "BODIPY", "weight": 1.0, "id": 2781374752, "level": 3}
+{"count": 429, "name": "Excited state intramolecular proton transfer", "weight": 0.0, "id": 2779352734, "level": 3}
+{"count": 1534, "name": "Aggregation-induced emission", "weight": 0.0, "id": 2778987444, "level": 3}
+{"count": 6026, "name": "Cyanine", "weight": 1.0, "id": 2777324032, "level": 3}
+{"count": 1923, "name": "Diarylethene", "weight": 0.0, "id": 2780258612, "level": 3}
+{"count": 1412, "name": "Nile red", "weight": 0.0, "id": 2778086801, "level": 3}
+{"count": 1511, "name": "Single-molecule experiment", "weight": 0.0, "id": 199191878, "level": 3}
+{"count": 187, "name": "Aequorea", "weight": 0.0, "id": 2780728903, "level": 3}
+{"count": 1005, "name": "Compact fluorescent lamp", "weight": 0.0, "id": 2777006533, "level": 3}
+{"count": 848, "name": "Carbon quantum dots", "weight": 0.0, "id": 2778437647, "level": 3}
+{"count": 231, "name": "Discosoma", "weight": 0.0, "id": 2778698687, "level": 3}
+{"count": 534, "name": "Pyranine", "weight": 0.0, "id": 2778001640, "level": 3}
+{"count": 297, "name": "Auramine O", "weight": 0.0, "id": 2780257937, "level": 3}
+{"count": 562, "name": "Tetraphenylethylene", "weight": 0.0, "id": 2776227087, "level": 3}
+{"count": 66, "name": "6-Carboxyfluorescein", "weight": 0.0, "id": 2778068986, "level": 3}
+{"count": 305, "name": "3-Hydroxyflavone", "weight": 0.0, "id": 2779108919, "level": 3}
+{"count": 131, "name": "Coster\u2013Kronig transition", "weight": 0.0, "id": 2781205861, "level": 3}
+{"count": 412, "name": "Texas Red", "weight": 0.0, "id": 2776383633, "level": 3}
+{"count": 318, "name": "Squaraine dye", "weight": 0.0, "id": 2777247804, "level": 3}
+{"count": 77, "name": "YOYO-1", "weight": 0.0, "id": 2776229282, "level": 3}
+{"count": 208, "name": "Fluorescence intermittency", "weight": 0.0, "id": 2778119552, "level": 3}
+{"count": 789, "name": "Spectrofluorometer", "weight": 0.0, "id": 2778451278, "level": 3}
+{"count": 163, "name": "Dronpa", "weight": 0.0, "id": 2777828398, "level": 3}
+{"count": 663, "name": "Alexa Fluor", "weight": 0.0, "id": 2776759294, "level": 3}
+{"count": 438, "name": "Fluorescent tag", "weight": 0.0, "id": 2777901437, "level": 3}
+{"count": 252, "name": "Dipicolylamine", "weight": 0.0, "id": 2776406729, "level": 3}
+{"count": 229, "name": "Kaede", "weight": 0.0, "id": 2777294040, "level": 3}
+{"count": 97, "name": "Sulforhodamine 101", "weight": 0.0, "id": 2780442945, "level": 3}
+{"count": 177, "name": "Molecular logic gate", "weight": 0.0, "id": 173607241, "level": 3}
+{"count": 64, "name": "GSD microscopy", "weight": 0.0, "id": 95462814, "level": 3}
+{"count": 231, "name": "Julolidine", "weight": 0.0, "id": 2779885003, "level": 3}
+{"count": 194, "name": "Mechanochromic luminescence", "weight": 0.0, "id": 2776608613, "level": 3}
+{"count": 38, "name": "Phototendering", "weight": 0.0, "id": 2778455263, "level": 3}
+{"count": 21, "name": "Lobophyllia hemprichii", "weight": 0.0, "id": 2778608847, "level": 3}
+{"count": 20, "name": "Dansyl amide", "weight": 0.0, "id": 2776159507, "level": 3}
+{"count": 59, "name": "Uranium glass", "weight": 0.0, "id": 183281564, "level": 3}
+{"count": 59, "name": "Jablonski diagram", "weight": 0.0, "id": 144717497, "level": 3}
+{"count": 864, "name": "Excitation filter", "weight": 0.0, "id": 111823323, "level": 3}
+{"count": 26, "name": "Morpho sulkowskyi", "weight": 0.0, "id": 2780334956, "level": 3}
+{"count": 34, "name": "9,10-Bis(phenylethynyl)anthracene", "weight": 0.0, "id": 2778326477, "level": 3}
+{"count": 36, "name": "Photoactivatable probes", "weight": 0.0, "id": 2779426515, "level": 3}
+{"count": 32, "name": "Fluorescein amidite", "weight": 0.0, "id": 2776329524, "level": 3}
+{"count": 16, "name": "Hoplia coerulea", "weight": 0.0, "id": 2779759332, "level": 3}
+{"count": 42, "name": "Tanning lamp", "weight": 0.0, "id": 2779834979, "level": 3}

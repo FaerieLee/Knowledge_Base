@@ -1,0 +1,5 @@
+{"count": 678, "name": "Network-attached storage", "weight": 10.0, "id": 2777261533, "level": 4}
+{"count": 486, "name": "Nearline storage", "weight": 7.0, "id": 89026490, "level": 4}
+{"count": 432, "name": "HyperSCSI", "weight": 6.0, "id": 180882008, "level": 4}
+{"count": 39, "name": "World Wide Name", "weight": 0.0, "id": 2777162254, "level": 4}
+{"count": 11, "name": "Metadata controller", "weight": 0.0, "id": 2777885591, "level": 4}

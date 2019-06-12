@@ -1,0 +1,11 @@
+{"count": 4086, "name": "Label switching", "weight": 10.0, "id": 123467649, "level": 4}
+{"count": 664, "name": "Path computation element", "weight": 1.0, "id": 2780516175, "level": 4}
+{"count": 620, "name": "MPLS VPN", "weight": 1.0, "id": 2779477363, "level": 4}
+{"count": 286, "name": "MPLS-TP", "weight": 0.0, "id": 2777471095, "level": 4}
+{"count": 450, "name": "Fast reroute", "weight": 1.0, "id": 2777928147, "level": 4}
+{"count": 222, "name": "Virtual Private LAN Service", "weight": 0.0, "id": 2777842154, "level": 4}
+{"count": 85, "name": "T-MPLS", "weight": 0.0, "id": 2781165892, "level": 4}
+{"count": 721, "name": "TDMoIP", "weight": 1.0, "id": 1635575, "level": 4}
+{"count": 114, "name": "PWE3", "weight": 0.0, "id": 2781042576, "level": 4}
+{"count": 462, "name": "Private IP", "weight": 1.0, "id": 142715775, "level": 4}
+{"count": 20, "name": "Route distinguisher", "weight": 0.0, "id": 2781052506, "level": 4}

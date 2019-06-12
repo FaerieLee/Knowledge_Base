@@ -1,0 +1,71 @@
+{"count": 44082, "name": "Star formation", "weight": 10.0, "id": 125857072, "level": 3}
+{"count": 28339, "name": "Active galactic nucleus", "weight": 6.0, "id": 43481613, "level": 3}
+{"count": 18284, "name": "Galaxy formation and evolution", "weight": 4.0, "id": 174802034, "level": 3}
+{"count": 28196, "name": "Galaxy cluster", "weight": 6.0, "id": 156055797, "level": 3}
+{"count": 22616, "name": "Milky Way", "weight": 5.0, "id": 555520305, "level": 3}
+{"count": 29137, "name": "Quasar", "weight": 6.0, "id": 135041427, "level": 3}
+{"count": 17609, "name": "Spiral galaxy", "weight": 3.0, "id": 63585750, "level": 3}
+{"count": 5348, "name": "Luminosity function", "weight": 1.0, "id": 17959413, "level": 3}
+{"count": 16628, "name": "Star cluster", "weight": 3.0, "id": 48393594, "level": 3}
+{"count": 31914, "name": "Elliptical galaxy", "weight": 7.0, "id": 871022, "level": 3}
+{"count": 8834, "name": "Galactic halo", "weight": 2.0, "id": 48387981, "level": 3}
+{"count": 5765, "name": "Cold dark matter", "weight": 1.0, "id": 126320844, "level": 3}
+{"count": 7786, "name": "Gravitational lens", "weight": 1.0, "id": 68498078, "level": 3}
+{"count": 9688, "name": "H II region", "weight": 2.0, "id": 2778042268, "level": 3}
+{"count": 21980, "name": "Radio galaxy", "weight": 4.0, "id": 20249676, "level": 3}
+{"count": 9145, "name": "Surface brightness", "weight": 2.0, "id": 91228026, "level": 3}
+{"count": 15248, "name": "Dwarf galaxy", "weight": 3.0, "id": 37119246, "level": 3}
+{"count": 9951, "name": "Galactic Center", "weight": 2.0, "id": 132552067, "level": 3}
+{"count": 9790, "name": "Dark matter halo", "weight": 2.0, "id": 88148261, "level": 3}
+{"count": 8363, "name": "Equivalent width", "weight": 1.0, "id": 169791425, "level": 3}
+{"count": 15820, "name": "Metallicity", "weight": 3.0, "id": 99465377, "level": 3}
+{"count": 26999, "name": "Luminous infrared galaxy", "weight": 6.0, "id": 89108925, "level": 3}
+{"count": 6019, "name": "Large Magellanic Cloud", "weight": 1.0, "id": 2781010120, "level": 3}
+{"count": 6505, "name": "Galaxy rotation curve", "weight": 1.0, "id": 206564472, "level": 3}
+{"count": 9632, "name": "Velocity dispersion", "weight": 2.0, "id": 127529279, "level": 3}
+{"count": 4614, "name": "Hubble Deep Field", "weight": 1.0, "id": 133971210, "level": 3}
+{"count": 2738, "name": "Small Magellanic Cloud", "weight": 0.0, "id": 2780020771, "level": 3}
+{"count": 37351, "name": "Redshift", "weight": 8.0, "id": 33024259, "level": 3}
+{"count": 837, "name": "Advanced Camera for Surveys", "weight": 0.0, "id": 2778495318, "level": 3}
+{"count": 8011, "name": "Galactic plane", "weight": 1.0, "id": 183582522, "level": 3}
+{"count": 1445, "name": "Distance modulus", "weight": 0.0, "id": 2778512783, "level": 3}
+{"count": 333, "name": "Digitized Sky Survey", "weight": 0.0, "id": 2778322155, "level": 3}
+{"count": 257, "name": "Isophote", "weight": 0.0, "id": 2781121285, "level": 3}
+{"count": 693, "name": "Andromeda Galaxy", "weight": 0.0, "id": 2778039530, "level": 3}
+{"count": 126, "name": "Color\u2013color diagram", "weight": 0.0, "id": 152843565, "level": 3}
+{"count": 1463, "name": "Cosmic distance ladder", "weight": 0.0, "id": 182358072, "level": 3}
+{"count": 6264, "name": "Weak gravitational lensing", "weight": 1.0, "id": 190670322, "level": 3}
+{"count": 4620, "name": "Thin disk", "weight": 1.0, "id": 189666105, "level": 3}
+{"count": 1435, "name": "Andromeda", "weight": 0.0, "id": 195733852, "level": 3}
+{"count": 3435, "name": "Gravitational microlensing", "weight": 0.0, "id": 125125069, "level": 3}
+{"count": 4532, "name": "Thick disk", "weight": 1.0, "id": 107520359, "level": 3}
+{"count": 1523, "name": "Peculiar velocity", "weight": 0.0, "id": 192975764, "level": 3}
+{"count": 2402, "name": "Parsec", "weight": 0.0, "id": 44060867, "level": 3}
+{"count": 1346, "name": "Hydrogen line", "weight": 0.0, "id": 164918935, "level": 3}
+{"count": 286, "name": "Cosmic web", "weight": 0.0, "id": 2779769274, "level": 3}
+{"count": 458, "name": "Circinus", "weight": 0.0, "id": 2778641039, "level": 3}
+{"count": 996, "name": "Ram pressure", "weight": 0.0, "id": 153297053, "level": 3}
+{"count": 6622, "name": "Hubble sequence", "weight": 1.0, "id": 66362828, "level": 3}
+{"count": 461, "name": "BOOTES", "weight": 0.0, "id": 2778561583, "level": 3}
+{"count": 563, "name": "Jansky", "weight": 0.0, "id": 4032939, "level": 3}
+{"count": 2418, "name": "Doubly ionized oxygen", "weight": 0.0, "id": 26141928, "level": 3}
+{"count": 54, "name": "GRB 050509B", "weight": 0.0, "id": 2780969033, "level": 3}
+{"count": 582, "name": "Superbubble", "weight": 0.0, "id": 172809573, "level": 3}
+{"count": 86, "name": "Photographic magnitude", "weight": 0.0, "id": 2777566755, "level": 3}
+{"count": 173, "name": "Long-slit spectroscopy", "weight": 0.0, "id": 2777345415, "level": 3}
+{"count": 786, "name": "Red clump", "weight": 0.0, "id": 134284744, "level": 3}
+{"count": 19295, "name": "Type-cD galaxy", "weight": 4.0, "id": 36006759, "level": 3}
+{"count": 343, "name": "Ecliptic pole", "weight": 0.0, "id": 124745491, "level": 3}
+{"count": 22, "name": "Delaunay tessellation field estimator", "weight": 0.0, "id": 2781029211, "level": 3}
+{"count": 48, "name": "Tidal tensor", "weight": 0.0, "id": 2776729485, "level": 3}
+{"count": 212, "name": "HIPASS", "weight": 0.0, "id": 2778668789, "level": 3}
+{"count": 374, "name": "Square degree", "weight": 0.0, "id": 192188897, "level": 3}
+{"count": 12, "name": "Bolshoi Cosmological Simulation", "weight": 0.0, "id": 171950765, "level": 3}
+{"count": 9, "name": "Atlas 3d survey", "weight": 0.0, "id": 2778391499, "level": 3}
+{"count": 263, "name": "Correlation function (astronomy)", "weight": 0.0, "id": 178802683, "level": 3}
+{"count": 8, "name": "Lists of galaxies", "weight": 0.0, "id": 2776219242, "level": 3}
+{"count": 6, "name": "Near 3 kpc Arm", "weight": 0.0, "id": 2779506549, "level": 3}
+{"count": 100, "name": "Wide Field and Planetary Camera 2", "weight": 0.0, "id": 2781465209, "level": 3}
+{"count": 15, "name": "Southern Celestial Hemisphere", "weight": 0.0, "id": 2777649440, "level": 3}
+{"count": 19, "name": "Luminous red nova", "weight": 0.0, "id": 2780615637, "level": 3}
+{"count": 12, "name": "Morphological Catalogue of Galaxies", "weight": 0.0, "id": 2779549735, "level": 3}

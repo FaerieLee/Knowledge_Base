@@ -1,0 +1,14 @@
+{"count": 1794, "name": "Non-photorealistic rendering", "weight": 10.0, "id": 155650255, "level": 5}
+{"count": 1364, "name": "Character animation", "weight": 7.0, "id": 90697248, "level": 5}
+{"count": 468, "name": "Physically based animation", "weight": 2.0, "id": 126053834, "level": 5}
+{"count": 155, "name": "Procedural animation", "weight": 0.0, "id": 2778375324, "level": 5}
+{"count": 93, "name": "Cel", "weight": 0.0, "id": 53911467, "level": 5}
+{"count": 1763, "name": "Skeletal animation", "weight": 9.0, "id": 44710944, "level": 5}
+{"count": 43, "name": "Humanoid animation", "weight": 0.0, "id": 2778172612, "level": 5}
+{"count": 63, "name": "Cel shading", "weight": 0.0, "id": 200975682, "level": 5}
+{"count": 54, "name": "Clay animation", "weight": 0.0, "id": 88565162, "level": 5}
+{"count": 15, "name": "Face Animation Parameter", "weight": 0.0, "id": 2779659376, "level": 5}
+{"count": 37, "name": "Animation database", "weight": 0.0, "id": 2781233418, "level": 5}
+{"count": 326, "name": "Animation director", "weight": 1.0, "id": 27306932, "level": 5}
+{"count": 275, "name": "Color cycling", "weight": 1.0, "id": 148006808, "level": 5}
+{"count": 1091, "name": "Interactive skeleton-driven simulation", "weight": 6.0, "id": 60851780, "level": 5}

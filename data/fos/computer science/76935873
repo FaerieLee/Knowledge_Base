@@ -1,0 +1,8 @@
+{"count": 5920, "name": "CMOS sensor", "weight": 10.0, "id": 155512908, "level": 3}
+{"count": 1389, "name": "Fixed-pattern noise", "weight": 2.0, "id": 2778368474, "level": 3}
+{"count": 1048, "name": "Correlated double sampling", "weight": 1.0, "id": 118277053, "level": 3}
+{"count": 1621, "name": "Rolling shutter", "weight": 2.0, "id": 2776166537, "level": 3}
+{"count": 174, "name": "Optical format", "weight": 0.0, "id": 2779207036, "level": 3}
+{"count": 574, "name": "Contact image sensor", "weight": 0.0, "id": 2776995419, "level": 3}
+{"count": 10, "name": "Hole accumulation diode", "weight": 0.0, "id": 2778004058, "level": 3}
+{"count": 11, "name": "Angle\u2013sensitive pixel", "weight": 0.0, "id": 2777944307, "level": 3}

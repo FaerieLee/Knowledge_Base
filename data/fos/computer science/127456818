@@ -1,0 +1,27 @@
+{"count": 2711, "name": "Proportionally fair", "weight": 2.0, "id": 86127852, "level": 5}
+{"count": 2539, "name": "Fair queuing", "weight": 1.0, "id": 143647952, "level": 5}
+{"count": 3799, "name": "Multiprocessor scheduling", "weight": 2.0, "id": 85924588, "level": 5}
+{"count": 7498, "name": "Earliest deadline first scheduling", "weight": 5.0, "id": 32310161, "level": 5}
+{"count": 985, "name": "Generalized processor sharing", "weight": 0.0, "id": 200651375, "level": 5}
+{"count": 1753, "name": "Priority ceiling protocol", "weight": 1.0, "id": 117420606, "level": 5}
+{"count": 605, "name": "Deficit round robin", "weight": 0.0, "id": 88334336, "level": 5}
+{"count": 646, "name": "Gang scheduling", "weight": 0.0, "id": 201515029, "level": 5}
+{"count": 987, "name": "Priority inversion", "weight": 0.0, "id": 172828308, "level": 5}
+{"count": 1877, "name": "Priority inheritance", "weight": 1.0, "id": 63160601, "level": 5}
+{"count": 2016, "name": "Least slack time scheduling", "weight": 1.0, "id": 132439773, "level": 5}
+{"count": 352, "name": "Trace scheduling", "weight": 0.0, "id": 117671776, "level": 5}
+{"count": 10879, "name": "Round-robin scheduling", "weight": 8.0, "id": 175893541, "level": 5}
+{"count": 3362, "name": "Nurse scheduling problem", "weight": 2.0, "id": 102370290, "level": 5}
+{"count": 583, "name": "Open-shop scheduling", "weight": 0.0, "id": 35799125, "level": 5}
+{"count": 110, "name": "Time-utility function", "weight": 0.0, "id": 125989448, "level": 5}
+{"count": 464, "name": "Hybrid Scheduling", "weight": 0.0, "id": 2779974669, "level": 5}
+{"count": 6298, "name": "Deadline-monotonic scheduling", "weight": 4.0, "id": 76774629, "level": 5}
+{"count": 13396, "name": "Fixed-priority pre-emptive scheduling", "weight": 10.0, "id": 122141398, "level": 5}
+{"count": 5893, "name": "Lottery scheduling", "weight": 4.0, "id": 112866106, "level": 5}
+{"count": 293, "name": "Deadline scheduler", "weight": 0.0, "id": 84871966, "level": 5}
+{"count": 2825, "name": "Maximum throughput scheduling", "weight": 2.0, "id": 29722447, "level": 5}
+{"count": 310, "name": "Scheduler activations", "weight": 0.0, "id": 28206490, "level": 5}
+{"count": 706, "name": "Stride scheduling", "weight": 0.0, "id": 65043454, "level": 5}
+{"count": 44, "name": "Highest response ratio next", "weight": 0.0, "id": 48514223, "level": 5}
+{"count": 45, "name": "Shortest seek first", "weight": 0.0, "id": 139177550, "level": 5}
+{"count": 4810, "name": "Genetic algorithm scheduling", "weight": 3.0, "id": 159022435, "level": 5}

@@ -1,0 +1,126 @@
+{"count": 95417, "name": "Tectonics", "weight": 10.0, "id": 77928131, "level": 2}
+{"count": 39972, "name": "Subduction", "weight": 4.0, "id": 58097730, "level": 2}
+{"count": 18194, "name": "Plate tectonics", "weight": 1.0, "id": 119477230, "level": 2}
+{"count": 25018, "name": "Seismic wave", "weight": 2.0, "id": 78542244, "level": 2}
+{"count": 43216, "name": "Basalt", "weight": 4.0, "id": 161509811, "level": 2}
+{"count": 45083, "name": "Landslide", "weight": 4.0, "id": 186295008, "level": 2}
+{"count": 70604, "name": "Volcano", "weight": 7.0, "id": 120806208, "level": 2}
+{"count": 22977, "name": "Induced seismicity", "weight": 2.0, "id": 83176761, "level": 2}
+{"count": 36252, "name": "Magma", "weight": 3.0, "id": 183222429, "level": 2}
+{"count": 10363, "name": "Earthquake engineering", "weight": 1.0, "id": 103711010, "level": 2}
+{"count": 9085, "name": "Inner core", "weight": 0.0, "id": 72782756, "level": 2}
+{"count": 41554, "name": "Fault (geology)", "weight": 4.0, "id": 175551986, "level": 2}
+{"count": 48088, "name": "Hydrothermal circulation", "weight": 5.0, "id": 156622251, "level": 2}
+{"count": 3350, "name": "Triple junction", "weight": 0.0, "id": 2778282194, "level": 2}
+{"count": 8061, "name": "Seismic risk", "weight": 0.0, "id": 134512083, "level": 2}
+{"count": 13053, "name": "Seismic hazard", "weight": 1.0, "id": 69361100, "level": 2}
+{"count": 6065, "name": "Seismic refraction", "weight": 0.0, "id": 111461898, "level": 2}
+{"count": 8480, "name": "Seismogram", "weight": 0.0, "id": 169744125, "level": 2}
+{"count": 7805, "name": "Epicenter", "weight": 0.0, "id": 60859754, "level": 2}
+{"count": 5489, "name": "S-wave", "weight": 0.0, "id": 20252601, "level": 2}
+{"count": 5090, "name": "Synthetic seismogram", "weight": 0.0, "id": 137219930, "level": 2}
+{"count": 10726, "name": "Aftershock", "weight": 1.0, "id": 156801008, "level": 2}
+{"count": 6306, "name": "Earthquake prediction", "weight": 0.0, "id": 11097651, "level": 2}
+{"count": 2891, "name": "Seismic array", "weight": 0.0, "id": 2776845669, "level": 2}
+{"count": 3277, "name": "Hypocenter", "weight": 0.0, "id": 111357193, "level": 2}
+{"count": 9747, "name": "Seismometer", "weight": 1.0, "id": 119217923, "level": 2}
+{"count": 4280, "name": "Pumice", "weight": 0.0, "id": 75268469, "level": 2}
+{"count": 2386, "name": "Mud volcano", "weight": 0.0, "id": 90137607, "level": 2}
+{"count": 3277, "name": "Strong ground motion", "weight": 0.0, "id": 89929633, "level": 2}
+{"count": 1572, "name": "Earthquake location", "weight": 0.0, "id": 2780937219, "level": 2}
+{"count": 6653, "name": "Microseism", "weight": 0.0, "id": 7266685, "level": 2}
+{"count": 4482, "name": "Agglomerate", "weight": 0.0, "id": 129955480, "level": 2}
+{"count": 4929, "name": "Vertical seismic profile", "weight": 0.0, "id": 89787772, "level": 2}
+{"count": 3290, "name": "Seismic migration", "weight": 0.0, "id": 118496448, "level": 2}
+{"count": 8210, "name": "Peak ground acceleration", "weight": 0.0, "id": 60486960, "level": 2}
+{"count": 4604, "name": "Geophone", "weight": 0.0, "id": 54187759, "level": 2}
+{"count": 3015, "name": "Cinder", "weight": 0.0, "id": 84948697, "level": 2}
+{"count": 3982, "name": "Seismic noise", "weight": 0.0, "id": 30947920, "level": 2}
+{"count": 5337, "name": "Response spectrum", "weight": 0.0, "id": 56625316, "level": 2}
+{"count": 1089, "name": "Seiche", "weight": 0.0, "id": 156461218, "level": 2}
+{"count": 4747, "name": "Coda", "weight": 0.0, "id": 3962253, "level": 2}
+{"count": 5457, "name": "Seismic retrofit", "weight": 0.0, "id": 29979489, "level": 2}
+{"count": 5680, "name": "Maar", "weight": 0.0, "id": 2779950748, "level": 2}
+{"count": 3873, "name": "Hot spring", "weight": 0.0, "id": 2778131859, "level": 2}
+{"count": 1358, "name": "Tiltmeter", "weight": 0.0, "id": 21054061, "level": 2}
+{"count": 772, "name": "Earth tide", "weight": 0.0, "id": 2779471799, "level": 2}
+{"count": 3685, "name": "Geophysical imaging", "weight": 0.0, "id": 79675319, "level": 2}
+{"count": 300, "name": "National Geophysical Data Center", "weight": 0.0, "id": 2776295494, "level": 2}
+{"count": 1361, "name": "Seismic vibrator", "weight": 0.0, "id": 20947056, "level": 2}
+{"count": 1729, "name": "Microtremor", "weight": 0.0, "id": 122205909, "level": 2}
+{"count": 418, "name": "Reflection seismology", "weight": 0.0, "id": 2779763130, "level": 2}
+{"count": 944, "name": "Strain partitioning", "weight": 0.0, "id": 2779557651, "level": 2}
+{"count": 1713, "name": "Seismic attribute", "weight": 0.0, "id": 2781294565, "level": 2}
+{"count": 3644, "name": "Slowness", "weight": 0.0, "id": 11940443, "level": 2}
+{"count": 3714, "name": "Prestack", "weight": 0.0, "id": 2776871995, "level": 2}
+{"count": 277, "name": "Long period ground motion", "weight": 0.0, "id": 2780536910, "level": 2}
+{"count": 7099, "name": "Earthquake simulation", "weight": 0.0, "id": 90626213, "level": 2}
+{"count": 4812, "name": "Seismic microzonation", "weight": 0.0, "id": 23509580, "level": 2}
+{"count": 258, "name": "Mathematical geophysics", "weight": 0.0, "id": 114935716, "level": 2}
+{"count": 1338, "name": "Passive seismic", "weight": 0.0, "id": 2780942248, "level": 2}
+{"count": 2943, "name": "Quake (series)", "weight": 0.0, "id": 132314218, "level": 2}
+{"count": 300, "name": "Near-surface geophysics", "weight": 0.0, "id": 54267871, "level": 2}
+{"count": 133, "name": "Archaeoseismology", "weight": 0.0, "id": 2780729977, "level": 2}
+{"count": 404, "name": "Black sand", "weight": 0.0, "id": 179664241, "level": 2}
+{"count": 68, "name": "Project Vela", "weight": 0.0, "id": 2779041732, "level": 2}
+{"count": 1462, "name": "Tsunami earthquake", "weight": 0.0, "id": 144131665, "level": 2}
+{"count": 392, "name": "Tsunami warning system", "weight": 0.0, "id": 2781018391, "level": 2}
+{"count": 1736, "name": "2008 California earthquake study", "weight": 0.0, "id": 65474159, "level": 2}
+{"count": 166, "name": "Seismic scale", "weight": 0.0, "id": 170106089, "level": 2}
+{"count": 4829, "name": "Subaerial", "weight": 0.0, "id": 84983702, "level": 2}
+{"count": 545, "name": "Depth conversion", "weight": 0.0, "id": 2780967690, "level": 2}
+{"count": 143, "name": "Deep focus", "weight": 0.0, "id": 2775878524, "level": 2}
+{"count": 529, "name": "Earthscope", "weight": 0.0, "id": 184069050, "level": 2}
+{"count": 263, "name": "Submarine earthquake", "weight": 0.0, "id": 133716533, "level": 2}
+{"count": 124, "name": "Sand volcano", "weight": 0.0, "id": 138890745, "level": 2}
+{"count": 145, "name": "Flat spot", "weight": 0.0, "id": 2778526547, "level": 2}
+{"count": 184, "name": "Isoseismal map", "weight": 0.0, "id": 163422655, "level": 2}
+{"count": 779, "name": "Strike and dip", "weight": 0.0, "id": 86676338, "level": 2}
+{"count": 4867, "name": "Urban seismic risk", "weight": 0.0, "id": 199895515, "level": 2}
+{"count": 12, "name": "Pele's hair", "weight": 0.0, "id": 2779636481, "level": 2}
+{"count": 64, "name": "Seismic communication", "weight": 0.0, "id": 63409356, "level": 2}
+{"count": 8, "name": "Pele's tears", "weight": 0.0, "id": 2777668195, "level": 2}
+{"count": 16, "name": "Canarina canariensis", "weight": 0.0, "id": 2780711465, "level": 2}
+{"count": 129, "name": "European Macroseismic Scale", "weight": 0.0, "id": 156254076, "level": 2}
+{"count": 85, "name": "Shallow focus", "weight": 0.0, "id": 2779333279, "level": 2}
+{"count": 10, "name": "Fritillaria camschatcensis", "weight": 0.0, "id": 2779766786, "level": 2}
+{"count": 7, "name": "Cordtex", "weight": 0.0, "id": 2777383361, "level": 2}
+{"count": 7, "name": "Mudpot", "weight": 0.0, "id": 2777013579, "level": 2}
+{"count": 23, "name": "IRIS Consortium", "weight": 0.0, "id": 2776450300, "level": 2}
+{"count": 12, "name": "P-wave modulus", "weight": 0.0, "id": 2781103595, "level": 2}
+{"count": 6, "name": "Saxifraga cotyledon", "weight": 0.0, "id": 2779190665, "level": 2}
+{"count": 7, "name": "Pumice raft", "weight": 0.0, "id": 2778610135, "level": 2}
+{"count": 12, "name": "Shutter ridge", "weight": 0.0, "id": 2780179644, "level": 2}
+{"count": 21, "name": "Spartocytisus supranubius", "weight": 0.0, "id": 2777047892, "level": 2}
+{"count": 2, "name": "Webster's reagent", "weight": 0.0, "id": 2780157379, "level": 2}
+{"count": 4, "name": "Tanna japonensis", "weight": 0.0, "id": 2780271066, "level": 2}
+{"count": 6, "name": "Mazuku", "weight": 0.0, "id": 2780105117, "level": 2}
+{"count": 7, "name": "Coppermine River Group", "weight": 0.0, "id": 2779032309, "level": 2}
+{"count": 2, "name": "Rossi\u2013Forel scale", "weight": 0.0, "id": 76528162, "level": 2}
+{"count": 6, "name": "Sulfate crust", "weight": 0.0, "id": 2779187149, "level": 2}
+{"count": 2, "name": "K\u012bpuka", "weight": 0.0, "id": 2779556726, "level": 2}
+{"count": 2, "name": "Toba catastrophe theory", "weight": 0.0, "id": 2778830401, "level": 2}
+{"count": 48, "name": "Bulletin of the Seismological Society of America", "weight": 0.0, "id": 2775921699, "level": 2}
+{"count": 8, "name": "Sand geyser", "weight": 0.0, "id": 145640980, "level": 2}
+{"count": 9, "name": "European-Mediterranean Seismological Centre", "weight": 0.0, "id": 66958602, "level": 2}
+{"count": 5, "name": "Apache tears", "weight": 0.0, "id": 2777096912, "level": 2}
+{"count": 2, "name": "Shock tube detonator", "weight": 0.0, "id": 2779228857, "level": 2}
+{"count": 2, "name": "Cassiar Terrane", "weight": 0.0, "id": 2776886513, "level": 2}
+{"count": 2, "name": "Penstemon clutei", "weight": 0.0, "id": 2775958833, "level": 2}
+{"count": 3, "name": "Linanthus pungens", "weight": 0.0, "id": 2777589534, "level": 2}
+{"count": 7, "name": "Cat gap", "weight": 0.0, "id": 2778915350, "level": 2}
+{"count": 1, "name": "Lava bench", "weight": 0.0, "id": 2779613552, "level": 2}
+{"count": 32, "name": "Smoked glass", "weight": 0.0, "id": 2778058107, "level": 2}
+{"count": 2, "name": "Seismic response of landfill", "weight": 0.0, "id": 2777229535, "level": 2}
+{"count": 2, "name": "Induced seismicity in Basel", "weight": 0.0, "id": 2779361279, "level": 2}
+{"count": 1, "name": "Medvedev\u2013Sponheuer\u2013Karnik scale", "weight": 0.0, "id": 94144456, "level": 2}
+{"count": 10, "name": "Rupture field", "weight": 0.0, "id": 2775954173, "level": 2}
+{"count": 1, "name": "Tornillo event", "weight": 0.0, "id": 2776147735, "level": 2}
+{"count": 93, "name": "El Salvador Project", "weight": 0.0, "id": 191478404, "level": 2}
+{"count": 5, "name": "Tsunamis in lakes", "weight": 0.0, "id": 2777897415, "level": 2}
+{"count": 1, "name": "Interagency Volcanic Event Notification Plan", "weight": 0.0, "id": 2777763573, "level": 2}
+{"count": 11, "name": "Journal of South American Earth Sciences", "weight": 0.0, "id": 2780381665, "level": 2}
+{"count": 3, "name": "Wasson Bluff", "weight": 0.0, "id": 2775885006, "level": 2}
+{"count": 2, "name": "Sadleria cyatheoides", "weight": 0.0, "id": 2779066083, "level": 2}
+{"count": 9, "name": "Converted-wave analysis", "weight": 0.0, "id": 2779665433, "level": 2}
+{"count": 1, "name": "China seismic intensity scale", "weight": 0.0, "id": 2779201206, "level": 2}

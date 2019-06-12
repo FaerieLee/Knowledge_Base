@@ -1,0 +1,4 @@
+{"count": 141, "name": "Duplicate code", "weight": 0.0, "id": 11685472, "level": 4}
+{"count": 2406, "name": "Dead code", "weight": 10.0, "id": 47434764, "level": 4}
+{"count": 1097, "name": "Program animation", "weight": 4.0, "id": 35167187, "level": 4}
+{"count": 2278, "name": "Unreachable code", "weight": 9.0, "id": 50951305, "level": 4}

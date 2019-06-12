@@ -1,0 +1,4 @@
+{"count": 58, "name": "Ford\u2013Fulkerson algorithm", "weight": 1.0, "id": 2779767944, "level": 5}
+{"count": 56, "name": "Edmonds\u2013Karp algorithm", "weight": 1.0, "id": 85750511, "level": 5}
+{"count": 470, "name": "Push\u2013relabel maximum flow algorithm", "weight": 10.0, "id": 28977562, "level": 5}
+{"count": 106, "name": "Karloff\u2013Zwick algorithm", "weight": 2.0, "id": 116819236, "level": 5}

@@ -1,0 +1,13 @@
+{"count": 287, "name": "Equirectangular projection", "weight": 10.0, "id": 174249844, "level": 5}
+{"count": 83, "name": "Sinusoidal projection", "weight": 2.0, "id": 107254242, "level": 5}
+{"count": 89, "name": "Winkel tripel projection", "weight": 3.0, "id": 41822488, "level": 5}
+{"count": 67, "name": "Robinson projection", "weight": 2.0, "id": 202140621, "level": 5}
+{"count": 14, "name": "Miller cylindrical projection", "weight": 0.0, "id": 148084890, "level": 5}
+{"count": 79, "name": "Hammer projection", "weight": 2.0, "id": 120971454, "level": 5}
+{"count": 69, "name": "Guyou hemisphere-in-a-square projection", "weight": 2.0, "id": 155557264, "level": 5}
+{"count": 174, "name": "Orthographic projection in cartography", "weight": 6.0, "id": 145580407, "level": 5}
+{"count": 46, "name": "Behrmann projection", "weight": 1.0, "id": 43518884, "level": 5}
+{"count": 70, "name": "Cassini projection", "weight": 2.0, "id": 54092447, "level": 5}
+{"count": 16, "name": "Van der Grinten projection", "weight": 0.0, "id": 76797319, "level": 5}
+{"count": 84, "name": "Goode homolosine projection", "weight": 3.0, "id": 79448642, "level": 5}
+{"count": 17, "name": "Cylindrical equal-area projection", "weight": 0.0, "id": 153712693, "level": 5}

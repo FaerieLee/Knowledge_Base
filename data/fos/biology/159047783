@@ -1,0 +1,200 @@
+{"count": 492765, "name": "Virus", "weight": 7.0, "id": 2522874641, "level": 2}
+{"count": 44155, "name": "Immunopathology", "weight": 0.0, "id": 2780648854, "level": 2}
+{"count": 630115, "name": "Antibody", "weight": 10.0, "id": 159654299, "level": 2}
+{"count": 443145, "name": "Antigen", "weight": 7.0, "id": 147483822, "level": 2}
+{"count": 14144, "name": "Sida", "weight": 0.0, "id": 2776452011, "level": 2}
+{"count": 109162, "name": "Malaria", "weight": 1.0, "id": 2778048844, "level": 2}
+{"count": 75941, "name": "Drug resistance", "weight": 1.0, "id": 114851261, "level": 2}
+{"count": 148350, "name": "Vaccination", "weight": 2.0, "id": 22070199, "level": 2}
+{"count": 60106, "name": "Real-time polymerase chain reaction", "weight": 0.0, "id": 48023723, "level": 2}
+{"count": 93954, "name": "Virulence", "weight": 1.0, "id": 60987743, "level": 2}
+{"count": 96805, "name": "Serology", "weight": 1.0, "id": 45189115, "level": 2}
+{"count": 67674, "name": "Peripheral blood mononuclear cell", "weight": 1.0, "id": 137061746, "level": 2}
+{"count": 169812, "name": "Cytotoxic T cell", "weight": 2.0, "id": 154317977, "level": 2}
+{"count": 57210, "name": "Hepatitis C virus", "weight": 0.0, "id": 2776408679, "level": 2}
+{"count": 45412, "name": "Pathogenicity", "weight": 0.0, "id": 64502627, "level": 2}
+{"count": 57667, "name": "Fusion protein", "weight": 0.0, "id": 123894998, "level": 2}
+{"count": 57205, "name": "Serotype", "weight": 0.0, "id": 10389963, "level": 2}
+{"count": 31095, "name": "Host (biology)", "weight": 0.0, "id": 126831891, "level": 2}
+{"count": 50219, "name": "Hepatitis B virus", "weight": 0.0, "id": 2780593183, "level": 2}
+{"count": 100428, "name": "Interferon", "weight": 1.0, "id": 2776178377, "level": 2}
+{"count": 62059, "name": "Hepatitis C", "weight": 0.0, "id": 2776455275, "level": 2}
+{"count": 101106, "name": "Outbreak", "weight": 1.0, "id": 116675565, "level": 2}
+{"count": 34886, "name": "Multiple drug resistance", "weight": 0.0, "id": 133936738, "level": 2}
+{"count": 78272, "name": "Hepatitis B", "weight": 1.0, "id": 2777382497, "level": 2}
+{"count": 27554, "name": "Streptococcus pneumoniae", "weight": 0.0, "id": 2781253189, "level": 2}
+{"count": 9032, "name": "Molecular epidemiology", "weight": 0.0, "id": 97669555, "level": 2}
+{"count": 11965, "name": "Helminthiasis", "weight": 0.0, "id": 2779726973, "level": 2}
+{"count": 79207, "name": "Salmonella", "weight": 1.0, "id": 2781065037, "level": 2}
+{"count": 23673, "name": "Listeria monocytogenes", "weight": 0.0, "id": 2781350384, "level": 2}
+{"count": 3977, "name": "Apicomplexa", "weight": 0.0, "id": 2781023229, "level": 2}
+{"count": 23892, "name": "Bacteriophage", "weight": 0.0, "id": 2776441376, "level": 2}
+{"count": 5198, "name": "Microbial toxins", "weight": 0.0, "id": 9043230, "level": 2}
+{"count": 28932, "name": "Dengue fever", "weight": 0.0, "id": 533803919, "level": 2}
+{"count": 18962, "name": "Leishmaniasis", "weight": 0.0, "id": 2776555147, "level": 2}
+{"count": 22540, "name": "Klebsiella pneumoniae", "weight": 0.0, "id": 2777058267, "level": 2}
+{"count": 7473, "name": "Inoculation", "weight": 0.0, "id": 180032290, "level": 2}
+{"count": 27148, "name": "Streptococcus", "weight": 0.0, "id": 2778276568, "level": 2}
+{"count": 3994, "name": "Immunogenetics", "weight": 0.0, "id": 1547928, "level": 2}
+{"count": 11246, "name": "Enterotoxin", "weight": 0.0, "id": 66999527, "level": 2}
+{"count": 17455, "name": "Haemophilus influenzae", "weight": 0.0, "id": 2776925733, "level": 2}
+{"count": 11857, "name": "Trypanosomiasis", "weight": 0.0, "id": 2778143080, "level": 2}
+{"count": 9044, "name": "Zidovudine", "weight": 0.0, "id": 2780216070, "level": 2}
+{"count": 15208, "name": "Trypanosoma cruzi", "weight": 0.0, "id": 2777625466, "level": 2}
+{"count": 18852, "name": "Toxoplasma gondii", "weight": 0.0, "id": 2778128430, "level": 2}
+{"count": 18478, "name": "Chlamydia trachomatis", "weight": 0.0, "id": 2777391075, "level": 2}
+{"count": 70904, "name": "Pathogen", "weight": 1.0, "id": 2776460866, "level": 2}
+{"count": 12060, "name": "Vibrio cholerae", "weight": 0.0, "id": 2778643871, "level": 2}
+{"count": 10387, "name": "Lyme disease", "weight": 0.0, "id": 2777553296, "level": 2}
+{"count": 13577, "name": "Schistosoma mansoni", "weight": 0.0, "id": 2776863245, "level": 2}
+{"count": 18729, "name": "Rotavirus", "weight": 0.0, "id": 2781367151, "level": 2}
+{"count": 18033, "name": "Respiratory tract infections", "weight": 0.0, "id": 2776012195, "level": 2}
+{"count": 9724, "name": "Streptococcus pyogenes", "weight": 0.0, "id": 2779306812, "level": 2}
+{"count": 20515, "name": "Toxoplasmosis", "weight": 0.0, "id": 2778062946, "level": 2}
+{"count": 9789, "name": "Cholera toxin", "weight": 0.0, "id": 2777006276, "level": 2}
+{"count": 9606, "name": "Neisseria meningitidis", "weight": 0.0, "id": 2778458888, "level": 2}
+{"count": 20930, "name": "Typhoid fever", "weight": 0.0, "id": 520601542, "level": 2}
+{"count": 8926, "name": "Thymidine kinase", "weight": 0.0, "id": 2776147627, "level": 2}
+{"count": 18289, "name": "Cholera", "weight": 0.0, "id": 2780722889, "level": 2}
+{"count": 14427, "name": "Inclusion bodies", "weight": 0.0, "id": 203750385, "level": 2}
+{"count": 12608, "name": "Chagas disease", "weight": 0.0, "id": 112418997, "level": 2}
+{"count": 10021, "name": "Borrelia burgdorferi", "weight": 0.0, "id": 2779159148, "level": 2}
+{"count": 10885, "name": "Neisseria gonorrhoeae", "weight": 0.0, "id": 2779166590, "level": 2}
+{"count": 8889, "name": "Cryptococcus neoformans", "weight": 0.0, "id": 2777893358, "level": 2}
+{"count": 15744, "name": "Leishmania", "weight": 0.0, "id": 2781092759, "level": 2}
+{"count": 10380, "name": "Campylobacter jejuni", "weight": 0.0, "id": 2776957140, "level": 2}
+{"count": 24402, "name": "Poliomyelitis", "weight": 0.0, "id": 4870876, "level": 2}
+{"count": 16099, "name": "Aedes aegypti", "weight": 0.0, "id": 2777775583, "level": 2}
+{"count": 18385, "name": "Chlamydia", "weight": 0.0, "id": 2780122209, "level": 2}
+{"count": 20053, "name": "Tetanus", "weight": 0.0, "id": 2779841045, "level": 2}
+{"count": 158123, "name": "T cell", "weight": 2.0, "id": 2776090121, "level": 2}
+{"count": 17456, "name": "Rabies", "weight": 0.0, "id": 2776849203, "level": 2}
+{"count": 14292, "name": "Campylobacter", "weight": 0.0, "id": 2779910956, "level": 2}
+{"count": 5364, "name": "Severe combined immunodeficiency", "weight": 0.0, "id": 2779468541, "level": 2}
+{"count": 24364, "name": "Seroprevalence", "weight": 0.0, "id": 2778494684, "level": 2}
+{"count": 5284, "name": "Medical microbiology", "weight": 0.0, "id": 190139176, "level": 2}
+{"count": 7319, "name": "Cryptococcosis", "weight": 0.0, "id": 2779413141, "level": 2}
+{"count": 16099, "name": "Diphtheria", "weight": 0.0, "id": 2780572238, "level": 2}
+{"count": 6553, "name": "Bacillus anthracis", "weight": 0.0, "id": 2780239966, "level": 2}
+{"count": 10657, "name": "Encephalomyelitis", "weight": 0.0, "id": 2777899865, "level": 2}
+{"count": 9145, "name": "Clostridium perfringens", "weight": 0.0, "id": 2779116991, "level": 2}
+{"count": 6997, "name": "Ganciclovir", "weight": 0.0, "id": 2777965375, "level": 2}
+{"count": 15269, "name": "Mycoplasma", "weight": 0.0, "id": 2778838687, "level": 2}
+{"count": 11481, "name": "Aedes", "weight": 0.0, "id": 2780688631, "level": 2}
+{"count": 14978, "name": "Enteritis", "weight": 0.0, "id": 2780031333, "level": 2}
+{"count": 8500, "name": "Cryptosporidium", "weight": 0.0, "id": 2778877831, "level": 2}
+{"count": 6849, "name": "Yersinia enterocolitica", "weight": 0.0, "id": 2776234502, "level": 2}
+{"count": 7263, "name": "Multilocus sequence typing", "weight": 0.0, "id": 77434933, "level": 2}
+{"count": 11927, "name": "Leptospirosis", "weight": 0.0, "id": 2778033228, "level": 2}
+{"count": 12685, "name": "Dysentery", "weight": 0.0, "id": 2780708024, "level": 2}
+{"count": 6159, "name": "Scrapie", "weight": 0.0, "id": 2776735649, "level": 2}
+{"count": 8199, "name": "Mycoplasma pneumoniae", "weight": 0.0, "id": 2779215961, "level": 2}
+{"count": 6826, "name": "Bordetella pertussis", "weight": 0.0, "id": 2777582894, "level": 2}
+{"count": 4677, "name": "Cryptosporidium parvum", "weight": 0.0, "id": 2777795018, "level": 2}
+{"count": 6542, "name": "Enterococcus faecium", "weight": 0.0, "id": 2777677444, "level": 2}
+{"count": 9938, "name": "Bronchiolitis", "weight": 0.0, "id": 2778821649, "level": 2}
+{"count": 8290, "name": "Entamoeba histolytica", "weight": 0.0, "id": 2776867272, "level": 2}
+{"count": 6885, "name": "Legionella pneumophila", "weight": 0.0, "id": 2776118409, "level": 2}
+{"count": 6019, "name": "Ritonavir", "weight": 0.0, "id": 2779298103, "level": 2}
+{"count": 4298, "name": "Yersinia pestis", "weight": 0.0, "id": 2778222588, "level": 2}
+{"count": 9659, "name": "BALB/c", "weight": 0.0, "id": 2776529007, "level": 2}
+{"count": 4898, "name": "Nevirapine", "weight": 0.0, "id": 2779130552, "level": 2}
+{"count": 5638, "name": "Streptococcus agalactiae", "weight": 0.0, "id": 2777860557, "level": 2}
+{"count": 6487, "name": "Trypanosoma", "weight": 0.0, "id": 2779549974, "level": 2}
+{"count": 5747, "name": "Epidemic model", "weight": 0.0, "id": 1627819, "level": 2}
+{"count": 4036, "name": "Giardia lamblia", "weight": 0.0, "id": 2780626423, "level": 2}
+{"count": 7759, "name": "Meningoencephalitis", "weight": 0.0, "id": 2778621254, "level": 2}
+{"count": 4815, "name": "Shigella flexneri", "weight": 0.0, "id": 2781217973, "level": 2}
+{"count": 6029, "name": "Trichomonas vaginalis", "weight": 0.0, "id": 2781114625, "level": 2}
+{"count": 5748, "name": "Giardia", "weight": 0.0, "id": 2777271458, "level": 2}
+{"count": 6320, "name": "Legionella", "weight": 0.0, "id": 2779164008, "level": 2}
+{"count": 8183, "name": "Stomatitis", "weight": 0.0, "id": 2779051857, "level": 2}
+{"count": 5624, "name": "Q fever", "weight": 0.0, "id": 2780731870, "level": 2}
+{"count": 6891, "name": "Coccidiosis", "weight": 0.0, "id": 2776576699, "level": 2}
+{"count": 5561, "name": "Fasciola hepatica", "weight": 0.0, "id": 2777856171, "level": 2}
+{"count": 8343, "name": "Hepatology", "weight": 0.0, "id": 41260117, "level": 2}
+{"count": 5362, "name": "Tenofovir", "weight": 0.0, "id": 2779344132, "level": 2}
+{"count": 4202, "name": "Brucella abortus", "weight": 0.0, "id": 2778579951, "level": 2}
+{"count": 4667, "name": "Retinitis", "weight": 0.0, "id": 2777016524, "level": 2}
+{"count": 2250, "name": "Indinavir", "weight": 0.0, "id": 2777210460, "level": 2}
+{"count": 4892, "name": "Efavirenz", "weight": 0.0, "id": 2781432083, "level": 2}
+{"count": 8482, "name": "Corynebacterium", "weight": 0.0, "id": 2777911650, "level": 2}
+{"count": 9006, "name": "Brucella", "weight": 0.0, "id": 2780767784, "level": 2}
+{"count": 4411, "name": "Acanthamoeba", "weight": 0.0, "id": 2778868110, "level": 2}
+{"count": 4929, "name": "Latex fixation test", "weight": 0.0, "id": 37977956, "level": 2}
+{"count": 4639, "name": "Yersinia", "weight": 0.0, "id": 2776255393, "level": 2}
+{"count": 3773, "name": "Amantadine", "weight": 0.0, "id": 2777374534, "level": 2}
+{"count": 6755, "name": "Culex", "weight": 0.0, "id": 2779518617, "level": 2}
+{"count": 4461, "name": "Haemonchus contortus", "weight": 0.0, "id": 2779825395, "level": 2}
+{"count": 4584, "name": "Babesiosis", "weight": 0.0, "id": 2778145968, "level": 2}
+{"count": 4782, "name": "Intermediate host", "weight": 0.0, "id": 201997182, "level": 2}
+{"count": 2001, "name": "Suramin", "weight": 0.0, "id": 2776182878, "level": 2}
+{"count": 4406, "name": "Botulism", "weight": 0.0, "id": 2779186577, "level": 2}
+{"count": 5935, "name": "Moxifloxacin", "weight": 0.0, "id": 2778836808, "level": 2}
+{"count": 4593, "name": "Haemophilus", "weight": 0.0, "id": 2776402342, "level": 2}
+{"count": 4605, "name": "Trichinella spiralis", "weight": 0.0, "id": 2781320125, "level": 2}
+{"count": 3491, "name": "Wild boar", "weight": 0.0, "id": 2776222705, "level": 2}
+{"count": 3282, "name": "Francisella tularensis", "weight": 0.0, "id": 2780467176, "level": 2}
+{"count": 5900, "name": "Pasteurella multocida", "weight": 0.0, "id": 2776796551, "level": 2}
+{"count": 10434, "name": "Incubation period", "weight": 0.0, "id": 143701427, "level": 2}
+{"count": 3367, "name": "Neospora caninum", "weight": 0.0, "id": 2781154746, "level": 2}
+{"count": 3946, "name": "Basic reproduction number", "weight": 0.0, "id": 204264503, "level": 2}
+{"count": 2819, "name": "Burkholderia pseudomallei", "weight": 0.0, "id": 2779110727, "level": 2}
+{"count": 2993, "name": "Melioidosis", "weight": 0.0, "id": 2779775996, "level": 2}
+{"count": 3676, "name": "Psychodidae", "weight": 0.0, "id": 2777983519, "level": 2}
+{"count": 2663, "name": "Exotoxin", "weight": 0.0, "id": 2778723905, "level": 2}
+{"count": 3823, "name": "Coxiella burnetii", "weight": 0.0, "id": 2776607032, "level": 2}
+{"count": 3220, "name": "Viral tegument", "weight": 0.0, "id": 146998594, "level": 2}
+{"count": 2702, "name": "Pentamidine", "weight": 0.0, "id": 2777530519, "level": 2}
+{"count": 3245, "name": "Common variable immunodeficiency", "weight": 0.0, "id": 2776433325, "level": 2}
+{"count": 3663, "name": "Scrub typhus", "weight": 0.0, "id": 2779528086, "level": 2}
+{"count": 2992, "name": "relapsing fever", "weight": 0.0, "id": 2780977601, "level": 2}
+{"count": 4006, "name": "Culex pipiens", "weight": 0.0, "id": 2776442642, "level": 2}
+{"count": 178, "name": "Retinite", "weight": 0.0, "id": 2778524098, "level": 2}
+{"count": 3856, "name": "Culex quinquefasciatus", "weight": 0.0, "id": 2776217558, "level": 2}
+{"count": 5832, "name": "Scarlet fever", "weight": 0.0, "id": 503182166, "level": 2}
+{"count": 11568, "name": "Fowl", "weight": 0.0, "id": 2777654898, "level": 2}
+{"count": 2104, "name": "Cat-scratch disease", "weight": 0.0, "id": 2777534959, "level": 2}
+{"count": 2552, "name": "Yersinia pseudotuberculosis", "weight": 0.0, "id": 2777353990, "level": 2}
+{"count": 3446, "name": "Tularemia", "weight": 0.0, "id": 2775983634, "level": 2}
+{"count": 6168, "name": "Zika virus", "weight": 0.0, "id": 2777053367, "level": 2}
+{"count": 3607, "name": "Ureaplasma urealyticum", "weight": 0.0, "id": 2776672898, "level": 2}
+{"count": 22607, "name": "Tick", "weight": 0.0, "id": 2779620486, "level": 2}
+{"count": 1065, "name": "Cytolysin", "weight": 0.0, "id": 80595800, "level": 2}
+{"count": 2574, "name": "Bartonella", "weight": 0.0, "id": 2778256364, "level": 2}
+{"count": 5661, "name": "Babesia", "weight": 0.0, "id": 2780581805, "level": 2}
+{"count": 1239, "name": "Microsporidiosis", "weight": 0.0, "id": 2777965673, "level": 2}
+{"count": 4384, "name": "Epidemiological surveillance", "weight": 0.0, "id": 62558387, "level": 2}
+{"count": 4285, "name": "Neisseria", "weight": 0.0, "id": 2777954195, "level": 2}
+{"count": 2363, "name": "Paracoccidioidomycosis", "weight": 0.0, "id": 2779108831, "level": 2}
+{"count": 2760, "name": "Microbicides for sexually transmitted diseases", "weight": 0.0, "id": 117214928, "level": 2}
+{"count": 2920, "name": "Strongyloides stercoralis", "weight": 0.0, "id": 2778013117, "level": 2}
+{"count": 579, "name": "Permissiveness", "weight": 0.0, "id": 2777890099, "level": 2}
+{"count": 1839, "name": "Bartonella henselae", "weight": 0.0, "id": 2777535154, "level": 2}
+{"count": 2143, "name": "Paracoccidioides brasiliensis", "weight": 0.0, "id": 2777681368, "level": 2}
+{"count": 2686, "name": "Dirofilaria immitis", "weight": 0.0, "id": 2776355835, "level": 2}
+{"count": 7724, "name": "Eimeria", "weight": 0.0, "id": 2777976947, "level": 2}
+{"count": 2793, "name": "Ascaris suum", "weight": 0.0, "id": 2779845534, "level": 2}
+{"count": 3611, "name": "Keratoconjunctivitis", "weight": 0.0, "id": 2778064476, "level": 2}
+{"count": 5087, "name": "Pasteurella", "weight": 0.0, "id": 2779923002, "level": 2}
+{"count": 1661, "name": "Sparfloxacin", "weight": 0.0, "id": 2780926990, "level": 2}
+{"count": 20259, "name": "Heterologous", "weight": 0.0, "id": 2780115692, "level": 2}
+{"count": 2969, "name": "Toxocara canis", "weight": 0.0, "id": 2777541303, "level": 2}
+{"count": 1918, "name": "Chlamydia psittaci", "weight": 0.0, "id": 2777667758, "level": 2}
+{"count": 609, "name": "Idoxuridine", "weight": 0.0, "id": 2781088732, "level": 2}
+{"count": 1753, "name": "Rhodococcus equi", "weight": 0.0, "id": 2777581609, "level": 2}
+{"count": 1887, "name": "Mycoplasma hyopneumoniae", "weight": 0.0, "id": 2780383596, "level": 2}
+{"count": 798, "name": "Haemophilus ducreyi", "weight": 0.0, "id": 2777587943, "level": 2}
+{"count": 2389, "name": "Trichinella", "weight": 0.0, "id": 2777581317, "level": 2}
+{"count": 1291, "name": "Mycobacterium ulcerans", "weight": 0.0, "id": 2780661791, "level": 2}
+{"count": 2970, "name": "Anaplasma", "weight": 0.0, "id": 2777479583, "level": 2}
+{"count": 916, "name": "Penicillium marneffei", "weight": 0.0, "id": 2777788775, "level": 2}
+{"count": 3287, "name": "Actinobacillus", "weight": 0.0, "id": 2780728835, "level": 2}
+{"count": 683, "name": "Host factor", "weight": 0.0, "id": 2777627835, "level": 2}
+{"count": 19659, "name": "Infection rate", "weight": 0.0, "id": 2781254715, "level": 2}
+{"count": 1815, "name": "Bordetella bronchiseptica", "weight": 0.0, "id": 2777107318, "level": 2}
+{"count": 1421, "name": "Mycobacterium marinum", "weight": 0.0, "id": 2781119180, "level": 2}
+{"count": 1108, "name": "Theileria parva", "weight": 0.0, "id": 2778227789, "level": 2}
+{"count": 1857, "name": "Psittacosis", "weight": 0.0, "id": 2779155165, "level": 2}
+{"count": 5222, "name": "Taenia", "weight": 0.0, "id": 2777534236, "level": 2}
+{"count": 1322, "name": "Rhesus macaque", "weight": 0.0, "id": 2779175743, "level": 2}

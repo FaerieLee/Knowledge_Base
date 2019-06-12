@@ -1,0 +1,8 @@
+{"count": 1589, "name": "Arbitrary waveform generator", "weight": 10.0, "id": 108307224, "level": 3}
+{"count": 1173, "name": "Digital storage oscilloscope", "weight": 7.0, "id": 45851521, "level": 3}
+{"count": 1130, "name": "Waveform shaping", "weight": 7.0, "id": 2778840787, "level": 3}
+{"count": 678, "name": "Triangle wave", "weight": 4.0, "id": 176671788, "level": 3}
+{"count": 17, "name": "Golomb sequence", "weight": 0.0, "id": 2777036454, "level": 3}
+{"count": 109, "name": "Waveform monitor", "weight": 0.0, "id": 2776906542, "level": 3}
+{"count": 16, "name": "Waveform viewer", "weight": 0.0, "id": 2776153734, "level": 3}
+{"count": 15, "name": "Repeating waveforms", "weight": 0.0, "id": 2780471723, "level": 3}

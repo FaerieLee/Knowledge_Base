@@ -1,0 +1,29 @@
+{"count": 4016, "name": "American Sign Language", "weight": 10.0, "id": 2776737515, "level": 3}
+{"count": 588, "name": "Manual communication", "weight": 1.0, "id": 190553849, "level": 3}
+{"count": 1361, "name": "Deaf education", "weight": 3.0, "id": 2781296696, "level": 3}
+{"count": 695, "name": "British Sign Language", "weight": 1.0, "id": 2780443222, "level": 3}
+{"count": 3239, "name": "Language interpretation", "weight": 8.0, "id": 72280650, "level": 3}
+{"count": 895, "name": "Deaf culture", "weight": 2.0, "id": 2780041860, "level": 3}
+{"count": 236, "name": "Japanese Sign Language", "weight": 0.0, "id": 2779683550, "level": 3}
+{"count": 500, "name": "Brazilian Sign Language", "weight": 1.0, "id": 2778851091, "level": 3}
+{"count": 408, "name": "Fingerspelling", "weight": 1.0, "id": 2777124988, "level": 3}
+{"count": 183, "name": "French Sign Language", "weight": 0.0, "id": 2780450758, "level": 3}
+{"count": 532, "name": "Oralism", "weight": 1.0, "id": 46327701, "level": 3}
+{"count": 162, "name": "German Sign Language", "weight": 0.0, "id": 2777802600, "level": 3}
+{"count": 184, "name": "Italian Sign Language", "weight": 0.0, "id": 2780974652, "level": 3}
+{"count": 97, "name": "Greek Sign Language", "weight": 0.0, "id": 2781037632, "level": 3}
+{"count": 56, "name": "Israeli Sign Language", "weight": 0.0, "id": 2777774191, "level": 3}
+{"count": 158, "name": "SASL", "weight": 0.0, "id": 2777803269, "level": 3}
+{"count": 151, "name": "SignWriting", "weight": 0.0, "id": 2778074205, "level": 3}
+{"count": 81, "name": "Portuguese Sign Language", "weight": 0.0, "id": 2779198789, "level": 3}
+{"count": 195, "name": "Australian Sign Language", "weight": 0.0, "id": 2777887075, "level": 3}
+{"count": 35, "name": "Key word signing", "weight": 0.0, "id": 2777254992, "level": 3}
+{"count": 2783, "name": "Manually coded language", "weight": 6.0, "id": 125893350, "level": 3}
+{"count": 44, "name": "Video relay service", "weight": 0.0, "id": 2777432651, "level": 3}
+{"count": 42, "name": "Language deprivation", "weight": 0.0, "id": 2780384159, "level": 3}
+{"count": 10, "name": "Manual babbling", "weight": 0.0, "id": 2780238770, "level": 3}
+{"count": 16, "name": "Baby sign language", "weight": 0.0, "id": 2780664568, "level": 3}
+{"count": 13, "name": "Great ape language", "weight": 0.0, "id": 200349312, "level": 3}
+{"count": 8, "name": "Stokoe notation", "weight": 0.0, "id": 2776308226, "level": 3}
+{"count": 8, "name": "Hamburg Notation System", "weight": 0.0, "id": 2781256046, "level": 3}
+{"count": 61, "name": "At sign", "weight": 0.0, "id": 2781199799, "level": 3}

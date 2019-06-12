@@ -1,0 +1,92 @@
+{"count": 13288, "name": "Single-photon emission computed tomography", "weight": 5.0, "id": 2780441642, "level": 2}
+{"count": 11694, "name": "Molecular imaging", "weight": 4.0, "id": 136339569, "level": 2}
+{"count": 1166, "name": "Quaternary compound", "weight": 0.0, "id": 2778291079, "level": 2}
+{"count": 3061, "name": "Strontium-90", "weight": 1.0, "id": 108119643, "level": 2}
+{"count": 25780, "name": "PET-CT", "weight": 10.0, "id": 127077266, "level": 2}
+{"count": 6214, "name": "Technetium-99m", "weight": 2.0, "id": 4375535, "level": 2}
+{"count": 6146, "name": "Bone scintigraphy", "weight": 2.0, "id": 2776049877, "level": 2}
+{"count": 5327, "name": "Gamma camera", "weight": 2.0, "id": 2779610220, "level": 2}
+{"count": 941, "name": "Iodine-123", "weight": 0.0, "id": 2779190346, "level": 2}
+{"count": 792, "name": "Counts per minute", "weight": 0.0, "id": 50440113, "level": 2}
+{"count": 1211, "name": "Whole body counting", "weight": 0.0, "id": 61135363, "level": 2}
+{"count": 15896, "name": "Roentgen", "weight": 6.0, "id": 193544012, "level": 2}
+{"count": 857, "name": "Laboratory safety", "weight": 0.0, "id": 2781151872, "level": 2}
+{"count": 4676, "name": "Microbeam", "weight": 1.0, "id": 2777152588, "level": 2}
+{"count": 529, "name": "Gulf War syndrome", "weight": 0.0, "id": 2779217157, "level": 2}
+{"count": 1492, "name": "Thorotrast", "weight": 0.0, "id": 2780353417, "level": 2}
+{"count": 2874, "name": "Pertechnetate", "weight": 1.0, "id": 2778136224, "level": 2}
+{"count": 4119, "name": "Cumulative dose", "weight": 1.0, "id": 151032500, "level": 2}
+{"count": 1690, "name": "Radioactive tracer", "weight": 0.0, "id": 2779415379, "level": 2}
+{"count": 654, "name": "Becquerel", "weight": 0.0, "id": 35844672, "level": 2}
+{"count": 298, "name": "Chlormerodrin", "weight": 0.0, "id": 2780875356, "level": 2}
+{"count": 355, "name": "Patlak plot", "weight": 0.0, "id": 141301475, "level": 2}
+{"count": 1729, "name": "Monitor unit", "weight": 0.0, "id": 2781266606, "level": 2}
+{"count": 154, "name": "Selectron tube", "weight": 0.0, "id": 59002494, "level": 2}
+{"count": 186, "name": "Heliotropium indicum", "weight": 0.0, "id": 2778525062, "level": 2}
+{"count": 389, "name": "Sodium pertechnetate", "weight": 0.0, "id": 2780108503, "level": 2}
+{"count": 206, "name": "Nuclear fallout", "weight": 0.0, "id": 2780383739, "level": 2}
+{"count": 194, "name": "Gamma counter", "weight": 0.0, "id": 2776003864, "level": 2}
+{"count": 13, "name": "Ioflupane (123I)", "weight": 0.0, "id": 2778678928, "level": 2}
+{"count": 57, "name": "Transient equilibrium", "weight": 0.0, "id": 104756644, "level": 2}
+{"count": 105, "name": "Radiopharmacology", "weight": 0.0, "id": 148421799, "level": 2}
+{"count": 8, "name": "Thallium(I) sulfate", "weight": 0.0, "id": 2780665065, "level": 2}
+{"count": 1317, "name": "Lume", "weight": 0.0, "id": 206373111, "level": 2}
+{"count": 12, "name": "Medronic acid", "weight": 0.0, "id": 2778304030, "level": 2}
+{"count": 81, "name": "Well counter", "weight": 0.0, "id": 2781340377, "level": 2}
+{"count": 5, "name": "Indium(III) sulfate", "weight": 0.0, "id": 2776863249, "level": 2}
+{"count": 23, "name": "Bone seeker", "weight": 0.0, "id": 2780210863, "level": 2}
+{"count": 23, "name": "Mutagen X", "weight": 0.0, "id": 2781121192, "level": 2}
+{"count": 11, "name": "Edotreotide", "weight": 0.0, "id": 2776036503, "level": 2}
+{"count": 255, "name": "Cobalt therapy", "weight": 0.0, "id": 183717526, "level": 2}
+{"count": 136, "name": "Leaf gap", "weight": 0.0, "id": 152146699, "level": 2}
+{"count": 2, "name": "Technetium (99mTc) mebrofenin", "weight": 0.0, "id": 2780734251, "level": 2}
+{"count": 1, "name": "Technetium (99mTc) sulesomab", "weight": 0.0, "id": 2781029026, "level": 2}
+{"count": 33, "name": "Radium Girls", "weight": 0.0, "id": 2778813070, "level": 2}
+{"count": 3, "name": "Rubidium-82 chloride", "weight": 0.0, "id": 2775978213, "level": 2}
+{"count": 2, "name": "Crimes involving radioactive substances", "weight": 0.0, "id": 2777491727, "level": 2}
+{"count": 1, "name": "Bectumomab", "weight": 0.0, "id": 2780806136, "level": 2}
+{"count": 19, "name": "Project SUNSHINE", "weight": 0.0, "id": 2778987964, "level": 2}
+{"count": 1, "name": "Technetium (99mTc) nofetumomab merpentan", "weight": 0.0, "id": 2775998431, "level": 2}
+{"count": 1, "name": "Yttrium (90Y) tacatuzumab tetraxetan", "weight": 0.0, "id": 2775998064, "level": 2}
+{"count": 1, "name": "Three Mile Island accident health effects", "weight": 0.0, "id": 2781452823, "level": 2}
+{"count": 1, "name": "Indium (111In) capromab pendetide", "weight": 0.0, "id": 2777718388, "level": 2}
+{"count": 642, "name": "Cycle per second", "weight": 0.0, "id": 111023892, "level": 2}
+{"count": 7, "name": "Thallium(I) bromide", "weight": 0.0, "id": 2776163921, "level": 2}
+{"count": 5, "name": "Unsealed source radiotherapy", "weight": 0.0, "id": 2777601842, "level": 2}
+{"count": 4, "name": "Technetium(VII) oxide", "weight": 0.0, "id": 2775970093, "level": 2}
+{"count": 3, "name": "Radium jaw", "weight": 0.0, "id": 2778622037, "level": 2}
+{"count": 42, "name": "Cobalt bomb", "weight": 0.0, "id": 50671485, "level": 2}
+{"count": 16, "name": "Elbmarsch", "weight": 0.0, "id": 2776053345, "level": 2}
+{"count": 6, "name": "Shoe-fitting fluoroscope", "weight": 0.0, "id": 77023319, "level": 2}
+{"count": 3, "name": "Indium(III) fluoride", "weight": 0.0, "id": 2779846686, "level": 2}
+{"count": 6, "name": "Indium(III) hydroxide", "weight": 0.0, "id": 2779170335, "level": 2}
+{"count": 3, "name": "Radium dials", "weight": 0.0, "id": 207190485, "level": 2}
+{"count": 10, "name": "Isotopes of thallium", "weight": 0.0, "id": 2776516396, "level": 2}
+{"count": 19, "name": "Effects of the Chernobyl disaster", "weight": 0.0, "id": 2779142632, "level": 2}
+{"count": 1, "name": "Janus Experiments", "weight": 0.0, "id": 2779178978, "level": 2}
+{"count": 8, "name": "Undark", "weight": 0.0, "id": 206002868, "level": 2}
+{"count": 1, "name": "Technetium (99mTc) tilmanocept", "weight": 0.0, "id": 2777464892, "level": 2}
+{"count": 2, "name": "International Facility for Food Irradiation Technology", "weight": 0.0, "id": 2780977907, "level": 2}
+{"count": 7, "name": "Lead castle", "weight": 0.0, "id": 2778958584, "level": 2}
+{"count": 2, "name": "Low-background steel", "weight": 0.0, "id": 2779936869, "level": 2}
+{"count": 2, "name": "Small article monitor", "weight": 0.0, "id": 2780066949, "level": 2}
+{"count": 1, "name": "Technetium (99mTc) albumin aggregated", "weight": 0.0, "id": 2777071094, "level": 2}
+{"count": 3, "name": "Atomic veteran", "weight": 0.0, "id": 2779481365, "level": 2}
+{"count": 2, "name": "Radiation-induced thyroiditis", "weight": 0.0, "id": 2780411206, "level": 2}
+{"count": 8, "name": "Isotopes of indium", "weight": 0.0, "id": 2779623502, "level": 2}
+{"count": 1, "name": "Synthetic radioisotope", "weight": 0.0, "id": 2777968217, "level": 2}
+{"count": 1, "name": "Promethium(III) oxide", "weight": 0.0, "id": 2777342075, "level": 2}
+{"count": 3, "name": "PUVA keratosis", "weight": 0.0, "id": 2777899998, "level": 2}
+{"count": 1, "name": "Radioactive Incident Monitoring Network", "weight": 0.0, "id": 2780050891, "level": 2}
+{"count": 8, "name": "Gallium-68 generator", "weight": 0.0, "id": 2776843338, "level": 2}
+{"count": 5, "name": "Petkau effect", "weight": 0.0, "id": 2775898011, "level": 2}
+{"count": 69, "name": "Crossplane", "weight": 0.0, "id": 2781104899, "level": 2}
+{"count": 211, "name": "Chernobyl necklace", "weight": 0.0, "id": 163757990, "level": 2}
+{"count": 1, "name": "Wipe test counter", "weight": 0.0, "id": 2776061448, "level": 2}
+{"count": 4, "name": "Flutemetamol (18F)", "weight": 0.0, "id": 2779010715, "level": 2}
+{"count": 1, "name": "Sievert chamber", "weight": 0.0, "id": 104091169, "level": 2}
+{"count": 1, "name": "Radium and radon in the environment", "weight": 0.0, "id": 2780642927, "level": 2}
+{"count": 2, "name": "Thyroid blocker", "weight": 0.0, "id": 2776381867, "level": 2}
+{"count": 1, "name": "CD V-700", "weight": 0.0, "id": 178232759, "level": 2}
+{"count": 4, "name": "Tissue-to-air ratio", "weight": 0.0, "id": 2777016167, "level": 2}
+{"count": 4, "name": "Orders of magnitude (radiation)", "weight": 0.0, "id": 101432829, "level": 2}

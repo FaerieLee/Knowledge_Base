@@ -1,0 +1,8 @@
+{"count": 1490, "name": "Opt-in email", "weight": 10.0, "id": 160295073, "level": 5}
+{"count": 918, "name": "Email encryption", "weight": 6.0, "id": 172743858, "level": 5}
+{"count": 376, "name": "Email bomb", "weight": 2.0, "id": 173129296, "level": 5}
+{"count": 150, "name": "DomainKeys Identified Mail", "weight": 1.0, "id": 19296852, "level": 5}
+{"count": 814, "name": "Email address harvesting", "weight": 5.0, "id": 112488592, "level": 5}
+{"count": 48, "name": "DomainKeys", "weight": 0.0, "id": 113709819, "level": 5}
+{"count": 399, "name": "Email spoofing", "weight": 2.0, "id": 128053406, "level": 5}
+{"count": 1032, "name": "HTML email", "weight": 6.0, "id": 185902631, "level": 5}

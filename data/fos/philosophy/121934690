@@ -1,0 +1,27 @@
+{"count": 9790, "name": "Noun phrase", "weight": 10.0, "id": 153962237, "level": 3}
+{"count": 8745, "name": "Adjective", "weight": 8.0, "id": 2777683214, "level": 3}
+{"count": 2372, "name": "Grammatical gender", "weight": 2.0, "id": 192420165, "level": 3}
+{"count": 3342, "name": "Grammatical category", "weight": 3.0, "id": 206977991, "level": 3}
+{"count": 3433, "name": "Nominalization", "weight": 3.0, "id": 122295659, "level": 3}
+{"count": 2348, "name": "Genitive case", "weight": 2.0, "id": 5747526, "level": 3}
+{"count": 203, "name": "Mass noun", "weight": 0.0, "id": 2779737182, "level": 3}
+{"count": 320, "name": "Conceptual combination", "weight": 0.0, "id": 2779936901, "level": 3}
+{"count": 199, "name": "Count noun", "weight": 0.0, "id": 2779304623, "level": 3}
+{"count": 880, "name": "Declension", "weight": 0.0, "id": 23401460, "level": 3}
+{"count": 367, "name": "Noun class", "weight": 0.0, "id": 2779880101, "level": 3}
+{"count": 259, "name": "Verbal noun", "weight": 0.0, "id": 2778651087, "level": 3}
+{"count": 113, "name": "Construct state", "weight": 0.0, "id": 2779028527, "level": 3}
+{"count": 177, "name": "Measure word", "weight": 0.0, "id": 2779645042, "level": 3}
+{"count": 69, "name": "Denominal verb", "weight": 0.0, "id": 2779375076, "level": 3}
+{"count": 119, "name": "Collective noun", "weight": 0.0, "id": 2778957071, "level": 3}
+{"count": 27, "name": "Pro-form", "weight": 0.0, "id": 2779168923, "level": 3}
+{"count": 48, "name": "Agent noun", "weight": 0.0, "id": 2777034277, "level": 3}
+{"count": 72, "name": "Broken plural", "weight": 0.0, "id": 2780726924, "level": 3}
+{"count": 32, "name": "Chinese classifier", "weight": 0.0, "id": 2779283976, "level": 3}
+{"count": 164, "name": "English compound", "weight": 0.0, "id": 2778147775, "level": 3}
+{"count": 16, "name": "English plurals", "weight": 0.0, "id": 2780755296, "level": 3}
+{"count": 72, "name": "Spanish nouns", "weight": 0.0, "id": 2779145959, "level": 3}
+{"count": 98, "name": "German nouns", "weight": 0.0, "id": 2779001188, "level": 3}
+{"count": 25, "name": "Possessive determiner", "weight": 0.0, "id": 2777852159, "level": 3}
+{"count": 9, "name": "Verbnoun", "weight": 0.0, "id": 2778722963, "level": 3}
+{"count": 8, "name": "Romanian nouns", "weight": 0.0, "id": 2780173968, "level": 3}

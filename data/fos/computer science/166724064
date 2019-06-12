@@ -1,0 +1,19 @@
+{"count": 4497, "name": "Semantic integration", "weight": 3.0, "id": 110903229, "level": 3}
+{"count": 3015, "name": "Web Ontology Language", "weight": 2.0, "id": 101230327, "level": 3}
+{"count": 2916, "name": "Ontology language", "weight": 2.0, "id": 61673122, "level": 3}
+{"count": 1670, "name": "Prot\u00e9g\u00e9", "weight": 1.0, "id": 2779247653, "level": 3}
+{"count": 171, "name": "Foundational Model of Anatomy", "weight": 0.0, "id": 2777253655, "level": 3}
+{"count": 11466, "name": "Process ontology", "weight": 8.0, "id": 137003198, "level": 3}
+{"count": 216, "name": "Human Phenotype Ontology", "weight": 0.0, "id": 2780085675, "level": 3}
+{"count": 404, "name": "Abox", "weight": 0.0, "id": 2778221486, "level": 3}
+{"count": 78, "name": "Meta-ontology", "weight": 0.0, "id": 2778452634, "level": 3}
+{"count": 11460, "name": "Upper ontology", "weight": 8.0, "id": 78726541, "level": 3}
+{"count": 160, "name": "Disease Ontology", "weight": 0.0, "id": 2776381358, "level": 3}
+{"count": 14041, "name": "Ontology-based data integration", "weight": 10.0, "id": 22550185, "level": 3}
+{"count": 62, "name": "Cognitive ontology", "weight": 0.0, "id": 2778633634, "level": 3}
+{"count": 79, "name": "OntoClean", "weight": 0.0, "id": 2779706140, "level": 3}
+{"count": 80, "name": "CIDOC Conceptual Reference Model", "weight": 0.0, "id": 2777931464, "level": 3}
+{"count": 27, "name": "NeuroLex", "weight": 0.0, "id": 2777643468, "level": 3}
+{"count": 24, "name": "NeuroNames", "weight": 0.0, "id": 59914800, "level": 3}
+{"count": 28, "name": "Uberon", "weight": 0.0, "id": 196749747, "level": 3}
+{"count": 7, "name": "Ontogame", "weight": 0.0, "id": 2781010587, "level": 3}

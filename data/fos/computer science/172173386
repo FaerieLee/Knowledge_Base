@@ -1,0 +1,20 @@
+{"count": 2436, "name": "Industrial Ethernet", "weight": 5.0, "id": 167151114, "level": 3}
+{"count": 740, "name": "EtherCAT", "weight": 1.0, "id": 150079684, "level": 3}
+{"count": 211, "name": "Energy-Efficient Ethernet", "weight": 0.0, "id": 2781374625, "level": 3}
+{"count": 692, "name": "Fast Ethernet", "weight": 1.0, "id": 2777829825, "level": 3}
+{"count": 303, "name": "10 Gigabit Ethernet", "weight": 0.0, "id": 2780623290, "level": 3}
+{"count": 3558, "name": "Carrier Ethernet", "weight": 8.0, "id": 151898751, "level": 3}
+{"count": 4144, "name": "Synchronous Ethernet", "weight": 10.0, "id": 205215620, "level": 3}
+{"count": 869, "name": "Power over Ethernet", "weight": 2.0, "id": 2778956678, "level": 3}
+{"count": 122, "name": "TTEthernet", "weight": 0.0, "id": 2777176833, "level": 3}
+{"count": 102, "name": "Audio Video Bridging", "weight": 0.0, "id": 2779620376, "level": 3}
+{"count": 109, "name": "Physical Coding Sublayer", "weight": 0.0, "id": 2778530250, "level": 3}
+{"count": 32, "name": "LAN eXtensions for Instrumentation", "weight": 0.0, "id": 2779461506, "level": 3}
+{"count": 128, "name": "Fibre Channel over Ethernet", "weight": 0.0, "id": 2781002773, "level": 3}
+{"count": 38, "name": "Data center bridging", "weight": 0.0, "id": 2780386252, "level": 3}
+{"count": 53, "name": "Point-to-point protocol over Ethernet", "weight": 0.0, "id": 2780167146, "level": 3}
+{"count": 34, "name": "Interpacket gap", "weight": 0.0, "id": 2777366960, "level": 3}
+{"count": 92, "name": "Ethernet over coax", "weight": 0.0, "id": 2777841189, "level": 3}
+{"count": 50, "name": "Attachment Unit Interface", "weight": 0.0, "id": 2779603079, "level": 3}
+{"count": 40, "name": "EtherType", "weight": 0.0, "id": 2777799062, "level": 3}
+{"count": 21, "name": "Stream Reservation Protocol", "weight": 0.0, "id": 2776403300, "level": 3}

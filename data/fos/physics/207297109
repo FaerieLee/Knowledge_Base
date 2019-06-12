@@ -1,0 +1,16 @@
+{"count": 4043, "name": "Cosmic background radiation", "weight": 10.0, "id": 62796785, "level": 3}
+{"count": 1642, "name": "Non-Gaussianity", "weight": 4.0, "id": 152321242, "level": 3}
+{"count": 2658, "name": "CMB cold spot", "weight": 6.0, "id": 87485669, "level": 3}
+{"count": 81, "name": "Very Small Array", "weight": 0.0, "id": 2778868135, "level": 3}
+{"count": 49, "name": "TopHat", "weight": 0.0, "id": 2779789483, "level": 3}
+{"count": 203, "name": "Dipole anisotropy", "weight": 0.0, "id": 2778875687, "level": 3}
+{"count": 1143, "name": "Primordial fluctuations", "weight": 2.0, "id": 164008634, "level": 3}
+{"count": 124, "name": "HEALPix", "weight": 0.0, "id": 2780366145, "level": 3}
+{"count": 99, "name": "Archeops", "weight": 0.0, "id": 2779557236, "level": 3}
+{"count": 47, "name": "Conformal cyclic cosmology", "weight": 0.0, "id": 70039489, "level": 3}
+{"count": 48, "name": "QMAP", "weight": 0.0, "id": 2778904641, "level": 3}
+{"count": 31, "name": "CMBFAST", "weight": 0.0, "id": 2777067679, "level": 3}
+{"count": 42, "name": "BOOMERanG experiment", "weight": 0.0, "id": 2777805694, "level": 3}
+{"count": 16, "name": "COSMOSOMAS", "weight": 0.0, "id": 2779335606, "level": 3}
+{"count": 40, "name": "Diffusion damping", "weight": 0.0, "id": 2781416150, "level": 3}
+{"count": 11, "name": "Fast Fourier Transform Telescope", "weight": 0.0, "id": 2780319688, "level": 3}

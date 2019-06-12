@@ -1,0 +1,8 @@
+{"count": 230, "name": "Return-oriented programming", "weight": 8.0, "id": 2776761771, "level": 3}
+{"count": 121, "name": "Drive-by download", "weight": 4.0, "id": 2779129001, "level": 3}
+{"count": 280, "name": "Shellcode", "weight": 10.0, "id": 2778043833, "level": 3}
+{"count": 155, "name": "Address space layout randomization", "weight": 5.0, "id": 2776669157, "level": 3}
+{"count": 43, "name": "Arbitrary code execution", "weight": 1.0, "id": 2779004763, "level": 3}
+{"count": 25, "name": "Data Execution Prevention", "weight": 0.0, "id": 158957502, "level": 3}
+{"count": 37, "name": "Exploit kit", "weight": 1.0, "id": 2776762838, "level": 3}
+{"count": 20, "name": "Heap spraying", "weight": 0.0, "id": 2781285925, "level": 3}

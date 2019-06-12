@@ -1,0 +1,11 @@
+{"count": 8561, "name": "Linear circuit", "weight": 5.0, "id": 194571574, "level": 3}
+{"count": 1128, "name": "Constant phase element", "weight": 0.0, "id": 124579511, "level": 3}
+{"count": 642, "name": "Partial element equivalent circuit", "weight": 0.0, "id": 2780328198, "level": 3}
+{"count": 840, "name": "Th\u00e9venin's theorem", "weight": 0.0, "id": 540940223, "level": 3}
+{"count": 9331, "name": "RL circuit", "weight": 6.0, "id": 78457404, "level": 3}
+{"count": 11025, "name": "Discrete circuit", "weight": 7.0, "id": 188058453, "level": 3}
+{"count": 15533, "name": "Circuit extraction", "weight": 10.0, "id": 26490066, "level": 3}
+{"count": 229, "name": "Norton's theorem", "weight": 0.0, "id": 164673548, "level": 3}
+{"count": 793, "name": "Electrical resonance", "weight": 0.0, "id": 78610124, "level": 3}
+{"count": 55, "name": "Coefficients of potential", "weight": 0.0, "id": 2778758345, "level": 3}
+{"count": 122, "name": "Open-circuit time constant method", "weight": 0.0, "id": 116192949, "level": 3}

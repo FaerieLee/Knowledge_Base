@@ -1,0 +1,18 @@
+{"count": 1044, "name": "STM32", "weight": 10.0, "id": 2779096738, "level": 3}
+{"count": 1008, "name": "PIC microcontroller", "weight": 9.0, "id": 109243995, "level": 3}
+{"count": 260, "name": "In-system programming", "weight": 2.0, "id": 906780, "level": 3}
+{"count": 500, "name": "Multipoint control unit", "weight": 4.0, "id": 160103705, "level": 3}
+{"count": 217, "name": "MAX232", "weight": 2.0, "id": 2779833363, "level": 3}
+{"count": 200, "name": "Embedded C", "weight": 1.0, "id": 2778552832, "level": 3}
+{"count": 123, "name": "Advanced Microcontroller Bus Architecture", "weight": 1.0, "id": 2780424445, "level": 3}
+{"count": 154, "name": "Seven-segment display", "weight": 1.0, "id": 2779694141, "level": 3}
+{"count": 63, "name": "TI MSP430", "weight": 0.0, "id": 2777914257, "level": 3}
+{"count": 47, "name": "ARM Cortex-M", "weight": 0.0, "id": 2779554686, "level": 3}
+{"count": 241, "name": "Industrial data processing", "weight": 2.0, "id": 194392938, "level": 3}
+{"count": 74, "name": "Netduino", "weight": 0.0, "id": 164722558, "level": 3}
+{"count": 29, "name": "PBASIC", "weight": 0.0, "id": 119680611, "level": 3}
+{"count": 992, "name": "Computer-on-module", "weight": 9.0, "id": 2274777, "level": 3}
+{"count": 49, "name": "Output compare", "weight": 0.0, "id": 2776658486, "level": 3}
+{"count": 21, "name": "Intel HEX", "weight": 0.0, "id": 78460682, "level": 3}
+{"count": 30, "name": "DebugWIRE", "weight": 0.0, "id": 198730150, "level": 3}
+{"count": 31, "name": "PICkit", "weight": 0.0, "id": 2780011852, "level": 3}

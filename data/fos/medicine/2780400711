@@ -1,0 +1,22 @@
+{"count": 8272, "name": "Drug-eluting stent", "weight": 10.0, "id": 2777546689, "level": 5}
+{"count": 2710, "name": "Abciximab", "weight": 3.0, "id": 2777871224, "level": 5}
+{"count": 6874, "name": "TIMI", "weight": 8.0, "id": 2777995511, "level": 5}
+{"count": 2726, "name": "Bare-metal stent", "weight": 3.0, "id": 2779983491, "level": 5}
+{"count": 3109, "name": "Prasugrel", "weight": 3.0, "id": 2777028646, "level": 5}
+{"count": 2159, "name": "Tirofiban", "weight": 2.0, "id": 2776335557, "level": 5}
+{"count": 2753, "name": "Contrast-induced nephropathy", "weight": 3.0, "id": 2778569047, "level": 5}
+{"count": 1808, "name": "Bivalirudin", "weight": 2.0, "id": 2777565915, "level": 5}
+{"count": 1316, "name": "Eptifibatide", "weight": 1.0, "id": 2781056559, "level": 5}
+{"count": 837, "name": "No reflow phenomenon", "weight": 1.0, "id": 2778300992, "level": 5}
+{"count": 556, "name": "Glycoprotein IIb/IIIa inhibitors", "weight": 0.0, "id": 2777018355, "level": 5}
+{"count": 514, "name": "Cangrelor", "weight": 0.0, "id": 2776708134, "level": 5}
+{"count": 1201, "name": "Killip class", "weight": 1.0, "id": 2776045837, "level": 5}
+{"count": 796, "name": "Zotarolimus", "weight": 0.0, "id": 2780797203, "level": 5}
+{"count": 785, "name": "Door-to-balloon", "weight": 0.0, "id": 2780973277, "level": 5}
+{"count": 118, "name": "Pexelizumab", "weight": 0.0, "id": 2776831692, "level": 5}
+{"count": 218, "name": "Hybrid coronary revascularization", "weight": 0.0, "id": 2779297972, "level": 5}
+{"count": 131, "name": "Elinogrel", "weight": 0.0, "id": 2777869227, "level": 5}
+{"count": 120, "name": "Genous", "weight": 0.0, "id": 2780761025, "level": 5}
+{"count": 54, "name": "BareMetal", "weight": 0.0, "id": 2778077029, "level": 5}
+{"count": 14, "name": "Adenosine diphosphate receptor inhibitor", "weight": 0.0, "id": 2777639716, "level": 5}
+{"count": 260, "name": "Management of acute coronary syndrome", "weight": 0.0, "id": 2778601939, "level": 5}

@@ -1,0 +1,19 @@
+{"count": 7821, "name": "Prescription drug", "weight": 10.0, "id": 2778858636, "level": 3}
+{"count": 1520, "name": "Defined daily dose", "weight": 1.0, "id": 2776865356, "level": 3}
+{"count": 1020, "name": "Direct-to-consumer advertising", "weight": 1.0, "id": 2777250959, "level": 3}
+{"count": 1213, "name": "Electronic prescribing", "weight": 1.0, "id": 2777519982, "level": 3}
+{"count": 634, "name": "Pharmaceutical Benefits Scheme", "weight": 0.0, "id": 2778793514, "level": 3}
+{"count": 713, "name": "Controlled substance", "weight": 0.0, "id": 2777972796, "level": 3}
+{"count": 794, "name": "Copayment", "weight": 1.0, "id": 2779848557, "level": 3}
+{"count": 356, "name": "Drug diversion", "weight": 0.0, "id": 2776205216, "level": 3}
+{"count": 119, "name": "Drug Abuse Warning Network", "weight": 0.0, "id": 2778793849, "level": 3}
+{"count": 53, "name": "Green prescription", "weight": 0.0, "id": 2778887475, "level": 3}
+{"count": 26, "name": "Pharmacopoeia of the People's Republic of China", "weight": 0.0, "id": 2778013600, "level": 3}
+{"count": 57, "name": "Medicines Act 1968", "weight": 0.0, "id": 2778081460, "level": 3}
+{"count": 33, "name": "DailyMed", "weight": 0.0, "id": 2776387267, "level": 3}
+{"count": 34, "name": "Pill splitting", "weight": 0.0, "id": 2780463393, "level": 3}
+{"count": 22, "name": "Virtual pharmacy", "weight": 0.0, "id": 2780030461, "level": 3}
+{"count": 15, "name": "Generally recognized as safe and effective", "weight": 0.0, "id": 2780917892, "level": 3}
+{"count": 42, "name": "Auxiliary label", "weight": 0.0, "id": 2780812823, "level": 3}
+{"count": 24, "name": "Controlled Drugs and Substances Act", "weight": 0.0, "id": 2780271264, "level": 3}
+{"count": 21, "name": "Diaphone", "weight": 0.0, "id": 17833945, "level": 3}

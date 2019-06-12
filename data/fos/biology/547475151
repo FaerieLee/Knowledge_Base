@@ -1,0 +1,37 @@
+{"count": 29973, "name": "Enterobacteriaceae", "weight": 10.0, "id": 2778910516, "level": 3}
+{"count": 6782, "name": "Pilus", "weight": 2.0, "id": 174832134, "level": 3}
+{"count": 8175, "name": "Bacterial adhesin", "weight": 2.0, "id": 179470777, "level": 3}
+{"count": 6343, "name": "Proteus mirabilis", "weight": 2.0, "id": 2778039505, "level": 3}
+{"count": 5288, "name": "Shiga toxin", "weight": 1.0, "id": 2778411228, "level": 3}
+{"count": 5740, "name": "Escherichia", "weight": 1.0, "id": 2776985332, "level": 3}
+{"count": 3534, "name": "Fimbria", "weight": 1.0, "id": 39103817, "level": 3}
+{"count": 2933, "name": "Colicin", "weight": 0.0, "id": 168707992, "level": 3}
+{"count": 2947, "name": "Enterobacter aerogenes", "weight": 0.0, "id": 2776265613, "level": 3}
+{"count": 1679, "name": "Immunomagnetic separation", "weight": 0.0, "id": 2781053203, "level": 3}
+{"count": 2947, "name": "Pathogenicity island", "weight": 0.0, "id": 62130838, "level": 3}
+{"count": 2626, "name": "Citrobacter freundii", "weight": 0.0, "id": 2778709256, "level": 3}
+{"count": 1535, "name": "Coliphage", "weight": 0.0, "id": 2776336130, "level": 3}
+{"count": 3106, "name": "Proteus vulgaris", "weight": 1.0, "id": 2780662933, "level": 3}
+{"count": 594, "name": "Cytolethal distending toxin", "weight": 0.0, "id": 2778613527, "level": 3}
+{"count": 18, "name": "Signal peptidase I", "weight": 0.0, "id": 2780259783, "level": 3}
+{"count": 2149, "name": "Klebsiella pneumonia", "weight": 0.0, "id": 2776933286, "level": 3}
+{"count": 972, "name": "Heat-labile enterotoxin", "weight": 0.0, "id": 2778353597, "level": 3}
+{"count": 1073, "name": "Heat-stable enterotoxin", "weight": 0.0, "id": 96178990, "level": 3}
+{"count": 251, "name": "Bacteriophage T5", "weight": 0.0, "id": 2777286284, "level": 3}
+{"count": 522, "name": "Verocytotoxin", "weight": 0.0, "id": 2780943709, "level": 3}
+{"count": 983, "name": "Hfr cell", "weight": 0.0, "id": 109297637, "level": 3}
+{"count": 2248, "name": "Pathogenic Escherichia coli", "weight": 0.0, "id": 2779616913, "level": 3}
+{"count": 377, "name": "Petrifilm", "weight": 0.0, "id": 2778285112, "level": 3}
+{"count": 1400, "name": "MacConkey agar", "weight": 0.0, "id": 2775947960, "level": 3}
+{"count": 11, "name": "RRNA endonuclease", "weight": 0.0, "id": 2780842778, "level": 3}
+{"count": 267, "name": "Sorbitol-MacConkey agar", "weight": 0.0, "id": 2781430645, "level": 3}
+{"count": 144, "name": "P1 phage", "weight": 0.0, "id": 2778455157, "level": 3}
+{"count": 72, "name": "Colitose", "weight": 0.0, "id": 2780325624, "level": 3}
+{"count": 16, "name": "Ff phages", "weight": 0.0, "id": 2780367335, "level": 3}
+{"count": 316, "name": "Eosin methylene blue", "weight": 0.0, "id": 2781054133, "level": 3}
+{"count": 251, "name": "IMViC", "weight": 0.0, "id": 190945783, "level": 3}
+{"count": 37, "name": "Cotylelobium melanoxylon", "weight": 0.0, "id": 2777643269, "level": 3}
+{"count": 42, "name": "T3 phage", "weight": 0.0, "id": 2777563184, "level": 3}
+{"count": 21, "name": "L-ribulose-5-phosphate 4-epimerase", "weight": 0.0, "id": 2777213649, "level": 3}
+{"count": 23, "name": "Simmons' citrate agar", "weight": 0.0, "id": 2780944828, "level": 3}
+{"count": 75, "name": "Endo agar", "weight": 0.0, "id": 2779337245, "level": 3}

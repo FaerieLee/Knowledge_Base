@@ -1,0 +1,15 @@
+{"count": 24696, "name": "Dye-sensitized solar cell", "weight": 9.0, "id": 48421929, "level": 3}
+{"count": 9313, "name": "Thin film solar cell", "weight": 3.0, "id": 112183419, "level": 3}
+{"count": 24850, "name": "Polymer solar cell", "weight": 10.0, "id": 66187686, "level": 3}
+{"count": 9240, "name": "Copper indium gallium selenide solar cells", "weight": 3.0, "id": 191716631, "level": 3}
+{"count": 9471, "name": "Solar cell efficiency", "weight": 3.0, "id": 190168584, "level": 3}
+{"count": 17306, "name": "Crystalline silicon", "weight": 6.0, "id": 2779667780, "level": 3}
+{"count": 1029, "name": "Multijunction photovoltaic cell", "weight": 0.0, "id": 73949472, "level": 3}
+{"count": 2710, "name": "CZTS", "weight": 1.0, "id": 2779728058, "level": 3}
+{"count": 2318, "name": "Perovskite solar cell", "weight": 0.0, "id": 2780089039, "level": 3}
+{"count": 2087, "name": "Multiple exciton generation", "weight": 0.0, "id": 58041110, "level": 3}
+{"count": 149, "name": "Photoelectric efficiency", "weight": 0.0, "id": 2781439976, "level": 3}
+{"count": 54, "name": "Shadow loss", "weight": 0.0, "id": 2780431676, "level": 3}
+{"count": 24, "name": "Conveyor belt furnace", "weight": 0.0, "id": 2780055456, "level": 3}
+{"count": 32, "name": "Hot-point probe", "weight": 0.0, "id": 2777753429, "level": 3}
+{"count": 30, "name": "Price per watt", "weight": 0.0, "id": 2781286989, "level": 3}

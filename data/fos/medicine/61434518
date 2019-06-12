@@ -1,0 +1,200 @@
+{"count": 7156, "name": "Complication", "weight": 0.0, "id": 81182388, "level": 2}
+{"count": 414529, "name": "Carcinoma", "weight": 10.0, "id": 2777546739, "level": 2}
+{"count": 41361, "name": "Endoscopy", "weight": 0.0, "id": 2778451229, "level": 2}
+{"count": 205295, "name": "Biopsy", "weight": 4.0, "id": 2775934546, "level": 2}
+{"count": 117057, "name": "Stomach", "weight": 2.0, "id": 2779422922, "level": 2}
+{"count": 94640, "name": "Hepatocellular carcinoma", "weight": 2.0, "id": 2778019345, "level": 2}
+{"count": 55262, "name": "Laparoscopy", "weight": 1.0, "id": 2780047204, "level": 2}
+{"count": 60029, "name": "Small intestine", "weight": 1.0, "id": 2777882243, "level": 2}
+{"count": 33304, "name": "Gastrointestinal tract", "weight": 0.0, "id": 2780512811, "level": 2}
+{"count": 46641, "name": "Cytology", "weight": 1.0, "id": 18823058, "level": 2}
+{"count": 63813, "name": "Esophagus", "weight": 1.0, "id": 2777819096, "level": 2}
+{"count": 52232, "name": "Neoplasm", "weight": 1.0, "id": 2780635560, "level": 2}
+{"count": 58674, "name": "Abdomen", "weight": 1.0, "id": 2779983558, "level": 2}
+{"count": 39348, "name": "Adenoma", "weight": 0.0, "id": 2777428134, "level": 2}
+{"count": 62960, "name": "Lymphatic system", "weight": 1.0, "id": 181152851, "level": 2}
+{"count": 71706, "name": "Cyst", "weight": 1.0, "id": 2780597408, "level": 2}
+{"count": 40685, "name": "Duodenum", "weight": 0.0, "id": 2776809568, "level": 2}
+{"count": 11767, "name": "Peritoneum", "weight": 0.0, "id": 2776001837, "level": 2}
+{"count": 33189, "name": "Colitis", "weight": 0.0, "id": 2775862500, "level": 2}
+{"count": 30690, "name": "Larynx", "weight": 0.0, "id": 2780474809, "level": 2}
+{"count": 62265, "name": "Abdominal pain", "weight": 1.0, "id": 2780955771, "level": 2}
+{"count": 33909, "name": "Endometriosis", "weight": 0.0, "id": 2779522080, "level": 2}
+{"count": 21998, "name": "Biliary tract", "weight": 0.0, "id": 2775982439, "level": 2}
+{"count": 21205, "name": "Portal vein", "weight": 0.0, "id": 2779033008, "level": 2}
+{"count": 48690, "name": "Dysplasia", "weight": 1.0, "id": 2775894508, "level": 2}
+{"count": 27998, "name": "Laparoscopic surgery", "weight": 0.0, "id": 2776111594, "level": 2}
+{"count": 38781, "name": "Hernia", "weight": 0.0, "id": 2779096551, "level": 2}
+{"count": 49777, "name": "Abscess", "weight": 1.0, "id": 2777035434, "level": 2}
+{"count": 26795, "name": "Foreign body", "weight": 0.0, "id": 2779995113, "level": 2}
+{"count": 37122, "name": "Gallbladder", "weight": 0.0, "id": 2777148285, "level": 2}
+{"count": 42393, "name": "Hysterectomy", "weight": 1.0, "id": 2779494336, "level": 2}
+{"count": 8219, "name": "Cytopathology", "weight": 0.0, "id": 2778654104, "level": 2}
+{"count": 19108, "name": "Jejunum", "weight": 0.0, "id": 2776366702, "level": 2}
+{"count": 60322, "name": "Fistula", "weight": 1.0, "id": 2776341189, "level": 2}
+{"count": 35557, "name": "Cholecystectomy", "weight": 0.0, "id": 2776641081, "level": 2}
+{"count": 7457, "name": "Preoperative care", "weight": 0.0, "id": 2777722626, "level": 2}
+{"count": 18568, "name": "Microsurgery", "weight": 0.0, "id": 2781437307, "level": 2}
+{"count": 31693, "name": "Peritonitis", "weight": 0.0, "id": 2780199535, "level": 2}
+{"count": 16770, "name": "Parotid gland", "weight": 0.0, "id": 2780395140, "level": 2}
+{"count": 215170, "name": "Resection", "weight": 5.0, "id": 159110652, "level": 2}
+{"count": 25588, "name": "Dissection", "weight": 0.0, "id": 107533109, "level": 2}
+{"count": 25907, "name": "Ureter", "weight": 0.0, "id": 2776664737, "level": 2}
+{"count": 37836, "name": "Ascites", "weight": 0.0, "id": 2780496750, "level": 2}
+{"count": 23064, "name": "Pleural effusion", "weight": 0.0, "id": 2779634585, "level": 2}
+{"count": 35895, "name": "Laparotomy", "weight": 0.0, "id": 2780778865, "level": 2}
+{"count": 9601, "name": "Proton-pump inhibitor", "weight": 0.0, "id": 2781025758, "level": 2}
+{"count": 6139, "name": "Frozen section procedure", "weight": 0.0, "id": 95798472, "level": 2}
+{"count": 19887, "name": "Mediastinum", "weight": 0.0, "id": 2779126056, "level": 2}
+{"count": 70633, "name": "Anastomosis", "weight": 1.0, "id": 8443397, "level": 2}
+{"count": 29755, "name": "Dysphagia", "weight": 0.0, "id": 2780596822, "level": 2}
+{"count": 17369, "name": "Mesothelioma", "weight": 0.0, "id": 2777407522, "level": 2}
+{"count": 27276, "name": "Appendicitis", "weight": 0.0, "id": 2780016130, "level": 2}
+{"count": 26877, "name": "Pneumothorax", "weight": 0.0, "id": 2778329176, "level": 2}
+{"count": 13580, "name": "Leiomyoma", "weight": 0.0, "id": 2777795800, "level": 2}
+{"count": 13639, "name": "Teratoma", "weight": 0.0, "id": 2776057878, "level": 2}
+{"count": 11793, "name": "Varices", "weight": 0.0, "id": 2778012290, "level": 2}
+{"count": 14936, "name": "Abdominal surgery", "weight": 0.0, "id": 2780120127, "level": 2}
+{"count": 7203, "name": "Liver tumor", "weight": 0.0, "id": 2776964913, "level": 2}
+{"count": 11981, "name": "Lithotripsy", "weight": 0.0, "id": 2777950166, "level": 2}
+{"count": 10810, "name": "Fallopian tube", "weight": 0.0, "id": 2775883341, "level": 2}
+{"count": 18593, "name": "Common bile duct", "weight": 0.0, "id": 2776884468, "level": 2}
+{"count": 11005, "name": "Vulva", "weight": 0.0, "id": 2776316342, "level": 2}
+{"count": 8788, "name": "Cecum", "weight": 0.0, "id": 2777507495, "level": 2}
+{"count": 12004, "name": "Large intestine", "weight": 0.0, "id": 2776280935, "level": 2}
+{"count": 7845, "name": "Thoracoscopy", "weight": 0.0, "id": 2779056968, "level": 2}
+{"count": 12175, "name": "Colectomy", "weight": 0.0, "id": 2776667177, "level": 2}
+{"count": 10550, "name": "Rhabdomyosarcoma", "weight": 0.0, "id": 2780844630, "level": 2}
+{"count": 14228, "name": "Atresia", "weight": 0.0, "id": 2781149206, "level": 2}
+{"count": 20917, "name": "Thoracotomy", "weight": 0.0, "id": 2778847313, "level": 2}
+{"count": 20163, "name": "Abdominal wall", "weight": 0.0, "id": 2778754067, "level": 2}
+{"count": 76014, "name": "Lymph", "weight": 1.0, "id": 2779720271, "level": 2}
+{"count": 9041, "name": "Metaplasia", "weight": 0.0, "id": 2779357193, "level": 2}
+{"count": 6652, "name": "Fecal incontinence", "weight": 0.0, "id": 2776813522, "level": 2}
+{"count": 10732, "name": "Leiomyosarcoma", "weight": 0.0, "id": 2777532014, "level": 2}
+{"count": 6432, "name": "Primary sclerosing cholangitis", "weight": 0.0, "id": 2780615123, "level": 2}
+{"count": 8752, "name": "Thymoma", "weight": 0.0, "id": 2779159893, "level": 2}
+{"count": 8672, "name": "Hamartoma", "weight": 0.0, "id": 2775932916, "level": 2}
+{"count": 12019, "name": "Lipoma", "weight": 0.0, "id": 2776730994, "level": 2}
+{"count": 4519, "name": "Axilla", "weight": 0.0, "id": 2776608951, "level": 2}
+{"count": 10220, "name": "Peritoneal cavity", "weight": 0.0, "id": 2778536324, "level": 2}
+{"count": 9823, "name": "Endoscopic ultrasound", "weight": 0.0, "id": 2780390042, "level": 2}
+{"count": 8325, "name": "Hysteroscopy", "weight": 0.0, "id": 2775963564, "level": 2}
+{"count": 6707, "name": "Perineum", "weight": 0.0, "id": 2781163205, "level": 2}
+{"count": 10722, "name": "Blunt trauma", "weight": 0.0, "id": 2777521253, "level": 2}
+{"count": 5382, "name": "Cryosurgery", "weight": 0.0, "id": 2780106285, "level": 2}
+{"count": 10292, "name": "Scrotum", "weight": 0.0, "id": 2779491700, "level": 2}
+{"count": 9620, "name": "Empyema", "weight": 0.0, "id": 2777799383, "level": 2}
+{"count": 10327, "name": "Defecation", "weight": 0.0, "id": 108797546, "level": 2}
+{"count": 18036, "name": "Cholecystitis", "weight": 0.0, "id": 2780354107, "level": 2}
+{"count": 4677, "name": "Peritoneal fluid", "weight": 0.0, "id": 98055416, "level": 2}
+{"count": 8317, "name": "Robotic surgery", "weight": 0.0, "id": 103203806, "level": 2}
+{"count": 6726, "name": "Paraganglioma", "weight": 0.0, "id": 2776734335, "level": 2}
+{"count": 7174, "name": "Chondrosarcoma", "weight": 0.0, "id": 2776302905, "level": 2}
+{"count": 8551, "name": "Sclerotherapy", "weight": 0.0, "id": 2778230777, "level": 2}
+{"count": 6353, "name": "Actinomycosis", "weight": 0.0, "id": 2778768500, "level": 2}
+{"count": 7620, "name": "Gastrostomy", "weight": 0.0, "id": 2777014482, "level": 2}
+{"count": 8559, "name": "Cholangiography", "weight": 0.0, "id": 2777683338, "level": 2}
+{"count": 3373, "name": "Pelvic cavity", "weight": 0.0, "id": 2776140610, "level": 2}
+{"count": 8283, "name": "Fibroma", "weight": 0.0, "id": 2780724051, "level": 2}
+{"count": 7004, "name": "Capsule endoscopy", "weight": 0.0, "id": 2777333622, "level": 2}
+{"count": 10551, "name": "Neuroendocrine tumors", "weight": 0.0, "id": 2779066768, "level": 2}
+{"count": 29743, "name": "Appendix", "weight": 0.0, "id": 2776364125, "level": 2}
+{"count": 5747, "name": "Angiosarcoma", "weight": 0.0, "id": 2779217266, "level": 2}
+{"count": 9680, "name": "Enucleation", "weight": 0.0, "id": 188261085, "level": 2}
+{"count": 6146, "name": "Liposarcoma", "weight": 0.0, "id": 2779568860, "level": 2}
+{"count": 7960, "name": "Diverticulitis", "weight": 0.0, "id": 2777929615, "level": 2}
+{"count": 6242, "name": "Choriocarcinoma", "weight": 0.0, "id": 2780832733, "level": 2}
+{"count": 9017, "name": "Pneumoperitoneum", "weight": 0.0, "id": 2778746874, "level": 2}
+{"count": 3745, "name": "Eosinophilic esophagitis", "weight": 0.0, "id": 2781065132, "level": 2}
+{"count": 9550, "name": "Acute abdomen", "weight": 0.0, "id": 2778856562, "level": 2}
+{"count": 1893, "name": "Peutz\u2013Jeghers syndrome", "weight": 0.0, "id": 2778976891, "level": 2}
+{"count": 6265, "name": "Ileostomy", "weight": 0.0, "id": 2778773085, "level": 2}
+{"count": 12145, "name": "Schwannoma", "weight": 0.0, "id": 2781447767, "level": 2}
+{"count": 5386, "name": "Autotransplantation", "weight": 0.0, "id": 2778122501, "level": 2}
+{"count": 28849, "name": "Bile duct", "weight": 0.0, "id": 2779777945, "level": 2}
+{"count": 2565, "name": "Invagination", "weight": 0.0, "id": 132215199, "level": 2}
+{"count": 4437, "name": "Percutaneous endoscopic gastrostomy", "weight": 0.0, "id": 2780075904, "level": 2}
+{"count": 6624, "name": "Surgical pathology", "weight": 0.0, "id": 194495517, "level": 2}
+{"count": 8095, "name": "Colostomy", "weight": 0.0, "id": 2778766689, "level": 2}
+{"count": 8058, "name": "Submucosa", "weight": 0.0, "id": 2779052585, "level": 2}
+{"count": 10853, "name": "Enema", "weight": 0.0, "id": 2776530707, "level": 2}
+{"count": 4600, "name": "Mediastinitis", "weight": 0.0, "id": 2781101105, "level": 2}
+{"count": 2387, "name": "Rectus abdominis muscle", "weight": 0.0, "id": 2780788075, "level": 2}
+{"count": 5220, "name": "Lymphangioma", "weight": 0.0, "id": 2777857975, "level": 2}
+{"count": 3835, "name": "Situs inversus", "weight": 0.0, "id": 2779104077, "level": 2}
+{"count": 4130, "name": "Hirschsprung's disease", "weight": 0.0, "id": 2779089422, "level": 2}
+{"count": 4229, "name": "Dermoid cyst", "weight": 0.0, "id": 2781200033, "level": 2}
+{"count": 16391, "name": "Sphincter", "weight": 0.0, "id": 2780877482, "level": 2}
+{"count": 4269, "name": "Chylothorax", "weight": 0.0, "id": 2778373633, "level": 2}
+{"count": 2849, "name": "Solitary fibrous tumor", "weight": 0.0, "id": 2780071746, "level": 2}
+{"count": 2486, "name": "Abdominal compartment syndrome", "weight": 0.0, "id": 2778931659, "level": 2}
+{"count": 5287, "name": "Diaphragmatic hernia", "weight": 0.0, "id": 2777943237, "level": 2}
+{"count": 5024, "name": "Fibrin glue", "weight": 0.0, "id": 2781472170, "level": 2}
+{"count": 2765, "name": "Lithotomy position", "weight": 0.0, "id": 11024576, "level": 2}
+{"count": 3009, "name": "Hemangiopericytoma", "weight": 0.0, "id": 2777193977, "level": 2}
+{"count": 2134, "name": "Sphincter of Oddi", "weight": 0.0, "id": 2777891700, "level": 2}
+{"count": 4341, "name": "Mucocele", "weight": 0.0, "id": 2778741325, "level": 2}
+{"count": 1663, "name": "Umbilicus (mollusc)", "weight": 0.0, "id": 148805740, "level": 2}
+{"count": 3011, "name": "Megacolon", "weight": 0.0, "id": 2779222388, "level": 2}
+{"count": 2318, "name": "Argon plasma coagulation", "weight": 0.0, "id": 2778792578, "level": 2}
+{"count": 1525, "name": "Hemangiosarcoma", "weight": 0.0, "id": 2781082889, "level": 2}
+{"count": 3480, "name": "Fibromatosis", "weight": 0.0, "id": 2775983998, "level": 2}
+{"count": 3606, "name": "Mammaplasty", "weight": 0.0, "id": 2781037480, "level": 2}
+{"count": 3584, "name": "Diverticulosis", "weight": 0.0, "id": 2779329469, "level": 2}
+{"count": 2619, "name": "Retroperitoneal space", "weight": 0.0, "id": 2778623998, "level": 2}
+{"count": 11255, "name": "Ileus", "weight": 0.0, "id": 2777125728, "level": 2}
+{"count": 2211, "name": "Anal fissure", "weight": 0.0, "id": 2776967484, "level": 2}
+{"count": 3594, "name": "Cystadenoma", "weight": 0.0, "id": 2777798143, "level": 2}
+{"count": 135, "name": "Plicatura", "weight": 0.0, "id": 2780674886, "level": 2}
+{"count": 2384, "name": "Granular cell tumor", "weight": 0.0, "id": 2776394215, "level": 2}
+{"count": 7322, "name": "Volvulus", "weight": 0.0, "id": 2778324709, "level": 2}
+{"count": 3175, "name": "Esophagogastroduodenoscopy", "weight": 0.0, "id": 2781143854, "level": 2}
+{"count": 2620, "name": "Ileitis", "weight": 0.0, "id": 2780941987, "level": 2}
+{"count": 3343, "name": "Hydrocele", "weight": 0.0, "id": 2777143589, "level": 2}
+{"count": 10587, "name": "Groin", "weight": 0.0, "id": 2779967601, "level": 2}
+{"count": 5501, "name": "Hemorrhoids", "weight": 0.0, "id": 2779797108, "level": 2}
+{"count": 14373, "name": "Reconstructive surgery", "weight": 0.0, "id": 116558999, "level": 2}
+{"count": 8343, "name": "Major duodenal papilla", "weight": 0.0, "id": 134984996, "level": 2}
+{"count": 2982, "name": "Hemoperitoneum", "weight": 0.0, "id": 2778259530, "level": 2}
+{"count": 3776, "name": "Diverticular disease", "weight": 0.0, "id": 2776867784, "level": 2}
+{"count": 2249, "name": "Hemangioendothelioma", "weight": 0.0, "id": 2781113838, "level": 2}
+{"count": 3617, "name": "Spermatic cord", "weight": 0.0, "id": 2781237140, "level": 2}
+{"count": 3089, "name": "Jejunostomy", "weight": 0.0, "id": 2777355116, "level": 2}
+{"count": 2701, "name": "Lipomatosis", "weight": 0.0, "id": 2776754287, "level": 2}
+{"count": 12285, "name": "Conservative management", "weight": 0.0, "id": 2780904754, "level": 2}
+{"count": 5872, "name": "Pediatric surgery", "weight": 0.0, "id": 2780423258, "level": 2}
+{"count": 7776, "name": "Abdominal trauma", "weight": 0.0, "id": 2777379000, "level": 2}
+{"count": 4713, "name": "Hiatal hernia", "weight": 0.0, "id": 2778197217, "level": 2}
+{"count": 11429, "name": "Abdominal cavity", "weight": 0.0, "id": 2780936613, "level": 2}
+{"count": 1361, "name": "Natural orifice transluminal endoscopic surgery", "weight": 0.0, "id": 2780201146, "level": 2}
+{"count": 1477, "name": "Angiofibroma", "weight": 0.0, "id": 2781060204, "level": 2}
+{"count": 1724, "name": "Clonorchis sinensis", "weight": 0.0, "id": 2780238400, "level": 2}
+{"count": 11389, "name": "Bowel obstruction", "weight": 0.0, "id": 2779787475, "level": 2}
+{"count": 2834, "name": "Decortication", "weight": 0.0, "id": 2779688492, "level": 2}
+{"count": 2094, "name": "Imperforate anus", "weight": 0.0, "id": 2776127031, "level": 2}
+{"count": 1751, "name": "Cystadenocarcinoma", "weight": 0.0, "id": 2780964533, "level": 2}
+{"count": 2736, "name": "Gastric outlet obstruction", "weight": 0.0, "id": 2780475097, "level": 2}
+{"count": 409, "name": "Serous membrane", "weight": 0.0, "id": 2781397176, "level": 2}
+{"count": 1197, "name": "Porta hepatis", "weight": 0.0, "id": 2778753661, "level": 2}
+{"count": 2600, "name": "Testicular torsion", "weight": 0.0, "id": 2779170295, "level": 2}
+{"count": 2582, "name": "Evisceration (ophthalmology)", "weight": 0.0, "id": 2778206439, "level": 2}
+{"count": 4081, "name": "Seroma", "weight": 0.0, "id": 2779409168, "level": 2}
+{"count": 1181, "name": "Tracheomalacia", "weight": 0.0, "id": 2778974821, "level": 2}
+{"count": 1490, "name": "Orchiopexy", "weight": 0.0, "id": 2778661064, "level": 2}
+{"count": 1609, "name": "Mucinous cystadenoma", "weight": 0.0, "id": 2776313812, "level": 2}
+{"count": 3102, "name": "Enteroscopy", "weight": 0.0, "id": 2780970106, "level": 2}
+{"count": 3649, "name": "Foregut", "weight": 0.0, "id": 170774537, "level": 2}
+{"count": 1764, "name": "Inferior mesenteric artery", "weight": 0.0, "id": 2780601773, "level": 2}
+{"count": 5247, "name": "Abdominal distension", "weight": 0.0, "id": 2779124032, "level": 2}
+{"count": 997, "name": "Opisthorchis viverrini", "weight": 0.0, "id": 2778040090, "level": 2}
+{"count": 7771, "name": "Sigmoid colon", "weight": 0.0, "id": 2776870353, "level": 2}
+{"count": 1435, "name": "Phyllodes tumor", "weight": 0.0, "id": 2780567641, "level": 2}
+{"count": 3562, "name": "Meckel's diverticulum", "weight": 0.0, "id": 2778353619, "level": 2}
+{"count": 1273, "name": "Chyle", "weight": 0.0, "id": 2779869998, "level": 2}
+{"count": 3311, "name": "Melena", "weight": 0.0, "id": 2777424391, "level": 2}
+{"count": 1341, "name": "Epithelioid hemangioendothelioma", "weight": 0.0, "id": 2780685469, "level": 2}
+{"count": 1253, "name": "Lymphocele", "weight": 0.0, "id": 2776052674, "level": 2}
+{"count": 2264, "name": "Abdominoplasty", "weight": 0.0, "id": 2781428721, "level": 2}
+{"count": 4447, "name": "Cosmesis", "weight": 0.0, "id": 2780943399, "level": 2}
+{"count": 8444, "name": "Benign tumor", "weight": 0.0, "id": 2781105203, "level": 2}

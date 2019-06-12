@@ -1,0 +1,11 @@
+{"count": 3255, "name": "Active power filter", "weight": 1.0, "id": 2779187506, "level": 4}
+{"count": 10136, "name": "Power-flow study", "weight": 5.0, "id": 181361822, "level": 4}
+{"count": 4986, "name": "Static VAR compensator", "weight": 2.0, "id": 10349047, "level": 4}
+{"count": 2595, "name": "Flexible AC transmission system", "weight": 1.0, "id": 58679568, "level": 4}
+{"count": 2294, "name": "Unified power flow controller", "weight": 1.0, "id": 2776352172, "level": 4}
+{"count": 1985, "name": "Low voltage ride through", "weight": 1.0, "id": 2780438294, "level": 4}
+{"count": 1082, "name": "Grid code", "weight": 0.0, "id": 2778059551, "level": 4}
+{"count": 17471, "name": "Voltage optimisation", "weight": 10.0, "id": 46529443, "level": 4}
+{"count": 57, "name": "Valley-fill circuit", "weight": 0.0, "id": 2778811843, "level": 4}
+{"count": 121, "name": "Utility frequency", "weight": 0.0, "id": 93765304, "level": 4}
+{"count": 8, "name": "Variable shunt reactor", "weight": 0.0, "id": 2778209000, "level": 4}

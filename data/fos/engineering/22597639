@@ -1,0 +1,12 @@
+{"count": 1101, "name": "Quadrature mirror filter", "weight": 0.0, "id": 64621657, "level": 3}
+{"count": 1674, "name": "Recursive filter", "weight": 1.0, "id": 70518719, "level": 3}
+{"count": 513, "name": "Remez algorithm", "weight": 0.0, "id": 93195954, "level": 3}
+{"count": 1260, "name": "Reconstruction filter", "weight": 0.0, "id": 41578188, "level": 3}
+{"count": 317, "name": "Separable filter", "weight": 0.0, "id": 206848076, "level": 3}
+{"count": 11172, "name": "Kernel adaptive filter", "weight": 7.0, "id": 13107197, "level": 3}
+{"count": 214, "name": "Polyphase matrix", "weight": 0.0, "id": 81962532, "level": 3}
+{"count": 200, "name": "Canonical signed digit", "weight": 0.0, "id": 2778710392, "level": 3}
+{"count": 14649, "name": "Root-raised-cosine filter", "weight": 10.0, "id": 76826599, "level": 3}
+{"count": 26, "name": "Kautz filter", "weight": 0.0, "id": 2777466447, "level": 3}
+{"count": 20, "name": "Digital waveguide synthesis", "weight": 0.0, "id": 2778545397, "level": 3}
+{"count": 13120, "name": "m-derived filter", "weight": 8.0, "id": 156930551, "level": 3}

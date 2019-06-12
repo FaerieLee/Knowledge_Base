@@ -1,0 +1,200 @@
+{"count": 83399, "name": "Air pollution", "weight": 3.0, "id": 559116025, "level": 2}
+{"count": 69650, "name": "Water pollution", "weight": 3.0, "id": 90195498, "level": 2}
+{"count": 209401, "name": "Pollution", "weight": 10.0, "id": 521259446, "level": 2}
+{"count": 160373, "name": "Water quality", "weight": 7.0, "id": 2780797713, "level": 2}
+{"count": 79894, "name": "Surface water", "weight": 3.0, "id": 8625798, "level": 2}
+{"count": 187729, "name": "Wastewater", "weight": 8.0, "id": 94061648, "level": 2}
+{"count": 127615, "name": "Contamination", "weight": 6.0, "id": 112570922, "level": 2}
+{"count": 134070, "name": "Pollutant", "weight": 6.0, "id": 82685317, "level": 2}
+{"count": 114292, "name": "Sewage treatment", "weight": 5.0, "id": 57442070, "level": 2}
+{"count": 70042, "name": "Water treatment", "weight": 3.0, "id": 190960625, "level": 2}
+{"count": 90617, "name": "Water supply", "weight": 4.0, "id": 97053079, "level": 2}
+{"count": 59816, "name": "Air quality index", "weight": 2.0, "id": 126314574, "level": 2}
+{"count": 58737, "name": "Municipal solid waste", "weight": 2.0, "id": 75779659, "level": 2}
+{"count": 122527, "name": "Sludge", "weight": 5.0, "id": 59856384, "level": 2}
+{"count": 24118, "name": "Environmental monitoring", "weight": 1.0, "id": 539469273, "level": 2}
+{"count": 110139, "name": "Filtration", "weight": 5.0, "id": 111547070, "level": 2}
+{"count": 31381, "name": "Waste treatment", "weight": 1.0, "id": 65545243, "level": 2}
+{"count": 11583, "name": "Volatile organic compound", "weight": 0.0, "id": 2778150766, "level": 2}
+{"count": 38716, "name": "Eutrophication", "weight": 1.0, "id": 186699998, "level": 2}
+{"count": 25454, "name": "Bioremediation", "weight": 1.0, "id": 2124996, "level": 2}
+{"count": 77837, "name": "Sewage", "weight": 3.0, "id": 58790150, "level": 2}
+{"count": 66065, "name": "Hazardous waste", "weight": 3.0, "id": 22507642, "level": 2}
+{"count": 43571, "name": "Pipeline transport", "weight": 2.0, "id": 175309249, "level": 2}
+{"count": 7357, "name": "Health effect", "weight": 0.0, "id": 2777617796, "level": 2}
+{"count": 20865, "name": "Industrial waste", "weight": 0.0, "id": 2781224309, "level": 2}
+{"count": 72758, "name": "Amine gas treating", "weight": 3.0, "id": 131779359, "level": 2}
+{"count": 30406, "name": "Petroleum industry", "weight": 1.0, "id": 526740375, "level": 2}
+{"count": 13156, "name": "Chemical industry", "weight": 0.0, "id": 12404463, "level": 2}
+{"count": 12639, "name": "Acid rain", "weight": 0.0, "id": 71827079, "level": 2}
+{"count": 95267, "name": "Effluent", "weight": 4.0, "id": 147455438, "level": 2}
+{"count": 24624, "name": "Leachate", "weight": 1.0, "id": 16925390, "level": 2}
+{"count": 38591, "name": "Sanitation", "weight": 1.0, "id": 2780151969, "level": 2}
+{"count": 99341, "name": "Slurry", "weight": 4.0, "id": 94293008, "level": 2}
+{"count": 44417, "name": "Environmental remediation", "weight": 2.0, "id": 522964758, "level": 2}
+{"count": 17215, "name": "Petrochemical", "weight": 0.0, "id": 170573351, "level": 2}
+{"count": 2927, "name": "Persistent organic pollutant", "weight": 0.0, "id": 2776044436, "level": 2}
+{"count": 42531, "name": "Incineration", "weight": 2.0, "id": 130751788, "level": 2}
+{"count": 22134, "name": "Biodegradable waste", "weight": 1.0, "id": 13080248, "level": 2}
+{"count": 14044, "name": "Suspended solids", "weight": 0.0, "id": 19570952, "level": 2}
+{"count": 16755, "name": "Portable water purification", "weight": 0.0, "id": 92376884, "level": 2}
+{"count": 9362, "name": "Process optimization", "weight": 0.0, "id": 115952470, "level": 2}
+{"count": 7107, "name": "Acid mine drainage", "weight": 0.0, "id": 2779889824, "level": 2}
+{"count": 8500, "name": "Cryptosporidium", "weight": 0.0, "id": 2778877831, "level": 2}
+{"count": 48084, "name": "Leak", "weight": 2.0, "id": 2780378346, "level": 2}
+{"count": 8766, "name": "Biofilter", "weight": 0.0, "id": 49671963, "level": 2}
+{"count": 15775, "name": "Tap water", "weight": 0.0, "id": 17538187, "level": 2}
+{"count": 7461, "name": "Coliform bacteria", "weight": 0.0, "id": 2778788645, "level": 2}
+{"count": 31931, "name": "Settling", "weight": 1.0, "id": 173209714, "level": 2}
+{"count": 47399, "name": "Piping", "weight": 2.0, "id": 2779095084, "level": 2}
+{"count": 26315, "name": "Rainwater harvesting", "weight": 1.0, "id": 83419821, "level": 2}
+{"count": 1290, "name": "Critical load", "weight": 0.0, "id": 2777457327, "level": 2}
+{"count": 7714, "name": "Sewerage", "weight": 0.0, "id": 165895018, "level": 2}
+{"count": 9711, "name": "Food waste", "weight": 0.0, "id": 2777499484, "level": 2}
+{"count": 14739, "name": "Refinery", "weight": 0.0, "id": 105168734, "level": 2}
+{"count": 6348, "name": "Sanitary sewer", "weight": 0.0, "id": 190714865, "level": 2}
+{"count": 4999, "name": "Polybrominated diphenyl ethers", "weight": 0.0, "id": 2780990795, "level": 2}
+{"count": 6447, "name": "Chemical plant", "weight": 0.0, "id": 5311032, "level": 2}
+{"count": 1494, "name": "Petrochemistry", "weight": 0.0, "id": 62692923, "level": 2}
+{"count": 854, "name": "Beneficial use", "weight": 0.0, "id": 2776490458, "level": 2}
+{"count": 1710, "name": "Thermal pollution", "weight": 0.0, "id": 167290972, "level": 2}
+{"count": 2307, "name": "Material flow analysis", "weight": 0.0, "id": 116399919, "level": 2}
+{"count": 1661, "name": "Sanitary engineering", "weight": 0.0, "id": 63809698, "level": 2}
+{"count": 2926, "name": "Bottled water", "weight": 0.0, "id": 2778632158, "level": 2}
+{"count": 2298, "name": "Indoor bioaerosol", "weight": 0.0, "id": 83230799, "level": 2}
+{"count": 13438, "name": "Continuous production", "weight": 0.0, "id": 2780548022, "level": 2}
+{"count": 1718, "name": "Indicator organism", "weight": 0.0, "id": 191839390, "level": 2}
+{"count": 35224, "name": "Boom", "weight": 1.0, "id": 141441539, "level": 2}
+{"count": 2477, "name": "Trenchless technology", "weight": 0.0, "id": 532881642, "level": 2}
+{"count": 1197, "name": "Geosmin", "weight": 0.0, "id": 2777358917, "level": 2}
+{"count": 1097, "name": "Human waste", "weight": 0.0, "id": 2781143366, "level": 2}
+{"count": 1948, "name": "Light pollution", "weight": 0.0, "id": 161421721, "level": 2}
+{"count": 1612, "name": "Gravity separation", "weight": 0.0, "id": 44514898, "level": 2}
+{"count": 2035, "name": "Process safety", "weight": 0.0, "id": 80038721, "level": 2}
+{"count": 871, "name": "Hybrid reactor", "weight": 0.0, "id": 2776568956, "level": 2}
+{"count": 314, "name": "K factor", "weight": 0.0, "id": 2777851029, "level": 2}
+{"count": 555, "name": "Best available technology", "weight": 0.0, "id": 2779732133, "level": 2}
+{"count": 1377, "name": "Environmental hazard", "weight": 0.0, "id": 2778384729, "level": 2}
+{"count": 4908, "name": "Water pumping", "weight": 0.0, "id": 48102754, "level": 2}
+{"count": 9304, "name": "Backflow", "weight": 0.0, "id": 120168410, "level": 2}
+{"count": 1654, "name": "Municipal or urban engineering", "weight": 0.0, "id": 171834893, "level": 2}
+{"count": 2041, "name": "Water safety", "weight": 0.0, "id": 2779386820, "level": 2}
+{"count": 797, "name": "Water-energy nexus", "weight": 0.0, "id": 113360713, "level": 2}
+{"count": 1188, "name": "Source reduction", "weight": 0.0, "id": 25454317, "level": 2}
+{"count": 48313, "name": "Toilet", "weight": 2.0, "id": 2778357586, "level": 2}
+{"count": 2293, "name": "Return flow", "weight": 0.0, "id": 2780793598, "level": 2}
+{"count": 583, "name": "Waste minimisation", "weight": 0.0, "id": 2776092195, "level": 2}
+{"count": 533, "name": "Plumbing fixture", "weight": 0.0, "id": 2776326004, "level": 2}
+{"count": 827, "name": "Commodity chemicals", "weight": 0.0, "id": 179720865, "level": 2}
+{"count": 28086, "name": "Shower", "weight": 1.0, "id": 2776732256, "level": 2}
+{"count": 422, "name": "Concentrated Animal Feeding Operation", "weight": 0.0, "id": 195820711, "level": 2}
+{"count": 155, "name": "Environmental systems analysis", "weight": 0.0, "id": 2776370323, "level": 2}
+{"count": 8737, "name": "Water cooler", "weight": 0.0, "id": 199306537, "level": 2}
+{"count": 2904, "name": "Skimmer (machine)", "weight": 0.0, "id": 21844886, "level": 2}
+{"count": 16324, "name": "Funnel", "weight": 0.0, "id": 17435862, "level": 2}
+{"count": 622, "name": "Evaporation pond", "weight": 0.0, "id": 11538654, "level": 2}
+{"count": 184, "name": "Ecotechnology", "weight": 0.0, "id": 74872398, "level": 2}
+{"count": 485, "name": "Management contract", "weight": 0.0, "id": 2780110997, "level": 2}
+{"count": 337, "name": "Chemical accident", "weight": 0.0, "id": 2777060788, "level": 2}
+{"count": 1002, "name": "Water district", "weight": 0.0, "id": 2778018093, "level": 2}
+{"count": 930, "name": "Speciality chemicals", "weight": 0.0, "id": 142692745, "level": 2}
+{"count": 322, "name": "Gasworks", "weight": 0.0, "id": 104404889, "level": 2}
+{"count": 173, "name": "Clean-in-place", "weight": 0.0, "id": 115755474, "level": 2}
+{"count": 1366, "name": "Pressure exchanger", "weight": 0.0, "id": 160394919, "level": 2}
+{"count": 209, "name": "Synthetic musk", "weight": 0.0, "id": 2777831602, "level": 2}
+{"count": 137, "name": "Lead abatement", "weight": 0.0, "id": 2778780766, "level": 2}
+{"count": 149, "name": "Automotive shredder residue", "weight": 0.0, "id": 2776192439, "level": 2}
+{"count": 91, "name": "2-Nitrofluorene", "weight": 0.0, "id": 2778837817, "level": 2}
+{"count": 363, "name": "Oil terminal", "weight": 0.0, "id": 165013921, "level": 2}
+{"count": 215, "name": "Halimeter", "weight": 0.0, "id": 2779113534, "level": 2}
+{"count": 323, "name": "Household chemicals", "weight": 0.0, "id": 539512883, "level": 2}
+{"count": 133, "name": "Polychlorinated naphthalene", "weight": 0.0, "id": 2776011734, "level": 2}
+{"count": 391, "name": "Clarifying agent", "weight": 0.0, "id": 2780573285, "level": 2}
+{"count": 302, "name": "Polyhexamethylene guanidine", "weight": 0.0, "id": 2777132697, "level": 2}
+{"count": 1242, "name": "Midstream", "weight": 0.0, "id": 2776941364, "level": 2}
+{"count": 56, "name": "Riopa", "weight": 0.0, "id": 2776242134, "level": 2}
+{"count": 96, "name": "Living machine", "weight": 0.0, "id": 2776666329, "level": 2}
+{"count": 154, "name": "Sewer gas", "weight": 0.0, "id": 2779203785, "level": 2}
+{"count": 74, "name": "Green Bridge", "weight": 0.0, "id": 2777608174, "level": 2}
+{"count": 115, "name": "Dust abatement", "weight": 0.0, "id": 2776542084, "level": 2}
+{"count": 350, "name": "Dry well", "weight": 0.0, "id": 178604515, "level": 2}
+{"count": 22, "name": "Landfill fire", "weight": 0.0, "id": 2781317239, "level": 2}
+{"count": 13, "name": "Clay\u2013water interaction", "weight": 0.0, "id": 2780219406, "level": 2}
+{"count": 1569, "name": "Holding tank", "weight": 0.0, "id": 2781385195, "level": 2}
+{"count": 506, "name": "Screen filter", "weight": 0.0, "id": 2779325788, "level": 2}
+{"count": 271, "name": "Water chemistry analysis", "weight": 0.0, "id": 184947814, "level": 2}
+{"count": 56, "name": "Milli-Q", "weight": 0.0, "id": 122885789, "level": 2}
+{"count": 55, "name": "Atmospheric water generator", "weight": 0.0, "id": 2781270687, "level": 2}
+{"count": 27, "name": "Lomandra longifolia", "weight": 0.0, "id": 2777385330, "level": 2}
+{"count": 199, "name": "TA Luft", "weight": 0.0, "id": 2780512908, "level": 2}
+{"count": 70, "name": "Utility location", "weight": 0.0, "id": 2777204808, "level": 2}
+{"count": 304, "name": "Flow splitter", "weight": 0.0, "id": 2778911505, "level": 2}
+{"count": 507, "name": "Dust collection system", "weight": 0.0, "id": 2781264928, "level": 2}
+{"count": 476, "name": "Wet wipe", "weight": 0.0, "id": 2780863912, "level": 2}
+{"count": 294, "name": "Bubble bath", "weight": 0.0, "id": 2780395612, "level": 2}
+{"count": 153, "name": "Industrial fire", "weight": 0.0, "id": 2776385305, "level": 2}
+{"count": 240, "name": "Oil production plant", "weight": 0.0, "id": 2776250542, "level": 2}
+{"count": 14, "name": "4-Methylcyclohexanemethanol", "weight": 0.0, "id": 2780277421, "level": 2}
+{"count": 8, "name": "Sandoz chemical spill", "weight": 0.0, "id": 2778881819, "level": 2}
+{"count": 120, "name": "Trap (plumbing)", "weight": 0.0, "id": 121099081, "level": 2}
+{"count": 59, "name": "Methyl pentanoate", "weight": 0.0, "id": 2776780067, "level": 2}
+{"count": 78, "name": "Waste pond", "weight": 0.0, "id": 2775897094, "level": 2}
+{"count": 141, "name": "NeSSI", "weight": 0.0, "id": 116493170, "level": 2}
+{"count": 403, "name": "Bar screen", "weight": 0.0, "id": 2778125025, "level": 2}
+{"count": 121, "name": "Water spot", "weight": 0.0, "id": 194997853, "level": 2}
+{"count": 7, "name": "1-Tridecanol", "weight": 0.0, "id": 2781417221, "level": 2}
+{"count": 12, "name": "Stainless steel strainer", "weight": 0.0, "id": 2778349738, "level": 2}
+{"count": 2, "name": "Lomatium cookii", "weight": 0.0, "id": 2777247099, "level": 2}
+{"count": 3, "name": "Nelson complexity index", "weight": 0.0, "id": 191117890, "level": 2}
+{"count": 37, "name": "Mining in Brazil", "weight": 0.0, "id": 2778763985, "level": 2}
+{"count": 3, "name": "Dual Work Exchanger Energy Recovery", "weight": 0.0, "id": 2776448185, "level": 2}
+{"count": 2, "name": "EPA WaterSense", "weight": 0.0, "id": 2778910292, "level": 2}
+{"count": 5, "name": "Erethistes", "weight": 0.0, "id": 2776239539, "level": 2}
+{"count": 15, "name": "Deep ocean minerals", "weight": 0.0, "id": 2777457320, "level": 2}
+{"count": 3, "name": "Akaogiite", "weight": 0.0, "id": 2780126515, "level": 2}
+{"count": 13, "name": "Algae scrubber", "weight": 0.0, "id": 2778167179, "level": 2}
+{"count": 7, "name": "Tank blanketing", "weight": 0.0, "id": 2778956463, "level": 2}
+{"count": 9, "name": "Thonzonium bromide", "weight": 0.0, "id": 2777592851, "level": 2}
+{"count": 2, "name": "Dalanistes", "weight": 0.0, "id": 2778015938, "level": 2}
+{"count": 15, "name": "Log pond", "weight": 0.0, "id": 2778755318, "level": 2}
+{"count": 7, "name": "Behentrimonium chloride", "weight": 0.0, "id": 2778635141, "level": 2}
+{"count": 2, "name": "Adsorption/Bio-oxidation process", "weight": 0.0, "id": 2776739925, "level": 2}
+{"count": 2, "name": "Drain-waste-vent system", "weight": 0.0, "id": 2778904109, "level": 2}
+{"count": 1, "name": "Unfiltered olive oil", "weight": 0.0, "id": 2776394591, "level": 2}
+{"count": 3, "name": "Yellow boxfish", "weight": 0.0, "id": 2778967020, "level": 2}
+{"count": 5, "name": "Apogon maculatus", "weight": 0.0, "id": 2775887829, "level": 2}
+{"count": 10, "name": "Waste management in Turkey", "weight": 0.0, "id": 2776184417, "level": 2}
+{"count": 3, "name": "Wilderness-acquired diarrhea", "weight": 0.0, "id": 2779563840, "level": 2}
+{"count": 12, "name": "Swimming pool sanitation", "weight": 0.0, "id": 2778692220, "level": 2}
+{"count": 5, "name": "Solvatten", "weight": 0.0, "id": 2776940549, "level": 2}
+{"count": 16, "name": "Environmental issues in India", "weight": 0.0, "id": 2778333236, "level": 2}
+{"count": 6, "name": "Urine-diverting dry toilet", "weight": 0.0, "id": 2776320736, "level": 2}
+{"count": 8, "name": "Tiocem", "weight": 0.0, "id": 2779734090, "level": 2}
+{"count": 1, "name": "Water supply and sanitation in the European Union", "weight": 0.0, "id": 2780149762, "level": 2}
+{"count": 773, "name": "Tube cleaning", "weight": 0.0, "id": 2776908390, "level": 2}
+{"count": 1, "name": "Regulation of ship pollution in the United States", "weight": 0.0, "id": 2778482113, "level": 2}
+{"count": 3, "name": "Pipeline video inspection", "weight": 0.0, "id": 2779487849, "level": 2}
+{"count": 3, "name": "Facility Registry System", "weight": 0.0, "id": 2776610410, "level": 2}
+{"count": 1, "name": "Ballast water discharge and the environment", "weight": 0.0, "id": 2780334750, "level": 2}
+{"count": 9, "name": "Biological oxidizer", "weight": 0.0, "id": 2781281402, "level": 2}
+{"count": 5, "name": "The Helsinki Rules on the Uses of the Waters of International Rivers", "weight": 0.0, "id": 2778172640, "level": 2}
+{"count": 2, "name": "Petrol interceptor", "weight": 0.0, "id": 2778198769, "level": 2}
+{"count": 3, "name": "Special assessment tax", "weight": 0.0, "id": 2778969655, "level": 2}
+{"count": 4, "name": "Leather production processes", "weight": 0.0, "id": 2780505929, "level": 2}
+{"count": 17, "name": "B\u00fcchner flask", "weight": 0.0, "id": 2777807229, "level": 2}
+{"count": 3, "name": "Environmental issues in Russia", "weight": 0.0, "id": 2778609566, "level": 2}
+{"count": 1, "name": "Omni Processor", "weight": 0.0, "id": 2778714704, "level": 2}
+{"count": 3, "name": "Performance supervision system", "weight": 0.0, "id": 2780622797, "level": 2}
+{"count": 10, "name": "Point Loma Wastewater Treatment Plant", "weight": 0.0, "id": 2776723948, "level": 2}
+{"count": 2, "name": "1993 Milwaukee Cryptosporidiosis outbreak", "weight": 0.0, "id": 2777248258, "level": 2}
+{"count": 3, "name": "High-density solids pump", "weight": 0.0, "id": 2780760083, "level": 2}
+{"count": 7, "name": "London Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter", "weight": 0.0, "id": 2776765446, "level": 2}
+{"count": 3, "name": "Dishwasher salt", "weight": 0.0, "id": 2777022482, "level": 2}
+{"count": 1, "name": "Biomimetic antifouling coating", "weight": 0.0, "id": 2776032993, "level": 2}
+{"count": 4, "name": "Circulating Water Plant", "weight": 0.0, "id": 2776233159, "level": 2}
+{"count": 1, "name": "Upflow anaerobic sludge blanket digestion", "weight": 0.0, "id": 2779240083, "level": 2}
+{"count": 2, "name": "Trachycarpus latisectus", "weight": 0.0, "id": 2779836784, "level": 2}
+{"count": 1, "name": "NAICS 22", "weight": 0.0, "id": 2776678789, "level": 2}
+{"count": 3, "name": "Lava filter", "weight": 0.0, "id": 2776753181, "level": 2}
+{"count": 1, "name": "Anaerobic digester types", "weight": 0.0, "id": 2777097587, "level": 2}
+{"count": 1, "name": "Sapotalin", "weight": 0.0, "id": 2776049409, "level": 2}

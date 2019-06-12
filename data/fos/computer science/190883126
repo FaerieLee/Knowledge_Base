@@ -1,0 +1,14 @@
+{"count": 995, "name": "Common Lisp", "weight": 10.0, "id": 2779353305, "level": 3}
+{"count": 129, "name": "Common Lisp Object System", "weight": 1.0, "id": 2775879068, "level": 3}
+{"count": 53, "name": "MultiLisp", "weight": 0.0, "id": 2778588189, "level": 3}
+{"count": 224, "name": "Object-oriented operating system", "weight": 2.0, "id": 135505871, "level": 3}
+{"count": 243, "name": "Lisp machine", "weight": 2.0, "id": 2779069190, "level": 3}
+{"count": 460, "name": "Scheme (programming language)", "weight": 4.0, "id": 24493144, "level": 3}
+{"count": 24, "name": "Hygienic macro", "weight": 0.0, "id": 2780345947, "level": 3}
+{"count": 320, "name": "Locator/Identifier Separation Protocol", "weight": 3.0, "id": 60101212, "level": 3}
+{"count": 337, "name": "Read\u2013eval\u2013print loop", "weight": 3.0, "id": 181121073, "level": 3}
+{"count": 62, "name": "Knowledge Engineering Environment", "weight": 0.0, "id": 32184349, "level": 3}
+{"count": 17, "name": "EuLisp", "weight": 0.0, "id": 2781318339, "level": 3}
+{"count": 439, "name": "Fexpr", "weight": 4.0, "id": 127436386, "level": 3}
+{"count": 27, "name": "Emacs Lisp", "weight": 0.0, "id": 2777272929, "level": 3}
+{"count": 250, "name": "TI Explorer", "weight": 2.0, "id": 134766895, "level": 3}

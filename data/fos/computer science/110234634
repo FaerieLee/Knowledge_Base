@@ -1,0 +1,12 @@
+{"count": 2389, "name": "National Airspace System", "weight": 10.0, "id": 2780722376, "level": 4}
+{"count": 638, "name": "Next Generation Air Transportation System", "weight": 2.0, "id": 2780962792, "level": 4}
+{"count": 584, "name": "Air traffic flow management", "weight": 2.0, "id": 2779606561, "level": 4}
+{"count": 140, "name": "Self-separation", "weight": 0.0, "id": 2776119179, "level": 4}
+{"count": 287, "name": "Visual meteorological conditions", "weight": 1.0, "id": 27017288, "level": 4}
+{"count": 307, "name": "Single European Sky", "weight": 1.0, "id": 2776892601, "level": 4}
+{"count": 121, "name": "GIANT KILLER", "weight": 0.0, "id": 129338386, "level": 4}
+{"count": 556, "name": "Controlled airspace", "weight": 2.0, "id": 173314787, "level": 4}
+{"count": 81, "name": "Terminal control area", "weight": 0.0, "id": 63310369, "level": 4}
+{"count": 46, "name": "Area Control Center", "weight": 0.0, "id": 2778571430, "level": 4}
+{"count": 78, "name": "Restricted airspace", "weight": 0.0, "id": 2780688287, "level": 4}
+{"count": 27, "name": "Reduced vertical separation minima", "weight": 0.0, "id": 180912307, "level": 4}

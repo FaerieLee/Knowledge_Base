@@ -1,0 +1,200 @@
+{"count": 340207, "name": "Gene expression", "weight": 10.0, "id": 150194340, "level": 3}
+{"count": 250434, "name": "Mutation", "weight": 7.0, "id": 501734568, "level": 3}
+{"count": 109608, "name": "Peptide sequence", "weight": 3.0, "id": 167625842, "level": 3}
+{"count": 154570, "name": "Transcription factor", "weight": 4.0, "id": 86339819, "level": 3}
+{"count": 86693, "name": "Polymerase chain reaction", "weight": 2.0, "id": 49105822, "level": 3}
+{"count": 70057, "name": "Nucleic acid sequence", "weight": 2.0, "id": 84148353, "level": 3}
+{"count": 135609, "name": "Recombinant DNA", "weight": 3.0, "id": 40767141, "level": 3}
+{"count": 124810, "name": "Transcription (biology)", "weight": 3.0, "id": 34601148, "level": 3}
+{"count": 38663, "name": "Molecular cloning", "weight": 1.0, "id": 19924922, "level": 3}
+{"count": 128806, "name": "Messenger RNA", "weight": 3.0, "id": 105580179, "level": 3}
+{"count": 200099, "name": "Genome", "weight": 5.0, "id": 141231307, "level": 3}
+{"count": 57151, "name": "DNA sequencing", "weight": 1.0, "id": 51679486, "level": 3}
+{"count": 113394, "name": "Plasmid", "weight": 3.0, "id": 22744801, "level": 3}
+{"count": 57747, "name": "Genetic marker", "weight": 1.0, "id": 190789776, "level": 3}
+{"count": 170877, "name": "Allele", "weight": 5.0, "id": 180754005, "level": 3}
+{"count": 103793, "name": "Complementary DNA", "weight": 3.0, "id": 187882448, "level": 3}
+{"count": 34708, "name": "Homology (biology)", "weight": 1.0, "id": 165525559, "level": 3}
+{"count": 53457, "name": "Transcriptome", "weight": 1.0, "id": 162317418, "level": 3}
+{"count": 107793, "name": "Primer (molecular biology)", "weight": 3.0, "id": 7271767, "level": 3}
+{"count": 11483, "name": "Functional genomics", "weight": 0.0, "id": 161078062, "level": 3}
+{"count": 21268, "name": "Open reading frame", "weight": 0.0, "id": 47289529, "level": 3}
+{"count": 33624, "name": "Sequence analysis", "weight": 0.0, "id": 61053724, "level": 3}
+{"count": 42168, "name": "Drosophila melanogaster", "weight": 1.0, "id": 2780104201, "level": 3}
+{"count": 41022, "name": "Arabidopsis thaliana", "weight": 1.0, "id": 2775988993, "level": 3}
+{"count": 47313, "name": "Mitochondrial DNA", "weight": 1.0, "id": 24586158, "level": 3}
+{"count": 1655, "name": "Genetic determinism", "weight": 0.0, "id": 3440280, "level": 3}
+{"count": 23028, "name": "Molecular genetics", "weight": 0.0, "id": 204315192, "level": 3}
+{"count": 36982, "name": "Gene duplication", "weight": 1.0, "id": 7602840, "level": 3}
+{"count": 40537, "name": "RNA interference", "weight": 1.0, "id": 166703698, "level": 3}
+{"count": 89275, "name": "Single-nucleotide polymorphism", "weight": 2.0, "id": 153209595, "level": 3}
+{"count": 39342, "name": "Restriction fragment length polymorphism", "weight": 1.0, "id": 168007829, "level": 3}
+{"count": 26807, "name": "Gene product", "weight": 0.0, "id": 195286587, "level": 3}
+{"count": 57734, "name": "Haplotype", "weight": 1.0, "id": 197754878, "level": 3}
+{"count": 12075, "name": "Molecular evolution", "weight": 0.0, "id": 166393388, "level": 3}
+{"count": 57636, "name": "DNA methylation", "weight": 1.0, "id": 190727270, "level": 3}
+{"count": 50763, "name": "Ribosomal RNA", "weight": 1.0, "id": 67905577, "level": 3}
+{"count": 17307, "name": "Caenorhabditis elegans", "weight": 0.0, "id": 2778944004, "level": 3}
+{"count": 19069, "name": "X chromosome", "weight": 0.0, "id": 35158069, "level": 3}
+{"count": 28643, "name": "Alternative splicing", "weight": 0.0, "id": 194583182, "level": 3}
+{"count": 33081, "name": "Arabidopsis", "weight": 0.0, "id": 2779491563, "level": 3}
+{"count": 52034, "name": "Gene silencing", "weight": 1.0, "id": 119056186, "level": 3}
+{"count": 58977, "name": "Exon", "weight": 1.0, "id": 36823959, "level": 3}
+{"count": 16262, "name": "Conserved sequence", "weight": 0.0, "id": 199216141, "level": 3}
+{"count": 173768, "name": "Locus (genetics)", "weight": 5.0, "id": 84597430, "level": 3}
+{"count": 38856, "name": "Cloning", "weight": 1.0, "id": 202662744, "level": 3}
+{"count": 12570, "name": "Genomic library", "weight": 0.0, "id": 13575015, "level": 3}
+{"count": 41345, "name": "genomic DNA", "weight": 1.0, "id": 17757408, "level": 3}
+{"count": 21935, "name": "Gene family", "weight": 0.0, "id": 5911399, "level": 3}
+{"count": 38505, "name": "RNA splicing", "weight": 1.0, "id": 54458228, "level": 3}
+{"count": 25421, "name": "Repressor", "weight": 0.0, "id": 158448853, "level": 3}
+{"count": 16943, "name": "Reverse transcription polymerase chain reaction", "weight": 0.0, "id": 4692481, "level": 3}
+{"count": 16411, "name": "Transformation (genetics)", "weight": 0.0, "id": 204241405, "level": 3}
+{"count": 14798, "name": "Ribosomal DNA", "weight": 0.0, "id": 207812311, "level": 3}
+{"count": 34682, "name": "Intron", "weight": 1.0, "id": 94671646, "level": 3}
+{"count": 204702, "name": "Mutant", "weight": 6.0, "id": 143065580, "level": 3}
+{"count": 33428, "name": "Restriction enzyme", "weight": 0.0, "id": 128319531, "level": 3}
+{"count": 9653, "name": "Gene targeting", "weight": 0.0, "id": 111829913, "level": 3}
+{"count": 22897, "name": "16S ribosomal RNA", "weight": 0.0, "id": 42062724, "level": 3}
+{"count": 37969, "name": "Candidate gene", "weight": 1.0, "id": 69991583, "level": 3}
+{"count": 23499, "name": "Operon", "weight": 0.0, "id": 203075996, "level": 3}
+{"count": 14161, "name": "Southern blot", "weight": 0.0, "id": 133307689, "level": 3}
+{"count": 18532, "name": "Homologous recombination", "weight": 0.0, "id": 102744134, "level": 3}
+{"count": 11562, "name": "Molecular marker", "weight": 0.0, "id": 2777160741, "level": 3}
+{"count": 25178, "name": "Microarray", "weight": 0.0, "id": 186836561, "level": 3}
+{"count": 11953, "name": "Globin", "weight": 0.0, "id": 125996951, "level": 3}
+{"count": 11739, "name": "Protein family", "weight": 0.0, "id": 171897839, "level": 3}
+{"count": 22317, "name": "Signal peptide", "weight": 0.0, "id": 10858879, "level": 3}
+{"count": 85513, "name": "Transgene", "weight": 2.0, "id": 102230213, "level": 3}
+{"count": 78671, "name": "Promoter", "weight": 2.0, "id": 101762097, "level": 3}
+{"count": 19543, "name": "Gene cluster", "weight": 0.0, "id": 36857842, "level": 3}
+{"count": 13801, "name": "Gene regulatory network", "weight": 0.0, "id": 67339327, "level": 3}
+{"count": 25656, "name": "Viral vector", "weight": 0.0, "id": 32470452, "level": 3}
+{"count": 10519, "name": "Consensus sequence", "weight": 0.0, "id": 54985914, "level": 3}
+{"count": 33287, "name": "Transfer RNA", "weight": 0.0, "id": 153957851, "level": 3}
+{"count": 6350, "name": "Gene dosage", "weight": 0.0, "id": 55548728, "level": 3}
+{"count": 12336, "name": "Agrobacterium tumefaciens", "weight": 0.0, "id": 2776162087, "level": 3}
+{"count": 16436, "name": "Transduction (genetics)", "weight": 0.0, "id": 122193557, "level": 3}
+{"count": 6620, "name": "Schizosaccharomyces pombe", "weight": 0.0, "id": 2779429346, "level": 3}
+{"count": 4246, "name": "Two-hybrid screening", "weight": 0.0, "id": 174851938, "level": 3}
+{"count": 7348, "name": "Small RNA", "weight": 0.0, "id": 2779341050, "level": 3}
+{"count": 7112, "name": "Neurospora crassa", "weight": 0.0, "id": 2776739539, "level": 3}
+{"count": 5647, "name": "Genetic code", "weight": 0.0, "id": 10853874, "level": 3}
+{"count": 10555, "name": "Heterologous expression", "weight": 0.0, "id": 108305142, "level": 3}
+{"count": 5252, "name": "Sequence motif", "weight": 0.0, "id": 117745874, "level": 3}
+{"count": 13476, "name": "Fusion gene", "weight": 0.0, "id": 111829193, "level": 3}
+{"count": 7706, "name": "Tandem repeat", "weight": 0.0, "id": 27149982, "level": 3}
+{"count": 5434, "name": "Long terminal repeat", "weight": 0.0, "id": 199491388, "level": 3}
+{"count": 4607, "name": "Antigenic variation", "weight": 0.0, "id": 191942190, "level": 3}
+{"count": 6324, "name": "Codon usage bias", "weight": 0.0, "id": 87253356, "level": 3}
+{"count": 3539, "name": "Negative selection", "weight": 0.0, "id": 7386963, "level": 3}
+{"count": 8611, "name": "Comparative genomic hybridization", "weight": 0.0, "id": 124942203, "level": 3}
+{"count": 11459, "name": "Germline", "weight": 0.0, "id": 109825262, "level": 3}
+{"count": 5870, "name": "Aspergillus nidulans", "weight": 0.0, "id": 2776923806, "level": 3}
+{"count": 2518, "name": "Deoxyribonuclease I", "weight": 0.0, "id": 2779377703, "level": 3}
+{"count": 4046, "name": "Chromosomal rearrangement", "weight": 0.0, "id": 86546924, "level": 3}
+{"count": 3211, "name": "Homeotic gene", "weight": 0.0, "id": 46751350, "level": 3}
+{"count": 5058, "name": "Biological pathway", "weight": 0.0, "id": 9927688, "level": 3}
+{"count": 1316, "name": "Leucine-rich repeat", "weight": 0.0, "id": 99545290, "level": 3}
+{"count": 2410, "name": "Two-component regulatory system", "weight": 0.0, "id": 138223613, "level": 3}
+{"count": 1971, "name": "Human evolutionary genetics", "weight": 0.0, "id": 167683757, "level": 3}
+{"count": 10932, "name": "Copy-number variation", "weight": 0.0, "id": 120821319, "level": 3}
+{"count": 3899, "name": "Response regulator", "weight": 0.0, "id": 2781196521, "level": 3}
+{"count": 6364, "name": "Gene knockout", "weight": 0.0, "id": 77957584, "level": 3}
+{"count": 3565, "name": "Immunoglobulin heavy chain", "weight": 0.0, "id": 96007430, "level": 3}
+{"count": 4478, "name": "Trinucleotide repeat expansion", "weight": 0.0, "id": 166252455, "level": 3}
+{"count": 5688, "name": "Hox gene", "weight": 0.0, "id": 111039654, "level": 3}
+{"count": 1368, "name": "Pathogenesis-related protein", "weight": 0.0, "id": 2776693496, "level": 3}
+{"count": 8452, "name": "Epistasis", "weight": 0.0, "id": 61727976, "level": 3}
+{"count": 3589, "name": "Flagellin", "weight": 0.0, "id": 38117629, "level": 3}
+{"count": 5744, "name": "Regulon", "weight": 0.0, "id": 62361671, "level": 3}
+{"count": 4406, "name": "Provirus", "weight": 0.0, "id": 102906071, "level": 3}
+{"count": 6367, "name": "Genetic recombination", "weight": 0.0, "id": 101434241, "level": 3}
+{"count": 4632, "name": "Lysogenic cycle", "weight": 0.0, "id": 136199206, "level": 3}
+{"count": 2649, "name": "Medicago truncatula", "weight": 0.0, "id": 2778339097, "level": 3}
+{"count": 3558, "name": "Polytene chromosome", "weight": 0.0, "id": 51423104, "level": 3}
+{"count": 5510, "name": "Chromosome 17 (human)", "weight": 0.0, "id": 167752854, "level": 3}
+{"count": 3354, "name": "Pleiotropy", "weight": 0.0, "id": 26207810, "level": 3}
+{"count": 10708, "name": "Structural gene", "weight": 0.0, "id": 5527404, "level": 3}
+{"count": 2565, "name": "Nicotiana benthamiana", "weight": 0.0, "id": 2780562374, "level": 3}
+{"count": 12844, "name": "Retrovirus", "weight": 0.0, "id": 2778431562, "level": 3}
+{"count": 4108, "name": "Cytoplasmic male sterility", "weight": 0.0, "id": 2776473034, "level": 3}
+{"count": 54101, "name": "Expression vector", "weight": 1.0, "id": 33161422, "level": 3}
+{"count": 1060, "name": "DNA footprinting", "weight": 0.0, "id": 22427896, "level": 3}
+{"count": 11409, "name": "CRISPR", "weight": 0.0, "id": 98108389, "level": 3}
+{"count": 1826, "name": "Chalcone synthase", "weight": 0.0, "id": 2777135195, "level": 3}
+{"count": 9737, "name": "Intergenic region", "weight": 0.0, "id": 195139083, "level": 3}
+{"count": 2443, "name": "Sinorhizobium meliloti", "weight": 0.0, "id": 2777304268, "level": 3}
+{"count": 869, "name": "Helix-turn-helix", "weight": 0.0, "id": 199487717, "level": 3}
+{"count": 2627, "name": "Helper virus", "weight": 0.0, "id": 144001008, "level": 3}
+{"count": 5657, "name": "Chromosome 7 (human)", "weight": 0.0, "id": 109748351, "level": 3}
+{"count": 1472, "name": "Most recent common ancestor", "weight": 0.0, "id": 197583594, "level": 3}
+{"count": 2431, "name": "Magnaporthe grisea", "weight": 0.0, "id": 2776545026, "level": 3}
+{"count": 2643, "name": "Heteroduplex", "weight": 0.0, "id": 134494468, "level": 3}
+{"count": 4241, "name": "Recombinase", "weight": 0.0, "id": 102414288, "level": 3}
+{"count": 2062, "name": "Position effect", "weight": 0.0, "id": 125215638, "level": 3}
+{"count": 3186, "name": "Streptomyces coelicolor", "weight": 0.0, "id": 2780681812, "level": 3}
+{"count": 1476, "name": "Bombyx", "weight": 0.0, "id": 2778332815, "level": 3}
+{"count": 866, "name": "Polycomb-group proteins", "weight": 0.0, "id": 2777116130, "level": 3}
+{"count": 20857, "name": "Homologous chromosome", "weight": 0.0, "id": 64894306, "level": 3}
+{"count": 1896, "name": "Ciona intestinalis", "weight": 0.0, "id": 2779528156, "level": 3}
+{"count": 1380, "name": "Plant evolution", "weight": 0.0, "id": 58677359, "level": 3}
+{"count": 4172, "name": "Endogenous retrovirus", "weight": 0.0, "id": 121346293, "level": 3}
+{"count": 7100, "name": "Genome editing", "weight": 0.0, "id": 144501496, "level": 3}
+{"count": 1228, "name": "Palindromic sequence", "weight": 0.0, "id": 76557, "level": 3}
+{"count": 2947, "name": "Pathogenicity island", "weight": 0.0, "id": 62130838, "level": 3}
+{"count": 875, "name": "Cytosine deaminase", "weight": 0.0, "id": 2777748644, "level": 3}
+{"count": 7359, "name": "Model organism", "weight": 0.0, "id": 19843653, "level": 3}
+{"count": 2476, "name": "Chromosomal fragile site", "weight": 0.0, "id": 60449816, "level": 3}
+{"count": 1510, "name": "Caulobacter crescentus", "weight": 0.0, "id": 2778767192, "level": 3}
+{"count": 1257, "name": "Lotus japonicus", "weight": 0.0, "id": 2779688875, "level": 3}
+{"count": 897, "name": "Methanococcus", "weight": 0.0, "id": 2776878370, "level": 3}
+{"count": 1650, "name": "Myxococcus xanthus", "weight": 0.0, "id": 2777120639, "level": 3}
+{"count": 1937, "name": "Eukaryote", "weight": 0.0, "id": 2779413310, "level": 3}
+{"count": 415, "name": "Cinnamyl-alcohol dehydrogenase", "weight": 0.0, "id": 2780186017, "level": 3}
+{"count": 523, "name": "OMIM : Online Mendelian Inheritance in Man", "weight": 0.0, "id": 191791410, "level": 3}
+{"count": 2200, "name": "Library", "weight": 0.0, "id": 1436000, "level": 3}
+{"count": 1308, "name": "Recombination-activating gene", "weight": 0.0, "id": 113646796, "level": 3}
+{"count": 1576, "name": "Physcomitrella patens", "weight": 0.0, "id": 2777907127, "level": 3}
+{"count": 1768, "name": "SOX9", "weight": 0.0, "id": 2778486617, "level": 3}
+{"count": 3375, "name": "Hypervariable region", "weight": 0.0, "id": 81566733, "level": 3}
+{"count": 6304, "name": "Long non-coding RNA", "weight": 0.0, "id": 62203573, "level": 3}
+{"count": 3349, "name": "Chromosome 12", "weight": 0.0, "id": 177658893, "level": 3}
+{"count": 1315, "name": "Pectate lyase", "weight": 0.0, "id": 2776681119, "level": 3}
+{"count": 1515, "name": "Prokaryote", "weight": 0.0, "id": 2780918051, "level": 3}
+{"count": 734, "name": "Major facilitator superfamily", "weight": 0.0, "id": 62465871, "level": 3}
+{"count": 1581, "name": "Magnaporthe", "weight": 0.0, "id": 2777099928, "level": 3}
+{"count": 3045, "name": "Chromosome 15", "weight": 0.0, "id": 165237769, "level": 3}
+{"count": 948, "name": "Alpha globulin", "weight": 0.0, "id": 91238131, "level": 3}
+{"count": 340, "name": "Nicotiana sylvestris", "weight": 0.0, "id": 2780178557, "level": 3}
+{"count": 1383, "name": "Deinococcus radiodurans", "weight": 0.0, "id": 2776519032, "level": 3}
+{"count": 883, "name": "Galactokinase", "weight": 0.0, "id": 196493046, "level": 3}
+{"count": 21628, "name": "Coding region", "weight": 0.0, "id": 91779695, "level": 3}
+{"count": 1025, "name": "V(D)J recombination", "weight": 0.0, "id": 2780254951, "level": 3}
+{"count": 4803, "name": "Deep sequencing", "weight": 0.0, "id": 132917006, "level": 3}
+{"count": 548, "name": "Cis-regulatory element", "weight": 0.0, "id": 122268461, "level": 3}
+{"count": 443, "name": "Minichromosome", "weight": 0.0, "id": 2780091387, "level": 3}
+{"count": 2784, "name": "FMR1", "weight": 0.0, "id": 2779063550, "level": 3}
+{"count": 9195, "name": "Silencer", "weight": 0.0, "id": 190414344, "level": 3}
+{"count": 904, "name": "Phytophthora sojae", "weight": 0.0, "id": 2779872957, "level": 3}
+{"count": 4109, "name": "Common wheat", "weight": 0.0, "id": 2780068994, "level": 3}
+{"count": 594, "name": "Cytolethal distending toxin", "weight": 0.0, "id": 2778613527, "level": 3}
+{"count": 1820, "name": "Kluyveromyces lactis", "weight": 0.0, "id": 2778041695, "level": 3}
+{"count": 1866, "name": "Promoter activity", "weight": 0.0, "id": 2775871807, "level": 3}
+{"count": 606, "name": "Killer-cell immunoglobulin-like receptor", "weight": 0.0, "id": 2779701145, "level": 3}
+{"count": 5945, "name": "Mendelian inheritance", "weight": 0.0, "id": 175783326, "level": 3}
+{"count": 874, "name": "Podospora anserina", "weight": 0.0, "id": 2778328168, "level": 3}
+{"count": 822, "name": "N-Myc", "weight": 0.0, "id": 2777956278, "level": 3}
+{"count": 1296, "name": "Stringent response", "weight": 0.0, "id": 26628138, "level": 3}
+{"count": 907, "name": "Expansin", "weight": 0.0, "id": 2778279081, "level": 3}
+{"count": 727, "name": "Divergent evolution", "weight": 0.0, "id": 181436288, "level": 3}
+{"count": 516, "name": "Cold-shock domain", "weight": 0.0, "id": 199677211, "level": 3}
+{"count": 2131, "name": "Xanthomonas oryzae", "weight": 0.0, "id": 2776964914, "level": 3}
+{"count": 1404, "name": "Cistron", "weight": 0.0, "id": 199083928, "level": 3}
+{"count": 506, "name": "Saccharopolyspora erythraea", "weight": 0.0, "id": 2776440055, "level": 3}
+{"count": 2394, "name": "Group-specific antigen", "weight": 0.0, "id": 6881719, "level": 3}
+{"count": 869, "name": "Drosophila pseudoobscura", "weight": 0.0, "id": 2780432970, "level": 3}
+{"count": 1286, "name": "Gene knockin", "weight": 0.0, "id": 2796436, "level": 3}
+{"count": 1636, "name": "Synthetic lethality", "weight": 0.0, "id": 2778502085, "level": 3}
+{"count": 1145, "name": "engrailed", "weight": 0.0, "id": 64632358, "level": 3}
+{"count": 627, "name": "Fugu", "weight": 0.0, "id": 2778873838, "level": 3}

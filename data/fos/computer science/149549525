@@ -1,0 +1,9 @@
+{"count": 42, "name": "Interrupt coalescing", "weight": 1.0, "id": 2780207021, "level": 5}
+{"count": 340, "name": "Double fault", "weight": 10.0, "id": 169195208, "level": 5}
+{"count": 99, "name": "Non-maskable interrupt", "weight": 2.0, "id": 186404122, "level": 5}
+{"count": 20, "name": "Interrupt descriptor table", "weight": 0.0, "id": 2781435590, "level": 5}
+{"count": 343, "name": "Advanced Programmable Interrupt Controller", "weight": 10.0, "id": 76963197, "level": 5}
+{"count": 20, "name": "Trap (computing)", "weight": 0.0, "id": 2567644, "level": 5}
+{"count": 15, "name": "Triple fault", "weight": 0.0, "id": 2780794801, "level": 5}
+{"count": 85, "name": "Interrupts in 65xx processors", "weight": 2.0, "id": 203637746, "level": 5}
+{"count": 19, "name": "Message Signaled Interrupts", "weight": 0.0, "id": 2777643656, "level": 5}

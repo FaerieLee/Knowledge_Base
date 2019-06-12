@@ -1,0 +1,200 @@
+{"count": 112419, "name": "Kinetics", "weight": 1.0, "id": 148898269, "level": 2}
+{"count": 553765, "name": "Thin film", "weight": 5.0, "id": 19067145, "level": 2}
+{"count": 383899, "name": "Crystal structure", "weight": 3.0, "id": 115624301, "level": 2}
+{"count": 362964, "name": "Nitrogen", "weight": 3.0, "id": 537208039, "level": 2}
+{"count": 130260, "name": "Chemical reaction", "weight": 1.0, "id": 177801218, "level": 2}
+{"count": 181330, "name": "X-ray crystallography", "weight": 1.0, "id": 50515024, "level": 2}
+{"count": 657283, "name": "Molecule", "weight": 6.0, "id": 32909587, "level": 2}
+{"count": 1068541, "name": "Catalysis", "weight": 9.0, "id": 161790260, "level": 2}
+{"count": 391713, "name": "Copper", "weight": 3.0, "id": 544778455, "level": 2}
+{"count": 277978, "name": "Scanning electron microscope", "weight": 2.0, "id": 26771246, "level": 2}
+{"count": 150146, "name": "Carbon dioxide", "weight": 1.0, "id": 530467964, "level": 2}
+{"count": 273731, "name": "Zinc", "weight": 2.0, "id": 535196362, "level": 2}
+{"count": 625087, "name": "Aqueous solution", "weight": 5.0, "id": 184651966, "level": 2}
+{"count": 115779, "name": "Transmission electron microscopy", "weight": 1.0, "id": 146088050, "level": 2}
+{"count": 532494, "name": "Carbon", "weight": 4.0, "id": 501529594, "level": 2}
+{"count": 163013, "name": "Transition metal", "weight": 1.0, "id": 106773901, "level": 2}
+{"count": 456654, "name": "Oxygen", "weight": 4.0, "id": 540031477, "level": 2}
+{"count": 52175, "name": "Organic compound", "weight": 0.0, "id": 2779580905, "level": 2}
+{"count": 176922, "name": "Infrared spectroscopy", "weight": 1.0, "id": 153642686, "level": 2}
+{"count": 539857, "name": "Adsorption", "weight": 5.0, "id": 150394285, "level": 2}
+{"count": 175586, "name": "Potassium", "weight": 1.0, "id": 517785266, "level": 2}
+{"count": 228313, "name": "Nickel", "weight": 2.0, "id": 504270822, "level": 2}
+{"count": 212803, "name": "Single crystal", "weight": 1.0, "id": 73922627, "level": 2}
+{"count": 478807, "name": "Hydrogen", "weight": 4.0, "id": 512968161, "level": 2}
+{"count": 178051, "name": "Phosphorus", "weight": 1.0, "id": 510538283, "level": 2}
+{"count": 862853, "name": "Ion", "weight": 7.0, "id": 145148216, "level": 2}
+{"count": 180098, "name": "Magnesium", "weight": 1.0, "id": 543218039, "level": 2}
+{"count": 138315, "name": "Methane", "weight": 1.0, "id": 516920438, "level": 2}
+{"count": 337547, "name": "Sodium", "weight": 3.0, "id": 537181965, "level": 2}
+{"count": 377716, "name": "Nanoparticle", "weight": 3.0, "id": 155672457, "level": 2}
+{"count": 160086, "name": "Carbon nanotube", "weight": 1.0, "id": 513720949, "level": 2}
+{"count": 204228, "name": "Raman spectroscopy", "weight": 1.0, "id": 40003534, "level": 2}
+{"count": 356732, "name": "Aluminium", "weight": 3.0, "id": 513153333, "level": 2}
+{"count": 100236, "name": "Nanostructure", "weight": 0.0, "id": 186187911, "level": 2}
+{"count": 218804, "name": "Hydrolysis", "weight": 2.0, "id": 94412978, "level": 2}
+{"count": 110763, "name": "Nuclear magnetic resonance spectroscopy", "weight": 1.0, "id": 66974803, "level": 2}
+{"count": 1079385, "name": "Metal", "weight": 10.0, "id": 544153396, "level": 2}
+{"count": 86027, "name": "Activation energy", "weight": 0.0, "id": 95121573, "level": 2}
+{"count": 66779, "name": "Chemical kinetics", "weight": 0.0, "id": 36663273, "level": 2}
+{"count": 150177, "name": "Titanium", "weight": 1.0, "id": 506065880, "level": 2}
+{"count": 90514, "name": "Phase diagram", "weight": 0.0, "id": 85906118, "level": 2}
+{"count": 120399, "name": "Chromium", "weight": 1.0, "id": 511782168, "level": 2}
+{"count": 242173, "name": "Electrochemistry", "weight": 2.0, "id": 52859227, "level": 2}
+{"count": 164620, "name": "Hydrocarbon", "weight": 1.0, "id": 2777207669, "level": 2}
+{"count": 325881, "name": "Corrosion", "weight": 3.0, "id": 20625102, "level": 2}
+{"count": 56451, "name": "Thermal stability", "weight": 0.0, "id": 59061564, "level": 2}
+{"count": 111690, "name": "Reaction rate constant", "weight": 1.0, "id": 93391505, "level": 2}
+{"count": 121620, "name": "X-ray photoelectron spectroscopy", "weight": 1.0, "id": 175708663, "level": 2}
+{"count": 45900, "name": "Decomposition", "weight": 0.0, "id": 124681953, "level": 2}
+{"count": 134591, "name": "Photoluminescence", "weight": 1.0, "id": 85080765, "level": 2}
+{"count": 91014, "name": "Hydrogen peroxide", "weight": 0.0, "id": 533411734, "level": 2}
+{"count": 30838, "name": "Chemical synthesis", "weight": 0.0, "id": 114373084, "level": 2}
+{"count": 341915, "name": "Ligand", "weight": 3.0, "id": 85551212, "level": 2}
+{"count": 64223, "name": "Arsenic", "weight": 0.0, "id": 502230775, "level": 2}
+{"count": 488557, "name": "Crystal", "weight": 4.0, "id": 57401468, "level": 2}
+{"count": 186336, "name": "Crystallization", "weight": 1.0, "id": 203036418, "level": 2}
+{"count": 81959, "name": "Solid solution", "weight": 0.0, "id": 138999460, "level": 2}
+{"count": 77397, "name": "Ion exchange", "weight": 0.0, "id": 117760992, "level": 2}
+{"count": 46232, "name": "Self-assembly", "weight": 0.0, "id": 26856880, "level": 2}
+{"count": 14100, "name": "Chemical substance", "weight": 0.0, "id": 2776407913, "level": 2}
+{"count": 372379, "name": "Doping", "weight": 3.0, "id": 57863236, "level": 2}
+{"count": 55741, "name": "Phenols", "weight": 0.0, "id": 2777728882, "level": 2}
+{"count": 159853, "name": "Solubility", "weight": 1.0, "id": 155574463, "level": 2}
+{"count": 65585, "name": "Electron transfer", "weight": 0.0, "id": 123669783, "level": 2}
+{"count": 142487, "name": "Nanocomposite", "weight": 1.0, "id": 92880739, "level": 2}
+{"count": 196308, "name": "Alcohol", "weight": 1.0, "id": 2781066024, "level": 2}
+{"count": 86660, "name": "Colloid", "weight": 0.0, "id": 59789625, "level": 2}
+{"count": 78968, "name": "Electron paramagnetic resonance", "weight": 0.0, "id": 187961010, "level": 2}
+{"count": 189114, "name": "Impurity", "weight": 1.0, "id": 71987851, "level": 2}
+{"count": 140812, "name": "Epitaxy", "weight": 1.0, "id": 110738630, "level": 2}
+{"count": 69984, "name": "Sol-gel", "weight": 0.0, "id": 38398224, "level": 2}
+{"count": 163854, "name": "Alkali metal", "weight": 1.0, "id": 198091228, "level": 2}
+{"count": 9191, "name": "Concentration effect", "weight": 0.0, "id": 2777612990, "level": 2}
+{"count": 101538, "name": "Cadmium", "weight": 0.0, "id": 544657597, "level": 2}
+{"count": 119333, "name": "Chemical vapor deposition", "weight": 1.0, "id": 57410435, "level": 2}
+{"count": 122202, "name": "Ammonia", "weight": 1.0, "id": 2776382133, "level": 2}
+{"count": 81674, "name": "Pyrolysis", "weight": 0.0, "id": 36759035, "level": 2}
+{"count": 106549, "name": "Luminescence", "weight": 0.0, "id": 148869448, "level": 2}
+{"count": 91971, "name": "Nanowire", "weight": 0.0, "id": 74214498, "level": 2}
+{"count": 97827, "name": "Differential scanning calorimetry", "weight": 0.0, "id": 39519442, "level": 2}
+{"count": 101060, "name": "Nitrate", "weight": 0.0, "id": 2776384668, "level": 2}
+{"count": 57365, "name": "Fourier transform infrared spectroscopy", "weight": 0.0, "id": 160892712, "level": 2}
+{"count": 105057, "name": "Manganese", "weight": 0.0, "id": 528890316, "level": 2}
+{"count": 59087, "name": "Thermal analysis", "weight": 0.0, "id": 129446986, "level": 2}
+{"count": 136062, "name": "Cobalt", "weight": 1.0, "id": 515602321, "level": 2}
+{"count": 63157, "name": "Selenium", "weight": 0.0, "id": 553756173, "level": 2}
+{"count": 172415, "name": "Sulfur", "weight": 1.0, "id": 518881349, "level": 2}
+{"count": 95750, "name": "Mercury (element)", "weight": 0.0, "id": 550074936, "level": 2}
+{"count": 75983, "name": "Ionic liquid", "weight": 0.0, "id": 154881586, "level": 2}
+{"count": 90098, "name": "Acetic acid", "weight": 0.0, "id": 2776673659, "level": 2}
+{"count": 67834, "name": "Bicyclic molecule", "weight": 0.0, "id": 24961977, "level": 2}
+{"count": 114777, "name": "Graphite", "weight": 1.0, "id": 2779698641, "level": 2}
+{"count": 26803, "name": "Aliphatic compound", "weight": 0.0, "id": 2780129066, "level": 2}
+{"count": 193887, "name": "Lithium", "weight": 1.0, "id": 523925430, "level": 2}
+{"count": 108020, "name": "Boron", "weight": 1.0, "id": 501308230, "level": 2}
+{"count": 74890, "name": "Surface modification", "weight": 0.0, "id": 115537861, "level": 2}
+{"count": 30616, "name": "Kinetic isotope effect", "weight": 0.0, "id": 69928629, "level": 2}
+{"count": 288980, "name": "Electrolyte", "weight": 2.0, "id": 68801617, "level": 2}
+{"count": 57223, "name": "Nanocrystal", "weight": 0.0, "id": 175854130, "level": 2}
+{"count": 33524, "name": "Organic acid", "weight": 0.0, "id": 2778715240, "level": 2}
+{"count": 149236, "name": "Sintering", "weight": 1.0, "id": 2777581544, "level": 2}
+{"count": 151115, "name": "Phosphate", "weight": 1.0, "id": 2777132085, "level": 2}
+{"count": 160845, "name": "Dissolution", "weight": 1.0, "id": 88380143, "level": 2}
+{"count": 111868, "name": "Pulmonary surfactant", "weight": 1.0, "id": 58226133, "level": 2}
+{"count": 102032, "name": "Nucleation", "weight": 0.0, "id": 61048295, "level": 2}
+{"count": 7328, "name": "Aluminium oxides", "weight": 0.0, "id": 2780907538, "level": 2}
+{"count": 34748, "name": "Iron oxide", "weight": 0.0, "id": 2777697756, "level": 2}
+{"count": 29855, "name": "Partition coefficient", "weight": 0.0, "id": 192552737, "level": 2}
+{"count": 177412, "name": "Cathode", "weight": 1.0, "id": 49110097, "level": 2}
+{"count": 111908, "name": "Ethylene", "weight": 1.0, "id": 2778597550, "level": 2}
+{"count": 158785, "name": "Graphene", "weight": 1.0, "id": 30080830, "level": 2}
+{"count": 44335, "name": "Photodissociation", "weight": 0.0, "id": 54582936, "level": 2}
+{"count": 58185, "name": "Sulfuric acid", "weight": 0.0, "id": 2778199549, "level": 2}
+{"count": 92039, "name": "Sulfate", "weight": 0.0, "id": 2778343803, "level": 2}
+{"count": 66745, "name": "Iodine", "weight": 0.0, "id": 539932907, "level": 2}
+{"count": 30419, "name": "Spectrophotometry", "weight": 0.0, "id": 2780343419, "level": 2}
+{"count": 158621, "name": "Conductivity", "weight": 1.0, "id": 131540310, "level": 2}
+{"count": 101340, "name": "Urea", "weight": 0.0, "id": 2780365088, "level": 2}
+{"count": 112983, "name": "Benzene", "weight": 1.0, "id": 2777691172, "level": 2}
+{"count": 56340, "name": "Dielectric spectroscopy", "weight": 0.0, "id": 7040849, "level": 2}
+{"count": 113405, "name": "Monolayer", "weight": 1.0, "id": 7070889, "level": 2}
+{"count": 53565, "name": "Germanium", "weight": 0.0, "id": 550623735, "level": 2}
+{"count": 29218, "name": "Clay minerals", "weight": 0.0, "id": 40212044, "level": 2}
+{"count": 30358, "name": "Chemical bond", "weight": 0.0, "id": 178213299, "level": 2}
+{"count": 47443, "name": "Enthalpy", "weight": 0.0, "id": 3288061, "level": 2}
+{"count": 25548, "name": "Thermogravimetry", "weight": 0.0, "id": 39588626, "level": 2}
+{"count": 63911, "name": "Molybdenum", "weight": 0.0, "id": 549387045, "level": 2}
+{"count": 67324, "name": "Silicate", "weight": 0.0, "id": 2777335606, "level": 2}
+{"count": 61146, "name": "Stoichiometry", "weight": 0.0, "id": 144082473, "level": 2}
+{"count": 87659, "name": "Halide", "weight": 0.0, "id": 171560689, "level": 2}
+{"count": 46542, "name": "Titanium dioxide", "weight": 0.0, "id": 2777593239, "level": 2}
+{"count": 68825, "name": "Thermal decomposition", "weight": 0.0, "id": 160434732, "level": 2}
+{"count": 32058, "name": "Fullerene", "weight": 0.0, "id": 162862793, "level": 2}
+{"count": 191315, "name": "Anode", "weight": 1.0, "id": 89395315, "level": 2}
+{"count": 13624, "name": "Calorimetry", "weight": 0.0, "id": 202270520, "level": 2}
+{"count": 219600, "name": "Amorphous solid", "weight": 2.0, "id": 56052488, "level": 2}
+{"count": 80395, "name": "Tungsten", "weight": 0.0, "id": 542268612, "level": 2}
+{"count": 39227, "name": "Nitric acid", "weight": 0.0, "id": 2778504605, "level": 2}
+{"count": 108739, "name": "Tin", "weight": 1.0, "id": 525849907, "level": 2}
+{"count": 103162, "name": "Solid-state", "weight": 0.0, "id": 107814960, "level": 2}
+{"count": 52064, "name": "Formaldehyde", "weight": 0.0, "id": 2775930285, "level": 2}
+{"count": 80665, "name": "Thermogravimetric analysis", "weight": 0.0, "id": 60100273, "level": 2}
+{"count": 72075, "name": "Chlorine", "weight": 0.0, "id": 505241676, "level": 2}
+{"count": 38162, "name": "Vapor pressure", "weight": 0.0, "id": 19184958, "level": 2}
+{"count": 28898, "name": "Neutralization", "weight": 0.0, "id": 14086860, "level": 2}
+{"count": 45332, "name": "Indium", "weight": 0.0, "id": 543292547, "level": 2}
+{"count": 66079, "name": "Micelle", "weight": 0.0, "id": 11268172, "level": 2}
+{"count": 74530, "name": "Phenol", "weight": 0.0, "id": 2777702071, "level": 2}
+{"count": 28679, "name": "Work function", "weight": 0.0, "id": 115235246, "level": 2}
+{"count": 112514, "name": "Ammonium", "weight": 1.0, "id": 2779870022, "level": 2}
+{"count": 56261, "name": "Toluene", "weight": 0.0, "id": 2778142098, "level": 2}
+{"count": 12423, "name": "Nitrogen dioxide", "weight": 0.0, "id": 2780723490, "level": 2}
+{"count": 88837, "name": "Carboxylic acid", "weight": 0.0, "id": 2779074116, "level": 2}
+{"count": 18331, "name": "Chemical decomposition", "weight": 0.0, "id": 48333953, "level": 2}
+{"count": 33738, "name": "Perovskite (structure)", "weight": 0.0, "id": 155011858, "level": 2}
+{"count": 46424, "name": "Supramolecular chemistry", "weight": 0.0, "id": 93275456, "level": 2}
+{"count": 84701, "name": "Precipitation (chemistry)", "weight": 0.0, "id": 81726468, "level": 2}
+{"count": 27064, "name": "Differential thermal analysis", "weight": 0.0, "id": 76804077, "level": 2}
+{"count": 62864, "name": "Ketone", "weight": 0.0, "id": 2777738585, "level": 2}
+{"count": 20477, "name": "Surface charge", "weight": 0.0, "id": 2780358262, "level": 2}
+{"count": 81799, "name": "Crystallinity", "weight": 0.0, "id": 46275449, "level": 2}
+{"count": 50347, "name": "Passivation", "weight": 0.0, "id": 33574316, "level": 2}
+{"count": 24185, "name": "Auger electron spectroscopy", "weight": 0.0, "id": 25442681, "level": 2}
+{"count": 27076, "name": "Montmorillonite", "weight": 0.0, "id": 2777515222, "level": 2}
+{"count": 37682, "name": "Niobium", "weight": 0.0, "id": 507968137, "level": 2}
+{"count": 23092, "name": "Organic semiconductor", "weight": 0.0, "id": 94003879, "level": 2}
+{"count": 16022, "name": "Chemical stability", "weight": 0.0, "id": 186399102, "level": 2}
+{"count": 28936, "name": "Strontium", "weight": 0.0, "id": 518915863, "level": 2}
+{"count": 66510, "name": "Fluorine", "weight": 0.0, "id": 506198293, "level": 2}
+{"count": 60844, "name": "Nanocrystalline material", "weight": 0.0, "id": 140676511, "level": 2}
+{"count": 72758, "name": "Amine gas treating", "weight": 0.0, "id": 131779359, "level": 2}
+{"count": 43718, "name": "Silica gel", "weight": 0.0, "id": 2779532046, "level": 2}
+{"count": 63416, "name": "Carbide", "weight": 0.0, "id": 5335593, "level": 2}
+{"count": 162033, "name": "Redox", "weight": 1.0, "id": 55904794, "level": 2}
+{"count": 94093, "name": "Carbonate", "weight": 0.0, "id": 2780659211, "level": 2}
+{"count": 21459, "name": "Rate equation", "weight": 0.0, "id": 111163200, "level": 2}
+{"count": 53537, "name": "Ethylene glycol", "weight": 0.0, "id": 2777516009, "level": 2}
+{"count": 21070, "name": "Dissociation constant", "weight": 0.0, "id": 74998103, "level": 2}
+{"count": 67866, "name": "Phosphor", "weight": 0.0, "id": 124385694, "level": 2}
+{"count": 35195, "name": "Thiol", "weight": 0.0, "id": 2781324293, "level": 2}
+{"count": 38002, "name": "Citric acid", "weight": 0.0, "id": 2779032678, "level": 2}
+{"count": 21349, "name": "Methylene blue", "weight": 0.0, "id": 2779191827, "level": 2}
+{"count": 43381, "name": "Bismuth", "weight": 0.0, "id": 533668322, "level": 2}
+{"count": 11364, "name": "Group 2 organometallic chemistry", "weight": 0.0, "id": 91967747, "level": 2}
+{"count": 76657, "name": "Nitride", "weight": 0.0, "id": 194760766, "level": 2}
+{"count": 24321, "name": "Equilibrium constant", "weight": 0.0, "id": 10710636, "level": 2}
+{"count": 16013, "name": "Carbon tetrachloride", "weight": 0.0, "id": 2777359374, "level": 2}
+{"count": 27816, "name": "Formic acid", "weight": 0.0, "id": 2777379063, "level": 2}
+{"count": 24659, "name": "Microemulsion", "weight": 0.0, "id": 190119865, "level": 2}
+{"count": 42145, "name": "Hydrochloric acid", "weight": 0.0, "id": 2777436746, "level": 2}
+{"count": 14110, "name": "Reactivity (chemistry)", "weight": 0.0, "id": 153785938, "level": 2}
+{"count": 61674, "name": "Vanadium", "weight": 0.0, "id": 504678139, "level": 2}
+{"count": 128515, "name": "Ether", "weight": 1.0, "id": 2780407432, "level": 2}
+{"count": 19539, "name": "Humic acid", "weight": 0.0, "id": 2780965034, "level": 2}
+{"count": 44725, "name": "Lanthanide", "weight": 0.0, "id": 201770740, "level": 2}
+{"count": 25882, "name": "Caesium", "weight": 0.0, "id": 519659679, "level": 2}
+{"count": 58242, "name": "Straw", "weight": 0.0, "id": 2779587293, "level": 2}
+{"count": 65590, "name": "Valence (chemistry)", "weight": 0.0, "id": 168900304, "level": 2}
+{"count": 92150, "name": "Oxidative phosphorylation", "weight": 0.0, "id": 57600042, "level": 2}
+{"count": 31109, "name": "Total synthesis", "weight": 0.0, "id": 35753019, "level": 2}

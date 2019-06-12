@@ -1,0 +1,44 @@
+{"count": 1323, "name": "Lattice model (finance)", "weight": 3.0, "id": 75577371, "level": 3}
+{"count": 3397, "name": "Lattice (group)", "weight": 10.0, "id": 191184047, "level": 3}
+{"count": 2495, "name": "Distributive lattice", "weight": 7.0, "id": 192606457, "level": 3}
+{"count": 1663, "name": "Complete lattice", "weight": 4.0, "id": 201640847, "level": 3}
+{"count": 833, "name": "Banach lattice", "weight": 2.0, "id": 2781271947, "level": 3}
+{"count": 720, "name": "Galois connection", "weight": 2.0, "id": 2777573902, "level": 3}
+{"count": 707, "name": "Residuated lattice", "weight": 2.0, "id": 2781278839, "level": 3}
+{"count": 443, "name": "Lattice path", "weight": 1.0, "id": 2775902705, "level": 3}
+{"count": 919, "name": "Lattice problem", "weight": 2.0, "id": 168482242, "level": 3}
+{"count": 611, "name": "Modular lattice", "weight": 1.0, "id": 2776087667, "level": 3}
+{"count": 589, "name": "Hasse diagram", "weight": 1.0, "id": 140002607, "level": 3}
+{"count": 2785, "name": "Integer lattice", "weight": 8.0, "id": 142885752, "level": 3}
+{"count": 195, "name": "Lattice network", "weight": 0.0, "id": 2777225905, "level": 3}
+{"count": 386, "name": "Subdirect product", "weight": 1.0, "id": 2775888184, "level": 3}
+{"count": 278, "name": "Noncrossing partition", "weight": 0.0, "id": 156272575, "level": 3}
+{"count": 196, "name": "Effect algebra", "weight": 0.0, "id": 2779326926, "level": 3}
+{"count": 1344, "name": "Distributivity", "weight": 3.0, "id": 138390121, "level": 3}
+{"count": 295, "name": "Leech lattice", "weight": 0.0, "id": 118636789, "level": 3}
+{"count": 683, "name": "Boolean algebra (structure)", "weight": 2.0, "id": 844231, "level": 3}
+{"count": 332, "name": "Learning with errors", "weight": 0.0, "id": 2779014939, "level": 3}
+{"count": 255, "name": "Compact element", "weight": 0.0, "id": 194936367, "level": 3}
+{"count": 144, "name": "De Morgan algebra", "weight": 0.0, "id": 2779729915, "level": 3}
+{"count": 263, "name": "Quasivariety", "weight": 0.0, "id": 2781347588, "level": 3}
+{"count": 59, "name": "Hard hexagon model", "weight": 0.0, "id": 2780433973, "level": 3}
+{"count": 179, "name": "Geometric lattice", "weight": 0.0, "id": 2781456012, "level": 3}
+{"count": 105, "name": "Semimodular lattice", "weight": 0.0, "id": 2781351474, "level": 3}
+{"count": 55, "name": "Pseudocomplement", "weight": 0.0, "id": 2778771332, "level": 3}
+{"count": 264, "name": "Lattice multiplication", "weight": 0.0, "id": 27485998, "level": 3}
+{"count": 89, "name": "Tamari lattice", "weight": 0.0, "id": 2778377338, "level": 3}
+{"count": 107, "name": "Lattice of subgroups", "weight": 0.0, "id": 2781411300, "level": 3}
+{"count": 51, "name": "Ockham algebra", "weight": 0.0, "id": 2776715975, "level": 3}
+{"count": 42, "name": "Skew lattice", "weight": 0.0, "id": 2779944572, "level": 3}
+{"count": 33, "name": "Epigroup", "weight": 0.0, "id": 2779947235, "level": 3}
+{"count": 23, "name": "Upper topology", "weight": 0.0, "id": 2778310798, "level": 3}
+{"count": 23, "name": "Delannoy number", "weight": 0.0, "id": 2778119483, "level": 3}
+{"count": 21, "name": "Poset topology", "weight": 0.0, "id": 2777489673, "level": 3}
+{"count": 231, "name": "Greatest element", "weight": 0.0, "id": 95754686, "level": 3}
+{"count": 11, "name": "Klein polyhedron", "weight": 0.0, "id": 2779886288, "level": 3}
+{"count": 39, "name": "Order embedding", "weight": 0.0, "id": 2781278145, "level": 3}
+{"count": 36, "name": "Ring of sets", "weight": 0.0, "id": 2779140158, "level": 3}
+{"count": 21, "name": "E8 lattice", "weight": 0.0, "id": 2776003124, "level": 3}
+{"count": 1953, "name": "Map of lattices", "weight": 5.0, "id": 128379363, "level": 3}
+{"count": 13, "name": "Icosian", "weight": 0.0, "id": 2781288497, "level": 3}
+{"count": 836, "name": "Lattice Miner", "weight": 2.0, "id": 203136989, "level": 3}

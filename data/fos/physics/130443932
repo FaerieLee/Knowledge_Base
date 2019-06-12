@@ -1,0 +1,14 @@
+{"count": 12731, "name": "Magnetopause", "weight": 10.0, "id": 140161248, "level": 4}
+{"count": 6070, "name": "Plasma sheet", "weight": 4.0, "id": 134581325, "level": 4}
+{"count": 3250, "name": "Electron precipitation", "weight": 2.0, "id": 2777795277, "level": 4}
+{"count": 4450, "name": "Plasmasphere", "weight": 3.0, "id": 118691173, "level": 4}
+{"count": 6320, "name": "Substorm", "weight": 4.0, "id": 157899998, "level": 4}
+{"count": 6528, "name": "Ring current", "weight": 5.0, "id": 9844520, "level": 4}
+{"count": 648, "name": "Auroral kilometric radiation", "weight": 0.0, "id": 2779904374, "level": 4}
+{"count": 297, "name": "Magnetospheric Multiscale Mission", "weight": 0.0, "id": 132395163, "level": 4}
+{"count": 109, "name": "Magnetic sail", "weight": 0.0, "id": 2779046794, "level": 4}
+{"count": 342, "name": "Super Dual Auroral Radar Network", "weight": 0.0, "id": 2778814792, "level": 4}
+{"count": 65, "name": "Terrella", "weight": 0.0, "id": 2779708737, "level": 4}
+{"count": 93, "name": "Drift meter", "weight": 0.0, "id": 2778494926, "level": 4}
+{"count": 304, "name": "Auroral chorus", "weight": 0.0, "id": 129671247, "level": 4}
+{"count": 251, "name": "Gas torus", "weight": 0.0, "id": 156442461, "level": 4}

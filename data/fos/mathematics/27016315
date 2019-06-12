@@ -1,0 +1,18 @@
+{"count": 7928, "name": "Functional integration", "weight": 6.0, "id": 101812284, "level": 3}
+{"count": 6366, "name": "Integro-differential equation", "weight": 5.0, "id": 70985411, "level": 3}
+{"count": 5934, "name": "Fredholm integral equation", "weight": 4.0, "id": 89285879, "level": 3}
+{"count": 11997, "name": "Singular integral", "weight": 10.0, "id": 92571104, "level": 3}
+{"count": 6259, "name": "Volterra integral equation", "weight": 5.0, "id": 21965488, "level": 3}
+{"count": 6409, "name": "Electric-field integral equation", "weight": 5.0, "id": 3537527, "level": 3}
+{"count": 755, "name": "Ornstein\u2013Zernike equation", "weight": 0.0, "id": 85824605, "level": 3}
+{"count": 5261, "name": "Nystr\u00f6m method", "weight": 4.0, "id": 48265008, "level": 3}
+{"count": 471, "name": "Abel equation", "weight": 0.0, "id": 166867968, "level": 3}
+{"count": 4209, "name": "Line integral", "weight": 3.0, "id": 75023562, "level": 3}
+{"count": 3786, "name": "Surface integral", "weight": 3.0, "id": 99336924, "level": 3}
+{"count": 5900, "name": "Volume integral", "weight": 4.0, "id": 51577431, "level": 3}
+{"count": 192, "name": "Analytical regularization", "weight": 0.0, "id": 2780968663, "level": 3}
+{"count": 37, "name": "Sommerfeld identity", "weight": 0.0, "id": 2777650409, "level": 3}
+{"count": 4255, "name": "Daniell integral", "weight": 3.0, "id": 134810832, "level": 3}
+{"count": 315, "name": "Quadratic integral", "weight": 0.0, "id": 2780011803, "level": 3}
+{"count": 9149, "name": "Summation equation", "weight": 7.0, "id": 143591791, "level": 3}
+{"count": 105, "name": "Hypernetted-chain equation", "weight": 0.0, "id": 2780660782, "level": 3}

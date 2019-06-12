@@ -1,0 +1,75 @@
+{"count": 12104, "name": "Algal bloom", "weight": 10.0, "id": 120305227, "level": 3}
+{"count": 3015, "name": "Bacterioplankton", "weight": 2.0, "id": 172459030, "level": 3}
+{"count": 581, "name": "Coastal Zone Color Scanner", "weight": 0.0, "id": 2778396148, "level": 3}
+{"count": 6976, "name": "Photic zone", "weight": 5.0, "id": 86839594, "level": 3}
+{"count": 1769, "name": "Emiliania huxleyi", "weight": 1.0, "id": 2777339954, "level": 3}
+{"count": 900, "name": "Biomanipulation", "weight": 0.0, "id": 2777423067, "level": 3}
+{"count": 2429, "name": "Colored dissolved organic matter", "weight": 2.0, "id": 135009316, "level": 3}
+{"count": 2027, "name": "Seston", "weight": 1.0, "id": 2776000122, "level": 3}
+{"count": 2362, "name": "Dinophyceae", "weight": 1.0, "id": 2778908408, "level": 3}
+{"count": 879, "name": "Thalassiosira pseudonana", "weight": 0.0, "id": 2777082925, "level": 3}
+{"count": 3139, "name": "Spring bloom", "weight": 2.0, "id": 97832226, "level": 3}
+{"count": 1424, "name": "Picoplankton", "weight": 1.0, "id": 9121260, "level": 3}
+{"count": 256, "name": "Bermuda Atlantic Time-series Study", "weight": 0.0, "id": 98535783, "level": 3}
+{"count": 2265, "name": "Trophic state index", "weight": 1.0, "id": 152913119, "level": 3}
+{"count": 717, "name": "Phaeocystis", "weight": 0.0, "id": 2776334972, "level": 3}
+{"count": 662, "name": "Cylindrospermopsis raciborskii", "weight": 0.0, "id": 2777559882, "level": 3}
+{"count": 664, "name": "Thalassiosira weissflogii", "weight": 0.0, "id": 2779673048, "level": 3}
+{"count": 392, "name": "Continuous Plankton Recorder", "weight": 0.0, "id": 2776854206, "level": 3}
+{"count": 612, "name": "Pseudo-nitzschia", "weight": 0.0, "id": 2777594882, "level": 3}
+{"count": 777, "name": "Dimethylsulfoniopropionate", "weight": 0.0, "id": 2777593447, "level": 3}
+{"count": 1150, "name": "Aphanizomenon", "weight": 0.0, "id": 2775936106, "level": 3}
+{"count": 699, "name": "Redfield ratio", "weight": 0.0, "id": 83139838, "level": 3}
+{"count": 1025, "name": "Biological pump", "weight": 0.0, "id": 200479807, "level": 3}
+{"count": 2018, "name": "Chaetoceros", "weight": 1.0, "id": 2777973366, "level": 3}
+{"count": 656, "name": "Iron fertilization", "weight": 0.0, "id": 182626311, "level": 3}
+{"count": 705, "name": "Dinophysis", "weight": 0.0, "id": 2776131346, "level": 3}
+{"count": 1968, "name": "Nitzschia", "weight": 1.0, "id": 2779152694, "level": 3}
+{"count": 684, "name": "Cryptomonas", "weight": 0.0, "id": 2776812220, "level": 3}
+{"count": 2314, "name": "Primary producers", "weight": 1.0, "id": 170859357, "level": 3}
+{"count": 155, "name": "Ice algae", "weight": 0.0, "id": 2777309864, "level": 3}
+{"count": 556, "name": "Phytodetritus", "weight": 0.0, "id": 2778053468, "level": 3}
+{"count": 125, "name": "Chromista", "weight": 0.0, "id": 2777191195, "level": 3}
+{"count": 173, "name": "Ditylum brightwellii", "weight": 0.0, "id": 2778617797, "level": 3}
+{"count": 576, "name": "Planktivore", "weight": 0.0, "id": 159463551, "level": 3}
+{"count": 421, "name": "Pediastrum", "weight": 0.0, "id": 2777686794, "level": 3}
+{"count": 387, "name": "Noctiluca scintillans", "weight": 0.0, "id": 2778008780, "level": 3}
+{"count": 701, "name": "Peridinium", "weight": 0.0, "id": 2780816200, "level": 3}
+{"count": 509, "name": "Rhodomonas", "weight": 0.0, "id": 2778402875, "level": 3}
+{"count": 707, "name": "Ceratium", "weight": 0.0, "id": 2780561115, "level": 3}
+{"count": 383, "name": "Haptophyte", "weight": 0.0, "id": 2776159046, "level": 3}
+{"count": 513, "name": "Asterionella", "weight": 0.0, "id": 2777444278, "level": 3}
+{"count": 133, "name": "Myrionecta rubra", "weight": 0.0, "id": 2780674914, "level": 3}
+{"count": 202, "name": "Chroomonas", "weight": 0.0, "id": 2779279212, "level": 3}
+{"count": 266, "name": "Dinobryon", "weight": 0.0, "id": 2781312282, "level": 3}
+{"count": 302, "name": "Oocystis", "weight": 0.0, "id": 2780602197, "level": 3}
+{"count": 917, "name": "Fragilaria", "weight": 0.0, "id": 2778029422, "level": 3}
+{"count": 325, "name": "Ocean fertilization", "weight": 0.0, "id": 75633850, "level": 3}
+{"count": 122, "name": "Gonyostomum semen", "weight": 0.0, "id": 2779427496, "level": 3}
+{"count": 233, "name": "Micromonas", "weight": 0.0, "id": 2779466475, "level": 3}
+{"count": 416, "name": "Nanophytoplankton", "weight": 0.0, "id": 2776456457, "level": 3}
+{"count": 110, "name": "Paradox of the plankton", "weight": 0.0, "id": 164542323, "level": 3}
+{"count": 299, "name": "Staurastrum", "weight": 0.0, "id": 2779119359, "level": 3}
+{"count": 174, "name": "Dictyosphaerium", "weight": 0.0, "id": 2778867800, "level": 3}
+{"count": 173, "name": "Eudorina", "weight": 0.0, "id": 2778753391, "level": 3}
+{"count": 260, "name": "Merismopedia", "weight": 0.0, "id": 2777157317, "level": 3}
+{"count": 170, "name": "Pandorina", "weight": 0.0, "id": 2776521044, "level": 3}
+{"count": 38, "name": "Actinocyclus normanii", "weight": 0.0, "id": 2776979964, "level": 3}
+{"count": 113, "name": "Coscinodiscophyceae", "weight": 0.0, "id": 2780684097, "level": 3}
+{"count": 34, "name": "Mixotrophic dinoflagellate", "weight": 0.0, "id": 2780931169, "level": 3}
+{"count": 88, "name": "Golden algae", "weight": 0.0, "id": 2780397492, "level": 3}
+{"count": 104, "name": "Pennales", "weight": 0.0, "id": 2776724423, "level": 3}
+{"count": 9, "name": "Chaetoceros pseudocurvisetus", "weight": 0.0, "id": 2777096715, "level": 3}
+{"count": 16, "name": "Telonema", "weight": 0.0, "id": 2777386923, "level": 3}
+{"count": 22, "name": "Cryptomonadales", "weight": 0.0, "id": 2777848438, "level": 3}
+{"count": 21, "name": "Coscinodiscaceae", "weight": 0.0, "id": 2777155605, "level": 3}
+{"count": 144, "name": "Odontella", "weight": 0.0, "id": 2777145354, "level": 3}
+{"count": 24, "name": "Schroederia", "weight": 0.0, "id": 2777105846, "level": 3}
+{"count": 16, "name": "Elakatothrix", "weight": 0.0, "id": 2778472192, "level": 3}
+{"count": 59, "name": "Sphaerocystis", "weight": 0.0, "id": 2779265370, "level": 3}
+{"count": 22, "name": "Planktosphaeria", "weight": 0.0, "id": 2781343841, "level": 3}
+{"count": 60, "name": "Crucigenia", "weight": 0.0, "id": 2776298836, "level": 3}
+{"count": 37, "name": "Isothrix", "weight": 0.0, "id": 2780355737, "level": 3}
+{"count": 20, "name": "Closteriopsis", "weight": 0.0, "id": 2780219246, "level": 3}
+{"count": 16, "name": "Planctonema", "weight": 0.0, "id": 2776355863, "level": 3}
+{"count": 352, "name": "High-Nutrient, low-chlorophyll", "weight": 0.0, "id": 170042080, "level": 3}

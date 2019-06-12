@@ -1,0 +1,28 @@
+{"count": 3788, "name": "Electroactive polymers", "weight": 3.0, "id": 167266352, "level": 3}
+{"count": 4002, "name": "Artificial muscle", "weight": 3.0, "id": 196628372, "level": 3}
+{"count": 9054, "name": "Active vibration control", "weight": 8.0, "id": 165165292, "level": 3}
+{"count": 10141, "name": "Pneumatic actuator", "weight": 10.0, "id": 170401851, "level": 3}
+{"count": 8801, "name": "Voice coil", "weight": 8.0, "id": 131513009, "level": 3}
+{"count": 2810, "name": "Microactuator", "weight": 2.0, "id": 58373989, "level": 3}
+{"count": 8817, "name": "Linear actuator", "weight": 8.0, "id": 1486788, "level": 3}
+{"count": 1191, "name": "Soft robotics", "weight": 1.0, "id": 2776058767, "level": 3}
+{"count": 2372, "name": "Synthetic jet", "weight": 2.0, "id": 2779654973, "level": 3}
+{"count": 4244, "name": "Bimorph", "weight": 4.0, "id": 2778393539, "level": 3}
+{"count": 1090, "name": "Dielectric elastomers", "weight": 1.0, "id": 51044723, "level": 3}
+{"count": 4261, "name": "Piezoelectric motor", "weight": 4.0, "id": 149878695, "level": 3}
+{"count": 1203, "name": "Comb drive", "weight": 1.0, "id": 155840801, "level": 3}
+{"count": 1120, "name": "Unimorph", "weight": 1.0, "id": 2779055265, "level": 3}
+{"count": 484, "name": "Brake-by-wire", "weight": 0.0, "id": 2778286648, "level": 3}
+{"count": 6861, "name": "Rotary actuator", "weight": 6.0, "id": 110682481, "level": 3}
+{"count": 231, "name": "DEAP", "weight": 0.0, "id": 74993794, "level": 3}
+{"count": 179, "name": "Mechanical amplifier", "weight": 0.0, "id": 2779534845, "level": 3}
+{"count": 79, "name": "Scratch drive actuator", "weight": 0.0, "id": 2776935141, "level": 3}
+{"count": 79, "name": "Inchworm motor", "weight": 0.0, "id": 2781185119, "level": 3}
+{"count": 37, "name": "Amplified piezoelectric actuator", "weight": 0.0, "id": 2778149568, "level": 3}
+{"count": 83, "name": "DYNAMIXEL", "weight": 0.0, "id": 61832174, "level": 3}
+{"count": 36, "name": "MEMS thermal actuator", "weight": 0.0, "id": 2779437821, "level": 3}
+{"count": 21, "name": "Mechanical singularity", "weight": 0.0, "id": 2779388798, "level": 3}
+{"count": 27, "name": "RoboBee", "weight": 0.0, "id": 2778451622, "level": 3}
+{"count": 2443, "name": "Plant", "weight": 2.0, "id": 127205110, "level": 3}
+{"count": 47, "name": "Wax motor", "weight": 0.0, "id": 184956849, "level": 3}
+{"count": 49, "name": "Servo tab", "weight": 0.0, "id": 179607052, "level": 3}

@@ -1,0 +1,39 @@
+{"count": 35280, "name": "Infant mortality", "weight": 8.0, "id": 112299071, "level": 2}
+{"count": 12361, "name": "Child mortality", "weight": 3.0, "id": 46299933, "level": 2}
+{"count": 40090, "name": "Breastfeeding", "weight": 10.0, "id": 2776283161, "level": 2}
+{"count": 5883, "name": "Infant formula", "weight": 1.0, "id": 2779150110, "level": 2}
+{"count": 16409, "name": "Neonatal intensive care unit", "weight": 4.0, "id": 2777091541, "level": 2}
+{"count": 5681, "name": "Pediatric intensive care unit", "weight": 1.0, "id": 2778939556, "level": 2}
+{"count": 1040, "name": "Bassinet", "weight": 0.0, "id": 2780103070, "level": 2}
+{"count": 1996, "name": "Adolescent medicine", "weight": 0.0, "id": 2781247642, "level": 2}
+{"count": 49, "name": "Bireme", "weight": 0.0, "id": 2777129147, "level": 2}
+{"count": 2364, "name": "Bayley Scales of Infant Development", "weight": 0.0, "id": 103728769, "level": 2}
+{"count": 703, "name": "Kangaroo care", "weight": 0.0, "id": 2777765887, "level": 2}
+{"count": 1623, "name": "Pediatric urology", "weight": 0.0, "id": 2780334110, "level": 2}
+{"count": 755, "name": "Growth chart", "weight": 0.0, "id": 2777342250, "level": 2}
+{"count": 311, "name": "Denver Developmental Screening Test", "weight": 0.0, "id": 2778224691, "level": 2}
+{"count": 452, "name": "Swaddling", "weight": 0.0, "id": 2779939216, "level": 2}
+{"count": 625, "name": "Sigara", "weight": 0.0, "id": 2776207242, "level": 2}
+{"count": 2600, "name": "INAP", "weight": 0.0, "id": 2777731824, "level": 2}
+{"count": 108, "name": "Erythema toxicum neonatorum", "weight": 0.0, "id": 2781075320, "level": 2}
+{"count": 313, "name": "Little Boy", "weight": 0.0, "id": 2781459956, "level": 2}
+{"count": 63, "name": "Tummy time", "weight": 0.0, "id": 2776511508, "level": 2}
+{"count": 592, "name": "Otites", "weight": 0.0, "id": 2781308932, "level": 2}
+{"count": 134, "name": "nutritionDay", "weight": 0.0, "id": 2778823544, "level": 2}
+{"count": 16, "name": "Witch's milk", "weight": 0.0, "id": 2777062356, "level": 2}
+{"count": 30, "name": "Premastication", "weight": 0.0, "id": 2776186054, "level": 2}
+{"count": 134, "name": "Chignon", "weight": 0.0, "id": 2776003253, "level": 2}
+{"count": 16, "name": "Acropustulosis", "weight": 0.0, "id": 2777363431, "level": 2}
+{"count": 24, "name": "Newborn transport", "weight": 0.0, "id": 2776536122, "level": 2}
+{"count": 16, "name": "Albert Einstein's brain", "weight": 0.0, "id": 2780910464, "level": 2}
+{"count": 28, "name": "Doctor's visit", "weight": 0.0, "id": 2780694726, "level": 2}
+{"count": 65, "name": "Classification Commune des Actes M\u00e9dicaux", "weight": 0.0, "id": 203889594, "level": 2}
+{"count": 32, "name": "Gamia", "weight": 0.0, "id": 2777470919, "level": 2}
+{"count": 17, "name": "Jumping Frenchmen of Maine", "weight": 0.0, "id": 2777498111, "level": 2}
+{"count": 11, "name": "Consecutive fifths", "weight": 0.0, "id": 2780780930, "level": 2}
+{"count": 8, "name": "Breast shell", "weight": 0.0, "id": 2779216759, "level": 2}
+{"count": 21, "name": "Cardites", "weight": 0.0, "id": 2779196727, "level": 2}
+{"count": 4, "name": "Landau reflex", "weight": 0.0, "id": 2778494381, "level": 2}
+{"count": 41, "name": "An apple a day keeps the doctor away", "weight": 0.0, "id": 2779084292, "level": 2}
+{"count": 19, "name": "IODD", "weight": 0.0, "id": 2776199061, "level": 2}
+{"count": 56, "name": "E.214", "weight": 0.0, "id": 2776754768, "level": 2}

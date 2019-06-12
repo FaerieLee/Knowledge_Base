@@ -1,0 +1,10 @@
+{"count": 2881, "name": "Breakpoint", "weight": 7.0, "id": 206936463, "level": 3}
+{"count": 3627, "name": "Debugger", "weight": 10.0, "id": 2778485113, "level": 3}
+{"count": 366, "name": "Post-silicon validation", "weight": 1.0, "id": 62097591, "level": 3}
+{"count": 2611, "name": "Algorithmic program debugging", "weight": 7.0, "id": 136388014, "level": 3}
+{"count": 78, "name": "Probe effect", "weight": 0.0, "id": 108757510, "level": 3}
+{"count": 167, "name": "In-circuit emulator", "weight": 0.0, "id": 153485870, "level": 3}
+{"count": 1100, "name": "Debug menu", "weight": 3.0, "id": 22601451, "level": 3}
+{"count": 9, "name": "gdbserver", "weight": 0.0, "id": 2776312847, "level": 3}
+{"count": 122, "name": "Compilation error", "weight": 0.0, "id": 38324569, "level": 3}
+{"count": 1384, "name": "Background debug mode interface", "weight": 3.0, "id": 124774103, "level": 3}

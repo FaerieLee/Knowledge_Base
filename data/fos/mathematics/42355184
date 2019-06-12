@@ -1,0 +1,6 @@
+{"count": 6640, "name": "Non-negative matrix factorization", "weight": 10.0, "id": 152671427, "level": 4}
+{"count": 2749, "name": "LU decomposition", "weight": 4.0, "id": 123213974, "level": 4}
+{"count": 1662, "name": "Incomplete LU factorization", "weight": 2.0, "id": 134978465, "level": 4}
+{"count": 57, "name": "Interpolative decomposition", "weight": 0.0, "id": 2779686909, "level": 4}
+{"count": 1518, "name": "Incomplete Cholesky factorization", "weight": 2.0, "id": 44363057, "level": 4}
+{"count": 946, "name": "Dixon's factorization method", "weight": 1.0, "id": 137559481, "level": 4}

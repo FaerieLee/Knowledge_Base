@@ -1,0 +1,4 @@
+{"count": 250, "name": "Airspace class (United States)", "weight": 10.0, "id": 170366696, "level": 5}
+{"count": 68, "name": "Prohibited airspace", "weight": 2.0, "id": 123847625, "level": 5}
+{"count": 10, "name": "Shanwick Oceanic Control", "weight": 0.0, "id": 108969367, "level": 5}
+{"count": 133, "name": "Military operations area", "weight": 5.0, "id": 157846364, "level": 5}

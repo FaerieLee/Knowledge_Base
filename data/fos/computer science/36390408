@@ -1,0 +1,5 @@
+{"count": 9628, "name": "Infinite impulse response", "weight": 10.0, "id": 183816354, "level": 3}
+{"count": 1458, "name": "Analogue filter", "weight": 1.0, "id": 176046018, "level": 3}
+{"count": 1674, "name": "Recursive filter", "weight": 1.0, "id": 70518719, "level": 3}
+{"count": 200, "name": "Canonical signed digit", "weight": 0.0, "id": 2778710392, "level": 3}
+{"count": 2875, "name": "Digital delay line", "weight": 2.0, "id": 30847790, "level": 3}

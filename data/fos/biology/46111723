@@ -1,0 +1,21 @@
+{"count": 4944, "name": "Quantitative proteomics", "weight": 6.0, "id": 80311884, "level": 3}
+{"count": 2405, "name": "Peptide mass fingerprinting", "weight": 3.0, "id": 27420735, "level": 3}
+{"count": 1589, "name": "Stable isotope labeling by amino acids in cell culture", "weight": 2.0, "id": 34905852, "level": 3}
+{"count": 480, "name": "Isotope-coded affinity tag", "weight": 0.0, "id": 32908123, "level": 3}
+{"count": 1674, "name": "Shotgun proteomics", "weight": 2.0, "id": 68289359, "level": 3}
+{"count": 7096, "name": "Biomarker discovery", "weight": 10.0, "id": 124535831, "level": 3}
+{"count": 1464, "name": "Human proteome project", "weight": 2.0, "id": 94795543, "level": 3}
+{"count": 380, "name": "Immunoproteomics", "weight": 0.0, "id": 2779369144, "level": 3}
+{"count": 562, "name": "Metaproteomics", "weight": 0.0, "id": 199465337, "level": 3}
+{"count": 691, "name": "Difference gel electrophoresis", "weight": 0.0, "id": 178596410, "level": 3}
+{"count": 76, "name": "International Protein Index", "weight": 0.0, "id": 2779001405, "level": 3}
+{"count": 132, "name": "In-gel digestion", "weight": 0.0, "id": 131021294, "level": 3}
+{"count": 285, "name": "Activity-based proteomics", "weight": 0.0, "id": 51446733, "level": 3}
+{"count": 199, "name": "Neuroproteomics", "weight": 0.0, "id": 2780205133, "level": 3}
+{"count": 398, "name": "Human Protein Atlas", "weight": 0.0, "id": 158163496, "level": 3}
+{"count": 230, "name": "Data-independent acquisition", "weight": 0.0, "id": 2777189903, "level": 3}
+{"count": 143, "name": "Chemoproteomics", "weight": 0.0, "id": 2777911286, "level": 3}
+{"count": 23, "name": "Trans-Proteomic Pipeline", "weight": 0.0, "id": 2779594928, "level": 3}
+{"count": 128, "name": "Mass spectrometry data format", "weight": 0.0, "id": 14471711, "level": 3}
+{"count": 25, "name": "Macrophage-capping protein", "weight": 0.0, "id": 2776099530, "level": 3}
+{"count": 33, "name": "Physiomics", "weight": 0.0, "id": 90563750, "level": 3}

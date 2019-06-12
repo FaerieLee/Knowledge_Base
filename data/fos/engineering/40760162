@@ -1,0 +1,4 @@
+{"count": 4284, "name": "Disturbance voltage", "weight": 10.0, "id": 153011079, "level": 5}
+{"count": 3597, "name": "Overdrive voltage", "weight": 8.0, "id": 195905723, "level": 5}
+{"count": 7, "name": "Droop speed control", "weight": 0.0, "id": 2781430489, "level": 5}
+{"count": 1497, "name": "Psophometric voltage", "weight": 3.0, "id": 133326556, "level": 5}

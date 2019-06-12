@@ -1,0 +1,32 @@
+{"count": 8370, "name": "Electric field gradient", "weight": 4.0, "id": 168384580, "level": 3}
+{"count": 6306, "name": "Dielectrophoresis", "weight": 3.0, "id": 106825181, "level": 3}
+{"count": 6298, "name": "Electrohydrodynamics", "weight": 3.0, "id": 95238685, "level": 3}
+{"count": 2623, "name": "Atmospheric electricity", "weight": 1.0, "id": 47279414, "level": 3}
+{"count": 9668, "name": "Drift velocity", "weight": 5.0, "id": 131751877, "level": 3}
+{"count": 2607, "name": "Quantum-confined Stark effect", "weight": 1.0, "id": 163217030, "level": 3}
+{"count": 3530, "name": "Electrorheological fluid", "weight": 2.0, "id": 161987422, "level": 3}
+{"count": 554, "name": "Poole\u2013Frenkel effect", "weight": 0.0, "id": 127396331, "level": 3}
+{"count": 17214, "name": "Optical field", "weight": 10.0, "id": 154452299, "level": 3}
+{"count": 520, "name": "Franz\u2013Keldysh effect", "weight": 0.0, "id": 25299636, "level": 3}
+{"count": 979, "name": "Drift current", "weight": 0.0, "id": 68821740, "level": 3}
+{"count": 602, "name": "Gauss's law", "weight": 0.0, "id": 177099042, "level": 3}
+{"count": 1544, "name": "Displacement current", "weight": 0.0, "id": 101142426, "level": 3}
+{"count": 7947, "name": "Polarization density", "weight": 4.0, "id": 99942733, "level": 3}
+{"count": 1849, "name": "Electric displacement field", "weight": 1.0, "id": 57470404, "level": 3}
+{"count": 1215, "name": "Gaussian surface", "weight": 0.0, "id": 68806387, "level": 3}
+{"count": 638, "name": "Fr\u00e9edericksz transition", "weight": 0.0, "id": 2780956566, "level": 3}
+{"count": 347, "name": "Electric intensity", "weight": 0.0, "id": 2777036512, "level": 3}
+{"count": 132, "name": "Runaway breakdown", "weight": 0.0, "id": 2781402187, "level": 3}
+{"count": 130, "name": "Wien effect", "weight": 0.0, "id": 102849442, "level": 3}
+{"count": 166, "name": "Field mill", "weight": 0.0, "id": 2780449718, "level": 3}
+{"count": 24, "name": "Narrow bipolar pulse", "weight": 0.0, "id": 2778345570, "level": 3}
+{"count": 207, "name": "Electric-field screening", "weight": 0.0, "id": 172697943, "level": 3}
+{"count": 23, "name": "Induced-charge electrokinetics", "weight": 0.0, "id": 2781378415, "level": 3}
+{"count": 69, "name": "Quickfield", "weight": 0.0, "id": 2778094662, "level": 3}
+{"count": 17, "name": "Electric sonic amplitude", "weight": 0.0, "id": 19151132, "level": 3}
+{"count": 46, "name": "Electric Tokamak", "weight": 0.0, "id": 2780242835, "level": 3}
+{"count": 39, "name": "Oscillistor", "weight": 0.0, "id": 2777511342, "level": 3}
+{"count": 41, "name": "Relativistic runaway electron avalanche", "weight": 0.0, "id": 2777997104, "level": 3}
+{"count": 27, "name": "Wannier equation", "weight": 0.0, "id": 2778345868, "level": 3}
+{"count": 109, "name": "Double layer (plasma physics)", "weight": 0.0, "id": 12276030, "level": 3}
+{"count": 23, "name": "Statvolt", "weight": 0.0, "id": 107145526, "level": 3}

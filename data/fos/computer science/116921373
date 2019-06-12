@@ -1,0 +1,6 @@
+{"count": 363, "name": "Rendering equation", "weight": 1.0, "id": 41231194, "level": 4}
+{"count": 141, "name": "Precomputed Radiance Transfer", "weight": 0.0, "id": 2780477985, "level": 4}
+{"count": 1671, "name": "Texture memory", "weight": 6.0, "id": 18766215, "level": 4}
+{"count": 29, "name": "Lightmap", "weight": 0.0, "id": 2777320178, "level": 4}
+{"count": 2604, "name": "Tiled rendering", "weight": 10.0, "id": 189059883, "level": 4}
+{"count": 2494, "name": "Alternate frame rendering", "weight": 9.0, "id": 97431224, "level": 4}

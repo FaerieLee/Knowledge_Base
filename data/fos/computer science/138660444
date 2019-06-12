@@ -1,0 +1,22 @@
+{"count": 4732, "name": "Orthogonal frequency-division multiple access", "weight": 2.0, "id": 2775907427, "level": 4}
+{"count": 1992, "name": "High-Speed Downlink Packet Access", "weight": 1.0, "id": 33331417, "level": 4}
+{"count": 17643, "name": "Control channel", "weight": 10.0, "id": 157607044, "level": 4}
+{"count": 4559, "name": "NAK", "weight": 2.0, "id": 179564198, "level": 4}
+{"count": 2723, "name": "Radio Network Controller", "weight": 1.0, "id": 2777533047, "level": 4}
+{"count": 371, "name": "High Speed Packet Access", "weight": 0.0, "id": 2779834728, "level": 4}
+{"count": 1887, "name": "Random-access channel", "weight": 1.0, "id": 2776105129, "level": 4}
+{"count": 145, "name": "E-UTRA", "weight": 0.0, "id": 2777385310, "level": 4}
+{"count": 232, "name": "High-Speed Uplink Packet Access", "weight": 0.0, "id": 2778930271, "level": 4}
+{"count": 7877, "name": "Subframe", "weight": 4.0, "id": 2776514898, "level": 4}
+{"count": 112, "name": "Zadoff\u2013Chu sequence", "weight": 0.0, "id": 2780538828, "level": 4}
+{"count": 1522, "name": "Discontinuous reception", "weight": 0.0, "id": 2777096791, "level": 4}
+{"count": 1792, "name": "EnodeB", "weight": 1.0, "id": 2776384992, "level": 4}
+{"count": 1259, "name": "Transmission Time Interval", "weight": 0.0, "id": 2776327837, "level": 4}
+{"count": 355, "name": "Common pilot channel", "weight": 0.0, "id": 2778543320, "level": 4}
+{"count": 414, "name": "PCell", "weight": 0.0, "id": 112527997, "level": 4}
+{"count": 88, "name": "Rise over thermal", "weight": 0.0, "id": 2780396798, "level": 4}
+{"count": 1203, "name": "NodeB", "weight": 0.0, "id": 2776744002, "level": 4}
+{"count": 74, "name": "NarrowBand IOT", "weight": 0.0, "id": 2776810648, "level": 4}
+{"count": 14, "name": "Time-Division Long-Term Evolution", "weight": 0.0, "id": 82835401, "level": 4}
+{"count": 75, "name": "Common control physical channel", "weight": 0.0, "id": 2778555005, "level": 4}
+{"count": 222, "name": "APT band plan in the 700 MHz band", "weight": 0.0, "id": 200789289, "level": 4}

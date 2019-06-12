@@ -1,0 +1,3 @@
+{"count": 3338, "name": "K-SVD", "weight": 10.0, "id": 154771677, "level": 3}
+{"count": 1289, "name": "Sparse PCA", "weight": 3.0, "id": 24252448, "level": 3}
+{"count": 464, "name": "Sparse image", "weight": 1.0, "id": 28297318, "level": 3}

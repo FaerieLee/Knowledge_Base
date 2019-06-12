@@ -1,0 +1,50 @@
+{"count": 119948, "name": "Fertility", "weight": 8.0, "id": 518429986, "level": 2}
+{"count": 137659, "name": "Mortality rate", "weight": 10.0, "id": 179755657, "level": 2}
+{"count": 44522, "name": "Population growth", "weight": 3.0, "id": 77352025, "level": 2}
+{"count": 35280, "name": "Infant mortality", "weight": 2.0, "id": 112299071, "level": 2}
+{"count": 40072, "name": "Life expectancy", "weight": 2.0, "id": 133925201, "level": 2}
+{"count": 15875, "name": "Per capita income", "weight": 1.0, "id": 160443848, "level": 2}
+{"count": 4604, "name": "Natural population growth", "weight": 0.0, "id": 61249696, "level": 2}
+{"count": 3774, "name": "Population decline", "weight": 0.0, "id": 2779860289, "level": 2}
+{"count": 24114, "name": "Population ageing", "weight": 1.0, "id": 13774568, "level": 2}
+{"count": 2310, "name": "Dependency ratio", "weight": 0.0, "id": 22541086, "level": 2}
+{"count": 1751, "name": "Demographic history", "weight": 0.0, "id": 517289559, "level": 2}
+{"count": 3025, "name": "Parental leave", "weight": 0.0, "id": 2778517334, "level": 2}
+{"count": 2441, "name": "Health and Retirement Study", "weight": 0.0, "id": 2780176501, "level": 2}
+{"count": 620, "name": "Urban bias", "weight": 0.0, "id": 2779525708, "level": 2}
+{"count": 2645, "name": "Baby boom", "weight": 0.0, "id": 2776444593, "level": 2}
+{"count": 2634, "name": "Geographic mobility", "weight": 0.0, "id": 76944698, "level": 2}
+{"count": 2847, "name": "Floating population", "weight": 0.0, "id": 2779985963, "level": 2}
+{"count": 1774, "name": "Endogamy", "weight": 0.0, "id": 165087160, "level": 2}
+{"count": 553, "name": "Population pyramid", "weight": 0.0, "id": 40800819, "level": 2}
+{"count": 442, "name": "Household economics", "weight": 0.0, "id": 2779723664, "level": 2}
+{"count": 728, "name": "Exogamy", "weight": 0.0, "id": 2777112846, "level": 2}
+{"count": 371, "name": "Paleodemography", "weight": 0.0, "id": 202356376, "level": 2}
+{"count": 645, "name": "Gerontechnology", "weight": 0.0, "id": 2777635720, "level": 2}
+{"count": 267, "name": "Missing women", "weight": 0.0, "id": 2780198947, "level": 2}
+{"count": 198, "name": "Female economic activity", "weight": 0.0, "id": 2776375993, "level": 2}
+{"count": 293, "name": "Domestic partnership", "weight": 0.0, "id": 2780795606, "level": 2}
+{"count": 242, "name": "Parish register", "weight": 0.0, "id": 2775901822, "level": 2}
+{"count": 140, "name": "Harris lines", "weight": 0.0, "id": 2777130421, "level": 2}
+{"count": 255, "name": "Regulating factors", "weight": 0.0, "id": 154161452, "level": 2}
+{"count": 85, "name": "Emperor of the French", "weight": 0.0, "id": 2779879445, "level": 2}
+{"count": 421, "name": "Lochia", "weight": 0.0, "id": 105064666, "level": 2}
+{"count": 174, "name": "Bills of mortality", "weight": 0.0, "id": 2777568947, "level": 2}
+{"count": 95, "name": "Partible inheritance", "weight": 0.0, "id": 2779693379, "level": 2}
+{"count": 122, "name": "Osteochondropathy", "weight": 0.0, "id": 2781173295, "level": 2}
+{"count": 18, "name": "Malthusian growth model", "weight": 0.0, "id": 2780078508, "level": 2}
+{"count": 20, "name": "Decrement table", "weight": 0.0, "id": 2780676279, "level": 2}
+{"count": 2, "name": "Andricus quercuscalifornicus", "weight": 0.0, "id": 2776022794, "level": 2}
+{"count": 1, "name": "Pregnancy over age 50", "weight": 0.0, "id": 2780564847, "level": 2}
+{"count": 40, "name": "Cost of raising a child", "weight": 0.0, "id": 2780834584, "level": 2}
+{"count": 2, "name": "Lindy effect", "weight": 0.0, "id": 2780630946, "level": 2}
+{"count": 43, "name": "Patronymic surname", "weight": 0.0, "id": 39614282, "level": 2}
+{"count": 4, "name": "Crucible (geodemography)", "weight": 0.0, "id": 120500152, "level": 2}
+{"count": 13, "name": "Malthusian catastrophe", "weight": 0.0, "id": 2779396209, "level": 2}
+{"count": 4, "name": "Seedsnipe", "weight": 0.0, "id": 2776027520, "level": 2}
+{"count": 2, "name": "Lunaception", "weight": 0.0, "id": 2780204648, "level": 2}
+{"count": 20, "name": "Gabelle of salt", "weight": 0.0, "id": 28479625, "level": 2}
+{"count": 1, "name": "Birth control in Africa", "weight": 0.0, "id": 2777270502, "level": 2}
+{"count": 4, "name": "Teenage pregnancy in Australia", "weight": 0.0, "id": 2778289300, "level": 2}
+{"count": 1, "name": "Pre-Conception and Pre-Natal Diagnostic Techniques Act, 1994", "weight": 0.0, "id": 2780211081, "level": 2}
+{"count": 12, "name": "Genealogical numbering systems", "weight": 0.0, "id": 152204776, "level": 2}

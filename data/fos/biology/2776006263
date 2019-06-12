@@ -1,0 +1,20 @@
+{"count": 12725, "name": "Continuous positive airway pressure", "weight": 10.0, "id": 2779547634, "level": 4}
+{"count": 2759, "name": "Apnea\u2013hypopnea index", "weight": 2.0, "id": 2776377968, "level": 4}
+{"count": 4165, "name": "Epworth Sleepiness Scale", "weight": 3.0, "id": 2778664715, "level": 4}
+{"count": 4371, "name": "Excessive daytime sleepiness", "weight": 3.0, "id": 2781433485, "level": 4}
+{"count": 1141, "name": "Respiratory disturbance index", "weight": 0.0, "id": 2781442344, "level": 4}
+{"count": 1677, "name": "Central sleep apnea", "weight": 1.0, "id": 2780168309, "level": 4}
+{"count": 767, "name": "Obesity hypoventilation syndrome", "weight": 0.0, "id": 2780797627, "level": 4}
+{"count": 1355, "name": "Uvulopalatopharyngoplasty", "weight": 1.0, "id": 2779761351, "level": 4}
+{"count": 441, "name": "Upper airway resistance syndrome", "weight": 0.0, "id": 2779646052, "level": 4}
+{"count": 3596, "name": "Positive airway pressure", "weight": 2.0, "id": 2775867611, "level": 4}
+{"count": 469, "name": "Periodic limb movement disorder", "weight": 0.0, "id": 2779922520, "level": 4}
+{"count": 5579, "name": "Hypopnea", "weight": 4.0, "id": 2777711342, "level": 4}
+{"count": 1151, "name": "Genioglossus", "weight": 0.0, "id": 2778670693, "level": 4}
+{"count": 1121, "name": "Oral appliance", "weight": 0.0, "id": 2779485045, "level": 4}
+{"count": 1840, "name": "Sleep study", "weight": 1.0, "id": 2780322006, "level": 4}
+{"count": 374, "name": "Maxillomandibular advancement", "weight": 0.0, "id": 2777592398, "level": 4}
+{"count": 204, "name": "M\u00fcller's maneuver", "weight": 0.0, "id": 174791979, "level": 4}
+{"count": 128, "name": "Sleep surgery", "weight": 0.0, "id": 2775986487, "level": 4}
+{"count": 114, "name": "Lingual tonsils", "weight": 0.0, "id": 2779890315, "level": 4}
+{"count": 1640, "name": "Sleep and breathing", "weight": 1.0, "id": 99526266, "level": 4}

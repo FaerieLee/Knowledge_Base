@@ -1,0 +1,25 @@
+{"count": 6761, "name": "Spacecraft design", "weight": 10.0, "id": 551646850, "level": 3}
+{"count": 1598, "name": "Spacecraft charging", "weight": 2.0, "id": 2776463981, "level": 3}
+{"count": 2225, "name": "Solar sail", "weight": 3.0, "id": 88417058, "level": 3}
+{"count": 1184, "name": "Space rendezvous", "weight": 1.0, "id": 125616564, "level": 3}
+{"count": 2233, "name": "Orbital maneuver", "weight": 3.0, "id": 136319028, "level": 3}
+{"count": 3160, "name": "Reaction wheel", "weight": 4.0, "id": 206245727, "level": 3}
+{"count": 881, "name": "Orbit insertion", "weight": 1.0, "id": 60485486, "level": 3}
+{"count": 704, "name": "Robotic spacecraft", "weight": 1.0, "id": 26355699, "level": 3}
+{"count": 1507, "name": "Deep space exploration", "weight": 2.0, "id": 61776360, "level": 3}
+{"count": 1442, "name": "Human spaceflight", "weight": 2.0, "id": 534819032, "level": 3}
+{"count": 80, "name": "MultiMission Modular Spacecraft", "weight": 0.0, "id": 2778908215, "level": 3}
+{"count": 166, "name": "Automated Transfer Vehicle", "weight": 0.0, "id": 2776457032, "level": 3}
+{"count": 538, "name": "Gravity assist", "weight": 0.0, "id": 144953966, "level": 3}
+{"count": 441, "name": "Parking orbit", "weight": 0.0, "id": 134240934, "level": 3}
+{"count": 344, "name": "Launch window", "weight": 0.0, "id": 171367847, "level": 3}
+{"count": 204, "name": "Interplanetary mission", "weight": 0.0, "id": 2777302497, "level": 3}
+{"count": 123, "name": "Fractionated spacecraft", "weight": 0.0, "id": 2779199053, "level": 3}
+{"count": 201, "name": "Flyby anomaly", "weight": 0.0, "id": 170674324, "level": 3}
+{"count": 160, "name": "Exploration of Mercury", "weight": 0.0, "id": 153553885, "level": 3}
+{"count": 149, "name": "Europa Orbiter", "weight": 0.0, "id": 2779790087, "level": 3}
+{"count": 682, "name": "Solar conjunction", "weight": 1.0, "id": 34976250, "level": 3}
+{"count": 40, "name": "Planetary flyby", "weight": 0.0, "id": 2779085470, "level": 3}
+{"count": 528, "name": "Spacefaring", "weight": 0.0, "id": 156336011, "level": 3}
+{"count": 207, "name": "Orbit Attitude and Maneuvering System", "weight": 0.0, "id": 181752697, "level": 3}
+{"count": 148, "name": "Roll program", "weight": 0.0, "id": 117089332, "level": 3}

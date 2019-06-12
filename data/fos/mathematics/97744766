@@ -1,0 +1,10 @@
+{"count": 1702, "name": "Binary symmetric channel", "weight": 5.0, "id": 173988684, "level": 4}
+{"count": 3036, "name": "Binary erasure channel", "weight": 10.0, "id": 149862233, "level": 4}
+{"count": 79, "name": "Arbitrarily varying channel", "weight": 0.0, "id": 2776234957, "level": 4}
+{"count": 620, "name": "Shannon\u2013Hartley theorem", "weight": 2.0, "id": 180137035, "level": 4}
+{"count": 134, "name": "Z-channel", "weight": 0.0, "id": 2776671236, "level": 4}
+{"count": 104, "name": "Deletion channel", "weight": 0.0, "id": 2777396513, "level": 4}
+{"count": 28, "name": "Blahut\u2013Arimoto algorithm", "weight": 0.0, "id": 2779257168, "level": 4}
+{"count": 9, "name": "Water-pouring algorithm", "weight": 0.0, "id": 2778802064, "level": 4}
+{"count": 58, "name": "Lov\u00e1sz number", "weight": 0.0, "id": 96169753, "level": 4}
+{"count": 97, "name": "Shannon capacity of a graph", "weight": 0.0, "id": 156670223, "level": 4}

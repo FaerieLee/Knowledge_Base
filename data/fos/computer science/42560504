@@ -1,0 +1,7 @@
+{"count": 903, "name": "LR parser", "weight": 4.0, "id": 35164859, "level": 4}
+{"count": 2194, "name": "Bottom-up parsing", "weight": 10.0, "id": 60690694, "level": 4}
+{"count": 1481, "name": "Parsing expression grammar", "weight": 6.0, "id": 146810361, "level": 4}
+{"count": 819, "name": "LALR parser", "weight": 3.0, "id": 107077579, "level": 4}
+{"count": 157, "name": "Chart parser", "weight": 0.0, "id": 2781219728, "level": 4}
+{"count": 748, "name": "Simple LR parser", "weight": 3.0, "id": 168740440, "level": 4}
+{"count": 670, "name": "GLR parser", "weight": 3.0, "id": 143613975, "level": 4}

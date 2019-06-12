@@ -1,0 +1,10 @@
+{"count": 662, "name": "Dictionary attack", "weight": 1.0, "id": 113328881, "level": 3}
+{"count": 1028, "name": "Authenticated Key Exchange", "weight": 1.0, "id": 2777572472, "level": 3}
+{"count": 5374, "name": "One-time password", "weight": 10.0, "id": 89479133, "level": 3}
+{"count": 952, "name": "Keystroke dynamics", "weight": 1.0, "id": 79540074, "level": 3}
+{"count": 498, "name": "Shoulder surfing", "weight": 0.0, "id": 184956938, "level": 3}
+{"count": 3577, "name": "Password policy", "weight": 6.0, "id": 98705547, "level": 3}
+{"count": 4932, "name": "S/KEY", "weight": 9.0, "id": 4957475, "level": 3}
+{"count": 38, "name": "Honey Encryption", "weight": 0.0, "id": 2779993733, "level": 3}
+{"count": 20, "name": "scrypt", "weight": 0.0, "id": 65821590, "level": 3}
+{"count": 272, "name": "ssh-agent", "weight": 0.0, "id": 39336981, "level": 3}

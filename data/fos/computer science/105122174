@@ -1,0 +1,12 @@
+{"count": 686, "name": "Reference counting", "weight": 5.0, "id": 130335069, "level": 3}
+{"count": 1189, "name": "Memory leak", "weight": 10.0, "id": 156731835, "level": 3}
+{"count": 57, "name": "Standard ML of New Jersey", "weight": 0.0, "id": 2779149820, "level": 3}
+{"count": 274, "name": "Write amplification", "weight": 2.0, "id": 2779026995, "level": 3}
+{"count": 91, "name": "Write barrier", "weight": 0.0, "id": 2777408773, "level": 3}
+{"count": 67, "name": "Allocation site", "weight": 0.0, "id": 2778834526, "level": 3}
+{"count": 73, "name": "Weak reference", "weight": 0.0, "id": 136228686, "level": 3}
+{"count": 44, "name": "Finalizer", "weight": 0.0, "id": 35991421, "level": 3}
+{"count": 75, "name": "Object lifetime", "weight": 0.0, "id": 2778866541, "level": 3}
+{"count": 30, "name": "Object copying", "weight": 0.0, "id": 2780308038, "level": 3}
+{"count": 1142, "name": "Manual memory management", "weight": 9.0, "id": 82810778, "level": 3}
+{"count": 10, "name": "Tracing garbage collection", "weight": 0.0, "id": 2777734349, "level": 3}

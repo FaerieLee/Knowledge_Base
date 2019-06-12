@@ -1,0 +1,200 @@
+{"count": 142530, "name": "Risk assessment", "weight": 7.0, "id": 12174686, "level": 2}
+{"count": 137915, "name": "Convergence (routing)", "weight": 6.0, "id": 71923881, "level": 2}
+{"count": 58719, "name": "Cryptography", "weight": 2.0, "id": 178489894, "level": 2}
+{"count": 36250, "name": "Routing protocol", "weight": 1.0, "id": 104954878, "level": 2}
+{"count": 117841, "name": "Authentication", "weight": 5.0, "id": 171289174, "level": 2}
+{"count": 51546, "name": "Access control", "weight": 2.0, "id": 527821871, "level": 2}
+{"count": 37510, "name": "Biometrics", "weight": 1.0, "id": 184297639, "level": 2}
+{"count": 31991, "name": "Intrusion detection system", "weight": 1.0, "id": 35525427, "level": 2}
+{"count": 37747, "name": "Network architecture", "weight": 1.0, "id": 193415008, "level": 2}
+{"count": 35023, "name": "Information security", "weight": 1.0, "id": 527648132, "level": 2}
+{"count": 15547, "name": "Data integrity", "weight": 0.0, "id": 33762810, "level": 2}
+{"count": 15020, "name": "Digital signature", "weight": 0.0, "id": 118463975, "level": 2}
+{"count": 29928, "name": "Hash function", "weight": 1.0, "id": 99138194, "level": 2}
+{"count": 16860, "name": "Hardening (computing)", "weight": 0.0, "id": 44255700, "level": 2}
+{"count": 14447, "name": "Denial-of-service attack", "weight": 0.0, "id": 38822068, "level": 2}
+{"count": 106296, "name": "Encryption", "weight": 5.0, "id": 148730421, "level": 2}
+{"count": 14461, "name": "Cryptographic protocol", "weight": 0.0, "id": 33884865, "level": 2}
+{"count": 29656, "name": "Network security", "weight": 1.0, "id": 182590292, "level": 2}
+{"count": 39288, "name": "Smart card", "weight": 1.0, "id": 110406131, "level": 2}
+{"count": 36034, "name": "Authorization", "weight": 1.0, "id": 108759981, "level": 2}
+{"count": 27313, "name": "Information privacy", "weight": 1.0, "id": 123201435, "level": 2}
+{"count": 56788, "name": "Internet of Things", "weight": 2.0, "id": 81860439, "level": 2}
+{"count": 28202, "name": "Confidentiality", "weight": 1.0, "id": 71745522, "level": 2}
+{"count": 15692, "name": "Data security", "weight": 0.0, "id": 10511746, "level": 2}
+{"count": 16784, "name": "Shared resource", "weight": 0.0, "id": 51332947, "level": 2}
+{"count": 44830, "name": "Multicast", "weight": 2.0, "id": 32295351, "level": 2}
+{"count": 7234, "name": "Private information retrieval", "weight": 0.0, "id": 99221444, "level": 2}
+{"count": 42744, "name": "Key (lock)", "weight": 2.0, "id": 26517878, "level": 2}
+{"count": 77089, "name": "Collision", "weight": 3.0, "id": 121704057, "level": 2}
+{"count": 25848, "name": "Radio-frequency identification", "weight": 1.0, "id": 204222849, "level": 2}
+{"count": 17304, "name": "Security policy", "weight": 0.0, "id": 154908896, "level": 2}
+{"count": 9925, "name": "Panama", "weight": 0.0, "id": 2779234422, "level": 2}
+{"count": 4409, "name": "Internetworking", "weight": 0.0, "id": 2780405328, "level": 2}
+{"count": 3321, "name": "Information protection policy", "weight": 0.0, "id": 168297262, "level": 2}
+{"count": 15852, "name": "Anonymity", "weight": 0.0, "id": 178005623, "level": 2}
+{"count": 9219, "name": "Secure communication", "weight": 0.0, "id": 510870077, "level": 2}
+{"count": 44887, "name": "Port (computer networking)", "weight": 2.0, "id": 158025753, "level": 2}
+{"count": 7530, "name": "Security analysis", "weight": 0.0, "id": 38369872, "level": 2}
+{"count": 6679, "name": "Information policy", "weight": 0.0, "id": 2779455174, "level": 2}
+{"count": 16100, "name": "Internet protocol suite", "weight": 0.0, "id": 65567647, "level": 2}
+{"count": 10885, "name": "Homeland security", "weight": 0.0, "id": 506469952, "level": 2}
+{"count": 5747, "name": "Secure multi-party computation", "weight": 0.0, "id": 18396474, "level": 2}
+{"count": 3488, "name": "Computer virus", "weight": 0.0, "id": 19407854, "level": 2}
+{"count": 6996, "name": "Secret sharing", "weight": 0.0, "id": 3087436, "level": 2}
+{"count": 13846, "name": "Data Protection Act 1998", "weight": 0.0, "id": 69360830, "level": 2}
+{"count": 1995, "name": "Copy protection", "weight": 0.0, "id": 2780581891, "level": 2}
+{"count": 6211, "name": "Quantum key distribution", "weight": 0.0, "id": 95466800, "level": 2}
+{"count": 22345, "name": "Computer security model", "weight": 1.0, "id": 121822524, "level": 2}
+{"count": 203175, "name": "Network packet", "weight": 10.0, "id": 158379750, "level": 2}
+{"count": 5495, "name": "Traffic analysis", "weight": 0.0, "id": 2781317605, "level": 2}
+{"count": 2999, "name": "Type of service", "weight": 0.0, "id": 159091166, "level": 2}
+{"count": 4370, "name": "Key exchange", "weight": 0.0, "id": 99674996, "level": 2}
+{"count": 35056, "name": "Dynamic Source Routing", "weight": 1.0, "id": 9659607, "level": 2}
+{"count": 14505, "name": "Malware", "weight": 0.0, "id": 541664917, "level": 2}
+{"count": 31706, "name": "Password", "weight": 1.0, "id": 109297577, "level": 2}
+{"count": 6446, "name": "Enterprise information security architecture", "weight": 0.0, "id": 31139447, "level": 2}
+{"count": 16032, "name": "Secrecy", "weight": 0.0, "id": 2776452267, "level": 2}
+{"count": 10692, "name": "Critical infrastructure", "weight": 0.0, "id": 29852176, "level": 2}
+{"count": 4792, "name": "Digital forensics", "weight": 0.0, "id": 84418412, "level": 2}
+{"count": 9791, "name": "Security management", "weight": 0.0, "id": 83163435, "level": 2}
+{"count": 3048, "name": "Trusted third party", "weight": 0.0, "id": 139089976, "level": 2}
+{"count": 4012, "name": "Tamper resistance", "weight": 0.0, "id": 19163912, "level": 2}
+{"count": 3886, "name": "Trusted Computing", "weight": 0.0, "id": 2776831232, "level": 2}
+{"count": 53590, "name": "SAINT", "weight": 2.0, "id": 2780415144, "level": 2}
+{"count": 4080, "name": "IP forwarding", "weight": 0.0, "id": 174809319, "level": 2}
+{"count": 9461, "name": "Codebook", "weight": 0.0, "id": 127759330, "level": 2}
+{"count": 13324, "name": "Hacker", "weight": 0.0, "id": 86844869, "level": 2}
+{"count": 45804, "name": "Default gateway", "weight": 2.0, "id": 187713609, "level": 2}
+{"count": 9048, "name": "Firewall (construction)", "weight": 0.0, "id": 192690888, "level": 2}
+{"count": 21509, "name": "Personally identifiable information", "weight": 1.0, "id": 169093310, "level": 2}
+{"count": 3564, "name": "Electronic signature", "weight": 0.0, "id": 196587545, "level": 2}
+{"count": 4549, "name": "Network address translation", "weight": 0.0, "id": 147873670, "level": 2}
+{"count": 1923, "name": "First responder", "weight": 0.0, "id": 2776987312, "level": 2}
+{"count": 3412, "name": "Zeus (malware)", "weight": 0.0, "id": 199959010, "level": 2}
+{"count": 5047, "name": "Contingency plan", "weight": 0.0, "id": 14331377, "level": 2}
+{"count": 3115, "name": "Information leakage", "weight": 0.0, "id": 2779201187, "level": 2}
+{"count": 4952, "name": "Autonomous system (Internet)", "weight": 0.0, "id": 5147268, "level": 2}
+{"count": 48518, "name": "Bridging (networking)", "weight": 2.0, "id": 174348530, "level": 2}
+{"count": 3313, "name": "Eavesdropping", "weight": 0.0, "id": 2776788033, "level": 2}
+{"count": 3324, "name": "Personal identification number", "weight": 0.0, "id": 2779730368, "level": 2}
+{"count": 5732, "name": "Misinformation", "weight": 0.0, "id": 2776990098, "level": 2}
+{"count": 2660, "name": "Information warfare", "weight": 0.0, "id": 2781349506, "level": 2}
+{"count": 4470, "name": "Digital rights management", "weight": 0.0, "id": 537843408, "level": 2}
+{"count": 2320, "name": "Transport Layer Security", "weight": 0.0, "id": 148176105, "level": 2}
+{"count": 31260, "name": "Hop (networking)", "weight": 1.0, "id": 29736862, "level": 2}
+{"count": 5073, "name": "Block cipher mode of operation", "weight": 0.0, "id": 60448319, "level": 2}
+{"count": 1241, "name": "Open Systems Interconnection", "weight": 0.0, "id": 147972487, "level": 2}
+{"count": 8042, "name": "Network service", "weight": 0.0, "id": 2779618445, "level": 2}
+{"count": 993, "name": "Passive monitoring", "weight": 0.0, "id": 2776943680, "level": 2}
+{"count": 3113, "name": "Identity theft", "weight": 0.0, "id": 522325796, "level": 2}
+{"count": 24420, "name": "Adversary", "weight": 1.0, "id": 41065033, "level": 2}
+{"count": 10014, "name": "Timestamp", "weight": 0.0, "id": 113954288, "level": 2}
+{"count": 1213, "name": "Information discovery", "weight": 0.0, "id": 2778522275, "level": 2}
+{"count": 2428, "name": "Threat assessment", "weight": 0.0, "id": 2778868856, "level": 2}
+{"count": 1834, "name": "Database security", "weight": 0.0, "id": 2778553114, "level": 2}
+{"count": 27521, "name": "Ticket", "weight": 1.0, "id": 2776540713, "level": 2}
+{"count": 1031, "name": "Emergency procedure", "weight": 0.0, "id": 2777943205, "level": 2}
+{"count": 6517, "name": "Near field communication", "weight": 0.0, "id": 175604262, "level": 2}
+{"count": 3984, "name": "Security level", "weight": 0.0, "id": 2776967254, "level": 2}
+{"count": 2809, "name": "Honeypot", "weight": 0.0, "id": 191267431, "level": 2}
+{"count": 1851, "name": "Neighbor Discovery Protocol", "weight": 0.0, "id": 165932591, "level": 2}
+{"count": 15748, "name": "Credit history", "weight": 0.0, "id": 68842666, "level": 2}
+{"count": 5140, "name": "Blockchain", "weight": 0.0, "id": 2779687700, "level": 2}
+{"count": 3208, "name": "Mobile banking", "weight": 0.0, "id": 2775930393, "level": 2}
+{"count": 4889, "name": "IPsec", "weight": 0.0, "id": 67396069, "level": 2}
+{"count": 5055, "name": "Revocation", "weight": 0.0, "id": 2775892892, "level": 2}
+{"count": 2484, "name": "Airport security", "weight": 0.0, "id": 180646296, "level": 2}
+{"count": 9181, "name": "Broadcast communication network", "weight": 0.0, "id": 83529365, "level": 2}
+{"count": 8396, "name": "Crowds", "weight": 0.0, "id": 2777852691, "level": 2}
+{"count": 919, "name": "Common Criteria", "weight": 0.0, "id": 2777306048, "level": 2}
+{"count": 4752, "name": "Campus network", "weight": 0.0, "id": 2780944068, "level": 2}
+{"count": 2104, "name": "Intelligence analysis", "weight": 0.0, "id": 517642484, "level": 2}
+{"count": 2674, "name": "Social engineering (security)", "weight": 0.0, "id": 70118762, "level": 2}
+{"count": 1438, "name": "Information Operations", "weight": 0.0, "id": 121858775, "level": 2}
+{"count": 3260, "name": "Business continuity", "weight": 0.0, "id": 2778143579, "level": 2}
+{"count": 8202, "name": "Verifiable secret sharing", "weight": 0.0, "id": 85847156, "level": 2}
+{"count": 2643, "name": "Cyberwarfare", "weight": 0.0, "id": 171769113, "level": 2}
+{"count": 16886, "name": "Security token", "weight": 0.0, "id": 48145219, "level": 2}
+{"count": 1383, "name": "Network-centric warfare", "weight": 0.0, "id": 2781187084, "level": 2}
+{"count": 8334, "name": "Private network", "weight": 0.0, "id": 117387248, "level": 2}
+{"count": 2063, "name": "Communications security", "weight": 0.0, "id": 151423352, "level": 2}
+{"count": 3685, "name": "Data deduplication", "weight": 0.0, "id": 32587265, "level": 2}
+{"count": 5223, "name": "Block size", "weight": 0.0, "id": 41431624, "level": 2}
+{"count": 3903, "name": "Obfuscation", "weight": 0.0, "id": 40305131, "level": 2}
+{"count": 7034, "name": "Dig", "weight": 0.0, "id": 16654397, "level": 2}
+{"count": 35824, "name": "Trailer", "weight": 1.0, "id": 2779101595, "level": 2}
+{"count": 3283, "name": "Dynamic Host Configuration Protocol", "weight": 0.0, "id": 26876914, "level": 2}
+{"count": 2761, "name": "Cryptocurrency", "weight": 0.0, "id": 180706569, "level": 2}
+{"count": 1190, "name": "Unconventional warfare", "weight": 0.0, "id": 182165825, "level": 2}
+{"count": 1252, "name": "Data retention", "weight": 0.0, "id": 2780866740, "level": 2}
+{"count": 903, "name": "Overdraft", "weight": 0.0, "id": 55923875, "level": 2}
+{"count": 2029, "name": "OSI model", "weight": 0.0, "id": 168535184, "level": 2}
+{"count": 280, "name": "Scad", "weight": 0.0, "id": 2776857174, "level": 2}
+{"count": 1464, "name": "CAPTCHA", "weight": 0.0, "id": 163339463, "level": 2}
+{"count": 8888, "name": "Capstone", "weight": 0.0, "id": 2778293151, "level": 2}
+{"count": 988, "name": "Electronic identification", "weight": 0.0, "id": 2780512151, "level": 2}
+{"count": 1814, "name": "Threat model", "weight": 0.0, "id": 140547941, "level": 2}
+{"count": 1614, "name": "Border Security", "weight": 0.0, "id": 2780934415, "level": 2}
+{"count": 1199, "name": "Camellia", "weight": 0.0, "id": 2780790598, "level": 2}
+{"count": 682, "name": "Electronic article", "weight": 0.0, "id": 2779271920, "level": 2}
+{"count": 4629, "name": "Virtual LAN", "weight": 0.0, "id": 206505811, "level": 2}
+{"count": 3261, "name": "Security controls", "weight": 0.0, "id": 178148461, "level": 2}
+{"count": 4677, "name": "Notification system", "weight": 0.0, "id": 2779011373, "level": 2}
+{"count": 7479, "name": "Information sensitivity", "weight": 0.0, "id": 137822555, "level": 2}
+{"count": 7196, "name": "Tiger", "weight": 0.0, "id": 91451191, "level": 2}
+{"count": 3441, "name": "Seclusion", "weight": 0.0, "id": 2779443813, "level": 2}
+{"count": 1163, "name": "Legal instrument", "weight": 0.0, "id": 2776573520, "level": 2}
+{"count": 2185, "name": "Trojan horse", "weight": 0.0, "id": 2777337426, "level": 2}
+{"count": 8609, "name": "Heartbeat", "weight": 0.0, "id": 13852961, "level": 2}
+{"count": 402, "name": "Data Link Control", "weight": 0.0, "id": 78773186, "level": 2}
+{"count": 1453, "name": "Hardware security module", "weight": 0.0, "id": 39217717, "level": 2}
+{"count": 2607, "name": "Blinding", "weight": 0.0, "id": 2771230, "level": 2}
+{"count": 31851, "name": "Link-state routing protocol", "weight": 1.0, "id": 89305328, "level": 2}
+{"count": 2325, "name": "Physical security", "weight": 0.0, "id": 2776157020, "level": 2}
+{"count": 9789, "name": "Self-service", "weight": 0.0, "id": 2775906791, "level": 2}
+{"count": 4946, "name": "Spoofing attack", "weight": 0.0, "id": 167900197, "level": 2}
+{"count": 2200, "name": "Cyber-attack", "weight": 0.0, "id": 201307755, "level": 2}
+{"count": 67147, "name": "Exploit", "weight": 3.0, "id": 165696696, "level": 2}
+{"count": 1219, "name": "Anycast", "weight": 0.0, "id": 122005561, "level": 2}
+{"count": 2236, "name": "Universal Plug and Play", "weight": 0.0, "id": 177066171, "level": 2}
+{"count": 23616, "name": "Security service", "weight": 1.0, "id": 29983905, "level": 2}
+{"count": 895, "name": "Crypt", "weight": 0.0, "id": 66090201, "level": 2}
+{"count": 1489, "name": "Physical unclonable function", "weight": 0.0, "id": 8643368, "level": 2}
+{"count": 4098, "name": "Enterprise private network", "weight": 0.0, "id": 149859251, "level": 2}
+{"count": 56179, "name": "Guard (information security)", "weight": 2.0, "id": 3981223, "level": 2}
+{"count": 15249, "name": "Sandbox (computer security)", "weight": 0.0, "id": 41724716, "level": 2}
+{"count": 6855, "name": "Retention rate", "weight": 0.0, "id": 79736992, "level": 2}
+{"count": 1290, "name": "Escrow", "weight": 0.0, "id": 167254554, "level": 2}
+{"count": 16381, "name": "Services computing", "weight": 0.0, "id": 542858634, "level": 2}
+{"count": 1793, "name": "Red Cell", "weight": 0.0, "id": 2777208419, "level": 2}
+{"count": 3420, "name": "Tempest", "weight": 0.0, "id": 2776971686, "level": 2}
+{"count": 6359, "name": "Padding", "weight": 0.0, "id": 165435473, "level": 2}
+{"count": 1055, "name": "NetFlow", "weight": 0.0, "id": 188067584, "level": 2}
+{"count": 312, "name": "Photo identification", "weight": 0.0, "id": 2781403613, "level": 2}
+{"count": 1216, "name": "Digital identity", "weight": 0.0, "id": 2779813694, "level": 2}
+{"count": 1541, "name": "Network Access Protection", "weight": 0.0, "id": 113725186, "level": 2}
+{"count": 369, "name": "Computer maintenance", "weight": 0.0, "id": 2777080876, "level": 2}
+{"count": 1604, "name": "Attack model", "weight": 0.0, "id": 65856478, "level": 2}
+{"count": 1547, "name": "Traffic police", "weight": 0.0, "id": 2776034591, "level": 2}
+{"count": 1952, "name": "Classified information", "weight": 0.0, "id": 124181835, "level": 2}
+{"count": 5340, "name": "Session key", "weight": 0.0, "id": 191197275, "level": 2}
+{"count": 375, "name": "Global Information Grid", "weight": 0.0, "id": 87270063, "level": 2}
+{"count": 3562, "name": "Protection mechanism", "weight": 0.0, "id": 2778717966, "level": 2}
+{"count": 2800, "name": "Zombie", "weight": 0.0, "id": 144446859, "level": 2}
+{"count": 144, "name": "X.400", "weight": 0.0, "id": 2779664491, "level": 2}
+{"count": 1724, "name": "Full disclosure", "weight": 0.0, "id": 107101626, "level": 2}
+{"count": 2933, "name": "Keystroke logging", "weight": 0.0, "id": 161615301, "level": 2}
+{"count": 3743, "name": "IEEE 802.11e-2005", "weight": 0.0, "id": 168762940, "level": 2}
+{"count": 1430, "name": "Data breach", "weight": 0.0, "id": 165609540, "level": 2}
+{"count": 1286, "name": "Criminal record", "weight": 0.0, "id": 2780597079, "level": 2}
+{"count": 1141, "name": "Security awareness", "weight": 0.0, "id": 2778652015, "level": 2}
+{"count": 596, "name": "Social Security number", "weight": 0.0, "id": 2780841084, "level": 2}
+{"count": 2432, "name": "Direct Anonymous Attestation", "weight": 0.0, "id": 169796023, "level": 2}
+{"count": 1984, "name": "Subnetwork", "weight": 0.0, "id": 2780186347, "level": 2}
+{"count": 719, "name": "Counterintelligence", "weight": 0.0, "id": 173127888, "level": 2}
+{"count": 595, "name": "Declassification", "weight": 0.0, "id": 2780572298, "level": 2}
+{"count": 9378, "name": "Ping (video games)", "weight": 0.0, "id": 156308498, "level": 2}
+{"count": 1804, "name": "Handshaking", "weight": 0.0, "id": 58861099, "level": 2}
+{"count": 17245, "name": "SAFER", "weight": 0.0, "id": 2776654903, "level": 2}
+{"count": 496, "name": "Blacklisting", "weight": 0.0, "id": 2779797433, "level": 2}

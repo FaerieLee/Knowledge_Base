@@ -1,0 +1,10 @@
+{"count": 9765, "name": "Spatial database", "weight": 10.0, "id": 203689450, "level": 3}
+{"count": 4120, "name": "Spatial data infrastructure", "weight": 4.0, "id": 188981036, "level": 3}
+{"count": 455, "name": "Moran's I", "weight": 0.0, "id": 120652819, "level": 3}
+{"count": 508, "name": "Modifiable areal unit problem", "weight": 0.0, "id": 91836769, "level": 3}
+{"count": 73, "name": "Spatial Data Transfer Standard", "weight": 0.0, "id": 2776648683, "level": 3}
+{"count": 347, "name": "GeoDa", "weight": 0.0, "id": 2779396449, "level": 3}
+{"count": 50, "name": "CrimeStat", "weight": 0.0, "id": 2779544297, "level": 3}
+{"count": 107, "name": "Tobler's first law of geography", "weight": 0.0, "id": 10005042, "level": 3}
+{"count": 18, "name": "Spatial ETL", "weight": 0.0, "id": 2780300218, "level": 3}
+{"count": 355, "name": "Spatial descriptive statistics", "weight": 0.0, "id": 17172402, "level": 3}

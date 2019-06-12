@@ -1,0 +1,10 @@
+{"count": 612, "name": "Interpreted language", "weight": 10.0, "id": 109546603, "level": 3}
+{"count": 460, "name": "Scheme (programming language)", "weight": 7.0, "id": 24493144, "level": 3}
+{"count": 59, "name": "Telephone interpreting", "weight": 0.0, "id": 2778865528, "level": 3}
+{"count": 337, "name": "Read\u2013eval\u2013print loop", "weight": 5.0, "id": 181121073, "level": 3}
+{"count": 44, "name": "Video relay service", "weight": 0.0, "id": 2777432651, "level": 3}
+{"count": 11, "name": "miniKanren", "weight": 0.0, "id": 2778445726, "level": 3}
+{"count": 439, "name": "Fexpr", "weight": 7.0, "id": 127436386, "level": 3}
+{"count": 250, "name": "TI Explorer", "weight": 4.0, "id": 134766895, "level": 3}
+{"count": 30, "name": "Meta-circular evaluator", "weight": 0.0, "id": 107069224, "level": 3}
+{"count": 263, "name": "Interpreter pattern", "weight": 4.0, "id": 134458100, "level": 3}

@@ -1,0 +1,5 @@
+{"count": 231, "name": "Gouraud shading", "weight": 7.0, "id": 158459233, "level": 3}
+{"count": 231, "name": "Phong shading", "weight": 7.0, "id": 63027371, "level": 3}
+{"count": 292, "name": "Shading coefficient", "weight": 10.0, "id": 156657010, "level": 3}
+{"count": 151, "name": "Phong reflection model", "weight": 5.0, "id": 75987615, "level": 3}
+{"count": 220, "name": "Vertex normal", "weight": 7.0, "id": 36772649, "level": 3}

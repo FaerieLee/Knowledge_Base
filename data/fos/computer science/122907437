@@ -1,0 +1,13 @@
+{"count": 424, "name": "Consistent hashing", "weight": 3.0, "id": 56856351, "level": 5}
+{"count": 262, "name": "Extendible hashing", "weight": 2.0, "id": 126743833, "level": 5}
+{"count": 469, "name": "Linear hashing", "weight": 4.0, "id": 36375716, "level": 5}
+{"count": 203, "name": "Cuckoo hashing", "weight": 1.0, "id": 202770681, "level": 5}
+{"count": 560, "name": "Open addressing", "weight": 5.0, "id": 44898962, "level": 5}
+{"count": 108, "name": "Locality preserving hashing", "weight": 0.0, "id": 14581226, "level": 5}
+{"count": 68, "name": "Coalesced hashing", "weight": 0.0, "id": 167750984, "level": 5}
+{"count": 112, "name": "Tabulation hashing", "weight": 1.0, "id": 182639803, "level": 5}
+{"count": 650, "name": "Hopscotch hashing", "weight": 5.0, "id": 165301707, "level": 5}
+{"count": 1100, "name": "K-independent hashing", "weight": 10.0, "id": 187062812, "level": 5}
+{"count": 55, "name": "Pearson hashing", "weight": 0.0, "id": 89932061, "level": 5}
+{"count": 64, "name": "CityHash", "weight": 0.0, "id": 174356067, "level": 5}
+{"count": 690, "name": "2-choice hashing", "weight": 6.0, "id": 81963855, "level": 5}

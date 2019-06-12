@@ -1,0 +1,43 @@
+{"count": 23415, "name": "Virtualization", "weight": 6.0, "id": 513985346, "level": 3}
+{"count": 5377, "name": "Service-level agreement", "weight": 1.0, "id": 2778160497, "level": 3}
+{"count": 1261, "name": "Virtual machining", "weight": 0.0, "id": 2778352213, "level": 3}
+{"count": 9930, "name": "Software as a service", "weight": 2.0, "id": 175133352, "level": 3}
+{"count": 1108, "name": "Liquid water path", "weight": 0.0, "id": 2778516841, "level": 3}
+{"count": 8805, "name": "Cloud storage", "weight": 2.0, "id": 2777059624, "level": 3}
+{"count": 35327, "name": "Cloud computing security", "weight": 10.0, "id": 184842701, "level": 3}
+{"count": 2290, "name": "Edge computing", "weight": 0.0, "id": 2778456923, "level": 3}
+{"count": 1501, "name": "Cloud base", "weight": 0.0, "id": 174548603, "level": 3}
+{"count": 3851, "name": "Cloud top", "weight": 1.0, "id": 199194280, "level": 3}
+{"count": 1072, "name": "Cloud manufacturing", "weight": 0.0, "id": 2778819808, "level": 3}
+{"count": 1003, "name": "DevOps", "weight": 0.0, "id": 9903902, "level": 3}
+{"count": 115, "name": "Many-task computing", "weight": 0.0, "id": 2778362760, "level": 3}
+{"count": 108, "name": "Cyber foraging", "weight": 0.0, "id": 2777176835, "level": 3}
+{"count": 948, "name": "Microservices", "weight": 0.0, "id": 2778505942, "level": 3}
+{"count": 1049, "name": "CloudSim", "weight": 0.0, "id": 2779907789, "level": 3}
+{"count": 892, "name": "Mobile edge computing", "weight": 0.0, "id": 2776061582, "level": 3}
+{"count": 349, "name": "Cloud gaming", "weight": 0.0, "id": 2779733813, "level": 3}
+{"count": 776, "name": "Cloud database", "weight": 0.0, "id": 2778974508, "level": 3}
+{"count": 238, "name": "Oblivious ram", "weight": 0.0, "id": 2781432888, "level": 3}
+{"count": 407, "name": "Intercloud", "weight": 0.0, "id": 2779236335, "level": 3}
+{"count": 265, "name": "Autoscaling", "weight": 0.0, "id": 2780586832, "level": 3}
+{"count": 374, "name": "Business agility", "weight": 0.0, "id": 2781292735, "level": 3}
+{"count": 322, "name": "Personal cloud", "weight": 0.0, "id": 2777340309, "level": 3}
+{"count": 221, "name": "Software-defined data center", "weight": 0.0, "id": 160730041, "level": 3}
+{"count": 131, "name": "Network as a service", "weight": 0.0, "id": 2779843078, "level": 3}
+{"count": 432, "name": "Power usage effectiveness", "weight": 0.0, "id": 99881593, "level": 3}
+{"count": 28, "name": "Cloud-based design and manufacturing", "weight": 0.0, "id": 2780611192, "level": 3}
+{"count": 104, "name": "Render farm", "weight": 0.0, "id": 20757801, "level": 3}
+{"count": 42, "name": "Verifiable computing", "weight": 0.0, "id": 2776827251, "level": 3}
+{"count": 69, "name": "G-Cloud", "weight": 0.0, "id": 2777559524, "level": 3}
+{"count": 139, "name": "Dynamic infrastructure", "weight": 0.0, "id": 2779314850, "level": 3}
+{"count": 96, "name": "Hyperscale", "weight": 0.0, "id": 2780557426, "level": 3}
+{"count": 219, "name": "CLOUD experiment", "weight": 0.0, "id": 2781383829, "level": 3}
+{"count": 64, "name": "Cloud communications", "weight": 0.0, "id": 2779052183, "level": 3}
+{"count": 96, "name": "Pyrocumulonimbus cloud", "weight": 0.0, "id": 197894281, "level": 3}
+{"count": 10, "name": "Jungle computing", "weight": 0.0, "id": 2777724741, "level": 3}
+{"count": 16, "name": "Texture splatting", "weight": 0.0, "id": 2777683467, "level": 3}
+{"count": 8, "name": "Cloud marketing", "weight": 0.0, "id": 2776731194, "level": 3}
+{"count": 48, "name": "Millimeter cloud radar", "weight": 0.0, "id": 2780904567, "level": 3}
+{"count": 41, "name": "Solution stack", "weight": 0.0, "id": 2778372776, "level": 3}
+{"count": 13, "name": "Cloud-based integration", "weight": 0.0, "id": 2777664656, "level": 3}
+{"count": 962, "name": "Resource allocation (computer)", "weight": 0.0, "id": 206771483, "level": 3}

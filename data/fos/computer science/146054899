@@ -1,0 +1,9 @@
+{"count": 4069, "name": "Design pattern", "weight": 10.0, "id": 14501506, "level": 3}
+{"count": 377, "name": "Strategy pattern", "weight": 0.0, "id": 41132950, "level": 3}
+{"count": 264, "name": "Observer pattern", "weight": 0.0, "id": 30424875, "level": 3}
+{"count": 308, "name": "Factory method pattern", "weight": 0.0, "id": 77297654, "level": 3}
+{"count": 117, "name": "Singleton pattern", "weight": 0.0, "id": 135089680, "level": 3}
+{"count": 895, "name": "Specification pattern", "weight": 2.0, "id": 97960799, "level": 3}
+{"count": 500, "name": "State pattern", "weight": 1.0, "id": 48111742, "level": 3}
+{"count": 436, "name": "Module pattern", "weight": 1.0, "id": 118168178, "level": 3}
+{"count": 12, "name": "Memento pattern", "weight": 0.0, "id": 45697073, "level": 3}

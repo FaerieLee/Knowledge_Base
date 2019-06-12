@@ -1,0 +1,41 @@
+{"count": 32170, "name": "Diffraction grating", "weight": 10.0, "id": 126753812, "level": 3}
+{"count": 11774, "name": "Bragg's law", "weight": 3.0, "id": 39693636, "level": 3}
+{"count": 14234, "name": "Diffraction efficiency", "weight": 4.0, "id": 18355248, "level": 3}
+{"count": 2393, "name": "Ptychography", "weight": 0.0, "id": 78153596, "level": 3}
+{"count": 5417, "name": "Fresnel diffraction", "weight": 1.0, "id": 50282329, "level": 3}
+{"count": 3268, "name": "Fresnel zone", "weight": 1.0, "id": 200292535, "level": 3}
+{"count": 3696, "name": "Zone plate", "weight": 1.0, "id": 32623475, "level": 3}
+{"count": 1120, "name": "Rigorous coupled-wave analysis", "weight": 0.0, "id": 2777229052, "level": 3}
+{"count": 1572, "name": "Talbot effect", "weight": 0.0, "id": 2776698673, "level": 3}
+{"count": 1531, "name": "Volume hologram", "weight": 0.0, "id": 2775843842, "level": 3}
+{"count": 1835, "name": "Pole figure", "weight": 0.0, "id": 2777346912, "level": 3}
+{"count": 3619, "name": "Fraunhofer diffraction", "weight": 1.0, "id": 162529868, "level": 3}
+{"count": 1547, "name": "Uniform theory of diffraction", "weight": 0.0, "id": 186653623, "level": 3}
+{"count": 1393, "name": "Diffraction tomography", "weight": 0.0, "id": 2780977457, "level": 3}
+{"count": 2534, "name": "Angular spectrum method", "weight": 0.0, "id": 128975484, "level": 3}
+{"count": 613, "name": "Kinoform", "weight": 0.0, "id": 2777963419, "level": 3}
+{"count": 1185, "name": "Phase problem", "weight": 0.0, "id": 102056067, "level": 3}
+{"count": 441, "name": "Mild-slope equation", "weight": 0.0, "id": 197268543, "level": 3}
+{"count": 404, "name": "Energy-dispersive X-ray diffraction", "weight": 0.0, "id": 2781223666, "level": 3}
+{"count": 483, "name": "Fiber diffraction", "weight": 0.0, "id": 65636608, "level": 3}
+{"count": 484, "name": "Zone axis", "weight": 0.0, "id": 2776319068, "level": 3}
+{"count": 714, "name": "Airy disk", "weight": 0.0, "id": 18848892, "level": 3}
+{"count": 671, "name": "Mosaicity", "weight": 0.0, "id": 2780779063, "level": 3}
+{"count": 375, "name": "Grazing incidence diffraction", "weight": 0.0, "id": 2779425273, "level": 3}
+{"count": 309, "name": "Ewald's sphere", "weight": 0.0, "id": 166379852, "level": 3}
+{"count": 757, "name": "Coherent diffraction imaging", "weight": 0.0, "id": 12952745, "level": 3}
+{"count": 108, "name": "Babinet's principle", "weight": 0.0, "id": 2775874527, "level": 3}
+{"count": 469, "name": "Airy beam", "weight": 0.0, "id": 2778735019, "level": 3}
+{"count": 192, "name": "Analytical regularization", "weight": 0.0, "id": 2780968663, "level": 3}
+{"count": 162, "name": "Strain scanning", "weight": 0.0, "id": 2780737778, "level": 3}
+{"count": 423, "name": "Encircled energy", "weight": 0.0, "id": 162347707, "level": 3}
+{"count": 62, "name": "Superoscillation", "weight": 0.0, "id": 2781161186, "level": 3}
+{"count": 251, "name": "X-wave", "weight": 0.0, "id": 2776791095, "level": 3}
+{"count": 27, "name": "Friedel's law", "weight": 0.0, "id": 2779819940, "level": 3}
+{"count": 26, "name": "Pinwheel tiling", "weight": 0.0, "id": 2780141147, "level": 3}
+{"count": 31, "name": "N-slit interferometric equation", "weight": 0.0, "id": 191436197, "level": 3}
+{"count": 11, "name": "Multifocal diffractive lens", "weight": 0.0, "id": 2777317704, "level": 3}
+{"count": 7, "name": "Schaefer\u2013Bergmann diffraction", "weight": 0.0, "id": 2776222222, "level": 3}
+{"count": 11, "name": "Atmospheric diffraction", "weight": 0.0, "id": 107413588, "level": 3}
+{"count": 11, "name": "Diffraction standard", "weight": 0.0, "id": 2777443931, "level": 3}
+{"count": 12, "name": "Diffraction spike", "weight": 0.0, "id": 2778808270, "level": 3}

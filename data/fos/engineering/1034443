@@ -1,0 +1,24 @@
+{"count": 8817, "name": "Electrically powered spacecraft propulsion", "weight": 10.0, "id": 148008966, "level": 3}
+{"count": 7007, "name": "Spacecraft propulsion", "weight": 7.0, "id": 165850701, "level": 3}
+{"count": 4934, "name": "Specific impulse", "weight": 5.0, "id": 15046436, "level": 3}
+{"count": 3416, "name": "Marine propulsion", "weight": 3.0, "id": 505695854, "level": 3}
+{"count": 1764, "name": "Propulsive efficiency", "weight": 2.0, "id": 42021957, "level": 3}
+{"count": 2825, "name": "Propulsor", "weight": 3.0, "id": 151174772, "level": 3}
+{"count": 1098, "name": "Nuclear propulsion", "weight": 1.0, "id": 2776864675, "level": 3}
+{"count": 822, "name": "Electromagnetic propulsion", "weight": 0.0, "id": 59158912, "level": 3}
+{"count": 331, "name": "Interstellar travel", "weight": 0.0, "id": 90638607, "level": 3}
+{"count": 145, "name": "Bollard pull", "weight": 0.0, "id": 83415686, "level": 3}
+{"count": 59, "name": "Project Rover", "weight": 0.0, "id": 2776206962, "level": 3}
+{"count": 66, "name": "Flettner rotor", "weight": 0.0, "id": 2776595424, "level": 3}
+{"count": 75, "name": "Aircraft Nuclear Propulsion", "weight": 0.0, "id": 2777979986, "level": 3}
+{"count": 16, "name": "Gaseous fission reactor", "weight": 0.0, "id": 2779221374, "level": 3}
+{"count": 126, "name": "Pump-jet", "weight": 0.0, "id": 2778015630, "level": 3}
+{"count": 58, "name": "Payload fraction", "weight": 0.0, "id": 2780014956, "level": 3}
+{"count": 54, "name": "Thermal rocket", "weight": 0.0, "id": 2777424210, "level": 3}
+{"count": 63, "name": "HPGP", "weight": 0.0, "id": 2776386334, "level": 3}
+{"count": 8, "name": "Turbosail", "weight": 0.0, "id": 2778911068, "level": 3}
+{"count": 20, "name": "Cyclorotor", "weight": 0.0, "id": 2776370381, "level": 3}
+{"count": 179, "name": "Earth to orbit", "weight": 0.0, "id": 2778497198, "level": 3}
+{"count": 35, "name": "Propulsive Wing", "weight": 0.0, "id": 2780323088, "level": 3}
+{"count": 31, "name": "Folding propeller", "weight": 0.0, "id": 2778912395, "level": 3}
+{"count": 33, "name": "Ground propulsion", "weight": 0.0, "id": 2779121813, "level": 3}

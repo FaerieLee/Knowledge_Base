@@ -1,0 +1,7 @@
+{"count": 246, "name": "Bus contention", "weight": 0.0, "id": 2777940334, "level": 4}
+{"count": 3552, "name": "Bus", "weight": 6.0, "id": 90690999, "level": 4}
+{"count": 2656, "name": "Three-state logic", "weight": 4.0, "id": 150731610, "level": 4}
+{"count": 485, "name": "Peripheral bus", "weight": 0.0, "id": 2778514575, "level": 4}
+{"count": 1114, "name": "External Bus Interface", "weight": 1.0, "id": 169435470, "level": 4}
+{"count": 5648, "name": "Back-side bus", "weight": 10.0, "id": 121013533, "level": 4}
+{"count": 4595, "name": "IEBus", "weight": 8.0, "id": 92046121, "level": 4}

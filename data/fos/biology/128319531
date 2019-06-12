@@ -1,0 +1,21 @@
+{"count": 6491, "name": "Restriction map", "weight": 6.0, "id": 170673058, "level": 4}
+{"count": 9503, "name": "Restriction fragment", "weight": 10.0, "id": 84289048, "level": 4}
+{"count": 4059, "name": "Restriction site", "weight": 4.0, "id": 58301748, "level": 4}
+{"count": 366, "name": "Restriction modification system", "weight": 0.0, "id": 205098303, "level": 4}
+{"count": 1504, "name": "Restriction digest", "weight": 1.0, "id": 2889275, "level": 4}
+{"count": 1948, "name": "PstI", "weight": 2.0, "id": 2780397633, "level": 4}
+{"count": 483, "name": "Isoschizomer", "weight": 0.0, "id": 108579999, "level": 4}
+{"count": 6427, "name": "EcoRI", "weight": 6.0, "id": 130123407, "level": 4}
+{"count": 2032, "name": "Recognition sequence", "weight": 2.0, "id": 100594029, "level": 4}
+{"count": 146, "name": "Star activity", "weight": 0.0, "id": 2777421940, "level": 4}
+{"count": 3214, "name": "HindIII", "weight": 3.0, "id": 151292725, "level": 4}
+{"count": 22, "name": "Equine herpesvirus 3", "weight": 0.0, "id": 2778022542, "level": 4}
+{"count": 1193, "name": "HpaII", "weight": 1.0, "id": 2777162945, "level": 4}
+{"count": 1338, "name": "HaeIII", "weight": 1.0, "id": 2776906770, "level": 4}
+{"count": 383, "name": "Nicking enzyme", "weight": 0.0, "id": 140328042, "level": 4}
+{"count": 877, "name": "BglII", "weight": 0.0, "id": 2779758144, "level": 4}
+{"count": 904, "name": "SmaI", "weight": 0.0, "id": 2778242868, "level": 4}
+{"count": 851, "name": "XhoI", "weight": 0.0, "id": 2778972215, "level": 4}
+{"count": 149, "name": "HindII", "weight": 0.0, "id": 2777676935, "level": 4}
+{"count": 13, "name": "Adapter (genetics)", "weight": 0.0, "id": 23923302, "level": 4}
+{"count": 197, "name": "NdeI", "weight": 0.0, "id": 2778560470, "level": 4}

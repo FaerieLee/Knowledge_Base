@@ -1,0 +1,20 @@
+{"count": 8642, "name": "Poisson regression", "weight": 10.0, "id": 73269764, "level": 3}
+{"count": 7968, "name": "Negative binomial distribution", "weight": 9.0, "id": 199335787, "level": 3}
+{"count": 5894, "name": "Count data", "weight": 6.0, "id": 33643355, "level": 3}
+{"count": 1766, "name": "Poisson point process", "weight": 2.0, "id": 16757284, "level": 3}
+{"count": 2820, "name": "Compound Poisson process", "weight": 3.0, "id": 133338972, "level": 3}
+{"count": 827, "name": "Cox process", "weight": 0.0, "id": 155051063, "level": 3}
+{"count": 1042, "name": "Index of dispersion", "weight": 1.0, "id": 41093919, "level": 3}
+{"count": 1689, "name": "Auxetics", "weight": 1.0, "id": 64904818, "level": 3}
+{"count": 299, "name": "Poisson random measure", "weight": 0.0, "id": 2778566779, "level": 3}
+{"count": 491, "name": "Complete spatial randomness", "weight": 0.0, "id": 199625236, "level": 3}
+{"count": 66, "name": "Skellam distribution", "weight": 0.0, "id": 2776186515, "level": 3}
+{"count": 74, "name": "Panjer recursion", "weight": 0.0, "id": 67770212, "level": 3}
+{"count": 21, "name": "Zero-truncated Poisson distribution", "weight": 0.0, "id": 2776487134, "level": 3}
+{"count": 69, "name": "Anscombe transform", "weight": 0.0, "id": 34599290, "level": 3}
+{"count": 69, "name": "Poisson limit theorem", "weight": 0.0, "id": 2776683986, "level": 3}
+{"count": 32, "name": "Hermite distribution", "weight": 0.0, "id": 2777955556, "level": 3}
+{"count": 18, "name": "Poisson hidden Markov model", "weight": 0.0, "id": 2781135469, "level": 3}
+{"count": 16, "name": "Binding neuron", "weight": 0.0, "id": 2778021649, "level": 3}
+{"count": 156, "name": "Classical compound", "weight": 0.0, "id": 182643844, "level": 3}
+{"count": 27, "name": "Poisson clumping", "weight": 0.0, "id": 2779536049, "level": 3}

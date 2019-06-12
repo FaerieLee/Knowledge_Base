@@ -1,0 +1,22 @@
+{"count": 25919, "name": "Image compression", "weight": 10.0, "id": 13481523, "level": 3}
+{"count": 10263, "name": "Transform coding", "weight": 3.0, "id": 169805256, "level": 3}
+{"count": 3046, "name": "Rate\u2013distortion theory", "weight": 1.0, "id": 64185310, "level": 3}
+{"count": 2701, "name": "Signal compression", "weight": 1.0, "id": 2778192920, "level": 3}
+{"count": 20233, "name": "Lossless compression", "weight": 7.0, "id": 81081738, "level": 3}
+{"count": 5555, "name": "Huffman coding", "weight": 2.0, "id": 46900642, "level": 3}
+{"count": 19898, "name": "Lossy compression", "weight": 7.0, "id": 165021410, "level": 3}
+{"count": 4589, "name": "Entropy encoding", "weight": 1.0, "id": 1769480, "level": 3}
+{"count": 810, "name": "Run-length encoding", "weight": 0.0, "id": 101316353, "level": 3}
+{"count": 657, "name": "Bandwidth compression", "weight": 0.0, "id": 2781324177, "level": 3}
+{"count": 9689, "name": "Context-adaptive binary arithmetic coding", "weight": 3.0, "id": 175732694, "level": 3}
+{"count": 122, "name": "Context tree weighting", "weight": 0.0, "id": 2777738583, "level": 3}
+{"count": 256, "name": "Adaptive compression", "weight": 0.0, "id": 2778215304, "level": 3}
+{"count": 254, "name": "Delta encoding", "weight": 0.0, "id": 18342905, "level": 3}
+{"count": 908, "name": "Golomb coding", "weight": 0.0, "id": 66656319, "level": 3}
+{"count": 38, "name": "Byte pair encoding", "weight": 0.0, "id": 2780233057, "level": 3}
+{"count": 231, "name": "Parallel compression", "weight": 0.0, "id": 51521564, "level": 3}
+{"count": 70, "name": "Entropy compression", "weight": 0.0, "id": 2781347197, "level": 3}
+{"count": 21, "name": "Sequitur algorithm", "weight": 0.0, "id": 2777358316, "level": 3}
+{"count": 48, "name": "Signaling Compression", "weight": 0.0, "id": 2780584057, "level": 3}
+{"count": 27, "name": "HTTP compression", "weight": 0.0, "id": 2777360419, "level": 3}
+{"count": 115, "name": "Solid compression", "weight": 0.0, "id": 59838856, "level": 3}

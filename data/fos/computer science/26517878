@@ -1,0 +1,9 @@
+{"count": 1974, "name": "Virtual keyboard", "weight": 10.0, "id": 2780367331, "level": 3}
+{"count": 412, "name": "Numeric keypad", "weight": 2.0, "id": 2776255195, "level": 3}
+{"count": 511, "name": "Keyboard layout", "weight": 2.0, "id": 2777873542, "level": 3}
+{"count": 1790, "name": "Keyboard controller", "weight": 9.0, "id": 35474174, "level": 3}
+{"count": 141, "name": "Bit (key)", "weight": 0.0, "id": 117011727, "level": 3}
+{"count": 265, "name": "Soft key", "weight": 1.0, "id": 112670622, "level": 3}
+{"count": 30, "name": "Screen-labeled function keys", "weight": 0.0, "id": 67076048, "level": 3}
+{"count": 108, "name": "Command key", "weight": 0.0, "id": 490600, "level": 3}
+{"count": 40, "name": "Option key", "weight": 0.0, "id": 36725350, "level": 3}

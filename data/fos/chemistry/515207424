@@ -1,0 +1,98 @@
+{"count": 109608, "name": "Peptide sequence", "weight": 10.0, "id": 167625842, "level": 3}
+{"count": 7234, "name": "Protein sequencing", "weight": 0.0, "id": 10010492, "level": 3}
+{"count": 38993, "name": "Tyrosine", "weight": 3.0, "id": 2776165026, "level": 3}
+{"count": 23085, "name": "Glutamic acid", "weight": 2.0, "id": 2778740566, "level": 3}
+{"count": 45190, "name": "Lysine", "weight": 4.0, "id": 2776016237, "level": 3}
+{"count": 57479, "name": "Glycine", "weight": 5.0, "id": 2777756961, "level": 3}
+{"count": 48146, "name": "Methionine", "weight": 4.0, "id": 2780912031, "level": 3}
+{"count": 33610, "name": "Tryptophan", "weight": 3.0, "id": 2776706248, "level": 3}
+{"count": 5995, "name": "Oligopeptide", "weight": 0.0, "id": 13935069, "level": 3}
+{"count": 32000, "name": "Proline", "weight": 2.0, "id": 2779815552, "level": 3}
+{"count": 45987, "name": "Serine", "weight": 4.0, "id": 2776414213, "level": 3}
+{"count": 32394, "name": "Leucine", "weight": 2.0, "id": 2776580952, "level": 3}
+{"count": 31107, "name": "Glutamine", "weight": 2.0, "id": 2779349466, "level": 3}
+{"count": 45207, "name": "Alanine", "weight": 4.0, "id": 2779856020, "level": 3}
+{"count": 27069, "name": "Histidine", "weight": 2.0, "id": 2778460671, "level": 3}
+{"count": 28558, "name": "Phenylalanine", "weight": 2.0, "id": 2777431362, "level": 3}
+{"count": 14359, "name": "Aspartic acid", "weight": 1.0, "id": 2781208047, "level": 3}
+{"count": 17465, "name": "Threonine", "weight": 1.0, "id": 2775880066, "level": 3}
+{"count": 5647, "name": "Genetic code", "weight": 0.0, "id": 10853874, "level": 3}
+{"count": 17259, "name": "Valine", "weight": 1.0, "id": 2777573094, "level": 3}
+{"count": 16849, "name": "Taurine", "weight": 1.0, "id": 2779701627, "level": 3}
+{"count": 7370, "name": "Cyclic peptide", "weight": 0.0, "id": 60984968, "level": 3}
+{"count": 13340, "name": "Dipeptide", "weight": 1.0, "id": 2779138802, "level": 3}
+{"count": 10905, "name": "Cystine", "weight": 0.0, "id": 2777608289, "level": 3}
+{"count": 10776, "name": "Asparagine", "weight": 0.0, "id": 2775895851, "level": 3}
+{"count": 10914, "name": "Peptide synthesis", "weight": 0.0, "id": 2779809887, "level": 3}
+{"count": 5702, "name": "Essential amino acid", "weight": 0.0, "id": 2778816673, "level": 3}
+{"count": 9497, "name": "Ornithine", "weight": 0.0, "id": 2776796294, "level": 3}
+{"count": 10165, "name": "Tripeptide", "weight": 0.0, "id": 167392928, "level": 3}
+{"count": 401, "name": "Amino acid replacement", "weight": 0.0, "id": 2779179555, "level": 3}
+{"count": 4472, "name": "Protein quality", "weight": 0.0, "id": 2777560085, "level": 3}
+{"count": 2308, "name": "Selenocysteine", "weight": 0.0, "id": 2776087148, "level": 3}
+{"count": 4096, "name": "Cyanogen bromide", "weight": 0.0, "id": 2777093645, "level": 3}
+{"count": 13974, "name": "Peptide bond", "weight": 1.0, "id": 31684184, "level": 3}
+{"count": 1422, "name": "Maple syrup urine disease", "weight": 0.0, "id": 2779214519, "level": 3}
+{"count": 2372, "name": "Sarcosine", "weight": 0.0, "id": 2779943223, "level": 3}
+{"count": 1181, "name": "Diaminopimelic acid", "weight": 0.0, "id": 2779425345, "level": 3}
+{"count": 296, "name": "Mycosporine-like amino acid", "weight": 0.0, "id": 2777741330, "level": 3}
+{"count": 459, "name": "Amino acid dating", "weight": 0.0, "id": 129072421, "level": 3}
+{"count": 803, "name": "Canavanine", "weight": 0.0, "id": 2777914855, "level": 3}
+{"count": 3007, "name": "Transamination", "weight": 0.0, "id": 68793091, "level": 3}
+{"count": 3718, "name": "Ninhydrin", "weight": 0.0, "id": 2778944976, "level": 3}
+{"count": 3762, "name": "Protein catabolism", "weight": 0.0, "id": 197683979, "level": 3}
+{"count": 1990, "name": "Amino acid transporter", "weight": 0.0, "id": 2781313199, "level": 3}
+{"count": 2332, "name": "Hydrolyzed protein", "weight": 0.0, "id": 198118469, "level": 3}
+{"count": 1420, "name": "Theanine", "weight": 0.0, "id": 2779282468, "level": 3}
+{"count": 357, "name": "Cycloleucine", "weight": 0.0, "id": 2781459049, "level": 3}
+{"count": 1210, "name": "Pyroglutamic acid", "weight": 0.0, "id": 2777927761, "level": 3}
+{"count": 878, "name": "Strecker amino acid synthesis", "weight": 0.0, "id": 5412963, "level": 3}
+{"count": 734, "name": "D-amino acid", "weight": 0.0, "id": 2778675593, "level": 3}
+{"count": 1035, "name": "Pipecolic acid", "weight": 0.0, "id": 2780865232, "level": 3}
+{"count": 224, "name": "Dihydropyrimidinase", "weight": 0.0, "id": 2780272047, "level": 3}
+{"count": 436, "name": "Substitution matrix", "weight": 0.0, "id": 71419964, "level": 3}
+{"count": 5449, "name": "N-terminus", "weight": 0.0, "id": 14053116, "level": 3}
+{"count": 606, "name": "Aminoacylase", "weight": 0.0, "id": 2776133941, "level": 3}
+{"count": 1284, "name": "Chemical ligation", "weight": 0.0, "id": 99207889, "level": 3}
+{"count": 701, "name": "Lanthionine", "weight": 0.0, "id": 2778095248, "level": 3}
+{"count": 804, "name": "Performic acid", "weight": 0.0, "id": 2778432551, "level": 3}
+{"count": 386, "name": "Peptaibol", "weight": 0.0, "id": 2779365568, "level": 3}
+{"count": 284, "name": "Lysinuric protein intolerance", "weight": 0.0, "id": 2780371534, "level": 3}
+{"count": 683, "name": "Dehydroalanine", "weight": 0.0, "id": 2781192991, "level": 3}
+{"count": 266, "name": "Proteinoid", "weight": 0.0, "id": 168375815, "level": 3}
+{"count": 1015, "name": "Alanine scanning", "weight": 0.0, "id": 2780227090, "level": 3}
+{"count": 378, "name": "Amino acid permease", "weight": 0.0, "id": 2781182467, "level": 3}
+{"count": 137, "name": "Hartnup disease", "weight": 0.0, "id": 2781275700, "level": 3}
+{"count": 285, "name": "Turn (biochemistry)", "weight": 0.0, "id": 85641259, "level": 3}
+{"count": 141, "name": "Clostridium sticklandii", "weight": 0.0, "id": 2778799457, "level": 3}
+{"count": 231, "name": "Allylglycine", "weight": 0.0, "id": 2779204989, "level": 3}
+{"count": 140, "name": "Amino-acid racemase", "weight": 0.0, "id": 2781442490, "level": 3}
+{"count": 169, "name": "Proteinogenic amino acid", "weight": 0.0, "id": 2780511223, "level": 3}
+{"count": 200, "name": "BLOSUM", "weight": 0.0, "id": 157732223, "level": 3}
+{"count": 212, "name": "Strecker degradation", "weight": 0.0, "id": 2781318001, "level": 3}
+{"count": 455, "name": "Hydrophobicity scales", "weight": 0.0, "id": 96331939, "level": 3}
+{"count": 188, "name": "Helical wheel", "weight": 0.0, "id": 2776651428, "level": 3}
+{"count": 83, "name": "Non-proteinogenic amino acids", "weight": 0.0, "id": 2778114843, "level": 3}
+{"count": 41, "name": "alpha-Aminobutyric acid", "weight": 0.0, "id": 2777408106, "level": 3}
+{"count": 31, "name": "Procambarus bouvieri", "weight": 0.0, "id": 2778955018, "level": 3}
+{"count": 38, "name": "Methylaspartate ammonia-lyase", "weight": 0.0, "id": 2776930284, "level": 3}
+{"count": 33, "name": "Arndt\u2013Eistert reaction", "weight": 0.0, "id": 2778732051, "level": 3}
+{"count": 100, "name": "Conantokins", "weight": 0.0, "id": 2779452906, "level": 3}
+{"count": 67, "name": "Clitocybe acromelalga", "weight": 0.0, "id": 2780824777, "level": 3}
+{"count": 52, "name": "2-Aminoisobutyric acid", "weight": 0.0, "id": 2775940804, "level": 3}
+{"count": 166, "name": "Omega loop", "weight": 0.0, "id": 52521499, "level": 3}
+{"count": 15, "name": "Dicarboxylic aminoaciduria", "weight": 0.0, "id": 2780340452, "level": 3}
+{"count": 115, "name": "Pentafluorophenyl esters", "weight": 0.0, "id": 2777195252, "level": 3}
+{"count": 476, "name": "Carboxyglutamic acid", "weight": 0.0, "id": 2781458133, "level": 3}
+{"count": 14, "name": "Alloprotein", "weight": 0.0, "id": 2781190831, "level": 3}
+{"count": 12, "name": "Helothermine", "weight": 0.0, "id": 2779740764, "level": 3}
+{"count": 9, "name": "D-stereospecific aminopeptidase", "weight": 0.0, "id": 2779118281, "level": 3}
+{"count": 23, "name": "Tricholomopsis rutilans", "weight": 0.0, "id": 2776648418, "level": 3}
+{"count": 20, "name": "Chemotactic selection", "weight": 0.0, "id": 2779804999, "level": 3}
+{"count": 46, "name": "Furanomycin", "weight": 0.0, "id": 2778517916, "level": 3}
+{"count": 20, "name": "Big-belly seahorse", "weight": 0.0, "id": 2778108289, "level": 3}
+{"count": 20, "name": "Streptolidine", "weight": 0.0, "id": 2778295402, "level": 3}
+{"count": 14, "name": "Ketogenic amino acid", "weight": 0.0, "id": 2779592976, "level": 3}
+{"count": 43, "name": "Silk amino acid", "weight": 0.0, "id": 2778301048, "level": 3}
+{"count": 111, "name": "Anion-exchange chromatography", "weight": 0.0, "id": 58276105, "level": 3}
+{"count": 12, "name": "Glutathionuria", "weight": 0.0, "id": 2781061300, "level": 3}

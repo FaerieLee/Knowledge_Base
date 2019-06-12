@@ -1,0 +1,17 @@
+{"count": 1631, "name": "Amplitude versus offset", "weight": 5.0, "id": 59000536, "level": 3}
+{"count": 2810, "name": "Amplitude distortion", "weight": 10.0, "id": 201154478, "level": 3}
+{"count": 320, "name": "Frequency following response", "weight": 1.0, "id": 2781203654, "level": 3}
+{"count": 1917, "name": "Multiple-scale analysis", "weight": 6.0, "id": 40678858, "level": 3}
+{"count": 187, "name": "Jamming avoidance response", "weight": 0.0, "id": 149461601, "level": 3}
+{"count": 520, "name": "Sinusoidal model", "weight": 1.0, "id": 167923935, "level": 3}
+{"count": 239, "name": "Polar modulation", "weight": 0.0, "id": 2781043178, "level": 3}
+{"count": 469, "name": "Faraday wave", "weight": 1.0, "id": 142296869, "level": 3}
+{"count": 19, "name": "Squegging", "weight": 0.0, "id": 3791984, "level": 3}
+{"count": 202, "name": "Amphidromic point", "weight": 0.0, "id": 26541261, "level": 3}
+{"count": 17, "name": "Electric sonic amplitude", "weight": 0.0, "id": 19151132, "level": 3}
+{"count": 49, "name": "Dim spot", "weight": 0.0, "id": 30935710, "level": 3}
+{"count": 130, "name": "Modulated ultrasound", "weight": 0.0, "id": 2779720571, "level": 3}
+{"count": 29, "name": "Unity amplitude", "weight": 0.0, "id": 2777058056, "level": 3}
+{"count": 55, "name": "Oscillating U-tube", "weight": 0.0, "id": 45519348, "level": 3}
+{"count": 9, "name": "Diurnal phase shift", "weight": 0.0, "id": 2781076704, "level": 3}
+{"count": 105, "name": "Rapidly oscillating Ap star", "weight": 0.0, "id": 2780166401, "level": 3}

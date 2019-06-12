@@ -1,0 +1,56 @@
+{"count": 29311, "name": "Allergen", "weight": 10.0, "id": 2780510475, "level": 3}
+{"count": 15374, "name": "Atopy", "weight": 5.0, "id": 2777697326, "level": 3}
+{"count": 20763, "name": "Eosinophil", "weight": 7.0, "id": 2777037409, "level": 3}
+{"count": 12005, "name": "Bronchodilator", "weight": 4.0, "id": 2781018748, "level": 3}
+{"count": 20044, "name": "Spirometry", "weight": 6.0, "id": 2780333948, "level": 3}
+{"count": 7344, "name": "Budesonide", "weight": 2.0, "id": 2776136866, "level": 3}
+{"count": 8255, "name": "Salbutamol", "weight": 2.0, "id": 2777394947, "level": 3}
+{"count": 8342, "name": "Bronchoconstriction", "weight": 2.0, "id": 2780769369, "level": 3}
+{"count": 3514, "name": "Bronchial hyperresponsiveness", "weight": 1.0, "id": 2776238763, "level": 3}
+{"count": 4914, "name": "Exhaled nitric oxide", "weight": 1.0, "id": 2781142857, "level": 3}
+{"count": 3491, "name": "Occupational asthma", "weight": 1.0, "id": 2778781276, "level": 3}
+{"count": 3076, "name": "Terbutaline", "weight": 1.0, "id": 2780252434, "level": 3}
+{"count": 8961, "name": "Inhaler", "weight": 3.0, "id": 2780261241, "level": 3}
+{"count": 4383, "name": "Montelukast", "weight": 1.0, "id": 2776322731, "level": 3}
+{"count": 7267, "name": "Methacholine", "weight": 2.0, "id": 2781260171, "level": 3}
+{"count": 1988, "name": "Exhaled breath condensate", "weight": 0.0, "id": 2780037985, "level": 3}
+{"count": 1458, "name": "Exercise-induced asthma", "weight": 0.0, "id": 2778531465, "level": 3}
+{"count": 794, "name": "Leukotriene E4", "weight": 0.0, "id": 2778053663, "level": 3}
+{"count": 3929, "name": "Hay fever", "weight": 1.0, "id": 2777917907, "level": 3}
+{"count": 4567, "name": "Bronchospasm", "weight": 1.0, "id": 2778088044, "level": 3}
+{"count": 5424, "name": "Chronic cough", "weight": 1.0, "id": 2777707825, "level": 3}
+{"count": 5277, "name": "Allergic inflammation", "weight": 1.0, "id": 2779675166, "level": 3}
+{"count": 1629, "name": "Fenoterol", "weight": 0.0, "id": 2775906890, "level": 3}
+{"count": 6105, "name": "Wheeze", "weight": 2.0, "id": 2778338976, "level": 3}
+{"count": 1607, "name": "Hygiene hypothesis", "weight": 0.0, "id": 78635009, "level": 3}
+{"count": 991, "name": "Nedocromil", "weight": 0.0, "id": 2776002719, "level": 3}
+{"count": 1453, "name": "Leukotriene receptor", "weight": 0.0, "id": 2780212800, "level": 3}
+{"count": 1758, "name": "Ketotifen", "weight": 0.0, "id": 2780571441, "level": 3}
+{"count": 806, "name": "Vocal cord dysfunction", "weight": 0.0, "id": 2779031853, "level": 3}
+{"count": 627, "name": "Zileuton", "weight": 0.0, "id": 2781370401, "level": 3}
+{"count": 522, "name": "Pranlukast", "weight": 0.0, "id": 2781045125, "level": 3}
+{"count": 82, "name": "Cromoglicic acid", "weight": 0.0, "id": 2777519816, "level": 3}
+{"count": 311, "name": "Bambuterol", "weight": 0.0, "id": 2776682860, "level": 3}
+{"count": 819, "name": "Acute severe asthma", "weight": 0.0, "id": 2779163699, "level": 3}
+{"count": 418, "name": "Bronchial thermoplasty", "weight": 0.0, "id": 2776550738, "level": 3}
+{"count": 215, "name": "Suplatast tosilate", "weight": 0.0, "id": 2777853193, "level": 3}
+{"count": 162, "name": "Knemometry", "weight": 0.0, "id": 2780735426, "level": 3}
+{"count": 209, "name": "Endotype", "weight": 0.0, "id": 2781293274, "level": 3}
+{"count": 314, "name": "Tulobuterol", "weight": 0.0, "id": 2780030063, "level": 3}
+{"count": 401, "name": "Reactive airway disease", "weight": 0.0, "id": 2776299961, "level": 3}
+{"count": 316, "name": "Dupilumab", "weight": 0.0, "id": 2779824493, "level": 3}
+{"count": 90, "name": "Reproterol", "weight": 0.0, "id": 2780576951, "level": 3}
+{"count": 126, "name": "Speleotherapy", "weight": 0.0, "id": 2776469829, "level": 3}
+{"count": 13, "name": "Sodium hexachloroplatinate", "weight": 0.0, "id": 2776564940, "level": 3}
+{"count": 70, "name": "Brittle asthma", "weight": 0.0, "id": 2780712347, "level": 3}
+{"count": 120, "name": "Lebrikizumab", "weight": 0.0, "id": 2780803811, "level": 3}
+{"count": 107, "name": "Run-in period", "weight": 0.0, "id": 2781204171, "level": 3}
+{"count": 183, "name": "Cardiac asthma", "weight": 0.0, "id": 2780845780, "level": 3}
+{"count": 15, "name": "Enzyme potentiated desensitization", "weight": 0.0, "id": 2776174089, "level": 3}
+{"count": 72, "name": "PC100", "weight": 0.0, "id": 2779368468, "level": 3}
+{"count": 86, "name": "Choline theophyllinate", "weight": 0.0, "id": 2780105020, "level": 3}
+{"count": 91, "name": "Feline asthma", "weight": 0.0, "id": 2780698063, "level": 3}
+{"count": 23, "name": "Dexamethasone isonicotinate", "weight": 0.0, "id": 2776203039, "level": 3}
+{"count": 667, "name": "Pathophysiology of asthma", "weight": 0.0, "id": 2779999680, "level": 3}
+{"count": 23, "name": "Pulmonary plexus", "weight": 0.0, "id": 2781111875, "level": 3}
+{"count": 17, "name": "Buteyko method", "weight": 0.0, "id": 2780064915, "level": 3}

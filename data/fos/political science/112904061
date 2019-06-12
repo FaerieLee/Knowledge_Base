@@ -1,0 +1,6 @@
+{"count": 175, "name": "Paravirtualization", "weight": 1.0, "id": 2780285038, "level": 5}
+{"count": 131, "name": "Virtual machine introspection", "weight": 0.0, "id": 2777852304, "level": 5}
+{"count": 39, "name": "Nested virtualization", "weight": 0.0, "id": 2777625064, "level": 5}
+{"count": 68, "name": "Hardware-assisted virtualization", "weight": 0.0, "id": 2780356329, "level": 5}
+{"count": 41, "name": "Unikernel", "weight": 0.0, "id": 2779808592, "level": 5}
+{"count": 1329, "name": "Storage hypervisor", "weight": 10.0, "id": 67925016, "level": 5}

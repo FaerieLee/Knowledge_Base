@@ -1,0 +1,72 @@
+{"count": 15605, "name": "Receptive field", "weight": 10.0, "id": 19071747, "level": 3}
+{"count": 12622, "name": "Classical conditioning", "weight": 8.0, "id": 39617858, "level": 3}
+{"count": 11482, "name": "Auditory cortex", "weight": 7.0, "id": 2780297895, "level": 3}
+{"count": 2465, "name": "Sensory receptor", "weight": 1.0, "id": 2777815949, "level": 3}
+{"count": 2114, "name": "Moro reflex", "weight": 1.0, "id": 137431309, "level": 3}
+{"count": 5462, "name": "Nociceptor", "weight": 3.0, "id": 172659308, "level": 3}
+{"count": 5297, "name": "Inferior colliculus", "weight": 3.0, "id": 2775980177, "level": 3}
+{"count": 5034, "name": "Noxious stimulus", "weight": 3.0, "id": 104211972, "level": 3}
+{"count": 1195, "name": "Extrastriate cortex", "weight": 0.0, "id": 2780217011, "level": 3}
+{"count": 1986, "name": "Stimulus onset asynchrony", "weight": 1.0, "id": 2777747462, "level": 3}
+{"count": 1994, "name": "Sensory threshold", "weight": 1.0, "id": 110235638, "level": 3}
+{"count": 2085, "name": "Mechanoreceptor", "weight": 1.0, "id": 2779097085, "level": 3}
+{"count": 1823, "name": "Orienting response", "weight": 1.0, "id": 91990242, "level": 3}
+{"count": 2260, "name": "Summation", "weight": 1.0, "id": 63405582, "level": 3}
+{"count": 2692, "name": "Multisensory integration", "weight": 1.0, "id": 2780328332, "level": 3}
+{"count": 5587, "name": "Stimulus control", "weight": 3.0, "id": 57022672, "level": 3}
+{"count": 5235, "name": "Stimulus modality", "weight": 3.0, "id": 26486553, "level": 3}
+{"count": 4019, "name": "Subliminal stimuli", "weight": 2.0, "id": 151496658, "level": 3}
+{"count": 5357, "name": "Sensory stimulation therapy", "weight": 3.0, "id": 25457674, "level": 3}
+{"count": 806, "name": "Stimulus\u2013response compatibility", "weight": 0.0, "id": 2777540489, "level": 3}
+{"count": 1426, "name": "Sensory gating", "weight": 0.0, "id": 2779705967, "level": 3}
+{"count": 2209, "name": "Interstimulus interval", "weight": 1.0, "id": 138370407, "level": 3}
+{"count": 1546, "name": "Receptor potential", "weight": 0.0, "id": 88367079, "level": 3}
+{"count": 1005, "name": "P3a", "weight": 0.0, "id": 141643422, "level": 3}
+{"count": 2769, "name": "Startle response", "weight": 1.0, "id": 2777845764, "level": 3}
+{"count": 690, "name": "Thermoreceptor", "weight": 0.0, "id": 142656374, "level": 3}
+{"count": 754, "name": "Simon effect", "weight": 0.0, "id": 2778510705, "level": 3}
+{"count": 454, "name": "Lateralized readiness potential", "weight": 0.0, "id": 148837457, "level": 3}
+{"count": 998, "name": "P3b", "weight": 0.0, "id": 91831460, "level": 3}
+{"count": 178, "name": "Spike-triggered average", "weight": 0.0, "id": 2778206943, "level": 3}
+{"count": 2932, "name": "Oddball paradigm", "weight": 1.0, "id": 22334291, "level": 3}
+{"count": 387, "name": "Neuronal tuning", "weight": 0.0, "id": 2780310948, "level": 3}
+{"count": 756, "name": "Mechanosensation", "weight": 0.0, "id": 25194021, "level": 3}
+{"count": 320, "name": "Frequency following response", "weight": 0.0, "id": 2781203654, "level": 3}
+{"count": 308, "name": "Gustatory cortex", "weight": 0.0, "id": 2778255812, "level": 3}
+{"count": 426, "name": "Behavioral contrast", "weight": 0.0, "id": 97647655, "level": 3}
+{"count": 837, "name": "Absolute threshold", "weight": 0.0, "id": 883265, "level": 3}
+{"count": 282, "name": "Visual extinction", "weight": 0.0, "id": 2776873352, "level": 3}
+{"count": 498, "name": "Dishabituation", "weight": 0.0, "id": 2776488567, "level": 3}
+{"count": 570, "name": "Neural adaptation", "weight": 0.0, "id": 2780112520, "level": 3}
+{"count": 187, "name": "Jamming avoidance response", "weight": 0.0, "id": 149461601, "level": 3}
+{"count": 194, "name": "Command neuron", "weight": 0.0, "id": 2777158368, "level": 3}
+{"count": 512, "name": "Cutaneous receptor", "weight": 0.0, "id": 191089775, "level": 3}
+{"count": 136, "name": "Chemesthesis", "weight": 0.0, "id": 2781191623, "level": 3}
+{"count": 926, "name": "Evoked activity", "weight": 0.0, "id": 2780454244, "level": 3}
+{"count": 99, "name": "Tympanal organ", "weight": 0.0, "id": 2780246061, "level": 3}
+{"count": 269, "name": "fMRI adaptation", "weight": 0.0, "id": 2777837933, "level": 3}
+{"count": 1090, "name": "Stimulus\u2013response model", "weight": 0.0, "id": 66948506, "level": 3}
+{"count": 85, "name": "Johnston's organ", "weight": 0.0, "id": 2780466321, "level": 3}
+{"count": 82, "name": "Afferent nerve fiber", "weight": 0.0, "id": 2780135907, "level": 3}
+{"count": 177, "name": "Olfactory fatigue", "weight": 0.0, "id": 73201060, "level": 3}
+{"count": 423, "name": "Pain stimulus", "weight": 0.0, "id": 2780198135, "level": 3}
+{"count": 21, "name": "Range fractionation", "weight": 0.0, "id": 2779843945, "level": 3}
+{"count": 88, "name": "External inhibition", "weight": 0.0, "id": 2777684032, "level": 3}
+{"count": 475, "name": "Sensory neuroscience", "weight": 0.0, "id": 70817611, "level": 3}
+{"count": 376, "name": "Adequate stimulus", "weight": 0.0, "id": 81238621, "level": 3}
+{"count": 21, "name": "Empyreuma pugione", "weight": 0.0, "id": 2778519778, "level": 3}
+{"count": 58, "name": "Slit sensilla", "weight": 0.0, "id": 2777456786, "level": 3}
+{"count": 1484, "name": "P200", "weight": 0.0, "id": 142933453, "level": 3}
+{"count": 97, "name": "Dichoptic presentation", "weight": 0.0, "id": 2775891199, "level": 3}
+{"count": 23, "name": "Knollenorgan", "weight": 0.0, "id": 101196300, "level": 3}
+{"count": 32, "name": "Stimulus filtering", "weight": 0.0, "id": 2778073333, "level": 3}
+{"count": 39, "name": "Anode break excitation", "weight": 0.0, "id": 2777633000, "level": 3}
+{"count": 17, "name": "Multifocal technique", "weight": 0.0, "id": 2776271654, "level": 3}
+{"count": 1062, "name": "N100", "weight": 0.0, "id": 107297811, "level": 3}
+{"count": 13, "name": "Ultrasound avoidance", "weight": 0.0, "id": 59878750, "level": 3}
+{"count": 21, "name": "Phantom contour", "weight": 0.0, "id": 2778505959, "level": 3}
+{"count": 14, "name": "Emei music frog", "weight": 0.0, "id": 2779050405, "level": 3}
+{"count": 12, "name": "Pair by association", "weight": 0.0, "id": 36726272, "level": 3}
+{"count": 1302, "name": "Second-order stimulus", "weight": 0.0, "id": 102687321, "level": 3}
+{"count": 23, "name": "Actinozoa", "weight": 0.0, "id": 2781122736, "level": 3}
+{"count": 11, "name": "Maximally informative dimensions", "weight": 0.0, "id": 2781164283, "level": 3}

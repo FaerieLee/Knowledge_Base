@@ -1,0 +1,18 @@
+{"count": 4521, "name": "Axle load", "weight": 7.0, "id": 2777946747, "level": 3}
+{"count": 1951, "name": "Weigh in motion", "weight": 3.0, "id": 2781010134, "level": 3}
+{"count": 1156, "name": "Unsprung mass", "weight": 1.0, "id": 190296336, "level": 3}
+{"count": 29, "name": "Kip", "weight": 0.0, "id": 29058239, "level": 3}
+{"count": 6411, "name": "Wheel and axle", "weight": 10.0, "id": 40630268, "level": 3}
+{"count": 769, "name": "All-wheel drive", "weight": 1.0, "id": 2776736370, "level": 3}
+{"count": 4433, "name": "Independent suspension", "weight": 6.0, "id": 172614296, "level": 3}
+{"count": 1059, "name": "Wheelbase", "weight": 1.0, "id": 87482638, "level": 3}
+{"count": 948, "name": "Transaxle", "weight": 1.0, "id": 164701551, "level": 3}
+{"count": 3440, "name": "Wheel sizing", "weight": 5.0, "id": 130616145, "level": 3}
+{"count": 1343, "name": "Trailing arm", "weight": 2.0, "id": 2779841934, "level": 3}
+{"count": 452, "name": "Stub axle", "weight": 0.0, "id": 2776377731, "level": 3}
+{"count": 195, "name": "Articulated bogie", "weight": 0.0, "id": 9201690, "level": 3}
+{"count": 530, "name": "Beam axle", "weight": 0.0, "id": 2776689096, "level": 3}
+{"count": 17, "name": "Watt's linkage", "weight": 0.0, "id": 2776534533, "level": 3}
+{"count": 5164, "name": "Axle track", "weight": 8.0, "id": 173296146, "level": 3}
+{"count": 174, "name": "Radius rod", "weight": 0.0, "id": 2779767935, "level": 3}
+{"count": 80, "name": "Span bolster", "weight": 0.0, "id": 102740695, "level": 3}

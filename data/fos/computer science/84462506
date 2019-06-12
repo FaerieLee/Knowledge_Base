@@ -1,0 +1,10 @@
+{"count": 30087, "name": "Digital signal processor", "weight": 10.0, "id": 161611012, "level": 3}
+{"count": 7811, "name": "Multidimensional signal processing", "weight": 2.0, "id": 501101116, "level": 3}
+{"count": 507, "name": "Logarithmic number system", "weight": 0.0, "id": 21462125, "level": 3}
+{"count": 6850, "name": "Digital down converter", "weight": 2.0, "id": 99167442, "level": 3}
+{"count": 290, "name": "OMAP", "weight": 0.0, "id": 44891289, "level": 3}
+{"count": 339, "name": "Blackfin", "weight": 0.0, "id": 112915278, "level": 3}
+{"count": 2875, "name": "Digital delay line", "weight": 0.0, "id": 30847790, "level": 3}
+{"count": 19, "name": "Parallel Peripheral Interface", "weight": 0.0, "id": 2780546617, "level": 3}
+{"count": 12, "name": "TMS320C4x", "weight": 0.0, "id": 2777128352, "level": 3}
+{"count": 9, "name": "eXpressDSP", "weight": 0.0, "id": 2779411008, "level": 3}

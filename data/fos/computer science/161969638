@@ -1,0 +1,17 @@
+{"count": 352, "name": "Alias analysis", "weight": 1.0, "id": 87468716, "level": 3}
+{"count": 791, "name": "Pointer analysis", "weight": 2.0, "id": 7263679, "level": 3}
+{"count": 451, "name": "Memory safety", "weight": 1.0, "id": 28180684, "level": 3}
+{"count": 2949, "name": "Pointer (user interface)", "weight": 10.0, "id": 150202949, "level": 3}
+{"count": 658, "name": "Escape analysis", "weight": 2.0, "id": 131843455, "level": 3}
+{"count": 370, "name": "Function pointer", "weight": 1.0, "id": 159765158, "level": 3}
+{"count": 567, "name": "Pointer swizzling", "weight": 1.0, "id": 100932681, "level": 3}
+{"count": 91, "name": "Write barrier", "weight": 0.0, "id": 2777408773, "level": 3}
+{"count": 143, "name": "Run-time type information", "weight": 0.0, "id": 114822604, "level": 3}
+{"count": 500, "name": "Smart pointer", "weight": 1.0, "id": 35299574, "level": 3}
+{"count": 37, "name": "Implicit data structure", "weight": 0.0, "id": 189691356, "level": 3}
+{"count": 109, "name": "typedef", "weight": 0.0, "id": 47685152, "level": 3}
+{"count": 74, "name": "Handle", "weight": 0.0, "id": 72824718, "level": 3}
+{"count": 41, "name": "C data types", "weight": 0.0, "id": 204390979, "level": 3}
+{"count": 419, "name": "Tagged pointer", "weight": 1.0, "id": 148106051, "level": 3}
+{"count": 26, "name": "Air core gauge", "weight": 0.0, "id": 2780894210, "level": 3}
+{"count": 19, "name": "Digital multiplex hierarchy", "weight": 0.0, "id": 2778553549, "level": 3}

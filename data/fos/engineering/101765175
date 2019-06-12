@@ -1,0 +1,19 @@
+{"count": 3204, "name": "Picture archiving and communication system", "weight": 7.0, "id": 10795825, "level": 3}
+{"count": 1507, "name": "Tactical communications", "weight": 3.0, "id": 152800680, "level": 3}
+{"count": 1113, "name": "Military communications", "weight": 2.0, "id": 545464746, "level": 3}
+{"count": 3745, "name": "Two-way communication", "weight": 8.0, "id": 151873908, "level": 3}
+{"count": 2184, "name": "Connection-oriented communication", "weight": 5.0, "id": 139205394, "level": 3}
+{"count": 2667, "name": "Connectionless communication", "weight": 6.0, "id": 153043593, "level": 3}
+{"count": 4209, "name": "Communication endpoint", "weight": 10.0, "id": 98376839, "level": 3}
+{"count": 257, "name": "VHF Data Link", "weight": 0.0, "id": 126242741, "level": 3}
+{"count": 154, "name": "Leaky feeder", "weight": 0.0, "id": 141108527, "level": 3}
+{"count": 451, "name": "Primary station", "weight": 1.0, "id": 2777662197, "level": 3}
+{"count": 2607, "name": "Control communications", "weight": 6.0, "id": 112788895, "level": 3}
+{"count": 59, "name": "Digital Selective Calling", "weight": 0.0, "id": 19716797, "level": 3}
+{"count": 37, "name": "Combat-net radio", "weight": 0.0, "id": 2779427365, "level": 3}
+{"count": 32, "name": "Presence check", "weight": 0.0, "id": 2780167796, "level": 3}
+{"count": 987, "name": "Tactical communications system", "weight": 2.0, "id": 10118631, "level": 3}
+{"count": 22, "name": "Specialized Mobile Radio", "weight": 0.0, "id": 2777724159, "level": 3}
+{"count": 21, "name": "Host signal processing", "weight": 0.0, "id": 2777806388, "level": 3}
+{"count": 23, "name": "Digital private mobile radio", "weight": 0.0, "id": 2779250396, "level": 3}
+{"count": 965, "name": "Call-second", "weight": 2.0, "id": 173971519, "level": 3}

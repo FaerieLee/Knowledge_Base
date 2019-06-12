@@ -1,0 +1,200 @@
+{"count": 104090, "name": "Absorption (pharmacology)", "weight": 2.0, "id": 70687592, "level": 2}
+{"count": 138267, "name": "Pharmacokinetics", "weight": 3.0, "id": 112705442, "level": 2}
+{"count": 200531, "name": "Adverse effect", "weight": 5.0, "id": 197934379, "level": 2}
+{"count": 28220, "name": "Plasma protein binding", "weight": 0.0, "id": 51639874, "level": 2}
+{"count": 354633, "name": "Drug", "weight": 10.0, "id": 2780035454, "level": 2}
+{"count": 76901, "name": "Serotonin", "weight": 2.0, "id": 2775864247, "level": 2}
+{"count": 36599, "name": "Drug discovery", "weight": 1.0, "id": 74187038, "level": 2}
+{"count": 30932, "name": "Side effect", "weight": 0.0, "id": 2776083868, "level": 2}
+{"count": 28236, "name": "Insomnia", "weight": 0.0, "id": 2781210498, "level": 2}
+{"count": 19535, "name": "Liberation", "weight": 0.0, "id": 2776711897, "level": 2}
+{"count": 39424, "name": "Dosage form", "weight": 1.0, "id": 77281830, "level": 2}
+{"count": 66423, "name": "Bioavailability", "weight": 1.0, "id": 181389837, "level": 2}
+{"count": 80404, "name": "Drug delivery", "weight": 2.0, "id": 2779820397, "level": 2}
+{"count": 27368, "name": "Adrenergic", "weight": 0.0, "id": 158453852, "level": 2}
+{"count": 2476, "name": "Dose\u2013response relationship", "weight": 0.0, "id": 79410662, "level": 2}
+{"count": 65938, "name": "Active ingredient", "weight": 1.0, "id": 45904493, "level": 2}
+{"count": 33704, "name": "Combination therapy", "weight": 0.0, "id": 2776999253, "level": 2}
+{"count": 97391, "name": "Medical prescription", "weight": 2.0, "id": 2426938, "level": 2}
+{"count": 33949, "name": "Controlled release", "weight": 0.0, "id": 163588942, "level": 2}
+{"count": 15540, "name": "Pharmacogenetics", "weight": 0.0, "id": 55775858, "level": 2}
+{"count": 17249, "name": "Pharmaceutical industry", "weight": 0.0, "id": 2779652045, "level": 2}
+{"count": 10765, "name": "Route of administration", "weight": 0.0, "id": 2776093070, "level": 2}
+{"count": 18577, "name": "Drug metabolism", "weight": 0.0, "id": 89311334, "level": 2}
+{"count": 32072, "name": "Propofol", "weight": 0.0, "id": 2776277131, "level": 2}
+{"count": 25113, "name": "Prodrug", "weight": 0.0, "id": 108215921, "level": 2}
+{"count": 18059, "name": "Diazepam", "weight": 0.0, "id": 2776175493, "level": 2}
+{"count": 11692, "name": "Hypnotic", "weight": 0.0, "id": 2780930544, "level": 2}
+{"count": 23208, "name": "Fentanyl", "weight": 0.0, "id": 2781072394, "level": 2}
+{"count": 14233, "name": "Methadone", "weight": 0.0, "id": 2778767360, "level": 2}
+{"count": 18397, "name": "Bupivacaine", "weight": 0.0, "id": 2781328992, "level": 2}
+{"count": 7111, "name": "Psychopharmacology", "weight": 0.0, "id": 103709681, "level": 2}
+{"count": 14661, "name": "Personalized medicine", "weight": 0.0, "id": 32220436, "level": 2}
+{"count": 13098, "name": "Excipient", "weight": 0.0, "id": 2777239854, "level": 2}
+{"count": 8260, "name": "Pharmaceutical sciences", "weight": 0.0, "id": 178855305, "level": 2}
+{"count": 2443, "name": "Drug design", "weight": 0.0, "id": 192071366, "level": 2}
+{"count": 4605, "name": "Antidote", "weight": 0.0, "id": 2779365888, "level": 2}
+{"count": 11975, "name": "Clinical pharmacology", "weight": 0.0, "id": 63433958, "level": 2}
+{"count": 9659, "name": "Pharmacogenomics", "weight": 0.0, "id": 170734499, "level": 2}
+{"count": 25714, "name": "Transdermal", "weight": 0.0, "id": 205679159, "level": 2}
+{"count": 68662, "name": "Potency", "weight": 1.0, "id": 57992300, "level": 2}
+{"count": 13752, "name": "Therapeutic index", "weight": 0.0, "id": 19831878, "level": 2}
+{"count": 2223, "name": "Drug tolerance", "weight": 0.0, "id": 2779985140, "level": 2}
+{"count": 10607, "name": "Cardiotoxicity", "weight": 0.0, "id": 2778233292, "level": 2}
+{"count": 8532, "name": "Alertness", "weight": 0.0, "id": 200678441, "level": 2}
+{"count": 4892, "name": "Efavirenz", "weight": 0.0, "id": 2781432083, "level": 2}
+{"count": 2490, "name": "Rectal administration", "weight": 0.0, "id": 2776873419, "level": 2}
+{"count": 7566, "name": "Ropivacaine", "weight": 0.0, "id": 2780269707, "level": 2}
+{"count": 3173, "name": "Hypericum perforatum", "weight": 0.0, "id": 2776651039, "level": 2}
+{"count": 5539, "name": "Ephedrine", "weight": 0.0, "id": 2778984665, "level": 2}
+{"count": 6700, "name": "Procaine", "weight": 0.0, "id": 2779828710, "level": 2}
+{"count": 4090, "name": "Piroxicam", "weight": 0.0, "id": 2778139025, "level": 2}
+{"count": 43516, "name": "Tolerability", "weight": 1.0, "id": 2778375690, "level": 2}
+{"count": 4574, "name": "Muscle relaxant", "weight": 0.0, "id": 2776860028, "level": 2}
+{"count": 5005, "name": "Sufentanil", "weight": 0.0, "id": 2777019824, "level": 2}
+{"count": 4176, "name": "Strychnine", "weight": 0.0, "id": 2777725853, "level": 2}
+{"count": 2952, "name": "Eye drop", "weight": 0.0, "id": 2777625524, "level": 2}
+{"count": 2391, "name": "Chloral hydrate", "weight": 0.0, "id": 2777612814, "level": 2}
+{"count": 1297, "name": "Sublingual administration", "weight": 0.0, "id": 2779350572, "level": 2}
+{"count": 4567, "name": "Apigenin", "weight": 0.0, "id": 2778609962, "level": 2}
+{"count": 7020, "name": "Phenothiazine", "weight": 0.0, "id": 2778716775, "level": 2}
+{"count": 2867, "name": "Dextromethorphan", "weight": 0.0, "id": 2781245242, "level": 2}
+{"count": 2639, "name": "Modafinil", "weight": 0.0, "id": 2780714222, "level": 2}
+{"count": 1704, "name": "Hepatotoxin", "weight": 0.0, "id": 149971331, "level": 2}
+{"count": 10221, "name": "Ptosis", "weight": 0.0, "id": 2781194658, "level": 2}
+{"count": 2637, "name": "Diphenhydramine", "weight": 0.0, "id": 2781292560, "level": 2}
+{"count": 2370, "name": "Cetirizine", "weight": 0.0, "id": 2779463773, "level": 2}
+{"count": 15597, "name": "Nasal administration", "weight": 0.0, "id": 85663871, "level": 2}
+{"count": 23649, "name": "IC50", "weight": 0.0, "id": 2777752497, "level": 2}
+{"count": 1955, "name": "Loratadine", "weight": 0.0, "id": 2780734495, "level": 2}
+{"count": 1002, "name": "Micromixing", "weight": 0.0, "id": 2780934452, "level": 2}
+{"count": 2806, "name": "Famotidine", "weight": 0.0, "id": 2781263782, "level": 2}
+{"count": 2012, "name": "Trazodone", "weight": 0.0, "id": 2780980600, "level": 2}
+{"count": 16912, "name": "Intraperitoneal injection", "weight": 0.0, "id": 2780159080, "level": 2}
+{"count": 3454, "name": "Escitalopram", "weight": 0.0, "id": 2779583969, "level": 2}
+{"count": 2259, "name": "Piracetam", "weight": 0.0, "id": 2777496795, "level": 2}
+{"count": 2165, "name": "Neuropharmacology", "weight": 0.0, "id": 128188215, "level": 2}
+{"count": 2081, "name": "Promethazine", "weight": 0.0, "id": 2778794651, "level": 2}
+{"count": 4931, "name": "Suppository", "weight": 0.0, "id": 2778042862, "level": 2}
+{"count": 4258, "name": "Pharmaceutics", "weight": 0.0, "id": 138651985, "level": 2}
+{"count": 11302, "name": "Compounding", "weight": 0.0, "id": 207673951, "level": 2}
+{"count": 21906, "name": "Pill", "weight": 0.0, "id": 81603835, "level": 2}
+{"count": 4461, "name": "Biosimilar", "weight": 0.0, "id": 59491497, "level": 2}
+{"count": 4004, "name": "Tryptamine", "weight": 0.0, "id": 2777135210, "level": 2}
+{"count": 1548, "name": "Fixed-dose combination", "weight": 0.0, "id": 2776623344, "level": 2}
+{"count": 1485, "name": "Pseudoephedrine", "weight": 0.0, "id": 2779777004, "level": 2}
+{"count": 1418, "name": "Fexofenadine", "weight": 0.0, "id": 2776711289, "level": 2}
+{"count": 1843, "name": "Piperine", "weight": 0.0, "id": 2780133158, "level": 2}
+{"count": 2066, "name": "Hypericin", "weight": 0.0, "id": 2778432610, "level": 2}
+{"count": 2343, "name": "Baicalein", "weight": 0.0, "id": 2781466915, "level": 2}
+{"count": 1358, "name": "Grapefruit juice", "weight": 0.0, "id": 2776773239, "level": 2}
+{"count": 2187, "name": "Butorphanol", "weight": 0.0, "id": 2781020239, "level": 2}
+{"count": 4337, "name": "Barbiturate", "weight": 0.0, "id": 2780077838, "level": 2}
+{"count": 1107, "name": "Famciclovir", "weight": 0.0, "id": 2776723293, "level": 2}
+{"count": 2163, "name": "Orphan drug", "weight": 0.0, "id": 75480439, "level": 2}
+{"count": 600, "name": "Atracurium besilate", "weight": 0.0, "id": 2778717843, "level": 2}
+{"count": 1949, "name": "Phenacetin", "weight": 0.0, "id": 2775922563, "level": 2}
+{"count": 2286, "name": "EC50", "weight": 0.0, "id": 96529984, "level": 2}
+{"count": 1429, "name": "Khat", "weight": 0.0, "id": 2779177675, "level": 2}
+{"count": 884, "name": "Phenylpropanolamine", "weight": 0.0, "id": 2781399573, "level": 2}
+{"count": 2339, "name": "Mydriasis", "weight": 0.0, "id": 2779109636, "level": 2}
+{"count": 796, "name": "Astemizole", "weight": 0.0, "id": 2776129107, "level": 2}
+{"count": 597, "name": "Montgomery\u2013\u00c5sberg Depression Rating Scale", "weight": 0.0, "id": 2775972397, "level": 2}
+{"count": 1183, "name": "Maraviroc", "weight": 0.0, "id": 2778899366, "level": 2}
+{"count": 3384, "name": "Antiparasitic", "weight": 0.0, "id": 2781421772, "level": 2}
+{"count": 10609, "name": "Lotion", "weight": 0.0, "id": 2780986958, "level": 2}
+{"count": 7001, "name": "Anticholinergic", "weight": 0.0, "id": 2778689640, "level": 2}
+{"count": 1046, "name": "Kava", "weight": 0.0, "id": 2776910463, "level": 2}
+{"count": 1007, "name": "Analeptic", "weight": 0.0, "id": 118934951, "level": 2}
+{"count": 852, "name": "Cathinone", "weight": 0.0, "id": 2778236026, "level": 2}
+{"count": 1099, "name": "Phenethylamine", "weight": 0.0, "id": 2780047746, "level": 2}
+{"count": 1349, "name": "Doxepin", "weight": 0.0, "id": 2777747321, "level": 2}
+{"count": 960, "name": "Azelastine", "weight": 0.0, "id": 2780113039, "level": 2}
+{"count": 14719, "name": "Tricyclic", "weight": 0.0, "id": 2781081902, "level": 2}
+{"count": 1053, "name": "Desloratadine", "weight": 0.0, "id": 2781025919, "level": 2}
+{"count": 969, "name": "Prochlorperazine", "weight": 0.0, "id": 2781324269, "level": 2}
+{"count": 797, "name": "Harmine", "weight": 0.0, "id": 2781450507, "level": 2}
+{"count": 1000, "name": "Ractopamine", "weight": 0.0, "id": 2780458105, "level": 2}
+{"count": 397, "name": "Flupentixol", "weight": 0.0, "id": 2777545540, "level": 2}
+{"count": 16104, "name": "Buccal administration", "weight": 0.0, "id": 195735259, "level": 2}
+{"count": 1672, "name": "Meprobamate", "weight": 0.0, "id": 2777937089, "level": 2}
+{"count": 1294, "name": "Valerian", "weight": 0.0, "id": 2777845490, "level": 2}
+{"count": 861, "name": "Safety pharmacology", "weight": 0.0, "id": 2776190711, "level": 2}
+{"count": 993, "name": "Imidazopyridine", "weight": 0.0, "id": 2779301178, "level": 2}
+{"count": 42, "name": "Synergy", "weight": 0.0, "id": 157460569, "level": 2}
+{"count": 433, "name": "Tanacetum parthenium", "weight": 0.0, "id": 2779487382, "level": 2}
+{"count": 4591, "name": "Biopharmaceutical", "weight": 0.0, "id": 2781047461, "level": 2}
+{"count": 874, "name": "Regulatory science", "weight": 0.0, "id": 2778917124, "level": 2}
+{"count": 736, "name": "Magnolia officinalis", "weight": 0.0, "id": 2780759288, "level": 2}
+{"count": 520, "name": "Noscapine", "weight": 0.0, "id": 2779200813, "level": 2}
+{"count": 577, "name": "Phytomedicine", "weight": 0.0, "id": 2780751074, "level": 2}
+{"count": 911, "name": "Pharmaceutical marketing", "weight": 0.0, "id": 2781419290, "level": 2}
+{"count": 632, "name": "Pyrazolopyrimidine", "weight": 0.0, "id": 2777548766, "level": 2}
+{"count": 786, "name": "Levocetirizine", "weight": 0.0, "id": 2780920841, "level": 2}
+{"count": 556, "name": "Guaifenesin", "weight": 0.0, "id": 2778576187, "level": 2}
+{"count": 2098, "name": "Pharmacopoeia", "weight": 0.0, "id": 2777594072, "level": 2}
+{"count": 804, "name": "Nobiletin", "weight": 0.0, "id": 2778401301, "level": 2}
+{"count": 223, "name": "Clomethiazole", "weight": 0.0, "id": 2778170731, "level": 2}
+{"count": 599, "name": "Evodiamine", "weight": 0.0, "id": 2779883843, "level": 2}
+{"count": 980, "name": "Sinomenine", "weight": 0.0, "id": 2777662524, "level": 2}
+{"count": 521, "name": "Carteolol", "weight": 0.0, "id": 2777104710, "level": 2}
+{"count": 643, "name": "Bromazepam", "weight": 0.0, "id": 2778519950, "level": 2}
+{"count": 611, "name": "Pyrazolopyridine", "weight": 0.0, "id": 2780563859, "level": 2}
+{"count": 675, "name": "Betahistine", "weight": 0.0, "id": 2778372437, "level": 2}
+{"count": 485, "name": "Loxapine", "weight": 0.0, "id": 2778336232, "level": 2}
+{"count": 3524, "name": "Onset of action", "weight": 0.0, "id": 46821324, "level": 2}
+{"count": 2382, "name": "Tempe", "weight": 0.0, "id": 2780073744, "level": 2}
+{"count": 2083, "name": "Quinazolinone", "weight": 0.0, "id": 2777162773, "level": 2}
+{"count": 616, "name": "Pancuronium bromide", "weight": 0.0, "id": 2777177457, "level": 2}
+{"count": 312, "name": "Mizolastine", "weight": 0.0, "id": 2777226346, "level": 2}
+{"count": 570, "name": "Amentoflavone", "weight": 0.0, "id": 2776268974, "level": 2}
+{"count": 386, "name": "Orphenadrine", "weight": 0.0, "id": 2778352208, "level": 2}
+{"count": 843, "name": "Ceiling effect", "weight": 0.0, "id": 191290158, "level": 2}
+{"count": 603, "name": "Methaqualone", "weight": 0.0, "id": 2776952961, "level": 2}
+{"count": 431, "name": "Amoxapine", "weight": 0.0, "id": 2781073338, "level": 2}
+{"count": 555, "name": "Bifonazole", "weight": 0.0, "id": 2776776321, "level": 2}
+{"count": 563, "name": "Tiapride", "weight": 0.0, "id": 2779271588, "level": 2}
+{"count": 1288, "name": "Scutellaria", "weight": 0.0, "id": 2775897108, "level": 2}
+{"count": 684, "name": "Molecular Pharmacology", "weight": 0.0, "id": 14314382, "level": 2}
+{"count": 278, "name": "Harmane", "weight": 0.0, "id": 2776046149, "level": 2}
+{"count": 402, "name": "Naphazoline", "weight": 0.0, "id": 2776101175, "level": 2}
+{"count": 1156, "name": "Tranquilizer", "weight": 0.0, "id": 2776778828, "level": 2}
+{"count": 504, "name": "Glutethimide", "weight": 0.0, "id": 2777889371, "level": 2}
+{"count": 1502, "name": "Nootropic", "weight": 0.0, "id": 2776239663, "level": 2}
+{"count": 376, "name": "Cyclobenzaprine", "weight": 0.0, "id": 2775985788, "level": 2}
+{"count": 402, "name": "Sarpogrelate", "weight": 0.0, "id": 2779376490, "level": 2}
+{"count": 991, "name": "Psychotomimetic", "weight": 0.0, "id": 2781065190, "level": 2}
+{"count": 177, "name": "Brompheniramine", "weight": 0.0, "id": 2777557541, "level": 2}
+{"count": 1442, "name": "Pharmaceutical manufacturing", "weight": 0.0, "id": 2778938233, "level": 2}
+{"count": 1094, "name": "Orally disintegrating tablet", "weight": 0.0, "id": 2779275604, "level": 2}
+{"count": 285, "name": "Adaptogen", "weight": 0.0, "id": 2776496134, "level": 2}
+{"count": 1042, "name": "Artificial tears", "weight": 0.0, "id": 2778837293, "level": 2}
+{"count": 373, "name": "Epinastine", "weight": 0.0, "id": 2780171916, "level": 2}
+{"count": 421, "name": "Erythroxylum", "weight": 0.0, "id": 2775880183, "level": 2}
+{"count": 824, "name": "Antidiarrhoeal", "weight": 0.0, "id": 2778814440, "level": 2}
+{"count": 87, "name": "Nonsteroidal Antiinflammatory Drugs/NSAIDs", "weight": 0.0, "id": 2776187446, "level": 2}
+{"count": 294, "name": "Azaperone", "weight": 0.0, "id": 2779248027, "level": 2}
+{"count": 345, "name": "Methocarbamol", "weight": 0.0, "id": 2776564191, "level": 2}
+{"count": 3652, "name": "Maintenance dose", "weight": 0.0, "id": 27924281, "level": 2}
+{"count": 1520, "name": "Trough level", "weight": 0.0, "id": 31785415, "level": 2}
+{"count": 294, "name": "Ibudilast", "weight": 0.0, "id": 2776892393, "level": 2}
+{"count": 165, "name": "Phenoperidine", "weight": 0.0, "id": 2780123288, "level": 2}
+{"count": 334, "name": "Chlorprothixene", "weight": 0.0, "id": 2779081312, "level": 2}
+{"count": 932, "name": "Veratrum", "weight": 0.0, "id": 2777230325, "level": 2}
+{"count": 194, "name": "Perazine", "weight": 0.0, "id": 2780783385, "level": 2}
+{"count": 282, "name": "Rupatadine", "weight": 0.0, "id": 2778969070, "level": 2}
+{"count": 300, "name": "Chemical classification", "weight": 0.0, "id": 37361519, "level": 2}
+{"count": 209, "name": "Tubocurarine chloride", "weight": 0.0, "id": 2780371941, "level": 2}
+{"count": 281, "name": "Thiocolchicoside", "weight": 0.0, "id": 2775852032, "level": 2}
+{"count": 131, "name": "Tetrazepam", "weight": 0.0, "id": 2776978185, "level": 2}
+{"count": 7720, "name": "Dose", "weight": 0.0, "id": 162156334, "level": 2}
+{"count": 388, "name": "Cleaning validation", "weight": 0.0, "id": 2776549394, "level": 2}
+{"count": 93, "name": "Psycholeptic", "weight": 0.0, "id": 2780557076, "level": 2}
+{"count": 152, "name": "Pholcodine", "weight": 0.0, "id": 2776170510, "level": 2}
+{"count": 731, "name": "beta-Carboline", "weight": 0.0, "id": 2778705115, "level": 2}
+{"count": 194, "name": "Aconitum napellus", "weight": 0.0, "id": 2778413187, "level": 2}
+{"count": 168, "name": "Dextromoramide", "weight": 0.0, "id": 2776177125, "level": 2}
+{"count": 363, "name": "Mephenesin", "weight": 0.0, "id": 2781162824, "level": 2}
+{"count": 497, "name": "Autoinjector", "weight": 0.0, "id": 2776050914, "level": 2}
+{"count": 100, "name": "Dosulepin", "weight": 0.0, "id": 2776229771, "level": 2}
+{"count": 126, "name": "Benperidol", "weight": 0.0, "id": 2778188811, "level": 2}

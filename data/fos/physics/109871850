@@ -1,0 +1,7 @@
+{"count": 7618, "name": "Torque ripple", "weight": 7.0, "id": 2779675184, "level": 4}
+{"count": 3471, "name": "Cogging torque", "weight": 3.0, "id": 2776830253, "level": 4}
+{"count": 9713, "name": "Torque motor", "weight": 9.0, "id": 204054776, "level": 4}
+{"count": 3032, "name": "Flux linkage", "weight": 3.0, "id": 155343825, "level": 4}
+{"count": 1702, "name": "Torque density", "weight": 1.0, "id": 2780932299, "level": 4}
+{"count": 9653, "name": "Damping torque", "weight": 9.0, "id": 40226289, "level": 4}
+{"count": 9936, "name": "Stall torque", "weight": 10.0, "id": 17348537, "level": 4}

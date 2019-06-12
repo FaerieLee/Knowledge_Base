@@ -1,0 +1,4 @@
+{"count": 630, "name": "Complex instruction set computing", "weight": 10.0, "id": 119744841, "level": 5}
+{"count": 319, "name": "Classic RISC pipeline", "weight": 5.0, "id": 169165970, "level": 5}
+{"count": 127, "name": "IBM POWER microprocessors", "weight": 2.0, "id": 175772046, "level": 5}
+{"count": 27, "name": "Page Size Extension", "weight": 0.0, "id": 170845606, "level": 5}

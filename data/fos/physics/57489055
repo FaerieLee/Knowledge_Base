@@ -1,0 +1,6 @@
+{"count": 469, "name": "Reference ellipsoid", "weight": 10.0, "id": 105024398, "level": 3}
+{"count": 286, "name": "Earth ellipsoid", "weight": 6.0, "id": 121365943, "level": 3}
+{"count": 224, "name": "Index ellipsoid", "weight": 4.0, "id": 142586254, "level": 3}
+{"count": 23, "name": "Great ellipse", "weight": 0.0, "id": 2780353137, "level": 3}
+{"count": 40, "name": "Bessel ellipsoid of 1841", "weight": 0.0, "id": 129615877, "level": 3}
+{"count": 224, "name": "Geodesics on an ellipsoid", "weight": 4.0, "id": 108472808, "level": 3}

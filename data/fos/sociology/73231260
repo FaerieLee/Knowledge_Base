@@ -1,0 +1,5 @@
+{"count": 1017, "name": "Range encoding", "weight": 10.0, "id": 27474726, "level": 5}
+{"count": 89, "name": "Adaptive Huffman coding", "weight": 0.0, "id": 2776172464, "level": 5}
+{"count": 959, "name": "Modified Huffman coding", "weight": 9.0, "id": 18103364, "level": 5}
+{"count": 156, "name": "Unary coding", "weight": 1.0, "id": 5126337, "level": 5}
+{"count": 33, "name": "Audio Lossless Coding", "weight": 0.0, "id": 2776019327, "level": 5}

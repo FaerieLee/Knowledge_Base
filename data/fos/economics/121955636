@@ -1,0 +1,177 @@
+{"count": 108179, "name": "Valuation (finance)", "weight": 7.0, "id": 186027771, "level": 2}
+{"count": 137774, "name": "Audit", "weight": 10.0, "id": 199521495, "level": 2}
+{"count": 24176, "name": "Cash flow", "weight": 1.0, "id": 163428354, "level": 2}
+{"count": 101468, "name": "Equity (finance)", "weight": 7.0, "id": 2776597285, "level": 2}
+{"count": 15265, "name": "Market value", "weight": 1.0, "id": 202552767, "level": 2}
+{"count": 8622, "name": "National accounts", "weight": 0.0, "id": 32235935, "level": 2}
+{"count": 38468, "name": "Annual report", "weight": 2.0, "id": 2778253041, "level": 2}
+{"count": 24443, "name": "Activity-based costing", "weight": 1.0, "id": 164624739, "level": 2}
+{"count": 9348, "name": "Fixed cost", "weight": 0.0, "id": 42866809, "level": 2}
+{"count": 34583, "name": "Accounting information system", "weight": 2.0, "id": 163867264, "level": 2}
+{"count": 21323, "name": "Accounting standard", "weight": 1.0, "id": 128769094, "level": 2}
+{"count": 59482, "name": "Earnings", "weight": 4.0, "id": 2781426361, "level": 2}
+{"count": 116008, "name": "Revenue", "weight": 8.0, "id": 195487862, "level": 2}
+{"count": 20600, "name": "Cost accounting", "weight": 1.0, "id": 94107157, "level": 2}
+{"count": 24451, "name": "Financial analysis", "weight": 1.0, "id": 130731218, "level": 2}
+{"count": 9473, "name": "Management control system", "weight": 0.0, "id": 31845852, "level": 2}
+{"count": 15885, "name": "Balance sheet", "weight": 1.0, "id": 183206440, "level": 2}
+{"count": 12230, "name": "Indirect costs", "weight": 0.0, "id": 6964187, "level": 2}
+{"count": 26705, "name": "Management accounting", "weight": 1.0, "id": 74275925, "level": 2}
+{"count": 365, "name": "Specific identification", "weight": 0.0, "id": 45222066, "level": 2}
+{"count": 6724, "name": "Capital expenditure", "weight": 0.0, "id": 172497479, "level": 2}
+{"count": 10573, "name": "Operating cost", "weight": 0.0, "id": 2777347956, "level": 2}
+{"count": 8963, "name": "Working capital", "weight": 0.0, "id": 60679458, "level": 2}
+{"count": 2957, "name": "Intangible asset", "weight": 0.0, "id": 2778380070, "level": 2}
+{"count": 20897, "name": "Financial ratio", "weight": 1.0, "id": 98014903, "level": 2}
+{"count": 10368, "name": "Financial plan", "weight": 0.0, "id": 70179600, "level": 2}
+{"count": 9130, "name": "Fixed asset", "weight": 0.0, "id": 30472729, "level": 2}
+{"count": 8027, "name": "Fair value", "weight": 0.0, "id": 63149375, "level": 2}
+{"count": 4390, "name": "Cost allocation", "weight": 0.0, "id": 2781426564, "level": 2}
+{"count": 6927, "name": "Variable cost", "weight": 0.0, "id": 145760622, "level": 2}
+{"count": 13336, "name": "Depreciation", "weight": 0.0, "id": 86336370, "level": 2}
+{"count": 2407, "name": "Net worth", "weight": 0.0, "id": 2778770122, "level": 2}
+{"count": 2958, "name": "Free cash flow", "weight": 0.0, "id": 2780334105, "level": 2}
+{"count": 2099, "name": "Financial asset", "weight": 0.0, "id": 2778705799, "level": 2}
+{"count": 2377, "name": "Analytical procedures", "weight": 0.0, "id": 2778870860, "level": 2}
+{"count": 2677, "name": "Environmental accounting", "weight": 0.0, "id": 2775997212, "level": 2}
+{"count": 38506, "name": "Total cost", "weight": 2.0, "id": 182299520, "level": 2}
+{"count": 4861, "name": "Factoring", "weight": 0.0, "id": 177225278, "level": 2}
+{"count": 4780, "name": "Joint-stock company", "weight": 0.0, "id": 104002121, "level": 2}
+{"count": 5527, "name": "Operating expense", "weight": 0.0, "id": 87450203, "level": 2}
+{"count": 4832, "name": "Book value", "weight": 0.0, "id": 169824061, "level": 2}
+{"count": 8470, "name": "Voucher", "weight": 0.0, "id": 105458232, "level": 2}
+{"count": 4881, "name": "Economic Value Added", "weight": 0.0, "id": 25070020, "level": 2}
+{"count": 8745, "name": "Financial transaction", "weight": 0.0, "id": 164516710, "level": 2}
+{"count": 8000, "name": "Goodwill", "weight": 0.0, "id": 2778860618, "level": 2}
+{"count": 2293, "name": "Capital asset", "weight": 0.0, "id": 19963470, "level": 2}
+{"count": 1891, "name": "Inventory turnover", "weight": 0.0, "id": 199226685, "level": 2}
+{"count": 1783, "name": "Total cost of ownership", "weight": 0.0, "id": 2778434605, "level": 2}
+{"count": 7053, "name": "Net income", "weight": 0.0, "id": 138262166, "level": 2}
+{"count": 5053, "name": "Accounts receivable", "weight": 0.0, "id": 202451310, "level": 2}
+{"count": 605, "name": "Financial result", "weight": 0.0, "id": 2780069706, "level": 2}
+{"count": 6572, "name": "Debt-to-equity ratio", "weight": 0.0, "id": 74153512, "level": 2}
+{"count": 1814, "name": "Amortization", "weight": 0.0, "id": 2781198434, "level": 2}
+{"count": 2318, "name": "Break-even (economics)", "weight": 0.0, "id": 86223996, "level": 2}
+{"count": 3220, "name": "Accounting research", "weight": 0.0, "id": 2780514539, "level": 2}
+{"count": 1507, "name": "Invested capital", "weight": 0.0, "id": 50462806, "level": 2}
+{"count": 40894, "name": "Receipt", "weight": 2.0, "id": 2778979077, "level": 2}
+{"count": 5101, "name": "Taxable income", "weight": 0.0, "id": 157263771, "level": 2}
+{"count": 3068, "name": "Earnings before interest and taxes", "weight": 0.0, "id": 170974965, "level": 2}
+{"count": 2959, "name": "Accounting method", "weight": 0.0, "id": 182931732, "level": 2}
+{"count": 3606, "name": "Bookkeeping", "weight": 0.0, "id": 105387459, "level": 2}
+{"count": 3778, "name": "Accounts payable", "weight": 0.0, "id": 162078301, "level": 2}
+{"count": 1600, "name": "XBRL", "weight": 0.0, "id": 2777264242, "level": 2}
+{"count": 3144, "name": "Cost driver", "weight": 0.0, "id": 95821633, "level": 2}
+{"count": 3972, "name": "Current ratio", "weight": 0.0, "id": 52272595, "level": 2}
+{"count": 443, "name": "Replacement value", "weight": 0.0, "id": 2780724120, "level": 2}
+{"count": 1308, "name": "Integrated reporting", "weight": 0.0, "id": 2779183453, "level": 2}
+{"count": 703, "name": "Corporate title", "weight": 0.0, "id": 67577133, "level": 2}
+{"count": 467, "name": "Accounting period", "weight": 0.0, "id": 2776328442, "level": 2}
+{"count": 530, "name": "Revolving fund", "weight": 0.0, "id": 2781431169, "level": 2}
+{"count": 1642, "name": "Operating margin", "weight": 0.0, "id": 74370782, "level": 2}
+{"count": 312, "name": "Interest expense", "weight": 0.0, "id": 28370254, "level": 2}
+{"count": 2909, "name": "Thinking processes", "weight": 0.0, "id": 187179951, "level": 2}
+{"count": 1915, "name": "Current asset", "weight": 0.0, "id": 51966318, "level": 2}
+{"count": 1296, "name": "Inventory valuation", "weight": 0.0, "id": 143385712, "level": 2}
+{"count": 3074, "name": "Holding cost", "weight": 0.0, "id": 192365026, "level": 2}
+{"count": 1103, "name": "Disparate impact", "weight": 0.0, "id": 2776889015, "level": 2}
+{"count": 945, "name": "Investment value", "weight": 0.0, "id": 2775875300, "level": 2}
+{"count": 4758, "name": "Limited company", "weight": 0.0, "id": 186673887, "level": 2}
+{"count": 1314, "name": "Financial independence", "weight": 0.0, "id": 2775844827, "level": 2}
+{"count": 17443, "name": "Accounting management", "weight": 1.0, "id": 71199308, "level": 2}
+{"count": 5021, "name": "Payroll", "weight": 0.0, "id": 2778873167, "level": 2}
+{"count": 3023, "name": "Ledger", "weight": 0.0, "id": 91302708, "level": 2}
+{"count": 226, "name": "Commercial finance", "weight": 0.0, "id": 2779437648, "level": 2}
+{"count": 78, "name": "Paid in capital", "weight": 0.0, "id": 2778864838, "level": 2}
+{"count": 658, "name": "Contribution margin", "weight": 0.0, "id": 102723702, "level": 2}
+{"count": 180, "name": "Minority interest", "weight": 0.0, "id": 2777107518, "level": 2}
+{"count": 5379, "name": "Worksheet", "weight": 0.0, "id": 176734034, "level": 2}
+{"count": 248, "name": "Capital appreciation", "weight": 0.0, "id": 2779569915, "level": 2}
+{"count": 4012, "name": "Invoice", "weight": 0.0, "id": 2781456945, "level": 2}
+{"count": 503, "name": "Market abuse", "weight": 0.0, "id": 2779336638, "level": 2}
+{"count": 1803, "name": "Deferral", "weight": 0.0, "id": 2778281098, "level": 2}
+{"count": 8229, "name": "Workbook", "weight": 0.0, "id": 2778202681, "level": 2}
+{"count": 1067, "name": "Journal entry", "weight": 0.0, "id": 177786464, "level": 2}
+{"count": 447, "name": "Chart of accounts", "weight": 0.0, "id": 111177808, "level": 2}
+{"count": 497, "name": "Fair Housing Act", "weight": 0.0, "id": 2780001282, "level": 2}
+{"count": 319, "name": "Big Four", "weight": 0.0, "id": 2776617455, "level": 2}
+{"count": 694, "name": "General ledger", "weight": 0.0, "id": 120985605, "level": 2}
+{"count": 169, "name": "Cash collection", "weight": 0.0, "id": 2779181404, "level": 2}
+{"count": 430, "name": "Zero-based budgeting", "weight": 0.0, "id": 24394052, "level": 2}
+{"count": 380, "name": "IFRS 9", "weight": 0.0, "id": 2780768139, "level": 2}
+{"count": 74, "name": "Two-tier system", "weight": 0.0, "id": 2779794800, "level": 2}
+{"count": 242, "name": "Exposure factor", "weight": 0.0, "id": 186633024, "level": 2}
+{"count": 684, "name": "Pro forma", "weight": 0.0, "id": 2778675194, "level": 2}
+{"count": 136, "name": "Treasury stock", "weight": 0.0, "id": 2778893067, "level": 2}
+{"count": 289, "name": "Final accounts", "weight": 0.0, "id": 2777291942, "level": 2}
+{"count": 230, "name": "Whole-life cost", "weight": 0.0, "id": 2778748111, "level": 2}
+{"count": 222, "name": "Managerial finance", "weight": 0.0, "id": 2781413630, "level": 2}
+{"count": 186, "name": "Surtax", "weight": 0.0, "id": 2776512959, "level": 2}
+{"count": 172, "name": "IAS 19", "weight": 0.0, "id": 2777209669, "level": 2}
+{"count": 172, "name": "Personal budget", "weight": 0.0, "id": 2781131724, "level": 2}
+{"count": 150, "name": "IFRS 16", "weight": 0.0, "id": 2777758958, "level": 2}
+{"count": 160, "name": "Companies law", "weight": 0.0, "id": 2779396426, "level": 2}
+{"count": 277, "name": "Expense management", "weight": 0.0, "id": 80427078, "level": 2}
+{"count": 126, "name": "Adjusting entries", "weight": 0.0, "id": 85718752, "level": 2}
+{"count": 51, "name": "Like-kind exchange", "weight": 0.0, "id": 2779888705, "level": 2}
+{"count": 28, "name": "Trading statement", "weight": 0.0, "id": 2776593667, "level": 2}
+{"count": 183, "name": "Equivalent annual cost", "weight": 0.0, "id": 9749610, "level": 2}
+{"count": 82, "name": "General journal", "weight": 0.0, "id": 2776654784, "level": 2}
+{"count": 208, "name": "SG&A", "weight": 0.0, "id": 2780070584, "level": 2}
+{"count": 157, "name": "Controlling account", "weight": 0.0, "id": 20171934, "level": 2}
+{"count": 56, "name": "IFRS 5", "weight": 0.0, "id": 2780231602, "level": 2}
+{"count": 76, "name": "Finance charge", "weight": 0.0, "id": 2775937846, "level": 2}
+{"count": 51, "name": "Representational faithfulness", "weight": 0.0, "id": 142789118, "level": 2}
+{"count": 84, "name": "Holding gains", "weight": 0.0, "id": 2780336097, "level": 2}
+{"count": 60, "name": "Building block model", "weight": 0.0, "id": 2778154409, "level": 2}
+{"count": 416, "name": "Available for sale", "weight": 0.0, "id": 2777136853, "level": 2}
+{"count": 44, "name": "Open-book management", "weight": 0.0, "id": 2777555668, "level": 2}
+{"count": 110, "name": "Timesheet", "weight": 0.0, "id": 2778665708, "level": 2}
+{"count": 735, "name": "Constructive fraud", "weight": 0.0, "id": 92956704, "level": 2}
+{"count": 61, "name": "Floating capital", "weight": 0.0, "id": 2781230680, "level": 2}
+{"count": 7, "name": "Debtor days", "weight": 0.0, "id": 84722986, "level": 2}
+{"count": 51, "name": "Break-even", "weight": 0.0, "id": 93390045, "level": 2}
+{"count": 7, "name": "Fixed liability", "weight": 0.0, "id": 2780258190, "level": 2}
+{"count": 108, "name": "Debits and credits", "weight": 0.0, "id": 2776002357, "level": 2}
+{"count": 53, "name": "Construction in progress", "weight": 0.0, "id": 180946718, "level": 2}
+{"count": 6, "name": "Constant purchasing power accounting", "weight": 0.0, "id": 2776922125, "level": 2}
+{"count": 12, "name": "Asset retirement obligation", "weight": 0.0, "id": 2780966278, "level": 2}
+{"count": 24, "name": "IAS 10", "weight": 0.0, "id": 2777644045, "level": 2}
+{"count": 8, "name": "Regulation S-X", "weight": 0.0, "id": 2779925150, "level": 2}
+{"count": 92, "name": "Profit taking", "weight": 0.0, "id": 2779929125, "level": 2}
+{"count": 31, "name": "Notes receivable", "weight": 0.0, "id": 2778367951, "level": 2}
+{"count": 9, "name": "Goal-based investing", "weight": 0.0, "id": 2776071982, "level": 2}
+{"count": 19, "name": "Additional funds needed", "weight": 0.0, "id": 2776733995, "level": 2}
+{"count": 2, "name": "Managerial risk accounting", "weight": 0.0, "id": 2778350231, "level": 2}
+{"count": 1, "name": "Local Government Finance in Kerala", "weight": 0.0, "id": 2775980959, "level": 2}
+{"count": 4, "name": "Vulture investor", "weight": 0.0, "id": 2776995063, "level": 2}
+{"count": 8, "name": "Net income per employee", "weight": 0.0, "id": 2777611384, "level": 2}
+{"count": 3, "name": "Legal matter management", "weight": 0.0, "id": 2777330165, "level": 2}
+{"count": 47, "name": "Positive assurance", "weight": 0.0, "id": 2779814096, "level": 2}
+{"count": 94, "name": "Undervalued stock", "weight": 0.0, "id": 40862511, "level": 2}
+{"count": 3, "name": "Khozraschyot", "weight": 0.0, "id": 2779595802, "level": 2}
+{"count": 13, "name": "Installment note", "weight": 0.0, "id": 2777739716, "level": 2}
+{"count": 7, "name": "Account stated", "weight": 0.0, "id": 2777954221, "level": 2}
+{"count": 4, "name": "Debtor finance", "weight": 0.0, "id": 2780987830, "level": 2}
+{"count": 7, "name": "Loan note", "weight": 0.0, "id": 2778375362, "level": 2}
+{"count": 1, "name": "International Financial Reporting Standards requirements", "weight": 0.0, "id": 2776972250, "level": 2}
+{"count": 10, "name": "Philosophy of accounting", "weight": 0.0, "id": 2775867577, "level": 2}
+{"count": 2, "name": "Trailing twelve months", "weight": 0.0, "id": 77273772, "level": 2}
+{"count": 3, "name": "Tax accounting in the United States", "weight": 0.0, "id": 2780032885, "level": 2}
+{"count": 59, "name": "Net D", "weight": 0.0, "id": 149489383, "level": 2}
+{"count": 2, "name": "Total revenue share", "weight": 0.0, "id": 2778485453, "level": 2}
+{"count": 2, "name": "Tax amortization benefit", "weight": 0.0, "id": 2780060749, "level": 2}
+{"count": 3, "name": "Hedge relationship", "weight": 0.0, "id": 2776052728, "level": 2}
+{"count": 54, "name": "Special journals", "weight": 0.0, "id": 2779009585, "level": 2}
+{"count": 1, "name": "Sales quote", "weight": 0.0, "id": 2778169210, "level": 2}
+{"count": 1, "name": "Return on tangible equity", "weight": 0.0, "id": 2779184761, "level": 2}
+{"count": 160, "name": "Shipping list", "weight": 0.0, "id": 169528715, "level": 2}
+{"count": 1, "name": "Convention of conservatism", "weight": 0.0, "id": 2778359880, "level": 2}
+{"count": 5, "name": "Commercial credit reporting", "weight": 0.0, "id": 2778363221, "level": 2}
+{"count": 3, "name": "Tangible common equity", "weight": 0.0, "id": 2776821178, "level": 2}
+{"count": 3, "name": "Generalized Ozaki cost function", "weight": 0.0, "id": 2780454678, "level": 2}
+{"count": 3, "name": "Hollywood accounting", "weight": 0.0, "id": 101675442, "level": 2}
+{"count": 1, "name": "Teeming and lading", "weight": 0.0, "id": 2781382333, "level": 2}
+{"count": 2, "name": "Global supply-chain finance", "weight": 0.0, "id": 2780516364, "level": 2}
+{"count": 53, "name": "Rich Dad", "weight": 0.0, "id": 2777243522, "level": 2}
+{"count": 1, "name": "Structural moving average model", "weight": 0.0, "id": 2779802682, "level": 2}

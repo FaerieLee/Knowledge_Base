@@ -1,0 +1,15 @@
+{"count": 1038, "name": "Star product", "weight": 9.0, "id": 195800304, "level": 3}
+{"count": 893, "name": "Linear extension", "weight": 8.0, "id": 129393996, "level": 3}
+{"count": 378, "name": "Interval order", "weight": 3.0, "id": 28865050, "level": 3}
+{"count": 589, "name": "Hasse diagram", "weight": 5.0, "id": 140002607, "level": 3}
+{"count": 552, "name": "Antichain", "weight": 5.0, "id": 136134351, "level": 3}
+{"count": 242, "name": "Order dimension", "weight": 2.0, "id": 97199582, "level": 3}
+{"count": 89, "name": "Antimatroid", "weight": 0.0, "id": 2776276053, "level": 3}
+{"count": 1071, "name": "Total order", "weight": 10.0, "id": 144901957, "level": 3}
+{"count": 89, "name": "Tamari lattice", "weight": 0.0, "id": 2778377338, "level": 3}
+{"count": 439, "name": "Graded poset", "weight": 4.0, "id": 159940063, "level": 3}
+{"count": 23, "name": "Upper topology", "weight": 0.0, "id": 2778310798, "level": 3}
+{"count": 21, "name": "Poset topology", "weight": 0.0, "id": 2777489673, "level": 3}
+{"count": 21, "name": "Containment order", "weight": 0.0, "id": 2780722720, "level": 3}
+{"count": 38, "name": "Ranked poset", "weight": 0.0, "id": 2775933224, "level": 3}
+{"count": 13, "name": "Locally finite poset", "weight": 0.0, "id": 2778926984, "level": 3}

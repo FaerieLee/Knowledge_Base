@@ -1,0 +1,42 @@
+{"count": 26389, "name": "Phase modulation", "weight": 9.0, "id": 96834759, "level": 3}
+{"count": 27856, "name": "Phase-shift keying", "weight": 10.0, "id": 186378180, "level": 3}
+{"count": 21267, "name": "Amplitude modulation", "weight": 7.0, "id": 201905106, "level": 3}
+{"count": 17991, "name": "Quadrature amplitude modulation", "weight": 6.0, "id": 32409245, "level": 3}
+{"count": 17591, "name": "Optical modulator", "weight": 6.0, "id": 193690875, "level": 3}
+{"count": 12580, "name": "Intensity modulation", "weight": 4.0, "id": 48925448, "level": 3}
+{"count": 8898, "name": "Frequency-shift keying", "weight": 3.0, "id": 163996819, "level": 3}
+{"count": 13980, "name": "Delta-sigma modulation", "weight": 5.0, "id": 68754193, "level": 3}
+{"count": 9142, "name": "Link adaptation", "weight": 3.0, "id": 138916503, "level": 3}
+{"count": 3825, "name": "Noise shaping", "weight": 1.0, "id": 9083635, "level": 3}
+{"count": 5950, "name": "Cross-phase modulation", "weight": 2.0, "id": 92698915, "level": 3}
+{"count": 11604, "name": "Pulse-amplitude modulation", "weight": 4.0, "id": 20518276, "level": 3}
+{"count": 4602, "name": "Pulse-position modulation", "weight": 1.0, "id": 46035914, "level": 3}
+{"count": 3833, "name": "Radio over fiber", "weight": 1.0, "id": 2780113332, "level": 3}
+{"count": 1628, "name": "Return-to-zero", "weight": 0.0, "id": 2776616227, "level": 3}
+{"count": 6033, "name": "Continuous phase modulation", "weight": 2.0, "id": 343090, "level": 3}
+{"count": 5036, "name": "Pulse-frequency modulation", "weight": 1.0, "id": 150251571, "level": 3}
+{"count": 1080, "name": "Acousto-optic modulator", "weight": 0.0, "id": 2779137583, "level": 3}
+{"count": 3204, "name": "Modulation index", "weight": 1.0, "id": 2776635522, "level": 3}
+{"count": 2854, "name": "Compatible sideband transmission", "weight": 1.0, "id": 72419100, "level": 3}
+{"count": 3930, "name": "Symbol rate", "weight": 1.0, "id": 74645175, "level": 3}
+{"count": 556, "name": "Envelope Tracking", "weight": 0.0, "id": 27030619, "level": 3}
+{"count": 854, "name": "Angle modulation", "weight": 0.0, "id": 2780882722, "level": 3}
+{"count": 1504, "name": "Differential coding", "weight": 0.0, "id": 79880414, "level": 3}
+{"count": 9843, "name": "Analog transmission", "weight": 3.0, "id": 22676131, "level": 3}
+{"count": 2134, "name": "Optical Carrier transmission rates", "weight": 0.0, "id": 121629672, "level": 3}
+{"count": 426, "name": "Constant envelope", "weight": 0.0, "id": 2775867326, "level": 3}
+{"count": 603, "name": "Hierarchical modulation", "weight": 0.0, "id": 2779098619, "level": 3}
+{"count": 1031, "name": "Binary offset carrier modulation", "weight": 0.0, "id": 207717533, "level": 3}
+{"count": 239, "name": "Polar modulation", "weight": 0.0, "id": 2781043178, "level": 3}
+{"count": 1690, "name": "Line code", "weight": 0.0, "id": 85961473, "level": 3}
+{"count": 13500, "name": "Keying", "weight": 4.0, "id": 2776542216, "level": 3}
+{"count": 144, "name": "Complementary code keying", "weight": 0.0, "id": 102013462, "level": 3}
+{"count": 677, "name": "Modulation order", "weight": 0.0, "id": 2776560556, "level": 3}
+{"count": 199, "name": "Ring modulation", "weight": 0.0, "id": 175966412, "level": 3}
+{"count": 88, "name": "Spectral correlation density", "weight": 0.0, "id": 2778114280, "level": 3}
+{"count": 185, "name": "Space modulation", "weight": 0.0, "id": 2779019894, "level": 3}
+{"count": 287, "name": "RF modulator", "weight": 0.0, "id": 2779727067, "level": 3}
+{"count": 80, "name": "Interferometric modulator display", "weight": 0.0, "id": 2779063799, "level": 3}
+{"count": 75, "name": "Ultra-linear", "weight": 0.0, "id": 2777121650, "level": 3}
+{"count": 62, "name": "Video modulation", "weight": 0.0, "id": 2777208867, "level": 3}
+{"count": 21, "name": "Modulation transformer", "weight": 0.0, "id": 2777873516, "level": 3}

@@ -1,0 +1,11 @@
+{"count": 1686, "name": "Conjunctive normal form", "weight": 10.0, "id": 16221470, "level": 4}
+{"count": 1041, "name": "True quantified Boolean formula", "weight": 6.0, "id": 200415742, "level": 4}
+{"count": 424, "name": "Unit propagation", "weight": 2.0, "id": 166091005, "level": 4}
+{"count": 146, "name": "Implication graph", "weight": 0.0, "id": 86764476, "level": 4}
+{"count": 83, "name": "2-satisfiability", "weight": 0.0, "id": 15481378, "level": 4}
+{"count": 259, "name": "WalkSAT", "weight": 1.0, "id": 190509626, "level": 4}
+{"count": 27, "name": "Post's lattice", "weight": 0.0, "id": 2776739073, "level": 4}
+{"count": 90, "name": "Unsatisfiable core", "weight": 0.0, "id": 2777525339, "level": 4}
+{"count": 55, "name": "Conflict-Driven Clause Learning", "weight": 0.0, "id": 2776377773, "level": 4}
+{"count": 42, "name": "Uclid", "weight": 0.0, "id": 2775921092, "level": 4}
+{"count": 626, "name": "#SAT", "weight": 3.0, "id": 33149640, "level": 4}

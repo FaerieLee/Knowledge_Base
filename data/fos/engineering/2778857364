@@ -1,0 +1,17 @@
+{"count": 3428, "name": "Missile guidance", "weight": 6.0, "id": 522053795, "level": 3}
+{"count": 5318, "name": "Ballistic missile", "weight": 10.0, "id": 122136912, "level": 3}
+{"count": 2335, "name": "Cruise missile", "weight": 4.0, "id": 28849524, "level": 3}
+{"count": 825, "name": "Surface-to-air missile", "weight": 1.0, "id": 139353612, "level": 3}
+{"count": 878, "name": "Surface-to-surface missile", "weight": 1.0, "id": 71800255, "level": 3}
+{"count": 1375, "name": "Terminal guidance", "weight": 2.0, "id": 2777047555, "level": 3}
+{"count": 1100, "name": "Air-to-air missile", "weight": 2.0, "id": 202802212, "level": 3}
+{"count": 1382, "name": "Proportional navigation", "weight": 2.0, "id": 2778464233, "level": 3}
+{"count": 2848, "name": "Missile defense", "weight": 5.0, "id": 559253537, "level": 3}
+{"count": 327, "name": "Command guidance", "weight": 0.0, "id": 2778624799, "level": 3}
+{"count": 435, "name": "Anti-ship missile", "weight": 0.0, "id": 2779501970, "level": 3}
+{"count": 155, "name": "Anti-radiation missile", "weight": 0.0, "id": 2779894600, "level": 3}
+{"count": 409, "name": "Round number", "weight": 0.0, "id": 48236270, "level": 3}
+{"count": 116, "name": "Infrared homing", "weight": 0.0, "id": 2778240782, "level": 3}
+{"count": 314, "name": "United States Air Force Stability and Control Digital DATCOM", "weight": 0.0, "id": 189996062, "level": 3}
+{"count": 64, "name": "ALE-50 Towed Decoy System", "weight": 0.0, "id": 91303045, "level": 3}
+{"count": 67, "name": "Aeroprediction", "weight": 0.0, "id": 2776298355, "level": 3}

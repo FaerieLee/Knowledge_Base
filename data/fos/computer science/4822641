@@ -1,0 +1,8 @@
+{"count": 2585, "name": "MPSoC", "weight": 10.0, "id": 2777187653, "level": 3}
+{"count": 1595, "name": "Uniprocessor system", "weight": 6.0, "id": 79189994, "level": 3}
+{"count": 17, "name": "Fetch-and-add", "weight": 0.0, "id": 176011237, "level": 3}
+{"count": 53, "name": "MultiLisp", "weight": 0.0, "id": 2778588189, "level": 3}
+{"count": 283, "name": "Symmetric multiprocessing", "weight": 1.0, "id": 65634163, "level": 3}
+{"count": 146, "name": "Asymmetric multiprocessing", "weight": 0.0, "id": 102928384, "level": 3}
+{"count": 29, "name": "C.mmp", "weight": 0.0, "id": 2776676296, "level": 3}
+{"count": 16, "name": "Software lockout", "weight": 0.0, "id": 72608912, "level": 3}

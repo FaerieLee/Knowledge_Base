@@ -1,0 +1,12 @@
+{"count": 1732, "name": "SNOMED CT", "weight": 10.0, "id": 206497026, "level": 3}
+{"count": 391, "name": "Terminology extraction", "weight": 2.0, "id": 2781183675, "level": 3}
+{"count": 285, "name": "Anatomical terminology", "weight": 1.0, "id": 547169164, "level": 3}
+{"count": 156, "name": "RxNorm", "weight": 0.0, "id": 77535585, "level": 3}
+{"count": 209, "name": "Terminologia Anatomica", "weight": 1.0, "id": 2777274556, "level": 3}
+{"count": 98, "name": "Specialized dictionary", "weight": 0.0, "id": 2779085260, "level": 3}
+{"count": 49, "name": "ISBT 128", "weight": 0.0, "id": 2775837983, "level": 3}
+{"count": 47, "name": "Botanical Latin", "weight": 0.0, "id": 2778664903, "level": 3}
+{"count": 24, "name": "NeuroNames", "weight": 0.0, "id": 59914800, "level": 3}
+{"count": 14, "name": "ISO 12620", "weight": 0.0, "id": 2779601809, "level": 3}
+{"count": 10, "name": "Federative International Committee on Anatomical Terminology", "weight": 0.0, "id": 2778031504, "level": 3}
+{"count": 13, "name": "NCI Metathesaurus", "weight": 0.0, "id": 99561811, "level": 3}

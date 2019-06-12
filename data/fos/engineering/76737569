@@ -1,0 +1,30 @@
+{"count": 6992, "name": "Burn rate (chemistry)", "weight": 10.0, "id": 140277857, "level": 3}
+{"count": 3273, "name": "Ammonium perchlorate", "weight": 4.0, "id": 2776704483, "level": 3}
+{"count": 4934, "name": "Specific impulse", "weight": 7.0, "id": 15046436, "level": 3}
+{"count": 1845, "name": "Liquid rocket propellants", "weight": 2.0, "id": 40208586, "level": 3}
+{"count": 1598, "name": "Internal ballistics", "weight": 2.0, "id": 74649582, "level": 3}
+{"count": 3777, "name": "Rocket propellant", "weight": 5.0, "id": 34436041, "level": 3}
+{"count": 1449, "name": "Monopropellant", "weight": 2.0, "id": 21395175, "level": 3}
+{"count": 623, "name": "Pulsed plasma thruster", "weight": 0.0, "id": 2779573106, "level": 3}
+{"count": 5028, "name": "Liquid-propellant rocket", "weight": 7.0, "id": 56677355, "level": 3}
+{"count": 361, "name": "Ammonium dinitramide", "weight": 0.0, "id": 2778994018, "level": 3}
+{"count": 904, "name": "Propellant tank", "weight": 1.0, "id": 2779664251, "level": 3}
+{"count": 460, "name": "Burn rate", "weight": 0.0, "id": 58733880, "level": 3}
+{"count": 698, "name": "Hypergolic propellant", "weight": 0.0, "id": 153080966, "level": 3}
+{"count": 1319, "name": "Characteristic velocity", "weight": 1.0, "id": 177266075, "level": 3}
+{"count": 6334, "name": "Solid-fuel rocket", "weight": 9.0, "id": 102019270, "level": 3}
+{"count": 521, "name": "Nitrate ester", "weight": 0.0, "id": 2776789059, "level": 3}
+{"count": 59, "name": "Hydrazinium nitroformate", "weight": 0.0, "id": 2780507174, "level": 3}
+{"count": 730, "name": "Cold gas thruster", "weight": 1.0, "id": 38689412, "level": 3}
+{"count": 43, "name": "Nitronium perchlorate", "weight": 0.0, "id": 2776289411, "level": 3}
+{"count": 66, "name": "Propellant depot", "weight": 0.0, "id": 2777862942, "level": 3}
+{"count": 24, "name": "2-Nitrodiphenylamine", "weight": 0.0, "id": 2779767598, "level": 3}
+{"count": 131, "name": "Dual-thrust", "weight": 0.0, "id": 2778606499, "level": 3}
+{"count": 11, "name": "Combustion light-gas gun", "weight": 0.0, "id": 2780670609, "level": 3}
+{"count": 54, "name": "Thermal rocket", "weight": 0.0, "id": 2777424210, "level": 3}
+{"count": 55, "name": "Polyvinyl nitrate", "weight": 0.0, "id": 2776710071, "level": 3}
+{"count": 17, "name": "Ammonium perchlorate composite propellant", "weight": 0.0, "id": 2780091121, "level": 3}
+{"count": 25, "name": "Gaseous fire suppression", "weight": 0.0, "id": 2781352390, "level": 3}
+{"count": 18, "name": "Case bond", "weight": 0.0, "id": 2781201877, "level": 3}
+{"count": 27, "name": "Mixed oxides of nitrogen", "weight": 0.0, "id": 2778600668, "level": 3}
+{"count": 11, "name": "Zero-propellant maneuver", "weight": 0.0, "id": 2778616592, "level": 3}

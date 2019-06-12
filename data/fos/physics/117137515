@@ -1,0 +1,40 @@
+{"count": 14296, "name": "Lattice field theory", "weight": 7.0, "id": 42238305, "level": 3}
+{"count": 18944, "name": "Gluon", "weight": 10.0, "id": 123579102, "level": 3}
+{"count": 11736, "name": "Quark\u2013gluon plasma", "weight": 6.0, "id": 2292967, "level": 3}
+{"count": 16785, "name": "Parton", "weight": 8.0, "id": 180566339, "level": 3}
+{"count": 13163, "name": "Lattice QCD", "weight": 6.0, "id": 3909970, "level": 3}
+{"count": 6874, "name": "Perturbative QCD", "weight": 3.0, "id": 2776230626, "level": 3}
+{"count": 2472, "name": "Color confinement", "weight": 1.0, "id": 98795603, "level": 3}
+{"count": 9193, "name": "Chiral perturbation theory", "weight": 4.0, "id": 99077945, "level": 3}
+{"count": 9319, "name": "Chiral symmetry breaking", "weight": 4.0, "id": 52703039, "level": 3}
+{"count": 3995, "name": "Quarkonium", "weight": 2.0, "id": 2779985612, "level": 3}
+{"count": 1616, "name": "Hadron spectroscopy", "weight": 0.0, "id": 2779547278, "level": 3}
+{"count": 882, "name": "Heavy quark effective theory", "weight": 0.0, "id": 2776643510, "level": 3}
+{"count": 688, "name": "Fragmentation function", "weight": 0.0, "id": 2775885684, "level": 3}
+{"count": 666, "name": "Schwinger\u2013Dyson equation", "weight": 0.0, "id": 2778596466, "level": 3}
+{"count": 3519, "name": "Pomeron", "weight": 1.0, "id": 2776103971, "level": 3}
+{"count": 1243, "name": "Asymptotic freedom", "weight": 0.0, "id": 149374227, "level": 3}
+{"count": 3248, "name": "Deconfinement", "weight": 1.0, "id": 2781249807, "level": 3}
+{"count": 3518, "name": "Resummation", "weight": 1.0, "id": 2778409180, "level": 3}
+{"count": 2866, "name": "Hadronization", "weight": 1.0, "id": 186022433, "level": 3}
+{"count": 2344, "name": "Glueball", "weight": 1.0, "id": 2776465598, "level": 3}
+{"count": 481, "name": "Soft-collinear effective theory", "weight": 0.0, "id": 2780194952, "level": 3}
+{"count": 1922, "name": "Diquark", "weight": 1.0, "id": 155043459, "level": 3}
+{"count": 846, "name": "Tetraquark", "weight": 0.0, "id": 2780397245, "level": 3}
+{"count": 481, "name": "Underlying event", "weight": 0.0, "id": 2776335133, "level": 3}
+{"count": 2994, "name": "QCD sum rules", "weight": 1.0, "id": 2776250685, "level": 3}
+{"count": 2850, "name": "Charm quark", "weight": 1.0, "id": 86040059, "level": 3}
+{"count": 442, "name": "Renormalon", "weight": 0.0, "id": 2780079583, "level": 3}
+{"count": 45, "name": "Gell-Mann\u2013Okubo mass formula", "weight": 0.0, "id": 2778669888, "level": 3}
+{"count": 103, "name": "Cone algorithm", "weight": 0.0, "id": 2778611361, "level": 3}
+{"count": 176, "name": "Minimal subtraction scheme", "weight": 0.0, "id": 2778433650, "level": 3}
+{"count": 1042, "name": "Exotic hadron", "weight": 0.0, "id": 48264206, "level": 3}
+{"count": 7, "name": "Vafa\u2013Witten theorem", "weight": 0.0, "id": 2778613065, "level": 3}
+{"count": 107, "name": "Light front quantization", "weight": 0.0, "id": 2777745463, "level": 3}
+{"count": 283, "name": "Dirac spectrum", "weight": 0.0, "id": 2775897360, "level": 3}
+{"count": 105, "name": "Vacuum angle", "weight": 0.0, "id": 2779859970, "level": 3}
+{"count": 129, "name": "Dimensional transmutation", "weight": 0.0, "id": 2778003202, "level": 3}
+{"count": 207, "name": "QCD string", "weight": 0.0, "id": 2777133056, "level": 3}
+{"count": 81, "name": "Infrared safety", "weight": 0.0, "id": 2780393006, "level": 3}
+{"count": 418, "name": "Current quark", "weight": 0.0, "id": 2777464483, "level": 3}
+{"count": 16, "name": "Three-jet event", "weight": 0.0, "id": 2780556509, "level": 3}

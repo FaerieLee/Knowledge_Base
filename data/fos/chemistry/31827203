@@ -1,0 +1,7 @@
+{"count": 5945, "name": "Collision-induced dissociation", "weight": 10.0, "id": 176107965, "level": 4}
+{"count": 514, "name": "Electron-capture dissociation", "weight": 0.0, "id": 2776982924, "level": 4}
+{"count": 771, "name": "Electron-transfer dissociation", "weight": 1.0, "id": 2777109674, "level": 4}
+{"count": 4543, "name": "Triple quadrupole mass spectrometer", "weight": 7.0, "id": 172493649, "level": 4}
+{"count": 5421, "name": "Protein mass spectrometry", "weight": 9.0, "id": 202157981, "level": 4}
+{"count": 215, "name": "De novo peptide sequencing", "weight": 0.0, "id": 2778560965, "level": 4}
+{"count": 237, "name": "Peptide spectral library", "weight": 0.0, "id": 137455241, "level": 4}

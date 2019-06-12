@@ -1,0 +1,200 @@
+{"count": 607902, "name": "The Internet", "weight": 10.0, "id": 110875604, "level": 2}
+{"count": 124341, "name": "Search engine", "weight": 2.0, "id": 97854310, "level": 2}
+{"count": 31918, "name": "Institutional repository", "weight": 0.0, "id": 2780824705, "level": 2}
+{"count": 152752, "name": "Social network", "weight": 2.0, "id": 86256295, "level": 2}
+{"count": 119967, "name": "Information and Communications Technology", "weight": 1.0, "id": 67363961, "level": 2}
+{"count": 98730, "name": "Technical report", "weight": 1.0, "id": 182449105, "level": 2}
+{"count": 62604, "name": "Knowledge base", "weight": 1.0, "id": 4554734, "level": 2}
+{"count": 75655, "name": "Web service", "weight": 1.0, "id": 35578498, "level": 2}
+{"count": 5549, "name": "Parasite hosting", "weight": 0.0, "id": 71928629, "level": 2}
+{"count": 130192, "name": "Mobile device", "weight": 2.0, "id": 186967261, "level": 2}
+{"count": 92803, "name": "Digital library", "weight": 1.0, "id": 513874922, "level": 2}
+{"count": 46135, "name": "XML", "weight": 0.0, "id": 8797682, "level": 2}
+{"count": 116050, "name": "Server", "weight": 1.0, "id": 93996380, "level": 2}
+{"count": 29621, "name": "Semantic Web", "weight": 0.0, "id": 2129575, "level": 2}
+{"count": 30135, "name": "Peer-to-peer", "weight": 0.0, "id": 534932454, "level": 2}
+{"count": 19469, "name": "Information Dissemination", "weight": 0.0, "id": 2779494480, "level": 2}
+{"count": 72087, "name": "Web page", "weight": 1.0, "id": 21959979, "level": 2}
+{"count": 109145, "name": "Social media", "weight": 1.0, "id": 518677369, "level": 2}
+{"count": 6084, "name": "Feedback loop", "weight": 0.0, "id": 186886427, "level": 2}
+{"count": 28130, "name": "Information needs", "weight": 0.0, "id": 78999398, "level": 2}
+{"count": 14690, "name": "Collaborative software", "weight": 0.0, "id": 554579003, "level": 2}
+{"count": 20259, "name": "Digital humanities", "weight": 0.0, "id": 24351657, "level": 2}
+{"count": 64470, "name": "Metadata", "weight": 1.0, "id": 93518851, "level": 2}
+{"count": 25372, "name": "Information sharing", "weight": 0.0, "id": 2776854237, "level": 2}
+{"count": 49122, "name": "Interoperability", "weight": 0.0, "id": 20136886, "level": 2}
+{"count": 14749, "name": "Learning object", "weight": 0.0, "id": 2779542340, "level": 2}
+{"count": 5627, "name": "Interaction model", "weight": 0.0, "id": 2780806968, "level": 2}
+{"count": 12521, "name": "Information access", "weight": 0.0, "id": 2776543384, "level": 2}
+{"count": 8440, "name": "Real-time data", "weight": 0.0, "id": 110593043, "level": 2}
+{"count": 35850, "name": "Personalization", "weight": 0.0, "id": 183003079, "level": 2}
+{"count": 19524, "name": "Preprint", "weight": 0.0, "id": 43169469, "level": 2}
+{"count": 68922, "name": "Web application", "weight": 1.0, "id": 118643609, "level": 2}
+{"count": 11547, "name": "Hypermedia", "weight": 0.0, "id": 2780126544, "level": 2}
+{"count": 11291, "name": "Bibliometrics", "weight": 0.0, "id": 178315738, "level": 2}
+{"count": 21010, "name": "Web 2.0", "weight": 0.0, "id": 136699151, "level": 2}
+{"count": 3642, "name": "Microdata (HTML)", "weight": 0.0, "id": 43232521, "level": 2}
+{"count": 12123, "name": "RDF", "weight": 0.0, "id": 147497476, "level": 2}
+{"count": 9736, "name": "Open data", "weight": 0.0, "id": 2780535194, "level": 2}
+{"count": 29944, "name": "Web server", "weight": 0.0, "id": 11392498, "level": 2}
+{"count": 15145, "name": "Computer literacy", "weight": 0.0, "id": 192531217, "level": 2}
+{"count": 32545, "name": "Electronic business", "weight": 0.0, "id": 65257409, "level": 2}
+{"count": 12424, "name": "Hypertext", "weight": 0.0, "id": 162215914, "level": 2}
+{"count": 16642, "name": "Data exchange", "weight": 0.0, "id": 15845906, "level": 2}
+{"count": 10488, "name": "Web mining", "weight": 0.0, "id": 197046077, "level": 2}
+{"count": 10908, "name": "Universal design", "weight": 0.0, "id": 99527880, "level": 2}
+{"count": 67448, "name": "Citation", "weight": 1.0, "id": 2778805511, "level": 2}
+{"count": 11244, "name": "Linked data", "weight": 0.0, "id": 69075417, "level": 2}
+{"count": 108614, "name": "Payment", "weight": 1.0, "id": 145097563, "level": 2}
+{"count": 5217, "name": "Electronic data interchange", "weight": 0.0, "id": 41525213, "level": 2}
+{"count": 8456, "name": "Markup language", "weight": 0.0, "id": 45874996, "level": 2}
+{"count": 28611, "name": "Digital media", "weight": 0.0, "id": 17632256, "level": 2}
+{"count": 10615, "name": "User profile", "weight": 0.0, "id": 2780150774, "level": 2}
+{"count": 7713, "name": "Online community", "weight": 0.0, "id": 2778165684, "level": 2}
+{"count": 6956, "name": "Library management", "weight": 0.0, "id": 2775918691, "level": 2}
+{"count": 12803, "name": "Content management", "weight": 0.0, "id": 33039251, "level": 2}
+{"count": 14619, "name": "Crowdsourcing", "weight": 0.0, "id": 62230096, "level": 2}
+{"count": 3771, "name": "Business-to-business", "weight": 0.0, "id": 2778121033, "level": 2}
+{"count": 3721, "name": "Web accessibility", "weight": 0.0, "id": 194669863, "level": 2}
+{"count": 3373, "name": "Virtual organization", "weight": 0.0, "id": 2776272021, "level": 2}
+{"count": 10843, "name": "Interactive media", "weight": 0.0, "id": 203004452, "level": 2}
+{"count": 4005, "name": "Information space", "weight": 0.0, "id": 2776377510, "level": 2}
+{"count": 4649, "name": "Information overload", "weight": 0.0, "id": 186625053, "level": 2}
+{"count": 9751, "name": "Network formation", "weight": 0.0, "id": 68416499, "level": 2}
+{"count": 12276, "name": "Cataloging", "weight": 0.0, "id": 2777922441, "level": 2}
+{"count": 4416, "name": "Scientometrics", "weight": 0.0, "id": 525823164, "level": 2}
+{"count": 3445, "name": "Electronic journal", "weight": 0.0, "id": 2776604462, "level": 2}
+{"count": 37999, "name": "Impression", "weight": 0.0, "id": 2776684213, "level": 2}
+{"count": 20492, "name": "Interactivity", "weight": 0.0, "id": 144430266, "level": 2}
+{"count": 4902, "name": "Mobile commerce", "weight": 0.0, "id": 197378717, "level": 2}
+{"count": 8869, "name": "Electronic document", "weight": 0.0, "id": 2778315425, "level": 2}
+{"count": 2987, "name": "Controlled vocabulary", "weight": 0.0, "id": 110615152, "level": 2}
+{"count": 97560, "name": "Download", "weight": 1.0, "id": 2780154274, "level": 2}
+{"count": 8065, "name": "Interactive Learning", "weight": 0.0, "id": 2776716048, "level": 2}
+{"count": 4157, "name": "Multimodality", "weight": 0.0, "id": 2780910867, "level": 2}
+{"count": 9393, "name": "Collection development", "weight": 0.0, "id": 2780416505, "level": 2}
+{"count": 2421, "name": "Bibliographic database", "weight": 0.0, "id": 2779980791, "level": 2}
+{"count": 4969, "name": "Collective intelligence", "weight": 0.0, "id": 89057211, "level": 2}
+{"count": 11679, "name": "Digital content", "weight": 0.0, "id": 2779344036, "level": 2}
+{"count": 6702, "name": "Open education", "weight": 0.0, "id": 2781052624, "level": 2}
+{"count": 13107, "name": "PEAR", "weight": 0.0, "id": 2775874295, "level": 2}
+{"count": 14540, "name": "Web crawler", "weight": 0.0, "id": 13743948, "level": 2}
+{"count": 12108, "name": "Table of contents", "weight": 0.0, "id": 68476402, "level": 2}
+{"count": 6623, "name": "Knowledge society", "weight": 0.0, "id": 2780784464, "level": 2}
+{"count": 7870, "name": "Hyperlink", "weight": 0.0, "id": 30088001, "level": 2}
+{"count": 11594, "name": "JavaScript", "weight": 0.0, "id": 544833334, "level": 2}
+{"count": 2665, "name": "Social infrastructure", "weight": 0.0, "id": 2781396848, "level": 2}
+{"count": 18006, "name": "Application server", "weight": 0.0, "id": 164554305, "level": 2}
+{"count": 2190, "name": "Open standard", "weight": 0.0, "id": 67936045, "level": 2}
+{"count": 10803, "name": "Library classification", "weight": 0.0, "id": 204126058, "level": 2}
+{"count": 606, "name": "Device independence", "weight": 0.0, "id": 2779024245, "level": 2}
+{"count": 2913, "name": "Knowledge organization", "weight": 0.0, "id": 2779810430, "level": 2}
+{"count": 3260, "name": "Scalable Vector Graphics", "weight": 0.0, "id": 202629362, "level": 2}
+{"count": 12769, "name": "Slicing", "weight": 0.0, "id": 2776190703, "level": 2}
+{"count": 9656, "name": "RSS", "weight": 0.0, "id": 2385561, "level": 2}
+{"count": 34175, "name": "End user", "weight": 0.0, "id": 91262260, "level": 2}
+{"count": 5584, "name": "Digital literacy", "weight": 0.0, "id": 2777646416, "level": 2}
+{"count": 2356, "name": "Social software", "weight": 0.0, "id": 2777381677, "level": 2}
+{"count": 33578, "name": "Citizen journalism", "weight": 0.0, "id": 203663800, "level": 2}
+{"count": 620, "name": "NLS", "weight": 0.0, "id": 186435350, "level": 2}
+{"count": 4158, "name": "Digital preservation", "weight": 0.0, "id": 2778674798, "level": 2}
+{"count": 7833, "name": "Point of sale", "weight": 0.0, "id": 58033187, "level": 2}
+{"count": 5271, "name": "Sales promotion", "weight": 0.0, "id": 2781402841, "level": 2}
+{"count": 1223, "name": "Content adaptation", "weight": 0.0, "id": 2776987467, "level": 2}
+{"count": 30366, "name": "Directory", "weight": 0.0, "id": 2777683733, "level": 2}
+{"count": 8470, "name": "Voucher", "weight": 0.0, "id": 105458232, "level": 2}
+{"count": 9848, "name": "Interlibrary loan", "weight": 0.0, "id": 2776146408, "level": 2}
+{"count": 2758, "name": "User agent", "weight": 0.0, "id": 71191987, "level": 2}
+{"count": 9453, "name": "Breakage", "weight": 0.0, "id": 2779015675, "level": 2}
+{"count": 5539, "name": "Turtle (syntax)", "weight": 0.0, "id": 103151440, "level": 2}
+{"count": 2320, "name": "Transport Layer Security", "weight": 0.0, "id": 148176105, "level": 2}
+{"count": 1940, "name": "Deep Web", "weight": 0.0, "id": 46721378, "level": 2}
+{"count": 270, "name": "OpenAccess", "weight": 0.0, "id": 2778280450, "level": 2}
+{"count": 10631, "name": "Informatization", "weight": 0.0, "id": 2776352007, "level": 2}
+{"count": 537, "name": "Postprint", "weight": 0.0, "id": 2780208856, "level": 2}
+{"count": 5513, "name": "Geolocation", "weight": 0.0, "id": 22041718, "level": 2}
+{"count": 4146, "name": "HTML5", "weight": 0.0, "id": 84063617, "level": 2}
+{"count": 3261, "name": "Unfair competition", "weight": 0.0, "id": 2776266046, "level": 2}
+{"count": 5163, "name": "Grey literature", "weight": 0.0, "id": 61904560, "level": 2}
+{"count": 3555, "name": "Sharing economy", "weight": 0.0, "id": 33199155, "level": 2}
+{"count": 1711, "name": "Drag and drop", "weight": 0.0, "id": 2776939073, "level": 2}
+{"count": 3480, "name": "ASP.NET", "weight": 0.0, "id": 2780554980, "level": 2}
+{"count": 17949, "name": "Dialog box", "weight": 0.0, "id": 173853756, "level": 2}
+{"count": 719, "name": "Information appliance", "weight": 0.0, "id": 77579232, "level": 2}
+{"count": 3417, "name": "Digital storytelling", "weight": 0.0, "id": 2778583943, "level": 2}
+{"count": 77403, "name": "Upload", "weight": 1.0, "id": 71901391, "level": 2}
+{"count": 3679, "name": "Metis", "weight": 0.0, "id": 2780705272, "level": 2}
+{"count": 1190, "name": "Webometrics", "weight": 0.0, "id": 521491914, "level": 2}
+{"count": 3356, "name": "Fact sheet", "weight": 0.0, "id": 2776343770, "level": 2}
+{"count": 4419, "name": "Leech", "weight": 0.0, "id": 180746962, "level": 2}
+{"count": 2981, "name": "Finding aid", "weight": 0.0, "id": 2779355061, "level": 2}
+{"count": 13997, "name": "School library", "weight": 0.0, "id": 2781312700, "level": 2}
+{"count": 1429, "name": "Folksonomy", "weight": 0.0, "id": 2778431730, "level": 2}
+{"count": 2533, "name": "Discussion group", "weight": 0.0, "id": 2776293862, "level": 2}
+{"count": 6628, "name": "Disbursement", "weight": 0.0, "id": 2778101114, "level": 2}
+{"count": 2251, "name": "Uniform resource locator", "weight": 0.0, "id": 27738892, "level": 2}
+{"count": 1787, "name": "Generation gap", "weight": 0.0, "id": 2776943033, "level": 2}
+{"count": 7034, "name": "Dig", "weight": 0.0, "id": 16654397, "level": 2}
+{"count": 2761, "name": "Cryptocurrency", "weight": 0.0, "id": 180706569, "level": 2}
+{"count": 1616, "name": "Index term", "weight": 0.0, "id": 5085185, "level": 2}
+{"count": 9951, "name": "COinS", "weight": 0.0, "id": 2778895871, "level": 2}
+{"count": 938, "name": "Online help", "weight": 0.0, "id": 2779835397, "level": 2}
+{"count": 40894, "name": "Receipt", "weight": 0.0, "id": 2778979077, "level": 2}
+{"count": 3034, "name": "Digital native", "weight": 0.0, "id": 192314503, "level": 2}
+{"count": 752, "name": "Uniform resource identifier", "weight": 0.0, "id": 27802493, "level": 2}
+{"count": 2554, "name": "Mailing list", "weight": 0.0, "id": 2779252636, "level": 2}
+{"count": 2036, "name": "Cloaking", "weight": 0.0, "id": 62973154, "level": 2}
+{"count": 1340, "name": "Material Design", "weight": 0.0, "id": 2777152284, "level": 2}
+{"count": 1179, "name": "Subject access", "weight": 0.0, "id": 2778756484, "level": 2}
+{"count": 280, "name": "Scad", "weight": 0.0, "id": 2776857174, "level": 2}
+{"count": 1464, "name": "CAPTCHA", "weight": 0.0, "id": 163339463, "level": 2}
+{"count": 1542, "name": "Hesiod", "weight": 0.0, "id": 2778789187, "level": 2}
+{"count": 682, "name": "Electronic article", "weight": 0.0, "id": 2779271920, "level": 2}
+{"count": 4677, "name": "Notification system", "weight": 0.0, "id": 2779011373, "level": 2}
+{"count": 16460, "name": "Scraper site", "weight": 0.0, "id": 78500136, "level": 2}
+{"count": 5599, "name": "Home page", "weight": 0.0, "id": 2779151384, "level": 2}
+{"count": 10578, "name": "Position paper", "weight": 0.0, "id": 78780964, "level": 2}
+{"count": 2135, "name": "Digital Archives", "weight": 0.0, "id": 2780157182, "level": 2}
+{"count": 1932, "name": "Altmetrics", "weight": 0.0, "id": 2778407487, "level": 2}
+{"count": 11203, "name": "SWORD", "weight": 0.0, "id": 2781424646, "level": 2}
+{"count": 1550, "name": "Desktop publishing", "weight": 0.0, "id": 25493698, "level": 2}
+{"count": 3934, "name": "News aggregator", "weight": 0.0, "id": 180505990, "level": 2}
+{"count": 15675, "name": "Web resource", "weight": 0.0, "id": 65603577, "level": 2}
+{"count": 12503, "name": "Library catalog", "weight": 0.0, "id": 74305511, "level": 2}
+{"count": 517, "name": "Geographic information retrieval", "weight": 0.0, "id": 2775947874, "level": 2}
+{"count": 7901, "name": "General assembly", "weight": 0.0, "id": 2778698365, "level": 2}
+{"count": 819, "name": "Collaborative editing", "weight": 0.0, "id": 2780967703, "level": 2}
+{"count": 2540, "name": "Journal club", "weight": 0.0, "id": 2777445551, "level": 2}
+{"count": 1234, "name": "Digital curation", "weight": 0.0, "id": 2775953033, "level": 2}
+{"count": 2271, "name": "Unbundling", "weight": 0.0, "id": 7668479, "level": 2}
+{"count": 1884, "name": "Digital scholarship", "weight": 0.0, "id": 2778881803, "level": 2}
+{"count": 1716, "name": "WebQuest", "weight": 0.0, "id": 2778781608, "level": 2}
+{"count": 1600, "name": "XBRL", "weight": 0.0, "id": 2777264242, "level": 2}
+{"count": 2841, "name": "Real Time Streaming Protocol", "weight": 0.0, "id": 110738861, "level": 2}
+{"count": 1249, "name": "Community network", "weight": 0.0, "id": 2779786915, "level": 2}
+{"count": 5517, "name": "Marketing buzz", "weight": 0.0, "id": 113993141, "level": 2}
+{"count": 2035, "name": "JSON", "weight": 0.0, "id": 2780416260, "level": 2}
+{"count": 2117, "name": "Collections management", "weight": 0.0, "id": 117498671, "level": 2}
+{"count": 1618, "name": "Web syndication", "weight": 0.0, "id": 88962883, "level": 2}
+{"count": 2369, "name": "Blogosphere", "weight": 0.0, "id": 2779661781, "level": 2}
+{"count": 1991, "name": "Living lab", "weight": 0.0, "id": 3503070, "level": 2}
+{"count": 789, "name": "Screen reader", "weight": 0.0, "id": 2778535757, "level": 2}
+{"count": 673, "name": "Peer production", "weight": 0.0, "id": 2779507501, "level": 2}
+{"count": 1855, "name": "Mobile media", "weight": 0.0, "id": 2777796293, "level": 2}
+{"count": 546, "name": "MPEG-21", "weight": 0.0, "id": 2779266010, "level": 2}
+{"count": 1216, "name": "Digital Commons", "weight": 0.0, "id": 2779838686, "level": 2}
+{"count": 619, "name": "Digital goods", "weight": 0.0, "id": 2775906015, "level": 2}
+{"count": 1242, "name": "Multi-level marketing", "weight": 0.0, "id": 521023471, "level": 2}
+{"count": 1388, "name": "Practitioner research", "weight": 0.0, "id": 2776763059, "level": 2}
+{"count": 1000, "name": "Open content", "weight": 0.0, "id": 525650276, "level": 2}
+{"count": 4842, "name": "Web content", "weight": 0.0, "id": 2776324614, "level": 2}
+{"count": 1184, "name": "Quality Score", "weight": 0.0, "id": 2779346075, "level": 2}
+{"count": 1551, "name": "Digital signage", "weight": 0.0, "id": 2777766583, "level": 2}
+{"count": 513, "name": "Faceted search", "weight": 0.0, "id": 2781446125, "level": 2}
+{"count": 1201, "name": "Network economy", "weight": 0.0, "id": 2777181033, "level": 2}
+{"count": 897, "name": "Multimedia Messaging Service", "weight": 0.0, "id": 2776409281, "level": 2}
+{"count": 5111, "name": "Title page", "weight": 0.0, "id": 2779118283, "level": 2}
+{"count": 5473, "name": "Interactive kiosk", "weight": 0.0, "id": 116865082, "level": 2}
+{"count": 4144, "name": "Pathfinder", "weight": 0.0, "id": 2778940482, "level": 2}
+{"count": 912, "name": "HyperCard", "weight": 0.0, "id": 2776911938, "level": 2}
+{"count": 7202, "name": "Microsoft Office", "weight": 0.0, "id": 523788702, "level": 2}

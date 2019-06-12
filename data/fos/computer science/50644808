@@ -1,0 +1,78 @@
+{"count": 34745, "name": "Backpropagation", "weight": 9.0, "id": 155032097, "level": 3}
+{"count": 6542, "name": "Radial basis function", "weight": 1.0, "id": 98856871, "level": 3}
+{"count": 13490, "name": "Content-addressable memory", "weight": 3.0, "id": 53442348, "level": 3}
+{"count": 13056, "name": "Feedforward neural network", "weight": 3.0, "id": 47702885, "level": 3}
+{"count": 16667, "name": "Multilayer perceptron", "weight": 4.0, "id": 179717631, "level": 3}
+{"count": 7642, "name": "Function approximation", "weight": 2.0, "id": 91873725, "level": 3}
+{"count": 22618, "name": "Recurrent neural network", "weight": 6.0, "id": 147168706, "level": 3}
+{"count": 7542, "name": "Connectionism", "weight": 2.0, "id": 8521452, "level": 3}
+{"count": 6301, "name": "Activation function", "weight": 1.0, "id": 38365724, "level": 3}
+{"count": 6985, "name": "Cellular neural network", "weight": 1.0, "id": 812465, "level": 3}
+{"count": 13322, "name": "Self-organizing map", "weight": 3.0, "id": 111168008, "level": 3}
+{"count": 35971, "name": "Deep learning", "weight": 10.0, "id": 108583219, "level": 3}
+{"count": 10765, "name": "Computational intelligence", "weight": 2.0, "id": 139502532, "level": 3}
+{"count": 5920, "name": "Radial basis function network", "weight": 1.0, "id": 132917294, "level": 3}
+{"count": 29656, "name": "Neuro-fuzzy", "weight": 8.0, "id": 29470771, "level": 3}
+{"count": 10730, "name": "Soft computing", "weight": 2.0, "id": 140073362, "level": 3}
+{"count": 2788, "name": "Levenberg\u2013Marquardt algorithm", "weight": 0.0, "id": 87578567, "level": 3}
+{"count": 25591, "name": "Convolutional neural network", "weight": 7.0, "id": 81363708, "level": 3}
+{"count": 13966, "name": "Perceptron", "weight": 3.0, "id": 60908668, "level": 3}
+{"count": 3646, "name": "Hebbian theory", "weight": 1.0, "id": 111437709, "level": 3}
+{"count": 5134, "name": "Competitive learning", "weight": 1.0, "id": 120822770, "level": 3}
+{"count": 2198, "name": "Boltzmann machine", "weight": 0.0, "id": 192576344, "level": 3}
+{"count": 2202, "name": "Models of neural computation", "weight": 0.0, "id": 3832189, "level": 3}
+{"count": 1693, "name": "Adaptive resonance theory", "weight": 0.0, "id": 115755159, "level": 3}
+{"count": 1625, "name": "Winner-take-all", "weight": 0.0, "id": 168976158, "level": 3}
+{"count": 3339, "name": "Nonlinear system identification", "weight": 0.0, "id": 22157029, "level": 3}
+{"count": 4220, "name": "Hopfield network", "weight": 1.0, "id": 46421273, "level": 3}
+{"count": 988, "name": "Structural risk minimization", "weight": 0.0, "id": 154507838, "level": 3}
+{"count": 5223, "name": "Extreme learning machine", "weight": 1.0, "id": 2780150128, "level": 3}
+{"count": 1539, "name": "Neutral network", "weight": 0.0, "id": 198125213, "level": 3}
+{"count": 26246, "name": "Time delay neural network", "weight": 7.0, "id": 175202392, "level": 3}
+{"count": 9503, "name": "Sigmoid function", "weight": 2.0, "id": 81388566, "level": 3}
+{"count": 2161, "name": "Evolutionary robotics", "weight": 0.0, "id": 199505168, "level": 3}
+{"count": 3932, "name": "Spiking neural network", "weight": 1.0, "id": 11731999, "level": 3}
+{"count": 533, "name": "Mixture of experts", "weight": 0.0, "id": 2778025020, "level": 3}
+{"count": 788, "name": "General regression neural network", "weight": 0.0, "id": 2778748002, "level": 3}
+{"count": 3679, "name": "Mean absolute percentage error", "weight": 1.0, "id": 150217764, "level": 3}
+{"count": 7263, "name": "Overfitting", "weight": 2.0, "id": 22019652, "level": 3}
+{"count": 3642, "name": "Learning rule", "weight": 1.0, "id": 2779127903, "level": 3}
+{"count": 4587, "name": "Neuromorphic engineering", "weight": 1.0, "id": 151927369, "level": 3}
+{"count": 931, "name": "Cerebellar model articulation controller", "weight": 0.0, "id": 2780576740, "level": 3}
+{"count": 1130, "name": "Synaptic weight", "weight": 0.0, "id": 66949984, "level": 3}
+{"count": 465, "name": "Bayesian interpretation of regularization", "weight": 0.0, "id": 20789283, "level": 3}
+{"count": 149, "name": "Mean field annealing", "weight": 0.0, "id": 2778554889, "level": 3}
+{"count": 2982, "name": "Biological neuron model", "weight": 0.0, "id": 186565885, "level": 3}
+{"count": 611, "name": "Neuroevolution", "weight": 0.0, "id": 118070581, "level": 3}
+{"count": 1114, "name": "Early stopping", "weight": 0.0, "id": 5465570, "level": 3}
+{"count": 1142, "name": "Linear separability", "weight": 0.0, "id": 195358245, "level": 3}
+{"count": 1100, "name": "Network complexity", "weight": 0.0, "id": 2780337595, "level": 3}
+{"count": 604, "name": "Electricity price forecasting", "weight": 0.0, "id": 2781104810, "level": 3}
+{"count": 604, "name": "Stock market prediction", "weight": 0.0, "id": 2776256503, "level": 3}
+{"count": 1112, "name": "Hybrid neural network", "weight": 0.0, "id": 2779990667, "level": 3}
+{"count": 372, "name": "Stochastic computing", "weight": 0.0, "id": 2780971903, "level": 3}
+{"count": 358, "name": "Attractor network", "weight": 0.0, "id": 2779734824, "level": 3}
+{"count": 823, "name": "Artificial neuron", "weight": 0.0, "id": 2776990819, "level": 3}
+{"count": 2699, "name": "MNIST database", "weight": 0.0, "id": 190502265, "level": 3}
+{"count": 251, "name": "Neurorobotics", "weight": 0.0, "id": 130391077, "level": 3}
+{"count": 299, "name": "Committee machine", "weight": 0.0, "id": 2779072496, "level": 3}
+{"count": 309, "name": "Quantum neural network", "weight": 0.0, "id": 2780728410, "level": 3}
+{"count": 108, "name": "Neurochip", "weight": 0.0, "id": 2780494321, "level": 3}
+{"count": 350, "name": "Optical neural network", "weight": 0.0, "id": 2780262575, "level": 3}
+{"count": 303, "name": "Artificial brain", "weight": 0.0, "id": 5616640, "level": 3}
+{"count": 51, "name": "Dynamic link matching", "weight": 0.0, "id": 2777947043, "level": 3}
+{"count": 67, "name": "Extension neural network", "weight": 0.0, "id": 2781389371, "level": 3}
+{"count": 1282, "name": "Softmax function", "weight": 0.0, "id": 188441871, "level": 3}
+{"count": 5289, "name": "Wake-sleep algorithm", "weight": 1.0, "id": 17061570, "level": 3}
+{"count": 103, "name": "FMLLR", "weight": 0.0, "id": 2779301648, "level": 3}
+{"count": 120, "name": "Prototype pattern", "weight": 0.0, "id": 176361524, "level": 3}
+{"count": 178, "name": "Neural network software", "weight": 0.0, "id": 2779242513, "level": 3}
+{"count": 76, "name": "First break picking", "weight": 0.0, "id": 2779710606, "level": 3}
+{"count": 32, "name": "Semantic neural network", "weight": 0.0, "id": 2780816585, "level": 3}
+{"count": 28, "name": "Factorial code", "weight": 0.0, "id": 171844981, "level": 3}
+{"count": 62, "name": "Virtual intelligence", "weight": 0.0, "id": 2779935383, "level": 3}
+{"count": 13, "name": "Compositional pattern-producing network", "weight": 0.0, "id": 2778832899, "level": 3}
+{"count": 13, "name": "Zero instruction set computer", "weight": 0.0, "id": 2776345835, "level": 3}
+{"count": 764, "name": "Hierarchical RBF", "weight": 0.0, "id": 182016430, "level": 3}
+{"count": 126, "name": "Speed learning", "weight": 0.0, "id": 2780519022, "level": 3}
+{"count": 18, "name": "Ni1000", "weight": 0.0, "id": 2780267914, "level": 3}

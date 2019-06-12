@@ -1,0 +1,10 @@
+{"count": 2341, "name": "Interfacial thermal resistance", "weight": 3.0, "id": 38653338, "level": 4}
+{"count": 7229, "name": "Thermal contact conductance", "weight": 10.0, "id": 45058047, "level": 4}
+{"count": 2538, "name": "Thermal grease", "weight": 3.0, "id": 200657195, "level": 4}
+{"count": 5041, "name": "Junction temperature", "weight": 6.0, "id": 167781694, "level": 4}
+{"count": 552, "name": "Thermal response test", "weight": 0.0, "id": 2780243441, "level": 4}
+{"count": 1830, "name": "Thermal fluids", "weight": 2.0, "id": 184782024, "level": 4}
+{"count": 4281, "name": "Thermal transmittance", "weight": 5.0, "id": 115816120, "level": 4}
+{"count": 409, "name": "Thermal laser stimulation", "weight": 0.0, "id": 77058524, "level": 4}
+{"count": 695, "name": "Thermal break", "weight": 0.0, "id": 173182743, "level": 4}
+{"count": 265, "name": "Power electronic substrate", "weight": 0.0, "id": 95478058, "level": 4}

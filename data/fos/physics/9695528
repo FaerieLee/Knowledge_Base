@@ -1,0 +1,6 @@
+{"count": 1848, "name": "Solar variation", "weight": 2.0, "id": 31874578, "level": 4}
+{"count": 1318, "name": "Solar constant", "weight": 2.0, "id": 36644815, "level": 4}
+{"count": 1657, "name": "Pyranometer", "weight": 2.0, "id": 24911498, "level": 4}
+{"count": 6560, "name": "Solar maximum", "weight": 10.0, "id": 52083857, "level": 4}
+{"count": 365, "name": "Direct insolation", "weight": 0.0, "id": 92508825, "level": 4}
+{"count": 117, "name": "SBUV/2", "weight": 0.0, "id": 2781330740, "level": 4}

@@ -1,0 +1,17 @@
+{"count": 5402, "name": "Inference engine", "weight": 5.0, "id": 46743427, "level": 3}
+{"count": 9657, "name": "Subject-matter expert", "weight": 10.0, "id": 105002631, "level": 3}
+{"count": 1620, "name": "Forward chaining", "weight": 1.0, "id": 142614401, "level": 3}
+{"count": 241, "name": "Rete algorithm", "weight": 0.0, "id": 112307576, "level": 3}
+{"count": 793, "name": "Design\u2013Expert", "weight": 0.0, "id": 2776369308, "level": 3}
+{"count": 66, "name": "Multiple-classification ripple-down rules", "weight": 0.0, "id": 2780082611, "level": 3}
+{"count": 243, "name": "OPS5", "weight": 0.0, "id": 2780481864, "level": 3}
+{"count": 461, "name": "Mycin", "weight": 0.0, "id": 1739222, "level": 3}
+{"count": 173, "name": "Uncertain inference", "weight": 0.0, "id": 2775978356, "level": 3}
+{"count": 243, "name": "Lisp machine", "weight": 0.0, "id": 2779069190, "level": 3}
+{"count": 114, "name": "Visual Prolog", "weight": 0.0, "id": 2778986880, "level": 3}
+{"count": 8789, "name": "Legal expert system", "weight": 9.0, "id": 102600418, "level": 3}
+{"count": 29, "name": "Poplog", "weight": 0.0, "id": 2780880474, "level": 3}
+{"count": 63, "name": "Explanation module", "weight": 0.0, "id": 2779725914, "level": 3}
+{"count": 62, "name": "Knowledge Engineering Environment", "weight": 0.0, "id": 32184349, "level": 3}
+{"count": 16, "name": "Internist-I", "weight": 0.0, "id": 2781244870, "level": 3}
+{"count": 17, "name": "Dipmeter Advisor", "weight": 0.0, "id": 2781042543, "level": 3}

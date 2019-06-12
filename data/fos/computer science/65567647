@@ -1,0 +1,8 @@
+{"count": 3017, "name": "User Datagram Protocol", "weight": 9.0, "id": 20636137, "level": 3}
+{"count": 1055, "name": "Winsock", "weight": 3.0, "id": 83672932, "level": 3}
+{"count": 1245, "name": "General Inter-ORB Protocol", "weight": 3.0, "id": 75114861, "level": 3}
+{"count": 8, "name": "IPX/SPX", "weight": 0.0, "id": 2781080339, "level": 3}
+{"count": 2369, "name": "Internetwork protocol", "weight": 7.0, "id": 200185824, "level": 3}
+{"count": 2347, "name": "Port Control Protocol", "weight": 7.0, "id": 148108848, "level": 3}
+{"count": 3350, "name": "Internet Protocol Control Protocol", "weight": 10.0, "id": 162571340, "level": 3}
+{"count": 2966, "name": "Reverse Address Resolution Protocol", "weight": 8.0, "id": 71065454, "level": 3}

@@ -1,0 +1,200 @@
+{"count": 26775, "name": "PEST analysis", "weight": 2.0, "id": 22508944, "level": 2}
+{"count": 104008, "name": "Focus group", "weight": 8.0, "id": 56995899, "level": 2}
+{"count": 73912, "name": "Competitive advantage", "weight": 6.0, "id": 58546491, "level": 2}
+{"count": 116329, "name": "Supply chain", "weight": 10.0, "id": 108713360, "level": 2}
+{"count": 76792, "name": "New product development", "weight": 6.0, "id": 19351080, "level": 2}
+{"count": 49913, "name": "Consumer behaviour", "weight": 4.0, "id": 23213687, "level": 2}
+{"count": 75894, "name": "Strategic planning", "weight": 6.0, "id": 48243021, "level": 2}
+{"count": 66452, "name": "Service quality", "weight": 5.0, "id": 140781008, "level": 2}
+{"count": 43741, "name": "Strategic management", "weight": 3.0, "id": 86275758, "level": 2}
+{"count": 71168, "name": "Purchasing", "weight": 6.0, "id": 2778813691, "level": 2}
+{"count": 17890, "name": "Economies of scale", "weight": 1.0, "id": 29321873, "level": 2}
+{"count": 69495, "name": "Engineering design process", "weight": 5.0, "id": 34972735, "level": 2}
+{"count": 42609, "name": "Manufacturing", "weight": 3.0, "id": 175700187, "level": 2}
+{"count": 51844, "name": "Customer satisfaction", "weight": 4.0, "id": 191511416, "level": 2}
+{"count": 57858, "name": "Business model", "weight": 4.0, "id": 4216890, "level": 2}
+{"count": 6327, "name": "Diffusion (business)", "weight": 0.0, "id": 135813574, "level": 2}
+{"count": 34200, "name": "Tertiary sector of the economy", "weight": 2.0, "id": 43246008, "level": 2}
+{"count": 19666, "name": "Cost reduction", "weight": 1.0, "id": 2778820799, "level": 2}
+{"count": 26908, "name": "Market research", "weight": 2.0, "id": 27564746, "level": 2}
+{"count": 30142, "name": "Performance indicator", "weight": 2.0, "id": 135510737, "level": 2}
+{"count": 30910, "name": "Market share", "weight": 2.0, "id": 16051113, "level": 2}
+{"count": 41652, "name": "Benchmarking", "weight": 3.0, "id": 86251818, "level": 2}
+{"count": 35780, "name": "Product design", "weight": 3.0, "id": 120823896, "level": 2}
+{"count": 31760, "name": "Small business", "weight": 2.0, "id": 2777973936, "level": 2}
+{"count": 8871, "name": "Production control", "weight": 0.0, "id": 2780682718, "level": 2}
+{"count": 57137, "name": "Service delivery framework", "weight": 4.0, "id": 68595000, "level": 2}
+{"count": 50254, "name": "Diversification (marketing strategy)", "weight": 4.0, "id": 180916674, "level": 2}
+{"count": 13642, "name": "Inventory control", "weight": 1.0, "id": 117938511, "level": 2}
+{"count": 23341, "name": "Customer relationship management", "weight": 2.0, "id": 98825075, "level": 2}
+{"count": 31940, "name": "Warehouse", "weight": 2.0, "id": 50416739, "level": 2}
+{"count": 42562, "name": "Outsourcing", "weight": 3.0, "id": 46934059, "level": 2}
+{"count": 8668, "name": "Vertical integration", "weight": 0.0, "id": 181169782, "level": 2}
+{"count": 38064, "name": "Marketing strategy", "weight": 3.0, "id": 93032411, "level": 2}
+{"count": 26244, "name": "Market segmentation", "weight": 2.0, "id": 125308379, "level": 2}
+{"count": 8619, "name": "Product differentiation", "weight": 0.0, "id": 33556415, "level": 2}
+{"count": 7162, "name": "Performance metric", "weight": 0.0, "id": 2780898871, "level": 2}
+{"count": 17875, "name": "Technology management", "weight": 1.0, "id": 143219415, "level": 2}
+{"count": 35850, "name": "Personalization", "weight": 3.0, "id": 183003079, "level": 2}
+{"count": 11202, "name": "Lead time", "weight": 0.0, "id": 2781468064, "level": 2}
+{"count": 9557, "name": "Market orientation", "weight": 0.0, "id": 2779696404, "level": 2}
+{"count": 27780, "name": "Triangulation (social science)", "weight": 2.0, "id": 84049019, "level": 2}
+{"count": 19468, "name": "Change management", "weight": 1.0, "id": 112115583, "level": 2}
+{"count": 25906, "name": "Performance measurement", "weight": 2.0, "id": 141571065, "level": 2}
+{"count": 62070, "name": "Procurement", "weight": 5.0, "id": 201650216, "level": 2}
+{"count": 24443, "name": "Activity-based costing", "weight": 2.0, "id": 164624739, "level": 2}
+{"count": 13895, "name": "Production planning", "weight": 1.0, "id": 2777909354, "level": 2}
+{"count": 29446, "name": "Commercialization", "weight": 2.0, "id": 2780625559, "level": 2}
+{"count": 18974, "name": "Performance management", "weight": 1.0, "id": 12532035, "level": 2}
+{"count": 23263, "name": "Work in process", "weight": 1.0, "id": 174998907, "level": 2}
+{"count": 22108, "name": "Organizational performance", "weight": 1.0, "id": 165672731, "level": 2}
+{"count": 4919, "name": "Network effect", "weight": 0.0, "id": 96219163, "level": 2}
+{"count": 6483, "name": "Absorptive capacity", "weight": 0.0, "id": 2777724570, "level": 2}
+{"count": 25490, "name": "Innovation management", "weight": 2.0, "id": 186037533, "level": 2}
+{"count": 24548, "name": "Return on investment", "weight": 2.0, "id": 169549615, "level": 2}
+{"count": 9394, "name": "Country of origin", "weight": 0.0, "id": 2779101040, "level": 2}
+{"count": 8733, "name": "Concurrent engineering", "weight": 0.0, "id": 78382760, "level": 2}
+{"count": 1876, "name": "Concentration ratio", "weight": 0.0, "id": 2778720795, "level": 2}
+{"count": 21252, "name": "Balanced scorecard", "weight": 1.0, "id": 199004533, "level": 2}
+{"count": 32545, "name": "Electronic business", "weight": 2.0, "id": 65257409, "level": 2}
+{"count": 12695, "name": "Product innovation", "weight": 1.0, "id": 75434695, "level": 2}
+{"count": 17554, "name": "Business process reengineering", "weight": 1.0, "id": 29143872, "level": 2}
+{"count": 13544, "name": "Demand forecasting", "weight": 1.0, "id": 193809577, "level": 2}
+{"count": 21083, "name": "Small and medium-sized enterprises", "weight": 1.0, "id": 48879800, "level": 2}
+{"count": 14473, "name": "Critical success factor", "weight": 1.0, "id": 18806943, "level": 2}
+{"count": 9054, "name": "Word of mouth", "weight": 0.0, "id": 137913393, "level": 2}
+{"count": 14072, "name": "Lean manufacturing", "weight": 1.0, "id": 137335462, "level": 2}
+{"count": 22782, "name": "SWOT analysis", "weight": 1.0, "id": 119059837, "level": 2}
+{"count": 15551, "name": "Service level", "weight": 1.0, "id": 181889124, "level": 2}
+{"count": 36450, "name": "Service system", "weight": 3.0, "id": 15587899, "level": 2}
+{"count": 8956, "name": "Social marketing", "weight": 0.0, "id": 2777754422, "level": 2}
+{"count": 3913, "name": "Market penetration", "weight": 0.0, "id": 2777648813, "level": 2}
+{"count": 20102, "name": "Brand equity", "weight": 1.0, "id": 205971072, "level": 2}
+{"count": 10467, "name": "Core competency", "weight": 0.0, "id": 164065428, "level": 2}
+{"count": 3582, "name": "Diffusion of innovations", "weight": 0.0, "id": 2780917687, "level": 2}
+{"count": 5624, "name": "Consumer choice", "weight": 0.0, "id": 2776314989, "level": 2}
+{"count": 3431, "name": "Services marketing", "weight": 0.0, "id": 2780795282, "level": 2}
+{"count": 3771, "name": "Business-to-business", "weight": 0.0, "id": 2778121033, "level": 2}
+{"count": 5776, "name": "Price discrimination", "weight": 0.0, "id": 101472132, "level": 2}
+{"count": 18302, "name": "Market analysis", "weight": 1.0, "id": 179036041, "level": 2}
+{"count": 4901, "name": "Export performance", "weight": 0.0, "id": 2778269237, "level": 2}
+{"count": 38244, "name": "Loyalty", "weight": 3.0, "id": 2776967331, "level": 2}
+{"count": 5904, "name": "Conjoint analysis", "weight": 0.0, "id": 2778054375, "level": 2}
+{"count": 26376, "name": "Marketing mix", "weight": 2.0, "id": 98716237, "level": 2}
+{"count": 2607, "name": "Integrated business planning", "weight": 0.0, "id": 191489605, "level": 2}
+{"count": 23978, "name": "Bidding", "weight": 2.0, "id": 9233905, "level": 2}
+{"count": 4917, "name": "Dynamic capabilities", "weight": 0.0, "id": 2780504989, "level": 2}
+{"count": 39700, "name": "Marketing management", "weight": 3.0, "id": 192975520, "level": 2}
+{"count": 12699, "name": "Online advertising", "weight": 1.0, "id": 512338625, "level": 2}
+{"count": 5992, "name": "Technology strategy", "weight": 0.0, "id": 544072693, "level": 2}
+{"count": 14346, "name": "Contract management", "weight": 1.0, "id": 55451941, "level": 2}
+{"count": 2957, "name": "Intangible asset", "weight": 0.0, "id": 2778380070, "level": 2}
+{"count": 1205, "name": "Observational techniques", "weight": 0.0, "id": 2777742816, "level": 2}
+{"count": 29323, "name": "Publicity", "weight": 2.0, "id": 2776003135, "level": 2}
+{"count": 5331, "name": "Mass customization", "weight": 0.0, "id": 72414096, "level": 2}
+{"count": 8653, "name": "Facility management", "weight": 0.0, "id": 117009084, "level": 2}
+{"count": 3252, "name": "Theory of reasoned action", "weight": 0.0, "id": 123269153, "level": 2}
+{"count": 37768, "name": "Marketing research", "weight": 3.0, "id": 48891531, "level": 2}
+{"count": 4843, "name": "Competitive intelligence", "weight": 0.0, "id": 103423482, "level": 2}
+{"count": 11179, "name": "Open innovation", "weight": 0.0, "id": 148415826, "level": 2}
+{"count": 4902, "name": "Mobile commerce", "weight": 0.0, "id": 197378717, "level": 2}
+{"count": 4629, "name": "Direct marketing", "weight": 0.0, "id": 536005652, "level": 2}
+{"count": 12052, "name": "Global environmental analysis", "weight": 1.0, "id": 40003211, "level": 2}
+{"count": 20212, "name": "Brand management", "weight": 1.0, "id": 57375061, "level": 2}
+{"count": 29280, "name": "Spare part", "weight": 2.0, "id": 194648553, "level": 2}
+{"count": 15121, "name": "Retail banking", "weight": 1.0, "id": 156152238, "level": 2}
+{"count": 41822, "name": "Production line", "weight": 3.0, "id": 99862985, "level": 2}
+{"count": 5647, "name": "Business cluster", "weight": 0.0, "id": 14391329, "level": 2}
+{"count": 893, "name": "Universal Product Code", "weight": 0.0, "id": 100773728, "level": 2}
+{"count": 4102, "name": "Food marketing", "weight": 0.0, "id": 2777321440, "level": 2}
+{"count": 3892, "name": "Dynamic pricing", "weight": 0.0, "id": 2779391423, "level": 2}
+{"count": 3861, "name": "Product life-cycle management", "weight": 0.0, "id": 7465953, "level": 2}
+{"count": 4282, "name": "Distribution center", "weight": 0.0, "id": 2781463594, "level": 2}
+{"count": 9801, "name": "Business value", "weight": 0.0, "id": 147239956, "level": 2}
+{"count": 27158, "name": "Customer retention", "weight": 2.0, "id": 101276457, "level": 2}
+{"count": 3230, "name": "Material requirements planning", "weight": 0.0, "id": 167523981, "level": 2}
+{"count": 2957, "name": "Marketing channel", "weight": 0.0, "id": 2776094799, "level": 2}
+{"count": 1825, "name": "Information market", "weight": 0.0, "id": 2781194009, "level": 2}
+{"count": 8360, "name": "Design management", "weight": 0.0, "id": 26466937, "level": 2}
+{"count": 1758, "name": "Distributed management", "weight": 0.0, "id": 2776174695, "level": 2}
+{"count": 9540, "name": "Intermediary", "weight": 0.0, "id": 139569457, "level": 2}
+{"count": 7984, "name": "Situation analysis", "weight": 0.0, "id": 14911803, "level": 2}
+{"count": 2748, "name": "Cellular manufacturing", "weight": 0.0, "id": 2778106978, "level": 2}
+{"count": 3944, "name": "Consumer education", "weight": 0.0, "id": 2778181486, "level": 2}
+{"count": 1503, "name": "First-mover advantage", "weight": 0.0, "id": 196276664, "level": 2}
+{"count": 13212, "name": "Manufacturing cost", "weight": 1.0, "id": 2778337023, "level": 2}
+{"count": 3860, "name": "Context analysis", "weight": 0.0, "id": 52085439, "level": 2}
+{"count": 3069, "name": "Stock management", "weight": 0.0, "id": 150418976, "level": 2}
+{"count": 7518, "name": "Brainstorming", "weight": 0.0, "id": 150672426, "level": 2}
+{"count": 9666, "name": "Business plan", "weight": 0.0, "id": 2778320157, "level": 2}
+{"count": 4919, "name": "Management by objectives", "weight": 0.0, "id": 118251893, "level": 2}
+{"count": 7724, "name": "Middle management", "weight": 0.0, "id": 160682292, "level": 2}
+{"count": 7833, "name": "Point of sale", "weight": 0.0, "id": 58033187, "level": 2}
+{"count": 8587, "name": "Operational efficiency", "weight": 0.0, "id": 2778964270, "level": 2}
+{"count": 5271, "name": "Sales promotion", "weight": 0.0, "id": 2781402841, "level": 2}
+{"count": 1379, "name": "Atmospherics", "weight": 0.0, "id": 2779697222, "level": 2}
+{"count": 2910, "name": "Scenario planning", "weight": 0.0, "id": 202033279, "level": 2}
+{"count": 2321, "name": "Build to order", "weight": 0.0, "id": 142000545, "level": 2}
+{"count": 11918, "name": "Advanced manufacturing", "weight": 1.0, "id": 77854861, "level": 2}
+{"count": 3622, "name": "Co-creation", "weight": 0.0, "id": 2781155252, "level": 2}
+{"count": 2467, "name": "Product category", "weight": 0.0, "id": 147101817, "level": 2}
+{"count": 2489, "name": "Global value chain", "weight": 0.0, "id": 2778764706, "level": 2}
+{"count": 3795, "name": "Corporate identity", "weight": 0.0, "id": 2777382934, "level": 2}
+{"count": 4795, "name": "Service (economics)", "weight": 0.0, "id": 44161491, "level": 2}
+{"count": 928, "name": "Information good", "weight": 0.0, "id": 26627612, "level": 2}
+{"count": 5325, "name": "Service innovation", "weight": 0.0, "id": 3307092, "level": 2}
+{"count": 1194, "name": "International joint venture", "weight": 0.0, "id": 2776803176, "level": 2}
+{"count": 1632, "name": "Critical Incident Technique", "weight": 0.0, "id": 2779707562, "level": 2}
+{"count": 33915, "name": "Competitor analysis", "weight": 2.0, "id": 127576917, "level": 2}
+{"count": 3109, "name": "Productive capacity", "weight": 0.0, "id": 85541252, "level": 2}
+{"count": 5378, "name": "Strategic business unit", "weight": 0.0, "id": 87931564, "level": 2}
+{"count": 433, "name": "Experience good", "weight": 0.0, "id": 2776677068, "level": 2}
+{"count": 5461, "name": "Materials management", "weight": 0.0, "id": 78285338, "level": 2}
+{"count": 6695, "name": "Market environment", "weight": 0.0, "id": 23797150, "level": 2}
+{"count": 17772, "name": "Brand awareness", "weight": 1.0, "id": 152455256, "level": 2}
+{"count": 5967, "name": "Obsolescence", "weight": 0.0, "id": 30795975, "level": 2}
+{"count": 2878, "name": "Kanban", "weight": 0.0, "id": 2775914053, "level": 2}
+{"count": 3208, "name": "Mobile banking", "weight": 0.0, "id": 2775930393, "level": 2}
+{"count": 1136, "name": "Domestic trade", "weight": 0.0, "id": 2776102321, "level": 2}
+{"count": 3422, "name": "Strategy implementation", "weight": 0.0, "id": 2780637533, "level": 2}
+{"count": 4461, "name": "Talent management", "weight": 0.0, "id": 2780816702, "level": 2}
+{"count": 10836, "name": "Franchise", "weight": 0.0, "id": 2778440429, "level": 2}
+{"count": 1229, "name": "Service-dominant logic", "weight": 0.0, "id": 2777375223, "level": 2}
+{"count": 8730, "name": "Sales management", "weight": 0.0, "id": 139749660, "level": 2}
+{"count": 1025, "name": "Reference price", "weight": 0.0, "id": 2775929093, "level": 2}
+{"count": 2410, "name": "Business opportunity", "weight": 0.0, "id": 2780274960, "level": 2}
+{"count": 3444, "name": "Consumer confidence index", "weight": 0.0, "id": 96405632, "level": 2}
+{"count": 4243, "name": "Business Research", "weight": 0.0, "id": 2778487306, "level": 2}
+{"count": 817, "name": "Strategic group", "weight": 0.0, "id": 2775988158, "level": 2}
+{"count": 15811, "name": "Product (business)", "weight": 1.0, "id": 48284413, "level": 2}
+{"count": 29246, "name": "Pallet", "weight": 2.0, "id": 51413319, "level": 2}
+{"count": 1709, "name": "E-services", "weight": 0.0, "id": 2776854086, "level": 2}
+{"count": 990, "name": "Sectoral analysis", "weight": 0.0, "id": 2779716410, "level": 2}
+{"count": 5085, "name": "Global strategy", "weight": 0.0, "id": 206103860, "level": 2}
+{"count": 4040, "name": "Internal communications", "weight": 0.0, "id": 71156930, "level": 2}
+{"count": 1614, "name": "Kansei engineering", "weight": 0.0, "id": 2780562538, "level": 2}
+{"count": 10015, "name": "Barcode", "weight": 0.0, "id": 2776841711, "level": 2}
+{"count": 8939, "name": "Advertising campaign", "weight": 0.0, "id": 110350745, "level": 2}
+{"count": 3415, "name": "Traditional economy", "weight": 0.0, "id": 206613426, "level": 2}
+{"count": 1468, "name": "Exit strategy", "weight": 0.0, "id": 100763855, "level": 2}
+{"count": 1855, "name": "Request for information", "weight": 0.0, "id": 2777944204, "level": 2}
+{"count": 835, "name": "Scale (social sciences)", "weight": 0.0, "id": 64764614, "level": 2}
+{"count": 1047, "name": "Standard Industrial Classification", "weight": 0.0, "id": 125696635, "level": 2}
+{"count": 711, "name": "Experience management", "weight": 0.0, "id": 2777491887, "level": 2}
+{"count": 1657, "name": "Investor relations", "weight": 0.0, "id": 2779602196, "level": 2}
+{"count": 1593, "name": "Market intelligence", "weight": 0.0, "id": 2778137712, "level": 2}
+{"count": 999, "name": "R&D management", "weight": 0.0, "id": 2779347749, "level": 2}
+{"count": 1816, "name": "Low-cost carrier", "weight": 0.0, "id": 175353025, "level": 2}
+{"count": 2238, "name": "Disruptive innovation", "weight": 0.0, "id": 2777785971, "level": 2}
+{"count": 1730, "name": "Organizational analysis", "weight": 0.0, "id": 195289821, "level": 2}
+{"count": 686, "name": "Grey market", "weight": 0.0, "id": 27416245, "level": 2}
+{"count": 1002, "name": "Choice modelling", "weight": 0.0, "id": 2779223135, "level": 2}
+{"count": 1980, "name": "Finished good", "weight": 0.0, "id": 161741011, "level": 2}
+{"count": 3607, "name": "Online research methods", "weight": 0.0, "id": 203094294, "level": 2}
+{"count": 4508, "name": "Marketing plan", "weight": 0.0, "id": 2776829468, "level": 2}
+{"count": 1179, "name": "Bottom of the pyramid", "weight": 0.0, "id": 2779575352, "level": 2}
+{"count": 3716, "name": "ROWE", "weight": 0.0, "id": 2779916396, "level": 2}
+{"count": 4950, "name": "Shopping mall", "weight": 0.0, "id": 2776678367, "level": 2}
+{"count": 2350, "name": "Personal selling", "weight": 0.0, "id": 2781083359, "level": 2}
+{"count": 4448, "name": "Target market", "weight": 0.0, "id": 2777328224, "level": 2}
+{"count": 1286, "name": "Fast-moving consumer goods", "weight": 0.0, "id": 2778738759, "level": 2}

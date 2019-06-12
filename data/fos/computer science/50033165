@@ -1,0 +1,7 @@
+{"count": 2669, "name": "Inductive logic programming", "weight": 3.0, "id": 2779382394, "level": 3}
+{"count": 3718, "name": "Declarative programming", "weight": 5.0, "id": 146206909, "level": 3}
+{"count": 4766, "name": "Procedural programming", "weight": 7.0, "id": 120558287, "level": 3}
+{"count": 6696, "name": "Functional logic programming", "weight": 10.0, "id": 96315309, "level": 3}
+{"count": 6649, "name": "Reactive programming", "weight": 9.0, "id": 150762246, "level": 3}
+{"count": 3453, "name": "Concurrent constraint logic programming", "weight": 5.0, "id": 204306468, "level": 3}
+{"count": 13, "name": "Inductive functional programming", "weight": 0.0, "id": 2778382557, "level": 3}

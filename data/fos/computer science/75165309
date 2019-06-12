@@ -1,0 +1,11 @@
+{"count": 1990, "name": "Automatic indexing", "weight": 5.0, "id": 2778330532, "level": 3}
+{"count": 3835, "name": "Database index", "weight": 10.0, "id": 59276292, "level": 3}
+{"count": 2731, "name": "Inverted index", "weight": 7.0, "id": 130590232, "level": 3}
+{"count": 854, "name": "Subject indexing", "weight": 2.0, "id": 2778448390, "level": 3}
+{"count": 457, "name": "Bitmap index", "weight": 1.0, "id": 92111932, "level": 3}
+{"count": 1488, "name": "Indexer", "weight": 3.0, "id": 51875938, "level": 3}
+{"count": 172, "name": "Indexing Service", "weight": 0.0, "id": 2776360803, "level": 3}
+{"count": 113, "name": "Web indexing", "weight": 0.0, "id": 2779893281, "level": 3}
+{"count": 75, "name": "Term indexing", "weight": 0.0, "id": 2781134937, "level": 3}
+{"count": 62, "name": "Enhanced indexing", "weight": 0.0, "id": 169028281, "level": 3}
+{"count": 66, "name": "Indexed search", "weight": 0.0, "id": 77026794, "level": 3}

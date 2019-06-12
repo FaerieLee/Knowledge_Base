@@ -1,0 +1,140 @@
+{"count": 55851, "name": "Agricultural productivity", "weight": 9.0, "id": 128383755, "level": 3}
+{"count": 60797, "name": "Food security", "weight": 10.0, "id": 549605437, "level": 3}
+{"count": 26039, "name": "Agricultural land", "weight": 4.0, "id": 502990516, "level": 3}
+{"count": 12996, "name": "Cropping system", "weight": 2.0, "id": 2776394811, "level": 3}
+{"count": 20708, "name": "Organic farming", "weight": 3.0, "id": 118817206, "level": 3}
+{"count": 18654, "name": "Agricultural policy", "weight": 3.0, "id": 2778852317, "level": 3}
+{"count": 7098, "name": "Agroecosystem", "weight": 1.0, "id": 57664001, "level": 3}
+{"count": 22868, "name": "Animal husbandry", "weight": 3.0, "id": 61968832, "level": 3}
+{"count": 23896, "name": "Agribusiness", "weight": 3.0, "id": 1670747, "level": 3}
+{"count": 18543, "name": "Sustainable agriculture", "weight": 3.0, "id": 54924851, "level": 3}
+{"count": 19335, "name": "Arable land", "weight": 3.0, "id": 71762439, "level": 3}
+{"count": 9215, "name": "Precision agriculture", "weight": 1.0, "id": 120217122, "level": 3}
+{"count": 12918, "name": "Agricultural machinery", "weight": 2.0, "id": 47136581, "level": 3}
+{"count": 8895, "name": "Intensive farming", "weight": 1.0, "id": 37923429, "level": 3}
+{"count": 23367, "name": "Subsistence agriculture", "weight": 3.0, "id": 156005406, "level": 3}
+{"count": 3479, "name": "Shifting cultivation", "weight": 0.0, "id": 141005173, "level": 3}
+{"count": 12620, "name": "Agricultural education", "weight": 2.0, "id": 507981020, "level": 3}
+{"count": 7979, "name": "Dairy farming", "weight": 1.0, "id": 2778691696, "level": 3}
+{"count": 10728, "name": "Mechanization", "weight": 1.0, "id": 205797222, "level": 3}
+{"count": 7115, "name": "Agricultural extension", "weight": 1.0, "id": 2778402112, "level": 3}
+{"count": 6475, "name": "Farm income", "weight": 1.0, "id": 2780117336, "level": 3}
+{"count": 5742, "name": "Cash crop", "weight": 0.0, "id": 129225989, "level": 3}
+{"count": 5215, "name": "Urban agriculture", "weight": 0.0, "id": 503900551, "level": 3}
+{"count": 5977, "name": "Common Agricultural Policy", "weight": 0.0, "id": 2775898560, "level": 3}
+{"count": 3998, "name": "Green Revolution", "weight": 0.0, "id": 112939947, "level": 3}
+{"count": 5975, "name": "Agroecology", "weight": 0.0, "id": 156663261, "level": 3}
+{"count": 2923, "name": "Crop insurance", "weight": 0.0, "id": 2777802595, "level": 3}
+{"count": 2926, "name": "Agricultural biotechnology", "weight": 0.0, "id": 2780367213, "level": 3}
+{"count": 3415, "name": "Multiple cropping", "weight": 0.0, "id": 93990901, "level": 3}
+{"count": 1684, "name": "Rainfed agriculture", "weight": 0.0, "id": 2777380357, "level": 3}
+{"count": 4826, "name": "Conservation agriculture", "weight": 0.0, "id": 140130429, "level": 3}
+{"count": 5841, "name": "Mixed farming", "weight": 0.0, "id": 49461877, "level": 3}
+{"count": 2261, "name": "Family farm", "weight": 0.0, "id": 2779350395, "level": 3}
+{"count": 1592, "name": "Marginal land", "weight": 0.0, "id": 2775874878, "level": 3}
+{"count": 6063, "name": "Primary sector of the economy", "weight": 0.0, "id": 136376716, "level": 3}
+{"count": 1295, "name": "Conservation Reserve Program", "weight": 0.0, "id": 153829536, "level": 3}
+{"count": 1864, "name": "Contract farming", "weight": 0.0, "id": 2779993469, "level": 3}
+{"count": 1950, "name": "Manure management", "weight": 0.0, "id": 2779969000, "level": 3}
+{"count": 1768, "name": "Small farm", "weight": 0.0, "id": 2775831186, "level": 3}
+{"count": 1394, "name": "Paleoethnobotany", "weight": 0.0, "id": 175490567, "level": 3}
+{"count": 1200, "name": "Price support", "weight": 0.0, "id": 2778184291, "level": 3}
+{"count": 2587, "name": "Agricultural diversification", "weight": 0.0, "id": 22344907, "level": 3}
+{"count": 521, "name": "Induced innovation", "weight": 0.0, "id": 2780903246, "level": 3}
+{"count": 2970, "name": "Agricultural biodiversity", "weight": 0.0, "id": 141151480, "level": 3}
+{"count": 7935, "name": "Agricultural marketing", "weight": 1.0, "id": 20879000, "level": 3}
+{"count": 5126, "name": "Integrated farming", "weight": 0.0, "id": 81993482, "level": 3}
+{"count": 930, "name": "Sharecropping", "weight": 0.0, "id": 2778644878, "level": 3}
+{"count": 226, "name": "Animal feeding operation", "weight": 0.0, "id": 2780492159, "level": 3}
+{"count": 328, "name": "Agricultural subsidy", "weight": 0.0, "id": 2776254333, "level": 3}
+{"count": 1838, "name": "Direct Payments", "weight": 0.0, "id": 2780382634, "level": 3}
+{"count": 281, "name": "Off-farm income", "weight": 0.0, "id": 2779982429, "level": 3}
+{"count": 824, "name": "Agreement on Agriculture", "weight": 0.0, "id": 2778368945, "level": 3}
+{"count": 562, "name": "Farmer Field School", "weight": 0.0, "id": 2780538601, "level": 3}
+{"count": 22171, "name": "Agrarian society", "weight": 3.0, "id": 157140304, "level": 3}
+{"count": 1061, "name": "Agricultural pollution", "weight": 0.0, "id": 2778330403, "level": 3}
+{"count": 2574, "name": "Agricultural experiment station", "weight": 0.0, "id": 142256066, "level": 3}
+{"count": 1252, "name": "Agricultural revolution", "weight": 0.0, "id": 66900465, "level": 3}
+{"count": 758, "name": "DSSAT", "weight": 0.0, "id": 2777399377, "level": 3}
+{"count": 1020, "name": "System of Rice Intensification", "weight": 0.0, "id": 2778989504, "level": 3}
+{"count": 245, "name": "Ley farming", "weight": 0.0, "id": 34073507, "level": 3}
+{"count": 917, "name": "Yield gap", "weight": 0.0, "id": 2778361644, "level": 3}
+{"count": 1068, "name": "Crop diversity", "weight": 0.0, "id": 1924315, "level": 3}
+{"count": 246, "name": "Farm Gate", "weight": 0.0, "id": 2777034704, "level": 3}
+{"count": 914, "name": "Dryland farming", "weight": 0.0, "id": 2776709785, "level": 3}
+{"count": 427, "name": "Farm enterprise", "weight": 0.0, "id": 2776693979, "level": 3}
+{"count": 657, "name": "Agricultural chemistry", "weight": 0.0, "id": 65362284, "level": 3}
+{"count": 610, "name": "Sedentism", "weight": 0.0, "id": 2779460559, "level": 3}
+{"count": 565, "name": "Farmland protection", "weight": 0.0, "id": 2779204379, "level": 3}
+{"count": 328, "name": "Seaweed farming", "weight": 0.0, "id": 2778650009, "level": 3}
+{"count": 228, "name": "Collective farming", "weight": 0.0, "id": 2779329718, "level": 3}
+{"count": 323, "name": "Agricultural value chain", "weight": 0.0, "id": 2779303621, "level": 3}
+{"count": 134, "name": "National Resources Inventory", "weight": 0.0, "id": 2778203884, "level": 3}
+{"count": 380, "name": "Productivism", "weight": 0.0, "id": 2776767776, "level": 3}
+{"count": 1177, "name": "Environmental impact of agriculture", "weight": 0.0, "id": 4416767, "level": 3}
+{"count": 274, "name": "Small-scale agriculture", "weight": 0.0, "id": 2777330291, "level": 3}
+{"count": 135, "name": "Agricultural cycle", "weight": 0.0, "id": 2780594523, "level": 3}
+{"count": 593, "name": "Surplus labour", "weight": 0.0, "id": 2781410321, "level": 3}
+{"count": 376, "name": "Farmland preservation", "weight": 0.0, "id": 2776682078, "level": 3}
+{"count": 360, "name": "Rural Cooperatives", "weight": 0.0, "id": 2776186859, "level": 3}
+{"count": 353, "name": "Commodity programs", "weight": 0.0, "id": 2777813273, "level": 3}
+{"count": 376, "name": "Goat farming", "weight": 0.0, "id": 2779682740, "level": 3}
+{"count": 195, "name": "Plant breeders' rights", "weight": 0.0, "id": 2777895073, "level": 3}
+{"count": 727, "name": "Meteorological disasters", "weight": 0.0, "id": 2777207567, "level": 3}
+{"count": 6559, "name": "Agricultural communication", "weight": 1.0, "id": 124162749, "level": 3}
+{"count": 342, "name": "Vertical farming", "weight": 0.0, "id": 86208227, "level": 3}
+{"count": 649, "name": "Vegetable farming", "weight": 0.0, "id": 143445410, "level": 3}
+{"count": 411, "name": "Milk quota", "weight": 0.0, "id": 2778782590, "level": 3}
+{"count": 112, "name": "Environmental Quality Incentives Program", "weight": 0.0, "id": 2780447252, "level": 3}
+{"count": 135, "name": "Conservation Effects Assessment Project", "weight": 0.0, "id": 2780842215, "level": 3}
+{"count": 236, "name": "Household-responsibility system", "weight": 0.0, "id": 2779387121, "level": 3}
+{"count": 308, "name": "Hill farming", "weight": 0.0, "id": 18909187, "level": 3}
+{"count": 506, "name": "Farm programs", "weight": 0.0, "id": 2781134122, "level": 3}
+{"count": 12611, "name": "Hectare", "weight": 2.0, "id": 202050865, "level": 3}
+{"count": 163, "name": "Controlled-environment agriculture", "weight": 0.0, "id": 2781042718, "level": 3}
+{"count": 97, "name": "Feminization of agriculture", "weight": 0.0, "id": 2780723446, "level": 3}
+{"count": 160, "name": "Corn bunting", "weight": 0.0, "id": 2778841934, "level": 3}
+{"count": 152, "name": "International Plant Protection Convention", "weight": 0.0, "id": 2780692250, "level": 3}
+{"count": 177, "name": "Participatory technology development", "weight": 0.0, "id": 2777643459, "level": 3}
+{"count": 128, "name": "E-agriculture", "weight": 0.0, "id": 2779139258, "level": 3}
+{"count": 68, "name": "Value-added agriculture", "weight": 0.0, "id": 2777014713, "level": 3}
+{"count": 2222, "name": "Nonfarm payrolls", "weight": 0.0, "id": 73057352, "level": 3}
+{"count": 288, "name": "Prime farmland", "weight": 0.0, "id": 143389717, "level": 3}
+{"count": 121, "name": "Priority sector lending", "weight": 0.0, "id": 2781392947, "level": 3}
+{"count": 68, "name": "Environmental impact of pesticides", "weight": 0.0, "id": 2779695657, "level": 3}
+{"count": 86, "name": "Nitrate vulnerable zone", "weight": 0.0, "id": 2776855685, "level": 3}
+{"count": 306, "name": "Smallholding", "weight": 0.0, "id": 2776334430, "level": 3}
+{"count": 101, "name": "National Animal Identification System", "weight": 0.0, "id": 111089134, "level": 3}
+{"count": 53, "name": "Pesticide misuse", "weight": 0.0, "id": 2780778878, "level": 3}
+{"count": 104, "name": "Care farming", "weight": 0.0, "id": 2779905920, "level": 3}
+{"count": 126, "name": "Seed saving", "weight": 0.0, "id": 2781364378, "level": 3}
+{"count": 78, "name": "Plant Protection Act", "weight": 0.0, "id": 2775982601, "level": 3}
+{"count": 412, "name": "Broadacre", "weight": 0.0, "id": 2776446825, "level": 3}
+{"count": 145, "name": "Market information systems", "weight": 0.0, "id": 2779749868, "level": 3}
+{"count": 58, "name": "Water grabbing", "weight": 0.0, "id": 2776709039, "level": 3}
+{"count": 139, "name": "Agrology", "weight": 0.0, "id": 132265066, "level": 3}
+{"count": 119, "name": "Corporate farming", "weight": 0.0, "id": 2780774907, "level": 3}
+{"count": 48, "name": "Insect farming", "weight": 0.0, "id": 2778879707, "level": 3}
+{"count": 78, "name": "Perennial grain", "weight": 0.0, "id": 2777146703, "level": 3}
+{"count": 117, "name": "Olericulture", "weight": 0.0, "id": 2779402681, "level": 3}
+{"count": 25, "name": "Farmer-managed natural regeneration", "weight": 0.0, "id": 2778811020, "level": 3}
+{"count": 36, "name": "Bioresource engineering", "weight": 0.0, "id": 198368427, "level": 3}
+{"count": 125, "name": "Soft commodity", "weight": 0.0, "id": 11066176, "level": 3}
+{"count": 17, "name": "Chemurgy", "weight": 0.0, "id": 93693397, "level": 3}
+{"count": 38, "name": "Swiss Formula", "weight": 0.0, "id": 2778180484, "level": 3}
+{"count": 129, "name": "Worker Protection Standard", "weight": 0.0, "id": 60930217, "level": 3}
+{"count": 41, "name": "Agrostology", "weight": 0.0, "id": 2779728283, "level": 3}
+{"count": 76, "name": "Intensive animal farming", "weight": 0.0, "id": 2778478694, "level": 3}
+{"count": 44, "name": "Crop reports", "weight": 0.0, "id": 2776548381, "level": 3}
+{"count": 25, "name": "Azoth", "weight": 0.0, "id": 156048824, "level": 3}
+{"count": 17, "name": "Theoretical production ecology", "weight": 0.0, "id": 191990466, "level": 3}
+{"count": 34, "name": "Mechanised agriculture", "weight": 0.0, "id": 2779046303, "level": 3}
+{"count": 30, "name": "World Agricultural Supply and Demand Estimates", "weight": 0.0, "id": 2777115324, "level": 3}
+{"count": 12, "name": "Gender roles in agriculture", "weight": 0.0, "id": 2776462988, "level": 3}
+{"count": 17, "name": "Data mining in agriculture", "weight": 0.0, "id": 2779687901, "level": 3}
+{"count": 10007, "name": "Sustainable Agriculture Innovation Network", "weight": 1.0, "id": 64476972, "level": 3}
+{"count": 13, "name": "Agricultural Science and Technology Indicators", "weight": 0.0, "id": 2776448213, "level": 3}
+{"count": 109, "name": "Regulation of genetic engineering", "weight": 0.0, "id": 54742766, "level": 3}
+{"count": 20, "name": "Agriculture in Austria", "weight": 0.0, "id": 2778570067, "level": 3}
+{"count": 95, "name": "Agriculture in Kenya", "weight": 0.0, "id": 2778436303, "level": 3}
+{"count": 688, "name": "Fertilizer subsidies in Sub-Saharan Africa", "weight": 0.0, "id": 71583051, "level": 3}

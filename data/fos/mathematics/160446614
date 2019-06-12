@@ -1,0 +1,11 @@
+{"count": 2823, "name": "Treewidth", "weight": 4.0, "id": 132569581, "level": 3}
+{"count": 4367, "name": "Maximal independent set", "weight": 6.0, "id": 18359143, "level": 3}
+{"count": 6864, "name": "Pathwidth", "weight": 10.0, "id": 43517604, "level": 3}
+{"count": 3786, "name": "Modular decomposition", "weight": 5.0, "id": 187407849, "level": 3}
+{"count": 189, "name": "Clique cover", "weight": 0.0, "id": 2776899043, "level": 3}
+{"count": 5769, "name": "Pancyclic graph", "weight": 8.0, "id": 166911692, "level": 3}
+{"count": 1116, "name": "Clique problem", "weight": 1.0, "id": 150997102, "level": 3}
+{"count": 952, "name": "Nowhere-zero flow", "weight": 1.0, "id": 37655830, "level": 3}
+{"count": 1423, "name": "Hopcroft\u2013Karp algorithm", "weight": 2.0, "id": 100107663, "level": 3}
+{"count": 2660, "name": "Strong perfect graph theorem", "weight": 3.0, "id": 51044901, "level": 3}
+{"count": 3147, "name": "Clique-sum", "weight": 4.0, "id": 186942658, "level": 3}

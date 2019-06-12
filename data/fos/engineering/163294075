@@ -1,0 +1,6 @@
+{"count": 1810, "name": "Total variation denoising", "weight": 2.0, "id": 207282899, "level": 3}
+{"count": 6184, "name": "Non-local means", "weight": 10.0, "id": 101453961, "level": 3}
+{"count": 4017, "name": "Video denoising", "weight": 6.0, "id": 30814859, "level": 3}
+{"count": 69, "name": "Anscombe transform", "weight": 0.0, "id": 34599290, "level": 3}
+{"count": 106, "name": "EPNdB", "weight": 0.0, "id": 2777287992, "level": 3}
+{"count": 97, "name": "Helicopter noise reduction", "weight": 0.0, "id": 38098527, "level": 3}

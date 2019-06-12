@@ -1,0 +1,11 @@
+{"count": 3564, "name": "Parallel programming model", "weight": 3.0, "id": 137364921, "level": 3}
+{"count": 3718, "name": "Declarative programming", "weight": 3.0, "id": 146206909, "level": 3}
+{"count": 1945, "name": "Concurrent object-oriented programming", "weight": 1.0, "id": 3701939, "level": 3}
+{"count": 879, "name": "Partitioned global address space", "weight": 0.0, "id": 60832428, "level": 3}
+{"count": 4766, "name": "Procedural programming", "weight": 4.0, "id": 120558287, "level": 3}
+{"count": 6696, "name": "Functional logic programming", "weight": 6.0, "id": 96315309, "level": 3}
+{"count": 6649, "name": "Reactive programming", "weight": 6.0, "id": 150762246, "level": 3}
+{"count": 6931, "name": "Programming language theory", "weight": 6.0, "id": 18701968, "level": 3}
+{"count": 4758, "name": "Third-generation programming language", "weight": 4.0, "id": 206146517, "level": 3}
+{"count": 10099, "name": "Programming domain", "weight": 10.0, "id": 119263510, "level": 3}
+{"count": 15, "name": "GOAL agent programming language", "weight": 0.0, "id": 2778005968, "level": 3}

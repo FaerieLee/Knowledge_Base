@@ -1,0 +1,200 @@
+{"count": 52565, "name": "Fabrication", "weight": 1.0, "id": 136525101, "level": 2}
+{"count": 324689, "name": "Perception", "weight": 10.0, "id": 26760741, "level": 2}
+{"count": 107813, "name": "Social relation", "weight": 3.0, "id": 130064352, "level": 2}
+{"count": 49200, "name": "Psychometrics", "weight": 1.0, "id": 171606756, "level": 2}
+{"count": 94511, "name": "Social environment", "weight": 2.0, "id": 110379092, "level": 2}
+{"count": 214628, "name": "Personality", "weight": 6.0, "id": 187288502, "level": 2}
+{"count": 5314, "name": "Field theory (psychology)", "weight": 0.0, "id": 187268509, "level": 2}
+{"count": 101502, "name": "Academic achievement", "weight": 3.0, "id": 2781206393, "level": 2}
+{"count": 33779, "name": "Test validity", "weight": 1.0, "id": 116211729, "level": 2}
+{"count": 68552, "name": "Interpersonal relationship", "weight": 2.0, "id": 91034043, "level": 2}
+{"count": 18314, "name": "Operant conditioning", "weight": 0.0, "id": 163270606, "level": 2}
+{"count": 85657, "name": "Social support", "weight": 2.0, "id": 2778087770, "level": 2}
+{"count": 69128, "name": "Longitudinal study", "weight": 2.0, "id": 2777895361, "level": 2}
+{"count": 127988, "name": "Coping (psychology)", "weight": 3.0, "id": 73282008, "level": 2}
+{"count": 44899, "name": "Self-esteem", "weight": 1.0, "id": 2778319590, "level": 2}
+{"count": 20690, "name": "Reliability (statistics)", "weight": 0.0, "id": 147673038, "level": 2}
+{"count": 36739, "name": "Self-concept", "weight": 1.0, "id": 2777410049, "level": 2}
+{"count": 31343, "name": "Structural equation modeling", "weight": 0.0, "id": 71104824, "level": 2}
+{"count": 17664, "name": "Social perception", "weight": 0.0, "id": 129484327, "level": 2}
+{"count": 49608, "name": "Self-efficacy", "weight": 1.0, "id": 110131835, "level": 2}
+{"count": 44502, "name": "Child development", "weight": 1.0, "id": 109260823, "level": 2}
+{"count": 96046, "name": "Affect (psychology)", "weight": 2.0, "id": 3769349, "level": 2}
+{"count": 73871, "name": "Job satisfaction", "weight": 2.0, "id": 2718322, "level": 2}
+{"count": 31490, "name": "Rating scale", "weight": 0.0, "id": 83849319, "level": 2}
+{"count": 57233, "name": "Psychopathology", "weight": 1.0, "id": 123273963, "level": 2}
+{"count": 30258, "name": "Social influence", "weight": 0.0, "id": 131158328, "level": 2}
+{"count": 49913, "name": "Consumer behaviour", "weight": 1.0, "id": 23213687, "level": 2}
+{"count": 30869, "name": "Behavior change", "weight": 0.0, "id": 14262774, "level": 2}
+{"count": 79685, "name": "Reinforcement", "weight": 2.0, "id": 67203356, "level": 2}
+{"count": 71423, "name": "Socialization", "weight": 2.0, "id": 25032326, "level": 2}
+{"count": 34323, "name": "Nonverbal communication", "weight": 1.0, "id": 145633318, "level": 2}
+{"count": 64430, "name": "Aggression", "weight": 1.0, "id": 2779448149, "level": 2}
+{"count": 12207, "name": "Regression", "weight": 0.0, "id": 83546350, "level": 2}
+{"count": 1579, "name": "Minimisation (psychology)", "weight": 0.0, "id": 2779647943, "level": 2}
+{"count": 27509, "name": "Facial expression", "weight": 0.0, "id": 195704467, "level": 2}
+{"count": 36236, "name": "Flow (psychology)", "weight": 1.0, "id": 75673492, "level": 2}
+{"count": 52647, "name": "Well-being", "weight": 1.0, "id": 2776420229, "level": 2}
+{"count": 102443, "name": "Vulnerability", "weight": 3.0, "id": 186191158, "level": 2}
+{"count": 31537, "name": "Construct validity", "weight": 0.0, "id": 49453240, "level": 2}
+{"count": 51543, "name": "Social group", "weight": 1.0, "id": 180872759, "level": 2}
+{"count": 11086, "name": "Dissociation (psychology)", "weight": 0.0, "id": 2779807818, "level": 2}
+{"count": 39639, "name": "Attribution", "weight": 1.0, "id": 143299363, "level": 2}
+{"count": 12237, "name": "Organizational behavior", "weight": 0.0, "id": 39214371, "level": 2}
+{"count": 15509, "name": "Vigilance (psychology)", "weight": 0.0, "id": 192769605, "level": 2}
+{"count": 7812, "name": "Interaction", "weight": 0.0, "id": 855514, "level": 2}
+{"count": 26277, "name": "Homosexuality", "weight": 0.0, "id": 2776001192, "level": 2}
+{"count": 105751, "name": "Creativity", "weight": 3.0, "id": 11012388, "level": 2}
+{"count": 81306, "name": "Psychological resilience", "weight": 2.0, "id": 137176749, "level": 2}
+{"count": 35886, "name": "Juvenile delinquency", "weight": 1.0, "id": 71376074, "level": 2}
+{"count": 12466, "name": "Self-control", "weight": 0.0, "id": 32362775, "level": 2}
+{"count": 74874, "name": "Norm (social)", "weight": 2.0, "id": 125559964, "level": 2}
+{"count": 18733, "name": "Intelligence quotient", "weight": 0.0, "id": 166047926, "level": 2}
+{"count": 21681, "name": "Aptitude", "weight": 0.0, "id": 48561166, "level": 2}
+{"count": 87787, "name": "Interpersonal communication", "weight": 2.0, "id": 164850336, "level": 2}
+{"count": 10860, "name": "Psychological well-being", "weight": 0.0, "id": 197253505, "level": 2}
+{"count": 31830, "name": "Social status", "weight": 0.0, "id": 142806620, "level": 2}
+{"count": 19400, "name": "Psychological testing", "weight": 0.0, "id": 163515075, "level": 2}
+{"count": 23386, "name": "Multilevel model", "weight": 0.0, "id": 53059260, "level": 2}
+{"count": 4637, "name": "Indirect effect", "weight": 0.0, "id": 2780836151, "level": 2}
+{"count": 29974, "name": "Priming (psychology)", "weight": 0.0, "id": 46687263, "level": 2}
+{"count": 23621, "name": "Social identity theory", "weight": 0.0, "id": 98447023, "level": 2}
+{"count": 15650, "name": "Attitude change", "weight": 0.0, "id": 549090830, "level": 2}
+{"count": 25741, "name": "Life satisfaction", "weight": 0.0, "id": 2780945536, "level": 2}
+{"count": 32251, "name": "Conflict resolution", "weight": 0.0, "id": 21711469, "level": 2}
+{"count": 23569, "name": "Risk perception", "weight": 0.0, "id": 163355716, "level": 2}
+{"count": 27033, "name": "Acculturation", "weight": 0.0, "id": 90048612, "level": 2}
+{"count": 3222, "name": "Domain specificity", "weight": 0.0, "id": 2778848085, "level": 2}
+{"count": 23592, "name": "Social value orientations", "weight": 0.0, "id": 62657170, "level": 2}
+{"count": 10595, "name": "Emotionality", "weight": 0.0, "id": 168862018, "level": 2}
+{"count": 37774, "name": "Empathy", "weight": 1.0, "id": 2779885105, "level": 2}
+{"count": 80162, "name": "Mood", "weight": 2.0, "id": 2780733359, "level": 2}
+{"count": 28408, "name": "Arousal", "weight": 0.0, "id": 36951298, "level": 2}
+{"count": 22266, "name": "Locus of control", "weight": 0.0, "id": 170798268, "level": 2}
+{"count": 11194, "name": "Context effect", "weight": 0.0, "id": 76188268, "level": 2}
+{"count": 3049, "name": "Sex characteristics", "weight": 0.0, "id": 2778945730, "level": 2}
+{"count": 26242, "name": "Confirmatory factor analysis", "weight": 0.0, "id": 40722632, "level": 2}
+{"count": 59144, "name": "Recall", "weight": 1.0, "id": 100660578, "level": 2}
+{"count": 11568, "name": "Mate choice", "weight": 0.0, "id": 54779947, "level": 2}
+{"count": 42779, "name": "Organizational commitment", "weight": 1.0, "id": 83030740, "level": 2}
+{"count": 27408, "name": "Social skills", "weight": 0.0, "id": 86772948, "level": 2}
+{"count": 14855, "name": "Predictive validity", "weight": 0.0, "id": 20685875, "level": 2}
+{"count": 12083, "name": "Path analysis (statistics)", "weight": 0.0, "id": 82793941, "level": 2}
+{"count": 13977, "name": "Social isolation", "weight": 0.0, "id": 2776893239, "level": 2}
+{"count": 13910, "name": "Visual search", "weight": 0.0, "id": 158495155, "level": 2}
+{"count": 15413, "name": "Goal orientation", "weight": 0.0, "id": 84653758, "level": 2}
+{"count": 19808, "name": "Social learning", "weight": 0.0, "id": 79416737, "level": 2}
+{"count": 40613, "name": "Friendship", "weight": 1.0, "id": 2778736484, "level": 2}
+{"count": 47929, "name": "Happiness", "weight": 1.0, "id": 2778999518, "level": 2}
+{"count": 10969, "name": "Inter-rater reliability", "weight": 0.0, "id": 61863361, "level": 2}
+{"count": 45884, "name": "Mediation (Marxist theory and media studies)", "weight": 1.0, "id": 2777405217, "level": 2}
+{"count": 15855, "name": "Peer group", "weight": 0.0, "id": 128593788, "level": 2}
+{"count": 8111, "name": "Conduct disorder", "weight": 0.0, "id": 2780135496, "level": 2}
+{"count": 12850, "name": "Item response theory", "weight": 0.0, "id": 19875794, "level": 2}
+{"count": 23221, "name": "Social constructionism", "weight": 0.0, "id": 163877629, "level": 2}
+{"count": 12861, "name": "Organisation climate", "weight": 0.0, "id": 185654502, "level": 2}
+{"count": 40649, "name": "Conceptualization", "weight": 1.0, "id": 90734943, "level": 2}
+{"count": 31025, "name": "Prejudice (legal term)", "weight": 0.0, "id": 107062074, "level": 2}
+{"count": 47724, "name": "Schema (psychology)", "weight": 1.0, "id": 171276312, "level": 2}
+{"count": 12623, "name": "Internalization", "weight": 0.0, "id": 139770010, "level": 2}
+{"count": 6534, "name": "Cross-cultural studies", "weight": 0.0, "id": 199869022, "level": 2}
+{"count": 18819, "name": "Stereotype", "weight": 0.0, "id": 2777805627, "level": 2}
+{"count": 8083, "name": "Causal model", "weight": 0.0, "id": 11671645, "level": 2}
+{"count": 16000, "name": "Prosocial behavior", "weight": 0.0, "id": 158608086, "level": 2}
+{"count": 18635, "name": "Altruism", "weight": 0.0, "id": 68579090, "level": 2}
+{"count": 34330, "name": "Anger", "weight": 1.0, "id": 2779302386, "level": 2}
+{"count": 17899, "name": "Impulsivity", "weight": 0.0, "id": 2780319597, "level": 2}
+{"count": 13465, "name": "Theory of planned behavior", "weight": 0.0, "id": 89785696, "level": 2}
+{"count": 7642, "name": "Discrimination learning", "weight": 0.0, "id": 196178793, "level": 2}
+{"count": 33717, "name": "Masculinity", "weight": 1.0, "id": 2779103072, "level": 2}
+{"count": 16347, "name": "Social control", "weight": 0.0, "id": 37497375, "level": 2}
+{"count": 6290, "name": "Psychophysiology", "weight": 0.0, "id": 23677625, "level": 2}
+{"count": 26551, "name": "Burnout", "weight": 0.0, "id": 143916079, "level": 2}
+{"count": 18138, "name": "Life course approach", "weight": 0.0, "id": 1691868, "level": 2}
+{"count": 9063, "name": "Skin conductance", "weight": 0.0, "id": 111902132, "level": 2}
+{"count": 137548, "name": "Competence (human resources)", "weight": 4.0, "id": 100521375, "level": 2}
+{"count": 26830, "name": "Imitation", "weight": 0.0, "id": 126388530, "level": 2}
+{"count": 12455, "name": "Rational choice theory", "weight": 0.0, "id": 141057610, "level": 2}
+{"count": 17109, "name": "Sexual orientation", "weight": 0.0, "id": 2777997956, "level": 2}
+{"count": 24038, "name": "Emotional intelligence", "weight": 0.0, "id": 174107131, "level": 2}
+{"count": 10754, "name": "Group decision-making", "weight": 0.0, "id": 20701700, "level": 2}
+{"count": 16686, "name": "Moral development", "weight": 0.0, "id": 76247681, "level": 2}
+{"count": 22820, "name": "Validity", "weight": 0.0, "id": 70364389, "level": 2}
+{"count": 30024, "name": "Individualism", "weight": 0.0, "id": 17022365, "level": 2}
+{"count": 22604, "name": "Reciprocity (social psychology)", "weight": 0.0, "id": 199452025, "level": 2}
+{"count": 9832, "name": "Industrial and organizational psychology", "weight": 0.0, "id": 130497676, "level": 2}
+{"count": 6282, "name": "Social comparison theory", "weight": 0.0, "id": 178233286, "level": 2}
+{"count": 7723, "name": "Item analysis", "weight": 0.0, "id": 2778263599, "level": 2}
+{"count": 10381, "name": "Personal identity", "weight": 0.0, "id": 47188148, "level": 2}
+{"count": 3177, "name": "Defence mechanisms", "weight": 0.0, "id": 7687120, "level": 2}
+{"count": 3341, "name": "Collective behavior", "weight": 0.0, "id": 100339178, "level": 2}
+{"count": 12000, "name": "Emotional expression", "weight": 0.0, "id": 143110190, "level": 2}
+{"count": 7855, "name": "Learned helplessness", "weight": 0.0, "id": 167305396, "level": 2}
+{"count": 19134, "name": "Participant observation", "weight": 0.0, "id": 194943564, "level": 2}
+{"count": 9762, "name": "Goal setting", "weight": 0.0, "id": 2781195723, "level": 2}
+{"count": 5840, "name": "Protective factor", "weight": 0.0, "id": 97928714, "level": 2}
+{"count": 8935, "name": "Social exchange theory", "weight": 0.0, "id": 172256602, "level": 2}
+{"count": 8369, "name": "Occupational stress", "weight": 0.0, "id": 2776788475, "level": 2}
+{"count": 19906, "name": "Social competence", "weight": 0.0, "id": 25148115, "level": 2}
+{"count": 13562, "name": "Absenteeism", "weight": 0.0, "id": 27400517, "level": 2}
+{"count": 79904, "name": "Distress", "weight": 2.0, "id": 139265228, "level": 2}
+{"count": 15611, "name": "Sexual intercourse", "weight": 0.0, "id": 2780202899, "level": 2}
+{"count": 29692, "name": "Transformational leadership", "weight": 0.0, "id": 38775462, "level": 2}
+{"count": 16537, "name": "Hostility", "weight": 0.0, "id": 2781214261, "level": 2}
+{"count": 6599, "name": "External validity", "weight": 0.0, "id": 174106493, "level": 2}
+{"count": 19215, "name": "Distraction", "weight": 0.0, "id": 2776378700, "level": 2}
+{"count": 8280, "name": "Personnel selection", "weight": 0.0, "id": 2777207495, "level": 2}
+{"count": 15969, "name": "Sibling", "weight": 0.0, "id": 2776194465, "level": 2}
+{"count": 19350, "name": "Mindfulness", "weight": 0.0, "id": 2780444219, "level": 2}
+{"count": 9879, "name": "Adolescent health", "weight": 0.0, "id": 2778063736, "level": 2}
+{"count": 12210, "name": "Habituation", "weight": 0.0, "id": 50610925, "level": 2}
+{"count": 4527, "name": "Response bias", "weight": 0.0, "id": 159447121, "level": 2}
+{"count": 6701, "name": "Birth order", "weight": 0.0, "id": 2779209633, "level": 2}
+{"count": 27293, "name": "Likert scale", "weight": 0.0, "id": 105776082, "level": 2}
+{"count": 6670, "name": "Eccentricity (behavior)", "weight": 0.0, "id": 190538878, "level": 2}
+{"count": 7035, "name": "Need for achievement", "weight": 0.0, "id": 158227716, "level": 2}
+{"count": 29694, "name": "Habit", "weight": 0.0, "id": 44670240, "level": 2}
+{"count": 11963, "name": "Conflict management", "weight": 0.0, "id": 2779683958, "level": 2}
+{"count": 6990, "name": "Causal inference", "weight": 0.0, "id": 158600405, "level": 2}
+{"count": 10059, "name": "Social cognitive theory", "weight": 0.0, "id": 14564219, "level": 2}
+{"count": 5182, "name": "Self-disclosure", "weight": 0.0, "id": 175202939, "level": 2}
+{"count": 6143, "name": "Adaptive behavior", "weight": 0.0, "id": 68784500, "level": 2}
+{"count": 1841, "name": "Sociometry", "weight": 0.0, "id": 165305691, "level": 2}
+{"count": 11010, "name": "Collective identity", "weight": 0.0, "id": 151915780, "level": 2}
+{"count": 9610, "name": "Convergent validity", "weight": 0.0, "id": 121244757, "level": 2}
+{"count": 4431, "name": "Prospection", "weight": 0.0, "id": 2778426922, "level": 2}
+{"count": 5639, "name": "Prospect theory", "weight": 0.0, "id": 339426, "level": 2}
+{"count": 9603, "name": "Erikson's stages of psychosocial development", "weight": 0.0, "id": 127158533, "level": 2}
+{"count": 21672, "name": "Anchoring", "weight": 0.0, "id": 18483071, "level": 2}
+{"count": 9745, "name": "Cognitive dissonance", "weight": 0.0, "id": 77513098, "level": 2}
+{"count": 20233, "name": "Spouse", "weight": 0.0, "id": 2777495918, "level": 2}
+{"count": 24920, "name": "Condom", "weight": 0.0, "id": 2779379456, "level": 2}
+{"count": 4694, "name": "Self-rated health", "weight": 0.0, "id": 2781164080, "level": 2}
+{"count": 25004, "name": "Maximization", "weight": 0.0, "id": 2776330181, "level": 2}
+{"count": 23541, "name": "Persuasion", "weight": 0.0, "id": 2781310500, "level": 2}
+{"count": 13858, "name": "Family support", "weight": 0.0, "id": 2779017400, "level": 2}
+{"count": 18245, "name": "Loneliness", "weight": 0.0, "id": 2779998236, "level": 2}
+{"count": 16079, "name": "Deception", "weight": 0.0, "id": 2779267917, "level": 2}
+{"count": 28693, "name": "Frustration", "weight": 0.0, "id": 38710091, "level": 2}
+{"count": 15409, "name": "Anticipation", "weight": 0.0, "id": 69334644, "level": 2}
+{"count": 5266, "name": "Evolutionary psychology", "weight": 0.0, "id": 92150231, "level": 2}
+{"count": 13791, "name": "Deviance (sociology)", "weight": 0.0, "id": 96758477, "level": 2}
+{"count": 7076, "name": "Self-assessment", "weight": 0.0, "id": 205333247, "level": 2}
+{"count": 3122, "name": "Adult development", "weight": 0.0, "id": 117250062, "level": 2}
+{"count": 47995, "name": "Uniqueness", "weight": 1.0, "id": 2777021972, "level": 2}
+{"count": 4382, "name": "Inhibitory control", "weight": 0.0, "id": 2778796910, "level": 2}
+{"count": 9056, "name": "Nuclear family", "weight": 0.0, "id": 68220480, "level": 2}
+{"count": 3904, "name": "Social ecological model", "weight": 0.0, "id": 172606299, "level": 2}
+{"count": 36969, "name": "Novelty", "weight": 1.0, "id": 2778738651, "level": 2}
+{"count": 12236, "name": "Recidivism", "weight": 0.0, "id": 2776090404, "level": 2}
+{"count": 4220, "name": "Communication in small groups", "weight": 0.0, "id": 44871818, "level": 2}
+{"count": 4508, "name": "Social preferences", "weight": 0.0, "id": 52820260, "level": 2}
+{"count": 6748, "name": "Parenting styles", "weight": 0.0, "id": 2779661023, "level": 2}
+{"count": 3909, "name": "Perceived control", "weight": 0.0, "id": 2778967200, "level": 2}
+{"count": 17673, "name": "Femininity", "weight": 0.0, "id": 2778868352, "level": 2}
+{"count": 5338, "name": "Self-regulated learning", "weight": 0.0, "id": 2776503756, "level": 2}
+{"count": 15438, "name": "Exploratory factor analysis", "weight": 0.0, "id": 165957694, "level": 2}
+{"count": 6729, "name": "Procedural justice", "weight": 0.0, "id": 2779149496, "level": 2}
+{"count": 8990, "name": "Discriminant validity", "weight": 0.0, "id": 120107772, "level": 2}
+{"count": 7503, "name": "Test score", "weight": 0.0, "id": 98347192, "level": 2}
+{"count": 8434, "name": "Distributive justice", "weight": 0.0, "id": 2780129364, "level": 2}

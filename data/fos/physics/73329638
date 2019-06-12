@@ -1,0 +1,7 @@
+{"count": 1399, "name": "Sky brightness", "weight": 5.0, "id": 193212914, "level": 3}
+{"count": 333, "name": "Digitized Sky Survey", "weight": 1.0, "id": 2778322155, "level": 3}
+{"count": 2416, "name": "Overcast", "weight": 10.0, "id": 195452092, "level": 3}
+{"count": 30, "name": "Ecological light pollution", "weight": 0.0, "id": 2779990130, "level": 3}
+{"count": 96, "name": "Skyglow", "weight": 0.0, "id": 99047232, "level": 3}
+{"count": 23, "name": "Summer Triangle", "weight": 0.0, "id": 86883753, "level": 3}
+{"count": 25, "name": "Crepuscular rays", "weight": 0.0, "id": 10584406, "level": 3}

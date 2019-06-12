@@ -1,0 +1,21 @@
+{"count": 3394, "name": "Pervasive developmental disorder", "weight": 10.0, "id": 2776831707, "level": 4}
+{"count": 3043, "name": "ASD", "weight": 8.0, "id": 150193041, "level": 4}
+{"count": 2238, "name": "High-functioning autism", "weight": 6.0, "id": 2779117999, "level": 4}
+{"count": 603, "name": "Autism Diagnostic Observation Schedule", "weight": 1.0, "id": 2780055620, "level": 4}
+{"count": 383, "name": "Autism-spectrum quotient", "weight": 1.0, "id": 2779104208, "level": 4}
+{"count": 529, "name": "Childhood Autism Rating Scale", "weight": 1.0, "id": 2776703358, "level": 4}
+{"count": 271, "name": "Social Responsiveness Scale", "weight": 0.0, "id": 2779974309, "level": 4}
+{"count": 202, "name": "Autism Diagnostic Interview", "weight": 0.0, "id": 2781438419, "level": 4}
+{"count": 193, "name": "Speech-generating device", "weight": 0.0, "id": 2780705462, "level": 4}
+{"count": 212, "name": "Modified Checklist for Autism in Toddlers", "weight": 0.0, "id": 2778309043, "level": 4}
+{"count": 113, "name": "Pivotal response treatment", "weight": 0.0, "id": 2780243690, "level": 4}
+{"count": 45, "name": "Weak central coherence theory", "weight": 0.0, "id": 2781089361, "level": 4}
+{"count": 38, "name": "Gluten-free, casein-free diet", "weight": 0.0, "id": 2779949056, "level": 4}
+{"count": 901, "name": "Neurotypical", "weight": 2.0, "id": 2778391849, "level": 4}
+{"count": 31, "name": "Pathological demand avoidance", "weight": 0.0, "id": 2775873132, "level": 4}
+{"count": 100, "name": "Autism Treatment Evaluation Checklist", "weight": 0.0, "id": 2777111754, "level": 4}
+{"count": 243, "name": "Causes of autism", "weight": 0.0, "id": 2778594875, "level": 4}
+{"count": 613, "name": "Heritability of autism", "weight": 1.0, "id": 108701171, "level": 4}
+{"count": 35, "name": "Animal models of autism", "weight": 0.0, "id": 19291750, "level": 4}
+{"count": 31, "name": "Dup15q", "weight": 0.0, "id": 2778426146, "level": 4}
+{"count": 410, "name": "Epigenetics of autism", "weight": 1.0, "id": 100139498, "level": 4}

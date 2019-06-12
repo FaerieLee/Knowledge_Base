@@ -1,0 +1,13 @@
+{"count": 2655, "name": "Universal asynchronous receiver/transmitter", "weight": 6.0, "id": 161911788, "level": 3}
+{"count": 886, "name": "RS-232", "weight": 2.0, "id": 44670236, "level": 3}
+{"count": 1190, "name": "IEEE 1394", "weight": 2.0, "id": 2775935784, "level": 3}
+{"count": 201, "name": "High speed serial link", "weight": 0.0, "id": 2776117883, "level": 3}
+{"count": 671, "name": "Asynchronous serial communication", "weight": 1.0, "id": 57485573, "level": 3}
+{"count": 129, "name": "RS-422", "weight": 0.0, "id": 2776905146, "level": 3}
+{"count": 217, "name": "MAX232", "weight": 0.0, "id": 2779833363, "level": 3}
+{"count": 21, "name": "Overlapped I/O", "weight": 0.0, "id": 48680361, "level": 3}
+{"count": 1174, "name": "Synchronous serial communication", "weight": 2.0, "id": 155787647, "level": 3}
+{"count": 4097, "name": "USB hub", "weight": 10.0, "id": 61361435, "level": 3}
+{"count": 39, "name": "Digital Serial Interface", "weight": 0.0, "id": 2781297070, "level": 3}
+{"count": 96, "name": "Asynchronous serial interface", "weight": 0.0, "id": 2775885681, "level": 3}
+{"count": 2919, "name": "eXtensible Host Controller Interface (xHCI)", "weight": 7.0, "id": 71784007, "level": 3}

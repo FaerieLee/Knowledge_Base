@@ -1,0 +1,21 @@
+{"count": 26659, "name": "Anaerobic digestion", "weight": 10.0, "id": 499616599, "level": 3}
+{"count": 12096, "name": "Partial oxidation", "weight": 4.0, "id": 110686534, "level": 3}
+{"count": 5973, "name": "Anaerobic oxidation of methane", "weight": 2.0, "id": 104577883, "level": 3}
+{"count": 7292, "name": "Methanogenesis", "weight": 2.0, "id": 2778589620, "level": 3}
+{"count": 6315, "name": "Catalytic combustion", "weight": 2.0, "id": 24411645, "level": 3}
+{"count": 7870, "name": "Oxidative coupling of methane", "weight": 2.0, "id": 83155894, "level": 3}
+{"count": 3553, "name": "Landfill gas", "weight": 1.0, "id": 32571094, "level": 3}
+{"count": 1516, "name": "Methane monooxygenase", "weight": 0.0, "id": 23296010, "level": 3}
+{"count": 2766, "name": "Methane emissions", "weight": 1.0, "id": 2776208129, "level": 3}
+{"count": 401, "name": "Filamentous carbon", "weight": 0.0, "id": 2781144741, "level": 3}
+{"count": 2664, "name": "Atmospheric methane", "weight": 0.0, "id": 86714428, "level": 3}
+{"count": 450, "name": "Methylomonas", "weight": 0.0, "id": 2779686300, "level": 3}
+{"count": 1496, "name": "Bioreactor landfill", "weight": 0.0, "id": 21177189, "level": 3}
+{"count": 160, "name": "Di-pi-methane rearrangement", "weight": 0.0, "id": 2777097655, "level": 3}
+{"count": 235, "name": "Arctic methane release", "weight": 0.0, "id": 173451957, "level": 3}
+{"count": 1692, "name": "Marsh gas", "weight": 0.0, "id": 29996297, "level": 3}
+{"count": 666, "name": "Abiogenic petroleum origin", "weight": 0.0, "id": 99722313, "level": 3}
+{"count": 34, "name": "Methanium", "weight": 0.0, "id": 2777847312, "level": 3}
+{"count": 90, "name": "Fluorinated gases", "weight": 0.0, "id": 2781184898, "level": 3}
+{"count": 75, "name": "Andrussow process", "weight": 0.0, "id": 2777218473, "level": 3}
+{"count": 13, "name": "CrystaSulf", "weight": 0.0, "id": 2779069250, "level": 3}

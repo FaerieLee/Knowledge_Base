@@ -1,0 +1,9 @@
+{"count": 11066, "name": "Regulatory T cell", "weight": 6.0, "id": 2778296632, "level": 4}
+{"count": 16762, "name": "FOXP3", "weight": 10.0, "id": 2779727006, "level": 4}
+{"count": 2375, "name": "Peripheral tolerance", "weight": 1.0, "id": 2777016536, "level": 4}
+{"count": 1509, "name": "Interleukin-7 receptor", "weight": 0.0, "id": 123982805, "level": 4}
+{"count": 2089, "name": "Memory T cell", "weight": 1.0, "id": 2777367678, "level": 4}
+{"count": 7570, "name": "ZAP70", "weight": 4.0, "id": 120642132, "level": 4}
+{"count": 461, "name": "CD134", "weight": 0.0, "id": 2779925090, "level": 4}
+{"count": 4298, "name": "TCIRG1", "weight": 2.0, "id": 47794810, "level": 4}
+{"count": 2309, "name": "Streptamer", "weight": 1.0, "id": 8840205, "level": 4}

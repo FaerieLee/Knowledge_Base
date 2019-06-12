@@ -1,0 +1,5 @@
+{"count": 890, "name": "ID-based cryptography", "weight": 7.0, "id": 19150895, "level": 4}
+{"count": 1188, "name": "Key encapsulation", "weight": 10.0, "id": 35181327, "level": 4}
+{"count": 925, "name": "PKCS #1", "weight": 7.0, "id": 186497982, "level": 4}
+{"count": 173, "name": "Public key fingerprint", "weight": 1.0, "id": 33842785, "level": 4}
+{"count": 483, "name": "Static key", "weight": 4.0, "id": 53167183, "level": 4}

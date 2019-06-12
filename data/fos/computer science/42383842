@@ -1,0 +1,15 @@
+{"count": 831, "name": "Lazy evaluation", "weight": 10.0, "id": 128099668, "level": 3}
+{"count": 602, "name": "Graph reduction", "weight": 7.0, "id": 97042676, "level": 3}
+{"count": 23, "name": "J operator", "weight": 0.0, "id": 63137364, "level": 3}
+{"count": 222, "name": "Strictness analysis", "weight": 2.0, "id": 14864736, "level": 3}
+{"count": 33, "name": "List comprehension", "weight": 0.0, "id": 2777194512, "level": 3}
+{"count": 55, "name": "Combinator library", "weight": 0.0, "id": 2781362648, "level": 3}
+{"count": 20, "name": "ISWIM", "weight": 0.0, "id": 2776286898, "level": 3}
+{"count": 47, "name": "Monad transformer", "weight": 0.0, "id": 2780624224, "level": 3}
+{"count": 59, "name": "Concurrent Haskell", "weight": 0.0, "id": 2781332737, "level": 3}
+{"count": 25, "name": "Categorical abstract machine", "weight": 0.0, "id": 2779481778, "level": 3}
+{"count": 71, "name": "Purely functional programming", "weight": 0.0, "id": 2777742389, "level": 3}
+{"count": 33, "name": "Template Haskell", "weight": 0.0, "id": 2776000966, "level": 3}
+{"count": 13, "name": "Inductive functional programming", "weight": 0.0, "id": 2778382557, "level": 3}
+{"count": 73, "name": "Elixir (programming language)", "weight": 0.0, "id": 103472402, "level": 3}
+{"count": 13, "name": "Fudgets", "weight": 0.0, "id": 2778986877, "level": 3}

@@ -1,0 +1,200 @@
+{"count": 25912, "name": "Application software", "weight": 2.0, "id": 134317101, "level": 3}
+{"count": 92804, "name": "Software development", "weight": 10.0, "id": 529173508, "level": 3}
+{"count": 64622, "name": "Software system", "weight": 6.0, "id": 149091818, "level": 3}
+{"count": 25299, "name": "Software architecture", "weight": 2.0, "id": 35869016, "level": 3}
+{"count": 21255, "name": "Software quality", "weight": 2.0, "id": 117447612, "level": 3}
+{"count": 29660, "name": "Software design", "weight": 3.0, "id": 52913732, "level": 3}
+{"count": 27095, "name": "Component-based software engineering", "weight": 2.0, "id": 174683762, "level": 3}
+{"count": 8115, "name": "Software maintenance", "weight": 0.0, "id": 101317890, "level": 3}
+{"count": 3034, "name": "Software prototyping", "weight": 0.0, "id": 2776697782, "level": 3}
+{"count": 6750, "name": "Software performance testing", "weight": 0.0, "id": 178059732, "level": 3}
+{"count": 13491, "name": "Hardware architecture", "weight": 1.0, "id": 65232700, "level": 3}
+{"count": 6917, "name": "Software fault tolerance", "weight": 0.0, "id": 50712370, "level": 3}
+{"count": 5991, "name": "Embedded software", "weight": 0.0, "id": 154488198, "level": 3}
+{"count": 1699, "name": "Public domain software", "weight": 0.0, "id": 172092558, "level": 3}
+{"count": 9930, "name": "Software as a service", "weight": 1.0, "id": 175133352, "level": 3}
+{"count": 2575, "name": "Source lines of code", "weight": 0.0, "id": 199519371, "level": 3}
+{"count": 3346, "name": "Open architecture", "weight": 0.0, "id": 123326733, "level": 3}
+{"count": 3819, "name": "Software bug", "weight": 0.0, "id": 1009929, "level": 3}
+{"count": 2040, "name": "Commercial off-the-shelf", "weight": 0.0, "id": 2777030141, "level": 3}
+{"count": 1572, "name": "Methods of Information in Medicine", "weight": 0.0, "id": 2776195699, "level": 3}
+{"count": 1401, "name": "Function point", "weight": 0.0, "id": 151223460, "level": 3}
+{"count": 12028, "name": "Visual Basic", "weight": 1.0, "id": 2777315864, "level": 3}
+{"count": 3399, "name": "Virtual instrumentation", "weight": 0.0, "id": 2781331281, "level": 3}
+{"count": 1837, "name": "Program comprehension", "weight": 0.0, "id": 2777561058, "level": 3}
+{"count": 1379, "name": "Programming complexity", "weight": 0.0, "id": 66429209, "level": 3}
+{"count": 4096, "name": "Educational software", "weight": 0.0, "id": 543511877, "level": 3}
+{"count": 1985, "name": "Mathematical software", "weight": 0.0, "id": 2778400913, "level": 3}
+{"count": 5110, "name": "Code refactoring", "weight": 0.0, "id": 152752567, "level": 3}
+{"count": 3848, "name": "Software visualization", "weight": 0.0, "id": 4379982, "level": 3}
+{"count": 4439, "name": "Static program analysis", "weight": 0.0, "id": 137287247, "level": 3}
+{"count": 1672, "name": "Software analysis pattern", "weight": 0.0, "id": 25566979, "level": 3}
+{"count": 4122, "name": "IBM PC compatible", "weight": 0.0, "id": 77741850, "level": 3}
+{"count": 1473, "name": "Code reuse", "weight": 0.0, "id": 2778583558, "level": 3}
+{"count": 7620, "name": "System software", "weight": 0.0, "id": 2779960034, "level": 3}
+{"count": 912, "name": "Software inspection", "weight": 0.0, "id": 10272871, "level": 3}
+{"count": 1726, "name": "Integrated software", "weight": 0.0, "id": 2781105336, "level": 3}
+{"count": 2326, "name": "Life-critical system", "weight": 0.0, "id": 163707989, "level": 3}
+{"count": 2468, "name": "Capability Maturity Model Integration", "weight": 0.0, "id": 182406803, "level": 3}
+{"count": 1155, "name": "Ada", "weight": 0.0, "id": 515714638, "level": 3}
+{"count": 376, "name": "Mining software repositories", "weight": 0.0, "id": 2776854972, "level": 3}
+{"count": 861, "name": "Revision control", "weight": 0.0, "id": 33165040, "level": 3}
+{"count": 447, "name": "GQM", "weight": 0.0, "id": 14148275, "level": 3}
+{"count": 5076, "name": "Software versioning", "weight": 0.0, "id": 198140048, "level": 3}
+{"count": 965, "name": "Obfuscation (software)", "weight": 0.0, "id": 200690637, "level": 3}
+{"count": 572, "name": "Change impact analysis", "weight": 0.0, "id": 164691408, "level": 3}
+{"count": 347, "name": "Function composition (computer science)", "weight": 0.0, "id": 104637301, "level": 3}
+{"count": 727, "name": "Cyclomatic complexity", "weight": 0.0, "id": 187303228, "level": 3}
+{"count": 972, "name": "Component Object Model", "weight": 0.0, "id": 187018787, "level": 3}
+{"count": 732, "name": "Concolic testing", "weight": 0.0, "id": 11219265, "level": 3}
+{"count": 868, "name": "Legacy code", "weight": 0.0, "id": 85687889, "level": 3}
+{"count": 611, "name": "Industry Foundation Classes", "weight": 0.0, "id": 2779682955, "level": 3}
+{"count": 629, "name": "Copyleft", "weight": 0.0, "id": 2778372224, "level": 3}
+{"count": 5136, "name": "Commercial software", "weight": 0.0, "id": 2778400627, "level": 3}
+{"count": 1053, "name": "AUTOSAR", "weight": 0.0, "id": 2778602020, "level": 3}
+{"count": 1261, "name": "Fuzz testing", "weight": 0.0, "id": 111065885, "level": 3}
+{"count": 1243, "name": "ARM9", "weight": 0.0, "id": 2780992928, "level": 3}
+{"count": 781, "name": "PMAC", "weight": 0.0, "id": 102305610, "level": 3}
+{"count": 1003, "name": "DevOps", "weight": 0.0, "id": 9903902, "level": 3}
+{"count": 1155, "name": "Nios II", "weight": 0.0, "id": 2781190120, "level": 3}
+{"count": 124, "name": "Control-flow integrity", "weight": 0.0, "id": 2778323838, "level": 3}
+{"count": 524, "name": "Email management", "weight": 0.0, "id": 2779963843, "level": 3}
+{"count": 269, "name": "Metamorphic testing", "weight": 0.0, "id": 2777332272, "level": 3}
+{"count": 77, "name": "Architectural decision", "weight": 0.0, "id": 2776992859, "level": 3}
+{"count": 721, "name": "Software modernization", "weight": 0.0, "id": 189127482, "level": 3}
+{"count": 1562, "name": "Waterfall model", "weight": 0.0, "id": 20505762, "level": 3}
+{"count": 155, "name": "Dynamic software updating", "weight": 0.0, "id": 527894882, "level": 3}
+{"count": 3566, "name": "Open platform", "weight": 0.0, "id": 108383078, "level": 3}
+{"count": 1242, "name": "Sound card", "weight": 0.0, "id": 2780094485, "level": 3}
+{"count": 341, "name": "Software repository", "weight": 0.0, "id": 2778395375, "level": 3}
+{"count": 840, "name": "Dynamic program analysis", "weight": 0.0, "id": 140006998, "level": 3}
+{"count": 587, "name": "SBML", "weight": 0.0, "id": 87186988, "level": 3}
+{"count": 800, "name": "Mainframe computer", "weight": 0.0, "id": 2776169056, "level": 3}
+{"count": 823, "name": "Instrumentation (computer programming)", "weight": 0.0, "id": 118530786, "level": 3}
+{"count": 1479, "name": "Instrument control", "weight": 0.0, "id": 2777628319, "level": 3}
+{"count": 195, "name": "Internetware", "weight": 0.0, "id": 2776081271, "level": 3}
+{"count": 460, "name": "Dynamic Data Exchange", "weight": 0.0, "id": 14346384, "level": 3}
+{"count": 161, "name": "Joint Tactical Radio System", "weight": 0.0, "id": 2777177307, "level": 3}
+{"count": 806, "name": "Medical software", "weight": 0.0, "id": 28143949, "level": 3}
+{"count": 463, "name": "Software ecosystem", "weight": 0.0, "id": 2780776881, "level": 3}
+{"count": 631, "name": "Automotive software", "weight": 0.0, "id": 2777480480, "level": 3}
+{"count": 985, "name": "Bioconductor", "weight": 0.0, "id": 2779694297, "level": 3}
+{"count": 377, "name": "RTAI", "weight": 0.0, "id": 2775909794, "level": 3}
+{"count": 121, "name": "Programming productivity", "weight": 0.0, "id": 2781105268, "level": 3}
+{"count": 304, "name": "Software patent", "weight": 0.0, "id": 2778682373, "level": 3}
+{"count": 242, "name": "MiniGUI", "weight": 0.0, "id": 2778582457, "level": 3}
+{"count": 152, "name": "ATML", "weight": 0.0, "id": 2778133435, "level": 3}
+{"count": 144, "name": "iSight", "weight": 0.0, "id": 2780873938, "level": 3}
+{"count": 182, "name": "CellML", "weight": 0.0, "id": 2777785472, "level": 3}
+{"count": 273, "name": "Software bus", "weight": 0.0, "id": 2778679810, "level": 3}
+{"count": 384, "name": "Internationalization and localization", "weight": 0.0, "id": 181813724, "level": 3}
+{"count": 61, "name": "Flow Cytometry Standard", "weight": 0.0, "id": 2776407286, "level": 3}
+{"count": 241, "name": "Open systems architecture", "weight": 0.0, "id": 2776312560, "level": 3}
+{"count": 131, "name": "Code signing", "weight": 0.0, "id": 2778697416, "level": 3}
+{"count": 214, "name": "\u03bcClinux", "weight": 0.0, "id": 2779521571, "level": 3}
+{"count": 801, "name": "Software license", "weight": 0.0, "id": 2780952101, "level": 3}
+{"count": 460, "name": "Modified condition/decision coverage", "weight": 0.0, "id": 180710824, "level": 3}
+{"count": 138, "name": "Rich client platform", "weight": 0.0, "id": 2776455134, "level": 3}
+{"count": 490, "name": "Analytica", "weight": 0.0, "id": 2780242907, "level": 3}
+{"count": 80, "name": "Gempack", "weight": 0.0, "id": 2779320208, "level": 3}
+{"count": 1683, "name": "Processing", "weight": 0.0, "id": 194241460, "level": 3}
+{"count": 3671, "name": "Test harness", "weight": 0.0, "id": 109852812, "level": 3}
+{"count": 965, "name": "Electronic hardware", "weight": 0.0, "id": 2778348175, "level": 3}
+{"count": 136, "name": "Conditional compilation", "weight": 0.0, "id": 2777161762, "level": 3}
+{"count": 219, "name": "OLE Automation", "weight": 0.0, "id": 2781169088, "level": 3}
+{"count": 1226, "name": "System monitor", "weight": 0.0, "id": 119051846, "level": 3}
+{"count": 295, "name": "Cost estimation models", "weight": 0.0, "id": 2776825906, "level": 3}
+{"count": 1049, "name": "Custom software", "weight": 0.0, "id": 2778789749, "level": 3}
+{"count": 503, "name": "Hardware abstraction", "weight": 0.0, "id": 2779867049, "level": 3}
+{"count": 27, "name": "Law of Demeter", "weight": 0.0, "id": 101585813, "level": 3}
+{"count": 527, "name": "Industrial PC", "weight": 0.0, "id": 2778919316, "level": 3}
+{"count": 133, "name": "Variant Call Format", "weight": 0.0, "id": 61688135, "level": 3}
+{"count": 138, "name": "Software Communications Architecture", "weight": 0.0, "id": 2775869251, "level": 3}
+{"count": 308, "name": "Adware", "weight": 0.0, "id": 84654996, "level": 3}
+{"count": 912, "name": "Mac OS", "weight": 0.0, "id": 522133331, "level": 3}
+{"count": 1498, "name": "Software suite", "weight": 0.0, "id": 2778736646, "level": 3}
+{"count": 40, "name": "Catpac", "weight": 0.0, "id": 2780844820, "level": 3}
+{"count": 177, "name": "RTEMS", "weight": 0.0, "id": 2776006952, "level": 3}
+{"count": 120, "name": "Computer-assisted qualitative data analysis software", "weight": 0.0, "id": 2776107270, "level": 3}
+{"count": 163, "name": "Defect tracking", "weight": 0.0, "id": 2776128245, "level": 3}
+{"count": 424, "name": "Robot software", "weight": 0.0, "id": 2779110910, "level": 3}
+{"count": 89, "name": "Hardware performance counter", "weight": 0.0, "id": 2781463979, "level": 3}
+{"count": 137, "name": "Peopleware", "weight": 0.0, "id": 105712562, "level": 3}
+{"count": 963, "name": "Codebase", "weight": 0.0, "id": 51929080, "level": 3}
+{"count": 379, "name": "Test effort", "weight": 0.0, "id": 2780198866, "level": 3}
+{"count": 98, "name": "Filter (software)", "weight": 0.0, "id": 50201147, "level": 3}
+{"count": 91, "name": "Round-trip engineering", "weight": 0.0, "id": 2778376604, "level": 3}
+{"count": 967, "name": "Toolchain", "weight": 0.0, "id": 2777062904, "level": 3}
+{"count": 110, "name": "Decision-making software", "weight": 0.0, "id": 2778218214, "level": 3}
+{"count": 1196, "name": "Cryptovirology", "weight": 0.0, "id": 84525096, "level": 3}
+{"count": 23, "name": "Trans-Proteomic Pipeline", "weight": 0.0, "id": 2779594928, "level": 3}
+{"count": 247, "name": "Board support package", "weight": 0.0, "id": 117353020, "level": 3}
+{"count": 128, "name": "Mass spectrometry data format", "weight": 0.0, "id": 14471711, "level": 3}
+{"count": 119, "name": "Tribon", "weight": 0.0, "id": 197594468, "level": 3}
+{"count": 174, "name": "Makefile", "weight": 0.0, "id": 2777721001, "level": 3}
+{"count": 714, "name": "Instrument Driver", "weight": 0.0, "id": 156431368, "level": 3}
+{"count": 20, "name": "Gender HCI", "weight": 0.0, "id": 2777536569, "level": 3}
+{"count": 378, "name": "Software build", "weight": 0.0, "id": 16150563, "level": 3}
+{"count": 471, "name": "Open format", "weight": 0.0, "id": 123583881, "level": 3}
+{"count": 64, "name": "Class-responsibility-collaboration card", "weight": 0.0, "id": 196565672, "level": 3}
+{"count": 90, "name": "Software standard", "weight": 0.0, "id": 2779484488, "level": 3}
+{"count": 111, "name": "Defensive programming", "weight": 0.0, "id": 7844330, "level": 3}
+{"count": 55, "name": "MISRA C", "weight": 0.0, "id": 2777837975, "level": 3}
+{"count": 25, "name": "Data Execution Prevention", "weight": 0.0, "id": 158957502, "level": 3}
+{"count": 25, "name": "Coral 66", "weight": 0.0, "id": 130296093, "level": 3}
+{"count": 31, "name": "Critical code studies", "weight": 0.0, "id": 2777055189, "level": 3}
+{"count": 55, "name": "Testing Maturity Model", "weight": 0.0, "id": 80107325, "level": 3}
+{"count": 25, "name": "CU-SeeMe", "weight": 0.0, "id": 173358232, "level": 3}
+{"count": 32, "name": "LAN eXtensions for Instrumentation", "weight": 0.0, "id": 2779461506, "level": 3}
+{"count": 139, "name": "Software feature", "weight": 0.0, "id": 2779652900, "level": 3}
+{"count": 13, "name": "Heisenbug", "weight": 0.0, "id": 35203864, "level": 3}
+{"count": 27, "name": "Industry-oriented education", "weight": 0.0, "id": 2777122514, "level": 3}
+{"count": 86, "name": "Application binary interface", "weight": 0.0, "id": 2780918963, "level": 3}
+{"count": 675, "name": "OPC Data Access", "weight": 0.0, "id": 73952413, "level": 3}
+{"count": 31, "name": "Control Structure Diagram", "weight": 0.0, "id": 2779728928, "level": 3}
+{"count": 41, "name": "Electronic lab notebook", "weight": 0.0, "id": 2777378784, "level": 3}
+{"count": 156, "name": "Scareware", "weight": 0.0, "id": 122872325, "level": 3}
+{"count": 35, "name": "BioJS", "weight": 0.0, "id": 2776917887, "level": 3}
+{"count": 100, "name": "Systems Biology Graphical Notation", "weight": 0.0, "id": 55565365, "level": 3}
+{"count": 30, "name": "Crowdsourced testing", "weight": 0.0, "id": 2778024854, "level": 3}
+{"count": 165, "name": "localhost", "weight": 0.0, "id": 148002658, "level": 3}
+{"count": 51, "name": "Common Weakness Enumeration", "weight": 0.0, "id": 129863746, "level": 3}
+{"count": 35, "name": "Logisim", "weight": 0.0, "id": 2778505560, "level": 3}
+{"count": 23, "name": "Specification by example", "weight": 0.0, "id": 2779975001, "level": 3}
+{"count": 16, "name": "National Software Reference Library", "weight": 0.0, "id": 2776443049, "level": 3}
+{"count": 23, "name": "Recursive acronym", "weight": 0.0, "id": 2529492, "level": 3}
+{"count": 194, "name": "Software engine", "weight": 0.0, "id": 2779620980, "level": 3}
+{"count": 41, "name": "BioJava", "weight": 0.0, "id": 2776819486, "level": 3}
+{"count": 44, "name": "Graphmatica", "weight": 0.0, "id": 2778353407, "level": 3}
+{"count": 23, "name": "FireWire camera", "weight": 0.0, "id": 2779235723, "level": 3}
+{"count": 74, "name": "Dental software", "weight": 0.0, "id": 2777124668, "level": 3}
+{"count": 23, "name": "Atops", "weight": 0.0, "id": 2777713133, "level": 3}
+{"count": 31, "name": "Exception safety", "weight": 0.0, "id": 2777864811, "level": 3}
+{"count": 102, "name": "Programming team", "weight": 0.0, "id": 2780117377, "level": 3}
+{"count": 28, "name": "Wolfram Demonstrations Project", "weight": 0.0, "id": 2777165065, "level": 3}
+{"count": 29, "name": "PBASIC", "weight": 0.0, "id": 119680611, "level": 3}
+{"count": 19, "name": "RoboMind", "weight": 0.0, "id": 2779914700, "level": 3}
+{"count": 162, "name": "SOLID", "weight": 0.0, "id": 61938132, "level": 3}
+{"count": 37, "name": "Testware", "weight": 0.0, "id": 38623044, "level": 3}
+{"count": 35, "name": "Open Services for Lifecycle Collaboration", "weight": 0.0, "id": 2777510130, "level": 3}
+{"count": 36, "name": "Extensible Application Markup Language", "weight": 0.0, "id": 2776733890, "level": 3}
+{"count": 18, "name": "Open-source governance", "weight": 0.0, "id": 2778837543, "level": 3}
+{"count": 24, "name": "Energy monitoring and targeting", "weight": 0.0, "id": 2780841300, "level": 3}
+{"count": 33, "name": "Superminicomputer", "weight": 0.0, "id": 114862141, "level": 3}
+{"count": 540, "name": "MIT License", "weight": 0.0, "id": 174183944, "level": 3}
+{"count": 54, "name": "Common Look and Feel", "weight": 0.0, "id": 2778502683, "level": 3}
+{"count": 11, "name": "Metamorphic code", "weight": 0.0, "id": 2776635216, "level": 3}
+{"count": 31, "name": "Lantastic", "weight": 0.0, "id": 2779548507, "level": 3}
+{"count": 43, "name": "IOSO", "weight": 0.0, "id": 2775851309, "level": 3}
+{"count": 126, "name": "Standalone program", "weight": 0.0, "id": 2776552362, "level": 3}
+{"count": 19, "name": "Software incompatibility", "weight": 0.0, "id": 2776503777, "level": 3}
+{"count": 21, "name": "Host signal processing", "weight": 0.0, "id": 2777806388, "level": 3}
+{"count": 147, "name": "R interface", "weight": 0.0, "id": 2779979910, "level": 3}
+{"count": 30, "name": "DebugWIRE", "weight": 0.0, "id": 198730150, "level": 3}
+{"count": 53, "name": "Bigwig", "weight": 0.0, "id": 2777937875, "level": 3}
+{"count": 88, "name": "IBM mainframe utility programs", "weight": 0.0, "id": 70364854, "level": 3}
+{"count": 18, "name": "File integrity monitoring", "weight": 0.0, "id": 2777049597, "level": 3}
+{"count": 38, "name": "Traffic Service Position System", "weight": 0.0, "id": 2776348708, "level": 3}
+{"count": 15, "name": "VMScluster", "weight": 0.0, "id": 156293567, "level": 3}
+{"count": 48, "name": "iAPX", "weight": 0.0, "id": 2775834723, "level": 3}
+{"count": 104, "name": "Numeric precision in Microsoft Excel", "weight": 0.0, "id": 132926823, "level": 3}

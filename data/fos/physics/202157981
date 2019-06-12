@@ -1,0 +1,8 @@
+{"count": 2340, "name": "Top-down proteomics", "weight": 10.0, "id": 13762613, "level": 5}
+{"count": 1225, "name": "Extractive electrospray ionization", "weight": 5.0, "id": 75233609, "level": 5}
+{"count": 1124, "name": "Bottom-up proteomics", "weight": 4.0, "id": 112979427, "level": 5}
+{"count": 755, "name": "Isobaric labeling", "weight": 3.0, "id": 184185385, "level": 5}
+{"count": 769, "name": "Tandem mass tag", "weight": 3.0, "id": 86153913, "level": 5}
+{"count": 386, "name": "Peptide sequence tag", "weight": 1.0, "id": 86145286, "level": 5}
+{"count": 291, "name": "Isobaric tag for relative and absolute quantitation", "weight": 1.0, "id": 32697806, "level": 5}
+{"count": 56, "name": "Benjamin Cravatt III", "weight": 0.0, "id": 153294925, "level": 5}

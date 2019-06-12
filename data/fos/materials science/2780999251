@@ -1,0 +1,23 @@
+{"count": 24416, "name": "Disc brake", "weight": 10.0, "id": 134255957, "level": 3}
+{"count": 4646, "name": "Anti-lock braking system", "weight": 1.0, "id": 67908869, "level": 3}
+{"count": 10502, "name": "Retarder", "weight": 4.0, "id": 33107880, "level": 3}
+{"count": 11923, "name": "Calipers", "weight": 4.0, "id": 186738849, "level": 3}
+{"count": 1761, "name": "Automatic braking", "weight": 0.0, "id": 2775984895, "level": 3}
+{"count": 1720, "name": "Eddy current brake", "weight": 0.0, "id": 54855816, "level": 3}
+{"count": 1749, "name": "Braking distance", "weight": 0.0, "id": 119647976, "level": 3}
+{"count": 19781, "name": "Hydraulic brake", "weight": 8.0, "id": 61958391, "level": 3}
+{"count": 17921, "name": "Brake pad", "weight": 7.0, "id": 34975823, "level": 3}
+{"count": 2163, "name": "Electromagnetic brake", "weight": 0.0, "id": 119803274, "level": 3}
+{"count": 484, "name": "Brake-by-wire", "weight": 0.0, "id": 2778286648, "level": 3}
+{"count": 1984, "name": "Emergency brake", "weight": 0.0, "id": 123213592, "level": 3}
+{"count": 17034, "name": "Parking brake", "weight": 6.0, "id": 51836059, "level": 3}
+{"count": 1082, "name": "Band brake", "weight": 0.0, "id": 66573698, "level": 3}
+{"count": 128, "name": "S-cam", "weight": 0.0, "id": 2778755222, "level": 3}
+{"count": 171, "name": "Brake tester", "weight": 0.0, "id": 2778419755, "level": 3}
+{"count": 128, "name": "Stoppie", "weight": 0.0, "id": 166019022, "level": 3}
+{"count": 5883, "name": "Vehicle brake", "weight": 2.0, "id": 126278209, "level": 3}
+{"count": 583, "name": "Proportioning valve", "weight": 0.0, "id": 2780941255, "level": 3}
+{"count": 43, "name": "Split friction", "weight": 0.0, "id": 2777485327, "level": 3}
+{"count": 8201, "name": "Threshold braking", "weight": 3.0, "id": 77338312, "level": 3}
+{"count": 53, "name": "Bleed screw", "weight": 0.0, "id": 2777176033, "level": 3}
+{"count": 214, "name": "Vacuum servo", "weight": 0.0, "id": 2775833367, "level": 3}

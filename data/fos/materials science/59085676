@@ -1,0 +1,18 @@
+{"count": 40679, "name": "Stress intensity factor", "weight": 10.0, "id": 54303661, "level": 3}
+{"count": 7208, "name": "Fractography", "weight": 1.0, "id": 45780264, "level": 3}
+{"count": 9831, "name": "Strain energy release rate", "weight": 2.0, "id": 32860805, "level": 3}
+{"count": 3034, "name": "J integral", "weight": 0.0, "id": 110411163, "level": 3}
+{"count": 36266, "name": "Crack closure", "weight": 8.0, "id": 75512024, "level": 3}
+{"count": 5220, "name": "Corrosion fatigue", "weight": 1.0, "id": 2781089209, "level": 3}
+{"count": 3122, "name": "Cohesive zone model", "weight": 0.0, "id": 55688453, "level": 3}
+{"count": 142, "name": "Bead test", "weight": 0.0, "id": 80164806, "level": 3}
+{"count": 435, "name": "Microvoid coalescence", "weight": 0.0, "id": 164990259, "level": 3}
+{"count": 3088, "name": "Fiber pull-out", "weight": 0.0, "id": 85111493, "level": 3}
+{"count": 105, "name": "Configurational mechanics", "weight": 0.0, "id": 2777960175, "level": 3}
+{"count": 356, "name": "Applied element method", "weight": 0.0, "id": 38195518, "level": 3}
+{"count": 511, "name": "Fast fracture", "weight": 0.0, "id": 2779285877, "level": 3}
+{"count": 40, "name": "Safe-life design", "weight": 0.0, "id": 2781276815, "level": 3}
+{"count": 61, "name": "T-criterion", "weight": 0.0, "id": 2777652059, "level": 3}
+{"count": 195, "name": "Tooth interior fatigue fracture", "weight": 0.0, "id": 166112907, "level": 3}
+{"count": 448, "name": "Structural Fracture Mechanics", "weight": 0.0, "id": 70734417, "level": 3}
+{"count": 12, "name": "Concrete fracture analysis", "weight": 0.0, "id": 2780530342, "level": 3}

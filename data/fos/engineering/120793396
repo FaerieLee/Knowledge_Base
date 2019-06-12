@@ -1,0 +1,26 @@
+{"count": 3732, "name": "Surface-mount technology", "weight": 4.0, "id": 2776584680, "level": 3}
+{"count": 4014, "name": "Reflow soldering", "weight": 5.0, "id": 2778413121, "level": 3}
+{"count": 7747, "name": "Solder paste", "weight": 10.0, "id": 191281628, "level": 3}
+{"count": 4533, "name": "Wave soldering", "weight": 5.0, "id": 97850793, "level": 3}
+{"count": 697, "name": "Land grid array", "weight": 0.0, "id": 139045597, "level": 3}
+{"count": 385, "name": "Electrochemical migration", "weight": 0.0, "id": 2779864497, "level": 3}
+{"count": 122, "name": "FR-4", "weight": 0.0, "id": 2778789668, "level": 3}
+{"count": 1728, "name": "Solder mask", "weight": 2.0, "id": 2776304140, "level": 3}
+{"count": 922, "name": "Component placement", "weight": 1.0, "id": 2777575455, "level": 3}
+{"count": 417, "name": "Microvia", "weight": 0.0, "id": 2780525659, "level": 3}
+{"count": 495, "name": "Signal trace", "weight": 0.0, "id": 2780087382, "level": 3}
+{"count": 413, "name": "In-circuit test", "weight": 0.0, "id": 93773568, "level": 3}
+{"count": 2340, "name": "Pin grid array", "weight": 3.0, "id": 82077477, "level": 3}
+{"count": 1680, "name": "Edge connector", "weight": 2.0, "id": 2778184349, "level": 3}
+{"count": 78, "name": "Gerber format", "weight": 0.0, "id": 93167766, "level": 3}
+{"count": 248, "name": "Daughterboard", "weight": 0.0, "id": 161190481, "level": 3}
+{"count": 806, "name": "Zero insertion force", "weight": 1.0, "id": 47949662, "level": 3}
+{"count": 80, "name": "Hot air solder leveling", "weight": 0.0, "id": 2780904741, "level": 3}
+{"count": 546, "name": "Tape-out", "weight": 0.0, "id": 186247356, "level": 3}
+{"count": 243, "name": "Board-to-board connector", "weight": 0.0, "id": 2777479678, "level": 3}
+{"count": 35, "name": "Small form-factor pluggable transceiver", "weight": 0.0, "id": 2779674007, "level": 3}
+{"count": 58, "name": "Through-hole technology", "weight": 0.0, "id": 2778475573, "level": 3}
+{"count": 4326, "name": "Footprint (electronics)", "weight": 5.0, "id": 147382797, "level": 3}
+{"count": 2622, "name": "Riser card", "weight": 3.0, "id": 55935407, "level": 3}
+{"count": 3560, "name": "Diagnostic board", "weight": 4.0, "id": 185654420, "level": 3}
+{"count": 649, "name": "Knob and tube wiring", "weight": 0.0, "id": 190561783, "level": 3}

@@ -1,0 +1,109 @@
+{"count": 44619, "name": "Rhythm", "weight": 10.0, "id": 135343436, "level": 2}
+{"count": 1888, "name": "Harmonization", "weight": 0.0, "id": 2779962950, "level": 2}
+{"count": 23201, "name": "Canon", "weight": 5.0, "id": 103785112, "level": 2}
+{"count": 38352, "name": "Silence", "weight": 8.0, "id": 2781115785, "level": 2}
+{"count": 4794, "name": "Human physical appearance", "weight": 1.0, "id": 130537919, "level": 2}
+{"count": 22881, "name": "Motif (music)", "weight": 5.0, "id": 32276052, "level": 2}
+{"count": 25315, "name": "Attractiveness", "weight": 5.0, "id": 31173074, "level": 2}
+{"count": 5979, "name": "Music theory", "weight": 1.0, "id": 143857728, "level": 2}
+{"count": 5711, "name": "Elegance", "weight": 1.0, "id": 2778698498, "level": 2}
+{"count": 11948, "name": "Sublime", "weight": 2.0, "id": 2776717531, "level": 2}
+{"count": 1555, "name": "Facial symmetry", "weight": 0.0, "id": 178195510, "level": 2}
+{"count": 4747, "name": "Coda", "weight": 1.0, "id": 3962253, "level": 2}
+{"count": 3425, "name": "Cadence", "weight": 0.0, "id": 2777125575, "level": 2}
+{"count": 502, "name": "Break-Up", "weight": 0.0, "id": 2776881294, "level": 2}
+{"count": 421, "name": "Bimodality", "weight": 0.0, "id": 2779287300, "level": 2}
+{"count": 1394, "name": "Stream of consciousness (narrative mode)", "weight": 0.0, "id": 96839415, "level": 2}
+{"count": 9295, "name": "Tonic (music)", "weight": 2.0, "id": 2781347044, "level": 2}
+{"count": 13106, "name": "Sophistication", "weight": 2.0, "id": 168725872, "level": 2}
+{"count": 2418, "name": "Tonality", "weight": 0.0, "id": 2776275044, "level": 2}
+{"count": 6895, "name": "Reinterpretation", "weight": 1.0, "id": 2778734905, "level": 2}
+{"count": 1361, "name": "Stanislavski's system", "weight": 0.0, "id": 24253811, "level": 2}
+{"count": 1274, "name": "Modulation (music)", "weight": 0.0, "id": 123079801, "level": 2}
+{"count": 4948, "name": "Reprise", "weight": 1.0, "id": 114429787, "level": 2}
+{"count": 472, "name": "Purism", "weight": 0.0, "id": 2779290080, "level": 2}
+{"count": 9656, "name": "Melody", "weight": 2.0, "id": 43803900, "level": 2}
+{"count": 1888, "name": "Adornment", "weight": 0.0, "id": 2778265151, "level": 2}
+{"count": 1905, "name": "Leitmotif", "weight": 0.0, "id": 120599106, "level": 2}
+{"count": 1413, "name": "John Cage", "weight": 0.0, "id": 6791728, "level": 2}
+{"count": 381, "name": "Psychology of art", "weight": 0.0, "id": 196459178, "level": 2}
+{"count": 222, "name": "Somaesthetics", "weight": 0.0, "id": 2779966059, "level": 2}
+{"count": 105, "name": "Double-time", "weight": 0.0, "id": 187062135, "level": 2}
+{"count": 205, "name": "Experimental aesthetics", "weight": 0.0, "id": 2780638393, "level": 2}
+{"count": 939, "name": "Theory of art", "weight": 0.0, "id": 2780437627, "level": 2}
+{"count": 909, "name": "Vulgarity", "weight": 0.0, "id": 2779420664, "level": 2}
+{"count": 206, "name": "Verticalization", "weight": 0.0, "id": 2779120313, "level": 2}
+{"count": 417, "name": "Structural level", "weight": 0.0, "id": 2780730321, "level": 2}
+{"count": 1484, "name": "Harmony (Music)", "weight": 0.0, "id": 89721942, "level": 2}
+{"count": 4158, "name": "Time point", "weight": 0.0, "id": 2779466056, "level": 2}
+{"count": 282, "name": "Chromaticism", "weight": 0.0, "id": 49637062, "level": 2}
+{"count": 106, "name": "Evolutionary aesthetics", "weight": 0.0, "id": 2778498683, "level": 2}
+{"count": 259, "name": "Twelve-tone technique", "weight": 0.0, "id": 123645730, "level": 2}
+{"count": 121, "name": "Lookism", "weight": 0.0, "id": 2779715961, "level": 2}
+{"count": 270, "name": "Scenic design", "weight": 0.0, "id": 29438290, "level": 2}
+{"count": 4051, "name": "Everyday Aesthetics", "weight": 0.0, "id": 559951472, "level": 2}
+{"count": 225, "name": "Method acting", "weight": 0.0, "id": 147844941, "level": 2}
+{"count": 335, "name": "Thematic transformation", "weight": 0.0, "id": 199962425, "level": 2}
+{"count": 1504, "name": "Presentational and representational acting", "weight": 0.0, "id": 74039378, "level": 2}
+{"count": 175, "name": "Aleatoric music", "weight": 0.0, "id": 83160066, "level": 2}
+{"count": 72, "name": "Spatial music", "weight": 0.0, "id": 2777773040, "level": 2}
+{"count": 202, "name": "Aesthetic interpretation", "weight": 0.0, "id": 2776437934, "level": 2}
+{"count": 722, "name": "Subdominant", "weight": 0.0, "id": 2778886782, "level": 2}
+{"count": 96, "name": "Mediant", "weight": 0.0, "id": 90293357, "level": 2}
+{"count": 228, "name": "Bar (music)", "weight": 0.0, "id": 174631178, "level": 2}
+{"count": 12, "name": "Bauhinia petersiana", "weight": 0.0, "id": 2777417680, "level": 2}
+{"count": 97, "name": "Psychotechnique", "weight": 0.0, "id": 2776955628, "level": 2}
+{"count": 117, "name": "Cultural sensibility", "weight": 0.0, "id": 2777311941, "level": 2}
+{"count": 384, "name": "Photogenic", "weight": 0.0, "id": 2778175547, "level": 2}
+{"count": 19, "name": "Zoomusicology", "weight": 0.0, "id": 129360009, "level": 2}
+{"count": 70, "name": "Hexachord", "weight": 0.0, "id": 2780710577, "level": 2}
+{"count": 43, "name": "Applied aesthetics", "weight": 0.0, "id": 2781282552, "level": 2}
+{"count": 106, "name": "Acquired taste", "weight": 0.0, "id": 2778722701, "level": 2}
+{"count": 5, "name": "Intralaminar nuclei of thalamus", "weight": 0.0, "id": 2777518490, "level": 2}
+{"count": 150, "name": "Descant", "weight": 0.0, "id": 2780019902, "level": 2}
+{"count": 17, "name": "Philosophy of color", "weight": 0.0, "id": 2778906185, "level": 2}
+{"count": 317, "name": "Elements of music", "weight": 0.0, "id": 2780488706, "level": 2}
+{"count": 32, "name": "Art and emotion", "weight": 0.0, "id": 2777337681, "level": 2}
+{"count": 49, "name": "Process music", "weight": 0.0, "id": 2778930008, "level": 2}
+{"count": 14, "name": "Metric modulation", "weight": 0.0, "id": 2778737669, "level": 2}
+{"count": 12, "name": "Melodic motion", "weight": 0.0, "id": 2779280014, "level": 2}
+{"count": 5, "name": "Post-tonal music theory", "weight": 0.0, "id": 2779859641, "level": 2}
+{"count": 8, "name": "Altered chord", "weight": 0.0, "id": 2780011867, "level": 2}
+{"count": 8, "name": "Fortspinnung", "weight": 0.0, "id": 2780084478, "level": 2}
+{"count": 14, "name": "Aesthetic relativism", "weight": 0.0, "id": 2778802753, "level": 2}
+{"count": 2, "name": "Lateral dorsal nucleus of thalamus", "weight": 0.0, "id": 2780328043, "level": 2}
+{"count": 220, "name": "Structures", "weight": 0.0, "id": 76728937, "level": 2}
+{"count": 4, "name": "Parsons code", "weight": 0.0, "id": 2779737589, "level": 2}
+{"count": 11, "name": "Sexual suggestiveness", "weight": 0.0, "id": 2778866101, "level": 2}
+{"count": 17, "name": "Beauty mark", "weight": 0.0, "id": 2777404261, "level": 2}
+{"count": 5, "name": "Roman numeral analysis", "weight": 0.0, "id": 2781166333, "level": 2}
+{"count": 63, "name": "Marcato", "weight": 0.0, "id": 2781444413, "level": 2}
+{"count": 15, "name": "Melody type", "weight": 0.0, "id": 2779781055, "level": 2}
+{"count": 12, "name": "Closely related key", "weight": 0.0, "id": 117593281, "level": 2}
+{"count": 5, "name": "Emancipation of the dissonance", "weight": 0.0, "id": 2780929415, "level": 2}
+{"count": 10, "name": "Instrumental idiom", "weight": 0.0, "id": 2777199698, "level": 2}
+{"count": 2, "name": "Serrated tortoise", "weight": 0.0, "id": 2777512701, "level": 2}
+{"count": 3, "name": "Melodic fission", "weight": 0.0, "id": 2778471013, "level": 2}
+{"count": 1, "name": "Musikalisches W\u00fcrfelspiel", "weight": 0.0, "id": 2780857698, "level": 2}
+{"count": 10, "name": "Thigh gap", "weight": 0.0, "id": 32577734, "level": 2}
+{"count": 17, "name": "Philosophy of motion", "weight": 0.0, "id": 2779575534, "level": 2}
+{"count": 131, "name": "Pensato", "weight": 0.0, "id": 2778843977, "level": 2}
+{"count": 4, "name": "Derived row", "weight": 0.0, "id": 2780221220, "level": 2}
+{"count": 2, "name": "Pallidothalamic tracts", "weight": 0.0, "id": 2780928465, "level": 2}
+{"count": 1, "name": "Sexual desire and intimate relationships", "weight": 0.0, "id": 2779656538, "level": 2}
+{"count": 1, "name": "Picardy third", "weight": 0.0, "id": 153610358, "level": 2}
+{"count": 3, "name": "Time unit box system", "weight": 0.0, "id": 2781225605, "level": 2}
+{"count": 2, "name": "Dominant", "weight": 0.0, "id": 41004117, "level": 2}
+{"count": 4, "name": "Sequence (music)", "weight": 0.0, "id": 102704950, "level": 2}
+{"count": 5, "name": "Hauptstimme", "weight": 0.0, "id": 2781213977, "level": 2}
+{"count": 2, "name": "Lateral posterior nucleus of thalamus", "weight": 0.0, "id": 2775923790, "level": 2}
+{"count": 1, "name": "Hairy stone crab", "weight": 0.0, "id": 2778236433, "level": 2}
+{"count": 1, "name": "English cadence", "weight": 0.0, "id": 2780656849, "level": 2}
+{"count": 3, "name": "Proteans", "weight": 0.0, "id": 29219342, "level": 2}
+{"count": 9, "name": "Parallel harmony", "weight": 0.0, "id": 2776816198, "level": 2}
+{"count": 3, "name": "Bridge (music)", "weight": 0.0, "id": 140890884, "level": 2}
+{"count": 12, "name": "Fragmentation (music)", "weight": 0.0, "id": 197714242, "level": 2}
+{"count": 3, "name": "Lamina affixa", "weight": 0.0, "id": 2776888105, "level": 2}
+{"count": 2, "name": "Incomplete repetition", "weight": 0.0, "id": 2776379283, "level": 2}
+{"count": 1, "name": "CHSTV", "weight": 0.0, "id": 31846948, "level": 2}
+{"count": 8, "name": "Secondary chords", "weight": 0.0, "id": 2779263289, "level": 2}

@@ -1,0 +1,9 @@
+{"count": 5586, "name": "Evolution strategy", "weight": 10.0, "id": 207002847, "level": 3}
+{"count": 4144, "name": "Memetic algorithm", "weight": 7.0, "id": 35129592, "level": 3}
+{"count": 2161, "name": "Evolutionary robotics", "weight": 3.0, "id": 199505168, "level": 3}
+{"count": 99, "name": "Mating pool", "weight": 0.0, "id": 2776797630, "level": 3}
+{"count": 572, "name": "Biogeography-based optimization", "weight": 1.0, "id": 90527838, "level": 3}
+{"count": 340, "name": "Artificial creation", "weight": 0.0, "id": 6910244, "level": 3}
+{"count": 21, "name": "Evolutionary multimodal optimization", "weight": 0.0, "id": 2779841055, "level": 3}
+{"count": 41, "name": "Paradiseo", "weight": 0.0, "id": 2777593402, "level": 3}
+{"count": 23, "name": "Walking fish", "weight": 0.0, "id": 2776848600, "level": 3}

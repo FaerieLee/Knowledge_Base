@@ -1,0 +1,6 @@
+{"count": 229, "name": "Mooney\u2013Rivlin solid", "weight": 5.0, "id": 190195725, "level": 4}
+{"count": 439, "name": "Hypoelastic material", "weight": 10.0, "id": 18635931, "level": 4}
+{"count": 375, "name": "Yeoh", "weight": 8.0, "id": 4737716, "level": 4}
+{"count": 209, "name": "Neo-Hookean solid", "weight": 4.0, "id": 154559325, "level": 4}
+{"count": 31, "name": "Arruda\u2013Boyce model", "weight": 0.0, "id": 1703517, "level": 4}
+{"count": 252, "name": "Polynomial (hyperelastic model)", "weight": 5.0, "id": 58116459, "level": 4}

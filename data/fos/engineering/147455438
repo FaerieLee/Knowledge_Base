@@ -1,0 +1,22 @@
+{"count": 6984, "name": "Hydraulic retention time", "weight": 10.0, "id": 84250820, "level": 3}
+{"count": 4045, "name": "Septic tank", "weight": 5.0, "id": 2778680458, "level": 3}
+{"count": 1826, "name": "Trickling filter", "weight": 2.0, "id": 179113317, "level": 3}
+{"count": 1192, "name": "Stabilization pond", "weight": 1.0, "id": 2779283343, "level": 3}
+{"count": 2470, "name": "Sand filter", "weight": 3.0, "id": 2778581769, "level": 3}
+{"count": 4684, "name": "Outfall", "weight": 6.0, "id": 110049166, "level": 3}
+{"count": 2476, "name": "Pulp mill", "weight": 3.0, "id": 2777777706, "level": 3}
+{"count": 1862, "name": "Secondary treatment", "weight": 2.0, "id": 2776306026, "level": 3}
+{"count": 4636, "name": "Oil mill", "weight": 6.0, "id": 57416472, "level": 3}
+{"count": 234, "name": "Anaerobic lagoon", "weight": 0.0, "id": 2780547735, "level": 3}
+{"count": 878, "name": "Facultative lagoon", "weight": 1.0, "id": 139925424, "level": 3}
+{"count": 78, "name": "Urban Waste Water Treatment Directive", "weight": 0.0, "id": 2781080343, "level": 3}
+{"count": 110, "name": "Effluent limitation", "weight": 0.0, "id": 2777434392, "level": 3}
+{"count": 66, "name": "Internal circulation reactor", "weight": 0.0, "id": 2779638610, "level": 3}
+{"count": 179, "name": "Population equivalent", "weight": 0.0, "id": 2781128188, "level": 3}
+{"count": 165, "name": "Publicly owned treatment works", "weight": 0.0, "id": 2780323005, "level": 3}
+{"count": 232, "name": "Effluent guidelines", "weight": 0.0, "id": 150513403, "level": 3}
+{"count": 158, "name": "Treatment pond", "weight": 0.0, "id": 2778594970, "level": 3}
+{"count": 67, "name": "Mound system", "weight": 0.0, "id": 45680448, "level": 3}
+{"count": 21, "name": "Bosch reaction", "weight": 0.0, "id": 2776633413, "level": 3}
+{"count": 20, "name": "Microalgal bacterial flocs", "weight": 0.0, "id": 2778085626, "level": 3}
+{"count": 484, "name": "Effluent sewer", "weight": 0.0, "id": 28579673, "level": 3}

@@ -1,0 +1,16 @@
+{"count": 3819, "name": "Reduced instruction set computing", "weight": 10.0, "id": 126298526, "level": 4}
+{"count": 780, "name": "Binary translation", "weight": 2.0, "id": 2778971978, "level": 4}
+{"count": 407, "name": "Instruction set simulator", "weight": 1.0, "id": 2779368975, "level": 4}
+{"count": 2141, "name": "Application-specific instruction-set processor", "weight": 5.0, "id": 201736964, "level": 4}
+{"count": 305, "name": "Transport triggered architecture", "weight": 0.0, "id": 179097355, "level": 4}
+{"count": 265, "name": "Instruction selection", "weight": 0.0, "id": 2779941668, "level": 4}
+{"count": 220, "name": "Explicitly parallel instruction computing", "weight": 0.0, "id": 15190980, "level": 4}
+{"count": 2243, "name": "Addressing mode", "weight": 5.0, "id": 16901944, "level": 4}
+{"count": 21, "name": "Visual Instruction Set", "weight": 0.0, "id": 91698911, "level": 4}
+{"count": 91, "name": "RISC-V", "weight": 0.0, "id": 2777230600, "level": 4}
+{"count": 28, "name": "Superword Level Parallelism", "weight": 0.0, "id": 2779189532, "level": 4}
+{"count": 27, "name": "MIL-STD-1750A", "weight": 0.0, "id": 2780746714, "level": 4}
+{"count": 1945, "name": "Minimal instruction set computer", "weight": 5.0, "id": 9788664, "level": 4}
+{"count": 29, "name": "Coremark", "weight": 0.0, "id": 84873997, "level": 4}
+{"count": 13, "name": "Code Morphing Software", "weight": 0.0, "id": 2776607726, "level": 4}
+{"count": 59, "name": "Millicode", "weight": 0.0, "id": 2776290441, "level": 4}

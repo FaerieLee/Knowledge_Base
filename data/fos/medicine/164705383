@@ -1,0 +1,200 @@
+{"count": 328136, "name": "Stroke", "weight": 10.0, "id": 518460624, "level": 2}
+{"count": 63172, "name": "Circulatory system", "weight": 1.0, "id": 72859922, "level": 2}
+{"count": 126675, "name": "Hemodynamics", "weight": 3.0, "id": 178853913, "level": 2}
+{"count": 57058, "name": "Blood vessel", "weight": 1.0, "id": 2777663904, "level": 2}
+{"count": 208560, "name": "Ischemia", "weight": 6.0, "id": 541997718, "level": 2}
+{"count": 96519, "name": "Blood flow", "weight": 2.0, "id": 158846371, "level": 2}
+{"count": 71553, "name": "Endothelium", "weight": 2.0, "id": 2776992346, "level": 2}
+{"count": 114944, "name": "Thrombosis", "weight": 3.0, "id": 2780868729, "level": 2}
+{"count": 25839, "name": "Electrodiagnosis", "weight": 0.0, "id": 523008124, "level": 2}
+{"count": 36640, "name": "Electrocardiography", "weight": 1.0, "id": 2780040984, "level": 2}
+{"count": 67229, "name": "Aorta", "weight": 2.0, "id": 2779980429, "level": 2}
+{"count": 94539, "name": "Atrial fibrillation", "weight": 2.0, "id": 2779161974, "level": 2}
+{"count": 210851, "name": "Artery", "weight": 6.0, "id": 2776820930, "level": 2}
+{"count": 54774, "name": "Vasodilation", "weight": 1.0, "id": 120770815, "level": 2}
+{"count": 40232, "name": "Anticoagulant", "weight": 1.0, "id": 2778205648, "level": 2}
+{"count": 74008, "name": "Perfusion", "weight": 2.0, "id": 146957229, "level": 2}
+{"count": 61041, "name": "Heparin", "weight": 1.0, "id": 2777557582, "level": 2}
+{"count": 122658, "name": "Angiography", "weight": 3.0, "id": 2780643987, "level": 2}
+{"count": 61620, "name": "Ablation", "weight": 1.0, "id": 2778902805, "level": 2}
+{"count": 84000, "name": "Aneurysm", "weight": 2.0, "id": 2776098176, "level": 2}
+{"count": 129643, "name": "Stenosis", "weight": 3.0, "id": 2780007028, "level": 2}
+{"count": 40712, "name": "Cerebral blood flow", "weight": 1.0, "id": 157767197, "level": 2}
+{"count": 43302, "name": "Pulmonary embolism", "weight": 1.0, "id": 2776265017, "level": 2}
+{"count": 28465, "name": "Microcirculation", "weight": 0.0, "id": 12722491, "level": 2}
+{"count": 100490, "name": "Stent", "weight": 3.0, "id": 2778583881, "level": 2}
+{"count": 49688, "name": "Pulmonary artery", "weight": 1.0, "id": 2780940725, "level": 2}
+{"count": 33974, "name": "Cardiopulmonary bypass", "weight": 1.0, "id": 2778881276, "level": 2}
+{"count": 46751, "name": "Cardiac surgery", "weight": 1.0, "id": 2778789114, "level": 2}
+{"count": 12355, "name": "CAD", "weight": 0.0, "id": 194789388, "level": 2}
+{"count": 53999, "name": "Angioplasty", "weight": 1.0, "id": 2780326628, "level": 2}
+{"count": 110154, "name": "Catheter", "weight": 3.0, "id": 2781267111, "level": 2}
+{"count": 75105, "name": "Vein", "weight": 2.0, "id": 2777202286, "level": 2}
+{"count": 38136, "name": "Aortic valve", "weight": 1.0, "id": 2780714102, "level": 2}
+{"count": 38798, "name": "Calcification", "weight": 1.0, "id": 2780309369, "level": 2}
+{"count": 34978, "name": "Mitral valve", "weight": 1.0, "id": 2777543888, "level": 2}
+{"count": 27932, "name": "Warfarin", "weight": 0.0, "id": 2776301958, "level": 2}
+{"count": 23828, "name": "Ventricular fibrillation", "weight": 0.0, "id": 2781005686, "level": 2}
+{"count": 46319, "name": "Contractility", "weight": 1.0, "id": 39133596, "level": 2}
+{"count": 28538, "name": "Endocarditis", "weight": 0.0, "id": 2775872228, "level": 2}
+{"count": 24187, "name": "Embolism", "weight": 0.0, "id": 2777185221, "level": 2}
+{"count": 66523, "name": "Occlusion", "weight": 2.0, "id": 2776268601, "level": 2}
+{"count": 20500, "name": "QT interval", "weight": 0.0, "id": 118441451, "level": 2}
+{"count": 24627, "name": "Blood volume", "weight": 0.0, "id": 37557685, "level": 2}
+{"count": 42609, "name": "Chest pain", "weight": 1.0, "id": 2778704086, "level": 2}
+{"count": 28484, "name": "Ventricular tachycardia", "weight": 0.0, "id": 2776331378, "level": 2}
+{"count": 11694, "name": "Sirolimus", "weight": 0.0, "id": 2777921159, "level": 2}
+{"count": 3524, "name": "Atrium (architecture)", "weight": 0.0, "id": 114021368, "level": 2}
+{"count": 17066, "name": "Verapamil", "weight": 0.0, "id": 2777022698, "level": 2}
+{"count": 15722, "name": "Heart valve", "weight": 0.0, "id": 2776229121, "level": 2}
+{"count": 15517, "name": "Cardiac muscle", "weight": 0.0, "id": 2778996579, "level": 2}
+{"count": 21636, "name": "Cardiothoracic surgery", "weight": 0.0, "id": 160022790, "level": 2}
+{"count": 18950, "name": "Cardiac catheterization", "weight": 0.0, "id": 2777385415, "level": 2}
+{"count": 29780, "name": "Tachycardia", "weight": 0.0, "id": 2780283014, "level": 2}
+{"count": 11340, "name": "Implantable cardioverter-defibrillator", "weight": 0.0, "id": 2777093960, "level": 2}
+{"count": 14424, "name": "Cerebral arteries", "weight": 0.0, "id": 171614378, "level": 2}
+{"count": 14975, "name": "Pulsatile flow", "weight": 0.0, "id": 79191276, "level": 2}
+{"count": 40333, "name": "Thrombus", "weight": 1.0, "id": 2781362458, "level": 2}
+{"count": 9017, "name": "Calcium channel blocker", "weight": 0.0, "id": 2780356492, "level": 2}
+{"count": 11747, "name": "Defibrillation", "weight": 0.0, "id": 2777795826, "level": 2}
+{"count": 17354, "name": "Femoral artery", "weight": 0.0, "id": 2779723990, "level": 2}
+{"count": 21446, "name": "Conventional PCI", "weight": 0.0, "id": 45393284, "level": 2}
+{"count": 6485, "name": "Angiology", "weight": 0.0, "id": 555175668, "level": 2}
+{"count": 11993, "name": "Right atrium", "weight": 0.0, "id": 2777001951, "level": 2}
+{"count": 5967, "name": "Body surface area", "weight": 0.0, "id": 2777501473, "level": 2}
+{"count": 16491, "name": "Aortic arch", "weight": 0.0, "id": 2781285907, "level": 2}
+{"count": 13113, "name": "Transposition (music)", "weight": 0.0, "id": 48204334, "level": 2}
+{"count": 11698, "name": "Fibrillation", "weight": 0.0, "id": 2777356233, "level": 2}
+{"count": 16980, "name": "Aortic dissection", "weight": 0.0, "id": 2779993142, "level": 2}
+{"count": 8817, "name": "Plethysmograph", "weight": 0.0, "id": 73362275, "level": 2}
+{"count": 12711, "name": "Vascular surgery", "weight": 0.0, "id": 2777010666, "level": 2}
+{"count": 11577, "name": "Pericardium", "weight": 0.0, "id": 2778875491, "level": 2}
+{"count": 11446, "name": "Extracorporeal membrane oxygenation", "weight": 0.0, "id": 2776858399, "level": 2}
+{"count": 10146, "name": "Dobutamine", "weight": 0.0, "id": 2781185063, "level": 2}
+{"count": 20917, "name": "Thoracotomy", "weight": 0.0, "id": 2778847313, "level": 2}
+{"count": 11586, "name": "Tricuspid valve", "weight": 0.0, "id": 2779946567, "level": 2}
+{"count": 5493, "name": "Papillary muscle", "weight": 0.0, "id": 2777274916, "level": 2}
+{"count": 6181, "name": "Marfan syndrome", "weight": 0.0, "id": 2780561598, "level": 2}
+{"count": 7835, "name": "Dipyridamole", "weight": 0.0, "id": 2776890861, "level": 2}
+{"count": 4117, "name": "Refractory period", "weight": 0.0, "id": 70616116, "level": 2}
+{"count": 11317, "name": "Tetralogy of Fallot", "weight": 0.0, "id": 2778646171, "level": 2}
+{"count": 8622, "name": "Diltiazem", "weight": 0.0, "id": 2776741139, "level": 2}
+{"count": 6536, "name": "Electrical conduction system of the heart", "weight": 0.0, "id": 104397207, "level": 2}
+{"count": 3371, "name": "Bundle branch block", "weight": 0.0, "id": 2777233412, "level": 2}
+{"count": 5248, "name": "Interventional cardiology", "weight": 0.0, "id": 2781274984, "level": 2}
+{"count": 4150, "name": "Angiocardiography", "weight": 0.0, "id": 2779128569, "level": 2}
+{"count": 10307, "name": "Valve replacement", "weight": 0.0, "id": 2780026749, "level": 2}
+{"count": 11482, "name": "Coronary sinus", "weight": 0.0, "id": 2778259205, "level": 2}
+{"count": 9904, "name": "Pericardial effusion", "weight": 0.0, "id": 2781175549, "level": 2}
+{"count": 13827, "name": "Ductus arteriosus", "weight": 0.0, "id": 2781236024, "level": 2}
+{"count": 5325, "name": "Endocardium", "weight": 0.0, "id": 85378888, "level": 2}
+{"count": 5884, "name": "Cardiac imaging", "weight": 0.0, "id": 2776127602, "level": 2}
+{"count": 10379, "name": "Pericarditis", "weight": 0.0, "id": 2781001862, "level": 2}
+{"count": 29064, "name": "Balloon", "weight": 0.0, "id": 139059822, "level": 2}
+{"count": 6500, "name": "Quinidine", "weight": 0.0, "id": 2780339425, "level": 2}
+{"count": 10607, "name": "Cardiotoxicity", "weight": 0.0, "id": 2778233292, "level": 2}
+{"count": 5179, "name": "Brugada syndrome", "weight": 0.0, "id": 2777382798, "level": 2}
+{"count": 6964, "name": "Atrioventricular block", "weight": 0.0, "id": 2778557577, "level": 2}
+{"count": 2126, "name": "Heart development", "weight": 0.0, "id": 62425271, "level": 2}
+{"count": 7624, "name": "Cardiac tamponade", "weight": 0.0, "id": 2778607678, "level": 2}
+{"count": 24294, "name": "QRS complex", "weight": 0.0, "id": 111773187, "level": 2}
+{"count": 6933, "name": "Internal jugular vein", "weight": 0.0, "id": 2775856269, "level": 2}
+{"count": 6571, "name": "Pulmonary valve", "weight": 0.0, "id": 2779895586, "level": 2}
+{"count": 3705, "name": "Artificial heart", "weight": 0.0, "id": 2776342676, "level": 2}
+{"count": 6180, "name": "Claudication", "weight": 0.0, "id": 2778963770, "level": 2}
+{"count": 8485, "name": "Everolimus", "weight": 0.0, "id": 2779699572, "level": 2}
+{"count": 3693, "name": "Atrioventricular node", "weight": 0.0, "id": 2776024998, "level": 2}
+{"count": 11804, "name": "Repolarization", "weight": 0.0, "id": 146403970, "level": 2}
+{"count": 5767, "name": "Myxoma", "weight": 0.0, "id": 2777542379, "level": 2}
+{"count": 26121, "name": "Arterial blood", "weight": 0.0, "id": 2779537118, "level": 2}
+{"count": 4833, "name": "Papaverine", "weight": 0.0, "id": 2776952824, "level": 2}
+{"count": 5524, "name": "Jugular vein", "weight": 0.0, "id": 2777956836, "level": 2}
+{"count": 10922, "name": "Arteritis", "weight": 0.0, "id": 2781343717, "level": 2}
+{"count": 3012, "name": "Sotalol", "weight": 0.0, "id": 2776639339, "level": 2}
+{"count": 2932, "name": "Vulnerable plaque", "weight": 0.0, "id": 2778710248, "level": 2}
+{"count": 3532, "name": "Budd\u2013Chiari syndrome", "weight": 0.0, "id": 2776208725, "level": 2}
+{"count": 5215, "name": "Popliteal artery", "weight": 0.0, "id": 2777303625, "level": 2}
+{"count": 3255, "name": "Isosorbide dinitrate", "weight": 0.0, "id": 2778949068, "level": 2}
+{"count": 9511, "name": "Subclavian artery", "weight": 0.0, "id": 2781072225, "level": 2}
+{"count": 11299, "name": "Cardiac cycle", "weight": 0.0, "id": 99398487, "level": 2}
+{"count": 2602, "name": "Flecainide", "weight": 0.0, "id": 2779837460, "level": 2}
+{"count": 4457, "name": "Constriction", "weight": 0.0, "id": 174940676, "level": 2}
+{"count": 3835, "name": "Situs inversus", "weight": 0.0, "id": 2779104077, "level": 2}
+{"count": 2260, "name": "Optical mapping", "weight": 0.0, "id": 28289500, "level": 2}
+{"count": 2911, "name": "Central retinal vein occlusion", "weight": 0.0, "id": 2778844676, "level": 2}
+{"count": 5818, "name": "Auscultation", "weight": 0.0, "id": 2777324038, "level": 2}
+{"count": 9141, "name": "Cerebral circulation", "weight": 0.0, "id": 119671327, "level": 2}
+{"count": 815, "name": "Artificial cardiac pacemaker", "weight": 0.0, "id": 2778564042, "level": 2}
+{"count": 2813, "name": "Thoracic outlet syndrome", "weight": 0.0, "id": 2780548207, "level": 2}
+{"count": 2492, "name": "Cardiovascular physiology", "weight": 0.0, "id": 183683566, "level": 2}
+{"count": 13512, "name": "Preload", "weight": 0.0, "id": 48277249, "level": 2}
+{"count": 2996, "name": "Pectus excavatum", "weight": 0.0, "id": 2776193999, "level": 2}
+{"count": 1086, "name": "Sodium-calcium exchanger", "weight": 0.0, "id": 2777735026, "level": 2}
+{"count": 2466, "name": "Procainamide", "weight": 0.0, "id": 2777028498, "level": 2}
+{"count": 3150, "name": "Ophthalmic artery", "weight": 0.0, "id": 2780662894, "level": 2}
+{"count": 2439, "name": "Nicorandil", "weight": 0.0, "id": 2778902376, "level": 2}
+{"count": 7321, "name": "Tamponade", "weight": 0.0, "id": 2777573719, "level": 2}
+{"count": 2629, "name": "Cardiac electrophysiology", "weight": 0.0, "id": 61381695, "level": 2}
+{"count": 2396, "name": "Superior vena cava syndrome", "weight": 0.0, "id": 2777953354, "level": 2}
+{"count": 1841, "name": "Mexiletine", "weight": 0.0, "id": 2777561782, "level": 2}
+{"count": 73797, "name": "Ventricle", "weight": 2.0, "id": 2778921608, "level": 2}
+{"count": 2032, "name": "Purkinje fibers", "weight": 0.0, "id": 2777463368, "level": 2}
+{"count": 10615, "name": "Bypass surgery", "weight": 0.0, "id": 2779433084, "level": 2}
+{"count": 2748, "name": "Sudden cardiac arrest", "weight": 0.0, "id": 2778550298, "level": 2}
+{"count": 3873, "name": "Ectasia", "weight": 0.0, "id": 7843141, "level": 2}
+{"count": 1354, "name": "Magnetocardiography", "weight": 0.0, "id": 2778475581, "level": 2}
+{"count": 1754, "name": "Slow Flow", "weight": 0.0, "id": 2780121726, "level": 2}
+{"count": 2426, "name": "Aortitis", "weight": 0.0, "id": 2777818683, "level": 2}
+{"count": 4070, "name": "Asystole", "weight": 0.0, "id": 2776818218, "level": 2}
+{"count": 5295, "name": "Venous return curve", "weight": 0.0, "id": 47323905, "level": 2}
+{"count": 18930, "name": "Inotrope", "weight": 0.0, "id": 155710745, "level": 2}
+{"count": 2530, "name": "Axillary artery", "weight": 0.0, "id": 2779684181, "level": 2}
+{"count": 13795, "name": "Antithrombotic", "weight": 0.0, "id": 2777015399, "level": 2}
+{"count": 1449, "name": "Angioscopy", "weight": 0.0, "id": 2780768684, "level": 2}
+{"count": 3874, "name": "Constrictive pericarditis", "weight": 0.0, "id": 2778096457, "level": 2}
+{"count": 377, "name": "Electron beam tomography", "weight": 0.0, "id": 2776303477, "level": 2}
+{"count": 1014, "name": "Channelopathy", "weight": 0.0, "id": 2777989426, "level": 2}
+{"count": 3346, "name": "Heart sounds", "weight": 0.0, "id": 2779435589, "level": 2}
+{"count": 1791, "name": "Vasomotion", "weight": 0.0, "id": 2777583614, "level": 2}
+{"count": 3641, "name": "Vascular occlusion", "weight": 0.0, "id": 2777858674, "level": 2}
+{"count": 25235, "name": "Extracorporeal", "weight": 0.0, "id": 2779915274, "level": 2}
+{"count": 1326, "name": "Azygos vein", "weight": 0.0, "id": 2776250893, "level": 2}
+{"count": 2781, "name": "Sinus tachycardia", "weight": 0.0, "id": 2780144208, "level": 2}
+{"count": 2051, "name": "Dextrocardia", "weight": 0.0, "id": 2778176471, "level": 2}
+{"count": 1482, "name": "Vascular anomaly", "weight": 0.0, "id": 2775958455, "level": 2}
+{"count": 2480, "name": "Sinus bradycardia", "weight": 0.0, "id": 2781235965, "level": 2}
+{"count": 2258, "name": "Afterdepolarization", "weight": 0.0, "id": 155730078, "level": 2}
+{"count": 878, "name": "Bepridil", "weight": 0.0, "id": 2778937662, "level": 2}
+{"count": 1141, "name": "Artificial lung", "weight": 0.0, "id": 36843480, "level": 2}
+{"count": 325, "name": "Grepafloxacin", "weight": 0.0, "id": 2778918016, "level": 2}
+{"count": 1146, "name": "Bundle of His", "weight": 0.0, "id": 2779731873, "level": 2}
+{"count": 805, "name": "Venae cavae", "weight": 0.0, "id": 2778715992, "level": 2}
+{"count": 3673, "name": "Cardiac pacemaker", "weight": 0.0, "id": 2778642235, "level": 2}
+{"count": 10563, "name": "Appendage", "weight": 0.0, "id": 41451933, "level": 2}
+{"count": 406, "name": "Holt\u2013Oram syndrome", "weight": 0.0, "id": 2778830980, "level": 2}
+{"count": 1091, "name": "Myogenic contraction", "weight": 0.0, "id": 58336856, "level": 2}
+{"count": 5353, "name": "Palpitations", "weight": 0.0, "id": 2776403943, "level": 2}
+{"count": 1068, "name": "Ajmaline", "weight": 0.0, "id": 2779801569, "level": 2}
+{"count": 5161, "name": "Coarctation of the aorta", "weight": 0.0, "id": 2776467465, "level": 2}
+{"count": 1392, "name": "Heart murmur", "weight": 0.0, "id": 2780379053, "level": 2}
+{"count": 1437, "name": "Endovascular surgery", "weight": 0.0, "id": 2777160999, "level": 2}
+{"count": 764, "name": "Collateralization", "weight": 0.0, "id": 2781223538, "level": 2}
+{"count": 601, "name": "Net reclassification improvement", "weight": 0.0, "id": 2776808069, "level": 2}
+{"count": 933, "name": "Klippel-Trenaunay syndrome", "weight": 0.0, "id": 2777252552, "level": 2}
+{"count": 375, "name": "Myogenic tone", "weight": 0.0, "id": 2776374625, "level": 2}
+{"count": 721, "name": "Ballistocardiography", "weight": 0.0, "id": 2779611634, "level": 2}
+{"count": 1250, "name": "Cor triatriatum", "weight": 0.0, "id": 2780046213, "level": 2}
+{"count": 1983, "name": "Interatrial septum", "weight": 0.0, "id": 2780607668, "level": 2}
+{"count": 1207, "name": "Vascular remodelling in the embryo", "weight": 0.0, "id": 99322962, "level": 2}
+{"count": 1619, "name": "Infundibulum", "weight": 0.0, "id": 2780300509, "level": 2}
+{"count": 1527, "name": "Embryonic heart", "weight": 0.0, "id": 2777837822, "level": 2}
+{"count": 4160, "name": "Blood pump", "weight": 0.0, "id": 2781055084, "level": 2}
+{"count": 680, "name": "Polysplenia", "weight": 0.0, "id": 2778083948, "level": 2}
+{"count": 632, "name": "Amyl nitrite", "weight": 0.0, "id": 2776963261, "level": 2}
+{"count": 566, "name": "Bidomain model", "weight": 0.0, "id": 2778674958, "level": 2}
+{"count": 6430, "name": "Shunting", "weight": 0.0, "id": 197328160, "level": 2}
+{"count": 933, "name": "Endocardial fibroelastosis", "weight": 0.0, "id": 2781278803, "level": 2}
+{"count": 4542, "name": "Median sternotomy", "weight": 0.0, "id": 2779526774, "level": 2}
+{"count": 1454, "name": "Phonocardiogram", "weight": 0.0, "id": 159693508, "level": 2}
+{"count": 317, "name": "Sinoatrial block", "weight": 0.0, "id": 2779343962, "level": 2}
+{"count": 324, "name": "Heart arrhythmia", "weight": 0.0, "id": 2778743506, "level": 2}

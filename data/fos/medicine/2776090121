@@ -1,0 +1,38 @@
+{"count": 34687, "name": "T-cell receptor", "weight": 6.0, "id": 19317047, "level": 3}
+{"count": 35165, "name": "Antigen-presenting cell", "weight": 6.0, "id": 67662055, "level": 3}
+{"count": 20178, "name": "Antigen presentation", "weight": 3.0, "id": 83464605, "level": 3}
+{"count": 13308, "name": "Adoptive cell transfer", "weight": 2.0, "id": 90375314, "level": 3}
+{"count": 12675, "name": "Jurkat cells", "weight": 2.0, "id": 179464577, "level": 3}
+{"count": 9550, "name": "Thymocyte", "weight": 1.0, "id": 2778954852, "level": 3}
+{"count": 5045, "name": "T helper cell", "weight": 0.0, "id": 2781136212, "level": 3}
+{"count": 22259, "name": "CD40", "weight": 4.0, "id": 39347974, "level": 3}
+{"count": 5121, "name": "Superantigen", "weight": 1.0, "id": 36333154, "level": 3}
+{"count": 17727, "name": "Natural killer T cell", "weight": 3.0, "id": 139563560, "level": 3}
+{"count": 50825, "name": "CD8", "weight": 10.0, "id": 167672396, "level": 3}
+{"count": 351, "name": "T-cell growth factor", "weight": 0.0, "id": 2779690499, "level": 3}
+{"count": 3675, "name": "CTLA-4", "weight": 0.0, "id": 21705690, "level": 3}
+{"count": 5275, "name": "ELISPOT", "weight": 1.0, "id": 2779053233, "level": 3}
+{"count": 11927, "name": "CD28", "weight": 2.0, "id": 148125776, "level": 3}
+{"count": 33696, "name": "IL-2 receptor", "weight": 6.0, "id": 79484868, "level": 3}
+{"count": 30029, "name": "Interleukin 21", "weight": 5.0, "id": 129374314, "level": 3}
+{"count": 890, "name": "Thymic involution", "weight": 0.0, "id": 2777314012, "level": 3}
+{"count": 837, "name": "Central tolerance", "weight": 0.0, "id": 2778830056, "level": 3}
+{"count": 856, "name": "CD137", "weight": 0.0, "id": 2780249625, "level": 3}
+{"count": 214, "name": "Carboxyfluorescein succinimidyl ester", "weight": 0.0, "id": 2777570947, "level": 3}
+{"count": 992, "name": "Naive T cell", "weight": 0.0, "id": 2775982045, "level": 3}
+{"count": 598, "name": "Cytokine release syndrome", "weight": 0.0, "id": 2780850621, "level": 3}
+{"count": 424, "name": "BTLA", "weight": 0.0, "id": 2780237676, "level": 3}
+{"count": 591, "name": "CD58", "weight": 0.0, "id": 2781208000, "level": 3}
+{"count": 387, "name": "LAG3", "weight": 0.0, "id": 2781387679, "level": 3}
+{"count": 234, "name": "T-cell receptor excision circles", "weight": 0.0, "id": 2776574207, "level": 3}
+{"count": 335, "name": "TIGIT", "weight": 0.0, "id": 2779118045, "level": 3}
+{"count": 337, "name": "TBX21", "weight": 0.0, "id": 2779151555, "level": 3}
+{"count": 169, "name": "Signaling lymphocytic activation molecule", "weight": 0.0, "id": 2778350374, "level": 3}
+{"count": 283, "name": "T cell deficiency", "weight": 0.0, "id": 2778421964, "level": 3}
+{"count": 277, "name": "Large granular lymphocytic leukemia", "weight": 0.0, "id": 2779079189, "level": 3}
+{"count": 400, "name": "CD8A", "weight": 0.0, "id": 2777766604, "level": 3}
+{"count": 145, "name": "NSG mouse", "weight": 0.0, "id": 2778226632, "level": 3}
+{"count": 86, "name": "Erythrocyte rosetting", "weight": 0.0, "id": 2779326982, "level": 3}
+{"count": 21, "name": "CD278", "weight": 0.0, "id": 2779060893, "level": 3}
+{"count": 52, "name": "Interleukin-7 receptor-\u03b1", "weight": 0.0, "id": 2781157170, "level": 3}
+{"count": 17, "name": "Varlilumab", "weight": 0.0, "id": 2777591794, "level": 3}

@@ -1,0 +1,32 @@
+{"count": 9830, "name": "Dirichlet problem", "weight": 4.0, "id": 2779560616, "level": 3}
+{"count": 10038, "name": "Periodic boundary conditions", "weight": 4.0, "id": 112675119, "level": 3}
+{"count": 9611, "name": "Helmholtz equation", "weight": 4.0, "id": 18591234, "level": 3}
+{"count": 13173, "name": "Neumann boundary condition", "weight": 6.0, "id": 163681178, "level": 3}
+{"count": 10658, "name": "Dirichlet boundary condition", "weight": 5.0, "id": 110167270, "level": 3}
+{"count": 3427, "name": "Perfectly matched layer", "weight": 1.0, "id": 16895185, "level": 3}
+{"count": 18585, "name": "Free boundary problem", "weight": 9.0, "id": 154416045, "level": 3}
+{"count": 4292, "name": "Sturm\u2013Liouville theory", "weight": 2.0, "id": 22892174, "level": 3}
+{"count": 5441, "name": "Shooting method", "weight": 2.0, "id": 4195266, "level": 3}
+{"count": 1844, "name": "Rayleigh\u2013Ritz method", "weight": 0.0, "id": 70940138, "level": 3}
+{"count": 4157, "name": "Biharmonic equation", "weight": 2.0, "id": 145784156, "level": 3}
+{"count": 2380, "name": "Ritz method", "weight": 1.0, "id": 21575042, "level": 3}
+{"count": 20104, "name": "Mixed boundary condition", "weight": 10.0, "id": 42045870, "level": 3}
+{"count": 5863, "name": "p-Laplacian", "weight": 2.0, "id": 203269682, "level": 3}
+{"count": 1261, "name": "Fixed-point index", "weight": 0.0, "id": 2780668686, "level": 3}
+{"count": 1837, "name": "Fictitious domain method", "weight": 0.0, "id": 119741493, "level": 3}
+{"count": 2670, "name": "Boundary problem", "weight": 1.0, "id": 148864181, "level": 3}
+{"count": 2545, "name": "Boundary (topology)", "weight": 1.0, "id": 62354387, "level": 3}
+{"count": 512, "name": "Trefftz method", "weight": 0.0, "id": 2777361521, "level": 3}
+{"count": 1263, "name": "Stress functions", "weight": 0.0, "id": 2776983688, "level": 3}
+{"count": 362, "name": "Signorini problem", "weight": 0.0, "id": 2781467578, "level": 3}
+{"count": 759, "name": "T-matrix method", "weight": 0.0, "id": 49402112, "level": 3}
+{"count": 16243, "name": "Boundary knot method", "weight": 8.0, "id": 52890695, "level": 3}
+{"count": 4308, "name": "Dirichlet's principle", "weight": 2.0, "id": 148158259, "level": 3}
+{"count": 430, "name": "Topological degree theory", "weight": 0.0, "id": 2780027144, "level": 3}
+{"count": 442, "name": "Outflow boundary", "weight": 0.0, "id": 180640732, "level": 3}
+{"count": 12493, "name": "Singular boundary method", "weight": 6.0, "id": 82047721, "level": 3}
+{"count": 83, "name": "Green's matrix", "weight": 0.0, "id": 2780990243, "level": 3}
+{"count": 192, "name": "Analytical regularization", "weight": 0.0, "id": 2780968663, "level": 3}
+{"count": 13, "name": "Poloidal\u2013toroidal decomposition", "weight": 0.0, "id": 2779616079, "level": 3}
+{"count": 16, "name": "Sinc numerical methods", "weight": 0.0, "id": 2779933992, "level": 3}
+{"count": 67, "name": "Minimum total potential energy principle", "weight": 0.0, "id": 2778800587, "level": 3}

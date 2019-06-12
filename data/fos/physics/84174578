@@ -1,0 +1,11 @@
+{"count": 16390, "name": "Rayleigh wave", "weight": 10.0, "id": 51473458, "level": 3}
+{"count": 4717, "name": "Capillary wave", "weight": 2.0, "id": 7982388, "level": 3}
+{"count": 3921, "name": "Stokes wave", "weight": 2.0, "id": 53630964, "level": 3}
+{"count": 4423, "name": "Ground wave propagation", "weight": 2.0, "id": 177071327, "level": 3}
+{"count": 6109, "name": "Wave shoaling", "weight": 3.0, "id": 103437262, "level": 3}
+{"count": 469, "name": "Faraday wave", "weight": 0.0, "id": 142296869, "level": 3}
+{"count": 198, "name": "Scholte wave", "weight": 0.0, "id": 2780773427, "level": 3}
+{"count": 151, "name": "Goubau line", "weight": 0.0, "id": 2777707694, "level": 3}
+{"count": 292, "name": "Dyakonov surface waves", "weight": 0.0, "id": 192691480, "level": 3}
+{"count": 38, "name": "Single-wire transmission line", "weight": 0.0, "id": 2781112978, "level": 3}
+{"count": 39, "name": "Ground constants", "weight": 0.0, "id": 2780280967, "level": 3}

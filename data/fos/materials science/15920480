@@ -1,0 +1,89 @@
+{"count": 36313, "name": "Radical polymerization", "weight": 5.0, "id": 111998727, "level": 4}
+{"count": 65567, "name": "Styrene", "weight": 10.0, "id": 2777566558, "level": 4}
+{"count": 13341, "name": "Ring-opening polymerization", "weight": 2.0, "id": 203897987, "level": 4}
+{"count": 42104, "name": "Acrylic acid", "weight": 6.0, "id": 2780503075, "level": 4}
+{"count": 20029, "name": "Emulsion polymerization", "weight": 3.0, "id": 199002037, "level": 4}
+{"count": 21788, "name": "Maleic anhydride", "weight": 3.0, "id": 2777666793, "level": 4}
+{"count": 18538, "name": "Acrylamide", "weight": 2.0, "id": 2779402116, "level": 4}
+{"count": 19219, "name": "Chain transfer", "weight": 2.0, "id": 121120078, "level": 4}
+{"count": 8648, "name": "Atom-transfer radical-polymerization", "weight": 1.0, "id": 150539798, "level": 4}
+{"count": 17252, "name": "Vinyl acetate", "weight": 2.0, "id": 2776093513, "level": 4}
+{"count": 32497, "name": "Methyl methacrylate", "weight": 4.0, "id": 2777935641, "level": 4}
+{"count": 11071, "name": "Anionic addition polymerization", "weight": 1.0, "id": 151286553, "level": 4}
+{"count": 5507, "name": "Poloxamer", "weight": 0.0, "id": 101335993, "level": 4}
+{"count": 47214, "name": "Methacrylate", "weight": 7.0, "id": 132050475, "level": 4}
+{"count": 16903, "name": "Thermoplastic elastomer", "weight": 2.0, "id": 92328351, "level": 4}
+{"count": 9967, "name": "Propylene oxide", "weight": 1.0, "id": 2777505466, "level": 4}
+{"count": 6262, "name": "Lower critical solution temperature", "weight": 0.0, "id": 188109995, "level": 4}
+{"count": 3729, "name": "Macromonomer", "weight": 0.0, "id": 136520611, "level": 4}
+{"count": 26011, "name": "Acrylonitrile", "weight": 3.0, "id": 2778372188, "level": 4}
+{"count": 6927, "name": "Methyl acrylate", "weight": 1.0, "id": 2778004933, "level": 4}
+{"count": 2275, "name": "Ziegler\u2013Natta catalyst", "weight": 0.0, "id": 2776233566, "level": 4}
+{"count": 2920, "name": "Dispersion polymerization", "weight": 0.0, "id": 2777492985, "level": 4}
+{"count": 16366, "name": "Methacrylic acid", "weight": 2.0, "id": 2775968528, "level": 4}
+{"count": 6000, "name": "Ethylene-vinyl acetate", "weight": 0.0, "id": 2780762185, "level": 4}
+{"count": 12312, "name": "Melt flow index", "weight": 1.0, "id": 164369957, "level": 4}
+{"count": 3483, "name": "Compatibilization", "weight": 0.0, "id": 2775951435, "level": 4}
+{"count": 7156, "name": "Ethylene propylene rubber", "weight": 1.0, "id": 166996190, "level": 4}
+{"count": 4189, "name": "Poly(N-isopropylacrylamide)", "weight": 0.0, "id": 2776892847, "level": 4}
+{"count": 3775, "name": "Acrylonitrile butadiene styrene", "weight": 0.0, "id": 2781431410, "level": 4}
+{"count": 3204, "name": "Itaconic acid", "weight": 0.0, "id": 2779990784, "level": 4}
+{"count": 55493, "name": "Acrylate", "weight": 8.0, "id": 2779989194, "level": 4}
+{"count": 7238, "name": "Norbornene", "weight": 1.0, "id": 2780547246, "level": 4}
+{"count": 10967, "name": "Polybutadiene", "weight": 1.0, "id": 2780901341, "level": 4}
+{"count": 5153, "name": "Glycidyl methacrylate", "weight": 0.0, "id": 2780801859, "level": 4}
+{"count": 5588, "name": "Vinyl ether", "weight": 0.0, "id": 2780493264, "level": 4}
+{"count": 10259, "name": "Lactide", "weight": 1.0, "id": 2776743539, "level": 4}
+{"count": 1504, "name": "Polymersome", "weight": 0.0, "id": 51115888, "level": 4}
+{"count": 2595, "name": "Lipid microdomain", "weight": 0.0, "id": 134088382, "level": 4}
+{"count": 5534, "name": "Vinyl ester", "weight": 0.0, "id": 2781104250, "level": 4}
+{"count": 1282, "name": "1-Hexene", "weight": 0.0, "id": 2776685382, "level": 4}
+{"count": 5123, "name": "Isobutylene", "weight": 0.0, "id": 2776906966, "level": 4}
+{"count": 8849, "name": "Caprolactone", "weight": 1.0, "id": 2781111393, "level": 4}
+{"count": 1340, "name": "Ceric ammonium nitrate", "weight": 0.0, "id": 2778213062, "level": 4}
+{"count": 8767, "name": "Vinyl polymer", "weight": 1.0, "id": 104818351, "level": 4}
+{"count": 2163, "name": "Potassium persulfate", "weight": 0.0, "id": 2781127917, "level": 4}
+{"count": 6991, "name": "Tetrafluoroethylene", "weight": 1.0, "id": 2776906716, "level": 4}
+{"count": 1311, "name": "Cyclohexene oxide", "weight": 0.0, "id": 2779879930, "level": 4}
+{"count": 754, "name": "1-Octene", "weight": 0.0, "id": 2779964599, "level": 4}
+{"count": 3211, "name": "Methacrylamide", "weight": 0.0, "id": 2775961978, "level": 4}
+{"count": 1908, "name": "Octene", "weight": 0.0, "id": 2781230492, "level": 4}
+{"count": 1702, "name": "Trioxane", "weight": 0.0, "id": 2778824277, "level": 4}
+{"count": 3184, "name": "Graft polymer", "weight": 0.0, "id": 2781462351, "level": 4}
+{"count": 841, "name": "N-Vinylpyrrolidone", "weight": 0.0, "id": 2779045410, "level": 4}
+{"count": 1676, "name": "Polyketone", "weight": 0.0, "id": 2777663133, "level": 4}
+{"count": 18, "name": "Scheutjens\u2013Fleer theory", "weight": 0.0, "id": 2779855979, "level": 4}
+{"count": 3172, "name": "Tackifier", "weight": 0.0, "id": 2779532111, "level": 4}
+{"count": 791, "name": "Cyclic olefin copolymer", "weight": 0.0, "id": 2777552503, "level": 4}
+{"count": 278, "name": "Stress-whitening", "weight": 0.0, "id": 2776850278, "level": 4}
+{"count": 860, "name": "Gyroid", "weight": 0.0, "id": 207003234, "level": 4}
+{"count": 1415, "name": "Mooney viscosity", "weight": 0.0, "id": 2778335614, "level": 4}
+{"count": 1702, "name": "Azobisisobutyronitrile", "weight": 0.0, "id": 2779887276, "level": 4}
+{"count": 854, "name": "Polytetrahydrofuran", "weight": 0.0, "id": 2777120387, "level": 4}
+{"count": 10189, "name": "Comonomer", "weight": 1.0, "id": 2780672802, "level": 4}
+{"count": 3414, "name": "Radical initiator", "weight": 0.0, "id": 2780995637, "level": 4}
+{"count": 1073, "name": "Polyvinylidene chloride", "weight": 0.0, "id": 2778201294, "level": 4}
+{"count": 568, "name": "2-Vinylpyridine", "weight": 0.0, "id": 2781464419, "level": 4}
+{"count": 1047, "name": "Chlorotrifluoroethylene", "weight": 0.0, "id": 2777999917, "level": 4}
+{"count": 125, "name": "2-Acrylamido-2-methylpropane sulfonic acid", "weight": 0.0, "id": 2776299634, "level": 4}
+{"count": 1035, "name": "Acrylic rubber", "weight": 0.0, "id": 2778626679, "level": 4}
+{"count": 100, "name": "N,N-Methylenebisacrylamide", "weight": 0.0, "id": 2779042695, "level": 4}
+{"count": 335, "name": "Vinylphosphonic acid", "weight": 0.0, "id": 2780025763, "level": 4}
+{"count": 487, "name": "Plastomer", "weight": 0.0, "id": 87282906, "level": 4}
+{"count": 185, "name": "Triisobutylaluminium", "weight": 0.0, "id": 2781149376, "level": 4}
+{"count": 203, "name": "Polyether block amide", "weight": 0.0, "id": 2777535307, "level": 4}
+{"count": 486, "name": "Thermoplastic olefin", "weight": 0.0, "id": 2780538931, "level": 4}
+{"count": 3869, "name": "Alpha-olefin", "weight": 0.0, "id": 2777847747, "level": 4}
+{"count": 194, "name": "Laurolactam", "weight": 0.0, "id": 2776146319, "level": 4}
+{"count": 171, "name": "Chain walking", "weight": 0.0, "id": 2776892968, "level": 4}
+{"count": 98, "name": "Composition drift", "weight": 0.0, "id": 2776542697, "level": 4}
+{"count": 6170, "name": "Unsaturated monomer", "weight": 0.0, "id": 2776942110, "level": 4}
+{"count": 433, "name": "4-Methyl-1-pentene", "weight": 0.0, "id": 2780629472, "level": 4}
+{"count": 21, "name": "Expanding Monomers", "weight": 0.0, "id": 2779294184, "level": 4}
+{"count": 118, "name": "Isoprenol", "weight": 0.0, "id": 2779651006, "level": 4}
+{"count": 174, "name": "Vinylsulfonic acid", "weight": 0.0, "id": 2777799786, "level": 4}
+{"count": 139, "name": "Crew cut", "weight": 0.0, "id": 140604960, "level": 4}
+{"count": 51, "name": "Mayo\u2013Lewis equation", "weight": 0.0, "id": 125025685, "level": 4}
+{"count": 54, "name": "Ethylaluminium sesquichloride", "weight": 0.0, "id": 2776711584, "level": 4}
+{"count": 15, "name": "Transamidification", "weight": 0.0, "id": 2777826669, "level": 4}
+{"count": 16, "name": "Neutral good", "weight": 0.0, "id": 2776553336, "level": 4}

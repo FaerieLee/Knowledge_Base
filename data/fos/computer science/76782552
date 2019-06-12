@@ -1,0 +1,3 @@
+{"count": 204, "name": "Tracing just-in-time compilation", "weight": 10.0, "id": 50450317, "level": 4}
+{"count": 22, "name": "Ahead-of-time compilation", "weight": 1.0, "id": 2780468629, "level": 4}
+{"count": 33, "name": "JIT spraying", "weight": 1.0, "id": 131310197, "level": 4}

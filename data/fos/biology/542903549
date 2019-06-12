@@ -1,0 +1,76 @@
+{"count": 32143, "name": "Polyclonal antibodies", "weight": 10.0, "id": 956191, "level": 4}
+{"count": 4740, "name": "Epitope mapping", "weight": 1.0, "id": 2781241564, "level": 4}
+{"count": 7037, "name": "Antibody-dependent cell-mediated cytotoxicity", "weight": 2.0, "id": 40677261, "level": 4}
+{"count": 4036, "name": "Immunotoxin", "weight": 1.0, "id": 115085202, "level": 4}
+{"count": 2279, "name": "Complementarity determining region", "weight": 0.0, "id": 85630698, "level": 4}
+{"count": 16940, "name": "Monoclonal", "weight": 5.0, "id": 163864487, "level": 4}
+{"count": 4065, "name": "Idiotype", "weight": 1.0, "id": 74505204, "level": 4}
+{"count": 4639, "name": "Radioimmunotherapy", "weight": 1.0, "id": 2776146153, "level": 4}
+{"count": 613, "name": "Radioimmunodetection", "weight": 0.0, "id": 2779604592, "level": 4}
+{"count": 1318, "name": "Humanized antibody", "weight": 0.0, "id": 2777092746, "level": 4}
+{"count": 1178, "name": "Immunoconjugate", "weight": 0.0, "id": 2778556491, "level": 4}
+{"count": 246, "name": "Muromonab-CD3", "weight": 0.0, "id": 2777756902, "level": 4}
+{"count": 325, "name": "Abzyme", "weight": 0.0, "id": 2779912516, "level": 4}
+{"count": 1192, "name": "Monoclonal antibody therapy", "weight": 0.0, "id": 2777843201, "level": 4}
+{"count": 930, "name": "Mimotope", "weight": 0.0, "id": 9365378, "level": 4}
+{"count": 957, "name": "Immunoscintigraphy", "weight": 0.0, "id": 2777064799, "level": 4}
+{"count": 914, "name": "Conformational epitope", "weight": 0.0, "id": 2780632150, "level": 4}
+{"count": 854, "name": "Single-chain variable fragment", "weight": 0.0, "id": 2776967038, "level": 4}
+{"count": 794, "name": "CD52", "weight": 0.0, "id": 2778384904, "level": 4}
+{"count": 295, "name": "Epratuzumab", "weight": 0.0, "id": 2780192548, "level": 4}
+{"count": 6309, "name": "Primary and secondary antibodies", "weight": 1.0, "id": 21269302, "level": 4}
+{"count": 194, "name": "Plantibody", "weight": 0.0, "id": 126009470, "level": 4}
+{"count": 2929, "name": "Linear epitope", "weight": 0.0, "id": 78598654, "level": 4}
+{"count": 333, "name": "Melanoma-associated antigen", "weight": 0.0, "id": 2778012439, "level": 4}
+{"count": 481, "name": "Daratumumab", "weight": 0.0, "id": 2781119759, "level": 4}
+{"count": 456, "name": "Paratope", "weight": 0.0, "id": 9086966, "level": 4}
+{"count": 328, "name": "Elotuzumab", "weight": 0.0, "id": 2779171561, "level": 4}
+{"count": 161, "name": "Radioimmunoguided surgery", "weight": 0.0, "id": 2778752160, "level": 4}
+{"count": 181, "name": "Anti-CD3 monoclonal antibody", "weight": 0.0, "id": 2778065321, "level": 4}
+{"count": 1016, "name": "Hybridoma technology", "weight": 0.0, "id": 2778502174, "level": 4}
+{"count": 60, "name": "Human anti-mouse antibody", "weight": 0.0, "id": 2776220239, "level": 4}
+{"count": 64, "name": "Edrecolomab", "weight": 0.0, "id": 2776112062, "level": 4}
+{"count": 286, "name": "HAT medium", "weight": 0.0, "id": 2776644509, "level": 4}
+{"count": 79, "name": "Motavizumab", "weight": 0.0, "id": 2778488306, "level": 4}
+{"count": 220, "name": "Photoimmunotherapy", "weight": 0.0, "id": 2778583894, "level": 4}
+{"count": 97, "name": "Mapatumumab", "weight": 0.0, "id": 2780304258, "level": 4}
+{"count": 9, "name": "Nebacumab", "weight": 0.0, "id": 2779719984, "level": 4}
+{"count": 167, "name": "Siltuximab", "weight": 0.0, "id": 2780402048, "level": 4}
+{"count": 214, "name": "Mogamulizumab", "weight": 0.0, "id": 2780273495, "level": 4}
+{"count": 218, "name": "Bispecific monoclonal antibody", "weight": 0.0, "id": 2780132510, "level": 4}
+{"count": 74, "name": "Farletuzumab", "weight": 0.0, "id": 2776027821, "level": 4}
+{"count": 17, "name": "Keliximab", "weight": 0.0, "id": 2776240389, "level": 4}
+{"count": 39, "name": "Zanolimumab", "weight": 0.0, "id": 2776508695, "level": 4}
+{"count": 121, "name": "ZMapp", "weight": 0.0, "id": 2779435489, "level": 4}
+{"count": 28, "name": "Vitaxin", "weight": 0.0, "id": 2780083279, "level": 4}
+{"count": 71, "name": "Tralokinumab", "weight": 0.0, "id": 2775918702, "level": 4}
+{"count": 295, "name": "Anti-IL-6", "weight": 0.0, "id": 2779449192, "level": 4}
+{"count": 83, "name": "Dinutuximab", "weight": 0.0, "id": 2780302440, "level": 4}
+{"count": 316, "name": "Monomethyl auristatin E", "weight": 0.0, "id": 2780488712, "level": 4}
+{"count": 27, "name": "Dacetuzumab", "weight": 0.0, "id": 2775877468, "level": 4}
+{"count": 35, "name": "Epitope binning", "weight": 0.0, "id": 2777320470, "level": 4}
+{"count": 49, "name": "Ibalizumab", "weight": 0.0, "id": 2776735642, "level": 4}
+{"count": 47, "name": "Itolizumab", "weight": 0.0, "id": 2781373755, "level": 4}
+{"count": 24, "name": "Raxibacumab", "weight": 0.0, "id": 2777532908, "level": 4}
+{"count": 41, "name": "Stichocyte", "weight": 0.0, "id": 2780501295, "level": 4}
+{"count": 27, "name": "Abagovomab", "weight": 0.0, "id": 2781424112, "level": 4}
+{"count": 22, "name": "Siplizumab", "weight": 0.0, "id": 2775843899, "level": 4}
+{"count": 28, "name": "Tigatuzumab", "weight": 0.0, "id": 2779642350, "level": 4}
+{"count": 13, "name": "Lucatumumab", "weight": 0.0, "id": 2780106349, "level": 4}
+{"count": 42, "name": "PRO 140", "weight": 0.0, "id": 2780194810, "level": 4}
+{"count": 63, "name": "Surface probability", "weight": 0.0, "id": 2778839274, "level": 4}
+{"count": 20, "name": "Anti-idiotypic vaccine", "weight": 0.0, "id": 2777529942, "level": 4}
+{"count": 19, "name": "Amatuximab", "weight": 0.0, "id": 2779806455, "level": 4}
+{"count": 100, "name": "Fragment antigen-binding", "weight": 0.0, "id": 2780539662, "level": 4}
+{"count": 24, "name": "BIIB033", "weight": 0.0, "id": 2779232460, "level": 4}
+{"count": 97, "name": "Dilution cloning", "weight": 0.0, "id": 2776737921, "level": 4}
+{"count": 15, "name": "Cryptotope", "weight": 0.0, "id": 2776438310, "level": 4}
+{"count": 11, "name": "Rozrolimupab", "weight": 0.0, "id": 2775863605, "level": 4}
+{"count": 159, "name": "Peplomer", "weight": 0.0, "id": 14290400, "level": 4}
+{"count": 25, "name": "Ponezumab", "weight": 0.0, "id": 2776912393, "level": 4}
+{"count": 20, "name": "IMAB362", "weight": 0.0, "id": 2778865181, "level": 4}
+{"count": 21, "name": "Neoantigenic determinant", "weight": 0.0, "id": 2779601326, "level": 4}
+{"count": 53, "name": "Monomethyl auristatin F", "weight": 0.0, "id": 2780969175, "level": 4}
+{"count": 24, "name": "CR6261", "weight": 0.0, "id": 2776837404, "level": 4}
+{"count": 12, "name": "Rabbit hybridoma", "weight": 0.0, "id": 2780691746, "level": 4}
+{"count": 12, "name": "Allotope", "weight": 0.0, "id": 2781339606, "level": 4}

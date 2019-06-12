@@ -1,0 +1,6 @@
+{"count": 1405, "name": "Branch", "weight": 10.0, "id": 68020441, "level": 5}
+{"count": 460, "name": "Branch misprediction", "weight": 3.0, "id": 176001210, "level": 5}
+{"count": 947, "name": "Branch table", "weight": 6.0, "id": 135259906, "level": 5}
+{"count": 830, "name": "Delay slot", "weight": 5.0, "id": 159427101, "level": 5}
+{"count": 522, "name": "Branch predication", "weight": 3.0, "id": 196794805, "level": 5}
+{"count": 256, "name": "Branch trace", "weight": 1.0, "id": 180220868, "level": 5}

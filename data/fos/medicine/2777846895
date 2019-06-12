@@ -1,0 +1,19 @@
+{"count": 7583, "name": "Cholesteatoma", "weight": 10.0, "id": 2780725665, "level": 3}
+{"count": 4792, "name": "Eustachian tube", "weight": 6.0, "id": 2780487920, "level": 3}
+{"count": 2416, "name": "Tympanometry", "weight": 3.0, "id": 2780283655, "level": 3}
+{"count": 4546, "name": "Stapes", "weight": 5.0, "id": 2779365249, "level": 3}
+{"count": 2764, "name": "Conductive hearing loss", "weight": 3.0, "id": 2779260231, "level": 3}
+{"count": 927, "name": "Outer ear", "weight": 1.0, "id": 2781107614, "level": 3}
+{"count": 1519, "name": "Myringotomy", "weight": 2.0, "id": 2776408402, "level": 3}
+{"count": 511, "name": "Tympanosclerosis", "weight": 0.0, "id": 2777909021, "level": 3}
+{"count": 754, "name": "Tympanostomy tube", "weight": 0.0, "id": 2777315031, "level": 3}
+{"count": 2391, "name": "Ossicles", "weight": 3.0, "id": 2778514029, "level": 3}
+{"count": 2099, "name": "Eardrum", "weight": 2.0, "id": 2781404453, "level": 3}
+{"count": 1252, "name": "Tympanic cavity", "weight": 1.0, "id": 2779132386, "level": 3}
+{"count": 495, "name": "Facial canal", "weight": 0.0, "id": 2780630137, "level": 3}
+{"count": 220, "name": "Tensor tympani muscle", "weight": 0.0, "id": 2777113066, "level": 3}
+{"count": 501, "name": "Umbo", "weight": 0.0, "id": 2780049492, "level": 3}
+{"count": 46, "name": "Alternobaric vertigo", "weight": 0.0, "id": 2780636011, "level": 3}
+{"count": 71, "name": "Ectotympanic", "weight": 0.0, "id": 2777290768, "level": 3}
+{"count": 77, "name": "Tympanic plexus", "weight": 0.0, "id": 2779515220, "level": 3}
+{"count": 227, "name": "Mastoid cells", "weight": 0.0, "id": 2781440681, "level": 3}

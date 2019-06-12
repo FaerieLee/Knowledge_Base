@@ -1,0 +1,10 @@
+{"count": 1338, "name": "Linear multistep method", "weight": 3.0, "id": 65889100, "level": 5}
+{"count": 510, "name": "General linear methods", "weight": 1.0, "id": 139645642, "level": 5}
+{"count": 2786, "name": "Backward differentiation formula", "weight": 6.0, "id": 152522140, "level": 5}
+{"count": 4069, "name": "Numerical methods for ordinary differential equations", "weight": 10.0, "id": 1164432, "level": 5}
+{"count": 2433, "name": "Explicit and implicit methods", "weight": 5.0, "id": 149393637, "level": 5}
+{"count": 42, "name": "Exponential integrate-and-fire", "weight": 0.0, "id": 2777376882, "level": 5}
+{"count": 177, "name": "Dormand\u2013Prince method", "weight": 0.0, "id": 164991812, "level": 5}
+{"count": 49, "name": "Cash\u2013Karp method", "weight": 0.0, "id": 62395104, "level": 5}
+{"count": 188, "name": "Bulirsch\u2013Stoer algorithm", "weight": 0.0, "id": 109958158, "level": 5}
+{"count": 353, "name": "Bogacki\u2013Shampine method", "weight": 0.0, "id": 42099017, "level": 5}

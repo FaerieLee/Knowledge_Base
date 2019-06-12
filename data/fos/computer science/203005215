@@ -1,0 +1,13 @@
+{"count": 15478, "name": "BLEU", "weight": 10.0, "id": 622187, "level": 3}
+{"count": 1015, "name": "Cross-language information retrieval", "weight": 0.0, "id": 2778842860, "level": 3}
+{"count": 1192, "name": "Speech translation", "weight": 0.0, "id": 2780366754, "level": 3}
+{"count": 5313, "name": "Example-based machine translation", "weight": 3.0, "id": 24687705, "level": 3}
+{"count": 720, "name": "Interlingua", "weight": 0.0, "id": 2779560394, "level": 3}
+{"count": 3790, "name": "Computer-assisted translation", "weight": 2.0, "id": 110046852, "level": 3}
+{"count": 139, "name": "Language Grid", "weight": 0.0, "id": 2775846234, "level": 3}
+{"count": 128, "name": "Eurotra", "weight": 0.0, "id": 2777836306, "level": 3}
+{"count": 173, "name": "Pivot language", "weight": 0.0, "id": 2780278148, "level": 3}
+{"count": 99, "name": "Postediting", "weight": 0.0, "id": 2778482636, "level": 3}
+{"count": 24, "name": "IndoWordNet", "weight": 0.0, "id": 2777154642, "level": 3}
+{"count": 53, "name": "ALPAC", "weight": 0.0, "id": 29995175, "level": 3}
+{"count": 9, "name": "Hindi-to-Punjabi Machine Translation System", "weight": 0.0, "id": 2778708901, "level": 3}

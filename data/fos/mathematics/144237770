@@ -1,0 +1,95 @@
+{"count": 48446, "name": "Game theory", "weight": 9.0, "id": 177142836, "level": 2}
+{"count": 23385, "name": "Nash equilibrium", "weight": 4.0, "id": 46814582, "level": 2}
+{"count": 52193, "name": "Analytic hierarchy process", "weight": 10.0, "id": 87345402, "level": 2}
+{"count": 30286, "name": "Simulation modeling", "weight": 5.0, "id": 108215451, "level": 2}
+{"count": 10708, "name": "Bellman equation", "weight": 2.0, "id": 14646407, "level": 2}
+{"count": 16310, "name": "Complete information", "weight": 3.0, "id": 113336015, "level": 2}
+{"count": 27300, "name": "Decision analysis", "weight": 5.0, "id": 186116695, "level": 2}
+{"count": 7018, "name": "Mechanism design", "weight": 1.0, "id": 153517567, "level": 2}
+{"count": 13560, "name": "Signalling", "weight": 2.0, "id": 39743133, "level": 2}
+{"count": 6043, "name": "Perfect information", "weight": 1.0, "id": 123676819, "level": 2}
+{"count": 15493, "name": "Decision model", "weight": 2.0, "id": 59594135, "level": 2}
+{"count": 10444, "name": "Focal point", "weight": 2.0, "id": 2779433544, "level": 2}
+{"count": 17024, "name": "Business economics", "weight": 3.0, "id": 529859519, "level": 2}
+{"count": 6107, "name": "Social choice theory", "weight": 1.0, "id": 189352744, "level": 2}
+{"count": 11297, "name": "Repeated game", "weight": 2.0, "id": 202556891, "level": 2}
+{"count": 4532, "name": "Experimental economics", "weight": 0.0, "id": 18619997, "level": 2}
+{"count": 5941, "name": "Strategy", "weight": 1.0, "id": 88959737, "level": 2}
+{"count": 4784, "name": "Value of information", "weight": 0.0, "id": 92424840, "level": 2}
+{"count": 6694, "name": "Cournot competition", "weight": 1.0, "id": 16520705, "level": 2}
+{"count": 9378, "name": "Non-cooperative game", "weight": 1.0, "id": 47175762, "level": 2}
+{"count": 10483, "name": "Sequential game", "weight": 2.0, "id": 73795354, "level": 2}
+{"count": 3906, "name": "Coordination game", "weight": 0.0, "id": 107257861, "level": 2}
+{"count": 1927, "name": "Dynamic inconsistency", "weight": 0.0, "id": 127729010, "level": 2}
+{"count": 3580, "name": "Bargaining problem", "weight": 0.0, "id": 90376892, "level": 2}
+{"count": 6702, "name": "Stackelberg competition", "weight": 1.0, "id": 199510392, "level": 2}
+{"count": 15578, "name": "Stochastic game", "weight": 2.0, "id": 22171661, "level": 2}
+{"count": 4738, "name": "Grey relational analysis", "weight": 0.0, "id": 64734493, "level": 2}
+{"count": 14643, "name": "Minimax", "weight": 2.0, "id": 149728462, "level": 2}
+{"count": 1286, "name": "Exchange economy", "weight": 0.0, "id": 2775962089, "level": 2}
+{"count": 1433, "name": "Cheap talk", "weight": 0.0, "id": 106485872, "level": 2}
+{"count": 1547, "name": "Double auction", "weight": 0.0, "id": 2539976, "level": 2}
+{"count": 1230, "name": "Choice function", "weight": 0.0, "id": 20656852, "level": 2}
+{"count": 923, "name": "Strategic complements", "weight": 0.0, "id": 145351099, "level": 2}
+{"count": 1208, "name": "Backward induction", "weight": 0.0, "id": 160343169, "level": 2}
+{"count": 6072, "name": "Duopoly", "weight": 1.0, "id": 180456769, "level": 2}
+{"count": 876, "name": "Global game", "weight": 0.0, "id": 10978670, "level": 2}
+{"count": 1463, "name": "Replicator equation", "weight": 0.0, "id": 50318809, "level": 2}
+{"count": 1118, "name": "Transferable utility", "weight": 0.0, "id": 81302675, "level": 2}
+{"count": 754, "name": "Signaling game", "weight": 0.0, "id": 62658633, "level": 2}
+{"count": 650, "name": "Market game", "weight": 0.0, "id": 2780760161, "level": 2}
+{"count": 843, "name": "Fair division", "weight": 0.0, "id": 184659173, "level": 2}
+{"count": 1525, "name": "Coopetition", "weight": 0.0, "id": 2777216475, "level": 2}
+{"count": 1461, "name": "Strategic dominance", "weight": 0.0, "id": 123650614, "level": 2}
+{"count": 117, "name": "Missing market", "weight": 0.0, "id": 2779043218, "level": 2}
+{"count": 470, "name": "Battle of the sexes", "weight": 0.0, "id": 34730968, "level": 2}
+{"count": 2118, "name": "ELECTRE", "weight": 0.0, "id": 47431972, "level": 2}
+{"count": 983, "name": "Finesse", "weight": 0.0, "id": 2778204307, "level": 2}
+{"count": 762, "name": "Superadditivity", "weight": 0.0, "id": 20017120, "level": 2}
+{"count": 191, "name": "Single peaked preferences", "weight": 0.0, "id": 2777683476, "level": 2}
+{"count": 4194, "name": "Bluff", "weight": 0.0, "id": 2781226546, "level": 2}
+{"count": 2897, "name": "Information set", "weight": 0.0, "id": 9845211, "level": 2}
+{"count": 193, "name": "Envy-free", "weight": 0.0, "id": 99242135, "level": 2}
+{"count": 125, "name": "Parrondo's paradox", "weight": 0.0, "id": 2778268922, "level": 2}
+{"count": 235, "name": "Strategyproof", "weight": 0.0, "id": 168223540, "level": 2}
+{"count": 165, "name": "El Farol Bar problem", "weight": 0.0, "id": 62072229, "level": 2}
+{"count": 110, "name": "Penrose square root law", "weight": 0.0, "id": 154981446, "level": 2}
+{"count": 96, "name": "Market engineering", "weight": 0.0, "id": 2779789512, "level": 2}
+{"count": 46, "name": "Solow\u2013Swan model", "weight": 0.0, "id": 2777325939, "level": 2}
+{"count": 16, "name": "Ramsey\u2013Cass\u2013Koopmans model", "weight": 0.0, "id": 2776348593, "level": 2}
+{"count": 325, "name": "Strategic move", "weight": 0.0, "id": 2776137420, "level": 2}
+{"count": 64, "name": "Turnpike theory", "weight": 0.0, "id": 2779438992, "level": 2}
+{"count": 13, "name": "Assurance contract", "weight": 0.0, "id": 2777598480, "level": 2}
+{"count": 31, "name": "Gorman polar form", "weight": 0.0, "id": 2779185485, "level": 2}
+{"count": 37, "name": "Inada conditions", "weight": 0.0, "id": 2775867111, "level": 2}
+{"count": 111, "name": "Continuous game", "weight": 0.0, "id": 2781072570, "level": 2}
+{"count": 53, "name": "Quasilinear utility", "weight": 0.0, "id": 2778753714, "level": 2}
+{"count": 39, "name": "Meta-power", "weight": 0.0, "id": 167444794, "level": 2}
+{"count": 123, "name": "Leontief production function", "weight": 0.0, "id": 174949452, "level": 2}
+{"count": 105, "name": "Proportional division", "weight": 0.0, "id": 162118773, "level": 2}
+{"count": 14, "name": "Relative utilitarianism", "weight": 0.0, "id": 2779112507, "level": 2}
+{"count": 10, "name": "Zermelo's theorem", "weight": 0.0, "id": 2780157567, "level": 2}
+{"count": 128, "name": "Live and let live", "weight": 0.0, "id": 2778823658, "level": 2}
+{"count": 2, "name": "Bishop\u2013Cannings theorem", "weight": 0.0, "id": 2776886903, "level": 2}
+{"count": 10, "name": "Silverman's game", "weight": 0.0, "id": 2777265186, "level": 2}
+{"count": 6, "name": "Chainstore paradox", "weight": 0.0, "id": 2780974953, "level": 2}
+{"count": 12, "name": "Okishio's theorem", "weight": 0.0, "id": 2777558830, "level": 2}
+{"count": 7, "name": "Multiscale decision-making", "weight": 0.0, "id": 2780489955, "level": 2}
+{"count": 12, "name": "Unexpected hanging paradox", "weight": 0.0, "id": 2778193261, "level": 2}
+{"count": 4, "name": "One-shot deviation principle", "weight": 0.0, "id": 2778528112, "level": 2}
+{"count": 4, "name": "Generalized first-price auction", "weight": 0.0, "id": 2778833161, "level": 2}
+{"count": 3, "name": "Brander\u2013Spencer model", "weight": 0.0, "id": 2780857449, "level": 2}
+{"count": 10, "name": "Multi-attribute global inference of quality", "weight": 0.0, "id": 130267952, "level": 2}
+{"count": 13, "name": "Princess and Monster game", "weight": 0.0, "id": 25991700, "level": 2}
+{"count": 10, "name": "Unbeatable strategy", "weight": 0.0, "id": 2778861113, "level": 2}
+{"count": 1, "name": "Gibbs lemma", "weight": 0.0, "id": 2776268472, "level": 2}
+{"count": 10, "name": "Decision-making paradox", "weight": 0.0, "id": 2779272393, "level": 2}
+{"count": 1, "name": "Unscrupulous diner's dilemma", "weight": 0.0, "id": 201993374, "level": 2}
+{"count": 2, "name": "Schedule chicken", "weight": 0.0, "id": 2777480525, "level": 2}
+{"count": 4, "name": "Bellman pseudospectral method", "weight": 0.0, "id": 2781163236, "level": 2}
+{"count": 1, "name": "Helly metric", "weight": 0.0, "id": 2778988845, "level": 2}
+{"count": 2, "name": "Graphical game theory", "weight": 0.0, "id": 2777617619, "level": 2}
+{"count": 11, "name": "Move by nature", "weight": 0.0, "id": 2776080027, "level": 2}
+{"count": 1, "name": "Rabin fairness", "weight": 0.0, "id": 2777868336, "level": 2}
+{"count": 1, "name": "Hicks optimality", "weight": 0.0, "id": 2776950727, "level": 2}
+{"count": 6, "name": "Lewis signaling game", "weight": 0.0, "id": 2779367127, "level": 2}

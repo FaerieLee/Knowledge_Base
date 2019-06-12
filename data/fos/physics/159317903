@@ -1,0 +1,41 @@
+{"count": 15881, "name": "Compton scattering", "weight": 9.0, "id": 61203554, "level": 3}
+{"count": 13748, "name": "Photon counting", "weight": 7.0, "id": 2781402376, "level": 3}
+{"count": 3768, "name": "Spontaneous parametric down-conversion", "weight": 2.0, "id": 203103908, "level": 3}
+{"count": 1938, "name": "Photon polarization", "weight": 1.0, "id": 96473913, "level": 3}
+{"count": 1100, "name": "Photon statistics", "weight": 0.0, "id": 2777184400, "level": 3}
+{"count": 1642, "name": "Jaynes\u2013Cummings model", "weight": 0.0, "id": 9849289, "level": 3}
+{"count": 17555, "name": "Photon energy", "weight": 10.0, "id": 2778785133, "level": 3}
+{"count": 2889, "name": "Virtual particle", "weight": 1.0, "id": 178803272, "level": 3}
+{"count": 1162, "name": "Single-photon source", "weight": 0.0, "id": 2777288060, "level": 3}
+{"count": 531, "name": "Hanbury Brown and Twiss effect", "weight": 0.0, "id": 43290667, "level": 3}
+{"count": 471, "name": "Linear optics", "weight": 0.0, "id": 2781085378, "level": 3}
+{"count": 324, "name": "Quantum nondemolition measurement", "weight": 0.0, "id": 2778930951, "level": 3}
+{"count": 1175, "name": "Photon antibunching", "weight": 0.0, "id": 52557669, "level": 3}
+{"count": 1594, "name": "Fock state", "weight": 0.0, "id": 12891224, "level": 3}
+{"count": 1715, "name": "Photon entanglement", "weight": 0.0, "id": 104434177, "level": 3}
+{"count": 430, "name": "Biophoton", "weight": 0.0, "id": 63114564, "level": 3}
+{"count": 1929, "name": "Photodisintegration", "weight": 1.0, "id": 26001627, "level": 3}
+{"count": 341, "name": "Photon gas", "weight": 0.0, "id": 149337919, "level": 3}
+{"count": 245, "name": "Superconducting nanowire single-photon detector", "weight": 0.0, "id": 2777807228, "level": 3}
+{"count": 998, "name": "Nonclassical light", "weight": 0.0, "id": 66601787, "level": 3}
+{"count": 202, "name": "Delayed choice quantum eraser", "weight": 0.0, "id": 181631915, "level": 3}
+{"count": 660, "name": "Ballistic photon", "weight": 0.0, "id": 176938629, "level": 3}
+{"count": 377, "name": "Dark photon", "weight": 0.0, "id": 2780571165, "level": 3}
+{"count": 379, "name": "Heisenberg limit", "weight": 0.0, "id": 2778361524, "level": 3}
+{"count": 73, "name": "Interaction-free measurement", "weight": 0.0, "id": 2778255149, "level": 3}
+{"count": 306, "name": "Postselection", "weight": 0.0, "id": 2777061846, "level": 3}
+{"count": 91, "name": "Photon diffusion equation", "weight": 0.0, "id": 2775934185, "level": 3}
+{"count": 130, "name": "NOON state", "weight": 0.0, "id": 2777821179, "level": 3}
+{"count": 121, "name": "Wheeler's delayed choice experiment", "weight": 0.0, "id": 45045402, "level": 3}
+{"count": 60, "name": "GRB 080916C", "weight": 0.0, "id": 2780981235, "level": 3}
+{"count": 216, "name": "GlueX", "weight": 0.0, "id": 2777081946, "level": 3}
+{"count": 40, "name": "Photon bubble", "weight": 0.0, "id": 2776095396, "level": 3}
+{"count": 744, "name": "Two-photon physics", "weight": 0.0, "id": 550089830, "level": 3}
+{"count": 23, "name": "High time-resolution astrophysics", "weight": 0.0, "id": 2779756497, "level": 3}
+{"count": 8, "name": "Photomagneton", "weight": 0.0, "id": 2780041531, "level": 3}
+{"count": 26, "name": "Intersubband polariton", "weight": 0.0, "id": 2777814597, "level": 3}
+{"count": 13, "name": "Time-resolved photon emission", "weight": 0.0, "id": 2781071640, "level": 3}
+{"count": 48, "name": "Magnetic photon", "weight": 0.0, "id": 2776439294, "level": 3}
+{"count": 18, "name": "Breit\u2013Wheeler process", "weight": 0.0, "id": 66431143, "level": 3}
+{"count": 31, "name": "N-slit interferometric equation", "weight": 0.0, "id": 191436197, "level": 3}
+{"count": 27, "name": "CENBOL", "weight": 0.0, "id": 2780510496, "level": 3}

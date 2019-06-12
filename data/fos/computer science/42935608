@@ -1,0 +1,35 @@
+{"count": 9937, "name": "Hardware description language", "weight": 7.0, "id": 42143788, "level": 3}
+{"count": 9291, "name": "Reconfigurable computing", "weight": 6.0, "id": 142962650, "level": 3}
+{"count": 6195, "name": "Hardware acceleration", "weight": 4.0, "id": 13164978, "level": 3}
+{"count": 13948, "name": "VHDL", "weight": 10.0, "id": 36941000, "level": 3}
+{"count": 6960, "name": "Programmable logic array", "weight": 4.0, "id": 182322920, "level": 3}
+{"count": 1382, "name": "Evolvable hardware", "weight": 0.0, "id": 2776243922, "level": 3}
+{"count": 1296, "name": "Place and route", "weight": 0.0, "id": 127879752, "level": 3}
+{"count": 2363, "name": "CORDIC", "weight": 1.0, "id": 58870171, "level": 3}
+{"count": 6371, "name": "Verilog", "weight": 4.0, "id": 2779030575, "level": 3}
+{"count": 6192, "name": "Gate array", "weight": 4.0, "id": 114237110, "level": 3}
+{"count": 1650, "name": "Logic block", "weight": 1.0, "id": 2778325283, "level": 3}
+{"count": 1155, "name": "Nios II", "weight": 0.0, "id": 2781190120, "level": 3}
+{"count": 745, "name": "MicroBlaze", "weight": 0.0, "id": 2777575374, "level": 3}
+{"count": 262, "name": "SHA-3", "weight": 0.0, "id": 51173467, "level": 3}
+{"count": 3981, "name": "FPGA prototype", "weight": 2.0, "id": 203864433, "level": 3}
+{"count": 156, "name": "Handel-C", "weight": 0.0, "id": 2776386185, "level": 3}
+{"count": 1494, "name": "Hardware emulation", "weight": 1.0, "id": 94115699, "level": 3}
+{"count": 81, "name": "Non-recurring engineering", "weight": 0.0, "id": 2776235372, "level": 3}
+{"count": 2689, "name": "Virtex", "weight": 1.0, "id": 2777674469, "level": 3}
+{"count": 201, "name": "Glue logic", "weight": 0.0, "id": 2777578889, "level": 3}
+{"count": 323, "name": "Camera Link", "weight": 0.0, "id": 143545776, "level": 3}
+{"count": 344, "name": "CompactRIO", "weight": 0.0, "id": 195928046, "level": 3}
+{"count": 66, "name": "Field-programmability", "weight": 0.0, "id": 2776035428, "level": 3}
+{"count": 145, "name": "PicoBlaze", "weight": 0.0, "id": 2778014818, "level": 3}
+{"count": 62, "name": "Impulse C", "weight": 0.0, "id": 2776976518, "level": 3}
+{"count": 276, "name": "Advanced Mezzanine Card", "weight": 0.0, "id": 180433265, "level": 3}
+{"count": 125, "name": "DDR2 SDRAM", "weight": 0.0, "id": 2778595288, "level": 3}
+{"count": 186, "name": "OpenRISC", "weight": 0.0, "id": 2778149154, "level": 3}
+{"count": 1142, "name": "Stratix", "weight": 0.0, "id": 2776277307, "level": 3}
+{"count": 31, "name": "Soft microprocessor", "weight": 0.0, "id": 2780518008, "level": 3}
+{"count": 249, "name": "Soft IP", "weight": 0.0, "id": 2778424334, "level": 3}
+{"count": 58, "name": "Massively parallel processor array", "weight": 0.0, "id": 2776688315, "level": 3}
+{"count": 43, "name": "Graphical system design", "weight": 0.0, "id": 2777034609, "level": 3}
+{"count": 29, "name": "Stub Series Terminated Logic", "weight": 0.0, "id": 2776339157, "level": 3}
+{"count": 12, "name": "Multi-gigabit transceiver", "weight": 0.0, "id": 2779547188, "level": 3}

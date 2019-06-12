@@ -1,0 +1,7 @@
+{"count": 2350, "name": "Pedestrian crossing", "weight": 10.0, "id": 2777819797, "level": 3}
+{"count": 805, "name": "Pedestrian facilities", "weight": 3.0, "id": 2779507576, "level": 3}
+{"count": 162, "name": "Pedestrian zone", "weight": 0.0, "id": 2781323617, "level": 3}
+{"count": 578, "name": "Social force model", "weight": 2.0, "id": 2779293179, "level": 3}
+{"count": 346, "name": "Complete streets", "weight": 1.0, "id": 2779291183, "level": 3}
+{"count": 190, "name": "Traffic island", "weight": 0.0, "id": 2776687432, "level": 3}
+{"count": 158, "name": "Jaywalking", "weight": 0.0, "id": 2779130338, "level": 3}

@@ -1,0 +1,9 @@
+{"count": 6199, "name": "Functional verification", "weight": 10.0, "id": 62460635, "level": 3}
+{"count": 1977, "name": "Formal equivalence checking", "weight": 3.0, "id": 96654402, "level": 3}
+{"count": 3894, "name": "Runtime verification", "weight": 6.0, "id": 202973057, "level": 3}
+{"count": 194, "name": "Prototype Verification System", "weight": 0.0, "id": 2780643309, "level": 3}
+{"count": 740, "name": "Promela", "weight": 1.0, "id": 2776329536, "level": 3}
+{"count": 204, "name": "Property Specification Language", "weight": 0.0, "id": 2779898345, "level": 3}
+{"count": 122, "name": "Uninterpreted function", "weight": 0.0, "id": 2781370028, "level": 3}
+{"count": 1416, "name": "Refinement", "weight": 2.0, "id": 14331664, "level": 3}
+{"count": 4709, "name": "Intelligent verification", "weight": 7.0, "id": 3406870, "level": 3}

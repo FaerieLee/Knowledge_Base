@@ -1,0 +1,183 @@
+{"count": 60904, "name": "Primary health care", "weight": 4.0, "id": 163432668, "level": 3}
+{"count": 134760, "name": "Health education", "weight": 10.0, "id": 113807197, "level": 3}
+{"count": 124966, "name": "Health policy", "weight": 9.0, "id": 47344431, "level": 3}
+{"count": 120159, "name": "Health promotion", "weight": 8.0, "id": 185618831, "level": 3}
+{"count": 33516, "name": "Health informatics", "weight": 2.0, "id": 145642194, "level": 3}
+{"count": 15818, "name": "Health services research", "weight": 1.0, "id": 2780877353, "level": 3}
+{"count": 15928, "name": "Health economics", "weight": 1.0, "id": 524218345, "level": 3}
+{"count": 30278, "name": "Health equity", "weight": 2.0, "id": 2250968, "level": 3}
+{"count": 24178, "name": "Telemedicine", "weight": 1.0, "id": 2779891985, "level": 3}
+{"count": 43249, "name": "Community health", "weight": 3.0, "id": 2775951005, "level": 3}
+{"count": 40064, "name": "Patient safety", "weight": 2.0, "id": 2779328685, "level": 3}
+{"count": 22283, "name": "Population health", "weight": 1.0, "id": 2778149918, "level": 3}
+{"count": 6586, "name": "Remote patient monitoring", "weight": 0.0, "id": 175079658, "level": 3}
+{"count": 36334, "name": "Self care", "weight": 2.0, "id": 95445763, "level": 3}
+{"count": 23331, "name": "Managed care", "weight": 1.0, "id": 2780265253, "level": 3}
+{"count": 41484, "name": "Ambulatory care", "weight": 3.0, "id": 124306116, "level": 3}
+{"count": 7333, "name": "Patient participation", "weight": 0.0, "id": 2776511598, "level": 3}
+{"count": 12623, "name": "Rural health", "weight": 0.0, "id": 2779958979, "level": 3}
+{"count": 23080, "name": "Acute care", "weight": 1.0, "id": 2781385661, "level": 3}
+{"count": 32942, "name": "Medicaid", "weight": 2.0, "id": 2776534028, "level": 3}
+{"count": 6631, "name": "Chronic condition", "weight": 0.0, "id": 2780600951, "level": 3}
+{"count": 26008, "name": "Social determinants of health", "weight": 1.0, "id": 78491826, "level": 3}
+{"count": 9100, "name": "Primary care physician", "weight": 0.0, "id": 2781158071, "level": 3}
+{"count": 6203, "name": "Outcomes research", "weight": 0.0, "id": 2780454255, "level": 3}
+{"count": 9348, "name": "Veterans Affairs", "weight": 0.0, "id": 2775969662, "level": 3}
+{"count": 12405, "name": "Health literacy", "weight": 0.0, "id": 2778843546, "level": 3}
+{"count": 5357, "name": "Health care quality", "weight": 0.0, "id": 2780131953, "level": 3}
+{"count": 4665, "name": "Patient-centered care", "weight": 0.0, "id": 2780860654, "level": 3}
+{"count": 10591, "name": "Point of care", "weight": 0.0, "id": 51915194, "level": 3}
+{"count": 9969, "name": "Clinical decision support system", "weight": 0.0, "id": 63527458, "level": 3}
+{"count": 4296, "name": "National Health Interview Survey", "weight": 0.0, "id": 2780128664, "level": 3}
+{"count": 2814, "name": "Fee-for-service", "weight": 0.0, "id": 2776753347, "level": 3}
+{"count": 6732, "name": "Health facility", "weight": 0.0, "id": 2775949068, "level": 3}
+{"count": 3419, "name": "Pharmacoeconomics", "weight": 0.0, "id": 2776738588, "level": 3}
+{"count": 3687, "name": "Pay for performance", "weight": 0.0, "id": 2776204158, "level": 3}
+{"count": 16182, "name": "Health technology", "weight": 1.0, "id": 21333345, "level": 3}
+{"count": 3157, "name": "Comparative effectiveness research", "weight": 0.0, "id": 2778111679, "level": 3}
+{"count": 8181, "name": "Integrated care", "weight": 0.0, "id": 2779541514, "level": 3}
+{"count": 5772, "name": "Health information technology", "weight": 0.0, "id": 2776354556, "level": 3}
+{"count": 3295, "name": "Patient advocacy", "weight": 0.0, "id": 2777471088, "level": 3}
+{"count": 7069, "name": "eHealth", "weight": 0.0, "id": 202645933, "level": 3}
+{"count": 1548, "name": "Health care rationing", "weight": 0.0, "id": 2776414048, "level": 3}
+{"count": 4056, "name": "Knowledge translation", "weight": 0.0, "id": 2777921204, "level": 3}
+{"count": 4399, "name": "Advance care planning", "weight": 0.0, "id": 2777995714, "level": 3}
+{"count": 4932, "name": "Interprofessional education", "weight": 0.0, "id": 2780367502, "level": 3}
+{"count": 5686, "name": "mHealth", "weight": 0.0, "id": 2779363104, "level": 3}
+{"count": 22323, "name": "Reimbursement", "weight": 1.0, "id": 2779703844, "level": 3}
+{"count": 1301, "name": "Diagnosis-related group", "weight": 0.0, "id": 2778198094, "level": 3}
+{"count": 1974, "name": "Prospective payment system", "weight": 0.0, "id": 2779245251, "level": 3}
+{"count": 6996, "name": "Patient experience", "weight": 0.0, "id": 2777896191, "level": 3}
+{"count": 3328, "name": "Medical tourism", "weight": 0.0, "id": 2781321835, "level": 3}
+{"count": 3307, "name": "Clinical governance", "weight": 0.0, "id": 2777896688, "level": 3}
+{"count": 1074, "name": "Computerized physician order entry", "weight": 0.0, "id": 2775939850, "level": 3}
+{"count": 3106, "name": "Collaborative Care", "weight": 0.0, "id": 2781018821, "level": 3}
+{"count": 1740, "name": "Holistic health", "weight": 0.0, "id": 2778821024, "level": 3}
+{"count": 4085, "name": "Medical home", "weight": 0.0, "id": 2778804116, "level": 3}
+{"count": 2493, "name": "Workplace violence", "weight": 0.0, "id": 2779919105, "level": 3}
+{"count": 3772, "name": "Chronic care", "weight": 0.0, "id": 2776807786, "level": 3}
+{"count": 5828, "name": "Inpatient care", "weight": 0.0, "id": 2775909303, "level": 3}
+{"count": 1974, "name": "Medical Expenditure Panel Survey", "weight": 0.0, "id": 2780777579, "level": 3}
+{"count": 2921, "name": "Capitation", "weight": 0.0, "id": 2776196091, "level": 3}
+{"count": 1461, "name": "Health Insurance Portability and Accountability Act", "weight": 0.0, "id": 2778306010, "level": 3}
+{"count": 868, "name": "Needlestick injury", "weight": 0.0, "id": 2778914530, "level": 3}
+{"count": 1428, "name": "Universal precautions", "weight": 0.0, "id": 2778992500, "level": 3}
+{"count": 3940, "name": "Right to health", "weight": 0.0, "id": 2780893092, "level": 3}
+{"count": 1703, "name": "Health information exchange", "weight": 0.0, "id": 2778759051, "level": 3}
+{"count": 688, "name": "Integrated Management of Childhood Illness", "weight": 0.0, "id": 2776408227, "level": 3}
+{"count": 1350, "name": "Skill mix", "weight": 0.0, "id": 2777620637, "level": 3}
+{"count": 1440, "name": "Family centered care", "weight": 0.0, "id": 2780888467, "level": 3}
+{"count": 1176, "name": "National Service Framework", "weight": 0.0, "id": 2779774761, "level": 3}
+{"count": 20132, "name": "Critical care nursing", "weight": 1.0, "id": 203915360, "level": 3}
+{"count": 1983, "name": "Transitional care", "weight": 0.0, "id": 2779685841, "level": 3}
+{"count": 1213, "name": "Electronic prescribing", "weight": 0.0, "id": 2777519982, "level": 3}
+{"count": 1115, "name": "Defensive medicine", "weight": 0.0, "id": 160148523, "level": 3}
+{"count": 3804, "name": "Scope of practice", "weight": 0.0, "id": 2779172034, "level": 3}
+{"count": 6692, "name": "District nurse", "weight": 0.0, "id": 33796978, "level": 3}
+{"count": 889, "name": "Healthcare Cost and Utilization Project", "weight": 0.0, "id": 2779195980, "level": 3}
+{"count": 725, "name": "Person-centered care", "weight": 0.0, "id": 2779244896, "level": 3}
+{"count": 2335, "name": "Nursing shortage", "weight": 0.0, "id": 2780591783, "level": 3}
+{"count": 25258, "name": "Primary nursing", "weight": 1.0, "id": 105913360, "level": 3}
+{"count": 1769, "name": "Digital health", "weight": 0.0, "id": 2780433410, "level": 3}
+{"count": 1841, "name": "Shared care", "weight": 0.0, "id": 2779217595, "level": 3}
+{"count": 1361, "name": "Medicare Advantage", "weight": 0.0, "id": 2778829437, "level": 3}
+{"count": 4509, "name": "Sociology of health and illness", "weight": 0.0, "id": 3557399, "level": 3}
+{"count": 1520, "name": "Limited English proficiency", "weight": 0.0, "id": 2781255760, "level": 3}
+{"count": 777, "name": "Cultural safety", "weight": 0.0, "id": 2777507618, "level": 3}
+{"count": 734, "name": "Community-based care", "weight": 0.0, "id": 2776100843, "level": 3}
+{"count": 652, "name": "Evidence-based design", "weight": 0.0, "id": 134975968, "level": 3}
+{"count": 1087, "name": "Power of attorney", "weight": 0.0, "id": 2780156021, "level": 3}
+{"count": 293, "name": "Surrogate decision-maker", "weight": 0.0, "id": 2778125833, "level": 3}
+{"count": 336, "name": "International Classification of Primary Care", "weight": 0.0, "id": 2776680101, "level": 3}
+{"count": 740, "name": "Quality and Outcomes Framework", "weight": 0.0, "id": 2779485042, "level": 3}
+{"count": 12022, "name": "Mental health law", "weight": 0.0, "id": 545805344, "level": 3}
+{"count": 163, "name": "Clinical officer", "weight": 0.0, "id": 2776758788, "level": 3}
+{"count": 738, "name": "Health coaching", "weight": 0.0, "id": 2779902066, "level": 3}
+{"count": 794, "name": "Copayment", "weight": 0.0, "id": 2779848557, "level": 3}
+{"count": 415, "name": "Certificate of need", "weight": 0.0, "id": 2775860194, "level": 3}
+{"count": 235, "name": "Surgical mask", "weight": 0.0, "id": 2776054434, "level": 3}
+{"count": 1313, "name": "Professional boundaries", "weight": 0.0, "id": 2776327045, "level": 3}
+{"count": 113, "name": "Blood-borne disease", "weight": 0.0, "id": 2781034834, "level": 3}
+{"count": 321, "name": "Durable medical equipment", "weight": 0.0, "id": 2776125334, "level": 3}
+{"count": 280, "name": "Care Programme Approach", "weight": 0.0, "id": 2776697053, "level": 3}
+{"count": 492, "name": "Cost-shifting", "weight": 0.0, "id": 2776596588, "level": 3}
+{"count": 87, "name": "Medical savings account", "weight": 0.0, "id": 2775850394, "level": 3}
+{"count": 743, "name": "Patient portal", "weight": 0.0, "id": 2776153502, "level": 3}
+{"count": 952, "name": "Hospital accreditation", "weight": 0.0, "id": 2779816284, "level": 3}
+{"count": 171, "name": "Normalization process theory", "weight": 0.0, "id": 2776421923, "level": 3}
+{"count": 253, "name": "Surgical Care Improvement Project", "weight": 0.0, "id": 2776213237, "level": 3}
+{"count": 927, "name": "Underinsured", "weight": 0.0, "id": 2778714722, "level": 3}
+{"count": 687, "name": "Physician supply", "weight": 0.0, "id": 2780130764, "level": 3}
+{"count": 580, "name": "Allopathic medicine", "weight": 0.0, "id": 2776559448, "level": 3}
+{"count": 324, "name": "Maternal near miss", "weight": 0.0, "id": 2777360386, "level": 3}
+{"count": 879, "name": "Utilization management", "weight": 0.0, "id": 2780062483, "level": 3}
+{"count": 694, "name": "Biomedical waste", "weight": 0.0, "id": 2778960967, "level": 3}
+{"count": 581, "name": "Academic detailing", "weight": 0.0, "id": 2780222150, "level": 3}
+{"count": 197, "name": "Supplier-induced demand", "weight": 0.0, "id": 2779063626, "level": 3}
+{"count": 422, "name": "Quality use of medicines", "weight": 0.0, "id": 2781460065, "level": 3}
+{"count": 315, "name": "Online health communities", "weight": 0.0, "id": 2780651838, "level": 3}
+{"count": 1013, "name": "AIDS Care", "weight": 0.0, "id": 2776444715, "level": 3}
+{"count": 219, "name": "High reliability organization", "weight": 0.0, "id": 2779362320, "level": 3}
+{"count": 351, "name": "School-based health centers", "weight": 0.0, "id": 2778258675, "level": 3}
+{"count": 430, "name": "Population Health Management", "weight": 0.0, "id": 2775863895, "level": 3}
+{"count": 243, "name": "Patient Self-Determination Act", "weight": 0.0, "id": 2778208014, "level": 3}
+{"count": 238, "name": "Health savings account", "weight": 0.0, "id": 2780195874, "level": 3}
+{"count": 1183, "name": "Allied health professions", "weight": 0.0, "id": 2779557268, "level": 3}
+{"count": 539, "name": "National Rural Health Mission", "weight": 0.0, "id": 2779015095, "level": 3}
+{"count": 251, "name": "Omaha System", "weight": 0.0, "id": 142098441, "level": 3}
+{"count": 368, "name": "Connected health", "weight": 0.0, "id": 2779676829, "level": 3}
+{"count": 248, "name": "Medigap", "weight": 0.0, "id": 2779522059, "level": 3}
+{"count": 472, "name": "Health Information National Trends Survey", "weight": 0.0, "id": 2776154706, "level": 3}
+{"count": 203, "name": "Medical technology assessment", "weight": 0.0, "id": 2781073817, "level": 3}
+{"count": 157, "name": "Critical medical anthropology", "weight": 0.0, "id": 2780138522, "level": 3}
+{"count": 1243, "name": "Private healthcare", "weight": 0.0, "id": 2779365434, "level": 3}
+{"count": 132, "name": "Value-Based Insurance Design", "weight": 0.0, "id": 2776124097, "level": 3}
+{"count": 456, "name": "Physical therapy education", "weight": 0.0, "id": 2776524021, "level": 3}
+{"count": 273, "name": "Advanced practice registered nurse", "weight": 0.0, "id": 2781033220, "level": 3}
+{"count": 99, "name": "ISO/IEEE 11073", "weight": 0.0, "id": 2779251962, "level": 3}
+{"count": 206, "name": "Major Diagnostic Category", "weight": 0.0, "id": 175809679, "level": 3}
+{"count": 106, "name": "Risk equalization", "weight": 0.0, "id": 2778039747, "level": 3}
+{"count": 163, "name": "Programme budgeting", "weight": 0.0, "id": 2780609718, "level": 3}
+{"count": 8258, "name": "CARE Act", "weight": 0.0, "id": 2777838021, "level": 3}
+{"count": 146, "name": "Electronic consultation", "weight": 0.0, "id": 2780496669, "level": 3}
+{"count": 105, "name": "Child life specialist", "weight": 0.0, "id": 2778106446, "level": 3}
+{"count": 234, "name": "Assistant practitioner", "weight": 0.0, "id": 2780000589, "level": 3}
+{"count": 17, "name": "Normalization process model", "weight": 0.0, "id": 2780181843, "level": 3}
+{"count": 288, "name": "Hazardous drugs", "weight": 0.0, "id": 2780335305, "level": 3}
+{"count": 239, "name": "Transmission-based precautions", "weight": 0.0, "id": 192948406, "level": 3}
+{"count": 82, "name": "Geriatric care management", "weight": 0.0, "id": 2778518705, "level": 3}
+{"count": 418, "name": "Mind\u2013body interventions", "weight": 0.0, "id": 537696565, "level": 3}
+{"count": 139, "name": "Emergency Medical Treatment and Active Labor Act", "weight": 0.0, "id": 2781261337, "level": 3}
+{"count": 79, "name": "Faith community nursing", "weight": 0.0, "id": 2777673319, "level": 3}
+{"count": 107, "name": "Balance billing", "weight": 0.0, "id": 2779680315, "level": 3}
+{"count": 67, "name": "Continuity of Care Record", "weight": 0.0, "id": 2780249301, "level": 3}
+{"count": 1640, "name": "Care in the Community", "weight": 0.0, "id": 2777082830, "level": 3}
+{"count": 118, "name": "Primary Care Behavioral health", "weight": 0.0, "id": 2779036198, "level": 3}
+{"count": 51, "name": "Reproductive life plan", "weight": 0.0, "id": 2780752069, "level": 3}
+{"count": 122, "name": "Pharmaceutical innovations", "weight": 0.0, "id": 2778220447, "level": 3}
+{"count": 56, "name": "Continuity of Care Document", "weight": 0.0, "id": 2779317289, "level": 3}
+{"count": 41, "name": "Web Messaging", "weight": 0.0, "id": 2779437195, "level": 3}
+{"count": 280, "name": "Multiple morbidities", "weight": 0.0, "id": 2778791661, "level": 3}
+{"count": 87, "name": "Retail clinic", "weight": 0.0, "id": 2779303796, "level": 3}
+{"count": 23, "name": "Out-of-pocket expense", "weight": 0.0, "id": 2778759732, "level": 3}
+{"count": 60, "name": "Medical case management", "weight": 0.0, "id": 2780386667, "level": 3}
+{"count": 58, "name": "Sharps waste", "weight": 0.0, "id": 2777594738, "level": 3}
+{"count": 24, "name": "Futile medical care", "weight": 0.0, "id": 2779682660, "level": 3}
+{"count": 20, "name": "AIDS education and training centers", "weight": 0.0, "id": 2779171483, "level": 3}
+{"count": 25, "name": "Personal health application", "weight": 0.0, "id": 2775912402, "level": 3}
+{"count": 32, "name": "Euro health consumer index", "weight": 0.0, "id": 2777617162, "level": 3}
+{"count": 87, "name": "Operating Department Practitioners", "weight": 0.0, "id": 2779371364, "level": 3}
+{"count": 33, "name": "Med-Peds", "weight": 0.0, "id": 2776140832, "level": 3}
+{"count": 1469, "name": "eMix", "weight": 0.0, "id": 33623176, "level": 3}
+{"count": 23, "name": "Primary care ethics", "weight": 0.0, "id": 2776480348, "level": 3}
+{"count": 77, "name": "Cultural competence in healthcare", "weight": 0.0, "id": 2781360888, "level": 3}
+{"count": 26, "name": "Behavioural change theories", "weight": 0.0, "id": 2779006491, "level": 3}
+{"count": 95, "name": "Unnecessary health care", "weight": 0.0, "id": 2776122098, "level": 3}
+{"count": 34, "name": "Biomedical model", "weight": 0.0, "id": 130736793, "level": 3}
+{"count": 20, "name": "International Family Medicine", "weight": 0.0, "id": 2780677836, "level": 3}
+{"count": 24, "name": "Rourke Baby Record", "weight": 0.0, "id": 2779638126, "level": 3}
+{"count": 873, "name": "Obstetric transition", "weight": 0.0, "id": 52858474, "level": 3}
+{"count": 31, "name": "Classification of pneumonia", "weight": 0.0, "id": 2776381209, "level": 3}
+{"count": 247, "name": "Education in personalized medicine", "weight": 0.0, "id": 195946934, "level": 3}
+{"count": 706, "name": "Masking (Electronic Health Record)", "weight": 0.0, "id": 51777371, "level": 3}
+{"count": 29, "name": "Clinical coder", "weight": 0.0, "id": 2779487835, "level": 3}

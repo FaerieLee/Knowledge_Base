@@ -1,0 +1,10 @@
+{"count": 6869, "name": "Ventilator-associated pneumonia", "weight": 10.0, "id": 2777184939, "level": 3}
+{"count": 5687, "name": "APACHE II", "weight": 8.0, "id": 2780347030, "level": 3}
+{"count": 1822, "name": "Intensivist", "weight": 2.0, "id": 2777925291, "level": 3}
+{"count": 1355, "name": "SOFA score", "weight": 1.0, "id": 2777465075, "level": 3}
+{"count": 616, "name": "Spontaneous breathing trial", "weight": 0.0, "id": 2778584172, "level": 3}
+{"count": 252, "name": "Selective digestive decontamination", "weight": 0.0, "id": 2779033528, "level": 3}
+{"count": 225, "name": "Richmond Agitation-Sedation Scale", "weight": 0.0, "id": 2777788247, "level": 3}
+{"count": 148, "name": "Post-intensive care syndrome", "weight": 0.0, "id": 2779314133, "level": 3}
+{"count": 105, "name": "PIM2", "weight": 0.0, "id": 2777021641, "level": 3}
+{"count": 50, "name": "MET call", "weight": 0.0, "id": 2777275092, "level": 3}

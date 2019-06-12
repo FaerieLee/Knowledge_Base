@@ -1,0 +1,10 @@
+{"count": 5919, "name": "Butterworth filter", "weight": 10.0, "id": 70757512, "level": 4}
+{"count": 4850, "name": "Electronic filter topology", "weight": 8.0, "id": 26441681, "level": 4}
+{"count": 2573, "name": "Half-band filter", "weight": 4.0, "id": 141159389, "level": 4}
+{"count": 1997, "name": "2D Filters", "weight": 3.0, "id": 100106864, "level": 4}
+{"count": 396, "name": "Causal filter", "weight": 0.0, "id": 108212597, "level": 4}
+{"count": 354, "name": "Top-hat filter", "weight": 0.0, "id": 148260802, "level": 4}
+{"count": 622, "name": "Sinc filter", "weight": 1.0, "id": 130600737, "level": 4}
+{"count": 4788, "name": "Capacitor-input filter", "weight": 8.0, "id": 164331903, "level": 4}
+{"count": 5358, "name": "Constant k filter", "weight": 9.0, "id": 136324791, "level": 4}
+{"count": 526, "name": "Parks\u2013McClellan filter design algorithm", "weight": 0.0, "id": 201994401, "level": 4}

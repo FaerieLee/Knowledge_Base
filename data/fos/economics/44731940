@@ -1,0 +1,6 @@
+{"count": 600, "name": "Variance risk premium", "weight": 3.0, "id": 17483445, "level": 5}
+{"count": 1793, "name": "Variance swap", "weight": 10.0, "id": 165603445, "level": 5}
+{"count": 658, "name": "Volatility risk", "weight": 3.0, "id": 2777284652, "level": 5}
+{"count": 36, "name": "Buy-write", "weight": 0.0, "id": 2777956113, "level": 5}
+{"count": 183, "name": "Premium business model", "weight": 1.0, "id": 108367824, "level": 5}
+{"count": 1157, "name": "Financial models with long-tailed distributions and volatility clustering", "weight": 6.0, "id": 89218465, "level": 5}

@@ -1,0 +1,79 @@
+{"count": 12333, "name": "Habitat destruction", "weight": 10.0, "id": 64229544, "level": 3}
+{"count": 2081, "name": "Phylogenetic diversity", "weight": 1.0, "id": 98722961, "level": 3}
+{"count": 2837, "name": "Biodiversity hotspot", "weight": 2.0, "id": 153427425, "level": 3}
+{"count": 2817, "name": "Hexapoda", "weight": 2.0, "id": 2780588435, "level": 3}
+{"count": 2894, "name": "Beta diversity", "weight": 2.0, "id": 25147867, "level": 3}
+{"count": 1431, "name": "Macroecology", "weight": 1.0, "id": 152491559, "level": 3}
+{"count": 2739, "name": "Convention on Biological Diversity", "weight": 2.0, "id": 2779485152, "level": 3}
+{"count": 2040, "name": "In situ conservation", "weight": 1.0, "id": 2781168966, "level": 3}
+{"count": 1928, "name": "Myrmicinae", "weight": 1.0, "id": 2778961566, "level": 3}
+{"count": 3577, "name": "Alpha diversity", "weight": 2.0, "id": 23913935, "level": 3}
+{"count": 512, "name": "Reserve design", "weight": 0.0, "id": 2779373334, "level": 3}
+{"count": 940, "name": "Intermediate Disturbance Hypothesis", "weight": 0.0, "id": 126743268, "level": 3}
+{"count": 2970, "name": "Agricultural biodiversity", "weight": 2.0, "id": 141151480, "level": 3}
+{"count": 1381, "name": "Metacommunity", "weight": 1.0, "id": 2778899818, "level": 3}
+{"count": 755, "name": "Millennium Ecosystem Assessment", "weight": 0.0, "id": 2776254840, "level": 3}
+{"count": 2350, "name": "Habitat conservation", "weight": 1.0, "id": 6330744, "level": 3}
+{"count": 1285, "name": "Bioprospecting", "weight": 1.0, "id": 2776180452, "level": 3}
+{"count": 411, "name": "Biodiversity informatics", "weight": 0.0, "id": 2777913895, "level": 3}
+{"count": 4106, "name": "Ecosystem diversity", "weight": 3.0, "id": 179768671, "level": 3}
+{"count": 11941, "name": "Global biodiversity", "weight": 9.0, "id": 187604713, "level": 3}
+{"count": 1224, "name": "Umbrella species", "weight": 0.0, "id": 126589399, "level": 3}
+{"count": 930, "name": "Habitats Directive", "weight": 0.0, "id": 2777961954, "level": 3}
+{"count": 422, "name": "Novel ecosystem", "weight": 0.0, "id": 180440007, "level": 3}
+{"count": 538, "name": "Flagship species", "weight": 0.0, "id": 126914827, "level": 3}
+{"count": 821, "name": "Geodiversity", "weight": 0.0, "id": 2778045388, "level": 3}
+{"count": 289, "name": "Tropical ecology", "weight": 0.0, "id": 42712556, "level": 3}
+{"count": 365, "name": "Marxan", "weight": 0.0, "id": 2779267909, "level": 3}
+{"count": 483, "name": "Foundation species", "weight": 0.0, "id": 31262351, "level": 3}
+{"count": 722, "name": "Biodiversity action plan", "weight": 0.0, "id": 73580989, "level": 3}
+{"count": 507, "name": "Coral Triangle", "weight": 0.0, "id": 2781288472, "level": 3}
+{"count": 379, "name": "Biocultural diversity", "weight": 0.0, "id": 2778617593, "level": 3}
+{"count": 233, "name": "Assisted colonization", "weight": 0.0, "id": 46068172, "level": 3}
+{"count": 182, "name": "Rare biosphere", "weight": 0.0, "id": 2780967750, "level": 3}
+{"count": 1173, "name": "Conservation psychology", "weight": 0.0, "id": 65857100, "level": 3}
+{"count": 996, "name": "IUCN protected area categories", "weight": 0.0, "id": 120860951, "level": 3}
+{"count": 85, "name": "Shade-grown coffee", "weight": 0.0, "id": 2778709609, "level": 3}
+{"count": 643, "name": "Ecological release", "weight": 0.0, "id": 13112181, "level": 3}
+{"count": 142, "name": "Taxonomic impediment", "weight": 0.0, "id": 2778798630, "level": 3}
+{"count": 68, "name": "Coextinction", "weight": 0.0, "id": 188206468, "level": 3}
+{"count": 97, "name": "Conservation finance", "weight": 0.0, "id": 2776654049, "level": 3}
+{"count": 82, "name": "Ocean Biogeographic Information System", "weight": 0.0, "id": 2776048852, "level": 3}
+{"count": 203, "name": "Charismatic megafauna", "weight": 0.0, "id": 50132718, "level": 3}
+{"count": 112, "name": "Landscape-scale conservation", "weight": 0.0, "id": 2777635537, "level": 3}
+{"count": 124, "name": "Darwin Core", "weight": 0.0, "id": 2780614857, "level": 3}
+{"count": 110, "name": "Paradox of the plankton", "weight": 0.0, "id": 164542323, "level": 3}
+{"count": 268, "name": "Insect biodiversity", "weight": 0.0, "id": 2779562855, "level": 3}
+{"count": 114, "name": "Mesoamerican Biological Corridor", "weight": 0.0, "id": 2778290997, "level": 3}
+{"count": 132, "name": "Subterranean fauna", "weight": 0.0, "id": 2777554435, "level": 3}
+{"count": 174, "name": "Biodiversity offsetting", "weight": 0.0, "id": 2781275782, "level": 3}
+{"count": 64, "name": "Raptor conservation", "weight": 0.0, "id": 2781255553, "level": 3}
+{"count": 83, "name": "Fauna Europaea", "weight": 0.0, "id": 2779391145, "level": 3}
+{"count": 21, "name": "Little greenbul", "weight": 0.0, "id": 2778891640, "level": 3}
+{"count": 48, "name": "Local Biodiversity Action Plan", "weight": 0.0, "id": 2777036725, "level": 3}
+{"count": 37, "name": "Exposed riverine sediments", "weight": 0.0, "id": 2776493684, "level": 3}
+{"count": 26, "name": "Biodiversity banking", "weight": 0.0, "id": 2777541379, "level": 3}
+{"count": 128, "name": "Unified neutral theory of biodiversity", "weight": 0.0, "id": 113535899, "level": 3}
+{"count": 84, "name": "Important Plant Areas", "weight": 0.0, "id": 2780386243, "level": 3}
+{"count": 17, "name": "Copper alloys in aquaculture", "weight": 0.0, "id": 150425831, "level": 3}
+{"count": 146, "name": "All-taxa biodiversity inventory", "weight": 0.0, "id": 198983970, "level": 3}
+{"count": 67, "name": "Catalogue of Life", "weight": 0.0, "id": 124292311, "level": 3}
+{"count": 82, "name": "Megadiverse countries", "weight": 0.0, "id": 76908825, "level": 3}
+{"count": 68, "name": "Economics of biodiversity", "weight": 0.0, "id": 2778553607, "level": 3}
+{"count": 62, "name": "World Register of Marine Species", "weight": 0.0, "id": 78358027, "level": 3}
+{"count": 69, "name": "BioBlitz", "weight": 0.0, "id": 2777972520, "level": 3}
+{"count": 10, "name": "Chiltoniidae", "weight": 0.0, "id": 2777085983, "level": 3}
+{"count": 53, "name": "Marine ecoregions", "weight": 0.0, "id": 2779394710, "level": 3}
+{"count": 94, "name": "The Economics of Ecosystems and Biodiversity", "weight": 0.0, "id": 2776845475, "level": 3}
+{"count": 15, "name": "Analog forestry", "weight": 0.0, "id": 2779742878, "level": 3}
+{"count": 1676, "name": "Measurement of biodiversity", "weight": 1.0, "id": 112276597, "level": 3}
+{"count": 5058, "name": "Intact forest landscape", "weight": 4.0, "id": 203132368, "level": 3}
+{"count": 21, "name": "Latitudinal gradients in species diversity", "weight": 0.0, "id": 2776137284, "level": 3}
+{"count": 19, "name": "Geophaps", "weight": 0.0, "id": 2778274399, "level": 3}
+{"count": 9, "name": "Biodiversity of New Zealand", "weight": 0.0, "id": 2780744633, "level": 3}
+{"count": 20, "name": "Biological Diversity Act, 2002", "weight": 0.0, "id": 2779824222, "level": 3}
+{"count": 15, "name": "Marine Life Information Network", "weight": 0.0, "id": 2780527423, "level": 3}
+{"count": 5, "name": "Organic farming and biodiversity", "weight": 0.0, "id": 2775919763, "level": 3}
+{"count": 1007, "name": "Body size and species richness", "weight": 0.0, "id": 53555805, "level": 3}
+{"count": 15, "name": "International Census of Marine Microbes", "weight": 0.0, "id": 2780532648, "level": 3}
+{"count": 1867, "name": "Aquatic biodiversity research", "weight": 1.0, "id": 152327789, "level": 3}

@@ -1,0 +1,102 @@
+{"count": 7411, "name": "Palaeogeography", "weight": 1.0, "id": 179158327, "level": 3}
+{"count": 13120, "name": "Regional geology", "weight": 2.0, "id": 161028810, "level": 3}
+{"count": 20347, "name": "Sedimentary basin", "weight": 4.0, "id": 200646496, "level": 3}
+{"count": 9781, "name": "Turbidite", "weight": 1.0, "id": 157954998, "level": 3}
+{"count": 6510, "name": "Evaporite", "weight": 1.0, "id": 34221334, "level": 3}
+{"count": 12511, "name": "Paleogene", "weight": 2.0, "id": 204330871, "level": 3}
+{"count": 18029, "name": "Source rock", "weight": 3.0, "id": 126559015, "level": 3}
+{"count": 49314, "name": "Facies", "weight": 10.0, "id": 146588470, "level": 3}
+{"count": 22430, "name": "Permian", "weight": 4.0, "id": 83365034, "level": 3}
+{"count": 6641, "name": "Alluvial fan", "weight": 1.0, "id": 32552466, "level": 3}
+{"count": 3505, "name": "Lithostratigraphy", "weight": 0.0, "id": 40616122, "level": 3}
+{"count": 9719, "name": "Graben", "weight": 1.0, "id": 166839181, "level": 3}
+{"count": 2731, "name": "Basin and range topography", "weight": 0.0, "id": 155627805, "level": 3}
+{"count": 5733, "name": "Vitrinite", "weight": 1.0, "id": 2777101687, "level": 3}
+{"count": 3881, "name": "Diapir", "weight": 0.0, "id": 199007388, "level": 3}
+{"count": 1106, "name": "Tertiary", "weight": 0.0, "id": 9664454, "level": 3}
+{"count": 4062, "name": "Petroleum geology", "weight": 0.0, "id": 128777474, "level": 3}
+{"count": 44070, "name": "Sedimentary depositional environment", "weight": 8.0, "id": 126753816, "level": 3}
+{"count": 2916, "name": "Back-arc basin", "weight": 0.0, "id": 93253190, "level": 3}
+{"count": 12424, "name": "Foreland basin", "weight": 2.0, "id": 193748577, "level": 3}
+{"count": 5689, "name": "Passive margin", "weight": 1.0, "id": 201633675, "level": 3}
+{"count": 12263, "name": "Unconformity", "weight": 2.0, "id": 191735495, "level": 3}
+{"count": 10235, "name": "Anticline", "weight": 2.0, "id": 116637073, "level": 3}
+{"count": 4767, "name": "Siltstone", "weight": 0.0, "id": 187359657, "level": 3}
+{"count": 1412, "name": "Isopach map", "weight": 0.0, "id": 193298577, "level": 3}
+{"count": 7209, "name": "Pennsylvanian", "weight": 1.0, "id": 2779650180, "level": 3}
+{"count": 3701, "name": "Aptian", "weight": 0.0, "id": 189473229, "level": 3}
+{"count": 1328, "name": "Salt tectonics", "weight": 0.0, "id": 113007552, "level": 3}
+{"count": 1297, "name": "Green River Formation", "weight": 0.0, "id": 2776169166, "level": 3}
+{"count": 861, "name": "Transtension", "weight": 0.0, "id": 2777234146, "level": 3}
+{"count": 784, "name": "Canada Basin", "weight": 0.0, "id": 2781451532, "level": 3}
+{"count": 2623, "name": "Red beds", "weight": 0.0, "id": 85124164, "level": 3}
+{"count": 384, "name": "Tectonostratigraphy", "weight": 0.0, "id": 541376634, "level": 3}
+{"count": 1804, "name": "Extensional tectonics", "weight": 0.0, "id": 203457885, "level": 3}
+{"count": 4351, "name": "Syncline", "weight": 0.0, "id": 149465734, "level": 3}
+{"count": 696, "name": "Cyclostratigraphy", "weight": 0.0, "id": 30860409, "level": 3}
+{"count": 2613, "name": "Tectonic uplift", "weight": 0.0, "id": 139419234, "level": 3}
+{"count": 1352, "name": "Growth fault", "weight": 0.0, "id": 57803568, "level": 3}
+{"count": 2482, "name": "Coal measures", "weight": 0.0, "id": 2777031316, "level": 3}
+{"count": 2959, "name": "Hydrocarbon exploration", "weight": 0.0, "id": 2776662147, "level": 3}
+{"count": 647, "name": "Laramide orogeny", "weight": 0.0, "id": 2780515430, "level": 3}
+{"count": 735, "name": "Inversion (geology)", "weight": 0.0, "id": 1893757, "level": 3}
+{"count": 332, "name": "Olistostrome", "weight": 0.0, "id": 2777090337, "level": 3}
+{"count": 933, "name": "Monocline", "weight": 0.0, "id": 127203543, "level": 3}
+{"count": 397, "name": "Hypsometry", "weight": 0.0, "id": 135792833, "level": 3}
+{"count": 3192, "name": "Fault block", "weight": 0.0, "id": 25980409, "level": 3}
+{"count": 361, "name": "Taranaki Basin", "weight": 0.0, "id": 2778325590, "level": 3}
+{"count": 755, "name": "Morrison Formation", "weight": 0.0, "id": 2779564149, "level": 3}
+{"count": 286, "name": "Andean orogeny", "weight": 0.0, "id": 2780220654, "level": 3}
+{"count": 148, "name": "Seismite", "weight": 0.0, "id": 2781187581, "level": 3}
+{"count": 435, "name": "Structural trap", "weight": 0.0, "id": 164279779, "level": 3}
+{"count": 564, "name": "Epeirogenic movement", "weight": 0.0, "id": 82176513, "level": 3}
+{"count": 1693, "name": "Geosyncline", "weight": 0.0, "id": 161820406, "level": 3}
+{"count": 1382, "name": "Prospectivity mapping", "weight": 0.0, "id": 55358776, "level": 3}
+{"count": 667, "name": "Tethys Ocean", "weight": 0.0, "id": 2777598122, "level": 3}
+{"count": 219, "name": "Soft-sediment deformation structures", "weight": 0.0, "id": 2778070095, "level": 3}
+{"count": 189, "name": "Bauru Group", "weight": 0.0, "id": 2776828160, "level": 3}
+{"count": 162, "name": "Santana Formation", "weight": 0.0, "id": 2780785422, "level": 3}
+{"count": 1154, "name": "Stratigraphic section", "weight": 0.0, "id": 2779837711, "level": 3}
+{"count": 174, "name": "Hypsometric curve", "weight": 0.0, "id": 150600104, "level": 3}
+{"count": 255, "name": "South Pole\u2013Aitken basin", "weight": 0.0, "id": 2780556036, "level": 3}
+{"count": 338, "name": "Niobrara Formation", "weight": 0.0, "id": 2779040996, "level": 3}
+{"count": 1146, "name": "Tectonic phase", "weight": 0.0, "id": 105492442, "level": 3}
+{"count": 478, "name": "Aulacogen", "weight": 0.0, "id": 2776725666, "level": 3}
+{"count": 78, "name": "Elliot Formation", "weight": 0.0, "id": 2780263370, "level": 3}
+{"count": 899, "name": "Sverdrup", "weight": 0.0, "id": 38135233, "level": 3}
+{"count": 166, "name": "Sediment basin", "weight": 0.0, "id": 2779023240, "level": 3}
+{"count": 57, "name": "Ruscinian", "weight": 0.0, "id": 2778844327, "level": 3}
+{"count": 583, "name": "Extensional fault", "weight": 0.0, "id": 2780043350, "level": 3}
+{"count": 141, "name": "Endorheic basin", "weight": 0.0, "id": 2778502678, "level": 3}
+{"count": 176, "name": "Pluvial lake", "weight": 0.0, "id": 2777060381, "level": 3}
+{"count": 118, "name": "Lutite", "weight": 0.0, "id": 64699671, "level": 3}
+{"count": 116, "name": "Dinosaur egg", "weight": 0.0, "id": 2776246122, "level": 3}
+{"count": 110, "name": "Section restoration", "weight": 0.0, "id": 2776657771, "level": 3}
+{"count": 171, "name": "Maritimes Basin", "weight": 0.0, "id": 2776019183, "level": 3}
+{"count": 498, "name": "Stratigraphic column", "weight": 0.0, "id": 2781340675, "level": 3}
+{"count": 33, "name": "Shishugou Formation", "weight": 0.0, "id": 2778375452, "level": 3}
+{"count": 1403, "name": "Diachronous", "weight": 0.0, "id": 2776340010, "level": 3}
+{"count": 83, "name": "Eubrontes", "weight": 0.0, "id": 2778475031, "level": 3}
+{"count": 184, "name": "Lance Formation", "weight": 0.0, "id": 2779343979, "level": 3}
+{"count": 33, "name": "Thin-skinned deformation", "weight": 0.0, "id": 2778571564, "level": 3}
+{"count": 42, "name": "Toolebuc Formation", "weight": 0.0, "id": 2781087239, "level": 3}
+{"count": 37, "name": "Lourinh\u00e3 Formation", "weight": 0.0, "id": 2776042622, "level": 3}
+{"count": 23, "name": "Mudcrack", "weight": 0.0, "id": 186455950, "level": 3}
+{"count": 166, "name": "Hogback", "weight": 0.0, "id": 172057297, "level": 3}
+{"count": 165, "name": "Fruitland Formation", "weight": 0.0, "id": 2778107536, "level": 3}
+{"count": 246, "name": "Miogeocline", "weight": 0.0, "id": 10037775, "level": 3}
+{"count": 58, "name": "Neuqu\u00e9n Group", "weight": 0.0, "id": 2780926606, "level": 3}
+{"count": 22, "name": "Tapiroidea", "weight": 0.0, "id": 2778031108, "level": 3}
+{"count": 32, "name": "Wahweap Formation", "weight": 0.0, "id": 2779977034, "level": 3}
+{"count": 33, "name": "Los Molles Formation", "weight": 0.0, "id": 2778452720, "level": 3}
+{"count": 182, "name": "Rock Springs Uplift", "weight": 0.0, "id": 2775845466, "level": 3}
+{"count": 25, "name": "Hovea", "weight": 0.0, "id": 2779063187, "level": 3}
+{"count": 55, "name": "Topography of the Moon", "weight": 0.0, "id": 197325501, "level": 3}
+{"count": 24, "name": "Water distribution on Earth", "weight": 0.0, "id": 160825642, "level": 3}
+{"count": 169, "name": "Erathem", "weight": 0.0, "id": 193530866, "level": 3}
+{"count": 50, "name": "Bedout", "weight": 0.0, "id": 2776191131, "level": 3}
+{"count": 40, "name": "Los Colorados Formation", "weight": 0.0, "id": 2778621982, "level": 3}
+{"count": 26, "name": "Kirtland Formation", "weight": 0.0, "id": 2777008792, "level": 3}
+{"count": 36, "name": "Pullapart", "weight": 0.0, "id": 2776282101, "level": 3}
+{"count": 8, "name": "Paleocene dinosaurs", "weight": 0.0, "id": 2775866890, "level": 3}
+{"count": 16, "name": "Black squirrel", "weight": 0.0, "id": 2777020083, "level": 3}

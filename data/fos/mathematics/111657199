@@ -1,0 +1,12 @@
+{"count": 1858, "name": "Colpitts oscillator", "weight": 4.0, "id": 146847952, "level": 4}
+{"count": 493, "name": "Opto-electronic oscillator", "weight": 1.0, "id": 120097662, "level": 4}
+{"count": 2673, "name": "RC oscillator", "weight": 5.0, "id": 77366373, "level": 4}
+{"count": 3000, "name": "Pierce oscillator", "weight": 6.0, "id": 41611521, "level": 4}
+{"count": 4016, "name": "Variable-frequency oscillator", "weight": 8.0, "id": 120164764, "level": 4}
+{"count": 4527, "name": "Delay line oscillator", "weight": 10.0, "id": 26907483, "level": 4}
+{"count": 192, "name": "Flywheel effect", "weight": 0.0, "id": 114536530, "level": 4}
+{"count": 1439, "name": "Phase-shift oscillator", "weight": 3.0, "id": 142458302, "level": 4}
+{"count": 2095, "name": "Grid dip oscillator", "weight": 4.0, "id": 175099573, "level": 4}
+{"count": 2870, "name": "Oscillator start-up timer", "weight": 6.0, "id": 163871801, "level": 4}
+{"count": 1359, "name": "Crystal oven", "weight": 3.0, "id": 109068341, "level": 4}
+{"count": 1350, "name": "Crystal oscillator frequencies", "weight": 2.0, "id": 11419467, "level": 4}

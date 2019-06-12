@@ -1,0 +1,200 @@
+{"count": 204510, "name": "Signal processing", "weight": 6.0, "id": 104267543, "level": 2}
+{"count": 295155, "name": "Image processing", "weight": 9.0, "id": 9417928, "level": 2}
+{"count": 99426, "name": "Image resolution", "weight": 3.0, "id": 205372480, "level": 2}
+{"count": 149277, "name": "Feature extraction", "weight": 4.0, "id": 52622490, "level": 2}
+{"count": 67975, "name": "Iterative reconstruction", "weight": 2.0, "id": 141379421, "level": 2}
+{"count": 90844, "name": "Frequency domain", "weight": 2.0, "id": 19118579, "level": 2}
+{"count": 158728, "name": "Visualization", "weight": 5.0, "id": 36464697, "level": 2}
+{"count": 85712, "name": "Mobile robot", "weight": 2.0, "id": 19966478, "level": 2}
+{"count": 57941, "name": "Data compression", "weight": 1.0, "id": 78548338, "level": 2}
+{"count": 89194, "name": "Image segmentation", "weight": 2.0, "id": 124504099, "level": 2}
+{"count": 59560, "name": "Medical imaging", "weight": 1.0, "id": 31601959, "level": 2}
+{"count": 33360, "name": "Digital filter", "weight": 1.0, "id": 36390408, "level": 2}
+{"count": 211945, "name": "Filter (signal processing)", "weight": 6.0, "id": 106131492, "level": 2}
+{"count": 80074, "name": "Time domain", "weight": 2.0, "id": 103824480, "level": 2}
+{"count": 66968, "name": "Quantization (signal processing)", "weight": 2.0, "id": 28855332, "level": 2}
+{"count": 78471, "name": "Image quality", "weight": 2.0, "id": 55020928, "level": 2}
+{"count": 57852, "name": "Noise reduction", "weight": 1.0, "id": 163294075, "level": 2}
+{"count": 16344, "name": "Cognitive neuroscience of visual object recognition", "weight": 0.0, "id": 64876066, "level": 2}
+{"count": 59622, "name": "Segmentation", "weight": 1.0, "id": 89600930, "level": 2}
+{"count": 250973, "name": "Pixel", "weight": 8.0, "id": 160633673, "level": 2}
+{"count": 41021, "name": "Computer graphics", "weight": 1.0, "id": 77660652, "level": 2}
+{"count": 37275, "name": "Eye movement", "weight": 1.0, "id": 153050134, "level": 2}
+{"count": 41717, "name": "Facial recognition system", "weight": 1.0, "id": 31510193, "level": 2}
+{"count": 43804, "name": "Sensor fusion", "weight": 1.0, "id": 33954974, "level": 2}
+{"count": 32449, "name": "Low-pass filter", "weight": 1.0, "id": 44682112, "level": 2}
+{"count": 50871, "name": "Synthetic aperture radar", "weight": 1.0, "id": 87360688, "level": 2}
+{"count": 126548, "name": "Wavelet", "weight": 4.0, "id": 47432892, "level": 2}
+{"count": 17044, "name": "Computational geometry", "weight": 0.0, "id": 29123130, "level": 2}
+{"count": 40360, "name": "Object detection", "weight": 1.0, "id": 2776151529, "level": 2}
+{"count": 24595, "name": "Spatial frequency", "weight": 0.0, "id": 100921725, "level": 2}
+{"count": 28621, "name": "Dynamic range", "weight": 0.0, "id": 87133666, "level": 2}
+{"count": 38071, "name": "Motion estimation", "weight": 1.0, "id": 10161872, "level": 2}
+{"count": 75346, "name": "Digital signal processing", "weight": 2.0, "id": 84462506, "level": 2}
+{"count": 44078, "name": "Coordinate system", "weight": 1.0, "id": 80551277, "level": 2}
+{"count": 104709, "name": "Stars", "weight": 3.0, "id": 150846664, "level": 2}
+{"count": 35892, "name": "Machine vision", "weight": 1.0, "id": 5339829, "level": 2}
+{"count": 23217, "name": "Optical imaging", "weight": 0.0, "id": 92630104, "level": 2}
+{"count": 27509, "name": "Facial expression", "weight": 0.0, "id": 195704467, "level": 2}
+{"count": 64733, "name": "Image sensor", "weight": 2.0, "id": 76935873, "level": 2}
+{"count": 7364, "name": "Line-of-sight", "weight": 0.0, "id": 2780928442, "level": 2}
+{"count": 41507, "name": "Field of view", "weight": 1.0, "id": 150627866, "level": 2}
+{"count": 19477, "name": "Solid modeling", "weight": 0.0, "id": 108882727, "level": 2}
+{"count": 35674, "name": "Fusion", "weight": 1.0, "id": 158525013, "level": 2}
+{"count": 43993, "name": "Histogram", "weight": 1.0, "id": 53533937, "level": 2}
+{"count": 37510, "name": "Biometrics", "weight": 1.0, "id": 184297639, "level": 2}
+{"count": 70151, "name": "Brightness", "weight": 2.0, "id": 125245961, "level": 2}
+{"count": 45204, "name": "Transparency (graphic)", "weight": 1.0, "id": 65697883, "level": 2}
+{"count": 24928, "name": "Skeleton (computer programming)", "weight": 0.0, "id": 18969341, "level": 2}
+{"count": 27576, "name": "Image registration", "weight": 0.0, "id": 166704113, "level": 2}
+{"count": 22831, "name": "Region of interest", "weight": 0.0, "id": 19609008, "level": 2}
+{"count": 28888, "name": "Image retrieval", "weight": 0.0, "id": 1667742, "level": 2}
+{"count": 14805, "name": "Figure of merit", "weight": 0.0, "id": 130277099, "level": 2}
+{"count": 64476, "name": "Smoothing", "weight": 2.0, "id": 3770464, "level": 2}
+{"count": 10598, "name": "Aerial photography", "weight": 0.0, "id": 133214962, "level": 2}
+{"count": 21445, "name": "Particle filter", "weight": 0.0, "id": 52421305, "level": 2}
+{"count": 24675, "name": "Discrete cosine transform", "weight": 0.0, "id": 2221639, "level": 2}
+{"count": 12071, "name": "Geometric modeling", "weight": 0.0, "id": 104065381, "level": 2}
+{"count": 35144, "name": "Haptic technology", "weight": 1.0, "id": 152086174, "level": 2}
+{"count": 14647, "name": "Stereopsis", "weight": 0.0, "id": 68537008, "level": 2}
+{"count": 54800, "name": "Watershed", "weight": 1.0, "id": 150547873, "level": 2}
+{"count": 26658, "name": "Eye tracking", "weight": 0.0, "id": 56461940, "level": 2}
+{"count": 35613, "name": "Augmented reality", "weight": 1.0, "id": 153715457, "level": 2}
+{"count": 10890, "name": "Colorimetry", "weight": 0.0, "id": 64299311, "level": 2}
+{"count": 18050, "name": "Ground truth", "weight": 0.0, "id": 146849305, "level": 2}
+{"count": 15911, "name": "Optical flow", "weight": 0.0, "id": 155542232, "level": 2}
+{"count": 15516, "name": "Moving average", "weight": 0.0, "id": 175706884, "level": 2}
+{"count": 19538, "name": "Reference frame", "weight": 0.0, "id": 172849965, "level": 2}
+{"count": 12044, "name": "Motion analysis", "weight": 0.0, "id": 2777036941, "level": 2}
+{"count": 21159, "name": "Compressed sensing", "weight": 0.0, "id": 124851039, "level": 2}
+{"count": 10549, "name": "Level set", "weight": 0.0, "id": 115717442, "level": 2}
+{"count": 30327, "name": "Speckle pattern", "weight": 0.0, "id": 102290492, "level": 2}
+{"count": 14456, "name": "Point spread function", "weight": 0.0, "id": 69179731, "level": 2}
+{"count": 31099, "name": "Hyperspectral imaging", "weight": 1.0, "id": 159078339, "level": 2}
+{"count": 11184, "name": "Color vision", "weight": 0.0, "id": 61674017, "level": 2}
+{"count": 38593, "name": "Tracking system", "weight": 1.0, "id": 154586513, "level": 2}
+{"count": 16422, "name": "Change detection", "weight": 0.0, "id": 203595873, "level": 2}
+{"count": 14718, "name": "Analog-to-digital converter", "weight": 0.0, "id": 2777271169, "level": 2}
+{"count": 303380, "name": "Pulse (signal processing)", "weight": 10.0, "id": 7766398, "level": 2}
+{"count": 11990, "name": "Object model", "weight": 0.0, "id": 20894473, "level": 2}
+{"count": 12407, "name": "Optical transfer function", "weight": 0.0, "id": 175231954, "level": 2}
+{"count": 23718, "name": "Multispectral image", "weight": 0.0, "id": 173163844, "level": 2}
+{"count": 12098, "name": "Superresolution", "weight": 0.0, "id": 141239990, "level": 2}
+{"count": 14397, "name": "Constant false alarm rate", "weight": 0.0, "id": 77052588, "level": 2}
+{"count": 23208, "name": "Photogrammetry", "weight": 0.0, "id": 117455697, "level": 2}
+{"count": 5046, "name": "Scale space", "weight": 0.0, "id": 99102927, "level": 2}
+{"count": 7303, "name": "Level of detail", "weight": 0.0, "id": 41365986, "level": 2}
+{"count": 11921, "name": "Hough transform", "weight": 0.0, "id": 200518788, "level": 2}
+{"count": 7976, "name": "Wiener filter", "weight": 0.0, "id": 18537770, "level": 2}
+{"count": 41615, "name": "Video tracking", "weight": 1.0, "id": 202474056, "level": 2}
+{"count": 37497, "name": "Navigation system", "weight": 1.0, "id": 2777891301, "level": 2}
+{"count": 15710, "name": "3D reconstruction", "weight": 0.0, "id": 109950114, "level": 2}
+{"count": 16587, "name": "Visual inspection", "weight": 0.0, "id": 168820333, "level": 2}
+{"count": 11441, "name": "Human visual system model", "weight": 0.0, "id": 160086991, "level": 2}
+{"count": 26059, "name": "Sonar", "weight": 0.0, "id": 555745239, "level": 2}
+{"count": 27780, "name": "Triangulation (social science)", "weight": 0.0, "id": 84049019, "level": 2}
+{"count": 25068, "name": "Motion compensation", "weight": 0.0, "id": 128840427, "level": 2}
+{"count": 19920, "name": "Fingerprint", "weight": 0.0, "id": 200797679, "level": 2}
+{"count": 11485, "name": "Motion detection", "weight": 0.0, "id": 2780624872, "level": 2}
+{"count": 18458, "name": "Image fusion", "weight": 0.0, "id": 69744172, "level": 2}
+{"count": 9764, "name": "Shape analysis (digital geometry)", "weight": 0.0, "id": 155514235, "level": 2}
+{"count": 12336, "name": "Pose", "weight": 0.0, "id": 52102323, "level": 2}
+{"count": 9833, "name": "Information hiding", "weight": 0.0, "id": 3073032, "level": 2}
+{"count": 16007, "name": "Camera resectioning", "weight": 0.0, "id": 110898773, "level": 2}
+{"count": 20475, "name": "Retinal detachment", "weight": 0.0, "id": 2780428090, "level": 2}
+{"count": 8924, "name": "Optical character recognition", "weight": 0.0, "id": 546480517, "level": 2}
+{"count": 24251, "name": "Shading", "weight": 0.0, "id": 177515723, "level": 2}
+{"count": 3683, "name": "Three-dimensional space", "weight": 0.0, "id": 157498722, "level": 2}
+{"count": 57963, "name": "Gesture", "weight": 1.0, "id": 207347870, "level": 2}
+{"count": 7456, "name": "Linear phase", "weight": 0.0, "id": 20610874, "level": 2}
+{"count": 47184, "name": "Luminance", "weight": 1.0, "id": 73313986, "level": 2}
+{"count": 7890, "name": "Tactile sensor", "weight": 0.0, "id": 46722567, "level": 2}
+{"count": 20822, "name": "Digital camera", "weight": 0.0, "id": 2779705975, "level": 2}
+{"count": 23622, "name": "Thresholding", "weight": 0.0, "id": 191178318, "level": 2}
+{"count": 13958, "name": "Template matching", "weight": 0.0, "id": 158096908, "level": 2}
+{"count": 8738, "name": "Stochastic resonance", "weight": 0.0, "id": 207658827, "level": 2}
+{"count": 12060, "name": "Fingerprint recognition", "weight": 0.0, "id": 168406668, "level": 2}
+{"count": 5143, "name": "Texture mapping", "weight": 0.0, "id": 200585589, "level": 2}
+{"count": 5286, "name": "Phase retrieval", "weight": 0.0, "id": 81793267, "level": 2}
+{"count": 8360, "name": "Binocular vision", "weight": 0.0, "id": 121958486, "level": 2}
+{"count": 6625, "name": "Computer-aided diagnosis", "weight": 0.0, "id": 2779549770, "level": 2}
+{"count": 4706, "name": "Feature detection", "weight": 0.0, "id": 155455680, "level": 2}
+{"count": 20121, "name": "Frame rate", "weight": 0.0, "id": 3261483, "level": 2}
+{"count": 12254, "name": "Steganography", "weight": 0.0, "id": 108801101, "level": 2}
+{"count": 7733, "name": "Radon transform", "weight": 0.0, "id": 197231052, "level": 2}
+{"count": 7993, "name": "Light field", "weight": 0.0, "id": 48983235, "level": 2}
+{"count": 6008, "name": "Spatial relation", "weight": 0.0, "id": 27511587, "level": 2}
+{"count": 5913, "name": "Anisotropic diffusion", "weight": 0.0, "id": 203504353, "level": 2}
+{"count": 8880, "name": "Background subtraction", "weight": 0.0, "id": 32653426, "level": 2}
+{"count": 5825, "name": "Impulse noise", "weight": 0.0, "id": 127372701, "level": 2}
+{"count": 16614, "name": "Vitrectomy", "weight": 0.0, "id": 2781242345, "level": 2}
+{"count": 20121, "name": "Point cloud", "weight": 0.0, "id": 131979681, "level": 2}
+{"count": 7828, "name": "Match moving", "weight": 0.0, "id": 95020103, "level": 2}
+{"count": 7344, "name": "Decorrelation", "weight": 0.0, "id": 177860922, "level": 2}
+{"count": 4845, "name": "Aerial survey", "weight": 0.0, "id": 176262533, "level": 2}
+{"count": 9519, "name": "Motion capture", "weight": 0.0, "id": 48007421, "level": 2}
+{"count": 14759, "name": "JPEG", "weight": 0.0, "id": 198751489, "level": 2}
+{"count": 71733, "name": "Rendering (computer graphics)", "weight": 2.0, "id": 205711294, "level": 2}
+{"count": 3978, "name": "Colour Vision", "weight": 0.0, "id": 2781336979, "level": 2}
+{"count": 4979, "name": "Mean-shift", "weight": 0.0, "id": 48548287, "level": 2}
+{"count": 7382, "name": "Depth map", "weight": 0.0, "id": 141268832, "level": 2}
+{"count": 5615, "name": "Visual servoing", "weight": 0.0, "id": 10912380, "level": 2}
+{"count": 2389, "name": "Correspondence problem", "weight": 0.0, "id": 3004257, "level": 2}
+{"count": 33036, "name": "Stereoscopy", "weight": 1.0, "id": 126057942, "level": 2}
+{"count": 8569, "name": "Orthographic projection", "weight": 0.0, "id": 175694140, "level": 2}
+{"count": 6813, "name": "Spectral imaging", "weight": 0.0, "id": 3232514, "level": 2}
+{"count": 3292, "name": "Photometric stereo", "weight": 0.0, "id": 44365914, "level": 2}
+{"count": 27990, "name": "Video processing", "weight": 0.0, "id": 65483669, "level": 2}
+{"count": 16864, "name": "Inertial measurement unit", "weight": 0.0, "id": 79061980, "level": 2}
+{"count": 10670, "name": "Digital image correlation", "weight": 0.0, "id": 115635565, "level": 2}
+{"count": 6266, "name": "Digital mapping", "weight": 0.0, "id": 181672929, "level": 2}
+{"count": 23920, "name": "Voxel", "weight": 0.0, "id": 54170458, "level": 2}
+{"count": 39550, "name": "Scanner", "weight": 1.0, "id": 2779751349, "level": 2}
+{"count": 2029, "name": "Perspective (graphical)", "weight": 0.0, "id": 12713177, "level": 2}
+{"count": 4368, "name": "Target acquisition", "weight": 0.0, "id": 2779726219, "level": 2}
+{"count": 4553, "name": "Aerial image", "weight": 0.0, "id": 2776429412, "level": 2}
+{"count": 4052, "name": "Distance transform", "weight": 0.0, "id": 73621898, "level": 2}
+{"count": 2625, "name": "Active vision", "weight": 0.0, "id": 193611912, "level": 2}
+{"count": 3437, "name": "Partial volume", "weight": 0.0, "id": 82233179, "level": 2}
+{"count": 4549, "name": "Active appearance model", "weight": 0.0, "id": 83248878, "level": 2}
+{"count": 4585, "name": "Peak signal-to-noise ratio", "weight": 0.0, "id": 154579607, "level": 2}
+{"count": 6173, "name": "Structured light", "weight": 0.0, "id": 193581530, "level": 2}
+{"count": 1599, "name": "Granulometry", "weight": 0.0, "id": 195615627, "level": 2}
+{"count": 15312, "name": "Digitization", "weight": 0.0, "id": 2779308522, "level": 2}
+{"count": 5000, "name": "Depth of field", "weight": 0.0, "id": 183072630, "level": 2}
+{"count": 3463, "name": "Peripheral vision", "weight": 0.0, "id": 185761835, "level": 2}
+{"count": 6264, "name": "Image intensifier", "weight": 0.0, "id": 17504453, "level": 2}
+{"count": 6290, "name": "Point of interest", "weight": 0.0, "id": 150140777, "level": 2}
+{"count": 1911, "name": "Error concealment", "weight": 0.0, "id": 2779751439, "level": 2}
+{"count": 9573, "name": "Dilation (morphology)", "weight": 0.0, "id": 22479172, "level": 2}
+{"count": 3180, "name": "Color constancy", "weight": 0.0, "id": 187888035, "level": 2}
+{"count": 9722, "name": "Professional video camera", "weight": 0.0, "id": 175025161, "level": 2}
+{"count": 1531, "name": "Visual modeling", "weight": 0.0, "id": 2780330621, "level": 2}
+{"count": 5582, "name": "OpenGL", "weight": 0.0, "id": 2778305236, "level": 2}
+{"count": 8287, "name": "3D modeling", "weight": 0.0, "id": 2777897806, "level": 2}
+{"count": 9886, "name": "Aliasing", "weight": 0.0, "id": 4069607, "level": 2}
+{"count": 4502, "name": "Epipolar geometry", "weight": 0.0, "id": 23379248, "level": 2}
+{"count": 2377, "name": "Fundamental matrix (computer vision)", "weight": 0.0, "id": 147946207, "level": 2}
+{"count": 4935, "name": "Active shape model", "weight": 0.0, "id": 129641003, "level": 2}
+{"count": 7481, "name": "Stereo display", "weight": 0.0, "id": 1223959, "level": 2}
+{"count": 4274, "name": "Exponential smoothing", "weight": 0.0, "id": 133710760, "level": 2}
+{"count": 11120, "name": "Parallax", "weight": 0.0, "id": 15759828, "level": 2}
+{"count": 11248, "name": "Contour line", "weight": 0.0, "id": 86069527, "level": 2}
+{"count": 9263, "name": "Chromaticity", "weight": 0.0, "id": 201780734, "level": 2}
+{"count": 5185, "name": "Depth of focus", "weight": 0.0, "id": 38381848, "level": 2}
+{"count": 4903, "name": "Control point", "weight": 0.0, "id": 2777774050, "level": 2}
+{"count": 9651, "name": "Moir\u00e9 pattern", "weight": 0.0, "id": 70000540, "level": 2}
+{"count": 2508, "name": "Pattern recognition (psychology)", "weight": 0.0, "id": 153180895, "level": 2}
+{"count": 3390, "name": "Corner detection", "weight": 0.0, "id": 39499422, "level": 2}
+{"count": 6780, "name": "Vehicle tracking system", "weight": 0.0, "id": 84119951, "level": 2}
+{"count": 12617, "name": "Loudness", "weight": 0.0, "id": 79018884, "level": 2}
+{"count": 2249, "name": "Image-guided surgery", "weight": 0.0, "id": 2777017458, "level": 2}
+{"count": 9241, "name": "Virtual image", "weight": 0.0, "id": 51970089, "level": 2}
+{"count": 1930, "name": "Medial axis", "weight": 0.0, "id": 185877587, "level": 2}
+{"count": 1443, "name": "Marching cubes", "weight": 0.0, "id": 42087268, "level": 2}
+{"count": 6452, "name": "Color difference", "weight": 0.0, "id": 186991048, "level": 2}
+{"count": 1999, "name": "High-definition video", "weight": 0.0, "id": 2780236118, "level": 2}
+{"count": 2290, "name": "Pattern detection", "weight": 0.0, "id": 2776088427, "level": 2}
+{"count": 9955, "name": "Line segment", "weight": 0.0, "id": 182124507, "level": 2}
+{"count": 7447, "name": "Oversampling", "weight": 0.0, "id": 197323446, "level": 2}
+{"count": 3600, "name": "Automatic target recognition", "weight": 0.0, "id": 117623542, "level": 2}

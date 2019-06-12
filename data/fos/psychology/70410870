@@ -1,0 +1,200 @@
+{"count": 150197, "name": "Schizophrenia", "weight": 10.0, "id": 73181058, "level": 2}
+{"count": 87944, "name": "Substance abuse", "weight": 5.0, "id": 40010229, "level": 2}
+{"count": 57233, "name": "Psychopathology", "weight": 3.0, "id": 123273963, "level": 2}
+{"count": 38172, "name": "Bipolar disorder", "weight": 2.0, "id": 2776174506, "level": 2}
+{"count": 73512, "name": "Addiction", "weight": 4.0, "id": 48856860, "level": 2}
+{"count": 32453, "name": "Attention deficit hyperactivity disorder", "weight": 2.0, "id": 2780783007, "level": 2}
+{"count": 19400, "name": "Psychological testing", "weight": 1.0, "id": 163515075, "level": 2}
+{"count": 26234, "name": "Major depressive disorder", "weight": 1.0, "id": 2780051608, "level": 2}
+{"count": 24263, "name": "Intellectual disability", "weight": 1.0, "id": 551499885, "level": 2}
+{"count": 8111, "name": "Conduct disorder", "weight": 0.0, "id": 2780135496, "level": 2}
+{"count": 5539, "name": "Nosology", "weight": 0.0, "id": 72852651, "level": 2}
+{"count": 28777, "name": "Eating disorders", "weight": 1.0, "id": 2776394216, "level": 2}
+{"count": 18450, "name": "Family therapy", "weight": 1.0, "id": 66509814, "level": 2}
+{"count": 18691, "name": "Group psychotherapy", "weight": 1.0, "id": 501888929, "level": 2}
+{"count": 29008, "name": "Occupational therapy", "weight": 1.0, "id": 102190203, "level": 2}
+{"count": 19524, "name": "School psychology", "weight": 1.0, "id": 172712801, "level": 2}
+{"count": 3177, "name": "Defence mechanisms", "weight": 0.0, "id": 7687120, "level": 2}
+{"count": 7111, "name": "Psychopharmacology", "weight": 0.0, "id": 103709681, "level": 2}
+{"count": 19350, "name": "Mindfulness", "weight": 1.0, "id": 2780444219, "level": 2}
+{"count": 10625, "name": "Borderline personality disorder", "weight": 0.0, "id": 2780600973, "level": 2}
+{"count": 8285, "name": "Support group", "weight": 0.0, "id": 2778996113, "level": 2}
+{"count": 9499, "name": "Electroconvulsive therapy", "weight": 0.0, "id": 2777330709, "level": 2}
+{"count": 4823, "name": "Dwell time", "weight": 0.0, "id": 151637689, "level": 2}
+{"count": 21455, "name": "Grief", "weight": 1.0, "id": 2780837026, "level": 2}
+{"count": 11439, "name": "Foster care", "weight": 0.0, "id": 2777935177, "level": 2}
+{"count": 10721, "name": "Hypnosis", "weight": 0.0, "id": 514803892, "level": 2}
+{"count": 4202, "name": "Child Behavior Checklist", "weight": 0.0, "id": 2781192327, "level": 2}
+{"count": 7405, "name": "Positive psychology", "weight": 0.0, "id": 12505134, "level": 2}
+{"count": 4608, "name": "Behavioral medicine", "weight": 0.0, "id": 183698672, "level": 2}
+{"count": 12213, "name": "Child and adolescent psychiatry", "weight": 0.0, "id": 557119937, "level": 2}
+{"count": 1701, "name": "Impulse control disorder", "weight": 0.0, "id": 2781443782, "level": 2}
+{"count": 9379, "name": "Counseling psychology", "weight": 0.0, "id": 16328936, "level": 2}
+{"count": 5508, "name": "Psychological evaluation", "weight": 0.0, "id": 118324377, "level": 2}
+{"count": 2594, "name": "Psychosomatics", "weight": 0.0, "id": 2777869015, "level": 2}
+{"count": 8512, "name": "Neurosis", "weight": 0.0, "id": 2780030894, "level": 2}
+{"count": 5085, "name": "Alexithymia", "weight": 0.0, "id": 2780559815, "level": 2}
+{"count": 4665, "name": "Alcohol use disorder", "weight": 0.0, "id": 2779442783, "level": 2}
+{"count": 11213, "name": "Psychodynamics", "weight": 0.0, "id": 102655426, "level": 2}
+{"count": 11036, "name": "Music therapy", "weight": 0.0, "id": 2779284498, "level": 2}
+{"count": 3422, "name": "Major depressive episode", "weight": 0.0, "id": 2781210005, "level": 2}
+{"count": 2167, "name": "Biological psychiatry", "weight": 0.0, "id": 61535369, "level": 2}
+{"count": 4958, "name": "Forensic psychiatry", "weight": 0.0, "id": 2781035948, "level": 2}
+{"count": 5991, "name": "Neuropsychiatry", "weight": 0.0, "id": 134011695, "level": 2}
+{"count": 5456, "name": "Crisis intervention", "weight": 0.0, "id": 2779615176, "level": 2}
+{"count": 7135, "name": "Art therapy", "weight": 0.0, "id": 2781249023, "level": 2}
+{"count": 8813, "name": "Biopsychosocial model", "weight": 0.0, "id": 137886200, "level": 2}
+{"count": 3535, "name": "Therapeutic community", "weight": 0.0, "id": 2777007179, "level": 2}
+{"count": 4464, "name": "Relapse prevention", "weight": 0.0, "id": 2781089641, "level": 2}
+{"count": 1334, "name": "Not Otherwise Specified", "weight": 0.0, "id": 2777547418, "level": 2}
+{"count": 882, "name": "Sick role", "weight": 0.0, "id": 2777445420, "level": 2}
+{"count": 2627, "name": "Supported employment", "weight": 0.0, "id": 2778965245, "level": 2}
+{"count": 3553, "name": "Acceptance and commitment therapy", "weight": 0.0, "id": 55759595, "level": 2}
+{"count": 3248, "name": "Clinical Global Impression", "weight": 0.0, "id": 2776000289, "level": 2}
+{"count": 3168, "name": "Malingering", "weight": 0.0, "id": 2780731512, "level": 2}
+{"count": 2478, "name": "Bibliotherapy", "weight": 0.0, "id": 2780370499, "level": 2}
+{"count": 3709, "name": "Psychosomatic medicine", "weight": 0.0, "id": 2780414609, "level": 2}
+{"count": 1486, "name": "Research Diagnostic Criteria", "weight": 0.0, "id": 2778990124, "level": 2}
+{"count": 4112, "name": "DSM-5", "weight": 0.0, "id": 2781406353, "level": 2}
+{"count": 353, "name": "Structured Clinical Interview for DSM-IV", "weight": 0.0, "id": 2777890160, "level": 2}
+{"count": 2653, "name": "Posttraumatic growth", "weight": 0.0, "id": 2779995187, "level": 2}
+{"count": 8151, "name": "Rorschach test", "weight": 0.0, "id": 105786092, "level": 2}
+{"count": 2915, "name": "Catatonia", "weight": 0.0, "id": 2778941822, "level": 2}
+{"count": 4485, "name": "Countertransference", "weight": 0.0, "id": 142110763, "level": 2}
+{"count": 1446, "name": "Medical psychology", "weight": 0.0, "id": 122816508, "level": 2}
+{"count": 11352, "name": "Counselor education", "weight": 0.0, "id": 56423290, "level": 2}
+{"count": 3432, "name": "Play therapy", "weight": 0.0, "id": 2776159604, "level": 2}
+{"count": 1527, "name": "Interpersonal psychotherapy", "weight": 0.0, "id": 2777978298, "level": 2}
+{"count": 2108, "name": "Behavioral activation", "weight": 0.0, "id": 148374829, "level": 2}
+{"count": 1854, "name": "Body dysmorphic disorder", "weight": 0.0, "id": 2778455770, "level": 2}
+{"count": 1723, "name": "Alcohol education", "weight": 0.0, "id": 2779557769, "level": 2}
+{"count": 2819, "name": "Compassion fatigue", "weight": 0.0, "id": 11625366, "level": 2}
+{"count": 1068, "name": "Compulsive behavior", "weight": 0.0, "id": 2779275509, "level": 2}
+{"count": 1168, "name": "Brief psychotherapy", "weight": 0.0, "id": 2779660192, "level": 2}
+{"count": 5764, "name": "Therapeutic relationship", "weight": 0.0, "id": 2778633572, "level": 2}
+{"count": 2955, "name": "Dysphoria", "weight": 0.0, "id": 2780421500, "level": 2}
+{"count": 1370, "name": "Child psychotherapy", "weight": 0.0, "id": 15471489, "level": 2}
+{"count": 1272, "name": "Post-traumatic stress disorder (PTSD)", "weight": 0.0, "id": 2778144968, "level": 2}
+{"count": 12175, "name": "Traumatic stress", "weight": 0.0, "id": 2778159538, "level": 2}
+{"count": 1019, "name": "Psychomotor agitation", "weight": 0.0, "id": 2776153860, "level": 2}
+{"count": 3923, "name": "Clinical supervision", "weight": 0.0, "id": 2780895476, "level": 2}
+{"count": 2748, "name": "Psychodrama", "weight": 0.0, "id": 101181784, "level": 2}
+{"count": 1586, "name": "Conversion disorder", "weight": 0.0, "id": 2776029719, "level": 2}
+{"count": 5031, "name": "Psychodynamic psychotherapy", "weight": 0.0, "id": 5458421, "level": 2}
+{"count": 1465, "name": "Social psychiatry", "weight": 0.0, "id": 2777251534, "level": 2}
+{"count": 3064, "name": "Person-centered therapy", "weight": 0.0, "id": 183839525, "level": 2}
+{"count": 3115, "name": "Psychological trauma", "weight": 0.0, "id": 2779936565, "level": 2}
+{"count": 3862, "name": "Medical model", "weight": 0.0, "id": 103000137, "level": 2}
+{"count": 1295, "name": "Psychosurgery", "weight": 0.0, "id": 113514311, "level": 2}
+{"count": 597, "name": "Montgomery\u2013\u00c5sberg Depression Rating Scale", "weight": 0.0, "id": 2775972397, "level": 2}
+{"count": 1763, "name": "Late life depression", "weight": 0.0, "id": 2781357127, "level": 2}
+{"count": 8083, "name": "Insanity", "weight": 0.0, "id": 2779625551, "level": 2}
+{"count": 1075, "name": "Eye movement desensitization and reprocessing", "weight": 0.0, "id": 2779788018, "level": 2}
+{"count": 916, "name": "Obsessive-compulsive disorder (OCD)", "weight": 0.0, "id": 2781034310, "level": 2}
+{"count": 2691, "name": "Pastoral counseling", "weight": 0.0, "id": 42653909, "level": 2}
+{"count": 2763, "name": "Solution focused brief therapy", "weight": 0.0, "id": 141480434, "level": 2}
+{"count": 796, "name": "Factitious disorder", "weight": 0.0, "id": 2780304817, "level": 2}
+{"count": 1968, "name": "Supportive psychotherapy", "weight": 0.0, "id": 203987217, "level": 2}
+{"count": 740, "name": "Atypical depression", "weight": 0.0, "id": 2776571617, "level": 2}
+{"count": 1878, "name": "Abnormal psychology", "weight": 0.0, "id": 9860388, "level": 2}
+{"count": 5300, "name": "Psychiatric assessment", "weight": 0.0, "id": 507311573, "level": 2}
+{"count": 666, "name": "Paraphilia", "weight": 0.0, "id": 2779399600, "level": 2}
+{"count": 429, "name": "CIDI", "weight": 0.0, "id": 2778963718, "level": 2}
+{"count": 478, "name": "Reactive attachment disorder", "weight": 0.0, "id": 2780735195, "level": 2}
+{"count": 675, "name": "Milieu therapy", "weight": 0.0, "id": 2780750145, "level": 2}
+{"count": 434, "name": "Parent\u2013child interaction therapy", "weight": 0.0, "id": 2776256158, "level": 2}
+{"count": 1389, "name": "Life review", "weight": 0.0, "id": 160284661, "level": 2}
+{"count": 1603, "name": "Guided imagery", "weight": 0.0, "id": 2780579538, "level": 2}
+{"count": 893, "name": "History of psychiatry", "weight": 0.0, "id": 2776633033, "level": 2}
+{"count": 395, "name": "Educational therapy", "weight": 0.0, "id": 2776001612, "level": 2}
+{"count": 1355, "name": "Group home", "weight": 0.0, "id": 2779141489, "level": 2}
+{"count": 2659, "name": "Psychiatric history", "weight": 0.0, "id": 2780577388, "level": 2}
+{"count": 627, "name": "Externalizing disorders", "weight": 0.0, "id": 2780620244, "level": 2}
+{"count": 231, "name": "Culture-bound syndrome", "weight": 0.0, "id": 2777840848, "level": 2}
+{"count": 715, "name": "Rational emotive behavior therapy", "weight": 0.0, "id": 2778589756, "level": 2}
+{"count": 484, "name": "Integrative psychotherapy", "weight": 0.0, "id": 2780043985, "level": 2}
+{"count": 1410, "name": "Reality therapy", "weight": 0.0, "id": 174982496, "level": 2}
+{"count": 417, "name": "Kleptomania", "weight": 0.0, "id": 2778267906, "level": 2}
+{"count": 576, "name": "Goal Attainment Scaling", "weight": 0.0, "id": 2780218827, "level": 2}
+{"count": 517, "name": "Melancholic depression", "weight": 0.0, "id": 2781044885, "level": 2}
+{"count": 371, "name": "Aversion therapy", "weight": 0.0, "id": 2778832625, "level": 2}
+{"count": 868, "name": "Combat stress reaction", "weight": 0.0, "id": 82875528, "level": 2}
+{"count": 797, "name": "Pediatric psychology", "weight": 0.0, "id": 2779551531, "level": 2}
+{"count": 639, "name": "Relationship education", "weight": 0.0, "id": 2777851258, "level": 2}
+{"count": 314, "name": "Child Abuse & Neglect", "weight": 0.0, "id": 2777387714, "level": 2}
+{"count": 418, "name": "Moral injury", "weight": 0.0, "id": 2778119281, "level": 2}
+{"count": 391, "name": "Evidence based assessment", "weight": 0.0, "id": 2776326014, "level": 2}
+{"count": 620, "name": "Bender-Gestalt Test", "weight": 0.0, "id": 93568925, "level": 2}
+{"count": 901, "name": "Schedule for Affective Disorders and Schizophrenia", "weight": 0.0, "id": 2780468923, "level": 2}
+{"count": 230, "name": "Elective mutism", "weight": 0.0, "id": 2780485241, "level": 2}
+{"count": 367, "name": "Compulsive gambling", "weight": 0.0, "id": 2777784278, "level": 2}
+{"count": 509, "name": "Folie \u00e0 deux", "weight": 0.0, "id": 2776395905, "level": 2}
+{"count": 514, "name": "Codependency", "weight": 0.0, "id": 2779269121, "level": 2}
+{"count": 2022, "name": "Genogram", "weight": 0.0, "id": 113012060, "level": 2}
+{"count": 391, "name": "Hikikomori", "weight": 0.0, "id": 2781127836, "level": 2}
+{"count": 469, "name": "Hoarding disorder", "weight": 0.0, "id": 2780128776, "level": 2}
+{"count": 196, "name": "Children's Depression Inventory", "weight": 0.0, "id": 2779360842, "level": 2}
+{"count": 133, "name": "Recurrent brief depression", "weight": 0.0, "id": 2779166285, "level": 2}
+{"count": 95, "name": "Clinical behavior analysis", "weight": 0.0, "id": 2780302483, "level": 2}
+{"count": 434, "name": "Psychological injury", "weight": 0.0, "id": 2780781544, "level": 2}
+{"count": 304, "name": "Media psychology", "weight": 0.0, "id": 2776631333, "level": 2}
+{"count": 354, "name": "Christian counseling", "weight": 0.0, "id": 2779445704, "level": 2}
+{"count": 536, "name": "Adult Children of Alcoholics", "weight": 0.0, "id": 2780585919, "level": 2}
+{"count": 751, "name": "Family Environment Scale", "weight": 0.0, "id": 2779590538, "level": 2}
+{"count": 1073, "name": "History of childhood", "weight": 0.0, "id": 2777583440, "level": 2}
+{"count": 226, "name": "Draw-a-Person test", "weight": 0.0, "id": 2776124360, "level": 2}
+{"count": 460, "name": "Residential treatment center", "weight": 0.0, "id": 2776134312, "level": 2}
+{"count": 138, "name": "Zung Self-Rating Depression Scale", "weight": 0.0, "id": 2776510167, "level": 2}
+{"count": 526, "name": "Psychological pain", "weight": 0.0, "id": 2780927187, "level": 2}
+{"count": 249, "name": "Project MATCH", "weight": 0.0, "id": 2780627199, "level": 2}
+{"count": 236, "name": "Obsessive\u2013compulsive spectrum", "weight": 0.0, "id": 2776870773, "level": 2}
+{"count": 142, "name": "Diogenes syndrome", "weight": 0.0, "id": 2777338595, "level": 2}
+{"count": 259, "name": "Cognitive analytic therapy", "weight": 0.0, "id": 2776262678, "level": 2}
+{"count": 247, "name": "Masked depression", "weight": 0.0, "id": 2779968005, "level": 2}
+{"count": 313, "name": "Moral treatment", "weight": 0.0, "id": 2781050254, "level": 2}
+{"count": 130, "name": "Psychedelic experience", "weight": 0.0, "id": 2779638510, "level": 2}
+{"count": 917, "name": "Identity disorder", "weight": 0.0, "id": 2778192564, "level": 2}
+{"count": 179, "name": "Major Depression Inventory", "weight": 0.0, "id": 2776413431, "level": 2}
+{"count": 172, "name": "Acute stress reaction", "weight": 0.0, "id": 2777527556, "level": 2}
+{"count": 430, "name": "Somatic psychology", "weight": 0.0, "id": 136011009, "level": 2}
+{"count": 152, "name": "Anti-psychiatry", "weight": 0.0, "id": 547842712, "level": 2}
+{"count": 272, "name": "Abreaction", "weight": 0.0, "id": 173581319, "level": 2}
+{"count": 185, "name": "Expressive therapy", "weight": 0.0, "id": 2780789691, "level": 2}
+{"count": 127, "name": "Writing therapy", "weight": 0.0, "id": 2779177505, "level": 2}
+{"count": 178, "name": "Moral insanity", "weight": 0.0, "id": 2779298791, "level": 2}
+{"count": 106, "name": "Ganser syndrome", "weight": 0.0, "id": 2780919093, "level": 2}
+{"count": 1375, "name": "History of depression", "weight": 0.0, "id": 2780844640, "level": 2}
+{"count": 61, "name": "Dodo bird verdict", "weight": 0.0, "id": 2779499813, "level": 2}
+{"count": 98, "name": "Thought Field Therapy", "weight": 0.0, "id": 2779763401, "level": 2}
+{"count": 147, "name": "Soteria", "weight": 0.0, "id": 2780531696, "level": 2}
+{"count": 168, "name": "Cognitive behavioral analysis system of psychotherapy", "weight": 0.0, "id": 2779973684, "level": 2}
+{"count": 135, "name": "Psychosynthesis", "weight": 0.0, "id": 2780557310, "level": 2}
+{"count": 93, "name": "Collaborative therapy", "weight": 0.0, "id": 2778846920, "level": 2}
+{"count": 67, "name": "Attachment therapy", "weight": 0.0, "id": 2780303800, "level": 2}
+{"count": 56, "name": "Pervasive refusal syndrome", "weight": 0.0, "id": 2777600974, "level": 2}
+{"count": 416, "name": "Dynamic psychiatry", "weight": 0.0, "id": 121707170, "level": 2}
+{"count": 79, "name": "Complex post-traumatic stress disorder", "weight": 0.0, "id": 2778909031, "level": 2}
+{"count": 94, "name": "Clinical formulation", "weight": 0.0, "id": 2778474494, "level": 2}
+{"count": 87, "name": "Pipotiazine", "weight": 0.0, "id": 2779343625, "level": 2}
+{"count": 947, "name": "Adlerian", "weight": 0.0, "id": 2778534296, "level": 2}
+{"count": 96, "name": "Pathological lying", "weight": 0.0, "id": 2776049519, "level": 2}
+{"count": 47, "name": "Clinical ethnography", "weight": 0.0, "id": 2777650711, "level": 2}
+{"count": 1441, "name": "Management of depression", "weight": 0.0, "id": 2777286182, "level": 2}
+{"count": 97, "name": "Mental breakdown", "weight": 0.0, "id": 2780875785, "level": 2}
+{"count": 165, "name": "Involutional melancholia", "weight": 0.0, "id": 2779449723, "level": 2}
+{"count": 122, "name": "Compulsive buying disorder", "weight": 0.0, "id": 2777722025, "level": 2}
+{"count": 29, "name": "Religious abuse", "weight": 0.0, "id": 2780360556, "level": 2}
+{"count": 91, "name": "Breathwork", "weight": 0.0, "id": 2777341000, "level": 2}
+{"count": 130, "name": "Intensive outpatient program", "weight": 0.0, "id": 2779067814, "level": 2}
+{"count": 24, "name": "Relational disorder", "weight": 0.0, "id": 2781307267, "level": 2}
+{"count": 12, "name": "Ecological counseling", "weight": 0.0, "id": 2780086793, "level": 2}
+{"count": 11, "name": "Direct therapeutic exposure", "weight": 0.0, "id": 2780029542, "level": 2}
+{"count": 829, "name": "Presenting problem", "weight": 0.0, "id": 2779164085, "level": 2}
+{"count": 33, "name": "Posttraumatic embitterment disorder", "weight": 0.0, "id": 2777939205, "level": 2}
+{"count": 86, "name": "Reparenting", "weight": 0.0, "id": 2780425035, "level": 2}
+{"count": 21, "name": "Somatic theory", "weight": 0.0, "id": 106852984, "level": 2}
+{"count": 293, "name": "Collaborative language systems", "weight": 0.0, "id": 11689545, "level": 2}
+{"count": 18, "name": "Post-schizophrenic depression", "weight": 0.0, "id": 2776146474, "level": 2}
+{"count": 31, "name": "Trichotillomania (hair-pulling disorder)", "weight": 0.0, "id": 2780382864, "level": 2}
+{"count": 15, "name": "Concentrative movement therapy", "weight": 0.0, "id": 2778207081, "level": 2}
+{"count": 14, "name": "S-23", "weight": 0.0, "id": 2776020751, "level": 2}

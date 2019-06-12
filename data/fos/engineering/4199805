@@ -1,0 +1,4 @@
+{"count": 4940, "name": "Gradient noise", "weight": 8.0, "id": 200378446, "level": 3}
+{"count": 69, "name": "Anscombe transform", "weight": 0.0, "id": 34599290, "level": 3}
+{"count": 3652, "name": "Noise", "weight": 6.0, "id": 11360483, "level": 3}
+{"count": 5872, "name": "Value noise", "weight": 10.0, "id": 182163834, "level": 3}

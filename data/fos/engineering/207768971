@@ -1,0 +1,5 @@
+{"count": 156, "name": "Shrinking generator", "weight": 4.0, "id": 53962218, "level": 5}
+{"count": 358, "name": "Lagged Fibonacci generator", "weight": 10.0, "id": 11439012, "level": 5}
+{"count": 54, "name": "Alternating step generator", "weight": 1.0, "id": 2780977028, "level": 5}
+{"count": 21, "name": "Inversive congruential generator", "weight": 0.0, "id": 2777748478, "level": 5}
+{"count": 126, "name": "Cryptographically secure pseudorandom number generator", "weight": 3.0, "id": 85539532, "level": 5}

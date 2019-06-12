@@ -1,0 +1,84 @@
+{"count": 41434, "name": "Lithium-ion battery", "weight": 6.0, "id": 2779197387, "level": 3}
+{"count": 63992, "name": "Electric vehicle", "weight": 10.0, "id": 2776422217, "level": 3}
+{"count": 19605, "name": "Lithium battery", "weight": 3.0, "id": 2779004117, "level": 3}
+{"count": 19170, "name": "Lead\u2013acid battery", "weight": 2.0, "id": 50292345, "level": 3}
+{"count": 11827, "name": "State of charge", "weight": 1.0, "id": 2776582896, "level": 3}
+{"count": 2969, "name": "State of health", "weight": 0.0, "id": 2777294910, "level": 3}
+{"count": 601, "name": "Ampere-hour", "weight": 0.0, "id": 204359937, "level": 3}
+{"count": 2577, "name": "Lithium titanate", "weight": 0.0, "id": 2776709159, "level": 3}
+{"count": 7278, "name": "Internal resistance", "weight": 1.0, "id": 106945098, "level": 3}
+{"count": 635, "name": "Self-discharge", "weight": 0.0, "id": 2776650655, "level": 3}
+{"count": 1999, "name": "Lithium\u2013sulfur battery", "weight": 0.0, "id": 2777464112, "level": 3}
+{"count": 1592, "name": "Sodium-ion battery", "weight": 0.0, "id": 2776301907, "level": 3}
+{"count": 6875, "name": "Current collector", "weight": 1.0, "id": 2780874899, "level": 3}
+{"count": 1207, "name": "Primary cell", "weight": 0.0, "id": 147905033, "level": 3}
+{"count": 3544, "name": "Alkaline battery", "weight": 0.0, "id": 164308340, "level": 3}
+{"count": 24855, "name": "Battery pack", "weight": 3.0, "id": 2778508592, "level": 3}
+{"count": 617, "name": "Thin film rechargeable lithium battery", "weight": 0.0, "id": 40731752, "level": 3}
+{"count": 4397, "name": "Flow battery", "weight": 0.0, "id": 2777596839, "level": 3}
+{"count": 895, "name": "Lithium\u2013air battery", "weight": 0.0, "id": 2777602256, "level": 3}
+{"count": 645, "name": "Lithium polymer battery", "weight": 0.0, "id": 2775845653, "level": 3}
+{"count": 1115, "name": "Inductive charging", "weight": 0.0, "id": 2776199953, "level": 3}
+{"count": 4029, "name": "Charge control", "weight": 0.0, "id": 2777681924, "level": 3}
+{"count": 1300, "name": "Overcharge", "weight": 0.0, "id": 2775967586, "level": 3}
+{"count": 2158, "name": "Capacity loss", "weight": 0.0, "id": 2778333438, "level": 3}
+{"count": 584, "name": "Zinc\u2013air battery", "weight": 0.0, "id": 2776325313, "level": 3}
+{"count": 458, "name": "Lithium sulfide", "weight": 0.0, "id": 2779437378, "level": 3}
+{"count": 470, "name": "Nickel\u2013cadmium battery", "weight": 0.0, "id": 2781078820, "level": 3}
+{"count": 308, "name": "Vanadium redox battery", "weight": 0.0, "id": 2779562077, "level": 3}
+{"count": 908, "name": "Solid-state battery", "weight": 0.0, "id": 2778603015, "level": 3}
+{"count": 934, "name": "Thermal Battery", "weight": 0.0, "id": 2777334445, "level": 3}
+{"count": 12716, "name": "Solar battery", "weight": 1.0, "id": 2780179501, "level": 3}
+{"count": 13192, "name": "Automotive battery", "weight": 2.0, "id": 45811908, "level": 3}
+{"count": 1399, "name": "Charge controller", "weight": 0.0, "id": 2776636718, "level": 3}
+{"count": 497, "name": "Battery recycling", "weight": 0.0, "id": 2779495975, "level": 3}
+{"count": 716, "name": "Sodium\u2013sulfur battery", "weight": 0.0, "id": 2778358126, "level": 3}
+{"count": 687, "name": "Lithium-ion capacitor", "weight": 0.0, "id": 2776552312, "level": 3}
+{"count": 595, "name": "Fuel gauge", "weight": 0.0, "id": 2778266487, "level": 3}
+{"count": 735, "name": "Depth of discharge", "weight": 0.0, "id": 2780106510, "level": 3}
+{"count": 896, "name": "Organic radical battery", "weight": 0.0, "id": 190538518, "level": 3}
+{"count": 331, "name": "Lithium peroxide", "weight": 0.0, "id": 2776820912, "level": 3}
+{"count": 736, "name": "Nickel\u2013hydrogen battery", "weight": 0.0, "id": 2777549781, "level": 3}
+{"count": 291, "name": "Recovery effect", "weight": 0.0, "id": 2779497076, "level": 3}
+{"count": 373, "name": "Magnesium battery", "weight": 0.0, "id": 2781335544, "level": 3}
+{"count": 3696, "name": "Separator (electricity)", "weight": 0.0, "id": 68591047, "level": 3}
+{"count": 11721, "name": "Trickle charging", "weight": 1.0, "id": 31419778, "level": 3}
+{"count": 489, "name": "Jelly roll", "weight": 0.0, "id": 2780679820, "level": 3}
+{"count": 175, "name": "Leclanch\u00e9 cell", "weight": 0.0, "id": 136971211, "level": 3}
+{"count": 212, "name": "Peukert's law", "weight": 0.0, "id": 77191026, "level": 3}
+{"count": 8812, "name": "Lithium vanadium phosphate battery", "weight": 1.0, "id": 93078006, "level": 3}
+{"count": 345, "name": "Flexible battery", "weight": 0.0, "id": 2781165733, "level": 3}
+{"count": 412, "name": "Smart Battery", "weight": 0.0, "id": 2780830436, "level": 3}
+{"count": 182, "name": "Betavoltaics", "weight": 0.0, "id": 58811728, "level": 3}
+{"count": 105, "name": "Nanobatteries", "weight": 0.0, "id": 158878444, "level": 3}
+{"count": 758, "name": "Backup battery", "weight": 0.0, "id": 2779084766, "level": 3}
+{"count": 396, "name": "Solar charger", "weight": 0.0, "id": 2779848691, "level": 3}
+{"count": 64, "name": "Biobattery", "weight": 0.0, "id": 2777501433, "level": 3}
+{"count": 190, "name": "Solar controller", "weight": 0.0, "id": 2779601174, "level": 3}
+{"count": 127, "name": "Nickel\u2013zinc battery", "weight": 0.0, "id": 2778858786, "level": 3}
+{"count": 89, "name": "Paper battery", "weight": 0.0, "id": 2778343631, "level": 3}
+{"count": 1155, "name": "Emergency light", "weight": 0.0, "id": 2776901282, "level": 3}
+{"count": 121, "name": "Sodium superoxide", "weight": 0.0, "id": 2781317428, "level": 3}
+{"count": 117, "name": "Thermoelectric battery", "weight": 0.0, "id": 2778494330, "level": 3}
+{"count": 10, "name": "Stand-alone photovoltaic power system", "weight": 0.0, "id": 116437574, "level": 3}
+{"count": 182, "name": "Zinc\u2013bromine battery", "weight": 0.0, "id": 2776698672, "level": 3}
+{"count": 256, "name": "Reserve battery", "weight": 0.0, "id": 2778943143, "level": 3}
+{"count": 294, "name": "Solid-state lithium-ion battery", "weight": 0.0, "id": 60246724, "level": 3}
+{"count": 96, "name": "Solar street light", "weight": 0.0, "id": 2781158724, "level": 3}
+{"count": 137, "name": "Difluorophosphate", "weight": 0.0, "id": 2781267611, "level": 3}
+{"count": 42, "name": "Water-activated battery", "weight": 0.0, "id": 2776694382, "level": 3}
+{"count": 9, "name": "Silicon\u2013air battery", "weight": 0.0, "id": 2775933760, "level": 3}
+{"count": 65, "name": "Battery room", "weight": 0.0, "id": 2777138083, "level": 3}
+{"count": 41, "name": "Deep-cycle battery", "weight": 0.0, "id": 2780430773, "level": 3}
+{"count": 2058, "name": "Battery terminal", "weight": 0.0, "id": 2778486810, "level": 3}
+{"count": 15, "name": "Lithium-ion flow battery", "weight": 0.0, "id": 2777330838, "level": 3}
+{"count": 981, "name": "Battery holder", "weight": 0.0, "id": 2780235282, "level": 3}
+{"count": 91, "name": "Automobile accessory power", "weight": 0.0, "id": 122455520, "level": 3}
+{"count": 91, "name": "Water battery", "weight": 0.0, "id": 2777985195, "level": 3}
+{"count": 27, "name": "Battery eliminator", "weight": 0.0, "id": 115531358, "level": 3}
+{"count": 14, "name": "Stabistor", "weight": 0.0, "id": 2778723715, "level": 3}
+{"count": 10, "name": "Salt water battery", "weight": 0.0, "id": 2779435569, "level": 3}
+{"count": 50, "name": "C battery", "weight": 0.0, "id": 2776180931, "level": 3}
+{"count": 163, "name": "Common battery", "weight": 0.0, "id": 2780849710, "level": 3}
+{"count": 67, "name": "Cigarette lighter receptacle", "weight": 0.0, "id": 2778438806, "level": 3}
+{"count": 26, "name": "Battery isolator", "weight": 0.0, "id": 2779622046, "level": 3}

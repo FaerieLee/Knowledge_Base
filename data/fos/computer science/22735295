@@ -1,0 +1,6 @@
+{"count": 149, "name": "Fast flux", "weight": 2.0, "id": 2781314646, "level": 4}
+{"count": 50, "name": "Domain generation algorithm", "weight": 0.0, "id": 2775836640, "level": 4}
+{"count": 8, "name": "DNS sinkhole", "weight": 0.0, "id": 2780409664, "level": 4}
+{"count": 16, "name": "SMTP Authentication", "weight": 0.0, "id": 2780892451, "level": 4}
+{"count": 543, "name": "Srizbi botnet", "weight": 10.0, "id": 25024680, "level": 4}
+{"count": 174, "name": "Backscatter (email)", "weight": 3.0, "id": 30354325, "level": 4}

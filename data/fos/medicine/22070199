@@ -1,0 +1,51 @@
+{"count": 25745, "name": "Measles", "weight": 10.0, "id": 2776438120, "level": 3}
+{"count": 12656, "name": "Influenza vaccine", "weight": 4.0, "id": 2780689484, "level": 3}
+{"count": 13195, "name": "Rubella", "weight": 5.0, "id": 2778814567, "level": 3}
+{"count": 6989, "name": "Hepatitis B vaccine", "weight": 2.0, "id": 2781037505, "level": 3}
+{"count": 6009, "name": "Whooping cough", "weight": 2.0, "id": 2779214499, "level": 3}
+{"count": 10040, "name": "Smallpox", "weight": 3.0, "id": 2778417375, "level": 3}
+{"count": 3443, "name": "Pneumococcal conjugate vaccine", "weight": 1.0, "id": 2778866548, "level": 3}
+{"count": 3361, "name": "Pertussis vaccine", "weight": 1.0, "id": 2779634000, "level": 3}
+{"count": 3063, "name": "Pneumococcal vaccine", "weight": 1.0, "id": 2779301066, "level": 3}
+{"count": 7706, "name": "Attenuated vaccine", "weight": 2.0, "id": 54602769, "level": 3}
+{"count": 2724, "name": "Herd immunity", "weight": 1.0, "id": 106192422, "level": 3}
+{"count": 4647, "name": "Vaccine efficacy", "weight": 1.0, "id": 2780441014, "level": 3}
+{"count": 1625, "name": "Vaccination schedule", "weight": 0.0, "id": 2780791431, "level": 3}
+{"count": 2639, "name": "Rabies vaccine", "weight": 1.0, "id": 2780674857, "level": 3}
+{"count": 338, "name": "Anthrax vaccines", "weight": 0.0, "id": 2777289321, "level": 3}
+{"count": 1217, "name": "Neonatal tetanus", "weight": 0.0, "id": 2780548902, "level": 3}
+{"count": 3170, "name": "Inactivated vaccine", "weight": 1.0, "id": 2776872762, "level": 3}
+{"count": 1650, "name": "Varicella vaccine", "weight": 0.0, "id": 2780473352, "level": 3}
+{"count": 1094, "name": "Equine influenza", "weight": 0.0, "id": 2778022620, "level": 3}
+{"count": 2033, "name": "Polio vaccine", "weight": 0.0, "id": 2776811989, "level": 3}
+{"count": 1020, "name": "Cholera vaccine", "weight": 0.0, "id": 2777047711, "level": 3}
+{"count": 1086, "name": "Pneumococcal polysaccharide vaccine", "weight": 0.0, "id": 2779664119, "level": 3}
+{"count": 1144, "name": "Vaccine trial", "weight": 0.0, "id": 2778190748, "level": 3}
+{"count": 914, "name": "Vaccination policy", "weight": 0.0, "id": 2775926993, "level": 3}
+{"count": 2995, "name": "Booster dose", "weight": 1.0, "id": 12590561, "level": 3}
+{"count": 910, "name": "Typhoid vaccine", "weight": 0.0, "id": 2776714567, "level": 3}
+{"count": 497, "name": "Tetanus vaccine", "weight": 0.0, "id": 2776210450, "level": 3}
+{"count": 594, "name": "Zoster vaccine", "weight": 0.0, "id": 2776179171, "level": 3}
+{"count": 276, "name": "Pentavalent vaccine", "weight": 0.0, "id": 2776855468, "level": 3}
+{"count": 352, "name": "Cocooning", "weight": 0.0, "id": 131859925, "level": 3}
+{"count": 648, "name": "Hib vaccine", "weight": 0.0, "id": 2779592421, "level": 3}
+{"count": 173, "name": "Breakthrough infection", "weight": 0.0, "id": 2778458107, "level": 3}
+{"count": 149, "name": "Anthrax Vaccine Adsorbed", "weight": 0.0, "id": 2779202972, "level": 3}
+{"count": 246, "name": "DPT vaccine", "weight": 0.0, "id": 2777671536, "level": 3}
+{"count": 308, "name": "Immunization registry", "weight": 0.0, "id": 2777287908, "level": 3}
+{"count": 368, "name": "Canarypox", "weight": 0.0, "id": 2777516842, "level": 3}
+{"count": 590, "name": "Flu season", "weight": 0.0, "id": 2776289493, "level": 3}
+{"count": 675, "name": "Ty21a", "weight": 0.0, "id": 151766403, "level": 3}
+{"count": 267, "name": "Adenovirus vaccine", "weight": 0.0, "id": 2775943909, "level": 3}
+{"count": 56, "name": "Number needed to vaccinate", "weight": 0.0, "id": 27629390, "level": 3}
+{"count": 71, "name": "National Childhood Vaccine Injury Act", "weight": 0.0, "id": 2775859855, "level": 3}
+{"count": 98, "name": "Heterologous vaccine", "weight": 0.0, "id": 2778925809, "level": 3}
+{"count": 209, "name": "Vaccine injury", "weight": 0.0, "id": 2779183088, "level": 3}
+{"count": 131, "name": "Vaccine controversies", "weight": 0.0, "id": 521544366, "level": 3}
+{"count": 119, "name": "Eradication of infectious diseases", "weight": 0.0, "id": 2778851834, "level": 3}
+{"count": 21, "name": "Vaccine Information Statement", "weight": 0.0, "id": 2780248669, "level": 3}
+{"count": 209, "name": "Vaccination of dogs", "weight": 0.0, "id": 2780736543, "level": 3}
+{"count": 18, "name": "Anthrax Vaccine Immunization Program", "weight": 0.0, "id": 2778370962, "level": 3}
+{"count": 131, "name": "Immunization during pregnancy", "weight": 0.0, "id": 2779767904, "level": 3}
+{"count": 1816, "name": "Duck embryo vaccine", "weight": 0.0, "id": 109663412, "level": 3}
+{"count": 22, "name": "Feline vaccination", "weight": 0.0, "id": 2778307161, "level": 3}

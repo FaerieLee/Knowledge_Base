@@ -1,0 +1,6 @@
+{"count": 10703, "name": "Dynamic random-access memory", "weight": 4.0, "id": 118702147, "level": 3}
+{"count": 16263, "name": "Auxiliary memory", "weight": 6.0, "id": 82687282, "level": 3}
+{"count": 20229, "name": "Sense amplifier", "weight": 8.0, "id": 32666082, "level": 3}
+{"count": 23231, "name": "Computer memory", "weight": 9.0, "id": 92855701, "level": 3}
+{"count": 169, "name": "Bit Test", "weight": 0.0, "id": 2777921192, "level": 3}
+{"count": 24635, "name": "Registered memory", "weight": 10.0, "id": 93446704, "level": 3}

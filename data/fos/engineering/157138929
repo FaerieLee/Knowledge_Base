@@ -1,0 +1,14 @@
+{"count": 590, "name": "Wave field synthesis", "weight": 4.0, "id": 2776779763, "level": 3}
+{"count": 809, "name": "Ambisonics", "weight": 6.0, "id": 47726159, "level": 3}
+{"count": 145, "name": "Amplitude panning", "weight": 1.0, "id": 2779435006, "level": 3}
+{"count": 528, "name": "Tweeter", "weight": 4.0, "id": 2778888709, "level": 3}
+{"count": 655, "name": "Woofer", "weight": 5.0, "id": 2779772063, "level": 3}
+{"count": 467, "name": "Subwoofer", "weight": 3.0, "id": 2776606666, "level": 3}
+{"count": 1207, "name": "Directional sound", "weight": 10.0, "id": 104138954, "level": 3}
+{"count": 140, "name": "Room modes", "weight": 1.0, "id": 45409454, "level": 3}
+{"count": 322, "name": "Loudspeaker enclosure", "weight": 2.0, "id": 2780000962, "level": 3}
+{"count": 389, "name": "Electrostatic loudspeaker", "weight": 3.0, "id": 142224149, "level": 3}
+{"count": 398, "name": "Ionophone", "weight": 3.0, "id": 56673454, "level": 3}
+{"count": 17, "name": "Loudspeaker measurement", "weight": 0.0, "id": 2777251772, "level": 3}
+{"count": 370, "name": "Diaphragm (acoustics)", "weight": 3.0, "id": 164292776, "level": 3}
+{"count": 33, "name": "Crystal earpiece", "weight": 0.0, "id": 145047774, "level": 3}

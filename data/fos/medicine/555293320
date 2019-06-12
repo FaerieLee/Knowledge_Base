@@ -1,0 +1,200 @@
+{"count": 259123, "name": "Risk factor", "weight": 7.0, "id": 50440223, "level": 3}
+{"count": 86860, "name": "Vascular disease", "weight": 2.0, "id": 2777466421, "level": 3}
+{"count": 349518, "name": "Blood pressure", "weight": 10.0, "id": 84393581, "level": 3}
+{"count": 287510, "name": "Obesity", "weight": 8.0, "id": 511355011, "level": 3}
+{"count": 253610, "name": "Myocardial infarction", "weight": 7.0, "id": 500558357, "level": 3}
+{"count": 285883, "name": "Kidney", "weight": 8.0, "id": 2780091579, "level": 3}
+{"count": 235440, "name": "Heart disease", "weight": 6.0, "id": 2780074459, "level": 3}
+{"count": 22942, "name": "Pathophysiology", "weight": 0.0, "id": 10162356, "level": 3}
+{"count": 260616, "name": "Insulin", "weight": 7.0, "id": 2779306644, "level": 3}
+{"count": 30361, "name": "Eye disease", "weight": 0.0, "id": 2776148792, "level": 3}
+{"count": 49142, "name": "Oral administration", "weight": 1.0, "id": 2777056448, "level": 3}
+{"count": 45134, "name": "Autoimmune disease", "weight": 1.0, "id": 2779075594, "level": 3}
+{"count": 220352, "name": "Heart failure", "weight": 6.0, "id": 2778198053, "level": 3}
+{"count": 45382, "name": "Blood plasma", "weight": 1.0, "id": 2776575606, "level": 3}
+{"count": 187694, "name": "Cholesterol", "weight": 5.0, "id": 2778163477, "level": 3}
+{"count": 52637, "name": "Gestation", "weight": 1.0, "id": 46973012, "level": 3}
+{"count": 154350, "name": "Body mass index", "weight": 4.0, "id": 2780221984, "level": 3}
+{"count": 104706, "name": "Kidney disease", "weight": 2.0, "id": 2778653478, "level": 3}
+{"count": 132054, "name": "Renal function", "weight": 3.0, "id": 159641895, "level": 3}
+{"count": 201906, "name": "Urinary system", "weight": 5.0, "id": 77411442, "level": 3}
+{"count": 41753, "name": "Physical exercise", "weight": 1.0, "id": 181588539, "level": 3}
+{"count": 129550, "name": "Rheumatoid arthritis", "weight": 3.0, "id": 2777575956, "level": 3}
+{"count": 155159, "name": "Type 2 diabetes", "weight": 4.0, "id": 2777180221, "level": 3}
+{"count": 118716, "name": "Coronary artery disease", "weight": 3.0, "id": 2778213512, "level": 3}
+{"count": 102239, "name": "Pancreas", "weight": 2.0, "id": 2778764654, "level": 3}
+{"count": 79032, "name": "Renin\u2013angiotensin system", "weight": 2.0, "id": 198710026, "level": 3}
+{"count": 38113, "name": "Corticosteroid", "weight": 1.0, "id": 2776804153, "level": 3}
+{"count": 82871, "name": "Hemodialysis", "weight": 2.0, "id": 2778063415, "level": 3}
+{"count": 64044, "name": "Vitamin D and neurology", "weight": 1.0, "id": 124490489, "level": 3}
+{"count": 36343, "name": "Nephrology", "weight": 1.0, "id": 54847362, "level": 3}
+{"count": 171736, "name": "Thyroid", "weight": 4.0, "id": 526584372, "level": 3}
+{"count": 20919, "name": "Systemic disease", "weight": 0.0, "id": 2778674544, "level": 3}
+{"count": 67201, "name": "Malnutrition", "weight": 1.0, "id": 551997983, "level": 3}
+{"count": 36726, "name": "C-reactive protein", "weight": 1.0, "id": 2781195455, "level": 3}
+{"count": 47766, "name": "Weight gain", "weight": 1.0, "id": 2780320433, "level": 3}
+{"count": 68250, "name": "Diarrhea", "weight": 1.0, "id": 2779802037, "level": 3}
+{"count": 91687, "name": "Fibrosis", "weight": 2.0, "id": 2780559512, "level": 3}
+{"count": 51811, "name": "Birth weight", "weight": 1.0, "id": 66322754, "level": 3}
+{"count": 47362, "name": "Cystic fibrosis", "weight": 1.0, "id": 2776938444, "level": 3}
+{"count": 30938, "name": "Retinopathy", "weight": 0.0, "id": 2778313320, "level": 3}
+{"count": 26843, "name": "Hydrocortisone", "weight": 0.0, "id": 2778709874, "level": 3}
+{"count": 45044, "name": "Lipid metabolism", "weight": 1.0, "id": 4733338, "level": 3}
+{"count": 53091, "name": "Ulcerative colitis", "weight": 1.0, "id": 2780479503, "level": 3}
+{"count": 49265, "name": "Muscle hypertrophy", "weight": 1.0, "id": 167414201, "level": 3}
+{"count": 60090, "name": "Gestational age", "weight": 1.0, "id": 2778376644, "level": 3}
+{"count": 105986, "name": "Vitamin", "weight": 3.0, "id": 2776940978, "level": 3}
+{"count": 95162, "name": "Excretion", "weight": 2.0, "id": 10146269, "level": 3}
+{"count": 67687, "name": "Liver transplantation", "weight": 1.0, "id": 2779609443, "level": 3}
+{"count": 53890, "name": "Inflammatory bowel disease", "weight": 1.0, "id": 2778260677, "level": 3}
+{"count": 98135, "name": "Cirrhosis", "weight": 2.0, "id": 2777214474, "level": 3}
+{"count": 87136, "name": "Anemia", "weight": 2.0, "id": 2778248108, "level": 3}
+{"count": 96954, "name": "Hepatitis", "weight": 2.0, "id": 2776029263, "level": 3}
+{"count": 47738, "name": "Pulmonary hypertension", "weight": 1.0, "id": 2780930700, "level": 3}
+{"count": 10049, "name": "Metabolic disorder", "weight": 0.0, "id": 2777735490, "level": 3}
+{"count": 34147, "name": "Cerebral infarction", "weight": 0.0, "id": 2779450755, "level": 3}
+{"count": 33118, "name": "Parathyroid hormone", "weight": 0.0, "id": 2781208988, "level": 3}
+{"count": 53497, "name": "Liver disease", "weight": 1.0, "id": 2777075537, "level": 3}
+{"count": 83250, "name": "Creatinine", "weight": 2.0, "id": 2780306776, "level": 3}
+{"count": 18462, "name": "Sympathetic nervous system", "weight": 0.0, "id": 2776533406, "level": 3}
+{"count": 22534, "name": "Homocysteine", "weight": 0.0, "id": 2777090595, "level": 3}
+{"count": 29226, "name": "Erythropoietin", "weight": 0.0, "id": 2778534260, "level": 3}
+{"count": 42698, "name": "Nephropathy", "weight": 1.0, "id": 2781184683, "level": 3}
+{"count": 31243, "name": "Angiotensin-converting enzyme", "weight": 0.0, "id": 27016395, "level": 3}
+{"count": 65931, "name": "Edema", "weight": 1.0, "id": 2780886150, "level": 3}
+{"count": 35438, "name": "Blood transfusion", "weight": 1.0, "id": 2780014101, "level": 3}
+{"count": 41247, "name": "Fibrinogen", "weight": 1.0, "id": 2779036427, "level": 3}
+{"count": 45634, "name": "Cardiomyopathy", "weight": 1.0, "id": 2778797674, "level": 3}
+{"count": 51672, "name": "Aspirin", "weight": 1.0, "id": 2777628954, "level": 3}
+{"count": 38510, "name": "Parenteral nutrition", "weight": 1.0, "id": 78722104, "level": 3}
+{"count": 11477, "name": "Acute-phase protein", "weight": 0.0, "id": 57194454, "level": 3}
+{"count": 35287, "name": "Epinephrine", "weight": 1.0, "id": 2775859304, "level": 3}
+{"count": 18954, "name": "Coagulopathy", "weight": 0.0, "id": 2779936836, "level": 3}
+{"count": 32855, "name": "Glomerulonephritis", "weight": 0.0, "id": 2780368995, "level": 3}
+{"count": 34305, "name": "Uric acid", "weight": 0.0, "id": 2779881121, "level": 3}
+{"count": 57739, "name": "Pancreatitis", "weight": 1.0, "id": 2775967933, "level": 3}
+{"count": 23823, "name": "Peripheral neuropathy", "weight": 0.0, "id": 2779901536, "level": 3}
+{"count": 36872, "name": "Low birth weight", "weight": 1.0, "id": 2779083892, "level": 3}
+{"count": 67888, "name": "Lupus erythematosus", "weight": 1.0, "id": 2775915377, "level": 3}
+{"count": 28572, "name": "Creatine kinase", "weight": 0.0, "id": 36880943, "level": 3}
+{"count": 52872, "name": "Vomiting", "weight": 1.0, "id": 2780852908, "level": 3}
+{"count": 31191, "name": "Vasculitis", "weight": 0.0, "id": 2776015282, "level": 3}
+{"count": 15699, "name": "Hemolytic anemia", "weight": 0.0, "id": 2776175824, "level": 3}
+{"count": 37262, "name": "Crohn's disease", "weight": 1.0, "id": 2779280984, "level": 3}
+{"count": 76957, "name": "Dialysis", "weight": 2.0, "id": 2779978075, "level": 3}
+{"count": 23175, "name": "Fibrinolysis", "weight": 0.0, "id": 2776825266, "level": 3}
+{"count": 17497, "name": "Arteriosclerosis", "weight": 0.0, "id": 2776393769, "level": 3}
+{"count": 30354, "name": "Endothelial dysfunction", "weight": 0.0, "id": 2780972559, "level": 3}
+{"count": 32659, "name": "Preeclampsia", "weight": 0.0, "id": 2777218350, "level": 3}
+{"count": 27579, "name": "Appetite", "weight": 0.0, "id": 75908981, "level": 3}
+{"count": 20969, "name": "Endothelin receptor", "weight": 0.0, "id": 144980905, "level": 3}
+{"count": 31540, "name": "Fatty liver", "weight": 0.0, "id": 2778772119, "level": 3}
+{"count": 41560, "name": "Ingestion", "weight": 1.0, "id": 193230392, "level": 3}
+{"count": 30318, "name": "Diabetic retinopathy", "weight": 0.0, "id": 2779829184, "level": 3}
+{"count": 26862, "name": "Diabetic nephropathy", "weight": 0.0, "id": 2779922275, "level": 3}
+{"count": 23835, "name": "Heart transplantation", "weight": 0.0, "id": 2778849806, "level": 3}
+{"count": 30767, "name": "Aldosterone", "weight": 0.0, "id": 2778525890, "level": 3}
+{"count": 32986, "name": "Peritoneal dialysis", "weight": 0.0, "id": 2779056158, "level": 3}
+{"count": 34082, "name": "Obstructive sleep apnea", "weight": 0.0, "id": 2776006263, "level": 3}
+{"count": 21023, "name": "Irritable bowel syndrome", "weight": 0.0, "id": 2778271842, "level": 3}
+{"count": 25051, "name": "Propranolol", "weight": 0.0, "id": 2778151854, "level": 3}
+{"count": 18388, "name": "Hypertrophic cardiomyopathy", "weight": 0.0, "id": 2780185194, "level": 3}
+{"count": 33851, "name": "Encephalopathy", "weight": 0.0, "id": 2778621155, "level": 3}
+{"count": 22395, "name": "Gastritis", "weight": 0.0, "id": 2778677798, "level": 3}
+{"count": 14028, "name": "Atrial natriuretic peptide", "weight": 0.0, "id": 2778069365, "level": 3}
+{"count": 5915, "name": "Hemoglobinopathy", "weight": 0.0, "id": 2779668550, "level": 3}
+{"count": 22118, "name": "Erectile dysfunction", "weight": 0.0, "id": 2779929075, "level": 3}
+{"count": 24229, "name": "Prednisone", "weight": 0.0, "id": 2778720950, "level": 3}
+{"count": 24947, "name": "Adiponectin", "weight": 0.0, "id": 2776782570, "level": 3}
+{"count": 27190, "name": "Ferritin", "weight": 0.0, "id": 2778319317, "level": 3}
+{"count": 11667, "name": "National Health and Nutrition Examination Survey", "weight": 0.0, "id": 2779874844, "level": 3}
+{"count": 13198, "name": "Endothelin 1", "weight": 0.0, "id": 149601957, "level": 3}
+{"count": 23654, "name": "Amyloidosis", "weight": 0.0, "id": 2779951007, "level": 3}
+{"count": 26128, "name": "Peptic ulcer", "weight": 0.0, "id": 2780656511, "level": 3}
+{"count": 37081, "name": "Respiratory distress", "weight": 1.0, "id": 141983124, "level": 3}
+{"count": 19944, "name": "Liver biopsy", "weight": 0.0, "id": 2777766500, "level": 3}
+{"count": 10637, "name": "Sickle cell anemia", "weight": 0.0, "id": 2778620579, "level": 3}
+{"count": 11753, "name": "Adrenocorticotropic hormone", "weight": 0.0, "id": 2780546910, "level": 3}
+{"count": 19985, "name": "Sudden cardiac death", "weight": 0.0, "id": 2775935837, "level": 3}
+{"count": 19316, "name": "Cord blood", "weight": 0.0, "id": 2780914630, "level": 3}
+{"count": 17134, "name": "Adrenal cortex", "weight": 0.0, "id": 2777977426, "level": 3}
+{"count": 20350, "name": "Diuretic", "weight": 0.0, "id": 2779918671, "level": 3}
+{"count": 21740, "name": "Nephrotic syndrome", "weight": 0.0, "id": 2778930706, "level": 3}
+{"count": 25194, "name": "Acute kidney injury", "weight": 0.0, "id": 2780472472, "level": 3}
+{"count": 15613, "name": "Liver injury", "weight": 0.0, "id": 2776637226, "level": 3}
+{"count": 14967, "name": "Hyperparathyroidism", "weight": 0.0, "id": 2775945674, "level": 3}
+{"count": 15154, "name": "Hormone therapy", "weight": 0.0, "id": 2780275930, "level": 3}
+{"count": 33263, "name": "Acute pancreatitis", "weight": 0.0, "id": 2776670229, "level": 3}
+{"count": 22780, "name": "Vitamin B12", "weight": 0.0, "id": 2779750884, "level": 3}
+{"count": 23640, "name": "Prednisolone", "weight": 0.0, "id": 2776715498, "level": 3}
+{"count": 19039, "name": "Acidosis", "weight": 0.0, "id": 2778553927, "level": 3}
+{"count": 9816, "name": "Coeliac disease", "weight": 0.0, "id": 2780349322, "level": 3}
+{"count": 6117, "name": "Ciclosporin", "weight": 0.0, "id": 2779528694, "level": 3}
+{"count": 13369, "name": "Nifedipine", "weight": 0.0, "id": 2779066535, "level": 3}
+{"count": 17909, "name": "Infliximab", "weight": 0.0, "id": 2777138892, "level": 3}
+{"count": 14682, "name": "Pheochromocytoma", "weight": 0.0, "id": 2779512018, "level": 3}
+{"count": 10843, "name": "Basal metabolic rate", "weight": 0.0, "id": 82736064, "level": 3}
+{"count": 18520, "name": "Sleep apnea", "weight": 0.0, "id": 2777935920, "level": 3}
+{"count": 29207, "name": "Constipation", "weight": 0.0, "id": 2781112942, "level": 3}
+{"count": 20178, "name": "Bilirubin", "weight": 0.0, "id": 2777513400, "level": 3}
+{"count": 23962, "name": "Aerobic exercise", "weight": 0.0, "id": 103038586, "level": 3}
+{"count": 22229, "name": "Coma", "weight": 0.0, "id": 2779368430, "level": 3}
+{"count": 10326, "name": "Calorie", "weight": 0.0, "id": 40438245, "level": 3}
+{"count": 39016, "name": "Jaundice", "weight": 1.0, "id": 2778456037, "level": 3}
+{"count": 19989, "name": "Myocarditis", "weight": 0.0, "id": 2780875844, "level": 3}
+{"count": 2099, "name": "Tumor necrosis factors", "weight": 0.0, "id": 118776929, "level": 3}
+{"count": 4634, "name": "Autonomic neuropathy", "weight": 0.0, "id": 2777480322, "level": 3}
+{"count": 12662, "name": "Ghrelin", "weight": 0.0, "id": 2779357093, "level": 3}
+{"count": 17764, "name": "Pulmonary edema", "weight": 0.0, "id": 2776468924, "level": 3}
+{"count": 14205, "name": "Adrenalectomy", "weight": 0.0, "id": 2780087391, "level": 3}
+{"count": 8482, "name": "Heart block", "weight": 0.0, "id": 2776661526, "level": 3}
+{"count": 10391, "name": "Primary biliary cirrhosis", "weight": 0.0, "id": 2780366471, "level": 3}
+{"count": 16440, "name": "Myopathy", "weight": 0.0, "id": 2777300911, "level": 3}
+{"count": 31812, "name": "Anorexia", "weight": 0.0, "id": 2778654693, "level": 3}
+{"count": 2382, "name": "Metabolic control analysis", "weight": 0.0, "id": 70818257, "level": 3}
+{"count": 13559, "name": "Sex hormone-binding globulin", "weight": 0.0, "id": 30092816, "level": 3}
+{"count": 15844, "name": "Intracerebral hemorrhage", "weight": 0.0, "id": 2777094939, "level": 3}
+{"count": 16592, "name": "Steatosis", "weight": 0.0, "id": 2776175330, "level": 3}
+{"count": 7651, "name": "Beta-2 microglobulin", "weight": 0.0, "id": 21957315, "level": 3}
+{"count": 14078, "name": "Methylprednisolone", "weight": 0.0, "id": 2780372218, "level": 3}
+{"count": 8589, "name": "Coronary circulation", "weight": 0.0, "id": 2776157398, "level": 3}
+{"count": 14449, "name": "Azathioprine", "weight": 0.0, "id": 2776760755, "level": 3}
+{"count": 10067, "name": "Cachexia", "weight": 0.0, "id": 2777704314, "level": 3}
+{"count": 18564, "name": "Enteral administration", "weight": 0.0, "id": 44315111, "level": 3}
+{"count": 11886, "name": "Amiodarone", "weight": 0.0, "id": 2778094803, "level": 3}
+{"count": 14594, "name": "Atorvastatin", "weight": 0.0, "id": 2777482532, "level": 3}
+{"count": 9761, "name": "Diabetic neuropathy", "weight": 0.0, "id": 2779178840, "level": 3}
+{"count": 11855, "name": "Hypertriglyceridemia", "weight": 0.0, "id": 2776919658, "level": 3}
+{"count": 8012, "name": "Hemochromatosis", "weight": 0.0, "id": 2776590208, "level": 3}
+{"count": 12568, "name": "Metabolic acidosis", "weight": 0.0, "id": 2779246250, "level": 3}
+{"count": 15399, "name": "Glycation", "weight": 0.0, "id": 147990577, "level": 3}
+{"count": 4212, "name": "Acid\u2013base homeostasis", "weight": 0.0, "id": 134746045, "level": 3}
+{"count": 16863, "name": "Gout", "weight": 0.0, "id": 2780402116, "level": 3}
+{"count": 10712, "name": "Acromegaly", "weight": 0.0, "id": 2777433750, "level": 3}
+{"count": 14714, "name": "Gastrointestinal bleeding", "weight": 0.0, "id": 2778080469, "level": 3}
+{"count": 16003, "name": "Thalassemia", "weight": 0.0, "id": 2777799968, "level": 3}
+{"count": 11933, "name": "Uremia", "weight": 0.0, "id": 2776635150, "level": 3}
+{"count": 12343, "name": "Aplastic anemia", "weight": 0.0, "id": 2781440808, "level": 3}
+{"count": 9036, "name": "Intima-media thickness", "weight": 0.0, "id": 2779339615, "level": 3}
+{"count": 5038, "name": "Cushing syndrome", "weight": 0.0, "id": 2779435821, "level": 3}
+{"count": 4890, "name": "Full Term", "weight": 0.0, "id": 2781332025, "level": 3}
+{"count": 9969, "name": "Troponin I", "weight": 0.0, "id": 115725540, "level": 3}
+{"count": 9092, "name": "Octreotide", "weight": 0.0, "id": 2781025020, "level": 3}
+{"count": 20449, "name": "Gestational diabetes", "weight": 0.0, "id": 2779434492, "level": 3}
+{"count": 8294, "name": "Bronchopulmonary dysplasia", "weight": 0.0, "id": 2778721537, "level": 3}
+{"count": 8244, "name": "Guillain-Barre syndrome", "weight": 0.0, "id": 2778691916, "level": 3}
+{"count": 15629, "name": "Hypoxemia", "weight": 0.0, "id": 2776779939, "level": 3}
+{"count": 14290, "name": "Polyneuropathy", "weight": 0.0, "id": 2775892965, "level": 3}
+{"count": 16883, "name": "Carnitine", "weight": 0.0, "id": 2778435403, "level": 3}
+{"count": 10621, "name": "Systemic inflammation", "weight": 0.0, "id": 2776252253, "level": 3}
+{"count": 9473, "name": "Antiphospholipid syndrome", "weight": 0.0, "id": 2776874634, "level": 3}
+{"count": 7608, "name": "Systemic inflammatory response syndrome", "weight": 0.0, "id": 2781090800, "level": 3}
+{"count": 6296, "name": "Myotonic dystrophy", "weight": 0.0, "id": 2778063965, "level": 3}
+{"count": 16807, "name": "Cortisone", "weight": 0.0, "id": 2780484280, "level": 3}
+{"count": 10844, "name": "Disseminated intravascular coagulation", "weight": 0.0, "id": 2778734968, "level": 3}
+{"count": 4834, "name": "Calcinosis", "weight": 0.0, "id": 2775981168, "level": 3}
+{"count": 5091, "name": "D-dimer", "weight": 0.0, "id": 2779519742, "level": 3}
+{"count": 10646, "name": "Short stature", "weight": 0.0, "id": 2777871287, "level": 3}
+{"count": 10561, "name": "Furosemide", "weight": 0.0, "id": 2777955127, "level": 3}
+{"count": 13805, "name": "Erythrocyte sedimentation rate", "weight": 0.0, "id": 2778143017, "level": 3}
+{"count": 12088, "name": "Hyponatremia", "weight": 0.0, "id": 2776703092, "level": 3}

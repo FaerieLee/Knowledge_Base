@@ -1,0 +1,200 @@
+{"count": 37422, "name": "Cognitive development", "weight": 8.0, "id": 140441792, "level": 3}
+{"count": 44188, "name": "Working memory", "weight": 9.0, "id": 21963081, "level": 3}
+{"count": 14897, "name": "Cognitive disorder", "weight": 3.0, "id": 2780566141, "level": 3}
+{"count": 28968, "name": "Social cognition", "weight": 6.0, "id": 86658582, "level": 3}
+{"count": 15673, "name": "Cognitive therapy", "weight": 3.0, "id": 2779477915, "level": 3}
+{"count": 20075, "name": "Cognitive style", "weight": 4.0, "id": 150681269, "level": 3}
+{"count": 10893, "name": "Mental representation", "weight": 2.0, "id": 96199812, "level": 3}
+{"count": 44688, "name": "Neuropsychology", "weight": 10.0, "id": 14216870, "level": 3}
+{"count": 26970, "name": "Metacognition", "weight": 6.0, "id": 118147538, "level": 3}
+{"count": 14048, "name": "Semantic memory", "weight": 3.0, "id": 197914299, "level": 3}
+{"count": 9130, "name": "Recognition memory", "weight": 2.0, "id": 90269970, "level": 3}
+{"count": 12065, "name": "Episodic memory", "weight": 2.0, "id": 88576662, "level": 3}
+{"count": 10612, "name": "Theory of mind", "weight": 2.0, "id": 2779560602, "level": 3}
+{"count": 6196, "name": "Lexical decision task", "weight": 1.0, "id": 126398093, "level": 3}
+{"count": 7417, "name": "Spatial ability", "weight": 1.0, "id": 2778662690, "level": 3}
+{"count": 6201, "name": "Cognitive deficit", "weight": 1.0, "id": 2780749935, "level": 3}
+{"count": 10014, "name": "Mental image", "weight": 2.0, "id": 4051589, "level": 3}
+{"count": 15939, "name": "Effects of sleep deprivation on cognitive performance", "weight": 3.0, "id": 185711340, "level": 3}
+{"count": 19168, "name": "Psychomotor learning", "weight": 4.0, "id": 164953862, "level": 3}
+{"count": 7542, "name": "Connectionism", "weight": 1.0, "id": 8521452, "level": 3}
+{"count": 24051, "name": "Cognitive skill", "weight": 5.0, "id": 134290984, "level": 3}
+{"count": 8035, "name": "Cognitive bias", "weight": 1.0, "id": 189216375, "level": 3}
+{"count": 8930, "name": "Verbal memory", "weight": 1.0, "id": 105641010, "level": 3}
+{"count": 7444, "name": "Free recall", "weight": 1.0, "id": 36668950, "level": 3}
+{"count": 7164, "name": "Experimental psychology", "weight": 1.0, "id": 101068787, "level": 3}
+{"count": 9187, "name": "Cognitive model", "weight": 2.0, "id": 161407221, "level": 3}
+{"count": 5886, "name": "Cognitive map", "weight": 1.0, "id": 170494330, "level": 3}
+{"count": 7193, "name": "Cognitive neuroscience", "weight": 1.0, "id": 17289045, "level": 3}
+{"count": 9706, "name": "Stroop effect", "weight": 2.0, "id": 162967406, "level": 3}
+{"count": 11266, "name": "Cognitive load", "weight": 2.0, "id": 61641136, "level": 3}
+{"count": 5431, "name": "Mini\u2013Mental State Examination", "weight": 1.0, "id": 2779077818, "level": 3}
+{"count": 7075, "name": "Autobiographical memory", "weight": 1.0, "id": 144814538, "level": 3}
+{"count": 5969, "name": "Attentional control", "weight": 1.0, "id": 126139899, "level": 3}
+{"count": 4450, "name": "g factor", "weight": 0.0, "id": 206530858, "level": 3}
+{"count": 4370, "name": "Implicit memory", "weight": 0.0, "id": 15686315, "level": 3}
+{"count": 6046, "name": "Verbal fluency test", "weight": 1.0, "id": 97530452, "level": 3}
+{"count": 5777, "name": "Cognitive restructuring", "weight": 1.0, "id": 6564018, "level": 3}
+{"count": 4651, "name": "Protocol analysis", "weight": 1.0, "id": 133112747, "level": 3}
+{"count": 1410, "name": "Declarative memory", "weight": 0.0, "id": 148089829, "level": 3}
+{"count": 3017, "name": "Mental rotation", "weight": 0.0, "id": 68867621, "level": 3}
+{"count": 1817, "name": "Procedural memory", "weight": 0.0, "id": 164749973, "level": 3}
+{"count": 2550, "name": "Wisconsin Card Sorting Test", "weight": 0.0, "id": 2778420670, "level": 3}
+{"count": 11068, "name": "Executive functions", "weight": 2.0, "id": 2775968953, "level": 3}
+{"count": 1986, "name": "Stimulus onset asynchrony", "weight": 0.0, "id": 2777747462, "level": 3}
+{"count": 4507, "name": "Attentional bias", "weight": 1.0, "id": 152443987, "level": 3}
+{"count": 1988, "name": "Cognitive appraisal", "weight": 0.0, "id": 2778119494, "level": 3}
+{"count": 4022, "name": "Spatial cognition", "weight": 0.0, "id": 2777371692, "level": 3}
+{"count": 9028, "name": "Cognitive test", "weight": 2.0, "id": 6057870, "level": 3}
+{"count": 3065, "name": "Implicit learning", "weight": 0.0, "id": 2777379011, "level": 3}
+{"count": 2853, "name": "Task switching", "weight": 0.0, "id": 93500599, "level": 3}
+{"count": 5851, "name": "Cognitive flexibility", "weight": 1.0, "id": 66102695, "level": 3}
+{"count": 3418, "name": "Cognitive Assessment System", "weight": 0.0, "id": 117812244, "level": 3}
+{"count": 3109, "name": "Relevance theory", "weight": 0.0, "id": 2776802673, "level": 3}
+{"count": 2661, "name": "False memory", "weight": 0.0, "id": 2779086471, "level": 3}
+{"count": 3459, "name": "Cognitive architecture", "weight": 0.0, "id": 20854674, "level": 3}
+{"count": 888, "name": "Cognitive apprenticeship", "weight": 0.0, "id": 2778573382, "level": 3}
+{"count": 1548, "name": "Repetition priming", "weight": 0.0, "id": 101083039, "level": 3}
+{"count": 2718, "name": "Trail Making Test", "weight": 0.0, "id": 2778355293, "level": 3}
+{"count": 3769, "name": "Automaticity", "weight": 0.0, "id": 33002781, "level": 3}
+{"count": 7180, "name": "Cognitive linguistics", "weight": 1.0, "id": 207551092, "level": 3}
+{"count": 2659, "name": "Prospective memory", "weight": 0.0, "id": 39628806, "level": 3}
+{"count": 1533, "name": "Situated cognition", "weight": 0.0, "id": 80944243, "level": 3}
+{"count": 19529, "name": "Neurocognitive", "weight": 4.0, "id": 172467417, "level": 3}
+{"count": 2308, "name": "Cognitive complexity", "weight": 0.0, "id": 171022839, "level": 3}
+{"count": 1414, "name": "Socially distributed cognition", "weight": 0.0, "id": 17037162, "level": 3}
+{"count": 441, "name": "Association (psychology)", "weight": 0.0, "id": 142853389, "level": 3}
+{"count": 2100, "name": "Causal reasoning", "weight": 0.0, "id": 115086926, "level": 3}
+{"count": 1044, "name": "Negative priming", "weight": 0.0, "id": 2776188103, "level": 3}
+{"count": 1698, "name": "Attentional blink", "weight": 0.0, "id": 26344738, "level": 3}
+{"count": 3866, "name": "Cognitive rehabilitation therapy", "weight": 0.0, "id": 68015696, "level": 3}
+{"count": 1838, "name": "Need for cognition", "weight": 0.0, "id": 53371666, "level": 3}
+{"count": 806, "name": "Stimulus\u2013response compatibility", "weight": 0.0, "id": 2777540489, "level": 3}
+{"count": 4390, "name": "Verbal reasoning", "weight": 0.0, "id": 36964233, "level": 3}
+{"count": 2292, "name": "Cognitive robotics", "weight": 0.0, "id": 192327766, "level": 3}
+{"count": 1320, "name": "Animal cognition", "weight": 0.0, "id": 41690226, "level": 3}
+{"count": 1659, "name": "Numerical cognition", "weight": 0.0, "id": 45768438, "level": 3}
+{"count": 3429, "name": "Conceptual metaphor", "weight": 0.0, "id": 2776402256, "level": 3}
+{"count": 1436, "name": "Linguistic relativity", "weight": 0.0, "id": 101755528, "level": 3}
+{"count": 1357, "name": "Iowa gambling task", "weight": 0.0, "id": 2776889708, "level": 3}
+{"count": 1456, "name": "Community of inquiry", "weight": 0.0, "id": 2776954719, "level": 3}
+{"count": 508, "name": "Psychological refractory period", "weight": 0.0, "id": 128107645, "level": 3}
+{"count": 2320, "name": "Cognitive reserve", "weight": 0.0, "id": 67739388, "level": 3}
+{"count": 3548, "name": "Cognitive training", "weight": 0.0, "id": 2779602242, "level": 3}
+{"count": 2880, "name": "Cognitivism (psychology)", "weight": 0.0, "id": 111761982, "level": 3}
+{"count": 3877, "name": "Cognitive remediation therapy", "weight": 0.0, "id": 63529061, "level": 3}
+{"count": 597, "name": "Symbol grounding", "weight": 0.0, "id": 137323160, "level": 3}
+{"count": 526, "name": "Digit symbol substitution test", "weight": 0.0, "id": 2777965283, "level": 3}
+{"count": 1038, "name": "Serial reaction time", "weight": 0.0, "id": 2781114239, "level": 3}
+{"count": 745, "name": "Boston Naming Test", "weight": 0.0, "id": 2780046773, "level": 3}
+{"count": 2840, "name": "Information processing theory", "weight": 0.0, "id": 83056255, "level": 3}
+{"count": 390, "name": "Human Problem Solving", "weight": 0.0, "id": 2780437162, "level": 3}
+{"count": 849, "name": "Thought suppression", "weight": 0.0, "id": 39306721, "level": 3}
+{"count": 1456, "name": "Language and thought", "weight": 0.0, "id": 2777508679, "level": 3}
+{"count": 753, "name": "Fluid and crystallized intelligence", "weight": 0.0, "id": 207054656, "level": 3}
+{"count": 803, "name": "Relational frame theory", "weight": 0.0, "id": 49815771, "level": 3}
+{"count": 3147, "name": "Executive dysfunction", "weight": 0.0, "id": 2779985164, "level": 3}
+{"count": 754, "name": "Simon effect", "weight": 0.0, "id": 2778510705, "level": 3}
+{"count": 1194, "name": "Dual process theory", "weight": 0.0, "id": 178469349, "level": 3}
+{"count": 718, "name": "Inattentional blindness", "weight": 0.0, "id": 93173128, "level": 3}
+{"count": 589, "name": "Cognitive anthropology", "weight": 0.0, "id": 2777462307, "level": 3}
+{"count": 931, "name": "Mild cognitive impairment (MCI)", "weight": 0.0, "id": 2781457404, "level": 3}
+{"count": 299, "name": "National Adult Reading Test", "weight": 0.0, "id": 2780105673, "level": 3}
+{"count": 1188, "name": "Enactivism", "weight": 0.0, "id": 2777407727, "level": 3}
+{"count": 1750, "name": "Cognitive semantics", "weight": 0.0, "id": 66332616, "level": 3}
+{"count": 3296, "name": "Think aloud protocol", "weight": 0.0, "id": 78821406, "level": 3}
+{"count": 928, "name": "Mind-wandering", "weight": 0.0, "id": 2781283594, "level": 3}
+{"count": 1904, "name": "Conceptual blending", "weight": 0.0, "id": 171342078, "level": 3}
+{"count": 1139, "name": "Cognitive grammar", "weight": 0.0, "id": 2780388011, "level": 3}
+{"count": 1719, "name": "Dissociation (neuropsychology)", "weight": 0.0, "id": 54993090, "level": 3}
+{"count": 369, "name": "Cognitive tutor", "weight": 0.0, "id": 2776818741, "level": 3}
+{"count": 7928, "name": "Elementary cognitive task", "weight": 1.0, "id": 119653847, "level": 3}
+{"count": 673, "name": "Wason selection task", "weight": 0.0, "id": 28588626, "level": 3}
+{"count": 1149, "name": "Cognitive interview", "weight": 0.0, "id": 75969862, "level": 3}
+{"count": 483, "name": "Somatic marker hypothesis", "weight": 0.0, "id": 58865670, "level": 3}
+{"count": 1509, "name": "Cognitive strategy", "weight": 0.0, "id": 2781410774, "level": 3}
+{"count": 4442, "name": "Behaviour therapy", "weight": 0.0, "id": 2779998952, "level": 3}
+{"count": 459, "name": "Paced Auditory Serial Addition Test", "weight": 0.0, "id": 2780978199, "level": 3}
+{"count": 1179, "name": "Affective neuroscience", "weight": 0.0, "id": 14855644, "level": 3}
+{"count": 205, "name": "Affect heuristic", "weight": 0.0, "id": 192113484, "level": 3}
+{"count": 504, "name": "Implicit cognition", "weight": 0.0, "id": 48329741, "level": 3}
+{"count": 447, "name": "Subitizing", "weight": 0.0, "id": 52646826, "level": 3}
+{"count": 2520, "name": "Raven's Progressive Matrices", "weight": 0.0, "id": 173354102, "level": 3}
+{"count": 2121, "name": "Levels-of-processing effect", "weight": 0.0, "id": 49790547, "level": 3}
+{"count": 698, "name": "Closure (psychology)", "weight": 0.0, "id": 146834321, "level": 3}
+{"count": 885, "name": "Cognitive vulnerability", "weight": 0.0, "id": 2778079588, "level": 3}
+{"count": 747, "name": "Memory development", "weight": 0.0, "id": 2778689963, "level": 3}
+{"count": 549, "name": "Comparative cognition", "weight": 0.0, "id": 82407246, "level": 3}
+{"count": 537, "name": "Cognitive work analysis", "weight": 0.0, "id": 2776156862, "level": 3}
+{"count": 1064, "name": "Cognitive reappraisal", "weight": 0.0, "id": 2776376825, "level": 3}
+{"count": 857, "name": "Prototype theory", "weight": 0.0, "id": 73798356, "level": 3}
+{"count": 555, "name": "Flynn effect", "weight": 0.0, "id": 14883731, "level": 3}
+{"count": 335, "name": "Metarepresentation", "weight": 0.0, "id": 2781224204, "level": 3}
+{"count": 249, "name": "Primate cognition", "weight": 0.0, "id": 78164738, "level": 3}
+{"count": 608, "name": "Motivated forgetting", "weight": 0.0, "id": 95012187, "level": 3}
+{"count": 2576, "name": "Cognitive evaluation theory", "weight": 0.0, "id": 167327282, "level": 3}
+{"count": 2398, "name": "Montreal Cognitive Assessment", "weight": 0.0, "id": 2776632958, "level": 3}
+{"count": 403, "name": "Conjunction fallacy", "weight": 0.0, "id": 53764606, "level": 3}
+{"count": 346, "name": "Self-schema", "weight": 0.0, "id": 31317966, "level": 3}
+{"count": 427, "name": "Cultural cognition", "weight": 0.0, "id": 2779288232, "level": 3}
+{"count": 1653, "name": "Cognitive dimensions of notations", "weight": 0.0, "id": 134052142, "level": 3}
+{"count": 1664, "name": "Rational analysis", "weight": 0.0, "id": 191301653, "level": 3}
+{"count": 1993, "name": "Cognitive resource theory", "weight": 0.0, "id": 150420422, "level": 3}
+{"count": 498, "name": "Exemplar theory", "weight": 0.0, "id": 49926397, "level": 3}
+{"count": 495, "name": "Mental calculation", "weight": 0.0, "id": 2780485941, "level": 3}
+{"count": 876, "name": "Cognitive computing", "weight": 0.0, "id": 92298750, "level": 3}
+{"count": 300, "name": "Representational momentum", "weight": 0.0, "id": 2777957826, "level": 3}
+{"count": 1341, "name": "Mental process", "weight": 0.0, "id": 2777500436, "level": 3}
+{"count": 320, "name": "Conceptual combination", "weight": 0.0, "id": 2779936901, "level": 3}
+{"count": 815, "name": "Cognitive science of religion", "weight": 0.0, "id": 103432861, "level": 3}
+{"count": 375, "name": "Extended cognition", "weight": 0.0, "id": 2777471729, "level": 3}
+{"count": 534, "name": "Cognitive inhibition", "weight": 0.0, "id": 2777696881, "level": 3}
+{"count": 206, "name": "Topographical disorientation", "weight": 0.0, "id": 2779358084, "level": 3}
+{"count": 179, "name": "Global Workspace Theory", "weight": 0.0, "id": 17122024, "level": 3}
+{"count": 331, "name": "Dual-coding theory", "weight": 0.0, "id": 2779789724, "level": 3}
+{"count": 404, "name": "Evolution of human intelligence", "weight": 0.0, "id": 27873384, "level": 3}
+{"count": 79, "name": "Structure mapping engine", "weight": 0.0, "id": 50648415, "level": 3}
+{"count": 613, "name": "Unconscious thought theory", "weight": 0.0, "id": 40808061, "level": 3}
+{"count": 505, "name": "Cognitive poetics", "weight": 0.0, "id": 2779874392, "level": 3}
+{"count": 321, "name": "Illusory correlation", "weight": 0.0, "id": 130112774, "level": 3}
+{"count": 338, "name": "Neuroenhancement", "weight": 0.0, "id": 2778434424, "level": 3}
+{"count": 390, "name": "Dual-task paradigm", "weight": 0.0, "id": 2780082581, "level": 3}
+{"count": 1295, "name": "Wechsler Memory Scale", "weight": 0.0, "id": 2778501587, "level": 3}
+{"count": 1006, "name": "Somatic anxiety", "weight": 0.0, "id": 2778213172, "level": 3}
+{"count": 1266, "name": "Memory clinic", "weight": 0.0, "id": 2776656118, "level": 3}
+{"count": 516, "name": "Cognitive revolution", "weight": 0.0, "id": 2777930405, "level": 3}
+{"count": 472, "name": "Useful field of view", "weight": 0.0, "id": 130388937, "level": 3}
+{"count": 302, "name": "Cognitive ethology", "weight": 0.0, "id": 46345823, "level": 3}
+{"count": 191, "name": "Cognitive archaeology", "weight": 0.0, "id": 2780405753, "level": 3}
+{"count": 1185, "name": "Self-perception theory", "weight": 0.0, "id": 113445564, "level": 3}
+{"count": 296, "name": "Integrative complexity", "weight": 0.0, "id": 2776616990, "level": 3}
+{"count": 360, "name": "Visual reasoning", "weight": 0.0, "id": 2777508537, "level": 3}
+{"count": 618, "name": "Exposure and response prevention", "weight": 0.0, "id": 2778458363, "level": 3}
+{"count": 236, "name": "Neuroergonomics", "weight": 0.0, "id": 105614097, "level": 3}
+{"count": 167, "name": "Na\u00efve physics", "weight": 0.0, "id": 2776357353, "level": 3}
+{"count": 291, "name": "Recognition heuristic", "weight": 0.0, "id": 175285421, "level": 3}
+{"count": 1109, "name": "Bloom's taxonomy", "weight": 0.0, "id": 59157022, "level": 3}
+{"count": 266, "name": "Behavioral geography", "weight": 0.0, "id": 103057088, "level": 3}
+{"count": 249, "name": "Global precedence", "weight": 0.0, "id": 2776933227, "level": 3}
+{"count": 363, "name": "Belief bias", "weight": 0.0, "id": 168967151, "level": 3}
+{"count": 291, "name": "Mere-exposure effect", "weight": 0.0, "id": 124590788, "level": 3}
+{"count": 228, "name": "Mouse tracking", "weight": 0.0, "id": 2780033017, "level": 3}
+{"count": 23, "name": "Hard\u2013easy effect", "weight": 0.0, "id": 2776496010, "level": 3}
+{"count": 297, "name": "Positivity effect", "weight": 0.0, "id": 2780257237, "level": 3}
+{"count": 445, "name": "Set (psychology)", "weight": 0.0, "id": 165120375, "level": 3}
+{"count": 159, "name": "Illusory conjunctions", "weight": 0.0, "id": 2778747078, "level": 3}
+{"count": 130, "name": "Machiavellian intelligence", "weight": 0.0, "id": 2780892149, "level": 3}
+{"count": 181, "name": "Hyperlexia", "weight": 0.0, "id": 2780631329, "level": 3}
+{"count": 1553, "name": "Response priming", "weight": 0.0, "id": 154317770, "level": 3}
+{"count": 256, "name": "Cognitive Reflection Test", "weight": 0.0, "id": 2776067136, "level": 3}
+{"count": 157, "name": "Depressive realism", "weight": 0.0, "id": 2781160062, "level": 3}
+{"count": 242, "name": "Group cognition", "weight": 0.0, "id": 2780591729, "level": 3}
+{"count": 147, "name": "Perseverative cognition", "weight": 0.0, "id": 2781220765, "level": 3}
+{"count": 105, "name": "Folk biology", "weight": 0.0, "id": 2777577840, "level": 3}
+{"count": 124, "name": "Functional fixedness", "weight": 0.0, "id": 31275769, "level": 3}
+{"count": 308, "name": "Conation", "weight": 0.0, "id": 2777749747, "level": 3}
+{"count": 112, "name": "CHREST", "weight": 0.0, "id": 57232318, "level": 3}
+{"count": 151, "name": "Savant syndrome", "weight": 0.0, "id": 2776075615, "level": 3}
+{"count": 623, "name": "Triarchic theory of intelligence", "weight": 0.0, "id": 100815425, "level": 3}
+{"count": 186, "name": "Addenbrooke's cognitive examination", "weight": 0.0, "id": 2780952426, "level": 3}
+{"count": 167, "name": "Fictive motion", "weight": 0.0, "id": 2778431290, "level": 3}

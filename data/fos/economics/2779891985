@@ -1,0 +1,11 @@
+{"count": 7307, "name": "Telehealth", "weight": 10.0, "id": 2781050511, "level": 4}
+{"count": 1833, "name": "Teleradiology", "weight": 2.0, "id": 73884952, "level": 4}
+{"count": 2098, "name": "Telecare", "weight": 2.0, "id": 2780519836, "level": 4}
+{"count": 1036, "name": "Telepathology", "weight": 1.0, "id": 91803115, "level": 4}
+{"count": 1200, "name": "Telerehabilitation", "weight": 1.0, "id": 2777053404, "level": 4}
+{"count": 1015, "name": "Teledermatology", "weight": 1.0, "id": 2776207752, "level": 4}
+{"count": 897, "name": "Telepsychiatry", "weight": 1.0, "id": 2776716344, "level": 4}
+{"count": 229, "name": "Telehomecare", "weight": 0.0, "id": 2779131668, "level": 4}
+{"count": 217, "name": "Teleophthalmology", "weight": 0.0, "id": 2778341591, "level": 4}
+{"count": 214, "name": "Teledentistry", "weight": 0.0, "id": 2778212888, "level": 4}
+{"count": 163, "name": "Telepharmacy", "weight": 0.0, "id": 2781023665, "level": 4}

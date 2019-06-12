@@ -1,0 +1,31 @@
+{"count": 1679, "name": "National Synchrotron Light Source", "weight": 3.0, "id": 2781127894, "level": 4}
+{"count": 2986, "name": "Synchrotron Radiation Source", "weight": 6.0, "id": 2779320509, "level": 4}
+{"count": 4395, "name": "Beam emittance", "weight": 10.0, "id": 2779259746, "level": 4}
+{"count": 1579, "name": "Advanced Photon Source", "weight": 3.0, "id": 2777681622, "level": 4}
+{"count": 1118, "name": "Superconducting Super Collider", "weight": 2.0, "id": 2780117330, "level": 4}
+{"count": 688, "name": "Alternating Gradient Synchrotron", "weight": 1.0, "id": 2781127097, "level": 4}
+{"count": 1167, "name": "Radio-frequency quadrupole", "weight": 2.0, "id": 2776360784, "level": 4}
+{"count": 535, "name": "Self-amplified spontaneous emission", "weight": 1.0, "id": 2780352143, "level": 4}
+{"count": 584, "name": "Accelerator Test Facility", "weight": 1.0, "id": 2779363670, "level": 4}
+{"count": 445, "name": "Energy recovery linac", "weight": 1.0, "id": 2777035527, "level": 4}
+{"count": 637, "name": "Stochastic cooling", "weight": 1.0, "id": 2780778643, "level": 4}
+{"count": 1053, "name": "Cryomodule", "weight": 2.0, "id": 2776419835, "level": 4}
+{"count": 3108, "name": "Accelerator physics", "weight": 7.0, "id": 13476937, "level": 4}
+{"count": 1137, "name": "Dynamic aperture", "weight": 2.0, "id": 2777609063, "level": 4}
+{"count": 125, "name": "Very Large Hadron Collider", "weight": 0.0, "id": 2776316070, "level": 4}
+{"count": 2795, "name": "Muon collider", "weight": 6.0, "id": 106152062, "level": 4}
+{"count": 143, "name": "Proton Synchrotron Booster", "weight": 0.0, "id": 2780544767, "level": 4}
+{"count": 73, "name": "LHC Accelerator Research Program", "weight": 0.0, "id": 2780442807, "level": 4}
+{"count": 65, "name": "Advanced Accelerator Applications", "weight": 0.0, "id": 2776362555, "level": 4}
+{"count": 346, "name": "Intrabeam scattering", "weight": 0.0, "id": 2777564094, "level": 4}
+{"count": 217, "name": "Crab cavity", "weight": 0.0, "id": 2777722893, "level": 4}
+{"count": 100, "name": "Dielectric wall accelerator", "weight": 0.0, "id": 2780039666, "level": 4}
+{"count": 75, "name": "Touschek effect", "weight": 0.0, "id": 2780307158, "level": 4}
+{"count": 303, "name": "Momentum compaction", "weight": 0.0, "id": 2777914903, "level": 4}
+{"count": 81, "name": "Electron-cloud effect", "weight": 0.0, "id": 2779250170, "level": 4}
+{"count": 15, "name": "Kilpatrick limit", "weight": 0.0, "id": 2776684880, "level": 4}
+{"count": 24, "name": "Argonne Tandem Linear Accelerator System", "weight": 0.0, "id": 2778991584, "level": 4}
+{"count": 45, "name": "Global Design Effort", "weight": 0.0, "id": 2780068673, "level": 4}
+{"count": 372, "name": "SARAF \u2013 Soreq Applied Research Accelerator Facility", "weight": 0.0, "id": 165702262, "level": 4}
+{"count": 222, "name": "Luminosity (scattering theory)", "weight": 0.0, "id": 193137535, "level": 4}
+{"count": 221, "name": "EMMA", "weight": 0.0, "id": 61113390, "level": 4}

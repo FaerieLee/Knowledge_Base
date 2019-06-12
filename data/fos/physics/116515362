@@ -1,0 +1,38 @@
+{"count": 4049, "name": "Safety factor", "weight": 3.0, "id": 2778702308, "level": 4}
+{"count": 8880, "name": "Magnetic confinement fusion", "weight": 7.0, "id": 160988588, "level": 4}
+{"count": 4824, "name": "Spherical tokamak", "weight": 4.0, "id": 2777228821, "level": 4}
+{"count": 12025, "name": "Divertor", "weight": 10.0, "id": 2777017188, "level": 4}
+{"count": 3221, "name": "Neutral beam injection", "weight": 2.0, "id": 2776059347, "level": 4}
+{"count": 326, "name": "Ballooning instability", "weight": 0.0, "id": 2781135223, "level": 4}
+{"count": 1420, "name": "Kink instability", "weight": 1.0, "id": 2779205237, "level": 4}
+{"count": 1104, "name": "Tokamak Fusion Test Reactor", "weight": 0.0, "id": 2778566927, "level": 4}
+{"count": 700, "name": "Joint European Torus", "weight": 0.0, "id": 2776668819, "level": 4}
+{"count": 2519, "name": "Plasma stability", "weight": 2.0, "id": 33807043, "level": 4}
+{"count": 595, "name": "Runaway electrons", "weight": 0.0, "id": 2780676725, "level": 4}
+{"count": 1487, "name": "Bootstrap current", "weight": 1.0, "id": 2779766045, "level": 4}
+{"count": 315, "name": "Grad\u2013Shafranov equation", "weight": 0.0, "id": 2776082076, "level": 4}
+{"count": 3116, "name": "ASDEX Upgrade", "weight": 2.0, "id": 2776017730, "level": 4}
+{"count": 3114, "name": "DIII-D", "weight": 2.0, "id": 2778495671, "level": 4}
+{"count": 998, "name": "Microturbulence", "weight": 0.0, "id": 2776259265, "level": 4}
+{"count": 1521, "name": "Tore Supra", "weight": 1.0, "id": 2780595907, "level": 4}
+{"count": 1301, "name": "KSTAR", "weight": 1.0, "id": 2780166548, "level": 4}
+{"count": 65, "name": "T-15", "weight": 0.0, "id": 2778630426, "level": 4}
+{"count": 1524, "name": "Alcator C-Mod", "weight": 1.0, "id": 2778234036, "level": 4}
+{"count": 298, "name": "JT-60", "weight": 0.0, "id": 2777034488, "level": 4}
+{"count": 327, "name": "Gyrokinetics", "weight": 0.0, "id": 193208539, "level": 4}
+{"count": 448, "name": "ADITYA", "weight": 0.0, "id": 2778131972, "level": 4}
+{"count": 237, "name": "Plasma shaping", "weight": 0.0, "id": 2781239251, "level": 4}
+{"count": 154, "name": "SST-1", "weight": 0.0, "id": 2777405751, "level": 4}
+{"count": 1657, "name": "Collisionality", "weight": 1.0, "id": 2776675822, "level": 4}
+{"count": 119, "name": "National Compact Stellarator Experiment", "weight": 0.0, "id": 2778581288, "level": 4}
+{"count": 444, "name": "HT-7", "weight": 0.0, "id": 2778855466, "level": 4}
+{"count": 495, "name": "Resonant magnetic perturbations", "weight": 0.0, "id": 2780188279, "level": 4}
+{"count": 232, "name": "Frascati Tokamak Upgrade", "weight": 0.0, "id": 2780859669, "level": 4}
+{"count": 140, "name": "COMPASS tokamak", "weight": 0.0, "id": 2776617268, "level": 4}
+{"count": 156, "name": "ISTTOK", "weight": 0.0, "id": 2779790451, "level": 4}
+{"count": 122, "name": "Tokamak \u00e0 configuration variable", "weight": 0.0, "id": 2777119184, "level": 4}
+{"count": 62, "name": "Resistive ballooning mode", "weight": 0.0, "id": 2778978686, "level": 4}
+{"count": 15, "name": "Riggatron", "weight": 0.0, "id": 2777024866, "level": 4}
+{"count": 64, "name": "MIT Plasma Science and Fusion Center", "weight": 0.0, "id": 189494645, "level": 4}
+{"count": 715, "name": "Toroidal and poloidal", "weight": 0.0, "id": 2776754175, "level": 4}
+{"count": 12, "name": "Resistive skin time", "weight": 0.0, "id": 2779731333, "level": 4}

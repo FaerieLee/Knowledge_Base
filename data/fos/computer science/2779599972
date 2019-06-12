@@ -1,0 +1,6 @@
+{"count": 129, "name": "CAP theorem", "weight": 9.0, "id": 188478542, "level": 4}
+{"count": 39, "name": "Log-structured merge-tree", "weight": 3.0, "id": 133501362, "level": 4}
+{"count": 130, "name": "NewSQL", "weight": 10.0, "id": 2777182866, "level": 4}
+{"count": 44, "name": "Document-oriented database", "weight": 3.0, "id": 2780475725, "level": 4}
+{"count": 44, "name": "BSON", "weight": 3.0, "id": 2781279350, "level": 4}
+{"count": 75, "name": "Elasticity (data store)", "weight": 5.0, "id": 199900775, "level": 4}

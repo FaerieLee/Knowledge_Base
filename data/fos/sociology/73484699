@@ -1,0 +1,72 @@
+{"count": 53882, "name": "Criminal justice", "weight": 10.0, "id": 102587632, "level": 2}
+{"count": 15853, "name": "Labelling", "weight": 2.0, "id": 2780523633, "level": 2}
+{"count": 13791, "name": "Deviance (sociology)", "weight": 2.0, "id": 96758477, "level": 2}
+{"count": 12236, "name": "Recidivism", "weight": 2.0, "id": 2776090404, "level": 2}
+{"count": 11684, "name": "Crime prevention", "weight": 2.0, "id": 2776348852, "level": 2}
+{"count": 3796, "name": "Fear of crime", "weight": 0.0, "id": 2778063457, "level": 2}
+{"count": 7018, "name": "Restorative justice", "weight": 1.0, "id": 2781330901, "level": 2}
+{"count": 5340, "name": "Criminalization", "weight": 0.0, "id": 2780652975, "level": 2}
+{"count": 3168, "name": "Moral panic", "weight": 0.0, "id": 151884938, "level": 2}
+{"count": 1908, "name": "White-collar crime", "weight": 0.0, "id": 2776394362, "level": 2}
+{"count": 2199, "name": "Sex trafficking", "weight": 0.0, "id": 2776478993, "level": 2}
+{"count": 1758, "name": "Property crime", "weight": 0.0, "id": 2780661219, "level": 2}
+{"count": 1683, "name": "Corporate crime", "weight": 0.0, "id": 548445021, "level": 2}
+{"count": 5694, "name": "Cruelty", "weight": 1.0, "id": 2780226355, "level": 2}
+{"count": 1840, "name": "Zero tolerance", "weight": 0.0, "id": 2776775276, "level": 2}
+{"count": 1482, "name": "Crime statistics", "weight": 0.0, "id": 2777133717, "level": 2}
+{"count": 1329, "name": "Decriminalization", "weight": 0.0, "id": 2776614996, "level": 2}
+{"count": 713, "name": "Critical criminology", "weight": 0.0, "id": 2780555581, "level": 2}
+{"count": 668, "name": "Offender profiling", "weight": 0.0, "id": 552425265, "level": 2}
+{"count": 19427, "name": "Suspect", "weight": 3.0, "id": 2778223634, "level": 2}
+{"count": 479, "name": "Acquaintance rape", "weight": 0.0, "id": 2778096917, "level": 2}
+{"count": 819, "name": "Crime analysis", "weight": 0.0, "id": 2776876444, "level": 2}
+{"count": 446, "name": "Routine activity theory", "weight": 0.0, "id": 2778526259, "level": 2}
+{"count": 236, "name": "Black eye", "weight": 0.0, "id": 2777199041, "level": 2}
+{"count": 581, "name": "State crime", "weight": 0.0, "id": 2777559430, "level": 2}
+{"count": 253, "name": "Intelligence-led policing", "weight": 0.0, "id": 2780963421, "level": 2}
+{"count": 465, "name": "Social disorganization theory", "weight": 0.0, "id": 2779203709, "level": 2}
+{"count": 3439, "name": "Cultural criminology", "weight": 0.0, "id": 204614032, "level": 2}
+{"count": 428, "name": "School-to-prison pipeline", "weight": 0.0, "id": 2781279267, "level": 2}
+{"count": 133, "name": "Broken windows theory", "weight": 0.0, "id": 2779849719, "level": 2}
+{"count": 193, "name": "Geographic profiling", "weight": 0.0, "id": 2776610004, "level": 2}
+{"count": 144, "name": "Police psychology", "weight": 0.0, "id": 2779135306, "level": 2}
+{"count": 22, "name": "Control theory (sociology)", "weight": 0.0, "id": 47446073, "level": 2}
+{"count": 403, "name": "Habitual offender", "weight": 0.0, "id": 18769396, "level": 2}
+{"count": 382, "name": "Victimless crime", "weight": 0.0, "id": 78012757, "level": 2}
+{"count": 275, "name": "Investigative psychology", "weight": 0.0, "id": 176295069, "level": 2}
+{"count": 390, "name": "Classical school", "weight": 0.0, "id": 2780614220, "level": 2}
+{"count": 130, "name": "Evidence-based policing", "weight": 0.0, "id": 2781417087, "level": 2}
+{"count": 287, "name": "Role set", "weight": 0.0, "id": 22427448, "level": 2}
+{"count": 76, "name": "Rape shield law", "weight": 0.0, "id": 2778429564, "level": 2}
+{"count": 103, "name": "Serial crime", "weight": 0.0, "id": 2777430667, "level": 2}
+{"count": 178, "name": "Moral insanity", "weight": 0.0, "id": 2779298791, "level": 2}
+{"count": 95, "name": "Pure sociology", "weight": 0.0, "id": 207712593, "level": 2}
+{"count": 169, "name": "Brutalization", "weight": 0.0, "id": 2780379556, "level": 2}
+{"count": 1489, "name": "Sociology of punishment", "weight": 0.0, "id": 13030316, "level": 2}
+{"count": 931, "name": "Dark figure of crime", "weight": 0.0, "id": 29333645, "level": 2}
+{"count": 123, "name": "Silly season", "weight": 0.0, "id": 2777554803, "level": 2}
+{"count": 119, "name": "Radical criminology", "weight": 0.0, "id": 2775972091, "level": 2}
+{"count": 49, "name": "Police foundation", "weight": 0.0, "id": 2777762139, "level": 2}
+{"count": 36, "name": "John school", "weight": 0.0, "id": 2776941588, "level": 2}
+{"count": 35, "name": "Focal concerns theory", "weight": 0.0, "id": 2776963527, "level": 2}
+{"count": 13, "name": "Victim study", "weight": 0.0, "id": 2780674997, "level": 2}
+{"count": 28, "name": "Neurocriminology", "weight": 0.0, "id": 2775876541, "level": 2}
+{"count": 63, "name": "Kansas City preventive patrol experiment", "weight": 0.0, "id": 56858204, "level": 2}
+{"count": 10, "name": "Actor\u2013observer asymmetry", "weight": 0.0, "id": 2777968577, "level": 2}
+{"count": 14, "name": "Role engulfment", "weight": 0.0, "id": 2777780381, "level": 2}
+{"count": 39, "name": "Precrime", "weight": 0.0, "id": 2775949247, "level": 2}
+{"count": 9, "name": "Blue-collar crime", "weight": 0.0, "id": 2779502347, "level": 2}
+{"count": 13, "name": "Morality of violence", "weight": 0.0, "id": 2781014232, "level": 2}
+{"count": 2, "name": "Integrative criminology", "weight": 0.0, "id": 2780936997, "level": 2}
+{"count": 1, "name": "Anthropological criminology", "weight": 0.0, "id": 2777884475, "level": 2}
+{"count": 1, "name": "Phenomenological criminology", "weight": 0.0, "id": 2777872918, "level": 2}
+{"count": 2, "name": "Italian school of criminology", "weight": 0.0, "id": 2779722735, "level": 2}
+{"count": 7, "name": "Right realism", "weight": 0.0, "id": 2777137776, "level": 2}
+{"count": 4, "name": "Ephebiphobia", "weight": 0.0, "id": 2777521019, "level": 2}
+{"count": 121, "name": "Sociobiological theories of rape", "weight": 0.0, "id": 5903201, "level": 2}
+{"count": 1, "name": "Polycrates complex", "weight": 0.0, "id": 2780700538, "level": 2}
+{"count": 2, "name": "Psychoanalytic criminology", "weight": 0.0, "id": 2781089708, "level": 2}
+{"count": 4, "name": "Quantitative methods in criminology", "weight": 0.0, "id": 2780355057, "level": 2}
+{"count": 4, "name": "Constant visual observation", "weight": 0.0, "id": 2777018805, "level": 2}
+{"count": 1, "name": "Symptoms of victimization", "weight": 0.0, "id": 2777039285, "level": 2}
+{"count": 1, "name": "Self-control theory of crime", "weight": 0.0, "id": 2780908423, "level": 2}

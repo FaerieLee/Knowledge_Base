@@ -1,0 +1,30 @@
+{"count": 2969, "name": "Sentence processing", "weight": 8.0, "id": 2780378701, "level": 3}
+{"count": 979, "name": "Agrammatism", "weight": 2.0, "id": 2778302256, "level": 3}
+{"count": 2418, "name": "Multi-document summarization", "weight": 6.0, "id": 134714966, "level": 3}
+{"count": 3547, "name": "Semantic role labeling", "weight": 10.0, "id": 67277372, "level": 3}
+{"count": 453, "name": "Content word", "weight": 1.0, "id": 2777255418, "level": 3}
+{"count": 528, "name": "Syntactic ambiguity", "weight": 1.0, "id": 2779462176, "level": 3}
+{"count": 74, "name": "Subject\u2013verb\u2013object", "weight": 0.0, "id": 2778966699, "level": 3}
+{"count": 348, "name": "Structural priming", "weight": 0.0, "id": 2778727940, "level": 3}
+{"count": 228, "name": "Conditional sentence", "weight": 0.0, "id": 2775956726, "level": 3}
+{"count": 89, "name": "Open sentence", "weight": 0.0, "id": 124067751, "level": 3}
+{"count": 255, "name": "Sentencing disparity", "weight": 0.0, "id": 2780966724, "level": 3}
+{"count": 329, "name": "Topic sentence", "weight": 0.0, "id": 2780994620, "level": 3}
+{"count": 283, "name": "Modal particle", "weight": 0.0, "id": 2778741388, "level": 3}
+{"count": 404, "name": "Suspended sentence", "weight": 1.0, "id": 152777036, "level": 3}
+{"count": 112, "name": "Sentence-final particle", "weight": 0.0, "id": 2778356013, "level": 3}
+{"count": 99, "name": "Cleft sentence", "weight": 0.0, "id": 2779192927, "level": 3}
+{"count": 117, "name": "Nominal sentence", "weight": 0.0, "id": 2778149229, "level": 3}
+{"count": 41, "name": "Garden path sentence", "weight": 0.0, "id": 2777114183, "level": 3}
+{"count": 193, "name": "Semicolon", "weight": 0.0, "id": 2777696440, "level": 3}
+{"count": 45, "name": "Yablo's paradox", "weight": 0.0, "id": 2776400542, "level": 3}
+{"count": 36, "name": "Grammatical mood", "weight": 0.0, "id": 2780830361, "level": 3}
+{"count": 56, "name": "Final clause", "weight": 0.0, "id": 2776945150, "level": 3}
+{"count": 41, "name": "Sentence function", "weight": 0.0, "id": 2779074149, "level": 3}
+{"count": 69, "name": "Salva veritate", "weight": 0.0, "id": 2775881490, "level": 3}
+{"count": 73, "name": "Topic and comment", "weight": 0.0, "id": 2777121106, "level": 3}
+{"count": 14, "name": "Periodic sentence", "weight": 0.0, "id": 2778285552, "level": 3}
+{"count": 1564, "name": "Inverted sentence", "weight": 4.0, "id": 95930697, "level": 3}
+{"count": 14, "name": "German sentence structure", "weight": 0.0, "id": 2780087920, "level": 3}
+{"count": 22, "name": "Comma splice", "weight": 0.0, "id": 2777918744, "level": 3}
+{"count": 32, "name": "Sentence arrangement", "weight": 0.0, "id": 2777418159, "level": 3}

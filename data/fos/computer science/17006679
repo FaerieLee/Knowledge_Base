@@ -1,0 +1,6 @@
+{"count": 545, "name": "URL redirection", "weight": 10.0, "id": 8299213, "level": 5}
+{"count": 458, "name": "URL normalization", "weight": 8.0, "id": 110618512, "level": 5}
+{"count": 299, "name": "Domain masking", "weight": 5.0, "id": 145030859, "level": 5}
+{"count": 266, "name": "Meta refresh", "weight": 4.0, "id": 126853836, "level": 5}
+{"count": 322, "name": "Semantic URL attack", "weight": 5.0, "id": 97837200, "level": 5}
+{"count": 192, "name": "URL Subscription Architecture", "weight": 3.0, "id": 76527222, "level": 5}

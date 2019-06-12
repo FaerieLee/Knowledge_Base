@@ -1,0 +1,12 @@
+{"count": 2256, "name": "COS cells", "weight": 1.0, "id": 27306332, "level": 3}
+{"count": 17132, "name": "HEK 293 cells", "weight": 8.0, "id": 174510640, "level": 3}
+{"count": 20388, "name": "Gene delivery", "weight": 10.0, "id": 135983454, "level": 3}
+{"count": 4799, "name": "Polyethylenimine", "weight": 2.0, "id": 2775925850, "level": 3}
+{"count": 3648, "name": "Cationic liposome", "weight": 1.0, "id": 155887181, "level": 3}
+{"count": 241, "name": "Lipofection", "weight": 0.0, "id": 7665897, "level": 3}
+{"count": 460, "name": "Nucleofection", "weight": 0.0, "id": 144251240, "level": 3}
+{"count": 290, "name": "RNA transfection", "weight": 0.0, "id": 2779822750, "level": 3}
+{"count": 195, "name": "Reverse transfection", "weight": 0.0, "id": 8305913, "level": 3}
+{"count": 292, "name": "FuGENE", "weight": 0.0, "id": 2780779046, "level": 3}
+{"count": 86, "name": "GFP-cDNA", "weight": 0.0, "id": 2781211042, "level": 3}
+{"count": 150, "name": "Magnet-assisted transfection", "weight": 0.0, "id": 30649106, "level": 3}

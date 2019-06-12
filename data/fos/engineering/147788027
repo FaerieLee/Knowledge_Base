@@ -1,0 +1,5 @@
+{"count": 16009, "name": "Passband", "weight": 10.0, "id": 46416853, "level": 3}
+{"count": 5270, "name": "Waveguide filter", "weight": 3.0, "id": 150935588, "level": 3}
+{"count": 7413, "name": "Stopband", "weight": 4.0, "id": 46271340, "level": 3}
+{"count": 1395, "name": "Digital biquad filter", "weight": 0.0, "id": 14455310, "level": 3}
+{"count": 864, "name": "Excitation filter", "weight": 0.0, "id": 111823323, "level": 3}

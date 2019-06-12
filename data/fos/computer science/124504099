@@ -1,0 +1,7 @@
+{"count": 8098, "name": "Markov random field", "weight": 2.0, "id": 2778045648, "level": 3}
+{"count": 8657, "name": "Active contour model", "weight": 2.0, "id": 112353826, "level": 3}
+{"count": 4691, "name": "Cut", "weight": 1.0, "id": 5134670, "level": 3}
+{"count": 6579, "name": "Level set method", "weight": 2.0, "id": 125269122, "level": 3}
+{"count": 511, "name": "S\u00f8rensen\u2013Dice coefficient", "weight": 0.0, "id": 163892561, "level": 3}
+{"count": 52, "name": "Multispectral segmentation", "weight": 0.0, "id": 2776529143, "level": 3}
+{"count": 32265, "name": "Scale-space segmentation", "weight": 10.0, "id": 65885262, "level": 3}

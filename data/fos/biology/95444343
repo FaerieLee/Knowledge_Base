@@ -1,0 +1,200 @@
+{"count": 61981, "name": "Membrane protein", "weight": 7.0, "id": 144647389, "level": 2}
+{"count": 83108, "name": "Extracellular matrix", "weight": 10.0, "id": 189165786, "level": 2}
+{"count": 16142, "name": "Developmental biology", "weight": 1.0, "id": 183074962, "level": 2}
+{"count": 82557, "name": "Endoplasmic reticulum", "weight": 9.0, "id": 158617107, "level": 2}
+{"count": 7489, "name": "Structural biology", "weight": 0.0, "id": 191120209, "level": 2}
+{"count": 64953, "name": "Actin", "weight": 7.0, "id": 125705527, "level": 2}
+{"count": 57599, "name": "Cytoskeleton", "weight": 6.0, "id": 142669718, "level": 2}
+{"count": 47386, "name": "Cell adhesion", "weight": 5.0, "id": 85789140, "level": 2}
+{"count": 33052, "name": "Cell adhesion molecule", "weight": 3.0, "id": 16224149, "level": 2}
+{"count": 58156, "name": "Mitosis", "weight": 6.0, "id": 93304396, "level": 2}
+{"count": 23697, "name": "Endocytosis", "weight": 2.0, "id": 28005876, "level": 2}
+{"count": 40465, "name": "Microtubule", "weight": 4.0, "id": 20418707, "level": 2}
+{"count": 41059, "name": "Synapse", "weight": 4.0, "id": 127445978, "level": 2}
+{"count": 34060, "name": "Morphogenesis", "weight": 4.0, "id": 40692019, "level": 2}
+{"count": 45818, "name": "Integrin", "weight": 5.0, "id": 195687474, "level": 2}
+{"count": 8910, "name": "Cell\u2013cell interaction", "weight": 1.0, "id": 183521119, "level": 2}
+{"count": 27036, "name": "Ubiquitin", "weight": 3.0, "id": 25602115, "level": 2}
+{"count": 25247, "name": "Synaptic plasticity", "weight": 3.0, "id": 98229152, "level": 2}
+{"count": 15908, "name": "Transport protein", "weight": 1.0, "id": 57581600, "level": 2}
+{"count": 25407, "name": "Chaperone (protein)", "weight": 3.0, "id": 43413837, "level": 2}
+{"count": 33632, "name": "Cell migration", "weight": 4.0, "id": 137738243, "level": 2}
+{"count": 2877, "name": "Cell lineage", "weight": 0.0, "id": 2777620950, "level": 2}
+{"count": 15182, "name": "Cadherin", "weight": 1.0, "id": 149402561, "level": 2}
+{"count": 12667, "name": "Hedgehog signaling pathway", "weight": 1.0, "id": 88498014, "level": 2}
+{"count": 13871, "name": "Gap junction", "weight": 1.0, "id": 158157758, "level": 2}
+{"count": 10180, "name": "Tight junction", "weight": 1.0, "id": 177779419, "level": 2}
+{"count": 2088, "name": "Intracellular transport", "weight": 0.0, "id": 2780212709, "level": 2}
+{"count": 12717, "name": "Calcium signaling", "weight": 1.0, "id": 201571599, "level": 2}
+{"count": 12693, "name": "Cell fate determination", "weight": 1.0, "id": 163952510, "level": 2}
+{"count": 36145, "name": "Wnt signaling pathway", "weight": 4.0, "id": 137620995, "level": 2}
+{"count": 10475, "name": "Axoplasmic transport", "weight": 1.0, "id": 70192387, "level": 2}
+{"count": 9998, "name": "Subcellular localization", "weight": 1.0, "id": 2776879804, "level": 2}
+{"count": 24581, "name": "Proteasome", "weight": 2.0, "id": 27740335, "level": 2}
+{"count": 8205, "name": "Cell junction", "weight": 0.0, "id": 29350253, "level": 2}
+{"count": 19937, "name": "Endosome", "weight": 2.0, "id": 102747710, "level": 2}
+{"count": 12835, "name": "Flagellum", "weight": 1.0, "id": 115811362, "level": 2}
+{"count": 8464, "name": "Dendritic spine", "weight": 1.0, "id": 174884520, "level": 2}
+{"count": 11124, "name": "Lysosome", "weight": 1.0, "id": 2780216420, "level": 2}
+{"count": 20326, "name": "Neurite", "weight": 2.0, "id": 113246987, "level": 2}
+{"count": 4568, "name": "Protein targeting", "weight": 0.0, "id": 559089031, "level": 2}
+{"count": 11808, "name": "Protein aggregation", "weight": 1.0, "id": 136238340, "level": 2}
+{"count": 7892, "name": "Lipid raft", "weight": 0.0, "id": 79266657, "level": 2}
+{"count": 4852, "name": "Nuclear transport", "weight": 0.0, "id": 59157529, "level": 2}
+{"count": 9959, "name": "Cilium", "weight": 1.0, "id": 100094513, "level": 2}
+{"count": 5591, "name": "Neural development", "weight": 0.0, "id": 461258, "level": 2}
+{"count": 9758, "name": "Sphingolipid", "weight": 1.0, "id": 61705674, "level": 2}
+{"count": 5148, "name": "Molecular motor", "weight": 0.0, "id": 160408235, "level": 2}
+{"count": 2574, "name": "Protein subcellular localization prediction", "weight": 0.0, "id": 140051345, "level": 2}
+{"count": 4601, "name": "PDZ domain", "weight": 0.0, "id": 154428179, "level": 2}
+{"count": 11533, "name": "Microvesicles", "weight": 1.0, "id": 20518536, "level": 2}
+{"count": 2983, "name": "Pleckstrin homology domain", "weight": 0.0, "id": 49658373, "level": 2}
+{"count": 15730, "name": "GTPase", "weight": 1.0, "id": 207332259, "level": 2}
+{"count": 5355, "name": "Mechanotransduction", "weight": 0.0, "id": 181104049, "level": 2}
+{"count": 4475, "name": "Caveolae", "weight": 0.0, "id": 49866891, "level": 2}
+{"count": 2683, "name": "Fluorescence recovery after photobleaching", "weight": 0.0, "id": 26659971, "level": 2}
+{"count": 3924, "name": "Live cell imaging", "weight": 0.0, "id": 15526883, "level": 2}
+{"count": 2689, "name": "Biogenesis", "weight": 0.0, "id": 131934819, "level": 2}
+{"count": 3893, "name": "Lamin", "weight": 0.0, "id": 179093185, "level": 2}
+{"count": 1237, "name": "Cell mechanics", "weight": 0.0, "id": 2780021956, "level": 2}
+{"count": 2004, "name": "Ankyrin", "weight": 0.0, "id": 182800266, "level": 2}
+{"count": 1090, "name": "ADP ribosylation factor", "weight": 0.0, "id": 124682485, "level": 2}
+{"count": 1405, "name": "Desmosome", "weight": 0.0, "id": 2778757060, "level": 2}
+{"count": 1165, "name": "Tip growth", "weight": 0.0, "id": 2777407749, "level": 2}
+{"count": 9050, "name": "Regeneration (biology)", "weight": 1.0, "id": 171056886, "level": 2}
+{"count": 5333, "name": "Optogenetics", "weight": 0.0, "id": 50738837, "level": 2}
+{"count": 2911, "name": "Cell physiology", "weight": 0.0, "id": 191141034, "level": 2}
+{"count": 4384, "name": "SUMO protein", "weight": 0.0, "id": 171350616, "level": 2}
+{"count": 2969, "name": "Paramecium", "weight": 0.0, "id": 2780536333, "level": 2}
+{"count": 5376, "name": "RAC1", "weight": 0.0, "id": 2779717556, "level": 2}
+{"count": 1639, "name": "Photobiology", "weight": 0.0, "id": 15095095, "level": 2}
+{"count": 5852, "name": "Paracellular transport", "weight": 0.0, "id": 60903277, "level": 2}
+{"count": 2148, "name": "Physarum polycephalum", "weight": 0.0, "id": 2780855919, "level": 2}
+{"count": 5912, "name": "Epithelial polarity", "weight": 0.0, "id": 39587587, "level": 2}
+{"count": 2514, "name": "Palmitoylation", "weight": 0.0, "id": 146727910, "level": 2}
+{"count": 2427, "name": "Transcytosis", "weight": 0.0, "id": 185350488, "level": 2}
+{"count": 1853, "name": "Mechanobiology", "weight": 0.0, "id": 2780171871, "level": 2}
+{"count": 1269, "name": "Nanotopography", "weight": 0.0, "id": 2777803738, "level": 2}
+{"count": 3271, "name": "Theileria", "weight": 0.0, "id": 2776111823, "level": 2}
+{"count": 2509, "name": "Cohesin", "weight": 0.0, "id": 115821613, "level": 2}
+{"count": 767, "name": "14-3-3 protein", "weight": 0.0, "id": 96970771, "level": 2}
+{"count": 3194, "name": "Interactome", "weight": 0.0, "id": 9760119, "level": 2}
+{"count": 913, "name": "Joubert syndrome", "weight": 0.0, "id": 2777386794, "level": 2}
+{"count": 1413, "name": "Transduction (biophysics)", "weight": 0.0, "id": 15152581, "level": 2}
+{"count": 7079, "name": "Bleb (cell biology)", "weight": 0.0, "id": 202173193, "level": 2}
+{"count": 998, "name": "Retrograde signaling", "weight": 0.0, "id": 194082555, "level": 2}
+{"count": 3038, "name": "Cellular compartment", "weight": 0.0, "id": 78885561, "level": 2}
+{"count": 430, "name": "Contact guidance", "weight": 0.0, "id": 2776410302, "level": 2}
+{"count": 1110, "name": "Tetraspanin", "weight": 0.0, "id": 2777208748, "level": 2}
+{"count": 2728, "name": "Morphogen", "weight": 0.0, "id": 2778386714, "level": 2}
+{"count": 763, "name": "Molecular neuroscience", "weight": 0.0, "id": 194043247, "level": 2}
+{"count": 1060, "name": "CD63", "weight": 0.0, "id": 2776385711, "level": 2}
+{"count": 2288, "name": "Bimolecular fluorescence complementation", "weight": 0.0, "id": 123243835, "level": 2}
+{"count": 746, "name": "Cellular neuroscience", "weight": 0.0, "id": 103072069, "level": 2}
+{"count": 2928, "name": "Nissl body", "weight": 0.0, "id": 37753355, "level": 2}
+{"count": 1592, "name": "NUMB", "weight": 0.0, "id": 2776746469, "level": 2}
+{"count": 225, "name": "Glia maturation factor", "weight": 0.0, "id": 2780087464, "level": 2}
+{"count": 406, "name": "Post-translational regulation", "weight": 0.0, "id": 2902315, "level": 2}
+{"count": 3832, "name": "Cellular component", "weight": 0.0, "id": 61624993, "level": 2}
+{"count": 1143, "name": "Multiprotein complex", "weight": 0.0, "id": 84982370, "level": 2}
+{"count": 1142, "name": "Cellular stress response", "weight": 0.0, "id": 2780096491, "level": 2}
+{"count": 358, "name": "Protein moonlighting", "weight": 0.0, "id": 79116184, "level": 2}
+{"count": 395, "name": "Amoeboid movement", "weight": 0.0, "id": 199422760, "level": 2}
+{"count": 158, "name": "Chemotropism", "weight": 0.0, "id": 45449127, "level": 2}
+{"count": 802, "name": "Active matter", "weight": 0.0, "id": 2775993382, "level": 2}
+{"count": 228, "name": "GCaMP", "weight": 0.0, "id": 2778788989, "level": 2}
+{"count": 160, "name": "FEZ1", "weight": 0.0, "id": 2779319291, "level": 2}
+{"count": 190, "name": "Neuronal calcium sensor-1", "weight": 0.0, "id": 2778150617, "level": 2}
+{"count": 493, "name": "Cellular adaptation", "weight": 0.0, "id": 156902634, "level": 2}
+{"count": 96, "name": "Cellular noise", "weight": 0.0, "id": 2779705785, "level": 2}
+{"count": 194, "name": "PCM1", "weight": 0.0, "id": 2780403484, "level": 2}
+{"count": 166, "name": "Dock2", "weight": 0.0, "id": 2779506683, "level": 2}
+{"count": 63, "name": "Lacandonia", "weight": 0.0, "id": 2780251560, "level": 2}
+{"count": 15, "name": "Stephanopogon", "weight": 0.0, "id": 2777860188, "level": 2}
+{"count": 174, "name": "ELMO1", "weight": 0.0, "id": 2777339495, "level": 2}
+{"count": 7, "name": "Maitansine", "weight": 0.0, "id": 2779739427, "level": 2}
+{"count": 18, "name": "TTC8", "weight": 0.0, "id": 2781058271, "level": 2}
+{"count": 132, "name": "RUVBL2", "weight": 0.0, "id": 2778414457, "level": 2}
+{"count": 152, "name": "CLTC", "weight": 0.0, "id": 2779997474, "level": 2}
+{"count": 77, "name": "Dock7", "weight": 0.0, "id": 2776316605, "level": 2}
+{"count": 94, "name": "VAMP1", "weight": 0.0, "id": 2779571383, "level": 2}
+{"count": 84, "name": "Repulsive guidance molecule A", "weight": 0.0, "id": 2781257982, "level": 2}
+{"count": 46, "name": "GYF domain", "weight": 0.0, "id": 2780108378, "level": 2}
+{"count": 90, "name": "Cytosis", "weight": 0.0, "id": 165870695, "level": 2}
+{"count": 44, "name": "HOOK1", "weight": 0.0, "id": 2777189157, "level": 2}
+{"count": 65, "name": "Calsyntenin", "weight": 0.0, "id": 2776779565, "level": 2}
+{"count": 6, "name": "Bigyra", "weight": 0.0, "id": 2775856296, "level": 2}
+{"count": 10, "name": "Calcium release activated channel", "weight": 0.0, "id": 2779196441, "level": 2}
+{"count": 17, "name": "Widow's peak", "weight": 0.0, "id": 82747516, "level": 2}
+{"count": 38, "name": "RUN domain", "weight": 0.0, "id": 2779435816, "level": 2}
+{"count": 7, "name": "Carpediemonas", "weight": 0.0, "id": 2780048978, "level": 2}
+{"count": 13, "name": "Pedinellales", "weight": 0.0, "id": 2776781331, "level": 2}
+{"count": 113, "name": "SRGAP2", "weight": 0.0, "id": 120646145, "level": 2}
+{"count": 120, "name": "Tetraspora", "weight": 0.0, "id": 2781322643, "level": 2}
+{"count": 10, "name": "Arthrogryposis\u2013renal dysfunction\u2013cholestasis syndrome", "weight": 0.0, "id": 2775892309, "level": 2}
+{"count": 5, "name": "Duffy binding proteins", "weight": 0.0, "id": 2777401404, "level": 2}
+{"count": 18, "name": "TMEM59", "weight": 0.0, "id": 2780243673, "level": 2}
+{"count": 1, "name": "Voromonas", "weight": 0.0, "id": 2777129826, "level": 2}
+{"count": 36, "name": "GNL3", "weight": 0.0, "id": 2778273342, "level": 2}
+{"count": 18, "name": "Self-cannibalism", "weight": 0.0, "id": 2779493780, "level": 2}
+{"count": 8, "name": "Hypermastigia", "weight": 0.0, "id": 2776427940, "level": 2}
+{"count": 3, "name": "Tannosome", "weight": 0.0, "id": 2780498042, "level": 2}
+{"count": 20, "name": "MAPK15", "weight": 0.0, "id": 2777760664, "level": 2}
+{"count": 4, "name": "Serpentoplasma", "weight": 0.0, "id": 2776857470, "level": 2}
+{"count": 10, "name": "L27 domain", "weight": 0.0, "id": 157718673, "level": 2}
+{"count": 10, "name": "SYT6", "weight": 0.0, "id": 2780013813, "level": 2}
+{"count": 12, "name": "SYT13", "weight": 0.0, "id": 2780110291, "level": 2}
+{"count": 2, "name": "Nocardioides aquaticus", "weight": 0.0, "id": 2778957624, "level": 2}
+{"count": 39, "name": "SCYL1", "weight": 0.0, "id": 2779796323, "level": 2}
+{"count": 14, "name": "COPZ1", "weight": 0.0, "id": 2779774012, "level": 2}
+{"count": 75, "name": "SSR2", "weight": 0.0, "id": 2776570453, "level": 2}
+{"count": 6, "name": "Odontostomatida", "weight": 0.0, "id": 2776358134, "level": 2}
+{"count": 19, "name": "Molecular promiscuity", "weight": 0.0, "id": 2777574947, "level": 2}
+{"count": 1, "name": "Membrane-bound transcription factor site-1 protease", "weight": 0.0, "id": 2778089868, "level": 2}
+{"count": 4, "name": "Conorenal syndrome", "weight": 0.0, "id": 2777350884, "level": 2}
+{"count": 18, "name": "Kinesin family member 11", "weight": 0.0, "id": 2780789387, "level": 2}
+{"count": 18, "name": "HIGD1A", "weight": 0.0, "id": 2776424627, "level": 2}
+{"count": 10, "name": "STX5", "weight": 0.0, "id": 2776743680, "level": 2}
+{"count": 11, "name": "ACTR1A", "weight": 0.0, "id": 2776253294, "level": 2}
+{"count": 12, "name": "CEP350", "weight": 0.0, "id": 2778626520, "level": 2}
+{"count": 7, "name": "Ejectosome", "weight": 0.0, "id": 2777341703, "level": 2}
+{"count": 14, "name": "KDELR1", "weight": 0.0, "id": 2778980800, "level": 2}
+{"count": 8, "name": "Chemosensory clusters", "weight": 0.0, "id": 2779423511, "level": 2}
+{"count": 13, "name": "CLINT1", "weight": 0.0, "id": 2776151672, "level": 2}
+{"count": 2, "name": "Tenitramine", "weight": 0.0, "id": 2776834031, "level": 2}
+{"count": 3, "name": "Cranio\u2013lenticulo\u2013sutural dysplasia", "weight": 0.0, "id": 2776908397, "level": 2}
+{"count": 4, "name": "Agamococcidiorida", "weight": 0.0, "id": 2778146022, "level": 2}
+{"count": 6, "name": "Metamonad", "weight": 0.0, "id": 2776179482, "level": 2}
+{"count": 11, "name": "Lipotrophidae", "weight": 0.0, "id": 2778145291, "level": 2}
+{"count": 1, "name": "Biogenesis of lysosome-related organelles complex 3", "weight": 0.0, "id": 2776626132, "level": 2}
+{"count": 2, "name": "KIAA1377", "weight": 0.0, "id": 2781073359, "level": 2}
+{"count": 12, "name": "SYT5", "weight": 0.0, "id": 2777833130, "level": 2}
+{"count": 8, "name": "Retortamonad", "weight": 0.0, "id": 2776771143, "level": 2}
+{"count": 6, "name": "ERGIC2", "weight": 0.0, "id": 2777222352, "level": 2}
+{"count": 10, "name": "Interferon-inducible GTPase", "weight": 0.0, "id": 2779078650, "level": 2}
+{"count": 4, "name": "ATP5S", "weight": 0.0, "id": 2780258885, "level": 2}
+{"count": 37, "name": "Differential inheritance", "weight": 0.0, "id": 2778992007, "level": 2}
+{"count": 10, "name": "ATP5L", "weight": 0.0, "id": 2779503273, "level": 2}
+{"count": 8, "name": "Archain", "weight": 0.0, "id": 2778131483, "level": 2}
+{"count": 13, "name": "EXOC7", "weight": 0.0, "id": 2778327746, "level": 2}
+{"count": 1, "name": "Tubulin beta-4A chain", "weight": 0.0, "id": 2777100214, "level": 2}
+{"count": 2, "name": "Bordet-Gengou agar", "weight": 0.0, "id": 2781092111, "level": 2}
+{"count": 4, "name": "Mercury(II) hydroxide", "weight": 0.0, "id": 2777554925, "level": 2}
+{"count": 9, "name": "Chaperone-assisted selective autophagy", "weight": 0.0, "id": 2776606587, "level": 2}
+{"count": 4, "name": "Rhyniella praecursor", "weight": 0.0, "id": 2778453130, "level": 2}
+{"count": 12, "name": "HM13", "weight": 0.0, "id": 2780866366, "level": 2}
+{"count": 5, "name": "Bodonida", "weight": 0.0, "id": 2779253124, "level": 2}
+{"count": 2, "name": "Flabellinia", "weight": 0.0, "id": 2778953121, "level": 2}
+{"count": 12, "name": "ATP5G2", "weight": 0.0, "id": 2775891967, "level": 2}
+{"count": 6, "name": "RHOT2", "weight": 0.0, "id": 2779280688, "level": 2}
+{"count": 5, "name": "Trolnitrate", "weight": 0.0, "id": 2778757044, "level": 2}
+{"count": 1, "name": "Bioccala", "weight": 0.0, "id": 2776653658, "level": 2}
+{"count": 4, "name": "Dorisiella", "weight": 0.0, "id": 2777191039, "level": 2}
+{"count": 1, "name": "Protococcidiorida", "weight": 0.0, "id": 2777574797, "level": 2}
+{"count": 1, "name": "New York weevil", "weight": 0.0, "id": 2777695733, "level": 2}
+{"count": 3, "name": "Orofaciodigital syndrome 1", "weight": 0.0, "id": 2778577727, "level": 2}
+{"count": 5, "name": "SAND protein", "weight": 0.0, "id": 2778678592, "level": 2}
+{"count": 5, "name": "Tim9-Tim10 complex", "weight": 0.0, "id": 2778757360, "level": 2}
+{"count": 3, "name": "CLCC1", "weight": 0.0, "id": 2776632262, "level": 2}
+{"count": 3, "name": "Taenia thalami", "weight": 0.0, "id": 2780658786, "level": 2}
+{"count": 6, "name": "SPTBN4", "weight": 0.0, "id": 2778615045, "level": 2}

@@ -1,0 +1,51 @@
+{"count": 12510, "name": "Power system simulation", "weight": 7.0, "id": 116219307, "level": 3}
+{"count": 9447, "name": "Power-system protection", "weight": 5.0, "id": 38361682, "level": 3}
+{"count": 6607, "name": "Economic dispatch", "weight": 4.0, "id": 187633118, "level": 3}
+{"count": 9051, "name": "Protective relay", "weight": 5.0, "id": 2412688, "level": 3}
+{"count": 1047, "name": "Transient (oscillation)", "weight": 0.0, "id": 30379805, "level": 3}
+{"count": 4139, "name": "Emtp", "weight": 2.0, "id": 2778363592, "level": 3}
+{"count": 16286, "name": "Power engineering", "weight": 10.0, "id": 54089160, "level": 3}
+{"count": 2904, "name": "Automatic Generation Control", "weight": 1.0, "id": 2778763806, "level": 3}
+{"count": 3399, "name": "Load Shedding", "weight": 2.0, "id": 2779777743, "level": 3}
+{"count": 1820, "name": "Low-frequency oscillation", "weight": 1.0, "id": 17181845, "level": 3}
+{"count": 5312, "name": "Fault current limiter", "weight": 3.0, "id": 129187525, "level": 3}
+{"count": 4584, "name": "High-voltage direct current", "weight": 2.0, "id": 2781163877, "level": 3}
+{"count": 5270, "name": "Islanding", "weight": 3.0, "id": 2778675665, "level": 3}
+{"count": 1009, "name": "Real Time Digital Simulator", "weight": 0.0, "id": 2779466677, "level": 3}
+{"count": 2380, "name": "Cascading failure", "weight": 1.0, "id": 119323957, "level": 3}
+{"count": 7701, "name": "Phasor", "weight": 4.0, "id": 176605952, "level": 3}
+{"count": 1125, "name": "Wind power forecasting", "weight": 0.0, "id": 2781084341, "level": 3}
+{"count": 804, "name": "Electric power quality", "weight": 0.0, "id": 2778160759, "level": 3}
+{"count": 10847, "name": "Base load power plant", "weight": 6.0, "id": 123153844, "level": 3}
+{"count": 614, "name": "Power pool", "weight": 0.0, "id": 2779568285, "level": 3}
+{"count": 4298, "name": "Load balancing (electrical power)", "weight": 2.0, "id": 138959212, "level": 3}
+{"count": 455, "name": "Operating reserve", "weight": 0.0, "id": 2780913411, "level": 3}
+{"count": 237, "name": "Power-system automation", "weight": 0.0, "id": 2778787560, "level": 3}
+{"count": 11348, "name": "Stand-alone power system", "weight": 6.0, "id": 104708988, "level": 3}
+{"count": 892, "name": "Tie line", "weight": 0.0, "id": 32866971, "level": 3}
+{"count": 370, "name": "Load duration curve", "weight": 0.0, "id": 2781259581, "level": 3}
+{"count": 1115, "name": "Thermionic converter", "weight": 0.0, "id": 196993182, "level": 3}
+{"count": 413, "name": "Inertial response", "weight": 0.0, "id": 2777563595, "level": 3}
+{"count": 2517, "name": "HVDC converter station", "weight": 1.0, "id": 7904685, "level": 3}
+{"count": 537, "name": "DC distribution system", "weight": 0.0, "id": 2778013126, "level": 3}
+{"count": 114, "name": "Value of lost load", "weight": 0.0, "id": 2776591855, "level": 3}
+{"count": 194, "name": "Eastern Interconnection", "weight": 0.0, "id": 2778348927, "level": 3}
+{"count": 536, "name": "Forced outage", "weight": 0.0, "id": 2779559881, "level": 3}
+{"count": 152, "name": "Western Interconnection", "weight": 0.0, "id": 2777213303, "level": 3}
+{"count": 557, "name": "Variable renewable energy", "weight": 0.0, "id": 2780789856, "level": 3}
+{"count": 168, "name": "FNET", "weight": 0.0, "id": 2777655405, "level": 3}
+{"count": 134, "name": "Generation loss", "weight": 0.0, "id": 134248421, "level": 3}
+{"count": 68, "name": "Availability-based tariff", "weight": 0.0, "id": 2779926982, "level": 3}
+{"count": 216, "name": "Emergency power system", "weight": 0.0, "id": 2777217638, "level": 3}
+{"count": 14399, "name": "Power optimizer", "weight": 8.0, "id": 145180747, "level": 3}
+{"count": 59, "name": "Project Rover", "weight": 0.0, "id": 2776206962, "level": 3}
+{"count": 36, "name": "Power Analytics", "weight": 0.0, "id": 2779121243, "level": 3}
+{"count": 137, "name": "Super grid", "weight": 0.0, "id": 2780904384, "level": 3}
+{"count": 10, "name": "Stand-alone photovoltaic power system", "weight": 0.0, "id": 116437574, "level": 3}
+{"count": 12, "name": "Network analyzer (AC power)", "weight": 0.0, "id": 57892081, "level": 3}
+{"count": 39, "name": "BDPC", "weight": 0.0, "id": 2777385405, "level": 3}
+{"count": 66, "name": "Zbus", "weight": 0.0, "id": 2778643598, "level": 3}
+{"count": 1264, "name": "Power system simulator for engineering", "weight": 0.0, "id": 57467194, "level": 3}
+{"count": 94, "name": "Holomorphic embedding load flow method", "weight": 0.0, "id": 154060429, "level": 3}
+{"count": 104, "name": "Grid friendly", "weight": 0.0, "id": 2779243919, "level": 3}
+{"count": 916, "name": "Nuclear power in space", "weight": 0.0, "id": 57821807, "level": 3}

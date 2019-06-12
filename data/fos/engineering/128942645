@@ -1,0 +1,8 @@
+{"count": 3131, "name": "Model-based testing", "weight": 5.0, "id": 165825675, "level": 3}
+{"count": 6169, "name": "Test suite", "weight": 10.0, "id": 151552104, "level": 3}
+{"count": 269, "name": "Metamorphic testing", "weight": 0.0, "id": 2777332272, "level": 3}
+{"count": 460, "name": "Modified condition/decision coverage", "weight": 0.0, "id": 180710824, "level": 3}
+{"count": 3671, "name": "Test harness", "weight": 5.0, "id": 109852812, "level": 3}
+{"count": 665, "name": "Equivalence partitioning", "weight": 1.0, "id": 99961543, "level": 3}
+{"count": 32, "name": "API testing", "weight": 0.0, "id": 2779133649, "level": 3}
+{"count": 11, "name": "Input/output automaton", "weight": 0.0, "id": 2780855084, "level": 3}

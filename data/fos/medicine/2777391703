@@ -1,0 +1,53 @@
+{"count": 24948, "name": "Insulin receptor", "weight": 10.0, "id": 112446052, "level": 5}
+{"count": 15363, "name": "Impaired glucose tolerance", "weight": 6.0, "id": 2780609358, "level": 5}
+{"count": 13338, "name": "Hyperinsulinemia", "weight": 5.0, "id": 2780988686, "level": 5}
+{"count": 12507, "name": "Adipokine", "weight": 5.0, "id": 194832188, "level": 5}
+{"count": 6490, "name": "Insulin receptor substrate", "weight": 2.0, "id": 185967709, "level": 5}
+{"count": 3961, "name": "Hyperinsulinism", "weight": 1.0, "id": 2777368190, "level": 5}
+{"count": 1718, "name": "Glucose clamp technique", "weight": 0.0, "id": 2778808658, "level": 5}
+{"count": 4607, "name": "Hyperandrogenism", "weight": 1.0, "id": 2780186808, "level": 5}
+{"count": 4945, "name": "Impaired fasting glucose", "weight": 1.0, "id": 2777185836, "level": 5}
+{"count": 5110, "name": "Resistin", "weight": 2.0, "id": 2779760629, "level": 5}
+{"count": 5911, "name": "GLUT4", "weight": 2.0, "id": 2776188179, "level": 5}
+{"count": 2471, "name": "Acanthosis nigricans", "weight": 0.0, "id": 2777705978, "level": 5}
+{"count": 1586, "name": "Insulin tolerance test", "weight": 0.0, "id": 2779113265, "level": 5}
+{"count": 2530, "name": "Lipotoxicity", "weight": 1.0, "id": 44353895, "level": 5}
+{"count": 2567, "name": "IRS1", "weight": 1.0, "id": 201624660, "level": 5}
+{"count": 847, "name": "Retinol binding protein 4", "weight": 0.0, "id": 2776465410, "level": 5}
+{"count": 853, "name": "Free androgen index", "weight": 0.0, "id": 2776405666, "level": 5}
+{"count": 5603, "name": "Insulin-like growth factor 1 receptor", "weight": 2.0, "id": 144174609, "level": 5}
+{"count": 288, "name": "Congenital generalized lipodystrophy", "weight": 0.0, "id": 2777764815, "level": 5}
+{"count": 138, "name": "Hyperaminoacidemia", "weight": 0.0, "id": 2778084853, "level": 5}
+{"count": 686, "name": "Quantitative insulin sensitivity check index", "weight": 0.0, "id": 2778901321, "level": 5}
+{"count": 3918, "name": "IRS2", "weight": 1.0, "id": 197902417, "level": 5}
+{"count": 348, "name": "Insulin signal transduction pathway and regulation of blood glucose", "weight": 0.0, "id": 107180743, "level": 5}
+{"count": 1209, "name": "Homeostatic model assessment", "weight": 0.0, "id": 2778535154, "level": 5}
+{"count": 180, "name": "Daf-2", "weight": 0.0, "id": 2778634967, "level": 5}
+{"count": 176, "name": "Lipoatrophic diabetes", "weight": 0.0, "id": 2779014314, "level": 5}
+{"count": 309, "name": "Familial partial lipodystrophy", "weight": 0.0, "id": 2776892138, "level": 5}
+{"count": 294, "name": "Thrifty phenotype", "weight": 0.0, "id": 2776752996, "level": 5}
+{"count": 286, "name": "Intramyocellular lipids", "weight": 0.0, "id": 2781426597, "level": 5}
+{"count": 120, "name": "Chromium deficiency", "weight": 0.0, "id": 2778169641, "level": 5}
+{"count": 328, "name": "Metabolically healthy obesity", "weight": 0.0, "id": 2780727515, "level": 5}
+{"count": 2068, "name": "GRB10", "weight": 0.0, "id": 82183700, "level": 5}
+{"count": 212, "name": "Betatrophin", "weight": 0.0, "id": 29521844, "level": 5}
+{"count": 187, "name": "Adiponectin receptor 2", "weight": 0.0, "id": 2778988879, "level": 5}
+{"count": 234, "name": "Equine metabolic syndrome", "weight": 0.0, "id": 2778456667, "level": 5}
+{"count": 62, "name": "Rabson\u2013Mendenhall syndrome", "weight": 0.0, "id": 2777630319, "level": 5}
+{"count": 86, "name": "Donohue syndrome", "weight": 0.0, "id": 2779085119, "level": 5}
+{"count": 159, "name": "Metreleptin", "weight": 0.0, "id": 2779927476, "level": 5}
+{"count": 124, "name": "Insulin index", "weight": 0.0, "id": 2778474729, "level": 5}
+{"count": 31, "name": "Low-molecular-weight chromium-binding substance", "weight": 0.0, "id": 2776705878, "level": 5}
+{"count": 135, "name": "Hyperproinsulinemia", "weight": 0.0, "id": 2779670698, "level": 5}
+{"count": 37, "name": "Ferriman\u2013Gallwey score", "weight": 0.0, "id": 2777458931, "level": 5}
+{"count": 69, "name": "Tripe palms", "weight": 0.0, "id": 2780608134, "level": 5}
+{"count": 157, "name": "Randle cycle", "weight": 0.0, "id": 168458257, "level": 5}
+{"count": 30, "name": "HAIR-AN syndrome", "weight": 0.0, "id": 2777888149, "level": 5}
+{"count": 52, "name": "Acquired generalized lipodystrophy", "weight": 0.0, "id": 2780808574, "level": 5}
+{"count": 2850, "name": "Insulin oscillation", "weight": 1.0, "id": 144855686, "level": 5}
+{"count": 24, "name": "Florid cutaneous papillomatosis", "weight": 0.0, "id": 2778422973, "level": 5}
+{"count": 40, "name": "Diabetes in cats", "weight": 0.0, "id": 2780608945, "level": 5}
+{"count": 71, "name": "Linsitinib", "weight": 0.0, "id": 2778275179, "level": 5}
+{"count": 17, "name": "INSRR", "weight": 0.0, "id": 2780836762, "level": 5}
+{"count": 162, "name": "Epigenetics of diabetes Type 2", "weight": 0.0, "id": 86598419, "level": 5}
+{"count": 9, "name": "Sirtuin-activating compound", "weight": 0.0, "id": 2778199548, "level": 5}

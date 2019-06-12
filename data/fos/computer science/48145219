@@ -1,0 +1,7 @@
+{"count": 2079, "name": "Token ring", "weight": 10.0, "id": 36653544, "level": 3}
+{"count": 2079, "name": "Token passing", "weight": 10.0, "id": 115067241, "level": 3}
+{"count": 1808, "name": "Token bus network", "weight": 8.0, "id": 102462485, "level": 3}
+{"count": 356, "name": "Access token", "weight": 1.0, "id": 2779539726, "level": 3}
+{"count": 35, "name": "JSON Web Token", "weight": 0.0, "id": 2779232881, "level": 3}
+{"count": 32, "name": "Presence check", "weight": 0.0, "id": 2780167796, "level": 3}
+{"count": 720, "name": "Suzuki-Kasami algorithm", "weight": 3.0, "id": 18664526, "level": 3}

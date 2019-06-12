@@ -1,0 +1,5 @@
+{"count": 345, "name": "t-statistic", "weight": 10.0, "id": 143111868, "level": 3}
+{"count": 344, "name": "Durbin\u2013Watson statistic", "weight": 10.0, "id": 29026408, "level": 3}
+{"count": 34, "name": "Person-fit analysis", "weight": 1.0, "id": 2779933913, "level": 3}
+{"count": 225, "name": "Kendall's W", "weight": 6.0, "id": 130032258, "level": 3}
+{"count": 24, "name": "Five-number summary", "weight": 0.0, "id": 117893382, "level": 3}

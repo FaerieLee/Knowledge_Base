@@ -1,0 +1,50 @@
+{"count": 30725, "name": "Sampling (signal processing)", "weight": 10.0, "id": 140779682, "level": 3}
+{"count": 7320, "name": "Importance sampling", "weight": 2.0, "id": 52740198, "level": 3}
+{"count": 7962, "name": "Sampling design", "weight": 2.0, "id": 75373757, "level": 3}
+{"count": 15637, "name": "Stratified sampling", "weight": 5.0, "id": 49898467, "level": 3}
+{"count": 5583, "name": "Sampling error", "weight": 1.0, "id": 165473641, "level": 3}
+{"count": 7221, "name": "Nyquist\u2013Shannon sampling theorem", "weight": 2.0, "id": 288623, "level": 3}
+{"count": 14796, "name": "Cluster sampling", "weight": 4.0, "id": 183380357, "level": 3}
+{"count": 1883, "name": "Sampled data systems", "weight": 0.0, "id": 90794131, "level": 3}
+{"count": 2275, "name": "Adaptive sampling", "weight": 0.0, "id": 2781395549, "level": 3}
+{"count": 2908, "name": "Sampling bias", "weight": 0.0, "id": 75917345, "level": 3}
+{"count": 12925, "name": "Simple random sample", "weight": 4.0, "id": 20353970, "level": 3}
+{"count": 964, "name": "Ratio estimator", "weight": 0.0, "id": 118248890, "level": 3}
+{"count": 2396, "name": "Nonuniform sampling", "weight": 0.0, "id": 20326153, "level": 3}
+{"count": 3193, "name": "Latin hypercube sampling", "weight": 1.0, "id": 20820323, "level": 3}
+{"count": 5348, "name": "Sampling distribution", "weight": 1.0, "id": 167723999, "level": 3}
+{"count": 2628, "name": "Sampling frame", "weight": 0.0, "id": 198327121, "level": 3}
+{"count": 1093, "name": "Distance sampling", "weight": 0.0, "id": 2781050692, "level": 3}
+{"count": 1434, "name": "Acceptance sampling", "weight": 0.0, "id": 53947966, "level": 3}
+{"count": 23343, "name": "Nonprobability sampling", "weight": 7.0, "id": 100363876, "level": 3}
+{"count": 3521, "name": "Multistage sampling", "weight": 1.0, "id": 139134214, "level": 3}
+{"count": 919, "name": "Electrofishing", "weight": 0.0, "id": 2780513199, "level": 3}
+{"count": 1369, "name": "Quota sampling", "weight": 0.0, "id": 125220118, "level": 3}
+{"count": 985, "name": "Umbrella sampling", "weight": 0.0, "id": 128747166, "level": 3}
+{"count": 233, "name": "Sub-sampling", "weight": 0.0, "id": 2777393305, "level": 3}
+{"count": 311, "name": "Design effect", "weight": 0.0, "id": 2778808518, "level": 3}
+{"count": 396, "name": "Nested sampling algorithm", "weight": 0.0, "id": 92440113, "level": 3}
+{"count": 468, "name": "Probabilistic roadmap", "weight": 0.0, "id": 2778803389, "level": 3}
+{"count": 312, "name": "Transition path sampling", "weight": 0.0, "id": 195508474, "level": 3}
+{"count": 296, "name": "Line sampling", "weight": 0.0, "id": 2776884968, "level": 3}
+{"count": 314, "name": "Acceptable quality limit", "weight": 0.0, "id": 56871757, "level": 3}
+{"count": 112, "name": "Hexagonal sampling", "weight": 0.0, "id": 2778707140, "level": 3}
+{"count": 137, "name": "Reservoir sampling", "weight": 0.0, "id": 29499845, "level": 3}
+{"count": 120, "name": "Chemcatcher", "weight": 0.0, "id": 2779090549, "level": 3}
+{"count": 158, "name": "Polar organic chemical integrative sampler", "weight": 0.0, "id": 2777706375, "level": 3}
+{"count": 192, "name": "Rarefaction (ecology)", "weight": 0.0, "id": 132705693, "level": 3}
+{"count": 2689, "name": "Statistical population", "weight": 0.0, "id": 4384302, "level": 3}
+{"count": 106, "name": "Multidimensional sampling", "weight": 0.0, "id": 2777739692, "level": 3}
+{"count": 483, "name": "Judgment sample", "weight": 0.0, "id": 190655970, "level": 3}
+{"count": 223, "name": "Pseudo-random number sampling", "weight": 0.0, "id": 167680658, "level": 3}
+{"count": 59, "name": "Informal inferential reasoning", "weight": 0.0, "id": 2781064888, "level": 3}
+{"count": 57, "name": "Description-experience gap", "weight": 0.0, "id": 2776550104, "level": 3}
+{"count": 40, "name": "Plumbosolvency", "weight": 0.0, "id": 2778633062, "level": 3}
+{"count": 64, "name": "Rare Event Sampling", "weight": 0.0, "id": 143839491, "level": 3}
+{"count": 13, "name": "Gy's sampling theory", "weight": 0.0, "id": 2776420317, "level": 3}
+{"count": 117, "name": "Food sampling", "weight": 0.0, "id": 2777206602, "level": 3}
+{"count": 26, "name": "Pharmacopoeia of the People's Republic of China", "weight": 0.0, "id": 2778013600, "level": 3}
+{"count": 679, "name": "Sampling valve", "weight": 0.0, "id": 2779628723, "level": 3}
+{"count": 2575, "name": "Accidental sampling", "weight": 0.0, "id": 162118431, "level": 3}
+{"count": 92, "name": "Oversampling and undersampling in data analysis", "weight": 0.0, "id": 111252457, "level": 3}
+{"count": 7, "name": "SampTA", "weight": 0.0, "id": 2779796449, "level": 3}

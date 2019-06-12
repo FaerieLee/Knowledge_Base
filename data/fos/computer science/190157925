@@ -1,0 +1,8 @@
+{"count": 753, "name": "Secure Hash Algorithm", "weight": 10.0, "id": 9661340, "level": 5}
+{"count": 156, "name": "MD4", "weight": 2.0, "id": 184565465, "level": 5}
+{"count": 363, "name": "Preimage attack", "weight": 4.0, "id": 119400147, "level": 5}
+{"count": 126, "name": "MD2", "weight": 1.0, "id": 142770879, "level": 5}
+{"count": 197, "name": "Pass the hash", "weight": 2.0, "id": 150454756, "level": 5}
+{"count": 84, "name": "Claw-free permutation", "weight": 1.0, "id": 145759651, "level": 5}
+{"count": 32, "name": "JH", "weight": 0.0, "id": 173278457, "level": 5}
+{"count": 41, "name": "NIST hash function competition", "weight": 0.0, "id": 143782254, "level": 5}

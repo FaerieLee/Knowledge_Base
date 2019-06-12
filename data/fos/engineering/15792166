@@ -1,0 +1,7 @@
+{"count": 1234, "name": "Integrated modular avionics", "weight": 10.0, "id": 189956118, "level": 3}
+{"count": 135, "name": "Astrionics", "weight": 1.0, "id": 2779709963, "level": 3}
+{"count": 900, "name": "ARINC 429", "weight": 7.0, "id": 32977300, "level": 3}
+{"count": 210, "name": "Line-replaceable unit", "weight": 1.0, "id": 2776158982, "level": 3}
+{"count": 135, "name": "MIL-STD-1553", "weight": 1.0, "id": 2776201914, "level": 3}
+{"count": 498, "name": "Cockpit display system", "weight": 4.0, "id": 104205377, "level": 3}
+{"count": 23, "name": "CANaerospace", "weight": 0.0, "id": 2780008831, "level": 3}

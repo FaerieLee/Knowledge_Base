@@ -1,0 +1,6 @@
+{"count": 959, "name": "Flux-corrected transport", "weight": 1.0, "id": 183205605, "level": 3}
+{"count": 3862, "name": "Euler method", "weight": 6.0, "id": 75380026, "level": 3}
+{"count": 5896, "name": "Backward Euler method", "weight": 10.0, "id": 768646, "level": 3}
+{"count": 562, "name": "Euler system", "weight": 0.0, "id": 2781217745, "level": 3}
+{"count": 84, "name": "Newton\u2013Euler equations", "weight": 0.0, "id": 22630431, "level": 3}
+{"count": 785, "name": "Taylor\u2013Goldstein equation", "weight": 1.0, "id": 62408612, "level": 3}

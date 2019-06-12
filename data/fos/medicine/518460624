@@ -1,0 +1,91 @@
+{"count": 34147, "name": "Cerebral infarction", "weight": 10.0, "id": 2779450755, "level": 3}
+{"count": 28319, "name": "Middle cerebral artery", "weight": 8.0, "id": 2775841333, "level": 3}
+{"count": 13640, "name": "Brain ischemia", "weight": 3.0, "id": 2778820722, "level": 3}
+{"count": 14713, "name": "Tissue plasminogen activator", "weight": 4.0, "id": 2776572282, "level": 3}
+{"count": 23074, "name": "Internal carotid artery", "weight": 6.0, "id": 2778333808, "level": 3}
+{"count": 15844, "name": "Intracerebral hemorrhage", "weight": 4.0, "id": 2777094939, "level": 3}
+{"count": 13454, "name": "Carotid endarterectomy", "weight": 3.0, "id": 2781068581, "level": 3}
+{"count": 11068, "name": "Transcranial Doppler", "weight": 3.0, "id": 191616109, "level": 3}
+{"count": 8610, "name": "Basilar artery", "weight": 2.0, "id": 2781012200, "level": 3}
+{"count": 7737, "name": "Cerebral angiography", "weight": 2.0, "id": 2778749279, "level": 3}
+{"count": 6572, "name": "Patent foramen ovale", "weight": 1.0, "id": 2776893843, "level": 3}
+{"count": 10830, "name": "Hemiparesis", "weight": 3.0, "id": 2776882386, "level": 3}
+{"count": 6510, "name": "Dabigatran", "weight": 1.0, "id": 2778810321, "level": 3}
+{"count": 6350, "name": "Rivaroxaban", "weight": 1.0, "id": 2778661090, "level": 3}
+{"count": 4471, "name": "Moyamoya disease", "weight": 1.0, "id": 2776548475, "level": 3}
+{"count": 4987, "name": "Penumbra", "weight": 1.0, "id": 2780577055, "level": 3}
+{"count": 6945, "name": "Modified Rankin Scale", "weight": 2.0, "id": 2780931571, "level": 3}
+{"count": 6884, "name": "Endarterectomy", "weight": 2.0, "id": 2779745121, "level": 3}
+{"count": 1839, "name": "Vitamin K antagonist", "weight": 0.0, "id": 2776704044, "level": 3}
+{"count": 3172, "name": "Functional Independence Measure", "weight": 0.0, "id": 2780328615, "level": 3}
+{"count": 3042, "name": "Circle of Willis", "weight": 0.0, "id": 2780944724, "level": 3}
+{"count": 2716, "name": "Migraine with aura", "weight": 0.0, "id": 2776497919, "level": 3}
+{"count": 4291, "name": "Neurorehabilitation", "weight": 1.0, "id": 47177892, "level": 3}
+{"count": 1063, "name": "Constraint-induced movement therapy", "weight": 0.0, "id": 2777425428, "level": 3}
+{"count": 845, "name": "Hemispatial neglect", "weight": 0.0, "id": 2777118844, "level": 3}
+{"count": 1370, "name": "Vertebrobasilar insufficiency", "weight": 0.0, "id": 2776300738, "level": 3}
+{"count": 653, "name": "Guglielmi detachable coil", "weight": 0.0, "id": 2780313191, "level": 3}
+{"count": 1727, "name": "CADASIL", "weight": 0.0, "id": 2779268494, "level": 3}
+{"count": 2540, "name": "Berg Balance Scale", "weight": 0.0, "id": 2777611552, "level": 3}
+{"count": 1939, "name": "Stroke recovery", "weight": 0.0, "id": 2776361831, "level": 3}
+{"count": 668, "name": "Heat exhaustion", "weight": 0.0, "id": 2776297399, "level": 3}
+{"count": 900, "name": "Diaschisis", "weight": 0.0, "id": 2778095648, "level": 3}
+{"count": 1406, "name": "Modified Ashworth scale", "weight": 0.0, "id": 2780566999, "level": 3}
+{"count": 791, "name": "Citicoline", "weight": 0.0, "id": 2780496003, "level": 3}
+{"count": 1204, "name": "Vertebral artery dissection", "weight": 0.0, "id": 2776629196, "level": 3}
+{"count": 1570, "name": "Post-stroke depression", "weight": 0.0, "id": 2776707286, "level": 3}
+{"count": 2465, "name": "Gait training", "weight": 0.0, "id": 2777217371, "level": 3}
+{"count": 359, "name": "Lateral medullary syndrome", "weight": 0.0, "id": 2776569932, "level": 3}
+{"count": 732, "name": "Left atrial appendage occlusion", "weight": 0.0, "id": 2780434050, "level": 3}
+{"count": 129, "name": "ABCD\u00b2 score", "weight": 0.0, "id": 2778641151, "level": 3}
+{"count": 1025, "name": "Amaurosis fugax", "weight": 0.0, "id": 2779433908, "level": 3}
+{"count": 732, "name": "Pediatric stroke", "weight": 0.0, "id": 2779546523, "level": 3}
+{"count": 1089, "name": "Lacunar stroke", "weight": 0.0, "id": 2779285336, "level": 3}
+{"count": 119, "name": "Lubeluzole", "weight": 0.0, "id": 2780895850, "level": 3}
+{"count": 163, "name": "Neurobics", "weight": 0.0, "id": 2781163269, "level": 3}
+{"count": 150, "name": "Molecular Autism", "weight": 0.0, "id": 2779294019, "level": 3}
+{"count": 590, "name": "Reversible cerebral vasoconstriction syndrome", "weight": 0.0, "id": 2778686844, "level": 3}
+{"count": 919, "name": "Carotid ultrasonography", "weight": 0.0, "id": 2776761947, "level": 3}
+{"count": 471, "name": "CHA2DS2\u2013VASc score", "weight": 0.0, "id": 2778369440, "level": 3}
+{"count": 350, "name": "Neonatal stroke", "weight": 0.0, "id": 2780994057, "level": 3}
+{"count": 221, "name": "Transient ischemic attack (TIA)", "weight": 0.0, "id": 2780472972, "level": 3}
+{"count": 183, "name": "Silent stroke", "weight": 0.0, "id": 2780353986, "level": 3}
+{"count": 267, "name": "Carotid bruit", "weight": 0.0, "id": 2781250874, "level": 3}
+{"count": 602, "name": "Intraparenchymal hemorrhage", "weight": 0.0, "id": 2780819430, "level": 3}
+{"count": 614, "name": "Cerebral atherosclerosis", "weight": 0.0, "id": 2777247629, "level": 3}
+{"count": 260, "name": "HAS-BLED", "weight": 0.0, "id": 2775946987, "level": 3}
+{"count": 47, "name": "Selfotel", "weight": 0.0, "id": 2779725776, "level": 3}
+{"count": 203, "name": "Hemorrhagic infarct", "weight": 0.0, "id": 2781214011, "level": 3}
+{"count": 388, "name": "Global aphasia", "weight": 0.0, "id": 2777547913, "level": 3}
+{"count": 289, "name": "Western Aphasia Battery", "weight": 0.0, "id": 2777442186, "level": 3}
+{"count": 87, "name": "Foix\u2013Chavany\u2013Marie syndrome", "weight": 0.0, "id": 2777181607, "level": 3}
+{"count": 1339, "name": "Rivermead post-concussion symptoms questionnaire", "weight": 0.0, "id": 165069784, "level": 3}
+{"count": 183, "name": "Bobath concept", "weight": 0.0, "id": 2778770396, "level": 3}
+{"count": 29, "name": "Aptiganel", "weight": 0.0, "id": 2778160660, "level": 3}
+{"count": 108, "name": "Neurohospitalist", "weight": 0.0, "id": 2780373308, "level": 3}
+{"count": 284, "name": "Stroke order", "weight": 0.0, "id": 2781165329, "level": 3}
+{"count": 221, "name": "Stroke Belt", "weight": 0.0, "id": 2781465692, "level": 3}
+{"count": 43, "name": "Dejerine\u2013Roussy syndrome", "weight": 0.0, "id": 2779236126, "level": 3}
+{"count": 33, "name": "Heart cancer", "weight": 0.0, "id": 2778688658, "level": 3}
+{"count": 224, "name": "Ischemic cascade", "weight": 0.0, "id": 2778509213, "level": 3}
+{"count": 289, "name": "Expressive aphasia", "weight": 0.0, "id": 2779711570, "level": 3}
+{"count": 93, "name": "Centrum ovale", "weight": 0.0, "id": 2777936141, "level": 3}
+{"count": 125, "name": "Barthel scale", "weight": 0.0, "id": 2776444720, "level": 3}
+{"count": 178, "name": "Boston Diagnostic Aphasia Examination", "weight": 0.0, "id": 2778788795, "level": 3}
+{"count": 80, "name": "Scintillating scotoma", "weight": 0.0, "id": 2777788972, "level": 3}
+{"count": 39, "name": "Claude's syndrome", "weight": 0.0, "id": 2779566658, "level": 3}
+{"count": 144, "name": "ABCD3", "weight": 0.0, "id": 2775832604, "level": 3}
+{"count": 158, "name": "Neck manipulation", "weight": 0.0, "id": 2781354205, "level": 3}
+{"count": 101, "name": "Receptive aphasia", "weight": 0.0, "id": 2778318186, "level": 3}
+{"count": 80, "name": "Posterior circulation infarct", "weight": 0.0, "id": 2780884353, "level": 3}
+{"count": 79, "name": "Central facial palsy", "weight": 0.0, "id": 2776939289, "level": 3}
+{"count": 26, "name": "Aprosody", "weight": 0.0, "id": 2778462162, "level": 3}
+{"count": 18, "name": "Watershed stroke", "weight": 0.0, "id": 2780129218, "level": 3}
+{"count": 26, "name": "Primary and secondary brain injury", "weight": 0.0, "id": 2777534942, "level": 3}
+{"count": 16, "name": "Athymhormia", "weight": 0.0, "id": 2776944471, "level": 3}
+{"count": 11, "name": "Brunnstrom Approach", "weight": 0.0, "id": 2780364915, "level": 3}
+{"count": 1227, "name": "Management of atrial fibrillation", "weight": 0.0, "id": 2780971015, "level": 3}
+{"count": 51, "name": "Pronator drift", "weight": 0.0, "id": 2781331609, "level": 3}
+{"count": 44, "name": "Mixed transcortical aphasia", "weight": 0.0, "id": 2781126588, "level": 3}
+{"count": 280, "name": "Stroke in China", "weight": 0.0, "id": 2776713556, "level": 3}
+{"count": 8, "name": "Ultrasound-enhanced systemic thrombolysis", "weight": 0.0, "id": 2775871718, "level": 3}

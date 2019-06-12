@@ -1,0 +1,8 @@
+{"count": 4213, "name": "Outage probability", "weight": 3.0, "id": 2778258436, "level": 3}
+{"count": 10824, "name": "Relay channel", "weight": 10.0, "id": 46257984, "level": 3}
+{"count": 9051, "name": "Protective relay", "weight": 8.0, "id": 2412688, "level": 3}
+{"count": 4660, "name": "Solid-state relay", "weight": 4.0, "id": 79997944, "level": 3}
+{"count": 298, "name": "Relay attack", "weight": 0.0, "id": 2778738786, "level": 3}
+{"count": 1274, "name": "Radio relay", "weight": 1.0, "id": 2779947903, "level": 3}
+{"count": 265, "name": "Open mail relay", "weight": 0.0, "id": 2711267, "level": 3}
+{"count": 255, "name": "Safety relay", "weight": 0.0, "id": 2776585400, "level": 3}

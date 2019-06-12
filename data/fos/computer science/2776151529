@@ -1,0 +1,3 @@
+{"count": 3622, "name": "Pedestrian detection", "weight": 10.0, "id": 2780156472, "level": 3}
+{"count": 872, "name": "Foreground detection", "weight": 2.0, "id": 2779769447, "level": 3}
+{"count": 113, "name": "Implicit Shape Model", "weight": 0.0, "id": 2780142956, "level": 3}

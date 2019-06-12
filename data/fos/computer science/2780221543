@@ -1,0 +1,11 @@
+{"count": 1548, "name": "Transposition cipher", "weight": 10.0, "id": 71247151, "level": 4}
+{"count": 355, "name": "eSTREAM", "weight": 2.0, "id": 2779966745, "level": 4}
+{"count": 1393, "name": "Running key cipher", "weight": 9.0, "id": 64119674, "level": 4}
+{"count": 189, "name": "Vigen\u00e8re cipher", "weight": 1.0, "id": 2780115967, "level": 4}
+{"count": 412, "name": "Weak key", "weight": 2.0, "id": 192467528, "level": 4}
+{"count": 39, "name": "KHAZAD", "weight": 0.0, "id": 2776755626, "level": 4}
+{"count": 78, "name": "Cipher suite", "weight": 0.0, "id": 2777353248, "level": 4}
+{"count": 10, "name": "Beale ciphers", "weight": 0.0, "id": 2777983028, "level": 4}
+{"count": 1495, "name": "Two-square cipher", "weight": 9.0, "id": 60153865, "level": 4}
+{"count": 8, "name": "Lorenz cipher", "weight": 0.0, "id": 2780702918, "level": 4}
+{"count": 15, "name": "Bacon's cipher", "weight": 0.0, "id": 36473579, "level": 4}

@@ -1,0 +1,11 @@
+{"count": 5172, "name": "Vector optimization", "weight": 6.0, "id": 164088818, "level": 4}
+{"count": 7438, "name": "Continuous optimization", "weight": 10.0, "id": 92995354, "level": 4}
+{"count": 2987, "name": "Derivative-free optimization", "weight": 4.0, "id": 29282572, "level": 4}
+{"count": 3040, "name": "Firefly algorithm", "weight": 4.0, "id": 154982244, "level": 4}
+{"count": 3645, "name": "Imperialist competitive algorithm", "weight": 4.0, "id": 101219045, "level": 4}
+{"count": 5205, "name": "Test functions for optimization", "weight": 7.0, "id": 150185637, "level": 4}
+{"count": 121, "name": "Rastrigin function", "weight": 0.0, "id": 179470228, "level": 4}
+{"count": 314, "name": "Glowworm swarm optimization", "weight": 0.0, "id": 2779482828, "level": 4}
+{"count": 67, "name": "Catfish effect", "weight": 0.0, "id": 89575268, "level": 4}
+{"count": 2332, "name": "Parallel metaheuristic", "weight": 3.0, "id": 28767586, "level": 4}
+{"count": 1398, "name": "L-reduction", "weight": 1.0, "id": 62114133, "level": 4}

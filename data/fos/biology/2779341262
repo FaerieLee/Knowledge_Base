@@ -1,0 +1,12 @@
+{"count": 1858, "name": "Passive immunity", "weight": 10.0, "id": 2778668663, "level": 4}
+{"count": 374, "name": "Adoptive immunity", "weight": 2.0, "id": 2779264532, "level": 4}
+{"count": 878, "name": "Mucosal immunology", "weight": 4.0, "id": 2778719978, "level": 4}
+{"count": 454, "name": "Premunition", "weight": 2.0, "id": 2777391228, "level": 4}
+{"count": 406, "name": "Plague vaccine", "weight": 2.0, "id": 2776697743, "level": 4}
+{"count": 410, "name": "Chlamydia muridarum", "weight": 2.0, "id": 2781046663, "level": 4}
+{"count": 215, "name": "Heterosubtypic immunity", "weight": 1.0, "id": 2780059724, "level": 4}
+{"count": 98, "name": "Artificial induction of immunity", "weight": 0.0, "id": 30875675, "level": 4}
+{"count": 110, "name": "Cytomegalovirus vaccine", "weight": 0.0, "id": 2779060123, "level": 4}
+{"count": 21, "name": "Side-chain theory", "weight": 0.0, "id": 2781156358, "level": 4}
+{"count": 134, "name": "Brucellosis vaccine", "weight": 0.0, "id": 2777043043, "level": 4}
+{"count": 93, "name": "Contact immunity", "weight": 0.0, "id": 79096465, "level": 4}

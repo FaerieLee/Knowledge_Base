@@ -1,0 +1,6 @@
+{"count": 8110, "name": "Power MOSFET", "weight": 10.0, "id": 88653102, "level": 3}
+{"count": 656, "name": "EKV MOSFET Model", "weight": 0.0, "id": 101863955, "level": 3}
+{"count": 152, "name": "Floating-gate MOSFET", "weight": 0.0, "id": 2781285199, "level": 3}
+{"count": 577, "name": "BSIM", "weight": 0.0, "id": 97190668, "level": 3}
+{"count": 32, "name": "Multigate device", "weight": 0.0, "id": 2775972720, "level": 3}
+{"count": 15, "name": "ITFET", "weight": 0.0, "id": 2779878667, "level": 3}

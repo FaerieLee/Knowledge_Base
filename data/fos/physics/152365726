@@ -1,0 +1,29 @@
+{"count": 13835, "name": "Local-density approximation", "weight": 10.0, "id": 9249130, "level": 3}
+{"count": 3055, "name": "Kohn\u2013Sham equations", "weight": 2.0, "id": 9059619, "level": 3}
+{"count": 6955, "name": "Time-dependent density functional theory", "weight": 5.0, "id": 20853536, "level": 3}
+{"count": 1892, "name": "Thomas\u2013Fermi model", "weight": 1.0, "id": 24572877, "level": 3}
+{"count": 1146, "name": "Dynamical mean field theory", "weight": 0.0, "id": 150625730, "level": 3}
+{"count": 105, "name": "Vienna Ab-initio Simulation Package", "weight": 0.0, "id": 132335953, "level": 3}
+{"count": 704, "name": "Fukui function", "weight": 0.0, "id": 2776959261, "level": 3}
+{"count": 4197, "name": "Hybrid functional", "weight": 3.0, "id": 22693506, "level": 3}
+{"count": 2198, "name": "Mulliken population analysis", "weight": 1.0, "id": 7214806, "level": 3}
+{"count": 353, "name": "WIEN2k", "weight": 0.0, "id": 65412894, "level": 3}
+{"count": 561, "name": "CASTEP", "weight": 0.0, "id": 145788326, "level": 3}
+{"count": 166, "name": "Stone\u2013Wales defect", "weight": 0.0, "id": 108684189, "level": 3}
+{"count": 563, "name": "Graphyne", "weight": 0.0, "id": 2777449259, "level": 3}
+{"count": 408, "name": "Spin contamination", "weight": 0.0, "id": 4244182, "level": 3}
+{"count": 97, "name": "Quasi-harmonic approximation", "weight": 0.0, "id": 2778632453, "level": 3}
+{"count": 270, "name": "Quantum ESPRESSO", "weight": 0.0, "id": 97505149, "level": 3}
+{"count": 189, "name": "CP2K", "weight": 0.0, "id": 9270190, "level": 3}
+{"count": 312, "name": "Post-Hartree\u2013Fock", "weight": 0.0, "id": 205433836, "level": 3}
+{"count": 285, "name": "Borophene", "weight": 0.0, "id": 2779029100, "level": 3}
+{"count": 458, "name": "Projector augmented wave method", "weight": 0.0, "id": 143829660, "level": 3}
+{"count": 277, "name": "ABINIT", "weight": 0.0, "id": 5123859, "level": 3}
+{"count": 221, "name": "DMol3", "weight": 0.0, "id": 160074246, "level": 3}
+{"count": 58, "name": "Hooke's atom", "weight": 0.0, "id": 60555311, "level": 3}
+{"count": 83, "name": "Borospherene", "weight": 0.0, "id": 2778628934, "level": 3}
+{"count": 48, "name": "Smeagol", "weight": 0.0, "id": 2777863369, "level": 3}
+{"count": 22, "name": "Beryllium sulfide", "weight": 0.0, "id": 2780323317, "level": 3}
+{"count": 78, "name": "Lattice density functional theory", "weight": 0.0, "id": 2780477150, "level": 3}
+{"count": 165, "name": "Quantum chemistry composite methods", "weight": 0.0, "id": 38234182, "level": 3}
+{"count": 26, "name": "Atomistix ToolKit", "weight": 0.0, "id": 2781428397, "level": 3}

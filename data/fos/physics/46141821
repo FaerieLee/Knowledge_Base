@@ -1,0 +1,200 @@
+{"count": 450247, "name": "Magnetic field", "weight": 4.0, "id": 115260700, "level": 2}
+{"count": 181330, "name": "X-ray crystallography", "weight": 1.0, "id": 50515024, "level": 2}
+{"count": 259328, "name": "Electrical resistivity and conductivity", "weight": 2.0, "id": 69990965, "level": 2}
+{"count": 231726, "name": "Electric field", "weight": 2.0, "id": 60799052, "level": 2}
+{"count": 988314, "name": "Polymer", "weight": 10.0, "id": 521977710, "level": 2}
+{"count": 212803, "name": "Single crystal", "weight": 2.0, "id": 73922627, "level": 2}
+{"count": 190197, "name": "Phase transition", "weight": 1.0, "id": 149288129, "level": 2}
+{"count": 320487, "name": "Spectroscopy", "weight": 3.0, "id": 32891209, "level": 2}
+{"count": 492692, "name": "Electron", "weight": 4.0, "id": 147120987, "level": 2}
+{"count": 231199, "name": "Polarization (waves)", "weight": 2.0, "id": 103716073, "level": 2}
+{"count": 242556, "name": "Superconductivity", "weight": 2.0, "id": 54101563, "level": 2}
+{"count": 204228, "name": "Raman spectroscopy", "weight": 2.0, "id": 40003534, "level": 2}
+{"count": 400974, "name": "Spectral line", "weight": 4.0, "id": 4839761, "level": 2}
+{"count": 131096, "name": "Ground state", "weight": 1.0, "id": 69523127, "level": 2}
+{"count": 147628, "name": "Absorption spectroscopy", "weight": 1.0, "id": 119824511, "level": 2}
+{"count": 110763, "name": "Nuclear magnetic resonance spectroscopy", "weight": 1.0, "id": 66974803, "level": 2}
+{"count": 58022, "name": "Protein structure", "weight": 0.0, "id": 47701112, "level": 2}
+{"count": 293233, "name": "Resonance", "weight": 2.0, "id": 107406667, "level": 2}
+{"count": 256091, "name": "Excited state", "weight": 2.0, "id": 181500209, "level": 2}
+{"count": 213395, "name": "Peptide", "weight": 2.0, "id": 2779281246, "level": 2}
+{"count": 81427, "name": "Current density", "weight": 0.0, "id": 207740977, "level": 2}
+{"count": 82709, "name": "Permeability (electromagnetism)", "weight": 0.0, "id": 120882062, "level": 2}
+{"count": 121620, "name": "X-ray photoelectron spectroscopy", "weight": 1.0, "id": 175708663, "level": 2}
+{"count": 238281, "name": "Anisotropy", "weight": 2.0, "id": 85725439, "level": 2}
+{"count": 191344, "name": "Proton", "weight": 1.0, "id": 54516573, "level": 2}
+{"count": 65988, "name": "Electronic band structure", "weight": 0.0, "id": 125469278, "level": 2}
+{"count": 83996, "name": "Nuclear reaction", "weight": 0.0, "id": 206191943, "level": 2}
+{"count": 55457, "name": "Magnetic moment", "weight": 0.0, "id": 54553102, "level": 2}
+{"count": 78968, "name": "Electron paramagnetic resonance", "weight": 0.0, "id": 187961010, "level": 2}
+{"count": 150097, "name": "Magnetization", "weight": 1.0, "id": 32546565, "level": 2}
+{"count": 213928, "name": "Magnet", "weight": 2.0, "id": 16389437, "level": 2}
+{"count": 24039, "name": "Beta decay", "weight": 0.0, "id": 46805990, "level": 2}
+{"count": 70497, "name": "Magnetic susceptibility", "weight": 0.0, "id": 16889073, "level": 2}
+{"count": 161681, "name": "Excitation", "weight": 1.0, "id": 83581075, "level": 2}
+{"count": 130478, "name": "Ferromagnetism", "weight": 1.0, "id": 82217956, "level": 2}
+{"count": 54490, "name": "Relaxation (NMR)", "weight": 0.0, "id": 45472611, "level": 2}
+{"count": 29602, "name": "Protein secondary structure", "weight": 0.0, "id": 62614982, "level": 2}
+{"count": 47103, "name": "Coupling constant", "weight": 0.0, "id": 183276030, "level": 2}
+{"count": 175297, "name": "Neutron", "weight": 1.0, "id": 152568617, "level": 2}
+{"count": 47263, "name": "Superlattice", "weight": 0.0, "id": 105382558, "level": 2}
+{"count": 83737, "name": "Hysteresis", "weight": 0.0, "id": 123299182, "level": 2}
+{"count": 333344, "name": "Spin-\u00bd", "weight": 3.0, "id": 8244735, "level": 2}
+{"count": 13303, "name": "Molecular model", "weight": 0.0, "id": 178910836, "level": 2}
+{"count": 69369, "name": "Deuterium", "weight": 0.0, "id": 58364064, "level": 2}
+{"count": 49888, "name": "Density of states", "weight": 0.0, "id": 53964469, "level": 2}
+{"count": 38862, "name": "Synchrotron radiation", "weight": 0.0, "id": 16332341, "level": 2}
+{"count": 30621, "name": "Crystallographic defect", "weight": 0.0, "id": 164675345, "level": 2}
+{"count": 41159, "name": "Neutron diffraction", "weight": 0.0, "id": 73585123, "level": 2}
+{"count": 62760, "name": "Lattice constant", "weight": 0.0, "id": 132612359, "level": 2}
+{"count": 33329, "name": "Space charge", "weight": 0.0, "id": 103132145, "level": 2}
+{"count": 59351, "name": "Exciton", "weight": 0.0, "id": 17729963, "level": 2}
+{"count": 23592, "name": "Particle acceleration", "weight": 0.0, "id": 75183268, "level": 2}
+{"count": 17977, "name": "Conformational change", "weight": 0.0, "id": 2777339483, "level": 2}
+{"count": 10460, "name": "Valence band", "weight": 0.0, "id": 103272658, "level": 2}
+{"count": 21048, "name": "Time of flight", "weight": 0.0, "id": 98960154, "level": 2}
+{"count": 60366, "name": "Cysteine", "weight": 0.0, "id": 2779201268, "level": 2}
+{"count": 25433, "name": "Effective mass (solid-state physics)", "weight": 0.0, "id": 24089560, "level": 2}
+{"count": 37432, "name": "Curie temperature", "weight": 0.0, "id": 63648874, "level": 2}
+{"count": 33509, "name": "Eddy current", "weight": 0.0, "id": 131357438, "level": 2}
+{"count": 50020, "name": "Magnetism", "weight": 0.0, "id": 197162081, "level": 2}
+{"count": 113370, "name": "Spectrometer", "weight": 1.0, "id": 33390570, "level": 2}
+{"count": 84781, "name": "Phonon", "weight": 0.0, "id": 24169881, "level": 2}
+{"count": 7866, "name": "Half-life", "weight": 0.0, "id": 3941253, "level": 2}
+{"count": 21753, "name": "Domain wall (magnetism)", "weight": 0.0, "id": 181686392, "level": 2}
+{"count": 70309, "name": "Ferrite (magnet)", "weight": 0.0, "id": 37210646, "level": 2}
+{"count": 44952, "name": "Coercivity", "weight": 0.0, "id": 126530901, "level": 2}
+{"count": 122027, "name": "Dipole", "weight": 1.0, "id": 173523689, "level": 2}
+{"count": 13781, "name": "Mean free path", "weight": 0.0, "id": 168986899, "level": 2}
+{"count": 6150, "name": "Charge-carrier density", "weight": 0.0, "id": 109724073, "level": 2}
+{"count": 33738, "name": "Perovskite (structure)", "weight": 0.0, "id": 155011858, "level": 2}
+{"count": 21163, "name": "Magnetic structure", "weight": 0.0, "id": 175601593, "level": 2}
+{"count": 27064, "name": "Differential thermal analysis", "weight": 0.0, "id": 76804077, "level": 2}
+{"count": 31228, "name": "Transmembrane protein", "weight": 0.0, "id": 24530287, "level": 2}
+{"count": 47854, "name": "Hyperfine structure", "weight": 0.0, "id": 131538251, "level": 2}
+{"count": 11879, "name": "Cryogenics", "weight": 0.0, "id": 179725390, "level": 2}
+{"count": 18247, "name": "Spin glass", "weight": 0.0, "id": 150775274, "level": 2}
+{"count": 18416, "name": "Nuclear structure", "weight": 0.0, "id": 67327403, "level": 2}
+{"count": 16085, "name": "Transmembrane domain", "weight": 0.0, "id": 118892022, "level": 2}
+{"count": 15203, "name": "SHELL model", "weight": 0.0, "id": 2777227988, "level": 2}
+{"count": 12294, "name": "Maser", "weight": 0.0, "id": 46061668, "level": 2}
+{"count": 34518, "name": "Fermi level", "weight": 0.0, "id": 40636707, "level": 2}
+{"count": 15495, "name": "Metal\u2013insulator transition", "weight": 0.0, "id": 179936367, "level": 2}
+{"count": 11006, "name": "Jahn\u2013Teller effect", "weight": 0.0, "id": 83981384, "level": 2}
+{"count": 18455, "name": "Full width at half maximum", "weight": 0.0, "id": 108649604, "level": 2}
+{"count": 13436, "name": "Scintillation counter", "weight": 0.0, "id": 47663296, "level": 2}
+{"count": 29998, "name": "Xenon", "weight": 0.0, "id": 548442186, "level": 2}
+{"count": 36099, "name": "Charge carrier", "weight": 0.0, "id": 104232198, "level": 2}
+{"count": 31485, "name": "Oligomer", "weight": 0.0, "id": 2780642029, "level": 2}
+{"count": 21355, "name": "Jog", "weight": 0.0, "id": 67901905, "level": 2}
+{"count": 30493, "name": "Spin echo", "weight": 0.0, "id": 83042744, "level": 2}
+{"count": 14706, "name": "Local field", "weight": 0.0, "id": 84583765, "level": 2}
+{"count": 20695, "name": "Gadolinium", "weight": 0.0, "id": 557651011, "level": 2}
+{"count": 5600, "name": "Short range order", "weight": 0.0, "id": 2778931360, "level": 2}
+{"count": 19689, "name": "Brillouin zone", "weight": 0.0, "id": 16291881, "level": 2}
+{"count": 21520, "name": "Neon", "weight": 0.0, "id": 522602180, "level": 2}
+{"count": 9514, "name": "Carbon-13", "weight": 0.0, "id": 125047889, "level": 2}
+{"count": 3907, "name": "Molecular biophysics", "weight": 0.0, "id": 70636015, "level": 2}
+{"count": 7523, "name": "Magnetic separation", "weight": 0.0, "id": 2779833257, "level": 2}
+{"count": 9667, "name": "C-terminus", "weight": 0.0, "id": 57711820, "level": 2}
+{"count": 20887, "name": "Solid-state nuclear magnetic resonance", "weight": 0.0, "id": 153202636, "level": 2}
+{"count": 35699, "name": "Muon", "weight": 0.0, "id": 205334942, "level": 2}
+{"count": 11456, "name": "Electron energy loss spectroscopy", "weight": 0.0, "id": 178187954, "level": 2}
+{"count": 20071, "name": "Cyclotron", "weight": 0.0, "id": 39527238, "level": 2}
+{"count": 21490, "name": "Magnetostriction", "weight": 0.0, "id": 72852350, "level": 2}
+{"count": 44099, "name": "Bilayer", "weight": 0.0, "id": 192157962, "level": 2}
+{"count": 10046, "name": "Metalloproteinase", "weight": 0.0, "id": 55728118, "level": 2}
+{"count": 9589, "name": "Thioredoxin", "weight": 0.0, "id": 3623737, "level": 2}
+{"count": 11820, "name": "Kerr effect", "weight": 0.0, "id": 176672485, "level": 2}
+{"count": 32036, "name": "Diamine", "weight": 0.0, "id": 2780871995, "level": 2}
+{"count": 10653, "name": "Fermi liquid theory", "weight": 0.0, "id": 51675196, "level": 2}
+{"count": 10286, "name": "Kondo effect", "weight": 0.0, "id": 109281498, "level": 2}
+{"count": 32869, "name": "M\u00f6ssbauer spectroscopy", "weight": 0.0, "id": 70854507, "level": 2}
+{"count": 12211, "name": "Whey protein", "weight": 0.0, "id": 2777897731, "level": 2}
+{"count": 12522, "name": "Stark effect", "weight": 0.0, "id": 50126897, "level": 2}
+{"count": 24203, "name": "Ferromagnetic resonance", "weight": 0.0, "id": 43922652, "level": 2}
+{"count": 15033, "name": "Polaron", "weight": 0.0, "id": 64127065, "level": 2}
+{"count": 67025, "name": "Paramagnetism", "weight": 0.0, "id": 124712363, "level": 2}
+{"count": 8357, "name": "Skin effect", "weight": 0.0, "id": 151482245, "level": 2}
+{"count": 8955, "name": "Charge density wave", "weight": 0.0, "id": 2780525273, "level": 2}
+{"count": 14518, "name": "Q value", "weight": 0.0, "id": 2779142801, "level": 2}
+{"count": 10057, "name": "Hydroxyproline", "weight": 0.0, "id": 2779797417, "level": 2}
+{"count": 10943, "name": "Protein tertiary structure", "weight": 0.0, "id": 75599170, "level": 2}
+{"count": 10429, "name": "Beta particle", "weight": 0.0, "id": 163688568, "level": 2}
+{"count": 9055, "name": "Magnetic force microscope", "weight": 0.0, "id": 181635281, "level": 2}
+{"count": 57499, "name": "Stacking", "weight": 0.0, "id": 33347731, "level": 2}
+{"count": 65420, "name": "Atmospheric temperature range", "weight": 0.0, "id": 39353612, "level": 2}
+{"count": 14306, "name": "Molecular beam", "weight": 0.0, "id": 54419926, "level": 2}
+{"count": 5994, "name": "Optical conductivity", "weight": 0.0, "id": 2778187894, "level": 2}
+{"count": 7835, "name": "X-ray absorption fine structure", "weight": 0.0, "id": 150244406, "level": 2}
+{"count": 7740, "name": "Magnetic circular dichroism", "weight": 0.0, "id": 68563686, "level": 2}
+{"count": 8169, "name": "Klystron", "weight": 0.0, "id": 94506165, "level": 2}
+{"count": 4245, "name": "Protein dynamics", "weight": 0.0, "id": 2775981520, "level": 2}
+{"count": 3576, "name": "Free induction decay", "weight": 0.0, "id": 90199342, "level": 2}
+{"count": 4437, "name": "Thulium", "weight": 0.0, "id": 500400820, "level": 2}
+{"count": 12518, "name": "Precession", "weight": 0.0, "id": 81502235, "level": 2}
+{"count": 13640, "name": "Absorption edge", "weight": 0.0, "id": 50792271, "level": 2}
+{"count": 19871, "name": "Diamagnetism", "weight": 0.0, "id": 96026104, "level": 2}
+{"count": 4054, "name": "Manganite", "weight": 0.0, "id": 2779700590, "level": 2}
+{"count": 5885, "name": "Dichroism", "weight": 0.0, "id": 105600476, "level": 2}
+{"count": 8008, "name": "Oscillator strength", "weight": 0.0, "id": 99191460, "level": 2}
+{"count": 8268, "name": "Debye model", "weight": 0.0, "id": 25376523, "level": 2}
+{"count": 9257, "name": "Atomic electron transition", "weight": 0.0, "id": 19329426, "level": 2}
+{"count": 4121, "name": "Yttrium iron garnet", "weight": 0.0, "id": 2775869346, "level": 2}
+{"count": 9364, "name": "Cryostat", "weight": 0.0, "id": 89106999, "level": 2}
+{"count": 26111, "name": "Synchrotron", "weight": 0.0, "id": 21368211, "level": 2}
+{"count": 6859, "name": "Dysprosium", "weight": 0.0, "id": 525727330, "level": 2}
+{"count": 4902, "name": "Nuclear quadrupole resonance", "weight": 0.0, "id": 2778981401, "level": 2}
+{"count": 13250, "name": "Liquid helium", "weight": 0.0, "id": 1855228, "level": 2}
+{"count": 15819, "name": "Two-photon excitation microscopy", "weight": 0.0, "id": 47785574, "level": 2}
+{"count": 14241, "name": "Squid", "weight": 0.0, "id": 2777743550, "level": 2}
+{"count": 3020, "name": "Energy level splitting", "weight": 0.0, "id": 188332802, "level": 2}
+{"count": 10354, "name": "Levitation", "weight": 0.0, "id": 27838914, "level": 2}
+{"count": 1965, "name": "Pulsed field gradient", "weight": 0.0, "id": 2779880339, "level": 2}
+{"count": 734, "name": "Magnetomechanical effects", "weight": 0.0, "id": 2780048914, "level": 2}
+{"count": 33885, "name": "Quadrupole", "weight": 0.0, "id": 39984356, "level": 2}
+{"count": 5121, "name": "Charge ordering", "weight": 0.0, "id": 159176642, "level": 2}
+{"count": 9957, "name": "Tetramer", "weight": 0.0, "id": 2778886173, "level": 2}
+{"count": 6604, "name": "Gyrotron", "weight": 0.0, "id": 2777272912, "level": 2}
+{"count": 35099, "name": "Helix", "weight": 0.0, "id": 147224300, "level": 2}
+{"count": 6390, "name": "Structural motif", "weight": 0.0, "id": 132677234, "level": 2}
+{"count": 4523, "name": "Magnetic storage", "weight": 0.0, "id": 2778511666, "level": 2}
+{"count": 5712, "name": "Pyrochlore", "weight": 0.0, "id": 2779303976, "level": 2}
+{"count": 3003, "name": "Bloch equations", "weight": 0.0, "id": 142951617, "level": 2}
+{"count": 3941, "name": "Torpedo", "weight": 0.0, "id": 123419017, "level": 2}
+{"count": 17200, "name": "Multipole expansion", "weight": 0.0, "id": 52765159, "level": 2}
+{"count": 11004, "name": "Angle-resolved photoemission spectroscopy", "weight": 0.0, "id": 156390739, "level": 2}
+{"count": 3610, "name": "Gramicidin", "weight": 0.0, "id": 2779650302, "level": 2}
+{"count": 1091, "name": "Oxygen-17", "weight": 0.0, "id": 5150642, "level": 2}
+{"count": 33753, "name": "Chemical shift", "weight": 0.0, "id": 111429119, "level": 2}
+{"count": 7015, "name": "Multiplet", "weight": 0.0, "id": 133871045, "level": 2}
+{"count": 4544, "name": "Magnetic flux leakage", "weight": 0.0, "id": 20892748, "level": 2}
+{"count": 1117, "name": "Debye\u2013Waller factor", "weight": 0.0, "id": 2781104464, "level": 2}
+{"count": 12968, "name": "Fermi energy", "weight": 0.0, "id": 26057338, "level": 2}
+{"count": 3240, "name": "Serpin", "weight": 0.0, "id": 2778965386, "level": 2}
+{"count": 3339, "name": "Rotational temperature", "weight": 0.0, "id": 16951817, "level": 2}
+{"count": 3090, "name": "Permease", "weight": 0.0, "id": 190114821, "level": 2}
+{"count": 4485, "name": "Cryocooler", "weight": 0.0, "id": 4846943, "level": 2}
+{"count": 9256, "name": "Monochromator", "weight": 0.0, "id": 14112920, "level": 2}
+{"count": 10836, "name": "Pulsed power", "weight": 0.0, "id": 97039730, "level": 2}
+{"count": 10510, "name": "Faraday cage", "weight": 0.0, "id": 108948954, "level": 2}
+{"count": 3650, "name": "Nutation", "weight": 0.0, "id": 37025601, "level": 2}
+{"count": 1354, "name": "Magnetocardiography", "weight": 0.0, "id": 2778475581, "level": 2}
+{"count": 3531, "name": "Area density", "weight": 0.0, "id": 190352325, "level": 2}
+{"count": 3752, "name": "Cyclophilin", "weight": 0.0, "id": 2776326521, "level": 2}
+{"count": 534, "name": "Hermansky\u2013Pudlak syndrome", "weight": 0.0, "id": 2779778433, "level": 2}
+{"count": 1126, "name": "Valeric acid", "weight": 0.0, "id": 2776258393, "level": 2}
+{"count": 1461, "name": "Ramachandran plot", "weight": 0.0, "id": 14301744, "level": 2}
+{"count": 2635, "name": "Protein precursor", "weight": 0.0, "id": 7860815, "level": 2}
+{"count": 1194, "name": "Polyglutamic acid", "weight": 0.0, "id": 2776207055, "level": 2}
+{"count": 2496, "name": "Rabi cycle", "weight": 0.0, "id": 40025392, "level": 2}
+{"count": 15449, "name": "Recoil", "weight": 0.0, "id": 2776668124, "level": 2}
+{"count": 3755, "name": "Rotational diffusion", "weight": 0.0, "id": 2776294167, "level": 2}
+{"count": 10181, "name": "Dephasing", "weight": 0.0, "id": 49023278, "level": 2}
+{"count": 4044, "name": "Random coil", "weight": 0.0, "id": 34349673, "level": 2}
+{"count": 2182, "name": "Rabi frequency", "weight": 0.0, "id": 35114708, "level": 2}
+{"count": 3583, "name": "Filling factor", "weight": 0.0, "id": 9508911, "level": 2}
+{"count": 2857, "name": "DESY", "weight": 0.0, "id": 2777240086, "level": 2}
+{"count": 6364, "name": "Microsecond", "weight": 0.0, "id": 34742353, "level": 2}
+{"count": 3508, "name": "Atomic packing factor", "weight": 0.0, "id": 110161667, "level": 2}
+{"count": 875, "name": "Multichannel analyzer", "weight": 0.0, "id": 2780291173, "level": 2}

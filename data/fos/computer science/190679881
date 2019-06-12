@@ -1,0 +1,4 @@
+{"count": 4924, "name": "Base station subsystem", "weight": 7.0, "id": 23004023, "level": 4}
+{"count": 4168, "name": "Timing advance", "weight": 6.0, "id": 124845431, "level": 4}
+{"count": 892, "name": "Station model", "weight": 1.0, "id": 30587660, "level": 4}
+{"count": 6736, "name": "Station", "weight": 10.0, "id": 27652677, "level": 4}

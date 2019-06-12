@@ -1,0 +1,175 @@
+{"count": 67850, "name": "Fading", "weight": 8.0, "id": 81978471, "level": 3}
+{"count": 76182, "name": "Orthogonal frequency-division multiplexing", "weight": 9.0, "id": 40409654, "level": 3}
+{"count": 55888, "name": "Bit error rate", "weight": 7.0, "id": 56296756, "level": 3}
+{"count": 21847, "name": "Channel capacity", "weight": 2.0, "id": 97744766, "level": 3}
+{"count": 54458, "name": "Code division multiple access", "weight": 6.0, "id": 47696715, "level": 3}
+{"count": 7551, "name": "Probability of error", "weight": 0.0, "id": 92224547, "level": 3}
+{"count": 4357, "name": "Channel code", "weight": 0.0, "id": 166366890, "level": 3}
+{"count": 27856, "name": "Phase-shift keying", "weight": 3.0, "id": 186378180, "level": 3}
+{"count": 37758, "name": "Cognitive radio", "weight": 4.0, "id": 149946192, "level": 3}
+{"count": 71127, "name": "Multiplexing", "weight": 8.0, "id": 19275194, "level": 3}
+{"count": 79790, "name": "MIMO", "weight": 10.0, "id": 207987634, "level": 3}
+{"count": 18204, "name": "Additive white Gaussian noise", "weight": 2.0, "id": 169334058, "level": 3}
+{"count": 13911, "name": "Spatial correlation", "weight": 1.0, "id": 150060386, "level": 3}
+{"count": 18400, "name": "Ultra-wideband", "weight": 2.0, "id": 21916231, "level": 3}
+{"count": 10109, "name": "Intersymbol interference", "weight": 1.0, "id": 97812054, "level": 3}
+{"count": 18449, "name": "Time division multiple access", "weight": 2.0, "id": 117313154, "level": 3}
+{"count": 40370, "name": "Multipath propagation", "weight": 5.0, "id": 161218011, "level": 3}
+{"count": 17991, "name": "Quadrature amplitude modulation", "weight": 2.0, "id": 32409245, "level": 3}
+{"count": 20482, "name": "Physical layer", "weight": 2.0, "id": 19247436, "level": 3}
+{"count": 73575, "name": "Telecommunications link", "weight": 9.0, "id": 138660444, "level": 3}
+{"count": 24271, "name": "Spectral efficiency", "weight": 3.0, "id": 137246740, "level": 3}
+{"count": 10840, "name": "Code rate", "weight": 1.0, "id": 206468330, "level": 3}
+{"count": 11923, "name": "Minimum mean square error", "weight": 1.0, "id": 90652560, "level": 3}
+{"count": 12111, "name": "Channel allocation schemes", "weight": 1.0, "id": 114237682, "level": 3}
+{"count": 4213, "name": "Outage probability", "weight": 0.0, "id": 2778258436, "level": 3}
+{"count": 12297, "name": "Forward error correction", "weight": 1.0, "id": 202932441, "level": 3}
+{"count": 24698, "name": "Equalization (audio)", "weight": 3.0, "id": 75755367, "level": 3}
+{"count": 8680, "name": "Path loss", "weight": 1.0, "id": 194273485, "level": 3}
+{"count": 13725, "name": "Single antenna interference cancellation", "weight": 1.0, "id": 83204339, "level": 3}
+{"count": 31741, "name": "Beamforming", "weight": 3.0, "id": 54197355, "level": 3}
+{"count": 9142, "name": "Link adaptation", "weight": 1.0, "id": 138916503, "level": 3}
+{"count": 6335, "name": "Coding gain", "weight": 0.0, "id": 76862118, "level": 3}
+{"count": 848, "name": "Carrier-sense multiple access", "weight": 0.0, "id": 2777147264, "level": 3}
+{"count": 4737, "name": "Automatic repeat request", "weight": 0.0, "id": 171952454, "level": 3}
+{"count": 10824, "name": "Relay channel", "weight": 1.0, "id": 46257984, "level": 3}
+{"count": 1954, "name": "Signal-to-interference ratio", "weight": 0.0, "id": 75613536, "level": 3}
+{"count": 6344, "name": "Adaptive equalizer", "weight": 0.0, "id": 25125847, "level": 3}
+{"count": 6101, "name": "IEEE 802.11", "weight": 0.0, "id": 185298936, "level": 3}
+{"count": 6920, "name": "Underwater acoustic communication", "weight": 0.0, "id": 169111936, "level": 3}
+{"count": 2179, "name": "Packet radio", "weight": 0.0, "id": 167465779, "level": 3}
+{"count": 5919, "name": "Co-channel interference", "weight": 0.0, "id": 6532628, "level": 3}
+{"count": 4602, "name": "Pulse-position modulation", "weight": 0.0, "id": 46035914, "level": 3}
+{"count": 3488, "name": "Signal-to-interference-plus-noise ratio", "weight": 0.0, "id": 98824394, "level": 3}
+{"count": 3784, "name": "Equalization", "weight": 0.0, "id": 107901429, "level": 3}
+{"count": 3558, "name": "Non-line-of-sight propagation", "weight": 0.0, "id": 154910267, "level": 3}
+{"count": 4204, "name": "Adjacent-channel interference", "weight": 0.0, "id": 134222854, "level": 3}
+{"count": 13436, "name": "Equalizer", "weight": 1.0, "id": 67545415, "level": 3}
+{"count": 1602, "name": "Virtual channel", "weight": 0.0, "id": 2777076873, "level": 3}
+{"count": 9157, "name": "Power-line communication", "weight": 1.0, "id": 132885549, "level": 3}
+{"count": 8727, "name": "Hybrid automatic repeat request", "weight": 1.0, "id": 118437007, "level": 3}
+{"count": 8082, "name": "Frequency-hopping spread spectrum", "weight": 1.0, "id": 122962297, "level": 3}
+{"count": 2752, "name": "Channel spacing", "weight": 0.0, "id": 2778812306, "level": 3}
+{"count": 3197, "name": "Optical wireless", "weight": 0.0, "id": 2781305180, "level": 3}
+{"count": 2178, "name": "Multiple description coding", "weight": 0.0, "id": 135554599, "level": 3}
+{"count": 1105, "name": "Cross-layer optimization", "weight": 0.0, "id": 2779851314, "level": 3}
+{"count": 1391, "name": "Space-division multiple access", "weight": 0.0, "id": 2778140939, "level": 3}
+{"count": 2391, "name": "Carrier sense multiple access with collision avoidance", "weight": 0.0, "id": 59229178, "level": 3}
+{"count": 1022, "name": "Information-theoretic security", "weight": 0.0, "id": 47191418, "level": 3}
+{"count": 1402, "name": "Interference (communication)", "weight": 0.0, "id": 32022120, "level": 3}
+{"count": 1698, "name": "Adjacent channel", "weight": 0.0, "id": 2776908912, "level": 3}
+{"count": 1061, "name": "Exponential backoff", "weight": 0.0, "id": 30777684, "level": 3}
+{"count": 761, "name": "Capture effect", "weight": 0.0, "id": 187077762, "level": 3}
+{"count": 10670, "name": "Duplex (telecommunications)", "weight": 1.0, "id": 169574100, "level": 3}
+{"count": 18658, "name": "Transmitter power output", "weight": 2.0, "id": 65422117, "level": 3}
+{"count": 1338, "name": "Single-frequency network", "weight": 0.0, "id": 2776847985, "level": 3}
+{"count": 2532, "name": "Channelized", "weight": 0.0, "id": 51889082, "level": 3}
+{"count": 3930, "name": "Symbol rate", "weight": 0.0, "id": 74645175, "level": 3}
+{"count": 538, "name": "Digital mobile radio", "weight": 0.0, "id": 2779294550, "level": 3}
+{"count": 1036, "name": "Molecular communication", "weight": 0.0, "id": 2779767902, "level": 3}
+{"count": 1676, "name": "Burst error", "weight": 0.0, "id": 113283315, "level": 3}
+{"count": 553, "name": "Run-length limited", "weight": 0.0, "id": 2777376042, "level": 3}
+{"count": 1852, "name": "Call blocking", "weight": 0.0, "id": 2775972105, "level": 3}
+{"count": 1504, "name": "Differential coding", "weight": 0.0, "id": 79880414, "level": 3}
+{"count": 1459, "name": "Goodput", "weight": 0.0, "id": 94022561, "level": 3}
+{"count": 947, "name": "HiperLAN", "weight": 0.0, "id": 2781379802, "level": 3}
+{"count": 690, "name": "Artificial noise", "weight": 0.0, "id": 2780909371, "level": 3}
+{"count": 6267, "name": "Pilot signal", "weight": 0.0, "id": 197264572, "level": 3}
+{"count": 4270, "name": "Channel access method", "weight": 0.0, "id": 193430537, "level": 3}
+{"count": 424, "name": "Meteor burst communications", "weight": 0.0, "id": 118687608, "level": 3}
+{"count": 812, "name": "Burst transmission", "weight": 0.0, "id": 2778701729, "level": 3}
+{"count": 561, "name": "Bandwidth expansion", "weight": 0.0, "id": 2780836804, "level": 3}
+{"count": 2271, "name": "Return channel", "weight": 0.0, "id": 50937982, "level": 3}
+{"count": 603, "name": "Hierarchical modulation", "weight": 0.0, "id": 2779098619, "level": 3}
+{"count": 2453, "name": "Electronic program guide", "weight": 0.0, "id": 2779883265, "level": 3}
+{"count": 832, "name": "Block Error Rate", "weight": 0.0, "id": 2776639698, "level": 3}
+{"count": 200, "name": "Adaptive communications", "weight": 0.0, "id": 2779651123, "level": 3}
+{"count": 69, "name": "Multipacket reception", "weight": 0.0, "id": 2780350764, "level": 3}
+{"count": 683, "name": "Pulse height analyzer", "weight": 0.0, "id": 2777872403, "level": 3}
+{"count": 441, "name": "Channel conflict", "weight": 0.0, "id": 2776467205, "level": 3}
+{"count": 907, "name": "DOCSIS", "weight": 0.0, "id": 2779344865, "level": 3}
+{"count": 680, "name": "Polar code", "weight": 0.0, "id": 2778396592, "level": 3}
+{"count": 460, "name": "Frame aggregation", "weight": 0.0, "id": 2779627188, "level": 3}
+{"count": 925, "name": "Guard band", "weight": 0.0, "id": 2778589863, "level": 3}
+{"count": 3817, "name": "Stereophonic sound", "weight": 0.0, "id": 140631703, "level": 3}
+{"count": 155, "name": "Diversity coding", "weight": 0.0, "id": 2777209859, "level": 3}
+{"count": 105, "name": "Data-dependent jitter", "weight": 0.0, "id": 2780091913, "level": 3}
+{"count": 1291, "name": "Full Rate", "weight": 0.0, "id": 197477341, "level": 3}
+{"count": 1431, "name": "Surround sound", "weight": 0.0, "id": 2780544925, "level": 3}
+{"count": 821, "name": "Discontinuous transmission", "weight": 0.0, "id": 2776451079, "level": 3}
+{"count": 1619, "name": "Superframe", "weight": 0.0, "id": 137607620, "level": 3}
+{"count": 1145, "name": "Link level", "weight": 0.0, "id": 2779609627, "level": 3}
+{"count": 453, "name": "Channel bonding", "weight": 0.0, "id": 100298382, "level": 3}
+{"count": 193, "name": "Channel reliability", "weight": 0.0, "id": 2779824847, "level": 3}
+{"count": 144, "name": "Complementary code keying", "weight": 0.0, "id": 102013462, "level": 3}
+{"count": 535, "name": "Link margin", "weight": 0.0, "id": 6489200, "level": 3}
+{"count": 167, "name": "Channel surfing", "weight": 0.0, "id": 2780348597, "level": 3}
+{"count": 1258, "name": "Digital Multiplex System", "weight": 0.0, "id": 191073591, "level": 3}
+{"count": 677, "name": "Modulation order", "weight": 0.0, "id": 2776560556, "level": 3}
+{"count": 707, "name": "Beacon frame", "weight": 0.0, "id": 2777451380, "level": 3}
+{"count": 174, "name": "Fext", "weight": 0.0, "id": 2781305123, "level": 3}
+{"count": 1374, "name": "Equaliser", "weight": 0.0, "id": 29921413, "level": 3}
+{"count": 761, "name": "Primary channel", "weight": 0.0, "id": 2780438568, "level": 3}
+{"count": 108, "name": "Effective transmission rate", "weight": 0.0, "id": 2777574613, "level": 3}
+{"count": 127, "name": "H channel", "weight": 0.0, "id": 2781452181, "level": 3}
+{"count": 744, "name": "Synchronization Channel", "weight": 0.0, "id": 2780659626, "level": 3}
+{"count": 200, "name": "Backward channel", "weight": 0.0, "id": 2778795245, "level": 3}
+{"count": 151, "name": "MPEG Surround", "weight": 0.0, "id": 2778700996, "level": 3}
+{"count": 388, "name": "Overhead information", "weight": 0.0, "id": 2779664932, "level": 3}
+{"count": 136, "name": "SINCGARS", "weight": 0.0, "id": 48574950, "level": 3}
+{"count": 198, "name": "Crosstalk measurement", "weight": 0.0, "id": 195791864, "level": 3}
+{"count": 71, "name": "Land mobile radio system", "weight": 0.0, "id": 2780940065, "level": 3}
+{"count": 307, "name": "Channel bank", "weight": 0.0, "id": 160754406, "level": 3}
+{"count": 281, "name": "Channel types", "weight": 0.0, "id": 160418014, "level": 3}
+{"count": 298, "name": "Collision domain", "weight": 0.0, "id": 75513984, "level": 3}
+{"count": 674, "name": "Shared medium", "weight": 0.0, "id": 2778054021, "level": 3}
+{"count": 146, "name": "Talkspurt", "weight": 0.0, "id": 2778122772, "level": 3}
+{"count": 303, "name": "Scattering channel", "weight": 0.0, "id": 2781057791, "level": 3}
+{"count": 451, "name": "Primary station", "weight": 0.0, "id": 2777662197, "level": 3}
+{"count": 425, "name": "Communications receiver", "weight": 0.0, "id": 2778183463, "level": 3}
+{"count": 80, "name": "Advanced Mobile Phone System", "weight": 0.0, "id": 87133879, "level": 3}
+{"count": 32, "name": "Multigate device", "weight": 0.0, "id": 2775972720, "level": 3}
+{"count": 54, "name": "In-band control", "weight": 0.0, "id": 2781396619, "level": 3}
+{"count": 123, "name": "Super-channel", "weight": 0.0, "id": 2779868332, "level": 3}
+{"count": 112, "name": "Channel modulator", "weight": 0.0, "id": 2779683153, "level": 3}
+{"count": 37, "name": "Digital Circuit Multiplication Equipment", "weight": 0.0, "id": 2779878814, "level": 3}
+{"count": 20, "name": "Body-to-body communication", "weight": 0.0, "id": 2778447126, "level": 3}
+{"count": 658, "name": "Channel use", "weight": 0.0, "id": 2779271213, "level": 3}
+{"count": 28, "name": "Delay encoding", "weight": 0.0, "id": 2781312885, "level": 3}
+{"count": 23, "name": "Frame-bursting", "weight": 0.0, "id": 2780727409, "level": 3}
+{"count": 372, "name": "Protection ring", "weight": 0.0, "id": 2777631543, "level": 3}
+{"count": 101, "name": "Received signal code power", "weight": 0.0, "id": 2781437045, "level": 3}
+{"count": 50, "name": "Time-assignment speech interpolation", "weight": 0.0, "id": 2777537454, "level": 3}
+{"count": 49, "name": "Contention ratio", "weight": 0.0, "id": 42386278, "level": 3}
+{"count": 34, "name": "Interpacket gap", "weight": 0.0, "id": 2777366960, "level": 3}
+{"count": 229, "name": "AM stereo", "weight": 0.0, "id": 2779081413, "level": 3}
+{"count": 21, "name": "MPT-1327", "weight": 0.0, "id": 2777094886, "level": 3}
+{"count": 587, "name": "B channel", "weight": 0.0, "id": 149720702, "level": 3}
+{"count": 19, "name": "Absolute radio-frequency channel number", "weight": 0.0, "id": 2780933557, "level": 3}
+{"count": 23, "name": "Channel noise level", "weight": 0.0, "id": 2780336413, "level": 3}
+{"count": 18, "name": "LAPDm", "weight": 0.0, "id": 2776832492, "level": 3}
+{"count": 32, "name": "Call set-up time", "weight": 0.0, "id": 2781137813, "level": 3}
+{"count": 164, "name": "TDM Bus", "weight": 0.0, "id": 2779332687, "level": 3}
+{"count": 47, "name": "SDCH", "weight": 0.0, "id": 2779750745, "level": 3}
+{"count": 30, "name": "Voice group call service", "weight": 0.0, "id": 2775922152, "level": 3}
+{"count": 760, "name": "Channel-associated signaling", "weight": 0.0, "id": 7200420, "level": 3}
+{"count": 43, "name": "Call collision", "weight": 0.0, "id": 17829895, "level": 3}
+{"count": 89, "name": "Traffic Power", "weight": 0.0, "id": 154111892, "level": 3}
+{"count": 35, "name": "Falsing", "weight": 0.0, "id": 2779304688, "level": 3}
+{"count": 32, "name": "Channel letters", "weight": 0.0, "id": 2778565274, "level": 3}
+{"count": 325, "name": "Data signaling rate", "weight": 0.0, "id": 24555108, "level": 3}
+{"count": 106, "name": "Simplex communication", "weight": 0.0, "id": 87145294, "level": 3}
+{"count": 16, "name": "Bit-count integrity", "weight": 0.0, "id": 2779189334, "level": 3}
+{"count": 64, "name": "Automatic sounding", "weight": 0.0, "id": 193763364, "level": 3}
+{"count": 38, "name": "ANDVT", "weight": 0.0, "id": 2776402812, "level": 3}
+{"count": 7, "name": "Multiplex baseband", "weight": 0.0, "id": 2776629760, "level": 3}
+{"count": 22, "name": "SCSI connector", "weight": 0.0, "id": 2779015230, "level": 3}
+{"count": 850, "name": "Receiver", "weight": 0.0, "id": 12180208, "level": 3}
+{"count": 818, "name": "Link Access Procedures, D channel", "weight": 0.0, "id": 18394916, "level": 3}
+{"count": 172, "name": "Simultaneous voice and data", "weight": 0.0, "id": 2777588733, "level": 3}
+{"count": 15, "name": "Illegitimate receiver", "weight": 0.0, "id": 2777079009, "level": 3}
+{"count": 42, "name": "Robbed-bit signaling", "weight": 0.0, "id": 2779076158, "level": 3}
+{"count": 21, "name": "High Frequency Data Link", "weight": 0.0, "id": 2777926151, "level": 3}
+{"count": 73, "name": "Signal-to-noise ratio (imaging)", "weight": 0.0, "id": 13944312, "level": 3}
+{"count": 24, "name": "Received noise power", "weight": 0.0, "id": 2780860092, "level": 3}
+{"count": 27, "name": "Channel 37", "weight": 0.0, "id": 2778231161, "level": 3}

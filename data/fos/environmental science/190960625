@@ -1,0 +1,16 @@
+{"count": 1267, "name": "Disinfection by-product", "weight": 1.0, "id": 2780642324, "level": 3}
+{"count": 1516, "name": "Trihalomethane", "weight": 1.0, "id": 2777226368, "level": 3}
+{"count": 2470, "name": "Sand filter", "weight": 2.0, "id": 2778581769, "level": 3}
+{"count": 983, "name": "Slow sand filter", "weight": 0.0, "id": 136223276, "level": 3}
+{"count": 1259, "name": "Haloacetic acids", "weight": 1.0, "id": 2777637177, "level": 3}
+{"count": 12324, "name": "Raw water", "weight": 10.0, "id": 111687972, "level": 3}
+{"count": 603, "name": "Chloramination", "weight": 0.0, "id": 2776849215, "level": 3}
+{"count": 189, "name": "Solar water disinfection", "weight": 0.0, "id": 2778395396, "level": 3}
+{"count": 425, "name": "Water chlorination", "weight": 0.0, "id": 2778602707, "level": 3}
+{"count": 184, "name": "Magnetic water treatment", "weight": 0.0, "id": 2779737725, "level": 3}
+{"count": 243, "name": "Industrial water treatment", "weight": 0.0, "id": 74289131, "level": 3}
+{"count": 454, "name": "Rapid sand filter", "weight": 0.0, "id": 177234587, "level": 3}
+{"count": 265, "name": "Lime softening", "weight": 0.0, "id": 147990551, "level": 3}
+{"count": 40, "name": "Plumbosolvency", "weight": 0.0, "id": 2778633062, "level": 3}
+{"count": 70, "name": "Ceramic water filter", "weight": 0.0, "id": 2777668513, "level": 3}
+{"count": 20, "name": "In situ water treatment", "weight": 0.0, "id": 2776349687, "level": 3}

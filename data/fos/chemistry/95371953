@@ -1,0 +1,15 @@
+{"count": 2977, "name": "Protein microarray", "weight": 5.0, "id": 195814341, "level": 5}
+{"count": 5102, "name": "Gene chip analysis", "weight": 10.0, "id": 24361400, "level": 5}
+{"count": 482, "name": "Tiling array", "weight": 0.0, "id": 119401833, "level": 5}
+{"count": 442, "name": "DNA microarray experiment", "weight": 0.0, "id": 140127285, "level": 5}
+{"count": 975, "name": "Antibody microarray", "weight": 1.0, "id": 171196145, "level": 5}
+{"count": 372, "name": "Peptide microarray", "weight": 0.0, "id": 21749538, "level": 5}
+{"count": 274, "name": "Significance analysis of microarrays", "weight": 0.0, "id": 77360908, "level": 5}
+{"count": 213, "name": "Reverse phase protein lysate microarray", "weight": 0.0, "id": 178861449, "level": 5}
+{"count": 101, "name": "Quantile normalization", "weight": 0.0, "id": 2780371977, "level": 5}
+{"count": 1977, "name": "Microarray databases", "weight": 3.0, "id": 548314002, "level": 5}
+{"count": 51, "name": "Immunosignature", "weight": 0.0, "id": 2775917217, "level": 5}
+{"count": 191, "name": "RNA spike-in", "weight": 0.0, "id": 19480468, "level": 5}
+{"count": 118, "name": "Affymetrix GeneChip Operating Software", "weight": 0.0, "id": 111175205, "level": 5}
+{"count": 11, "name": "Representation oligonucleotide microarray analysis", "weight": 0.0, "id": 174783720, "level": 5}
+{"count": 365, "name": "Chemical compound microarray", "weight": 0.0, "id": 78017563, "level": 5}

@@ -1,0 +1,18 @@
+{"count": 7210, "name": "Point estimation", "weight": 10.0, "id": 41426520, "level": 3}
+{"count": 2680, "name": "Confidence region", "weight": 3.0, "id": 143380155, "level": 3}
+{"count": 4066, "name": "Interval estimation", "weight": 5.0, "id": 205167067, "level": 3}
+{"count": 3015, "name": "Prediction interval", "weight": 4.0, "id": 103402496, "level": 3}
+{"count": 2872, "name": "Coverage probability", "weight": 3.0, "id": 2776292839, "level": 3}
+{"count": 2194, "name": "Empirical likelihood", "weight": 3.0, "id": 2781117939, "level": 3}
+{"count": 2774, "name": "Credible interval", "weight": 3.0, "id": 121117317, "level": 3}
+{"count": 1587, "name": "Confidence and prediction bands", "weight": 2.0, "id": 140529851, "level": 3}
+{"count": 903, "name": "Strictly standardized mean difference", "weight": 1.0, "id": 28804328, "level": 3}
+{"count": 1701, "name": "Tolerance interval", "weight": 2.0, "id": 10590107, "level": 3}
+{"count": 391, "name": "Pivotal quantity", "weight": 0.0, "id": 196424977, "level": 3}
+{"count": 69, "name": "Fieller's theorem", "weight": 0.0, "id": 122209280, "level": 3}
+{"count": 2090, "name": "Confidence distribution", "weight": 2.0, "id": 13662513, "level": 3}
+{"count": 2694, "name": "Robust confidence intervals", "weight": 3.0, "id": 66520545, "level": 3}
+{"count": 814, "name": "Exact statistics", "weight": 1.0, "id": 6239989, "level": 3}
+{"count": 2398, "name": "CDF-based nonparametric confidence interval", "weight": 3.0, "id": 42468098, "level": 3}
+{"count": 249, "name": "Estimation statistics", "weight": 0.0, "id": 202410800, "level": 3}
+{"count": 35, "name": "Analytic confidence", "weight": 0.0, "id": 54680960, "level": 3}

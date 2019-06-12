@@ -1,0 +1,15 @@
+{"count": 14575, "name": "Parasitic drag", "weight": 7.0, "id": 16201104, "level": 3}
+{"count": 19275, "name": "Drag coefficient", "weight": 10.0, "id": 72117827, "level": 3}
+{"count": 5663, "name": "Lift-to-drag ratio", "weight": 2.0, "id": 107157880, "level": 3}
+{"count": 3870, "name": "Pitching moment", "weight": 2.0, "id": 46820840, "level": 3}
+{"count": 1024, "name": "Morison equation", "weight": 0.0, "id": 51709192, "level": 3}
+{"count": 443, "name": "Fineness ratio", "weight": 0.0, "id": 97401097, "level": 3}
+{"count": 311, "name": "Ballistic coefficient", "weight": 0.0, "id": 81473365, "level": 3}
+{"count": 144, "name": "Basset force", "weight": 0.0, "id": 201370394, "level": 3}
+{"count": 236, "name": "Drag reducing agent", "weight": 0.0, "id": 2775952267, "level": 3}
+{"count": 156, "name": "Ballute", "weight": 0.0, "id": 2781033438, "level": 3}
+{"count": 292, "name": "Base bleed", "weight": 0.0, "id": 2780769610, "level": 3}
+{"count": 9, "name": "Fax\u00e9n's law", "weight": 0.0, "id": 2776967435, "level": 3}
+{"count": 16, "name": "Gray's paradox", "weight": 0.0, "id": 2776726348, "level": 3}
+{"count": 20, "name": "Drag count", "weight": 0.0, "id": 2776933366, "level": 3}
+{"count": 28, "name": "Saint Anthony Falls Laboratory", "weight": 0.0, "id": 2780676546, "level": 3}

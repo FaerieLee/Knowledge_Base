@@ -1,0 +1,56 @@
+{"count": 5383, "name": "X-ray telescope", "weight": 7.0, "id": 194798765, "level": 3}
+{"count": 2953, "name": "Active optics", "weight": 4.0, "id": 53550047, "level": 3}
+{"count": 2109, "name": "James Webb Space Telescope", "weight": 3.0, "id": 2778576794, "level": 3}
+{"count": 2237, "name": "Laser guide star", "weight": 3.0, "id": 55743289, "level": 3}
+{"count": 627, "name": "William Herschel Telescope", "weight": 0.0, "id": 2778998114, "level": 3}
+{"count": 2165, "name": "Optical telescope", "weight": 3.0, "id": 202572682, "level": 3}
+{"count": 455, "name": "Hobby\u2013Eberly Telescope", "weight": 0.0, "id": 2776665047, "level": 3}
+{"count": 557, "name": "Newtonian telescope", "weight": 0.0, "id": 67137315, "level": 3}
+{"count": 385, "name": "New Technology Telescope", "weight": 0.0, "id": 2777923078, "level": 3}
+{"count": 618, "name": "Large Synoptic Survey Telescope", "weight": 0.0, "id": 2776834974, "level": 3}
+{"count": 1474, "name": "Observational astronomy", "weight": 2.0, "id": 19500987, "level": 3}
+{"count": 476, "name": "Submillimetre astronomy", "weight": 0.0, "id": 158263919, "level": 3}
+{"count": 658, "name": "Large Binocular Telescope", "weight": 0.0, "id": 2779710718, "level": 3}
+{"count": 329, "name": "High Energy Stereoscopic System", "weight": 0.0, "id": 2780233832, "level": 3}
+{"count": 1205, "name": "Cherenkov Telescope Array", "weight": 1.0, "id": 182107563, "level": 3}
+{"count": 398, "name": "Thirty Meter Telescope", "weight": 0.0, "id": 2776485659, "level": 3}
+{"count": 6830, "name": "Primary mirror", "weight": 10.0, "id": 143588538, "level": 3}
+{"count": 190, "name": "International X-ray Observatory", "weight": 0.0, "id": 2779626416, "level": 3}
+{"count": 230, "name": "Southern African Large Telescope", "weight": 0.0, "id": 2779166676, "level": 3}
+{"count": 1984, "name": "Solar telescope", "weight": 2.0, "id": 2780684822, "level": 3}
+{"count": 1647, "name": "Schmidt camera", "weight": 2.0, "id": 87791202, "level": 3}
+{"count": 2778, "name": "Cassegrain reflector", "weight": 4.0, "id": 192121959, "level": 3}
+{"count": 734, "name": "Subaru Telescope", "weight": 1.0, "id": 2778488434, "level": 3}
+{"count": 1168, "name": "Guide star", "weight": 1.0, "id": 2780851263, "level": 3}
+{"count": 736, "name": "LAMOST", "weight": 1.0, "id": 2778139282, "level": 3}
+{"count": 185, "name": "Gemini Observatory", "weight": 0.0, "id": 2778962169, "level": 3}
+{"count": 118, "name": "Large Millimeter Telescope", "weight": 0.0, "id": 2776468902, "level": 3}
+{"count": 1596, "name": "Infrared telescope", "weight": 2.0, "id": 2776163771, "level": 3}
+{"count": 127, "name": "VLT Survey Telescope", "weight": 0.0, "id": 2780003512, "level": 3}
+{"count": 891, "name": "Limiting magnitude", "weight": 1.0, "id": 135448202, "level": 3}
+{"count": 373, "name": "Robotic telescope", "weight": 0.0, "id": 2777178256, "level": 3}
+{"count": 423, "name": "Encircled energy", "weight": 0.0, "id": 162347707, "level": 3}
+{"count": 135, "name": "Three-mirror anastigmat", "weight": 0.0, "id": 2781138802, "level": 3}
+{"count": 602, "name": "Astronomical seeing", "weight": 0.0, "id": 11181294, "level": 3}
+{"count": 431, "name": "HEGRA", "weight": 0.0, "id": 2781026143, "level": 3}
+{"count": 107, "name": "Time domain astronomy", "weight": 0.0, "id": 2780397150, "level": 3}
+{"count": 186, "name": "Fried parameter", "weight": 0.0, "id": 130137934, "level": 3}
+{"count": 541, "name": "Swift Gamma-Ray Burst Mission", "weight": 0.0, "id": 55381615, "level": 3}
+{"count": 37, "name": "Barlow lens", "weight": 0.0, "id": 2776332667, "level": 3}
+{"count": 145, "name": "Anastigmat", "weight": 0.0, "id": 2780818679, "level": 3}
+{"count": 76, "name": "Schmidt\u2013Cassegrain telescope", "weight": 0.0, "id": 2777568888, "level": 3}
+{"count": 50, "name": "MMT Observatory", "weight": 0.0, "id": 2777148692, "level": 3}
+{"count": 106, "name": "Equatorial mount", "weight": 0.0, "id": 2777526091, "level": 3}
+{"count": 203, "name": "Telescope mount", "weight": 0.0, "id": 2776144143, "level": 3}
+{"count": 29, "name": "Setting circles", "weight": 0.0, "id": 2777648261, "level": 3}
+{"count": 23, "name": "High time-resolution astrophysics", "weight": 0.0, "id": 2779756497, "level": 3}
+{"count": 61, "name": "Autoguider", "weight": 0.0, "id": 2779098538, "level": 3}
+{"count": 23, "name": "WIYN Observatory", "weight": 0.0, "id": 2778160233, "level": 3}
+{"count": 27, "name": "Ritchey\u2013Chr\u00e9tien telescope", "weight": 0.0, "id": 2779657097, "level": 3}
+{"count": 25, "name": "Maksutov telescope", "weight": 0.0, "id": 2781453258, "level": 3}
+{"count": 18, "name": "Overwhelmingly Large Telescope", "weight": 0.0, "id": 2780553336, "level": 3}
+{"count": 27, "name": "Galileoscope", "weight": 0.0, "id": 2779160914, "level": 3}
+{"count": 26, "name": "Altazimuth mount", "weight": 0.0, "id": 2779308341, "level": 3}
+{"count": 28, "name": "Solar X-ray Imager", "weight": 0.0, "id": 2776088661, "level": 3}
+{"count": 6, "name": "Nasmyth telescope", "weight": 0.0, "id": 2778255645, "level": 3}
+{"count": 12, "name": "Diffraction spike", "weight": 0.0, "id": 2778808270, "level": 3}

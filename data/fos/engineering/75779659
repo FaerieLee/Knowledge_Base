@@ -1,0 +1,27 @@
+{"count": 3553, "name": "Landfill gas", "weight": 2.0, "id": 32571094, "level": 3}
+{"count": 8242, "name": "Cleaner production", "weight": 5.0, "id": 200630231, "level": 3}
+{"count": 6397, "name": "Refuse-derived fuel", "weight": 4.0, "id": 18975541, "level": 3}
+{"count": 3066, "name": "Waste-to-energy", "weight": 2.0, "id": 196213036, "level": 3}
+{"count": 3725, "name": "Resource recovery", "weight": 2.0, "id": 2777569206, "level": 3}
+{"count": 14374, "name": "Waste collection", "weight": 10.0, "id": 521786372, "level": 3}
+{"count": 1496, "name": "Bioreactor landfill", "weight": 1.0, "id": 21177189, "level": 3}
+{"count": 1396, "name": "Mechanical biological treatment", "weight": 0.0, "id": 191555408, "level": 3}
+{"count": 470, "name": "Illegal dumping", "weight": 0.0, "id": 2777722671, "level": 3}
+{"count": 294, "name": "Landfill mining", "weight": 0.0, "id": 2778706031, "level": 3}
+{"count": 677, "name": "Waste sorting", "weight": 0.0, "id": 2778578824, "level": 3}
+{"count": 617, "name": "Composite liner", "weight": 0.0, "id": 20582795, "level": 3}
+{"count": 185, "name": "Biodrying", "weight": 0.0, "id": 2777826014, "level": 3}
+{"count": 267, "name": "Materials recovery facility", "weight": 0.0, "id": 169791255, "level": 3}
+{"count": 283, "name": "Final cover", "weight": 0.0, "id": 2781374735, "level": 3}
+{"count": 227, "name": "Landfill Directive", "weight": 0.0, "id": 2776618947, "level": 3}
+{"count": 113, "name": "Pay as you throw", "weight": 0.0, "id": 2779676326, "level": 3}
+{"count": 60, "name": "Gate fee", "weight": 0.0, "id": 2777772286, "level": 3}
+{"count": 209, "name": "Landfill tax", "weight": 0.0, "id": 16284718, "level": 3}
+{"count": 120, "name": "Waste characterisation", "weight": 0.0, "id": 2777191596, "level": 3}
+{"count": 87, "name": "Waste picker", "weight": 0.0, "id": 2779050981, "level": 3}
+{"count": 171, "name": "Waste framework directive", "weight": 0.0, "id": 2777388718, "level": 3}
+{"count": 216, "name": "Waste treatment technologies", "weight": 0.0, "id": 2776815640, "level": 3}
+{"count": 82, "name": "Waste compaction", "weight": 0.0, "id": 2776192393, "level": 3}
+{"count": 26, "name": "Aerated static pile composting", "weight": 0.0, "id": 2778403063, "level": 3}
+{"count": 25, "name": "Single-stream recycling", "weight": 0.0, "id": 2779915720, "level": 3}
+{"count": 24, "name": "Recycling in Brazil", "weight": 0.0, "id": 2780417033, "level": 3}

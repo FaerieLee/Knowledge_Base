@@ -1,0 +1,15 @@
+{"count": 5227, "name": "Vacuum evaporation", "weight": 10.0, "id": 2779192298, "level": 3}
+{"count": 1536, "name": "Potential evaporation", "weight": 2.0, "id": 71941180, "level": 3}
+{"count": 1956, "name": "Pan evaporation", "weight": 3.0, "id": 23430798, "level": 3}
+{"count": 475, "name": "Knudsen layer", "weight": 0.0, "id": 2780932031, "level": 3}
+{"count": 351, "name": "Coffee ring effect", "weight": 0.0, "id": 21855481, "level": 3}
+{"count": 921, "name": "Falling film evaporator", "weight": 1.0, "id": 2779000793, "level": 3}
+{"count": 201, "name": "Multiple-effect evaporator", "weight": 0.0, "id": 2775837239, "level": 3}
+{"count": 2127, "name": "Volatility (chemistry)", "weight": 4.0, "id": 207586432, "level": 3}
+{"count": 1345, "name": "Vapor-compression evaporation", "weight": 2.0, "id": 113863753, "level": 3}
+{"count": 154, "name": "Stefan flow", "weight": 0.0, "id": 2780576571, "level": 3}
+{"count": 127, "name": "Atmometer", "weight": 0.0, "id": 2777110445, "level": 3}
+{"count": 676, "name": "Vapor-compression desalination", "weight": 1.0, "id": 106059700, "level": 3}
+{"count": 163, "name": "Sublimation apparatus", "weight": 0.0, "id": 117172262, "level": 3}
+{"count": 227, "name": "Cryophorus", "weight": 0.0, "id": 74429832, "level": 3}
+{"count": 114, "name": "Evaporating dish", "weight": 0.0, "id": 2776624037, "level": 3}

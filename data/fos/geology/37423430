@@ -1,0 +1,19 @@
+{"count": 2547, "name": "Seakeeping", "weight": 10.0, "id": 2780528706, "level": 3}
+{"count": 429, "name": "Bilge keel", "weight": 1.0, "id": 160220925, "level": 3}
+{"count": 231, "name": "Wave-making resistance", "weight": 0.0, "id": 2777742759, "level": 3}
+{"count": 318, "name": "Metacentric height", "weight": 1.0, "id": 185013219, "level": 3}
+{"count": 2054, "name": "Waterline", "weight": 8.0, "id": 161064598, "level": 3}
+{"count": 423, "name": "Bulbous bow", "weight": 1.0, "id": 51936796, "level": 3}
+{"count": 1355, "name": "Double bottom", "weight": 5.0, "id": 117164266, "level": 3}
+{"count": 291, "name": "Moon pool", "weight": 1.0, "id": 2776884374, "level": 3}
+{"count": 100, "name": "Squat effect", "weight": 0.0, "id": 152253639, "level": 3}
+{"count": 65, "name": "Tumblehome", "weight": 0.0, "id": 16470348, "level": 3}
+{"count": 200, "name": "Sponson", "weight": 0.0, "id": 157698070, "level": 3}
+{"count": 116, "name": "Forecastle", "weight": 0.0, "id": 188930364, "level": 3}
+{"count": 54, "name": "Length between perpendiculars", "weight": 0.0, "id": 185485555, "level": 3}
+{"count": 69, "name": "Sternpost", "weight": 0.0, "id": 653597, "level": 3}
+{"count": 10, "name": "Center of lateral resistance", "weight": 0.0, "id": 2777257858, "level": 3}
+{"count": 25, "name": "Daggerboard", "weight": 0.0, "id": 16540199, "level": 3}
+{"count": 28, "name": "Longitudinal framing", "weight": 0.0, "id": 90320867, "level": 3}
+{"count": 494, "name": "Ship model basin", "weight": 1.0, "id": 116296031, "level": 3}
+{"count": 91, "name": "Strength of ships", "weight": 0.0, "id": 2779656079, "level": 3}

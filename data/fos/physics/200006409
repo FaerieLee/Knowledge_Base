@@ -1,0 +1,42 @@
+{"count": 12945, "name": "Quark model", "weight": 10.0, "id": 176616139, "level": 3}
+{"count": 6399, "name": "Particle decay", "weight": 4.0, "id": 14591024, "level": 3}
+{"count": 7179, "name": "B meson", "weight": 5.0, "id": 3566410, "level": 3}
+{"count": 2595, "name": "Scalar meson", "weight": 2.0, "id": 2778542049, "level": 3}
+{"count": 3995, "name": "Quarkonium", "weight": 3.0, "id": 2779985612, "level": 3}
+{"count": 2578, "name": "Semileptonic decay", "weight": 1.0, "id": 2778910143, "level": 3}
+{"count": 1616, "name": "Hadron spectroscopy", "weight": 1.0, "id": 2779547278, "level": 3}
+{"count": 882, "name": "Heavy quark effective theory", "weight": 0.0, "id": 2776643510, "level": 3}
+{"count": 3978, "name": "Vector meson", "weight": 3.0, "id": 2776887932, "level": 3}
+{"count": 5973, "name": "Pseudoscalar", "weight": 4.0, "id": 101583263, "level": 3}
+{"count": 1454, "name": "Vector meson dominance", "weight": 1.0, "id": 2780234265, "level": 3}
+{"count": 2055, "name": "Dalitz plot", "weight": 1.0, "id": 2780789777, "level": 3}
+{"count": 1720, "name": "Pseudoscalar meson", "weight": 1.0, "id": 2780767871, "level": 3}
+{"count": 2344, "name": "Glueball", "weight": 1.0, "id": 2776465598, "level": 3}
+{"count": 1381, "name": "Lambda baryon", "weight": 1.0, "id": 11850993, "level": 3}
+{"count": 713, "name": "Delta baryon", "weight": 0.0, "id": 189495495, "level": 3}
+{"count": 846, "name": "Tetraquark", "weight": 0.0, "id": 2780397245, "level": 3}
+{"count": 1962, "name": "Pseudovector", "weight": 1.0, "id": 101185895, "level": 3}
+{"count": 2994, "name": "QCD sum rules", "weight": 2.0, "id": 2776250685, "level": 3}
+{"count": 769, "name": "X(3872)", "weight": 0.0, "id": 2781400812, "level": 3}
+{"count": 2850, "name": "Charm quark", "weight": 2.0, "id": 86040059, "level": 3}
+{"count": 224, "name": "G-parity", "weight": 0.0, "id": 2778661686, "level": 3}
+{"count": 744, "name": "Charmed baryons", "weight": 0.0, "id": 2775980768, "level": 3}
+{"count": 1071, "name": "D meson", "weight": 0.0, "id": 2779391981, "level": 3}
+{"count": 45, "name": "Gell-Mann\u2013Okubo mass formula", "weight": 0.0, "id": 2778669888, "level": 3}
+{"count": 955, "name": "Rho meson", "weight": 0.0, "id": 154461301, "level": 3}
+{"count": 1568, "name": "Eta meson", "weight": 1.0, "id": 65744317, "level": 3}
+{"count": 1042, "name": "Exotic hadron", "weight": 0.0, "id": 48264206, "level": 3}
+{"count": 115, "name": "Z(4430)", "weight": 0.0, "id": 2776279728, "level": 3}
+{"count": 416, "name": "Particle Data Group", "weight": 0.0, "id": 2776130876, "level": 3}
+{"count": 59, "name": "Quantum hadrodynamics", "weight": 0.0, "id": 2780061139, "level": 3}
+{"count": 344, "name": "Phi meson", "weight": 0.0, "id": 2780051527, "level": 3}
+{"count": 257, "name": "OZI rule", "weight": 0.0, "id": 2775956589, "level": 3}
+{"count": 236, "name": "Exotic meson", "weight": 0.0, "id": 2779527215, "level": 3}
+{"count": 216, "name": "GlueX", "weight": 0.0, "id": 2777081946, "level": 3}
+{"count": 101, "name": "Penguin diagram", "weight": 0.0, "id": 2779797600, "level": 3}
+{"count": 86, "name": "Intrinsic parity", "weight": 0.0, "id": 2777211194, "level": 3}
+{"count": 243, "name": "Neutral vector", "weight": 0.0, "id": 2779433706, "level": 3}
+{"count": 69, "name": "D-STAR", "weight": 0.0, "id": 2775982952, "level": 3}
+{"count": 418, "name": "Current quark", "weight": 0.0, "id": 2777464483, "level": 3}
+{"count": 12, "name": "Pseudovector meson", "weight": 0.0, "id": 2777949386, "level": 3}
+{"count": 44, "name": "T meson", "weight": 0.0, "id": 2779997578, "level": 3}

@@ -1,0 +1,6 @@
+{"count": 1438, "name": "CMA-ES", "weight": 4.0, "id": 205555498, "level": 4}
+{"count": 1598, "name": "Scatter matrix", "weight": 5.0, "id": 176917957, "level": 4}
+{"count": 2989, "name": "Covariance intersection", "weight": 10.0, "id": 83042196, "level": 4}
+{"count": 263, "name": "Whitening transformation", "weight": 0.0, "id": 109939771, "level": 4}
+{"count": 1989, "name": "Covariance mapping", "weight": 6.0, "id": 129759605, "level": 4}
+{"count": 1486, "name": "Law of total covariance", "weight": 4.0, "id": 126372606, "level": 4}

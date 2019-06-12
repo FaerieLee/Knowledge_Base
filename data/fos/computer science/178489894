@@ -1,0 +1,41 @@
+{"count": 3836, "name": "Power analysis", "weight": 3.0, "id": 71743495, "level": 3}
+{"count": 6824, "name": "Block cipher", "weight": 6.0, "id": 106544461, "level": 3}
+{"count": 5268, "name": "Cryptanalysis", "weight": 5.0, "id": 181149355, "level": 3}
+{"count": 2302, "name": "Provable security", "weight": 2.0, "id": 131672422, "level": 3}
+{"count": 1993, "name": "Zero-knowledge proof", "weight": 2.0, "id": 176329583, "level": 3}
+{"count": 4986, "name": "Stream cipher", "weight": 5.0, "id": 92950451, "level": 3}
+{"count": 5249, "name": "Elliptic curve cryptography", "weight": 5.0, "id": 167615521, "level": 3}
+{"count": 957, "name": "One-way function", "weight": 0.0, "id": 105355099, "level": 3}
+{"count": 4937, "name": "Side channel attack", "weight": 4.0, "id": 49289754, "level": 3}
+{"count": 4113, "name": "Advanced Encryption Standard", "weight": 4.0, "id": 94520183, "level": 3}
+{"count": 1465, "name": "Oblivious transfer", "weight": 1.0, "id": 53076038, "level": 3}
+{"count": 5388, "name": "Symmetric-key algorithm", "weight": 5.0, "id": 65302260, "level": 3}
+{"count": 1256, "name": "Commitment scheme", "weight": 1.0, "id": 91399829, "level": 3}
+{"count": 370, "name": "Tate pairing", "weight": 0.0, "id": 2778557125, "level": 3}
+{"count": 1757, "name": "Visual cryptography", "weight": 1.0, "id": 2779072331, "level": 3}
+{"count": 1015, "name": "Authenticated encryption", "weight": 1.0, "id": 128619300, "level": 3}
+{"count": 513, "name": "One-time pad", "weight": 0.0, "id": 140969109, "level": 3}
+{"count": 6028, "name": "Cryptographic primitive", "weight": 6.0, "id": 15927051, "level": 3}
+{"count": 355, "name": "Pairing-based cryptography", "weight": 0.0, "id": 117086046, "level": 3}
+{"count": 257, "name": "Correlation immunity", "weight": 0.0, "id": 2781037745, "level": 3}
+{"count": 1329, "name": "S-box", "weight": 1.0, "id": 45737032, "level": 3}
+{"count": 1161, "name": "Secure two-party computation", "weight": 1.0, "id": 13652956, "level": 3}
+{"count": 9915, "name": "Cipher", "weight": 10.0, "id": 2780221543, "level": 3}
+{"count": 332, "name": "Learning with errors", "weight": 0.0, "id": 2779014939, "level": 3}
+{"count": 727, "name": "Blowfish", "weight": 0.0, "id": 2777464982, "level": 3}
+{"count": 157, "name": "Computational indistinguishability", "weight": 0.0, "id": 133559190, "level": 3}
+{"count": 24, "name": "Negligible function", "weight": 0.0, "id": 2777411595, "level": 3}
+{"count": 29, "name": "Dolev\u2013Yao model", "weight": 0.0, "id": 2777994967, "level": 3}
+{"count": 40, "name": "All-or-nothing transform", "weight": 0.0, "id": 2780776600, "level": 3}
+{"count": 32, "name": "FIPS 140-2", "weight": 0.0, "id": 2778915881, "level": 3}
+{"count": 1303, "name": "Neural cryptography", "weight": 1.0, "id": 126954023, "level": 3}
+{"count": 13, "name": "COMP128", "weight": 0.0, "id": 2777523945, "level": 3}
+{"count": 1120, "name": "Financial cryptography", "weight": 1.0, "id": 515488857, "level": 3}
+{"count": 2739, "name": "Steganography tools", "weight": 2.0, "id": 13179402, "level": 3}
+{"count": 66, "name": "NSA cryptography", "weight": 0.0, "id": 11199118, "level": 3}
+{"count": 11, "name": "Pseudo-Hadamard transform", "weight": 0.0, "id": 2779994270, "level": 3}
+{"count": 24, "name": "Chaffing and winnowing", "weight": 0.0, "id": 91828121, "level": 3}
+{"count": 23, "name": "Scytale", "weight": 0.0, "id": 10814073, "level": 3}
+{"count": 22, "name": "Crypto Wars", "weight": 0.0, "id": 2780647801, "level": 3}
+{"count": 32, "name": "Java Cryptography Extension", "weight": 0.0, "id": 2780879383, "level": 3}
+{"count": 37, "name": "Cryptographic Service Provider", "weight": 0.0, "id": 2777056516, "level": 3}

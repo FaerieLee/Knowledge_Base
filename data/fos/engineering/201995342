@@ -1,0 +1,200 @@
+{"count": 92928, "name": "Systems design", "weight": 10.0, "id": 31352089, "level": 2}
+{"count": 76245, "name": "Project management", "weight": 8.0, "id": 15952604, "level": 2}
+{"count": 22847, "name": "Formal specification", "weight": 2.0, "id": 116253237, "level": 2}
+{"count": 33493, "name": "Systems analysis", "weight": 3.0, "id": 24119478, "level": 2}
+{"count": 69495, "name": "Engineering design process", "weight": 7.0, "id": 34972735, "level": 2}
+{"count": 38484, "name": "Design process", "weight": 4.0, "id": 48262172, "level": 2}
+{"count": 14754, "name": "Systems modeling", "weight": 1.0, "id": 110963975, "level": 2}
+{"count": 23104, "name": "System integration", "weight": 2.0, "id": 19527686, "level": 2}
+{"count": 24411, "name": "Unified Modeling Language", "weight": 2.0, "id": 145644426, "level": 2}
+{"count": 20437, "name": "Data flow diagram", "weight": 2.0, "id": 489000, "level": 2}
+{"count": 25283, "name": "Cost estimate", "weight": 2.0, "id": 93983250, "level": 2}
+{"count": 33764, "name": "Modeling and simulation", "weight": 3.0, "id": 167343916, "level": 2}
+{"count": 35780, "name": "Product design", "weight": 3.0, "id": 120823896, "level": 2}
+{"count": 6771, "name": "Experience design", "weight": 0.0, "id": 9496109, "level": 2}
+{"count": 32968, "name": "Construction management", "weight": 3.0, "id": 117110933, "level": 2}
+{"count": 12184, "name": "Maintenance engineering", "weight": 1.0, "id": 23725684, "level": 2}
+{"count": 12376, "name": "Reverse engineering", "weight": 1.0, "id": 207850805, "level": 2}
+{"count": 13748, "name": "Reference model", "weight": 1.0, "id": 150189527, "level": 2}
+{"count": 21611, "name": "Conceptual design", "weight": 2.0, "id": 120208923, "level": 2}
+{"count": 7125, "name": "Estimation", "weight": 0.0, "id": 96250715, "level": 2}
+{"count": 7925, "name": "Critical path method", "weight": 0.0, "id": 115874739, "level": 2}
+{"count": 7050, "name": "Computer-aided software engineering", "weight": 0.0, "id": 50369083, "level": 2}
+{"count": 2670, "name": "Reactive system", "weight": 0.0, "id": 5604201, "level": 2}
+{"count": 13416, "name": "Requirements engineering", "weight": 1.0, "id": 6604083, "level": 2}
+{"count": 11088, "name": "Functional requirement", "weight": 1.0, "id": 62235348, "level": 2}
+{"count": 11173, "name": "Metamodeling", "weight": 1.0, "id": 86610423, "level": 2}
+{"count": 8733, "name": "Concurrent engineering", "weight": 0.0, "id": 78382760, "level": 2}
+{"count": 23487, "name": "Agile software development", "weight": 2.0, "id": 14185376, "level": 2}
+{"count": 12833, "name": "Requirements analysis", "weight": 1.0, "id": 59488412, "level": 2}
+{"count": 7859, "name": "Configuration management", "weight": 0.0, "id": 120485893, "level": 2}
+{"count": 4536, "name": "Aspect-oriented programming", "weight": 0.0, "id": 60051680, "level": 2}
+{"count": 22205, "name": "Process modeling", "weight": 2.0, "id": 76956256, "level": 2}
+{"count": 11286, "name": "Design research", "weight": 1.0, "id": 119142448, "level": 2}
+{"count": 8742, "name": "Integrated design", "weight": 0.0, "id": 2778588580, "level": 2}
+{"count": 10574, "name": "Enterprise resource planning", "weight": 1.0, "id": 2777960535, "level": 2}
+{"count": 15622, "name": "Computer-integrated manufacturing", "weight": 1.0, "id": 53688548, "level": 2}
+{"count": 3402, "name": "Time to market", "weight": 0.0, "id": 2779229675, "level": 2}
+{"count": 5832, "name": "Domain model", "weight": 0.0, "id": 92548554, "level": 2}
+{"count": 8316, "name": "Industrial design", "weight": 0.0, "id": 134535237, "level": 2}
+{"count": 10036, "name": "Information model", "weight": 1.0, "id": 21338462, "level": 2}
+{"count": 6827, "name": "Legacy system", "weight": 0.0, "id": 105446022, "level": 2}
+{"count": 10261, "name": "Modeling language", "weight": 1.0, "id": 179603123, "level": 2}
+{"count": 4996, "name": "Model transformation", "weight": 0.0, "id": 2779791154, "level": 2}
+{"count": 8380, "name": "Quality function deployment", "weight": 0.0, "id": 86992474, "level": 2}
+{"count": 6398, "name": "Flowchart", "weight": 0.0, "id": 72041958, "level": 2}
+{"count": 2994, "name": "Structured systems analysis and design method", "weight": 0.0, "id": 93729268, "level": 2}
+{"count": 7214, "name": "Verification and validation", "weight": 0.0, "id": 48002344, "level": 2}
+{"count": 5331, "name": "Mass customization", "weight": 0.0, "id": 72414096, "level": 2}
+{"count": 4804, "name": "Domain analysis", "weight": 0.0, "id": 15708719, "level": 2}
+{"count": 4439, "name": "Capability Maturity Model", "weight": 0.0, "id": 85890633, "level": 2}
+{"count": 6446, "name": "Enterprise information security architecture", "weight": 0.0, "id": 31139447, "level": 2}
+{"count": 9207, "name": "Software requirements specification", "weight": 0.0, "id": 102780508, "level": 2}
+{"count": 13645, "name": "Maintainability", "weight": 1.0, "id": 160713754, "level": 2}
+{"count": 1531, "name": "Visual modeling", "weight": 0.0, "id": 2780330621, "level": 2}
+{"count": 6487, "name": "Iterative design", "weight": 0.0, "id": 106246047, "level": 2}
+{"count": 5905, "name": "Computer-aided engineering", "weight": 0.0, "id": 538814206, "level": 2}
+{"count": 11285, "name": "Business case", "weight": 1.0, "id": 57252376, "level": 2}
+{"count": 7899, "name": "Software design pattern", "weight": 0.0, "id": 146054899, "level": 2}
+{"count": 3861, "name": "Product life-cycle management", "weight": 0.0, "id": 7465953, "level": 2}
+{"count": 11897, "name": "Enterprise architecture", "weight": 1.0, "id": 10590034, "level": 2}
+{"count": 2290, "name": "Separation of concerns", "weight": 0.0, "id": 76214141, "level": 2}
+{"count": 6454, "name": "Modular programming", "weight": 0.0, "id": 88482812, "level": 2}
+{"count": 1530, "name": "Design rationale", "weight": 0.0, "id": 3473561, "level": 2}
+{"count": 15053, "name": "Design education", "weight": 1.0, "id": 144229578, "level": 2}
+{"count": 4045, "name": "Model-driven architecture", "weight": 0.0, "id": 509989072, "level": 2}
+{"count": 18707, "name": "Wright", "weight": 2.0, "id": 2777667586, "level": 2}
+{"count": 7704, "name": "Production engineering", "weight": 0.0, "id": 101826366, "level": 2}
+{"count": 3230, "name": "Material requirements planning", "weight": 0.0, "id": 167523981, "level": 2}
+{"count": 4004, "name": "Design knowledge", "weight": 0.0, "id": 2778712445, "level": 2}
+{"count": 3717, "name": "Value engineering", "weight": 0.0, "id": 71822192, "level": 2}
+{"count": 8396, "name": "Building information modeling", "weight": 0.0, "id": 66862320, "level": 2}
+{"count": 3093, "name": "Model-based design", "weight": 0.0, "id": 195672273, "level": 2}
+{"count": 7129, "name": "Predictive maintenance", "weight": 0.0, "id": 70452415, "level": 2}
+{"count": 11662, "name": "Reusability", "weight": 1.0, "id": 137981799, "level": 2}
+{"count": 1580, "name": "Project engineering", "weight": 0.0, "id": 2777719784, "level": 2}
+{"count": 3574, "name": "Multidisciplinary design optimization", "weight": 0.0, "id": 28442783, "level": 2}
+{"count": 14546, "name": "Enterprise information system", "weight": 1.0, "id": 27295321, "level": 2}
+{"count": 4288, "name": "TRIZ", "weight": 0.0, "id": 2778800418, "level": 2}
+{"count": 2423, "name": "Method engineering", "weight": 0.0, "id": 185041570, "level": 2}
+{"count": 3458, "name": "Information Technology Infrastructure Library", "weight": 0.0, "id": 201359696, "level": 2}
+{"count": 955, "name": "Extended enterprise", "weight": 0.0, "id": 2777660587, "level": 2}
+{"count": 6376, "name": "Application lifecycle management", "weight": 0.0, "id": 30452754, "level": 2}
+{"count": 32582, "name": "System model", "weight": 3.0, "id": 107645828, "level": 2}
+{"count": 2188, "name": "Design\u2013build", "weight": 0.0, "id": 2778201535, "level": 2}
+{"count": 2070, "name": "Axiomatic design", "weight": 0.0, "id": 84170951, "level": 2}
+{"count": 1822, "name": "Ecodesign", "weight": 0.0, "id": 2779439448, "level": 2}
+{"count": 13188, "name": "Management process", "weight": 1.0, "id": 112911467, "level": 2}
+{"count": 1001, "name": "Collaborative engineering", "weight": 0.0, "id": 2780595565, "level": 2}
+{"count": 1487, "name": "Total productive maintenance", "weight": 0.0, "id": 3285680, "level": 2}
+{"count": 397, "name": "Secondary development", "weight": 0.0, "id": 2776460390, "level": 2}
+{"count": 1220, "name": "Unified Process", "weight": 0.0, "id": 151051286, "level": 2}
+{"count": 1050, "name": "Design for assembly", "weight": 0.0, "id": 113378356, "level": 2}
+{"count": 1034, "name": "Rapid application development", "weight": 0.0, "id": 191644765, "level": 2}
+{"count": 13623, "name": "Design technology", "weight": 1.0, "id": 179737136, "level": 2}
+{"count": 10261, "name": "Business system planning", "weight": 1.0, "id": 18465707, "level": 2}
+{"count": 4304, "name": "Technical feasibility", "weight": 0.0, "id": 2780741454, "level": 2}
+{"count": 1083, "name": "Quality by Design", "weight": 0.0, "id": 204320433, "level": 2}
+{"count": 9567, "name": "Project team", "weight": 1.0, "id": 2777205345, "level": 2}
+{"count": 843, "name": "Knowledge-based engineering", "weight": 0.0, "id": 2778142872, "level": 2}
+{"count": 1912, "name": "Engineering economics", "weight": 0.0, "id": 75678037, "level": 2}
+{"count": 3417, "name": "Functional specification", "weight": 0.0, "id": 57371142, "level": 2}
+{"count": 2297, "name": "Constructability", "weight": 0.0, "id": 91649852, "level": 2}
+{"count": 6086, "name": "Test strategy", "weight": 0.0, "id": 188598960, "level": 2}
+{"count": 530, "name": "Life Cycle Engineering", "weight": 0.0, "id": 2776593022, "level": 2}
+{"count": 2683, "name": "Functional safety", "weight": 0.0, "id": 148493468, "level": 2}
+{"count": 2086, "name": "Structured analysis", "weight": 0.0, "id": 125061337, "level": 2}
+{"count": 10709, "name": "Deliverable", "weight": 1.0, "id": 21883318, "level": 2}
+{"count": 5341, "name": "System requirements specification", "weight": 0.0, "id": 84651959, "level": 2}
+{"count": 1245, "name": "Organizational chart", "weight": 0.0, "id": 159319019, "level": 2}
+{"count": 746, "name": "Tool management", "weight": 0.0, "id": 2779076182, "level": 2}
+{"count": 793, "name": "Technology readiness level", "weight": 0.0, "id": 2779001998, "level": 2}
+{"count": 2627, "name": "Functional design", "weight": 0.0, "id": 64346931, "level": 2}
+{"count": 11888, "name": "Milestone (project management)", "weight": 1.0, "id": 124028280, "level": 2}
+{"count": 1248, "name": "Change order", "weight": 0.0, "id": 158045935, "level": 2}
+{"count": 1475, "name": "Safety case", "weight": 0.0, "id": 2780234205, "level": 2}
+{"count": 4229, "name": "Work systems", "weight": 0.0, "id": 135302770, "level": 2}
+{"count": 5478, "name": "Business requirements", "weight": 0.0, "id": 123247970, "level": 2}
+{"count": 2066, "name": "Configuration design", "weight": 0.0, "id": 10451660, "level": 2}
+{"count": 2207, "name": "Design review (U.S. government)", "weight": 0.0, "id": 91485673, "level": 2}
+{"count": 703, "name": "Safety instrumented system", "weight": 0.0, "id": 22607221, "level": 2}
+{"count": 777, "name": "Model-based systems engineering", "weight": 0.0, "id": 2779384787, "level": 2}
+{"count": 362, "name": "HIPO model", "weight": 0.0, "id": 129438144, "level": 2}
+{"count": 697, "name": "Investment control", "weight": 0.0, "id": 2779577709, "level": 2}
+{"count": 450, "name": "Reliability, availability and serviceability", "weight": 0.0, "id": 43259222, "level": 2}
+{"count": 2157, "name": "Complexity management", "weight": 0.0, "id": 57936825, "level": 2}
+{"count": 2384, "name": "Generative Design", "weight": 0.0, "id": 184408114, "level": 2}
+{"count": 301, "name": "Systemics", "weight": 0.0, "id": 198891747, "level": 2}
+{"count": 389, "name": "Digital factory", "weight": 0.0, "id": 2777513880, "level": 2}
+{"count": 244, "name": "Terotechnology", "weight": 0.0, "id": 2775990641, "level": 2}
+{"count": 5882, "name": "Function model", "weight": 0.0, "id": 162798781, "level": 2}
+{"count": 1093, "name": "Assembly modelling", "weight": 0.0, "id": 16377676, "level": 2}
+{"count": 837, "name": "Interaction overview diagram", "weight": 0.0, "id": 68438427, "level": 2}
+{"count": 1028, "name": "IEC 61508", "weight": 0.0, "id": 138267214, "level": 2}
+{"count": 1887, "name": "Change request", "weight": 0.0, "id": 165381533, "level": 2}
+{"count": 809, "name": "Test management", "weight": 0.0, "id": 2780531113, "level": 2}
+{"count": 1191, "name": "Software design document", "weight": 0.0, "id": 150839157, "level": 2}
+{"count": 889, "name": "Bill of materials", "weight": 0.0, "id": 2779799902, "level": 2}
+{"count": 2394, "name": "Strategic design", "weight": 0.0, "id": 87736272, "level": 2}
+{"count": 289, "name": "Project networks", "weight": 0.0, "id": 2777768463, "level": 2}
+{"count": 4343, "name": "Time limit", "weight": 0.0, "id": 2781011336, "level": 2}
+{"count": 1638, "name": "Integration platform", "weight": 0.0, "id": 2777024059, "level": 2}
+{"count": 128, "name": "Object Process Methodology", "weight": 0.0, "id": 2776036551, "level": 2}
+{"count": 393, "name": "Logistics engineering", "weight": 0.0, "id": 2781094044, "level": 2}
+{"count": 2362, "name": "Unexpected events", "weight": 0.0, "id": 2776544517, "level": 2}
+{"count": 563, "name": "IDEF", "weight": 0.0, "id": 143179995, "level": 2}
+{"count": 1021, "name": "Operating model", "weight": 0.0, "id": 75531824, "level": 2}
+{"count": 643, "name": "Continuous delivery", "weight": 0.0, "id": 2778094758, "level": 2}
+{"count": 2096, "name": "Terms of reference", "weight": 0.0, "id": 2776673277, "level": 2}
+{"count": 369, "name": "Sankey diagram", "weight": 0.0, "id": 51820909, "level": 2}
+{"count": 158, "name": "Integrated vehicle health management", "weight": 0.0, "id": 2777805294, "level": 2}
+{"count": 329, "name": "Organizational life cycle", "weight": 0.0, "id": 2777512984, "level": 2}
+{"count": 17326, "name": "Enterprise software", "weight": 1.0, "id": 185765463, "level": 2}
+{"count": 690, "name": "Building life cycle", "weight": 0.0, "id": 2780656496, "level": 2}
+{"count": 8139, "name": "Integrated logistics support", "weight": 0.0, "id": 45296417, "level": 2}
+{"count": 5093, "name": "Health systems engineering", "weight": 0.0, "id": 87390875, "level": 2}
+{"count": 4148, "name": "Computerized maintenance management system", "weight": 0.0, "id": 115837547, "level": 2}
+{"count": 391, "name": "IETM", "weight": 0.0, "id": 2776077067, "level": 2}
+{"count": 827, "name": "Discrete manufacturing", "weight": 0.0, "id": 2780720960, "level": 2}
+{"count": 583, "name": "Virtual engineering", "weight": 0.0, "id": 2777007952, "level": 2}
+{"count": 833, "name": "Operational availability", "weight": 0.0, "id": 2776074501, "level": 2}
+{"count": 734, "name": "Business engineering", "weight": 0.0, "id": 31106468, "level": 2}
+{"count": 1130, "name": "Operational acceptance testing", "weight": 0.0, "id": 18362487, "level": 2}
+{"count": 153, "name": "Network-enabled capability", "weight": 0.0, "id": 2778461947, "level": 2}
+{"count": 627, "name": "Megaproject", "weight": 0.0, "id": 2777212580, "level": 2}
+{"count": 368, "name": "Smart products", "weight": 0.0, "id": 2779929061, "level": 2}
+{"count": 656, "name": "Integrated operations", "weight": 0.0, "id": 102142041, "level": 2}
+{"count": 642, "name": "Product description", "weight": 0.0, "id": 2780969289, "level": 2}
+{"count": 776, "name": "Scenario", "weight": 0.0, "id": 135342440, "level": 2}
+{"count": 201, "name": "Design for additive manufacturing", "weight": 0.0, "id": 2778315417, "level": 2}
+{"count": 1748, "name": "Statement of work", "weight": 0.0, "id": 44497036, "level": 2}
+{"count": 166, "name": "Misuse case", "weight": 0.0, "id": 179377682, "level": 2}
+{"count": 258, "name": "Systematic layout planning", "weight": 0.0, "id": 2779605443, "level": 2}
+{"count": 104, "name": "ISO 15926", "weight": 0.0, "id": 2778390506, "level": 2}
+{"count": 163, "name": "Cross-functional team", "weight": 0.0, "id": 2780730755, "level": 2}
+{"count": 14408, "name": "Enterprise life cycle", "weight": 1.0, "id": 82419060, "level": 2}
+{"count": 365, "name": "Process patterns", "weight": 0.0, "id": 2776669182, "level": 2}
+{"count": 405, "name": "Mission assurance", "weight": 0.0, "id": 2777479259, "level": 2}
+{"count": 138, "name": "Value-driven design", "weight": 0.0, "id": 2776426461, "level": 2}
+{"count": 178, "name": "Function tree", "weight": 0.0, "id": 87472636, "level": 2}
+{"count": 298, "name": "Emergent Design", "weight": 0.0, "id": 46474289, "level": 2}
+{"count": 214, "name": "Collaborative working environment", "weight": 0.0, "id": 2780253551, "level": 2}
+{"count": 2768, "name": "Expediting", "weight": 0.0, "id": 134448949, "level": 2}
+{"count": 1021, "name": "Computer-aided technologies", "weight": 0.0, "id": 35096461, "level": 2}
+{"count": 384, "name": "Abstract process", "weight": 0.0, "id": 2778791037, "level": 2}
+{"count": 766, "name": "Resource (project management)", "weight": 0.0, "id": 55472147, "level": 2}
+{"count": 114, "name": "Model-based definition", "weight": 0.0, "id": 2780920493, "level": 2}
+{"count": 114, "name": "Vertical slice", "weight": 0.0, "id": 147799475, "level": 2}
+{"count": 180, "name": "Soft goal", "weight": 0.0, "id": 185172162, "level": 2}
+{"count": 6712, "name": "Informatics engineering", "weight": 0.0, "id": 92209122, "level": 2}
+{"count": 424, "name": "Integrated computational materials engineering", "weight": 0.0, "id": 157610597, "level": 2}
+{"count": 192, "name": "ICONIX", "weight": 0.0, "id": 186080758, "level": 2}
+{"count": 139, "name": "Merise", "weight": 0.0, "id": 130229788, "level": 2}
+{"count": 89, "name": "Behavior-driven development", "weight": 0.0, "id": 2776053886, "level": 2}
+{"count": 191, "name": "Flow process chart", "weight": 0.0, "id": 136365040, "level": 2}
+{"count": 131, "name": "Meta-system", "weight": 0.0, "id": 80495269, "level": 2}
+{"count": 496, "name": "Integrated engineering", "weight": 0.0, "id": 2779842386, "level": 2}
+{"count": 502, "name": "Continuous design", "weight": 0.0, "id": 17744200, "level": 2}
+{"count": 764, "name": "Information Framework", "weight": 0.0, "id": 117364978, "level": 2}
+{"count": 176, "name": "TRAK", "weight": 0.0, "id": 2778017275, "level": 2}
+{"count": 39, "name": "Activity-centered design", "weight": 0.0, "id": 2779606596, "level": 2}

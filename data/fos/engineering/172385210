@@ -1,0 +1,40 @@
+{"count": 47046, "name": "Threshold voltage", "weight": 10.0, "id": 195370968, "level": 3}
+{"count": 29511, "name": "Bipolar junction transistor", "weight": 6.0, "id": 23061349, "level": 3}
+{"count": 20587, "name": "High-electron-mobility transistor", "weight": 4.0, "id": 162057924, "level": 3}
+{"count": 15675, "name": "Transconductance", "weight": 3.0, "id": 2779283907, "level": 3}
+{"count": 11048, "name": "Current mirror", "weight": 2.0, "id": 173966970, "level": 3}
+{"count": 1073, "name": "Power\u2013delay product", "weight": 0.0, "id": 2776391166, "level": 3}
+{"count": 14145, "name": "NMOS logic", "weight": 3.0, "id": 197162436, "level": 3}
+{"count": 3144, "name": "JFET", "weight": 0.0, "id": 2778484494, "level": 3}
+{"count": 10237, "name": "PMOS logic", "weight": 2.0, "id": 27050352, "level": 3}
+{"count": 4109, "name": "LDMOS", "weight": 0.0, "id": 31672976, "level": 3}
+{"count": 3451, "name": "Carbon nanotube field-effect transistor", "weight": 0.0, "id": 58916441, "level": 3}
+{"count": 682, "name": "Transistor\u2013transistor logic", "weight": 0.0, "id": 30250603, "level": 3}
+{"count": 5819, "name": "Cascode", "weight": 1.0, "id": 2775946640, "level": 3}
+{"count": 1585, "name": "Transistor model", "weight": 0.0, "id": 150169584, "level": 3}
+{"count": 1187, "name": "Noise margin", "weight": 0.0, "id": 179499742, "level": 3}
+{"count": 890, "name": "Transistor count", "weight": 0.0, "id": 196320899, "level": 3}
+{"count": 79, "name": "International Electron Devices Meeting", "weight": 0.0, "id": 2777969390, "level": 3}
+{"count": 797, "name": "Load pull", "weight": 0.0, "id": 2780141302, "level": 3}
+{"count": 1218, "name": "Transmission gate", "weight": 0.0, "id": 2780949067, "level": 3}
+{"count": 719, "name": "Tunnel field-effect transistor", "weight": 0.0, "id": 2775945429, "level": 3}
+{"count": 1191, "name": "Common gate", "weight": 0.0, "id": 2781117048, "level": 3}
+{"count": 4102, "name": "Transistor array", "weight": 0.0, "id": 170523978, "level": 3}
+{"count": 1225, "name": "Common collector", "weight": 0.0, "id": 180254493, "level": 3}
+{"count": 522, "name": "Push\u2013pull output", "weight": 0.0, "id": 198978007, "level": 3}
+{"count": 15125, "name": "Optical transistor", "weight": 3.0, "id": 58102789, "level": 3}
+{"count": 577, "name": "BSIM", "weight": 0.0, "id": 97190668, "level": 3}
+{"count": 196, "name": "Transistor laser", "weight": 0.0, "id": 2778062210, "level": 3}
+{"count": 330, "name": "Unijunction transistor", "weight": 0.0, "id": 2781097031, "level": 3}
+{"count": 466, "name": "Common drain", "weight": 0.0, "id": 2777959947, "level": 3}
+{"count": 64, "name": "Translinear circuit", "weight": 0.0, "id": 2780760133, "level": 3}
+{"count": 294, "name": "VMOS", "weight": 0.0, "id": 2780776659, "level": 3}
+{"count": 62, "name": "Phenacene", "weight": 0.0, "id": 2776972378, "level": 3}
+{"count": 46, "name": "Point-contact transistor", "weight": 0.0, "id": 2777771395, "level": 3}
+{"count": 23, "name": "1T-SRAM", "weight": 0.0, "id": 2778655182, "level": 3}
+{"count": 15, "name": "ITFET", "weight": 0.0, "id": 2779878667, "level": 3}
+{"count": 36, "name": "Chemical field-effect transistor", "weight": 0.0, "id": 2778890324, "level": 3}
+{"count": 27, "name": "Transistor tester", "weight": 0.0, "id": 2780162531, "level": 3}
+{"count": 110, "name": "DNA field-effect transistor", "weight": 0.0, "id": 67656411, "level": 3}
+{"count": 47, "name": "Invention of the integrated circuit", "weight": 0.0, "id": 160418067, "level": 3}
+{"count": 23, "name": "2N3055", "weight": 0.0, "id": 2781248911, "level": 3}

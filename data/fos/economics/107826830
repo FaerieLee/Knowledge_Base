@@ -1,0 +1,166 @@
+{"count": 85233, "name": "Resource management", "weight": 3.0, "id": 9765861, "level": 2}
+{"count": 265890, "name": "Sustainability", "weight": 10.0, "id": 66204764, "level": 2}
+{"count": 74105, "name": "Environmental impact assessment", "weight": 2.0, "id": 164749845, "level": 2}
+{"count": 191858, "name": "Sustainable development", "weight": 7.0, "id": 552854447, "level": 2}
+{"count": 92876, "name": "Natural resource", "weight": 3.0, "id": 29985473, "level": 2}
+{"count": 45042, "name": "Forest management", "weight": 1.0, "id": 28631016, "level": 2}
+{"count": 39521, "name": "Energy policy", "weight": 1.0, "id": 131046424, "level": 2}
+{"count": 19359, "name": "Environmental change", "weight": 0.0, "id": 16989226, "level": 2}
+{"count": 17667, "name": "Environmental degradation", "weight": 0.0, "id": 198428699, "level": 2}
+{"count": 16634, "name": "Nature Conservation", "weight": 0.0, "id": 2777952078, "level": 2}
+{"count": 36210, "name": "Ecosystem services", "weight": 1.0, "id": 58941895, "level": 2}
+{"count": 24224, "name": "Environmental quality", "weight": 0.0, "id": 70798638, "level": 2}
+{"count": 22481, "name": "Life-cycle assessment", "weight": 0.0, "id": 2778706760, "level": 2}
+{"count": 26976, "name": "Capacity building", "weight": 1.0, "id": 2779622097, "level": 2}
+{"count": 21533, "name": "Traditional knowledge", "weight": 0.0, "id": 514011633, "level": 2}
+{"count": 13110, "name": "Protected area", "weight": 0.0, "id": 2779223538, "level": 2}
+{"count": 15773, "name": "Environmental management system", "weight": 0.0, "id": 51832835, "level": 2}
+{"count": 21547, "name": "Impact assessment", "weight": 0.0, "id": 111874474, "level": 2}
+{"count": 20601, "name": "Public participation", "weight": 0.0, "id": 2777976496, "level": 2}
+{"count": 53342, "name": "Livelihood", "weight": 2.0, "id": 3987366, "level": 2}
+{"count": 19026, "name": "Environmental law", "weight": 0.0, "id": 128069549, "level": 2}
+{"count": 25693, "name": "Environmental studies", "weight": 0.0, "id": 72838440, "level": 2}
+{"count": 7152, "name": "Marine protected area", "weight": 0.0, "id": 68800169, "level": 2}
+{"count": 12577, "name": "Energy security", "weight": 0.0, "id": 2777172336, "level": 2}
+{"count": 4059, "name": "Common-pool resource", "weight": 0.0, "id": 83729063, "level": 2}
+{"count": 6038, "name": "Adaptive management", "weight": 0.0, "id": 2775917145, "level": 2}
+{"count": 6524, "name": "Scenario analysis", "weight": 0.0, "id": 18785705, "level": 2}
+{"count": 11623, "name": "Spatial planning", "weight": 0.0, "id": 2776873942, "level": 2}
+{"count": 3888, "name": "Marine reserve", "weight": 0.0, "id": 207769581, "level": 2}
+{"count": 10048, "name": "Monitoring and evaluation", "weight": 0.0, "id": 2780815959, "level": 2}
+{"count": 8208, "name": "Environmental justice", "weight": 0.0, "id": 2778560467, "level": 2}
+{"count": 4188, "name": "Industrial ecology", "weight": 0.0, "id": 70401792, "level": 2}
+{"count": 12052, "name": "Global environmental analysis", "weight": 0.0, "id": 40003211, "level": 2}
+{"count": 10692, "name": "Critical infrastructure", "weight": 0.0, "id": 29852176, "level": 2}
+{"count": 4550, "name": "Precautionary principle", "weight": 0.0, "id": 21016645, "level": 2}
+{"count": 1610, "name": "Environmental indicator", "weight": 0.0, "id": 2777613398, "level": 2}
+{"count": 5293, "name": "Coastal management", "weight": 0.0, "id": 2778900803, "level": 2}
+{"count": 8835, "name": "Marine conservation", "weight": 0.0, "id": 113416529, "level": 2}
+{"count": 2665, "name": "Social infrastructure", "weight": 0.0, "id": 2781396848, "level": 2}
+{"count": 7333, "name": "Circular economy", "weight": 0.0, "id": 2777448596, "level": 2}
+{"count": 2677, "name": "Environmental accounting", "weight": 0.0, "id": 2775997212, "level": 2}
+{"count": 3221, "name": "Environmental issue", "weight": 0.0, "id": 2779986911, "level": 2}
+{"count": 2869, "name": "Ecological network", "weight": 0.0, "id": 36811481, "level": 2}
+{"count": 4919, "name": "Management by objectives", "weight": 0.0, "id": 118251893, "level": 2}
+{"count": 4726, "name": "Disaster risk reduction", "weight": 0.0, "id": 2780750338, "level": 2}
+{"count": 2910, "name": "Scenario planning", "weight": 0.0, "id": 202033279, "level": 2}
+{"count": 3331, "name": "Environmental restoration", "weight": 0.0, "id": 58084124, "level": 2}
+{"count": 7754, "name": "Ecological systems theory", "weight": 0.0, "id": 47318914, "level": 2}
+{"count": 3604, "name": "Resource depletion", "weight": 0.0, "id": 10325510, "level": 2}
+{"count": 2224, "name": "Ecological engineering", "weight": 0.0, "id": 110240116, "level": 2}
+{"count": 2307, "name": "Material flow analysis", "weight": 0.0, "id": 116399919, "level": 2}
+{"count": 2532, "name": "Community management", "weight": 0.0, "id": 2780248506, "level": 2}
+{"count": 1699, "name": "Participatory rural appraisal", "weight": 0.0, "id": 2781470993, "level": 2}
+{"count": 3420, "name": "Participatory management", "weight": 0.0, "id": 106527468, "level": 2}
+{"count": 2895, "name": "Land administration", "weight": 0.0, "id": 2777893444, "level": 2}
+{"count": 2647, "name": "Environmental technology", "weight": 0.0, "id": 2777963174, "level": 2}
+{"count": 2685, "name": "Balance of nature", "weight": 0.0, "id": 22378518, "level": 2}
+{"count": 1931, "name": "Social impact assessment", "weight": 0.0, "id": 2776037993, "level": 2}
+{"count": 690, "name": "Environmental standard", "weight": 0.0, "id": 2778674318, "level": 2}
+{"count": 1969, "name": "Participatory development", "weight": 0.0, "id": 2776748916, "level": 2}
+{"count": 2388, "name": "Participatory planning", "weight": 0.0, "id": 2780915742, "level": 2}
+{"count": 3464, "name": "Green infrastructure", "weight": 0.0, "id": 2780057273, "level": 2}
+{"count": 2213, "name": "Adaptive strategies", "weight": 0.0, "id": 167393769, "level": 2}
+{"count": 3634, "name": "Resource efficiency", "weight": 0.0, "id": 2777958785, "level": 2}
+{"count": 1497, "name": "Clean technology", "weight": 0.0, "id": 2780520809, "level": 2}
+{"count": 2725, "name": "Green growth", "weight": 0.0, "id": 2778556080, "level": 2}
+{"count": 712, "name": "Wildland\u2013urban interface", "weight": 0.0, "id": 2777958270, "level": 2}
+{"count": 664, "name": "Community-based conservation", "weight": 0.0, "id": 2777864736, "level": 2}
+{"count": 1463, "name": "Illegal logging", "weight": 0.0, "id": 2777989319, "level": 2}
+{"count": 1456, "name": "Integrated coastal zone management", "weight": 0.0, "id": 2781118390, "level": 2}
+{"count": 691, "name": "Bioeconomics", "weight": 0.0, "id": 2778148510, "level": 2}
+{"count": 2661, "name": "Capacity development", "weight": 0.0, "id": 2781112155, "level": 2}
+{"count": 645, "name": "Community-driven development", "weight": 0.0, "id": 2780086982, "level": 2}
+{"count": 1483, "name": "Geoengineering", "weight": 0.0, "id": 537773303, "level": 2}
+{"count": 2365, "name": "Small Island Developing States", "weight": 0.0, "id": 189109488, "level": 2}
+{"count": 1169, "name": "Eco-innovation", "weight": 0.0, "id": 2776229149, "level": 2}
+{"count": 1298, "name": "Extended producer responsibility", "weight": 0.0, "id": 133517878, "level": 2}
+{"count": 2593, "name": "Environmental security", "weight": 0.0, "id": 2779455057, "level": 2}
+{"count": 3062, "name": "Public land", "weight": 0.0, "id": 2780074531, "level": 2}
+{"count": 1261, "name": "Marine spatial planning", "weight": 0.0, "id": 2780362636, "level": 2}
+{"count": 2664, "name": "Cumulative effects", "weight": 0.0, "id": 2777230293, "level": 2}
+{"count": 1394, "name": "Business ecosystem", "weight": 0.0, "id": 167908162, "level": 2}
+{"count": 1695, "name": "Ecological assessment", "weight": 0.0, "id": 2780393702, "level": 2}
+{"count": 1018, "name": "Environmental mitigation", "weight": 0.0, "id": 120822144, "level": 2}
+{"count": 725, "name": "Community-based management", "weight": 0.0, "id": 2779387731, "level": 2}
+{"count": 240, "name": "Post-normal science", "weight": 0.0, "id": 2780795620, "level": 2}
+{"count": 1276, "name": "Ecological design", "weight": 0.0, "id": 89648432, "level": 2}
+{"count": 744, "name": "Polluter pays principle", "weight": 0.0, "id": 2777084153, "level": 2}
+{"count": 1811, "name": "Environmental compliance", "weight": 0.0, "id": 2777167514, "level": 2}
+{"count": 1308, "name": "Integrated reporting", "weight": 0.0, "id": 2779183453, "level": 2}
+{"count": 3921, "name": "Applied ecology", "weight": 0.0, "id": 513806601, "level": 2}
+{"count": 1884, "name": "Environmental stewardship", "weight": 0.0, "id": 2780751207, "level": 2}
+{"count": 953, "name": "Uncertainty", "weight": 0.0, "id": 185809878, "level": 2}
+{"count": 770, "name": "Sustainable yield", "weight": 0.0, "id": 184357244, "level": 2}
+{"count": 1020, "name": "Participatory evaluation", "weight": 0.0, "id": 2778969656, "level": 2}
+{"count": 797, "name": "Water-energy nexus", "weight": 0.0, "id": 113360713, "level": 2}
+{"count": 1970, "name": "Development management", "weight": 0.0, "id": 2776868510, "level": 2}
+{"count": 550, "name": "Participatory monitoring", "weight": 0.0, "id": 2780508472, "level": 2}
+{"count": 1170, "name": "Wicked problem", "weight": 0.0, "id": 2777489824, "level": 2}
+{"count": 1125, "name": "Additionality", "weight": 0.0, "id": 2779348450, "level": 2}
+{"count": 847, "name": "DPSIR", "weight": 0.0, "id": 2778934450, "level": 2}
+{"count": 436, "name": "Environmental statistics", "weight": 0.0, "id": 2776975922, "level": 2}
+{"count": 449, "name": "Porter hypothesis", "weight": 0.0, "id": 2777463520, "level": 2}
+{"count": 466, "name": "Robust decision-making", "weight": 0.0, "id": 2777867642, "level": 2}
+{"count": 493, "name": "Community ownership", "weight": 0.0, "id": 2778176096, "level": 2}
+{"count": 93, "name": "Global and Planetary Change", "weight": 0.0, "id": 2780621122, "level": 2}
+{"count": 529, "name": "Green accounting", "weight": 0.0, "id": 2778589268, "level": 2}
+{"count": 309, "name": "Conservation behavior", "weight": 0.0, "id": 2776156045, "level": 2}
+{"count": 1953, "name": "Resource (biology)", "weight": 0.0, "id": 170509826, "level": 2}
+{"count": 583, "name": "Waste minimisation", "weight": 0.0, "id": 2776092195, "level": 2}
+{"count": 617, "name": "Ecological efficiency", "weight": 0.0, "id": 82492881, "level": 2}
+{"count": 1587, "name": "Impact investing", "weight": 0.0, "id": 159480233, "level": 2}
+{"count": 673, "name": "Marine Strategy Framework Directive", "weight": 0.0, "id": 2778878098, "level": 2}
+{"count": 2698, "name": "Ecological health", "weight": 0.0, "id": 140367703, "level": 2}
+{"count": 250, "name": "Community-based monitoring", "weight": 0.0, "id": 2777938131, "level": 2}
+{"count": 1807, "name": "Comprehensive planning", "weight": 0.0, "id": 2778130295, "level": 2}
+{"count": 451, "name": "Marine Policy", "weight": 0.0, "id": 2779509964, "level": 2}
+{"count": 958, "name": "Global commons", "weight": 0.0, "id": 68307924, "level": 2}
+{"count": 669, "name": "Material efficiency", "weight": 0.0, "id": 2776600559, "level": 2}
+{"count": 201, "name": "Social metabolism", "weight": 0.0, "id": 2778492406, "level": 2}
+{"count": 504, "name": "EcoHealth", "weight": 0.0, "id": 94435787, "level": 2}
+{"count": 133, "name": "Evidence-based conservation", "weight": 0.0, "id": 2777253841, "level": 2}
+{"count": 155, "name": "Environmental systems analysis", "weight": 0.0, "id": 2776370323, "level": 2}
+{"count": 270, "name": "Resource intensity", "weight": 0.0, "id": 2781424375, "level": 2}
+{"count": 270, "name": "Participatory modeling", "weight": 0.0, "id": 2780621478, "level": 2}
+{"count": 1154, "name": "Environmental Development", "weight": 0.0, "id": 2776605119, "level": 2}
+{"count": 335, "name": "Social finance", "weight": 0.0, "id": 2780668729, "level": 2}
+{"count": 400, "name": "Product stewardship", "weight": 0.0, "id": 2776381622, "level": 2}
+{"count": 118, "name": "Multilateral environmental agreement", "weight": 0.0, "id": 2778732003, "level": 2}
+{"count": 278, "name": "Geodesign", "weight": 0.0, "id": 170147591, "level": 2}
+{"count": 794, "name": "Conservation Plan", "weight": 0.0, "id": 2776248522, "level": 2}
+{"count": 265, "name": "Air rights", "weight": 0.0, "id": 89862778, "level": 2}
+{"count": 556, "name": "Ecological Building", "weight": 0.0, "id": 2779886201, "level": 2}
+{"count": 473, "name": "Land trust", "weight": 0.0, "id": 2777206262, "level": 2}
+{"count": 168, "name": "Inter-municipal cooperation", "weight": 0.0, "id": 2777480542, "level": 2}
+{"count": 185, "name": "Environmental finance", "weight": 0.0, "id": 2780845531, "level": 2}
+{"count": 581, "name": "Holistic management", "weight": 0.0, "id": 2778342671, "level": 2}
+{"count": 186, "name": "Environmental informatics", "weight": 0.0, "id": 2777996368, "level": 2}
+{"count": 128, "name": "Ecological debt", "weight": 0.0, "id": 2781216606, "level": 2}
+{"count": 202, "name": "Local development framework", "weight": 0.0, "id": 2776051966, "level": 2}
+{"count": 91, "name": "Carbon lock-in", "weight": 0.0, "id": 2780331013, "level": 2}
+{"count": 78, "name": "Ecological collapse", "weight": 0.0, "id": 2778540895, "level": 2}
+{"count": 1505, "name": "Global issue", "weight": 0.0, "id": 2778327228, "level": 2}
+{"count": 1875, "name": "State of the Environment", "weight": 0.0, "id": 42648095, "level": 2}
+{"count": 133, "name": "Knowledge ecosystem", "weight": 0.0, "id": 2779323733, "level": 2}
+{"count": 172, "name": "Carbon project", "weight": 0.0, "id": 2779877863, "level": 2}
+{"count": 89, "name": "Defensive expenditures", "weight": 0.0, "id": 2776932522, "level": 2}
+{"count": 231, "name": "Conservation development", "weight": 0.0, "id": 2781168613, "level": 2}
+{"count": 40, "name": "Value-action gap", "weight": 0.0, "id": 2780711620, "level": 2}
+{"count": 253, "name": "Quality infrastructure", "weight": 0.0, "id": 2778534122, "level": 2}
+{"count": 72, "name": "Conservation communities", "weight": 0.0, "id": 2778687788, "level": 2}
+{"count": 20, "name": "Reasonable person model", "weight": 0.0, "id": 2777693112, "level": 2}
+{"count": 140, "name": "Hard infrastructure", "weight": 0.0, "id": 2780017871, "level": 2}
+{"count": 134, "name": "Regulation of chemicals", "weight": 0.0, "id": 2781354713, "level": 2}
+{"count": 85, "name": "Sustainable habitat", "weight": 0.0, "id": 2776552997, "level": 2}
+{"count": 150, "name": "Environmental manager", "weight": 0.0, "id": 2775970907, "level": 2}
+{"count": 195, "name": "Human impact on the environment", "weight": 0.0, "id": 2777739416, "level": 2}
+{"count": 59, "name": "Safe trade", "weight": 0.0, "id": 2775995254, "level": 2}
+{"count": 26, "name": "Planetary management", "weight": 0.0, "id": 2780349784, "level": 2}
+{"count": 30, "name": "Large technical system", "weight": 0.0, "id": 170010863, "level": 2}
+{"count": 220, "name": "Conservation designation", "weight": 0.0, "id": 127534233, "level": 2}
+{"count": 28, "name": "Tyranny of small decisions", "weight": 0.0, "id": 2775978814, "level": 2}
+{"count": 16, "name": "Conservation economy", "weight": 0.0, "id": 2779242326, "level": 2}
+{"count": 11, "name": "Environmental impact design", "weight": 0.0, "id": 2777153165, "level": 2}
+{"count": 812, "name": "Natural environment", "weight": 0.0, "id": 167878066, "level": 2}
+{"count": 16, "name": "Environmental management scheme", "weight": 0.0, "id": 2776627637, "level": 2}

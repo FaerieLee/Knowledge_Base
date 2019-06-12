@@ -1,0 +1,49 @@
+{"count": 42838, "name": "Catalase", "weight": 6.0, "id": 2778979269, "level": 3}
+{"count": 49478, "name": "Polyphenol", "weight": 7.0, "id": 70899900, "level": 3}
+{"count": 31707, "name": "Flavonoid", "weight": 4.0, "id": 2779054382, "level": 3}
+{"count": 69333, "name": "Lipid peroxidation", "weight": 10.0, "id": 2780829032, "level": 3}
+{"count": 32522, "name": "Glutathione peroxidase", "weight": 4.0, "id": 2778760513, "level": 3}
+{"count": 41101, "name": "Malondialdehyde", "weight": 5.0, "id": 2778401633, "level": 3}
+{"count": 15260, "name": "Gallic acid", "weight": 2.0, "id": 2778362808, "level": 3}
+{"count": 31128, "name": "DPPH", "weight": 4.0, "id": 2781401929, "level": 3}
+{"count": 3088, "name": "Rosmarinic acid", "weight": 0.0, "id": 2778771215, "level": 3}
+{"count": 1853, "name": "Oxygen radical absorbance capacity", "weight": 0.0, "id": 2776188313, "level": 3}
+{"count": 3496, "name": "Butylated hydroxytoluene", "weight": 0.0, "id": 2779661893, "level": 3}
+{"count": 2270, "name": "Butylated hydroxyanisole", "weight": 0.0, "id": 2781418880, "level": 3}
+{"count": 3116, "name": "Peroxiredoxin", "weight": 0.0, "id": 2780416994, "level": 3}
+{"count": 1411, "name": "Grape seed extract", "weight": 0.0, "id": 2776971262, "level": 3}
+{"count": 4981, "name": "Trolox", "weight": 0.0, "id": 2776231299, "level": 3}
+{"count": 1650, "name": "Propyl gallate", "weight": 0.0, "id": 2780162734, "level": 3}
+{"count": 1968, "name": "Hydroxytyrosol", "weight": 0.0, "id": 2775881703, "level": 3}
+{"count": 1343, "name": "Hepatoprotection", "weight": 0.0, "id": 2776514860, "level": 3}
+{"count": 946, "name": "Pro-oxidant", "weight": 0.0, "id": 2776573510, "level": 3}
+{"count": 583, "name": "Ferric reducing ability of plasma", "weight": 0.0, "id": 2780116811, "level": 3}
+{"count": 646, "name": "Ethoxyquin", "weight": 0.0, "id": 2777883389, "level": 3}
+{"count": 809, "name": "Carnosic acid", "weight": 0.0, "id": 2776285023, "level": 3}
+{"count": 719, "name": "Sesamol", "weight": 0.0, "id": 2778407507, "level": 3}
+{"count": 699, "name": "Ascorbyl palmitate", "weight": 0.0, "id": 2778562233, "level": 3}
+{"count": 2971, "name": "Free-radical theory of aging", "weight": 0.0, "id": 60642223, "level": 3}
+{"count": 494, "name": "GCLC", "weight": 0.0, "id": 2779881523, "level": 3}
+{"count": 576, "name": "Dihydrolipoic acid", "weight": 0.0, "id": 2776691022, "level": 3}
+{"count": 461, "name": "GCLM", "weight": 0.0, "id": 2781173740, "level": 3}
+{"count": 319, "name": "MitoQ", "weight": 0.0, "id": 2778382254, "level": 3}
+{"count": 146, "name": "tert-Butylhydroquinone", "weight": 0.0, "id": 2780950498, "level": 3}
+{"count": 132, "name": "Avenanthramide", "weight": 0.0, "id": 2779210058, "level": 3}
+{"count": 404, "name": "Galvinoxyl", "weight": 0.0, "id": 2778320628, "level": 3}
+{"count": 163, "name": "Decalepis hamiltonii", "weight": 0.0, "id": 2781431028, "level": 3}
+{"count": 113, "name": "Hispidin", "weight": 0.0, "id": 2776471056, "level": 3}
+{"count": 82, "name": "2,2'-Azobis(2-amidinopropane) dihydrochloride", "weight": 0.0, "id": 2778017763, "level": 3}
+{"count": 98, "name": "Canolol", "weight": 0.0, "id": 2776875924, "level": 3}
+{"count": 271, "name": "Allium hookeri", "weight": 0.0, "id": 2777936671, "level": 3}
+{"count": 35, "name": "Garcinia pedunculata", "weight": 0.0, "id": 2779926620, "level": 3}
+{"count": 58, "name": "Mangifera pajang", "weight": 0.0, "id": 2777736117, "level": 3}
+{"count": 62, "name": "Pereskia bleo", "weight": 0.0, "id": 2779907102, "level": 3}
+{"count": 48, "name": "Viola mandshurica", "weight": 0.0, "id": 2776939824, "level": 3}
+{"count": 64, "name": "Premna serratifolia", "weight": 0.0, "id": 2776773002, "level": 3}
+{"count": 33, "name": "Laportea aestuans", "weight": 0.0, "id": 2779836028, "level": 3}
+{"count": 34, "name": "Memecylon edule", "weight": 0.0, "id": 2780017672, "level": 3}
+{"count": 19, "name": "Mimosa hamata", "weight": 0.0, "id": 2776746595, "level": 3}
+{"count": 19, "name": "Pinus morrisonicola", "weight": 0.0, "id": 2780929709, "level": 3}
+{"count": 42, "name": "Aloysia citrodora", "weight": 0.0, "id": 2777820002, "level": 3}
+{"count": 68, "name": "Catathelasma", "weight": 0.0, "id": 2779861147, "level": 3}
+{"count": 13, "name": "Emblicanin", "weight": 0.0, "id": 2779771708, "level": 3}

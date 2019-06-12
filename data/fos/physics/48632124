@@ -1,0 +1,13 @@
+{"count": 7926, "name": "Heat capacity rate", "weight": 9.0, "id": 194945478, "level": 5}
+{"count": 2416, "name": "Loop heat pipe", "weight": 3.0, "id": 24730887, "level": 5}
+{"count": 3789, "name": "Thermal reservoir", "weight": 4.0, "id": 192391303, "level": 5}
+{"count": 3708, "name": "NTU method", "weight": 4.0, "id": 204826919, "level": 5}
+{"count": 7957, "name": "Concentric tube heat exchanger", "weight": 10.0, "id": 33134510, "level": 5}
+{"count": 5199, "name": "Micro-loop heat pipe", "weight": 6.0, "id": 171134195, "level": 5}
+{"count": 5232, "name": "Moving bed heat exchanger", "weight": 6.0, "id": 23523640, "level": 5}
+{"count": 64, "name": "EcoCute", "weight": 0.0, "id": 145984381, "level": 5}
+{"count": 6452, "name": "Run-around coil", "weight": 8.0, "id": 187619609, "level": 5}
+{"count": 7905, "name": "Copper in heat exchangers", "weight": 9.0, "id": 65473313, "level": 5}
+{"count": 14, "name": "Freeze stat", "weight": 0.0, "id": 69088355, "level": 5}
+{"count": 1805, "name": "Sigma heat", "weight": 2.0, "id": 46787917, "level": 5}
+{"count": 66, "name": "Water pipe percolator", "weight": 0.0, "id": 164821080, "level": 5}

@@ -1,0 +1,46 @@
+{"count": 71303, "name": "Heat flux", "weight": 10.0, "id": 159188206, "level": 3}
+{"count": 39596, "name": "Natural convection", "weight": 5.0, "id": 54791560, "level": 3}
+{"count": 63038, "name": "Heat transfer coefficient", "weight": 8.0, "id": 29700514, "level": 3}
+{"count": 38852, "name": "Convective heat transfer", "weight": 5.0, "id": 41231900, "level": 3}
+{"count": 31898, "name": "Thermal resistance", "weight": 4.0, "id": 137693562, "level": 3}
+{"count": 56163, "name": "Heat sink", "weight": 7.0, "id": 186937647, "level": 3}
+{"count": 27289, "name": "Nusselt number", "weight": 3.0, "id": 130230704, "level": 3}
+{"count": 17300, "name": "Forced convection", "weight": 2.0, "id": 24561367, "level": 3}
+{"count": 31533, "name": "Heat pipe", "weight": 4.0, "id": 37728375, "level": 3}
+{"count": 12064, "name": "Phase-change material", "weight": 1.0, "id": 2778119658, "level": 3}
+{"count": 16601, "name": "Nanofluid", "weight": 2.0, "id": 21946209, "level": 3}
+{"count": 14169, "name": "Prandtl number", "weight": 1.0, "id": 72687893, "level": 3}
+{"count": 7781, "name": "Thermal hydraulics", "weight": 1.0, "id": 174379495, "level": 3}
+{"count": 7929, "name": "Subcooling", "weight": 1.0, "id": 115139850, "level": 3}
+{"count": 6219, "name": "Stagnation point", "weight": 0.0, "id": 9715774, "level": 3}
+{"count": 7845, "name": "Thermosiphon", "weight": 1.0, "id": 41619986, "level": 3}
+{"count": 6384, "name": "Passive cooling", "weight": 0.0, "id": 79795727, "level": 3}
+{"count": 23348, "name": "Plate heat exchanger", "weight": 3.0, "id": 32375409, "level": 3}
+{"count": 3406, "name": "Aerodynamic heating", "weight": 0.0, "id": 156975606, "level": 3}
+{"count": 4852, "name": "Natural circulation", "weight": 0.0, "id": 2780113671, "level": 3}
+{"count": 1003, "name": "Constructal law", "weight": 0.0, "id": 64362362, "level": 3}
+{"count": 8835, "name": "Thermal contact", "weight": 1.0, "id": 142014798, "level": 3}
+{"count": 1062, "name": "Bioheat transfer", "weight": 0.0, "id": 186725500, "level": 3}
+{"count": 3791, "name": "Thermal bridge", "weight": 0.0, "id": 197424675, "level": 3}
+{"count": 4204, "name": "Hydraulic diameter", "weight": 0.0, "id": 16644385, "level": 3}
+{"count": 1521, "name": "Vapor quality", "weight": 0.0, "id": 116148737, "level": 3}
+{"count": 586, "name": "Dropwise condensation", "weight": 0.0, "id": 2779091605, "level": 3}
+{"count": 1337, "name": "Soil thermal properties", "weight": 0.0, "id": 114426456, "level": 3}
+{"count": 16714, "name": "Plate fin heat exchanger", "weight": 2.0, "id": 39420092, "level": 3}
+{"count": 1524, "name": "Turbulator", "weight": 0.0, "id": 51125570, "level": 3}
+{"count": 770, "name": "Zeotropic mixture", "weight": 0.0, "id": 204392657, "level": 3}
+{"count": 581, "name": "Radiant barrier", "weight": 0.0, "id": 44499911, "level": 3}
+{"count": 418, "name": "Entrance length", "weight": 0.0, "id": 2780886093, "level": 3}
+{"count": 921, "name": "Falling film evaporator", "weight": 0.0, "id": 2779000793, "level": 3}
+{"count": 434, "name": "Lumped capacitance model", "weight": 0.0, "id": 42015619, "level": 3}
+{"count": 471, "name": "Thermophysics", "weight": 0.0, "id": 2779793171, "level": 3}
+{"count": 118, "name": "Newton's law of cooling", "weight": 0.0, "id": 2778274065, "level": 3}
+{"count": 725, "name": "Adiabatic wall", "weight": 0.0, "id": 46634527, "level": 3}
+{"count": 467, "name": "Stefan number", "weight": 0.0, "id": 2776101203, "level": 3}
+{"count": 1345, "name": "Vapor-compression evaporation", "weight": 0.0, "id": 113863753, "level": 3}
+{"count": 226, "name": "Fluorinert", "weight": 0.0, "id": 2776308809, "level": 3}
+{"count": 65, "name": "Goodness factor", "weight": 0.0, "id": 2776993660, "level": 3}
+{"count": 47, "name": "Ground-coupled heat exchanger", "weight": 0.0, "id": 2777790030, "level": 3}
+{"count": 68, "name": "Power law scheme", "weight": 0.0, "id": 2778692089, "level": 3}
+{"count": 85, "name": "Broken ribs", "weight": 0.0, "id": 2777668114, "level": 3}
+{"count": 22, "name": "Heisler chart", "weight": 0.0, "id": 183590752, "level": 3}

@@ -1,0 +1,16 @@
+{"count": 1820, "name": "Affinity propagation", "weight": 1.0, "id": 109659709, "level": 5}
+{"count": 2139, "name": "DBSCAN", "weight": 2.0, "id": 46576248, "level": 5}
+{"count": 3493, "name": "Constrained clustering", "weight": 3.0, "id": 27964816, "level": 5}
+{"count": 5282, "name": "Single-linkage clustering", "weight": 5.0, "id": 22648726, "level": 5}
+{"count": 3621, "name": "Consensus clustering", "weight": 3.0, "id": 186767784, "level": 5}
+{"count": 7872, "name": "Data stream clustering", "weight": 8.0, "id": 193143536, "level": 5}
+{"count": 701, "name": "k-medoids", "weight": 0.0, "id": 65932786, "level": 5}
+{"count": 3019, "name": "Determining the number of clusters in a data set", "weight": 3.0, "id": 149872217, "level": 5}
+{"count": 1156, "name": "Complete-linkage clustering", "weight": 1.0, "id": 23822008, "level": 5}
+{"count": 500, "name": "OPTICS algorithm", "weight": 0.0, "id": 191928576, "level": 5}
+{"count": 5593, "name": "Brown clustering", "weight": 5.0, "id": 167984511, "level": 5}
+{"count": 869, "name": "SUBCLU", "weight": 0.0, "id": 146076780, "level": 5}
+{"count": 9763, "name": "k-medians clustering", "weight": 10.0, "id": 115328559, "level": 5}
+{"count": 1615, "name": "Nearest-neighbor chain algorithm", "weight": 1.0, "id": 102164700, "level": 5}
+{"count": 1823, "name": "Hierarchical clustering of networks", "weight": 1.0, "id": 82261393, "level": 5}
+{"count": 8849, "name": "FLAME clustering", "weight": 9.0, "id": 44859942, "level": 5}

@@ -1,0 +1,6 @@
+{"count": 515, "name": "Mobile malware", "weight": 4.0, "id": 2780967490, "level": 3}
+{"count": 313, "name": "Wi-Fi Direct", "weight": 2.0, "id": 2777234602, "level": 3}
+{"count": 254, "name": "Privilege escalation", "weight": 2.0, "id": 55854993, "level": 3}
+{"count": 604, "name": "Android Wear", "weight": 5.0, "id": 50522710, "level": 3}
+{"count": 56, "name": "RenderScript", "weight": 0.0, "id": 2778536271, "level": 3}
+{"count": 1144, "name": "Android Beam", "weight": 10.0, "id": 65902250, "level": 3}

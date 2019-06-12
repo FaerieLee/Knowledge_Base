@@ -1,0 +1,6 @@
+{"count": 4025, "name": "Quadratic assignment problem", "weight": 10.0, "id": 98036226, "level": 3}
+{"count": 1117, "name": "Cross-entropy method", "weight": 2.0, "id": 75782508, "level": 3}
+{"count": 3043, "name": "2-opt", "weight": 7.0, "id": 106472803, "level": 3}
+{"count": 56, "name": "Very large-scale neighborhood search", "weight": 0.0, "id": 2780663532, "level": 3}
+{"count": 2730, "name": "Bottleneck traveling salesman problem", "weight": 6.0, "id": 7668213, "level": 3}
+{"count": 308, "name": "Minimum k-cut", "weight": 0.0, "id": 184434704, "level": 3}

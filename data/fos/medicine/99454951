@@ -1,0 +1,46 @@
+{"count": 7357, "name": "Health effect", "weight": 9.0, "id": 2777617796, "level": 2}
+{"count": 8033, "name": "Occupational disease", "weight": 10.0, "id": 2780638295, "level": 2}
+{"count": 5338, "name": "Passive smoking", "weight": 6.0, "id": 2776281542, "level": 2}
+{"count": 6736, "name": "Tobacco industry", "weight": 8.0, "id": 2781145028, "level": 2}
+{"count": 6706, "name": "Safety net", "weight": 8.0, "id": 2778216598, "level": 2}
+{"count": 3140, "name": "Behavioral Risk Factor Surveillance System", "weight": 3.0, "id": 2777126965, "level": 2}
+{"count": 4493, "name": "Smokeless tobacco", "weight": 5.0, "id": 138040679, "level": 2}
+{"count": 3732, "name": "Threshold limit value", "weight": 4.0, "id": 64413873, "level": 2}
+{"count": 1473, "name": "Confined space", "weight": 1.0, "id": 2776928176, "level": 2}
+{"count": 4486, "name": "Construction site safety", "weight": 5.0, "id": 86804380, "level": 2}
+{"count": 2039, "name": "Environmental epidemiology", "weight": 2.0, "id": 201052633, "level": 2}
+{"count": 2470, "name": "Environmental toxicology", "weight": 3.0, "id": 41157215, "level": 2}
+{"count": 1489, "name": "Smoking ban", "weight": 1.0, "id": 2776299002, "level": 2}
+{"count": 830, "name": "Occupational exposure limit", "weight": 1.0, "id": 2781195946, "level": 2}
+{"count": 412, "name": "Health systems strengthening", "weight": 0.0, "id": 2780774518, "level": 2}
+{"count": 944, "name": "Biodefense", "weight": 1.0, "id": 2778545548, "level": 2}
+{"count": 2604, "name": "Oil mist", "weight": 3.0, "id": 2776727694, "level": 2}
+{"count": 1333, "name": "Active living", "weight": 1.0, "id": 2776025840, "level": 2}
+{"count": 688, "name": "Biological hazard", "weight": 0.0, "id": 9982957, "level": 2}
+{"count": 505, "name": "Food desert", "weight": 0.0, "id": 2778603075, "level": 2}
+{"count": 594, "name": "Lead paint", "weight": 0.0, "id": 2777939895, "level": 2}
+{"count": 517, "name": "Chemical hazard", "weight": 0.0, "id": 2779506215, "level": 2}
+{"count": 170, "name": "National Children's Study", "weight": 0.0, "id": 2780246505, "level": 2}
+{"count": 137, "name": "Lead abatement", "weight": 0.0, "id": 2778780766, "level": 2}
+{"count": 812, "name": "Fall protection", "weight": 1.0, "id": 2777971728, "level": 2}
+{"count": 85, "name": "Environmental disease", "weight": 0.0, "id": 2778016915, "level": 2}
+{"count": 133, "name": "Select agent", "weight": 0.0, "id": 2779771941, "level": 2}
+{"count": 98, "name": "Lockout-tagout", "weight": 0.0, "id": 171710503, "level": 2}
+{"count": 14, "name": "Xanthocercis zambesiaca", "weight": 0.0, "id": 2778772330, "level": 2}
+{"count": 32, "name": "PIMEX", "weight": 0.0, "id": 2781365743, "level": 2}
+{"count": 174, "name": "Bills of mortality", "weight": 0.0, "id": 2777568947, "level": 2}
+{"count": 581, "name": "Work method statement", "weight": 0.0, "id": 2776983219, "level": 2}
+{"count": 54, "name": "Toxic workplace", "weight": 0.0, "id": 2781166594, "level": 2}
+{"count": 16, "name": "Dokha", "weight": 0.0, "id": 2778131627, "level": 2}
+{"count": 148, "name": "Multiple Indicator Cluster Surveys", "weight": 0.0, "id": 2779435363, "level": 2}
+{"count": 17, "name": "B reader", "weight": 0.0, "id": 2777076639, "level": 2}
+{"count": 22, "name": "California Proposition 65", "weight": 0.0, "id": 2778940500, "level": 2}
+{"count": 18, "name": "Adult Blood Lead Epidemiology and Surveillance", "weight": 0.0, "id": 2779643427, "level": 2}
+{"count": 43, "name": "Committee on Toxicity", "weight": 0.0, "id": 2776381304, "level": 2}
+{"count": 10, "name": "National Day of Mourning", "weight": 0.0, "id": 2779022365, "level": 2}
+{"count": 19, "name": "Effects of the Chernobyl disaster", "weight": 0.0, "id": 2779142632, "level": 2}
+{"count": 1, "name": "New York and New Jersey Education and Research Center", "weight": 0.0, "id": 2779488757, "level": 2}
+{"count": 4, "name": "SENSOR-Pesticides", "weight": 0.0, "id": 2776048569, "level": 2}
+{"count": 3, "name": "Workplace revenge", "weight": 0.0, "id": 2778151533, "level": 2}
+{"count": 1, "name": "NIOSH Education and Research Centers", "weight": 0.0, "id": 2776085837, "level": 2}
+{"count": 2, "name": "Substitution of dangerous chemicals", "weight": 0.0, "id": 2776443922, "level": 2}

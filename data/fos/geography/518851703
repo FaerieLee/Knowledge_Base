@@ -1,0 +1,56 @@
+{"count": 83705, "name": "Coal mining", "weight": 10.0, "id": 108615695, "level": 3}
+{"count": 6581, "name": "Synthetic fuel", "weight": 0.0, "id": 202417442, "level": 3}
+{"count": 19954, "name": "Fluidized bed combustion", "weight": 2.0, "id": 59269787, "level": 3}
+{"count": 12816, "name": "Coal gasification", "weight": 1.0, "id": 86021790, "level": 3}
+{"count": 22251, "name": "Char", "weight": 2.0, "id": 2779970684, "level": 3}
+{"count": 15599, "name": "Pulverized coal-fired boiler", "weight": 1.0, "id": 41888846, "level": 3}
+{"count": 3822, "name": "Maceral", "weight": 0.0, "id": 30370900, "level": 3}
+{"count": 9490, "name": "Coal liquefaction", "weight": 1.0, "id": 24872536, "level": 3}
+{"count": 16652, "name": "Solid fuel", "weight": 1.0, "id": 196832758, "level": 3}
+{"count": 2306, "name": "Carbochemistry", "weight": 0.0, "id": 21434488, "level": 3}
+{"count": 5503, "name": "Bottom ash", "weight": 0.0, "id": 175944049, "level": 3}
+{"count": 5733, "name": "Vitrinite", "weight": 0.0, "id": 2777101687, "level": 3}
+{"count": 7618, "name": "Coal tar", "weight": 0.0, "id": 2779554610, "level": 3}
+{"count": 5965, "name": "Integrated gasification combined cycle", "weight": 0.0, "id": 115033672, "level": 3}
+{"count": 6119, "name": "Anthracite", "weight": 0.0, "id": 47143284, "level": 3}
+{"count": 8190, "name": "Coal gas", "weight": 0.0, "id": 131747538, "level": 3}
+{"count": 14069, "name": "Coal combustion products", "weight": 1.0, "id": 188471824, "level": 3}
+{"count": 5860, "name": "Spontaneous combustion", "weight": 0.0, "id": 152984320, "level": 3}
+{"count": 6244, "name": "Petroleum coke", "weight": 0.0, "id": 127404614, "level": 3}
+{"count": 9996, "name": "Briquette", "weight": 1.0, "id": 116065953, "level": 3}
+{"count": 12672, "name": "Wood gas generator", "weight": 1.0, "id": 15229330, "level": 3}
+{"count": 2134, "name": "Substitute natural gas", "weight": 0.0, "id": 115626544, "level": 3}
+{"count": 4482, "name": "Coal dust", "weight": 0.0, "id": 2776674678, "level": 3}
+{"count": 5233, "name": "Clean coal technology", "weight": 0.0, "id": 183237670, "level": 3}
+{"count": 4262, "name": "Caking", "weight": 0.0, "id": 2776534323, "level": 3}
+{"count": 7649, "name": "Gangue", "weight": 0.0, "id": 7028197, "level": 3}
+{"count": 2851, "name": "Coal slurry", "weight": 0.0, "id": 2776190172, "level": 3}
+{"count": 4046, "name": "Clean coal", "weight": 0.0, "id": 67754453, "level": 3}
+{"count": 2482, "name": "Coal measures", "weight": 0.0, "id": 2777031316, "level": 3}
+{"count": 1409, "name": "Cofiring", "weight": 0.0, "id": 187414654, "level": 3}
+{"count": 1834, "name": "Coal preparation plant", "weight": 0.0, "id": 2781406287, "level": 3}
+{"count": 919, "name": "Coal blending", "weight": 0.0, "id": 2779017864, "level": 3}
+{"count": 290, "name": "Sub-bituminous coal", "weight": 0.0, "id": 2780719935, "level": 3}
+{"count": 844, "name": "Drop tube", "weight": 0.0, "id": 2778088881, "level": 3}
+{"count": 643, "name": "Boiler design", "weight": 0.0, "id": 2781323112, "level": 3}
+{"count": 946, "name": "Coal oil", "weight": 0.0, "id": 2780774409, "level": 3}
+{"count": 183, "name": "Thermal dissolution", "weight": 0.0, "id": 2777447571, "level": 3}
+{"count": 38, "name": "Large Combustion Plant Directive", "weight": 0.0, "id": 2775872633, "level": 3}
+{"count": 104, "name": "Cannel coal", "weight": 0.0, "id": 2778452163, "level": 3}
+{"count": 3580, "name": "Coal water", "weight": 0.0, "id": 2777959845, "level": 3}
+{"count": 134, "name": "Sigillaria", "weight": 0.0, "id": 2781378832, "level": 3}
+{"count": 551, "name": "Slurry pipeline", "weight": 0.0, "id": 29480096, "level": 3}
+{"count": 147, "name": "Corex Process", "weight": 0.0, "id": 2778395589, "level": 3}
+{"count": 226, "name": "Ash pond", "weight": 0.0, "id": 2776201760, "level": 3}
+{"count": 80, "name": "Jameson cell", "weight": 0.0, "id": 54698636, "level": 3}
+{"count": 72, "name": "Tire-derived fuel", "weight": 0.0, "id": 2781464243, "level": 3}
+{"count": 114, "name": "FutureGen", "weight": 0.0, "id": 2776390421, "level": 3}
+{"count": 93, "name": "Stigmaria", "weight": 0.0, "id": 2775835173, "level": 3}
+{"count": 22, "name": "Mascagnite", "weight": 0.0, "id": 2780025626, "level": 3}
+{"count": 37, "name": "Corner tube boiler", "weight": 0.0, "id": 2777474102, "level": 3}
+{"count": 165, "name": "Fruitland Formation", "weight": 0.0, "id": 2778107536, "level": 3}
+{"count": 36, "name": "White coal", "weight": 0.0, "id": 98878957, "level": 3}
+{"count": 261, "name": "Coal in China", "weight": 0.0, "id": 2776094174, "level": 3}
+{"count": 17, "name": "Cerrej\u00f3n Formation", "weight": 0.0, "id": 2780695557, "level": 3}
+{"count": 27, "name": "AD700", "weight": 0.0, "id": 2780356749, "level": 3}
+{"count": 22, "name": "Coal shovel", "weight": 0.0, "id": 180485536, "level": 3}

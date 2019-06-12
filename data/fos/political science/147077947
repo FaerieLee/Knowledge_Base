@@ -1,0 +1,9 @@
+{"count": 6213, "name": "Occupational prestige", "weight": 10.0, "id": 57868080, "level": 3}
+{"count": 1549, "name": "Head of Household", "weight": 2.0, "id": 2777553175, "level": 3}
+{"count": 757, "name": "Status attainment", "weight": 1.0, "id": 42960830, "level": 3}
+{"count": 294, "name": "Relative index of inequality", "weight": 0.0, "id": 2780335897, "level": 3}
+{"count": 197, "name": "Hispanic paradox", "weight": 0.0, "id": 2779568169, "level": 3}
+{"count": 145, "name": "SEIFA", "weight": 0.0, "id": 2779741826, "level": 3}
+{"count": 108, "name": "Mexican Health and Aging Study", "weight": 0.0, "id": 2780844723, "level": 3}
+{"count": 116, "name": "Alameda County Study", "weight": 0.0, "id": 2780872398, "level": 3}
+{"count": 44, "name": "Residential segregation in the United States", "weight": 0.0, "id": 2777360779, "level": 3}

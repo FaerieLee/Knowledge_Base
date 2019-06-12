@@ -1,0 +1,15 @@
+{"count": 3455, "name": "Data definition language", "weight": 10.0, "id": 55596503, "level": 5}
+{"count": 1221, "name": "Null (SQL)", "weight": 3.0, "id": 203763787, "level": 5}
+{"count": 913, "name": "Object Query Language", "weight": 2.0, "id": 117667704, "level": 5}
+{"count": 2830, "name": "Stored procedure", "weight": 8.0, "id": 154420247, "level": 5}
+{"count": 779, "name": "In-Memory Processing", "weight": 2.0, "id": 123593499, "level": 5}
+{"count": 172, "name": "Embedded SQL", "weight": 0.0, "id": 2780305121, "level": 5}
+{"count": 33, "name": "SQL:1999", "weight": 0.0, "id": 2777214898, "level": 5}
+{"count": 43, "name": "SQL/XML", "weight": 0.0, "id": 2778491932, "level": 5}
+{"count": 22, "name": "SQL-92", "weight": 0.0, "id": 2779300400, "level": 5}
+{"count": 27, "name": "SQL:2003", "weight": 0.0, "id": 2780354170, "level": 5}
+{"count": 54, "name": "SQL*Plus", "weight": 0.0, "id": 2780702505, "level": 5}
+{"count": 22, "name": "Nested SQL", "weight": 0.0, "id": 2779114159, "level": 5}
+{"count": 43, "name": "QUEL query languages", "weight": 0.0, "id": 67872768, "level": 5}
+{"count": 1382, "name": "Autocommit", "weight": 4.0, "id": 33882796, "level": 5}
+{"count": 2039, "name": "SQL/PSM", "weight": 5.0, "id": 167544706, "level": 5}

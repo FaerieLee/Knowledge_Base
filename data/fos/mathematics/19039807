@@ -1,0 +1,5 @@
+{"count": 892, "name": "Kaplan\u2013Meier estimator", "weight": 8.0, "id": 2776540566, "level": 4}
+{"count": 716, "name": "Censored regression model", "weight": 6.0, "id": 97379794, "level": 4}
+{"count": 1060, "name": "Accelerated failure time model", "weight": 10.0, "id": 33114746, "level": 4}
+{"count": 102, "name": "Half-logistic distribution", "weight": 0.0, "id": 2778678623, "level": 4}
+{"count": 572, "name": "Censoring (clinical trials)", "weight": 5.0, "id": 137668524, "level": 4}

@@ -1,0 +1,200 @@
+{"count": 317239, "name": "Oscillation", "weight": 4.0, "id": 26733877, "level": 2}
+{"count": 204510, "name": "Signal processing", "weight": 3.0, "id": 104267543, "level": 2}
+{"count": 295155, "name": "Image processing", "weight": 4.0, "id": 9417928, "level": 2}
+{"count": 536778, "name": "Control system", "weight": 7.0, "id": 17500928, "level": 2}
+{"count": 270152, "name": "Information system", "weight": 3.0, "id": 180198813, "level": 2}
+{"count": 418255, "name": "Dielectric", "weight": 6.0, "id": 133386390, "level": 2}
+{"count": 242262, "name": "Chip", "weight": 3.0, "id": 165005293, "level": 2}
+{"count": 100286, "name": "Signal-to-noise ratio", "weight": 1.0, "id": 73836528, "level": 2}
+{"count": 203554, "name": "Integrated circuit", "weight": 3.0, "id": 530198007, "level": 2}
+{"count": 191429, "name": "Electric power system", "weight": 2.0, "id": 89227174, "level": 2}
+{"count": 293233, "name": "Resonance", "weight": 4.0, "id": 107406667, "level": 2}
+{"count": 154516, "name": "CMOS", "weight": 2.0, "id": 46362747, "level": 2}
+{"count": 157675, "name": "Electricity generation", "weight": 2.0, "id": 423512, "level": 2}
+{"count": 153952, "name": "Energy consumption", "weight": 2.0, "id": 2780165032, "level": 2}
+{"count": 146364, "name": "Renewable energy", "weight": 2.0, "id": 188573790, "level": 2}
+{"count": 676537, "name": "Voltage", "weight": 10.0, "id": 165801399, "level": 2}
+{"count": 124416, "name": "Efficient energy use", "weight": 1.0, "id": 2742236, "level": 2}
+{"count": 74820, "name": "Instrumentation", "weight": 1.0, "id": 203780698, "level": 2}
+{"count": 136132, "name": "Electrical impedance", "weight": 2.0, "id": 17829176, "level": 2}
+{"count": 112335, "name": "Solar energy", "weight": 1.0, "id": 541104983, "level": 2}
+{"count": 102563, "name": "Radio frequency", "weight": 1.0, "id": 74064498, "level": 2}
+{"count": 281063, "name": "Electronic circuit", "weight": 4.0, "id": 134146338, "level": 2}
+{"count": 77814, "name": "Energy conservation", "weight": 1.0, "id": 520301825, "level": 2}
+{"count": 214369, "name": "Modulation", "weight": 3.0, "id": 54956558, "level": 2}
+{"count": 83682, "name": "Field-effect transistor", "weight": 1.0, "id": 145598152, "level": 2}
+{"count": 87122, "name": "Transmission line", "weight": 1.0, "id": 33441834, "level": 2}
+{"count": 121786, "name": "Solar cell", "weight": 1.0, "id": 2780824857, "level": 2}
+{"count": 218013, "name": "Semiconductor device", "weight": 3.0, "id": 79635011, "level": 2}
+{"count": 472030, "name": "Detector", "weight": 6.0, "id": 94915269, "level": 2}
+{"count": 49675, "name": "Very-large-scale integration", "weight": 0.0, "id": 14580979, "level": 2}
+{"count": 213928, "name": "Magnet", "weight": 3.0, "id": 16389437, "level": 2}
+{"count": 90548, "name": "Energy storage", "weight": 1.0, "id": 73916439, "level": 2}
+{"count": 50508, "name": "Equivalent circuit", "weight": 0.0, "id": 23572009, "level": 2}
+{"count": 57740, "name": "Logic gate", "weight": 0.0, "id": 131017901, "level": 2}
+{"count": 121598, "name": "Wind power", "weight": 1.0, "id": 78600449, "level": 2}
+{"count": 40979, "name": "Band-pass filter", "weight": 0.0, "id": 147788027, "level": 2}
+{"count": 128300, "name": "Power station", "weight": 1.0, "id": 4311470, "level": 2}
+{"count": 220435, "name": "Capacitor", "weight": 3.0, "id": 52192207, "level": 2}
+{"count": 64276, "name": "Process control", "weight": 0.0, "id": 155386361, "level": 2}
+{"count": 130620, "name": "Capacitance", "weight": 1.0, "id": 30066665, "level": 2}
+{"count": 160899, "name": "Electric power", "weight": 2.0, "id": 40293303, "level": 2}
+{"count": 25089, "name": "Selectivity", "weight": 0.0, "id": 118792377, "level": 2}
+{"count": 27458, "name": "Network analysis", "weight": 0.0, "id": 32946077, "level": 2}
+{"count": 482701, "name": "Semiconductor", "weight": 7.0, "id": 108225325, "level": 2}
+{"count": 36462, "name": "Electrical network", "weight": 0.0, "id": 196796808, "level": 2}
+{"count": 38025, "name": "Circuit design", "weight": 0.0, "id": 190560348, "level": 2}
+{"count": 206339, "name": "Amplifier", "weight": 3.0, "id": 194257627, "level": 2}
+{"count": 136451, "name": "Electronics", "weight": 2.0, "id": 138331895, "level": 2}
+{"count": 49384, "name": "Electric current", "weight": 0.0, "id": 116468062, "level": 2}
+{"count": 58966, "name": "Electric power transmission", "weight": 0.0, "id": 140311924, "level": 2}
+{"count": 209475, "name": "Transistor", "weight": 3.0, "id": 172385210, "level": 2}
+{"count": 381825, "name": "Electrical conductor", "weight": 5.0, "id": 202374169, "level": 2}
+{"count": 163264, "name": "Leakage (electronics)", "weight": 2.0, "id": 151763599, "level": 2}
+{"count": 60289, "name": "Power transmission", "weight": 0.0, "id": 92018576, "level": 2}
+{"count": 123293, "name": "Piezoelectricity", "weight": 1.0, "id": 100082104, "level": 2}
+{"count": 177412, "name": "Cathode", "weight": 2.0, "id": 49110097, "level": 2}
+{"count": 75346, "name": "Digital signal processing", "weight": 1.0, "id": 84462506, "level": 2}
+{"count": 45908, "name": "Energy conversion efficiency", "weight": 0.0, "id": 206991015, "level": 2}
+{"count": 166540, "name": "Photovoltaic system", "weight": 2.0, "id": 41291067, "level": 2}
+{"count": 67276, "name": "Inductor", "weight": 0.0, "id": 144534570, "level": 2}
+{"count": 158114, "name": "Transmitter", "weight": 2.0, "id": 47798520, "level": 2}
+{"count": 99214, "name": "Electricity", "weight": 1.0, "id": 206658404, "level": 2}
+{"count": 54255, "name": "MOSFET", "weight": 0.0, "id": 2778413303, "level": 2}
+{"count": 25163, "name": "Integrated circuit design", "weight": 0.0, "id": 74524168, "level": 2}
+{"count": 113901, "name": "Waveform", "weight": 1.0, "id": 197424946, "level": 2}
+{"count": 43183, "name": "Phase-locked loop", "weight": 0.0, "id": 12707504, "level": 2}
+{"count": 181037, "name": "Diode", "weight": 2.0, "id": 78434282, "level": 2}
+{"count": 26131, "name": "Time constant", "weight": 0.0, "id": 81370116, "level": 2}
+{"count": 143614, "name": "Distortion", "weight": 2.0, "id": 115225779, "level": 2}
+{"count": 118268, "name": "Transducer", "weight": 1.0, "id": 56318395, "level": 2}
+{"count": 191315, "name": "Anode", "weight": 2.0, "id": 89395315, "level": 2}
+{"count": 33509, "name": "Eddy current", "weight": 0.0, "id": 131357438, "level": 2}
+{"count": 189536, "name": "Printed circuit board", "weight": 2.0, "id": 120793396, "level": 2}
+{"count": 50950, "name": "Thermal power station", "weight": 0.0, "id": 2039551, "level": 2}
+{"count": 154502, "name": "Transformer", "weight": 2.0, "id": 66322947, "level": 2}
+{"count": 29068, "name": "Phase noise", "weight": 0.0, "id": 89631360, "level": 2}
+{"count": 23654, "name": "Electrical equipment", "weight": 0.0, "id": 162175671, "level": 2}
+{"count": 100372, "name": "Electric motor", "weight": 1.0, "id": 176871988, "level": 2}
+{"count": 52498, "name": "Transceiver", "weight": 0.0, "id": 7720470, "level": 2}
+{"count": 34533, "name": "Electromagnetic interference", "weight": 0.0, "id": 184892835, "level": 2}
+{"count": 46252, "name": "Inductance", "weight": 0.0, "id": 29210110, "level": 2}
+{"count": 21978, "name": "Miniaturization", "weight": 0.0, "id": 57528182, "level": 2}
+{"count": 26809, "name": "Schottky barrier", "weight": 0.0, "id": 16115445, "level": 2}
+{"count": 18552, "name": "Telephony", "weight": 0.0, "id": 195358072, "level": 2}
+{"count": 22717, "name": "Reflection coefficient", "weight": 0.0, "id": 41700454, "level": 2}
+{"count": 19882, "name": "Digital electronics", "weight": 0.0, "id": 81843906, "level": 2}
+{"count": 25039, "name": "Insertion loss", "weight": 0.0, "id": 90327742, "level": 2}
+{"count": 31247, "name": "Energy management", "weight": 0.0, "id": 7817414, "level": 2}
+{"count": 14647, "name": "Electrical efficiency", "weight": 0.0, "id": 118993495, "level": 2}
+{"count": 365023, "name": "Battery (electricity)", "weight": 5.0, "id": 555008776, "level": 2}
+{"count": 105640, "name": "Electromagnetic shielding", "weight": 1.0, "id": 2265751, "level": 2}
+{"count": 8136, "name": "Negative feedback", "weight": 0.0, "id": 93586867, "level": 2}
+{"count": 21244, "name": "Root mean square", "weight": 0.0, "id": 71907059, "level": 2}
+{"count": 21843, "name": "Contact resistance", "weight": 0.0, "id": 123671423, "level": 2}
+{"count": 24638, "name": "Impedance matching", "weight": 0.0, "id": 612350, "level": 2}
+{"count": 51074, "name": "Demodulation", "weight": 0.0, "id": 195251586, "level": 2}
+{"count": 6202, "name": "Positive feedback", "weight": 0.0, "id": 48207687, "level": 2}
+{"count": 12871, "name": "Electronic design automation", "weight": 0.0, "id": 64260653, "level": 2}
+{"count": 96538, "name": "Insulator (electricity)", "weight": 1.0, "id": 212702, "level": 2}
+{"count": 251903, "name": "Electromagnetic coil", "weight": 3.0, "id": 30403606, "level": 2}
+{"count": 24576, "name": "Surface acoustic wave", "weight": 0.0, "id": 162954803, "level": 2}
+{"count": 34185, "name": "Signal generator", "weight": 0.0, "id": 207912722, "level": 2}
+{"count": 34159, "name": "Microelectronics", "weight": 0.0, "id": 187937830, "level": 2}
+{"count": 54088, "name": "Short circuit", "weight": 0.0, "id": 68583231, "level": 2}
+{"count": 10768, "name": "Load management", "weight": 0.0, "id": 2779370713, "level": 2}
+{"count": 9861, "name": "Electronic packaging", "weight": 0.0, "id": 69567186, "level": 2}
+{"count": 67219, "name": "Capacitive sensing", "weight": 0.0, "id": 206755178, "level": 2}
+{"count": 37079, "name": "Smart grid", "weight": 0.0, "id": 10558101, "level": 2}
+{"count": 14718, "name": "Analog-to-digital converter", "weight": 0.0, "id": 2777271169, "level": 2}
+{"count": 18258, "name": "Electromagnetic compatibility", "weight": 0.0, "id": 125470083, "level": 2}
+{"count": 22440, "name": "Electric generator", "weight": 0.0, "id": 133118237, "level": 2}
+{"count": 27392, "name": "Strain gauge", "weight": 0.0, "id": 60584519, "level": 2}
+{"count": 18473, "name": "Electric power industry", "weight": 0.0, "id": 170777988, "level": 2}
+{"count": 22059, "name": "Noise (electronics)", "weight": 0.0, "id": 45584529, "level": 2}
+{"count": 25982, "name": "Power semiconductor device", "weight": 0.0, "id": 129014197, "level": 2}
+{"count": 30279, "name": "Informatics", "weight": 0.0, "id": 191630685, "level": 2}
+{"count": 21236, "name": "Electricity market", "weight": 0.0, "id": 146733006, "level": 2}
+{"count": 11672, "name": "Telecommunications service", "weight": 0.0, "id": 33271190, "level": 2}
+{"count": 17180, "name": "RLC circuit", "weight": 0.0, "id": 89880566, "level": 2}
+{"count": 12030, "name": "Cavity magnetron", "weight": 0.0, "id": 123408415, "level": 2}
+{"count": 15440, "name": "Phase shift module", "weight": 0.0, "id": 103864889, "level": 2}
+{"count": 76485, "name": "Circuit breaker", "weight": 1.0, "id": 61352017, "level": 2}
+{"count": 33748, "name": "Shunt (electrical)", "weight": 0.0, "id": 189066065, "level": 2}
+{"count": 24278, "name": "Voltage-controlled oscillator", "weight": 0.0, "id": 5291336, "level": 2}
+{"count": 15688, "name": "Joule heating", "weight": 0.0, "id": 117926987, "level": 2}
+{"count": 13841, "name": "Cutoff frequency", "weight": 0.0, "id": 6142545, "level": 2}
+{"count": 28328, "name": "Access network", "weight": 0.0, "id": 62793504, "level": 2}
+{"count": 11522, "name": "Electromigration", "weight": 0.0, "id": 138055206, "level": 2}
+{"count": 10775, "name": "Equivalent series resistance", "weight": 0.0, "id": 14485415, "level": 2}
+{"count": 21898, "name": "Hydroelectricity", "weight": 0.0, "id": 92311004, "level": 2}
+{"count": 25539, "name": "Temperature coefficient", "weight": 0.0, "id": 16643434, "level": 2}
+{"count": 8898, "name": "Scattering parameters", "weight": 0.0, "id": 195266298, "level": 2}
+{"count": 26668, "name": "Baseband", "weight": 0.0, "id": 65165936, "level": 2}
+{"count": 15137, "name": "Inductive coupling", "weight": 0.0, "id": 177872590, "level": 2}
+{"count": 82386, "name": "Electronic component", "weight": 1.0, "id": 81060104, "level": 2}
+{"count": 8133, "name": "Flip-flop", "weight": 0.0, "id": 2781007278, "level": 2}
+{"count": 13235, "name": "Corona discharge", "weight": 0.0, "id": 6025432, "level": 2}
+{"count": 230429, "name": "Display device", "weight": 3.0, "id": 164597639, "level": 2}
+{"count": 11738, "name": "Integrated Services Digital Network", "weight": 0.0, "id": 536894130, "level": 2}
+{"count": 19850, "name": "Chirp", "weight": 0.0, "id": 132794960, "level": 2}
+{"count": 51177, "name": "Ground", "weight": 0.0, "id": 168993435, "level": 2}
+{"count": 38195, "name": "Distributed generation", "weight": 0.0, "id": 544738498, "level": 2}
+{"count": 8942, "name": "Static electricity", "weight": 0.0, "id": 87716614, "level": 2}
+{"count": 8357, "name": "Skin effect", "weight": 0.0, "id": 151482245, "level": 2}
+{"count": 109243, "name": "Relay", "weight": 1.0, "id": 2778156585, "level": 2}
+{"count": 25246, "name": "Cathode ray tube", "weight": 0.0, "id": 51466007, "level": 2}
+{"count": 27949, "name": "Thermocouple", "weight": 0.0, "id": 168068576, "level": 2}
+{"count": 15406, "name": "Hybrid vehicle", "weight": 0.0, "id": 516807790, "level": 2}
+{"count": 36683, "name": "Solenoid", "weight": 0.0, "id": 192144188, "level": 2}
+{"count": 53199, "name": "Digital signal", "weight": 0.0, "id": 52773712, "level": 2}
+{"count": 33371, "name": "Multiplexer", "weight": 0.0, "id": 70970002, "level": 2}
+{"count": 13296, "name": "Intermediate frequency", "weight": 0.0, "id": 8480308, "level": 2}
+{"count": 77937, "name": "Regulator", "weight": 1.0, "id": 6929976, "level": 2}
+{"count": 30053, "name": "Loudspeaker", "weight": 0.0, "id": 157138929, "level": 2}
+{"count": 15823, "name": "Fluidics", "weight": 0.0, "id": 132651336, "level": 2}
+{"count": 20232, "name": "Fidelity", "weight": 0.0, "id": 2776459999, "level": 2}
+{"count": 19765, "name": "Repeater", "weight": 0.0, "id": 70420846, "level": 2}
+{"count": 5969, "name": "Signal integrity", "weight": 0.0, "id": 44938667, "level": 2}
+{"count": 17085, "name": "Hearing aid", "weight": 0.0, "id": 2780801066, "level": 2}
+{"count": 556, "name": "Kowsar", "weight": 0.0, "id": 2779965577, "level": 2}
+{"count": 9496, "name": "Electromagnetic pulse", "weight": 0.0, "id": 14589660, "level": 2}
+{"count": 41437, "name": "Frequency band", "weight": 0.0, "id": 2778116611, "level": 2}
+{"count": 12258, "name": "Band-stop filter", "weight": 0.0, "id": 112806600, "level": 2}
+{"count": 3913, "name": "Market penetration", "weight": 0.0, "id": 2777648813, "level": 2}
+{"count": 19782, "name": "Induction heating", "weight": 0.0, "id": 775475, "level": 2}
+{"count": 68434, "name": "Biasing", "weight": 1.0, "id": 20254490, "level": 2}
+{"count": 11936, "name": "Fault coverage", "weight": 0.0, "id": 126953365, "level": 2}
+{"count": 10765, "name": "Design for manufacturability", "weight": 0.0, "id": 62064638, "level": 2}
+{"count": 8169, "name": "Klystron", "weight": 0.0, "id": 94506165, "level": 2}
+{"count": 8591, "name": "Electric power distribution", "weight": 0.0, "id": 206888370, "level": 2}
+{"count": 13964, "name": "Reverberation", "weight": 0.0, "id": 95851461, "level": 2}
+{"count": 30700, "name": "Transmission (telecommunications)", "weight": 0.0, "id": 761482, "level": 2}
+{"count": 8492, "name": "Stripline", "weight": 0.0, "id": 80587232, "level": 2}
+{"count": 11034, "name": "SCADA", "weight": 0.0, "id": 113863187, "level": 2}
+{"count": 10130, "name": "Flat panel display", "weight": 0.0, "id": 2780526400, "level": 2}
+{"count": 11658, "name": "Capital cost", "weight": 0.0, "id": 157062255, "level": 2}
+{"count": 42213, "name": "Fuse (electrical)", "weight": 0.0, "id": 141353440, "level": 2}
+{"count": 5530, "name": "Electric shock", "weight": 0.0, "id": 2776099285, "level": 2}
+{"count": 7417, "name": "Electrostatic precipitator", "weight": 0.0, "id": 2776327988, "level": 2}
+{"count": 10099, "name": "Getter", "weight": 0.0, "id": 125099081, "level": 2}
+{"count": 5949, "name": "Digital-to-analog converter", "weight": 0.0, "id": 2779879419, "level": 2}
+{"count": 12125, "name": "Oscilloscope", "weight": 0.0, "id": 184026988, "level": 2}
+{"count": 41889, "name": "Electrical contacts", "weight": 0.0, "id": 132235601, "level": 2}
+{"count": 65233, "name": "Spectrum analyzer", "weight": 0.0, "id": 158007255, "level": 2}
+{"count": 7576, "name": "Network analyzer (electrical)", "weight": 0.0, "id": 99101257, "level": 2}
+{"count": 28938, "name": "Electric arc", "weight": 0.0, "id": 114375839, "level": 2}
+{"count": 30366, "name": "Waste heat", "weight": 0.0, "id": 184235594, "level": 2}
+{"count": 59767, "name": "Enclosure", "weight": 0.0, "id": 98375054, "level": 2}
+{"count": 48127, "name": "Microphone", "weight": 0.0, "id": 2778263558, "level": 2}
+{"count": 12033, "name": "Electromotive force", "weight": 0.0, "id": 127535462, "level": 2}
+{"count": 2192, "name": "Radio control", "weight": 0.0, "id": 554876149, "level": 2}
+{"count": 5593, "name": "Memristor", "weight": 0.0, "id": 150072547, "level": 2}
+{"count": 6248, "name": "Safety standards", "weight": 0.0, "id": 2776179734, "level": 2}
+{"count": 25602, "name": "Electric heating", "weight": 0.0, "id": 2780061162, "level": 2}
+{"count": 9496, "name": "LC circuit", "weight": 0.0, "id": 34627536, "level": 2}
+{"count": 638, "name": "National Electrical Code", "weight": 0.0, "id": 47820740, "level": 2}
+{"count": 2352, "name": "Phaser", "weight": 0.0, "id": 135393689, "level": 2}
+{"count": 13474, "name": "Thermistor", "weight": 0.0, "id": 66726788, "level": 2}
+{"count": 16183, "name": "Limiter", "weight": 0.0, "id": 45011657, "level": 2}
+{"count": 15348, "name": "Sine wave", "weight": 0.0, "id": 66907618, "level": 2}

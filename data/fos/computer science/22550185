@@ -1,0 +1,9 @@
+{"count": 1048, "name": "Semantic heterogeneity", "weight": 1.0, "id": 2778180026, "level": 4}
+{"count": 5148, "name": "OWL-S", "weight": 6.0, "id": 50382505, "level": 4}
+{"count": 7892, "name": "Suggested Upper Merged Ontology", "weight": 10.0, "id": 50971890, "level": 4}
+{"count": 271, "name": "Core ontology", "weight": 0.0, "id": 2779287260, "level": 4}
+{"count": 1282, "name": "Enterprise information integration", "weight": 1.0, "id": 164768185, "level": 4}
+{"count": 141, "name": "Lightweight ontology", "weight": 0.0, "id": 2779787424, "level": 4}
+{"count": 1665, "name": "IDEF1X", "weight": 2.0, "id": 196621874, "level": 4}
+{"count": 1728, "name": "IDEF5", "weight": 2.0, "id": 118248724, "level": 4}
+{"count": 5895, "name": "Ontology Inference Layer", "weight": 7.0, "id": 115408247, "level": 4}

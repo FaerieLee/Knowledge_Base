@@ -1,0 +1,200 @@
+{"count": 92928, "name": "Systems design", "weight": 7.0, "id": 31352089, "level": 2}
+{"count": 13598, "name": "Top-down and bottom-up design", "weight": 1.0, "id": 135798126, "level": 2}
+{"count": 18438, "name": "System testing", "weight": 1.0, "id": 7166840, "level": 2}
+{"count": 33493, "name": "Systems analysis", "weight": 2.0, "id": 24119478, "level": 2}
+{"count": 38484, "name": "Design process", "weight": 3.0, "id": 48262172, "level": 2}
+{"count": 14754, "name": "Systems modeling", "weight": 1.0, "id": 110963975, "level": 2}
+{"count": 12695, "name": "Program Design Language", "weight": 1.0, "id": 206674616, "level": 2}
+{"count": 24411, "name": "Unified Modeling Language", "weight": 1.0, "id": 145644426, "level": 2}
+{"count": 20887, "name": "Formal methods", "weight": 1.0, "id": 75606506, "level": 2}
+{"count": 9308, "name": "Context model", "weight": 0.0, "id": 183322885, "level": 2}
+{"count": 11709, "name": "Specification language", "weight": 0.0, "id": 201677973, "level": 2}
+{"count": 7050, "name": "Computer-aided software engineering", "weight": 0.0, "id": 50369083, "level": 2}
+{"count": 13416, "name": "Requirements engineering", "weight": 1.0, "id": 6604083, "level": 2}
+{"count": 14963, "name": "User requirements document", "weight": 1.0, "id": 143267671, "level": 2}
+{"count": 11088, "name": "Functional requirement", "weight": 0.0, "id": 62235348, "level": 2}
+{"count": 4442, "name": "Functional testing", "weight": 0.0, "id": 80823478, "level": 2}
+{"count": 11173, "name": "Metamodeling", "weight": 0.0, "id": 86610423, "level": 2}
+{"count": 6979, "name": "Performance engineering", "weight": 0.0, "id": 178061710, "level": 2}
+{"count": 122391, "name": "Software deployment", "weight": 10.0, "id": 105339364, "level": 2}
+{"count": 23487, "name": "Agile software development", "weight": 1.0, "id": 14185376, "level": 2}
+{"count": 12833, "name": "Requirements analysis", "weight": 1.0, "id": 59488412, "level": 2}
+{"count": 7859, "name": "Configuration management", "weight": 0.0, "id": 120485893, "level": 2}
+{"count": 10575, "name": "Dynamic testing", "weight": 0.0, "id": 198824145, "level": 2}
+{"count": 16374, "name": "Oracle", "weight": 1.0, "id": 55166926, "level": 2}
+{"count": 16234, "name": "Traceability", "weight": 1.0, "id": 153876917, "level": 2}
+{"count": 2141, "name": "Critical mass (software engineering)", "weight": 0.0, "id": 2780988752, "level": 2}
+{"count": 2049, "name": "Random testing", "weight": 0.0, "id": 106159264, "level": 2}
+{"count": 2994, "name": "Structured systems analysis and design method", "weight": 0.0, "id": 93729268, "level": 2}
+{"count": 4804, "name": "Domain analysis", "weight": 0.0, "id": 15708719, "level": 2}
+{"count": 4439, "name": "Capability Maturity Model", "weight": 0.0, "id": 85890633, "level": 2}
+{"count": 13637, "name": "Dependability", "weight": 1.0, "id": 77019957, "level": 2}
+{"count": 1304, "name": "Coupling (computer programming)", "weight": 0.0, "id": 52584623, "level": 2}
+{"count": 13029, "name": "Iterative and incremental development", "weight": 1.0, "id": 143587482, "level": 2}
+{"count": 9207, "name": "Software requirements specification", "weight": 0.0, "id": 102780508, "level": 2}
+{"count": 5200, "name": "Integration testing", "weight": 0.0, "id": 107683887, "level": 2}
+{"count": 13645, "name": "Maintainability", "weight": 1.0, "id": 160713754, "level": 2}
+{"count": 4592, "name": "Unit testing", "weight": 0.0, "id": 148027188, "level": 2}
+{"count": 6487, "name": "Iterative design", "weight": 0.0, "id": 106246047, "level": 2}
+{"count": 7899, "name": "Software design pattern", "weight": 0.0, "id": 146054899, "level": 2}
+{"count": 1530, "name": "Design rationale", "weight": 0.0, "id": 3473561, "level": 2}
+{"count": 4045, "name": "Model-driven architecture", "weight": 0.0, "id": 509989072, "level": 2}
+{"count": 9712, "name": "Acceptance testing", "weight": 0.0, "id": 131377759, "level": 2}
+{"count": 10446, "name": "Test data generation", "weight": 0.0, "id": 47980962, "level": 2}
+{"count": 11662, "name": "Reusability", "weight": 0.0, "id": 137981799, "level": 2}
+{"count": 1184, "name": "White box", "weight": 0.0, "id": 180932941, "level": 2}
+{"count": 2262, "name": "COBOL", "weight": 0.0, "id": 128595289, "level": 2}
+{"count": 41313, "name": "GRASP", "weight": 3.0, "id": 171268870, "level": 2}
+{"count": 7885, "name": "Behavioral pattern", "weight": 0.0, "id": 83804111, "level": 2}
+{"count": 2637, "name": "System under test", "weight": 0.0, "id": 108913964, "level": 2}
+{"count": 2423, "name": "Method engineering", "weight": 0.0, "id": 185041570, "level": 2}
+{"count": 6376, "name": "Application lifecycle management", "weight": 0.0, "id": 30452754, "level": 2}
+{"count": 11110, "name": "Use case", "weight": 0.0, "id": 39424602, "level": 2}
+{"count": 61149, "name": "Implementation", "weight": 4.0, "id": 26713055, "level": 2}
+{"count": 44859, "name": "Test data", "weight": 3.0, "id": 16910744, "level": 2}
+{"count": 9597, "name": "Load testing", "weight": 0.0, "id": 48460631, "level": 2}
+{"count": 1220, "name": "Unified Process", "weight": 0.0, "id": 151051286, "level": 2}
+{"count": 992, "name": "Interactive programming", "weight": 0.0, "id": 2779125210, "level": 2}
+{"count": 1034, "name": "Rapid application development", "weight": 0.0, "id": 191644765, "level": 2}
+{"count": 3417, "name": "Functional specification", "weight": 0.0, "id": 57371142, "level": 2}
+{"count": 17355, "name": "Test case", "weight": 1.0, "id": 128942645, "level": 2}
+{"count": 6086, "name": "Test strategy", "weight": 0.0, "id": 188598960, "level": 2}
+{"count": 2086, "name": "Structured analysis", "weight": 0.0, "id": 125061337, "level": 2}
+{"count": 929, "name": "History of computing", "weight": 0.0, "id": 2778653333, "level": 2}
+{"count": 17598, "name": "Operability", "weight": 1.0, "id": 126231374, "level": 2}
+{"count": 5341, "name": "System requirements specification", "weight": 0.0, "id": 84651959, "level": 2}
+{"count": 3515, "name": "Test design", "weight": 0.0, "id": 11017329, "level": 2}
+{"count": 3548, "name": "Baseline (configuration management)", "weight": 0.0, "id": 109364899, "level": 2}
+{"count": 4740, "name": "Test plan", "weight": 0.0, "id": 12148698, "level": 2}
+{"count": 2627, "name": "Functional design", "weight": 0.0, "id": 64346931, "level": 2}
+{"count": 2833, "name": "Design specification", "weight": 0.0, "id": 2778793053, "level": 2}
+{"count": 5478, "name": "Business requirements", "weight": 0.0, "id": 123247970, "level": 2}
+{"count": 7202, "name": "Microsoft Office", "weight": 0.0, "id": 523788702, "level": 2}
+{"count": 2207, "name": "Design review (U.S. government)", "weight": 0.0, "id": 91485673, "level": 2}
+{"count": 777, "name": "Model-based systems engineering", "weight": 0.0, "id": 2779384787, "level": 2}
+{"count": 362, "name": "HIPO model", "weight": 0.0, "id": 129438144, "level": 2}
+{"count": 16685, "name": "Servant", "weight": 1.0, "id": 2777219063, "level": 2}
+{"count": 1171, "name": "Design paradigm", "weight": 0.0, "id": 2780267684, "level": 2}
+{"count": 5882, "name": "Function model", "weight": 0.0, "id": 162798781, "level": 2}
+{"count": 837, "name": "Interaction overview diagram", "weight": 0.0, "id": 68438427, "level": 2}
+{"count": 1215, "name": "KAOS", "weight": 0.0, "id": 2779718183, "level": 2}
+{"count": 988, "name": "Incremental build model", "weight": 0.0, "id": 99622551, "level": 2}
+{"count": 1028, "name": "IEC 61508", "weight": 0.0, "id": 138267214, "level": 2}
+{"count": 1421, "name": "Preventive action", "weight": 0.0, "id": 2777862431, "level": 2}
+{"count": 809, "name": "Test management", "weight": 0.0, "id": 2780531113, "level": 2}
+{"count": 856, "name": "Fagan inspection", "weight": 0.0, "id": 154446701, "level": 2}
+{"count": 128, "name": "Object Process Methodology", "weight": 0.0, "id": 2776036551, "level": 2}
+{"count": 563, "name": "IDEF", "weight": 0.0, "id": 143179995, "level": 2}
+{"count": 1297, "name": "Failure assessment", "weight": 0.0, "id": 2778445657, "level": 2}
+{"count": 643, "name": "Continuous delivery", "weight": 0.0, "id": 2778094758, "level": 2}
+{"count": 2857, "name": "Change control", "weight": 0.0, "id": 31786546, "level": 2}
+{"count": 271, "name": "Alloy Analyzer", "weight": 0.0, "id": 193237570, "level": 2}
+{"count": 1896, "name": "Concept of operations", "weight": 0.0, "id": 19044370, "level": 2}
+{"count": 788, "name": "Golem", "weight": 0.0, "id": 2780846687, "level": 2}
+{"count": 1130, "name": "Operational acceptance testing", "weight": 0.0, "id": 18362487, "level": 2}
+{"count": 412, "name": "Composite pattern", "weight": 0.0, "id": 199941804, "level": 2}
+{"count": 776, "name": "Scenario", "weight": 0.0, "id": 135342440, "level": 2}
+{"count": 166, "name": "Misuse case", "weight": 0.0, "id": 179377682, "level": 2}
+{"count": 342, "name": "Continuous testing", "weight": 0.0, "id": 2776641920, "level": 2}
+{"count": 365, "name": "Process patterns", "weight": 0.0, "id": 2776669182, "level": 2}
+{"count": 298, "name": "Emergent Design", "weight": 0.0, "id": 46474289, "level": 2}
+{"count": 580, "name": "Organizational patterns", "weight": 0.0, "id": 2780940197, "level": 2}
+{"count": 857, "name": "Information technology operations", "weight": 0.0, "id": 43645609, "level": 2}
+{"count": 83, "name": "Anti-pattern", "weight": 0.0, "id": 191689488, "level": 2}
+{"count": 192, "name": "ICONIX", "weight": 0.0, "id": 186080758, "level": 2}
+{"count": 200, "name": "Chaos model", "weight": 0.0, "id": 191140617, "level": 2}
+{"count": 201, "name": "Release notes", "weight": 0.0, "id": 2780986262, "level": 2}
+{"count": 89, "name": "Behavior-driven development", "weight": 0.0, "id": 2776053886, "level": 2}
+{"count": 150, "name": "Poltergeist", "weight": 0.0, "id": 2777838041, "level": 2}
+{"count": 502, "name": "Continuous design", "weight": 0.0, "id": 17744200, "level": 2}
+{"count": 176, "name": "TRAK", "weight": 0.0, "id": 2778017275, "level": 2}
+{"count": 110, "name": "ISO/IEC 27001:2013", "weight": 0.0, "id": 2781014889, "level": 2}
+{"count": 65, "name": "ISO/IEC 27001:2005", "weight": 0.0, "id": 2781247098, "level": 2}
+{"count": 43, "name": "ISO/IEC 27000", "weight": 0.0, "id": 2777641537, "level": 2}
+{"count": 357, "name": "Command pattern", "weight": 0.0, "id": 98904109, "level": 2}
+{"count": 95, "name": "MBASE", "weight": 0.0, "id": 152256714, "level": 2}
+{"count": 191, "name": "Integrated product team", "weight": 0.0, "id": 2780565209, "level": 2}
+{"count": 145, "name": "Coding conventions", "weight": 0.0, "id": 2778357539, "level": 2}
+{"count": 14, "name": "VIATRA", "weight": 0.0, "id": 2777467845, "level": 2}
+{"count": 89, "name": "Profile diagram", "weight": 0.0, "id": 195040446, "level": 2}
+{"count": 200, "name": "Spiral model", "weight": 0.0, "id": 141550018, "level": 2}
+{"count": 101, "name": "Fundamental pattern", "weight": 0.0, "id": 2779720007, "level": 2}
+{"count": 28, "name": "Software entropy", "weight": 0.0, "id": 121786360, "level": 2}
+{"count": 45, "name": "Praxeme", "weight": 0.0, "id": 2776277621, "level": 2}
+{"count": 107, "name": "Soak testing", "weight": 0.0, "id": 172852746, "level": 2}
+{"count": 1, "name": "Process-data diagram", "weight": 0.0, "id": 2776130188, "level": 2}
+{"count": 126, "name": "PRICE Systems", "weight": 0.0, "id": 2776877068, "level": 2}
+{"count": 401, "name": "Crystal Clear", "weight": 0.0, "id": 186567068, "level": 2}
+{"count": 104, "name": "IEC 60870-5", "weight": 0.0, "id": 2780886164, "level": 2}
+{"count": 11, "name": "Interface-based programming", "weight": 0.0, "id": 2777553810, "level": 2}
+{"count": 170, "name": "Characterization test", "weight": 0.0, "id": 2779949702, "level": 2}
+{"count": 145, "name": "Death march", "weight": 0.0, "id": 2776721010, "level": 2}
+{"count": 44, "name": "Microsoft Solutions Framework", "weight": 0.0, "id": 2779720253, "level": 2}
+{"count": 95, "name": "Analysis paralysis", "weight": 0.0, "id": 169450377, "level": 2}
+{"count": 29, "name": "Swim lane", "weight": 0.0, "id": 199623551, "level": 2}
+{"count": 2, "name": "Software brittleness", "weight": 0.0, "id": 79418607, "level": 2}
+{"count": 14, "name": "Big ball of mud", "weight": 0.0, "id": 66838472, "level": 2}
+{"count": 6, "name": "Presenter First", "weight": 0.0, "id": 2780250271, "level": 2}
+{"count": 11, "name": "Concurrency pattern", "weight": 0.0, "id": 2780856056, "level": 2}
+{"count": 27, "name": "Functional flow block diagram", "weight": 0.0, "id": 107474922, "level": 2}
+{"count": 493, "name": "Ripple effect", "weight": 0.0, "id": 185133828, "level": 2}
+{"count": 6, "name": "Stand-up meeting", "weight": 0.0, "id": 2777105990, "level": 2}
+{"count": 10, "name": "ISO/IEC 29119", "weight": 0.0, "id": 2778532875, "level": 2}
+{"count": 2, "name": "MOF Model to Text Transformation Language", "weight": 0.0, "id": 2777189135, "level": 2}
+{"count": 146, "name": "Provider model", "weight": 0.0, "id": 45979199, "level": 2}
+{"count": 17, "name": "Happy path", "weight": 0.0, "id": 76922617, "level": 2}
+{"count": 31, "name": "Enterprise Distributed Object Computing", "weight": 0.0, "id": 2780463558, "level": 2}
+{"count": 42, "name": "CMS-2", "weight": 0.0, "id": 186585678, "level": 2}
+{"count": 28, "name": "CISQ", "weight": 0.0, "id": 2777184929, "level": 2}
+{"count": 10, "name": "Business Object Notation", "weight": 0.0, "id": 2777703648, "level": 2}
+{"count": 22, "name": "SAIV", "weight": 0.0, "id": 2778642204, "level": 2}
+{"count": 12, "name": "Product data record", "weight": 0.0, "id": 2777650806, "level": 2}
+{"count": 8, "name": "Delegation pattern", "weight": 0.0, "id": 2780558571, "level": 2}
+{"count": 3, "name": "Lazy systematic unit testing", "weight": 0.0, "id": 2777599780, "level": 2}
+{"count": 8, "name": "Portland Pattern Repository", "weight": 0.0, "id": 2780974106, "level": 2}
+{"count": 12, "name": "Fluent interface", "weight": 0.0, "id": 103694818, "level": 2}
+{"count": 12, "name": "Archetype pattern", "weight": 0.0, "id": 2778281262, "level": 2}
+{"count": 74, "name": "Edge case", "weight": 0.0, "id": 2781026369, "level": 2}
+{"count": 19, "name": "Meta-IV", "weight": 0.0, "id": 2777148081, "level": 2}
+{"count": 17, "name": "eXtreme Manufacturing", "weight": 0.0, "id": 2777587312, "level": 2}
+{"count": 8, "name": "Software blueprint", "weight": 0.0, "id": 2780469030, "level": 2}
+{"count": 138, "name": "Test double", "weight": 0.0, "id": 102877821, "level": 2}
+{"count": 8, "name": "SEQUAL framework", "weight": 0.0, "id": 2778220568, "level": 2}
+{"count": 8, "name": "Dual Vee Model", "weight": 0.0, "id": 162661800, "level": 2}
+{"count": 56, "name": "Customer representative", "weight": 0.0, "id": 2780250758, "level": 2}
+{"count": 5, "name": "Modular Approach to Software Construction Operation and Test", "weight": 0.0, "id": 105988844, "level": 2}
+{"count": 48, "name": "Specialty engineering", "weight": 0.0, "id": 2779779592, "level": 2}
+{"count": 1, "name": "Software defect indicator", "weight": 0.0, "id": 2779726460, "level": 2}
+{"count": 8, "name": "Forensic software engineering", "weight": 0.0, "id": 2779585848, "level": 2}
+{"count": 2, "name": "Complex Projects Contract", "weight": 0.0, "id": 2779079327, "level": 2}
+{"count": 4, "name": "Principle of good enough", "weight": 0.0, "id": 2780240771, "level": 2}
+{"count": 500, "name": "Modeling perspective", "weight": 0.0, "id": 73951748, "level": 2}
+{"count": 51, "name": "Point release", "weight": 0.0, "id": 2780318838, "level": 2}
+{"count": 3, "name": "IBM WebSphere ESB", "weight": 0.0, "id": 2776587508, "level": 2}
+{"count": 86, "name": "Joint Computer Conference", "weight": 0.0, "id": 2778544511, "level": 2}
+{"count": 7, "name": "Change advisory board", "weight": 0.0, "id": 2781280447, "level": 2}
+{"count": 73, "name": "Hotfix", "weight": 0.0, "id": 2779628513, "level": 2}
+{"count": 5, "name": "Don't repeat yourself", "weight": 0.0, "id": 23228864, "level": 2}
+{"count": 1, "name": "Software Peter principle", "weight": 0.0, "id": 2780366785, "level": 2}
+{"count": 62, "name": "Maintenance release", "weight": 0.0, "id": 2777664317, "level": 2}
+{"count": 12, "name": "MoSCoW method", "weight": 0.0, "id": 2780239624, "level": 2}
+{"count": 5, "name": "Cost estimation in software engineering", "weight": 0.0, "id": 2777213037, "level": 2}
+{"count": 6, "name": "Design-driven development", "weight": 0.0, "id": 2775940169, "level": 2}
+{"count": 3, "name": "Ninety-ninety rule", "weight": 0.0, "id": 60476711, "level": 2}
+{"count": 5, "name": "Table data gateway", "weight": 0.0, "id": 2780451889, "level": 2}
+{"count": 184, "name": "No Silver Bullet", "weight": 0.0, "id": 2779059197, "level": 2}
+{"count": 2, "name": "Decision-to-decision path", "weight": 0.0, "id": 2780418569, "level": 2}
+{"count": 53, "name": "Modified waterfall models", "weight": 0.0, "id": 140257627, "level": 2}
+{"count": 1, "name": "Deutsch limit", "weight": 0.0, "id": 2780603936, "level": 2}
+{"count": 3, "name": "Axiomatic product development lifecycle", "weight": 0.0, "id": 2776423567, "level": 2}
+{"count": 3, "name": "Scheduled-task pattern", "weight": 0.0, "id": 76800368, "level": 2}
+{"count": 6, "name": "Initialization-on-demand holder idiom", "weight": 0.0, "id": 18128452, "level": 2}
+{"count": 25, "name": "Feature complete", "weight": 0.0, "id": 2780900296, "level": 2}
+{"count": 2, "name": "Enterprise release management", "weight": 0.0, "id": 2778216236, "level": 2}
+{"count": 1, "name": "Trillium Model", "weight": 0.0, "id": 2776851069, "level": 2}
+{"count": 1, "name": "Shift left testing", "weight": 0.0, "id": 2775968616, "level": 2}
+{"count": 2, "name": "Internet-Speed Development", "weight": 0.0, "id": 2777953043, "level": 2}
+{"count": 1, "name": "Self-testing code", "weight": 0.0, "id": 2781230186, "level": 2}
+{"count": 546, "name": "You aren't gonna need it", "weight": 0.0, "id": 141070364, "level": 2}
+{"count": 1, "name": "Cap Gemini SDM", "weight": 0.0, "id": 170573803, "level": 2}
+{"count": 3, "name": "Chrysler Comprehensive Compensation System", "weight": 0.0, "id": 172298341, "level": 2}

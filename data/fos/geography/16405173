@@ -1,0 +1,11 @@
+{"count": 1889, "name": "Medium Earth orbit", "weight": 10.0, "id": 199301463, "level": 4}
+{"count": 1268, "name": "Synchronous orbit", "weight": 6.0, "id": 147843779, "level": 4}
+{"count": 1594, "name": "Ground track", "weight": 8.0, "id": 189069379, "level": 4}
+{"count": 813, "name": "Sun-synchronous orbit", "weight": 4.0, "id": 112819843, "level": 4}
+{"count": 827, "name": "Geostationary transfer orbit", "weight": 4.0, "id": 58630717, "level": 4}
+{"count": 272, "name": "Geostationary Ocean Color Imager", "weight": 1.0, "id": 2779954422, "level": 4}
+{"count": 60, "name": "Molniya orbit", "weight": 0.0, "id": 2778689363, "level": 4}
+{"count": 1264, "name": "Graveyard orbit", "weight": 6.0, "id": 65999568, "level": 4}
+{"count": 395, "name": "Inclined orbit", "weight": 2.0, "id": 134564556, "level": 4}
+{"count": 33, "name": "Liquid apogee engine", "weight": 0.0, "id": 2781338735, "level": 4}
+{"count": 123, "name": "Gravity-gradient stabilization", "weight": 0.0, "id": 135872189, "level": 4}

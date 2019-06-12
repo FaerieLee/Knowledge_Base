@@ -1,0 +1,68 @@
+{"count": 24184, "name": "Tritium", "weight": 3.0, "id": 62538594, "level": 2}
+{"count": 76138, "name": "Uranium", "weight": 10.0, "id": 555451288, "level": 2}
+{"count": 13436, "name": "Scintillation counter", "weight": 1.0, "id": 47663296, "level": 2}
+{"count": 21444, "name": "Alpha particle", "weight": 2.0, "id": 66385817, "level": 2}
+{"count": 17216, "name": "Nuclear fission product", "weight": 2.0, "id": 113411277, "level": 2}
+{"count": 14745, "name": "Actinide", "weight": 1.0, "id": 135788738, "level": 2}
+{"count": 37491, "name": "Radionuclide", "weight": 4.0, "id": 158973077, "level": 2}
+{"count": 25244, "name": "Plutonium", "weight": 3.0, "id": 540271850, "level": 2}
+{"count": 12608, "name": "Neutron activation analysis", "weight": 1.0, "id": 4666530, "level": 2}
+{"count": 15960, "name": "Fission products", "weight": 2.0, "id": 103522932, "level": 2}
+{"count": 22867, "name": "Radon", "weight": 3.0, "id": 545943180, "level": 2}
+{"count": 3289, "name": "Carbon-14", "weight": 0.0, "id": 196284684, "level": 2}
+{"count": 7767, "name": "Liquid scintillation counting", "weight": 1.0, "id": 194097036, "level": 2}
+{"count": 5733, "name": "Technetium", "weight": 0.0, "id": 522557706, "level": 2}
+{"count": 5577, "name": "Heavy water", "weight": 0.0, "id": 2776294576, "level": 2}
+{"count": 1226, "name": "Technetium-99", "weight": 0.0, "id": 2780723685, "level": 2}
+{"count": 14637, "name": "Thermoluminescence", "weight": 1.0, "id": 102073756, "level": 2}
+{"count": 10429, "name": "Beta particle", "weight": 1.0, "id": 163688568, "level": 2}
+{"count": 8411, "name": "Uranium dioxide", "weight": 1.0, "id": 2778472420, "level": 2}
+{"count": 663, "name": "Astatine", "weight": 0.0, "id": 531082785, "level": 2}
+{"count": 1476, "name": "Isotopes of cobalt", "weight": 0.0, "id": 82387480, "level": 2}
+{"count": 9159, "name": "Radioactive decay", "weight": 1.0, "id": 20381300, "level": 2}
+{"count": 14504, "name": "Radium", "weight": 1.0, "id": 550196577, "level": 2}
+{"count": 9690, "name": "Burnup", "weight": 1.0, "id": 2778260006, "level": 2}
+{"count": 3061, "name": "Strontium-90", "weight": 0.0, "id": 108119643, "level": 2}
+{"count": 2433, "name": "Nuclear reaction analysis", "weight": 0.0, "id": 2780839960, "level": 2}
+{"count": 5039, "name": "Alpha decay", "weight": 0.0, "id": 141752856, "level": 2}
+{"count": 2582, "name": "Polonium", "weight": 0.0, "id": 499713411, "level": 2}
+{"count": 1215, "name": "Isotopes of caesium", "weight": 0.0, "id": 160416210, "level": 2}
+{"count": 667, "name": "Chlorine-36", "weight": 0.0, "id": 33942473, "level": 2}
+{"count": 1211, "name": "Whole body counting", "weight": 0.0, "id": 61135363, "level": 2}
+{"count": 856, "name": "Krypton-85", "weight": 0.0, "id": 59366349, "level": 2}
+{"count": 994, "name": "Actinium", "weight": 0.0, "id": 556978478, "level": 2}
+{"count": 13232, "name": "Nuclide", "weight": 1.0, "id": 177571023, "level": 2}
+{"count": 835, "name": "Isotopes of molybdenum", "weight": 0.0, "id": 94245067, "level": 2}
+{"count": 666, "name": "Promethium", "weight": 0.0, "id": 541321278, "level": 2}
+{"count": 496, "name": "Isotopes of promethium", "weight": 0.0, "id": 160666168, "level": 2}
+{"count": 6473, "name": "MOX fuel", "weight": 0.0, "id": 8138999, "level": 2}
+{"count": 20033, "name": "Radiological weapon", "weight": 2.0, "id": 190892606, "level": 2}
+{"count": 1209, "name": "Environmental radioactivity", "weight": 0.0, "id": 53362150, "level": 2}
+{"count": 1690, "name": "Radioactive tracer", "weight": 0.0, "id": 2779415379, "level": 2}
+{"count": 1584, "name": "Decay chain", "weight": 0.0, "id": 35826630, "level": 2}
+{"count": 1475, "name": "Pack-year", "weight": 0.0, "id": 98265973, "level": 2}
+{"count": 194, "name": "Gamma counter", "weight": 0.0, "id": 2776003864, "level": 2}
+{"count": 57, "name": "Transient equilibrium", "weight": 0.0, "id": 104756644, "level": 2}
+{"count": 49, "name": "Flerovium", "weight": 0.0, "id": 509369119, "level": 2}
+{"count": 81, "name": "Well counter", "weight": 0.0, "id": 2781340377, "level": 2}
+{"count": 23, "name": "Bone seeker", "weight": 0.0, "id": 2780210863, "level": 2}
+{"count": 66, "name": "Aqueous homogeneous reactor", "weight": 0.0, "id": 2779339094, "level": 2}
+{"count": 52, "name": "Alpha\u2013beta transformation", "weight": 0.0, "id": 2777788397, "level": 2}
+{"count": 38, "name": "Tellurium hexafluoride", "weight": 0.0, "id": 2776442926, "level": 2}
+{"count": 18, "name": "Stomatitis nicotina", "weight": 0.0, "id": 2781188515, "level": 2}
+{"count": 4, "name": "Ameghinite", "weight": 0.0, "id": 2778598721, "level": 2}
+{"count": 25, "name": "Selenium hexafluoride", "weight": 0.0, "id": 2780074774, "level": 2}
+{"count": 11, "name": "Isotopes of hafnium", "weight": 0.0, "id": 2781293887, "level": 2}
+{"count": 7, "name": "Thioselenide", "weight": 0.0, "id": 2780029454, "level": 2}
+{"count": 66, "name": "Pirex", "weight": 0.0, "id": 2780337590, "level": 2}
+{"count": 10, "name": "Isotopes of thallium", "weight": 0.0, "id": 2776516396, "level": 2}
+{"count": 12, "name": "Isotopes of lanthanum", "weight": 0.0, "id": 2781160894, "level": 2}
+{"count": 16, "name": "Major actinide", "weight": 0.0, "id": 2779528017, "level": 2}
+{"count": 1, "name": "Acetylpyruvate hydrolase", "weight": 0.0, "id": 2778564941, "level": 2}
+{"count": 6, "name": "Isotopes of terbium", "weight": 0.0, "id": 2779959656, "level": 2}
+{"count": 11, "name": "Isotopes of ruthenium", "weight": 0.0, "id": 2781148127, "level": 2}
+{"count": 6, "name": "Isotopes of manganese", "weight": 0.0, "id": 77086669, "level": 2}
+{"count": 2, "name": "Isotopes of roentgenium", "weight": 0.0, "id": 2778085360, "level": 2}
+{"count": 1, "name": "Isotopes of darmstadtium", "weight": 0.0, "id": 2779365386, "level": 2}
+{"count": 8, "name": "Polonium dioxide", "weight": 0.0, "id": 2780556683, "level": 2}
+{"count": 1, "name": "Isotopes of copernicium", "weight": 0.0, "id": 2777140065, "level": 2}

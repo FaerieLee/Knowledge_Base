@@ -1,0 +1,41 @@
+{"count": 4927, "name": "Ecotoxicology", "weight": 2.0, "id": 115346097, "level": 3}
+{"count": 21494, "name": "Acute toxicity", "weight": 10.0, "id": 116263406, "level": 3}
+{"count": 3729, "name": "Toxicokinetics", "weight": 1.0, "id": 195289149, "level": 3}
+{"count": 6000, "name": "Daphnia magna", "weight": 2.0, "id": 2780158794, "level": 3}
+{"count": 6451, "name": "Chronic toxicity", "weight": 3.0, "id": 53164099, "level": 3}
+{"count": 6482, "name": "Median lethal dose", "weight": 3.0, "id": 167552308, "level": 3}
+{"count": 4617, "name": "Developmental toxicity", "weight": 2.0, "id": 179335377, "level": 3}
+{"count": 3258, "name": "Reproductive toxicity", "weight": 1.0, "id": 99432707, "level": 3}
+{"count": 3929, "name": "Ecotoxicity", "weight": 1.0, "id": 46797941, "level": 3}
+{"count": 1181, "name": "No-observed-adverse-effect level", "weight": 0.0, "id": 2777495288, "level": 3}
+{"count": 3260, "name": "Aquatic toxicology", "weight": 1.0, "id": 8381438, "level": 3}
+{"count": 1876, "name": "Toxicogenomics", "weight": 0.0, "id": 93231420, "level": 3}
+{"count": 2622, "name": "Metal toxicity", "weight": 1.0, "id": 2778302132, "level": 3}
+{"count": 1108, "name": "Ceriodaphnia dubia", "weight": 0.0, "id": 2776185860, "level": 3}
+{"count": 964, "name": "Hyalella azteca", "weight": 0.0, "id": 2776153352, "level": 3}
+{"count": 661, "name": "Biotic Ligand Model", "weight": 0.0, "id": 2776768124, "level": 3}
+{"count": 806, "name": "Photobacterium phosphoreum", "weight": 0.0, "id": 2779925203, "level": 3}
+{"count": 4346, "name": "Toxicant", "weight": 2.0, "id": 2780473477, "level": 3}
+{"count": 209, "name": "Food Quality Protection Act", "weight": 0.0, "id": 2780931993, "level": 3}
+{"count": 420, "name": "Luminescent bacteria", "weight": 0.0, "id": 84737542, "level": 3}
+{"count": 253, "name": "Chromium toxicity", "weight": 0.0, "id": 2781253804, "level": 3}
+{"count": 390, "name": "Bioluminescent bacteria", "weight": 0.0, "id": 47507649, "level": 3}
+{"count": 751, "name": "Selenastrum", "weight": 0.0, "id": 2776046275, "level": 3}
+{"count": 257, "name": "Alternatives to animal testing", "weight": 0.0, "id": 531599955, "level": 3}
+{"count": 213, "name": "Predicted no-effect concentration", "weight": 0.0, "id": 2778748750, "level": 3}
+{"count": 100, "name": "Americamysis bahia", "weight": 0.0, "id": 2779424134, "level": 3}
+{"count": 479, "name": "Toxicology testing", "weight": 0.0, "id": 205756488, "level": 3}
+{"count": 32, "name": "Allorchestes compressa", "weight": 0.0, "id": 2778847964, "level": 3}
+{"count": 97, "name": "Microtox bioassay", "weight": 0.0, "id": 2779471090, "level": 3}
+{"count": 86, "name": "High production volume chemicals", "weight": 0.0, "id": 2776195415, "level": 3}
+{"count": 171, "name": "Oil toxicity", "weight": 0.0, "id": 2779705175, "level": 3}
+{"count": 71, "name": "Toxicophore", "weight": 0.0, "id": 2778081189, "level": 3}
+{"count": 17, "name": "Takifugu vermicularis", "weight": 0.0, "id": 2778729368, "level": 3}
+{"count": 186, "name": "Evidence-based toxicology", "weight": 0.0, "id": 133074821, "level": 3}
+{"count": 318, "name": "Mysidopsis", "weight": 0.0, "id": 2776775758, "level": 3}
+{"count": 38, "name": "2,3,7,8-Tetrachlorodibenzodioxin", "weight": 0.0, "id": 2777126302, "level": 3}
+{"count": 107, "name": "Modes of toxic action", "weight": 0.0, "id": 2775865149, "level": 3}
+{"count": 30, "name": "Incapacitating agent", "weight": 0.0, "id": 2779168553, "level": 3}
+{"count": 89, "name": "Toxicity class", "weight": 0.0, "id": 2776077533, "level": 3}
+{"count": 33, "name": "Otto fuel II", "weight": 0.0, "id": 2778061765, "level": 3}
+{"count": 57, "name": "Registry of Toxic Effects of Chemical Substances", "weight": 0.0, "id": 2779631480, "level": 3}

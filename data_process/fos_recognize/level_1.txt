@@ -1,0 +1,372 @@
+{"count": 1383384, "name": "Humanities", "weight": 10.0, "id": 15708023, "level": 1}
+{"count": 414968, "name": "Epistemology", "weight": 2.0, "id": 111472728, "level": 1}
+{"count": 936011, "name": "Linguistics", "weight": 6.0, "id": 41895202, "level": 1}
+{"count": 686432, "name": "Theology", "weight": 4.0, "id": 27206212, "level": 1}
+{"count": 160462, "name": "Aesthetics", "weight": 1.0, "id": 107038049, "level": 1}
+{"count": 1038353, "name": "Religious studies", "weight": 7.0, "id": 24667770, "level": 1}
+{"count": 381046, "name": "Environmental ethics", "weight": 2.0, "id": 95124753, "level": 1}
+{"count": 1859541, "name": "Law", "weight": 10.0, "id": 199539241, "level": 1}
+{"count": 1296946, "name": "Public administration", "weight": 6.0, "id": 3116431, "level": 1}
+{"count": 1276997, "name": "Public relations", "weight": 6.0, "id": 39549134, "level": 1}
+{"count": 1885765, "name": "Genetics", "weight": 3.0, "id": 54355233, "level": 1}
+{"count": 458463, "name": "Bioinformatics", "weight": 0.0, "id": 60644358, "level": 1}
+{"count": 3701048, "name": "Molecular biology", "weight": 6.0, "id": 153911025, "level": 1}
+{"count": 1885652, "name": "Ecology", "weight": 3.0, "id": 18903297, "level": 1}
+{"count": 315947, "name": "Biotechnology", "weight": 0.0, "id": 150903083, "level": 1}
+{"count": 167408, "name": "Physiology", "weight": 0.0, "id": 42407357, "level": 1}
+{"count": 5344899, "name": "Biochemistry", "weight": 10.0, "id": 55493867, "level": 1}
+{"count": 432007, "name": "Neuroscience", "weight": 0.0, "id": 169760540, "level": 1}
+{"count": 1118278, "name": "Microbiology", "weight": 2.0, "id": 89423630, "level": 1}
+{"count": 3089817, "name": "Immunology", "weight": 5.0, "id": 203014093, "level": 1}
+{"count": 616863, "name": "Pharmacology", "weight": 1.0, "id": 98274493, "level": 1}
+{"count": 88662, "name": "Computational biology", "weight": 0.0, "id": 70721500, "level": 1}
+{"count": 94659, "name": "Evolutionary biology", "weight": 0.0, "id": 78458016, "level": 1}
+{"count": 241940, "name": "Toxicology", "weight": 0.0, "id": 33070731, "level": 1}
+{"count": 840984, "name": "Cell biology", "weight": 1.0, "id": 95444343, "level": 1}
+{"count": 2163201, "name": "Anatomy", "weight": 4.0, "id": 105702510, "level": 1}
+{"count": 4019110, "name": "Endocrinology", "weight": 7.0, "id": 134018914, "level": 1}
+{"count": 76190, "name": "Biophysics", "weight": 0.0, "id": 12554922, "level": 1}
+{"count": 2083834, "name": "Virology", "weight": 3.0, "id": 159047783, "level": 1}
+{"count": 3042619, "name": "Botany", "weight": 5.0, "id": 59822182, "level": 1}
+{"count": 832272, "name": "Fishery", "weight": 1.0, "id": 505870484, "level": 1}
+{"count": 425760, "name": "Paleontology", "weight": 0.0, "id": 151730666, "level": 1}
+{"count": 1287658, "name": "Cancer research", "weight": 2.0, "id": 502942594, "level": 1}
+{"count": 473015, "name": "Zoology", "weight": 0.0, "id": 90856448, "level": 1}
+{"count": 1427924, "name": "Agronomy", "weight": 2.0, "id": 6557445, "level": 1}
+{"count": 992952, "name": "Horticulture", "weight": 1.0, "id": 144027150, "level": 1}
+{"count": 120919, "name": "Agricultural science", "weight": 0.0, "id": 37621935, "level": 1}
+{"count": 713264, "name": "Agroforestry", "weight": 1.0, "id": 54286561, "level": 1}
+{"count": 202731, "name": "Animal science", "weight": 0.0, "id": 140793950, "level": 1}
+{"count": 567910, "name": "Food science", "weight": 1.0, "id": 31903555, "level": 1}
+{"count": 53737, "name": "Biological system", "weight": 0.0, "id": 186060115, "level": 1}
+{"count": 138626, "name": "Astrobiology", "weight": 0.0, "id": 87355193, "level": 1}
+{"count": 1336161, "name": "Economic growth", "weight": 10.0, "id": 50522688, "level": 1}
+{"count": 291118, "name": "International trade", "weight": 2.0, "id": 155202549, "level": 1}
+{"count": 838133, "name": "Finance", "weight": 6.0, "id": 10138342, "level": 1}
+{"count": 361152, "name": "Economic policy", "weight": 2.0, "id": 105639569, "level": 1}
+{"count": 817106, "name": "Political economy", "weight": 6.0, "id": 138921699, "level": 1}
+{"count": 980154, "name": "Environmental resource management", "weight": 7.0, "id": 107826830, "level": 1}
+{"count": 547176, "name": "Econometrics", "weight": 4.0, "id": 149782125, "level": 1}
+{"count": 608358, "name": "Economy", "weight": 4.0, "id": 136264566, "level": 1}
+{"count": 257200, "name": "Financial economics", "weight": 1.0, "id": 106159729, "level": 1}
+{"count": 289560, "name": "Accounting", "weight": 2.0, "id": 121955636, "level": 1}
+{"count": 144593, "name": "Financial system", "weight": 1.0, "id": 73283319, "level": 1}
+{"count": 130430, "name": "Industrial organization", "weight": 0.0, "id": 40700, "level": 1}
+{"count": 90302, "name": "Market economy", "weight": 0.0, "id": 34447519, "level": 1}
+{"count": 160834, "name": "Macroeconomics", "weight": 1.0, "id": 139719470, "level": 1}
+{"count": 1206074, "name": "Development economics", "weight": 9.0, "id": 47768531, "level": 1}
+{"count": 662615, "name": "Socioeconomics", "weight": 4.0, "id": 45355965, "level": 1}
+{"count": 121725, "name": "Economic history", "weight": 0.0, "id": 6303427, "level": 1}
+{"count": 337933, "name": "Economic system", "weight": 2.0, "id": 74363100, "level": 1}
+{"count": 127736, "name": "International economics", "weight": 0.0, "id": 18547055, "level": 1}
+{"count": 139229, "name": "Environmental economics", "weight": 1.0, "id": 134560507, "level": 1}
+{"count": 200505, "name": "Agricultural economics", "weight": 1.0, "id": 48824518, "level": 1}
+{"count": 939926, "name": "Operations management", "weight": 7.0, "id": 21547014, "level": 1}
+{"count": 342622, "name": "Law and economics", "weight": 2.0, "id": 190253527, "level": 1}
+{"count": 386182, "name": "Labour economics", "weight": 2.0, "id": 145236788, "level": 1}
+{"count": 425310, "name": "Microeconomics", "weight": 3.0, "id": 175444787, "level": 1}
+{"count": 59963, "name": "Economic geography", "weight": 0.0, "id": 26271046, "level": 1}
+{"count": 113503, "name": "Welfare economics", "weight": 0.0, "id": 549774020, "level": 1}
+{"count": 140975, "name": "Public economics", "weight": 1.0, "id": 100001284, "level": 1}
+{"count": 28416, "name": "Neoclassical economics", "weight": 0.0, "id": 133425853, "level": 1}
+{"count": 46525, "name": "Monetary economics", "weight": 0.0, "id": 556758197, "level": 1}
+{"count": 68200, "name": "Natural resource economics", "weight": 0.0, "id": 175605778, "level": 1}
+{"count": 29042, "name": "Keynesian economics", "weight": 0.0, "id": 165556158, "level": 1}
+{"count": 17935, "name": "Classical economics", "weight": 0.0, "id": 167562979, "level": 1}
+{"count": 127821, "name": "Demographic economics", "weight": 0.0, "id": 4249254, "level": 1}
+{"count": 369668, "name": "Actuarial science", "weight": 2.0, "id": 162118730, "level": 1}
+{"count": 75114, "name": "Mathematical economics", "weight": 0.0, "id": 144237770, "level": 1}
+{"count": 29927, "name": "Positive economics", "weight": 0.0, "id": 118084267, "level": 1}
+{"count": 941150, "name": "Management", "weight": 7.0, "id": 187736073, "level": 1}
+{"count": 342489, "name": "Commerce", "weight": 2.0, "id": 54750564, "level": 1}
+{"count": 715673, "name": "Management science", "weight": 5.0, "id": 539667460, "level": 1}
+{"count": 1051442, "name": "Marketing", "weight": 10.0, "id": 162853370, "level": 1}
+{"count": 291118, "name": "International trade", "weight": 2.0, "id": 155202549, "level": 1}
+{"count": 838133, "name": "Finance", "weight": 7.0, "id": 10138342, "level": 1}
+{"count": 361152, "name": "Economic policy", "weight": 3.0, "id": 105639569, "level": 1}
+{"count": 289560, "name": "Accounting", "weight": 2.0, "id": 121955636, "level": 1}
+{"count": 896037, "name": "Advertising", "weight": 8.0, "id": 112698675, "level": 1}
+{"count": 77919, "name": "Business administration", "weight": 0.0, "id": 178550888, "level": 1}
+{"count": 144593, "name": "Financial system", "weight": 1.0, "id": 73283319, "level": 1}
+{"count": 130430, "name": "Industrial organization", "weight": 1.0, "id": 40700, "level": 1}
+{"count": 195378, "name": "Process management", "weight": 1.0, "id": 195094911, "level": 1}
+{"count": 369668, "name": "Actuarial science", "weight": 3.0, "id": 162118730, "level": 1}
+{"count": 82861, "name": "Risk analysis (engineering)", "weight": 0.0, "id": 112930515, "level": 1}
+{"count": 342489, "name": "Commerce", "weight": 3.0, "id": 54750564, "level": 1}
+{"count": 846021, "name": "Quantum mechanics", "weight": 2.0, "id": 62520636, "level": 1}
+{"count": 474308, "name": "Thermodynamics", "weight": 1.0, "id": 97355855, "level": 1}
+{"count": 2139946, "name": "Nuclear magnetic resonance", "weight": 6.0, "id": 46141821, "level": 1}
+{"count": 706803, "name": "Astrophysics", "weight": 2.0, "id": 44870925, "level": 1}
+{"count": 618016, "name": "Geophysics", "weight": 1.0, "id": 8058405, "level": 1}
+{"count": 908501, "name": "Astronomy", "weight": 2.0, "id": 1276947, "level": 1}
+{"count": 531160, "name": "Particle physics", "weight": 1.0, "id": 109214941, "level": 1}
+{"count": 49010, "name": "Mechanics", "weight": 0.0, "id": 57879066, "level": 1}
+{"count": 3342415, "name": "Optics", "weight": 10.0, "id": 120665830, "level": 1}
+{"count": 537877, "name": "Quantum electrodynamics", "weight": 1.0, "id": 3079626, "level": 1}
+{"count": 485784, "name": "Meteorology", "weight": 1.0, "id": 153294291, "level": 1}
+{"count": 423901, "name": "Acoustics", "weight": 1.0, "id": 24890656, "level": 1}
+{"count": 1247872, "name": "Condensed matter physics", "weight": 3.0, "id": 26873012, "level": 1}
+{"count": 872892, "name": "Optoelectronics", "weight": 2.0, "id": 49040817, "level": 1}
+{"count": 140836, "name": "Statistical physics", "weight": 0.0, "id": 121864883, "level": 1}
+{"count": 145481, "name": "Mathematical physics", "weight": 0.0, "id": 37914503, "level": 1}
+{"count": 1143978, "name": "Classical mechanics", "weight": 3.0, "id": 74650414, "level": 1}
+{"count": 570054, "name": "Atmospheric sciences", "weight": 1.0, "id": 91586092, "level": 1}
+{"count": 270608, "name": "Nuclear physics", "weight": 0.0, "id": 185544564, "level": 1}
+{"count": 1329521, "name": "Atomic physics", "weight": 3.0, "id": 184779094, "level": 1}
+{"count": 219820, "name": "Molecular physics", "weight": 0.0, "id": 41999313, "level": 1}
+{"count": 240349, "name": "Computational physics", "weight": 0.0, "id": 30475298, "level": 1}
+{"count": 87600, "name": "Chemical physics", "weight": 0.0, "id": 159467904, "level": 1}
+{"count": 220104, "name": "Medical physics", "weight": 0.0, "id": 19527891, "level": 1}
+{"count": 93868, "name": "Theoretical physics", "weight": 0.0, "id": 33332235, "level": 1}
+{"count": 138626, "name": "Astrobiology", "weight": 0.0, "id": 87355193, "level": 1}
+{"count": 359879, "name": "Engineering physics", "weight": 1.0, "id": 61696701, "level": 1}
+{"count": 117477, "name": "Chemical engineering", "weight": 0.0, "id": 42360764, "level": 1}
+{"count": 269974, "name": "Biomedical engineering", "weight": 0.0, "id": 136229726, "level": 1}
+{"count": 330255, "name": "Operations research", "weight": 0.0, "id": 42475967, "level": 1}
+{"count": 211271, "name": "Software engineering", "weight": 0.0, "id": 115903868, "level": 1}
+{"count": 736803, "name": "Telecommunications", "weight": 1.0, "id": 76155785, "level": 1}
+{"count": 1890675, "name": "Waste management", "weight": 2.0, "id": 548081761, "level": 1}
+{"count": 1056615, "name": "Embedded system", "weight": 1.0, "id": 149635348, "level": 1}
+{"count": 2357426, "name": "Control theory", "weight": 3.0, "id": 65244806, "level": 1}
+{"count": 500594, "name": "Mechanical engineering", "weight": 0.0, "id": 78519656, "level": 1}
+{"count": 674658, "name": "Systems engineering", "weight": 1.0, "id": 201995342, "level": 1}
+{"count": 718894, "name": "Electrical engineering", "weight": 1.0, "id": 119599485, "level": 1}
+{"count": 481392, "name": "Civil engineering", "weight": 0.0, "id": 147176958, "level": 1}
+{"count": 2880577, "name": "Control engineering", "weight": 4.0, "id": 133731056, "level": 1}
+{"count": 236403, "name": "Aerospace engineering", "weight": 0.0, "id": 146978453, "level": 1}
+{"count": 1185916, "name": "Geotechnical engineering", "weight": 1.0, "id": 187320778, "level": 1}
+{"count": 1205973, "name": "Structural engineering", "weight": 1.0, "id": 66938386, "level": 1}
+{"count": 734275, "name": "Environmental engineering", "weight": 1.0, "id": 87717796, "level": 1}
+{"count": 1089215, "name": "Simulation", "weight": 1.0, "id": 44154836, "level": 1}
+{"count": 78470, "name": "Pulp and paper industry", "weight": 0.0, "id": 528095902, "level": 1}
+{"count": 939926, "name": "Operations management", "weight": 1.0, "id": 21547014, "level": 1}
+{"count": 316466, "name": "Reliability engineering", "weight": 0.0, "id": 200601418, "level": 1}
+{"count": 1490855, "name": "Automotive engineering", "weight": 2.0, "id": 171146098, "level": 1}
+{"count": 42042, "name": "Industrial engineering", "weight": 0.0, "id": 13736549, "level": 1}
+{"count": 242723, "name": "Computer engineering", "weight": 0.0, "id": 113775141, "level": 1}
+{"count": 183854, "name": "Aeronautics", "weight": 0.0, "id": 178802073, "level": 1}
+{"count": 551883, "name": "Engineering management", "weight": 0.0, "id": 110354214, "level": 1}
+{"count": 195378, "name": "Process management", "weight": 0.0, "id": 195094911, "level": 1}
+{"count": 340879, "name": "Marine engineering", "weight": 0.0, "id": 199104240, "level": 1}
+{"count": 67767, "name": "Process engineering", "weight": 0.0, "id": 21880701, "level": 1}
+{"count": 39413, "name": "Agricultural engineering", "weight": 0.0, "id": 88463610, "level": 1}
+{"count": 2070351, "name": "Engineering drawing", "weight": 3.0, "id": 199639397, "level": 1}
+{"count": 122413, "name": "Nuclear engineering", "weight": 0.0, "id": 116915560, "level": 1}
+{"count": 6661313, "name": "Electronic engineering", "weight": 10.0, "id": 24326235, "level": 1}
+{"count": 376805, "name": "Transport engineering", "weight": 0.0, "id": 22212356, "level": 1}
+{"count": 265112, "name": "Architectural engineering", "weight": 0.0, "id": 170154142, "level": 1}
+{"count": 203916, "name": "Mining engineering", "weight": 0.0, "id": 16674752, "level": 1}
+{"count": 359879, "name": "Engineering physics", "weight": 0.0, "id": 61696701, "level": 1}
+{"count": 90209, "name": "Construction engineering", "weight": 0.0, "id": 107053488, "level": 1}
+{"count": 401669, "name": "Petroleum engineering", "weight": 0.0, "id": 78762247, "level": 1}
+{"count": 117109, "name": "Engineering ethics", "weight": 0.0, "id": 55587333, "level": 1}
+{"count": 428945, "name": "Manufacturing engineering", "weight": 0.0, "id": 117671659, "level": 1}
+{"count": 461300, "name": "Forensic engineering", "weight": 0.0, "id": 77595967, "level": 1}
+{"count": 47808, "name": "Biochemical engineering", "weight": 0.0, "id": 183696295, "level": 1}
+{"count": 715673, "name": "Management science", "weight": 1.0, "id": 539667460, "level": 1}
+{"count": 432007, "name": "Neuroscience", "weight": 1.0, "id": 169760540, "level": 1}
+{"count": 1975494, "name": "Social psychology", "weight": 7.0, "id": 77805123, "level": 1}
+{"count": 1466009, "name": "Psychiatry", "weight": 5.0, "id": 118552586, "level": 1}
+{"count": 440328, "name": "Psychotherapist", "weight": 1.0, "id": 542102704, "level": 1}
+{"count": 566911, "name": "Mathematics education", "weight": 2.0, "id": 145420912, "level": 1}
+{"count": 558159, "name": "Cognitive psychology", "weight": 2.0, "id": 180747234, "level": 1}
+{"count": 971252, "name": "Developmental psychology", "weight": 3.0, "id": 138496976, "level": 1}
+{"count": 2689109, "name": "Pedagogy", "weight": 10.0, "id": 19417346, "level": 1}
+{"count": 124240, "name": "Cognitive science", "weight": 0.0, "id": 188147891, "level": 1}
+{"count": 458977, "name": "Psychoanalysis", "weight": 1.0, "id": 11171543, "level": 1}
+{"count": 968487, "name": "Clinical psychology", "weight": 3.0, "id": 70410870, "level": 1}
+{"count": 197386, "name": "Criminology", "weight": 0.0, "id": 73484699, "level": 1}
+{"count": 807671, "name": "Applied psychology", "weight": 3.0, "id": 75630572, "level": 1}
+{"count": 330755, "name": "Communication", "weight": 1.0, "id": 46312422, "level": 1}
+{"count": 767304, "name": "Archaeology", "weight": 4.0, "id": 166957645, "level": 1}
+{"count": 121725, "name": "Economic history", "weight": 0.0, "id": 6303427, "level": 1}
+{"count": 696110, "name": "Ethnology", "weight": 4.0, "id": 2549261, "level": 1}
+{"count": 1670165, "name": "Art history", "weight": 10.0, "id": 52119013, "level": 1}
+{"count": 254998, "name": "Genealogy", "weight": 1.0, "id": 53553401, "level": 1}
+{"count": 549983, "name": "Classics", "weight": 3.0, "id": 74916050, "level": 1}
+{"count": 595473, "name": "Ancient history", "weight": 3.0, "id": 195244886, "level": 1}
+{"count": 489813, "name": "Environmental protection", "weight": 4.0, "id": 526734887, "level": 1}
+{"count": 244997, "name": "Soil science", "weight": 2.0, "id": 159390177, "level": 1}
+{"count": 980154, "name": "Environmental resource management", "weight": 10.0, "id": 107826830, "level": 1}
+{"count": 208020, "name": "Water resource management", "weight": 2.0, "id": 524765639, "level": 1}
+{"count": 120919, "name": "Agricultural science", "weight": 1.0, "id": 37621935, "level": 1}
+{"count": 734275, "name": "Environmental engineering", "weight": 7.0, "id": 87717796, "level": 1}
+{"count": 713264, "name": "Agroforestry", "weight": 7.0, "id": 54286561, "level": 1}
+{"count": 416726, "name": "Environmental planning", "weight": 4.0, "id": 91375879, "level": 1}
+{"count": 4546041, "name": "Surgery", "weight": 6.0, "id": 141071460, "level": 1}
+{"count": 3681852, "name": "Pathology", "weight": 5.0, "id": 142724271, "level": 1}
+{"count": 167408, "name": "Physiology", "weight": 0.0, "id": 42407357, "level": 1}
+{"count": 3089817, "name": "Immunology", "weight": 4.0, "id": 203014093, "level": 1}
+{"count": 616863, "name": "Pharmacology", "weight": 0.0, "id": 98274493, "level": 1}
+{"count": 371896, "name": "Veterinary medicine", "weight": 0.0, "id": 42972112, "level": 1}
+{"count": 775565, "name": "Pediatrics", "weight": 1.0, "id": 187212893, "level": 1}
+{"count": 2482775, "name": "Cardiology", "weight": 3.0, "id": 164705383, "level": 1}
+{"count": 156262, "name": "Oncology", "weight": 0.0, "id": 143998085, "level": 1}
+{"count": 269974, "name": "Biomedical engineering", "weight": 0.0, "id": 136229726, "level": 1}
+{"count": 2163201, "name": "Anatomy", "weight": 3.0, "id": 105702510, "level": 1}
+{"count": 1469990, "name": "Nursing", "weight": 2.0, "id": 159110408, "level": 1}
+{"count": 2089084, "name": "Anesthesia", "weight": 2.0, "id": 42219234, "level": 1}
+{"count": 4019110, "name": "Endocrinology", "weight": 5.0, "id": 134018914, "level": 1}
+{"count": 1282308, "name": "Radiology", "weight": 1.0, "id": 126838900, "level": 1}
+{"count": 6997187, "name": "Internal medicine", "weight": 10.0, "id": 126322002, "level": 1}
+{"count": 177524, "name": "Nuclear medicine", "weight": 0.0, "id": 2989005, "level": 1}
+{"count": 551378, "name": "Urology", "weight": 0.0, "id": 126894567, "level": 1}
+{"count": 2083834, "name": "Virology", "weight": 2.0, "id": 159047783, "level": 1}
+{"count": 1466009, "name": "Psychiatry", "weight": 2.0, "id": 118552586, "level": 1}
+{"count": 614680, "name": "Obstetrics", "weight": 0.0, "id": 131872663, "level": 1}
+{"count": 455986, "name": "Gynecology", "weight": 0.0, "id": 29456083, "level": 1}
+{"count": 272290, "name": "Ophthalmology", "weight": 0.0, "id": 118487528, "level": 1}
+{"count": 433265, "name": "Dermatology", "weight": 0.0, "id": 16005928, "level": 1}
+{"count": 161185, "name": "Gastroenterology", "weight": 0.0, "id": 90924648, "level": 1}
+{"count": 586075, "name": "Emergency medicine", "weight": 0.0, "id": 194828623, "level": 1}
+{"count": 1287658, "name": "Cancer research", "weight": 1.0, "id": 502942594, "level": 1}
+{"count": 296878, "name": "Medical education", "weight": 0.0, "id": 509550671, "level": 1}
+{"count": 435713, "name": "Environmental health", "weight": 0.0, "id": 99454951, "level": 1}
+{"count": 2746216, "name": "Physical therapy", "weight": 3.0, "id": 1862650, "level": 1}
+{"count": 465353, "name": "Dentistry", "weight": 0.0, "id": 199343813, "level": 1}
+{"count": 968487, "name": "Clinical psychology", "weight": 1.0, "id": 70410870, "level": 1}
+{"count": 255465, "name": "Traditional medicine", "weight": 0.0, "id": 556039675, "level": 1}
+{"count": 415117, "name": "Gerontology", "weight": 0.0, "id": 74909509, "level": 1}
+{"count": 54455, "name": "Andrology", "weight": 0.0, "id": 16685009, "level": 1}
+{"count": 1455398, "name": "Family medicine", "weight": 2.0, "id": 512399662, "level": 1}
+{"count": 489749, "name": "Alternative medicine", "weight": 0.0, "id": 204787440, "level": 1}
+{"count": 2031481, "name": "General surgery", "weight": 2.0, "id": 61434518, "level": 1}
+{"count": 241717, "name": "Orthodontics", "weight": 0.0, "id": 29694066, "level": 1}
+{"count": 177744, "name": "Optometry", "weight": 0.0, "id": 119767625, "level": 1}
+{"count": 220104, "name": "Medical physics", "weight": 0.0, "id": 19527891, "level": 1}
+{"count": 356393, "name": "Physical medicine and rehabilitation", "weight": 0.0, "id": 99508421, "level": 1}
+{"count": 1566144, "name": "Intensive care medicine", "weight": 2.0, "id": 177713679, "level": 1}
+{"count": 173508, "name": "Audiology", "weight": 0.0, "id": 548259974, "level": 1}
+{"count": 518215, "name": "Medical emergency", "weight": 0.0, "id": 545542383, "level": 1}
+{"count": 82861, "name": "Risk analysis (engineering)", "weight": 0.0, "id": 112930515, "level": 1}
+{"count": 9394062, "name": "Composite material", "weight": 10.0, "id": 159985019, "level": 1}
+{"count": 512085, "name": "Nanotechnology", "weight": 0.0, "id": 171250308, "level": 1}
+{"count": 52179, "name": "Ceramic materials", "weight": 0.0, "id": 510606860, "level": 1}
+{"count": 872892, "name": "Optoelectronics", "weight": 0.0, "id": 49040817, "level": 1}
+{"count": 671217, "name": "Polymer chemistry", "weight": 0.0, "id": 188027245, "level": 1}
+{"count": 2007996, "name": "Metallurgy", "weight": 2.0, "id": 191897082, "level": 1}
+{"count": 353197, "name": "Polymer science", "weight": 0.0, "id": 126348684, "level": 1}
+{"count": 554945, "name": "Algorithm", "weight": 1.0, "id": 11413529, "level": 1}
+{"count": 547452, "name": "Database", "weight": 1.0, "id": 77088390, "level": 1}
+{"count": 3967455, "name": "Artificial intelligence", "weight": 10.0, "id": 154945302, "level": 1}
+{"count": 826153, "name": "Distributed computing", "weight": 2.0, "id": 120314980, "level": 1}
+{"count": 847435, "name": "Pattern recognition", "weight": 2.0, "id": 178980831, "level": 1}
+{"count": 1857646, "name": "Computer vision", "weight": 4.0, "id": 31972630, "level": 1}
+{"count": 997520, "name": "Data mining", "weight": 2.0, "id": 124101348, "level": 1}
+{"count": 350991, "name": "Information retrieval", "weight": 0.0, "id": 23123220, "level": 1}
+{"count": 1422093, "name": "Real-time computing", "weight": 3.0, "id": 79403827, "level": 1}
+{"count": 1655946, "name": "Computer network", "weight": 4.0, "id": 31258907, "level": 1}
+{"count": 1069184, "name": "Machine learning", "weight": 2.0, "id": 119857082, "level": 1}
+{"count": 164508, "name": "Programming language", "weight": 0.0, "id": 199360897, "level": 1}
+{"count": 2998403, "name": "Computer hardware", "weight": 7.0, "id": 9390403, "level": 1}
+{"count": 115861, "name": "Computer architecture", "weight": 0.0, "id": 118524514, "level": 1}
+{"count": 211271, "name": "Software engineering", "weight": 0.0, "id": 115903868, "level": 1}
+{"count": 298852, "name": "Operating system", "weight": 0.0, "id": 111919701, "level": 1}
+{"count": 675839, "name": "World Wide Web", "weight": 1.0, "id": 136764020, "level": 1}
+{"count": 358753, "name": "Parallel computing", "weight": 0.0, "id": 173608175, "level": 1}
+{"count": 650385, "name": "Computer security", "weight": 1.0, "id": 38652104, "level": 1}
+{"count": 541268, "name": "Speech recognition", "weight": 1.0, "id": 28490314, "level": 1}
+{"count": 736803, "name": "Telecommunications", "weight": 1.0, "id": 76155785, "level": 1}
+{"count": 1056615, "name": "Embedded system", "weight": 2.0, "id": 149635348, "level": 1}
+{"count": 1087947, "name": "Knowledge management", "weight": 2.0, "id": 56739046, "level": 1}
+{"count": 306722, "name": "Human\u2013computer interaction", "weight": 0.0, "id": 107457646, "level": 1}
+{"count": 1085421, "name": "Multimedia", "weight": 2.0, "id": 49774154, "level": 1}
+{"count": 365069, "name": "Computer graphics (images)", "weight": 0.0, "id": 121684516, "level": 1}
+{"count": 424500, "name": "Natural language processing", "weight": 1.0, "id": 204321447, "level": 1}
+{"count": 92406, "name": "Computational science", "weight": 0.0, "id": 459310, "level": 1}
+{"count": 1046540, "name": "Library science", "weight": 2.0, "id": 161191863, "level": 1}
+{"count": 1089215, "name": "Simulation", "weight": 2.0, "id": 44154836, "level": 1}
+{"count": 242723, "name": "Computer engineering", "weight": 0.0, "id": 113775141, "level": 1}
+{"count": 679267, "name": "Theoretical computer science", "weight": 1.0, "id": 80444323, "level": 1}
+{"count": 361607, "name": "Data science", "weight": 0.0, "id": 2522767166, "level": 1}
+{"count": 308143, "name": "Internet privacy", "weight": 0.0, "id": 108827166, "level": 1}
+{"count": 5344899, "name": "Biochemistry", "weight": 9.0, "id": 55493867, "level": 1}
+{"count": 2960218, "name": "Chromatography", "weight": 5.0, "id": 43617362, "level": 1}
+{"count": 1634052, "name": "Photochemistry", "weight": 2.0, "id": 75473681, "level": 1}
+{"count": 2741072, "name": "Analytical chemistry", "weight": 4.0, "id": 115704247, "level": 1}
+{"count": 170729, "name": "Physical chemistry", "weight": 0.0, "id": 147789679, "level": 1}
+{"count": 5522701, "name": "Organic chemistry", "weight": 9.0, "id": 178790620, "level": 1}
+{"count": 713355, "name": "Mineralogy", "weight": 1.0, "id": 199289684, "level": 1}
+{"count": 582513, "name": "Crystallography", "weight": 1.0, "id": 8010536, "level": 1}
+{"count": 5540159, "name": "Inorganic chemistry", "weight": 10.0, "id": 179104552, "level": 1}
+{"count": 153235, "name": "Medicinal chemistry", "weight": 0.0, "id": 155647269, "level": 1}
+{"count": 544500, "name": "Computational chemistry", "weight": 0.0, "id": 147597530, "level": 1}
+{"count": 112627, "name": "Combinatorial chemistry", "weight": 0.0, "id": 21951064, "level": 1}
+{"count": 671217, "name": "Polymer chemistry", "weight": 1.0, "id": 188027245, "level": 1}
+{"count": 420253, "name": "Stereochemistry", "weight": 0.0, "id": 71240020, "level": 1}
+{"count": 567910, "name": "Food science", "weight": 1.0, "id": 31903555, "level": 1}
+{"count": 219820, "name": "Molecular physics", "weight": 0.0, "id": 41999313, "level": 1}
+{"count": 477295, "name": "Radiochemistry", "weight": 0.0, "id": 177322064, "level": 1}
+{"count": 465885, "name": "Environmental chemistry", "weight": 0.0, "id": 107872376, "level": 1}
+{"count": 87600, "name": "Chemical physics", "weight": 0.0, "id": 159467904, "level": 1}
+{"count": 297028, "name": "Nuclear chemistry", "weight": 0.0, "id": 13965031, "level": 1}
+{"count": 353197, "name": "Polymer science", "weight": 0.0, "id": 126348684, "level": 1}
+{"count": 593241, "name": "Remote sensing", "weight": 3.0, "id": 62649853, "level": 1}
+{"count": 767304, "name": "Archaeology", "weight": 4.0, "id": 166957645, "level": 1}
+{"count": 489813, "name": "Environmental protection", "weight": 2.0, "id": 526734887, "level": 1}
+{"count": 1681579, "name": "Cartography", "weight": 10.0, "id": 58640448, "level": 1}
+{"count": 542683, "name": "Forestry", "weight": 3.0, "id": 97137747, "level": 1}
+{"count": 485784, "name": "Meteorology", "weight": 2.0, "id": 153294291, "level": 1}
+{"count": 183860, "name": "Geodesy", "weight": 1.0, "id": 13280743, "level": 1}
+{"count": 59963, "name": "Economic geography", "weight": 0.0, "id": 26271046, "level": 1}
+{"count": 89116, "name": "Physical geography", "weight": 0.0, "id": 100970517, "level": 1}
+{"count": 416726, "name": "Environmental planning", "weight": 2.0, "id": 91375879, "level": 1}
+{"count": 169177, "name": "Regional science", "weight": 1.0, "id": 148383697, "level": 1}
+{"count": 554945, "name": "Algorithm", "weight": 2.0, "id": 11413529, "level": 1}
+{"count": 1050827, "name": "Statistics", "weight": 4.0, "id": 105795698, "level": 1}
+{"count": 221260, "name": "Geometry", "weight": 0.0, "id": 2524010, "level": 1}
+{"count": 1759789, "name": "Mathematical optimization", "weight": 7.0, "id": 126255220, "level": 1}
+{"count": 892877, "name": "Topology", "weight": 3.0, "id": 126794175, "level": 1}
+{"count": 330255, "name": "Operations research", "weight": 1.0, "id": 42475967, "level": 1}
+{"count": 1625190, "name": "Mathematical analysis", "weight": 6.0, "id": 134306372, "level": 1}
+{"count": 2357426, "name": "Control theory", "weight": 10.0, "id": 65244806, "level": 1}
+{"count": 352652, "name": "Algebra", "weight": 1.0, "id": 125565743, "level": 1}
+{"count": 547176, "name": "Econometrics", "weight": 2.0, "id": 149782125, "level": 1}
+{"count": 207892, "name": "Applied mathematics", "weight": 0.0, "id": 28826006, "level": 1}
+{"count": 566911, "name": "Mathematics education", "weight": 2.0, "id": 145420912, "level": 1}
+{"count": 84304, "name": "Arithmetic", "weight": 0.0, "id": 94375191, "level": 1}
+{"count": 92406, "name": "Computational science", "weight": 0.0, "id": 459310, "level": 1}
+{"count": 145481, "name": "Mathematical physics", "weight": 0.0, "id": 37914503, "level": 1}
+{"count": 242792, "name": "Calculus", "weight": 1.0, "id": 33577790, "level": 1}
+{"count": 865707, "name": "Discrete mathematics", "weight": 3.0, "id": 118615104, "level": 1}
+{"count": 516431, "name": "Combinatorics", "weight": 2.0, "id": 114614502, "level": 1}
+{"count": 104333, "name": "Pure mathematics", "weight": 0.0, "id": 202444582, "level": 1}
+{"count": 75114, "name": "Mathematical economics", "weight": 0.0, "id": 144237770, "level": 1}
+{"count": 593241, "name": "Remote sensing", "weight": 5.0, "id": 62649853, "level": 1}
+{"count": 57380, "name": "Earth science", "weight": 0.0, "id": 1965285, "level": 1}
+{"count": 618016, "name": "Geophysics", "weight": 5.0, "id": 8058405, "level": 1}
+{"count": 621089, "name": "Hydrology", "weight": 5.0, "id": 37037264, "level": 1}
+{"count": 362392, "name": "Geochemistry", "weight": 3.0, "id": 17409809, "level": 1}
+{"count": 244997, "name": "Soil science", "weight": 2.0, "id": 159390177, "level": 1}
+{"count": 713355, "name": "Mineralogy", "weight": 6.0, "id": 199289684, "level": 1}
+{"count": 935738, "name": "Geomorphology", "weight": 7.0, "id": 114793014, "level": 1}
+{"count": 472656, "name": "Oceanography", "weight": 3.0, "id": 111368507, "level": 1}
+{"count": 425760, "name": "Paleontology", "weight": 3.0, "id": 151730666, "level": 1}
+{"count": 469043, "name": "Climatology", "weight": 3.0, "id": 49204034, "level": 1}
+{"count": 229937, "name": "Petrology", "weight": 1.0, "id": 5900021, "level": 1}
+{"count": 239231, "name": "Seismology", "weight": 2.0, "id": 165205528, "level": 1}
+{"count": 1185916, "name": "Geotechnical engineering", "weight": 10.0, "id": 187320778, "level": 1}
+{"count": 570054, "name": "Atmospheric sciences", "weight": 4.0, "id": 91586092, "level": 1}
+{"count": 183860, "name": "Geodesy", "weight": 1.0, "id": 13280743, "level": 1}
+{"count": 203916, "name": "Mining engineering", "weight": 1.0, "id": 16674752, "level": 1}
+{"count": 401669, "name": "Petroleum engineering", "weight": 3.0, "id": 78762247, "level": 1}
+{"count": 1917885, "name": "Social science", "weight": 7.0, "id": 36289849, "level": 1}
+{"count": 293642, "name": "Demography", "weight": 1.0, "id": 149923435, "level": 1}
+{"count": 817106, "name": "Political economy", "weight": 3.0, "id": 138921699, "level": 1}
+{"count": 572148, "name": "Anthropology", "weight": 2.0, "id": 19165224, "level": 1}
+{"count": 2689109, "name": "Pedagogy", "weight": 10.0, "id": 19417346, "level": 1}
+{"count": 662615, "name": "Socioeconomics", "weight": 2.0, "id": 45355965, "level": 1}
+{"count": 696110, "name": "Ethnology", "weight": 2.0, "id": 2549261, "level": 1}
+{"count": 342622, "name": "Law and economics", "weight": 1.0, "id": 190253527, "level": 1}
+{"count": 197386, "name": "Criminology", "weight": 0.0, "id": 73484699, "level": 1}
+{"count": 710739, "name": "Gender studies", "weight": 2.0, "id": 107993555, "level": 1}
+{"count": 986528, "name": "Media studies", "weight": 3.0, "id": 29595303, "level": 1}
+{"count": 169177, "name": "Regional science", "weight": 0.0, "id": 148383697, "level": 1}
+{"count": 330755, "name": "Communication", "weight": 1.0, "id": 46312422, "level": 1}
+{"count": 1383384, "name": "Humanities", "weight": 1.0, "id": 15708023, "level": 1}
+{"count": 160462, "name": "Aesthetics", "weight": 0.0, "id": 107038049, "level": 1}
+{"count": 527020, "name": "Visual arts", "weight": 0.0, "id": 153349607, "level": 1}
+{"count": 1670165, "name": "Art history", "weight": 2.0, "id": 52119013, "level": 1}
+{"count": 549983, "name": "Classics", "weight": 0.0, "id": 74916050, "level": 1}
+{"count": 7208199, "name": "Performance art", "weight": 10.0, "id": 554144382, "level": 1}
+{"count": 1429378, "name": "Literature", "weight": 1.0, "id": 124952713, "level": 1}

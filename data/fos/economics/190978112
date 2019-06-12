@@ -1,0 +1,4 @@
+{"count": 652, "name": "EFTPOS", "weight": 10.0, "id": 15282517, "level": 5}
+{"count": 223, "name": "Delivery versus payment", "weight": 3.0, "id": 101959639, "level": 5}
+{"count": 400, "name": "Merchant plug-in", "weight": 6.0, "id": 88398355, "level": 5}
+{"count": 466, "name": "Chargeback insurance", "weight": 7.0, "id": 46566240, "level": 5}

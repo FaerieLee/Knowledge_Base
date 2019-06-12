@@ -1,0 +1,4 @@
+{"count": 13, "name": "Web Mercator", "weight": 3.0, "id": 2776549085, "level": 3}
+{"count": 44, "name": "Polyconic projection", "weight": 11.0, "id": 106500778, "level": 3}
+{"count": 7, "name": "Equidistant conic projection", "weight": 1.0, "id": 2777194198, "level": 3}
+{"count": 15, "name": "Albers equal-area conic projection", "weight": 3.0, "id": 22311468, "level": 3}

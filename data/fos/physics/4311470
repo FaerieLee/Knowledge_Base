@@ -1,0 +1,15 @@
+{"count": 2444, "name": "Capacity factor", "weight": 2.0, "id": 37415627, "level": 3}
+{"count": 1666, "name": "Ocean thermal energy conversion", "weight": 1.0, "id": 2776494654, "level": 3}
+{"count": 10847, "name": "Base load power plant", "weight": 10.0, "id": 123153844, "level": 3}
+{"count": 4505, "name": "Pumped-storage hydroelectricity", "weight": 4.0, "id": 183739832, "level": 3}
+{"count": 5515, "name": "Grid energy storage", "weight": 5.0, "id": 38864968, "level": 3}
+{"count": 1507, "name": "Plant efficiency", "weight": 1.0, "id": 2779351941, "level": 3}
+{"count": 472, "name": "Cooling pond", "weight": 0.0, "id": 136071657, "level": 3}
+{"count": 504, "name": "Condensate pump", "weight": 0.0, "id": 2776937128, "level": 3}
+{"count": 430, "name": "Phosphoric-acid fuel cell", "weight": 0.0, "id": 2779272369, "level": 3}
+{"count": 98, "name": "Spark spread", "weight": 0.0, "id": 2777758046, "level": 3}
+{"count": 79, "name": "Traveling screen", "weight": 0.0, "id": 2777666615, "level": 3}
+{"count": 114, "name": "FutureGen", "weight": 0.0, "id": 2776390421, "level": 3}
+{"count": 45, "name": "Gross generation", "weight": 0.0, "id": 162692725, "level": 3}
+{"count": 27, "name": "AD700", "weight": 0.0, "id": 2780356749, "level": 3}
+{"count": 455, "name": "Onofre", "weight": 0.0, "id": 2779840315, "level": 3}

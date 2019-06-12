@@ -1,0 +1,7 @@
+{"count": 3160, "name": "Reaction wheel", "weight": 10.0, "id": 206245727, "level": 3}
+{"count": 1333, "name": "Control moment gyroscope", "weight": 4.0, "id": 134425645, "level": 3}
+{"count": 370, "name": "Steering law", "weight": 1.0, "id": 176544364, "level": 3}
+{"count": 572, "name": "Reaction control system", "weight": 1.0, "id": 200962154, "level": 3}
+{"count": 207, "name": "Orbit Attitude and Maneuvering System", "weight": 0.0, "id": 181752697, "level": 3}
+{"count": 11, "name": "Zero-propellant maneuver", "weight": 0.0, "id": 2778616592, "level": 3}
+{"count": 148, "name": "Roll program", "weight": 0.0, "id": 117089332, "level": 3}

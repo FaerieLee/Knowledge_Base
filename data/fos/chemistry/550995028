@@ -1,0 +1,61 @@
+{"count": 326, "name": "Halobacteriaceae", "weight": 3.0, "id": 2776509742, "level": 4}
+{"count": 705, "name": "Euryarchaeota", "weight": 7.0, "id": 2778660952, "level": 4}
+{"count": 329, "name": "Methanomicrobiales", "weight": 3.0, "id": 2780148642, "level": 4}
+{"count": 200, "name": "Halobacteriales", "weight": 2.0, "id": 2779941237, "level": 4}
+{"count": 963, "name": "Hyperthermophile", "weight": 10.0, "id": 55428944, "level": 4}
+{"count": 947, "name": "Crenarchaeota", "weight": 9.0, "id": 2776353733, "level": 4}
+{"count": 861, "name": "Thermococcus", "weight": 8.0, "id": 2778899470, "level": 4}
+{"count": 424, "name": "Pyrococcus", "weight": 4.0, "id": 2780612174, "level": 4}
+{"count": 123, "name": "Sulfolobales", "weight": 1.0, "id": 2779287935, "level": 4}
+{"count": 299, "name": "Methanobrevibacter", "weight": 3.0, "id": 2778657754, "level": 4}
+{"count": 81, "name": "Methanobacteria", "weight": 0.0, "id": 2780575931, "level": 4}
+{"count": 443, "name": "Ammonia monooxygenase", "weight": 4.0, "id": 2780061811, "level": 4}
+{"count": 602, "name": "Haloferax volcanii", "weight": 6.0, "id": 2776179084, "level": 4}
+{"count": 412, "name": "Haloarcula", "weight": 4.0, "id": 2780415603, "level": 4}
+{"count": 366, "name": "Haloferax", "weight": 3.0, "id": 2776953635, "level": 4}
+{"count": 440, "name": "Haloarchaea", "weight": 4.0, "id": 2779926853, "level": 4}
+{"count": 436, "name": "Methanosarcinales", "weight": 4.0, "id": 2778281416, "level": 4}
+{"count": 211, "name": "Domain (biology)", "weight": 2.0, "id": 52591245, "level": 4}
+{"count": 81, "name": "Nanoarchaeota", "weight": 0.0, "id": 2778514299, "level": 4}
+{"count": 556, "name": "Thaumarchaeota", "weight": 5.0, "id": 2779258044, "level": 4}
+{"count": 75, "name": "Natronococcus", "weight": 0.0, "id": 2780706595, "level": 4}
+{"count": 95, "name": "Pyrodictium", "weight": 0.0, "id": 2780026378, "level": 4}
+{"count": 88, "name": "Sulfolobus metallicus", "weight": 0.0, "id": 2778309289, "level": 4}
+{"count": 232, "name": "Archaeol", "weight": 2.0, "id": 2776844140, "level": 4}
+{"count": 645, "name": "Three-domain system", "weight": 6.0, "id": 188880781, "level": 4}
+{"count": 92, "name": "Ignicoccus", "weight": 0.0, "id": 2780964437, "level": 4}
+{"count": 126, "name": "Methanolobus", "weight": 1.0, "id": 2779683071, "level": 4}
+{"count": 170, "name": "Metallosphaera", "weight": 1.0, "id": 2777002391, "level": 4}
+{"count": 105, "name": "Natrialba", "weight": 1.0, "id": 2780210402, "level": 4}
+{"count": 51, "name": "Thermoplasma volcanium", "weight": 0.0, "id": 2776118813, "level": 4}
+{"count": 76, "name": "Staphylothermus", "weight": 0.0, "id": 2778383073, "level": 4}
+{"count": 16, "name": "Ferroplasmaceae", "weight": 0.0, "id": 2781430169, "level": 4}
+{"count": 132, "name": "Thermoplasmatales", "weight": 1.0, "id": 2781044624, "level": 4}
+{"count": 45, "name": "Archaeoglobales", "weight": 0.0, "id": 2777832934, "level": 4}
+{"count": 57, "name": "Halocin", "weight": 0.0, "id": 2778721591, "level": 4}
+{"count": 17, "name": "Halobaculum", "weight": 0.0, "id": 2777665313, "level": 4}
+{"count": 172, "name": "Methanosphaera", "weight": 1.0, "id": 2776117004, "level": 4}
+{"count": 20, "name": "Archaeoglobus profundus", "weight": 0.0, "id": 2777247891, "level": 4}
+{"count": 17, "name": "Ferroglobus", "weight": 0.0, "id": 2778119048, "level": 4}
+{"count": 6, "name": "Methanophenazine", "weight": 0.0, "id": 2780684913, "level": 4}
+{"count": 124, "name": "Natrinema", "weight": 1.0, "id": 2777583763, "level": 4}
+{"count": 269, "name": "Nitrosopumilus", "weight": 2.0, "id": 2776837377, "level": 4}
+{"count": 108, "name": "Haloterrigena", "weight": 1.0, "id": 2778018668, "level": 4}
+{"count": 121, "name": "Aquificae", "weight": 1.0, "id": 2780867278, "level": 4}
+{"count": 172, "name": "Methanosaetaceae", "weight": 1.0, "id": 2776486858, "level": 4}
+{"count": 75, "name": "Haloquadratum walsbyi", "weight": 0.0, "id": 2778257473, "level": 4}
+{"count": 65, "name": "Thermoplasmata", "weight": 0.0, "id": 2781355283, "level": 4}
+{"count": 12, "name": "Halobaculum gomorrense", "weight": 0.0, "id": 2778745927, "level": 4}
+{"count": 11, "name": "Methanocorpusculaceae", "weight": 0.0, "id": 2776186306, "level": 4}
+{"count": 28, "name": "Lokiarchaeota", "weight": 0.0, "id": 2780271675, "level": 4}
+{"count": 200, "name": "Nitrososphaera", "weight": 2.0, "id": 2776123397, "level": 4}
+{"count": 43, "name": "Halorhabdus", "weight": 0.0, "id": 2779920851, "level": 4}
+{"count": 8, "name": "Eocyte hypothesis", "weight": 0.0, "id": 2777641524, "level": 4}
+{"count": 40, "name": "Haloplanus", "weight": 0.0, "id": 2778757350, "level": 4}
+{"count": 110, "name": "Methanocorpusculum", "weight": 1.0, "id": 2779446977, "level": 4}
+{"count": 23, "name": "Halosimplex", "weight": 0.0, "id": 2776665297, "level": 4}
+{"count": 20, "name": "Haladaptatus", "weight": 0.0, "id": 2781350817, "level": 4}
+{"count": 27, "name": "Nitrososphaera gargensis", "weight": 0.0, "id": 2776546779, "level": 4}
+{"count": 31, "name": "Methanothermococcus", "weight": 0.0, "id": 2780983918, "level": 4}
+{"count": 68, "name": "Methanomicrobia", "weight": 0.0, "id": 2776739384, "level": 4}
+{"count": 122, "name": "Non-cellular life", "weight": 1.0, "id": 92178133, "level": 4}

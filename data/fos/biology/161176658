@@ -1,0 +1,100 @@
+{"count": 15324, "name": "Pesticide residue", "weight": 10.0, "id": 106848363, "level": 3}
+{"count": 5528, "name": "Pesticide resistance", "weight": 3.0, "id": 2778693464, "level": 3}
+{"count": 6554, "name": "Chlorpyrifos", "weight": 4.0, "id": 2776304672, "level": 3}
+{"count": 3220, "name": "Lindane", "weight": 2.0, "id": 2780120631, "level": 3}
+{"count": 8077, "name": "Malathion", "weight": 5.0, "id": 2776638905, "level": 3}
+{"count": 6553, "name": "Dieldrin", "weight": 4.0, "id": 2776640376, "level": 3}
+{"count": 4816, "name": "Biopesticide", "weight": 3.0, "id": 120835403, "level": 3}
+{"count": 4283, "name": "Endosulfan", "weight": 2.0, "id": 2779680598, "level": 3}
+{"count": 6038, "name": "Parathion", "weight": 3.0, "id": 2777565064, "level": 3}
+{"count": 5165, "name": "Diazinon", "weight": 3.0, "id": 2779842916, "level": 3}
+{"count": 3855, "name": "Carbaryl", "weight": 2.0, "id": 2776051353, "level": 3}
+{"count": 4649, "name": "Carbofuran", "weight": 3.0, "id": 2780862241, "level": 3}
+{"count": 6316, "name": "Cypermethrin", "weight": 4.0, "id": 2779437720, "level": 3}
+{"count": 3554, "name": "Simazine", "weight": 2.0, "id": 2778659605, "level": 3}
+{"count": 3792, "name": "Dimethoate", "weight": 2.0, "id": 2777135647, "level": 3}
+{"count": 2591, "name": "Chlordane", "weight": 1.0, "id": 2780799252, "level": 3}
+{"count": 2981, "name": "Fenitrothion", "weight": 1.0, "id": 2776364656, "level": 3}
+{"count": 9240, "name": "Organophosphate", "weight": 6.0, "id": 2776588719, "level": 3}
+{"count": 2704, "name": "Dichlorvos", "weight": 1.0, "id": 2778359560, "level": 3}
+{"count": 2263, "name": "Aldicarb", "weight": 1.0, "id": 2778712592, "level": 3}
+{"count": 1457, "name": "Methoxychlor", "weight": 0.0, "id": 2780509179, "level": 3}
+{"count": 2782, "name": "Captan", "weight": 1.0, "id": 2776255237, "level": 3}
+{"count": 3246, "name": "Abamectin", "weight": 2.0, "id": 2781092779, "level": 3}
+{"count": 1397, "name": "Acceptable daily intake", "weight": 0.0, "id": 175961577, "level": 3}
+{"count": 1160, "name": "Aerial application", "weight": 0.0, "id": 2776349283, "level": 3}
+{"count": 2125, "name": "Methomyl", "weight": 1.0, "id": 2776477006, "level": 3}
+{"count": 1575, "name": "Propoxur", "weight": 1.0, "id": 2777365859, "level": 3}
+{"count": 192, "name": "Azinphos-methyl", "weight": 0.0, "id": 2777833298, "level": 3}
+{"count": 1784, "name": "Bordeaux mixture", "weight": 1.0, "id": 2778308664, "level": 3}
+{"count": 1977, "name": "Bifenthrin", "weight": 1.0, "id": 2779173036, "level": 3}
+{"count": 1343, "name": "Methamidophos", "weight": 0.0, "id": 2777738799, "level": 3}
+{"count": 2603, "name": "Neonicotinoid", "weight": 1.0, "id": 2777500947, "level": 3}
+{"count": 1011, "name": "Maneb", "weight": 0.0, "id": 2776368712, "level": 3}
+{"count": 1360, "name": "Dicofol", "weight": 0.0, "id": 2778333127, "level": 3}
+{"count": 729, "name": "Coumaphos", "weight": 0.0, "id": 2778617976, "level": 3}
+{"count": 1690, "name": "Phorate", "weight": 1.0, "id": 2780408581, "level": 3}
+{"count": 1381, "name": "Toxaphene", "weight": 0.0, "id": 2775997484, "level": 3}
+{"count": 1177, "name": "Zineb", "weight": 0.0, "id": 2780159738, "level": 3}
+{"count": 819, "name": "Pirimicarb", "weight": 0.0, "id": 2781401687, "level": 3}
+{"count": 1209, "name": "Quinalphos", "weight": 0.0, "id": 2781121522, "level": 3}
+{"count": 2466, "name": "Pesticide application", "weight": 1.0, "id": 2778226232, "level": 3}
+{"count": 638, "name": "Methidathion", "weight": 0.0, "id": 2778110911, "level": 3}
+{"count": 718, "name": "Chlorpropham", "weight": 0.0, "id": 2781441284, "level": 3}
+{"count": 704, "name": "Dinoseb", "weight": 0.0, "id": 2778549181, "level": 3}
+{"count": 813, "name": "Phosphamidon", "weight": 0.0, "id": 2777865702, "level": 3}
+{"count": 680, "name": "Phosalone", "weight": 0.0, "id": 2779284570, "level": 3}
+{"count": 584, "name": "Phosmet", "weight": 0.0, "id": 2779119602, "level": 3}
+{"count": 193, "name": "2,4-DB", "weight": 0.0, "id": 2780702041, "level": 3}
+{"count": 1003, "name": "Phoxim", "weight": 0.0, "id": 2779837857, "level": 3}
+{"count": 503, "name": "Chlorfenvinphos", "weight": 0.0, "id": 2776481183, "level": 3}
+{"count": 2036, "name": "Wettable powder", "weight": 1.0, "id": 2780461478, "level": 3}
+{"count": 536, "name": "Bromacil", "weight": 0.0, "id": 2775852723, "level": 3}
+{"count": 507, "name": "Ziram", "weight": 0.0, "id": 2780158990, "level": 3}
+{"count": 511, "name": "Ethion", "weight": 0.0, "id": 2779041716, "level": 3}
+{"count": 833, "name": "Omethoate", "weight": 0.0, "id": 2780276543, "level": 3}
+{"count": 853, "name": "Chlorfenapyr", "weight": 0.0, "id": 2778981497, "level": 3}
+{"count": 664, "name": "Ultra-low volume", "weight": 0.0, "id": 2780085367, "level": 3}
+{"count": 2051, "name": "Pyrethrum", "weight": 1.0, "id": 2779958359, "level": 3}
+{"count": 221, "name": "Fenoprop", "weight": 0.0, "id": 2779880015, "level": 3}
+{"count": 527, "name": "Calcium arsenate", "weight": 0.0, "id": 2776466931, "level": 3}
+{"count": 342, "name": "Mevinphos", "weight": 0.0, "id": 2776894742, "level": 3}
+{"count": 201, "name": "Anilazine", "weight": 0.0, "id": 2780893932, "level": 3}
+{"count": 242, "name": "Tetrachlorvinphos", "weight": 0.0, "id": 2777876506, "level": 3}
+{"count": 56, "name": "Demeton-S-methyl", "weight": 0.0, "id": 2778418818, "level": 3}
+{"count": 209, "name": "Food Quality Protection Act", "weight": 0.0, "id": 2780931993, "level": 3}
+{"count": 159, "name": "Phenylmercury acetate", "weight": 0.0, "id": 2780208688, "level": 3}
+{"count": 226, "name": "Bromopropylate", "weight": 0.0, "id": 2779664046, "level": 3}
+{"count": 647, "name": "Pesticide degradation", "weight": 0.0, "id": 2776844889, "level": 3}
+{"count": 311, "name": "Resmethrin", "weight": 0.0, "id": 2776765648, "level": 3}
+{"count": 405, "name": "Demeton", "weight": 0.0, "id": 2775944665, "level": 3}
+{"count": 237, "name": "Monolinuron", "weight": 0.0, "id": 2781109266, "level": 3}
+{"count": 150, "name": "Formetanate", "weight": 0.0, "id": 2778685632, "level": 3}
+{"count": 234, "name": "Dicrotophos", "weight": 0.0, "id": 2780715172, "level": 3}
+{"count": 279, "name": "Fenobucarb", "weight": 0.0, "id": 2781378085, "level": 3}
+{"count": 163, "name": "Chloroxuron", "weight": 0.0, "id": 2776272472, "level": 3}
+{"count": 96, "name": "Azinphos-ethyl", "weight": 0.0, "id": 2780877620, "level": 3}
+{"count": 410, "name": "Dichlorodiphenyldichloroethylene", "weight": 0.0, "id": 2776916699, "level": 3}
+{"count": 511, "name": "Pesticide formulation", "weight": 0.0, "id": 2776063993, "level": 3}
+{"count": 291, "name": "Metaflumizone", "weight": 0.0, "id": 2776802660, "level": 3}
+{"count": 208, "name": "Carbophenothion", "weight": 0.0, "id": 2776949855, "level": 3}
+{"count": 169, "name": "Tebufenpyrad", "weight": 0.0, "id": 2778340816, "level": 3}
+{"count": 211, "name": "Pesticide drift", "weight": 0.0, "id": 2777550478, "level": 3}
+{"count": 171, "name": "Etoxazole", "weight": 0.0, "id": 2778725545, "level": 3}
+{"count": 69, "name": "Sulfotep", "weight": 0.0, "id": 2778893684, "level": 3}
+{"count": 53, "name": "Triazofos", "weight": 0.0, "id": 2778230117, "level": 3}
+{"count": 102, "name": "Sheep dip", "weight": 0.0, "id": 2776183670, "level": 3}
+{"count": 68, "name": "Environmental impact of pesticides", "weight": 0.0, "id": 2779695657, "level": 3}
+{"count": 61, "name": "Isoxathion", "weight": 0.0, "id": 2779439651, "level": 3}
+{"count": 47, "name": "Dichlofenthion", "weight": 0.0, "id": 2776783788, "level": 3}
+{"count": 192, "name": "Organochloride", "weight": 0.0, "id": 2780119873, "level": 3}
+{"count": 73, "name": "Federal Insecticide, Fungicide, and Rodenticide Act", "weight": 0.0, "id": 2779830906, "level": 3}
+{"count": 91, "name": "Rotterdam Convention", "weight": 0.0, "id": 2778990578, "level": 3}
+{"count": 53, "name": "Pesticide misuse", "weight": 0.0, "id": 2780778878, "level": 3}
+{"count": 50, "name": "Dimefox", "weight": 0.0, "id": 2780441066, "level": 3}
+{"count": 89, "name": "Pesticide research", "weight": 0.0, "id": 2778836457, "level": 3}
+{"count": 129, "name": "Worker Protection Standard", "weight": 0.0, "id": 60930217, "level": 3}
+{"count": 8, "name": "Endothion", "weight": 0.0, "id": 2780304648, "level": 3}
+{"count": 21, "name": "Restricted use pesticide", "weight": 0.0, "id": 2780136993, "level": 3}
+{"count": 29, "name": "Fly spray", "weight": 0.0, "id": 2778816917, "level": 3}
+{"count": 5, "name": "Pesticide regulation in the United States", "weight": 0.0, "id": 2776426656, "level": 3}

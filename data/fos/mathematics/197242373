@@ -1,0 +1,18 @@
+{"count": 2084, "name": "Prefix code", "weight": 5.0, "id": 20079647, "level": 5}
+{"count": 1105, "name": "Dual code", "weight": 2.0, "id": 73666251, "level": 5}
+{"count": 325, "name": "Kraft's inequality", "weight": 0.0, "id": 205612216, "level": 5}
+{"count": 2209, "name": "Polynomial code", "weight": 5.0, "id": 39635130, "level": 5}
+{"count": 635, "name": "Universal code", "weight": 1.0, "id": 197294415, "level": 5}
+{"count": 747, "name": "Repetition code", "weight": 1.0, "id": 194405637, "level": 5}
+{"count": 700, "name": "Ternary Golay code", "weight": 1.0, "id": 108906091, "level": 5}
+{"count": 33, "name": "Hexacode", "weight": 0.0, "id": 42075119, "level": 5}
+{"count": 4037, "name": "Systematic code", "weight": 10.0, "id": 70992990, "level": 5}
+{"count": 26, "name": "Preparata code", "weight": 0.0, "id": 2779994066, "level": 5}
+{"count": 23, "name": "Flag semaphore", "weight": 0.0, "id": 170439169, "level": 5}
+{"count": 1099, "name": "Canonical Huffman code", "weight": 2.0, "id": 115223089, "level": 5}
+{"count": 48, "name": "8b/10b encoding", "weight": 0.0, "id": 100961309, "level": 5}
+{"count": 83, "name": "Locally testable code", "weight": 0.0, "id": 163899692, "level": 5}
+{"count": 61, "name": "Binary prefix", "weight": 0.0, "id": 2780269913, "level": 5}
+{"count": 1469, "name": "Multidimensional parity-check code", "weight": 3.0, "id": 149547129, "level": 5}
+{"count": 24, "name": "MLT-3 encoding", "weight": 0.0, "id": 169953665, "level": 5}
+{"count": 3094, "name": "Self-synchronizing code", "weight": 7.0, "id": 158968301, "level": 5}

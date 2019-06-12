@@ -1,0 +1,10 @@
+{"count": 10128, "name": "Deep inelastic scattering", "weight": 5.0, "id": 89473665, "level": 4}
+{"count": 13959, "name": "Inelastic neutron scattering", "weight": 6.0, "id": 31198834, "level": 4}
+{"count": 3713, "name": "Dynamic structure factor", "weight": 1.0, "id": 130095028, "level": 4}
+{"count": 759, "name": "Inelastic mean free path", "weight": 0.0, "id": 2776421371, "level": 4}
+{"count": 5488, "name": "Inelastic collision", "weight": 2.0, "id": 186647298, "level": 4}
+{"count": 2316, "name": "Cross section (physics)", "weight": 1.0, "id": 52234038, "level": 4}
+{"count": 12621, "name": "Mott scattering", "weight": 6.0, "id": 777992, "level": 4}
+{"count": 1523, "name": "Compton wavelength", "weight": 0.0, "id": 144429999, "level": 4}
+{"count": 8342, "name": "Quasielastic neutron scattering", "weight": 4.0, "id": 116306529, "level": 4}
+{"count": 20244, "name": "X-ray Raman scattering", "weight": 10.0, "id": 76308580, "level": 4}

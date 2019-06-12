@@ -1,0 +1,21 @@
+{"count": 7195, "name": "File server", "weight": 6.0, "id": 4373008, "level": 3}
+{"count": 4830, "name": "Proxy server", "weight": 4.0, "id": 2779298391, "level": 3}
+{"count": 2648, "name": "Video server", "weight": 2.0, "id": 2778399435, "level": 3}
+{"count": 2188, "name": "Content delivery network", "weight": 2.0, "id": 2778898579, "level": 3}
+{"count": 108, "name": "Cyber foraging", "weight": 0.0, "id": 2777176835, "level": 3}
+{"count": 45, "name": "Energy proportional computing", "weight": 0.0, "id": 2777523716, "level": 3}
+{"count": 10314, "name": "Client", "weight": 10.0, "id": 27713364, "level": 3}
+{"count": 6561, "name": "Server farm", "weight": 6.0, "id": 105908466, "level": 3}
+{"count": 349, "name": "Cloud gaming", "weight": 0.0, "id": 2779733813, "level": 3}
+{"count": 68, "name": "Reliable Server Pooling", "weight": 0.0, "id": 2780722625, "level": 3}
+{"count": 2443, "name": "Reverse proxy", "weight": 2.0, "id": 4507978, "level": 3}
+{"count": 2578, "name": "Round-robin DNS", "weight": 2.0, "id": 102359118, "level": 3}
+{"count": 454, "name": "Server room", "weight": 0.0, "id": 117355905, "level": 3}
+{"count": 21, "name": "WS-Management", "weight": 0.0, "id": 2779479875, "level": 3}
+{"count": 47, "name": "SPECpower", "weight": 0.0, "id": 2776244720, "level": 3}
+{"count": 62, "name": "Data center network architectures", "weight": 0.0, "id": 2779247989, "level": 3}
+{"count": 8, "name": "Tabular Data Stream", "weight": 0.0, "id": 2778156030, "level": 3}
+{"count": 25, "name": "Application delivery controller", "weight": 0.0, "id": 2780756201, "level": 3}
+{"count": 23, "name": "Upstream server", "weight": 0.0, "id": 2780449184, "level": 3}
+{"count": 37, "name": "Inter-server", "weight": 0.0, "id": 2776959929, "level": 3}
+{"count": 2321, "name": "Network Load Balancing Services", "weight": 2.0, "id": 161597957, "level": 3}

@@ -1,0 +1,25 @@
+{"count": 6353, "name": "Mycobacterium bovis", "weight": 10.0, "id": 2778497218, "level": 4}
+{"count": 5663, "name": "Ethambutol", "weight": 8.0, "id": 2776228421, "level": 4}
+{"count": 3790, "name": "Mycobacterium smegmatis", "weight": 5.0, "id": 2777204207, "level": 4}
+{"count": 2751, "name": "Mycobacterium tuberculosis complex", "weight": 4.0, "id": 2779790121, "level": 4}
+{"count": 4457, "name": "Latent tuberculosis", "weight": 7.0, "id": 2779806340, "level": 4}
+{"count": 1127, "name": "Extensively drug-resistant tuberculosis", "weight": 1.0, "id": 2777107064, "level": 4}
+{"count": 958, "name": "Ziehl\u2013Neelsen stain", "weight": 1.0, "id": 189962949, "level": 4}
+{"count": 726, "name": "ESAT-6", "weight": 1.0, "id": 2781064340, "level": 4}
+{"count": 1122, "name": "Mycolic acid", "weight": 1.0, "id": 2778293455, "level": 4}
+{"count": 3095, "name": "rpoB", "weight": 4.0, "id": 2778340795, "level": 4}
+{"count": 3771, "name": "Antimycobacterial", "weight": 5.0, "id": 2779685592, "level": 4}
+{"count": 881, "name": "Lipoarabinomannan", "weight": 1.0, "id": 2776056871, "level": 4}
+{"count": 458, "name": "Cord factor", "weight": 0.0, "id": 204653381, "level": 4}
+{"count": 1128, "name": "Tuberculosis diagnosis", "weight": 1.0, "id": 2780639635, "level": 4}
+{"count": 199, "name": "Mycobacteria growth indicator tube", "weight": 0.0, "id": 2777079560, "level": 4}
+{"count": 957, "name": "GeneXpert MTB/RIF", "weight": 1.0, "id": 126265401, "level": 4}
+{"count": 1288, "name": "INHA", "weight": 2.0, "id": 2780687663, "level": 4}
+{"count": 589, "name": "Mycobacteriophage", "weight": 0.0, "id": 2779361952, "level": 4}
+{"count": 159, "name": "L\u00f6wenstein\u2013Jensen medium", "weight": 0.0, "id": 2778157609, "level": 4}
+{"count": 30, "name": "Tuberculous gumma", "weight": 0.0, "id": 2777024361, "level": 4}
+{"count": 83, "name": "Mycobacterium indicus pranii", "weight": 0.0, "id": 2778458650, "level": 4}
+{"count": 61, "name": "Prokaryotic ubiquitin-like protein", "weight": 0.0, "id": 2781182400, "level": 4}
+{"count": 28, "name": "Primary inoculation tuberculosis", "weight": 0.0, "id": 2780059657, "level": 4}
+{"count": 45, "name": "Totally drug-resistant tuberculosis", "weight": 0.0, "id": 2776247364, "level": 4}
+{"count": 77, "name": "Middlebrook 7H10 Agar", "weight": 0.0, "id": 2780816980, "level": 4}

@@ -1,0 +1,9 @@
+{"count": 5259, "name": "Rake receiver", "weight": 8.0, "id": 23486597, "level": 4}
+{"count": 6252, "name": "Delay spread", "weight": 10.0, "id": 49456836, "level": 4}
+{"count": 1772, "name": "Multipath interference", "weight": 2.0, "id": 174749922, "level": 4}
+{"count": 977, "name": "Log-distance path loss model", "weight": 1.0, "id": 97316775, "level": 4}
+{"count": 564, "name": "Multipath TCP", "weight": 0.0, "id": 2779166880, "level": 4}
+{"count": 820, "name": "Multipath mitigation", "weight": 1.0, "id": 2776015439, "level": 4}
+{"count": 161, "name": "Indoor geolocation", "weight": 0.0, "id": 2781065748, "level": 4}
+{"count": 66, "name": "WSSUS model", "weight": 0.0, "id": 176747982, "level": 4}
+{"count": 35, "name": "Frequency ambiguity resolution", "weight": 0.0, "id": 2777693100, "level": 4}

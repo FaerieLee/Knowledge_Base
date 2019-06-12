@@ -1,0 +1,9 @@
+{"count": 6012, "name": "RNA-Seq", "weight": 10.0, "id": 107397762, "level": 4}
+{"count": 4565, "name": "KEGG", "weight": 7.0, "id": 152724338, "level": 4}
+{"count": 2574, "name": "Illumina dye sequencing", "weight": 4.0, "id": 106337198, "level": 4}
+{"count": 58, "name": "Translatome", "weight": 0.0, "id": 2779778251, "level": 4}
+{"count": 132, "name": "Cistrome", "weight": 0.0, "id": 151857584, "level": 4}
+{"count": 218, "name": "Blast2GO", "weight": 0.0, "id": 2777586271, "level": 4}
+{"count": 20, "name": "Expressome", "weight": 0.0, "id": 2780551175, "level": 4}
+{"count": 20, "name": "FCGR1A", "weight": 0.0, "id": 2777902947, "level": 4}
+{"count": 54, "name": "Gene Ontology Term Enrichment", "weight": 0.0, "id": 2777719804, "level": 4}

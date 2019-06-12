@@ -1,0 +1,42 @@
+{"count": 6560, "name": "Message authentication code", "weight": 4.0, "id": 141492731, "level": 3}
+{"count": 15115, "name": "Authentication protocol", "weight": 10.0, "id": 21564112, "level": 3}
+{"count": 1872, "name": "Forward secrecy", "weight": 1.0, "id": 205009425, "level": 3}
+{"count": 4707, "name": "Identity management", "weight": 3.0, "id": 555379026, "level": 3}
+{"count": 5410, "name": "Public key certificate", "weight": 3.0, "id": 167529545, "level": 3}
+{"count": 662, "name": "Dictionary attack", "weight": 0.0, "id": 113328881, "level": 3}
+{"count": 1651, "name": "Man-in-the-middle attack", "weight": 1.0, "id": 196491621, "level": 3}
+{"count": 1881, "name": "Single sign-on", "weight": 1.0, "id": 2776362682, "level": 3}
+{"count": 1988, "name": "Replay attack", "weight": 1.0, "id": 11560541, "level": 3}
+{"count": 5501, "name": "Computer access control", "weight": 3.0, "id": 44415380, "level": 3}
+{"count": 1227, "name": "Secure channel", "weight": 0.0, "id": 180073179, "level": 3}
+{"count": 696, "name": "Non-repudiation", "weight": 0.0, "id": 44209976, "level": 3}
+{"count": 1217, "name": "Kerberos", "weight": 0.0, "id": 32455479, "level": 3}
+{"count": 952, "name": "Keystroke dynamics", "weight": 0.0, "id": 79540074, "level": 3}
+{"count": 776, "name": "Hand geometry", "weight": 0.0, "id": 146318809, "level": 3}
+{"count": 3905, "name": "Authentication server", "weight": 2.0, "id": 2777331311, "level": 3}
+{"count": 345, "name": "OpenID", "weight": 0.0, "id": 2776824853, "level": 3}
+{"count": 524, "name": "Digital credential", "weight": 0.0, "id": 82922719, "level": 3}
+{"count": 498, "name": "Shoulder surfing", "weight": 0.0, "id": 184956938, "level": 3}
+{"count": 298, "name": "Relay attack", "weight": 0.0, "id": 2778738786, "level": 3}
+{"count": 134, "name": "Distance-bounding protocol", "weight": 0.0, "id": 2777512695, "level": 3}
+{"count": 370, "name": "WLAN Authentication and Privacy Infrastructure", "weight": 0.0, "id": 180481146, "level": 3}
+{"count": 460, "name": "Diameter protocol", "weight": 0.0, "id": 75458452, "level": 3}
+{"count": 319, "name": "Electronic authentication", "weight": 0.0, "id": 2780710723, "level": 3}
+{"count": 348, "name": "Session hijacking", "weight": 0.0, "id": 8149930, "level": 3}
+{"count": 558, "name": "Strong authentication", "weight": 0.0, "id": 2776904728, "level": 3}
+{"count": 12, "name": "Forward anonymity", "weight": 0.0, "id": 2780289768, "level": 3}
+{"count": 84, "name": "Port knocking", "weight": 0.0, "id": 2779599986, "level": 3}
+{"count": 40, "name": "FIPS 201", "weight": 0.0, "id": 2776136185, "level": 3}
+{"count": 211, "name": "Captive portal", "weight": 0.0, "id": 19206768, "level": 3}
+{"count": 356, "name": "Access token", "weight": 0.0, "id": 2779539726, "level": 3}
+{"count": 253, "name": "Supplicant", "weight": 0.0, "id": 97936681, "level": 3}
+{"count": 105, "name": "Login session", "weight": 0.0, "id": 2779054409, "level": 3}
+{"count": 151, "name": "Device fingerprint", "weight": 0.0, "id": 2779889875, "level": 3}
+{"count": 35, "name": "JSON Web Token", "weight": 0.0, "id": 2779232881, "level": 3}
+{"count": 18, "name": "Pre-boot authentication", "weight": 0.0, "id": 2778261225, "level": 3}
+{"count": 24, "name": "Chaffing and winnowing", "weight": 0.0, "id": 91828121, "level": 3}
+{"count": 63, "name": "Authentication (law)", "weight": 0.0, "id": 148417208, "level": 3}
+{"count": 13, "name": "DNS-based Authentication of Named Entities", "weight": 0.0, "id": 2779199445, "level": 3}
+{"count": 15, "name": "Transaction authentication number", "weight": 0.0, "id": 2780660591, "level": 3}
+{"count": 9, "name": "Private biometrics", "weight": 0.0, "id": 2777306515, "level": 3}
+{"count": 272, "name": "ssh-agent", "weight": 0.0, "id": 39336981, "level": 3}

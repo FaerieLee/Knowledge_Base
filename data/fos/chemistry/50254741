@@ -1,0 +1,14 @@
+{"count": 3026, "name": "Ligand-gated ion channel", "weight": 5.0, "id": 82617044, "level": 3}
+{"count": 5575, "name": "Voltage-gated ion channel", "weight": 10.0, "id": 37088560, "level": 3}
+{"count": 731, "name": "Acid-sensing ion channel", "weight": 1.0, "id": 143928317, "level": 3}
+{"count": 498, "name": "TRPM7", "weight": 0.0, "id": 53467394, "level": 3}
+{"count": 2866, "name": "Mechanosensitive channels", "weight": 5.0, "id": 4001165, "level": 3}
+{"count": 1341, "name": "KcsA potassium channel", "weight": 2.0, "id": 45516822, "level": 3}
+{"count": 1321, "name": "TRPC1", "weight": 2.0, "id": 167007842, "level": 3}
+{"count": 228, "name": "Automated patch clamp", "weight": 0.0, "id": 168412075, "level": 3}
+{"count": 623, "name": "Cyclic nucleotide-gated ion channel", "weight": 1.0, "id": 131829789, "level": 3}
+{"count": 70, "name": "Hanatoxin", "weight": 0.0, "id": 2780259075, "level": 3}
+{"count": 253, "name": "Gloeobacter", "weight": 0.0, "id": 2778464676, "level": 3}
+{"count": 32, "name": "Jingzhaotoxin", "weight": 0.0, "id": 2779131029, "level": 3}
+{"count": 18, "name": "Channelome", "weight": 0.0, "id": 2778562777, "level": 3}
+{"count": 10, "name": "Thrixopelma pruriens", "weight": 0.0, "id": 2778166720, "level": 3}

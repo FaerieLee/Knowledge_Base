@@ -1,0 +1,149 @@
+{
+    "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "analysis": {
+      "normalizer": {
+        "lowercase_normalizer": {
+          "type": "custom",
+          "char_filter": [],
+          "filter": ["lowercase"]
+        }
+      }
+    }
+  },
+  "mappings": {
+    "pap": {
+      "properties": {
+        "_version_": {
+          "type": "long",
+          "index":false,
+          "doc_values":false
+        },
+        "abstract": {
+          "type": "text",
+          "analyzer": "standard"
+        },
+        "aff":{
+          "type":"text",
+          "index":false
+        },
+        "authors": {
+          "properties": {
+            "name": {
+              "type": "keyword",
+              "eager_global_ordinals": true,
+              "fields": {
+                "name_word": {
+                  "type": "text",
+                  "index_options": "offsets",
+                  "analyzer": "standard"
+                }
+              },
+              "normalizer": "lowercase_normalizer"
+            },
+            "org": {
+              "type": "text",
+              "index_options": "offsets",
+              "analyzer": "standard",
+              "index_phrases": true
+            }
+          }
+        },
+        "date":{
+	        "type":"keyword",
+	        "index":false,
+	        "doc_values":false
+        },
+	      "full_text_name":{
+	        "type":"text",
+	        "index":false
+	      },
+	      "full_text_path":{
+	        "type":"text",
+	        "index":false
+	      },
+        "doi": {
+          "type": "keyword",
+          "doc_values": false
+        },
+        "fos": {
+          "type": "keyword",
+          "eager_global_ordinals": true,
+          "normalizer": "lowercase_normalizer"
+        },
+        "id": {
+          "type": "keyword",
+          "doc_values": false
+        },
+        "keywords": {
+          "type": "keyword",
+          "eager_global_ordinals": true,
+          "normalizer": "lowercase_normalizer"
+        },
+        "lang": {
+          "type": "keyword",
+          "eager_global_ordinals": true,
+          "normalizer": "lowercase_normalizer"
+        },
+        "references": {
+          "type": "keyword",
+          "index":false,
+          "doc_values":false
+        },
+	      "issue": {
+          "type": "keyword",
+          "index": false,
+          "doc_values": false
+        },
+        "sub_abstract": {
+          "type": "keyword",
+          "index": false,
+          "doc_values": false
+        },
+        "title": {
+          "type": "text",
+          "index_options": "offsets",
+          "analyzer": "standard",
+          "index_phrases":true
+        },
+        "original":{
+          "type":"keyword",
+          "index":false,
+          "doc_values":false
+        },
+        "publisher": {
+          "type": "keyword",
+          "normalizer": "lowercase_normalizer",
+          "eager_global_ordinals": true
+        },
+        "volume": {
+          "type": "keyword",
+          "index": false,
+          "doc_values": false
+        },
+        "year": {
+          "type": "keyword",
+          "eager_global_ordinals": true
+        },
+        "img": {
+          "type": "text",
+          "index":false
+        },
+        "img_exist": {
+          "type": "long",
+          "index":false,
+          "doc_values":false
+        },
+        "img_name": {
+          "type": "text",
+          "index":false
+        },
+        "img_path": {
+          "type": "text",
+          "index":false
+        }
+      }
+  }
+}
+}

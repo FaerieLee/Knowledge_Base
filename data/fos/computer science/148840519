@@ -1,0 +1,13 @@
+{"count": 6136, "name": "Database theory", "weight": 5.0, "id": 12439846, "level": 3}
+{"count": 11646, "name": "Database schema", "weight": 10.0, "id": 30775581, "level": 3}
+{"count": 7868, "name": "Database model", "weight": 6.0, "id": 5968703, "level": 3}
+{"count": 405, "name": "Database machine", "weight": 0.0, "id": 2777696251, "level": 3}
+{"count": 3054, "name": "Data administration", "weight": 2.0, "id": 115842085, "level": 3}
+{"count": 933, "name": "Object-relational mapping", "weight": 0.0, "id": 72615636, "level": 3}
+{"count": 6546, "name": "Database tuning", "weight": 5.0, "id": 107535962, "level": 3}
+{"count": 10032, "name": "View", "weight": 8.0, "id": 54239708, "level": 3}
+{"count": 35, "name": "Data Base Task Group", "weight": 0.0, "id": 2780749187, "level": 3}
+{"count": 7249, "name": "Database testing", "weight": 6.0, "id": 78161392, "level": 3}
+{"count": 207, "name": "Denormalization", "weight": 0.0, "id": 34633499, "level": 3}
+{"count": 465, "name": "Data access object", "weight": 0.0, "id": 41053665, "level": 3}
+{"count": 1607, "name": "Data transformation", "weight": 1.0, "id": 150670458, "level": 3}

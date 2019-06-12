@@ -1,0 +1,5 @@
+{"count": 421, "name": "Storage Resource Broker", "weight": 1.0, "id": 127836192, "level": 4}
+{"count": 2273, "name": "Object storage", "weight": 7.0, "id": 56640594, "level": 4}
+{"count": 218, "name": "Hierarchical storage management", "weight": 0.0, "id": 2776013362, "level": 4}
+{"count": 718, "name": "Data efficiency", "weight": 2.0, "id": 159759114, "level": 4}
+{"count": 3235, "name": "Converged storage", "weight": 10.0, "id": 8965099, "level": 4}

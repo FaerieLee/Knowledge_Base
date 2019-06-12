@@ -1,0 +1,5 @@
+{"count": 6216, "name": "Clock generator", "weight": 4.0, "id": 2778023540, "level": 3}
+{"count": 381, "name": "CLK1", "weight": 0.0, "id": 2778232941, "level": 3}
+{"count": 12251, "name": "Digital clock manager", "weight": 9.0, "id": 113074038, "level": 3}
+{"count": 266, "name": "CLK2", "weight": 0.0, "id": 2776646163, "level": 3}
+{"count": 13039, "name": "Self-clocking signal", "weight": 10.0, "id": 171051901, "level": 3}

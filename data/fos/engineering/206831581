@@ -1,0 +1,5 @@
+{"count": 1649, "name": "Yaw-rate sensor", "weight": 10.0, "id": 127761069, "level": 3}
+{"count": 600, "name": "Aircraft principal axes", "weight": 3.0, "id": 46685643, "level": 3}
+{"count": 495, "name": "Dutch roll", "weight": 3.0, "id": 98312606, "level": 3}
+{"count": 42, "name": "Banked turn", "weight": 0.0, "id": 169007574, "level": 3}
+{"count": 29, "name": "Understeer and oversteer", "weight": 0.0, "id": 2779137302, "level": 3}

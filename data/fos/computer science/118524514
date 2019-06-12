@@ -1,0 +1,25 @@
+{"count": 2886, "name": "Electronic system-level design and verification", "weight": 4.0, "id": 77495112, "level": 2}
+{"count": 3595, "name": "Microcode", "weight": 5.0, "id": 22174128, "level": 2}
+{"count": 6457, "name": "Register-transfer level", "weight": 10.0, "id": 34854456, "level": 2}
+{"count": 3270, "name": "Logic simulation", "weight": 5.0, "id": 64859876, "level": 2}
+{"count": 3078, "name": "Instruction-level parallelism", "weight": 4.0, "id": 140763907, "level": 2}
+{"count": 3113, "name": "SystemC", "weight": 4.0, "id": 2776928060, "level": 2}
+{"count": 1609, "name": "Superscalar", "weight": 2.0, "id": 147101560, "level": 2}
+{"count": 968, "name": "MMX", "weight": 1.0, "id": 85918911, "level": 2}
+{"count": 169, "name": "Simics", "weight": 0.0, "id": 2777656516, "level": 2}
+{"count": 332, "name": "UltraSPARC", "weight": 0.0, "id": 96918825, "level": 2}
+{"count": 428, "name": "Itanium", "weight": 0.0, "id": 113670161, "level": 2}
+{"count": 150, "name": "Concurrent Pascal", "weight": 0.0, "id": 2777755785, "level": 2}
+{"count": 99, "name": "Hierarchical INTegration", "weight": 0.0, "id": 2776803566, "level": 2}
+{"count": 174, "name": "Stack machine", "weight": 0.0, "id": 2781411875, "level": 2}
+{"count": 3208, "name": "Computer architecture simulator", "weight": 4.0, "id": 201203610, "level": 2}
+{"count": 142, "name": "POWER8", "weight": 0.0, "id": 2777084958, "level": 2}
+{"count": 103, "name": "Register transfer language", "weight": 0.0, "id": 2778159475, "level": 2}
+{"count": 106, "name": "Tomasulo algorithm", "weight": 0.0, "id": 75651051, "level": 2}
+{"count": 85, "name": "NuBus", "weight": 0.0, "id": 114692199, "level": 2}
+{"count": 38, "name": "IBM System/370", "weight": 0.0, "id": 2778312444, "level": 2}
+{"count": 15, "name": "Little man computer", "weight": 0.0, "id": 2776757857, "level": 2}
+{"count": 4, "name": "Hextet", "weight": 0.0, "id": 2776345819, "level": 2}
+{"count": 8, "name": "NBench", "weight": 0.0, "id": 2779458123, "level": 2}
+{"count": 5, "name": "RPE2", "weight": 0.0, "id": 2778802785, "level": 2}
+{"count": 3, "name": "Giga-updates per second", "weight": 0.0, "id": 2779775524, "level": 2}

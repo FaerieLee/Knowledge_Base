@@ -1,0 +1,31 @@
+{"count": 47, "name": "OAIster", "weight": 0.0, "id": 2776061068, "level": 3}
+{"count": 755, "name": "Application profile", "weight": 1.0, "id": 2778640653, "level": 3}
+{"count": 2825, "name": "Data dictionary", "weight": 3.0, "id": 98143201, "level": 3}
+{"count": 529, "name": "Learning object metadata", "weight": 0.0, "id": 2781294313, "level": 3}
+{"count": 2552, "name": "Data management plan", "weight": 3.0, "id": 158746014, "level": 3}
+{"count": 6537, "name": "Data element", "weight": 8.0, "id": 30872290, "level": 3}
+{"count": 271, "name": "Encoded Archival Description", "weight": 0.0, "id": 2779240881, "level": 3}
+{"count": 461, "name": "Functional Requirements for Bibliographic Records", "weight": 0.0, "id": 2779167189, "level": 3}
+{"count": 583, "name": "Open Archives Initiative", "weight": 0.0, "id": 2780416216, "level": 3}
+{"count": 266, "name": "Open Archival Information System", "weight": 0.0, "id": 2777041775, "level": 3}
+{"count": 1079, "name": "Schema crosswalk", "weight": 1.0, "id": 121193887, "level": 3}
+{"count": 7344, "name": "Metadata repository", "weight": 10.0, "id": 153048206, "level": 3}
+{"count": 212, "name": "TV-Anytime", "weight": 0.0, "id": 2777452754, "level": 3}
+{"count": 221, "name": "Preservation metadata", "weight": 0.0, "id": 2781293718, "level": 3}
+{"count": 215, "name": "BIBFRAME", "weight": 0.0, "id": 2776229341, "level": 3}
+{"count": 147, "name": "Persistent identifier", "weight": 0.0, "id": 2779484992, "level": 3}
+{"count": 225, "name": "Metadatabase", "weight": 0.0, "id": 2781122304, "level": 3}
+{"count": 159, "name": "CORC", "weight": 0.0, "id": 2778442650, "level": 3}
+{"count": 74, "name": "Data Documentation Initiative", "weight": 0.0, "id": 2780157507, "level": 3}
+{"count": 81, "name": "SeaDataNet", "weight": 0.0, "id": 2781277034, "level": 3}
+{"count": 80, "name": "CIDOC Conceptual Reference Model", "weight": 0.0, "id": 2777931464, "level": 3}
+{"count": 197, "name": "Component content management system", "weight": 0.0, "id": 76906544, "level": 3}
+{"count": 44, "name": "Global Change Master Directory", "weight": 0.0, "id": 2776323836, "level": 3}
+{"count": 28, "name": "MARC standards", "weight": 0.0, "id": 2776725650, "level": 3}
+{"count": 13, "name": "Preservation Metadata: Implementation Strategies", "weight": 0.0, "id": 2778502653, "level": 3}
+{"count": 13, "name": "Metadata publishing", "weight": 0.0, "id": 2777030995, "level": 3}
+{"count": 46, "name": "Metadata Encoding and Transmission Standard", "weight": 0.0, "id": 2778139395, "level": 3}
+{"count": 6, "name": "Extensible Metadata Platform", "weight": 0.0, "id": 2777969793, "level": 3}
+{"count": 17, "name": "Protein circular dichroism data bank", "weight": 0.0, "id": 2776751967, "level": 3}
+{"count": 16, "name": "Standard for Exchange of Non-clinical Data", "weight": 0.0, "id": 181254633, "level": 3}
+{"count": 18, "name": "Platform for Internet Content Selection", "weight": 0.0, "id": 2778949218, "level": 3}

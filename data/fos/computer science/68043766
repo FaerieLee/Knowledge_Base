@@ -1,0 +1,5 @@
+{"count": 1187, "name": "Noise margin", "weight": 10.0, "id": 179499742, "level": 3}
+{"count": 454, "name": "eDRAM", "weight": 3.0, "id": 2777487863, "level": 3}
+{"count": 1071, "name": "Bit cell", "weight": 9.0, "id": 2777612928, "level": 3}
+{"count": 23, "name": "1T-SRAM", "weight": 0.0, "id": 2778655182, "level": 3}
+{"count": 15, "name": "Lambda diode", "weight": 0.0, "id": 2779458044, "level": 3}

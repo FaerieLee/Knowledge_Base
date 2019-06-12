@@ -1,0 +1,200 @@
+{"count": 49675, "name": "Very-large-scale integration", "weight": 7.0, "id": 14580979, "level": 2}
+{"count": 38025, "name": "Circuit design", "weight": 5.0, "id": 190560348, "level": 2}
+{"count": 6880, "name": "CATS", "weight": 1.0, "id": 2779904517, "level": 2}
+{"count": 20737, "name": "Application-specific integrated circuit", "weight": 3.0, "id": 77390884, "level": 2}
+{"count": 19882, "name": "Digital electronics", "weight": 2.0, "id": 81843906, "level": 2}
+{"count": 11649, "name": "Real-time operating system", "weight": 1.0, "id": 28472234, "level": 2}
+{"count": 12871, "name": "Electronic design automation", "weight": 1.0, "id": 64260653, "level": 2}
+{"count": 39288, "name": "Smart card", "weight": 5.0, "id": 110406131, "level": 2}
+{"count": 53667, "name": "Microcontroller", "weight": 7.0, "id": 173018170, "level": 2}
+{"count": 67733, "name": "Remote control", "weight": 10.0, "id": 557691694, "level": 2}
+{"count": 41603, "name": "Wearable computer", "weight": 6.0, "id": 150594956, "level": 2}
+{"count": 13685, "name": "Network interface", "weight": 2.0, "id": 103987645, "level": 2}
+{"count": 28584, "name": "GSM", "weight": 4.0, "id": 59201141, "level": 2}
+{"count": 17913, "name": "Home automation", "weight": 2.0, "id": 507571656, "level": 2}
+{"count": 53171, "name": "Microprocessor", "weight": 7.0, "id": 2780728072, "level": 2}
+{"count": 7913, "name": "Static timing analysis", "weight": 1.0, "id": 93682380, "level": 2}
+{"count": 6210, "name": "Built-in self-test", "weight": 0.0, "id": 2780980493, "level": 2}
+{"count": 17570, "name": "Shift register", "weight": 2.0, "id": 49654631, "level": 2}
+{"count": 26250, "name": "Flash memory", "weight": 3.0, "id": 2776531357, "level": 2}
+{"count": 6115, "name": "Design for testing", "weight": 0.0, "id": 190874656, "level": 2}
+{"count": 10227, "name": "Fault model", "weight": 1.0, "id": 167391956, "level": 2}
+{"count": 7698, "name": "Human\u2013machine interface", "weight": 1.0, "id": 165024716, "level": 2}
+{"count": 5969, "name": "Signal integrity", "weight": 0.0, "id": 44938667, "level": 2}
+{"count": 9427, "name": "Automatic test pattern generation", "weight": 1.0, "id": 17626397, "level": 2}
+{"count": 9952, "name": "Data logger", "weight": 1.0, "id": 159234332, "level": 2}
+{"count": 31144, "name": "Bottleneck", "weight": 4.0, "id": 2780513914, "level": 2}
+{"count": 7371, "name": "Automatic test equipment", "weight": 1.0, "id": 141842801, "level": 2}
+{"count": 8107, "name": "Design flow", "weight": 1.0, "id": 37135326, "level": 2}
+{"count": 10257, "name": "Programmable logic device", "weight": 1.0, "id": 206274596, "level": 2}
+{"count": 30128, "name": "Ethernet", "weight": 4.0, "id": 172173386, "level": 2}
+{"count": 11034, "name": "SCADA", "weight": 1.0, "id": 113863187, "level": 2}
+{"count": 5932, "name": "Real-time simulation", "weight": 0.0, "id": 2781469108, "level": 2}
+{"count": 7608, "name": "Hardware-in-the-loop simulation", "weight": 1.0, "id": 70587628, "level": 2}
+{"count": 5273, "name": "Power optimization", "weight": 0.0, "id": 168292644, "level": 2}
+{"count": 15511, "name": "CAN bus", "weight": 2.0, "id": 201762086, "level": 2}
+{"count": 4794, "name": "EPROM", "weight": 0.0, "id": 163980746, "level": 2}
+{"count": 2886, "name": "Electronic system-level design and verification", "weight": 0.0, "id": 77495112, "level": 2}
+{"count": 3744, "name": "Human interface device", "weight": 0.0, "id": 101749295, "level": 2}
+{"count": 3568, "name": "Plug and play", "weight": 0.0, "id": 2780070844, "level": 2}
+{"count": 4918, "name": "Remote operation", "weight": 0.0, "id": 2778697102, "level": 2}
+{"count": 6780, "name": "Vehicle tracking system", "weight": 1.0, "id": 84119951, "level": 2}
+{"count": 319, "name": "VEMS", "weight": 0.0, "id": 2779780447, "level": 2}
+{"count": 29796, "name": "Serial communication", "weight": 4.0, "id": 51707140, "level": 2}
+{"count": 11199, "name": "Test bench", "weight": 1.0, "id": 2776266606, "level": 2}
+{"count": 2684, "name": "Gigabit Ethernet", "weight": 0.0, "id": 2776379158, "level": 2}
+{"count": 5820, "name": "Device under test", "weight": 0.0, "id": 76249512, "level": 2}
+{"count": 10884, "name": "Arduino", "weight": 1.0, "id": 136501162, "level": 2}
+{"count": 37697, "name": "Peripheral", "weight": 5.0, "id": 46762472, "level": 2}
+{"count": 2622, "name": "System in package", "weight": 0.0, "id": 146667757, "level": 2}
+{"count": 5952, "name": "Complex programmable logic device", "weight": 0.0, "id": 128315158, "level": 2}
+{"count": 5089, "name": "Remotely operated vehicle", "weight": 0.0, "id": 64228939, "level": 2}
+{"count": 17007, "name": "Wire bonding", "weight": 2.0, "id": 140269135, "level": 2}
+{"count": 13935, "name": "Firmware", "weight": 2.0, "id": 67212190, "level": 2}
+{"count": 39461, "name": "USB", "weight": 5.0, "id": 507366226, "level": 2}
+{"count": 6517, "name": "Near field communication", "weight": 0.0, "id": 175604262, "level": 2}
+{"count": 7881, "name": "Backplane", "weight": 1.0, "id": 134256836, "level": 2}
+{"count": 719, "name": "Information appliance", "weight": 0.0, "id": 77579232, "level": 2}
+{"count": 7689, "name": "Network interface controller", "weight": 1.0, "id": 171659815, "level": 2}
+{"count": 5571, "name": "BIOS", "weight": 0.0, "id": 536060405, "level": 2}
+{"count": 2518, "name": "Co-simulation", "weight": 0.0, "id": 2780974030, "level": 2}
+{"count": 6092, "name": "Smart camera", "weight": 0.0, "id": 161334170, "level": 2}
+{"count": 4071, "name": "Mass storage", "weight": 0.0, "id": 125041420, "level": 2}
+{"count": 1165, "name": "Tethering", "weight": 0.0, "id": 201815810, "level": 2}
+{"count": 3567, "name": "Direct memory access", "weight": 0.0, "id": 37724790, "level": 2}
+{"count": 1621, "name": "PowerPC", "weight": 0.0, "id": 56005371, "level": 2}
+{"count": 2479, "name": "Industry 4.0", "weight": 0.0, "id": 2777986313, "level": 2}
+{"count": 19986, "name": "Host (network)", "weight": 2.0, "id": 195917429, "level": 2}
+{"count": 2460, "name": "Logical disk", "weight": 0.0, "id": 132498482, "level": 2}
+{"count": 12075, "name": "Serial port", "weight": 1.0, "id": 102349902, "level": 2}
+{"count": 3762, "name": "Floppy disk", "weight": 0.0, "id": 2777549114, "level": 2}
+{"count": 16419, "name": "Interfacing", "weight": 2.0, "id": 2776303644, "level": 2}
+{"count": 11256, "name": "Nexus (standard)", "weight": 1.0, "id": 148609458, "level": 2}
+{"count": 4541, "name": "Linux kernel", "weight": 0.0, "id": 553261973, "level": 2}
+{"count": 1875, "name": "Technology CAD", "weight": 0.0, "id": 34929307, "level": 2}
+{"count": 6808, "name": "Videocassette recorder", "weight": 1.0, "id": 65492689, "level": 2}
+{"count": 3974, "name": "Smart device", "weight": 0.0, "id": 2776898695, "level": 2}
+{"count": 4419, "name": "Rework", "weight": 0.0, "id": 2776543023, "level": 2}
+{"count": 34411, "name": "Installation", "weight": 5.0, "id": 146778888, "level": 2}
+{"count": 5126, "name": "Standard cell", "weight": 0.0, "id": 78401558, "level": 2}
+{"count": 6563, "name": "Joystick", "weight": 0.0, "id": 96439379, "level": 2}
+{"count": 3358, "name": "ARM architecture", "weight": 0.0, "id": 26771161, "level": 2}
+{"count": 2962, "name": "Windows NT", "weight": 0.0, "id": 531996449, "level": 2}
+{"count": 7478, "name": "EEPROM", "weight": 1.0, "id": 27699510, "level": 2}
+{"count": 6362, "name": "Touchscreen", "weight": 0.0, "id": 2778539339, "level": 2}
+{"count": 61126, "name": "Adapter (computing)", "weight": 9.0, "id": 177284502, "level": 2}
+{"count": 3393, "name": "Video Graphics Array", "weight": 0.0, "id": 139983466, "level": 2}
+{"count": 5246, "name": "Embedded operating system", "weight": 0.0, "id": 35939892, "level": 2}
+{"count": 1309, "name": "FlexRay", "weight": 0.0, "id": 2777648190, "level": 2}
+{"count": 1947, "name": "I\u00b2C", "weight": 0.0, "id": 2781150094, "level": 2}
+{"count": 2236, "name": "Universal Plug and Play", "weight": 0.0, "id": 177066171, "level": 2}
+{"count": 2703, "name": "Modbus", "weight": 0.0, "id": 2776666747, "level": 2}
+{"count": 806, "name": "Tape-automated bonding", "weight": 0.0, "id": 2780100444, "level": 2}
+{"count": 7204, "name": "Subscriber identity module", "weight": 1.0, "id": 40367706, "level": 2}
+{"count": 5012, "name": "Booting", "weight": 0.0, "id": 504728807, "level": 2}
+{"count": 1388, "name": "Power network design", "weight": 0.0, "id": 164565468, "level": 2}
+{"count": 16385, "name": "Programmer", "weight": 2.0, "id": 2778514511, "level": 2}
+{"count": 12881, "name": "Handset", "weight": 1.0, "id": 2779971919, "level": 2}
+{"count": 936, "name": "RS-485", "weight": 0.0, "id": 67549784, "level": 2}
+{"count": 6526, "name": "Memory module", "weight": 0.0, "id": 2777905004, "level": 2}
+{"count": 4845, "name": "Potting", "weight": 0.0, "id": 115008941, "level": 2}
+{"count": 20208, "name": "System bus", "weight": 2.0, "id": 136321198, "level": 2}
+{"count": 817, "name": "Physical computing", "weight": 0.0, "id": 128582244, "level": 2}
+{"count": 2539, "name": "Parallel port", "weight": 0.0, "id": 202683721, "level": 2}
+{"count": 1791, "name": "Indoor positioning system", "weight": 0.0, "id": 2777486483, "level": 2}
+{"count": 3002, "name": "Scan chain", "weight": 0.0, "id": 150012182, "level": 2}
+{"count": 7497, "name": "Porting", "weight": 1.0, "id": 106251023, "level": 2}
+{"count": 1181, "name": "iSCSI", "weight": 0.0, "id": 2779831433, "level": 2}
+{"count": 2301, "name": "SMT placement equipment", "weight": 0.0, "id": 17511633, "level": 2}
+{"count": 1103, "name": "SerDes", "weight": 0.0, "id": 19707634, "level": 2}
+{"count": 266, "name": "Engineering change order", "weight": 0.0, "id": 70207198, "level": 2}
+{"count": 455, "name": "DirectShow", "weight": 0.0, "id": 2776187073, "level": 2}
+{"count": 14907, "name": "Card reader", "weight": 2.0, "id": 104650184, "level": 2}
+{"count": 4311, "name": "Touchpad", "weight": 0.0, "id": 43199551, "level": 2}
+{"count": 824, "name": "Single-board computer", "weight": 0.0, "id": 2779497985, "level": 2}
+{"count": 6126, "name": "Portable computer", "weight": 0.0, "id": 2779259846, "level": 2}
+{"count": 812, "name": "Asset tracking", "weight": 0.0, "id": 2780225962, "level": 2}
+{"count": 1627, "name": "MP3 player", "weight": 0.0, "id": 2779250275, "level": 2}
+{"count": 592, "name": "Timing closure", "weight": 0.0, "id": 2777993498, "level": 2}
+{"count": 1583, "name": "Home security", "weight": 0.0, "id": 2779750879, "level": 2}
+{"count": 3703, "name": "Netlist", "weight": 0.0, "id": 177650935, "level": 2}
+{"count": 319, "name": "Embedded intelligence", "weight": 0.0, "id": 2777661930, "level": 2}
+{"count": 1426, "name": "Real-time clock", "weight": 0.0, "id": 187914562, "level": 2}
+{"count": 856, "name": "Intelligent electronic device", "weight": 0.0, "id": 2778921735, "level": 2}
+{"count": 582, "name": "OLE for Process Control", "weight": 0.0, "id": 118592710, "level": 2}
+{"count": 505, "name": "SpaceWire", "weight": 0.0, "id": 2780087167, "level": 2}
+{"count": 1330, "name": "Virtual device", "weight": 0.0, "id": 2780237174, "level": 2}
+{"count": 592, "name": "Radio button", "weight": 0.0, "id": 87770447, "level": 2}
+{"count": 5781, "name": "Interposer", "weight": 0.0, "id": 158802814, "level": 2}
+{"count": 2017, "name": "Hot swapping", "weight": 0.0, "id": 122180553, "level": 2}
+{"count": 393, "name": "Front end processor", "weight": 0.0, "id": 56731156, "level": 2}
+{"count": 2921, "name": "HDMI", "weight": 0.0, "id": 2779408293, "level": 2}
+{"count": 2262, "name": "Computer monitor", "weight": 0.0, "id": 2777126821, "level": 2}
+{"count": 2410, "name": "SCSI", "weight": 0.0, "id": 2781430025, "level": 2}
+{"count": 1426, "name": "Remote monitoring and control", "weight": 0.0, "id": 33846599, "level": 2}
+{"count": 553, "name": "Remote Terminal Unit", "weight": 0.0, "id": 115089981, "level": 2}
+{"count": 4241, "name": "Disk controller", "weight": 0.0, "id": 185933418, "level": 2}
+{"count": 9875, "name": "Keypad", "weight": 1.0, "id": 2780140372, "level": 2}
+{"count": 1006, "name": "Hot spare", "weight": 0.0, "id": 122195918, "level": 2}
+{"count": 709, "name": "IP camera", "weight": 0.0, "id": 2776290215, "level": 2}
+{"count": 862, "name": "DIMM", "weight": 0.0, "id": 83401034, "level": 2}
+{"count": 1181, "name": "Blade server", "weight": 0.0, "id": 62068511, "level": 2}
+{"count": 742, "name": "Ground control station", "weight": 0.0, "id": 2780371932, "level": 2}
+{"count": 4634, "name": "Smart lighting", "weight": 0.0, "id": 89505729, "level": 2}
+{"count": 3729, "name": "Chipset", "weight": 0.0, "id": 73431340, "level": 2}
+{"count": 2366, "name": "Virtual desktop", "weight": 0.0, "id": 112999334, "level": 2}
+{"count": 5721, "name": "Motherboard", "weight": 0.0, "id": 2777697265, "level": 2}
+{"count": 1542, "name": "Routing (electronic design automation)", "weight": 0.0, "id": 74172769, "level": 2}
+{"count": 299, "name": "1-Wire", "weight": 0.0, "id": 2780071167, "level": 2}
+{"count": 1385, "name": "Small form factor", "weight": 0.0, "id": 2778080309, "level": 2}
+{"count": 371, "name": "On-board diagnostics", "weight": 0.0, "id": 2776882647, "level": 2}
+{"count": 3967, "name": "Intercom", "weight": 0.0, "id": 190187879, "level": 2}
+{"count": 986, "name": "Programmable read-only memory", "weight": 0.0, "id": 39496706, "level": 2}
+{"count": 15516, "name": "Control bus", "weight": 2.0, "id": 203315745, "level": 2}
+{"count": 4789, "name": "Buzzer", "weight": 0.0, "id": 2777642091, "level": 2}
+{"count": 269, "name": "Portable communications device", "weight": 0.0, "id": 2776515894, "level": 2}
+{"count": 441, "name": "Northbridge", "weight": 0.0, "id": 194947743, "level": 2}
+{"count": 3163, "name": "Docking station", "weight": 0.0, "id": 2778216589, "level": 2}
+{"count": 133, "name": "CompactFlash", "weight": 0.0, "id": 2777813473, "level": 2}
+{"count": 8677, "name": "Headset", "weight": 1.0, "id": 2780657452, "level": 2}
+{"count": 171, "name": "Sousveillance", "weight": 0.0, "id": 2780116518, "level": 2}
+{"count": 475, "name": "Remote diagnostics", "weight": 0.0, "id": 2780688967, "level": 2}
+{"count": 361, "name": "Advanced Configuration and Power Interface", "weight": 0.0, "id": 39385165, "level": 2}
+{"count": 907, "name": "Tachograph", "weight": 0.0, "id": 2779863869, "level": 2}
+{"count": 205, "name": "Z-Wave", "weight": 0.0, "id": 2779249577, "level": 2}
+{"count": 1387, "name": "Desktop Management Interface", "weight": 0.0, "id": 5587277, "level": 2}
+{"count": 250, "name": "SUMIT", "weight": 0.0, "id": 2778904015, "level": 2}
+{"count": 2228, "name": "Reboot", "weight": 0.0, "id": 120524526, "level": 2}
+{"count": 2633, "name": "Voice command device", "weight": 0.0, "id": 178718744, "level": 2}
+{"count": 2808, "name": "Tape drive", "weight": 0.0, "id": 2780147157, "level": 2}
+{"count": 873, "name": "Reference design", "weight": 0.0, "id": 2779184745, "level": 2}
+{"count": 4531, "name": "Change control board", "weight": 0.0, "id": 39736607, "level": 2}
+{"count": 402, "name": "Onboard camera", "weight": 0.0, "id": 2778217040, "level": 2}
+{"count": 1019, "name": "Mask ROM", "weight": 0.0, "id": 26229213, "level": 2}
+{"count": 722, "name": "Protocol converter", "weight": 0.0, "id": 2779356193, "level": 2}
+{"count": 201, "name": "Portable application", "weight": 0.0, "id": 2776314964, "level": 2}
+{"count": 735, "name": "Interface standard", "weight": 0.0, "id": 2779089706, "level": 2}
+{"count": 19, "name": "FR-2", "weight": 0.0, "id": 2779891621, "level": 2}
+{"count": 195, "name": "Train communication network", "weight": 0.0, "id": 2780775721, "level": 2}
+{"count": 220, "name": "Manufacturing Message Specification", "weight": 0.0, "id": 2779016830, "level": 2}
+{"count": 1384, "name": "CD player", "weight": 0.0, "id": 2777693020, "level": 2}
+{"count": 408, "name": "Remote camera", "weight": 0.0, "id": 2778772182, "level": 2}
+{"count": 756, "name": "Floodlight", "weight": 0.0, "id": 2777273864, "level": 2}
+{"count": 3639, "name": "External storage", "weight": 0.0, "id": 2777218146, "level": 2}
+{"count": 494, "name": "Virtual terminal", "weight": 0.0, "id": 2780671718, "level": 2}
+{"count": 5577, "name": "Cordless", "weight": 0.0, "id": 2781286587, "level": 2}
+{"count": 193, "name": "CODESYS", "weight": 0.0, "id": 35245585, "level": 2}
+{"count": 419, "name": "Serial ATA", "weight": 0.0, "id": 549677374, "level": 2}
+{"count": 334, "name": "Radio modem", "weight": 0.0, "id": 2776709125, "level": 2}
+{"count": 431, "name": "Flash drive", "weight": 0.0, "id": 2779449629, "level": 2}
+{"count": 271, "name": "DisplayPort", "weight": 0.0, "id": 2779108305, "level": 2}
+{"count": 176, "name": "Multi-monitor", "weight": 0.0, "id": 2779628391, "level": 2}
+{"count": 267, "name": "Paparazzi Project", "weight": 0.0, "id": 177709708, "level": 2}
+{"count": 1967, "name": "Terminal server", "weight": 0.0, "id": 2779072137, "level": 2}
+{"count": 265, "name": "Protected mode", "weight": 0.0, "id": 2776138742, "level": 2}
+{"count": 105, "name": "Thermal profiling", "weight": 0.0, "id": 2781352779, "level": 2}
+{"count": 237, "name": "Mobile data terminal", "weight": 0.0, "id": 168256903, "level": 2}
+{"count": 2431, "name": "Expansion card", "weight": 0.0, "id": 156845141, "level": 2}
+{"count": 1366, "name": "Computer module", "weight": 0.0, "id": 81325347, "level": 2}
+{"count": 220, "name": "IEEE-488", "weight": 0.0, "id": 2779911397, "level": 2}
+{"count": 1455, "name": "DVD player", "weight": 0.0, "id": 2778384060, "level": 2}

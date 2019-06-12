@@ -1,0 +1,7 @@
+{"count": 204, "name": "Literature-based discovery", "weight": 1.0, "id": 2777522647, "level": 3}
+{"count": 1089, "name": "Biomedical text mining", "weight": 5.0, "id": 165141518, "level": 3}
+{"count": 2008, "name": "Concept mining", "weight": 10.0, "id": 176775163, "level": 3}
+{"count": 1841, "name": "Text graph", "weight": 9.0, "id": 66945725, "level": 3}
+{"count": 23, "name": "Auto-text", "weight": 0.0, "id": 2781360559, "level": 3}
+{"count": 31, "name": "w-shingling", "weight": 0.0, "id": 25047087, "level": 3}
+{"count": 26, "name": "Biocurator", "weight": 0.0, "id": 161250554, "level": 3}

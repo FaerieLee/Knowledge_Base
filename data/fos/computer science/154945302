@@ -1,0 +1,200 @@
+{"count": 373076, "name": "Artificial neural network", "weight": 10.0, "id": 50644808, "level": 2}
+{"count": 30075, "name": "Morphology (linguistics)", "weight": 0.0, "id": 111330293, "level": 2}
+{"count": 295155, "name": "Image processing", "weight": 7.0, "id": 9417928, "level": 2}
+{"count": 158233, "name": "Genetic algorithm", "weight": 4.0, "id": 8880873, "level": 2}
+{"count": 99426, "name": "Image resolution", "weight": 2.0, "id": 205372480, "level": 2}
+{"count": 81469, "name": "Principal component analysis", "weight": 2.0, "id": 27438332, "level": 2}
+{"count": 61223, "name": "Statistical model", "weight": 1.0, "id": 114289077, "level": 2}
+{"count": 149277, "name": "Feature extraction", "weight": 4.0, "id": 52622490, "level": 2}
+{"count": 69621, "name": "Computational complexity theory", "weight": 1.0, "id": 179799912, "level": 2}
+{"count": 215752, "name": "Robustness (computer science)", "weight": 5.0, "id": 97970142, "level": 2}
+{"count": 123278, "name": "Support vector machine", "weight": 3.0, "id": 12267149, "level": 2}
+{"count": 59574, "name": "Algorithm design", "weight": 1.0, "id": 106516650, "level": 2}
+{"count": 110278, "name": "Electroencephalography", "weight": 2.0, "id": 522805319, "level": 2}
+{"count": 67975, "name": "Iterative reconstruction", "weight": 1.0, "id": 141379421, "level": 2}
+{"count": 158728, "name": "Visualization", "weight": 4.0, "id": 36464697, "level": 2}
+{"count": 30199, "name": "Information theory", "weight": 0.0, "id": 52622258, "level": 2}
+{"count": 85712, "name": "Mobile robot", "weight": 2.0, "id": 19966478, "level": 2}
+{"count": 57941, "name": "Data compression", "weight": 1.0, "id": 78548338, "level": 2}
+{"count": 89194, "name": "Image segmentation", "weight": 2.0, "id": 124504099, "level": 2}
+{"count": 71910, "name": "Kalman filter", "weight": 1.0, "id": 157286648, "level": 2}
+{"count": 54596, "name": "Time series", "weight": 1.0, "id": 151406439, "level": 2}
+{"count": 103070, "name": "Semantics", "weight": 2.0, "id": 124246873, "level": 2}
+{"count": 60146, "name": "Complex system", "weight": 1.0, "id": 125748, "level": 2}
+{"count": 59560, "name": "Medical imaging", "weight": 1.0, "id": 31601959, "level": 2}
+{"count": 63780, "name": "Expert system", "weight": 1.0, "id": 58328972, "level": 2}
+{"count": 206465, "name": "Cluster analysis", "weight": 5.0, "id": 73555534, "level": 2}
+{"count": 78551, "name": "Coding (social sciences)", "weight": 2.0, "id": 179518139, "level": 2}
+{"count": 44325, "name": "Hidden Markov model", "weight": 1.0, "id": 23224414, "level": 2}
+{"count": 263276, "name": "Fuzzy logic", "weight": 7.0, "id": 58166, "level": 2}
+{"count": 93333, "name": "Decision support system", "weight": 2.0, "id": 107327155, "level": 2}
+{"count": 230411, "name": "Robot", "weight": 6.0, "id": 90509273, "level": 2}
+{"count": 27234, "name": "Detection theory", "weight": 0.0, "id": 137270730, "level": 2}
+{"count": 211945, "name": "Filter (signal processing)", "weight": 5.0, "id": 106131492, "level": 2}
+{"count": 62988, "name": "Bayesian probability", "weight": 1.0, "id": 107673813, "level": 2}
+{"count": 66968, "name": "Quantization (signal processing)", "weight": 1.0, "id": 28855332, "level": 2}
+{"count": 116708, "name": "Interpolation", "weight": 3.0, "id": 17378031, "level": 2}
+{"count": 77901, "name": "Encoding (memory)", "weight": 2.0, "id": 125411270, "level": 2}
+{"count": 62604, "name": "Knowledge base", "weight": 1.0, "id": 4554734, "level": 2}
+{"count": 12020, "name": "Self-organization", "weight": 0.0, "id": 106960710, "level": 2}
+{"count": 78471, "name": "Image quality", "weight": 2.0, "id": 55020928, "level": 2}
+{"count": 57852, "name": "Noise reduction", "weight": 1.0, "id": 163294075, "level": 2}
+{"count": 28738, "name": "k-nearest neighbors algorithm", "weight": 0.0, "id": 113238511, "level": 2}
+{"count": 16344, "name": "Cognitive neuroscience of visual object recognition", "weight": 0.0, "id": 64876066, "level": 2}
+{"count": 59622, "name": "Segmentation", "weight": 1.0, "id": 89600930, "level": 2}
+{"count": 241696, "name": "Actuator", "weight": 6.0, "id": 172707124, "level": 2}
+{"count": 250973, "name": "Pixel", "weight": 6.0, "id": 160633673, "level": 2}
+{"count": 37571, "name": "Dynamic programming", "weight": 1.0, "id": 37404715, "level": 2}
+{"count": 41021, "name": "Computer graphics", "weight": 1.0, "id": 77660652, "level": 2}
+{"count": 43119, "name": "Decision tree", "weight": 1.0, "id": 84525736, "level": 2}
+{"count": 27969, "name": "Visual cortex", "weight": 0.0, "id": 2779345533, "level": 2}
+{"count": 37275, "name": "Eye movement", "weight": 0.0, "id": 153050134, "level": 2}
+{"count": 41717, "name": "Facial recognition system", "weight": 1.0, "id": 31510193, "level": 2}
+{"count": 15421, "name": "Adaptive system", "weight": 0.0, "id": 52970973, "level": 2}
+{"count": 57029, "name": "Virtual reality", "weight": 1.0, "id": 194969405, "level": 2}
+{"count": 43804, "name": "Sensor fusion", "weight": 1.0, "id": 33954974, "level": 2}
+{"count": 26336, "name": "Gaussian process", "weight": 0.0, "id": 61326573, "level": 2}
+{"count": 29851, "name": "Word error rate", "weight": 0.0, "id": 40969351, "level": 2}
+{"count": 53612, "name": "Natural language", "weight": 1.0, "id": 195324797, "level": 2}
+{"count": 18186, "name": "Cross-correlation", "weight": 0.0, "id": 163018871, "level": 2}
+{"count": 44285, "name": "Multi-agent system", "weight": 1.0, "id": 41550386, "level": 2}
+{"count": 50871, "name": "Synthetic aperture radar", "weight": 1.0, "id": 87360688, "level": 2}
+{"count": 20764, "name": "Expectation\u2013maximization algorithm", "weight": 0.0, "id": 182081679, "level": 2}
+{"count": 126548, "name": "Wavelet", "weight": 3.0, "id": 47432892, "level": 2}
+{"count": 17044, "name": "Computational geometry", "weight": 0.0, "id": 29123130, "level": 2}
+{"count": 40360, "name": "Object detection", "weight": 1.0, "id": 2776151529, "level": 2}
+{"count": 48959, "name": "Feature selection", "weight": 1.0, "id": 148483581, "level": 2}
+{"count": 24595, "name": "Spatial frequency", "weight": 0.0, "id": 100921725, "level": 2}
+{"count": 42300, "name": "Motion planning", "weight": 1.0, "id": 81074085, "level": 2}
+{"count": 36599, "name": "Linear discriminant analysis", "weight": 0.0, "id": 69738355, "level": 2}
+{"count": 32691, "name": "Simulated annealing", "weight": 0.0, "id": 126980161, "level": 2}
+{"count": 38071, "name": "Motion estimation", "weight": 1.0, "id": 10161872, "level": 2}
+{"count": 59066, "name": "Prosthesis", "weight": 1.0, "id": 2778715743, "level": 2}
+{"count": 62705, "name": "Language acquisition", "weight": 1.0, "id": 74672266, "level": 2}
+{"count": 19039, "name": "Time\u2013frequency analysis", "weight": 0.0, "id": 142433447, "level": 2}
+{"count": 30459, "name": "Gaussian noise", "weight": 0.0, "id": 4199805, "level": 2}
+{"count": 44078, "name": "Coordinate system", "weight": 1.0, "id": 80551277, "level": 2}
+{"count": 10195, "name": "Brain mapping", "weight": 0.0, "id": 50231774, "level": 2}
+{"count": 41540, "name": "Technological change", "weight": 1.0, "id": 137996800, "level": 2}
+{"count": 39066, "name": "Evolutionary algorithm", "weight": 1.0, "id": 159149176, "level": 2}
+{"count": 50999, "name": "Spatial analysis", "weight": 1.0, "id": 159620131, "level": 2}
+{"count": 47230, "name": "Feature vector", "weight": 1.0, "id": 83665646, "level": 2}
+{"count": 29482, "name": "Knowledge representation and reasoning", "weight": 0.0, "id": 161301231, "level": 2}
+{"count": 35892, "name": "Machine vision", "weight": 0.0, "id": 5339829, "level": 2}
+{"count": 23217, "name": "Optical imaging", "weight": 0.0, "id": 92630104, "level": 2}
+{"count": 31653, "name": "Knowledge-based systems", "weight": 0.0, "id": 115925183, "level": 2}
+{"count": 27509, "name": "Facial expression", "weight": 0.0, "id": 195704467, "level": 2}
+{"count": 64733, "name": "Image sensor", "weight": 1.0, "id": 76935873, "level": 2}
+{"count": 19110, "name": "Cross-validation", "weight": 0.0, "id": 27181475, "level": 2}
+{"count": 31745, "name": "Speech processing", "weight": 0.0, "id": 61328038, "level": 2}
+{"count": 26876, "name": "Missing data", "weight": 0.0, "id": 9357733, "level": 2}
+{"count": 47638, "name": "Data modeling", "weight": 1.0, "id": 67186912, "level": 2}
+{"count": 27811, "name": "Mixture model", "weight": 0.0, "id": 61224824, "level": 2}
+{"count": 33421, "name": "Search algorithm", "weight": 0.0, "id": 125583679, "level": 2}
+{"count": 32753, "name": "Noise measurement", "weight": 0.0, "id": 29265498, "level": 2}
+{"count": 19182, "name": "Matched filter", "weight": 0.0, "id": 50151734, "level": 2}
+{"count": 102720, "name": "Syntax", "weight": 2.0, "id": 60048249, "level": 2}
+{"count": 7364, "name": "Line-of-sight", "weight": 0.0, "id": 2780928442, "level": 2}
+{"count": 62701, "name": "Kernel (linear algebra)", "weight": 1.0, "id": 99018454, "level": 2}
+{"count": 41507, "name": "Field of view", "weight": 1.0, "id": 150627866, "level": 2}
+{"count": 22635, "name": "Rule-based system", "weight": 0.0, "id": 149271511, "level": 2}
+{"count": 29220, "name": "Bayesian inference", "weight": 0.0, "id": 160234255, "level": 2}
+{"count": 99759, "name": "Vocabulary", "weight": 2.0, "id": 2777601683, "level": 2}
+{"count": 19477, "name": "Solid modeling", "weight": 0.0, "id": 108882727, "level": 2}
+{"count": 35674, "name": "Fusion", "weight": 0.0, "id": 158525013, "level": 2}
+{"count": 28041, "name": "Receiver operating characteristic", "weight": 0.0, "id": 58471807, "level": 2}
+{"count": 43993, "name": "Histogram", "weight": 1.0, "id": 53533937, "level": 2}
+{"count": 37510, "name": "Biometrics", "weight": 1.0, "id": 184297639, "level": 2}
+{"count": 24838, "name": "Bayesian network", "weight": 0.0, "id": 33724603, "level": 2}
+{"count": 16830, "name": "Posterior probability", "weight": 0.0, "id": 57830394, "level": 2}
+{"count": 35151, "name": "Multi-objective optimization", "weight": 0.0, "id": 68781425, "level": 2}
+{"count": 31991, "name": "Intrusion detection system", "weight": 0.0, "id": 35525427, "level": 2}
+{"count": 27874, "name": "Global optimization", "weight": 0.0, "id": 164752517, "level": 2}
+{"count": 70151, "name": "Brightness", "weight": 1.0, "id": 125245961, "level": 2}
+{"count": 63521, "name": "Particle swarm optimization", "weight": 1.0, "id": 85617194, "level": 2}
+{"count": 26677, "name": "Bayes' theorem", "weight": 0.0, "id": 207201462, "level": 2}
+{"count": 24928, "name": "Skeleton (computer programming)", "weight": 0.0, "id": 18969341, "level": 2}
+{"count": 20237, "name": "Cellular automaton", "weight": 0.0, "id": 35527583, "level": 2}
+{"count": 27576, "name": "Image registration", "weight": 0.0, "id": 166704113, "level": 2}
+{"count": 22804, "name": "Combinatorial optimization", "weight": 0.0, "id": 52692508, "level": 2}
+{"count": 8067, "name": "Minification", "weight": 0.0, "id": 147764199, "level": 2}
+{"count": 17599, "name": "Adaptive algorithm", "weight": 0.0, "id": 2776003309, "level": 2}
+{"count": 22831, "name": "Region of interest", "weight": 0.0, "id": 19609008, "level": 2}
+{"count": 16981, "name": "Word recognition", "weight": 0.0, "id": 150856459, "level": 2}
+{"count": 28888, "name": "Image retrieval", "weight": 0.0, "id": 1667742, "level": 2}
+{"count": 27887, "name": "Visual field", "weight": 0.0, "id": 2776058522, "level": 2}
+{"count": 16238, "name": "Pattern matching", "weight": 0.0, "id": 68859911, "level": 2}
+{"count": 93557, "name": "Inference", "weight": 2.0, "id": 2776214188, "level": 2}
+{"count": 21260, "name": "Association rule learning", "weight": 0.0, "id": 193524817, "level": 2}
+{"count": 32973, "name": "Shape-memory alloy", "weight": 0.0, "id": 49097943, "level": 2}
+{"count": 19038, "name": "Model selection", "weight": 0.0, "id": 93959086, "level": 2}
+{"count": 20948, "name": "Knowledge acquisition", "weight": 0.0, "id": 2777220311, "level": 2}
+{"count": 22189, "name": "Information extraction", "weight": 0.0, "id": 195807954, "level": 2}
+{"count": 16835, "name": "Principle of maximum entropy", "weight": 0.0, "id": 9679016, "level": 2}
+{"count": 18722, "name": "Mutual information", "weight": 0.0, "id": 152139883, "level": 2}
+{"count": 50754, "name": "Search engine indexing", "weight": 1.0, "id": 75165309, "level": 2}
+{"count": 26506, "name": "Network model", "weight": 0.0, "id": 104122410, "level": 2}
+{"count": 13484, "name": "Travelling salesman problem", "weight": 0.0, "id": 175859090, "level": 2}
+{"count": 74427, "name": "Grammar", "weight": 1.0, "id": 26022165, "level": 2}
+{"count": 20238, "name": "Unsupervised learning", "weight": 0.0, "id": 8038995, "level": 2}
+{"count": 26455, "name": "System dynamics", "weight": 0.0, "id": 77405623, "level": 2}
+{"count": 16714, "name": "Knowledge level", "weight": 0.0, "id": 2776291881, "level": 2}
+{"count": 64476, "name": "Smoothing", "weight": 1.0, "id": 3770464, "level": 2}
+{"count": 20413, "name": "Mechanical system", "weight": 0.0, "id": 171912257, "level": 2}
+{"count": 16039, "name": "Similarity measure", "weight": 0.0, "id": 2776517306, "level": 2}
+{"count": 10598, "name": "Aerial photography", "weight": 0.0, "id": 133214962, "level": 2}
+{"count": 22566, "name": "Rough set", "weight": 0.0, "id": 111012933, "level": 2}
+{"count": 21445, "name": "Particle filter", "weight": 0.0, "id": 52421305, "level": 2}
+{"count": 52562, "name": "Categorization", "weight": 1.0, "id": 94124525, "level": 2}
+{"count": 19680, "name": "Digital elevation model", "weight": 0.0, "id": 181843262, "level": 2}
+{"count": 24675, "name": "Discrete cosine transform", "weight": 0.0, "id": 2221639, "level": 2}
+{"count": 2098, "name": "Automaton", "weight": 0.0, "id": 112505250, "level": 2}
+{"count": 18768, "name": "Decision rule", "weight": 0.0, "id": 84839998, "level": 2}
+{"count": 16695, "name": "Greedy algorithm", "weight": 0.0, "id": 51823790, "level": 2}
+{"count": 16626, "name": "Independent component analysis", "weight": 0.0, "id": 51432778, "level": 2}
+{"count": 28729, "name": "Recommender system", "weight": 0.0, "id": 557471498, "level": 2}
+{"count": 27357, "name": "Reinforcement learning", "weight": 0.0, "id": 97541855, "level": 2}
+{"count": 50654, "name": "Heuristics", "weight": 1.0, "id": 127705205, "level": 2}
+{"count": 25324, "name": "Local search (optimization)", "weight": 0.0, "id": 135320971, "level": 2}
+{"count": 15779, "name": "Gradient descent", "weight": 0.0, "id": 153258448, "level": 2}
+{"count": 12071, "name": "Geometric modeling", "weight": 0.0, "id": 104065381, "level": 2}
+{"count": 3222, "name": "Domain specificity", "weight": 0.0, "id": 2778848085, "level": 2}
+{"count": 18466, "name": "Supervised learning", "weight": 0.0, "id": 136389625, "level": 2}
+{"count": 35144, "name": "Haptic technology", "weight": 0.0, "id": 152086174, "level": 2}
+{"count": 15122, "name": "Filter bank", "weight": 0.0, "id": 100515483, "level": 2}
+{"count": 14647, "name": "Stereopsis", "weight": 0.0, "id": 68537008, "level": 2}
+{"count": 11895, "name": "Mean squared prediction error", "weight": 0.0, "id": 167085575, "level": 2}
+{"count": 28450, "name": "Regularization (mathematics)", "weight": 0.0, "id": 8398441, "level": 2}
+{"count": 26658, "name": "Eye tracking", "weight": 0.0, "id": 56461940, "level": 2}
+{"count": 35613, "name": "Augmented reality", "weight": 0.0, "id": 153715457, "level": 2}
+{"count": 12234, "name": "Spatial filter", "weight": 0.0, "id": 121475858, "level": 2}
+{"count": 9645, "name": "Density estimation", "weight": 0.0, "id": 189508267, "level": 2}
+{"count": 60493, "name": "Emerging technologies", "weight": 1.0, "id": 207267971, "level": 2}
+{"count": 14468, "name": "Tree structure", "weight": 0.0, "id": 163797641, "level": 2}
+{"count": 18050, "name": "Ground truth", "weight": 0.0, "id": 146849305, "level": 2}
+{"count": 15911, "name": "Optical flow", "weight": 0.0, "id": 155542232, "level": 2}
+{"count": 22214, "name": "Deconvolution", "weight": 0.0, "id": 174576160, "level": 2}
+{"count": 12427, "name": "Software agent", "weight": 0.0, "id": 5894958, "level": 2}
+{"count": 18432, "name": "Euclidean distance", "weight": 0.0, "id": 120174047, "level": 2}
+{"count": 16944, "name": "Social system", "weight": 0.0, "id": 179133015, "level": 2}
+{"count": 19538, "name": "Reference frame", "weight": 0.0, "id": 172849965, "level": 2}
+{"count": 12044, "name": "Motion analysis", "weight": 0.0, "id": 2777036941, "level": 2}
+{"count": 21159, "name": "Compressed sensing", "weight": 0.0, "id": 124851039, "level": 2}
+{"count": 10549, "name": "Level set", "weight": 0.0, "id": 115717442, "level": 2}
+{"count": 30327, "name": "Speckle pattern", "weight": 0.0, "id": 102290492, "level": 2}
+{"count": 27675, "name": "Knowledge extraction", "weight": 0.0, "id": 120567893, "level": 2}
+{"count": 8816, "name": "Gibbs sampling", "weight": 0.0, "id": 158424031, "level": 2}
+{"count": 14456, "name": "Point spread function", "weight": 0.0, "id": 69179731, "level": 2}
+{"count": 12473, "name": "Computational linguistics", "weight": 0.0, "id": 155092808, "level": 2}
+{"count": 32414, "name": "Noun", "weight": 0.0, "id": 121934690, "level": 2}
+{"count": 9511, "name": "Formal language", "weight": 0.0, "id": 146072743, "level": 2}
+{"count": 31099, "name": "Hyperspectral imaging", "weight": 0.0, "id": 159078339, "level": 2}
+{"count": 9389, "name": "Multidimensional scaling", "weight": 0.0, "id": 91682802, "level": 2}
+{"count": 16601, "name": "Intelligent agent", "weight": 0.0, "id": 74072328, "level": 2}
+{"count": 3696, "name": "Functional dependency", "weight": 0.0, "id": 26320393, "level": 2}
+{"count": 26660, "name": "Complex system", "weight": 0.0, "id": 47822265, "level": 2}
+{"count": 19501, "name": "Speech synthesis", "weight": 0.0, "id": 14999030, "level": 2}
+{"count": 9308, "name": "Context model", "weight": 0.0, "id": 183322885, "level": 2}
+{"count": 18363, "name": "Speech coding", "weight": 0.0, "id": 13895895, "level": 2}
+{"count": 9259, "name": "Hierarchical database model", "weight": 0.0, "id": 144986985, "level": 2}
+{"count": 11184, "name": "Color vision", "weight": 0.0, "id": 61674017, "level": 2}

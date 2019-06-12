@@ -1,0 +1,3 @@
+{"count": 1467, "name": "Homoscedasticity", "weight": 10.0, "id": 104409967, "level": 3}
+{"count": 61, "name": "Heteroscedasticity-consistent standard errors", "weight": 0.0, "id": 4250042, "level": 3}
+{"count": 234, "name": "Park test", "weight": 1.0, "id": 195739231, "level": 3}

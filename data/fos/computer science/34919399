@@ -1,0 +1,5 @@
+{"count": 572, "name": "Register window", "weight": 7.0, "id": 185526983, "level": 4}
+{"count": 640, "name": "Register renaming", "weight": 8.0, "id": 45404398, "level": 4}
+{"count": 721, "name": "Index register", "weight": 10.0, "id": 202788945, "level": 4}
+{"count": 215, "name": "Zero flag", "weight": 2.0, "id": 203573566, "level": 4}
+{"count": 123, "name": "Program status word", "weight": 1.0, "id": 143315525, "level": 4}

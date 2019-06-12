@@ -1,0 +1,27 @@
+{"count": 8597, "name": "X-ray spectroscopy", "weight": 4.0, "id": 143481972, "level": 3}
+{"count": 17453, "name": "Ultraviolet visible spectroscopy", "weight": 10.0, "id": 66075629, "level": 3}
+{"count": 13881, "name": "Electron spectroscopy", "weight": 7.0, "id": 33893257, "level": 3}
+{"count": 9259, "name": "Fourier transform spectroscopy", "weight": 5.0, "id": 41610221, "level": 3}
+{"count": 7604, "name": "Gamma spectroscopy", "weight": 4.0, "id": 206550106, "level": 3}
+{"count": 5888, "name": "Deep-level transient spectroscopy", "weight": 3.0, "id": 2780080961, "level": 3}
+{"count": 8977, "name": "Time-resolved spectroscopy", "weight": 5.0, "id": 133279788, "level": 3}
+{"count": 6127, "name": "Laser-induced breakdown spectroscopy", "weight": 3.0, "id": 50497907, "level": 3}
+{"count": 4510, "name": "Photoacoustic spectroscopy", "weight": 2.0, "id": 2777286522, "level": 3}
+{"count": 7870, "name": "Terahertz spectroscopy and technology", "weight": 4.0, "id": 77887725, "level": 3}
+{"count": 1383, "name": "Low-energy ion scattering", "weight": 0.0, "id": 2777174998, "level": 3}
+{"count": 2103, "name": "Cavity ring-down spectroscopy", "weight": 1.0, "id": 155552310, "level": 3}
+{"count": 1060, "name": "Photothermal spectroscopy", "weight": 0.0, "id": 2777425595, "level": 3}
+{"count": 2692, "name": "Surface photovoltage", "weight": 1.0, "id": 129396577, "level": 3}
+{"count": 422, "name": "Optogalvanic effect", "weight": 0.0, "id": 2779331706, "level": 3}
+{"count": 4538, "name": "Photoluminescence excitation", "weight": 2.0, "id": 159242009, "level": 3}
+{"count": 705, "name": "Applied spectroscopy", "weight": 0.0, "id": 82925064, "level": 3}
+{"count": 83, "name": "Biomedical spectroscopy", "weight": 0.0, "id": 2780438254, "level": 3}
+{"count": 636, "name": "Sum frequency generation spectroscopy", "weight": 0.0, "id": 2777207611, "level": 3}
+{"count": 309, "name": "Reflectance difference spectroscopy", "weight": 0.0, "id": 2776420410, "level": 3}
+{"count": 1100, "name": "Cold vapour atomic fluorescence spectroscopy", "weight": 0.0, "id": 110132085, "level": 3}
+{"count": 2210, "name": "Two-dimensional infrared spectroscopy", "weight": 1.0, "id": 39539562, "level": 3}
+{"count": 282, "name": "Saturated absorption spectroscopy", "weight": 0.0, "id": 2781257117, "level": 3}
+{"count": 86, "name": "Acoustic resonance spectroscopy", "weight": 0.0, "id": 2776866899, "level": 3}
+{"count": 111, "name": "Thermally stimulated current spectroscopy", "weight": 0.0, "id": 2777516329, "level": 3}
+{"count": 173, "name": "Long-slit spectroscopy", "weight": 0.0, "id": 2777345415, "level": 3}
+{"count": 270, "name": "Photothermal microspectroscopy", "weight": 0.0, "id": 26081457, "level": 3}

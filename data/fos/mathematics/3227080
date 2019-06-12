@@ -1,0 +1,5 @@
+{"count": 322, "name": "Carry-lookahead adder", "weight": 4.0, "id": 2781356224, "level": 4}
+{"count": 683, "name": "Carry-select adder", "weight": 10.0, "id": 2779034284, "level": 4}
+{"count": 106, "name": "Kogge\u2013Stone adder", "weight": 1.0, "id": 2781051833, "level": 4}
+{"count": 178, "name": "Carry-skip adder", "weight": 2.0, "id": 2779876605, "level": 4}
+{"count": 334, "name": "Carry flag", "weight": 4.0, "id": 52457445, "level": 4}

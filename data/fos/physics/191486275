@@ -1,0 +1,79 @@
+{"count": 76335, "name": "Light scattering", "weight": 10.0, "id": 120456961, "level": 3}
+{"count": 34977, "name": "Backscatter", "weight": 4.0, "id": 144743798, "level": 3}
+{"count": 47110, "name": "Elastic scattering", "weight": 6.0, "id": 1924353, "level": 3}
+{"count": 49594, "name": "Inelastic scattering", "weight": 6.0, "id": 142199849, "level": 3}
+{"count": 23950, "name": "Scattering amplitude", "weight": 3.0, "id": 153013531, "level": 3}
+{"count": 13483, "name": "Electron scattering", "weight": 1.0, "id": 146285849, "level": 3}
+{"count": 38113, "name": "Rayleigh scattering", "weight": 4.0, "id": 46244369, "level": 3}
+{"count": 30687, "name": "Scattering theory", "weight": 4.0, "id": 67105901, "level": 3}
+{"count": 17110, "name": "Small-angle X-ray scattering", "weight": 2.0, "id": 131888329, "level": 3}
+{"count": 15881, "name": "Compton scattering", "weight": 2.0, "id": 61203554, "level": 3}
+{"count": 13995, "name": "Brillouin scattering", "weight": 1.0, "id": 43989790, "level": 3}
+{"count": 12836, "name": "Inverse scattering problem", "weight": 1.0, "id": 174558057, "level": 3}
+{"count": 10153, "name": "S-matrix", "weight": 1.0, "id": 161094330, "level": 3}
+{"count": 9205, "name": "Radar cross-section", "weight": 1.0, "id": 101457746, "level": 3}
+{"count": 26614, "name": "Small-angle neutron scattering", "weight": 3.0, "id": 132841051, "level": 3}
+{"count": 6557, "name": "Incoherent scatter", "weight": 0.0, "id": 35777598, "level": 3}
+{"count": 5724, "name": "Small-angle scattering", "weight": 0.0, "id": 112416005, "level": 3}
+{"count": 11534, "name": "Born approximation", "weight": 1.0, "id": 71083448, "level": 3}
+{"count": 7659, "name": "Scattering cross-section", "weight": 1.0, "id": 103684282, "level": 3}
+{"count": 5789, "name": "Forward scatter", "weight": 0.0, "id": 54644633, "level": 3}
+{"count": 2894, "name": "Diffuse sky radiation", "weight": 0.0, "id": 196875640, "level": 3}
+{"count": 5777, "name": "Thomson scattering", "weight": 0.0, "id": 2779146573, "level": 3}
+{"count": 2864, "name": "Discrete dipole approximation", "weight": 0.0, "id": 49874194, "level": 3}
+{"count": 11591, "name": "Phonon scattering", "weight": 1.0, "id": 65053842, "level": 3}
+{"count": 1383, "name": "Low-energy ion scattering", "weight": 0.0, "id": 2777174998, "level": 3}
+{"count": 2521, "name": "Eikonal approximation", "weight": 0.0, "id": 141595757, "level": 3}
+{"count": 19350, "name": "Scattering length", "weight": 2.0, "id": 37196565, "level": 3}
+{"count": 1689, "name": "Anomalous scattering", "weight": 0.0, "id": 2777769593, "level": 3}
+{"count": 1427, "name": "Faddeev equations", "weight": 0.0, "id": 2779309047, "level": 3}
+{"count": 1547, "name": "Uniform theory of diffraction", "weight": 0.0, "id": 186653623, "level": 3}
+{"count": 497, "name": "Subsurface scattering", "weight": 0.0, "id": 205443905, "level": 3}
+{"count": 1342, "name": "Carrier scattering", "weight": 0.0, "id": 2778493138, "level": 3}
+{"count": 999, "name": "Shape resonance", "weight": 0.0, "id": 2780467327, "level": 3}
+{"count": 1297, "name": "Nephelometer", "weight": 0.0, "id": 21158419, "level": 3}
+{"count": 1393, "name": "Diffraction tomography", "weight": 0.0, "id": 2780977457, "level": 3}
+{"count": 1090, "name": "High frequency approximation", "weight": 0.0, "id": 43429940, "level": 3}
+{"count": 157, "name": "Jost function", "weight": 0.0, "id": 2777646209, "level": 3}
+{"count": 278, "name": "Bidirectional scattering distribution function", "weight": 0.0, "id": 52071943, "level": 3}
+{"count": 759, "name": "T-matrix method", "weight": 0.0, "id": 49402112, "level": 3}
+{"count": 538, "name": "Multiple scattering theory", "weight": 0.0, "id": 2780814657, "level": 3}
+{"count": 311, "name": "Anomalous X-ray scattering", "weight": 0.0, "id": 2777679633, "level": 3}
+{"count": 200, "name": "Spatially offset Raman spectroscopy", "weight": 0.0, "id": 2779680814, "level": 3}
+{"count": 2308, "name": "Ionized impurity scattering", "weight": 0.0, "id": 18136748, "level": 3}
+{"count": 375, "name": "Grazing incidence diffraction", "weight": 0.0, "id": 2779425273, "level": 3}
+{"count": 309, "name": "Ewald's sphere", "weight": 0.0, "id": 166379852, "level": 3}
+{"count": 1927, "name": "Scattering rate", "weight": 0.0, "id": 2777913451, "level": 3}
+{"count": 722, "name": "Chaotic scattering", "weight": 0.0, "id": 197247276, "level": 3}
+{"count": 463, "name": "Helium atom scattering", "weight": 0.0, "id": 2776684446, "level": 3}
+{"count": 181, "name": "Deep scattering layer", "weight": 0.0, "id": 2777845105, "level": 3}
+{"count": 239, "name": "Muon tomography", "weight": 0.0, "id": 2778717261, "level": 3}
+{"count": 192, "name": "Analytical regularization", "weight": 0.0, "id": 2780968663, "level": 3}
+{"count": 660, "name": "Ballistic photon", "weight": 0.0, "id": 176938629, "level": 3}
+{"count": 38, "name": "Pierson\u2013Moskowitz spectrum", "weight": 0.0, "id": 2778870031, "level": 3}
+{"count": 138, "name": "Atomic form factor", "weight": 0.0, "id": 2778141182, "level": 3}
+{"count": 98, "name": "Vector radiative transfer", "weight": 0.0, "id": 2781296133, "level": 3}
+{"count": 8217, "name": "Nuclear cross section", "weight": 1.0, "id": 94200605, "level": 3}
+{"count": 214, "name": "Kaonic hydrogen", "weight": 0.0, "id": 2778577139, "level": 3}
+{"count": 308, "name": "Critical opalescence", "weight": 0.0, "id": 3414118, "level": 3}
+{"count": 26, "name": "Anderson's theorem", "weight": 0.0, "id": 2779540100, "level": 3}
+{"count": 91, "name": "Photon diffusion equation", "weight": 0.0, "id": 2775934185, "level": 3}
+{"count": 50, "name": "Orbiton", "weight": 0.0, "id": 2776522838, "level": 3}
+{"count": 58, "name": "Ramsauer\u2013Townsend effect", "weight": 0.0, "id": 2777447315, "level": 3}
+{"count": 745, "name": "Crossed molecular beam", "weight": 0.0, "id": 2777734200, "level": 3}
+{"count": 150, "name": "M\u00f8ller scattering", "weight": 0.0, "id": 2779453955, "level": 3}
+{"count": 303, "name": "Scattering channel", "weight": 0.0, "id": 2781057791, "level": 3}
+{"count": 285, "name": "Scattering from rough surfaces", "weight": 0.0, "id": 2778286393, "level": 3}
+{"count": 140, "name": "Schwinger variational principle", "weight": 0.0, "id": 2779147618, "level": 3}
+{"count": 54, "name": "Wolf effect", "weight": 0.0, "id": 2780158342, "level": 3}
+{"count": 23, "name": "Ewald\u2013Oseen extinction theorem", "weight": 0.0, "id": 2777703603, "level": 3}
+{"count": 24, "name": "Minnaert resonance", "weight": 0.0, "id": 2779182697, "level": 3}
+{"count": 74, "name": "Method of continued fractions", "weight": 0.0, "id": 2777049991, "level": 3}
+{"count": 181, "name": "Material scattering", "weight": 0.0, "id": 2776802736, "level": 3}
+{"count": 25, "name": "Kramers\u2013Heisenberg formula", "weight": 0.0, "id": 190441035, "level": 3}
+{"count": 51, "name": "Borromean nucleus", "weight": 0.0, "id": 2779645041, "level": 3}
+{"count": 26, "name": "X-ray crystal truncation rod", "weight": 0.0, "id": 2775895916, "level": 3}
+{"count": 602, "name": "Theories of cloaking", "weight": 0.0, "id": 85761446, "level": 3}
+{"count": 18, "name": "Light transport theory", "weight": 0.0, "id": 2778788747, "level": 3}
+{"count": 390, "name": "Extinction cross", "weight": 0.0, "id": 2777255933, "level": 3}
+{"count": 20, "name": "Shower-curtain effect", "weight": 0.0, "id": 2777138251, "level": 3}

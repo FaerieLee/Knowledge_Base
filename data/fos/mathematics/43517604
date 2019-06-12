@@ -1,0 +1,11 @@
+{"count": 1694, "name": "Interval graph", "weight": 4.0, "id": 67810366, "level": 4}
+{"count": 1367, "name": "Outerplanar graph", "weight": 3.0, "id": 125792925, "level": 4}
+{"count": 1496, "name": "Dense graph", "weight": 4.0, "id": 13251829, "level": 4}
+{"count": 1964, "name": "Split graph", "weight": 5.0, "id": 8554925, "level": 4}
+{"count": 1233, "name": "Metric dimension", "weight": 3.0, "id": 60933471, "level": 4}
+{"count": 1226, "name": "Book embedding", "weight": 3.0, "id": 180222743, "level": 4}
+{"count": 3608, "name": "Partial k-tree", "weight": 10.0, "id": 128764233, "level": 4}
+{"count": 1900, "name": "Cograph", "weight": 5.0, "id": 59824394, "level": 4}
+{"count": 1991, "name": "Trapezoid graph", "weight": 5.0, "id": 10325715, "level": 4}
+{"count": 239, "name": "Halin graph", "weight": 0.0, "id": 81341796, "level": 4}
+{"count": 8, "name": "Polygon-circle graph", "weight": 0.0, "id": 2776654040, "level": 4}

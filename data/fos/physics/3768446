@@ -1,0 +1,8 @@
+{"count": 865, "name": "Tensor operator", "weight": 4.0, "id": 126412783, "level": 3}
+{"count": 645, "name": "Geopotential model", "weight": 3.0, "id": 153028686, "level": 3}
+{"count": 459, "name": "Fuzzy sphere", "weight": 2.0, "id": 104682228, "level": 3}
+{"count": 1327, "name": "Vector spherical harmonics", "weight": 7.0, "id": 77237485, "level": 3}
+{"count": 1122, "name": "Solid harmonics", "weight": 6.0, "id": 199056591, "level": 3}
+{"count": 1788, "name": "Associated Legendre polynomials", "weight": 10.0, "id": 36956377, "level": 3}
+{"count": 1174, "name": "Spin-weighted spherical harmonics", "weight": 6.0, "id": 20569695, "level": 3}
+{"count": 1107, "name": "Zonal spherical harmonics", "weight": 6.0, "id": 39176672, "level": 3}

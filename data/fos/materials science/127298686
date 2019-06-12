@@ -1,0 +1,38 @@
+{"count": 10839, "name": "Magnetic bearing", "weight": 5.0, "id": 153056533, "level": 3}
+{"count": 20897, "name": "Ball bearing", "weight": 10.0, "id": 99272414, "level": 3}
+{"count": 5234, "name": "Base isolation", "weight": 2.0, "id": 43947826, "level": 3}
+{"count": 7514, "name": "Reynolds equation", "weight": 3.0, "id": 157334427, "level": 3}
+{"count": 7767, "name": "Fluid bearing", "weight": 3.0, "id": 132798551, "level": 3}
+{"count": 11600, "name": "Thrust bearing", "weight": 5.0, "id": 34807220, "level": 3}
+{"count": 1186, "name": "Rotordynamics", "weight": 0.0, "id": 2780581274, "level": 3}
+{"count": 2143, "name": "Foil bearing", "weight": 1.0, "id": 114520438, "level": 3}
+{"count": 4425, "name": "Plain bearing", "weight": 2.0, "id": 199593288, "level": 3}
+{"count": 6577, "name": "Air bearing", "weight": 3.0, "id": 79324624, "level": 3}
+{"count": 1710, "name": "Rolling-element bearing", "weight": 0.0, "id": 2780155820, "level": 3}
+{"count": 5619, "name": "Raceway", "weight": 2.0, "id": 184547230, "level": 3}
+{"count": 1874, "name": "Tapered roller bearing", "weight": 0.0, "id": 2775974204, "level": 3}
+{"count": 931, "name": "Automatic lubrication system", "weight": 0.0, "id": 8034132, "level": 3}
+{"count": 12644, "name": "Bearing surface", "weight": 6.0, "id": 187435122, "level": 3}
+{"count": 417, "name": "Shaft voltage", "weight": 0.0, "id": 2779325604, "level": 3}
+{"count": 1277, "name": "Slewing bearing", "weight": 0.0, "id": 63578307, "level": 3}
+{"count": 470, "name": "Target Motion Analysis", "weight": 0.0, "id": 2780365227, "level": 3}
+{"count": 868, "name": "Babbitt", "weight": 0.0, "id": 2780914392, "level": 3}
+{"count": 1516, "name": "Spherical bearing", "weight": 0.0, "id": 2779474851, "level": 3}
+{"count": 889, "name": "Spherical roller bearing", "weight": 0.0, "id": 134829625, "level": 3}
+{"count": 1594, "name": "Shaft alignment", "weight": 0.0, "id": 69190053, "level": 3}
+{"count": 2576, "name": "Trunnion", "weight": 1.0, "id": 2777149187, "level": 3}
+{"count": 320, "name": "White metal", "weight": 0.0, "id": 74835685, "level": 3}
+{"count": 388, "name": "Load-bearing wall", "weight": 0.0, "id": 2776846933, "level": 3}
+{"count": 106, "name": "Jewel bearing", "weight": 0.0, "id": 106476929, "level": 3}
+{"count": 124, "name": "Flexure bearing", "weight": 0.0, "id": 2776381056, "level": 3}
+{"count": 540, "name": "Needle roller bearing", "weight": 0.0, "id": 2780932666, "level": 3}
+{"count": 221, "name": "Relative bearing", "weight": 0.0, "id": 170262616, "level": 3}
+{"count": 1106, "name": "Ring oiler", "weight": 0.0, "id": 82114994, "level": 3}
+{"count": 35, "name": "False brinelling", "weight": 0.0, "id": 203419942, "level": 3}
+{"count": 452, "name": "Stub axle", "weight": 0.0, "id": 2776377731, "level": 3}
+{"count": 133, "name": "Linear-motion bearing", "weight": 0.0, "id": 2781446746, "level": 3}
+{"count": 48, "name": "Brinelling", "weight": 0.0, "id": 31445381, "level": 3}
+{"count": 326, "name": "Recirculating ball", "weight": 0.0, "id": 57529544, "level": 3}
+{"count": 32, "name": "Pillow block bearing", "weight": 0.0, "id": 2779353626, "level": 3}
+{"count": 164, "name": "Grease fitting", "weight": 0.0, "id": 2779084428, "level": 3}
+{"count": 22, "name": "Absolute bearing", "weight": 0.0, "id": 101990841, "level": 3}

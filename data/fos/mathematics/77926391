@@ -1,0 +1,19 @@
+{"count": 1821, "name": "Irreducible polynomial", "weight": 10.0, "id": 165030954, "level": 3}
+{"count": 667, "name": "Primitive polynomial", "weight": 3.0, "id": 41620472, "level": 3}
+{"count": 627, "name": "Finite field arithmetic", "weight": 3.0, "id": 189178079, "level": 3}
+{"count": 523, "name": "Character sum", "weight": 2.0, "id": 2779681337, "level": 3}
+{"count": 705, "name": "Primitive element", "weight": 3.0, "id": 144825994, "level": 3}
+{"count": 1560, "name": "GF(2)", "weight": 8.0, "id": 156350748, "level": 3}
+{"count": 201, "name": "Tate conjecture", "weight": 1.0, "id": 2778441537, "level": 3}
+{"count": 138, "name": "Algebraic function field", "weight": 0.0, "id": 2781129666, "level": 3}
+{"count": 95, "name": "Weil conjectures", "weight": 0.0, "id": 2777823372, "level": 3}
+{"count": 70, "name": "Dickson polynomial", "weight": 0.0, "id": 2780915494, "level": 3}
+{"count": 80, "name": "Jacobi sum", "weight": 0.0, "id": 2777294539, "level": 3}
+{"count": 98, "name": "Field arithmetic", "weight": 0.0, "id": 2777427355, "level": 3}
+{"count": 40, "name": "Kakeya set", "weight": 0.0, "id": 2777150872, "level": 3}
+{"count": 277, "name": "Local class field theory", "weight": 1.0, "id": 184660791, "level": 3}
+{"count": 22, "name": "Gaussian period", "weight": 0.0, "id": 2776051473, "level": 3}
+{"count": 333, "name": "Absolutely irreducible", "weight": 1.0, "id": 2780410011, "level": 3}
+{"count": 340, "name": "Primitive element theorem", "weight": 1.0, "id": 103706887, "level": 3}
+{"count": 19, "name": "Brauer\u2013Siegel theorem", "weight": 0.0, "id": 2778327523, "level": 3}
+{"count": 30, "name": "Index calculus algorithm", "weight": 0.0, "id": 2776476781, "level": 3}

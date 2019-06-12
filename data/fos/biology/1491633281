@@ -1,0 +1,55 @@
+{"count": 36137, "name": "Cell division", "weight": 5.0, "id": 85813293, "level": 3}
+{"count": 1557, "name": "3T3 cells", "weight": 0.0, "id": 2776746612, "level": 3}
+{"count": 9229, "name": "Cell polarity", "weight": 1.0, "id": 49353375, "level": 3}
+{"count": 8403, "name": "Cell fusion", "weight": 1.0, "id": 92488253, "level": 3}
+{"count": 23551, "name": "Organelle", "weight": 3.0, "id": 168240541, "level": 3}
+{"count": 9880, "name": "Cytokinesis", "weight": 1.0, "id": 45472230, "level": 3}
+{"count": 6170, "name": "Dictyostelium discoideum", "weight": 0.0, "id": 2775969001, "level": 3}
+{"count": 7611, "name": "Cell sorting", "weight": 1.0, "id": 2778630268, "level": 3}
+{"count": 2695, "name": "Pseudopodia", "weight": 0.0, "id": 199528912, "level": 3}
+{"count": 2850, "name": "Single-cell analysis", "weight": 0.0, "id": 2776950831, "level": 3}
+{"count": 4036, "name": "Cell envelope", "weight": 0.0, "id": 46371251, "level": 3}
+{"count": 2411, "name": "Plasmodesma", "weight": 0.0, "id": 169727747, "level": 3}
+{"count": 1510, "name": "Caulobacter crescentus", "weight": 0.0, "id": 2778767192, "level": 3}
+{"count": 2907, "name": "Reticulum", "weight": 0.0, "id": 142579037, "level": 3}
+{"count": 1560, "name": "Contact inhibition", "weight": 0.0, "id": 64979461, "level": 3}
+{"count": 64832, "name": "Cell type", "weight": 10.0, "id": 189014844, "level": 3}
+{"count": 1744, "name": "Cell-penetrating peptide", "weight": 0.0, "id": 2776929087, "level": 3}
+{"count": 3046, "name": "Nucleoid", "weight": 0.0, "id": 53642103, "level": 3}
+{"count": 8302, "name": "Multicellular organism", "weight": 1.0, "id": 74318829, "level": 3}
+{"count": 2791, "name": "Microcarrier", "weight": 0.0, "id": 176999471, "level": 3}
+{"count": 1401, "name": "3D cell culture", "weight": 0.0, "id": 163688615, "level": 3}
+{"count": 853, "name": "Gliding motility", "weight": 0.0, "id": 64745115, "level": 3}
+{"count": 958, "name": "Effector cell", "weight": 0.0, "id": 2778241769, "level": 3}
+{"count": 221, "name": "Time-lapse microscopy", "weight": 0.0, "id": 182303636, "level": 3}
+{"count": 181, "name": "Electric cell-substrate impedance sensing", "weight": 0.0, "id": 2780986492, "level": 3}
+{"count": 729, "name": "Cytoplast", "weight": 0.0, "id": 190546358, "level": 3}
+{"count": 669, "name": "Cell synchronization", "weight": 0.0, "id": 88254577, "level": 3}
+{"count": 1073, "name": "Apical cell", "weight": 0.0, "id": 176080148, "level": 3}
+{"count": 219, "name": "Cellular Potts model", "weight": 0.0, "id": 2779787589, "level": 3}
+{"count": 1552, "name": "Immortalised cell line", "weight": 0.0, "id": 6045943, "level": 3}
+{"count": 517, "name": "MreB", "weight": 0.0, "id": 62551211, "level": 3}
+{"count": 388, "name": "Collective cell migration", "weight": 0.0, "id": 2776708193, "level": 3}
+{"count": 542, "name": "Artificial cell", "weight": 0.0, "id": 137143421, "level": 3}
+{"count": 543, "name": "Border cells", "weight": 0.0, "id": 102268210, "level": 3}
+{"count": 76, "name": "Archezoa", "weight": 0.0, "id": 2778887310, "level": 3}
+{"count": 1649, "name": "Cell cortex", "weight": 0.0, "id": 204462481, "level": 3}
+{"count": 458, "name": "Pavement cells", "weight": 0.0, "id": 6716254, "level": 3}
+{"count": 2796, "name": "Trypsinization", "weight": 0.0, "id": 38240268, "level": 3}
+{"count": 339, "name": "Unicellular organism", "weight": 0.0, "id": 2778015174, "level": 3}
+{"count": 195, "name": "Reverse transfection", "weight": 0.0, "id": 8305913, "level": 3}
+{"count": 528, "name": "WI-38", "weight": 0.0, "id": 190474072, "level": 3}
+{"count": 80, "name": "Mechanotaxis", "weight": 0.0, "id": 77885665, "level": 3}
+{"count": 329, "name": "Cell bank", "weight": 0.0, "id": 42624739, "level": 3}
+{"count": 1832, "name": "Confluency", "weight": 0.0, "id": 176805009, "level": 3}
+{"count": 163, "name": "Evolution of cells", "weight": 0.0, "id": 34645792, "level": 3}
+{"count": 353, "name": "Mesosome", "weight": 0.0, "id": 119872271, "level": 3}
+{"count": 202, "name": "Cytoplasmic determinant", "weight": 0.0, "id": 9695501, "level": 3}
+{"count": 45, "name": "Arming yeast", "weight": 0.0, "id": 2781243510, "level": 3}
+{"count": 66, "name": "Columnar epithelial cell", "weight": 0.0, "id": 2780529698, "level": 3}
+{"count": 37, "name": "Substrate adhesion molecules", "weight": 0.0, "id": 2778365661, "level": 3}
+{"count": 394, "name": "Keratin pearl", "weight": 0.0, "id": 79490357, "level": 3}
+{"count": 28, "name": "Hydrogen hypothesis", "weight": 0.0, "id": 2778364142, "level": 3}
+{"count": 30, "name": "Structural inheritance", "weight": 0.0, "id": 125463982, "level": 3}
+{"count": 16, "name": "Angomonas deanei", "weight": 0.0, "id": 2776126851, "level": 3}
+{"count": 48, "name": "Viropexis", "weight": 0.0, "id": 114920618, "level": 3}

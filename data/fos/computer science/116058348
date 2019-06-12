@@ -1,0 +1,6 @@
+{"count": 262, "name": "Extendible hashing", "weight": 3.0, "id": 126743833, "level": 5}
+{"count": 560, "name": "Open addressing", "weight": 8.0, "id": 44898962, "level": 5}
+{"count": 112, "name": "Tabulation hashing", "weight": 1.0, "id": 182639803, "level": 5}
+{"count": 12, "name": "Zobrist hashing", "weight": 0.0, "id": 194655711, "level": 5}
+{"count": 650, "name": "Hopscotch hashing", "weight": 9.0, "id": 165301707, "level": 5}
+{"count": 690, "name": "2-choice hashing", "weight": 10.0, "id": 81963855, "level": 5}

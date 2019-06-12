@@ -1,0 +1,20 @@
+{"count": 18112, "name": "Mobile robot navigation", "weight": 10.0, "id": 26990112, "level": 4}
+{"count": 2657, "name": "Legged robot", "weight": 1.0, "id": 2779908020, "level": 4}
+{"count": 15018, "name": "Social robot", "weight": 8.0, "id": 162947575, "level": 4}
+{"count": 5976, "name": "Mobile manipulator", "weight": 3.0, "id": 190727649, "level": 4}
+{"count": 1717, "name": "Self-reconfiguring modular robot", "weight": 0.0, "id": 49603950, "level": 4}
+{"count": 1100, "name": "Soccer robot", "weight": 0.0, "id": 2781188825, "level": 4}
+{"count": 539, "name": "Robotic sensing", "weight": 0.0, "id": 17371274, "level": 4}
+{"count": 8481, "name": "Robot calibration", "weight": 4.0, "id": 192299074, "level": 4}
+{"count": 1986, "name": "Robot locomotion", "weight": 1.0, "id": 6101204, "level": 4}
+{"count": 258, "name": "Programmable Universal Machine for Assembly", "weight": 0.0, "id": 177890535, "level": 4}
+{"count": 68, "name": "Open Control Architecture", "weight": 0.0, "id": 2777878166, "level": 4}
+{"count": 31, "name": "Humanoid Robotics Project", "weight": 0.0, "id": 2780566369, "level": 4}
+{"count": 1225, "name": "Ant robotics", "weight": 0.0, "id": 44832474, "level": 4}
+{"count": 20, "name": "Stiquito", "weight": 0.0, "id": 69203167, "level": 4}
+{"count": 56, "name": "Pfaffian constraint", "weight": 0.0, "id": 138261627, "level": 4}
+{"count": 10, "name": "Analog robot", "weight": 0.0, "id": 105252234, "level": 4}
+{"count": 22, "name": "Differential wheeled robot", "weight": 0.0, "id": 2778015664, "level": 4}
+{"count": 5622, "name": "Arm solution", "weight": 3.0, "id": 25592040, "level": 4}
+{"count": 598, "name": "AISoy1", "weight": 0.0, "id": 15295789, "level": 4}
+{"count": 2770, "name": "Bang-bang robot", "weight": 1.0, "id": 584957, "level": 4}

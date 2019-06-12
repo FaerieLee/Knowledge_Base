@@ -1,0 +1,6 @@
+{"count": 2528, "name": "Routing Information Protocol", "weight": 4.0, "id": 7573999, "level": 4}
+{"count": 640, "name": "Supernetwork", "weight": 1.0, "id": 150513238, "level": 4}
+{"count": 5549, "name": "Path vector protocol", "weight": 10.0, "id": 128917274, "level": 4}
+{"count": 336, "name": "Hot Standby Router Protocol", "weight": 0.0, "id": 975526, "level": 4}
+{"count": 1239, "name": "Default-free zone", "weight": 2.0, "id": 101396714, "level": 4}
+{"count": 611, "name": "Topology table", "weight": 1.0, "id": 119159993, "level": 4}

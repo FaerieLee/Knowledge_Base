@@ -1,0 +1,132 @@
+{"count": 9419, "name": "Word order", "weight": 10.0, "id": 70777604, "level": 3}
+{"count": 2969, "name": "Sentence processing", "weight": 3.0, "id": 2780378701, "level": 3}
+{"count": 2974, "name": "Relative clause", "weight": 3.0, "id": 2775895778, "level": 3}
+{"count": 4553, "name": "Phrase structure rules", "weight": 4.0, "id": 80877019, "level": 3}
+{"count": 3152, "name": "Abstract syntax", "weight": 3.0, "id": 114408938, "level": 3}
+{"count": 2567, "name": "Abstract syntax tree", "weight": 2.0, "id": 58646249, "level": 3}
+{"count": 2208, "name": "Universal grammar", "weight": 2.0, "id": 2777762164, "level": 3}
+{"count": 1668, "name": "Parse tree", "weight": 1.0, "id": 2781466058, "level": 3}
+{"count": 2764, "name": "Dependency grammar", "weight": 2.0, "id": 164883195, "level": 3}
+{"count": 583, "name": "Syntactic pattern recognition", "weight": 0.0, "id": 2777743036, "level": 3}
+{"count": 979, "name": "Agrammatism", "weight": 1.0, "id": 2778302256, "level": 3}
+{"count": 1664, "name": "Minimalist program", "weight": 1.0, "id": 168374168, "level": 3}
+{"count": 1651, "name": "Construction grammar", "weight": 1.0, "id": 2777511649, "level": 3}
+{"count": 1172, "name": "Categorial grammar", "weight": 1.0, "id": 840598, "level": 3}
+{"count": 3547, "name": "Semantic role labeling", "weight": 3.0, "id": 67277372, "level": 3}
+{"count": 3404, "name": "Dependent clause", "weight": 3.0, "id": 134510687, "level": 3}
+{"count": 2949, "name": "Treebank", "weight": 3.0, "id": 206134035, "level": 3}
+{"count": 3398, "name": "Semantic property", "weight": 3.0, "id": 198942812, "level": 3}
+{"count": 652, "name": "Syntactic category", "weight": 0.0, "id": 2781448962, "level": 3}
+{"count": 2470, "name": "Dative case", "weight": 2.0, "id": 29417503, "level": 3}
+{"count": 525, "name": "Case grammar", "weight": 0.0, "id": 2779232725, "level": 3}
+{"count": 2712, "name": "Causative", "weight": 2.0, "id": 2779374079, "level": 3}
+{"count": 533, "name": "Wh-movement", "weight": 0.0, "id": 2779289577, "level": 3}
+{"count": 2037, "name": "Clitic", "weight": 2.0, "id": 2779627504, "level": 3}
+{"count": 391, "name": "Small clause", "weight": 0.0, "id": 2776601221, "level": 3}
+{"count": 868, "name": "Topicalization", "weight": 0.0, "id": 188540687, "level": 3}
+{"count": 490, "name": "Distributed morphology", "weight": 0.0, "id": 2779570750, "level": 3}
+{"count": 4065, "name": "Adverbial", "weight": 4.0, "id": 2779357210, "level": 3}
+{"count": 257, "name": "Grammatical case", "weight": 0.0, "id": 2781308425, "level": 3}
+{"count": 528, "name": "Syntactic ambiguity", "weight": 0.0, "id": 2779462176, "level": 3}
+{"count": 943, "name": "Complementizer", "weight": 1.0, "id": 2777453737, "level": 3}
+{"count": 2168, "name": "Grammaticality", "weight": 2.0, "id": 2779525943, "level": 3}
+{"count": 586, "name": "Telicity", "weight": 0.0, "id": 2781128744, "level": 3}
+{"count": 532, "name": "Extraposition", "weight": 0.0, "id": 2776082902, "level": 3}
+{"count": 211, "name": "Grammatical Framework", "weight": 0.0, "id": 2776481267, "level": 3}
+{"count": 74, "name": "Subject\u2013verb\u2013object", "weight": 0.0, "id": 2778966699, "level": 3}
+{"count": 173, "name": "Constraint Grammar", "weight": 0.0, "id": 175868309, "level": 3}
+{"count": 199, "name": "Count noun", "weight": 0.0, "id": 2779304623, "level": 3}
+{"count": 1346, "name": "Ergative case", "weight": 1.0, "id": 197816023, "level": 3}
+{"count": 568, "name": "Transitive verb", "weight": 0.0, "id": 2777237636, "level": 3}
+{"count": 1155, "name": "Resultative", "weight": 1.0, "id": 2779592271, "level": 3}
+{"count": 583, "name": "Syntactic change", "weight": 0.0, "id": 2779663205, "level": 3}
+{"count": 280, "name": "Grammatical relation", "weight": 0.0, "id": 2777329182, "level": 3}
+{"count": 787, "name": "Syntactic expletive", "weight": 0.0, "id": 100234860, "level": 3}
+{"count": 348, "name": "Structural priming", "weight": 0.0, "id": 2778727940, "level": 3}
+{"count": 259, "name": "Empty category", "weight": 0.0, "id": 191845665, "level": 3}
+{"count": 157, "name": "Theta role", "weight": 0.0, "id": 2778972770, "level": 3}
+{"count": 224, "name": "Polarity item", "weight": 0.0, "id": 2775902952, "level": 3}
+{"count": 866, "name": "Subcategorization", "weight": 0.0, "id": 70845037, "level": 3}
+{"count": 115, "name": "Lexical rule", "weight": 0.0, "id": 2775925831, "level": 3}
+{"count": 212, "name": "Pied-piping", "weight": 0.0, "id": 2778947767, "level": 3}
+{"count": 285, "name": "Role and reference grammar", "weight": 0.0, "id": 2778072041, "level": 3}
+{"count": 564, "name": "Light verb", "weight": 0.0, "id": 2781014113, "level": 3}
+{"count": 381, "name": "Intransitive verb", "weight": 0.0, "id": 2781106498, "level": 3}
+{"count": 626, "name": "Principles and parameters", "weight": 0.0, "id": 173308498, "level": 3}
+{"count": 172, "name": "Null Object pattern", "weight": 0.0, "id": 44975151, "level": 3}
+{"count": 136, "name": "Broca's region", "weight": 0.0, "id": 2776968998, "level": 3}
+{"count": 221, "name": "Projection Principle", "weight": 0.0, "id": 2777987269, "level": 3}
+{"count": 105, "name": "X-bar theory", "weight": 0.0, "id": 2777516012, "level": 3}
+{"count": 201, "name": "Subjacency", "weight": 0.0, "id": 2779290153, "level": 3}
+{"count": 143, "name": "Syntactic bootstrapping", "weight": 0.0, "id": 2779930064, "level": 3}
+{"count": 281, "name": "Grammatical construction", "weight": 0.0, "id": 2776448696, "level": 3}
+{"count": 237, "name": "Processability theory", "weight": 0.0, "id": 2776484498, "level": 3}
+{"count": 201, "name": "Preposition stranding", "weight": 0.0, "id": 2776477918, "level": 3}
+{"count": 103, "name": "Extended Projection Principle", "weight": 0.0, "id": 2781126536, "level": 3}
+{"count": 158, "name": "Switch-reference", "weight": 0.0, "id": 2777073489, "level": 3}
+{"count": 101, "name": "Do-support", "weight": 0.0, "id": 2781384028, "level": 3}
+{"count": 130, "name": "Thematic relation", "weight": 0.0, "id": 2779786121, "level": 3}
+{"count": 92, "name": "Phi features", "weight": 0.0, "id": 2776036464, "level": 3}
+{"count": 83, "name": "Syntax-directed translation", "weight": 0.0, "id": 2776931841, "level": 3}
+{"count": 141, "name": "Coh-Metrix", "weight": 0.0, "id": 2776960393, "level": 3}
+{"count": 334, "name": "Selection (linguistics)", "weight": 0.0, "id": 121662710, "level": 3}
+{"count": 206, "name": "Inalienable possession", "weight": 0.0, "id": 2779679841, "level": 3}
+{"count": 127, "name": "Logophoricity", "weight": 0.0, "id": 2778526969, "level": 3}
+{"count": 126, "name": "Right node raising", "weight": 0.0, "id": 2779744971, "level": 3}
+{"count": 129, "name": "Preverb", "weight": 0.0, "id": 2779918152, "level": 3}
+{"count": 104, "name": "Exceptional case-marking", "weight": 0.0, "id": 2779887941, "level": 3}
+{"count": 64, "name": "Dative shift", "weight": 0.0, "id": 2779700040, "level": 3}
+{"count": 113, "name": "Construct state", "weight": 0.0, "id": 2779028527, "level": 3}
+{"count": 219, "name": "Syntactic movement", "weight": 0.0, "id": 2780406079, "level": 3}
+{"count": 69, "name": "Nanosyntax", "weight": 0.0, "id": 2777249580, "level": 3}
+{"count": 658, "name": "Finite verb", "weight": 0.0, "id": 2776696832, "level": 3}
+{"count": 54, "name": "Subject\u2013auxiliary inversion", "weight": 0.0, "id": 2779775911, "level": 3}
+{"count": 55, "name": "Theta criterion", "weight": 0.0, "id": 2780495086, "level": 3}
+{"count": 99, "name": "Cleft sentence", "weight": 0.0, "id": 2779192927, "level": 3}
+{"count": 186, "name": "Topic marker", "weight": 0.0, "id": 2779922089, "level": 3}
+{"count": 73, "name": "Center embedding", "weight": 0.0, "id": 28254050, "level": 3}
+{"count": 178, "name": "Dutch dialects", "weight": 0.0, "id": 2778913958, "level": 3}
+{"count": 96, "name": "Pseudogapping", "weight": 0.0, "id": 2777771008, "level": 3}
+{"count": 48, "name": "Burzio's generalization", "weight": 0.0, "id": 2780888442, "level": 3}
+{"count": 92, "name": "Empty category principle", "weight": 0.0, "id": 2780231029, "level": 3}
+{"count": 110, "name": "Converb", "weight": 0.0, "id": 2780865844, "level": 3}
+{"count": 64, "name": "Jespersen's Cycle", "weight": 0.0, "id": 2778306725, "level": 3}
+{"count": 156, "name": "Interface hypothesis", "weight": 0.0, "id": 2777328091, "level": 3}
+{"count": 113, "name": "West Flemish", "weight": 0.0, "id": 2779520775, "level": 3}
+{"count": 38, "name": "Recursive transition network", "weight": 0.0, "id": 2777214305, "level": 3}
+{"count": 193, "name": "Syntactic methods", "weight": 0.0, "id": 2776609475, "level": 3}
+{"count": 117, "name": "Nominal sentence", "weight": 0.0, "id": 2778149229, "level": 3}
+{"count": 92, "name": "Unaccusative verb", "weight": 0.0, "id": 2778999998, "level": 3}
+{"count": 41, "name": "Garden path sentence", "weight": 0.0, "id": 2777114183, "level": 3}
+{"count": 52, "name": "Antecedent-contained deletion", "weight": 0.0, "id": 2778322451, "level": 3}
+{"count": 96, "name": "Parasitic gap", "weight": 0.0, "id": 119344672, "level": 3}
+{"count": 69, "name": "Denominal verb", "weight": 0.0, "id": 2779375076, "level": 3}
+{"count": 161, "name": "Bootstrapping (linguistics)", "weight": 0.0, "id": 76283291, "level": 3}
+{"count": 24, "name": "Hygienic macro", "weight": 0.0, "id": 2780345947, "level": 3}
+{"count": 98, "name": "Cognate object", "weight": 0.0, "id": 2779795400, "level": 3}
+{"count": 16, "name": "Diathesis alternation", "weight": 0.0, "id": 2776471734, "level": 3}
+{"count": 68, "name": "Focus phrase", "weight": 0.0, "id": 2780795154, "level": 3}
+{"count": 47, "name": "Case hierarchy", "weight": 0.0, "id": 2781139793, "level": 3}
+{"count": 28, "name": "Inflectional phrase", "weight": 0.0, "id": 2779850570, "level": 3}
+{"count": 30, "name": "Extended Backus\u2013Naur Form", "weight": 0.0, "id": 180997628, "level": 3}
+{"count": 20, "name": "Metatypy", "weight": 0.0, "id": 2779938172, "level": 3}
+{"count": 55, "name": "Sloppy identity", "weight": 0.0, "id": 2778262255, "level": 3}
+{"count": 34, "name": "Pro-drop language", "weight": 0.0, "id": 2781188760, "level": 3}
+{"count": 63, "name": "Null-subject language", "weight": 0.0, "id": 2780878174, "level": 3}
+{"count": 74, "name": "Dyscolus", "weight": 0.0, "id": 2777501864, "level": 3}
+{"count": 62, "name": "Modistae", "weight": 0.0, "id": 2778131206, "level": 3}
+{"count": 19, "name": "Specified subject condition", "weight": 0.0, "id": 2781204929, "level": 3}
+{"count": 19, "name": "Cross-serial dependencies", "weight": 0.0, "id": 2781192436, "level": 3}
+{"count": 81, "name": "Phrase chunking", "weight": 0.0, "id": 2776777511, "level": 3}
+{"count": 21, "name": "Reciprocal pronoun", "weight": 0.0, "id": 2775872102, "level": 3}
+{"count": 31, "name": "Strong generative capacity", "weight": 0.0, "id": 2779082022, "level": 3}
+{"count": 73, "name": "Topic and comment", "weight": 0.0, "id": 2777121106, "level": 3}
+{"count": 47, "name": "Botanical Latin", "weight": 0.0, "id": 2778664903, "level": 3}
+{"count": 1613, "name": "Syntax (programming languages)", "weight": 1.0, "id": 29808475, "level": 3}
+{"count": 52, "name": "String grammar", "weight": 0.0, "id": 2776127665, "level": 3}
+{"count": 69, "name": "Transformational syntax", "weight": 0.0, "id": 2778843603, "level": 3}
+{"count": 12, "name": "Welsh syntax", "weight": 0.0, "id": 2779652019, "level": 3}
+{"count": 10, "name": "Syntactic pivot", "weight": 0.0, "id": 2780388984, "level": 3}
+{"count": 811, "name": "Syntactic predicate", "weight": 0.0, "id": 1807295, "level": 3}
+{"count": 40, "name": "Germanic verb", "weight": 0.0, "id": 2779967845, "level": 3}
+{"count": 16, "name": "Hungarian verbs", "weight": 0.0, "id": 2779075750, "level": 3}

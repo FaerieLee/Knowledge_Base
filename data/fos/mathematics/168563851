@@ -1,0 +1,27 @@
+{"count": 3264, "name": "Intention-to-treat analysis", "weight": 1.0, "id": 202953159, "level": 3}
+{"count": 18822, "name": "Placebo-controlled study", "weight": 10.0, "id": 202061045, "level": 3}
+{"count": 4135, "name": "Number needed to treat", "weight": 2.0, "id": 67774102, "level": 3}
+{"count": 5148, "name": "Cluster randomised controlled trial", "weight": 2.0, "id": 176400912, "level": 3}
+{"count": 1609, "name": "Consolidated Standards of Reporting Trials", "weight": 0.0, "id": 49290038, "level": 3}
+{"count": 903, "name": "Strictly standardized mean difference", "weight": 0.0, "id": 28804328, "level": 3}
+{"count": 898, "name": "Data monitoring committee", "weight": 0.0, "id": 73751289, "level": 3}
+{"count": 17240, "name": "Cochrane Library", "weight": 9.0, "id": 2776478404, "level": 3}
+{"count": 966, "name": "Telephone counseling", "weight": 0.0, "id": 2777858393, "level": 3}
+{"count": 523, "name": "Clinical equipoise", "weight": 0.0, "id": 2775919319, "level": 3}
+{"count": 940, "name": "N of 1 trial", "weight": 0.0, "id": 41260284, "level": 3}
+{"count": 7743, "name": "Trial registration", "weight": 4.0, "id": 2778653282, "level": 3}
+{"count": 495, "name": "Physiotherapy Evidence Database", "weight": 0.0, "id": 2778681642, "level": 3}
+{"count": 1975, "name": "Jadad scale", "weight": 1.0, "id": 136524200, "level": 3}
+{"count": 454, "name": "Hierarchy of evidence", "weight": 0.0, "id": 2780365064, "level": 3}
+{"count": 117, "name": "Dynamic treatment regime", "weight": 0.0, "id": 2778760545, "level": 3}
+{"count": 190, "name": "Graded exercise therapy", "weight": 0.0, "id": 2778337460, "level": 3}
+{"count": 184, "name": "McKenzie method", "weight": 0.0, "id": 2776642475, "level": 3}
+{"count": 291, "name": "Wait list control group", "weight": 0.0, "id": 35320418, "level": 3}
+{"count": 17, "name": "Normalization process model", "weight": 0.0, "id": 2780181843, "level": 3}
+{"count": 60, "name": "Transanal hemorrhoidal dearterialization", "weight": 0.0, "id": 2780366238, "level": 3}
+{"count": 20, "name": "Neuroreflexotherapy", "weight": 0.0, "id": 2778665532, "level": 3}
+{"count": 182, "name": "Active placebo", "weight": 0.0, "id": 2780627508, "level": 3}
+{"count": 53, "name": "Green prescription", "weight": 0.0, "id": 2778887475, "level": 3}
+{"count": 92, "name": "HPTN 052", "weight": 0.0, "id": 2776933356, "level": 3}
+{"count": 27, "name": "Funding bias", "weight": 0.0, "id": 2777666165, "level": 3}
+{"count": 29, "name": "Chair Yoga", "weight": 0.0, "id": 2780839275, "level": 3}

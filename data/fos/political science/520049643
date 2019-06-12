@@ -1,0 +1,34 @@
+{"count": 8478, "name": "Voting behavior", "weight": 10.0, "id": 177324205, "level": 4}
+{"count": 3040, "name": "Electronic voting", "weight": 3.0, "id": 2780612046, "level": 4}
+{"count": 2966, "name": "Condorcet method", "weight": 3.0, "id": 140940377, "level": 4}
+{"count": 397, "name": "Borda count", "weight": 0.0, "id": 2779982833, "level": 4}
+{"count": 1101, "name": "Weighted voting", "weight": 1.0, "id": 132778050, "level": 4}
+{"count": 1295, "name": "Voter registration", "weight": 1.0, "id": 2780030507, "level": 4}
+{"count": 460, "name": "Electoral district", "weight": 0.0, "id": 2777366252, "level": 4}
+{"count": 243, "name": "Median voter theorem", "weight": 0.0, "id": 2777068452, "level": 4}
+{"count": 253, "name": "Computational social choice", "weight": 0.0, "id": 2779695113, "level": 4}
+{"count": 303, "name": "Single transferable vote", "weight": 0.0, "id": 189400058, "level": 4}
+{"count": 125, "name": "Gibbard\u2013Satterthwaite theorem", "weight": 0.0, "id": 2777407616, "level": 4}
+{"count": 241, "name": "Cumulative voting", "weight": 0.0, "id": 2775975332, "level": 4}
+{"count": 183, "name": "Get out the vote", "weight": 0.0, "id": 2779374921, "level": 4}
+{"count": 7421, "name": "Ballot", "weight": 8.0, "id": 2777094542, "level": 4}
+{"count": 313, "name": "Political sophistication", "weight": 0.0, "id": 2776238021, "level": 4}
+{"count": 142, "name": "One share, one vote", "weight": 0.0, "id": 2778445587, "level": 4}
+{"count": 53, "name": "Storable Votes", "weight": 0.0, "id": 2776329730, "level": 4}
+{"count": 293, "name": "Logrolling", "weight": 0.0, "id": 2777907920, "level": 4}
+{"count": 4118, "name": "Split-ticket voting", "weight": 4.0, "id": 106259374, "level": 4}
+{"count": 138, "name": "Plurality voting", "weight": 0.0, "id": 2776264676, "level": 4}
+{"count": 132, "name": "Vote trading", "weight": 0.0, "id": 2776579729, "level": 4}
+{"count": 2163, "name": "Ranked voting system", "weight": 2.0, "id": 156160270, "level": 4}
+{"count": 400, "name": "Supermajority", "weight": 0.0, "id": 2779142459, "level": 4}
+{"count": 371, "name": "Dealignment", "weight": 0.0, "id": 16555193, "level": 4}
+{"count": 181, "name": "Banzhaf power index", "weight": 0.0, "id": 95617750, "level": 4}
+{"count": 136, "name": "Voter ID laws", "weight": 0.0, "id": 2780798870, "level": 4}
+{"count": 113, "name": "Penrose method", "weight": 0.0, "id": 15184622, "level": 4}
+{"count": 96, "name": "Probabilistic voting model", "weight": 0.0, "id": 2781281852, "level": 4}
+{"count": 11, "name": "Strategic nomination", "weight": 0.0, "id": 2780576646, "level": 4}
+{"count": 3945, "name": "Disapproval voting", "weight": 4.0, "id": 117763746, "level": 4}
+{"count": 2089, "name": "Spoilt vote", "weight": 2.0, "id": 20871130, "level": 4}
+{"count": 3094, "name": "Group voting ticket", "weight": 3.0, "id": 143838007, "level": 4}
+{"count": 3113, "name": "Cardinal voting systems", "weight": 3.0, "id": 167654663, "level": 4}
+{"count": 23, "name": "Tallyman", "weight": 0.0, "id": 173881390, "level": 4}

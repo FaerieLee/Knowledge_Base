@@ -1,0 +1,9 @@
+{"count": 439, "name": "Key distribution center", "weight": 3.0, "id": 70117878, "level": 4}
+{"count": 1010, "name": "Rekeying", "weight": 8.0, "id": 127150765, "level": 4}
+{"count": 1188, "name": "Key encapsulation", "weight": 10.0, "id": 35181327, "level": 4}
+{"count": 147, "name": "NSA Suite B Cryptography", "weight": 1.0, "id": 176967413, "level": 4}
+{"count": 125, "name": "Compound key", "weight": 1.0, "id": 124582853, "level": 4}
+{"count": 10, "name": "Key Management Interoperability Protocol", "weight": 0.0, "id": 2778482890, "level": 4}
+{"count": 173, "name": "Public key fingerprint", "weight": 1.0, "id": 33842785, "level": 4}
+{"count": 483, "name": "Static key", "weight": 4.0, "id": 53167183, "level": 4}
+{"count": 674, "name": "Controlled Cryptographic Item", "weight": 5.0, "id": 128923526, "level": 4}

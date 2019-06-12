@@ -1,0 +1,7 @@
+{"count": 599, "name": "DNS root zone", "weight": 4.0, "id": 191440113, "level": 4}
+{"count": 795, "name": "DNS spoofing", "weight": 5.0, "id": 167114378, "level": 4}
+{"count": 1417, "name": "Root name server", "weight": 10.0, "id": 74683035, "level": 4}
+{"count": 934, "name": "DNS hijacking", "weight": 6.0, "id": 3950186, "level": 4}
+{"count": 813, "name": "DNS zone transfer", "weight": 5.0, "id": 43393580, "level": 4}
+{"count": 11, "name": "DNSCurve", "weight": 0.0, "id": 200638132, "level": 4}
+{"count": 1177, "name": "DNS zone", "weight": 8.0, "id": 57627455, "level": 4}

@@ -1,0 +1,200 @@
+{"count": 105432, "name": "Computer data storage", "weight": 4.0, "id": 194739806, "level": 2}
+{"count": 59002, "name": "Front and back ends", "weight": 2.0, "id": 53016008, "level": 2}
+{"count": 39288, "name": "Smart card", "weight": 1.0, "id": 110406131, "level": 2}
+{"count": 53667, "name": "Microcontroller", "weight": 2.0, "id": 173018170, "level": 2}
+{"count": 23477, "name": "Memory management", "weight": 0.0, "id": 176649486, "level": 2}
+{"count": 157163, "name": "Liquid-crystal display", "weight": 6.0, "id": 128019096, "level": 2}
+{"count": 32647, "name": "Non-volatile memory", "weight": 1.0, "id": 177950962, "level": 2}
+{"count": 14825, "name": "File system", "weight": 0.0, "id": 2780940931, "level": 2}
+{"count": 67733, "name": "Remote control", "weight": 2.0, "id": 557691694, "level": 2}
+{"count": 42744, "name": "Key (lock)", "weight": 1.0, "id": 26517878, "level": 2}
+{"count": 21131, "name": "Random access", "weight": 0.0, "id": 101722063, "level": 2}
+{"count": 53171, "name": "Microprocessor", "weight": 2.0, "id": 2780728072, "level": 2}
+{"count": 230429, "name": "Display device", "weight": 9.0, "id": 164597639, "level": 2}
+{"count": 17570, "name": "Shift register", "weight": 0.0, "id": 49654631, "level": 2}
+{"count": 21446, "name": "Conventional PCI", "weight": 0.0, "id": 45393284, "level": 2}
+{"count": 42762, "name": "Microcomputer", "weight": 1.0, "id": 132090242, "level": 2}
+{"count": 26250, "name": "Flash memory", "weight": 1.0, "id": 2776531357, "level": 2}
+{"count": 5397, "name": "Read-only memory", "weight": 0.0, "id": 89836824, "level": 2}
+{"count": 48951, "name": "Input device", "weight": 2.0, "id": 121449826, "level": 2}
+{"count": 17090, "name": "Optical recording", "weight": 0.0, "id": 2780524149, "level": 2}
+{"count": 5933, "name": "Virtual memory", "weight": 0.0, "id": 76399640, "level": 2}
+{"count": 37058, "name": "Central processing unit", "weight": 1.0, "id": 49154492, "level": 2}
+{"count": 9952, "name": "Data logger", "weight": 0.0, "id": 159234332, "level": 2}
+{"count": 48860, "name": "Audio signal", "weight": 2.0, "id": 64922751, "level": 2}
+{"count": 10257, "name": "Programmable logic device", "weight": 0.0, "id": 206274596, "level": 2}
+{"count": 27990, "name": "Video processing", "weight": 1.0, "id": 65483669, "level": 2}
+{"count": 1381, "name": "Read-write memory", "weight": 0.0, "id": 2776321774, "level": 2}
+{"count": 1995, "name": "Copy protection", "weight": 0.0, "id": 2780581891, "level": 2}
+{"count": 50831, "name": "Optical disc", "weight": 2.0, "id": 1135709, "level": 2}
+{"count": 6601, "name": "Inkwell", "weight": 0.0, "id": 109693293, "level": 2}
+{"count": 39550, "name": "Scanner", "weight": 1.0, "id": 2779751349, "level": 2}
+{"count": 10130, "name": "Flat panel display", "weight": 0.0, "id": 2780526400, "level": 2}
+{"count": 102143, "name": "Rotation", "weight": 4.0, "id": 80192629, "level": 2}
+{"count": 98513, "name": "Thread (computing)", "weight": 4.0, "id": 138101251, "level": 2}
+{"count": 27855, "name": "Coin", "weight": 1.0, "id": 74775082, "level": 2}
+{"count": 9413, "name": "String (computer science)", "weight": 0.0, "id": 1462715, "level": 2}
+{"count": 7863, "name": "Compact disc", "weight": 0.0, "id": 504131036, "level": 2}
+{"count": 4794, "name": "EPROM", "weight": 0.0, "id": 163980746, "level": 2}
+{"count": 3591, "name": "Register file", "weight": 0.0, "id": 117280010, "level": 2}
+{"count": 31585, "name": "Syringe", "weight": 1.0, "id": 2778571141, "level": 2}
+{"count": 26796, "name": "Digital data", "weight": 1.0, "id": 2778864079, "level": 2}
+{"count": 3744, "name": "Human interface device", "weight": 0.0, "id": 101749295, "level": 2}
+{"count": 4012, "name": "Tamper resistance", "weight": 0.0, "id": 19163912, "level": 2}
+{"count": 9410, "name": "Dram", "weight": 0.0, "id": 7366592, "level": 2}
+{"count": 27928, "name": "Cart", "weight": 1.0, "id": 2777275308, "level": 2}
+{"count": 47220, "name": "Refrigerator car", "weight": 1.0, "id": 125557594, "level": 2}
+{"count": 11068, "name": "Frame (networking)", "weight": 0.0, "id": 126042441, "level": 2}
+{"count": 29796, "name": "Serial communication", "weight": 1.0, "id": 51707140, "level": 2}
+{"count": 4833, "name": "Disk array", "weight": 0.0, "id": 13021383, "level": 2}
+{"count": 4523, "name": "Magnetic storage", "weight": 0.0, "id": 2778511666, "level": 2}
+{"count": 4941, "name": "Access time", "weight": 0.0, "id": 194080101, "level": 2}
+{"count": 28757, "name": "Pointer (computer programming)", "weight": 1.0, "id": 161969638, "level": 2}
+{"count": 7953, "name": "Data conversion", "weight": 0.0, "id": 1232282, "level": 2}
+{"count": 5820, "name": "Device under test", "weight": 0.0, "id": 76249512, "level": 2}
+{"count": 3488, "name": "Digital recording", "weight": 0.0, "id": 2780415423, "level": 2}
+{"count": 21912, "name": "Computer file", "weight": 0.0, "id": 95637964, "level": 2}
+{"count": 4189, "name": "Control line", "weight": 0.0, "id": 2775902999, "level": 2}
+{"count": 2141, "name": "CAS latency", "weight": 0.0, "id": 189930140, "level": 2}
+{"count": 28309, "name": "Snap", "weight": 1.0, "id": 2779997099, "level": 2}
+{"count": 19361, "name": "Magnetic tape", "weight": 0.0, "id": 2776140076, "level": 2}
+{"count": 37697, "name": "Peripheral", "weight": 1.0, "id": 46762472, "level": 2}
+{"count": 7605, "name": "RAID", "weight": 0.0, "id": 133320665, "level": 2}
+{"count": 5952, "name": "Complex programmable logic device", "weight": 0.0, "id": 128315158, "level": 2}
+{"count": 6343, "name": "Pointing device", "weight": 0.0, "id": 133489148, "level": 2}
+{"count": 17242, "name": "volatile", "weight": 0.0, "id": 64928576, "level": 2}
+{"count": 14306, "name": "Recording head", "weight": 0.0, "id": 2778026568, "level": 2}
+{"count": 241495, "name": "Cable gland", "weight": 10.0, "id": 110925319, "level": 2}
+{"count": 2391, "name": "Instructions per cycle", "weight": 0.0, "id": 156972235, "level": 2}
+{"count": 1977, "name": "8-bit", "weight": 0.0, "id": 187919765, "level": 2}
+{"count": 5073, "name": "Block cipher mode of operation", "weight": 0.0, "id": 60448319, "level": 2}
+{"count": 13935, "name": "Firmware", "weight": 0.0, "id": 67212190, "level": 2}
+{"count": 24236, "name": "Data file", "weight": 1.0, "id": 171730128, "level": 2}
+{"count": 39461, "name": "USB", "weight": 1.0, "id": 507366226, "level": 2}
+{"count": 1738, "name": "16-bit", "weight": 0.0, "id": 33652231, "level": 2}
+{"count": 2173, "name": "32-bit", "weight": 0.0, "id": 75695347, "level": 2}
+{"count": 7881, "name": "Backplane", "weight": 0.0, "id": 134256836, "level": 2}
+{"count": 5571, "name": "BIOS", "weight": 0.0, "id": 536060405, "level": 2}
+{"count": 7763, "name": "Parity bit", "weight": 0.0, "id": 131521367, "level": 2}
+{"count": 56504, "name": "Chassis", "weight": 2.0, "id": 512993513, "level": 2}
+{"count": 16396, "name": "Threading (manufacturing)", "weight": 0.0, "id": 524400119, "level": 2}
+{"count": 20183, "name": "Icon", "weight": 0.0, "id": 2778447006, "level": 2}
+{"count": 80669, "name": "Hook", "weight": 3.0, "id": 2777586403, "level": 2}
+{"count": 175852, "name": "Lock (computer science)", "weight": 7.0, "id": 27738082, "level": 2}
+{"count": 42932, "name": "Carriage", "weight": 1.0, "id": 32762888, "level": 2}
+{"count": 145872, "name": "Control unit", "weight": 6.0, "id": 81988521, "level": 2}
+{"count": 1040, "name": "Bassinet", "weight": 0.0, "id": 2780103070, "level": 2}
+{"count": 11080, "name": "Disk formatting", "weight": 0.0, "id": 88006597, "level": 2}
+{"count": 4071, "name": "Mass storage", "weight": 0.0, "id": 125041420, "level": 2}
+{"count": 4866, "name": "Magnetoresistive random-access memory", "weight": 0.0, "id": 46891859, "level": 2}
+{"count": 455, "name": "Window manager", "weight": 0.0, "id": 2779047177, "level": 2}
+{"count": 43624, "name": "Copying", "weight": 1.0, "id": 2779151265, "level": 2}
+{"count": 9854, "name": "FIFO (computing and electronics)", "weight": 0.0, "id": 2777145635, "level": 2}
+{"count": 3567, "name": "Direct memory access", "weight": 0.0, "id": 37724790, "level": 2}
+{"count": 4048, "name": "Digital pattern generator", "weight": 0.0, "id": 151346624, "level": 2}
+{"count": 7043, "name": "Address space", "weight": 0.0, "id": 144240696, "level": 2}
+{"count": 4890, "name": "Flexible display", "weight": 0.0, "id": 156150401, "level": 2}
+{"count": 10015, "name": "Barcode", "weight": 0.0, "id": 2776841711, "level": 2}
+{"count": 2253, "name": "Arithmetic logic unit", "weight": 0.0, "id": 100276221, "level": 2}
+{"count": 54398, "name": "Semiconductor memory", "weight": 2.0, "id": 98986596, "level": 2}
+{"count": 97918, "name": "Cabinet (file format)", "weight": 4.0, "id": 202630545, "level": 2}
+{"count": 19986, "name": "Host (network)", "weight": 0.0, "id": 195917429, "level": 2}
+{"count": 2899, "name": "Multi-touch", "weight": 0.0, "id": 2780753109, "level": 2}
+{"count": 59955, "name": "Compartment (ship)", "weight": 2.0, "id": 203635412, "level": 2}
+{"count": 2460, "name": "Logical disk", "weight": 0.0, "id": 132498482, "level": 2}
+{"count": 20700, "name": "Interlock", "weight": 0.0, "id": 99535591, "level": 2}
+{"count": 32248, "name": "Memory cell", "weight": 1.0, "id": 2776638159, "level": 2}
+{"count": 11044, "name": "Stylus", "weight": 0.0, "id": 164086593, "level": 2}
+{"count": 10565, "name": "Worm drive", "weight": 0.0, "id": 21261922, "level": 2}
+{"count": 34677, "name": "Clock signal", "weight": 1.0, "id": 137059387, "level": 2}
+{"count": 76071, "name": "Mount", "weight": 3.0, "id": 2778091609, "level": 2}
+{"count": 48549, "name": "Reel", "weight": 2.0, "id": 2779273396, "level": 2}
+{"count": 85695, "name": "Cartridge", "weight": 3.0, "id": 34381374, "level": 2}
+{"count": 12075, "name": "Serial port", "weight": 0.0, "id": 102349902, "level": 2}
+{"count": 41189, "name": "Data processing system", "weight": 1.0, "id": 112118009, "level": 2}
+{"count": 3762, "name": "Floppy disk", "weight": 0.0, "id": 2777549114, "level": 2}
+{"count": 3375, "name": "Data striping", "weight": 0.0, "id": 83489325, "level": 2}
+{"count": 20138, "name": "Calculator", "weight": 0.0, "id": 2776836400, "level": 2}
+{"count": 2987, "name": "Computer terminal", "weight": 0.0, "id": 165718592, "level": 2}
+{"count": 481, "name": "Hand Held Computer", "weight": 0.0, "id": 2777277495, "level": 2}
+{"count": 16419, "name": "Interfacing", "weight": 0.0, "id": 2776303644, "level": 2}
+{"count": 7686, "name": "Digital printing", "weight": 0.0, "id": 207239344, "level": 2}
+{"count": 5535, "name": "Plotter", "weight": 0.0, "id": 124772163, "level": 2}
+{"count": 6808, "name": "Videocassette recorder", "weight": 0.0, "id": 65492689, "level": 2}
+{"count": 22187, "name": "Check valve", "weight": 0.0, "id": 2778894822, "level": 2}
+{"count": 112871, "name": "Lever", "weight": 4.0, "id": 107524782, "level": 2}
+{"count": 12390, "name": "NAND gate", "weight": 0.0, "id": 124296912, "level": 2}
+{"count": 34411, "name": "Installation", "weight": 1.0, "id": 146778888, "level": 2}
+{"count": 6563, "name": "Joystick", "weight": 0.0, "id": 96439379, "level": 2}
+{"count": 3358, "name": "ARM architecture", "weight": 0.0, "id": 26771161, "level": 2}
+{"count": 7478, "name": "EEPROM", "weight": 0.0, "id": 27699510, "level": 2}
+{"count": 6362, "name": "Touchscreen", "weight": 0.0, "id": 2778539339, "level": 2}
+{"count": 7784, "name": "Bitmap", "weight": 0.0, "id": 3115412, "level": 2}
+{"count": 61126, "name": "Adapter (computing)", "weight": 2.0, "id": 177284502, "level": 2}
+{"count": 370, "name": "Core Storage", "weight": 0.0, "id": 2780315438, "level": 2}
+{"count": 3727, "name": "Interface (computing)", "weight": 0.0, "id": 108265739, "level": 2}
+{"count": 88503, "name": "Rack", "weight": 3.0, "id": 2776843527, "level": 2}
+{"count": 37522, "name": "Timer", "weight": 1.0, "id": 2776633867, "level": 2}
+{"count": 3393, "name": "Video Graphics Array", "weight": 0.0, "id": 139983466, "level": 2}
+{"count": 7109, "name": "FLAGS register", "weight": 0.0, "id": 69721887, "level": 2}
+{"count": 20143, "name": "Loader", "weight": 0.0, "id": 2779041774, "level": 2}
+{"count": 2426, "name": "Electronic paper", "weight": 0.0, "id": 2779628032, "level": 2}
+{"count": 9817, "name": "Block (data storage)", "weight": 0.0, "id": 152896618, "level": 2}
+{"count": 399, "name": "Side arm", "weight": 0.0, "id": 2777501195, "level": 2}
+{"count": 3382, "name": "Circular buffer", "weight": 0.0, "id": 85686653, "level": 2}
+{"count": 1137, "name": "Memory management unit", "weight": 0.0, "id": 146431175, "level": 2}
+{"count": 2725, "name": "Page fault", "weight": 0.0, "id": 193343404, "level": 2}
+{"count": 7204, "name": "Subscriber identity module", "weight": 0.0, "id": 40367706, "level": 2}
+{"count": 19095, "name": "Dial", "weight": 0.0, "id": 2779710594, "level": 2}
+{"count": 2690, "name": "Data segment", "weight": 0.0, "id": 46166114, "level": 2}
+{"count": 74904, "name": "Tray", "weight": 3.0, "id": 2780950554, "level": 2}
+{"count": 490, "name": "Punched tape", "weight": 0.0, "id": 2778173178, "level": 2}
+{"count": 2252, "name": "Stop signal", "weight": 0.0, "id": 130619582, "level": 2}
+{"count": 5787, "name": "Slider", "weight": 0.0, "id": 2776585123, "level": 2}
+{"count": 1968, "name": "Code segment", "weight": 0.0, "id": 47776892, "level": 2}
+{"count": 5012, "name": "Booting", "weight": 0.0, "id": 504728807, "level": 2}
+{"count": 23846, "name": "Interrupt", "weight": 0.0, "id": 41661131, "level": 2}
+{"count": 852, "name": "Data structure alignment", "weight": 0.0, "id": 65073423, "level": 2}
+{"count": 1319, "name": "Pivot element", "weight": 0.0, "id": 199643119, "level": 2}
+{"count": 2427, "name": "User control", "weight": 0.0, "id": 2779615054, "level": 2}
+{"count": 19182, "name": "Video capture", "weight": 0.0, "id": 151211776, "level": 2}
+{"count": 9829, "name": "Tape recorder", "weight": 0.0, "id": 2779444607, "level": 2}
+{"count": 7909, "name": "Backpack", "weight": 0.0, "id": 2780345887, "level": 2}
+{"count": 9410, "name": "Image file formats", "weight": 0.0, "id": 65377053, "level": 2}
+{"count": 6526, "name": "Memory module", "weight": 0.0, "id": 2777905004, "level": 2}
+{"count": 36535, "name": "Globe valve", "weight": 1.0, "id": 139302045, "level": 2}
+{"count": 833, "name": "Double data rate", "weight": 0.0, "id": 117119077, "level": 2}
+{"count": 20208, "name": "System bus", "weight": 0.0, "id": 136321198, "level": 2}
+{"count": 951, "name": "Graphics tablet", "weight": 0.0, "id": 169243031, "level": 2}
+{"count": 44278, "name": "Shutter", "weight": 1.0, "id": 2776871301, "level": 2}
+{"count": 2933, "name": "Keystroke logging", "weight": 0.0, "id": 161615301, "level": 2}
+{"count": 1325, "name": "Optical reader", "weight": 0.0, "id": 538770, "level": 2}
+{"count": 886, "name": "Hand pump", "weight": 0.0, "id": 2779506560, "level": 2}
+{"count": 24625, "name": "Output device", "weight": 1.0, "id": 61851662, "level": 2}
+{"count": 2567, "name": "Transfer station", "weight": 0.0, "id": 2775936651, "level": 2}
+{"count": 2539, "name": "Parallel port", "weight": 0.0, "id": 202683721, "level": 2}
+{"count": 3812, "name": "System time", "weight": 0.0, "id": 192082776, "level": 2}
+{"count": 1111, "name": "Line number", "weight": 0.0, "id": 32577630, "level": 2}
+{"count": 1476, "name": "Head restraint", "weight": 0.0, "id": 2778302646, "level": 2}
+{"count": 19744, "name": "Ratchet", "weight": 0.0, "id": 2777694918, "level": 2}
+{"count": 3104, "name": "Word (computer architecture)", "weight": 0.0, "id": 61249035, "level": 2}
+{"count": 35070, "name": "Row", "weight": 1.0, "id": 135598885, "level": 2}
+{"count": 3020, "name": "Direct voice input", "weight": 0.0, "id": 141586517, "level": 2}
+{"count": 5791, "name": "Scrolling", "weight": 0.0, "id": 59046462, "level": 2}
+{"count": 19087, "name": "Wrench", "weight": 0.0, "id": 29302406, "level": 2}
+{"count": 13499, "name": "Packaging machine", "weight": 0.0, "id": 2780786784, "level": 2}
+{"count": 2165, "name": "Page", "weight": 0.0, "id": 33925742, "level": 2}
+{"count": 7418, "name": "Telescoping series", "weight": 0.0, "id": 15341905, "level": 2}
+{"count": 2997, "name": "Bit array", "weight": 0.0, "id": 150807984, "level": 2}
+{"count": 516, "name": "Instruction pipeline", "weight": 0.0, "id": 129515213, "level": 2}
+{"count": 54699, "name": "Pickup", "weight": 2.0, "id": 2776221269, "level": 2}
+{"count": 1893, "name": "Light switch", "weight": 0.0, "id": 2777936497, "level": 2}
+{"count": 1698, "name": "Refresh rate", "weight": 0.0, "id": 109034871, "level": 2}
+{"count": 14907, "name": "Card reader", "weight": 0.0, "id": 104650184, "level": 2}
+{"count": 1097, "name": "Logic analyzer", "weight": 0.0, "id": 188434589, "level": 2}
+{"count": 3406, "name": "Array data type", "weight": 0.0, "id": 98250833, "level": 2}
+{"count": 1674, "name": "Page table", "weight": 0.0, "id": 57097009, "level": 2}
+{"count": 4311, "name": "Touchpad", "weight": 0.0, "id": 43199551, "level": 2}
+{"count": 824, "name": "Single-board computer", "weight": 0.0, "id": 2779497985, "level": 2}
+{"count": 6126, "name": "Portable computer", "weight": 0.0, "id": 2779259846, "level": 2}
+{"count": 3343, "name": "Disk storage", "weight": 0.0, "id": 2776481437, "level": 2}

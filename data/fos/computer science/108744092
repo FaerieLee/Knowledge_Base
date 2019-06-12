@@ -1,0 +1,4 @@
+{"count": 419, "name": "Snapshot isolation", "weight": 3.0, "id": 19513336, "level": 5}
+{"count": 49, "name": "Global concurrency control", "weight": 0.0, "id": 2780419698, "level": 5}
+{"count": 462, "name": "Commitment ordering", "weight": 3.0, "id": 150618363, "level": 5}
+{"count": 1304, "name": "Timestamp-based concurrency control", "weight": 10.0, "id": 35819235, "level": 5}

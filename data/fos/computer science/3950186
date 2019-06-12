@@ -1,0 +1,6 @@
+{"count": 202, "name": "Zero-configuration networking", "weight": 10.0, "id": 46987167, "level": 5}
+{"count": 63, "name": "Domain Name System Security Extensions", "weight": 3.0, "id": 2777847448, "level": 5}
+{"count": 21, "name": "DNS rebinding", "weight": 1.0, "id": 2776503970, "level": 5}
+{"count": 59, "name": "Multicast DNS", "weight": 2.0, "id": 2777491374, "level": 5}
+{"count": 83, "name": "Wildcard DNS record", "weight": 4.0, "id": 181099710, "level": 5}
+{"count": 49, "name": "Split-brain (computing)", "weight": 2.0, "id": 108642513, "level": 5}

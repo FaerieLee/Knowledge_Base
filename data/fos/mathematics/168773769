@@ -1,0 +1,6 @@
+{"count": 5640, "name": "Boolean satisfiability problem", "weight": 10.0, "id": 6943359, "level": 3}
+{"count": 1219, "name": "DPLL algorithm", "weight": 2.0, "id": 143936061, "level": 3}
+{"count": 122, "name": "Uninterpreted function", "weight": 0.0, "id": 2781370028, "level": 3}
+{"count": 20, "name": "Guarded logic", "weight": 0.0, "id": 2778249564, "level": 3}
+{"count": 52, "name": "Satplan", "weight": 0.0, "id": 2777252908, "level": 3}
+{"count": 16, "name": "Circuit satisfiability problem", "weight": 0.0, "id": 2777455994, "level": 3}

@@ -1,0 +1,64 @@
+{"count": 41820, "name": "Allele frequency", "weight": 10.0, "id": 37463918, "level": 4}
+{"count": 19950, "name": "Linkage disequilibrium", "weight": 4.0, "id": 35605836, "level": 4}
+{"count": 18502, "name": "Heterozygote advantage", "weight": 4.0, "id": 153471976, "level": 4}
+{"count": 28168, "name": "Loss of heterozygosity", "weight": 6.0, "id": 143589142, "level": 4}
+{"count": 28671, "name": "Gene polymorphism", "weight": 6.0, "id": 76252995, "level": 4}
+{"count": 6600, "name": "Null allele", "weight": 1.0, "id": 57708383, "level": 4}
+{"count": 3562, "name": "Variable number tandem repeat", "weight": 0.0, "id": 189036908, "level": 4}
+{"count": 1608, "name": "Balancing selection", "weight": 0.0, "id": 137848329, "level": 4}
+{"count": 123, "name": "Polymorphism (biology)", "weight": 0.0, "id": 51014378, "level": 4}
+{"count": 558, "name": "Allele-specific oligonucleotide", "weight": 0.0, "id": 206095074, "level": 4}
+{"count": 1283, "name": "5-HTTLPR", "weight": 0.0, "id": 5284366, "level": 4}
+{"count": 747, "name": "FTO gene", "weight": 0.0, "id": 2780428817, "level": 4}
+{"count": 375, "name": "Genetic hitchhiking", "weight": 0.0, "id": 133672272, "level": 4}
+{"count": 3066, "name": "HLA-DRB1", "weight": 0.0, "id": 2781142222, "level": 4}
+{"count": 2536, "name": "HLA-B", "weight": 0.0, "id": 41007239, "level": 4}
+{"count": 1150, "name": "PTPN22", "weight": 0.0, "id": 2779356809, "level": 4}
+{"count": 734, "name": "HLA-C", "weight": 0.0, "id": 2779290215, "level": 4}
+{"count": 866, "name": "HLA-DQB1", "weight": 0.0, "id": 2775983672, "level": 4}
+{"count": 3444, "name": "HLA-A", "weight": 0.0, "id": 2775866039, "level": 4}
+{"count": 1055, "name": "HLA-DQ", "weight": 0.0, "id": 2779910283, "level": 4}
+{"count": 669, "name": "Allelic exclusion", "weight": 0.0, "id": 2778794311, "level": 4}
+{"count": 376, "name": "Lactase persistence", "weight": 0.0, "id": 2781451448, "level": 4}
+{"count": 286, "name": "Paramutation", "weight": 0.0, "id": 50527525, "level": 4}
+{"count": 465, "name": "HLA-DP", "weight": 0.0, "id": 2776593275, "level": 4}
+{"count": 729, "name": "MTRR", "weight": 0.0, "id": 2778087339, "level": 4}
+{"count": 462, "name": "HLA-DPB1", "weight": 0.0, "id": 2775946741, "level": 4}
+{"count": 430, "name": "GNB3", "weight": 0.0, "id": 2779182101, "level": 4}
+{"count": 230, "name": "OCA2", "weight": 0.0, "id": 2778673506, "level": 4}
+{"count": 202, "name": "ANKK1", "weight": 0.0, "id": 2781116522, "level": 4}
+{"count": 257, "name": "SLC11A1", "weight": 0.0, "id": 2777477425, "level": 4}
+{"count": 209, "name": "SORL1", "weight": 0.0, "id": 2778578986, "level": 4}
+{"count": 269, "name": "Dopamine receptor D4", "weight": 0.0, "id": 2777180578, "level": 4}
+{"count": 225, "name": "SLC45A2", "weight": 0.0, "id": 2776516906, "level": 4}
+{"count": 212, "name": "Pseudodeficiency alleles", "weight": 0.0, "id": 193051597, "level": 4}
+{"count": 437, "name": "PGM1", "weight": 0.0, "id": 2777955666, "level": 4}
+{"count": 354, "name": "KIR3DL1", "weight": 0.0, "id": 2775970325, "level": 4}
+{"count": 1611, "name": "TaqI", "weight": 0.0, "id": 2779105492, "level": 4}
+{"count": 98, "name": "HLA-DR15", "weight": 0.0, "id": 2779501086, "level": 4}
+{"count": 719, "name": "Lung cancer susceptibility", "weight": 0.0, "id": 2779372377, "level": 4}
+{"count": 171, "name": "FCGR3B", "weight": 0.0, "id": 2776026713, "level": 4}
+{"count": 404, "name": "rs6265", "weight": 0.0, "id": 2778163459, "level": 4}
+{"count": 159, "name": "SLC24A5", "weight": 0.0, "id": 2776710063, "level": 4}
+{"count": 85, "name": "PSMA6", "weight": 0.0, "id": 2776812823, "level": 4}
+{"count": 114, "name": "Underdominance", "weight": 0.0, "id": 199293617, "level": 4}
+{"count": 132, "name": "Dog leukocyte antigen", "weight": 0.0, "id": 2777646564, "level": 4}
+{"count": 192, "name": "Cis AB", "weight": 0.0, "id": 122194767, "level": 4}
+{"count": 103, "name": "Melatonin receptor 1A", "weight": 0.0, "id": 2780605510, "level": 4}
+{"count": 15, "name": "Haim\u2013Munk syndrome", "weight": 0.0, "id": 2776707792, "level": 4}
+{"count": 434, "name": "rs4680", "weight": 0.0, "id": 2778524067, "level": 4}
+{"count": 228, "name": "KIR2DS4", "weight": 0.0, "id": 2778160924, "level": 4}
+{"count": 107, "name": "Evolution of dominance", "weight": 0.0, "id": 2780588534, "level": 4}
+{"count": 172, "name": "Dominant white", "weight": 0.0, "id": 2777964315, "level": 4}
+{"count": 42, "name": "Tobiano", "weight": 0.0, "id": 38147848, "level": 4}
+{"count": 45, "name": "HLA-DRB4", "weight": 0.0, "id": 2780704068, "level": 4}
+{"count": 112, "name": "rs6311", "weight": 0.0, "id": 2779291823, "level": 4}
+{"count": 26, "name": "HLA-A10", "weight": 0.0, "id": 2777075137, "level": 4}
+{"count": 12, "name": "Faint little ball", "weight": 0.0, "id": 2779418075, "level": 4}
+{"count": 152, "name": "rs6295", "weight": 0.0, "id": 2780868249, "level": 4}
+{"count": 36, "name": "CCHCR1", "weight": 0.0, "id": 2778409483, "level": 4}
+{"count": 109, "name": "Rs6313", "weight": 0.0, "id": 2777867762, "level": 4}
+{"count": 21, "name": "HLA-DR6", "weight": 0.0, "id": 2776180942, "level": 4}
+{"count": 52, "name": "Jeju Black", "weight": 0.0, "id": 2776134116, "level": 4}
+{"count": 13, "name": "rs1800955", "weight": 0.0, "id": 2781141633, "level": 4}
+{"count": 19, "name": "Antagonistic pleiotropy hypothesis", "weight": 0.0, "id": 2779753994, "level": 4}

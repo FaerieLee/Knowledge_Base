@@ -1,0 +1,65 @@
+{"count": 4363, "name": "Inflection", "weight": 5.0, "id": 159403335, "level": 3}
+{"count": 4529, "name": "Adverb", "weight": 5.0, "id": 2780944772, "level": 3}
+{"count": 7730, "name": "Modal verb", "weight": 10.0, "id": 48314727, "level": 3}
+{"count": 3597, "name": "Valency", "weight": 4.0, "id": 139007053, "level": 3}
+{"count": 3460, "name": "Infinitive", "weight": 4.0, "id": 128081465, "level": 3}
+{"count": 2458, "name": "Past tense", "weight": 3.0, "id": 2776626494, "level": 3}
+{"count": 2712, "name": "Causative", "weight": 3.0, "id": 2779374079, "level": 3}
+{"count": 3375, "name": "Nominative case", "weight": 4.0, "id": 5468625, "level": 3}
+{"count": 1495, "name": "Gerund", "weight": 1.0, "id": 123998060, "level": 3}
+{"count": 510, "name": "Grammatical aspect", "weight": 0.0, "id": 2781149521, "level": 3}
+{"count": 586, "name": "Telicity", "weight": 0.0, "id": 2781128744, "level": 3}
+{"count": 2261, "name": "Participle", "weight": 2.0, "id": 2779120887, "level": 3}
+{"count": 74, "name": "Subject\u2013verb\u2013object", "weight": 0.0, "id": 2778966699, "level": 3}
+{"count": 769, "name": "Auxiliary verb", "weight": 0.0, "id": 2776044456, "level": 3}
+{"count": 568, "name": "Transitive verb", "weight": 0.0, "id": 2777237636, "level": 3}
+{"count": 1155, "name": "Resultative", "weight": 1.0, "id": 2779592271, "level": 3}
+{"count": 1768, "name": "Present tense", "weight": 2.0, "id": 2779281236, "level": 3}
+{"count": 157, "name": "Theta role", "weight": 0.0, "id": 2778972770, "level": 3}
+{"count": 866, "name": "Subcategorization", "weight": 1.0, "id": 70845037, "level": 3}
+{"count": 115, "name": "Lexical rule", "weight": 0.0, "id": 2775925831, "level": 3}
+{"count": 491, "name": "Lexical aspect", "weight": 0.0, "id": 2780097958, "level": 3}
+{"count": 564, "name": "Light verb", "weight": 0.0, "id": 2781014113, "level": 3}
+{"count": 381, "name": "Intransitive verb", "weight": 0.0, "id": 2781106498, "level": 3}
+{"count": 348, "name": "Perfective aspect", "weight": 0.0, "id": 2780016798, "level": 3}
+{"count": 259, "name": "Verbal noun", "weight": 0.0, "id": 2778651087, "level": 3}
+{"count": 143, "name": "Syntactic bootstrapping", "weight": 0.0, "id": 2779930064, "level": 3}
+{"count": 101, "name": "Do-support", "weight": 0.0, "id": 2781384028, "level": 3}
+{"count": 297, "name": "Imperfective aspect", "weight": 0.0, "id": 2779081115, "level": 3}
+{"count": 334, "name": "Selection (linguistics)", "weight": 0.0, "id": 121662710, "level": 3}
+{"count": 129, "name": "Preverb", "weight": 0.0, "id": 2779918152, "level": 3}
+{"count": 353, "name": "Jussive mood", "weight": 0.0, "id": 117769092, "level": 3}
+{"count": 871, "name": "Simple past", "weight": 1.0, "id": 2778172041, "level": 3}
+{"count": 116, "name": "Sequence of tenses", "weight": 0.0, "id": 2779115751, "level": 3}
+{"count": 658, "name": "Finite verb", "weight": 0.0, "id": 2776696832, "level": 3}
+{"count": 95, "name": "Stative verb", "weight": 0.0, "id": 2778754165, "level": 3}
+{"count": 110, "name": "Converb", "weight": 0.0, "id": 2780865844, "level": 3}
+{"count": 580, "name": "Simple present", "weight": 0.0, "id": 2779677344, "level": 3}
+{"count": 91, "name": "Pluractionality", "weight": 0.0, "id": 2780220324, "level": 3}
+{"count": 73, "name": "Conditional mood", "weight": 0.0, "id": 2781106240, "level": 3}
+{"count": 92, "name": "Unaccusative verb", "weight": 0.0, "id": 2778999998, "level": 3}
+{"count": 69, "name": "Denominal verb", "weight": 0.0, "id": 2779375076, "level": 3}
+{"count": 16, "name": "Diathesis alternation", "weight": 0.0, "id": 2776471734, "level": 3}
+{"count": 28, "name": "Inflectional phrase", "weight": 0.0, "id": 2779850570, "level": 3}
+{"count": 41, "name": "Apophony", "weight": 0.0, "id": 2777201447, "level": 3}
+{"count": 56, "name": "Negative verb", "weight": 0.0, "id": 2777997173, "level": 3}
+{"count": 36, "name": "Coverb", "weight": 0.0, "id": 2778598582, "level": 3}
+{"count": 40, "name": "Thematic vowel", "weight": 0.0, "id": 2776868495, "level": 3}
+{"count": 169, "name": "Spanish verbs", "weight": 0.0, "id": 2778173332, "level": 3}
+{"count": 21, "name": "Reciprocal pronoun", "weight": 0.0, "id": 2775872102, "level": 3}
+{"count": 68, "name": "Linking verb", "weight": 0.0, "id": 2777564123, "level": 3}
+{"count": 18, "name": "Defective verb", "weight": 0.0, "id": 2779000539, "level": 3}
+{"count": 158, "name": "Morphological dictionary", "weight": 0.0, "id": 140553585, "level": 3}
+{"count": 18, "name": "Thai grammar", "weight": 0.0, "id": 2779055115, "level": 3}
+{"count": 12, "name": "Inchoative verb", "weight": 0.0, "id": 2775860122, "level": 3}
+{"count": 90, "name": "Korean verbs", "weight": 0.0, "id": 2778233515, "level": 3}
+{"count": 20, "name": "Separable verb", "weight": 0.0, "id": 2781451979, "level": 3}
+{"count": 90, "name": "Arabic verbs", "weight": 0.0, "id": 2779998662, "level": 3}
+{"count": 12, "name": "Allocutive agreement", "weight": 0.0, "id": 2780226828, "level": 3}
+{"count": 14, "name": "German sentence structure", "weight": 0.0, "id": 2780087920, "level": 3}
+{"count": 49, "name": "Lithuanian grammar", "weight": 0.0, "id": 18280738, "level": 3}
+{"count": 22, "name": "English irregular verbs", "weight": 0.0, "id": 2780359414, "level": 3}
+{"count": 16, "name": "Scottish Gaelic grammar", "weight": 0.0, "id": 145224894, "level": 3}
+{"count": 9, "name": "Verbnoun", "weight": 0.0, "id": 2778722963, "level": 3}
+{"count": 40, "name": "Germanic verb", "weight": 0.0, "id": 2779967845, "level": 3}
+{"count": 16, "name": "Hungarian verbs", "weight": 0.0, "id": 2779075750, "level": 3}

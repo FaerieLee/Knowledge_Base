@@ -1,0 +1,105 @@
+{"count": 73882, "name": "Adaptive control", "weight": 9.0, "id": 107464732, "level": 3}
+{"count": 67658, "name": "Fuzzy control system", "weight": 8.0, "id": 195975749, "level": 3}
+{"count": 48655, "name": "Robust control", "weight": 6.0, "id": 31531917, "level": 3}
+{"count": 36474, "name": "Motion control", "weight": 4.0, "id": 145565327, "level": 3}
+{"count": 39803, "name": "Model predictive control", "weight": 5.0, "id": 172205157, "level": 3}
+{"count": 36827, "name": "Feed forward", "weight": 4.0, "id": 38858127, "level": 3}
+{"count": 55242, "name": "Lyapunov function", "weight": 7.0, "id": 60640748, "level": 3}
+{"count": 75469, "name": "PID controller", "weight": 10.0, "id": 47116090, "level": 3}
+{"count": 28052, "name": "Nonlinear control", "weight": 3.0, "id": 91581856, "level": 3}
+{"count": 22100, "name": "Linear matrix inequality", "weight": 2.0, "id": 201829737, "level": 3}
+{"count": 29715, "name": "Sliding mode control", "weight": 3.0, "id": 36662352, "level": 3}
+{"count": 30156, "name": "Intelligent control", "weight": 3.0, "id": 82327864, "level": 3}
+{"count": 41612, "name": "Electronic speed control", "weight": 5.0, "id": 45641319, "level": 3}
+{"count": 29738, "name": "Open-loop controller", "weight": 3.0, "id": 161362739, "level": 3}
+{"count": 21489, "name": "Servomechanism", "weight": 2.0, "id": 49503481, "level": 3}
+{"count": 10801, "name": "Lyapunov stability", "weight": 1.0, "id": 2776829284, "level": 3}
+{"count": 13892, "name": "State observer", "weight": 1.0, "id": 3031470, "level": 3}
+{"count": 8080, "name": "Passivity", "weight": 1.0, "id": 2778809601, "level": 3}
+{"count": 9757, "name": "Inverted pendulum", "weight": 1.0, "id": 192921069, "level": 3}
+{"count": 4955, "name": "Internal model", "weight": 0.0, "id": 28427503, "level": 3}
+{"count": 8743, "name": "Networked control system", "weight": 1.0, "id": 1759631, "level": 3}
+{"count": 5709, "name": "Proportional control", "weight": 0.0, "id": 96224696, "level": 3}
+{"count": 11404, "name": "Full state feedback", "weight": 1.0, "id": 204322392, "level": 3}
+{"count": 14647, "name": "Linear-quadratic-Gaussian control", "weight": 1.0, "id": 204495892, "level": 3}
+{"count": 5398, "name": "Gain scheduling", "weight": 0.0, "id": 97090092, "level": 3}
+{"count": 7224, "name": "Iterative learning control", "weight": 0.0, "id": 117619785, "level": 3}
+{"count": 8725, "name": "Linear-quadratic regulator", "weight": 1.0, "id": 98779006, "level": 3}
+{"count": 2904, "name": "Automatic Generation Control", "weight": 0.0, "id": 2778763806, "level": 3}
+{"count": 5464, "name": "Step response", "weight": 0.0, "id": 160030872, "level": 3}
+{"count": 4146, "name": "Impedance control", "weight": 0.0, "id": 2777984285, "level": 3}
+{"count": 9492, "name": "Tracking error", "weight": 1.0, "id": 183356978, "level": 3}
+{"count": 7913, "name": "Nonholonomic system", "weight": 1.0, "id": 138632511, "level": 3}
+{"count": 5962, "name": "Active suspension", "weight": 0.0, "id": 2778293426, "level": 3}
+{"count": 1860, "name": "Bang\u2013bang control", "weight": 0.0, "id": 175287345, "level": 3}
+{"count": 2547, "name": "Repetitive control", "weight": 0.0, "id": 2780842517, "level": 3}
+{"count": 3128, "name": "Minimum phase", "weight": 0.0, "id": 170263048, "level": 3}
+{"count": 395, "name": "Dead-beat control", "weight": 0.0, "id": 2779240398, "level": 3}
+{"count": 5978, "name": "Underactuation", "weight": 0.0, "id": 88337583, "level": 3}
+{"count": 6335, "name": "Autopilot", "weight": 0.0, "id": 18020424, "level": 3}
+{"count": 931, "name": "Cerebellar model articulation controller", "weight": 0.0, "id": 2780576740, "level": 3}
+{"count": 1497, "name": "Closed-loop transfer function", "weight": 0.0, "id": 158664035, "level": 3}
+{"count": 7509, "name": "Settling time", "weight": 0.0, "id": 14781684, "level": 3}
+{"count": 3374, "name": "Pitch control", "weight": 0.0, "id": 2778330180, "level": 3}
+{"count": 616, "name": "Supervisory control theory", "weight": 0.0, "id": 2778693208, "level": 3}
+{"count": 2515, "name": "Sensitivity (control systems)", "weight": 0.0, "id": 21200559, "level": 3}
+{"count": 14923, "name": "Motor controller", "weight": 1.0, "id": 4848560, "level": 3}
+{"count": 1799, "name": "Overhead crane", "weight": 0.0, "id": 2779279789, "level": 3}
+{"count": 3210, "name": "Current loop", "weight": 0.0, "id": 123414225, "level": 3}
+{"count": 541, "name": "Delta operator", "weight": 0.0, "id": 115633367, "level": 3}
+{"count": 781, "name": "PMAC", "weight": 0.0, "id": 102305610, "level": 3}
+{"count": 1121, "name": "Active steering", "weight": 0.0, "id": 2780380046, "level": 3}
+{"count": 920, "name": "Lead\u2013lag compensator", "weight": 0.0, "id": 186487364, "level": 3}
+{"count": 786, "name": "Stationary Reference Frame", "weight": 0.0, "id": 2778690891, "level": 3}
+{"count": 1559, "name": "Embedded controller", "weight": 0.0, "id": 2778803698, "level": 3}
+{"count": 3796, "name": "H-infinity methods in control theory", "weight": 0.0, "id": 6727046, "level": 3}
+{"count": 459, "name": "Rapid control prototyping", "weight": 0.0, "id": 2777585024, "level": 3}
+{"count": 732, "name": "Deadband", "weight": 0.0, "id": 146367497, "level": 3}
+{"count": 8452, "name": "Setpoint", "weight": 1.0, "id": 12302492, "level": 3}
+{"count": 4064, "name": "Inner loop", "weight": 0.0, "id": 58716799, "level": 3}
+{"count": 743, "name": "Double integrator", "weight": 0.0, "id": 2779323837, "level": 3}
+{"count": 279, "name": "Digital signal controller", "weight": 0.0, "id": 158764832, "level": 3}
+{"count": 263, "name": "Helicopter dynamics", "weight": 0.0, "id": 2776444342, "level": 3}
+{"count": 344, "name": "CompactRIO", "weight": 0.0, "id": 195928046, "level": 3}
+{"count": 2273, "name": "Mass flow controller", "weight": 0.0, "id": 155526268, "level": 3}
+{"count": 675, "name": "Register of data controllers", "weight": 0.0, "id": 37701910, "level": 3}
+{"count": 230, "name": "Washout filter", "weight": 0.0, "id": 2776952302, "level": 3}
+{"count": 540, "name": "Electronic throttle control", "weight": 0.0, "id": 2776947343, "level": 3}
+{"count": 306, "name": "Classical control theory", "weight": 0.0, "id": 2777545207, "level": 3}
+{"count": 708, "name": "CarSim", "weight": 0.0, "id": 2776053266, "level": 3}
+{"count": 3034, "name": "Host controller interface", "weight": 0.0, "id": 37360884, "level": 3}
+{"count": 670, "name": "Inversion of control", "weight": 0.0, "id": 10676104, "level": 3}
+{"count": 321, "name": "Synchronous frame", "weight": 0.0, "id": 2776713731, "level": 3}
+{"count": 91, "name": "Fractional-order integrator", "weight": 0.0, "id": 2779894793, "level": 3}
+{"count": 180, "name": "HVAC control system", "weight": 0.0, "id": 2780731337, "level": 3}
+{"count": 442, "name": "Ball and beam", "weight": 0.0, "id": 2778187056, "level": 3}
+{"count": 338, "name": "Controller\u2013pilot data link communications", "weight": 0.0, "id": 177056472, "level": 3}
+{"count": 125, "name": "DDR2 SDRAM", "weight": 0.0, "id": 2778595288, "level": 3}
+{"count": 1141, "name": "Loop performance", "weight": 0.0, "id": 2776496965, "level": 3}
+{"count": 2484, "name": "Controller (computing)", "weight": 0.0, "id": 123157393, "level": 3}
+{"count": 171, "name": "Active heave compensation", "weight": 0.0, "id": 2777313762, "level": 3}
+{"count": 190, "name": "Solar controller", "weight": 0.0, "id": 2779601174, "level": 3}
+{"count": 59, "name": "Synchronous coordinates", "weight": 0.0, "id": 2778620524, "level": 3}
+{"count": 804, "name": "Controller (irrigation)", "weight": 0.0, "id": 203479927, "level": 3}
+{"count": 73, "name": "Video display controller", "weight": 0.0, "id": 2777316912, "level": 3}
+{"count": 57, "name": "Tendon-driven robot", "weight": 0.0, "id": 2780213886, "level": 3}
+{"count": 23, "name": "Bit bucket", "weight": 0.0, "id": 2779203212, "level": 3}
+{"count": 41, "name": "Front Controller pattern", "weight": 0.0, "id": 201996311, "level": 3}
+{"count": 141, "name": "Lens Controller", "weight": 0.0, "id": 2778734348, "level": 3}
+{"count": 119, "name": "Googol", "weight": 0.0, "id": 113521450, "level": 3}
+{"count": 42, "name": "Ambilight", "weight": 0.0, "id": 2780231031, "level": 3}
+{"count": 25, "name": "Short-term conflict alert", "weight": 0.0, "id": 2777637119, "level": 3}
+{"count": 19, "name": "Additive state decomposition", "weight": 0.0, "id": 2780427172, "level": 3}
+{"count": 18, "name": "Triconex", "weight": 0.0, "id": 99895325, "level": 3}
+{"count": 126, "name": "Platform Controller Hub", "weight": 0.0, "id": 159220137, "level": 3}
+{"count": 92, "name": "Boost controller", "weight": 0.0, "id": 2778581623, "level": 3}
+{"count": 166, "name": "ATA Packet Interface", "weight": 0.0, "id": 128148693, "level": 3}
+{"count": 553, "name": "Programmed input/output", "weight": 0.0, "id": 188224288, "level": 3}
+{"count": 12, "name": "Advanced Host Controller Interface", "weight": 0.0, "id": 2779672298, "level": 3}
+{"count": 29, "name": "Understeer and oversteer", "weight": 0.0, "id": 2779137302, "level": 3}
+{"count": 2919, "name": "eXtensible Host Controller Interface (xHCI)", "weight": 0.0, "id": 71784007, "level": 3}
+{"count": 2443, "name": "Plant", "weight": 0.0, "id": 127205110, "level": 3}
+{"count": 29, "name": "Convenience function", "weight": 0.0, "id": 2778910147, "level": 3}
+{"count": 34, "name": "Port multiplier", "weight": 0.0, "id": 2776515303, "level": 3}
+{"count": 24, "name": "Water timer", "weight": 0.0, "id": 2779105781, "level": 3}
+{"count": 27, "name": "Street light controller", "weight": 0.0, "id": 2780245544, "level": 3}

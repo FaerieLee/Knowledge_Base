@@ -1,0 +1,9 @@
+{"count": 723, "name": "C dynamic memory allocation", "weight": 5.0, "id": 34339311, "level": 3}
+{"count": 1189, "name": "Memory leak", "weight": 8.0, "id": 156731835, "level": 3}
+{"count": 1374, "name": "Memory protection", "weight": 10.0, "id": 18131444, "level": 3}
+{"count": 544, "name": "Free list", "weight": 3.0, "id": 68816171, "level": 3}
+{"count": 410, "name": "Memory pool", "weight": 2.0, "id": 170553107, "level": 3}
+{"count": 67, "name": "Allocation site", "weight": 0.0, "id": 2778834526, "level": 3}
+{"count": 74, "name": "Handle", "weight": 0.0, "id": 72824718, "level": 3}
+{"count": 1142, "name": "Manual memory management", "weight": 8.0, "id": 82810778, "level": 3}
+{"count": 760, "name": "Static memory allocation", "weight": 5.0, "id": 151633640, "level": 3}

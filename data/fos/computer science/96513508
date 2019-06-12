@@ -1,0 +1,7 @@
+{"count": 3213, "name": "Ionospheric absorption", "weight": 7.0, "id": 17674307, "level": 3}
+{"count": 736, "name": "Cosmic noise", "weight": 1.0, "id": 101649592, "level": 3}
+{"count": 82, "name": "Cable radio", "weight": 0.0, "id": 2780572608, "level": 3}
+{"count": 4042, "name": "Ionospheric heater", "weight": 10.0, "id": 152821216, "level": 3}
+{"count": 208, "name": "Radio window", "weight": 0.0, "id": 50677000, "level": 3}
+{"count": 17, "name": "Long delayed echo", "weight": 0.0, "id": 11636886, "level": 3}
+{"count": 46, "name": "Visible-light astronomy", "weight": 0.0, "id": 155231006, "level": 3}

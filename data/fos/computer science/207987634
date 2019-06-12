@@ -1,0 +1,21 @@
+{"count": 4233, "name": "Space\u2013time code", "weight": 2.0, "id": 132778218, "level": 4}
+{"count": 1082, "name": "Zero Forcing Equalizer", "weight": 0.0, "id": 172833110, "level": 4}
+{"count": 5866, "name": "Space\u2013time block code", "weight": 3.0, "id": 83487572, "level": 4}
+{"count": 8630, "name": "Spatial multiplexing", "weight": 4.0, "id": 85884896, "level": 4}
+{"count": 17823, "name": "Precoding", "weight": 10.0, "id": 160562895, "level": 4}
+{"count": 4808, "name": "Diversity gain", "weight": 2.0, "id": 164785522, "level": 4}
+{"count": 1450, "name": "Lattice reduction", "weight": 0.0, "id": 44274781, "level": 4}
+{"count": 1102, "name": "Pairwise error probability", "weight": 0.0, "id": 2780839233, "level": 4}
+{"count": 10929, "name": "MIMO-OFDM", "weight": 6.0, "id": 130946814, "level": 4}
+{"count": 11499, "name": "Multi-user MIMO", "weight": 6.0, "id": 91330434, "level": 4}
+{"count": 1133, "name": "Channel sounding", "weight": 0.0, "id": 2781127089, "level": 4}
+{"count": 194, "name": "Single-input single-output system", "weight": 0.0, "id": 2776004178, "level": 4}
+{"count": 265, "name": "IEEE 802.11ac", "weight": 0.0, "id": 2778223847, "level": 4}
+{"count": 261, "name": "Water filling algorithm", "weight": 0.0, "id": 21705452, "level": 4}
+{"count": 85, "name": "Bell Laboratories Layered Space-Time", "weight": 0.0, "id": 51975414, "level": 4}
+{"count": 47, "name": "Bussgang theorem", "weight": 0.0, "id": 2779330191, "level": 4}
+{"count": 9, "name": "Water-pouring algorithm", "weight": 0.0, "id": 2778802064, "level": 4}
+{"count": 16, "name": "IEEE 802.11ay", "weight": 0.0, "id": 2778662065, "level": 4}
+{"count": 26, "name": "Catapult C", "weight": 0.0, "id": 2776652440, "level": 4}
+{"count": 12485, "name": "3G MIMO", "weight": 7.0, "id": 165650700, "level": 4}
+{"count": 251, "name": "Many antennas", "weight": 0.0, "id": 2776030121, "level": 4}

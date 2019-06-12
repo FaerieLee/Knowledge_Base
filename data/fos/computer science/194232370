@@ -1,0 +1,34 @@
+{"count": 40867, "name": "Single-mode optical fiber", "weight": 9.0, "id": 180861198, "level": 3}
+{"count": 41671, "name": "Fiber Bragg grating", "weight": 9.0, "id": 43091971, "level": 3}
+{"count": 42889, "name": "Fiber optic sensor", "weight": 10.0, "id": 21651689, "level": 3}
+{"count": 28813, "name": "Photonic-crystal fiber", "weight": 6.0, "id": 107157254, "level": 3}
+{"count": 6444, "name": "Polarization mode dispersion", "weight": 1.0, "id": 178557918, "level": 3}
+{"count": 25152, "name": "Dispersion-shifted fiber", "weight": 5.0, "id": 6138904, "level": 3}
+{"count": 31809, "name": "Multi-mode optical fiber", "weight": 7.0, "id": 101645829, "level": 3}
+{"count": 25416, "name": "Optical fiber cable", "weight": 5.0, "id": 161325326, "level": 3}
+{"count": 3921, "name": "Fibre optic gyroscope", "weight": 0.0, "id": 83736585, "level": 3}
+{"count": 1705, "name": "Silica fiber", "weight": 0.0, "id": 2777229284, "level": 3}
+{"count": 20659, "name": "Plastic optical fiber", "weight": 4.0, "id": 203637571, "level": 3}
+{"count": 1161, "name": "Sagnac effect", "weight": 0.0, "id": 2778985243, "level": 3}
+{"count": 1871, "name": "Fusion splicing", "weight": 0.0, "id": 11645699, "level": 3}
+{"count": 4164, "name": "Refractive index profile", "weight": 0.0, "id": 206369100, "level": 3}
+{"count": 790, "name": "Star coupler", "weight": 0.0, "id": 2780104964, "level": 3}
+{"count": 29324, "name": "Polarization-maintaining optical fiber", "weight": 6.0, "id": 45747243, "level": 3}
+{"count": 997, "name": "Optical circulator", "weight": 0.0, "id": 2778269747, "level": 3}
+{"count": 1254, "name": "Polarization controller", "weight": 0.0, "id": 2779030962, "level": 3}
+{"count": 595, "name": "Cure monitoring", "weight": 0.0, "id": 2777210722, "level": 3}
+{"count": 6122, "name": "Reference surface", "weight": 1.0, "id": 111737628, "level": 3}
+{"count": 10003, "name": "Ferrule", "weight": 2.0, "id": 2776351503, "level": 3}
+{"count": 26514, "name": "Graded-index fiber", "weight": 6.0, "id": 113102252, "level": 3}
+{"count": 3274, "name": "Optical fiber connector", "weight": 0.0, "id": 2779370546, "level": 3}
+{"count": 620, "name": "Optical power meter", "weight": 0.0, "id": 72911696, "level": 3}
+{"count": 326, "name": "Mechanical splice", "weight": 0.0, "id": 182087806, "level": 3}
+{"count": 96, "name": "Optical ground wire", "weight": 0.0, "id": 2778740655, "level": 3}
+{"count": 378, "name": "Fiber media converter", "weight": 0.0, "id": 60989904, "level": 3}
+{"count": 165, "name": "Index-matching material", "weight": 0.0, "id": 31590821, "level": 3}
+{"count": 821, "name": "Distribution frame", "weight": 0.0, "id": 2781374456, "level": 3}
+{"count": 58, "name": "Flame polishing", "weight": 0.0, "id": 2778651431, "level": 3}
+{"count": 116, "name": "Patch cable", "weight": 0.0, "id": 2780700471, "level": 3}
+{"count": 2989, "name": "Subwavelength-diameter optical fibre", "weight": 0.0, "id": 104942882, "level": 3}
+{"count": 14, "name": "Aircraft engine controls", "weight": 0.0, "id": 2776099503, "level": 3}
+{"count": 6, "name": "Radiation effects on optical fibers", "weight": 0.0, "id": 2776278686, "level": 3}

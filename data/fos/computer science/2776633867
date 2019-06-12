@@ -1,0 +1,6 @@
+{"count": 1211, "name": "Watchdog timer", "weight": 10.0, "id": 147773607, "level": 3}
+{"count": 499, "name": "555 timer IC", "weight": 4.0, "id": 122697291, "level": 3}
+{"count": 40, "name": "Programmable interval timer", "weight": 0.0, "id": 2779797966, "level": 3}
+{"count": 260, "name": "Cam timer", "weight": 2.0, "id": 75404926, "level": 3}
+{"count": 49, "name": "Output compare", "weight": 0.0, "id": 2776658486, "level": 3}
+{"count": 24, "name": "Water timer", "weight": 0.0, "id": 2779105781, "level": 3}

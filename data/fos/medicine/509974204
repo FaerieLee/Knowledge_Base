@@ -1,0 +1,79 @@
+{"count": 28217, "name": "Radiation treatment planning", "weight": 9.0, "id": 201645570, "level": 4}
+{"count": 30507, "name": "Head and neck cancer", "weight": 10.0, "id": 2776530083, "level": 4}
+{"count": 29481, "name": "Brachytherapy", "weight": 9.0, "id": 2777416452, "level": 4}
+{"count": 18028, "name": "Radiosurgery", "weight": 5.0, "id": 2780387249, "level": 4}
+{"count": 17898, "name": "Nasopharyngeal carcinoma", "weight": 5.0, "id": 2778997737, "level": 4}
+{"count": 20751, "name": "Chemoradiotherapy", "weight": 6.0, "id": 2778424827, "level": 4}
+{"count": 9285, "name": "Temozolomide", "weight": 3.0, "id": 2777389519, "level": 4}
+{"count": 2142, "name": "Dose fractionation", "weight": 0.0, "id": 155806632, "level": 4}
+{"count": 5155, "name": "Breast-conserving surgery", "weight": 1.0, "id": 2781467025, "level": 4}
+{"count": 6503, "name": "Androgen deprivation therapy", "weight": 2.0, "id": 2777899217, "level": 4}
+{"count": 5952, "name": "Image-guided radiation therapy", "weight": 1.0, "id": 9267231, "level": 4}
+{"count": 2593, "name": "Anaplastic astrocytoma", "weight": 0.0, "id": 2779083369, "level": 4}
+{"count": 5707, "name": "Proton therapy", "weight": 1.0, "id": 2779244869, "level": 4}
+{"count": 3949, "name": "Total mesorectal excision", "weight": 1.0, "id": 2777201421, "level": 4}
+{"count": 6839, "name": "Brain metastasis", "weight": 2.0, "id": 2778164965, "level": 4}
+{"count": 10450, "name": "Mucositis", "weight": 3.0, "id": 2778496288, "level": 4}
+{"count": 2269, "name": "Procarbazine", "weight": 0.0, "id": 2779112685, "level": 4}
+{"count": 2065, "name": "Germinoma", "weight": 0.0, "id": 2778895204, "level": 4}
+{"count": 8907, "name": "Induction chemotherapy", "weight": 2.0, "id": 2776611710, "level": 4}
+{"count": 1794, "name": "Amifostine", "weight": 0.0, "id": 2779387952, "level": 4}
+{"count": 1036, "name": "Lomustine", "weight": 0.0, "id": 2779434656, "level": 4}
+{"count": 3052, "name": "Anal cancer", "weight": 1.0, "id": 2779840525, "level": 4}
+{"count": 2006, "name": "Osteoradionecrosis", "weight": 0.0, "id": 2780037786, "level": 4}
+{"count": 1349, "name": "Prophylactic cranial irradiation", "weight": 0.0, "id": 2779562246, "level": 4}
+{"count": 4028, "name": "Tomotherapy", "weight": 1.0, "id": 2776713427, "level": 4}
+{"count": 10434, "name": "Radical surgery", "weight": 3.0, "id": 2776874909, "level": 4}
+{"count": 2133, "name": "Radiosensitizer", "weight": 0.0, "id": 2776428644, "level": 4}
+{"count": 1072, "name": "Nedaplatin", "weight": 0.0, "id": 2778203143, "level": 4}
+{"count": 894, "name": "Esthesioneuroblastoma", "weight": 0.0, "id": 2781088518, "level": 4}
+{"count": 5801, "name": "Radical mastectomy", "weight": 1.0, "id": 2780404832, "level": 4}
+{"count": 2648, "name": "Wide local excision", "weight": 0.0, "id": 2778303017, "level": 4}
+{"count": 692, "name": "Carbogen", "weight": 0.0, "id": 173622453, "level": 4}
+{"count": 661, "name": "Oligoastrocytoma", "weight": 0.0, "id": 2779192358, "level": 4}
+{"count": 1269, "name": "Particle therapy", "weight": 0.0, "id": 2778418280, "level": 4}
+{"count": 1390, "name": "Hypopharyngeal cancer", "weight": 0.0, "id": 2779196318, "level": 4}
+{"count": 827, "name": "Androgen suppression", "weight": 0.0, "id": 2778559712, "level": 4}
+{"count": 808, "name": "Aggressive fibromatosis", "weight": 0.0, "id": 2779677255, "level": 4}
+{"count": 105, "name": "Semustine", "weight": 0.0, "id": 2780595542, "level": 4}
+{"count": 991, "name": "Intraoperative radiation therapy", "weight": 0.0, "id": 2779494622, "level": 4}
+{"count": 153, "name": "Etanidazole", "weight": 0.0, "id": 2776050367, "level": 4}
+{"count": 490, "name": "Brainstem glioma", "weight": 0.0, "id": 2776389930, "level": 4}
+{"count": 550, "name": "Cordectomy", "weight": 0.0, "id": 2776957994, "level": 4}
+{"count": 1504, "name": "ABVD", "weight": 0.0, "id": 2776305933, "level": 4}
+{"count": 490, "name": "Late effect", "weight": 0.0, "id": 178640370, "level": 4}
+{"count": 577, "name": "Selective internal radiation therapy", "weight": 0.0, "id": 2779185275, "level": 4}
+{"count": 500, "name": "Deep inspiration breath-hold", "weight": 0.0, "id": 2778505408, "level": 4}
+{"count": 309, "name": "Radiogenomics", "weight": 0.0, "id": 163500349, "level": 4}
+{"count": 475, "name": "Nimotuzumab", "weight": 0.0, "id": 2776055544, "level": 4}
+{"count": 465, "name": "Abscopal effect", "weight": 0.0, "id": 2781274730, "level": 4}
+{"count": 356, "name": "Radiation retinopathy", "weight": 0.0, "id": 2777344557, "level": 4}
+{"count": 397, "name": "Transoral laser microsurgery", "weight": 0.0, "id": 2778993000, "level": 4}
+{"count": 369, "name": "Orbital lymphoma", "weight": 0.0, "id": 2778359799, "level": 4}
+{"count": 426, "name": "Radiation-induced lung injury", "weight": 0.0, "id": 2776269894, "level": 4}
+{"count": 158, "name": "Motexafin gadolinium", "weight": 0.0, "id": 2779771664, "level": 4}
+{"count": 250, "name": "Sinonasal undifferentiated carcinoma", "weight": 0.0, "id": 2776853624, "level": 4}
+{"count": 1459, "name": "Common Terminology Criteria for Adverse Events", "weight": 0.0, "id": 2777793932, "level": 4}
+{"count": 163, "name": "Tonsil cancer", "weight": 0.0, "id": 2781320375, "level": 4}
+{"count": 281, "name": "Optic nerve sheath meningioma", "weight": 0.0, "id": 2778574510, "level": 4}
+{"count": 3899, "name": "Isocenter", "weight": 1.0, "id": 181401712, "level": 4}
+{"count": 211, "name": "Moist desquamation", "weight": 0.0, "id": 141765769, "level": 4}
+{"count": 459, "name": "Electron therapy", "weight": 0.0, "id": 2779692314, "level": 4}
+{"count": 1425, "name": "Radiation oncologist", "weight": 0.0, "id": 2780920918, "level": 4}
+{"count": 376, "name": "Fast neutron therapy", "weight": 0.0, "id": 2779874292, "level": 4}
+{"count": 179, "name": "Extensive stage", "weight": 0.0, "id": 2775869673, "level": 4}
+{"count": 62, "name": "Efaproxiral", "weight": 0.0, "id": 2780259646, "level": 4}
+{"count": 488, "name": "Supraclavicular fossa", "weight": 0.0, "id": 2777968714, "level": 4}
+{"count": 148, "name": "Radiation enteropathy", "weight": 0.0, "id": 2780297412, "level": 4}
+{"count": 219, "name": "Cell survival curve", "weight": 0.0, "id": 85800841, "level": 4}
+{"count": 309, "name": "Mediastinal large B cell lymphoma", "weight": 0.0, "id": 2778471725, "level": 4}
+{"count": 14, "name": "Targeted intra-operative radiotherapy", "weight": 0.0, "id": 2780670801, "level": 4}
+{"count": 140, "name": "Pediatric ependymoma", "weight": 0.0, "id": 2779770214, "level": 4}
+{"count": 355, "name": "AJCC staging system", "weight": 0.0, "id": 2779660593, "level": 4}
+{"count": 32, "name": "Superficial X-rays", "weight": 0.0, "id": 2776186501, "level": 4}
+{"count": 58, "name": "Intraoperative electron radiation therapy", "weight": 0.0, "id": 2777288034, "level": 4}
+{"count": 57, "name": "Megavoltage X-rays", "weight": 0.0, "id": 2778065157, "level": 4}
+{"count": 248, "name": "Ann Arbor staging", "weight": 0.0, "id": 2776674312, "level": 4}
+{"count": 50, "name": "HPV-positive oropharyngeal cancer", "weight": 0.0, "id": 2778438021, "level": 4}
+{"count": 25, "name": "Orthovoltage X-rays", "weight": 0.0, "id": 2778456940, "level": 4}
+{"count": 30, "name": "Glassy cell carcinoma of the cervix", "weight": 0.0, "id": 2778887926, "level": 4}

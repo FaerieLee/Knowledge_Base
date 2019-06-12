@@ -1,0 +1,48 @@
+{"count": 3009, "name": "Brief Psychiatric Rating Scale", "weight": 6.0, "id": 2778528637, "level": 4}
+{"count": 4207, "name": "Positive and Negative Syndrome Scale", "weight": 8.0, "id": 2780135775, "level": 4}
+{"count": 4906, "name": "Schizoaffective disorder", "weight": 10.0, "id": 2780325297, "level": 4}
+{"count": 1226, "name": "Schizotypal personality disorder", "weight": 2.0, "id": 2781350904, "level": 4}
+{"count": 2195, "name": "Prodrome", "weight": 4.0, "id": 2780292510, "level": 4}
+{"count": 2301, "name": "Schizotypy", "weight": 4.0, "id": 2777727901, "level": 4}
+{"count": 1847, "name": "Thought disorder", "weight": 3.0, "id": 2776313836, "level": 4}
+{"count": 1472, "name": "Psychotic depression", "weight": 3.0, "id": 2780163958, "level": 4}
+{"count": 2306, "name": "Paranoid schizophrenia", "weight": 4.0, "id": 2780187144, "level": 4}
+{"count": 773, "name": "Auditory hallucination", "weight": 1.0, "id": 2776706361, "level": 4}
+{"count": 1324, "name": "Dopamine hypothesis of schizophrenia", "weight": 2.0, "id": 170457331, "level": 4}
+{"count": 421, "name": "Hypofrontality", "weight": 0.0, "id": 2779899357, "level": 4}
+{"count": 1067, "name": "Delusional disorder", "weight": 2.0, "id": 2776601460, "level": 4}
+{"count": 522, "name": "Postpartum psychosis", "weight": 1.0, "id": 2779990769, "level": 4}
+{"count": 464, "name": "At risk mental state", "weight": 0.0, "id": 2779060110, "level": 4}
+{"count": 340, "name": "Avolition", "weight": 0.0, "id": 2778380266, "level": 4}
+{"count": 336, "name": "Minor physical anomalies", "weight": 0.0, "id": 2777273559, "level": 4}
+{"count": 295, "name": "Paraphrenia", "weight": 0.0, "id": 2780698425, "level": 4}
+{"count": 340, "name": "Jumping to conclusions", "weight": 0.0, "id": 2780160010, "level": 4}
+{"count": 183, "name": "Thought insertion", "weight": 0.0, "id": 2776559954, "level": 4}
+{"count": 88, "name": "Ventricular-brain ratio", "weight": 0.0, "id": 2777999532, "level": 4}
+{"count": 94, "name": "Forced normalization", "weight": 0.0, "id": 2776252364, "level": 4}
+{"count": 397, "name": "Early intervention in psychosis", "weight": 0.0, "id": 2780961392, "level": 4}
+{"count": 263, "name": "Alogia", "weight": 0.0, "id": 2777486937, "level": 4}
+{"count": 78, "name": "Delusional misidentification syndrome", "weight": 0.0, "id": 2780959411, "level": 4}
+{"count": 83, "name": "Substance-induced psychosis", "weight": 0.0, "id": 2779199421, "level": 4}
+{"count": 34, "name": "Pseudohallucination", "weight": 0.0, "id": 2778632335, "level": 4}
+{"count": 175, "name": "Asociality", "weight": 0.0, "id": 2779627912, "level": 4}
+{"count": 115, "name": "Grandiose delusions", "weight": 0.0, "id": 2776586568, "level": 4}
+{"count": 115, "name": "Communication deviance", "weight": 0.0, "id": 2779732023, "level": 4}
+{"count": 98, "name": "Persecutory delusion", "weight": 0.0, "id": 2776785118, "level": 4}
+{"count": 91, "name": "Kraepelinian dichotomy", "weight": 0.0, "id": 2780088638, "level": 4}
+{"count": 58, "name": "Brief reactive psychosis", "weight": 0.0, "id": 2779134926, "level": 4}
+{"count": 43, "name": "Religious delusion", "weight": 0.0, "id": 2779537942, "level": 4}
+{"count": 30, "name": "Hearing Voices Movement", "weight": 0.0, "id": 2779641741, "level": 4}
+{"count": 42, "name": "Unitary psychosis", "weight": 0.0, "id": 2780290019, "level": 4}
+{"count": 28, "name": "Menstrual psychosis", "weight": 0.0, "id": 2777940702, "level": 4}
+{"count": 3363, "name": "Diagnosis of schizophrenia", "weight": 6.0, "id": 2781204524, "level": 4}
+{"count": 15, "name": "Stimulant psychosis", "weight": 0.0, "id": 2776944161, "level": 4}
+{"count": 70, "name": "Psychotic break", "weight": 0.0, "id": 2778736787, "level": 4}
+{"count": 132, "name": "Prognosis of schizophrenia", "weight": 0.0, "id": 2778974361, "level": 4}
+{"count": 227, "name": "Causes of schizophrenia", "weight": 0.0, "id": 2780009234, "level": 4}
+{"count": 13, "name": "Neuroleptic-Induced Deficit Syndrome", "weight": 0.0, "id": 2778658152, "level": 4}
+{"count": 11, "name": "Tardive dysmentia", "weight": 0.0, "id": 2775934247, "level": 4}
+{"count": 10, "name": "CapOpus", "weight": 0.0, "id": 2777500660, "level": 4}
+{"count": 51, "name": "Cannabis and schizophrenia", "weight": 0.0, "id": 2780377904, "level": 4}
+{"count": 29, "name": "Schizophrenia and smoking", "weight": 0.0, "id": 2778807694, "level": 4}
+{"count": 81, "name": "Sex differences in schizophrenia", "weight": 0.0, "id": 2781113079, "level": 4}

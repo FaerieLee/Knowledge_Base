@@ -1,0 +1,185 @@
+{"count": 48491, "name": "Radiation effect", "weight": 9.0, "id": 2781202762, "level": 3}
+{"count": 50171, "name": "Particle detector", "weight": 9.0, "id": 183680338, "level": 3}
+{"count": 43988, "name": "Ionizing radiation", "weight": 8.0, "id": 18231593, "level": 3}
+{"count": 50885, "name": "Dosimetry", "weight": 10.0, "id": 75088862, "level": 3}
+{"count": 36923, "name": "Radiation pattern", "weight": 7.0, "id": 151764478, "level": 3}
+{"count": 39189, "name": "Thermal radiation", "weight": 7.0, "id": 89394759, "level": 3}
+{"count": 14819, "name": "Radiation damage", "weight": 2.0, "id": 153428861, "level": 3}
+{"count": 19445, "name": "Radiation chemistry", "weight": 3.0, "id": 134056017, "level": 3}
+{"count": 18689, "name": "Albedo", "weight": 3.0, "id": 90112936, "level": 3}
+{"count": 26392, "name": "Radiation protection", "weight": 5.0, "id": 2777620619, "level": 3}
+{"count": 4569, "name": "Background radiation", "weight": 0.0, "id": 187970030, "level": 3}
+{"count": 18241, "name": "Radiosensitivity", "weight": 3.0, "id": 206684579, "level": 3}
+{"count": 18542, "name": "Extreme ultraviolet", "weight": 3.0, "id": 146024833, "level": 3}
+{"count": 9349, "name": "Effective dose (radiation)", "weight": 1.0, "id": 149857219, "level": 3}
+{"count": 13972, "name": "Free-electron laser", "weight": 2.0, "id": 2775876984, "level": 3}
+{"count": 12518, "name": "Cloud cover", "weight": 2.0, "id": 206887242, "level": 3}
+{"count": 16053, "name": "Solar irradiance", "weight": 3.0, "id": 9695528, "level": 3}
+{"count": 4888, "name": "Radiobiology", "weight": 0.0, "id": 125118446, "level": 3}
+{"count": 21972, "name": "Radiation exposure", "weight": 4.0, "id": 2779925993, "level": 3}
+{"count": 5151, "name": "Cobalt-60", "weight": 1.0, "id": 77241059, "level": 3}
+{"count": 16075, "name": "Ionization chamber", "weight": 3.0, "id": 151770136, "level": 3}
+{"count": 4721, "name": "Radiation hardening", "weight": 0.0, "id": 119349744, "level": 3}
+{"count": 19323, "name": "Emissivity", "weight": 3.0, "id": 163651212, "level": 3}
+{"count": 4350, "name": "Photosynthetically active radiation", "weight": 0.0, "id": 131366478, "level": 3}
+{"count": 3957, "name": "Solar zenith angle", "weight": 0.0, "id": 2776573159, "level": 3}
+{"count": 3674, "name": "Earth's energy budget", "weight": 0.0, "id": 7337166, "level": 3}
+{"count": 9672, "name": "Fluoroscopy", "weight": 1.0, "id": 2776805002, "level": 3}
+{"count": 5717, "name": "Radiation monitoring", "weight": 1.0, "id": 2779170139, "level": 3}
+{"count": 2894, "name": "Diffuse sky radiation", "weight": 0.0, "id": 196875640, "level": 3}
+{"count": 4075, "name": "Radiation flux", "weight": 0.0, "id": 80559505, "level": 3}
+{"count": 6045, "name": "Radioactive contamination", "weight": 1.0, "id": 154038757, "level": 3}
+{"count": 6500, "name": "Black-body radiation", "weight": 1.0, "id": 157909335, "level": 3}
+{"count": 3353, "name": "Single event upset", "weight": 0.0, "id": 2780073065, "level": 3}
+{"count": 3772, "name": "Photoprotection", "weight": 0.0, "id": 2780542282, "level": 3}
+{"count": 3517, "name": "Linear energy transfer", "weight": 0.0, "id": 86611320, "level": 3}
+{"count": 1102, "name": "Acoustic radiation", "weight": 0.0, "id": 2777223244, "level": 3}
+{"count": 1458, "name": "Outgoing longwave radiation", "weight": 0.0, "id": 2780723968, "level": 3}
+{"count": 4315, "name": "Cyclotron radiation", "weight": 0.0, "id": 44128863, "level": 3}
+{"count": 3174, "name": "Relative biological effectiveness", "weight": 0.0, "id": 11928243, "level": 3}
+{"count": 11231, "name": "Pneumonitis", "weight": 2.0, "id": 2779524853, "level": 3}
+{"count": 10293, "name": "Gray (unit)", "weight": 2.0, "id": 166275286, "level": 3}
+{"count": 7911, "name": "Electromagnetic spectrum", "weight": 1.0, "id": 155761240, "level": 3}
+{"count": 3571, "name": "Radiation resistance", "weight": 0.0, "id": 187069183, "level": 3}
+{"count": 1456, "name": "Penman\u2013Monteith equation", "weight": 0.0, "id": 60352421, "level": 3}
+{"count": 4543, "name": "Transition radiation", "weight": 0.0, "id": 143715953, "level": 3}
+{"count": 4145, "name": "Radiative cooling", "weight": 0.0, "id": 15908118, "level": 3}
+{"count": 5915, "name": "Pyrometer", "weight": 1.0, "id": 32993116, "level": 3}
+{"count": 9266, "name": "Clonogenic assay", "weight": 1.0, "id": 117262875, "level": 3}
+{"count": 2124, "name": "Infrared window", "weight": 0.0, "id": 51295201, "level": 3}
+{"count": 3752, "name": "Radiation sickness", "weight": 0.0, "id": 2780639530, "level": 3}
+{"count": 4421, "name": "Sunshine duration", "weight": 0.0, "id": 197529216, "level": 3}
+{"count": 1500, "name": "Misonidazole", "weight": 0.0, "id": 2781305896, "level": 3}
+{"count": 3298, "name": "Sunburn", "weight": 0.0, "id": 2777524492, "level": 3}
+{"count": 1143, "name": "Solar particle event", "weight": 0.0, "id": 67266756, "level": 3}
+{"count": 2057, "name": "Acoustic radiation force", "weight": 0.0, "id": 2781325599, "level": 3}
+{"count": 2299, "name": "Food irradiation", "weight": 0.0, "id": 47782418, "level": 3}
+{"count": 3760, "name": "Effective radiated power", "weight": 0.0, "id": 34556337, "level": 3}
+{"count": 3727, "name": "Solar gain", "weight": 0.0, "id": 40221189, "level": 3}
+{"count": 1383, "name": "Deinococcus radiodurans", "weight": 0.0, "id": 2776519032, "level": 3}
+{"count": 1503, "name": "Mass attenuation coefficient", "weight": 0.0, "id": 60761834, "level": 3}
+{"count": 31, "name": "F-factor", "weight": 0.0, "id": 2781027376, "level": 3}
+{"count": 3048, "name": "Photoaging", "weight": 0.0, "id": 2776960578, "level": 3}
+{"count": 11634, "name": "Radiant energy", "weight": 2.0, "id": 9466671, "level": 3}
+{"count": 2703, "name": "Radiation sensitivity", "weight": 0.0, "id": 26114605, "level": 3}
+{"count": 7088, "name": "Radiant intensity", "weight": 1.0, "id": 163752227, "level": 3}
+{"count": 296, "name": "Mycosporine-like amino acid", "weight": 0.0, "id": 2777741330, "level": 3}
+{"count": 902, "name": "South Atlantic Anomaly", "weight": 0.0, "id": 107878403, "level": 3}
+{"count": 1098, "name": "Solar furnace", "weight": 0.0, "id": 2777348173, "level": 3}
+{"count": 676, "name": "Planck's law", "weight": 0.0, "id": 177260915, "level": 3}
+{"count": 1861, "name": "Dicentric chromosome", "weight": 0.0, "id": 103037022, "level": 3}
+{"count": 691, "name": "Actinometer", "weight": 0.0, "id": 168566512, "level": 3}
+{"count": 630, "name": "Oxygen enhancement ratio", "weight": 0.0, "id": 163372243, "level": 3}
+{"count": 7547, "name": "Undulator", "weight": 1.0, "id": 2777284552, "level": 3}
+{"count": 366, "name": "Leaf angle distribution", "weight": 0.0, "id": 72981366, "level": 3}
+{"count": 438, "name": "Hemispherical photography", "weight": 0.0, "id": 2776034265, "level": 3}
+{"count": 1349, "name": "Leaky wave antenna", "weight": 0.0, "id": 2778112244, "level": 3}
+{"count": 582, "name": "Typical meteorological year", "weight": 0.0, "id": 149982382, "level": 3}
+{"count": 713, "name": "Radiation trapping", "weight": 0.0, "id": 2776052136, "level": 3}
+{"count": 773, "name": "Radiation impedance", "weight": 0.0, "id": 2778771554, "level": 3}
+{"count": 2434, "name": "Radiation properties", "weight": 0.0, "id": 1007738, "level": 3}
+{"count": 1802, "name": "Shortwave radiation", "weight": 0.0, "id": 19369268, "level": 3}
+{"count": 7080, "name": "Optical radiation", "weight": 1.0, "id": 113362759, "level": 3}
+{"count": 1047, "name": "MODTRAN", "weight": 0.0, "id": 2776445388, "level": 3}
+{"count": 453, "name": "Radiation length", "weight": 0.0, "id": 2776076439, "level": 3}
+{"count": 2753, "name": "Radioactive source", "weight": 0.0, "id": 2777962739, "level": 3}
+{"count": 139, "name": "Poynting\u2013Robertson effect", "weight": 0.0, "id": 92364456, "level": 3}
+{"count": 1087, "name": "Radiation damping", "weight": 0.0, "id": 2778157831, "level": 3}
+{"count": 228, "name": "Stefan\u2013Boltzmann law", "weight": 0.0, "id": 13486216, "level": 3}
+{"count": 995, "name": "Solar Resource", "weight": 0.0, "id": 2778676262, "level": 3}
+{"count": 262, "name": "Scytonemin", "weight": 0.0, "id": 2776467500, "level": 3}
+{"count": 1220, "name": "Induced radioactivity", "weight": 0.0, "id": 200902169, "level": 3}
+{"count": 2933, "name": "Particle radiation", "weight": 0.0, "id": 147976105, "level": 3}
+{"count": 3858, "name": "Hohlraum", "weight": 0.0, "id": 52551758, "level": 3}
+{"count": 2492, "name": "Radiative flux", "weight": 0.0, "id": 68130645, "level": 3}
+{"count": 1078, "name": "View factor", "weight": 0.0, "id": 66197374, "level": 3}
+{"count": 189, "name": "Solar water disinfection", "weight": 0.0, "id": 2778395396, "level": 3}
+{"count": 378, "name": "Evolutionary radiation", "weight": 0.0, "id": 10614488, "level": 3}
+{"count": 494, "name": "Mobile phone radiation and health", "weight": 0.0, "id": 121143604, "level": 3}
+{"count": 343, "name": "Dirty bomb", "weight": 0.0, "id": 43073704, "level": 3}
+{"count": 126, "name": "Radiological warfare", "weight": 0.0, "id": 2779989747, "level": 3}
+{"count": 4660, "name": "Shortwave", "weight": 0.0, "id": 2776272892, "level": 3}
+{"count": 684, "name": "Water window", "weight": 0.0, "id": 2780884700, "level": 3}
+{"count": 1206, "name": "Radiant flux", "weight": 0.0, "id": 55864363, "level": 3}
+{"count": 417, "name": "Half-value layer", "weight": 0.0, "id": 2775904910, "level": 3}
+{"count": 423, "name": "Nuclear weapons testing", "weight": 0.0, "id": 2779073454, "level": 3}
+{"count": 1525, "name": "Longwave", "weight": 0.0, "id": 2779155178, "level": 3}
+{"count": 104, "name": "Smith\u2013Purcell effect", "weight": 0.0, "id": 2779840958, "level": 3}
+{"count": 202, "name": "Hard radiation", "weight": 0.0, "id": 2780264749, "level": 3}
+{"count": 277, "name": "Avobenzone", "weight": 0.0, "id": 2777139159, "level": 3}
+{"count": 507, "name": "Solar azimuth angle", "weight": 0.0, "id": 1374934, "level": 3}
+{"count": 432, "name": "Sievert", "weight": 0.0, "id": 79012552, "level": 3}
+{"count": 118, "name": "Neoaves", "weight": 0.0, "id": 2780391279, "level": 3}
+{"count": 167, "name": "Anti-scatter grid", "weight": 0.0, "id": 2777423577, "level": 3}
+{"count": 245, "name": "Retarded time", "weight": 0.0, "id": 2775920289, "level": 3}
+{"count": 131, "name": "TheraSphere", "weight": 0.0, "id": 2780747218, "level": 3}
+{"count": 287, "name": "Skyshine", "weight": 0.0, "id": 2776354700, "level": 3}
+{"count": 99, "name": "Configuration factor", "weight": 0.0, "id": 2778122077, "level": 3}
+{"count": 697, "name": "Survey meter", "weight": 0.0, "id": 2778862374, "level": 3}
+{"count": 104, "name": "Negative luminescence", "weight": 0.0, "id": 2775913940, "level": 3}
+{"count": 94, "name": "Radurization", "weight": 0.0, "id": 2776424129, "level": 3}
+{"count": 66, "name": "Radicidation", "weight": 0.0, "id": 2779639074, "level": 3}
+{"count": 443, "name": "Lead shielding", "weight": 0.0, "id": 2776635740, "level": 3}
+{"count": 345, "name": "Germicidal lamp", "weight": 0.0, "id": 2780056924, "level": 3}
+{"count": 146, "name": "Golay cell", "weight": 0.0, "id": 2777215697, "level": 3}
+{"count": 605, "name": "Radiation angle", "weight": 0.0, "id": 2777528336, "level": 3}
+{"count": 113, "name": "Sterility assurance level", "weight": 0.0, "id": 2778706592, "level": 3}
+{"count": 129, "name": "Photokeratitis", "weight": 0.0, "id": 2778973544, "level": 3}
+{"count": 68, "name": "Passerida", "weight": 0.0, "id": 2778269471, "level": 3}
+{"count": 168, "name": "Ultraviolet index", "weight": 0.0, "id": 2779373750, "level": 3}
+{"count": 2416, "name": "Overcast", "weight": 0.0, "id": 195452092, "level": 3}
+{"count": 83, "name": "Octyl salicylate", "weight": 0.0, "id": 2779312899, "level": 3}
+{"count": 134, "name": "Ordovician radiation", "weight": 0.0, "id": 2778453050, "level": 3}
+{"count": 60, "name": "GRB 080916C", "weight": 0.0, "id": 2780981235, "level": 3}
+{"count": 24, "name": "Narrow bipolar pulse", "weight": 0.0, "id": 2778345570, "level": 3}
+{"count": 97, "name": "BIOPAN", "weight": 0.0, "id": 2776295364, "level": 3}
+{"count": 54, "name": "Radiophobia", "weight": 0.0, "id": 2776109764, "level": 3}
+{"count": 195, "name": "Net radiometer", "weight": 0.0, "id": 47139338, "level": 3}
+{"count": 19, "name": "Telmatherinidae", "weight": 0.0, "id": 2778047082, "level": 3}
+{"count": 37, "name": "Corvida", "weight": 0.0, "id": 2779178693, "level": 3}
+{"count": 257, "name": "Cold shield", "weight": 0.0, "id": 2776389481, "level": 3}
+{"count": 112, "name": "Radiation burn", "weight": 0.0, "id": 2778062349, "level": 3}
+{"count": 287, "name": "Radiographic equipment", "weight": 0.0, "id": 48402862, "level": 3}
+{"count": 219, "name": "CLOUD experiment", "weight": 0.0, "id": 2781383829, "level": 3}
+{"count": 92, "name": "Radiant exitance", "weight": 0.0, "id": 2776406117, "level": 3}
+{"count": 40, "name": "Photon bubble", "weight": 0.0, "id": 2776095396, "level": 3}
+{"count": 100, "name": "Wind run", "weight": 0.0, "id": 2777183766, "level": 3}
+{"count": 36, "name": "ERAMS", "weight": 0.0, "id": 2780325772, "level": 3}
+{"count": 54, "name": "Wolf effect", "weight": 0.0, "id": 2780158342, "level": 3}
+{"count": 42, "name": "International Nuclear Event Scale", "weight": 0.0, "id": 2780303473, "level": 3}
+{"count": 23, "name": "Therac-25", "weight": 0.0, "id": 8696552, "level": 3}
+{"count": 149, "name": "Europa Orbiter", "weight": 0.0, "id": 2779790087, "level": 3}
+{"count": 26, "name": "Half Acceptance angle", "weight": 0.0, "id": 2775932068, "level": 3}
+{"count": 9, "name": "Radithor", "weight": 0.0, "id": 2776136435, "level": 3}
+{"count": 88, "name": "High Luminosity Large Hadron Collider", "weight": 0.0, "id": 2780818262, "level": 3}
+{"count": 97, "name": "Solarimeter", "weight": 0.0, "id": 2776238737, "level": 3}
+{"count": 70, "name": "HZE ions", "weight": 0.0, "id": 103623324, "level": 3}
+{"count": 10, "name": "Meliphagoidea", "weight": 0.0, "id": 2779496264, "level": 3}
+{"count": 97, "name": "Hydrogen fluoride laser", "weight": 0.0, "id": 2779968242, "level": 3}
+{"count": 21, "name": "Animal efficacy rule", "weight": 0.0, "id": 2779605137, "level": 3}
+{"count": 99, "name": "Environmental Technology Laboratory", "weight": 0.0, "id": 2776616956, "level": 3}
+{"count": 71, "name": "Stefan\u2013Boltzmann constant", "weight": 0.0, "id": 166784250, "level": 3}
+{"count": 22, "name": "Auriculectomy", "weight": 0.0, "id": 2777932551, "level": 3}
+{"count": 23, "name": "Focus film distance", "weight": 0.0, "id": 93443463, "level": 3}
+{"count": 78, "name": "Human radiation experiments", "weight": 0.0, "id": 2777174345, "level": 3}
+{"count": 38, "name": "Atmospheric Radiation Measurement Climate Research Facility", "weight": 0.0, "id": 2779254466, "level": 3}
+{"count": 71, "name": "Particle shower", "weight": 0.0, "id": 2781321235, "level": 3}
+{"count": 103, "name": "Nuclear safety and security", "weight": 0.0, "id": 2780978964, "level": 3}
+{"count": 15, "name": "FLT3LG", "weight": 0.0, "id": 2779867624, "level": 3}
+{"count": 25, "name": "Z Pulsed Power Facility", "weight": 0.0, "id": 2779248848, "level": 3}
+{"count": 33, "name": "Actinograph", "weight": 0.0, "id": 2780676936, "level": 3}
+{"count": 18, "name": "Spinthariscope", "weight": 0.0, "id": 2776758022, "level": 3}
+{"count": 21, "name": "FEL lamp", "weight": 0.0, "id": 2779789636, "level": 3}
+{"count": 18, "name": "Ionising Radiations Regulations 1999", "weight": 0.0, "id": 2778394878, "level": 3}
+{"count": 14, "name": "Tradescantia occidentalis", "weight": 0.0, "id": 2780444342, "level": 3}
+{"count": 28, "name": "Isotopes of radon", "weight": 0.0, "id": 2778898048, "level": 3}
+{"count": 28, "name": "Tanning booth", "weight": 0.0, "id": 2775862455, "level": 3}
+{"count": 42, "name": "Tanning lamp", "weight": 0.0, "id": 2779834979, "level": 3}
+{"count": 48, "name": "Millimeter cloud radar", "weight": 0.0, "id": 2780904567, "level": 3}
+{"count": 17, "name": "Inherited sterility in insects", "weight": 0.0, "id": 89868102, "level": 3}
+{"count": 48, "name": "Radium bromide", "weight": 0.0, "id": 2779414383, "level": 3}
+{"count": 8, "name": "Optoelectric nuclear battery", "weight": 0.0, "id": 24759176, "level": 3}
+{"count": 15, "name": "Source to image-receptor distance", "weight": 0.0, "id": 2779410146, "level": 3}
+{"count": 28, "name": "Nernst glower", "weight": 0.0, "id": 2779014402, "level": 3}
+{"count": 26, "name": "Personal RF safety monitors", "weight": 0.0, "id": 32751979, "level": 3}
+{"count": 48, "name": "Space Science and Engineering Center", "weight": 0.0, "id": 2777320488, "level": 3}

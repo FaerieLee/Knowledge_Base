@@ -1,0 +1,12 @@
+{"count": 12542, "name": "Magnetic semiconductor", "weight": 9.0, "id": 125938697, "level": 3}
+{"count": 4070, "name": "Micromagnetics", "weight": 2.0, "id": 119835096, "level": 3}
+{"count": 13790, "name": "Spintronics", "weight": 10.0, "id": 207999682, "level": 3}
+{"count": 7498, "name": "Magnon", "weight": 5.0, "id": 204382992, "level": 3}
+{"count": 5013, "name": "Curie\u2013Weiss law", "weight": 3.0, "id": 500440979, "level": 3}
+{"count": 3877, "name": "Spontaneous magnetization", "weight": 2.0, "id": 77048121, "level": 3}
+{"count": 7877, "name": "Magnetic shape-memory alloy", "weight": 5.0, "id": 100454173, "level": 3}
+{"count": 3391, "name": "Ferromagnetic material properties", "weight": 2.0, "id": 26573533, "level": 3}
+{"count": 529, "name": "Heusler compound", "weight": 0.0, "id": 2778087861, "level": 3}
+{"count": 338, "name": "Ferromagnetic superconductor", "weight": 0.0, "id": 2780230900, "level": 3}
+{"count": 170, "name": "Stoner criterion", "weight": 0.0, "id": 2780248845, "level": 3}
+{"count": 53, "name": "Soft reference", "weight": 0.0, "id": 132505909, "level": 3}

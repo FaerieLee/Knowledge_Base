@@ -1,0 +1,76 @@
+{"count": 122070, "name": "Fossil fuel", "weight": 7.0, "id": 68189081, "level": 2}
+{"count": 100504, "name": "Petroleum", "weight": 6.0, "id": 548895740, "level": 2}
+{"count": 98054, "name": "Natural gas", "weight": 6.0, "id": 59427239, "level": 2}
+{"count": 30406, "name": "Petroleum industry", "weight": 1.0, "id": 526740375, "level": 2}
+{"count": 50807, "name": "Oil shale", "weight": 3.0, "id": 153127940, "level": 2}
+{"count": 21228, "name": "Petroleum reservoir", "weight": 1.0, "id": 113215200, "level": 2}
+{"count": 30025, "name": "Fuel oil", "weight": 1.0, "id": 82576440, "level": 2}
+{"count": 14674, "name": "Hydraulic fracturing", "weight": 0.0, "id": 2779096232, "level": 2}
+{"count": 15841, "name": "Well logging", "weight": 1.0, "id": 35817400, "level": 2}
+{"count": 6645, "name": "Reservoir engineering", "weight": 0.0, "id": 183250156, "level": 2}
+{"count": 22389, "name": "Oil field", "weight": 1.0, "id": 2776364302, "level": 2}
+{"count": 10284, "name": "Enhanced oil recovery", "weight": 0.0, "id": 2779681308, "level": 2}
+{"count": 6457, "name": "Reservoir simulation", "weight": 0.0, "id": 2778668878, "level": 2}
+{"count": 14739, "name": "Refinery", "weight": 0.0, "id": 105168734, "level": 2}
+{"count": 6454, "name": "Liquefied petroleum gas", "weight": 0.0, "id": 1787132, "level": 2}
+{"count": 6533, "name": "Steam injection", "weight": 0.0, "id": 175234220, "level": 2}
+{"count": 15502, "name": "Oil refinery", "weight": 1.0, "id": 20309002, "level": 2}
+{"count": 16499, "name": "Oil well", "weight": 1.0, "id": 2777560178, "level": 2}
+{"count": 3941, "name": "Torpedo", "weight": 0.0, "id": 123419017, "level": 2}
+{"count": 3903, "name": "Injection well", "weight": 0.0, "id": 57054060, "level": 2}
+{"count": 11405, "name": "Water injection (engine)", "weight": 0.0, "id": 31253153, "level": 2}
+{"count": 17048, "name": "Annulus (oil well)", "weight": 1.0, "id": 164487770, "level": 2}
+{"count": 152931, "name": "Casing", "weight": 10.0, "id": 30399818, "level": 2}
+{"count": 5647, "name": "Produced water", "weight": 0.0, "id": 2775865663, "level": 2}
+{"count": 8997, "name": "Reservoir modeling", "weight": 0.0, "id": 14641988, "level": 2}
+{"count": 6156, "name": "Residual oil", "weight": 0.0, "id": 2776124570, "level": 2}
+{"count": 4999, "name": "Coiled tubing", "weight": 0.0, "id": 42016506, "level": 2}
+{"count": 5008, "name": "Light crude oil", "weight": 0.0, "id": 28292411, "level": 2}
+{"count": 2603, "name": "Gas lift", "weight": 0.0, "id": 2778163939, "level": 2}
+{"count": 2664, "name": "Flow line", "weight": 0.0, "id": 2777425979, "level": 2}
+{"count": 1147, "name": "Flow assurance", "weight": 0.0, "id": 2777955874, "level": 2}
+{"count": 23963, "name": "Wellbore", "weight": 1.0, "id": 9677107, "level": 2}
+{"count": 213, "name": "Water contact", "weight": 0.0, "id": 151231931, "level": 2}
+{"count": 4610, "name": "Submersible pump", "weight": 0.0, "id": 2777741327, "level": 2}
+{"count": 3173, "name": "Tight gas", "weight": 0.0, "id": 2777447996, "level": 2}
+{"count": 3188, "name": "Workover", "weight": 0.0, "id": 33451869, "level": 2}
+{"count": 1829, "name": "Dry gas", "weight": 0.0, "id": 2780298149, "level": 2}
+{"count": 652, "name": "Connate fluids", "weight": 0.0, "id": 93102401, "level": 2}
+{"count": 1379, "name": "Gas oil ratio", "weight": 0.0, "id": 2631668, "level": 2}
+{"count": 8898, "name": "Wellhead", "weight": 0.0, "id": 2780424376, "level": 2}
+{"count": 4273, "name": "Sucker rod", "weight": 0.0, "id": 2780190608, "level": 2}
+{"count": 1569, "name": "Formation evaluation", "weight": 0.0, "id": 2781101838, "level": 2}
+{"count": 1831, "name": "Caprock", "weight": 0.0, "id": 2778887201, "level": 2}
+{"count": 1181, "name": "Artificial lift", "weight": 0.0, "id": 2776873729, "level": 2}
+{"count": 1314, "name": "Formation fluid", "weight": 0.0, "id": 2778415858, "level": 2}
+{"count": 4947, "name": "Wireline", "weight": 0.0, "id": 2776951270, "level": 2}
+{"count": 353, "name": "Retrograde condensation", "weight": 0.0, "id": 135502462, "level": 2}
+{"count": 656, "name": "Integrated operations", "weight": 0.0, "id": 102142041, "level": 2}
+{"count": 795, "name": "Tidewater", "weight": 0.0, "id": 133091792, "level": 2}
+{"count": 6660, "name": "Oil filter", "weight": 0.0, "id": 201416799, "level": 2}
+{"count": 363, "name": "Oil terminal", "weight": 0.0, "id": 165013921, "level": 2}
+{"count": 1480, "name": "Crack spread", "weight": 0.0, "id": 96375826, "level": 2}
+{"count": 1242, "name": "Midstream", "weight": 0.0, "id": 2776941364, "level": 2}
+{"count": 277, "name": "Water block", "weight": 0.0, "id": 160148631, "level": 2}
+{"count": 64, "name": "Gas well deliquification", "weight": 0.0, "id": 2779895651, "level": 2}
+{"count": 172, "name": "Desander", "weight": 0.0, "id": 2777251559, "level": 2}
+{"count": 699, "name": "Desalter", "weight": 0.0, "id": 1598600, "level": 2}
+{"count": 93, "name": "Oil can", "weight": 0.0, "id": 167696016, "level": 2}
+{"count": 24, "name": "Corner-point grid", "weight": 0.0, "id": 2777979742, "level": 2}
+{"count": 240, "name": "Oil production plant", "weight": 0.0, "id": 2776250542, "level": 2}
+{"count": 115, "name": "Peak gas", "weight": 0.0, "id": 2778040493, "level": 2}
+{"count": 34, "name": "Integrated asset modelling", "weight": 0.0, "id": 13949190, "level": 2}
+{"count": 40, "name": "Pipe dope", "weight": 0.0, "id": 2778585578, "level": 2}
+{"count": 1437, "name": "Production fluid", "weight": 0.0, "id": 99605928, "level": 2}
+{"count": 166, "name": "Screenless", "weight": 0.0, "id": 189097893, "level": 2}
+{"count": 3, "name": "BOSIET", "weight": 0.0, "id": 2777626467, "level": 2}
+{"count": 30, "name": "ECLIPSE (reservoir simulator)", "weight": 0.0, "id": 169176651, "level": 2}
+{"count": 6, "name": "Downhole oil\u2013water separation technology", "weight": 0.0, "id": 2779172651, "level": 2}
+{"count": 58, "name": "Penetrating oil", "weight": 0.0, "id": 2779509896, "level": 2}
+{"count": 5, "name": "Rimini protocol", "weight": 0.0, "id": 2775978298, "level": 2}
+{"count": 3, "name": "Black-oil equations", "weight": 0.0, "id": 2779093603, "level": 2}
+{"count": 3, "name": "Subsurface engineer", "weight": 0.0, "id": 143204445, "level": 2}
+{"count": 142, "name": "Flow show", "weight": 0.0, "id": 2776994558, "level": 2}
+{"count": 1, "name": "Lens (geology)", "weight": 0.0, "id": 15336307, "level": 2}
+{"count": 32, "name": "Oil well control", "weight": 0.0, "id": 2781385684, "level": 2}
+{"count": 4, "name": "Kelly hose", "weight": 0.0, "id": 2776588903, "level": 2}

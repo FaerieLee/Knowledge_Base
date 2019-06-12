@@ -1,0 +1,37 @@
+{"count": 4263, "name": "Random oracle", "weight": 3.0, "id": 94284585, "level": 4}
+{"count": 6291, "name": "Public key infrastructure", "weight": 5.0, "id": 72648740, "level": 4}
+{"count": 1710, "name": "Diffie\u2013Hellman key exchange", "weight": 1.0, "id": 29524669, "level": 4}
+{"count": 4150, "name": "Blind signature", "weight": 3.0, "id": 18899389, "level": 4}
+{"count": 757, "name": "Chosen-ciphertext attack", "weight": 0.0, "id": 106737062, "level": 4}
+{"count": 1510, "name": "Modular exponentiation", "weight": 1.0, "id": 152763109, "level": 4}
+{"count": 11531, "name": "Cryptosystem", "weight": 10.0, "id": 6295992, "level": 4}
+{"count": 1850, "name": "Key-agreement protocol", "weight": 1.0, "id": 135530808, "level": 4}
+{"count": 2715, "name": "Ring signature", "weight": 2.0, "id": 168941894, "level": 4}
+{"count": 1657, "name": "Signcryption", "weight": 1.0, "id": 155527597, "level": 4}
+{"count": 439, "name": "Key distribution center", "weight": 0.0, "id": 70117878, "level": 4}
+{"count": 573, "name": "Proxy re-encryption", "weight": 0.0, "id": 2776861820, "level": 4}
+{"count": 1352, "name": "ElGamal encryption", "weight": 1.0, "id": 11045955, "level": 4}
+{"count": 320, "name": "Trapdoor function", "weight": 0.0, "id": 113132151, "level": 4}
+{"count": 890, "name": "ID-based cryptography", "weight": 0.0, "id": 19150895, "level": 4}
+{"count": 1045, "name": "Key escrow", "weight": 0.0, "id": 205533965, "level": 4}
+{"count": 387, "name": "Multisignature", "weight": 0.0, "id": 2780696345, "level": 4}
+{"count": 326, "name": "XTR", "weight": 0.0, "id": 76847408, "level": 4}
+{"count": 2057, "name": "Key size", "weight": 1.0, "id": 47750902, "level": 4}
+{"count": 550, "name": "Key authentication", "weight": 0.0, "id": 138238384, "level": 4}
+{"count": 145, "name": "Distributed key generation", "weight": 0.0, "id": 2779683600, "level": 4}
+{"count": 31, "name": "Decisional Diffie\u2013Hellman assumption", "weight": 0.0, "id": 2776440475, "level": 4}
+{"count": 128, "name": "ID-based encryption", "weight": 0.0, "id": 2780325852, "level": 4}
+{"count": 618, "name": "Certificate Management Protocol", "weight": 0.0, "id": 184111714, "level": 4}
+{"count": 178, "name": "RSA problem", "weight": 0.0, "id": 2780544561, "level": 4}
+{"count": 1188, "name": "Key encapsulation", "weight": 1.0, "id": 35181327, "level": 4}
+{"count": 66, "name": "Mental poker", "weight": 0.0, "id": 26069562, "level": 4}
+{"count": 408, "name": "Baby-step giant-step", "weight": 0.0, "id": 96422793, "level": 4}
+{"count": 1593, "name": "Pre-shared key", "weight": 1.0, "id": 50230483, "level": 4}
+{"count": 439, "name": "Key server", "weight": 0.0, "id": 81623074, "level": 4}
+{"count": 81, "name": "Cryptographically Generated Address", "weight": 0.0, "id": 2780306277, "level": 4}
+{"count": 28, "name": "Blum integer", "weight": 0.0, "id": 87449218, "level": 4}
+{"count": 925, "name": "PKCS #1", "weight": 0.0, "id": 186497982, "level": 4}
+{"count": 14, "name": "Wiener's attack", "weight": 0.0, "id": 2780344022, "level": 4}
+{"count": 12, "name": "Merkle's Puzzles", "weight": 0.0, "id": 140100062, "level": 4}
+{"count": 11, "name": "Enhanced privacy ID", "weight": 0.0, "id": 2776573208, "level": 4}
+{"count": 173, "name": "Public key fingerprint", "weight": 0.0, "id": 33842785, "level": 4}

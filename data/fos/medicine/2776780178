@@ -1,0 +1,23 @@
+{"count": 4283, "name": "Salmeterol", "weight": 6.0, "id": 2776719499, "level": 4}
+{"count": 5748, "name": "Pulmonary rehabilitation", "weight": 8.0, "id": 2780779891, "level": 4}
+{"count": 3685, "name": "Formoterol", "weight": 5.0, "id": 2779871671, "level": 4}
+{"count": 6405, "name": "Obstructive lung disease", "weight": 10.0, "id": 2777104659, "level": 4}
+{"count": 1570, "name": "Lung volume reduction surgery", "weight": 2.0, "id": 2775982285, "level": 4}
+{"count": 1787, "name": "Acute exacerbation of chronic obstructive pulmonary disease", "weight": 2.0, "id": 2780861865, "level": 4}
+{"count": 1932, "name": "Ipratropium bromide", "weight": 3.0, "id": 2780532441, "level": 4}
+{"count": 984, "name": "Tiotropium bromide", "weight": 1.0, "id": 2776968687, "level": 4}
+{"count": 693, "name": "Dynamic hyperinflation", "weight": 1.0, "id": 2779975672, "level": 4}
+{"count": 2063, "name": "Overlap syndrome", "weight": 3.0, "id": 2775941666, "level": 4}
+{"count": 1171, "name": "Roflumilast", "weight": 1.0, "id": 2778926808, "level": 4}
+{"count": 256, "name": "Glycopyrronium bromide", "weight": 0.0, "id": 2777228412, "level": 4}
+{"count": 663, "name": "BODE index", "weight": 1.0, "id": 2777168814, "level": 4}
+{"count": 487, "name": "Fluticasone furoate", "weight": 0.0, "id": 2776865072, "level": 4}
+{"count": 120, "name": "Oxitropium bromide", "weight": 0.0, "id": 2780729992, "level": 4}
+{"count": 428, "name": "Respimat", "weight": 0.0, "id": 2778582468, "level": 4}
+{"count": 416, "name": "Vilanterol", "weight": 0.0, "id": 2775990144, "level": 4}
+{"count": 122, "name": "Pursed lip breathing", "weight": 0.0, "id": 2778912522, "level": 4}
+{"count": 295, "name": "Olodaterol", "weight": 0.0, "id": 2777634241, "level": 4}
+{"count": 266, "name": "Endobronchial valve", "weight": 0.0, "id": 2776823044, "level": 4}
+{"count": 59, "name": "Dutch hypothesis", "weight": 0.0, "id": 2779137901, "level": 4}
+{"count": 48, "name": "Losmapimod", "weight": 0.0, "id": 2779215909, "level": 4}
+{"count": 46, "name": "Saber-sheath trachea", "weight": 0.0, "id": 2779925486, "level": 4}

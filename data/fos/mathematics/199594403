@@ -1,0 +1,7 @@
+{"count": 120, "name": "Acyclic coloring", "weight": 10.0, "id": 2781159578, "level": 5}
+{"count": 101, "name": "Adjacent-vertex-distinguishing-total coloring", "weight": 8.0, "id": 2778847855, "level": 5}
+{"count": 23, "name": "Precoloring extension", "weight": 1.0, "id": 2777892196, "level": 5}
+{"count": 67, "name": "Star coloring", "weight": 5.0, "id": 2778526346, "level": 5}
+{"count": 53, "name": "List edge-coloring", "weight": 4.0, "id": 2780207148, "level": 5}
+{"count": 31, "name": "Oriented coloring", "weight": 2.0, "id": 2781363602, "level": 5}
+{"count": 23, "name": "Vizing's theorem", "weight": 1.0, "id": 2778094472, "level": 5}

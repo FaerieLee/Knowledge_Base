@@ -1,0 +1,200 @@
+{"count": 29792, "name": "Parallel processing", "weight": 2.0, "id": 106515295, "level": 2}
+{"count": 92303, "name": "Field-programmable gate array", "weight": 6.0, "id": 42935608, "level": 2}
+{"count": 32369, "name": "Parallel algorithm", "weight": 2.0, "id": 120373497, "level": 2}
+{"count": 24115, "name": "System on a chip", "weight": 1.0, "id": 118021083, "level": 2}
+{"count": 41652, "name": "Silicon on insulator", "weight": 2.0, "id": 53143962, "level": 2}
+{"count": 15829, "name": "Message passing", "weight": 1.0, "id": 854659, "level": 2}
+{"count": 9228, "name": "Concurrent computing", "weight": 0.0, "id": 150495011, "level": 2}
+{"count": 12493, "name": "Floating point", "weight": 0.0, "id": 84211073, "level": 2}
+{"count": 22473, "name": "Shared memory", "weight": 1.0, "id": 133875982, "level": 2}
+{"count": 23477, "name": "Memory management", "weight": 1.0, "id": 176649486, "level": 2}
+{"count": 26182, "name": "Multiprocessing", "weight": 1.0, "id": 4822641, "level": 2}
+{"count": 38982, "name": "Compiler", "weight": 2.0, "id": 169590947, "level": 2}
+{"count": 22786, "name": "Supercomputer", "weight": 1.0, "id": 83283714, "level": 2}
+{"count": 13612, "name": "Cost efficiency", "weight": 0.0, "id": 11644782, "level": 2}
+{"count": 26109, "name": "Adder", "weight": 1.0, "id": 164620267, "level": 2}
+{"count": 9124, "name": "Benchmark (computing)", "weight": 0.0, "id": 137955351, "level": 2}
+{"count": 46877, "name": "Bubble", "weight": 3.0, "id": 157915830, "level": 2}
+{"count": 32905, "name": "Multi-core processor", "weight": 2.0, "id": 78766204, "level": 2}
+{"count": 13525, "name": "Distributed memory", "weight": 0.0, "id": 91481028, "level": 2}
+{"count": 7326, "name": "Garbage collection", "weight": 0.0, "id": 105122174, "level": 2}
+{"count": 8996, "name": "Computer cluster", "weight": 0.0, "id": 29140674, "level": 2}
+{"count": 6333, "name": "High-level synthesis", "weight": 0.0, "id": 58013763, "level": 2}
+{"count": 3980, "name": "Program optimization", "weight": 0.0, "id": 139571649, "level": 2}
+{"count": 5933, "name": "Virtual memory", "weight": 0.0, "id": 76399640, "level": 2}
+{"count": 20882, "name": "Static random-access memory", "weight": 1.0, "id": 68043766, "level": 2}
+{"count": 5314, "name": "Vector processor", "weight": 0.0, "id": 161824985, "level": 2}
+{"count": 3213, "name": "Out-of-order execution", "weight": 0.0, "id": 1793878, "level": 2}
+{"count": 3089, "name": "Runtime system", "weight": 0.0, "id": 2780870223, "level": 2}
+{"count": 1381, "name": "Read-write memory", "weight": 0.0, "id": 2776321774, "level": 2}
+{"count": 9250, "name": "General-purpose computing on graphics processing units", "weight": 0.0, "id": 50630238, "level": 2}
+{"count": 2691, "name": "Consistency model", "weight": 0.0, "id": 37279795, "level": 2}
+{"count": 4369, "name": "Symmetric multiprocessor system", "weight": 0.0, "id": 172430144, "level": 2}
+{"count": 1676, "name": "Computer multitasking", "weight": 0.0, "id": 154556556, "level": 2}
+{"count": 2651, "name": "Memory model", "weight": 0.0, "id": 12186640, "level": 2}
+{"count": 5972, "name": "Master/slave", "weight": 0.0, "id": 20454292, "level": 2}
+{"count": 22455, "name": "TRIPS architecture", "weight": 1.0, "id": 157085824, "level": 2}
+{"count": 3762, "name": "Stream processing", "weight": 0.0, "id": 107027933, "level": 2}
+{"count": 1463, "name": "Critical section", "weight": 0.0, "id": 124343487, "level": 2}
+{"count": 2438, "name": "Dependence analysis", "weight": 0.0, "id": 27390822, "level": 2}
+{"count": 2420, "name": "Branch predictor", "weight": 0.0, "id": 168522837, "level": 2}
+{"count": 7334, "name": "Graphics processing unit", "weight": 0.0, "id": 2779851693, "level": 2}
+{"count": 3591, "name": "Register file", "weight": 0.0, "id": 117280010, "level": 2}
+{"count": 3595, "name": "Microcode", "weight": 0.0, "id": 22174128, "level": 2}
+{"count": 15031, "name": "Massively parallel", "weight": 1.0, "id": 190475519, "level": 2}
+{"count": 9410, "name": "Dram", "weight": 0.0, "id": 7366592, "level": 2}
+{"count": 64335, "name": "Cache", "weight": 4.0, "id": 115537543, "level": 2}
+{"count": 3078, "name": "Instruction-level parallelism", "weight": 0.0, "id": 140763907, "level": 2}
+{"count": 1515, "name": "Nested loop join", "weight": 0.0, "id": 1306188, "level": 2}
+{"count": 1307, "name": "Speculative execution", "weight": 0.0, "id": 141331961, "level": 2}
+{"count": 15544, "name": "Clock rate", "weight": 1.0, "id": 178693496, "level": 2}
+{"count": 2141, "name": "CAS latency", "weight": 0.0, "id": 189930140, "level": 2}
+{"count": 4970, "name": "Cycles per instruction", "weight": 0.0, "id": 85204552, "level": 2}
+{"count": 3265, "name": "Vectorization (mathematics)", "weight": 0.0, "id": 41681595, "level": 2}
+{"count": 1957, "name": "Performance tuning", "weight": 0.0, "id": 2777138346, "level": 2}
+{"count": 2391, "name": "Instructions per cycle", "weight": 0.0, "id": 156972235, "level": 2}
+{"count": 3758, "name": "Task parallelism", "weight": 0.0, "id": 42992933, "level": 2}
+{"count": 42422, "name": "Speedup", "weight": 2.0, "id": 68339613, "level": 2}
+{"count": 4422, "name": "Data parallelism", "weight": 0.0, "id": 61483411, "level": 2}
+{"count": 1738, "name": "16-bit", "weight": 0.0, "id": 33652231, "level": 2}
+{"count": 7066, "name": "Chapel", "weight": 0.0, "id": 2779446402, "level": 2}
+{"count": 2173, "name": "32-bit", "weight": 0.0, "id": 75695347, "level": 2}
+{"count": 3113, "name": "SystemC", "weight": 0.0, "id": 2776928060, "level": 2}
+{"count": 678, "name": "Metacomputing", "weight": 0.0, "id": 2779120266, "level": 2}
+{"count": 145872, "name": "Control unit", "weight": 10.0, "id": 81988521, "level": 2}
+{"count": 6336, "name": "Dataflow", "weight": 0.0, "id": 96324660, "level": 2}
+{"count": 1614, "name": "Data dependency", "weight": 0.0, "id": 2776292856, "level": 2}
+{"count": 1609, "name": "Superscalar", "weight": 0.0, "id": 147101560, "level": 2}
+{"count": 1621, "name": "PowerPC", "weight": 0.0, "id": 56005371, "level": 2}
+{"count": 5206, "name": "Fencing", "weight": 0.0, "id": 48515440, "level": 2}
+{"count": 2253, "name": "Arithmetic logic unit", "weight": 0.0, "id": 100276221, "level": 2}
+{"count": 1456, "name": "Basic block", "weight": 0.0, "id": 57584150, "level": 2}
+{"count": 2742, "name": "Transputer", "weight": 0.0, "id": 2778319340, "level": 2}
+{"count": 2359, "name": "Semaphore", "weight": 0.0, "id": 95203288, "level": 2}
+{"count": 885, "name": "Out-of-core algorithm", "weight": 0.0, "id": 79470037, "level": 2}
+{"count": 222, "name": "Supercomputer Education Research Centre", "weight": 0.0, "id": 2776941374, "level": 2}
+{"count": 2007, "name": "Memory footprint", "weight": 0.0, "id": 74912251, "level": 2}
+{"count": 819, "name": "Memory organisation", "weight": 0.0, "id": 207038619, "level": 2}
+{"count": 941, "name": "Loop fusion", "weight": 0.0, "id": 82653869, "level": 2}
+{"count": 1779, "name": "Retiming", "weight": 0.0, "id": 41112130, "level": 2}
+{"count": 326, "name": "Single system image", "weight": 0.0, "id": 2777071140, "level": 2}
+{"count": 2435, "name": "Execution model", "weight": 0.0, "id": 2776834041, "level": 2}
+{"count": 2020, "name": "Computer performance", "weight": 0.0, "id": 187123476, "level": 2}
+{"count": 1800, "name": "InfiniBand", "weight": 0.0, "id": 2781030343, "level": 2}
+{"count": 1296, "name": "Remote direct memory access", "weight": 0.0, "id": 130795937, "level": 2}
+{"count": 500, "name": "Approximate computing", "weight": 0.0, "id": 2781036252, "level": 2}
+{"count": 1137, "name": "Memory management unit", "weight": 0.0, "id": 146431175, "level": 2}
+{"count": 2725, "name": "Page fault", "weight": 0.0, "id": 193343404, "level": 2}
+{"count": 1868, "name": "Jaguar", "weight": 0.0, "id": 198674408, "level": 2}
+{"count": 1323, "name": "SPMD", "weight": 0.0, "id": 7042729, "level": 2}
+{"count": 3489, "name": "Arbiter", "weight": 0.0, "id": 2779971761, "level": 2}
+{"count": 852, "name": "Data structure alignment", "weight": 0.0, "id": 65073423, "level": 2}
+{"count": 1564, "name": "HeliOS", "weight": 0.0, "id": 2777890241, "level": 2}
+{"count": 213, "name": "System area network", "weight": 0.0, "id": 2779537423, "level": 2}
+{"count": 636, "name": "Loop tiling", "weight": 0.0, "id": 11799548, "level": 2}
+{"count": 900, "name": "Parallel database", "weight": 0.0, "id": 2777541480, "level": 2}
+{"count": 5537, "name": "Fetch", "weight": 0.0, "id": 131918245, "level": 2}
+{"count": 5261, "name": "Cielo", "weight": 0.0, "id": 111224470, "level": 2}
+{"count": 968, "name": "MMX", "weight": 0.0, "id": 85918911, "level": 2}
+{"count": 707, "name": "Loop unrolling", "weight": 0.0, "id": 76970557, "level": 2}
+{"count": 512, "name": "Intel Paragon", "weight": 0.0, "id": 2778144230, "level": 2}
+{"count": 7497, "name": "Porting", "weight": 0.0, "id": 106251023, "level": 2}
+{"count": 659, "name": "Myrinet", "weight": 0.0, "id": 2780601250, "level": 2}
+{"count": 169, "name": "Simics", "weight": 0.0, "id": 2777656516, "level": 2}
+{"count": 2623, "name": "Pentium", "weight": 0.0, "id": 46268123, "level": 2}
+{"count": 2165, "name": "Page", "weight": 0.0, "id": 33925742, "level": 2}
+{"count": 82, "name": "Trace-based simulation", "weight": 0.0, "id": 2779480744, "level": 2}
+{"count": 1167, "name": "Thrashing", "weight": 0.0, "id": 28362024, "level": 2}
+{"count": 834, "name": "POSIX", "weight": 0.0, "id": 532756234, "level": 2}
+{"count": 516, "name": "Instruction pipeline", "weight": 0.0, "id": 129515213, "level": 2}
+{"count": 853, "name": "Working set", "weight": 0.0, "id": 88196245, "level": 2}
+{"count": 1674, "name": "Page table", "weight": 0.0, "id": 57097009, "level": 2}
+{"count": 332, "name": "UltraSPARC", "weight": 0.0, "id": 96918825, "level": 2}
+{"count": 2574, "name": "Espresso", "weight": 0.0, "id": 62528555, "level": 2}
+{"count": 107, "name": "Memory access pattern", "weight": 0.0, "id": 2776988255, "level": 2}
+{"count": 8225, "name": "Memory buffer register", "weight": 0.0, "id": 194240303, "level": 2}
+{"count": 200, "name": "Active message", "weight": 0.0, "id": 2776069802, "level": 2}
+{"count": 302, "name": "Zero-copy", "weight": 0.0, "id": 2780358583, "level": 2}
+{"count": 7709, "name": "Operand", "weight": 0.0, "id": 55526617, "level": 2}
+{"count": 331, "name": "128-bit", "weight": 0.0, "id": 95548782, "level": 2}
+{"count": 58, "name": "All-to-all communication", "weight": 0.0, "id": 83585413, "level": 2}
+{"count": 1802, "name": "Xeon", "weight": 0.0, "id": 145108525, "level": 2}
+{"count": 239, "name": "HIPPI", "weight": 0.0, "id": 2779602058, "level": 2}
+{"count": 1401, "name": "Call stack", "weight": 0.0, "id": 119024030, "level": 2}
+{"count": 11284, "name": "Physical address", "weight": 0.0, "id": 41036726, "level": 2}
+{"count": 428, "name": "Itanium", "weight": 0.0, "id": 113670161, "level": 2}
+{"count": 162, "name": "Concurrent algorithm", "weight": 0.0, "id": 2777035820, "level": 2}
+{"count": 1018, "name": "Intel iPSC", "weight": 0.0, "id": 199115840, "level": 2}
+{"count": 225, "name": "Reservation station", "weight": 0.0, "id": 57547121, "level": 2}
+{"count": 1147, "name": "Opcode", "weight": 0.0, "id": 52173422, "level": 2}
+{"count": 304, "name": "ILLIAC", "weight": 0.0, "id": 93155101, "level": 2}
+{"count": 17, "name": "Communication-avoiding algorithms", "weight": 0.0, "id": 2780540825, "level": 2}
+{"count": 94, "name": "18-bit", "weight": 0.0, "id": 2779764975, "level": 2}
+{"count": 292, "name": "Serial code", "weight": 0.0, "id": 2777310852, "level": 2}
+{"count": 40, "name": "36-bit", "weight": 0.0, "id": 2779316290, "level": 2}
+{"count": 158, "name": "Thermal design power", "weight": 0.0, "id": 2777777829, "level": 2}
+{"count": 126, "name": "IBM 3090", "weight": 0.0, "id": 2778293282, "level": 2}
+{"count": 217, "name": "256-bit", "weight": 0.0, "id": 182647508, "level": 2}
+{"count": 111, "name": "STARAN", "weight": 0.0, "id": 2775946011, "level": 2}
+{"count": 1531, "name": "Allocator", "weight": 0.0, "id": 162262903, "level": 2}
+{"count": 174, "name": "Stack machine", "weight": 0.0, "id": 2781411875, "level": 2}
+{"count": 147, "name": "Explicit parallelism", "weight": 0.0, "id": 2776985760, "level": 2}
+{"count": 176, "name": "Bounds checking", "weight": 0.0, "id": 135629752, "level": 2}
+{"count": 66, "name": "512-bit", "weight": 0.0, "id": 2780956264, "level": 2}
+{"count": 1267, "name": "EKA", "weight": 0.0, "id": 155692306, "level": 2}
+{"count": 294, "name": "Overclocking", "weight": 0.0, "id": 134217597, "level": 2}
+{"count": 318, "name": "Intel 80486", "weight": 0.0, "id": 33211059, "level": 2}
+{"count": 347, "name": "Supernode", "weight": 0.0, "id": 41172015, "level": 2}
+{"count": 672, "name": "Rename", "weight": 0.0, "id": 2777078617, "level": 2}
+{"count": 3221, "name": "Processor register", "weight": 0.0, "id": 2871975, "level": 2}
+{"count": 84, "name": "SWAR", "weight": 0.0, "id": 2780032860, "level": 2}
+{"count": 28, "name": "Application checkpointing", "weight": 0.0, "id": 2776886820, "level": 2}
+{"count": 142, "name": "Test-and-set", "weight": 0.0, "id": 172171496, "level": 2}
+{"count": 331, "name": "PARAM", "weight": 0.0, "id": 24281780, "level": 2}
+{"count": 966, "name": "Stack-based memory allocation", "weight": 0.0, "id": 20579541, "level": 2}
+{"count": 191, "name": "Parallel generation", "weight": 0.0, "id": 2780849765, "level": 2}
+{"count": 442, "name": "Instructions per second", "weight": 0.0, "id": 135653721, "level": 2}
+{"count": 122, "name": "POWER5", "weight": 0.0, "id": 2777051234, "level": 2}
+{"count": 201, "name": "Address generation unit", "weight": 0.0, "id": 2776984021, "level": 2}
+{"count": 525, "name": "Lockstep", "weight": 0.0, "id": 110298181, "level": 2}
+{"count": 104, "name": "Gravity Pipe", "weight": 0.0, "id": 2778186640, "level": 2}
+{"count": 159, "name": "Commodity computing", "weight": 0.0, "id": 2777215911, "level": 2}
+{"count": 58, "name": "Memory semantics", "weight": 0.0, "id": 2777896814, "level": 2}
+{"count": 1676, "name": "Degree of parallelism", "weight": 0.0, "id": 2776588922, "level": 2}
+{"count": 4, "name": "Product binning", "weight": 0.0, "id": 2776028867, "level": 2}
+{"count": 391, "name": "Multibus", "weight": 0.0, "id": 2780133533, "level": 2}
+{"count": 6, "name": "Intel QuickPath Interconnect", "weight": 0.0, "id": 2779501531, "level": 2}
+{"count": 180, "name": "Microsequencer", "weight": 0.0, "id": 70356377, "level": 2}
+{"count": 374, "name": "Fifth generation computer", "weight": 0.0, "id": 167320929, "level": 2}
+{"count": 104, "name": "Hot Chips", "weight": 0.0, "id": 2779247641, "level": 2}
+{"count": 142, "name": "POWER8", "weight": 0.0, "id": 2777084958, "level": 2}
+{"count": 93, "name": "Row-major order", "weight": 0.0, "id": 150890125, "level": 2}
+{"count": 112, "name": "Kilobyte", "weight": 0.0, "id": 16423791, "level": 2}
+{"count": 85, "name": "Front-side bus", "weight": 0.0, "id": 142705870, "level": 2}
+{"count": 39, "name": "qsort", "weight": 0.0, "id": 2777848931, "level": 2}
+{"count": 25, "name": "Dual-ported RAM", "weight": 0.0, "id": 2778664131, "level": 2}
+{"count": 295, "name": "MBus", "weight": 0.0, "id": 2777096051, "level": 2}
+{"count": 13, "name": "Flynn's taxonomy", "weight": 0.0, "id": 14565784, "level": 2}
+{"count": 484, "name": "Load/store architecture", "weight": 0.0, "id": 62223810, "level": 2}
+{"count": 60, "name": "Computational scientist", "weight": 0.0, "id": 2778098995, "level": 2}
+{"count": 118, "name": "PERCS", "weight": 0.0, "id": 2776093163, "level": 2}
+{"count": 7, "name": "Fork\u2013join model", "weight": 0.0, "id": 2779170893, "level": 2}
+{"count": 106, "name": "Tomasulo algorithm", "weight": 0.0, "id": 75651051, "level": 2}
+{"count": 12, "name": "Transmeta Crusoe", "weight": 0.0, "id": 2780534265, "level": 2}
+{"count": 26, "name": "PACX", "weight": 0.0, "id": 2780385720, "level": 2}
+{"count": 9, "name": "SSSE3", "weight": 0.0, "id": 2781314963, "level": 2}
+{"count": 16, "name": "64-bit computing", "weight": 0.0, "id": 2777609982, "level": 2}
+{"count": 82, "name": "RDRAM", "weight": 0.0, "id": 2781179694, "level": 2}
+{"count": 9, "name": "Phyz", "weight": 0.0, "id": 2777602884, "level": 2}
+{"count": 136, "name": "Serial computer", "weight": 0.0, "id": 2777911816, "level": 2}
+{"count": 36, "name": "Link register", "weight": 0.0, "id": 2776678267, "level": 2}
+{"count": 33, "name": "3D XPoint", "weight": 0.0, "id": 2780709103, "level": 2}
+{"count": 76, "name": "48-bit", "weight": 0.0, "id": 2776861405, "level": 2}
+{"count": 134, "name": "SPECint", "weight": 0.0, "id": 153934725, "level": 2}
+{"count": 36, "name": "Iometer", "weight": 0.0, "id": 202135726, "level": 2}
+{"count": 7, "name": "SPARC T4", "weight": 0.0, "id": 2781289153, "level": 2}
+{"count": 284, "name": "Replay system", "weight": 0.0, "id": 2779264981, "level": 2}
+{"count": 205, "name": "Intel High Definition Audio", "weight": 0.0, "id": 12962306, "level": 2}
+{"count": 965, "name": "Loop fission", "weight": 0.0, "id": 134718785, "level": 2}
+{"count": 6, "name": "NX bit", "weight": 0.0, "id": 177955391, "level": 2}
+{"count": 5, "name": "SPARC T5", "weight": 0.0, "id": 2776927898, "level": 2}

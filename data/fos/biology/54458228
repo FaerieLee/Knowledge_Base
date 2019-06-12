@@ -1,0 +1,19 @@
+{"count": 2945, "name": "Spliceosome", "weight": 7.0, "id": 40000846, "level": 4}
+{"count": 2835, "name": "snRNP", "weight": 6.0, "id": 68483431, "level": 4}
+{"count": 1864, "name": "Group II intron", "weight": 4.0, "id": 64962909, "level": 4}
+{"count": 2880, "name": "Splicing factor", "weight": 7.0, "id": 73758832, "level": 4}
+{"count": 2558, "name": "Precursor mRNA", "weight": 6.0, "id": 102063271, "level": 4}
+{"count": 3441, "name": "Exonic splicing enhancer", "weight": 8.0, "id": 42576000, "level": 4}
+{"count": 659, "name": "Trans-splicing", "weight": 1.0, "id": 47124935, "level": 4}
+{"count": 1501, "name": "SR protein", "weight": 3.0, "id": 10447831, "level": 4}
+{"count": 2210, "name": "Exon skipping", "weight": 5.0, "id": 2778776201, "level": 4}
+{"count": 4076, "name": "Splice site mutation", "weight": 10.0, "id": 62257209, "level": 4}
+{"count": 1652, "name": "Post-transcriptional modification", "weight": 4.0, "id": 22232683, "level": 4}
+{"count": 1977, "name": "Minigene", "weight": 4.0, "id": 166342232, "level": 4}
+{"count": 1036, "name": "Primary transcript", "weight": 2.0, "id": 67585878, "level": 4}
+{"count": 231, "name": "PTBP1", "weight": 0.0, "id": 2776414840, "level": 4}
+{"count": 125, "name": "Interchromatin granule", "weight": 0.0, "id": 2780236949, "level": 4}
+{"count": 144, "name": "RBFOX1", "weight": 0.0, "id": 2779759862, "level": 4}
+{"count": 1566, "name": "Mature messenger RNA", "weight": 3.0, "id": 137404119, "level": 4}
+{"count": 11, "name": "snRNP70", "weight": 0.0, "id": 2779811659, "level": 4}
+{"count": 14, "name": "LUC7L3", "weight": 0.0, "id": 2780971763, "level": 4}

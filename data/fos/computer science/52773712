@@ -1,0 +1,6 @@
+{"count": 9843, "name": "Analog transmission", "weight": 10.0, "id": 22676131, "level": 3}
+{"count": 6850, "name": "Digital down converter", "weight": 6.0, "id": 99167442, "level": 3}
+{"count": 2875, "name": "Digital delay line", "weight": 2.0, "id": 30847790, "level": 3}
+{"count": 51, "name": "Digital signal conditioning", "weight": 0.0, "id": 2776610479, "level": 3}
+{"count": 13, "name": "SMPTE 259M", "weight": 0.0, "id": 2778361064, "level": 3}
+{"count": 16, "name": "Bipolar violation", "weight": 0.0, "id": 2780655192, "level": 3}

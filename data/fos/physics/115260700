@@ -1,0 +1,111 @@
+{"count": 72200, "name": "Magnetohydrodynamics", "weight": 10.0, "id": 31532427, "level": 3}
+{"count": 49548, "name": "Magnetic flux", "weight": 6.0, "id": 157479481, "level": 3}
+{"count": 29057, "name": "Hall effect", "weight": 4.0, "id": 134112204, "level": 3}
+{"count": 45728, "name": "Magnetoresistance", "weight": 6.0, "id": 117958382, "level": 3}
+{"count": 22719, "name": "Interplanetary magnetic field", "weight": 3.0, "id": 102988692, "level": 3}
+{"count": 16237, "name": "Critical field", "weight": 2.0, "id": 48496998, "level": 3}
+{"count": 13518, "name": "Faraday effect", "weight": 1.0, "id": 207230154, "level": 3}
+{"count": 25990, "name": "Magnetometer", "weight": 3.0, "id": 153946474, "level": 3}
+{"count": 11543, "name": "Cyclotron resonance", "weight": 1.0, "id": 132427895, "level": 3}
+{"count": 14092, "name": "Magnetic reconnection", "weight": 1.0, "id": 36819163, "level": 3}
+{"count": 13366, "name": "Magnetostatics", "weight": 1.0, "id": 95390329, "level": 3}
+{"count": 11535, "name": "Landau quantization", "weight": 1.0, "id": 50899005, "level": 3}
+{"count": 17210, "name": "Electromagnetic induction", "weight": 2.0, "id": 102130693, "level": 3}
+{"count": 32853, "name": "Electromagnet", "weight": 4.0, "id": 106997767, "level": 3}
+{"count": 10596, "name": "Flux pinning", "weight": 1.0, "id": 54131670, "level": 3}
+{"count": 12706, "name": "Magnetosphere particle motion", "weight": 1.0, "id": 15227799, "level": 3}
+{"count": 7992, "name": "Lorentz force", "weight": 1.0, "id": 140190676, "level": 3}
+{"count": 7298, "name": "Type-II superconductor", "weight": 1.0, "id": 124932887, "level": 3}
+{"count": 16297, "name": "Zeeman effect", "weight": 2.0, "id": 25227350, "level": 3}
+{"count": 3973, "name": "Ginzburg\u2013Landau theory", "weight": 0.0, "id": 163192330, "level": 3}
+{"count": 17688, "name": "Demagnetizing field", "weight": 2.0, "id": 60434167, "level": 3}
+{"count": 8432, "name": "Magnetic refrigeration", "weight": 1.0, "id": 186116631, "level": 3}
+{"count": 2954, "name": "Extremely low frequency", "weight": 0.0, "id": 43823981, "level": 3}
+{"count": 8886, "name": "Field line", "weight": 1.0, "id": 205995761, "level": 3}
+{"count": 6557, "name": "Ferrofluid", "weight": 0.0, "id": 168589914, "level": 3}
+{"count": 3050, "name": "Meissner effect", "weight": 0.0, "id": 10874694, "level": 3}
+{"count": 4315, "name": "Cyclotron radiation", "weight": 0.0, "id": 44128863, "level": 3}
+{"count": 926, "name": "Biomagnetism", "weight": 0.0, "id": 78902741, "level": 3}
+{"count": 18143, "name": "Field strength", "weight": 2.0, "id": 187309904, "level": 3}
+{"count": 13508, "name": "Dynamo", "weight": 1.0, "id": 135757623, "level": 3}
+{"count": 1684, "name": "Line of force", "weight": 0.0, "id": 62300582, "level": 3}
+{"count": 4140, "name": "Rotating magnetic field", "weight": 0.0, "id": 2890278, "level": 3}
+{"count": 3490, "name": "Gyroradius", "weight": 0.0, "id": 91571402, "level": 3}
+{"count": 20689, "name": "Magnetic energy", "weight": 2.0, "id": 162565982, "level": 3}
+{"count": 5095, "name": "Stellarator", "weight": 0.0, "id": 2781249502, "level": 3}
+{"count": 1686, "name": "Field-reversed configuration", "weight": 0.0, "id": 183839344, "level": 3}
+{"count": 7662, "name": "Hall effect sensor", "weight": 1.0, "id": 107637996, "level": 3}
+{"count": 690, "name": "Plasma diffusion", "weight": 0.0, "id": 2778190657, "level": 3}
+{"count": 7772, "name": "L-shell", "weight": 1.0, "id": 190895841, "level": 3}
+{"count": 3319, "name": "Magnetic potential", "weight": 0.0, "id": 194127275, "level": 3}
+{"count": 7877, "name": "Magnetic shape-memory alloy", "weight": 1.0, "id": 100454173, "level": 3}
+{"count": 949, "name": "Magnetogram", "weight": 0.0, "id": 2779471453, "level": 3}
+{"count": 4230, "name": "Larmor precession", "weight": 0.0, "id": 5484521, "level": 3}
+{"count": 1115, "name": "Inverse magnetostrictive effect", "weight": 0.0, "id": 146743932, "level": 3}
+{"count": 401, "name": "London equations", "weight": 0.0, "id": 205811254, "level": 3}
+{"count": 709, "name": "Superconductor Insulator Transition", "weight": 0.0, "id": 2781336574, "level": 3}
+{"count": 822, "name": "Electromagnetic propulsion", "weight": 0.0, "id": 59158912, "level": 3}
+{"count": 202, "name": "Interchange instability", "weight": 0.0, "id": 2777892783, "level": 3}
+{"count": 1312, "name": "Guiding center", "weight": 0.0, "id": 118818666, "level": 3}
+{"count": 490, "name": "International Geomagnetic Reference Field", "weight": 0.0, "id": 2780674400, "level": 3}
+{"count": 398, "name": "Terfenol-D", "weight": 0.0, "id": 2775841145, "level": 3}
+{"count": 1072, "name": "Nernst effect", "weight": 0.0, "id": 90002209, "level": 3}
+{"count": 2322, "name": "Magnetar", "weight": 0.0, "id": 86888617, "level": 3}
+{"count": 457, "name": "Biot\u2013Savart law", "weight": 0.0, "id": 30811091, "level": 3}
+{"count": 979, "name": "Hanle effect", "weight": 0.0, "id": 77827228, "level": 3}
+{"count": 460, "name": "Magnetic induction tomography", "weight": 0.0, "id": 2778608604, "level": 3}
+{"count": 4616, "name": "Search coil", "weight": 0.0, "id": 63236149, "level": 3}
+{"count": 1789, "name": "Magnetic trap", "weight": 0.0, "id": 68466655, "level": 3}
+{"count": 3195, "name": "Helicon", "weight": 0.0, "id": 2779123320, "level": 3}
+{"count": 925, "name": "Halbach array", "weight": 0.0, "id": 42283938, "level": 3}
+{"count": 542, "name": "Weibel instability", "weight": 0.0, "id": 2776183068, "level": 3}
+{"count": 2041, "name": "Vortex state", "weight": 0.0, "id": 2780360823, "level": 3}
+{"count": 13133, "name": "Magnetic pressure", "weight": 1.0, "id": 33643480, "level": 3}
+{"count": 1529, "name": "Shim (magnetism)", "weight": 0.0, "id": 94589931, "level": 3}
+{"count": 434, "name": "Stern\u2013Gerlach experiment", "weight": 0.0, "id": 117175930, "level": 3}
+{"count": 2885, "name": "Gradiometer", "weight": 0.0, "id": 2780784121, "level": 3}
+{"count": 706, "name": "Helmholtz coil", "weight": 0.0, "id": 2778252132, "level": 3}
+{"count": 1582, "name": "Magnetic mirror", "weight": 0.0, "id": 2778053152, "level": 3}
+{"count": 1337, "name": "Magnetic lens", "weight": 0.0, "id": 106718926, "level": 3}
+{"count": 4929, "name": "Dipole magnet", "weight": 0.0, "id": 182213014, "level": 3}
+{"count": 1438, "name": "London penetration depth", "weight": 0.0, "id": 190561674, "level": 3}
+{"count": 638, "name": "Fr\u00e9edericksz transition", "weight": 0.0, "id": 2780956566, "level": 3}
+{"count": 1000, "name": "Bioelectromagnetics", "weight": 0.0, "id": 4150253, "level": 3}
+{"count": 610, "name": "Magnetic detector", "weight": 0.0, "id": 2777737143, "level": 3}
+{"count": 1021, "name": "Oersted", "weight": 0.0, "id": 113793626, "level": 3}
+{"count": 2077, "name": "Magnetic flow meter", "weight": 0.0, "id": 27805115, "level": 3}
+{"count": 4278, "name": "Thermomagnetic convection", "weight": 0.0, "id": 30893345, "level": 3}
+{"count": 183, "name": "Magnetic inductance", "weight": 0.0, "id": 2779372214, "level": 3}
+{"count": 350, "name": "Universal conductance fluctuations", "weight": 0.0, "id": 2776130209, "level": 3}
+{"count": 184, "name": "Magnetic water treatment", "weight": 0.0, "id": 2779737725, "level": 3}
+{"count": 278, "name": "Amp\u00e8re's circuital law", "weight": 0.0, "id": 15291202, "level": 3}
+{"count": 1099, "name": "Degaussing", "weight": 0.0, "id": 102333194, "level": 3}
+{"count": 146, "name": "Ettingshausen effect", "weight": 0.0, "id": 2776036158, "level": 3}
+{"count": 198, "name": "Evershed effect", "weight": 0.0, "id": 1195622, "level": 3}
+{"count": 172, "name": "Diocotron instability", "weight": 0.0, "id": 2778932734, "level": 3}
+{"count": 992, "name": "Pulsed inductive thruster", "weight": 0.0, "id": 118302636, "level": 3}
+{"count": 129, "name": "Magnetic field imaging", "weight": 0.0, "id": 2778858366, "level": 3}
+{"count": 55, "name": "Magnetobiology", "weight": 0.0, "id": 130625687, "level": 3}
+{"count": 165, "name": "FFAG accelerator", "weight": 0.0, "id": 2780991338, "level": 3}
+{"count": 230, "name": "Vector magnetograph", "weight": 0.0, "id": 2776757339, "level": 3}
+{"count": 124, "name": "Levitron", "weight": 0.0, "id": 195805632, "level": 3}
+{"count": 251, "name": "Plasma containment", "weight": 0.0, "id": 2775871232, "level": 3}
+{"count": 58, "name": "London moment", "weight": 0.0, "id": 2777736678, "level": 3}
+{"count": 118, "name": "North Magnetic Pole", "weight": 0.0, "id": 2777959271, "level": 3}
+{"count": 377, "name": "Magnetic field of the Moon", "weight": 0.0, "id": 14474903, "level": 3}
+{"count": 31, "name": "Magnetic anomaly detector", "weight": 0.0, "id": 2776959900, "level": 3}
+{"count": 48, "name": "Hofstadter's butterfly", "weight": 0.0, "id": 2780638154, "level": 3}
+{"count": 118, "name": "Zeeman\u2013Doppler imaging", "weight": 0.0, "id": 2778534203, "level": 3}
+{"count": 51, "name": "Wiegand effect", "weight": 0.0, "id": 58635098, "level": 3}
+{"count": 19, "name": "Dresden High Magnetic Field Laboratory", "weight": 0.0, "id": 2777567408, "level": 3}
+{"count": 48, "name": "Project Magnet", "weight": 0.0, "id": 126433018, "level": 3}
+{"count": 45, "name": "World Magnetic Model", "weight": 0.0, "id": 118196662, "level": 3}
+{"count": 25, "name": "Fulde\u2013Ferrell\u2013Larkin\u2013Ovchinnikov phase", "weight": 0.0, "id": 2775997262, "level": 3}
+{"count": 39, "name": "Oscillistor", "weight": 0.0, "id": 2777511342, "level": 3}
+{"count": 29, "name": "Plasma scaling", "weight": 0.0, "id": 2776928182, "level": 3}
+{"count": 158, "name": "Force lines", "weight": 0.0, "id": 2776134297, "level": 3}
+{"count": 32, "name": "Intermediate-field region", "weight": 0.0, "id": 2776388522, "level": 3}
+{"count": 498, "name": "Field (geography)", "weight": 0.0, "id": 148773725, "level": 3}
+{"count": 26, "name": "Air core gauge", "weight": 0.0, "id": 2780894210, "level": 3}
+{"count": 60, "name": "Tracking (particle physics)", "weight": 0.0, "id": 41904074, "level": 3}
+{"count": 109, "name": "Double layer (plasma physics)", "weight": 0.0, "id": 12276030, "level": 3}

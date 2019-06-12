@@ -1,0 +1,3 @@
+{"count": 396, "name": "Causal filter", "weight": 4.0, "id": 108212597, "level": 4}
+{"count": 354, "name": "Top-hat filter", "weight": 3.0, "id": 148260802, "level": 4}
+{"count": 967, "name": "Multidelay block frequency domain adaptive filter", "weight": 10.0, "id": 36638914, "level": 4}

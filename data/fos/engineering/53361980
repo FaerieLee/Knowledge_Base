@@ -1,0 +1,11 @@
+{"count": 9128, "name": "Four-stroke engine", "weight": 10.0, "id": 51321904, "level": 4}
+{"count": 1476, "name": "Engine displacement", "weight": 1.0, "id": 60162840, "level": 4}
+{"count": 734, "name": "Free-piston engine", "weight": 0.0, "id": 2779192215, "level": 4}
+{"count": 4082, "name": "Engine configuration", "weight": 4.0, "id": 9838942, "level": 4}
+{"count": 4024, "name": "Crosshead", "weight": 4.0, "id": 183300977, "level": 4}
+{"count": 227, "name": "Firing order", "weight": 0.0, "id": 2777938049, "level": 4}
+{"count": 369, "name": "Cylinder bank", "weight": 0.0, "id": 2778197025, "level": 4}
+{"count": 61, "name": "Stroke ratio", "weight": 0.0, "id": 132941967, "level": 4}
+{"count": 78, "name": "Split cycle engine", "weight": 0.0, "id": 2778842338, "level": 4}
+{"count": 31, "name": "Variable Cylinder Management", "weight": 0.0, "id": 197775860, "level": 4}
+{"count": 64, "name": "Cylinder manifold", "weight": 0.0, "id": 2777348551, "level": 4}

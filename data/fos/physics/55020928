@@ -1,0 +1,5 @@
+{"count": 4407, "name": "Structural similarity", "weight": 10.0, "id": 139489369, "level": 3}
+{"count": 1512, "name": "Contrast-to-noise ratio", "weight": 3.0, "id": 86190813, "level": 3}
+{"count": 1861, "name": "Contrast resolution", "weight": 4.0, "id": 47166378, "level": 3}
+{"count": 2005, "name": "Subjective video quality", "weight": 4.0, "id": 114227958, "level": 3}
+{"count": 163, "name": "NIIRS", "weight": 0.0, "id": 3171199, "level": 3}

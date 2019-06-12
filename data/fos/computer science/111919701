@@ -1,0 +1,200 @@
+{"count": 607902, "name": "The Internet", "weight": 8.0, "id": 110875604, "level": 2}
+{"count": 160787, "name": "Wireless sensor network", "weight": 2.0, "id": 24590314, "level": 2}
+{"count": 679542, "name": "Software", "weight": 10.0, "id": 2777904410, "level": 2}
+{"count": 203554, "name": "Integrated circuit", "weight": 2.0, "id": 530198007, "level": 2}
+{"count": 204096, "name": "Scheduling (computing)", "weight": 3.0, "id": 113200698, "level": 2}
+{"count": 173669, "name": "Information technology", "weight": 2.0, "id": 121017731, "level": 2}
+{"count": 100235, "name": "Data processing", "weight": 1.0, "id": 138827492, "level": 2}
+{"count": 154516, "name": "CMOS", "weight": 2.0, "id": 46362747, "level": 2}
+{"count": 133790, "name": "Computer program", "weight": 1.0, "id": 2777362769, "level": 2}
+{"count": 54111, "name": "Wireless ad hoc network", "weight": 0.0, "id": 94523657, "level": 2}
+{"count": 409379, "name": "Wireless", "weight": 6.0, "id": 555944384, "level": 2}
+{"count": 156165, "name": "Synchronization", "weight": 2.0, "id": 102602991, "level": 2}
+{"count": 69792, "name": "Data structure", "weight": 1.0, "id": 162319229, "level": 2}
+{"count": 104346, "name": "Data acquisition", "weight": 1.0, "id": 163985040, "level": 2}
+{"count": 136749, "name": "User interface", "weight": 2.0, "id": 89505385, "level": 2}
+{"count": 46581, "name": "Object-oriented programming", "weight": 0.0, "id": 73752529, "level": 2}
+{"count": 48027, "name": "Computer Aided Design", "weight": 0.0, "id": 119823426, "level": 2}
+{"count": 111710, "name": "Mobile telephony", "weight": 1.0, "id": 95491727, "level": 2}
+{"count": 132761, "name": "Global Positioning System", "weight": 1.0, "id": 60229501, "level": 2}
+{"count": 75489, "name": "Network topology", "weight": 1.0, "id": 199845137, "level": 2}
+{"count": 121268, "name": "Base station", "weight": 1.0, "id": 68649174, "level": 2}
+{"count": 93626, "name": "Input/output", "weight": 1.0, "id": 196697905, "level": 2}
+{"count": 129166, "name": "Throughput", "weight": 1.0, "id": 157764524, "level": 2}
+{"count": 105432, "name": "Computer data storage", "weight": 1.0, "id": 194739806, "level": 2}
+{"count": 186481, "name": "Cloud computing", "weight": 2.0, "id": 79974875, "level": 2}
+{"count": 88678, "name": "Java", "weight": 1.0, "id": 548217200, "level": 2}
+{"count": 47177, "name": "Source code", "weight": 0.0, "id": 43126263, "level": 2}
+{"count": 32652, "name": "Local area network", "weight": 0.0, "id": 137471899, "level": 2}
+{"count": 64618, "name": "Virtual machine", "weight": 0.0, "id": 25344961, "level": 2}
+{"count": 145119, "name": "Standardization", "weight": 2.0, "id": 188087704, "level": 2}
+{"count": 69256, "name": "Intellectual property", "weight": 1.0, "id": 34974158, "level": 2}
+{"count": 33195, "name": "Fragmentation (computing)", "weight": 0.0, "id": 191015642, "level": 2}
+{"count": 21043, "name": "Persistence (computer science)", "weight": 0.0, "id": 39520812, "level": 2}
+{"count": 117841, "name": "Authentication", "weight": 1.0, "id": 171289174, "level": 2}
+{"count": 46184, "name": "Graphical user interface", "weight": 0.0, "id": 37789001, "level": 2}
+{"count": 25651, "name": "Fortran", "weight": 0.0, "id": 2778241615, "level": 2}
+{"count": 26303, "name": "Ubiquitous computing", "weight": 0.0, "id": 172195944, "level": 2}
+{"count": 22360, "name": "Computer programming", "weight": 0.0, "id": 33857546, "level": 2}
+{"count": 130192, "name": "Mobile device", "weight": 1.0, "id": 186967261, "level": 2}
+{"count": 66250, "name": "Redundancy (engineering)", "weight": 0.0, "id": 152124472, "level": 2}
+{"count": 41652, "name": "Silicon on insulator", "weight": 0.0, "id": 53143962, "level": 2}
+{"count": 200524, "name": "STREAMS", "weight": 2.0, "id": 42090638, "level": 2}
+{"count": 189536, "name": "Printed circuit board", "weight": 2.0, "id": 120793396, "level": 2}
+{"count": 51546, "name": "Access control", "weight": 0.0, "id": 527821871, "level": 2}
+{"count": 135344, "name": "Scalability", "weight": 1.0, "id": 48044578, "level": 2}
+{"count": 17763, "name": "Typing", "weight": 0.0, "id": 2781209916, "level": 2}
+{"count": 91877, "name": "Usability", "weight": 1.0, "id": 170130773, "level": 2}
+{"count": 116050, "name": "Server", "weight": 1.0, "id": 93996380, "level": 2}
+{"count": 57339, "name": "Graphics", "weight": 0.0, "id": 21442007, "level": 2}
+{"count": 59002, "name": "Front and back ends", "weight": 0.0, "id": 53016008, "level": 2}
+{"count": 23104, "name": "System integration", "weight": 0.0, "id": 19527686, "level": 2}
+{"count": 92295, "name": "Mobile phone", "weight": 1.0, "id": 2777421447, "level": 2}
+{"count": 13216, "name": "Proof of concept", "weight": 0.0, "id": 124978682, "level": 2}
+{"count": 11649, "name": "Real-time operating system", "weight": 0.0, "id": 28472234, "level": 2}
+{"count": 208455, "name": "Documentation", "weight": 3.0, "id": 56666940, "level": 2}
+{"count": 50654, "name": "Heuristics", "weight": 0.0, "id": 127705205, "level": 2}
+{"count": 12493, "name": "Floating point", "weight": 0.0, "id": 84211073, "level": 2}
+{"count": 68818, "name": "Workload", "weight": 1.0, "id": 2778476105, "level": 2}
+{"count": 12427, "name": "Software agent", "weight": 0.0, "id": 5894958, "level": 2}
+{"count": 45932, "name": "MATLAB", "weight": 0.0, "id": 2780365114, "level": 2}
+{"count": 29656, "name": "Network security", "weight": 0.0, "id": 182590292, "level": 2}
+{"count": 19870, "name": "Data type", "weight": 0.0, "id": 138958017, "level": 2}
+{"count": 15692, "name": "Data security", "weight": 0.0, "id": 10511746, "level": 2}
+{"count": 10318, "name": "Indentation", "weight": 0.0, "id": 2780902562, "level": 2}
+{"count": 32647, "name": "Non-volatile memory", "weight": 0.0, "id": 177950962, "level": 2}
+{"count": 62726, "name": "Big data", "weight": 0.0, "id": 75684735, "level": 2}
+{"count": 12376, "name": "Reverse engineering", "weight": 0.0, "id": 207850805, "level": 2}
+{"count": 67219, "name": "Capacitive sensing", "weight": 0.0, "id": 206755178, "level": 2}
+{"count": 15710, "name": "Lookup table", "weight": 0.0, "id": 134835016, "level": 2}
+{"count": 49122, "name": "Interoperability", "weight": 0.0, "id": 20136886, "level": 2}
+{"count": 11105, "name": "Batch processing", "weight": 0.0, "id": 172658912, "level": 2}
+{"count": 22786, "name": "Supercomputer", "weight": 0.0, "id": 83283714, "level": 2}
+{"count": 13612, "name": "Cost efficiency", "weight": 0.0, "id": 11644782, "level": 2}
+{"count": 30127, "name": "Workstation", "weight": 0.0, "id": 67953723, "level": 2}
+{"count": 17881, "name": "Power management", "weight": 0.0, "id": 2778774385, "level": 2}
+{"count": 8487, "name": "High-level programming language", "weight": 0.0, "id": 19024347, "level": 2}
+{"count": 30527, "name": "Response time", "weight": 0.0, "id": 19012869, "level": 2}
+{"count": 115344, "name": "Latency (engineering)", "weight": 1.0, "id": 98980195, "level": 2}
+{"count": 46877, "name": "Bubble", "weight": 0.0, "id": 157915830, "level": 2}
+{"count": 53933, "name": "Schedule", "weight": 0.0, "id": 68387754, "level": 2}
+{"count": 42744, "name": "Key (lock)", "weight": 0.0, "id": 26517878, "level": 2}
+{"count": 6872, "name": "On the fly", "weight": 0.0, "id": 2781020372, "level": 2}
+{"count": 23803, "name": "Network management", "weight": 0.0, "id": 129763632, "level": 2}
+{"count": 17485, "name": "Videoconferencing", "weight": 0.0, "id": 22561748, "level": 2}
+{"count": 32905, "name": "Multi-core processor", "weight": 0.0, "id": 78766204, "level": 2}
+{"count": 15530, "name": "Codec", "weight": 0.0, "id": 161765866, "level": 2}
+{"count": 8440, "name": "Real-time data", "weight": 0.0, "id": 110593043, "level": 2}
+{"count": 4123, "name": "Time-sharing", "weight": 0.0, "id": 38725249, "level": 2}
+{"count": 10410, "name": "Multi-user", "weight": 0.0, "id": 2778002699, "level": 2}
+{"count": 41603, "name": "Wearable computer", "weight": 0.0, "id": 150594956, "level": 2}
+{"count": 68922, "name": "Web application", "weight": 1.0, "id": 118643609, "level": 2}
+{"count": 25848, "name": "Radio-frequency identification", "weight": 0.0, "id": 204222849, "level": 2}
+{"count": 17304, "name": "Security policy", "weight": 0.0, "id": 154908896, "level": 2}
+{"count": 10793, "name": "Mesh networking", "weight": 0.0, "id": 123691950, "level": 2}
+{"count": 8609, "name": "Distributed Computing Environment", "weight": 0.0, "id": 3739613, "level": 2}
+{"count": 17913, "name": "Home automation", "weight": 0.0, "id": 507571656, "level": 2}
+{"count": 23761, "name": "Numero sign", "weight": 0.0, "id": 75971821, "level": 2}
+{"count": 9478, "name": "Lexico", "weight": 0.0, "id": 2777776507, "level": 2}
+{"count": 4453, "name": "Stress testing", "weight": 0.0, "id": 2775857362, "level": 2}
+{"count": 36223, "name": "Debugging", "weight": 0.0, "id": 168065819, "level": 2}
+{"count": 6407, "name": "Capacity planning", "weight": 0.0, "id": 2781007418, "level": 2}
+{"count": 29944, "name": "Web server", "weight": 0.0, "id": 11392498, "level": 2}
+{"count": 11046, "name": "3D optical data storage", "weight": 0.0, "id": 128717455, "level": 2}
+{"count": 13398, "name": "Time management", "weight": 0.0, "id": 166235249, "level": 2}
+{"count": 152176, "name": "Modular design", "weight": 2.0, "id": 101468663, "level": 2}
+{"count": 122391, "name": "Software deployment", "weight": 1.0, "id": 105339364, "level": 2}
+{"count": 42762, "name": "Microcomputer", "weight": 0.0, "id": 132090242, "level": 2}
+{"count": 12424, "name": "Hypertext", "weight": 0.0, "id": 162215914, "level": 2}
+{"count": 17116, "name": "Systems management", "weight": 0.0, "id": 8816202, "level": 2}
+{"count": 5707, "name": "Visual programming language", "weight": 0.0, "id": 128644962, "level": 2}
+{"count": 8985, "name": "Access method", "weight": 0.0, "id": 70000936, "level": 2}
+{"count": 5397, "name": "Read-only memory", "weight": 0.0, "id": 89836824, "level": 2}
+{"count": 48951, "name": "Input device", "weight": 0.0, "id": 121449826, "level": 2}
+{"count": 52860, "name": "Android (operating system)", "weight": 0.0, "id": 557433098, "level": 2}
+{"count": 7553, "name": "Optical storage", "weight": 0.0, "id": 87519884, "level": 2}
+{"count": 10478, "name": "Location-based service", "weight": 0.0, "id": 155292070, "level": 2}
+{"count": 54294, "name": "Mobile station", "weight": 0.0, "id": 207029474, "level": 2}
+{"count": 16683, "name": "SILK", "weight": 0.0, "id": 2780431358, "level": 2}
+{"count": 37058, "name": "Central processing unit", "weight": 0.0, "id": 49154492, "level": 2}
+{"count": 23365, "name": "Scripting language", "weight": 0.0, "id": 61423126, "level": 2}
+{"count": 16204, "name": "Flight simulator", "weight": 0.0, "id": 41376638, "level": 2}
+{"count": 10615, "name": "User profile", "weight": 0.0, "id": 2780150774, "level": 2}
+{"count": 10733, "name": "Application programming interface", "weight": 0.0, "id": 99613125, "level": 2}
+{"count": 3734, "name": "Pulse-code modulation", "weight": 0.0, "id": 160987145, "level": 2}
+{"count": 3402, "name": "Time to market", "weight": 0.0, "id": 2779229675, "level": 2}
+{"count": 7081, "name": "Context awareness", "weight": 0.0, "id": 2781368080, "level": 2}
+{"count": 5314, "name": "Vector processor", "weight": 0.0, "id": 161824985, "level": 2}
+{"count": 9145, "name": "Mobility management", "weight": 0.0, "id": 2778555145, "level": 2}
+{"count": 9952, "name": "Data logger", "weight": 0.0, "id": 159234332, "level": 2}
+{"count": 19286, "name": "Software portability", "weight": 0.0, "id": 63000827, "level": 2}
+{"count": 11295, "name": "Subroutine", "weight": 0.0, "id": 96147967, "level": 2}
+{"count": 6827, "name": "Legacy system", "weight": 0.0, "id": 105446022, "level": 2}
+{"count": 11997, "name": "Unix", "weight": 0.0, "id": 112968700, "level": 2}
+{"count": 3213, "name": "Out-of-order execution", "weight": 0.0, "id": 1793878, "level": 2}
+{"count": 3488, "name": "Computer virus", "weight": 0.0, "id": 19407854, "level": 2}
+{"count": 2565, "name": "stat", "weight": 0.0, "id": 2778277574, "level": 2}
+{"count": 5325, "name": "Data availability", "weight": 0.0, "id": 2780562280, "level": 2}
+{"count": 11410, "name": "Network monitoring", "weight": 0.0, "id": 81877898, "level": 2}
+{"count": 2654, "name": "Inter-process communication", "weight": 0.0, "id": 204156049, "level": 2}
+{"count": 1995, "name": "Copy protection", "weight": 0.0, "id": 2780581891, "level": 2}
+{"count": 35195, "name": "Overlay", "weight": 0.0, "id": 136085584, "level": 2}
+{"count": 7491, "name": "Enterprise system", "weight": 0.0, "id": 67571701, "level": 2}
+{"count": 2667, "name": "Remote procedure call", "weight": 0.0, "id": 172086080, "level": 2}
+{"count": 6601, "name": "Inkwell", "weight": 0.0, "id": 109693293, "level": 2}
+{"count": 22345, "name": "Computer security model", "weight": 0.0, "id": 121822524, "level": 2}
+{"count": 10843, "name": "Interactive media", "weight": 0.0, "id": 203004452, "level": 2}
+{"count": 9250, "name": "General-purpose computing on graphics processing units", "weight": 0.0, "id": 50630238, "level": 2}
+{"count": 4861, "name": "Office automation", "weight": 0.0, "id": 2779518306, "level": 2}
+{"count": 7608, "name": "Hardware-in-the-loop simulation", "weight": 0.0, "id": 70587628, "level": 2}
+{"count": 11361, "name": "Document management system", "weight": 0.0, "id": 2278759, "level": 2}
+{"count": 26867, "name": "Profiling (computer programming)", "weight": 0.0, "id": 187191949, "level": 2}
+{"count": 4643, "name": "Automatic identification and data capture", "weight": 0.0, "id": 104582849, "level": 2}
+{"count": 3137, "name": "Exception handling", "weight": 0.0, "id": 145428669, "level": 2}
+{"count": 98513, "name": "Thread (computing)", "weight": 1.0, "id": 138101251, "level": 2}
+{"count": 12488, "name": "Special Interest Group", "weight": 0.0, "id": 12516257, "level": 2}
+{"count": 14505, "name": "Malware", "weight": 0.0, "id": 541664917, "level": 2}
+{"count": 20492, "name": "Interactivity", "weight": 0.0, "id": 144430266, "level": 2}
+{"count": 4902, "name": "Mobile commerce", "weight": 0.0, "id": 197378717, "level": 2}
+{"count": 14282, "name": "Python (programming language)", "weight": 0.0, "id": 519991488, "level": 2}
+{"count": 22455, "name": "TRIPS architecture", "weight": 0.0, "id": 157085824, "level": 2}
+{"count": 9413, "name": "String (computer science)", "weight": 0.0, "id": 1462715, "level": 2}
+{"count": 4232, "name": "MPEG-4", "weight": 0.0, "id": 97501218, "level": 2}
+{"count": 31706, "name": "Password", "weight": 0.0, "id": 109297577, "level": 2}
+{"count": 10089, "name": "Telematics", "weight": 0.0, "id": 89074322, "level": 2}
+{"count": 4159, "name": "System monitoring", "weight": 0.0, "id": 200749887, "level": 2}
+{"count": 8843, "name": "Cyber-physical system", "weight": 0.0, "id": 179768478, "level": 2}
+{"count": 97560, "name": "Download", "weight": 1.0, "id": 2780154274, "level": 2}
+{"count": 2420, "name": "Branch predictor", "weight": 0.0, "id": 168522837, "level": 2}
+{"count": 7713, "name": "Delphi", "weight": 0.0, "id": 2779495148, "level": 2}
+{"count": 6989, "name": "Transcoding", "weight": 0.0, "id": 134535813, "level": 2}
+{"count": 1220, "name": "Amoeba (operating system)", "weight": 0.0, "id": 87847054, "level": 2}
+{"count": 8965, "name": "UMTS frequency bands", "weight": 0.0, "id": 101618186, "level": 2}
+{"count": 4792, "name": "Digital forensics", "weight": 0.0, "id": 84418412, "level": 2}
+{"count": 13705, "name": "Paging", "weight": 0.0, "id": 50954386, "level": 2}
+{"count": 4171, "name": "Spatial contextual awareness", "weight": 0.0, "id": 64754055, "level": 2}
+{"count": 5572, "name": "Interactive television", "weight": 0.0, "id": 543280262, "level": 2}
+{"count": 13875, "name": "Relocation", "weight": 0.0, "id": 2779019381, "level": 2}
+{"count": 3886, "name": "Trusted Computing", "weight": 0.0, "id": 2776831232, "level": 2}
+{"count": 9065, "name": "Wireless broadband", "weight": 0.0, "id": 85608190, "level": 2}
+{"count": 3568, "name": "Plug and play", "weight": 0.0, "id": 2780070844, "level": 2}
+{"count": 7205, "name": "Disaster recovery", "weight": 0.0, "id": 129230348, "level": 2}
+{"count": 893, "name": "Universal Product Code", "weight": 0.0, "id": 100773728, "level": 2}
+{"count": 28653, "name": "Extensibility", "weight": 0.0, "id": 32833848, "level": 2}
+{"count": 2376, "name": "Dynamic logic (digital electronics)", "weight": 0.0, "id": 2777796570, "level": 2}
+{"count": 3247, "name": "Conformance testing", "weight": 0.0, "id": 76844732, "level": 2}
+{"count": 9205, "name": "CD-ROM", "weight": 0.0, "id": 193596192, "level": 2}
+{"count": 38455, "name": "Tracing", "weight": 0.0, "id": 138673069, "level": 2}
+{"count": 12108, "name": "Table of contents", "weight": 0.0, "id": 68476402, "level": 2}
+{"count": 64335, "name": "Cache", "weight": 0.0, "id": 115537543, "level": 2}
+{"count": 5750, "name": "Phase-change memory", "weight": 0.0, "id": 64142963, "level": 2}
+{"count": 319, "name": "VEMS", "weight": 0.0, "id": 2779780447, "level": 2}
+{"count": 4833, "name": "Disk array", "weight": 0.0, "id": 13021383, "level": 2}
+{"count": 6090, "name": "Minicomputer", "weight": 0.0, "id": 168395055, "level": 2}
+{"count": 7166, "name": "Hotspot (Wi-Fi)", "weight": 0.0, "id": 2776362950, "level": 2}
+{"count": 7870, "name": "Hyperlink", "weight": 0.0, "id": 30088001, "level": 2}
+{"count": 13324, "name": "Hacker", "weight": 0.0, "id": 86844869, "level": 2}
+{"count": 5607, "name": "Telecommunications equipment", "weight": 0.0, "id": 206034944, "level": 2}
+{"count": 3241, "name": "MPEG-2", "weight": 0.0, "id": 18446390, "level": 2}
+{"count": 15500, "name": "ANT", "weight": 0.0, "id": 97467695, "level": 2}
+{"count": 943, "name": "Distributed operating system", "weight": 0.0, "id": 2779783377, "level": 2}

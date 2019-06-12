@@ -1,0 +1,44 @@
+{"count": 39112, "name": "Job shop scheduling", "weight": 10.0, "id": 55416958, "level": 3}
+{"count": 33883, "name": "Dynamic priority scheduling", "weight": 8.0, "id": 107568181, "level": 3}
+{"count": 5154, "name": "Competitive analysis", "weight": 1.0, "id": 102408133, "level": 3}
+{"count": 2289, "name": "Dynamic voltage scaling", "weight": 0.0, "id": 2776047111, "level": 3}
+{"count": 5942, "name": "Preemption", "weight": 1.0, "id": 206952183, "level": 3}
+{"count": 6097, "name": "Job scheduler", "weight": 1.0, "id": 111873713, "level": 3}
+{"count": 1033, "name": "Processor sharing", "weight": 0.0, "id": 2779084733, "level": 3}
+{"count": 1647, "name": "Instruction scheduling", "weight": 0.0, "id": 73564150, "level": 3}
+{"count": 1349, "name": "Worst-case execution time", "weight": 0.0, "id": 200130814, "level": 3}
+{"count": 1422, "name": "Weighted fair queueing", "weight": 0.0, "id": 102486512, "level": 3}
+{"count": 315, "name": "Synchronous Data Flow", "weight": 0.0, "id": 2780471654, "level": 3}
+{"count": 592, "name": "Work stealing", "weight": 0.0, "id": 2778076476, "level": 3}
+{"count": 2300, "name": "Context switch", "weight": 0.0, "id": 53833338, "level": 3}
+{"count": 2032, "name": "Production schedule", "weight": 0.0, "id": 2778420936, "level": 3}
+{"count": 756, "name": "Weighted round robin", "weight": 0.0, "id": 141306801, "level": 3}
+{"count": 935, "name": "Crew scheduling", "weight": 0.0, "id": 2776986690, "level": 3}
+{"count": 911, "name": "Block scheduling", "weight": 0.0, "id": 200111062, "level": 3}
+{"count": 1314, "name": "Gantt chart", "weight": 0.0, "id": 95981495, "level": 3}
+{"count": 130, "name": "Virtual Output Queues", "weight": 0.0, "id": 165715116, "level": 3}
+{"count": 450, "name": "Cross-docking", "weight": 0.0, "id": 2781451986, "level": 3}
+{"count": 491, "name": "Event scheduling", "weight": 0.0, "id": 2777710194, "level": 3}
+{"count": 375, "name": "Precedence graph", "weight": 0.0, "id": 2778073291, "level": 3}
+{"count": 1595, "name": "Uniprocessor system", "weight": 0.0, "id": 79189994, "level": 3}
+{"count": 115, "name": "Many-task computing", "weight": 0.0, "id": 2778362760, "level": 3}
+{"count": 344, "name": "Advanced planning and scheduling", "weight": 0.0, "id": 2776028465, "level": 3}
+{"count": 618, "name": "Mixed criticality", "weight": 0.0, "id": 2781124451, "level": 3}
+{"count": 185, "name": "Coscheduling", "weight": 0.0, "id": 2776644901, "level": 3}
+{"count": 1049, "name": "CloudSim", "weight": 0.0, "id": 2779907789, "level": 3}
+{"count": 255, "name": "Head-of-line blocking", "weight": 0.0, "id": 103512785, "level": 3}
+{"count": 341, "name": "First-come, first-served", "weight": 0.0, "id": 2777938562, "level": 3}
+{"count": 85, "name": "Traveling tournament problem", "weight": 0.0, "id": 2779412986, "level": 3}
+{"count": 641, "name": "Metrical task system", "weight": 0.0, "id": 172652442, "level": 3}
+{"count": 285, "name": "Temporal isolation", "weight": 0.0, "id": 23581042, "level": 3}
+{"count": 330, "name": "Berth allocation problem", "weight": 0.0, "id": 2781148032, "level": 3}
+{"count": 298, "name": "Nonpreemptive multitasking", "weight": 0.0, "id": 85707631, "level": 3}
+{"count": 495, "name": "Precedence diagram method", "weight": 0.0, "id": 11490232, "level": 3}
+{"count": 2515, "name": "Fairness measure", "weight": 0.0, "id": 11867375, "level": 3}
+{"count": 36, "name": "QoS Class Identifier", "weight": 0.0, "id": 2776134089, "level": 3}
+{"count": 49, "name": "Cyclic executive", "weight": 0.0, "id": 2781387251, "level": 3}
+{"count": 31211, "name": "Fair-share scheduling", "weight": 7.0, "id": 31689143, "level": 3}
+{"count": 88, "name": "CPU-bound", "weight": 0.0, "id": 2780675069, "level": 3}
+{"count": 30, "name": "Projective cone", "weight": 0.0, "id": 2781243714, "level": 3}
+{"count": 15, "name": "Vehicle rescheduling problem", "weight": 0.0, "id": 2778977669, "level": 3}
+{"count": 34, "name": "Fatigue Avoidance Scheduling Tool", "weight": 0.0, "id": 2779213277, "level": 3}

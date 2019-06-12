@@ -1,0 +1,30 @@
+{"count": 26607, "name": "Grid computing", "weight": 10.0, "id": 70429105, "level": 3}
+{"count": 3785, "name": "Unstructured grid", "weight": 1.0, "id": 134620963, "level": 3}
+{"count": 1510, "name": "Occupancy grid mapping", "weight": 0.0, "id": 57077369, "level": 3}
+{"count": 5270, "name": "Islanding", "weight": 1.0, "id": 2778675665, "level": 3}
+{"count": 3056, "name": "Grid connection", "weight": 1.0, "id": 2780685028, "level": 3}
+{"count": 4674, "name": "Regular grid", "weight": 1.0, "id": 43173174, "level": 3}
+{"count": 3060, "name": "Electrical grid", "weight": 1.0, "id": 2776205842, "level": 3}
+{"count": 1024, "name": "Grid method multiplication", "weight": 0.0, "id": 91370436, "level": 3}
+{"count": 1926, "name": "Grid network", "weight": 0.0, "id": 24337046, "level": 3}
+{"count": 1046, "name": "Grid reference", "weight": 0.0, "id": 156172958, "level": 3}
+{"count": 1963, "name": "Frequency grid", "weight": 0.0, "id": 21905445, "level": 3}
+{"count": 1212, "name": "Square tiling", "weight": 0.0, "id": 178650486, "level": 3}
+{"count": 213, "name": "SuperGrid", "weight": 0.0, "id": 59622614, "level": 3}
+{"count": 967, "name": "Control grid", "weight": 0.0, "id": 101737016, "level": 3}
+{"count": 168, "name": "FNET", "weight": 0.0, "id": 2777655405, "level": 3}
+{"count": 167, "name": "Anti-scatter grid", "weight": 0.0, "id": 2777423577, "level": 3}
+{"count": 285, "name": "Sensor grid", "weight": 0.0, "id": 2779597457, "level": 3}
+{"count": 68, "name": "Availability-based tariff", "weight": 0.0, "id": 2779926982, "level": 3}
+{"count": 73, "name": "Geodesic grid", "weight": 0.0, "id": 2778175293, "level": 3}
+{"count": 41, "name": "Lebedev quadrature", "weight": 0.0, "id": 70329555, "level": 3}
+{"count": 137, "name": "Super grid", "weight": 0.0, "id": 2780904384, "level": 3}
+{"count": 164, "name": "Nested Grid Model", "weight": 0.0, "id": 202654566, "level": 3}
+{"count": 119, "name": "D-Grid", "weight": 0.0, "id": 201082689, "level": 3}
+{"count": 153, "name": "Five-point stencil", "weight": 0.0, "id": 3032387, "level": 3}
+{"count": 120, "name": "Soroban", "weight": 0.0, "id": 2778976081, "level": 3}
+{"count": 24, "name": "Grid classification", "weight": 0.0, "id": 2777181839, "level": 3}
+{"count": 68, "name": "Grid view", "weight": 0.0, "id": 2780552549, "level": 3}
+{"count": 29, "name": "Grid north", "weight": 0.0, "id": 10643093, "level": 3}
+{"count": 104, "name": "Grid friendly", "weight": 0.0, "id": 2779243919, "level": 3}
+{"count": 102, "name": "Decimal degrees", "weight": 0.0, "id": 27628309, "level": 3}

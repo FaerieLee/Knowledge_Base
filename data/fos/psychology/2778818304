@@ -1,0 +1,49 @@
+{"count": 7541, "name": "Vocational rehabilitation", "weight": 10.0, "id": 2775882741, "level": 3}
+{"count": 1846, "name": "Driver rehabilitation", "weight": 2.0, "id": 2775947275, "level": 3}
+{"count": 3866, "name": "Cognitive rehabilitation therapy", "weight": 5.0, "id": 68015696, "level": 3}
+{"count": 4472, "name": "International Classification of Functioning, Disability and Health", "weight": 5.0, "id": 115219716, "level": 3}
+{"count": 3172, "name": "Functional Independence Measure", "weight": 4.0, "id": 2780328615, "level": 3}
+{"count": 1452, "name": "Rehabilitation robotics", "weight": 1.0, "id": 2775862927, "level": 3}
+{"count": 3305, "name": "Acquired brain injury", "weight": 4.0, "id": 2779224077, "level": 3}
+{"count": 4291, "name": "Neurorehabilitation", "weight": 5.0, "id": 47177892, "level": 3}
+{"count": 4522, "name": "Rehabilitation counseling", "weight": 5.0, "id": 188389365, "level": 3}
+{"count": 1063, "name": "Constraint-induced movement therapy", "weight": 1.0, "id": 2777425428, "level": 3}
+{"count": 2540, "name": "Berg Balance Scale", "weight": 3.0, "id": 2777611552, "level": 3}
+{"count": 1939, "name": "Stroke recovery", "weight": 2.0, "id": 2776361831, "level": 3}
+{"count": 1202, "name": "Community-based rehabilitation", "weight": 1.0, "id": 2776406656, "level": 3}
+{"count": 1406, "name": "Modified Ashworth scale", "weight": 1.0, "id": 2780566999, "level": 3}
+{"count": 973, "name": "American Spinal Injury Association", "weight": 1.0, "id": 2781115485, "level": 3}
+{"count": 2465, "name": "Gait training", "weight": 3.0, "id": 2777217371, "level": 3}
+{"count": 1117, "name": "Continuous passive motion", "weight": 1.0, "id": 2776514915, "level": 3}
+{"count": 849, "name": "Rehabilitation engineering", "weight": 1.0, "id": 2780168796, "level": 3}
+{"count": 1140, "name": "Geriatric rehabilitation", "weight": 1.0, "id": 2778205836, "level": 3}
+{"count": 247, "name": "Post-traumatic amnesia", "weight": 0.0, "id": 2781445728, "level": 3}
+{"count": 752, "name": "Cancer rehabilitation", "weight": 0.0, "id": 2777444355, "level": 3}
+{"count": 449, "name": "Errorless learning", "weight": 0.0, "id": 2780356878, "level": 3}
+{"count": 768, "name": "Occupational rehabilitation", "weight": 1.0, "id": 2779353907, "level": 3}
+{"count": 439, "name": "Kinesiotherapy", "weight": 0.0, "id": 2777651512, "level": 3}
+{"count": 414, "name": "Disability Rating Scale", "weight": 0.0, "id": 2779693529, "level": 3}
+{"count": 496, "name": "Prehabilitation", "weight": 0.0, "id": 2778632814, "level": 3}
+{"count": 235, "name": "Virtual reality therapy", "weight": 0.0, "id": 2778299597, "level": 3}
+{"count": 874, "name": "Powered exoskeleton", "weight": 1.0, "id": 45391945, "level": 3}
+{"count": 399, "name": "Virtual rehabilitation", "weight": 0.0, "id": 2778530930, "level": 3}
+{"count": 948, "name": "Vision rehabilitation", "weight": 1.0, "id": 2780449880, "level": 3}
+{"count": 393, "name": "Aquatic therapy", "weight": 0.0, "id": 2778527929, "level": 3}
+{"count": 177, "name": "Melodic intonation therapy", "weight": 0.0, "id": 2778711531, "level": 3}
+{"count": 267, "name": "Rehabilitation psychology", "weight": 0.0, "id": 2776699004, "level": 3}
+{"count": 248, "name": "Conductive education", "weight": 0.0, "id": 2775861577, "level": 3}
+{"count": 183, "name": "Bobath concept", "weight": 0.0, "id": 2778770396, "level": 3}
+{"count": 32, "name": "Case mix group", "weight": 0.0, "id": 2777614734, "level": 3}
+{"count": 1800, "name": "Rehabilitation hospital", "weight": 2.0, "id": 2777003073, "level": 3}
+{"count": 125, "name": "Barthel scale", "weight": 0.0, "id": 2776444720, "level": 3}
+{"count": 169, "name": "Rehabilitation Policy", "weight": 0.0, "id": 2778921512, "level": 3}
+{"count": 111, "name": "Rhinectomy", "weight": 0.0, "id": 2777585344, "level": 3}
+{"count": 177, "name": "Closed kinetic chain exercises", "weight": 0.0, "id": 2780346878, "level": 3}
+{"count": 37, "name": "Rancho Los Amigos Scale", "weight": 0.0, "id": 2780768432, "level": 3}
+{"count": 11, "name": "Brunnstrom Approach", "weight": 0.0, "id": 2780364915, "level": 3}
+{"count": 28, "name": "Cryomassage", "weight": 0.0, "id": 2779764703, "level": 3}
+{"count": 20, "name": "Krukenberg procedure", "weight": 0.0, "id": 2781217469, "level": 3}
+{"count": 24, "name": "Rehabilitation in spinal cord injury", "weight": 0.0, "id": 2780733901, "level": 3}
+{"count": 19, "name": "Sexuality after spinal cord injury", "weight": 0.0, "id": 2780719388, "level": 3}
+{"count": 64, "name": "Rehabilitation in Parkinson's disease", "weight": 0.0, "id": 2776660756, "level": 3}
+{"count": 26, "name": "Home lift", "weight": 0.0, "id": 2776009740, "level": 3}

@@ -1,0 +1,4 @@
+{"count": 1425, "name": "Conjugate prior", "weight": 10.0, "id": 26004113, "level": 3}
+{"count": 386, "name": "Jeffreys prior", "weight": 2.0, "id": 2780397632, "level": 3}
+{"count": 529, "name": "Posterior predictive distribution", "weight": 3.0, "id": 83247935, "level": 3}
+{"count": 129, "name": "g-prior", "weight": 0.0, "id": 2779328786, "level": 3}

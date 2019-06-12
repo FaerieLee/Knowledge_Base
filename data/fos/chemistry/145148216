@@ -1,0 +1,171 @@
+{"count": 154361, "name": "Ionization", "weight": 10.0, "id": 198291218, "level": 3}
+{"count": 70602, "name": "Ion beam", "weight": 4.0, "id": 50774322, "level": 3}
+{"count": 60275, "name": "Ion implantation", "weight": 3.0, "id": 41823505, "level": 3}
+{"count": 43364, "name": "Mass spectrum", "weight": 2.0, "id": 40325409, "level": 3}
+{"count": 22267, "name": "Ion transporter", "weight": 1.0, "id": 99975950, "level": 3}
+{"count": 31804, "name": "Ionic conductivity", "weight": 2.0, "id": 138679309, "level": 3}
+{"count": 5273, "name": "Electrospray", "weight": 0.0, "id": 194451485, "level": 3}
+{"count": 41434, "name": "Lithium-ion battery", "weight": 2.0, "id": 2779197387, "level": 3}
+{"count": 19784, "name": "Secondary ion mass spectrometry", "weight": 1.0, "id": 77671233, "level": 3}
+{"count": 13680, "name": "Electron affinity", "weight": 0.0, "id": 54197823, "level": 3}
+{"count": 11208, "name": "Ion trap", "weight": 0.0, "id": 106289968, "level": 3}
+{"count": 9706, "name": "Ion selective electrode", "weight": 0.0, "id": 2777207949, "level": 3}
+{"count": 9304, "name": "Secondary emission", "weight": 0.0, "id": 13892213, "level": 3}
+{"count": 78590, "name": "Metal ions in aqueous solution", "weight": 5.0, "id": 199164860, "level": 3}
+{"count": 10743, "name": "Secondary electrons", "weight": 0.0, "id": 34667332, "level": 3}
+{"count": 396, "name": "Stopping power", "weight": 0.0, "id": 146904657, "level": 3}
+{"count": 9643, "name": "Fast ion conductor", "weight": 0.0, "id": 109883240, "level": 3}
+{"count": 8189, "name": "Fourier transform ion cyclotron resonance", "weight": 0.0, "id": 170552419, "level": 3}
+{"count": 14428, "name": "Electron capture", "weight": 0.0, "id": 105066094, "level": 3}
+{"count": 4914, "name": "Rutherford backscattering spectrometry", "weight": 0.0, "id": 2780547777, "level": 3}
+{"count": 4796, "name": "Fast atom bombardment", "weight": 0.0, "id": 199033913, "level": 3}
+{"count": 7182, "name": "Dusty plasma", "weight": 0.0, "id": 4424474, "level": 3}
+{"count": 16110, "name": "Counterion", "weight": 1.0, "id": 34814092, "level": 3}
+{"count": 3517, "name": "Linear energy transfer", "weight": 0.0, "id": 86611320, "level": 3}
+{"count": 37415, "name": "Ion source", "weight": 2.0, "id": 188224857, "level": 3}
+{"count": 6440, "name": "Quadrupole mass analyzer", "weight": 0.0, "id": 103232671, "level": 3}
+{"count": 3803, "name": "Debye sheath", "weight": 0.0, "id": 105812681, "level": 3}
+{"count": 3688, "name": "Field ion microscope", "weight": 0.0, "id": 197977467, "level": 3}
+{"count": 3802, "name": "Inorganic ions", "weight": 0.0, "id": 16810429, "level": 3}
+{"count": 8392, "name": "Ion cyclotron resonance", "weight": 0.0, "id": 193055867, "level": 3}
+{"count": 2801, "name": "Proton affinity", "weight": 0.0, "id": 53323650, "level": 3}
+{"count": 3756, "name": "Elliptic flow", "weight": 0.0, "id": 80903900, "level": 3}
+{"count": 4636, "name": "Energetic neutral atom", "weight": 0.0, "id": 138560296, "level": 3}
+{"count": 4482, "name": "Ion-mobility spectrometry", "weight": 0.0, "id": 15213710, "level": 3}
+{"count": 2964, "name": "Highly charged ion", "weight": 0.0, "id": 2777392624, "level": 3}
+{"count": 9687, "name": "Ionic radius", "weight": 0.0, "id": 54998646, "level": 3}
+{"count": 121791, "name": "Ionic bonding", "weight": 7.0, "id": 2182769, "level": 3}
+{"count": 3490, "name": "Gyroradius", "weight": 0.0, "id": 91571402, "level": 3}
+{"count": 1383, "name": "Low-energy ion scattering", "weight": 0.0, "id": 2777174998, "level": 3}
+{"count": 8387, "name": "Effective nuclear charge", "weight": 0.0, "id": 138775182, "level": 3}
+{"count": 10161, "name": "Qualitative inorganic analysis", "weight": 0.0, "id": 5277695, "level": 3}
+{"count": 10629, "name": "Radical ion", "weight": 0.0, "id": 96444392, "level": 3}
+{"count": 2797, "name": "Crystal field theory", "weight": 0.0, "id": 122290, "level": 3}
+{"count": 9945, "name": "Uranyl", "weight": 0.0, "id": 2778468930, "level": 3}
+{"count": 2321, "name": "Elastic recoil detection", "weight": 0.0, "id": 2776523803, "level": 3}
+{"count": 3387, "name": "Penning trap", "weight": 0.0, "id": 143873397, "level": 3}
+{"count": 10926, "name": "Ion acoustic wave", "weight": 0.0, "id": 105580336, "level": 3}
+{"count": 3163, "name": "Channelling", "weight": 0.0, "id": 2781028716, "level": 3}
+{"count": 202, "name": "Judd\u2013Ofelt theory", "weight": 0.0, "id": 2776694963, "level": 3}
+{"count": 2418, "name": "Cryptand", "weight": 0.0, "id": 114595235, "level": 3}
+{"count": 2363, "name": "ISFET", "weight": 0.0, "id": 154275363, "level": 3}
+{"count": 2200, "name": "Dissociative recombination", "weight": 0.0, "id": 2781365560, "level": 3}
+{"count": 2909, "name": "Neutral particle", "weight": 0.0, "id": 99989476, "level": 3}
+{"count": 695, "name": "Tellurite glass", "weight": 0.0, "id": 2780361394, "level": 3}
+{"count": 2758, "name": "Faraday efficiency", "weight": 0.0, "id": 130349721, "level": 3}
+{"count": 1592, "name": "Sodium-ion battery", "weight": 0.0, "id": 2776301907, "level": 3}
+{"count": 13498, "name": "Polyatomic ion", "weight": 0.0, "id": 66594872, "level": 3}
+{"count": 291, "name": "Helium compounds", "weight": 0.0, "id": 2778289200, "level": 3}
+{"count": 1077, "name": "Warm dense matter", "weight": 0.0, "id": 2780973484, "level": 3}
+{"count": 4190, "name": "Dication", "weight": 0.0, "id": 66009135, "level": 3}
+{"count": 1957, "name": "Infrared multiphoton dissociation", "weight": 0.0, "id": 3896420, "level": 3}
+{"count": 1298, "name": "Hofmeister series", "weight": 0.0, "id": 58436429, "level": 3}
+{"count": 6295, "name": "Ion current", "weight": 0.0, "id": 2778220808, "level": 3}
+{"count": 567, "name": "Liquid junction potential", "weight": 0.0, "id": 197883110, "level": 3}
+{"count": 1324, "name": "Borate glass", "weight": 0.0, "id": 2780574047, "level": 3}
+{"count": 1992, "name": "Ion track", "weight": 0.0, "id": 71085134, "level": 3}
+{"count": 1938, "name": "Ion-association", "weight": 0.0, "id": 181263256, "level": 3}
+{"count": 1648, "name": "Dicyanamide", "weight": 0.0, "id": 2776693317, "level": 3}
+{"count": 281, "name": "Delta ray", "weight": 0.0, "id": 171802235, "level": 3}
+{"count": 1669, "name": "Aquation", "weight": 0.0, "id": 2780380942, "level": 3}
+{"count": 401, "name": "Nephelauxetic effect", "weight": 0.0, "id": 25396069, "level": 3}
+{"count": 1341, "name": "KcsA potassium channel", "weight": 0.0, "id": 45516822, "level": 3}
+{"count": 1870, "name": "Tetraphenylborate", "weight": 0.0, "id": 2775849911, "level": 3}
+{"count": 164, "name": "Nernst\u2013Planck equation", "weight": 0.0, "id": 2778394408, "level": 3}
+{"count": 320, "name": "Atomic mass unit", "weight": 0.0, "id": 25230592, "level": 3}
+{"count": 872, "name": "Mass-to-charge ratio", "weight": 0.0, "id": 25395469, "level": 3}
+{"count": 1137, "name": "Strong electrolyte", "weight": 0.0, "id": 198621165, "level": 3}
+{"count": 1935, "name": "Oxonium ion", "weight": 0.0, "id": 178386823, "level": 3}
+{"count": 1332, "name": "Electronvolt", "weight": 0.0, "id": 180586651, "level": 3}
+{"count": 1795, "name": "Faraday cup", "weight": 0.0, "id": 180541544, "level": 3}
+{"count": 695, "name": "Electrodeionization", "weight": 0.0, "id": 2780513399, "level": 3}
+{"count": 565, "name": "Donnan potential", "weight": 0.0, "id": 94421946, "level": 3}
+{"count": 970, "name": "Ion pump", "weight": 0.0, "id": 2778534103, "level": 3}
+{"count": 1002, "name": "Electrical mobility", "weight": 0.0, "id": 50067584, "level": 3}
+{"count": 1660, "name": "Swift heavy ion", "weight": 0.0, "id": 2780981118, "level": 3}
+{"count": 66, "name": "Born\u2013Mayer equation", "weight": 0.0, "id": 2779292865, "level": 3}
+{"count": 1638, "name": "Collisional excitation", "weight": 0.0, "id": 2781219984, "level": 3}
+{"count": 817, "name": "Sodium tetraphenylborate", "weight": 0.0, "id": 2779573886, "level": 3}
+{"count": 124, "name": "Electrogravimetry", "weight": 0.0, "id": 2777835790, "level": 3}
+{"count": 541, "name": "Hydration energy", "weight": 0.0, "id": 2776939475, "level": 3}
+{"count": 1078, "name": "Conversion electron m\u00f6ssbauer spectroscopy", "weight": 0.0, "id": 2777396822, "level": 3}
+{"count": 654, "name": "Electrostatic analyzer", "weight": 0.0, "id": 2777116965, "level": 3}
+{"count": 352, "name": "Gas-phase ion chemistry", "weight": 0.0, "id": 2780775687, "level": 3}
+{"count": 236, "name": "Common-ion effect", "weight": 0.0, "id": 72662328, "level": 3}
+{"count": 687, "name": "Lithium-ion capacitor", "weight": 0.0, "id": 2776552312, "level": 3}
+{"count": 153, "name": "Q-machine", "weight": 0.0, "id": 2780252369, "level": 3}
+{"count": 608, "name": "Nitrosonium", "weight": 0.0, "id": 2778369270, "level": 3}
+{"count": 2157, "name": "Hydronium", "weight": 0.0, "id": 2777325023, "level": 3}
+{"count": 397, "name": "Arenium ion", "weight": 0.0, "id": 129802109, "level": 3}
+{"count": 684, "name": "One-electron reduction", "weight": 0.0, "id": 2778921574, "level": 3}
+{"count": 389, "name": "Nonactin", "weight": 0.0, "id": 2776375969, "level": 3}
+{"count": 454, "name": "Binary collision approximation", "weight": 0.0, "id": 2779821378, "level": 3}
+{"count": 348, "name": "Vanadyl ion", "weight": 0.0, "id": 2781423844, "level": 3}
+{"count": 2883, "name": "Carbonium ion", "weight": 0.0, "id": 167681012, "level": 3}
+{"count": 65, "name": "Manganese(II) sulfate", "weight": 0.0, "id": 2779869087, "level": 3}
+{"count": 384, "name": "Fluorophosphate glass", "weight": 0.0, "id": 2779095805, "level": 3}
+{"count": 311, "name": "Metallacrown", "weight": 0.0, "id": 2776247466, "level": 3}
+{"count": 763, "name": "Octahedral symmetry", "weight": 0.0, "id": 161085987, "level": 3}
+{"count": 249, "name": "Neutron depth profiling", "weight": 0.0, "id": 2780823848, "level": 3}
+{"count": 301, "name": "Selected-ion flow-tube mass spectrometry", "weight": 0.0, "id": 2777949036, "level": 3}
+{"count": 3717, "name": "Iminium", "weight": 0.0, "id": 2778567177, "level": 3}
+{"count": 453, "name": "Dihydrogen cation", "weight": 0.0, "id": 184804428, "level": 3}
+{"count": 757, "name": "Carbenium ion", "weight": 0.0, "id": 2777463211, "level": 3}
+{"count": 255, "name": "Nitrenium ion", "weight": 0.0, "id": 2779626511, "level": 3}
+{"count": 8812, "name": "Lithium vanadium phosphate battery", "weight": 0.0, "id": 93078006, "level": 3}
+{"count": 309, "name": "Bifluoride", "weight": 0.0, "id": 2779811878, "level": 3}
+{"count": 427, "name": "Polyiodide", "weight": 0.0, "id": 2777244176, "level": 3}
+{"count": 130, "name": "Wien effect", "weight": 0.0, "id": 102849442, "level": 3}
+{"count": 177, "name": "Molecular logic gate", "weight": 0.0, "id": 173607241, "level": 3}
+{"count": 124, "name": "Argyrodite", "weight": 0.0, "id": 2780641626, "level": 3}
+{"count": 758, "name": "Pelletron", "weight": 0.0, "id": 73708358, "level": 3}
+{"count": 600, "name": "Charge number", "weight": 0.0, "id": 2779073270, "level": 3}
+{"count": 34, "name": "Methanium", "weight": 0.0, "id": 2777847312, "level": 3}
+{"count": 145, "name": "Goldman equation", "weight": 0.0, "id": 70444479, "level": 3}
+{"count": 97, "name": "Sodium germanate", "weight": 0.0, "id": 2776368741, "level": 3}
+{"count": 137, "name": "Pentazole", "weight": 0.0, "id": 2779746948, "level": 3}
+{"count": 89, "name": "Bistriflimide", "weight": 0.0, "id": 2779477705, "level": 3}
+{"count": 108, "name": "Ion-attachment mass spectrometry", "weight": 0.0, "id": 2780280309, "level": 3}
+{"count": 180, "name": "Racah parameter", "weight": 0.0, "id": 2778276516, "level": 3}
+{"count": 380, "name": "Dodecaborate", "weight": 0.0, "id": 2780926600, "level": 3}
+{"count": 101, "name": "Lanthanum trifluoride", "weight": 0.0, "id": 2779507840, "level": 3}
+{"count": 30, "name": "Potential Determining Ion", "weight": 0.0, "id": 2777024943, "level": 3}
+{"count": 108, "name": "Perbromate", "weight": 0.0, "id": 2780060846, "level": 3}
+{"count": 419, "name": "Halonium ion", "weight": 0.0, "id": 196656570, "level": 3}
+{"count": 229, "name": "Energy analyser", "weight": 0.0, "id": 2780482813, "level": 3}
+{"count": 523, "name": "Oxocarbenium", "weight": 0.0, "id": 196647687, "level": 3}
+{"count": 112, "name": "Ion speciation", "weight": 0.0, "id": 2780767112, "level": 3}
+{"count": 36, "name": "Lamb Dicke regime", "weight": 0.0, "id": 2780615684, "level": 3}
+{"count": 84, "name": "Silylium ion", "weight": 0.0, "id": 2778953656, "level": 3}
+{"count": 151, "name": "Autoprotolysis", "weight": 0.0, "id": 154859136, "level": 3}
+{"count": 23, "name": "Non-coordinating anion", "weight": 0.0, "id": 2780667790, "level": 3}
+{"count": 734, "name": "Square antiprism", "weight": 0.0, "id": 2776525051, "level": 3}
+{"count": 177, "name": "Repulsive state", "weight": 0.0, "id": 2778703894, "level": 3}
+{"count": 148, "name": "Galvani potential", "weight": 0.0, "id": 157536035, "level": 3}
+{"count": 40, "name": "Caesium bromide", "weight": 0.0, "id": 2780216104, "level": 3}
+{"count": 26, "name": "Lead(II) fluoride", "weight": 0.0, "id": 2778114826, "level": 3}
+{"count": 505, "name": "Square antiprismatic molecular geometry", "weight": 0.0, "id": 94804456, "level": 3}
+{"count": 70, "name": "HZE ions", "weight": 0.0, "id": 103623324, "level": 3}
+{"count": 27, "name": "Laporte rule", "weight": 0.0, "id": 160975046, "level": 3}
+{"count": 45, "name": "Trinitroanisole", "weight": 0.0, "id": 2777669002, "level": 3}
+{"count": 2418, "name": "Trapped ion quantum computer", "weight": 0.0, "id": 183968085, "level": 3}
+{"count": 71, "name": "Fluoronium", "weight": 0.0, "id": 2777408148, "level": 3}
+{"count": 29, "name": "Hexafluoroplatinate", "weight": 0.0, "id": 2777438062, "level": 3}
+{"count": 31, "name": "Tetrafluoroberyllate", "weight": 0.0, "id": 2776952195, "level": 3}
+{"count": 61, "name": "Intimate ion pair", "weight": 0.0, "id": 2780614995, "level": 3}
+{"count": 15, "name": "Molybdenum(II) chloride", "weight": 0.0, "id": 2777710299, "level": 3}
+{"count": 78, "name": "Spectator ion", "weight": 0.0, "id": 163006983, "level": 3}
+{"count": 20, "name": "Laser microprobe mass spectrometer", "weight": 0.0, "id": 2778203618, "level": 3}
+{"count": 36, "name": "Chemical field-effect transistor", "weight": 0.0, "id": 2778890324, "level": 3}
+{"count": 25, "name": "Chloryl fluoride", "weight": 0.0, "id": 2777453651, "level": 3}
+{"count": 64, "name": "Hydrogen anion", "weight": 0.0, "id": 2776130283, "level": 3}
+{"count": 21, "name": "Lead bismuthate", "weight": 0.0, "id": 2780409860, "level": 3}
+{"count": 9, "name": "Unimolecular ion decomposition", "weight": 0.0, "id": 2779080754, "level": 3}
+{"count": 27, "name": "Nanofluidic circuitry", "weight": 0.0, "id": 7059664, "level": 3}
+{"count": 1116, "name": "Nanoarchitectures for lithium-ion batteries", "weight": 0.0, "id": 165886283, "level": 3}
+{"count": 188, "name": "Tandem Mirror Experiment", "weight": 0.0, "id": 2779209053, "level": 3}
+{"count": 233, "name": "Stopping power (particle radiation)", "weight": 0.0, "id": 144232802, "level": 3}
+{"count": 13, "name": "Xenonium", "weight": 0.0, "id": 2778266126, "level": 3}
+{"count": 659, "name": "C4mim", "weight": 0.0, "id": 2780212468, "level": 3}
+{"count": 70, "name": "Trisulfur", "weight": 0.0, "id": 2780498815, "level": 3}
+{"count": 37, "name": "Perxenate", "weight": 0.0, "id": 2777196273, "level": 3}

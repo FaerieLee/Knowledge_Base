@@ -1,0 +1,18 @@
+{"count": 1226, "name": "Liquidity constraint", "weight": 1.0, "id": 2779798788, "level": 3}
+{"count": 9412, "name": "Liquidity risk", "weight": 9.0, "id": 189259953, "level": 3}
+{"count": 1728, "name": "Bid\u2013ask spread", "weight": 1.0, "id": 2776299251, "level": 3}
+{"count": 1461, "name": "Lender of last resort", "weight": 1.0, "id": 2779465119, "level": 3}
+{"count": 2246, "name": "Interbank lending market", "weight": 2.0, "id": 174106034, "level": 3}
+{"count": 9430, "name": "Liquidity crisis", "weight": 10.0, "id": 176923680, "level": 3}
+{"count": 1537, "name": "Asset quality", "weight": 1.0, "id": 2779338949, "level": 3}
+{"count": 236, "name": "Wholesale funding", "weight": 0.0, "id": 2780067215, "level": 3}
+{"count": 5399, "name": "Market impact", "weight": 5.0, "id": 127288500, "level": 3}
+{"count": 106, "name": "Narrow banking", "weight": 0.0, "id": 2777512489, "level": 3}
+{"count": 455, "name": "Tick size", "weight": 0.0, "id": 2776689027, "level": 3}
+{"count": 989, "name": "Solvency ratio", "weight": 1.0, "id": 91419387, "level": 3}
+{"count": 330, "name": "Block trade", "weight": 0.0, "id": 68186192, "level": 3}
+{"count": 74, "name": "Asset-backed commercial paper", "weight": 0.0, "id": 2781039247, "level": 3}
+{"count": 51, "name": "Rehypothecation", "weight": 0.0, "id": 150334834, "level": 3}
+{"count": 99, "name": "Eonia", "weight": 0.0, "id": 2778055008, "level": 3}
+{"count": 2253, "name": "Third market", "weight": 2.0, "id": 185243290, "level": 3}
+{"count": 35, "name": "CAMELS rating system", "weight": 0.0, "id": 2779323681, "level": 3}

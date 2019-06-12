@@ -1,0 +1,14 @@
+{"count": 3974, "name": "Short-channel effect", "weight": 4.0, "id": 11918236, "level": 4}
+{"count": 2952, "name": "Negative-bias temperature instability", "weight": 3.0, "id": 557185, "level": 4}
+{"count": 6731, "name": "Drain-induced barrier lowering", "weight": 7.0, "id": 73118932, "level": 4}
+{"count": 2897, "name": "Subthreshold slope", "weight": 3.0, "id": 103566474, "level": 4}
+{"count": 9073, "name": "Static induction transistor", "weight": 10.0, "id": 158470141, "level": 4}
+{"count": 1070, "name": "Floating body effect", "weight": 1.0, "id": 122126711, "level": 4}
+{"count": 338, "name": "Random dopant fluctuation", "weight": 0.0, "id": 2779707557, "level": 4}
+{"count": 962, "name": "Indium gallium zinc oxide", "weight": 1.0, "id": 2779603172, "level": 4}
+{"count": 88, "name": "Multi-threshold CMOS", "weight": 0.0, "id": 2779352708, "level": 4}
+{"count": 71, "name": "Junctionless nanowire transistor", "weight": 0.0, "id": 2776017014, "level": 4}
+{"count": 4198, "name": "Common base", "weight": 4.0, "id": 9001241, "level": 4}
+{"count": 44, "name": "Charge transfer switch", "weight": 0.0, "id": 2780843428, "level": 4}
+{"count": 34, "name": "Native transistor", "weight": 0.0, "id": 2781207777, "level": 4}
+{"count": 8170, "name": "Multiple-emitter transistor", "weight": 9.0, "id": 66710717, "level": 4}

@@ -1,0 +1,143 @@
+{"count": 248334, "name": "Indexation", "weight": 10.0, "id": 186311912, "level": 2}
+{"count": 66750, "name": "Monetary policy", "weight": 2.0, "id": 126285488, "level": 2}
+{"count": 92080, "name": "Inflation", "weight": 3.0, "id": 75218677, "level": 2}
+{"count": 30600, "name": "Business cycle", "weight": 1.0, "id": 83873408, "level": 2}
+{"count": 3858, "name": "Gold standard", "weight": 0.0, "id": 2780692465, "level": 2}
+{"count": 21887, "name": "Industrial production", "weight": 0.0, "id": 82753439, "level": 2}
+{"count": 17122, "name": "Economic indicator", "weight": 0.0, "id": 202353208, "level": 2}
+{"count": 11000, "name": "Balance of payments", "weight": 0.0, "id": 109948328, "level": 2}
+{"count": 14197, "name": "Price level", "weight": 0.0, "id": 34881761, "level": 2}
+{"count": 47205, "name": "Recession", "weight": 1.0, "id": 195742910, "level": 2}
+{"count": 8942, "name": "Aggregate demand", "weight": 0.0, "id": 203379541, "level": 2}
+{"count": 10727, "name": "Stylized fact", "weight": 0.0, "id": 38935604, "level": 2}
+{"count": 9452, "name": "Real gross domestic product", "weight": 0.0, "id": 181683161, "level": 2}
+{"count": 5967, "name": "Crowding out", "weight": 0.0, "id": 8031360, "level": 2}
+{"count": 6491, "name": "Purchasing power", "weight": 0.0, "id": 2776542561, "level": 2}
+{"count": 15839, "name": "Multiplier (economics)", "weight": 0.0, "id": 124584101, "level": 2}
+{"count": 4267, "name": "Evolutionary economics", "weight": 0.0, "id": 154848440, "level": 2}
+{"count": 12240, "name": "Demand management", "weight": 0.0, "id": 179366874, "level": 2}
+{"count": 8044, "name": "New economy", "weight": 0.0, "id": 2778859120, "level": 2}
+{"count": 5012, "name": "Macroeconomic model", "weight": 0.0, "id": 55986821, "level": 2}
+{"count": 5556, "name": "Economic recovery", "weight": 0.0, "id": 2777461252, "level": 2}
+{"count": 1556, "name": "Consumption function", "weight": 0.0, "id": 169488363, "level": 2}
+{"count": 3314, "name": "Post-Keynesian economics", "weight": 0.0, "id": 56777670, "level": 2}
+{"count": 10818, "name": "Austerity", "weight": 0.0, "id": 69828861, "level": 2}
+{"count": 2888, "name": "Consumption (economics)", "weight": 0.0, "id": 1374810, "level": 2}
+{"count": 14329, "name": "Applied economics", "weight": 0.0, "id": 149615983, "level": 2}
+{"count": 2328, "name": "Effective demand", "weight": 0.0, "id": 2776290994, "level": 2}
+{"count": 3444, "name": "Consumer confidence index", "weight": 0.0, "id": 96405632, "level": 2}
+{"count": 8827, "name": "New Deal", "weight": 0.0, "id": 2776732289, "level": 2}
+{"count": 2183, "name": "Quantity theory of money", "weight": 0.0, "id": 63999242, "level": 2}
+{"count": 1708, "name": "Economic stagnation", "weight": 0.0, "id": 181370504, "level": 2}
+{"count": 7198, "name": "Overheating (economics)", "weight": 0.0, "id": 117785501, "level": 2}
+{"count": 1072, "name": "Kondratiev wave", "weight": 0.0, "id": 171555571, "level": 2}
+{"count": 4311, "name": "Virtuous circle and vicious circle", "weight": 0.0, "id": 23979983, "level": 2}
+{"count": 1779, "name": "Overproduction", "weight": 0.0, "id": 124420848, "level": 2}
+{"count": 1114, "name": "Pigou effect", "weight": 0.0, "id": 79108098, "level": 2}
+{"count": 438, "name": "Circular flow of income", "weight": 0.0, "id": 55968005, "level": 2}
+{"count": 841, "name": "Life-cycle hypothesis", "weight": 0.0, "id": 61570092, "level": 2}
+{"count": 1422, "name": "Microfoundations", "weight": 0.0, "id": 2776589375, "level": 2}
+{"count": 1316, "name": "Soft landing", "weight": 0.0, "id": 65424074, "level": 2}
+{"count": 3333, "name": "Ex-ante", "weight": 0.0, "id": 122251271, "level": 2}
+{"count": 1684, "name": "Policy mix", "weight": 0.0, "id": 2779962586, "level": 2}
+{"count": 481, "name": "Circular cumulative causation", "weight": 0.0, "id": 10843958, "level": 2}
+{"count": 185, "name": "Moral suasion", "weight": 0.0, "id": 2778993185, "level": 2}
+{"count": 1901, "name": "Monetization", "weight": 0.0, "id": 2780602052, "level": 2}
+{"count": 214, "name": "Supply-side economics", "weight": 0.0, "id": 2779356393, "level": 2}
+{"count": 2336, "name": "Gilded Age", "weight": 0.0, "id": 2778672473, "level": 2}
+{"count": 240, "name": "IS\u2013LM model", "weight": 0.0, "id": 2778156722, "level": 2}
+{"count": 364, "name": "Say's law", "weight": 0.0, "id": 53162308, "level": 2}
+{"count": 739, "name": "New classical macroeconomics", "weight": 0.0, "id": 177591768, "level": 2}
+{"count": 848, "name": "Fresh Start", "weight": 0.0, "id": 2776815722, "level": 2}
+{"count": 349, "name": "Abenomics", "weight": 0.0, "id": 2776996696, "level": 2}
+{"count": 427, "name": "Crisis theory", "weight": 0.0, "id": 2781116100, "level": 2}
+{"count": 215, "name": "Implied powers", "weight": 0.0, "id": 139423300, "level": 2}
+{"count": 132, "name": "Triangle model", "weight": 0.0, "id": 2779628553, "level": 2}
+{"count": 232, "name": "Methodenstreit", "weight": 0.0, "id": 2780644464, "level": 2}
+{"count": 484, "name": "Keynesian Revolution", "weight": 0.0, "id": 2781293591, "level": 2}
+{"count": 269, "name": "Cumulative process", "weight": 0.0, "id": 2778785627, "level": 2}
+{"count": 50, "name": "Harrod\u2013Domar model", "weight": 0.0, "id": 2780690446, "level": 2}
+{"count": 237, "name": "Neoclassical synthesis", "weight": 0.0, "id": 2776099544, "level": 2}
+{"count": 373, "name": "Discretionary spending", "weight": 0.0, "id": 2776807994, "level": 2}
+{"count": 174, "name": "Underconsumption", "weight": 0.0, "id": 2779212423, "level": 2}
+{"count": 309, "name": "Reaganomics", "weight": 0.0, "id": 2779964111, "level": 2}
+{"count": 373, "name": "Public enemy", "weight": 0.0, "id": 2778870980, "level": 2}
+{"count": 80, "name": "European paradox", "weight": 0.0, "id": 2777171014, "level": 2}
+{"count": 294, "name": "Internal balance", "weight": 0.0, "id": 2781030502, "level": 2}
+{"count": 52, "name": "Macmillan Committee", "weight": 0.0, "id": 2778978820, "level": 2}
+{"count": 216, "name": "Tableau \u00e9conomique", "weight": 0.0, "id": 2776240915, "level": 2}
+{"count": 519, "name": "Roaring Twenties", "weight": 0.0, "id": 2778608845, "level": 2}
+{"count": 12908, "name": "Schools of economic thought", "weight": 0.0, "id": 94862452, "level": 2}
+{"count": 113, "name": "Paradox of thrift", "weight": 0.0, "id": 153809348, "level": 2}
+{"count": 107, "name": "Chicago plan", "weight": 0.0, "id": 2776193806, "level": 2}
+{"count": 93, "name": "Volstead Act", "weight": 0.0, "id": 2779371378, "level": 2}
+{"count": 92, "name": "Young Plan", "weight": 0.0, "id": 2781073964, "level": 2}
+{"count": 65, "name": "Historical school of economics", "weight": 0.0, "id": 187741664, "level": 2}
+{"count": 161, "name": "Price revolution", "weight": 0.0, "id": 2779864015, "level": 2}
+{"count": 183, "name": "Dissaving", "weight": 0.0, "id": 184863583, "level": 2}
+{"count": 72, "name": "Stock-Flow consistent model", "weight": 0.0, "id": 2781152594, "level": 2}
+{"count": 45, "name": "Fiscalism", "weight": 0.0, "id": 2776696647, "level": 2}
+{"count": 43, "name": "General glut", "weight": 0.0, "id": 2780224271, "level": 2}
+{"count": 10, "name": "Dishoarding", "weight": 0.0, "id": 2780225782, "level": 2}
+{"count": 19, "name": "Binary economics", "weight": 0.0, "id": 2779634359, "level": 2}
+{"count": 19, "name": "Inflationism", "weight": 0.0, "id": 2777872441, "level": 2}
+{"count": 16, "name": "Quantum economics", "weight": 0.0, "id": 2780814561, "level": 2}
+{"count": 10, "name": "IS/MP model", "weight": 0.0, "id": 2776984317, "level": 2}
+{"count": 42, "name": "Growth recession", "weight": 0.0, "id": 2778421120, "level": 2}
+{"count": 22, "name": "Veil of money", "weight": 0.0, "id": 2780389949, "level": 2}
+{"count": 11, "name": "Swan diagram", "weight": 0.0, "id": 2780442111, "level": 2}
+{"count": 17, "name": "Polak Model", "weight": 0.0, "id": 2779376513, "level": 2}
+{"count": 6, "name": "Real versus nominal value (economics)", "weight": 0.0, "id": 2780688812, "level": 2}
+{"count": 7, "name": "Neo-Ricardianism", "weight": 0.0, "id": 2777369586, "level": 2}
+{"count": 13, "name": "Paradox of flexibility", "weight": 0.0, "id": 2776928685, "level": 2}
+{"count": 3, "name": "Friedman's k-percent rule", "weight": 0.0, "id": 2777176878, "level": 2}
+{"count": 21, "name": "Freigeld", "weight": 0.0, "id": 2778878700, "level": 2}
+{"count": 6, "name": "Inside lag", "weight": 0.0, "id": 2779523566, "level": 2}
+{"count": 9, "name": "Large-scale macroeconometric model", "weight": 0.0, "id": 2780140432, "level": 2}
+{"count": 7, "name": "Monetary-disequilibrium theory", "weight": 0.0, "id": 2779277928, "level": 2}
+{"count": 7, "name": "Fundamental psychological law", "weight": 0.0, "id": 2780980481, "level": 2}
+{"count": 2, "name": "Balances Mechanics", "weight": 0.0, "id": 2778749922, "level": 2}
+{"count": 6, "name": "Outside lag", "weight": 0.0, "id": 2778361221, "level": 2}
+{"count": 11, "name": "Kaleidics", "weight": 0.0, "id": 2776501483, "level": 2}
+{"count": 5, "name": "Price/wage spiral", "weight": 0.0, "id": 2779824189, "level": 2}
+{"count": 4, "name": "Post\u2013World War II economic expansion", "weight": 0.0, "id": 2779913301, "level": 2}
+{"count": 9, "name": "Pacte de Famine", "weight": 0.0, "id": 2776503001, "level": 2}
+{"count": 4, "name": "Bowley's law", "weight": 0.0, "id": 2776359943, "level": 2}
+{"count": 5, "name": "Tripartite Agreement of 1936", "weight": 0.0, "id": 2777138672, "level": 2}
+{"count": 1, "name": "Social and psychological value of money", "weight": 0.0, "id": 2779587539, "level": 2}
+{"count": 2, "name": "Kiyotaki\u2013Moore model", "weight": 0.0, "id": 2780422513, "level": 2}
+{"count": 9, "name": "World currency unit", "weight": 0.0, "id": 2779472617, "level": 2}
+{"count": 5, "name": "Random walk model of consumption", "weight": 0.0, "id": 2776496699, "level": 2}
+{"count": 7, "name": "Indexed unit of account", "weight": 0.0, "id": 2776736746, "level": 2}
+{"count": 59, "name": "Induced consumption", "weight": 0.0, "id": 2780732383, "level": 2}
+{"count": 7, "name": "Rahn curve", "weight": 0.0, "id": 2780563900, "level": 2}
+{"count": 1, "name": "Depression of 1920\u201321", "weight": 0.0, "id": 2779403672, "level": 2}
+{"count": 4, "name": "Mexican oil boom", "weight": 0.0, "id": 2776341295, "level": 2}
+{"count": 6, "name": "Panic of 1930", "weight": 0.0, "id": 2779276311, "level": 2}
+{"count": 1, "name": "Bernanke doctrine", "weight": 0.0, "id": 2776744152, "level": 2}
+{"count": 5, "name": "Secular stagnation theory", "weight": 0.0, "id": 2777327870, "level": 2}
+{"count": 1, "name": "Humphrey\u2013Hawkins Full Employment Act", "weight": 0.0, "id": 2776124461, "level": 2}
+{"count": 3, "name": "Sow's ear effect", "weight": 0.0, "id": 122787161, "level": 2}
+{"count": 1, "name": "Saltwater and freshwater economics", "weight": 0.0, "id": 2781010899, "level": 2}
+{"count": 6, "name": "Rubinomics", "weight": 0.0, "id": 2778586746, "level": 2}
+{"count": 4, "name": "Power theory of economics", "weight": 0.0, "id": 2776713284, "level": 2}
+{"count": 17, "name": "Pushing on a string", "weight": 0.0, "id": 2779322961, "level": 2}
+{"count": 1, "name": "Conference Board Leading Economic Index", "weight": 0.0, "id": 2778885964, "level": 2}
+{"count": 1, "name": "Shoe leather cost", "weight": 0.0, "id": 2779755968, "level": 2}
+{"count": 13, "name": "We are all Keynesians now", "weight": 0.0, "id": 2780199930, "level": 2}
+{"count": 3, "name": "Kuznets swing", "weight": 0.0, "id": 2776355859, "level": 2}
+{"count": 1, "name": "Wicksell's theory of capital", "weight": 0.0, "id": 2779051554, "level": 2}
+{"count": 2, "name": "Centre of Planning and Economic Research", "weight": 0.0, "id": 2777766077, "level": 2}
+{"count": 2, "name": "Magical triangle", "weight": 0.0, "id": 2781367045, "level": 2}
+{"count": 1, "name": "Criticism of debt", "weight": 0.0, "id": 2777235929, "level": 2}
+{"count": 5, "name": "Monetary policy of India", "weight": 0.0, "id": 2780797541, "level": 2}
+{"count": 6, "name": "Multiplier uncertainty", "weight": 0.0, "id": 2780575133, "level": 2}
+{"count": 10, "name": "Structuralist economics", "weight": 0.0, "id": 2776606059, "level": 2}
+{"count": 1, "name": "Criticisms of econometrics", "weight": 0.0, "id": 2778276189, "level": 2}
+{"count": 71, "name": "Labor force in the United States", "weight": 0.0, "id": 2778898477, "level": 2}
+{"count": 5, "name": "The Chicago Plan Revisited", "weight": 0.0, "id": 2780220576, "level": 2}
+{"count": 6, "name": "Built-in inflation", "weight": 0.0, "id": 2776007618, "level": 2}
+{"count": 29, "name": "Carlos Enrique D\u00edaz de Le\u00f3n", "weight": 0.0, "id": 550072180, "level": 2}
+{"count": 1, "name": "Calmfors\u2013Driffill hypothesis", "weight": 0.0, "id": 2780730699, "level": 2}
+{"count": 1, "name": "Disposable and discretionary income", "weight": 0.0, "id": 2781150605, "level": 2}
+{"count": 2, "name": "Lucas aggregate supply function", "weight": 0.0, "id": 2780180638, "level": 2}

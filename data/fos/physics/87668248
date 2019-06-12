@@ -1,0 +1,32 @@
+{"count": 8051, "name": "Minimal Supersymmetric Standard Model", "weight": 7.0, "id": 21265024, "level": 3}
+{"count": 2251, "name": "Superpartner", "weight": 2.0, "id": 112244425, "level": 3}
+{"count": 2094, "name": "Interaction point", "weight": 2.0, "id": 2778453073, "level": 3}
+{"count": 2691, "name": "Proton Synchrotron", "weight": 2.0, "id": 2776691733, "level": 3}
+{"count": 1144, "name": "Large extra dimension", "weight": 1.0, "id": 5242263, "level": 3}
+{"count": 1339, "name": "Compact Muon Solenoid", "weight": 1.0, "id": 2780509222, "level": 3}
+{"count": 2863, "name": "Neutralino", "weight": 2.0, "id": 2778144533, "level": 3}
+{"count": 634, "name": "Super Proton Synchrotron", "weight": 0.0, "id": 2778329856, "level": 3}
+{"count": 10404, "name": "Tevatron", "weight": 10.0, "id": 2780715337, "level": 3}
+{"count": 1932, "name": "Gluino", "weight": 1.0, "id": 2777827051, "level": 3}
+{"count": 1214, "name": "Missing energy", "weight": 1.0, "id": 2779081240, "level": 3}
+{"count": 481, "name": "Underlying event", "weight": 0.0, "id": 2776335133, "level": 3}
+{"count": 2803, "name": "ATLAS experiment", "weight": 2.0, "id": 2777065543, "level": 3}
+{"count": 742, "name": "Transverse mass", "weight": 0.0, "id": 157773166, "level": 3}
+{"count": 2501, "name": "Pseudorapidity", "weight": 2.0, "id": 2781178975, "level": 3}
+{"count": 435, "name": "COMPASS experiment", "weight": 0.0, "id": 2777251814, "level": 3}
+{"count": 75, "name": "String resonance", "weight": 0.0, "id": 21440808, "level": 3}
+{"count": 164, "name": "NA48 experiment", "weight": 0.0, "id": 2779146138, "level": 3}
+{"count": 144, "name": "Roman pot", "weight": 0.0, "id": 2776651326, "level": 3}
+{"count": 296, "name": "Beam crossing", "weight": 0.0, "id": 2777236017, "level": 3}
+{"count": 238, "name": "Future Circular Collider", "weight": 0.0, "id": 2775837300, "level": 3}
+{"count": 317, "name": "NA62 experiment", "weight": 0.0, "id": 2777732469, "level": 3}
+{"count": 41, "name": "Straw tracker", "weight": 0.0, "id": 2780943789, "level": 3}
+{"count": 88, "name": "High Luminosity Large Hadron Collider", "weight": 0.0, "id": 2780818262, "level": 3}
+{"count": 140, "name": "NA49 experiment", "weight": 0.0, "id": 2780063897, "level": 3}
+{"count": 224, "name": "750 GeV diphoton excess", "weight": 0.0, "id": 2779685861, "level": 3}
+{"count": 228, "name": "Hermetic detector", "weight": 0.0, "id": 69258756, "level": 3}
+{"count": 432, "name": "Search for the Higgs boson", "weight": 0.0, "id": 2779911333, "level": 3}
+{"count": 25, "name": "Big European Bubble Chamber", "weight": 0.0, "id": 2778606359, "level": 3}
+{"count": 88, "name": "UA1 experiment", "weight": 0.0, "id": 2777128686, "level": 3}
+{"count": 21, "name": "CERN Courier", "weight": 0.0, "id": 2779766680, "level": 3}
+{"count": 31, "name": "Nuclear interaction length", "weight": 0.0, "id": 2779819111, "level": 3}

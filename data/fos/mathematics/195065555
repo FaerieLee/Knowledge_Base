@@ -1,0 +1,16 @@
+{"count": 9354, "name": "Mean curvature", "weight": 8.0, "id": 175017881, "level": 3}
+{"count": 11492, "name": "Scalar curvature", "weight": 10.0, "id": 12520029, "level": 3}
+{"count": 3314, "name": "Gaussian curvature", "weight": 2.0, "id": 16140857, "level": 3}
+{"count": 2406, "name": "Principal curvature", "weight": 2.0, "id": 16977076, "level": 3}
+{"count": 3057, "name": "Constant curvature", "weight": 2.0, "id": 2779668893, "level": 3}
+{"count": 823, "name": "Degree of curvature", "weight": 0.0, "id": 22942982, "level": 3}
+{"count": 210, "name": "Geodesic curvature", "weight": 0.0, "id": 2778529036, "level": 3}
+{"count": 899, "name": "Frenet\u2013Serret formulas", "weight": 0.0, "id": 162546045, "level": 3}
+{"count": 137, "name": "Euler spiral", "weight": 0.0, "id": 129258928, "level": 3}
+{"count": 490, "name": "Asymptotic curve", "weight": 0.0, "id": 112034827, "level": 3}
+{"count": 143, "name": "Curve-shortening flow", "weight": 0.0, "id": 2777418776, "level": 3}
+{"count": 69, "name": "Menger curvature", "weight": 0.0, "id": 2778423219, "level": 3}
+{"count": 113, "name": "Dubins path", "weight": 0.0, "id": 2781252070, "level": 3}
+{"count": 171, "name": "Tolman length", "weight": 0.0, "id": 2779430196, "level": 3}
+{"count": 21, "name": "Dupin indicatrix", "weight": 0.0, "id": 2777955766, "level": 3}
+{"count": 54, "name": "Kretschmann scalar", "weight": 0.0, "id": 2776478080, "level": 3}

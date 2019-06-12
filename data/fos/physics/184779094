@@ -1,0 +1,195 @@
+{"count": 454283, "name": "Plasma", "weight": 9.0, "id": 82706917, "level": 2}
+{"count": 85674, "name": "Elementary particle", "weight": 1.0, "id": 102999125, "level": 2}
+{"count": 114060, "name": "Electronic structure", "weight": 2.0, "id": 86025842, "level": 2}
+{"count": 492692, "name": "Electron", "weight": 10.0, "id": 147120987, "level": 2}
+{"count": 89602, "name": "Isotope", "weight": 1.0, "id": 164304813, "level": 2}
+{"count": 131096, "name": "Ground state", "weight": 2.0, "id": 69523127, "level": 2}
+{"count": 80226, "name": "Charged particle", "weight": 1.0, "id": 35048267, "level": 2}
+{"count": 256091, "name": "Excited state", "weight": 5.0, "id": 181500209, "level": 2}
+{"count": 378632, "name": "Atom", "weight": 7.0, "id": 181819025, "level": 2}
+{"count": 191344, "name": "Proton", "weight": 3.0, "id": 54516573, "level": 2}
+{"count": 65988, "name": "Electronic band structure", "weight": 1.0, "id": 125469278, "level": 2}
+{"count": 83996, "name": "Nuclear reaction", "weight": 1.0, "id": 206191943, "level": 2}
+{"count": 58244, "name": "Binding energy", "weight": 1.0, "id": 93282013, "level": 2}
+{"count": 71298, "name": "Helium", "weight": 1.0, "id": 546029482, "level": 2}
+{"count": 50763, "name": "Angular momentum", "weight": 1.0, "id": 155675718, "level": 2}
+{"count": 24039, "name": "Beta decay", "weight": 0.0, "id": 46805990, "level": 2}
+{"count": 99238, "name": "Radiative transfer", "weight": 2.0, "id": 74902906, "level": 2}
+{"count": 175297, "name": "Neutron", "weight": 3.0, "id": 152568617, "level": 2}
+{"count": 40571, "name": "Recombination", "weight": 0.0, "id": 156695909, "level": 2}
+{"count": 23270, "name": "Hartree\u2013Fock method", "weight": 0.0, "id": 113630233, "level": 2}
+{"count": 45100, "name": "Charge density", "weight": 0.0, "id": 150708132, "level": 2}
+{"count": 69369, "name": "Deuterium", "weight": 1.0, "id": 58364064, "level": 2}
+{"count": 49888, "name": "Density of states", "weight": 1.0, "id": 53964469, "level": 2}
+{"count": 33726, "name": "Bound state", "weight": 0.0, "id": 174084160, "level": 2}
+{"count": 40196, "name": "Potential energy", "weight": 0.0, "id": 84551667, "level": 2}
+{"count": 35130, "name": "Ab initio quantum chemistry methods", "weight": 0.0, "id": 183971685, "level": 2}
+{"count": 81629, "name": "Argon", "weight": 1.0, "id": 547737533, "level": 2}
+{"count": 61205, "name": "Wave function", "weight": 1.0, "id": 113603373, "level": 2}
+{"count": 33329, "name": "Space charge", "weight": 0.0, "id": 103132145, "level": 2}
+{"count": 59351, "name": "Exciton", "weight": 1.0, "id": 17729963, "level": 2}
+{"count": 65339, "name": "Nucleon", "weight": 1.0, "id": 172695262, "level": 2}
+{"count": 23592, "name": "Particle acceleration", "weight": 0.0, "id": 75183268, "level": 2}
+{"count": 10460, "name": "Valence band", "weight": 0.0, "id": 103272658, "level": 2}
+{"count": 18300, "name": "Electronic correlation", "weight": 0.0, "id": 35052450, "level": 2}
+{"count": 24196, "name": "Noble gas", "weight": 0.0, "id": 121530826, "level": 2}
+{"count": 25433, "name": "Effective mass (solid-state physics)", "weight": 0.0, "id": 24089560, "level": 2}
+{"count": 21857, "name": "Momentum transfer", "weight": 0.0, "id": 76494280, "level": 2}
+{"count": 7866, "name": "Half-life", "weight": 0.0, "id": 3941253, "level": 2}
+{"count": 17340, "name": "Tight binding", "weight": 0.0, "id": 182063899, "level": 2}
+{"count": 35426, "name": "Electric charge", "weight": 0.0, "id": 40937832, "level": 2}
+{"count": 23970, "name": "Potential energy surface", "weight": 0.0, "id": 125277925, "level": 2}
+{"count": 28679, "name": "Work function", "weight": 0.0, "id": 115235246, "level": 2}
+{"count": 13781, "name": "Mean free path", "weight": 0.0, "id": 168986899, "level": 2}
+{"count": 14235, "name": "Surface reconstruction", "weight": 0.0, "id": 20885615, "level": 2}
+{"count": 47854, "name": "Hyperfine structure", "weight": 0.0, "id": 131538251, "level": 2}
+{"count": 50044, "name": "Pion", "weight": 1.0, "id": 206094082, "level": 2}
+{"count": 24185, "name": "Auger electron spectroscopy", "weight": 0.0, "id": 25442681, "level": 2}
+{"count": 18416, "name": "Nuclear structure", "weight": 0.0, "id": 67327403, "level": 2}
+{"count": 15203, "name": "SHELL model", "weight": 0.0, "id": 2777227988, "level": 2}
+{"count": 34518, "name": "Fermi level", "weight": 0.0, "id": 40636707, "level": 2}
+{"count": 11006, "name": "Jahn\u2013Teller effect", "weight": 0.0, "id": 83981384, "level": 2}
+{"count": 21444, "name": "Alpha particle", "weight": 0.0, "id": 66385817, "level": 2}
+{"count": 29998, "name": "Xenon", "weight": 0.0, "id": 548442186, "level": 2}
+{"count": 51547, "name": "Metastability", "weight": 1.0, "id": 89464430, "level": 2}
+{"count": 21520, "name": "Neon", "weight": 0.0, "id": 522602180, "level": 2}
+{"count": 14660, "name": "Nuclear matter", "weight": 0.0, "id": 165410206, "level": 2}
+{"count": 9829, "name": "Relativistic quantum chemistry", "weight": 0.0, "id": 81263218, "level": 2}
+{"count": 23301, "name": "Fission", "weight": 0.0, "id": 12294094, "level": 2}
+{"count": 26541, "name": "Annihilation", "weight": 0.0, "id": 201941533, "level": 2}
+{"count": 11456, "name": "Electron energy loss spectroscopy", "weight": 0.0, "id": 178187954, "level": 2}
+{"count": 20071, "name": "Cyclotron", "weight": 0.0, "id": 39527238, "level": 2}
+{"count": 8175, "name": "Random phase approximation", "weight": 0.0, "id": 138309006, "level": 2}
+{"count": 16503, "name": "Surface states", "weight": 0.0, "id": 79689650, "level": 2}
+{"count": 8170, "name": "Coupled cluster", "weight": 0.0, "id": 19637589, "level": 2}
+{"count": 12992, "name": "Pair production", "weight": 0.0, "id": 47085818, "level": 2}
+{"count": 12522, "name": "Stark effect", "weight": 0.0, "id": 50126897, "level": 2}
+{"count": 5744, "name": "Helium-4", "weight": 0.0, "id": 15522680, "level": 2}
+{"count": 14230, "name": "Isospin", "weight": 0.0, "id": 190284468, "level": 2}
+{"count": 39864, "name": "Vacancy defect", "weight": 0.0, "id": 114221277, "level": 2}
+{"count": 23692, "name": "Polarizability", "weight": 0.0, "id": 139287275, "level": 2}
+{"count": 5222, "name": "Threshold energy", "weight": 0.0, "id": 49765965, "level": 2}
+{"count": 14518, "name": "Q value", "weight": 0.0, "id": 2779142801, "level": 2}
+{"count": 3493, "name": "Born\u2013Oppenheimer approximation", "weight": 0.0, "id": 36556920, "level": 2}
+{"count": 663, "name": "Astatine", "weight": 0.0, "id": 531082785, "level": 2}
+{"count": 14613, "name": "Quantum number", "weight": 0.0, "id": 174038435, "level": 2}
+{"count": 6171, "name": "Electromagnetically induced transparency", "weight": 0.0, "id": 131935069, "level": 2}
+{"count": 10981, "name": "Pseudopotential", "weight": 0.0, "id": 132378524, "level": 2}
+{"count": 14306, "name": "Molecular beam", "weight": 0.0, "id": 54419926, "level": 2}
+{"count": 5482, "name": "Valence bond theory", "weight": 0.0, "id": 178429038, "level": 2}
+{"count": 9159, "name": "Radioactive decay", "weight": 0.0, "id": 20381300, "level": 2}
+{"count": 6820, "name": "Energy level", "weight": 0.0, "id": 170628024, "level": 2}
+{"count": 3556, "name": "Antimatter", "weight": 0.0, "id": 110916831, "level": 2}
+{"count": 10740, "name": "Interaction energy", "weight": 0.0, "id": 22499117, "level": 2}
+{"count": 2626, "name": "Fine-structure constant", "weight": 0.0, "id": 30539742, "level": 2}
+{"count": 9333, "name": "Rectangular potential barrier", "weight": 0.0, "id": 201966971, "level": 2}
+{"count": 8008, "name": "Oscillator strength", "weight": 0.0, "id": 99191460, "level": 2}
+{"count": 1155, "name": "Many-body theory", "weight": 0.0, "id": 24355240, "level": 2}
+{"count": 9257, "name": "Atomic electron transition", "weight": 0.0, "id": 19329426, "level": 2}
+{"count": 10669, "name": "Thermionic emission", "weight": 0.0, "id": 143979616, "level": 2}
+{"count": 4059, "name": "Local density of states", "weight": 0.0, "id": 2778205538, "level": 2}
+{"count": 13250, "name": "Liquid helium", "weight": 0.0, "id": 1855228, "level": 2}
+{"count": 6482, "name": "Relativistic particle", "weight": 0.0, "id": 168997771, "level": 2}
+{"count": 3916, "name": "Thermalisation", "weight": 0.0, "id": 15359245, "level": 2}
+{"count": 5404, "name": "Impact parameter", "weight": 0.0, "id": 90167683, "level": 2}
+{"count": 3116, "name": "Morse potential", "weight": 0.0, "id": 2775961149, "level": 2}
+{"count": 5039, "name": "Alpha decay", "weight": 0.0, "id": 141752856, "level": 2}
+{"count": 3956, "name": "Relativistic Heavy Ion Collider", "weight": 0.0, "id": 2780765408, "level": 2}
+{"count": 33885, "name": "Quadrupole", "weight": 0.0, "id": 39984356, "level": 2}
+{"count": 2595, "name": "Lamb shift", "weight": 0.0, "id": 125456799, "level": 2}
+{"count": 11004, "name": "Angle-resolved photoemission spectroscopy", "weight": 0.0, "id": 156390739, "level": 2}
+{"count": 27826, "name": "Atomic orbital", "weight": 0.0, "id": 189394030, "level": 2}
+{"count": 7015, "name": "Multiplet", "weight": 0.0, "id": 133871045, "level": 2}
+{"count": 13633, "name": "Auger", "weight": 0.0, "id": 2780646311, "level": 2}
+{"count": 3751, "name": "Mass number", "weight": 0.0, "id": 75812238, "level": 2}
+{"count": 12968, "name": "Fermi energy", "weight": 0.0, "id": 26057338, "level": 2}
+{"count": 3339, "name": "Rotational temperature", "weight": 0.0, "id": 16951817, "level": 2}
+{"count": 6933, "name": "Bohr model", "weight": 0.0, "id": 68030841, "level": 2}
+{"count": 4008, "name": "Atomic nucleus", "weight": 0.0, "id": 127774322, "level": 2}
+{"count": 1665, "name": "Mass formula", "weight": 0.0, "id": 15580451, "level": 2}
+{"count": 29982, "name": "Coulomb", "weight": 0.0, "id": 9342510, "level": 2}
+{"count": 994, "name": "Actinium", "weight": 0.0, "id": 556978478, "level": 2}
+{"count": 6354, "name": "Electron configuration", "weight": 0.0, "id": 27799899, "level": 2}
+{"count": 19431, "name": "Semiclassical physics", "weight": 0.0, "id": 535169671, "level": 2}
+{"count": 5712, "name": "Principal quantum number", "weight": 0.0, "id": 104240894, "level": 2}
+{"count": 2399, "name": "Monatomic gas", "weight": 0.0, "id": 46844702, "level": 2}
+{"count": 1103, "name": "Cold fusion", "weight": 0.0, "id": 137418554, "level": 2}
+{"count": 657, "name": "Einstein coefficients", "weight": 0.0, "id": 182805472, "level": 2}
+{"count": 15085, "name": "Electric discharge in gases", "weight": 0.0, "id": 30254895, "level": 2}
+{"count": 2008, "name": "Nuclear emulsion", "weight": 0.0, "id": 2777505555, "level": 2}
+{"count": 21074, "name": "Basis set", "weight": 0.0, "id": 65956243, "level": 2}
+{"count": 4210, "name": "Antibonding molecular orbital", "weight": 0.0, "id": 95269574, "level": 2}
+{"count": 666, "name": "Promethium", "weight": 0.0, "id": 541321278, "level": 2}
+{"count": 2513, "name": "Elastic collision", "weight": 0.0, "id": 52560446, "level": 2}
+{"count": 15449, "name": "Recoil", "weight": 0.0, "id": 2776668124, "level": 2}
+{"count": 5577, "name": "Rotational energy", "weight": 0.0, "id": 169146920, "level": 2}
+{"count": 3894, "name": "Oblate spheroid", "weight": 0.0, "id": 30695634, "level": 2}
+{"count": 4897, "name": "Open shell", "weight": 0.0, "id": 37649677, "level": 2}
+{"count": 3633, "name": "Reaction dynamics", "weight": 0.0, "id": 37798101, "level": 2}
+{"count": 657, "name": "Cornell Electron Storage Ring", "weight": 0.0, "id": 2779673619, "level": 2}
+{"count": 1667, "name": "Cloud chamber", "weight": 0.0, "id": 108036090, "level": 2}
+{"count": 3939, "name": "Townsend", "weight": 0.0, "id": 2780549954, "level": 2}
+{"count": 2863, "name": "Bubble chamber", "weight": 0.0, "id": 35785392, "level": 2}
+{"count": 1707, "name": "Spectral hole burning", "weight": 0.0, "id": 2776369808, "level": 2}
+{"count": 3430, "name": "Screening effect", "weight": 0.0, "id": 125801514, "level": 2}
+{"count": 8054, "name": "Level structure", "weight": 0.0, "id": 181888306, "level": 2}
+{"count": 542, "name": "Transactinide element", "weight": 0.0, "id": 12051729, "level": 2}
+{"count": 2156, "name": "Glauber", "weight": 0.0, "id": 2780708879, "level": 2}
+{"count": 2564, "name": "Characteristic energy", "weight": 0.0, "id": 184077307, "level": 2}
+{"count": 1046, "name": "Surface science", "weight": 0.0, "id": 139378739, "level": 2}
+{"count": 2609, "name": "Elementary charge", "weight": 0.0, "id": 101879516, "level": 2}
+{"count": 3106, "name": "Partial charge", "weight": 0.0, "id": 12892243, "level": 2}
+{"count": 623, "name": "Mean kinetic temperature", "weight": 0.0, "id": 92195417, "level": 2}
+{"count": 2379, "name": "Dark state", "weight": 0.0, "id": 131918908, "level": 2}
+{"count": 1584, "name": "Decay chain", "weight": 0.0, "id": 35826630, "level": 2}
+{"count": 1013, "name": "Collision theory", "weight": 0.0, "id": 74134386, "level": 2}
+{"count": 2131, "name": "Vacuum level", "weight": 0.0, "id": 153688788, "level": 2}
+{"count": 3119, "name": "K-edge", "weight": 0.0, "id": 2780852000, "level": 2}
+{"count": 2801, "name": "Van de Graaff generator", "weight": 0.0, "id": 189778682, "level": 2}
+{"count": 1699, "name": "Orbital overlap", "weight": 0.0, "id": 7878110, "level": 2}
+{"count": 844, "name": "Nuclear orientation", "weight": 0.0, "id": 2779912976, "level": 2}
+{"count": 606, "name": "S-factor", "weight": 0.0, "id": 2778965516, "level": 2}
+{"count": 1019, "name": "Absolute scale", "weight": 0.0, "id": 2779265950, "level": 2}
+{"count": 514, "name": "Virtual state", "weight": 0.0, "id": 2780337309, "level": 2}
+{"count": 822, "name": "Method of image charges", "weight": 0.0, "id": 145073311, "level": 2}
+{"count": 15431, "name": "Torr", "weight": 0.0, "id": 30646810, "level": 2}
+{"count": 3612, "name": "Hartree", "weight": 0.0, "id": 145196801, "level": 2}
+{"count": 389, "name": "Trapping region", "weight": 0.0, "id": 2779154198, "level": 2}
+{"count": 4758, "name": "Homonuclear molecule", "weight": 0.0, "id": 40447573, "level": 2}
+{"count": 372, "name": "Rotational\u2013vibrational coupling", "weight": 0.0, "id": 71515424, "level": 2}
+{"count": 1238, "name": "Reduced mass", "weight": 0.0, "id": 26582661, "level": 2}
+{"count": 476, "name": "Superdeformation", "weight": 0.0, "id": 2775860635, "level": 2}
+{"count": 258, "name": "Characteristic X-ray", "weight": 0.0, "id": 18174049, "level": 2}
+{"count": 54, "name": "Hyperdeformation", "weight": 0.0, "id": 2776865908, "level": 2}
+{"count": 425, "name": "Isotone", "weight": 0.0, "id": 10562378, "level": 2}
+{"count": 471, "name": "Exchange force", "weight": 0.0, "id": 28085128, "level": 2}
+{"count": 250, "name": "Dynamitron", "weight": 0.0, "id": 103359713, "level": 2}
+{"count": 72, "name": "K-hole", "weight": 0.0, "id": 2780310254, "level": 2}
+{"count": 874, "name": "Ice Ih", "weight": 0.0, "id": 2779529193, "level": 2}
+{"count": 99, "name": "Atomtronics", "weight": 0.0, "id": 35688756, "level": 2}
+{"count": 306, "name": "Ice VII", "weight": 0.0, "id": 2778871019, "level": 2}
+{"count": 184, "name": "LiHe", "weight": 0.0, "id": 2777075055, "level": 2}
+{"count": 217, "name": "Electrostatic units", "weight": 0.0, "id": 35024251, "level": 2}
+{"count": 29, "name": "Thomas\u2013Fermi screening", "weight": 0.0, "id": 2780349822, "level": 2}
+{"count": 3439, "name": "Monatomic ion", "weight": 0.0, "id": 152149077, "level": 2}
+{"count": 168, "name": "Ethynyl radical", "weight": 0.0, "id": 2780749648, "level": 2}
+{"count": 178, "name": "Ice II", "weight": 0.0, "id": 2778129361, "level": 2}
+{"count": 49, "name": "Flerovium", "weight": 0.0, "id": 509369119, "level": 2}
+{"count": 306, "name": "Jacobi coordinates", "weight": 0.0, "id": 2780864316, "level": 2}
+{"count": 58, "name": "Sommerfeld parameter", "weight": 0.0, "id": 2780817636, "level": 2}
+{"count": 33, "name": "Spectroscopic notation", "weight": 0.0, "id": 2779160154, "level": 2}
+{"count": 22, "name": "Moseley's law", "weight": 0.0, "id": 2778342587, "level": 2}
+{"count": 194, "name": "Helion", "weight": 0.0, "id": 2777649298, "level": 2}
+{"count": 14, "name": "Orgel diagram", "weight": 0.0, "id": 56975677, "level": 2}
+{"count": 65, "name": "Maximon", "weight": 0.0, "id": 2780106137, "level": 2}
+{"count": 432, "name": "Monofluoride", "weight": 0.0, "id": 2778670213, "level": 2}
+{"count": 271, "name": "p-Nuclei", "weight": 0.0, "id": 201417331, "level": 2}
+{"count": 9, "name": "Beryllium monohydride", "weight": 0.0, "id": 2780623915, "level": 2}
+{"count": 313, "name": "Accepted and experimental value", "weight": 0.0, "id": 131893203, "level": 2}
+{"count": 10, "name": "Helium hydride ion", "weight": 0.0, "id": 2779656288, "level": 2}
+{"count": 25, "name": "Platinum hexafluoride", "weight": 0.0, "id": 2781065020, "level": 2}
+{"count": 23, "name": "Atomic Data and Nuclear Data Tables", "weight": 0.0, "id": 2776612361, "level": 2}
+{"count": 7, "name": "Morse/Long-range potential", "weight": 0.0, "id": 2779951153, "level": 2}
+{"count": 232, "name": "process.h", "weight": 0.0, "id": 2777142951, "level": 2}
+{"count": 18, "name": "Restricted shell", "weight": 0.0, "id": 2780217622, "level": 2}
+{"count": 6, "name": "Heavy Rydberg system", "weight": 0.0, "id": 2776749891, "level": 2}

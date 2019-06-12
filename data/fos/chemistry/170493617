@@ -1,0 +1,200 @@
+{"count": 68456, "name": "Ligand (biochemistry)", "weight": 5.0, "id": 116569031, "level": 3}
+{"count": 28457, "name": "G protein", "weight": 2.0, "id": 80631254, "level": 3}
+{"count": 27813, "name": "Cell surface receptor", "weight": 2.0, "id": 197462201, "level": 3}
+{"count": 116063, "name": "Agonist", "weight": 10.0, "id": 2778938600, "level": 3}
+{"count": 26782, "name": "G protein-coupled receptor", "weight": 2.0, "id": 135285700, "level": 3}
+{"count": 22013, "name": "Nuclear receptor", "weight": 1.0, "id": 63932345, "level": 3}
+{"count": 19843, "name": "Acetylcholine receptor", "weight": 1.0, "id": 80161118, "level": 3}
+{"count": 20975, "name": "Peroxisome proliferator-activated receptor", "weight": 1.0, "id": 187345961, "level": 3}
+{"count": 20354, "name": "5-HT receptor", "weight": 1.0, "id": 53910766, "level": 3}
+{"count": 17989, "name": "Toll-like receptor", "weight": 1.0, "id": 2776709828, "level": 3}
+{"count": 23230, "name": "GABAA receptor", "weight": 2.0, "id": 168258287, "level": 3}
+{"count": 9549, "name": "Opioid peptide", "weight": 0.0, "id": 88016717, "level": 3}
+{"count": 12138, "name": "Cannabinoid receptor", "weight": 1.0, "id": 148001335, "level": 3}
+{"count": 15465, "name": "Dopamine receptor D2", "weight": 1.0, "id": 44208683, "level": 3}
+{"count": 5644, "name": "Inositol phosphate", "weight": 0.0, "id": 2778618036, "level": 3}
+{"count": 12131, "name": "Adenosine receptor", "weight": 1.0, "id": 67907053, "level": 3}
+{"count": 11807, "name": "Cannabinoid", "weight": 1.0, "id": 2780871563, "level": 3}
+{"count": 8002, "name": "Adenylyl cyclase", "weight": 0.0, "id": 2779178603, "level": 3}
+{"count": 7335, "name": "Signal transducing adaptor protein", "weight": 0.0, "id": 183786373, "level": 3}
+{"count": 3064, "name": "Tumor necrosis factor receptor", "weight": 0.0, "id": 93880895, "level": 3}
+{"count": 6084, "name": "Fc receptor", "weight": 0.0, "id": 2779931124, "level": 3}
+{"count": 12980, "name": "Hormone receptor", "weight": 1.0, "id": 23589133, "level": 3}
+{"count": 8897, "name": "Purinergic receptor", "weight": 0.0, "id": 57306754, "level": 3}
+{"count": 8781, "name": "Enkephalin", "weight": 0.0, "id": 2777803847, "level": 3}
+{"count": 3956, "name": "Sphingosine-1-phosphate", "weight": 0.0, "id": 2776596873, "level": 3}
+{"count": 5355, "name": "Somatostatin receptor", "weight": 0.0, "id": 80115893, "level": 3}
+{"count": 4621, "name": "Olfactory receptor", "weight": 0.0, "id": 2779980732, "level": 3}
+{"count": 4520, "name": "Lysophosphatidic acid", "weight": 0.0, "id": 2776661833, "level": 3}
+{"count": 3802, "name": "Scatchard plot", "weight": 0.0, "id": 19052677, "level": 3}
+{"count": 3026, "name": "Ligand-gated ion channel", "weight": 0.0, "id": 82617044, "level": 3}
+{"count": 4432, "name": "Bombesin", "weight": 0.0, "id": 2778448772, "level": 3}
+{"count": 25075, "name": "Nicotinic agonist", "weight": 2.0, "id": 188987157, "level": 3}
+{"count": 2233, "name": "Prostanoid", "weight": 0.0, "id": 2778266237, "level": 3}
+{"count": 2288, "name": "Neuregulin", "weight": 0.0, "id": 185323287, "level": 3}
+{"count": 3441, "name": "Growth hormone receptor", "weight": 0.0, "id": 113675107, "level": 3}
+{"count": 6672, "name": "TRPV1", "weight": 0.0, "id": 160145004, "level": 3}
+{"count": 1000, "name": "Melanin-concentrating hormone", "weight": 0.0, "id": 2776632733, "level": 3}
+{"count": 11263, "name": "Toll", "weight": 0.0, "id": 2778025104, "level": 3}
+{"count": 985, "name": "Binding potential", "weight": 0.0, "id": 60592354, "level": 3}
+{"count": 1652, "name": "Mannose receptor", "weight": 0.0, "id": 2776205754, "level": 3}
+{"count": 2644, "name": "Semaphorin", "weight": 0.0, "id": 132538176, "level": 3}
+{"count": 1531, "name": "Mannose 6-phosphate receptor", "weight": 0.0, "id": 120694314, "level": 3}
+{"count": 927, "name": "Mannose 6-phosphate", "weight": 0.0, "id": 2778822930, "level": 3}
+{"count": 1205, "name": "Pituitary adenylate cyclase-activating peptide", "weight": 0.0, "id": 2779496938, "level": 3}
+{"count": 5848, "name": "Receptor-mediated endocytosis", "weight": 0.0, "id": 117943116, "level": 3}
+{"count": 2335, "name": "Neurokinin A", "weight": 0.0, "id": 2777056410, "level": 3}
+{"count": 2356, "name": "Ephrin", "weight": 0.0, "id": 170286479, "level": 3}
+{"count": 3821, "name": "Tropomyosin receptor kinase A", "weight": 0.0, "id": 171034665, "level": 3}
+{"count": 1220, "name": "Sigma receptor", "weight": 0.0, "id": 2777052854, "level": 3}
+{"count": 4057, "name": "Urokinase receptor", "weight": 0.0, "id": 56219504, "level": 3}
+{"count": 4053, "name": "Histamine receptor", "weight": 0.0, "id": 159545944, "level": 3}
+{"count": 2566, "name": "Glycoprotein 130", "weight": 0.0, "id": 126037660, "level": 3}
+{"count": 30661, "name": "Receptor antagonist", "weight": 2.0, "id": 2778122271, "level": 3}
+{"count": 1717, "name": "Tachykinin receptor", "weight": 0.0, "id": 55938493, "level": 3}
+{"count": 990, "name": "Janus kinase 1", "weight": 0.0, "id": 154390347, "level": 3}
+{"count": 3860, "name": "Neurotransmitter receptor", "weight": 0.0, "id": 156927020, "level": 3}
+{"count": 2677, "name": "Histamine H3 receptor", "weight": 0.0, "id": 63180777, "level": 3}
+{"count": 1493, "name": "Urocortin", "weight": 0.0, "id": 2777688879, "level": 3}
+{"count": 1696, "name": "Asialoglycoprotein receptor", "weight": 0.0, "id": 11569505, "level": 3}
+{"count": 2734, "name": "Immunoglobulin superfamily", "weight": 0.0, "id": 91682701, "level": 3}
+{"count": 481, "name": "Immunophilins", "weight": 0.0, "id": 2778070229, "level": 3}
+{"count": 2033, "name": "C-type lectin", "weight": 0.0, "id": 106257327, "level": 3}
+{"count": 2465, "name": "Photoaffinity labeling", "weight": 0.0, "id": 2778581200, "level": 3}
+{"count": 1893, "name": "Interleukin-6 receptor", "weight": 0.0, "id": 200155923, "level": 3}
+{"count": 9353, "name": "Ligand binding assay", "weight": 0.0, "id": 85196483, "level": 3}
+{"count": 818, "name": "Formyl peptide receptor", "weight": 0.0, "id": 2776731609, "level": 3}
+{"count": 2249, "name": "Cytokine receptor", "weight": 0.0, "id": 2775855021, "level": 3}
+{"count": 2932, "name": "Melanocortin", "weight": 0.0, "id": 2779993316, "level": 3}
+{"count": 1074, "name": "Interleukin-1 receptor", "weight": 0.0, "id": 2777977768, "level": 3}
+{"count": 2655, "name": "Vasopressin receptor", "weight": 0.0, "id": 90474776, "level": 3}
+{"count": 3403, "name": "Erythropoietin-producing hepatocellular (Eph) receptor", "weight": 0.0, "id": 19331615, "level": 3}
+{"count": 1657, "name": "Melatonin receptor", "weight": 0.0, "id": 2781269140, "level": 3}
+{"count": 8442, "name": "Radioligand", "weight": 0.0, "id": 67847695, "level": 3}
+{"count": 469, "name": "Nerve growth factor receptor", "weight": 0.0, "id": 50296746, "level": 3}
+{"count": 1846, "name": "Bradykinin receptor", "weight": 0.0, "id": 153939273, "level": 3}
+{"count": 1015, "name": "Ifenprodil", "weight": 0.0, "id": 2780376555, "level": 3}
+{"count": 1705, "name": "Cholecystokinin receptor", "weight": 0.0, "id": 32110497, "level": 3}
+{"count": 606, "name": "Killer-cell immunoglobulin-like receptor", "weight": 0.0, "id": 2779701145, "level": 3}
+{"count": 3007, "name": "Glucagon-like peptide 1 receptor", "weight": 0.0, "id": 185280430, "level": 3}
+{"count": 1076, "name": "Tachykinin receptor 1", "weight": 0.0, "id": 137130169, "level": 3}
+{"count": 2927, "name": "Taste receptor", "weight": 0.0, "id": 178006227, "level": 3}
+{"count": 2146, "name": "Inositol trisphosphate receptor", "weight": 0.0, "id": 152624196, "level": 3}
+{"count": 433, "name": "Neuropeptide FF", "weight": 0.0, "id": 2778093102, "level": 3}
+{"count": 1535, "name": "Calcitonin receptor", "weight": 0.0, "id": 92316933, "level": 3}
+{"count": 635, "name": "Dihydroalprenolol", "weight": 0.0, "id": 2778438532, "level": 3}
+{"count": 842, "name": "Sigma-1 receptor", "weight": 0.0, "id": 103133801, "level": 3}
+{"count": 770, "name": "Melanocortin 1 receptor", "weight": 0.0, "id": 182843373, "level": 3}
+{"count": 815, "name": "ERBB4", "weight": 0.0, "id": 2780943970, "level": 3}
+{"count": 914, "name": "Activin receptor", "weight": 0.0, "id": 2778649528, "level": 3}
+{"count": 484, "name": "Beta-2 adrenergic receptor", "weight": 0.0, "id": 2780753645, "level": 3}
+{"count": 813, "name": "Co-receptor", "weight": 0.0, "id": 125590012, "level": 3}
+{"count": 1792, "name": "Arginine vasopressin receptor 2", "weight": 0.0, "id": 20352681, "level": 3}
+{"count": 586, "name": "Corticotropin-releasing hormone receptor 1", "weight": 0.0, "id": 7648986, "level": 3}
+{"count": 825, "name": "SIGLEC", "weight": 0.0, "id": 2778017598, "level": 3}
+{"count": 445, "name": "CD64", "weight": 0.0, "id": 2776447464, "level": 3}
+{"count": 815, "name": "C5a receptor", "weight": 0.0, "id": 2779499704, "level": 3}
+{"count": 420, "name": "Physalaemin", "weight": 0.0, "id": 2777035709, "level": 3}
+{"count": 386, "name": "Uroguanylin", "weight": 0.0, "id": 2777969504, "level": 3}
+{"count": 3239, "name": "Ionotropic effect", "weight": 0.0, "id": 115955781, "level": 3}
+{"count": 388, "name": "Neuromedin U", "weight": 0.0, "id": 2778909731, "level": 3}
+{"count": 533, "name": "Platelet-activating factor receptor", "weight": 0.0, "id": 2780955469, "level": 3}
+{"count": 757, "name": "Intracrine", "weight": 0.0, "id": 63263939, "level": 3}
+{"count": 909, "name": "Peroxisomal targeting signal", "weight": 0.0, "id": 205668238, "level": 3}
+{"count": 246, "name": "Latrotoxin", "weight": 0.0, "id": 171395682, "level": 3}
+{"count": 296, "name": "Neuropeptide S", "weight": 0.0, "id": 2780170040, "level": 3}
+{"count": 211, "name": "Peptide T", "weight": 0.0, "id": 2776551287, "level": 3}
+{"count": 229, "name": "Hormonal imprinting", "weight": 0.0, "id": 2776766939, "level": 3}
+{"count": 4368, "name": "Ectodomain", "weight": 0.0, "id": 1009742, "level": 3}
+{"count": 129, "name": "IRAK1", "weight": 0.0, "id": 2777048366, "level": 3}
+{"count": 326, "name": "Sialoadhesin", "weight": 0.0, "id": 2780251316, "level": 3}
+{"count": 103, "name": "Neuropeptide receptor", "weight": 0.0, "id": 2780755818, "level": 3}
+{"count": 202, "name": "Membrane-associated guanylate kinase", "weight": 0.0, "id": 141200245, "level": 3}
+{"count": 208, "name": "TGF beta receptors", "weight": 0.0, "id": 23732137, "level": 3}
+{"count": 296, "name": "Trace amine", "weight": 0.0, "id": 2777099321, "level": 3}
+{"count": 464, "name": "CD32", "weight": 0.0, "id": 2781050680, "level": 3}
+{"count": 194, "name": "Carazolol", "weight": 0.0, "id": 2781291397, "level": 3}
+{"count": 207, "name": "Receptor for activated C kinase 1", "weight": 0.0, "id": 2777302399, "level": 3}
+{"count": 365, "name": "TRAF3", "weight": 0.0, "id": 2778607703, "level": 3}
+{"count": 298, "name": "Trace amine-associated receptor", "weight": 0.0, "id": 37819862, "level": 3}
+{"count": 217, "name": "Relaxin-3", "weight": 0.0, "id": 2778575881, "level": 3}
+{"count": 196, "name": "Kinetic proofreading", "weight": 0.0, "id": 127002275, "level": 3}
+{"count": 3840, "name": "Immune receptor", "weight": 0.0, "id": 103474210, "level": 3}
+{"count": 450, "name": "Decoy receptors", "weight": 0.0, "id": 2777892063, "level": 3}
+{"count": 301, "name": "Disuccinimidyl suberate", "weight": 0.0, "id": 2779452099, "level": 3}
+{"count": 687, "name": "GPR119", "weight": 0.0, "id": 109838722, "level": 3}
+{"count": 531, "name": "Relaxin/insulin-like family peptide receptor 2", "weight": 0.0, "id": 34813516, "level": 3}
+{"count": 171, "name": "5-HT2B receptor", "weight": 0.0, "id": 2781061528, "level": 3}
+{"count": 15, "name": "GR-113808", "weight": 0.0, "id": 2777850815, "level": 3}
+{"count": 918, "name": "Cholecystokinin B receptor", "weight": 0.0, "id": 107539642, "level": 3}
+{"count": 249, "name": "Dihydroergocryptine", "weight": 0.0, "id": 2779106056, "level": 3}
+{"count": 165, "name": "Bombykol", "weight": 0.0, "id": 2778807559, "level": 3}
+{"count": 362, "name": "Prokineticin", "weight": 0.0, "id": 2778168826, "level": 3}
+{"count": 139, "name": "Phytosulfokine", "weight": 0.0, "id": 2779935956, "level": 3}
+{"count": 489, "name": "Prostaglandin E receptor 3", "weight": 0.0, "id": 192679888, "level": 3}
+{"count": 374, "name": "CD48", "weight": 0.0, "id": 2775971310, "level": 3}
+{"count": 686, "name": "Granulocyte colony-stimulating factor receptor", "weight": 0.0, "id": 14942488, "level": 3}
+{"count": 143, "name": "Interleukin receptor", "weight": 0.0, "id": 2777614130, "level": 3}
+{"count": 542, "name": "Intracellular receptor", "weight": 0.0, "id": 2781276924, "level": 3}
+{"count": 204, "name": "Sigma-2 receptor", "weight": 0.0, "id": 2780373117, "level": 3}
+{"count": 455, "name": "Relaxin receptor", "weight": 0.0, "id": 83852263, "level": 3}
+{"count": 5055, "name": "Interleukin-21 receptor", "weight": 0.0, "id": 116016267, "level": 3}
+{"count": 167, "name": "Chemogenetics", "weight": 0.0, "id": 2778657649, "level": 3}
+{"count": 33, "name": "Virokine", "weight": 0.0, "id": 2781109070, "level": 3}
+{"count": 29, "name": "Ditolylguanidine", "weight": 0.0, "id": 2780835509, "level": 3}
+{"count": 468, "name": "Discoidin domain", "weight": 0.0, "id": 2776305115, "level": 3}
+{"count": 335, "name": "TIGIT", "weight": 0.0, "id": 2779118045, "level": 3}
+{"count": 325, "name": "LRP2", "weight": 0.0, "id": 85798690, "level": 3}
+{"count": 205, "name": "Pyrabactin", "weight": 0.0, "id": 2780573496, "level": 3}
+{"count": 39, "name": "Eudysmic ratio", "weight": 0.0, "id": 144654837, "level": 3}
+{"count": 28, "name": "Receptorome", "weight": 0.0, "id": 2780433237, "level": 3}
+{"count": 244, "name": "Vasoactive intestinal peptide receptor", "weight": 0.0, "id": 2777132320, "level": 3}
+{"count": 283, "name": "KIR2DL4", "weight": 0.0, "id": 2781443696, "level": 3}
+{"count": 169, "name": "Signaling lymphocytic activation molecule", "weight": 0.0, "id": 2778350374, "level": 3}
+{"count": 228, "name": "Pyr1", "weight": 0.0, "id": 2776185575, "level": 3}
+{"count": 100, "name": "Conantokins", "weight": 0.0, "id": 2779452906, "level": 3}
+{"count": 1197, "name": "Homomeric", "weight": 0.0, "id": 2776104367, "level": 3}
+{"count": 63, "name": "Non-competitive antagonist", "weight": 0.0, "id": 2777371597, "level": 3}
+{"count": 2288, "name": "Fragment crystallizable region", "weight": 0.0, "id": 125823703, "level": 3}
+{"count": 122, "name": "QRFP", "weight": 0.0, "id": 2780894561, "level": 3}
+{"count": 49, "name": "Testicular receptor", "weight": 0.0, "id": 2780908993, "level": 3}
+{"count": 882, "name": "ACVR2B", "weight": 0.0, "id": 22517002, "level": 3}
+{"count": 2628, "name": "Upstream and downstream (transduction)", "weight": 0.0, "id": 18411471, "level": 3}
+{"count": 442, "name": "KIR2DL1", "weight": 0.0, "id": 2776841233, "level": 3}
+{"count": 38, "name": "Traxoprodil", "weight": 0.0, "id": 2780351114, "level": 3}
+{"count": 190, "name": "Formyl peptide receptor 2", "weight": 0.0, "id": 2776434589, "level": 3}
+{"count": 63, "name": "Neuropeptide B", "weight": 0.0, "id": 2776827219, "level": 3}
+{"count": 94, "name": "GPR81", "weight": 0.0, "id": 2778715338, "level": 3}
+{"count": 44, "name": "Argiotoxin", "weight": 0.0, "id": 2779777269, "level": 3}
+{"count": 68, "name": "Prostaglandin F receptor", "weight": 0.0, "id": 2778101215, "level": 3}
+{"count": 65, "name": "Osanetant", "weight": 0.0, "id": 2780961010, "level": 3}
+{"count": 50, "name": "Anti-M\u00fcllerian hormone receptor", "weight": 0.0, "id": 2780808740, "level": 3}
+{"count": 145, "name": "LILRB1", "weight": 0.0, "id": 2779231258, "level": 3}
+{"count": 72, "name": "ADCYAP1R1", "weight": 0.0, "id": 2779178384, "level": 3}
+{"count": 253, "name": "Gloeobacter", "weight": 0.0, "id": 2778464676, "level": 3}
+{"count": 394, "name": "Receptor modulator", "weight": 0.0, "id": 2776378619, "level": 3}
+{"count": 37, "name": "Argiope lobata", "weight": 0.0, "id": 2776010368, "level": 3}
+{"count": 39, "name": "Interferon-alpha/beta receptor", "weight": 0.0, "id": 2780781076, "level": 3}
+{"count": 15, "name": "Trans-endocytosis", "weight": 0.0, "id": 2778065082, "level": 3}
+{"count": 17, "name": "Vestipitant", "weight": 0.0, "id": 2776541270, "level": 3}
+{"count": 6878, "name": "5-HT5A receptor", "weight": 0.0, "id": 17971392, "level": 3}
+{"count": 113, "name": "Physiological agonism and antagonism", "weight": 0.0, "id": 166065671, "level": 3}
+{"count": 116, "name": "LILRB2", "weight": 0.0, "id": 2777849916, "level": 3}
+{"count": 302, "name": "Hyaluronan-mediated motility receptor", "weight": 0.0, "id": 12501396, "level": 3}
+{"count": 45, "name": "Interleukin-9 receptor", "weight": 0.0, "id": 2780788187, "level": 3}
+{"count": 72, "name": "Coxsackie virus and adenovirus receptor", "weight": 0.0, "id": 101280063, "level": 3}
+{"count": 7377, "name": "Enzyme-linked receptor", "weight": 0.0, "id": 75184817, "level": 3}
+{"count": 67, "name": "VIPR1", "weight": 0.0, "id": 2777071536, "level": 3}
+{"count": 18, "name": "CD300C", "weight": 0.0, "id": 2781348068, "level": 3}
+{"count": 47, "name": "LILRA3", "weight": 0.0, "id": 2780519134, "level": 3}
+{"count": 7, "name": "Phenylaminotetralin", "weight": 0.0, "id": 2780112464, "level": 3}
+{"count": 14, "name": "Lung receptor", "weight": 0.0, "id": 2777935833, "level": 3}
+{"count": 81, "name": "Patching and Capping", "weight": 0.0, "id": 2777045749, "level": 3}
+{"count": 648, "name": "Neuropeptide Y receptor Y1", "weight": 0.0, "id": 133354120, "level": 3}
+{"count": 10, "name": "Avimer", "weight": 0.0, "id": 2776418763, "level": 3}
+{"count": 38, "name": "GPR132", "weight": 0.0, "id": 2780795359, "level": 3}
+{"count": 36, "name": "LILRB4", "weight": 0.0, "id": 2775935632, "level": 3}
+{"count": 17, "name": "Prostaglandin EP1 receptor", "weight": 0.0, "id": 2779264883, "level": 3}
+{"count": 8, "name": "Oxoeicosanoid", "weight": 0.0, "id": 2781264616, "level": 3}
+{"count": 646, "name": "Neuropeptide Y receptor Y2", "weight": 0.0, "id": 9281262, "level": 3}
+{"count": 32, "name": "Alpha-2C adrenergic receptor", "weight": 0.0, "id": 2780047473, "level": 3}

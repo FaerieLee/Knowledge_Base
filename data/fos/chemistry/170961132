@@ -1,0 +1,10 @@
+{"count": 1294, "name": "Osmotic coefficient", "weight": 3.0, "id": 129396204, "level": 4}
+{"count": 4026, "name": "Non-random two-liquid model", "weight": 10.0, "id": 40117563, "level": 4}
+{"count": 2567, "name": "UNIFAC", "weight": 6.0, "id": 187434265, "level": 4}
+{"count": 2863, "name": "UNIQUAC", "weight": 7.0, "id": 71317302, "level": 4}
+{"count": 747, "name": "Pitzer equations", "weight": 1.0, "id": 132871171, "level": 4}
+{"count": 359, "name": "Ebulliometer", "weight": 0.0, "id": 2776955101, "level": 4}
+{"count": 483, "name": "Specific ion interaction theory", "weight": 1.0, "id": 132583584, "level": 4}
+{"count": 76, "name": "Van Laar equation", "weight": 0.0, "id": 2777161027, "level": 4}
+{"count": 83, "name": "Davies equation", "weight": 0.0, "id": 76069392, "level": 4}
+{"count": 22, "name": "Thallium(I) chloride", "weight": 0.0, "id": 2780127768, "level": 4}

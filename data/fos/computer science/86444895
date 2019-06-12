@@ -1,0 +1,5 @@
+{"count": 1749, "name": "DMZ", "weight": 10.0, "id": 23103841, "level": 4}
+{"count": 127, "name": "Personal firewall", "weight": 0.0, "id": 2778469618, "level": 4}
+{"count": 1516, "name": "Context-based access control", "weight": 8.0, "id": 42934231, "level": 4}
+{"count": 1563, "name": "Reverse connection", "weight": 8.0, "id": 41311607, "level": 4}
+{"count": 90, "name": "Virtual firewall", "weight": 0.0, "id": 2777434934, "level": 4}

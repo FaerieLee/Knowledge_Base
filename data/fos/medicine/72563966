@@ -1,0 +1,14 @@
+{"count": 7688, "name": "Standardized mortality ratio", "weight": 10.0, "id": 102803821, "level": 3}
+{"count": 3306, "name": "Cohort effect", "weight": 4.0, "id": 192091488, "level": 3}
+{"count": 2777, "name": "Nested case-control study", "weight": 3.0, "id": 165617652, "level": 3}
+{"count": 549, "name": "National Child Development Study", "weight": 0.0, "id": 2777048804, "level": 3}
+{"count": 897, "name": "National Death Index", "weight": 1.0, "id": 2777654188, "level": 3}
+{"count": 466, "name": "Rochester Epidemiology Project", "weight": 0.0, "id": 2778525166, "level": 3}
+{"count": 1195, "name": "European Prospective Investigation into Cancer and Nutrition", "weight": 1.0, "id": 186615474, "level": 3}
+{"count": 245, "name": "Dunedin Multidisciplinary Health and Development Study", "weight": 0.0, "id": 135361042, "level": 3}
+{"count": 339, "name": "Cohort model", "weight": 0.0, "id": 59420728, "level": 3}
+{"count": 105, "name": "Lexis diagram", "weight": 0.0, "id": 105416737, "level": 3}
+{"count": 227, "name": "1970 British Cohort Study", "weight": 0.0, "id": 71173477, "level": 3}
+{"count": 363, "name": "British birth cohort studies", "weight": 0.0, "id": 110387660, "level": 3}
+{"count": 24, "name": "Height and intelligence", "weight": 0.0, "id": 2781269254, "level": 3}
+{"count": 117, "name": "Pacific Islands Families Study", "weight": 0.0, "id": 21405408, "level": 3}

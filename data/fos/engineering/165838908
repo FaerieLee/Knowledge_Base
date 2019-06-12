@@ -1,0 +1,17 @@
+{"count": 3685, "name": "Radiometric calibration", "weight": 10.0, "id": 2778522173, "level": 3}
+{"count": 951, "name": "Color calibration", "weight": 2.0, "id": 2778722442, "level": 3}
+{"count": 774, "name": "International Temperature Scale of 1990", "weight": 2.0, "id": 165063935, "level": 3}
+{"count": 2532, "name": "Primary standard", "weight": 6.0, "id": 67462049, "level": 3}
+{"count": 721, "name": "Uncertainty budget", "weight": 1.0, "id": 2778284421, "level": 3}
+{"count": 485, "name": "Gauge block", "weight": 1.0, "id": 2777614252, "level": 3}
+{"count": 242, "name": "Spectralon", "weight": 0.0, "id": 2778781752, "level": 3}
+{"count": 152, "name": "CLARREO", "weight": 0.0, "id": 2776465405, "level": 3}
+{"count": 52, "name": "Metre Convention", "weight": 0.0, "id": 2780203880, "level": 3}
+{"count": 524, "name": "Calibration gas", "weight": 1.0, "id": 2780247417, "level": 3}
+{"count": 73, "name": "Marine Optical Buoy", "weight": 0.0, "id": 2779145745, "level": 3}
+{"count": 55, "name": "Continuous emissions monitoring system", "weight": 0.0, "id": 2777038171, "level": 3}
+{"count": 21, "name": "FEL lamp", "weight": 0.0, "id": 2779789636, "level": 3}
+{"count": 25, "name": "Platt scaling", "weight": 0.0, "id": 2779516535, "level": 3}
+{"count": 27, "name": "Shock and vibration data logger", "weight": 0.0, "id": 71618829, "level": 3}
+{"count": 29, "name": "Cryotronics", "weight": 0.0, "id": 2777266976, "level": 3}
+{"count": 131, "name": "Calibration (statistics)", "weight": 0.0, "id": 122027848, "level": 3}

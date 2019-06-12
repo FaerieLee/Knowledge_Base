@@ -1,0 +1,10 @@
+{"count": 2937, "name": "Pacific Plate", "weight": 10.0, "id": 2777994876, "level": 3}
+{"count": 1524, "name": "Eurasian Plate", "weight": 5.0, "id": 2778261408, "level": 3}
+{"count": 1101, "name": "North American Plate", "weight": 3.0, "id": 2777992645, "level": 3}
+{"count": 835, "name": "African Plate", "weight": 2.0, "id": 2779867292, "level": 3}
+{"count": 484, "name": "South American Plate", "weight": 1.0, "id": 2781207809, "level": 3}
+{"count": 797, "name": "Thrust tectonics", "weight": 2.0, "id": 180362636, "level": 3}
+{"count": 222, "name": "Plate reconstruction", "weight": 0.0, "id": 152972079, "level": 3}
+{"count": 2350, "name": "Convergent boundary", "weight": 8.0, "id": 64174561, "level": 3}
+{"count": 264, "name": "Divergent boundary", "weight": 0.0, "id": 52278394, "level": 3}
+{"count": 25, "name": "Paleomap", "weight": 0.0, "id": 2775879818, "level": 3}

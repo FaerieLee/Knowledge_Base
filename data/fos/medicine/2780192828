@@ -1,0 +1,58 @@
+{"count": 21518, "name": "Prostate-specific antigen", "weight": 5.0, "id": 2781406297, "level": 4}
+{"count": 36993, "name": "Prostatectomy", "weight": 10.0, "id": 2779466945, "level": 4}
+{"count": 23863, "name": "Androgen receptor", "weight": 6.0, "id": 61367390, "level": 4}
+{"count": 8565, "name": "Castration", "weight": 2.0, "id": 2779256933, "level": 4}
+{"count": 4373, "name": "Antiandrogen", "weight": 1.0, "id": 2779322244, "level": 4}
+{"count": 10085, "name": "Bone metastasis", "weight": 2.0, "id": 2777783956, "level": 4}
+{"count": 6503, "name": "Androgen deprivation therapy", "weight": 1.0, "id": 2777899217, "level": 4}
+{"count": 2979, "name": "Watchful waiting", "weight": 0.0, "id": 2776141087, "level": 4}
+{"count": 1066, "name": "Glutamate carboxypeptidase II", "weight": 0.0, "id": 20417620, "level": 4}
+{"count": 9887, "name": "Hormonal therapy", "weight": 2.0, "id": 2778311097, "level": 4}
+{"count": 7772, "name": "Prostate biopsy", "weight": 2.0, "id": 2781217009, "level": 4}
+{"count": 1249, "name": "Goserelin", "weight": 0.0, "id": 2778043895, "level": 4}
+{"count": 887, "name": "Estramustine", "weight": 0.0, "id": 2780201970, "level": 4}
+{"count": 745, "name": "High-grade prostatic intraepithelial neoplasia", "weight": 0.0, "id": 2776456063, "level": 4}
+{"count": 1390, "name": "Benign prostatic hyperplasia (BPH)", "weight": 0.0, "id": 2780435053, "level": 4}
+{"count": 683, "name": "Leuprorelin", "weight": 0.0, "id": 2779093440, "level": 4}
+{"count": 9818, "name": "LNCaP", "weight": 2.0, "id": 2779723316, "level": 4}
+{"count": 1400, "name": "Dutasteride", "weight": 0.0, "id": 2778878792, "level": 4}
+{"count": 1223, "name": "Abiraterone", "weight": 0.0, "id": 2776421732, "level": 4}
+{"count": 2016, "name": "Neuroendocrine differentiation", "weight": 0.0, "id": 2780341458, "level": 4}
+{"count": 2308, "name": "Transrectal ultrasonography", "weight": 0.0, "id": 2780002838, "level": 4}
+{"count": 10827, "name": "PCA3", "weight": 2.0, "id": 87874733, "level": 4}
+{"count": 827, "name": "Androgen suppression", "weight": 0.0, "id": 2778559712, "level": 4}
+{"count": 1501, "name": "Abiraterone acetate", "weight": 0.0, "id": 2775832370, "level": 4}
+{"count": 1456, "name": "Cabazitaxel", "weight": 0.0, "id": 2778971682, "level": 4}
+{"count": 353, "name": "Estramustine phosphate", "weight": 0.0, "id": 2777938613, "level": 4}
+{"count": 226, "name": "Satraplatin", "weight": 0.0, "id": 2777988912, "level": 4}
+{"count": 301, "name": "Atrasentan", "weight": 0.0, "id": 2777297697, "level": 4}
+{"count": 378, "name": "Sipuleucel-T", "weight": 0.0, "id": 2781167603, "level": 4}
+{"count": 1036, "name": "TMPRSS2", "weight": 0.0, "id": 2778042024, "level": 4}
+{"count": 232, "name": "Hepsin", "weight": 0.0, "id": 2778082774, "level": 4}
+{"count": 312, "name": "PI-RADS", "weight": 0.0, "id": 2780439657, "level": 4}
+{"count": 421, "name": "Degarelix", "weight": 0.0, "id": 2778347918, "level": 4}
+{"count": 336, "name": "SRD5A2", "weight": 0.0, "id": 2776778357, "level": 4}
+{"count": 105, "name": "Pendetide", "weight": 0.0, "id": 2779295105, "level": 4}
+{"count": 114, "name": "Histrelin", "weight": 0.0, "id": 2779698516, "level": 4}
+{"count": 284, "name": "KLK4", "weight": 0.0, "id": 2780258045, "level": 4}
+{"count": 182, "name": "GVAX", "weight": 0.0, "id": 2777667908, "level": 4}
+{"count": 131, "name": "Androstanediol glucuronide", "weight": 0.0, "id": 2781260356, "level": 4}
+{"count": 119, "name": "Polyestradiol phosphate", "weight": 0.0, "id": 2777542723, "level": 4}
+{"count": 76, "name": "Abarelix", "weight": 0.0, "id": 2781450616, "level": 4}
+{"count": 119, "name": "Alpha-methylacyl-CoA racemase", "weight": 0.0, "id": 2780212268, "level": 4}
+{"count": 267, "name": "SPOP", "weight": 0.0, "id": 2775889011, "level": 4}
+{"count": 224, "name": "ETV1", "weight": 0.0, "id": 2780666646, "level": 4}
+{"count": 121, "name": "Zibotentan", "weight": 0.0, "id": 2777505901, "level": 4}
+{"count": 198, "name": "SRD5A1", "weight": 0.0, "id": 2780744970, "level": 4}
+{"count": 50, "name": "Fosfestrol", "weight": 0.0, "id": 2776456294, "level": 4}
+{"count": 117, "name": "Tasquinimod", "weight": 0.0, "id": 2777852533, "level": 4}
+{"count": 157, "name": "ELAC2", "weight": 0.0, "id": 2781059931, "level": 4}
+{"count": 58, "name": "Maximum androgen blockade", "weight": 0.0, "id": 2780015366, "level": 4}
+{"count": 156, "name": "Selenium and Vitamin E Cancer Prevention Trial", "weight": 0.0, "id": 2779092066, "level": 4}
+{"count": 93, "name": "AZGP1", "weight": 0.0, "id": 2780534775, "level": 4}
+{"count": 186, "name": "MSMB", "weight": 0.0, "id": 2778745985, "level": 4}
+{"count": 95, "name": "Prostvac", "weight": 0.0, "id": 2777890920, "level": 4}
+{"count": 80, "name": "Apalutamide", "weight": 0.0, "id": 2776375717, "level": 4}
+{"count": 38, "name": "LMTK2", "weight": 0.0, "id": 2777612757, "level": 4}
+{"count": 23, "name": "Estrogen patch", "weight": 0.0, "id": 2778342539, "level": 4}
+{"count": 1311, "name": "Management of prostate cancer", "weight": 0.0, "id": 2781114028, "level": 4}

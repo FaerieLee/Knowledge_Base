@@ -1,0 +1,5 @@
+{"count": 4665, "name": "Diffusing capacity", "weight": 2.0, "id": 165637977, "level": 4}
+{"count": 16624, "name": "FEV1/FVC ratio", "weight": 10.0, "id": 25313486, "level": 4}
+{"count": 893, "name": "Restrictive lung disease", "weight": 0.0, "id": 2779619758, "level": 4}
+{"count": 1251, "name": "Air trapping", "weight": 0.0, "id": 2777223847, "level": 4}
+{"count": 15, "name": "Intrapulmonary percussive ventilator", "weight": 0.0, "id": 2778457897, "level": 4}

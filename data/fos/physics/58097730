@@ -1,0 +1,33 @@
+{"count": 6320, "name": "Island arc", "weight": 10.0, "id": 63379926, "level": 3}
+{"count": 1032, "name": "Ocean island basalt", "weight": 1.0, "id": 2776968904, "level": 3}
+{"count": 2937, "name": "Pacific Plate", "weight": 4.0, "id": 2777994876, "level": 3}
+{"count": 1524, "name": "Eurasian Plate", "weight": 2.0, "id": 2778261408, "level": 3}
+{"count": 2916, "name": "Back-arc basin", "weight": 4.0, "id": 93253190, "level": 3}
+{"count": 5269, "name": "Volcanic arc", "weight": 8.0, "id": 180492444, "level": 3}
+{"count": 1101, "name": "North American Plate", "weight": 1.0, "id": 2777992645, "level": 3}
+{"count": 2584, "name": "Underplating", "weight": 4.0, "id": 118270999, "level": 3}
+{"count": 901, "name": "Deep-focus earthquake", "weight": 1.0, "id": 41467125, "level": 3}
+{"count": 835, "name": "African Plate", "weight": 1.0, "id": 2779867292, "level": 3}
+{"count": 2501, "name": "Adakite", "weight": 3.0, "id": 154489570, "level": 3}
+{"count": 3491, "name": "Accretionary wedge", "weight": 5.0, "id": 44140439, "level": 3}
+{"count": 2829, "name": "Continental collision", "weight": 4.0, "id": 75643213, "level": 3}
+{"count": 4004, "name": "Forearc", "weight": 6.0, "id": 94436079, "level": 3}
+{"count": 484, "name": "South American Plate", "weight": 0.0, "id": 2781207809, "level": 3}
+{"count": 346, "name": "Juan de Fuca Plate", "weight": 0.0, "id": 2776389899, "level": 3}
+{"count": 436, "name": "Farallon Plate", "weight": 0.0, "id": 2776184289, "level": 3}
+{"count": 508, "name": "Oceanic plateau", "weight": 0.0, "id": 2775856396, "level": 3}
+{"count": 410, "name": "Hellenic arc", "weight": 0.0, "id": 2777070611, "level": 3}
+{"count": 1371, "name": "Slab window", "weight": 2.0, "id": 90523207, "level": 3}
+{"count": 349, "name": "Hikurangi Margin", "weight": 0.0, "id": 2778844784, "level": 3}
+{"count": 438, "name": "M\u00e9lange", "weight": 0.0, "id": 190308179, "level": 3}
+{"count": 1125, "name": "Continental arc", "weight": 1.0, "id": 2779430719, "level": 3}
+{"count": 81, "name": "Wilson cycle", "weight": 0.0, "id": 2780209311, "level": 3}
+{"count": 94, "name": "Wadati\u2013Benioff zone", "weight": 0.0, "id": 2778204441, "level": 3}
+{"count": 356, "name": "Megathrust earthquake", "weight": 0.0, "id": 2781209890, "level": 3}
+{"count": 2350, "name": "Convergent boundary", "weight": 3.0, "id": 64174561, "level": 3}
+{"count": 1756, "name": "Episodic tremor and slip", "weight": 2.0, "id": 63441156, "level": 3}
+{"count": 197, "name": "Flat slab subduction", "weight": 0.0, "id": 2776462884, "level": 3}
+{"count": 1563, "name": "Eclogitization", "weight": 2.0, "id": 164485859, "level": 3}
+{"count": 76, "name": "Paired metamorphic belts", "weight": 0.0, "id": 2777866774, "level": 3}
+{"count": 858, "name": "Depth of focus (tectonics)", "weight": 1.0, "id": 89002693, "level": 3}
+{"count": 311, "name": "Nankai Trough gas hydrate site", "weight": 0.0, "id": 190834174, "level": 3}

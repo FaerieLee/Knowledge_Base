@@ -1,0 +1,60 @@
+{"count": 77665, "name": "Automatic control", "weight": 10.0, "id": 167123822, "level": 3}
+{"count": 21401, "name": "Digital control", "weight": 2.0, "id": 158411068, "level": 3}
+{"count": 75469, "name": "PID controller", "weight": 9.0, "id": 47116090, "level": 3}
+{"count": 13426, "name": "Machine control", "weight": 1.0, "id": 2777718703, "level": 3}
+{"count": 30156, "name": "Intelligent control", "weight": 3.0, "id": 82327864, "level": 3}
+{"count": 14132, "name": "Real-time Control System", "weight": 1.0, "id": 118974865, "level": 3}
+{"count": 18484, "name": "Programmable logic controller", "weight": 2.0, "id": 37374048, "level": 3}
+{"count": 8743, "name": "Networked control system", "weight": 1.0, "id": 1759631, "level": 3}
+{"count": 5709, "name": "Proportional control", "weight": 0.0, "id": 96224696, "level": 3}
+{"count": 1883, "name": "Sampled data systems", "weight": 0.0, "id": 90794131, "level": 3}
+{"count": 5398, "name": "Gain scheduling", "weight": 0.0, "id": 97090092, "level": 3}
+{"count": 2904, "name": "Automatic Generation Control", "weight": 0.0, "id": 2778763806, "level": 3}
+{"count": 6894, "name": "Distributed control system", "weight": 0.0, "id": 33933514, "level": 3}
+{"count": 2547, "name": "Repetitive control", "weight": 0.0, "id": 2780842517, "level": 3}
+{"count": 2746, "name": "Logic Control", "weight": 0.0, "id": 74552611, "level": 3}
+{"count": 4669, "name": "Fieldbus", "weight": 0.0, "id": 2776690351, "level": 3}
+{"count": 2517, "name": "Root locus", "weight": 0.0, "id": 27162326, "level": 3}
+{"count": 1593, "name": "Automatic train control", "weight": 0.0, "id": 2779060153, "level": 3}
+{"count": 2151, "name": "Computer Automated Measurement and Control", "weight": 0.0, "id": 148137211, "level": 3}
+{"count": 931, "name": "Cerebellar model articulation controller", "weight": 0.0, "id": 2780576740, "level": 3}
+{"count": 3017, "name": "Profibus", "weight": 0.0, "id": 35359288, "level": 3}
+{"count": 4858, "name": "Industrial control system", "weight": 0.0, "id": 40071531, "level": 3}
+{"count": 2296, "name": "Advanced process control", "weight": 0.0, "id": 157978775, "level": 3}
+{"count": 1159, "name": "LonWorks", "weight": 0.0, "id": 2779855048, "level": 3}
+{"count": 781, "name": "PMAC", "weight": 0.0, "id": 102305610, "level": 3}
+{"count": 442, "name": "Positive train control", "weight": 0.0, "id": 2778787886, "level": 3}
+{"count": 470, "name": "Centralized traffic control", "weight": 0.0, "id": 2776656239, "level": 3}
+{"count": 920, "name": "Lead\u2013lag compensator", "weight": 0.0, "id": 186487364, "level": 3}
+{"count": 546, "name": "Automatic train protection", "weight": 0.0, "id": 2777019676, "level": 3}
+{"count": 459, "name": "Rapid control prototyping", "weight": 0.0, "id": 2777585024, "level": 3}
+{"count": 732, "name": "Deadband", "weight": 0.0, "id": 146367497, "level": 3}
+{"count": 349, "name": "European Train Control System", "weight": 0.0, "id": 2781077476, "level": 3}
+{"count": 2926, "name": "Fly-by-wire", "weight": 0.0, "id": 107956385, "level": 3}
+{"count": 4064, "name": "Inner loop", "weight": 0.0, "id": 58716799, "level": 3}
+{"count": 659, "name": "CANopen", "weight": 0.0, "id": 200991394, "level": 3}
+{"count": 189, "name": "Pilot-induced oscillation", "weight": 0.0, "id": 2777497801, "level": 3}
+{"count": 1867, "name": "Intelligent lighting", "weight": 0.0, "id": 35263899, "level": 3}
+{"count": 306, "name": "Classical control theory", "weight": 0.0, "id": 2777545207, "level": 3}
+{"count": 1839, "name": "Lighting control system", "weight": 0.0, "id": 2777185347, "level": 3}
+{"count": 804, "name": "Time-variant system", "weight": 0.0, "id": 141368992, "level": 3}
+{"count": 173, "name": "Communications-based train control", "weight": 0.0, "id": 2779442796, "level": 3}
+{"count": 176, "name": "Relaxed stability", "weight": 0.0, "id": 15999534, "level": 3}
+{"count": 527, "name": "Industrial PC", "weight": 0.0, "id": 2778919316, "level": 3}
+{"count": 349, "name": "FADEC", "weight": 0.0, "id": 187791179, "level": 3}
+{"count": 198, "name": "DMX512", "weight": 0.0, "id": 71968016, "level": 3}
+{"count": 180, "name": "HVAC control system", "weight": 0.0, "id": 2780731337, "level": 3}
+{"count": 215, "name": "Aircraft flight control system", "weight": 0.0, "id": 2777132090, "level": 3}
+{"count": 442, "name": "Ball and beam", "weight": 0.0, "id": 2778187056, "level": 3}
+{"count": 87, "name": "Control loading system", "weight": 0.0, "id": 2779914177, "level": 3}
+{"count": 34, "name": "Resilient control systems", "weight": 0.0, "id": 2776589622, "level": 3}
+{"count": 121, "name": "Fuel control unit", "weight": 0.0, "id": 2779514309, "level": 3}
+{"count": 23, "name": "CANaerospace", "weight": 0.0, "id": 2780008831, "level": 3}
+{"count": 23, "name": "Atops", "weight": 0.0, "id": 2777713133, "level": 3}
+{"count": 18, "name": "Triconex", "weight": 0.0, "id": 99895325, "level": 3}
+{"count": 2477, "name": "Instrumentation and control engineering", "weight": 0.0, "id": 21592077, "level": 3}
+{"count": 19, "name": "EFTP", "weight": 0.0, "id": 2778529342, "level": 3}
+{"count": 28, "name": "Opto 22", "weight": 0.0, "id": 181139813, "level": 3}
+{"count": 44, "name": "Fill flash", "weight": 0.0, "id": 2780230757, "level": 3}
+{"count": 2443, "name": "Plant", "weight": 0.0, "id": 127205110, "level": 3}
+{"count": 14, "name": "Testing, adjusting, balancing", "weight": 0.0, "id": 165820187, "level": 3}

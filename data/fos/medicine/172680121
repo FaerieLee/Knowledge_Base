@@ -1,0 +1,107 @@
+{"count": 52637, "name": "Gestation", "weight": 8.0, "id": 46973012, "level": 3}
+{"count": 11575, "name": "In utero", "weight": 1.0, "id": 201614185, "level": 3}
+{"count": 55311, "name": "Placenta", "weight": 9.0, "id": 2776953305, "level": 3}
+{"count": 60090, "name": "Gestational age", "weight": 10.0, "id": 2778376644, "level": 3}
+{"count": 31436, "name": "Prenatal diagnosis", "weight": 5.0, "id": 2778258057, "level": 3}
+{"count": 22389, "name": "Amniotic fluid", "weight": 3.0, "id": 2778194526, "level": 3}
+{"count": 25004, "name": "Umbilical cord", "weight": 4.0, "id": 2776955114, "level": 3}
+{"count": 3662, "name": "Neural tube defect", "weight": 0.0, "id": 2777003008, "level": 3}
+{"count": 4064, "name": "Fetal alcohol syndrome", "weight": 0.0, "id": 2777601104, "level": 3}
+{"count": 6164, "name": "Congenital diaphragmatic hernia", "weight": 1.0, "id": 2777146472, "level": 3}
+{"count": 4617, "name": "Developmental toxicity", "weight": 0.0, "id": 179335377, "level": 3}
+{"count": 7130, "name": "Intrauterine growth restriction", "weight": 1.0, "id": 2778780700, "level": 3}
+{"count": 4843, "name": "Chorioamnionitis", "weight": 0.0, "id": 2777629866, "level": 3}
+{"count": 6470, "name": "Umbilical artery", "weight": 1.0, "id": 2778964498, "level": 3}
+{"count": 6409, "name": "Fetal distress", "weight": 1.0, "id": 2780109559, "level": 3}
+{"count": 1961, "name": "Tocolytic", "weight": 0.0, "id": 2780931799, "level": 3}
+{"count": 2502, "name": "Anencephaly", "weight": 0.0, "id": 2776394550, "level": 3}
+{"count": 5972, "name": "Meconium", "weight": 0.0, "id": 2780985857, "level": 3}
+{"count": 3016, "name": "Gastroschisis", "weight": 0.0, "id": 2777428835, "level": 3}
+{"count": 7699, "name": "Apgar score", "weight": 1.0, "id": 2778052368, "level": 3}
+{"count": 1601, "name": "Campylobacter fetus", "weight": 0.0, "id": 2777595706, "level": 3}
+{"count": 2964, "name": "Hydrops fetalis", "weight": 0.0, "id": 2777674756, "level": 3}
+{"count": 4847, "name": "Premature rupture of membranes", "weight": 0.0, "id": 2777102558, "level": 3}
+{"count": 1314, "name": "Pregnancy-associated plasma protein A", "weight": 0.0, "id": 2778014424, "level": 3}
+{"count": 1619, "name": "Fetal surgery", "weight": 0.0, "id": 2777122282, "level": 3}
+{"count": 4065, "name": "Uterine rupture", "weight": 0.0, "id": 2779319320, "level": 3}
+{"count": 2035, "name": "Holoprosencephaly", "weight": 0.0, "id": 2781374659, "level": 3}
+{"count": 2549, "name": "Omphalocele", "weight": 0.0, "id": 2780067814, "level": 3}
+{"count": 1825, "name": "Prenatal development", "weight": 0.0, "id": 2776847746, "level": 3}
+{"count": 1825, "name": "Ductus venosus", "weight": 0.0, "id": 2778152043, "level": 3}
+{"count": 1489, "name": "Microchimerism", "weight": 0.0, "id": 162834538, "level": 3}
+{"count": 2837, "name": "Polyhydramnios", "weight": 0.0, "id": 2776907564, "level": 3}
+{"count": 2446, "name": "Labor induction", "weight": 0.0, "id": 2780802667, "level": 3}
+{"count": 2852, "name": "Placental abruption", "weight": 0.0, "id": 2779225303, "level": 3}
+{"count": 1540, "name": "Cystic hygroma", "weight": 0.0, "id": 2781465214, "level": 3}
+{"count": 1847, "name": "Shoulder dystocia", "weight": 0.0, "id": 2779470629, "level": 3}
+{"count": 590, "name": "Fetal viability", "weight": 0.0, "id": 2779820218, "level": 3}
+{"count": 899, "name": "Twin-to-twin transfusion syndrome", "weight": 0.0, "id": 2779835638, "level": 3}
+{"count": 472, "name": "Prenatal nutrition", "weight": 0.0, "id": 2778438103, "level": 3}
+{"count": 965, "name": "Monochorionic twins", "weight": 0.0, "id": 2778853074, "level": 3}
+{"count": 2351, "name": "Advanced maternal age", "weight": 0.0, "id": 2776352029, "level": 3}
+{"count": 1271, "name": "Fetal movement", "weight": 0.0, "id": 2776975863, "level": 3}
+{"count": 752, "name": "Acute fatty liver of pregnancy", "weight": 0.0, "id": 2777774211, "level": 3}
+{"count": 2354, "name": "Ventriculomegaly", "weight": 0.0, "id": 2776212519, "level": 3}
+{"count": 899, "name": "External cephalic version", "weight": 0.0, "id": 2776162027, "level": 3}
+{"count": 878, "name": "Fetal fibronectin", "weight": 0.0, "id": 2777498106, "level": 3}
+{"count": 1104, "name": "Sacrococcygeal teratoma", "weight": 0.0, "id": 2777698361, "level": 3}
+{"count": 442, "name": "Thanatophoric dysplasia", "weight": 0.0, "id": 2779104007, "level": 3}
+{"count": 2567, "name": "Complications of pregnancy", "weight": 0.0, "id": 2780504744, "level": 3}
+{"count": 638, "name": "Anogenital distance", "weight": 0.0, "id": 2777668474, "level": 3}
+{"count": 1065, "name": "Hysterotomy", "weight": 0.0, "id": 2777407945, "level": 3}
+{"count": 266, "name": "Meckel syndrome", "weight": 0.0, "id": 2778398757, "level": 3}
+{"count": 653, "name": "Exencephaly", "weight": 0.0, "id": 2781052626, "level": 3}
+{"count": 293, "name": "Genital tubercle", "weight": 0.0, "id": 142227134, "level": 3}
+{"count": 860, "name": "Single umbilical artery", "weight": 0.0, "id": 2779998484, "level": 3}
+{"count": 1919, "name": "Rupture of membranes", "weight": 0.0, "id": 2777407796, "level": 3}
+{"count": 363, "name": "Fetus in fetu", "weight": 0.0, "id": 2776186269, "level": 3}
+{"count": 408, "name": "Trisomy 16", "weight": 0.0, "id": 2779658141, "level": 3}
+{"count": 4137, "name": "Transplacental", "weight": 0.0, "id": 2779906218, "level": 3}
+{"count": 488, "name": "Megacystis", "weight": 0.0, "id": 2775997405, "level": 3}
+{"count": 858, "name": "Neonatal alloimmune thrombocytopenia", "weight": 0.0, "id": 2779989375, "level": 3}
+{"count": 158, "name": "Rho(D) immune globulin", "weight": 0.0, "id": 2777115595, "level": 3}
+{"count": 761, "name": "Biophysical profile", "weight": 0.0, "id": 2778546801, "level": 3}
+{"count": 1888, "name": "Fetal head", "weight": 0.0, "id": 2779811377, "level": 3}
+{"count": 166, "name": "Short rib \u2013 polydactyly syndrome", "weight": 0.0, "id": 2778682463, "level": 3}
+{"count": 525, "name": "Triple test", "weight": 0.0, "id": 2780733764, "level": 3}
+{"count": 66, "name": "Hydrolethalus syndrome", "weight": 0.0, "id": 2778631674, "level": 3}
+{"count": 279, "name": "Congenital pulmonary airway malformation", "weight": 0.0, "id": 2779935494, "level": 3}
+{"count": 160, "name": "Limb body wall complex", "weight": 0.0, "id": 2776827061, "level": 3}
+{"count": 236, "name": "Postterm pregnancy", "weight": 0.0, "id": 2778441131, "level": 3}
+{"count": 88, "name": "Neu-Laxova syndrome", "weight": 0.0, "id": 2781181935, "level": 3}
+{"count": 629, "name": "Generation R", "weight": 0.0, "id": 2779425982, "level": 3}
+{"count": 182, "name": "Vanishing twin", "weight": 0.0, "id": 2776363342, "level": 3}
+{"count": 179, "name": "Multiple pterygium syndrome", "weight": 0.0, "id": 2780259847, "level": 3}
+{"count": 552, "name": "Fetal position", "weight": 0.0, "id": 54942250, "level": 3}
+{"count": 383, "name": "Twin reversed arterial perfusion", "weight": 0.0, "id": 2780226586, "level": 3}
+{"count": 38, "name": "Fetal warfarin syndrome", "weight": 0.0, "id": 2777976292, "level": 3}
+{"count": 81, "name": "Kleihauer\u2013Betke test", "weight": 0.0, "id": 2780006843, "level": 3}
+{"count": 417, "name": "Intrauterine hypoxia", "weight": 0.0, "id": 2778918010, "level": 3}
+{"count": 128, "name": "Parasitic twin", "weight": 0.0, "id": 2777102848, "level": 3}
+{"count": 156, "name": "Oligodactyly", "weight": 0.0, "id": 2777551418, "level": 3}
+{"count": 254, "name": "Fetal disease", "weight": 0.0, "id": 2777331760, "level": 3}
+{"count": 165, "name": "Obstetric ultrasonography", "weight": 0.0, "id": 2776523532, "level": 3}
+{"count": 148, "name": "Lithopedion", "weight": 0.0, "id": 2780652535, "level": 3}
+{"count": 63, "name": "Idiopathic infantile arterial calcification", "weight": 0.0, "id": 2776991945, "level": 3}
+{"count": 134, "name": "Urorectal septum", "weight": 0.0, "id": 2779819595, "level": 3}
+{"count": 370, "name": "Fetal pig", "weight": 0.0, "id": 2780595482, "level": 3}
+{"count": 119, "name": "Intrauterine pressure catheter", "weight": 0.0, "id": 2781228590, "level": 3}
+{"count": 670, "name": "Drugs in pregnancy", "weight": 0.0, "id": 2775950024, "level": 3}
+{"count": 125, "name": "Caput succedaneum", "weight": 0.0, "id": 2778837935, "level": 3}
+{"count": 143, "name": "Pregnancy category", "weight": 0.0, "id": 2778467848, "level": 3}
+{"count": 162, "name": "Artificial rupture of membranes", "weight": 0.0, "id": 2780470490, "level": 3}
+{"count": 111, "name": "Late termination of pregnancy", "weight": 0.0, "id": 2779111240, "level": 3}
+{"count": 42, "name": "Obstetrical dilemma", "weight": 0.0, "id": 2778448070, "level": 3}
+{"count": 214, "name": "Fetal protein", "weight": 0.0, "id": 2778261374, "level": 3}
+{"count": 30, "name": "Lethal congenital contracture syndrome", "weight": 0.0, "id": 2779369297, "level": 3}
+{"count": 131, "name": "Adaptation to extrauterine life", "weight": 0.0, "id": 2776919169, "level": 3}
+{"count": 16, "name": "Nuchal scan", "weight": 0.0, "id": 2779866055, "level": 3}
+{"count": 25, "name": "Linea nigra", "weight": 0.0, "id": 2776092780, "level": 3}
+{"count": 5, "name": "Fetal scalp stimulation test", "weight": 0.0, "id": 2779718090, "level": 3}
+{"count": 78, "name": "Podalic version", "weight": 0.0, "id": 2779678122, "level": 3}
+{"count": 14, "name": "Fetal trimethadione syndrome", "weight": 0.0, "id": 2777148108, "level": 3}
+{"count": 233, "name": "Motherisk", "weight": 0.0, "id": 2776899947, "level": 3}
+{"count": 75, "name": "Period of viability", "weight": 0.0, "id": 2776663593, "level": 3}
+{"count": 12, "name": "Bloody show", "weight": 0.0, "id": 2780246573, "level": 3}
+{"count": 8, "name": "Environmental toxicants and fetal development", "weight": 0.0, "id": 92018700, "level": 3}
+{"count": 37, "name": "Prenatal development", "weight": 0.0, "id": 14289692, "level": 3}

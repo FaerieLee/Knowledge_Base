@@ -1,0 +1,107 @@
+{"count": 38019, "name": "Urinary bladder", "weight": 10.0, "id": 2779762690, "level": 2}
+{"count": 18457, "name": "Genitourinary system", "weight": 4.0, "id": 133507102, "level": 2}
+{"count": 36425, "name": "Urinary incontinence", "weight": 9.0, "id": 2778531004, "level": 2}
+{"count": 25201, "name": "Urethra", "weight": 6.0, "id": 2777085111, "level": 2}
+{"count": 20136, "name": "Penis", "weight": 5.0, "id": 2777786686, "level": 2}
+{"count": 25907, "name": "Ureter", "weight": 6.0, "id": 2776664737, "level": 2}
+{"count": 13623, "name": "Sexual function", "weight": 3.0, "id": 2775871022, "level": 2}
+{"count": 11981, "name": "Lithotripsy", "weight": 3.0, "id": 2777950166, "level": 2}
+{"count": 6652, "name": "Fecal incontinence", "weight": 1.0, "id": 2776813522, "level": 2}
+{"count": 9810, "name": "Overactive bladder", "weight": 2.0, "id": 2778941218, "level": 2}
+{"count": 12157, "name": "Pelvic pain", "weight": 3.0, "id": 2780136519, "level": 2}
+{"count": 7712, "name": "Hypospadias", "weight": 2.0, "id": 2777990738, "level": 2}
+{"count": 6374, "name": "Urethritis", "weight": 1.0, "id": 2778416477, "level": 2}
+{"count": 13009, "name": "Pelvic floor", "weight": 3.0, "id": 2781244320, "level": 2}
+{"count": 6631, "name": "Varicocele", "weight": 1.0, "id": 2778054964, "level": 2}
+{"count": 4955, "name": "Interstitial cystitis", "weight": 1.0, "id": 2778508898, "level": 2}
+{"count": 1321, "name": "Ejaculation", "weight": 0.0, "id": 2777812360, "level": 2}
+{"count": 10128, "name": "Urinary retention", "weight": 2.0, "id": 2779091618, "level": 2}
+{"count": 3362, "name": "Premature ejaculation", "weight": 0.0, "id": 2779892816, "level": 2}
+{"count": 7080, "name": "Enuresis", "weight": 1.0, "id": 2780610425, "level": 2}
+{"count": 16391, "name": "Sphincter", "weight": 4.0, "id": 2780877482, "level": 2}
+{"count": 2765, "name": "Lithotomy position", "weight": 0.0, "id": 11024576, "level": 2}
+{"count": 6141, "name": "Percutaneous nephrolithotomy", "weight": 1.0, "id": 2780885103, "level": 2}
+{"count": 3372, "name": "Priapism", "weight": 0.0, "id": 2780345856, "level": 2}
+{"count": 3343, "name": "Hydrocele", "weight": 0.0, "id": 2777143589, "level": 2}
+{"count": 2783, "name": "Epididymitis", "weight": 0.0, "id": 2781105225, "level": 2}
+{"count": 3617, "name": "Spermatic cord", "weight": 0.0, "id": 2781237140, "level": 2}
+{"count": 2841, "name": "Renal colic", "weight": 0.0, "id": 2779675326, "level": 2}
+{"count": 2486, "name": "Peyronie's disease", "weight": 0.0, "id": 2779145901, "level": 2}
+{"count": 1813, "name": "Bladder exstrophy", "weight": 0.0, "id": 2779741777, "level": 2}
+{"count": 2600, "name": "Testicular torsion", "weight": 0.0, "id": 2779170295, "level": 2}
+{"count": 1490, "name": "Orchiopexy", "weight": 0.0, "id": 2778661064, "level": 2}
+{"count": 650, "name": "Definitive urogenital sinus", "weight": 0.0, "id": 105831600, "level": 2}
+{"count": 1253, "name": "Lymphocele", "weight": 0.0, "id": 2776052674, "level": 2}
+{"count": 1348, "name": "Urachus", "weight": 0.0, "id": 2779120906, "level": 2}
+{"count": 1159, "name": "Terazosin", "weight": 0.0, "id": 2776679619, "level": 2}
+{"count": 1072, "name": "Epispadias", "weight": 0.0, "id": 2779176196, "level": 2}
+{"count": 1623, "name": "Pediatric urology", "weight": 0.0, "id": 2780334110, "level": 2}
+{"count": 567, "name": "Cloacal exstrophy", "weight": 0.0, "id": 2778208658, "level": 2}
+{"count": 930, "name": "Retrograde ejaculation", "weight": 0.0, "id": 2778610743, "level": 2}
+{"count": 934, "name": "Urogynecology", "weight": 0.0, "id": 2777148836, "level": 2}
+{"count": 1891, "name": "Hyperreflexia", "weight": 0.0, "id": 2777364249, "level": 2}
+{"count": 407, "name": "Underactive bladder", "weight": 0.0, "id": 2776816551, "level": 2}
+{"count": 503, "name": "Testicular microlithiasis", "weight": 0.0, "id": 2781412518, "level": 2}
+{"count": 173, "name": "Terodiline", "weight": 0.0, "id": 2778006329, "level": 2}
+{"count": 466, "name": "Sirenomelia", "weight": 0.0, "id": 2778229688, "level": 2}
+{"count": 631, "name": "Malakoplakia", "weight": 0.0, "id": 2779474201, "level": 2}
+{"count": 396, "name": "Anorectal anomalies", "weight": 0.0, "id": 2779318624, "level": 2}
+{"count": 275, "name": "Eosinophilic cystitis", "weight": 0.0, "id": 2781201612, "level": 2}
+{"count": 285, "name": "Phenazopyridine", "weight": 0.0, "id": 2780318706, "level": 2}
+{"count": 286, "name": "Perineal body", "weight": 0.0, "id": 2780220835, "level": 2}
+{"count": 319, "name": "Colpocleisis", "weight": 0.0, "id": 2776371951, "level": 2}
+{"count": 234, "name": "Elephantopus scaber", "weight": 0.0, "id": 2780240169, "level": 2}
+{"count": 225, "name": "Polyorchidism", "weight": 0.0, "id": 2780918638, "level": 2}
+{"count": 986, "name": "Fulguration", "weight": 0.0, "id": 2776537999, "level": 2}
+{"count": 645, "name": "Testicular pain", "weight": 0.0, "id": 2778896829, "level": 2}
+{"count": 125, "name": "Perineoplasty", "weight": 0.0, "id": 2780099898, "level": 2}
+{"count": 323, "name": "Sitz bath", "weight": 0.0, "id": 2781451478, "level": 2}
+{"count": 155, "name": "Labial fusion", "weight": 0.0, "id": 2780750914, "level": 2}
+{"count": 117, "name": "Uroscopy", "weight": 0.0, "id": 2780542265, "level": 2}
+{"count": 20, "name": "Besipirdine", "weight": 0.0, "id": 2780477585, "level": 2}
+{"count": 176, "name": "Vesica piscis", "weight": 0.0, "id": 193727489, "level": 2}
+{"count": 52, "name": "Rotula aquatica", "weight": 0.0, "id": 2776815653, "level": 2}
+{"count": 482, "name": "Frequent urination", "weight": 0.0, "id": 2776210090, "level": 2}
+{"count": 39, "name": "Wolfiporia extensa", "weight": 0.0, "id": 2777855848, "level": 2}
+{"count": 87, "name": "Emepronium bromide", "weight": 0.0, "id": 2781412087, "level": 2}
+{"count": 12, "name": "Urogenital neoplasm", "weight": 0.0, "id": 2781321989, "level": 2}
+{"count": 10, "name": "Bulb of penis", "weight": 0.0, "id": 2777999993, "level": 2}
+{"count": 11, "name": "Fraley syndrome", "weight": 0.0, "id": 2778799291, "level": 2}
+{"count": 35, "name": "Monorchism", "weight": 0.0, "id": 2779877206, "level": 2}
+{"count": 14, "name": "Post-void dribbling", "weight": 0.0, "id": 2778602829, "level": 2}
+{"count": 63, "name": "Trigonitis", "weight": 0.0, "id": 2777480434, "level": 2}
+{"count": 3, "name": "Cred\u00e9's maneuver", "weight": 0.0, "id": 2778942386, "level": 2}
+{"count": 8, "name": "Ampulla of ductus deferens", "weight": 0.0, "id": 2779342591, "level": 2}
+{"count": 2, "name": "Vesical venous plexus", "weight": 0.0, "id": 2780455165, "level": 2}
+{"count": 12, "name": "Lymphohemangioma", "weight": 0.0, "id": 2778666553, "level": 2}
+{"count": 12, "name": "Elimination communication", "weight": 0.0, "id": 2778980265, "level": 2}
+{"count": 16, "name": "Vesicointestinal fistula", "weight": 0.0, "id": 2777271559, "level": 2}
+{"count": 4, "name": "Bulbar urethral necrosis", "weight": 0.0, "id": 2779961836, "level": 2}
+{"count": 3, "name": "Prostatic congestion", "weight": 0.0, "id": 2780699746, "level": 2}
+{"count": 4, "name": "Vestibular adenitis", "weight": 0.0, "id": 2776337721, "level": 2}
+{"count": 2, "name": "Middle rectal veins", "weight": 0.0, "id": 2776797729, "level": 2}
+{"count": 3, "name": "Recto-vesical pouch", "weight": 0.0, "id": 2780700403, "level": 2}
+{"count": 6, "name": "Urolagnia", "weight": 0.0, "id": 2778739296, "level": 2}
+{"count": 8, "name": "External urine collection device", "weight": 0.0, "id": 2778124028, "level": 2}
+{"count": 1, "name": "Frenular delta", "weight": 0.0, "id": 2776160963, "level": 2}
+{"count": 32, "name": "Lithogenes", "weight": 0.0, "id": 2779135635, "level": 2}
+{"count": 6, "name": "Double dye test", "weight": 0.0, "id": 2779177312, "level": 2}
+{"count": 7, "name": "Urethral crest", "weight": 0.0, "id": 2779416555, "level": 2}
+{"count": 2, "name": "CJ-033466", "weight": 0.0, "id": 2777607609, "level": 2}
+{"count": 2, "name": "Anterior prolapse (cystocele)", "weight": 0.0, "id": 2780482080, "level": 2}
+{"count": 6, "name": "Urethral bulking injections", "weight": 0.0, "id": 2777569492, "level": 2}
+{"count": 1, "name": "PRX-03140", "weight": 0.0, "id": 2778047745, "level": 2}
+{"count": 3, "name": "3-Methyl-2-pentanol", "weight": 0.0, "id": 2778399160, "level": 2}
+{"count": 1, "name": "Urethral sponge", "weight": 0.0, "id": 2775844851, "level": 2}
+{"count": 7, "name": "William P. Didusch Center for Urologic History", "weight": 0.0, "id": 2778569190, "level": 2}
+{"count": 7, "name": "Istinja", "weight": 0.0, "id": 2778849221, "level": 2}
+{"count": 1, "name": "Lumbar branch of iliolumbar artery", "weight": 0.0, "id": 2777159863, "level": 2}
+{"count": 5, "name": "Urethral intercourse", "weight": 0.0, "id": 2780963808, "level": 2}
+{"count": 8, "name": "Pubovesical ligament", "weight": 0.0, "id": 2778652244, "level": 2}
+{"count": 3, "name": "Isthmus of uterine tube", "weight": 0.0, "id": 2780792545, "level": 2}
+{"count": 9, "name": "Feline cystitis", "weight": 0.0, "id": 2780216550, "level": 2}
+{"count": 3, "name": "Arcuate arteries of the kidney", "weight": 0.0, "id": 2780328711, "level": 2}
+{"count": 3, "name": "Rectoprostatic fascia", "weight": 0.0, "id": 2777747211, "level": 2}
+{"count": 1, "name": "Supravaginal portion of cervix", "weight": 0.0, "id": 2778407765, "level": 2}
+{"count": 2, "name": "Athletic incontinence", "weight": 0.0, "id": 2776821588, "level": 2}
+{"count": 4, "name": "Orifice of ureter", "weight": 0.0, "id": 2781070154, "level": 2}

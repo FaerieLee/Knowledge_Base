@@ -1,0 +1,26 @@
+{"count": 2023, "name": "Educational robotics", "weight": 9.0, "id": 183889225, "level": 4}
+{"count": 1278, "name": "Behavior-based robotics", "weight": 5.0, "id": 19766214, "level": 4}
+{"count": 880, "name": "Developmental robotics", "weight": 4.0, "id": 11207580, "level": 4}
+{"count": 539, "name": "Robotic sensing", "weight": 2.0, "id": 17371274, "level": 4}
+{"count": 374, "name": "Roboethics", "weight": 1.0, "id": 145498933, "level": 4}
+{"count": 299, "name": "Cloud robotics", "weight": 1.0, "id": 2780014157, "level": 4}
+{"count": 436, "name": "Lego Mindstorms NXT", "weight": 1.0, "id": 2780400287, "level": 4}
+{"count": 194, "name": "Robonaut", "weight": 0.0, "id": 147716585, "level": 4}
+{"count": 98, "name": "Braitenberg vehicle", "weight": 0.0, "id": 145439700, "level": 4}
+{"count": 127, "name": "Laboratory robotics", "weight": 0.0, "id": 2780796003, "level": 4}
+{"count": 26, "name": "NeuroArm", "weight": 0.0, "id": 2775990230, "level": 4}
+{"count": 106, "name": "Robot kit", "weight": 0.0, "id": 2777706602, "level": 4}
+{"count": 111, "name": "PackBot", "weight": 0.0, "id": 94521450, "level": 4}
+{"count": 30, "name": "Robotics middleware", "weight": 0.0, "id": 2780357631, "level": 4}
+{"count": 31, "name": "Situated robotics", "weight": 0.0, "id": 2779471426, "level": 4}
+{"count": 31, "name": "Open-source robotics", "weight": 0.0, "id": 6422307, "level": 4}
+{"count": 15, "name": "Concurrency and Coordination Runtime", "weight": 0.0, "id": 2779508343, "level": 4}
+{"count": 77, "name": "Robotics simulator", "weight": 0.0, "id": 2781320656, "level": 4}
+{"count": 1906, "name": "Future of robotics", "weight": 8.0, "id": 148500892, "level": 4}
+{"count": 31, "name": "Perceptual robotics", "weight": 0.0, "id": 2775834463, "level": 4}
+{"count": 51, "name": "LAURON", "weight": 0.0, "id": 86174229, "level": 4}
+{"count": 598, "name": "AISoy1", "weight": 2.0, "id": 15295789, "level": 4}
+{"count": 11, "name": "Robopsychology", "weight": 0.0, "id": 144401005, "level": 4}
+{"count": 1093, "name": "Robotic paradigms", "weight": 4.0, "id": 60940618, "level": 4}
+{"count": 14, "name": "VIBOT", "weight": 0.0, "id": 2778040385, "level": 4}
+{"count": 2199, "name": "Geography of robotics", "weight": 10.0, "id": 14085189, "level": 4}

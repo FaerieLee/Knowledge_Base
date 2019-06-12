@@ -1,0 +1,16 @@
+{"count": 143, "name": "Vector Field Histogram", "weight": 0.0, "id": 48418259, "level": 5}
+{"count": 3103, "name": "Turn-by-turn navigation", "weight": 5.0, "id": 43472768, "level": 5}
+{"count": 5881, "name": "Personal robot", "weight": 10.0, "id": 168402607, "level": 5}
+{"count": 1898, "name": "Area navigation", "weight": 3.0, "id": 146419311, "level": 5}
+{"count": 134, "name": "Dynamic window approach", "weight": 0.0, "id": 2781296712, "level": 5}
+{"count": 409, "name": "Required navigation performance", "weight": 0.0, "id": 165258833, "level": 5}
+{"count": 632, "name": "Autonomous Navigation System", "weight": 1.0, "id": 2778361871, "level": 5}
+{"count": 3224, "name": "Ubiquitous robot", "weight": 5.0, "id": 101188967, "level": 5}
+{"count": 904, "name": "Performance-based navigation", "weight": 1.0, "id": 145985676, "level": 5}
+{"count": 24, "name": "Wakamaru", "weight": 0.0, "id": 205377941, "level": 5}
+{"count": 119, "name": "VNAV", "weight": 0.0, "id": 102052665, "level": 5}
+{"count": 2040, "name": "Wind triangle", "weight": 3.0, "id": 178001088, "level": 5}
+{"count": 15, "name": "Standard terminal arrival route", "weight": 0.0, "id": 2777367772, "level": 5}
+{"count": 46, "name": "LNAV", "weight": 0.0, "id": 2776667806, "level": 5}
+{"count": 705, "name": "AVM Navigator", "weight": 1.0, "id": 138481207, "level": 5}
+{"count": 76, "name": "Tico Robot", "weight": 0.0, "id": 122470516, "level": 5}

@@ -1,0 +1,19 @@
+{"count": 336, "name": "Encrypted key exchange", "weight": 1.0, "id": 35923115, "level": 5}
+{"count": 1071, "name": "Reflection attack", "weight": 3.0, "id": 91069110, "level": 5}
+{"count": 202, "name": "Digest access authentication", "weight": 0.0, "id": 83635276, "level": 5}
+{"count": 243, "name": "3-D Secure", "weight": 0.0, "id": 17626490, "level": 5}
+{"count": 2700, "name": "Generic Bootstrapping Architecture", "weight": 10.0, "id": 174953433, "level": 5}
+{"count": 296, "name": "Three-pass protocol", "weight": 1.0, "id": 152885571, "level": 5}
+{"count": 234, "name": "Interlock protocol", "weight": 0.0, "id": 13670436, "level": 5}
+{"count": 277, "name": "Length extension attack", "weight": 1.0, "id": 174176344, "level": 5}
+{"count": 391, "name": "Key stretching", "weight": 1.0, "id": 14980834, "level": 5}
+{"count": 687, "name": "Protected Extensible Authentication Protocol", "weight": 2.0, "id": 152109069, "level": 5}
+{"count": 116, "name": "SPNEGO", "weight": 0.0, "id": 61141284, "level": 5}
+{"count": 197, "name": "Pass the hash", "weight": 0.0, "id": 150454756, "level": 5}
+{"count": 964, "name": "Wide Mouth Frog protocol", "weight": 3.0, "id": 124086997, "level": 5}
+{"count": 2181, "name": "Zero-knowledge password proof", "weight": 8.0, "id": 188615804, "level": 5}
+{"count": 728, "name": "SSLIOP", "weight": 2.0, "id": 156182983, "level": 5}
+{"count": 1077, "name": "NTLMSSP", "weight": 3.0, "id": 78845137, "level": 5}
+{"count": 7, "name": "DRYAD", "weight": 0.0, "id": 27337787, "level": 5}
+{"count": 343, "name": "HMAC-based One-time Password Algorithm", "weight": 1.0, "id": 145082925, "level": 5}
+{"count": 803, "name": "Generic Security Service Algorithm for Secret Key Transaction", "weight": 2.0, "id": 101225424, "level": 5}

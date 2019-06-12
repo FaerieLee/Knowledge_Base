@@ -1,0 +1,200 @@
+{"count": 104355, "name": "Upper and lower bounds", "weight": 9.0, "id": 77553402, "level": 2}
+{"count": 37095, "name": "Graph theory", "weight": 3.0, "id": 88230418, "level": 2}
+{"count": 60617, "name": "Time complexity", "weight": 5.0, "id": 311688, "level": 2}
+{"count": 33945, "name": "Random walk", "weight": 3.0, "id": 121194460, "level": 2}
+{"count": 50115, "name": "Community structure", "weight": 4.0, "id": 133079900, "level": 2}
+{"count": 27941, "name": "Approximation algorithm", "weight": 2.0, "id": 148764684, "level": 2}
+{"count": 22665, "name": "Block code", "weight": 2.0, "id": 157125643, "level": 2}
+{"count": 14426, "name": "Directed graph", "weight": 1.0, "id": 146380142, "level": 2}
+{"count": 13169, "name": "Boolean function", "weight": 1.0, "id": 187455244, "level": 2}
+{"count": 16125, "name": "Generating function", "weight": 1.0, "id": 204911207, "level": 2}
+{"count": 1283, "name": "Difference set", "weight": 0.0, "id": 188204562, "level": 2}
+{"count": 19912, "name": "Shortest path problem", "weight": 1.0, "id": 22590252, "level": 2}
+{"count": 15456, "name": "Finite field", "weight": 1.0, "id": 77926391, "level": 2}
+{"count": 21839, "name": "Percolation", "weight": 1.0, "id": 143691341, "level": 2}
+{"count": 16705, "name": "Flow network", "weight": 1.0, "id": 114809511, "level": 2}
+{"count": 12960, "name": "Random graph", "weight": 1.0, "id": 47458327, "level": 2}
+{"count": 9355, "name": "Decomposition method (constraint satisfaction)", "weight": 0.0, "id": 138561194, "level": 2}
+{"count": 6886, "name": "Randomized algorithm", "weight": 0.0, "id": 128669082, "level": 2}
+{"count": 2882, "name": "NP-complete", "weight": 0.0, "id": 122749075, "level": 2}
+{"count": 48736, "name": "Partition (number theory)", "weight": 4.0, "id": 42812, "level": 2}
+{"count": 13079, "name": "Sunflower", "weight": 1.0, "id": 2779197568, "level": 2}
+{"count": 11845, "name": "Voronoi diagram", "weight": 1.0, "id": 24881265, "level": 2}
+{"count": 16597, "name": "Bipartite graph", "weight": 1.0, "id": 197657726, "level": 2}
+{"count": 5674, "name": "Turing machine", "weight": 0.0, "id": 29248071, "level": 2}
+{"count": 3958, "name": "Tree (graph theory)", "weight": 0.0, "id": 89865432, "level": 2}
+{"count": 12754, "name": "Convex hull", "weight": 1.0, "id": 206194317, "level": 2}
+{"count": 10936, "name": "Spanning tree", "weight": 0.0, "id": 64331007, "level": 2}
+{"count": 13330, "name": "Vehicle routing problem", "weight": 1.0, "id": 123784306, "level": 2}
+{"count": 8366, "name": "Binary tree", "weight": 0.0, "id": 197855036, "level": 2}
+{"count": 7546, "name": "Independent set", "weight": 0.0, "id": 122818955, "level": 2}
+{"count": 18365, "name": "Linear code", "weight": 1.0, "id": 2400350, "level": 2}
+{"count": 6626, "name": "Directed acyclic graph", "weight": 0.0, "id": 74197172, "level": 2}
+{"count": 29675, "name": "Permutation", "weight": 2.0, "id": 147849574, "level": 2}
+{"count": 7134, "name": "Matching (graph theory)", "weight": 0.0, "id": 19453392, "level": 2}
+{"count": 9976, "name": "Assignment problem", "weight": 0.0, "id": 85044808, "level": 2}
+{"count": 7507, "name": "Connected component", "weight": 0.0, "id": 193435613, "level": 2}
+{"count": 6910, "name": "Automata theory", "weight": 0.0, "id": 116248031, "level": 2}
+{"count": 4546, "name": "Steiner tree problem", "weight": 0.0, "id": 76220878, "level": 2}
+{"count": 8711, "name": "Hypercube", "weight": 0.0, "id": 50820777, "level": 2}
+{"count": 4197, "name": "Algorithmics", "weight": 0.0, "id": 34628019, "level": 2}
+{"count": 7192, "name": "Minimum spanning tree", "weight": 0.0, "id": 13743678, "level": 2}
+{"count": 3535, "name": "Block design", "weight": 0.0, "id": 689293, "level": 2}
+{"count": 3718, "name": "Coding theory", "weight": 0.0, "id": 113709454, "level": 2}
+{"count": 2380, "name": "Set cover problem", "weight": 0.0, "id": 100808899, "level": 2}
+{"count": 8577, "name": "Delaunay triangulation", "weight": 0.0, "id": 68010082, "level": 2}
+{"count": 4146, "name": "Maximum flow problem", "weight": 0.0, "id": 157469704, "level": 2}
+{"count": 5425, "name": "Network theory", "weight": 0.0, "id": 11804174, "level": 2}
+{"count": 4321, "name": "Graph partition", "weight": 0.0, "id": 48903430, "level": 2}
+{"count": 8093, "name": "Partially ordered set", "weight": 0.0, "id": 180645754, "level": 2}
+{"count": 6716, "name": "Hamming distance", "weight": 0.0, "id": 193319292, "level": 2}
+{"count": 11489, "name": "Decidability", "weight": 1.0, "id": 153269930, "level": 2}
+{"count": 4496, "name": "Graph coloring", "weight": 0.0, "id": 76946457, "level": 2}
+{"count": 2467, "name": "Latin square", "weight": 0.0, "id": 158887663, "level": 2}
+{"count": 16045, "name": "Enumeration", "weight": 1.0, "id": 156340839, "level": 2}
+{"count": 4549, "name": "Regular language", "weight": 0.0, "id": 52370388, "level": 2}
+{"count": 11096, "name": "Rectification", "weight": 0.0, "id": 50942859, "level": 2}
+{"count": 14068, "name": "Polyhedron", "weight": 1.0, "id": 54829058, "level": 2}
+{"count": 3744, "name": "Symmetric function", "weight": 0.0, "id": 3746008, "level": 2}
+{"count": 84956, "name": "Integer", "weight": 7.0, "id": 4071166, "level": 2}
+{"count": 1957, "name": "Computability theory", "weight": 0.0, "id": 111142201, "level": 2}
+{"count": 7048, "name": "Symmetric group", "weight": 0.0, "id": 128622974, "level": 2}
+{"count": 79956, "name": "Vertex (geometry)", "weight": 7.0, "id": 118311129, "level": 2}
+{"count": 3465, "name": "Bin packing problem", "weight": 0.0, "id": 87219788, "level": 2}
+{"count": 2858, "name": "Circuit complexity", "weight": 0.0, "id": 90702460, "level": 2}
+{"count": 9751, "name": "Network formation", "weight": 0.0, "id": 68416499, "level": 2}
+{"count": 4731, "name": "Computability", "weight": 0.0, "id": 152062344, "level": 2}
+{"count": 2619, "name": "Discrete geometry", "weight": 0.0, "id": 4107886, "level": 2}
+{"count": 3954, "name": "Binary relation", "weight": 0.0, "id": 65180967, "level": 2}
+{"count": 8419, "name": "Polytope", "weight": 0.0, "id": 145691206, "level": 2}
+{"count": 2214, "name": "Analysis of algorithms", "weight": 0.0, "id": 64731005, "level": 2}
+{"count": 112501, "name": "SMA*", "weight": 10.0, "id": 161921814, "level": 2}
+{"count": 22707, "name": "Conductance", "weight": 2.0, "id": 121932024, "level": 2}
+{"count": 2189, "name": "Context-free language", "weight": 0.0, "id": 198838072, "level": 2}
+{"count": 2566, "name": "Linear logic", "weight": 0.0, "id": 28077239, "level": 2}
+{"count": 1910, "name": "Binary search tree", "weight": 0.0, "id": 91154448, "level": 2}
+{"count": 8529, "name": "Fibonacci number", "weight": 0.0, "id": 173734053, "level": 2}
+{"count": 3110, "name": "Group testing", "weight": 0.0, "id": 177580056, "level": 2}
+{"count": 760, "name": "Digraph", "weight": 0.0, "id": 2779145032, "level": 2}
+{"count": 3298, "name": "Permutation group", "weight": 0.0, "id": 92957085, "level": 2}
+{"count": 1391, "name": "Minimum cut", "weight": 0.0, "id": 185690422, "level": 2}
+{"count": 3286, "name": "Cayley graph", "weight": 0.0, "id": 120204988, "level": 2}
+{"count": 15913, "name": "Centrality", "weight": 1.0, "id": 53811970, "level": 2}
+{"count": 27349, "name": "Cage", "weight": 2.0, "id": 160272327, "level": 2}
+{"count": 3289, "name": "Simplicial complex", "weight": 0.0, "id": 187929450, "level": 2}
+{"count": 5012, "name": "Matroid", "weight": 0.0, "id": 106286213, "level": 2}
+{"count": 3007, "name": "Strongly connected component", "weight": 0.0, "id": 38754835, "level": 2}
+{"count": 1944, "name": "Triangle inequality", "weight": 0.0, "id": 182964748, "level": 2}
+{"count": 11234, "name": "Tournament", "weight": 0.0, "id": 136975688, "level": 2}
+{"count": 2933, "name": "Betti number", "weight": 0.0, "id": 129621563, "level": 2}
+{"count": 282, "name": "Combinatorial method", "weight": 0.0, "id": 2779521423, "level": 2}
+{"count": 16083, "name": "Transitive relation", "weight": 1.0, "id": 191399111, "level": 2}
+{"count": 3714, "name": "Bond graph", "weight": 0.0, "id": 187593909, "level": 2}
+{"count": 1890, "name": "Kolmogorov complexity", "weight": 0.0, "id": 2779341405, "level": 2}
+{"count": 3447, "name": "Coxeter group", "weight": 0.0, "id": 143669375, "level": 2}
+{"count": 868, "name": "Canonical normal form", "weight": 0.0, "id": 105285975, "level": 2}
+{"count": 5415, "name": "Lexicographical order", "weight": 0.0, "id": 159254197, "level": 2}
+{"count": 1644, "name": "Gibbs measure", "weight": 0.0, "id": 158444337, "level": 2}
+{"count": 13568, "name": "Chordal graph", "weight": 1.0, "id": 160446614, "level": 2}
+{"count": 3909, "name": "Cartesian product", "weight": 0.0, "id": 65236422, "level": 2}
+{"count": 1100, "name": "Tree automaton", "weight": 0.0, "id": 2778583254, "level": 2}
+{"count": 2871, "name": "Deterministic automaton", "weight": 0.0, "id": 194525867, "level": 2}
+{"count": 1006, "name": "Algebraic graph theory", "weight": 0.0, "id": 25799778, "level": 2}
+{"count": 1433, "name": "Longest common subsequence problem", "weight": 0.0, "id": 120098539, "level": 2}
+{"count": 1836, "name": "Infinite divisibility", "weight": 0.0, "id": 152482075, "level": 2}
+{"count": 4475, "name": "Cycle graph", "weight": 0.0, "id": 120103743, "level": 2}
+{"count": 4319, "name": "Boolean circuit", "weight": 0.0, "id": 141796577, "level": 2}
+{"count": 682, "name": "Expander graph", "weight": 0.0, "id": 154547637, "level": 2}
+{"count": 2384, "name": "Binomial coefficient", "weight": 0.0, "id": 34718186, "level": 2}
+{"count": 5009, "name": "Boolean expression", "weight": 0.0, "id": 158465420, "level": 2}
+{"count": 1657, "name": "Association scheme", "weight": 0.0, "id": 73361133, "level": 2}
+{"count": 1044, "name": "Disjunctive normal form", "weight": 0.0, "id": 136726353, "level": 2}
+{"count": 1552, "name": "Bernoulli number", "weight": 0.0, "id": 129960964, "level": 2}
+{"count": 1664, "name": "Pushdown automaton", "weight": 0.0, "id": 77944639, "level": 2}
+{"count": 486, "name": "Boolean model", "weight": 0.0, "id": 67499762, "level": 2}
+{"count": 1129, "name": "Young tableau", "weight": 0.0, "id": 165368118, "level": 2}
+{"count": 1112, "name": "Interacting particle system", "weight": 0.0, "id": 42246873, "level": 2}
+{"count": 720, "name": "Integer factorization", "weight": 0.0, "id": 119677069, "level": 2}
+{"count": 1173, "name": "Tree decomposition", "weight": 0.0, "id": 70501317, "level": 2}
+{"count": 1244, "name": "Property testing", "weight": 0.0, "id": 123842658, "level": 2}
+{"count": 3623, "name": "Cardinal number", "weight": 0.0, "id": 129765961, "level": 2}
+{"count": 1168, "name": "Combinatorial design", "weight": 0.0, "id": 122451846, "level": 2}
+{"count": 1131, "name": "Stirling number", "weight": 0.0, "id": 168902406, "level": 2}
+{"count": 2818, "name": "Topological index", "weight": 0.0, "id": 159867001, "level": 2}
+{"count": 1425, "name": "Hitting time", "weight": 0.0, "id": 199277547, "level": 2}
+{"count": 1357, "name": "Quantifier elimination", "weight": 0.0, "id": 32278780, "level": 2}
+{"count": 25035, "name": "Parameterized complexity", "weight": 2.0, "id": 165464430, "level": 2}
+{"count": 6764, "name": "Constraint graph", "weight": 0.0, "id": 178481205, "level": 2}
+{"count": 9288, "name": "Eulerian path", "weight": 0.0, "id": 43058520, "level": 2}
+{"count": 648, "name": "Topological complexity", "weight": 0.0, "id": 2778478883, "level": 2}
+{"count": 2505, "name": "Recreational mathematics", "weight": 0.0, "id": 132478621, "level": 2}
+{"count": 1357, "name": "Wreath product", "weight": 0.0, "id": 95635736, "level": 2}
+{"count": 1988, "name": "Computable function", "weight": 0.0, "id": 54271186, "level": 2}
+{"count": 792, "name": "Geometric probability", "weight": 0.0, "id": 7605037, "level": 2}
+{"count": 2727, "name": "Space syntax", "weight": 0.0, "id": 2777103068, "level": 2}
+{"count": 903, "name": "Streaming algorithm", "weight": 0.0, "id": 187166803, "level": 2}
+{"count": 2843, "name": "Timed automaton", "weight": 0.0, "id": 30788636, "level": 2}
+{"count": 6563, "name": "Natural number", "weight": 0.0, "id": 184264201, "level": 2}
+{"count": 1945, "name": "Spatial network", "weight": 0.0, "id": 53471067, "level": 2}
+{"count": 1150, "name": "Catalan number", "weight": 0.0, "id": 43929256, "level": 2}
+{"count": 798, "name": "Intersection number", "weight": 0.0, "id": 103368685, "level": 2}
+{"count": 1228, "name": "Maximum cut", "weight": 0.0, "id": 165526019, "level": 2}
+{"count": 1937, "name": "Convex geometry", "weight": 0.0, "id": 110202963, "level": 2}
+{"count": 268, "name": "Max-flow min-cut theorem", "weight": 0.0, "id": 36740117, "level": 2}
+{"count": 926, "name": "Stable marriage problem", "weight": 0.0, "id": 146393371, "level": 2}
+{"count": 2088, "name": "Dependency graph", "weight": 0.0, "id": 16311509, "level": 2}
+{"count": 2685, "name": "Comparability", "weight": 0.0, "id": 197947376, "level": 2}
+{"count": 1208, "name": "Unimodality", "weight": 0.0, "id": 21596040, "level": 2}
+{"count": 1358, "name": "Dihedral group", "weight": 0.0, "id": 72409365, "level": 2}
+{"count": 246, "name": "Random mapping", "weight": 0.0, "id": 2778162404, "level": 2}
+{"count": 605, "name": "Mathematical chemistry", "weight": 0.0, "id": 158808287, "level": 2}
+{"count": 3318, "name": "Tessellation", "weight": 0.0, "id": 97002563, "level": 2}
+{"count": 801, "name": "Cluster algebra", "weight": 0.0, "id": 165879259, "level": 2}
+{"count": 2619, "name": "Deterministic algorithm", "weight": 0.0, "id": 13533509, "level": 2}
+{"count": 1915, "name": "Knot invariant", "weight": 0.0, "id": 36794415, "level": 2}
+{"count": 1560, "name": "Covering problems", "weight": 0.0, "id": 103646786, "level": 2}
+{"count": 1157, "name": "Palindrome", "weight": 0.0, "id": 44667518, "level": 2}
+{"count": 1150, "name": "Total variation", "weight": 0.0, "id": 62100291, "level": 2}
+{"count": 2029, "name": "Subgraph isomorphism problem", "weight": 0.0, "id": 131992880, "level": 2}
+{"count": 1336, "name": "Ramsey theory", "weight": 0.0, "id": 112291201, "level": 2}
+{"count": 6437, "name": "Adjacency list", "weight": 0.0, "id": 110484373, "level": 2}
+{"count": 1936, "name": "Strongly regular graph", "weight": 0.0, "id": 133875400, "level": 2}
+{"count": 2222, "name": "Symmetrization", "weight": 0.0, "id": 64999384, "level": 2}
+{"count": 534, "name": "Arborescence", "weight": 0.0, "id": 207124256, "level": 2}
+{"count": 1233, "name": "Algebraic combinatorics", "weight": 0.0, "id": 54643580, "level": 2}
+{"count": 801, "name": "Subset sum problem", "weight": 0.0, "id": 109275537, "level": 2}
+{"count": 743, "name": "Bernoulli trial", "weight": 0.0, "id": 46802686, "level": 2}
+{"count": 675, "name": "Circle packing", "weight": 0.0, "id": 123115066, "level": 2}
+{"count": 739, "name": "Stein's method", "weight": 0.0, "id": 198496030, "level": 2}
+{"count": 2635, "name": "Submodular set function", "weight": 0.0, "id": 178621042, "level": 2}
+{"count": 1021, "name": "Topological graph", "weight": 0.0, "id": 8764922, "level": 2}
+{"count": 880, "name": "Dual graph", "weight": 0.0, "id": 169827030, "level": 2}
+{"count": 14487, "name": "Cardinality", "weight": 1.0, "id": 39673530, "level": 2}
+{"count": 178, "name": "Zero\u2013one law", "weight": 0.0, "id": 2777166745, "level": 2}
+{"count": 496, "name": "M\u00f6bius function", "weight": 0.0, "id": 2776609879, "level": 2}
+{"count": 1223, "name": "Magic square", "weight": 0.0, "id": 44201097, "level": 2}
+{"count": 8436, "name": "Open problem", "weight": 0.0, "id": 2777185003, "level": 2}
+{"count": 6385, "name": "Bijection", "weight": 0.0, "id": 24424167, "level": 2}
+{"count": 44831, "name": "Conjecture", "weight": 3.0, "id": 2780990831, "level": 2}
+{"count": 18473, "name": "Disjoint sets", "weight": 1.0, "id": 45340560, "level": 2}
+{"count": 633, "name": "Quantum graph", "weight": 0.0, "id": 164886730, "level": 2}
+{"count": 479, "name": "Color-coding", "weight": 0.0, "id": 104597421, "level": 2}
+{"count": 2523, "name": "Packing problems", "weight": 0.0, "id": 130253271, "level": 2}
+{"count": 601, "name": "Chernoff bound", "weight": 0.0, "id": 14539891, "level": 2}
+{"count": 1977, "name": "Semiring", "weight": 0.0, "id": 21696900, "level": 2}
+{"count": 2786, "name": "Elementary symmetric polynomial", "weight": 0.0, "id": 64338288, "level": 2}
+{"count": 455, "name": "Generalized quadrangle", "weight": 0.0, "id": 2778249539, "level": 2}
+{"count": 1118, "name": "Intersection graph", "weight": 0.0, "id": 54540088, "level": 2}
+{"count": 804, "name": "Combinatorics on words", "weight": 0.0, "id": 164804908, "level": 2}
+{"count": 165, "name": "Relative neighborhood graph", "weight": 0.0, "id": 2779836998, "level": 2}
+{"count": 239, "name": "Inclusion\u2013exclusion principle", "weight": 0.0, "id": 134320572, "level": 2}
+{"count": 431, "name": "Mutually unbiased bases", "weight": 0.0, "id": 158587675, "level": 2}
+{"count": 716, "name": "Abelian sandpile model", "weight": 0.0, "id": 52359947, "level": 2}
+{"count": 264, "name": "Bridge (graph theory)", "weight": 0.0, "id": 100776233, "level": 2}
+{"count": 634, "name": "Closure (mathematics)", "weight": 0.0, "id": 108339968, "level": 2}
+{"count": 968, "name": "Persistent homology", "weight": 0.0, "id": 2874115, "level": 2}
+{"count": 3367, "name": "Planarity testing", "weight": 0.0, "id": 68260962, "level": 2}
+{"count": 347, "name": "Finite model theory", "weight": 0.0, "id": 25206530, "level": 2}
+{"count": 657, "name": "Kleene algebra", "weight": 0.0, "id": 206470798, "level": 2}
+{"count": 2576, "name": "Maximum satisfiability problem", "weight": 0.0, "id": 111797529, "level": 2}
+{"count": 1231, "name": "Path (graph theory)", "weight": 0.0, "id": 89310161, "level": 2}

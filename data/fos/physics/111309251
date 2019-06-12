@@ -1,0 +1,26 @@
+{"count": 8862, "name": "Heliosphere", "weight": 6.0, "id": 54834619, "level": 3}
+{"count": 5809, "name": "Gamma-ray astronomy", "weight": 4.0, "id": 522846370, "level": 3}
+{"count": 3248, "name": "Solar energetic particles", "weight": 2.0, "id": 13019657, "level": 3}
+{"count": 12711, "name": "Ultra-high-energy cosmic ray", "weight": 10.0, "id": 91752515, "level": 3}
+{"count": 3946, "name": "High-energy astronomy", "weight": 3.0, "id": 163926583, "level": 3}
+{"count": 3201, "name": "Neutron monitor", "weight": 2.0, "id": 2780510704, "level": 3}
+{"count": 2150, "name": "Cosmogenic nuclide", "weight": 1.0, "id": 101140149, "level": 3}
+{"count": 1143, "name": "Solar particle event", "weight": 0.0, "id": 67266756, "level": 3}
+{"count": 499, "name": "Alpha Magnetic Spectrometer", "weight": 0.0, "id": 41613298, "level": 3}
+{"count": 977, "name": "Hodoscope", "weight": 0.0, "id": 176430495, "level": 3}
+{"count": 736, "name": "Cosmic noise", "weight": 0.0, "id": 101649592, "level": 3}
+{"count": 1234, "name": "Sidereal time", "weight": 0.0, "id": 32054603, "level": 3}
+{"count": 3943, "name": "Air shower", "weight": 3.0, "id": 151456734, "level": 3}
+{"count": 239, "name": "Muon tomography", "weight": 0.0, "id": 2778717261, "level": 3}
+{"count": 132, "name": "Runaway breakdown", "weight": 0.0, "id": 2781402187, "level": 3}
+{"count": 431, "name": "HEGRA", "weight": 0.0, "id": 2781026143, "level": 3}
+{"count": 73, "name": "Muography", "weight": 0.0, "id": 2781146295, "level": 3}
+{"count": 70, "name": "HZE ions", "weight": 0.0, "id": 103623324, "level": 3}
+{"count": 71, "name": "Particle shower", "weight": 0.0, "id": 2781321235, "level": 3}
+{"count": 41, "name": "Relativistic runaway electron avalanche", "weight": 0.0, "id": 2777997104, "level": 3}
+{"count": 94, "name": "Relic particles", "weight": 0.0, "id": 2780809214, "level": 3}
+{"count": 13, "name": "Meter water equivalent", "weight": 0.0, "id": 2779209354, "level": 3}
+{"count": 186, "name": "International Cosmic Ray Conference", "weight": 0.0, "id": 2781433378, "level": 3}
+{"count": 10, "name": "Centauro event", "weight": 0.0, "id": 2778421361, "level": 3}
+{"count": 2012, "name": "Shock waves in astrophysics", "weight": 1.0, "id": 135975100, "level": 3}
+{"count": 6, "name": "Monopole, Astrophysics and Cosmic Ray Observatory", "weight": 0.0, "id": 2776449679, "level": 3}

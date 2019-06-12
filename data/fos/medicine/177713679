@@ -1,0 +1,145 @@
+{"count": 70721, "name": "Resuscitation", "weight": 6.0, "id": 2778165595, "level": 2}
+{"count": 83305, "name": "Intensive care unit", "weight": 8.0, "id": 2776376669, "level": 2}
+{"count": 24105, "name": "Severity of illness", "weight": 2.0, "id": 30036603, "level": 2}
+{"count": 28554, "name": "Respiratory tract", "weight": 2.0, "id": 2779644171, "level": 2}
+{"count": 102504, "name": "Sepsis", "weight": 10.0, "id": 2778384902, "level": 2}
+{"count": 91251, "name": "Emergency department", "weight": 8.0, "id": 2780724011, "level": 2}
+{"count": 41734, "name": "Mechanical ventilation", "weight": 4.0, "id": 2777080012, "level": 2}
+{"count": 15830, "name": "Ambulatory", "weight": 1.0, "id": 35785553, "level": 2}
+{"count": 27551, "name": "Bacteremia", "weight": 2.0, "id": 2779443120, "level": 2}
+{"count": 10529, "name": "Chemoprophylaxis", "weight": 1.0, "id": 2776688490, "level": 2}
+{"count": 17853, "name": "Amphotericin B", "weight": 1.0, "id": 2779629538, "level": 2}
+{"count": 26295, "name": "Respiratory failure", "weight": 2.0, "id": 2776888751, "level": 2}
+{"count": 28860, "name": "Infection control", "weight": 2.0, "id": 166888038, "level": 2}
+{"count": 30721, "name": "Burn", "weight": 2.0, "id": 2779302957, "level": 2}
+{"count": 15594, "name": "Aspergillosis", "weight": 1.0, "id": 2776391196, "level": 2}
+{"count": 20251, "name": "Organ transplantation", "weight": 1.0, "id": 168444539, "level": 2}
+{"count": 44229, "name": "Intubation", "weight": 4.0, "id": 2778716859, "level": 2}
+{"count": 18033, "name": "Respiratory tract infections", "weight": 1.0, "id": 2776012195, "level": 2}
+{"count": 12781, "name": "Fluconazole", "weight": 1.0, "id": 2780651595, "level": 2}
+{"count": 31693, "name": "Peritonitis", "weight": 3.0, "id": 2780199535, "level": 2}
+{"count": 14874, "name": "Anesthesiology", "weight": 1.0, "id": 2779526319, "level": 2}
+{"count": 41305, "name": "Sedation", "weight": 4.0, "id": 2776814716, "level": 2}
+{"count": 10847, "name": "Community-acquired pneumonia", "weight": 1.0, "id": 2776102371, "level": 2}
+{"count": 12515, "name": "Case fatality rate", "weight": 1.0, "id": 187316915, "level": 2}
+{"count": 12427, "name": "Blood culture", "weight": 1.0, "id": 2779473907, "level": 2}
+{"count": 17225, "name": "Delirium", "weight": 1.0, "id": 2779753318, "level": 2}
+{"count": 12381, "name": "Glasgow Coma Scale", "weight": 1.0, "id": 17624336, "level": 2}
+{"count": 9799, "name": "Acinetobacter", "weight": 0.0, "id": 2778523567, "level": 2}
+{"count": 16409, "name": "Neonatal intensive care unit", "weight": 1.0, "id": 2777091541, "level": 2}
+{"count": 8850, "name": "Neonatology", "weight": 0.0, "id": 536800656, "level": 2}
+{"count": 11446, "name": "Extracorporeal membrane oxygenation", "weight": 1.0, "id": 2776858399, "level": 2}
+{"count": 9938, "name": "Bronchiolitis", "weight": 0.0, "id": 2778821649, "level": 2}
+{"count": 6850, "name": "Voriconazole", "weight": 0.0, "id": 2780690907, "level": 2}
+{"count": 7649, "name": "Pulse oximetry", "weight": 0.0, "id": 2780124106, "level": 2}
+{"count": 8034, "name": "Pharyngitis", "weight": 0.0, "id": 2779279270, "level": 2}
+{"count": 7785, "name": "Clinical nutrition", "weight": 0.0, "id": 148257392, "level": 2}
+{"count": 989, "name": "Respiratory sounds", "weight": 0.0, "id": 2777402568, "level": 2}
+{"count": 7620, "name": "Gastrostomy", "weight": 0.0, "id": 2777014482, "level": 2}
+{"count": 4391, "name": "Point-of-care testing", "weight": 0.0, "id": 64841741, "level": 2}
+{"count": 8262, "name": "Tracheotomy", "weight": 0.0, "id": 2778551211, "level": 2}
+{"count": 3875, "name": "Blood product", "weight": 0.0, "id": 2777396833, "level": 2}
+{"count": 5672, "name": "Fresh frozen plasma", "weight": 0.0, "id": 66112548, "level": 2}
+{"count": 3705, "name": "Artificial heart", "weight": 0.0, "id": 2776342676, "level": 2}
+{"count": 5681, "name": "Pediatric intensive care unit", "weight": 0.0, "id": 2778939556, "level": 2}
+{"count": 4247, "name": "Upper respiratory tract infection", "weight": 0.0, "id": 2780805593, "level": 2}
+{"count": 4247, "name": "Bacterial pneumonia", "weight": 0.0, "id": 2776345407, "level": 2}
+{"count": 3611, "name": "Stenotrophomonas maltophilia", "weight": 0.0, "id": 2776352461, "level": 2}
+{"count": 4657, "name": "Aspiration pneumonia", "weight": 0.0, "id": 2781338923, "level": 2}
+{"count": 4437, "name": "Percutaneous endoscopic gastrostomy", "weight": 0.0, "id": 2780075904, "level": 2}
+{"count": 1524, "name": "Zygomycosis", "weight": 0.0, "id": 2776479810, "level": 2}
+{"count": 3772, "name": "Clinical pathway", "weight": 0.0, "id": 2778373050, "level": 2}
+{"count": 2486, "name": "Abdominal compartment syndrome", "weight": 0.0, "id": 2778931659, "level": 2}
+{"count": 1992, "name": "Cost\u2013utility analysis", "weight": 0.0, "id": 184834754, "level": 2}
+{"count": 12473, "name": "Oxygen therapy", "weight": 1.0, "id": 2780630273, "level": 2}
+{"count": 2184, "name": "Pulmonology", "weight": 0.0, "id": 179585855, "level": 2}
+{"count": 2404, "name": "Capnography", "weight": 0.0, "id": 2778207410, "level": 2}
+{"count": 1415, "name": "Pulmonary aspiration", "weight": 0.0, "id": 2777963132, "level": 2}
+{"count": 3086, "name": "Respiratory Medicine", "weight": 0.0, "id": 2777012970, "level": 2}
+{"count": 5872, "name": "Pediatric surgery", "weight": 0.0, "id": 2780423258, "level": 2}
+{"count": 1441, "name": "Hospital-acquired pneumonia", "weight": 0.0, "id": 2776710477, "level": 2}
+{"count": 1249, "name": "Purpura fulminans", "weight": 0.0, "id": 2777969115, "level": 2}
+{"count": 1391, "name": "Hospital-acquired infection", "weight": 0.0, "id": 2778866819, "level": 2}
+{"count": 2136, "name": "Croup", "weight": 0.0, "id": 2779651244, "level": 2}
+{"count": 1671, "name": "Epiglottitis", "weight": 0.0, "id": 2777217862, "level": 2}
+{"count": 2099, "name": "Neonatal infection", "weight": 0.0, "id": 2781452722, "level": 2}
+{"count": 3243, "name": "Hospital readmission", "weight": 0.0, "id": 2776644030, "level": 2}
+{"count": 2416, "name": "Neurointensive care", "weight": 0.0, "id": 165455791, "level": 2}
+{"count": 2268, "name": "Tachypnea", "weight": 0.0, "id": 2778312941, "level": 2}
+{"count": 1110, "name": "Neonatal nursing", "weight": 0.0, "id": 2776604044, "level": 2}
+{"count": 2094, "name": "Gastric lavage", "weight": 0.0, "id": 2778834955, "level": 2}
+{"count": 328, "name": "Intraabdominal infection", "weight": 0.0, "id": 2778830639, "level": 2}
+{"count": 1141, "name": "Artificial lung", "weight": 0.0, "id": 36843480, "level": 2}
+{"count": 6953, "name": "Life support", "weight": 0.0, "id": 2780409771, "level": 2}
+{"count": 2103, "name": "Respiratory arrest", "weight": 0.0, "id": 2780457178, "level": 2}
+{"count": 3170, "name": "Asepsis", "weight": 0.0, "id": 196762363, "level": 2}
+{"count": 703, "name": "Kangaroo care", "weight": 0.0, "id": 2777765887, "level": 2}
+{"count": 929, "name": "Heliox", "weight": 0.0, "id": 2780467175, "level": 2}
+{"count": 737, "name": "Post-anesthesia care unit", "weight": 0.0, "id": 2778151025, "level": 2}
+{"count": 2770, "name": "Intravascular volume status", "weight": 0.0, "id": 195646399, "level": 2}
+{"count": 1840, "name": "Pneumocystis pneumonia", "weight": 0.0, "id": 2777160144, "level": 2}
+{"count": 9354, "name": "Community hospital", "weight": 0.0, "id": 2779861157, "level": 2}
+{"count": 894, "name": "Clinical prediction rule", "weight": 0.0, "id": 2781381097, "level": 2}
+{"count": 3946, "name": "Feeding tube", "weight": 0.0, "id": 2778045676, "level": 2}
+{"count": 2252, "name": "Hospital medicine", "weight": 0.0, "id": 2780358146, "level": 2}
+{"count": 1006, "name": "Flail chest", "weight": 0.0, "id": 2778217840, "level": 2}
+{"count": 793, "name": "De-escalation", "weight": 0.0, "id": 2776056953, "level": 2}
+{"count": 1528, "name": "Pacu", "weight": 0.0, "id": 2777395641, "level": 2}
+{"count": 4659, "name": "Single Center", "weight": 0.0, "id": 2780073493, "level": 2}
+{"count": 1743, "name": "Atypical pneumonia", "weight": 0.0, "id": 2779673711, "level": 2}
+{"count": 486, "name": "Taurolidine", "weight": 0.0, "id": 2779400519, "level": 2}
+{"count": 472, "name": "Intermittent positive pressure breathing", "weight": 0.0, "id": 2777046805, "level": 2}
+{"count": 348, "name": "Neurosurgical anesthesia", "weight": 0.0, "id": 2776904189, "level": 2}
+{"count": 374, "name": "Gastric tonometry", "weight": 0.0, "id": 2778863390, "level": 2}
+{"count": 1623, "name": "Fluid replacement", "weight": 0.0, "id": 2777808716, "level": 2}
+{"count": 624, "name": "Cost-minimization analysis", "weight": 0.0, "id": 2781072439, "level": 2}
+{"count": 429, "name": "Rapid response system", "weight": 0.0, "id": 2779719885, "level": 2}
+{"count": 2147, "name": "Intravenous therapy", "weight": 0.0, "id": 2780608335, "level": 2}
+{"count": 1792, "name": "Nasal cannula", "weight": 0.0, "id": 2780334268, "level": 2}
+{"count": 495, "name": "Respiratory therapist", "weight": 0.0, "id": 2776704448, "level": 2}
+{"count": 299, "name": "Plastic bronchitis", "weight": 0.0, "id": 2778902417, "level": 2}
+{"count": 392, "name": "Pediatric Pulmonology", "weight": 0.0, "id": 2779606901, "level": 2}
+{"count": 1520, "name": "Trough level", "weight": 0.0, "id": 31785415, "level": 2}
+{"count": 218, "name": "Hypodermoclysis", "weight": 0.0, "id": 2776700666, "level": 2}
+{"count": 388, "name": "Disseminated coccidioidomycosis", "weight": 0.0, "id": 2779567950, "level": 2}
+{"count": 544, "name": "Hyperbaric medicine", "weight": 0.0, "id": 2778702954, "level": 2}
+{"count": 349, "name": "Fungal pneumonia", "weight": 0.0, "id": 2780873263, "level": 2}
+{"count": 1097, "name": "Surgical Infections", "weight": 0.0, "id": 2780057124, "level": 2}
+{"count": 138, "name": "Death rattle", "weight": 0.0, "id": 2777354999, "level": 2}
+{"count": 398, "name": "Targeted surveillance", "weight": 0.0, "id": 2777785829, "level": 2}
+{"count": 9856, "name": "Risk of mortality", "weight": 0.0, "id": 2777984932, "level": 2}
+{"count": 199, "name": "Elizabethkingia meningoseptica", "weight": 0.0, "id": 2781150698, "level": 2}
+{"count": 130, "name": "Geriatric anesthesia", "weight": 0.0, "id": 2781451657, "level": 2}
+{"count": 836, "name": "Hemotherapy", "weight": 0.0, "id": 2778161530, "level": 2}
+{"count": 142, "name": "Nothing by mouth", "weight": 0.0, "id": 2778602405, "level": 2}
+{"count": 120, "name": "Delafloxacin", "weight": 0.0, "id": 2781315696, "level": 2}
+{"count": 98, "name": "Panipenem/betamipron", "weight": 0.0, "id": 2777279008, "level": 2}
+{"count": 183, "name": "Cardiac nursing", "weight": 0.0, "id": 2777662205, "level": 2}
+{"count": 137, "name": "Cough medicine", "weight": 0.0, "id": 2777081086, "level": 2}
+{"count": 1696, "name": "Tertiary referral hospital", "weight": 0.0, "id": 2780283434, "level": 2}
+{"count": 253, "name": "Isolation ward", "weight": 0.0, "id": 2777029697, "level": 2}
+{"count": 349, "name": "Altered level of consciousness", "weight": 0.0, "id": 2778314645, "level": 2}
+{"count": 157, "name": "Mendelson's syndrome", "weight": 0.0, "id": 2777550650, "level": 2}
+{"count": 43, "name": "Digestive system surgery", "weight": 0.0, "id": 2776220259, "level": 2}
+{"count": 66, "name": "LiMAx test", "weight": 0.0, "id": 2778891502, "level": 2}
+{"count": 299, "name": "Transplant surgeon", "weight": 0.0, "id": 2779151350, "level": 2}
+{"count": 134, "name": "nutritionDay", "weight": 0.0, "id": 2778823544, "level": 2}
+{"count": 43, "name": "ISMETT", "weight": 0.0, "id": 2777863942, "level": 2}
+{"count": 61, "name": "Infant swimming", "weight": 0.0, "id": 2778417803, "level": 2}
+{"count": 14, "name": "Diphenoxylate/Atropine", "weight": 0.0, "id": 2777873653, "level": 2}
+{"count": 47, "name": "Pulmonary hygiene", "weight": 0.0, "id": 2779023407, "level": 2}
+{"count": 26, "name": "Occult pneumonia", "weight": 0.0, "id": 2777783521, "level": 2}
+{"count": 14, "name": "Cotton fever", "weight": 0.0, "id": 2778268073, "level": 2}
+{"count": 185, "name": "Medical ventilator", "weight": 0.0, "id": 2778994880, "level": 2}
+{"count": 24, "name": "Newborn transport", "weight": 0.0, "id": 2776536122, "level": 2}
+{"count": 210, "name": "Aluminium phosphide poisoning", "weight": 0.0, "id": 2780381496, "level": 2}
+{"count": 84, "name": "Effective circulating volume", "weight": 0.0, "id": 2780712208, "level": 2}
+{"count": 106, "name": "Bandemia", "weight": 0.0, "id": 2780531270, "level": 2}
+{"count": 16, "name": "Hyperbaric nursing", "weight": 0.0, "id": 2779260663, "level": 2}
+{"count": 16, "name": "Flock worker's lung", "weight": 0.0, "id": 2781320958, "level": 2}
+{"count": 19, "name": "ASA physical status classification system", "weight": 0.0, "id": 2781201694, "level": 2}
+{"count": 7, "name": "Hyperinflation therapy", "weight": 0.0, "id": 2778747651, "level": 2}
+{"count": 21, "name": "Care of the Critically Ill Surgical Patient", "weight": 0.0, "id": 2779261229, "level": 2}
+{"count": 8, "name": "Hemodialysis product", "weight": 0.0, "id": 2775849335, "level": 2}
+{"count": 30, "name": "Blood gas test", "weight": 0.0, "id": 2779894050, "level": 2}
+{"count": 19, "name": "Heroic measure", "weight": 0.0, "id": 2776721477, "level": 2}

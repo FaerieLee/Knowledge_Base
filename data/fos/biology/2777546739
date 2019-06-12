@@ -1,0 +1,66 @@
+{"count": 11832, "name": "Epithelioma", "weight": 7.0, "id": 2778755798, "level": 3}
+{"count": 11887, "name": "Carcinoma in situ", "weight": 7.0, "id": 2777661416, "level": 3}
+{"count": 15491, "name": "Basal cell carcinoma", "weight": 10.0, "id": 2778804307, "level": 3}
+{"count": 10694, "name": "Head and neck squamous-cell carcinoma", "weight": 6.0, "id": 2776833033, "level": 3}
+{"count": 6428, "name": "Ki-67", "weight": 4.0, "id": 2777751288, "level": 3}
+{"count": 6919, "name": "Adenoid cystic carcinoma", "weight": 4.0, "id": 2779231225, "level": 3}
+{"count": 5620, "name": "Intraepithelial neoplasia", "weight": 3.0, "id": 2779534503, "level": 3}
+{"count": 3887, "name": "Merkel cell carcinoma", "weight": 2.0, "id": 2778342957, "level": 3}
+{"count": 5680, "name": "Myoepithelial cell", "weight": 3.0, "id": 140884156, "level": 3}
+{"count": 4274, "name": "Carcinosarcoma", "weight": 2.0, "id": 2778938455, "level": 3}
+{"count": 3700, "name": "Mucoepidermoid carcinoma", "weight": 2.0, "id": 2780859518, "level": 3}
+{"count": 1164, "name": "Spindle cell carcinoma", "weight": 0.0, "id": 2781211901, "level": 3}
+{"count": 5097, "name": "Clear cell", "weight": 3.0, "id": 2778560582, "level": 3}
+{"count": 3099, "name": "Actinic keratosis", "weight": 2.0, "id": 2777873816, "level": 3}
+{"count": 4722, "name": "Leukoplakia", "weight": 3.0, "id": 2777550702, "level": 3}
+{"count": 2997, "name": "Squamous metaplasia", "weight": 1.0, "id": 2778981785, "level": 3}
+{"count": 2532, "name": "Ampulla of Vater", "weight": 1.0, "id": 2780840399, "level": 3}
+{"count": 226, "name": "Squamous epithelial cell", "weight": 0.0, "id": 2777496117, "level": 3}
+{"count": 2206, "name": "Penile cancer", "weight": 1.0, "id": 2777180808, "level": 3}
+{"count": 1720, "name": "Keratoacanthoma", "weight": 1.0, "id": 2779049991, "level": 3}
+{"count": 1611, "name": "Thymic carcinoma", "weight": 1.0, "id": 2776349617, "level": 3}
+{"count": 1936, "name": "Vulvar cancer", "weight": 1.0, "id": 2780370617, "level": 3}
+{"count": 1477, "name": "Bowen's disease", "weight": 0.0, "id": 2781280921, "level": 3}
+{"count": 1714, "name": "Verrucous carcinoma", "weight": 1.0, "id": 2776034340, "level": 3}
+{"count": 2923, "name": "Atypical hyperplasia", "weight": 1.0, "id": 2775904963, "level": 3}
+{"count": 1173, "name": "Sarcomatoid carcinoma", "weight": 0.0, "id": 2780808757, "level": 3}
+{"count": 8531, "name": "Atypia", "weight": 5.0, "id": 2781283455, "level": 3}
+{"count": 2039, "name": "Epithelial dysplasia", "weight": 1.0, "id": 2781340805, "level": 3}
+{"count": 766, "name": "Vulvar intraepithelial neoplasia", "weight": 0.0, "id": 2781076405, "level": 3}
+{"count": 702, "name": "Salivary duct carcinoma", "weight": 0.0, "id": 2781066530, "level": 3}
+{"count": 196, "name": "Oncocyte", "weight": 0.0, "id": 2778641065, "level": 3}
+{"count": 987, "name": "Sebaceous carcinoma", "weight": 0.0, "id": 2776835612, "level": 3}
+{"count": 896, "name": "Acinic cell carcinoma", "weight": 0.0, "id": 2780329156, "level": 3}
+{"count": 398, "name": "Choroid plexus carcinoma", "weight": 0.0, "id": 2776782122, "level": 3}
+{"count": 645, "name": "Linitis plastica", "weight": 0.0, "id": 2780611263, "level": 3}
+{"count": 443, "name": "Actinic cheilitis", "weight": 0.0, "id": 2776337186, "level": 3}
+{"count": 559, "name": "Atypical fibroxanthoma", "weight": 0.0, "id": 2778758220, "level": 3}
+{"count": 432, "name": "Bowenoid papulosis", "weight": 0.0, "id": 2776681830, "level": 3}
+{"count": 711, "name": "Adenosis", "weight": 0.0, "id": 2780375032, "level": 3}
+{"count": 3275, "name": "Koilocyte", "weight": 2.0, "id": 138055712, "level": 3}
+{"count": 891, "name": "Polysomy", "weight": 0.0, "id": 2781303241, "level": 3}
+{"count": 341, "name": "Microcystic adnexal carcinoma", "weight": 0.0, "id": 2779084418, "level": 3}
+{"count": 284, "name": "Marjolin's ulcer", "weight": 0.0, "id": 2777770406, "level": 3}
+{"count": 373, "name": "Cutaneous horn", "weight": 0.0, "id": 2777552817, "level": 3}
+{"count": 1539, "name": "Nuclear atypia", "weight": 0.0, "id": 2781289014, "level": 3}
+{"count": 322, "name": "Bartholin's gland", "weight": 0.0, "id": 2779895442, "level": 3}
+{"count": 205, "name": "Eccrine carcinoma", "weight": 0.0, "id": 2779564243, "level": 3}
+{"count": 259, "name": "Ureteral cancer", "weight": 0.0, "id": 2776051108, "level": 3}
+{"count": 192, "name": "Bronchorrhea", "weight": 0.0, "id": 2780626031, "level": 3}
+{"count": 496, "name": "Squamous cell carcinoma of the skin", "weight": 0.0, "id": 2776316544, "level": 3}
+{"count": 1274, "name": "Pleomorphism (cytology)", "weight": 0.0, "id": 142160229, "level": 3}
+{"count": 206, "name": "Conjunctival squamous cell carcinoma", "weight": 0.0, "id": 2776290851, "level": 3}
+{"count": 134, "name": "Proliferating trichilemmal cyst", "weight": 0.0, "id": 2778777421, "level": 3}
+{"count": 751, "name": "Pagetoid", "weight": 0.0, "id": 2776350330, "level": 3}
+{"count": 121, "name": "Trichilemmal carcinoma", "weight": 0.0, "id": 2776400702, "level": 3}
+{"count": 48, "name": "Pulmonary neuroendocrine tumor", "weight": 0.0, "id": 2780698671, "level": 3}
+{"count": 61, "name": "Nipple adenoma", "weight": 0.0, "id": 2776139748, "level": 3}
+{"count": 394, "name": "Keratin pearl", "weight": 0.0, "id": 79490357, "level": 3}
+{"count": 60, "name": "Gartner's duct", "weight": 0.0, "id": 2780283806, "level": 3}
+{"count": 105, "name": "Giant-cell carcinoma of the lung", "weight": 0.0, "id": 2780329060, "level": 3}
+{"count": 60, "name": "Mucicarmine stain", "weight": 0.0, "id": 2778664320, "level": 3}
+{"count": 27, "name": "Fungating lesion", "weight": 0.0, "id": 2777602545, "level": 3}
+{"count": 32, "name": "Paraneoplastic acrokeratosis", "weight": 0.0, "id": 2777613484, "level": 3}
+{"count": 12, "name": "Salt-and-pepper chromatin", "weight": 0.0, "id": 2776900170, "level": 3}
+{"count": 16, "name": "Drostanolone propionate", "weight": 0.0, "id": 2780887024, "level": 3}
+{"count": 13, "name": "Epithelial-myoepithelial carcinoma of the lung", "weight": 0.0, "id": 2779550943, "level": 3}

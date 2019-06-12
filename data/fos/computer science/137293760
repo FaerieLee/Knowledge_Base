@@ -1,0 +1,6 @@
+{"count": 1783, "name": "n-gram", "weight": 6.0, "id": 117884012, "level": 3}
+{"count": 2732, "name": "Perplexity", "weight": 10.0, "id": 100279451, "level": 3}
+{"count": 1784, "name": "Trigram", "weight": 6.0, "id": 137546455, "level": 3}
+{"count": 162, "name": "Noisy channel model", "weight": 0.0, "id": 120400215, "level": 3}
+{"count": 14, "name": "Kneser\u2013Ney smoothing", "weight": 0.0, "id": 2778239037, "level": 3}
+{"count": 25, "name": "Query likelihood model", "weight": 0.0, "id": 2781111757, "level": 3}

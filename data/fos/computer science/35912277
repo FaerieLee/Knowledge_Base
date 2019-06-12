@@ -1,0 +1,5 @@
+{"count": 936, "name": "Single-precision floating-point format", "weight": 10.0, "id": 133095886, "level": 4}
+{"count": 649, "name": "Extended precision", "weight": 6.0, "id": 53605470, "level": 4}
+{"count": 110, "name": "x87", "weight": 1.0, "id": 22419926, "level": 4}
+{"count": 349, "name": "decimal32 floating-point format", "weight": 3.0, "id": 168302042, "level": 4}
+{"count": 344, "name": "decimal128 floating-point format", "weight": 3.0, "id": 90395794, "level": 4}

@@ -1,0 +1,177 @@
+{"count": 11535, "name": "Zinc finger", "weight": 3.0, "id": 24284526, "level": 4}
+{"count": 7667, "name": "DNA-binding domain", "weight": 2.0, "id": 33987129, "level": 4}
+{"count": 9827, "name": "Chromatin immunoprecipitation", "weight": 3.0, "id": 134320426, "level": 4}
+{"count": 5863, "name": "Electrophoretic mobility shift assay", "weight": 1.0, "id": 183978625, "level": 4}
+{"count": 3532, "name": "Leucine zipper", "weight": 1.0, "id": 156860981, "level": 4}
+{"count": 9520, "name": "Homeobox", "weight": 2.0, "id": 121587040, "level": 4}
+{"count": 1675, "name": "Basic helix-loop-helix", "weight": 0.0, "id": 6174537, "level": 4}
+{"count": 21623, "name": "Response element", "weight": 6.0, "id": 132376346, "level": 4}
+{"count": 9713, "name": "DNA binding site", "weight": 2.0, "id": 3662595, "level": 4}
+{"count": 4630, "name": "TATA box", "weight": 1.0, "id": 65888428, "level": 4}
+{"count": 2666, "name": "Interferon regulatory factors", "weight": 0.0, "id": 9173399, "level": 4}
+{"count": 1396, "name": "Activating transcription factor", "weight": 0.0, "id": 77179829, "level": 4}
+{"count": 2110, "name": "Serum response factor", "weight": 0.0, "id": 69053785, "level": 4}
+{"count": 3167, "name": "Sp1 transcription factor", "weight": 0.0, "id": 57467964, "level": 4}
+{"count": 32521, "name": "Enhancer", "weight": 10.0, "id": 111936080, "level": 4}
+{"count": 20354, "name": "Transactivation", "weight": 6.0, "id": 1292079, "level": 4}
+{"count": 1798, "name": "Aryl hydrocarbon receptor nuclear translocator", "weight": 0.0, "id": 45815257, "level": 4}
+{"count": 957, "name": "Steroidogenic factor 1", "weight": 0.0, "id": 2777703421, "level": 4}
+{"count": 1069, "name": "Hepatocyte nuclear factor 4", "weight": 0.0, "id": 72699923, "level": 4}
+{"count": 2263, "name": "Heat shock factor", "weight": 0.0, "id": 52981337, "level": 4}
+{"count": 3816, "name": "NFAT", "weight": 1.0, "id": 189938988, "level": 4}
+{"count": 2314, "name": "Microphthalmia-associated transcription factor", "weight": 0.0, "id": 177504595, "level": 4}
+{"count": 4266, "name": "E2F", "weight": 1.0, "id": 83258922, "level": 4}
+{"count": 427, "name": "Core binding factor", "weight": 0.0, "id": 2778220731, "level": 4}
+{"count": 3290, "name": "RUNX2", "weight": 1.0, "id": 2776363554, "level": 4}
+{"count": 1526, "name": "KEAP1", "weight": 0.0, "id": 2776529522, "level": 4}
+{"count": 2428, "name": "PAX6", "weight": 0.0, "id": 51816534, "level": 4}
+{"count": 7072, "name": "Coactivator", "weight": 2.0, "id": 77445288, "level": 4}
+{"count": 2782, "name": "FOXO1", "weight": 0.0, "id": 140149449, "level": 4}
+{"count": 3835, "name": "E2F1", "weight": 1.0, "id": 183022183, "level": 4}
+{"count": 5055, "name": "MYB", "weight": 1.0, "id": 62794011, "level": 4}
+{"count": 203, "name": "Host cell factor C1", "weight": 0.0, "id": 100898757, "level": 4}
+{"count": 354, "name": "Y box binding protein 1", "weight": 0.0, "id": 2781005438, "level": 4}
+{"count": 205, "name": "Pii nitrogen regulatory proteins", "weight": 0.0, "id": 2780647799, "level": 4}
+{"count": 2212, "name": "AP-1 transcription factor", "weight": 0.0, "id": 102280478, "level": 4}
+{"count": 1241, "name": "SWI/SNF", "weight": 0.0, "id": 166941617, "level": 4}
+{"count": 758, "name": "NRF1", "weight": 0.0, "id": 74438686, "level": 4}
+{"count": 1571, "name": "MADS-box", "weight": 0.0, "id": 160956161, "level": 4}
+{"count": 264, "name": "Nuclear factor I", "weight": 0.0, "id": 2777803693, "level": 4}
+{"count": 1545, "name": "POU domain", "weight": 0.0, "id": 196287685, "level": 4}
+{"count": 662, "name": "ATF4", "weight": 0.0, "id": 2780900454, "level": 4}
+{"count": 1701, "name": "CTCF", "weight": 0.0, "id": 2778760011, "level": 4}
+{"count": 2544, "name": "Corepressor", "weight": 0.0, "id": 146777309, "level": 4}
+{"count": 2345, "name": "RUNX1", "weight": 0.0, "id": 2778193527, "level": 4}
+{"count": 195, "name": "Rel homology domain", "weight": 0.0, "id": 2781278251, "level": 4}
+{"count": 1277, "name": "FOXM1", "weight": 0.0, "id": 170240278, "level": 4}
+{"count": 1461, "name": "YY1", "weight": 0.0, "id": 62944979, "level": 4}
+{"count": 984, "name": "GATA4", "weight": 0.0, "id": 116186050, "level": 4}
+{"count": 910, "name": "SOX10", "weight": 0.0, "id": 2777302934, "level": 4}
+{"count": 407, "name": "PAX2", "weight": 0.0, "id": 19732747, "level": 4}
+{"count": 835, "name": "Ultrabithorax", "weight": 0.0, "id": 197564579, "level": 4}
+{"count": 1517, "name": "HSF1", "weight": 0.0, "id": 2776667301, "level": 4}
+{"count": 212, "name": "T-box", "weight": 0.0, "id": 2781014437, "level": 4}
+{"count": 1512, "name": "GATA3", "weight": 0.0, "id": 102037460, "level": 4}
+{"count": 884, "name": "YAP1", "weight": 0.0, "id": 2780219982, "level": 4}
+{"count": 2936, "name": "CAAT box", "weight": 0.0, "id": 179716448, "level": 4}
+{"count": 1754, "name": "TBX1", "weight": 0.0, "id": 68473852, "level": 4}
+{"count": 623, "name": "NeuroD", "weight": 0.0, "id": 2778994924, "level": 4}
+{"count": 1450, "name": "JUNB", "weight": 0.0, "id": 2781085546, "level": 4}
+{"count": 378, "name": "Daf-16", "weight": 0.0, "id": 2776934413, "level": 4}
+{"count": 325, "name": "EGR1", "weight": 0.0, "id": 2780600689, "level": 4}
+{"count": 453, "name": "IRF4", "weight": 0.0, "id": 12652872, "level": 4}
+{"count": 1486, "name": "WRKY protein domain", "weight": 0.0, "id": 79877727, "level": 4}
+{"count": 1139, "name": "ETS transcription factor family", "weight": 0.0, "id": 81350143, "level": 4}
+{"count": 745, "name": "GLI2", "weight": 0.0, "id": 120407494, "level": 4}
+{"count": 2024, "name": "STAT4", "weight": 0.0, "id": 65439459, "level": 4}
+{"count": 461, "name": "Pax genes", "weight": 0.0, "id": 78879013, "level": 4}
+{"count": 703, "name": "TFEB", "weight": 0.0, "id": 132647116, "level": 4}
+{"count": 634, "name": "FOXA2", "weight": 0.0, "id": 148397407, "level": 4}
+{"count": 1199, "name": "GATA1", "weight": 0.0, "id": 192196715, "level": 4}
+{"count": 408, "name": "FOXP1", "weight": 0.0, "id": 79648933, "level": 4}
+{"count": 387, "name": "ISL1", "weight": 0.0, "id": 2779242500, "level": 4}
+{"count": 1496, "name": "GATA2", "weight": 0.0, "id": 43821964, "level": 4}
+{"count": 932, "name": "RELB", "weight": 0.0, "id": 2777453290, "level": 4}
+{"count": 241, "name": "PAX9", "weight": 0.0, "id": 2776939368, "level": 4}
+{"count": 856, "name": "FOXO3", "weight": 0.0, "id": 168003608, "level": 4}
+{"count": 498, "name": "REL", "weight": 0.0, "id": 145791975, "level": 4}
+{"count": 544, "name": "GATA6", "weight": 0.0, "id": 125449221, "level": 4}
+{"count": 299, "name": "Eomesodermin", "weight": 0.0, "id": 2777857031, "level": 4}
+{"count": 297, "name": "FOXC2", "weight": 0.0, "id": 2775980229, "level": 4}
+{"count": 585, "name": "KLF2", "weight": 0.0, "id": 2777350992, "level": 4}
+{"count": 518, "name": "Proneural genes", "weight": 0.0, "id": 129189402, "level": 4}
+{"count": 484, "name": "ETS1", "weight": 0.0, "id": 2780538058, "level": 4}
+{"count": 566, "name": "PAX4", "weight": 0.0, "id": 191370860, "level": 4}
+{"count": 447, "name": "MAFB", "weight": 0.0, "id": 2781321290, "level": 4}
+{"count": 1303, "name": "SOX4", "weight": 0.0, "id": 139259183, "level": 4}
+{"count": 260, "name": "HAND2", "weight": 0.0, "id": 2775895643, "level": 4}
+{"count": 177, "name": "COUP-TFII", "weight": 0.0, "id": 2779697300, "level": 4}
+{"count": 242, "name": "STAT5B", "weight": 0.0, "id": 150126318, "level": 4}
+{"count": 237, "name": "ATOH1", "weight": 0.0, "id": 2778904473, "level": 4}
+{"count": 500, "name": "STAT5A", "weight": 0.0, "id": 109591128, "level": 4}
+{"count": 905, "name": "IRF8", "weight": 0.0, "id": 117705580, "level": 4}
+{"count": 171, "name": "TBX20", "weight": 0.0, "id": 2778762719, "level": 4}
+{"count": 372, "name": "NEUROD1", "weight": 0.0, "id": 83174376, "level": 4}
+{"count": 257, "name": "ATF1", "weight": 0.0, "id": 2776816155, "level": 4}
+{"count": 362, "name": "LMO2", "weight": 0.0, "id": 2780019132, "level": 4}
+{"count": 345, "name": "ASCL1", "weight": 0.0, "id": 2778705514, "level": 4}
+{"count": 113, "name": "FOXN1", "weight": 0.0, "id": 2779746258, "level": 4}
+{"count": 322, "name": "TCF3", "weight": 0.0, "id": 2779223578, "level": 4}
+{"count": 273, "name": "USF1", "weight": 0.0, "id": 2777777510, "level": 4}
+{"count": 141, "name": "DEC1", "weight": 0.0, "id": 2775870028, "level": 4}
+{"count": 165, "name": "BCL11B", "weight": 0.0, "id": 2781453607, "level": 4}
+{"count": 444, "name": "TAL1", "weight": 0.0, "id": 2781198393, "level": 4}
+{"count": 316, "name": "NFAT5", "weight": 0.0, "id": 2778203879, "level": 4}
+{"count": 719, "name": "FLI1", "weight": 0.0, "id": 2777937962, "level": 4}
+{"count": 265, "name": "NFIB", "weight": 0.0, "id": 2780210302, "level": 4}
+{"count": 152, "name": "Kruppel-like factors", "weight": 0.0, "id": 71803366, "level": 4}
+{"count": 305, "name": "ELK1", "weight": 0.0, "id": 2776992058, "level": 4}
+{"count": 271, "name": "USF2", "weight": 0.0, "id": 2780199632, "level": 4}
+{"count": 279, "name": "NFE2L2", "weight": 0.0, "id": 2777816843, "level": 4}
+{"count": 83, "name": "SNAI2", "weight": 0.0, "id": 2776883177, "level": 4}
+{"count": 251, "name": "Hepatocyte nuclear factors", "weight": 0.0, "id": 99535661, "level": 4}
+{"count": 134, "name": "DNase-Seq", "weight": 0.0, "id": 107801524, "level": 4}
+{"count": 148, "name": "RE1-silencing transcription factor", "weight": 0.0, "id": 2779257316, "level": 4}
+{"count": 209, "name": "BATF", "weight": 0.0, "id": 191856567, "level": 4}
+{"count": 132, "name": "ATAC-seq", "weight": 0.0, "id": 2776594227, "level": 4}
+{"count": 238, "name": "RBPJ", "weight": 0.0, "id": 2778794485, "level": 4}
+{"count": 174, "name": "HLTF", "weight": 0.0, "id": 2778403750, "level": 4}
+{"count": 74, "name": "White Collar-1", "weight": 0.0, "id": 2780229663, "level": 4}
+{"count": 326, "name": "KLF1", "weight": 0.0, "id": 2777518362, "level": 4}
+{"count": 71, "name": "SANT domain", "weight": 0.0, "id": 2776449522, "level": 4}
+{"count": 212, "name": "SPI1", "weight": 0.0, "id": 2775987198, "level": 4}
+{"count": 224, "name": "ETV1", "weight": 0.0, "id": 2780666646, "level": 4}
+{"count": 201, "name": "Pho4", "weight": 0.0, "id": 2779316227, "level": 4}
+{"count": 113, "name": "COUP-TFI", "weight": 0.0, "id": 2777310644, "level": 4}
+{"count": 191, "name": "TFAP2A", "weight": 0.0, "id": 2778222033, "level": 4}
+{"count": 132, "name": "Pygopus", "weight": 0.0, "id": 2781456219, "level": 4}
+{"count": 132, "name": "Cistrome", "weight": 0.0, "id": 151857584, "level": 4}
+{"count": 175, "name": "TEAD4", "weight": 0.0, "id": 2780176915, "level": 4}
+{"count": 300, "name": "CEBPB", "weight": 0.0, "id": 152233112, "level": 4}
+{"count": 79, "name": "Octamer transcription factor", "weight": 0.0, "id": 2780807340, "level": 4}
+{"count": 81, "name": "KLF13", "weight": 0.0, "id": 2778046404, "level": 4}
+{"count": 186, "name": "NFIL3", "weight": 0.0, "id": 2777700646, "level": 4}
+{"count": 67, "name": "Winged-helix transcription factors", "weight": 0.0, "id": 2780622985, "level": 4}
+{"count": 154, "name": "TEAD1", "weight": 0.0, "id": 2781453931, "level": 4}
+{"count": 71, "name": "SIM2", "weight": 0.0, "id": 2779177555, "level": 4}
+{"count": 121, "name": "NEUROD2", "weight": 0.0, "id": 2776706943, "level": 4}
+{"count": 181, "name": "KLF9", "weight": 0.0, "id": 2781358308, "level": 4}
+{"count": 156, "name": "RFX6", "weight": 0.0, "id": 129644514, "level": 4}
+{"count": 137, "name": "NFE2", "weight": 0.0, "id": 2778760064, "level": 4}
+{"count": 71, "name": "TBX22", "weight": 0.0, "id": 2777515561, "level": 4}
+{"count": 119, "name": "Neurogenin-2", "weight": 0.0, "id": 2777722894, "level": 4}
+{"count": 58, "name": "RFX2", "weight": 0.0, "id": 2777860238, "level": 4}
+{"count": 135, "name": "Regulome", "weight": 0.0, "id": 2778366573, "level": 4}
+{"count": 131, "name": "FOXA3", "weight": 0.0, "id": 2779651153, "level": 4}
+{"count": 134, "name": "RFX1", "weight": 0.0, "id": 2778478366, "level": 4}
+{"count": 138, "name": "Squamosa promoter binding protein", "weight": 0.0, "id": 2780947259, "level": 4}
+{"count": 109, "name": "KLF3", "weight": 0.0, "id": 2779220681, "level": 4}
+{"count": 68, "name": "Extramacrochaetae", "weight": 0.0, "id": 2777525247, "level": 4}
+{"count": 37, "name": "TFCP2", "weight": 0.0, "id": 2780949487, "level": 4}
+{"count": 30, "name": "TFAP4", "weight": 0.0, "id": 2778816895, "level": 4}
+{"count": 78, "name": "FOSL2", "weight": 0.0, "id": 2776008071, "level": 4}
+{"count": 80, "name": "Activating protein 2", "weight": 0.0, "id": 2779125354, "level": 4}
+{"count": 42, "name": "NK2 homeobox 1", "weight": 0.0, "id": 2776498777, "level": 4}
+{"count": 305, "name": "Ci protein", "weight": 0.0, "id": 153360020, "level": 4}
+{"count": 147, "name": "FOX proteins", "weight": 0.0, "id": 181230480, "level": 4}
+{"count": 42, "name": "Orthodenticle homeobox 2", "weight": 0.0, "id": 2781056311, "level": 4}
+{"count": 47, "name": "Apetala 2", "weight": 0.0, "id": 2777510133, "level": 4}
+{"count": 27, "name": "NPAS1", "weight": 0.0, "id": 2775993947, "level": 4}
+{"count": 135, "name": "Forkhead box C1", "weight": 0.0, "id": 104626612, "level": 4}
+{"count": 30, "name": "RFX4", "weight": 0.0, "id": 2780637271, "level": 4}
+{"count": 105, "name": "Spatiotemporal gene expression", "weight": 0.0, "id": 2780204373, "level": 4}
+{"count": 25, "name": "Inhibitor of DNA-binding protein", "weight": 0.0, "id": 2775887018, "level": 4}
+{"count": 62, "name": "RFX3", "weight": 0.0, "id": 2777765503, "level": 4}
+{"count": 33, "name": "RCOR1", "weight": 0.0, "id": 2781197030, "level": 4}
+{"count": 21, "name": "NFYC", "weight": 0.0, "id": 2779525236, "level": 4}
+{"count": 64, "name": "Genomatix", "weight": 0.0, "id": 2779909809, "level": 4}
+{"count": 267, "name": "RELA", "weight": 0.0, "id": 175018259, "level": 4}
+{"count": 20, "name": "TEAD3", "weight": 0.0, "id": 2780458251, "level": 4}
+{"count": 406, "name": "Sporulation in Bacillus subtilis", "weight": 0.0, "id": 158325283, "level": 4}
+{"count": 9, "name": "B recognition element", "weight": 0.0, "id": 2781284920, "level": 4}
+{"count": 8, "name": "SoxC group", "weight": 0.0, "id": 2781338267, "level": 4}
+{"count": 57, "name": "Jun dimerization protein", "weight": 0.0, "id": 2780627543, "level": 4}
+{"count": 375, "name": "CREB in cognition", "weight": 0.0, "id": 46944710, "level": 4}
+{"count": 13, "name": "Transcription factor DP", "weight": 0.0, "id": 2776931989, "level": 4}
+{"count": 32, "name": "Tax gene product", "weight": 0.0, "id": 2779413474, "level": 4}
+{"count": 8, "name": "Bacterial one-hybrid system", "weight": 0.0, "id": 2780357196, "level": 4}

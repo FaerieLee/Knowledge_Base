@@ -1,0 +1,7 @@
+{"count": 13630, "name": "Multipath routing", "weight": 6.0, "id": 76522221, "level": 3}
+{"count": 4763, "name": "Hierarchical routing", "weight": 2.0, "id": 177818476, "level": 3}
+{"count": 14969, "name": "Zone Routing Protocol", "weight": 7.0, "id": 189884158, "level": 3}
+{"count": 20012, "name": "Destination-Sequenced Distance Vector routing", "weight": 10.0, "id": 29436982, "level": 3}
+{"count": 10915, "name": "Enhanced Interior Gateway Routing Protocol", "weight": 5.0, "id": 87044965, "level": 3}
+{"count": 13580, "name": "Hazy Sighted Link State Routing Protocol", "weight": 6.0, "id": 144674526, "level": 3}
+{"count": 17823, "name": "Equal-cost multi-path routing", "weight": 8.0, "id": 115443555, "level": 3}

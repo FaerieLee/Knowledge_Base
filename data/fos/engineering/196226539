@@ -1,0 +1,9 @@
+{"count": 15883, "name": "Voltage droop", "weight": 9.0, "id": 40760162, "level": 4}
+{"count": 1837, "name": "Voltage compensation", "weight": 1.0, "id": 2777042706, "level": 4}
+{"count": 3263, "name": "Tap changer", "weight": 1.0, "id": 122940293, "level": 4}
+{"count": 98, "name": "Single-wire earth return", "weight": 0.0, "id": 94660237, "level": 4}
+{"count": 17471, "name": "Voltage optimisation", "weight": 10.0, "id": 46529443, "level": 4}
+{"count": 3644, "name": "Pre-charge", "weight": 2.0, "id": 34919404, "level": 4}
+{"count": 1769, "name": "Load bank", "weight": 1.0, "id": 38940224, "level": 4}
+{"count": 8720, "name": "Capacitive power supply", "weight": 4.0, "id": 34234416, "level": 4}
+{"count": 1481, "name": "Undervoltage-lockout", "weight": 0.0, "id": 85822417, "level": 4}

@@ -1,0 +1,116 @@
+{"count": 443071, "name": "Microstructure", "weight": 9.0, "id": 87976508, "level": 2}
+{"count": 383899, "name": "Crystal structure", "weight": 7.0, "id": 115624301, "level": 2}
+{"count": 181330, "name": "X-ray crystallography", "weight": 3.0, "id": 50515024, "level": 2}
+{"count": 212803, "name": "Single crystal", "weight": 4.0, "id": 73922627, "level": 2}
+{"count": 136819, "name": "Dislocation", "weight": 2.0, "id": 159122135, "level": 2}
+{"count": 103570, "name": "Grain boundary", "weight": 2.0, "id": 47908070, "level": 2}
+{"count": 488557, "name": "Crystal", "weight": 10.0, "id": 57401468, "level": 2}
+{"count": 40446, "name": "Electron diffraction", "weight": 0.0, "id": 77557913, "level": 2}
+{"count": 27655, "name": "Protein folding", "weight": 0.0, "id": 204328495, "level": 2}
+{"count": 30621, "name": "Crystallographic defect", "weight": 0.0, "id": 164675345, "level": 2}
+{"count": 41159, "name": "Neutron diffraction", "weight": 0.0, "id": 73585123, "level": 2}
+{"count": 62760, "name": "Lattice constant", "weight": 1.0, "id": 132612359, "level": 2}
+{"count": 219600, "name": "Amorphous solid", "weight": 4.0, "id": 56052488, "level": 2}
+{"count": 132181, "name": "Slip (materials science)", "weight": 2.0, "id": 53460152, "level": 2}
+{"count": 13662, "name": "Structure factor", "weight": 0.0, "id": 26065003, "level": 2}
+{"count": 60844, "name": "Nanocrystalline material", "weight": 1.0, "id": 140676511, "level": 2}
+{"count": 14050, "name": "Cubic crystal system", "weight": 0.0, "id": 24444364, "level": 2}
+{"count": 16446, "name": "Hydrothermal synthesis", "weight": 0.0, "id": 2776871784, "level": 2}
+{"count": 21355, "name": "Jog", "weight": 0.0, "id": 67901905, "level": 2}
+{"count": 33100, "name": "Lamellar structure", "weight": 0.0, "id": 77851909, "level": 2}
+{"count": 18607, "name": "Crystal twinning", "weight": 0.0, "id": 6840138, "level": 2}
+{"count": 4065, "name": "Coiled coil", "weight": 0.0, "id": 55988834, "level": 2}
+{"count": 126591, "name": "Crystallite", "weight": 2.0, "id": 137637335, "level": 2}
+{"count": 9694, "name": "Quasicrystal", "weight": 0.0, "id": 203101518, "level": 2}
+{"count": 14845, "name": "Effective diffusion coefficient", "weight": 0.0, "id": 70816921, "level": 2}
+{"count": 2411, "name": "Close-packing of equal spheres", "weight": 0.0, "id": 177825532, "level": 2}
+{"count": 5991, "name": "Globular protein", "weight": 0.0, "id": 105168689, "level": 2}
+{"count": 11118, "name": "Diffractometer", "weight": 0.0, "id": 39546656, "level": 2}
+{"count": 4449, "name": "Solid-state chemistry", "weight": 0.0, "id": 114420478, "level": 2}
+{"count": 20518, "name": "Wurtzite crystal structure", "weight": 0.0, "id": 3045981, "level": 2}
+{"count": 4621, "name": "Goniometer", "weight": 0.0, "id": 48806519, "level": 2}
+{"count": 1009, "name": "Faceting", "weight": 0.0, "id": 113231013, "level": 2}
+{"count": 35099, "name": "Helix", "weight": 0.0, "id": 147224300, "level": 2}
+{"count": 7916, "name": "Reciprocal lattice", "weight": 0.0, "id": 89957378, "level": 2}
+{"count": 1117, "name": "Debye\u2013Waller factor", "weight": 0.0, "id": 2781104464, "level": 2}
+{"count": 2253, "name": "Intrinsically disordered proteins", "weight": 0.0, "id": 2778815515, "level": 2}
+{"count": 838, "name": "Rubredoxin", "weight": 0.0, "id": 142677202, "level": 2}
+{"count": 1461, "name": "Ramachandran plot", "weight": 0.0, "id": 14301744, "level": 2}
+{"count": 725, "name": "Barnase", "weight": 0.0, "id": 2776559745, "level": 2}
+{"count": 4928, "name": "Hexagonal phase", "weight": 0.0, "id": 2780134926, "level": 2}
+{"count": 3508, "name": "Atomic packing factor", "weight": 0.0, "id": 110161667, "level": 2}
+{"count": 2967, "name": "Atomic diffusion", "weight": 0.0, "id": 200902554, "level": 2}
+{"count": 1249, "name": "Conformational entropy", "weight": 0.0, "id": 69308434, "level": 2}
+{"count": 5765, "name": "Icosahedral symmetry", "weight": 0.0, "id": 113709186, "level": 2}
+{"count": 4824, "name": "Spar", "weight": 0.0, "id": 2776698545, "level": 2}
+{"count": 238, "name": "Dawsonite", "weight": 0.0, "id": 2780174601, "level": 2}
+{"count": 11368, "name": "Trigonal crystal system", "weight": 0.0, "id": 194185919, "level": 2}
+{"count": 1961, "name": "Dodecahedron", "weight": 0.0, "id": 94239619, "level": 2}
+{"count": 1550, "name": "Random hexamer", "weight": 0.0, "id": 189754071, "level": 2}
+{"count": 351, "name": "Real structure", "weight": 0.0, "id": 2778256315, "level": 2}
+{"count": 268, "name": "Rhombic dodecahedron", "weight": 0.0, "id": 2778178728, "level": 2}
+{"count": 38, "name": "Pyrobaculum aerophilum", "weight": 0.0, "id": 2777605516, "level": 2}
+{"count": 782, "name": "Hexagonal prism", "weight": 0.0, "id": 2777722419, "level": 2}
+{"count": 7031, "name": "Antiparallel (biochemistry)", "weight": 0.0, "id": 41142497, "level": 2}
+{"count": 212, "name": "Crystallographic Information File", "weight": 0.0, "id": 117170267, "level": 2}
+{"count": 82, "name": "Strontium bromide", "weight": 0.0, "id": 2778066183, "level": 2}
+{"count": 408, "name": "Preferential alignment", "weight": 0.0, "id": 2776763855, "level": 2}
+{"count": 389, "name": "Megaphone", "weight": 0.0, "id": 2777813245, "level": 2}
+{"count": 3, "name": "Henderson limit", "weight": 0.0, "id": 2779168885, "level": 2}
+{"count": 306, "name": "Ice VII", "weight": 0.0, "id": 2778871019, "level": 2}
+{"count": 1155, "name": "Paracrystalline", "weight": 0.0, "id": 17216458, "level": 2}
+{"count": 259, "name": "Crystal model", "weight": 0.0, "id": 2781122402, "level": 2}
+{"count": 35, "name": "Crystallography Open Database", "weight": 0.0, "id": 2781435461, "level": 2}
+{"count": 26, "name": "Mellite", "weight": 0.0, "id": 2779849369, "level": 2}
+{"count": 14, "name": "Multi-wavelength anomalous dispersion", "weight": 0.0, "id": 140416348, "level": 2}
+{"count": 247, "name": "Layer group", "weight": 0.0, "id": 2775935553, "level": 2}
+{"count": 52, "name": "Beta-sandwich", "weight": 0.0, "id": 2778859645, "level": 2}
+{"count": 247, "name": "Parent structure", "weight": 0.0, "id": 2778147852, "level": 2}
+{"count": 14, "name": "Boleite", "weight": 0.0, "id": 2777143143, "level": 2}
+{"count": 54, "name": "Rhombicuboctahedron", "weight": 0.0, "id": 2780394453, "level": 2}
+{"count": 102, "name": "Desert rose", "weight": 0.0, "id": 2778633226, "level": 2}
+{"count": 38, "name": "Leadhillite", "weight": 0.0, "id": 2779410526, "level": 2}
+{"count": 14, "name": "Pseudofossil", "weight": 0.0, "id": 2781294275, "level": 2}
+{"count": 14, "name": "Allomerism", "weight": 0.0, "id": 2781121506, "level": 2}
+{"count": 6, "name": "Crenel function", "weight": 0.0, "id": 2776219931, "level": 2}
+{"count": 9, "name": "Hsianghualite", "weight": 0.0, "id": 2779198149, "level": 2}
+{"count": 26, "name": "Perite", "weight": 0.0, "id": 2780543293, "level": 2}
+{"count": 90, "name": "International Year of Crystallography", "weight": 0.0, "id": 2779840944, "level": 2}
+{"count": 9, "name": "Rapidcreekite", "weight": 0.0, "id": 2776901642, "level": 2}
+{"count": 2, "name": "Mott\u2013Bethe formula", "weight": 0.0, "id": 2780043138, "level": 2}
+{"count": 9, "name": "ENGIN-X", "weight": 0.0, "id": 2777586705, "level": 2}
+{"count": 8, "name": "Cerium(III) bromide", "weight": 0.0, "id": 2777845432, "level": 2}
+{"count": 4, "name": "Aluminium magnesium boride", "weight": 0.0, "id": 2780221408, "level": 2}
+{"count": 10, "name": "Girih tiles", "weight": 0.0, "id": 2780949500, "level": 2}
+{"count": 9, "name": "Ajoite", "weight": 0.0, "id": 2778663414, "level": 2}
+{"count": 5, "name": "Aminolevulinic acid dehydratase deficiency porphyria", "weight": 0.0, "id": 2777274773, "level": 2}
+{"count": 1, "name": "Nelaton's line", "weight": 0.0, "id": 2778753297, "level": 2}
+{"count": 158, "name": "Rod group", "weight": 0.0, "id": 2780469710, "level": 2}
+{"count": 25, "name": "Facet", "weight": 0.0, "id": 110814555, "level": 2}
+{"count": 1, "name": "Scandium(III) sulfide", "weight": 0.0, "id": 2777934879, "level": 2}
+{"count": 2, "name": "Greninger chart", "weight": 0.0, "id": 2778411370, "level": 2}
+{"count": 4, "name": "Titanium(III) bromide", "weight": 0.0, "id": 2776873738, "level": 2}
+{"count": 1, "name": "Darb-e Imam", "weight": 0.0, "id": 2778271757, "level": 2}
+{"count": 2, "name": "Polymorphs of silicon carbide", "weight": 0.0, "id": 2777070729, "level": 2}
+{"count": 1, "name": "Samarium(III) fluoride", "weight": 0.0, "id": 2779622034, "level": 2}
+{"count": 2, "name": "Clearcreekite", "weight": 0.0, "id": 2777658384, "level": 2}
+{"count": 2, "name": "Phosphorus heptabromide", "weight": 0.0, "id": 2780961279, "level": 2}
+{"count": 3, "name": "Gugiaite", "weight": 0.0, "id": 2777996801, "level": 2}
+{"count": 2, "name": "Terbium(III) oxide", "weight": 0.0, "id": 2778891587, "level": 2}
+{"count": 2, "name": "Mosesite", "weight": 0.0, "id": 2776707333, "level": 2}
+{"count": 12, "name": "Pyrite group", "weight": 0.0, "id": 2776757664, "level": 2}
+{"count": 1, "name": "Malleolar sulcus", "weight": 0.0, "id": 2780449344, "level": 2}
+{"count": 7, "name": "Ceylonite", "weight": 0.0, "id": 2779007212, "level": 2}
+{"count": 4, "name": "Zirconium(III) chloride", "weight": 0.0, "id": 2780974607, "level": 2}
+{"count": 6, "name": "Structure of liquids and glasses", "weight": 0.0, "id": 2781164102, "level": 2}
+{"count": 2, "name": "Silver(I) selenide", "weight": 0.0, "id": 2780225682, "level": 2}
+{"count": 1, "name": "Marcasite jewellery", "weight": 0.0, "id": 2776490400, "level": 2}
+{"count": 13, "name": "Scrutinyite", "weight": 0.0, "id": 2777442392, "level": 2}
+{"count": 6, "name": "Panethite", "weight": 0.0, "id": 2780054140, "level": 2}
+{"count": 5, "name": "Tuperssuatsiaite", "weight": 0.0, "id": 2779441030, "level": 2}
+{"count": 8, "name": "Difference density map", "weight": 0.0, "id": 2778671140, "level": 2}
+{"count": 11, "name": "Euhedral and anhedral", "weight": 0.0, "id": 2780029963, "level": 2}
+{"count": 1, "name": "Stauroscope", "weight": 0.0, "id": 2778352956, "level": 2}
+{"count": 1, "name": "Fluor-liddicoatite", "weight": 0.0, "id": 2776663717, "level": 2}
+{"count": 2, "name": "Coyoteite", "weight": 0.0, "id": 2777136723, "level": 2}
+{"count": 1, "name": "Deep transverse fascia", "weight": 0.0, "id": 2779131306, "level": 2}

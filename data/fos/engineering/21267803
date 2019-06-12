@@ -1,0 +1,3 @@
+{"count": 428, "name": "Segmentation fault", "weight": 7.0, "id": 6361074, "level": 4}
+{"count": 44, "name": "Transistor fault", "weight": 0.0, "id": 2779047155, "level": 4}
+{"count": 619, "name": "General protection fault", "weight": 10.0, "id": 18878609, "level": 4}

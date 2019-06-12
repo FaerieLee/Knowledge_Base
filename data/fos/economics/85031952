@@ -1,0 +1,4 @@
+{"count": 256, "name": "Shapiro\u2013Wilk test", "weight": 4.0, "id": 108399061, "level": 3}
+{"count": 185, "name": "Lilliefors test", "weight": 3.0, "id": 23797776, "level": 3}
+{"count": 529, "name": "ANOVA on ranks", "weight": 10.0, "id": 108155402, "level": 3}
+{"count": 425, "name": "D'Agostino's K-squared test", "weight": 8.0, "id": 187623527, "level": 3}

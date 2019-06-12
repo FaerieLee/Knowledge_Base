@@ -1,0 +1,12 @@
+{"count": 3879, "name": "Correction for attenuation", "weight": 3.0, "id": 123688308, "level": 3}
+{"count": 11652, "name": "Attenuator (electronics)", "weight": 10.0, "id": 174847166, "level": 3}
+{"count": 4636, "name": "Hounsfield scale", "weight": 3.0, "id": 187954543, "level": 3}
+{"count": 5707, "name": "Acoustic attenuation", "weight": 4.0, "id": 76198728, "level": 3}
+{"count": 1503, "name": "Mass attenuation coefficient", "weight": 1.0, "id": 60761834, "level": 3}
+{"count": 1390, "name": "Attenuation length", "weight": 1.0, "id": 150316681, "level": 3}
+{"count": 502, "name": "Earmuffs", "weight": 0.0, "id": 2780610953, "level": 3}
+{"count": 1168, "name": "Anelastic attenuation factor", "weight": 1.0, "id": 33708915, "level": 3}
+{"count": 59, "name": "Growth attenuation", "weight": 0.0, "id": 2776513846, "level": 3}
+{"count": 93, "name": "Beta attenuation monitoring", "weight": 0.0, "id": 207083053, "level": 3}
+{"count": 109, "name": "Neper", "weight": 0.0, "id": 61898776, "level": 3}
+{"count": 52, "name": "Attenuation theory", "weight": 0.0, "id": 188317517, "level": 3}

@@ -1,0 +1,6 @@
+{"count": 329, "name": "Air data computer", "weight": 8.0, "id": 19121171, "level": 3}
+{"count": 208, "name": "Pitot-static system", "weight": 5.0, "id": 122369130, "level": 3}
+{"count": 361, "name": "True airspeed", "weight": 9.0, "id": 130061786, "level": 3}
+{"count": 320, "name": "Airspeed indicator", "weight": 8.0, "id": 203695131, "level": 3}
+{"count": 370, "name": "Indicated airspeed", "weight": 10.0, "id": 22074990, "level": 3}
+{"count": 367, "name": "Maneuvering speed", "weight": 9.0, "id": 174975233, "level": 3}

@@ -1,0 +1,140 @@
+{"count": 49498, "name": "Visual perception", "weight": 10.0, "id": 178253425, "level": 3}
+{"count": 9836, "name": "Psychophysics", "weight": 1.0, "id": 15123163, "level": 3}
+{"count": 16376, "name": "Speech perception", "weight": 3.0, "id": 99209842, "level": 3}
+{"count": 8244, "name": "Visual processing", "weight": 1.0, "id": 2778251979, "level": 3}
+{"count": 6936, "name": "Motion perception", "weight": 1.0, "id": 48575856, "level": 3}
+{"count": 4194, "name": "Face perception", "weight": 0.0, "id": 161657702, "level": 3}
+{"count": 6001, "name": "Time perception", "weight": 1.0, "id": 172081034, "level": 3}
+{"count": 5654, "name": "Depth perception", "weight": 1.0, "id": 52672216, "level": 3}
+{"count": 5779, "name": "Perceptual learning", "weight": 1.0, "id": 22033958, "level": 3}
+{"count": 1986, "name": "Stimulus onset asynchrony", "weight": 0.0, "id": 2777747462, "level": 3}
+{"count": 5737, "name": "Psychoacoustics", "weight": 1.0, "id": 9940772, "level": 3}
+{"count": 2588, "name": "Form perception", "weight": 0.0, "id": 139132820, "level": 3}
+{"count": 1994, "name": "Sensory threshold", "weight": 0.0, "id": 110235638, "level": 3}
+{"count": 4585, "name": "Optical illusion", "weight": 0.0, "id": 139793654, "level": 3}
+{"count": 1064, "name": "Visual masking", "weight": 0.0, "id": 2779200073, "level": 3}
+{"count": 1771, "name": "Biological motion", "weight": 0.0, "id": 20864712, "level": 3}
+{"count": 1548, "name": "Repetition priming", "weight": 0.0, "id": 101083039, "level": 3}
+{"count": 2012, "name": "Binocular rivalry", "weight": 0.0, "id": 198313034, "level": 3}
+{"count": 2692, "name": "Multisensory integration", "weight": 0.0, "id": 2780328332, "level": 3}
+{"count": 5235, "name": "Stimulus modality", "weight": 1.0, "id": 26486553, "level": 3}
+{"count": 1203, "name": "Backward masking", "weight": 0.0, "id": 2776817677, "level": 3}
+{"count": 2886, "name": "Binocular disparity", "weight": 0.0, "id": 90790637, "level": 3}
+{"count": 1698, "name": "Attentional blink", "weight": 0.0, "id": 26344738, "level": 3}
+{"count": 1175, "name": "Visual agnosia", "weight": 0.0, "id": 191248289, "level": 3}
+{"count": 1297, "name": "Rapid serial visual presentation", "weight": 0.0, "id": 2779668609, "level": 3}
+{"count": 806, "name": "Stimulus\u2013response compatibility", "weight": 0.0, "id": 2777540489, "level": 3}
+{"count": 1157, "name": "Psychometric function", "weight": 0.0, "id": 27667172, "level": 3}
+{"count": 1211, "name": "Inhibition of return", "weight": 0.0, "id": 195955031, "level": 3}
+{"count": 1701, "name": "Voice-onset time", "weight": 0.0, "id": 89051679, "level": 3}
+{"count": 1226, "name": "Body schema", "weight": 0.0, "id": 22237779, "level": 3}
+{"count": 1488, "name": "Figure\u2013ground", "weight": 0.0, "id": 104319648, "level": 3}
+{"count": 1193, "name": "Just-noticeable difference", "weight": 0.0, "id": 59111918, "level": 3}
+{"count": 1297, "name": "Haptic perception", "weight": 0.0, "id": 2778360479, "level": 3}
+{"count": 903, "name": "Change blindness", "weight": 0.0, "id": 166116840, "level": 3}
+{"count": 736, "name": "Efference copy", "weight": 0.0, "id": 2778942571, "level": 3}
+{"count": 1364, "name": "Auditory scene analysis", "weight": 0.0, "id": 38129911, "level": 3}
+{"count": 537, "name": "Perceptual adaptation", "weight": 0.0, "id": 7494329, "level": 3}
+{"count": 557, "name": "Binding problem", "weight": 0.0, "id": 196498040, "level": 3}
+{"count": 533, "name": "Object-based attention", "weight": 0.0, "id": 2776602268, "level": 3}
+{"count": 1124, "name": "Sensory substitution", "weight": 0.0, "id": 8651855, "level": 3}
+{"count": 774, "name": "Absolute pitch", "weight": 0.0, "id": 2780880553, "level": 3}
+{"count": 718, "name": "Inattentional blindness", "weight": 0.0, "id": 93173128, "level": 3}
+{"count": 1438, "name": "Synesthesia", "weight": 0.0, "id": 2776664067, "level": 3}
+{"count": 1448, "name": "Emotion perception", "weight": 0.0, "id": 2776141551, "level": 3}
+{"count": 905, "name": "Computational auditory scene analysis", "weight": 0.0, "id": 73208851, "level": 3}
+{"count": 2164, "name": "Crossmodal", "weight": 0.0, "id": 60115397, "level": 3}
+{"count": 727, "name": "Filling-in", "weight": 0.0, "id": 200873422, "level": 3}
+{"count": 649, "name": "Illusory contours", "weight": 0.0, "id": 2779091665, "level": 3}
+{"count": 2173, "name": "Visual space", "weight": 0.0, "id": 207363949, "level": 3}
+{"count": 412, "name": "Necker cube", "weight": 0.0, "id": 116444002, "level": 3}
+{"count": 792, "name": "Subjective constancy", "weight": 0.0, "id": 3680456, "level": 3}
+{"count": 446, "name": "Extrastriate body area", "weight": 0.0, "id": 174714113, "level": 3}
+{"count": 1491, "name": "Numerosity adaptation effect", "weight": 0.0, "id": 163950791, "level": 3}
+{"count": 812, "name": "Perceptual mapping", "weight": 0.0, "id": 204899459, "level": 3}
+{"count": 512, "name": "Amusia", "weight": 0.0, "id": 2778120921, "level": 3}
+{"count": 372, "name": "Oblique effect", "weight": 0.0, "id": 2778574542, "level": 3}
+{"count": 2093, "name": "Place of articulation", "weight": 0.0, "id": 36933642, "level": 3}
+{"count": 264, "name": "Vision span", "weight": 0.0, "id": 56447880, "level": 3}
+{"count": 911, "name": "Tactile discrimination", "weight": 0.0, "id": 49409089, "level": 3}
+{"count": 1397, "name": "Perceptual system", "weight": 0.0, "id": 28063669, "level": 3}
+{"count": 282, "name": "Visual extinction", "weight": 0.0, "id": 2776873352, "level": 3}
+{"count": 600, "name": "Emotional prosody", "weight": 0.0, "id": 2778262033, "level": 3}
+{"count": 300, "name": "Representational momentum", "weight": 0.0, "id": 2777957826, "level": 3}
+{"count": 771, "name": "Interpersonal perception", "weight": 0.0, "id": 2778968331, "level": 3}
+{"count": 481, "name": "Sense data", "weight": 0.0, "id": 101512455, "level": 3}
+{"count": 742, "name": "Precedence effect", "weight": 0.0, "id": 82600853, "level": 3}
+{"count": 359, "name": "Auditory illusion", "weight": 0.0, "id": 141421991, "level": 3}
+{"count": 4413, "name": "Percept", "weight": 0.0, "id": 2779687425, "level": 3}
+{"count": 536, "name": "Active perception", "weight": 0.0, "id": 2776010242, "level": 3}
+{"count": 404, "name": "Third-person effect", "weight": 0.0, "id": 2777166456, "level": 3}
+{"count": 331, "name": "Entitativity", "weight": 0.0, "id": 2779111643, "level": 3}
+{"count": 167, "name": "Lateral masking", "weight": 0.0, "id": 2781336309, "level": 3}
+{"count": 248, "name": "Simultanagnosia", "weight": 0.0, "id": 2781236326, "level": 3}
+{"count": 242, "name": "McCollough effect", "weight": 0.0, "id": 2779404524, "level": 3}
+{"count": 249, "name": "Global precedence", "weight": 0.0, "id": 2776933227, "level": 3}
+{"count": 314, "name": "Selective perception", "weight": 0.0, "id": 138327631, "level": 3}
+{"count": 159, "name": "Illusory conjunctions", "weight": 0.0, "id": 2778747078, "level": 3}
+{"count": 140, "name": "Motion-induced blindness", "weight": 0.0, "id": 2777003379, "level": 3}
+{"count": 1382, "name": "Pitch (Music)", "weight": 0.0, "id": 153405242, "level": 3}
+{"count": 1553, "name": "Response priming", "weight": 0.0, "id": 154317770, "level": 3}
+{"count": 268, "name": "Disjunctivism", "weight": 0.0, "id": 2776970440, "level": 3}
+{"count": 112, "name": "CHREST", "weight": 0.0, "id": 57232318, "level": 3}
+{"count": 211, "name": "Averageness", "weight": 0.0, "id": 190601123, "level": 3}
+{"count": 107, "name": "Cerebral achromatopsia", "weight": 0.0, "id": 2779506069, "level": 3}
+{"count": 269, "name": "fMRI adaptation", "weight": 0.0, "id": 2777837933, "level": 3}
+{"count": 296, "name": "Attentional shift", "weight": 0.0, "id": 2779222822, "level": 3}
+{"count": 321, "name": "Missing fundamental", "weight": 0.0, "id": 144516242, "level": 3}
+{"count": 324, "name": "Veridicality", "weight": 0.0, "id": 2777173567, "level": 3}
+{"count": 918, "name": "Amodal perception", "weight": 0.0, "id": 174478892, "level": 3}
+{"count": 633, "name": "Selective auditory attention", "weight": 0.0, "id": 100142294, "level": 3}
+{"count": 185, "name": "Unique hues", "weight": 0.0, "id": 2777365425, "level": 3}
+{"count": 975, "name": "Relative pitch", "weight": 0.0, "id": 94544720, "level": 3}
+{"count": 167, "name": "Perceptual dialectology", "weight": 0.0, "id": 2778573578, "level": 3}
+{"count": 175, "name": "Word superiority effect", "weight": 0.0, "id": 2776487040, "level": 3}
+{"count": 214, "name": "Perceptual narrowing", "weight": 0.0, "id": 65316654, "level": 3}
+{"count": 112, "name": "Place theory", "weight": 0.0, "id": 181565104, "level": 3}
+{"count": 126, "name": "Virtual pitch", "weight": 0.0, "id": 2779270392, "level": 3}
+{"count": 193, "name": "Stroboscopic effect", "weight": 0.0, "id": 70061020, "level": 3}
+{"count": 24, "name": "Visual routine", "weight": 0.0, "id": 2776121707, "level": 3}
+{"count": 286, "name": "Philosophy of perception", "weight": 0.0, "id": 2780540333, "level": 3}
+{"count": 308, "name": "Visual hierarchy", "weight": 0.0, "id": 2778604867, "level": 3}
+{"count": 124, "name": "Pareidolia", "weight": 0.0, "id": 63808242, "level": 3}
+{"count": 1303, "name": "Scene statistics", "weight": 0.0, "id": 197654239, "level": 3}
+{"count": 88, "name": "Electrovibration", "weight": 0.0, "id": 2776153479, "level": 3}
+{"count": 177, "name": "Olfactory fatigue", "weight": 0.0, "id": 73201060, "level": 3}
+{"count": 80, "name": "Thermal grill illusion", "weight": 0.0, "id": 2781451748, "level": 3}
+{"count": 141, "name": "Reverse perspective", "weight": 0.0, "id": 199377603, "level": 3}
+{"count": 198, "name": "Social affordance", "weight": 0.0, "id": 47698494, "level": 3}
+{"count": 227, "name": "Haptic memory", "weight": 0.0, "id": 190028328, "level": 3}
+{"count": 475, "name": "Sensory neuroscience", "weight": 0.0, "id": 70817611, "level": 3}
+{"count": 173, "name": "Principles of grouping", "weight": 0.0, "id": 41243935, "level": 3}
+{"count": 49, "name": "Tau effect", "weight": 0.0, "id": 2780917480, "level": 3}
+{"count": 116, "name": "Ambiguous image", "weight": 0.0, "id": 2778094888, "level": 3}
+{"count": 62, "name": "Kappa effect", "weight": 0.0, "id": 2776343082, "level": 3}
+{"count": 237, "name": "Ideal observer analysis", "weight": 0.0, "id": 122372697, "level": 3}
+{"count": 41, "name": "Neural binding", "weight": 0.0, "id": 2777435991, "level": 3}
+{"count": 38, "name": "Tactile illusions", "weight": 0.0, "id": 2778844495, "level": 3}
+{"count": 29, "name": "Enactive interfaces", "weight": 0.0, "id": 2778059708, "level": 3}
+{"count": 138, "name": "Common coding theory", "weight": 0.0, "id": 114252324, "level": 3}
+{"count": 57, "name": "Divided visual field paradigm", "weight": 0.0, "id": 2777326320, "level": 3}
+{"count": 162, "name": "Phonemic contrast", "weight": 0.0, "id": 2779072074, "level": 3}
+{"count": 36, "name": "Hollow-Face illusion", "weight": 0.0, "id": 2781312538, "level": 3}
+{"count": 88, "name": "Transverse occipital sulcus", "weight": 0.0, "id": 2777391741, "level": 3}
+{"count": 97, "name": "Dichoptic presentation", "weight": 0.0, "id": 2775891199, "level": 3}
+{"count": 24, "name": "Cornsweet illusion", "weight": 0.0, "id": 2779153180, "level": 3}
+{"count": 27, "name": "Deficits in attention, motor control and perception", "weight": 0.0, "id": 136206003, "level": 3}
+{"count": 55, "name": "Tritone paradox", "weight": 0.0, "id": 2781318388, "level": 3}
+{"count": 48, "name": "Roundedness", "weight": 0.0, "id": 2777854462, "level": 3}
+{"count": 16, "name": "Molyneux's problem", "weight": 0.0, "id": 2780794961, "level": 3}
+{"count": 13, "name": "Barberpole illusion", "weight": 0.0, "id": 2777274154, "level": 3}
+{"count": 188, "name": "Perception training", "weight": 0.0, "id": 2775921401, "level": 3}
+{"count": 21, "name": "Constructive perception", "weight": 0.0, "id": 2776166110, "level": 3}
+{"count": 21, "name": "Phantom contour", "weight": 0.0, "id": 2778505959, "level": 3}
+{"count": 22, "name": "Pain in fish", "weight": 0.0, "id": 2778689786, "level": 3}
+{"count": 9, "name": "Pitch circularity", "weight": 0.0, "id": 2777131729, "level": 3}
+{"count": 15, "name": "Front rounded vowel", "weight": 0.0, "id": 2780760573, "level": 3}
+{"count": 38, "name": "Activity vector analysis", "weight": 0.0, "id": 2776631731, "level": 3}
+{"count": 1302, "name": "Second-order stimulus", "weight": 0.0, "id": 102687321, "level": 3}
+{"count": 20, "name": "Duration (music)", "weight": 0.0, "id": 112758219, "level": 3}
+{"count": 13, "name": "Rubin vase", "weight": 0.0, "id": 2778986557, "level": 3}

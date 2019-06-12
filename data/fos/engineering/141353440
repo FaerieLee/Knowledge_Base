@@ -1,0 +1,9 @@
+{"count": 2580, "name": "Transient recovery voltage", "weight": 5.0, "id": 72047438, "level": 3}
+{"count": 849, "name": "Breaking capacity", "weight": 1.0, "id": 33870017, "level": 3}
+{"count": 1405, "name": "Recloser", "weight": 2.0, "id": 31712484, "level": 3}
+{"count": 4219, "name": "Residual-current device", "weight": 8.0, "id": 15116251, "level": 3}
+{"count": 4883, "name": "Distribution board", "weight": 10.0, "id": 123158532, "level": 3}
+{"count": 79, "name": "Resettable fuse", "weight": 0.0, "id": 55406858, "level": 3}
+{"count": 434, "name": "Fuse cutout", "weight": 0.0, "id": 101550589, "level": 3}
+{"count": 95, "name": "Fuse (automotive)", "weight": 0.0, "id": 167887998, "level": 3}
+{"count": 672, "name": "Fusible link", "weight": 1.0, "id": 2779991630, "level": 3}

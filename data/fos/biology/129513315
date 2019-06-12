@@ -1,0 +1,21 @@
+{"count": 21095, "name": "Soil salinity", "weight": 10.0, "id": 141650431, "level": 3}
+{"count": 5554, "name": "Halophyte", "weight": 2.0, "id": 7616482, "level": 3}
+{"count": 8530, "name": "Saline water", "weight": 4.0, "id": 16704694, "level": 3}
+{"count": 2344, "name": "Halotolerance", "weight": 1.0, "id": 30992042, "level": 3}
+{"count": 1571, "name": "Sodium adsorption ratio", "weight": 0.0, "id": 2776332401, "level": 3}
+{"count": 1222, "name": "Halocline", "weight": 0.0, "id": 56905729, "level": 3}
+{"count": 378, "name": "North Pacific Intermediate Water", "weight": 0.0, "id": 2778891270, "level": 3}
+{"count": 973, "name": "Estuarine water circulation", "weight": 0.0, "id": 107674354, "level": 3}
+{"count": 477, "name": "Paleosalinity", "weight": 0.0, "id": 2779865071, "level": 3}
+{"count": 913, "name": "Freshwater inflow", "weight": 0.0, "id": 2777526573, "level": 3}
+{"count": 2750, "name": "Euryhaline", "weight": 1.0, "id": 76854278, "level": 3}
+{"count": 395, "name": "Chlorinity", "weight": 0.0, "id": 52746753, "level": 3}
+{"count": 255, "name": "Brine rejection", "weight": 0.0, "id": 23558321, "level": 3}
+{"count": 57, "name": "Medicago ciliaris", "weight": 0.0, "id": 2775918355, "level": 3}
+{"count": 19, "name": "Andropogon glomeratus", "weight": 0.0, "id": 2776528757, "level": 3}
+{"count": 7697, "name": "Temperature salinity diagrams", "weight": 3.0, "id": 23715911, "level": 3}
+{"count": 13, "name": "Ruppia tuberosa", "weight": 0.0, "id": 2776940854, "level": 3}
+{"count": 320, "name": "Polyhaline", "weight": 0.0, "id": 51901199, "level": 3}
+{"count": 23, "name": "Sporobolus spicatus", "weight": 0.0, "id": 2780818764, "level": 3}
+{"count": 102, "name": "Salinometer", "weight": 0.0, "id": 2779068269, "level": 3}
+{"count": 25, "name": "Reversing thermometer", "weight": 0.0, "id": 103728367, "level": 3}

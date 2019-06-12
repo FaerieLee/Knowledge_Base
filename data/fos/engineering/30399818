@@ -1,0 +1,12 @@
+{"count": 775, "name": "Well integrity", "weight": 1.0, "id": 2781185919, "level": 3}
+{"count": 1091, "name": "Well cementing", "weight": 2.0, "id": 2777880356, "level": 3}
+{"count": 4849, "name": "Casing string", "weight": 10.0, "id": 200921483, "level": 3}
+{"count": 526, "name": "Production string", "weight": 1.0, "id": 2779968089, "level": 3}
+{"count": 83, "name": "Cement bond log", "weight": 0.0, "id": 2779501808, "level": 3}
+{"count": 572, "name": "Tubing hanger", "weight": 1.0, "id": 2781125937, "level": 3}
+{"count": 1259, "name": "Production tubing", "weight": 2.0, "id": 2779969980, "level": 3}
+{"count": 121, "name": "Well kill", "weight": 0.0, "id": 195058502, "level": 3}
+{"count": 382, "name": "Casing hanger", "weight": 0.0, "id": 2780531490, "level": 3}
+{"count": 235, "name": "Conductor pipe", "weight": 0.0, "id": 2776693117, "level": 3}
+{"count": 59, "name": "Steel casing pipe", "weight": 0.0, "id": 2776822038, "level": 3}
+{"count": 34, "name": "Depth in a well", "weight": 0.0, "id": 86228467, "level": 3}

@@ -1,0 +1,73 @@
+{"count": 29604, "name": "Heart rate variability", "weight": 10.0, "id": 71635504, "level": 5}
+{"count": 20594, "name": "Stroke volume", "weight": 6.0, "id": 80461066, "level": 5}
+{"count": 28693, "name": "Mean arterial pressure", "weight": 9.0, "id": 2776452961, "level": 5}
+{"count": 16821, "name": "Respiratory rate", "weight": 5.0, "id": 8213797, "level": 5}
+{"count": 12146, "name": "Baroreflex", "weight": 4.0, "id": 191237925, "level": 5}
+{"count": 8506, "name": "Baroreceptor", "weight": 2.0, "id": 79752029, "level": 5}
+{"count": 2514, "name": "Parasympathetic nervous system", "weight": 0.0, "id": 2780761756, "level": 5}
+{"count": 17196, "name": "Bradycardia", "weight": 5.0, "id": 2777495988, "level": 5}
+{"count": 3633, "name": "Vagal tone", "weight": 1.0, "id": 10928738, "level": 5}
+{"count": 3298, "name": "Sinoatrial node", "weight": 1.0, "id": 2778542873, "level": 5}
+{"count": 2591, "name": "Cold pressor test", "weight": 0.0, "id": 33971717, "level": 5}
+{"count": 1571, "name": "Respiratory exchange ratio", "weight": 0.0, "id": 116254018, "level": 5}
+{"count": 1165, "name": "Rate pressure product", "weight": 0.0, "id": 71316499, "level": 5}
+{"count": 2132, "name": "Esmolol", "weight": 0.0, "id": 2780996683, "level": 5}
+{"count": 1977, "name": "Ventilatory threshold", "weight": 0.0, "id": 2778560200, "level": 5}
+{"count": 7041, "name": "Exercise intensity", "weight": 2.0, "id": 2776811442, "level": 5}
+{"count": 1703, "name": "Cardiotocography", "weight": 0.0, "id": 2776046940, "level": 5}
+{"count": 1113, "name": "Microneurography", "weight": 0.0, "id": 2775898464, "level": 5}
+{"count": 1471, "name": "Orthostatic intolerance", "weight": 0.0, "id": 2779624417, "level": 5}
+{"count": 934, "name": "Tilt table test", "weight": 0.0, "id": 2776146683, "level": 5}
+{"count": 2249, "name": "Ivabradine", "weight": 0.0, "id": 2779167562, "level": 5}
+{"count": 2599, "name": "PR interval", "weight": 0.0, "id": 178697064, "level": 5}
+{"count": 919, "name": "Heart rate turbulence", "weight": 0.0, "id": 2776108986, "level": 5}
+{"count": 551, "name": "Frank\u2013Starling law of the heart", "weight": 0.0, "id": 22694160, "level": 5}
+{"count": 2432, "name": "Rating of perceived exertion", "weight": 0.0, "id": 2780928941, "level": 5}
+{"count": 566, "name": "Cardiac nerve", "weight": 0.0, "id": 2776806606, "level": 5}
+{"count": 179, "name": "Polyvagal Theory", "weight": 0.0, "id": 200887341, "level": 5}
+{"count": 267, "name": "Poincar\u00e9 plot", "weight": 0.0, "id": 18325288, "level": 5}
+{"count": 305, "name": "Xamoterol", "weight": 0.0, "id": 2777205282, "level": 5}
+{"count": 363, "name": "Prenalterol", "weight": 0.0, "id": 2777335504, "level": 5}
+{"count": 314, "name": "Inappropriate sinus tachycardia", "weight": 0.0, "id": 2780014080, "level": 5}
+{"count": 375, "name": "Bezold\u2013Jarisch reflex", "weight": 0.0, "id": 160433167, "level": 5}
+{"count": 576, "name": "Arteriovenous oxygen difference", "weight": 0.0, "id": 2780685332, "level": 5}
+{"count": 447, "name": "Landiolol", "weight": 0.0, "id": 2776051475, "level": 5}
+{"count": 1127, "name": "Heart rate monitor", "weight": 0.0, "id": 2775893642, "level": 5}
+{"count": 463, "name": "Nonstress test", "weight": 0.0, "id": 2780664722, "level": 5}
+{"count": 564, "name": "Oxygen pulse", "weight": 0.0, "id": 2778212704, "level": 5}
+{"count": 1148, "name": "Bruce protocol", "weight": 0.0, "id": 130049864, "level": 5}
+{"count": 295, "name": "Mammalian diving reflex", "weight": 0.0, "id": 2020116, "level": 5}
+{"count": 94, "name": "Alinidine", "weight": 0.0, "id": 2777208549, "level": 5}
+{"count": 395, "name": "Interbeat interval", "weight": 0.0, "id": 2776768804, "level": 5}
+{"count": 173, "name": "Mayer waves", "weight": 0.0, "id": 2776921573, "level": 5}
+{"count": 300, "name": "Rapid shallow breathing index", "weight": 0.0, "id": 2777992700, "level": 5}
+{"count": 6376, "name": "Chronotropic", "weight": 2.0, "id": 158328960, "level": 5}
+{"count": 49, "name": "Trimetaphan camsilate", "weight": 0.0, "id": 2776745016, "level": 5}
+{"count": 1255, "name": "Reflex bradycardia", "weight": 0.0, "id": 19383871, "level": 5}
+{"count": 233, "name": "Vibroacoustic stimulation", "weight": 0.0, "id": 2779735894, "level": 5}
+{"count": 124, "name": "Bevantolol", "weight": 0.0, "id": 2776399841, "level": 5}
+{"count": 99, "name": "Arbutamine", "weight": 0.0, "id": 2780044627, "level": 5}
+{"count": 175, "name": "Contraction stress test", "weight": 0.0, "id": 2779905107, "level": 5}
+{"count": 97, "name": "Ictal bradycardia", "weight": 0.0, "id": 2779809792, "level": 5}
+{"count": 174, "name": "Bradypnea", "weight": 0.0, "id": 2780917242, "level": 5}
+{"count": 163, "name": "Transcutaneous pacing", "weight": 0.0, "id": 2779408484, "level": 5}
+{"count": 51, "name": "Epanolol", "weight": 0.0, "id": 2780948738, "level": 5}
+{"count": 120, "name": "Cardiovascular drift", "weight": 0.0, "id": 2777038775, "level": 5}
+{"count": 33, "name": "Falipamil", "weight": 0.0, "id": 2777221431, "level": 5}
+{"count": 104, "name": "Bainbridge reflex", "weight": 0.0, "id": 173802850, "level": 5}
+{"count": 145, "name": "Funny current", "weight": 0.0, "id": 99851321, "level": 5}
+{"count": 57, "name": "Postural tachycardia syndrome (PoTS)", "weight": 0.0, "id": 2780117480, "level": 5}
+{"count": 113, "name": "Umbilical cord compression", "weight": 0.0, "id": 2777339186, "level": 5}
+{"count": 527, "name": "Vagal escape", "weight": 0.0, "id": 122522123, "level": 5}
+{"count": 23, "name": "Flestolol", "weight": 0.0, "id": 2777733484, "level": 5}
+{"count": 100, "name": "Trimazosin", "weight": 0.0, "id": 2780283505, "level": 5}
+{"count": 467, "name": "Dromotropic", "weight": 0.0, "id": 112012222, "level": 5}
+{"count": 18, "name": "Cicloprolol", "weight": 0.0, "id": 2778922890, "level": 5}
+{"count": 82, "name": "Tolamolol", "weight": 0.0, "id": 2780101124, "level": 5}
+{"count": 29, "name": "Braxton Hicks contractions", "weight": 0.0, "id": 2778180564, "level": 5}
+{"count": 149, "name": "Atrial volume receptors", "weight": 0.0, "id": 102757985, "level": 5}
+{"count": 20, "name": "Pacemaker action potential", "weight": 0.0, "id": 2779952705, "level": 5}
+{"count": 30, "name": "Hexoskin", "weight": 0.0, "id": 2778224109, "level": 5}
+{"count": 34, "name": "Cardioneuroablation", "weight": 0.0, "id": 2776456742, "level": 5}
+{"count": 166, "name": "Medullary ischemic reflex", "weight": 0.0, "id": 117774493, "level": 5}
+{"count": 12, "name": "Hypoventilation training", "weight": 0.0, "id": 123010392, "level": 5}

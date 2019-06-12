@@ -1,0 +1,92 @@
+{"count": 53225, "name": "Estrogen receptor", "weight": 10.0, "id": 84606932, "level": 4}
+{"count": 36395, "name": "Mammography", "weight": 6.0, "id": 2780472235, "level": 4}
+{"count": 13192, "name": "Surgical oncology", "weight": 2.0, "id": 2780140570, "level": 4}
+{"count": 24907, "name": "Tamoxifen", "weight": 4.0, "id": 2777176818, "level": 4}
+{"count": 11482, "name": "Breast disease", "weight": 2.0, "id": 2779880527, "level": 4}
+{"count": 25583, "name": "Adjuvant therapy", "weight": 4.0, "id": 2777982462, "level": 4}
+{"count": 21669, "name": "Mastectomy", "weight": 4.0, "id": 2777757722, "level": 4}
+{"count": 17737, "name": "Metastatic breast cancer", "weight": 3.0, "id": 2775930923, "level": 4}
+{"count": 12824, "name": "Trastuzumab", "weight": 2.0, "id": 2779786085, "level": 4}
+{"count": 9648, "name": "Neoadjuvant therapy", "weight": 1.0, "id": 2778292576, "level": 4}
+{"count": 14023, "name": "Aromatase", "weight": 2.0, "id": 2776166826, "level": 4}
+{"count": 10085, "name": "Bone metastasis", "weight": 1.0, "id": 2777783956, "level": 4}
+{"count": 9378, "name": "Lymphedema", "weight": 1.0, "id": 2781392513, "level": 4}
+{"count": 12637, "name": "Ductal carcinoma", "weight": 2.0, "id": 2780862961, "level": 4}
+{"count": 5155, "name": "Breast-conserving surgery", "weight": 0.0, "id": 2781467025, "level": 4}
+{"count": 6775, "name": "Epirubicin", "weight": 1.0, "id": 2780835546, "level": 4}
+{"count": 4079, "name": "Fibroadenoma", "weight": 0.0, "id": 2776524808, "level": 4}
+{"count": 10931, "name": "Breast reconstruction", "weight": 2.0, "id": 2781001896, "level": 4}
+{"count": 2222, "name": "Breast self-examination", "weight": 0.0, "id": 2776932478, "level": 4}
+{"count": 1285, "name": "MCF-7", "weight": 0.0, "id": 109541995, "level": 4}
+{"count": 9229, "name": "Triple-negative breast cancer", "weight": 1.0, "id": 2780110267, "level": 4}
+{"count": 9887, "name": "Hormonal therapy", "weight": 1.0, "id": 2778311097, "level": 4}
+{"count": 11066, "name": "Anthracycline", "weight": 2.0, "id": 2776802502, "level": 4}
+{"count": 1249, "name": "Goserelin", "weight": 0.0, "id": 2778043895, "level": 4}
+{"count": 1231, "name": "Aminoglutethimide", "weight": 0.0, "id": 2775976807, "level": 4}
+{"count": 2088, "name": "Inflammatory breast cancer", "weight": 0.0, "id": 2780839634, "level": 4}
+{"count": 10941, "name": "Epidemiology of cancer", "weight": 2.0, "id": 63592243, "level": 4}
+{"count": 5220, "name": "Breast surgery", "weight": 0.0, "id": 2777704003, "level": 4}
+{"count": 2128, "name": "HER2/neu", "weight": 0.0, "id": 2776872082, "level": 4}
+{"count": 6706, "name": "Taxane", "weight": 1.0, "id": 2777511904, "level": 4}
+{"count": 2199, "name": "Male breast cancer", "weight": 0.0, "id": 2777396416, "level": 4}
+{"count": 1629, "name": "Nipple discharge", "weight": 0.0, "id": 2780898380, "level": 4}
+{"count": 458, "name": "Nottingham Prognostic Index", "weight": 0.0, "id": 2779740036, "level": 4}
+{"count": 5801, "name": "Radical mastectomy", "weight": 1.0, "id": 2780404832, "level": 4}
+{"count": 960, "name": "Breast development", "weight": 0.0, "id": 2776880931, "level": 4}
+{"count": 584, "name": "Metaplastic carcinoma", "weight": 0.0, "id": 2776047466, "level": 4}
+{"count": 786, "name": "CHEK2", "weight": 0.0, "id": 2776071976, "level": 4}
+{"count": 841, "name": "CISH", "weight": 0.0, "id": 121313828, "level": 4}
+{"count": 1706, "name": "BRCA mutation", "weight": 0.0, "id": 2780194787, "level": 4}
+{"count": 513, "name": "Mammaglobin", "weight": 0.0, "id": 2777383545, "level": 4}
+{"count": 11179, "name": "CA15-3", "weight": 2.0, "id": 118646709, "level": 4}
+{"count": 631, "name": "Mammotome", "weight": 0.0, "id": 2779294588, "level": 4}
+{"count": 755, "name": "Intraductal papilloma", "weight": 0.0, "id": 2779141538, "level": 4}
+{"count": 500, "name": "Deep inspiration breath-hold", "weight": 0.0, "id": 2778505408, "level": 4}
+{"count": 982, "name": "Oncotype DX", "weight": 0.0, "id": 2777868179, "level": 4}
+{"count": 1112, "name": "Breast pain", "weight": 0.0, "id": 2780932660, "level": 4}
+{"count": 950, "name": "Palbociclib", "weight": 0.0, "id": 2779744173, "level": 4}
+{"count": 250, "name": "Dose-dense chemotherapy", "weight": 0.0, "id": 2780113788, "level": 4}
+{"count": 292, "name": "Ductal lavage", "weight": 0.0, "id": 2779736201, "level": 4}
+{"count": 178, "name": "Lead time bias", "weight": 0.0, "id": 2779879068, "level": 4}
+{"count": 60, "name": "Pre-metastatic niche", "weight": 0.0, "id": 2777609930, "level": 4}
+{"count": 634, "name": "Breast cancer chemotherapy", "weight": 0.0, "id": 2776310068, "level": 4}
+{"count": 211, "name": "Moist desquamation", "weight": 0.0, "id": 141765769, "level": 4}
+{"count": 356, "name": "Breast cysts", "weight": 0.0, "id": 2780882493, "level": 4}
+{"count": 315, "name": "MTDH", "weight": 0.0, "id": 2781133596, "level": 4}
+{"count": 1018, "name": "Breast lumps", "weight": 0.0, "id": 2778465573, "level": 4}
+{"count": 145, "name": "Chemo brain", "weight": 0.0, "id": 2780207313, "level": 4}
+{"count": 188, "name": "MDA-MB-468", "weight": 0.0, "id": 2775977022, "level": 4}
+{"count": 392, "name": "BRIP1", "weight": 0.0, "id": 2776561399, "level": 4}
+{"count": 314, "name": "Breast cancer classification", "weight": 0.0, "id": 2779653374, "level": 4}
+{"count": 262, "name": "Million Women Study", "weight": 0.0, "id": 2775835168, "level": 4}
+{"count": 278, "name": "Accessory breast", "weight": 0.0, "id": 2777921195, "level": 4}
+{"count": 618, "name": "Breast cancer awareness", "weight": 0.0, "id": 2777851884, "level": 4}
+{"count": 488, "name": "Supraclavicular fossa", "weight": 0.0, "id": 2777968714, "level": 4}
+{"count": 146, "name": "Buparlisib", "weight": 0.0, "id": 2777311166, "level": 4}
+{"count": 150, "name": "BCAR1", "weight": 0.0, "id": 2779704436, "level": 4}
+{"count": 266, "name": "MAP3K1", "weight": 0.0, "id": 2776422882, "level": 4}
+{"count": 140, "name": "MRE11A", "weight": 0.0, "id": 2777737540, "level": 4}
+{"count": 101, "name": "Pectoral fascia", "weight": 0.0, "id": 2776674258, "level": 4}
+{"count": 14, "name": "Targeted intra-operative radiotherapy", "weight": 0.0, "id": 2780670801, "level": 4}
+{"count": 195, "name": "Paget's disease of the breast", "weight": 0.0, "id": 2777086745, "level": 4}
+{"count": 1447, "name": "Risk factors for breast cancer", "weight": 0.0, "id": 2776601875, "level": 4}
+{"count": 28, "name": "Tigatuzumab", "weight": 0.0, "id": 2779642350, "level": 4}
+{"count": 53, "name": "Alopecia neoplastica", "weight": 0.0, "id": 2781365366, "level": 4}
+{"count": 36, "name": "TXN2", "weight": 0.0, "id": 2776707814, "level": 4}
+{"count": 39, "name": "MED28", "weight": 0.0, "id": 2778309969, "level": 4}
+{"count": 37, "name": "ANG1005", "weight": 0.0, "id": 2780466513, "level": 4}
+{"count": 22, "name": "TMSB10", "weight": 0.0, "id": 2779551241, "level": 4}
+{"count": 41, "name": "FKBPL", "weight": 0.0, "id": 2775850764, "level": 4}
+{"count": 33, "name": "Lateral thoracic vein", "weight": 0.0, "id": 2776478331, "level": 4}
+{"count": 45, "name": "Predeterminism", "weight": 0.0, "id": 2779519304, "level": 4}
+{"count": 56, "name": "Axillary space", "weight": 0.0, "id": 2775889824, "level": 4}
+{"count": 8, "name": "Tail of Spence", "weight": 0.0, "id": 132999409, "level": 4}
+{"count": 35, "name": "Retromammary space", "weight": 0.0, "id": 2777092906, "level": 4}
+{"count": 42, "name": "TACC2", "weight": 0.0, "id": 2777324080, "level": 4}
+{"count": 38, "name": "AFPep", "weight": 0.0, "id": 2776139992, "level": 4}
+{"count": 32, "name": "Calusterone", "weight": 0.0, "id": 2778779495, "level": 4}
+{"count": 16, "name": "Anne Arundel Medical Center", "weight": 0.0, "id": 2776225009, "level": 4}
+{"count": 18, "name": "European Menopause and Andropause Society", "weight": 0.0, "id": 2777135142, "level": 4}
+{"count": 15, "name": "NeuVax", "weight": 0.0, "id": 2777209713, "level": 4}
+{"count": 26, "name": "Atypical hyperplasia of the breast", "weight": 0.0, "id": 2778124393, "level": 4}
+{"count": 24, "name": "ICAM4", "weight": 0.0, "id": 2776667740, "level": 4}

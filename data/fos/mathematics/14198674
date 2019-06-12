@@ -1,0 +1,3 @@
+{"count": 3397, "name": "Direct stiffness method", "weight": 10.0, "id": 6213913, "level": 4}
+{"count": 1312, "name": "Tangent stiffness matrix", "weight": 3.0, "id": 178295079, "level": 4}
+{"count": 891, "name": "Damping matrix", "weight": 2.0, "id": 2777256427, "level": 4}

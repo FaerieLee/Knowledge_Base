@@ -1,0 +1,19 @@
+{"count": 7415, "name": "IP multicast", "weight": 10.0, "id": 150329594, "level": 5}
+{"count": 3726, "name": "Reliable multicast", "weight": 5.0, "id": 174174714, "level": 5}
+{"count": 864, "name": "Overlay multicast", "weight": 1.0, "id": 2780622806, "level": 5}
+{"count": 45, "name": "End System Multicast", "weight": 0.0, "id": 2780630492, "level": 5}
+{"count": 133, "name": "Scalable Reliable Multicast", "weight": 0.0, "id": 2781417336, "level": 5}
+{"count": 459, "name": "Mbone", "weight": 0.0, "id": 190144534, "level": 5}
+{"count": 1309, "name": "Internet Group Management Protocol", "weight": 1.0, "id": 49375483, "level": 5}
+{"count": 444, "name": "ODMRP", "weight": 0.0, "id": 2777128120, "level": 5}
+{"count": 22, "name": "Core-based trees", "weight": 0.0, "id": 2779891735, "level": 5}
+{"count": 5625, "name": "Inter-domain", "weight": 7.0, "id": 5111613, "level": 5}
+{"count": 3438, "name": "Multicast address", "weight": 4.0, "id": 192240487, "level": 5}
+{"count": 80, "name": "Multicast Listener Discovery", "weight": 0.0, "id": 2780245983, "level": 5}
+{"count": 247, "name": "IGMP snooping", "weight": 0.0, "id": 157585441, "level": 5}
+{"count": 67, "name": "Any-source multicast", "weight": 0.0, "id": 2779970502, "level": 5}
+{"count": 43, "name": "Multicast encryption", "weight": 0.0, "id": 2776261919, "level": 5}
+{"count": 16, "name": "Multicast Source Discovery Protocol", "weight": 0.0, "id": 2777290193, "level": 5}
+{"count": 527, "name": "Session Announcement Protocol", "weight": 0.0, "id": 134412172, "level": 5}
+{"count": 36, "name": "SRV record", "weight": 0.0, "id": 111464802, "level": 5}
+{"count": 13, "name": "MMARP", "weight": 0.0, "id": 2777919484, "level": 5}

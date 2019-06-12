@@ -1,0 +1,72 @@
+{"count": 8117, "name": "Connectivity", "weight": 10.0, "id": 76444178, "level": 3}
+{"count": 7729, "name": "Planar graph", "weight": 9.0, "id": 101837359, "level": 3}
+{"count": 7891, "name": "Degree (graph theory)", "weight": 9.0, "id": 205826798, "level": 3}
+{"count": 4388, "name": "Hamiltonian path", "weight": 5.0, "id": 86524685, "level": 3}
+{"count": 4442, "name": "Complete graph", "weight": 5.0, "id": 125080357, "level": 3}
+{"count": 4076, "name": "Dominating set", "weight": 5.0, "id": 146661039, "level": 3}
+{"count": 1628, "name": "Vertex function", "weight": 2.0, "id": 157470216, "level": 3}
+{"count": 3175, "name": "Vertex cover", "weight": 3.0, "id": 40687702, "level": 3}
+{"count": 5545, "name": "Hypergraph", "weight": 6.0, "id": 2781221856, "level": 3}
+{"count": 4660, "name": "Vertex (graph theory)", "weight": 5.0, "id": 80899671, "level": 3}
+{"count": 1275, "name": "Vertex operator algebra", "weight": 1.0, "id": 179724543, "level": 3}
+{"count": 2607, "name": "Domination analysis", "weight": 3.0, "id": 83833204, "level": 3}
+{"count": 1539, "name": "Multigraph", "weight": 1.0, "id": 17758045, "level": 3}
+{"count": 1918, "name": "Ramsey's theorem", "weight": 2.0, "id": 44115641, "level": 3}
+{"count": 1253, "name": "Wiener index", "weight": 1.0, "id": 16640446, "level": 3}
+{"count": 583, "name": "Covering number", "weight": 0.0, "id": 2778793972, "level": 3}
+{"count": 1440, "name": "Simple polygon", "weight": 1.0, "id": 197949415, "level": 3}
+{"count": 301, "name": "Claw-free graph", "weight": 0.0, "id": 110071963, "level": 3}
+{"count": 962, "name": "Molecular graph", "weight": 1.0, "id": 2780022179, "level": 3}
+{"count": 165, "name": "Acyclic orientation", "weight": 0.0, "id": 2780631922, "level": 3}
+{"count": 310, "name": "Art gallery problem", "weight": 0.0, "id": 175474100, "level": 3}
+{"count": 271, "name": "Cartesian product of graphs", "weight": 0.0, "id": 2776530776, "level": 3}
+{"count": 177, "name": "Quotient graph", "weight": 0.0, "id": 2780053498, "level": 3}
+{"count": 1411, "name": "Vertex model", "weight": 1.0, "id": 80183032, "level": 3}
+{"count": 189, "name": "Clique cover", "weight": 0.0, "id": 2776899043, "level": 3}
+{"count": 189, "name": "Bootstrap percolation", "weight": 0.0, "id": 2778798084, "level": 3}
+{"count": 801, "name": "Polygonal chain", "weight": 0.0, "id": 182860218, "level": 3}
+{"count": 1979, "name": "Path graph", "weight": 2.0, "id": 128067373, "level": 3}
+{"count": 1294, "name": "Induced subgraph", "weight": 1.0, "id": 2778012994, "level": 3}
+{"count": 4236, "name": "Neighbourhood (graph theory)", "weight": 5.0, "id": 164529433, "level": 3}
+{"count": 51, "name": "Chip-firing game", "weight": 0.0, "id": 2777031917, "level": 3}
+{"count": 139, "name": "Median graph", "weight": 0.0, "id": 41027996, "level": 3}
+{"count": 221, "name": "Chemical graph theory", "weight": 0.0, "id": 103708830, "level": 3}
+{"count": 398, "name": "Generalized Petersen graph", "weight": 0.0, "id": 38367582, "level": 3}
+{"count": 116, "name": "Hirsch conjecture", "weight": 0.0, "id": 2777404096, "level": 3}
+{"count": 53, "name": "T-coloring", "weight": 0.0, "id": 2777261766, "level": 3}
+{"count": 333, "name": "Graceful labeling", "weight": 0.0, "id": 2776557895, "level": 3}
+{"count": 265, "name": "Hosoya index", "weight": 0.0, "id": 154077431, "level": 3}
+{"count": 375, "name": "Arboricity", "weight": 0.0, "id": 83204008, "level": 3}
+{"count": 72, "name": "Sequential dynamical system", "weight": 0.0, "id": 2781070770, "level": 3}
+{"count": 243, "name": "Kneser graph", "weight": 0.0, "id": 51366580, "level": 3}
+{"count": 225, "name": "Path cover", "weight": 0.0, "id": 2778429525, "level": 3}
+{"count": 88, "name": "Polyhedral terrain", "weight": 0.0, "id": 2778674934, "level": 3}
+{"count": 37, "name": "B-coloring", "weight": 0.0, "id": 2776617150, "level": 3}
+{"count": 64, "name": "Pr\u00fcfer sequence", "weight": 0.0, "id": 170242906, "level": 3}
+{"count": 33, "name": "Partial cube", "weight": 0.0, "id": 2776447964, "level": 3}
+{"count": 39, "name": "Panconnectivity", "weight": 0.0, "id": 2777923450, "level": 3}
+{"count": 85, "name": "Cactus graph", "weight": 0.0, "id": 2780880975, "level": 3}
+{"count": 67, "name": "Hull number", "weight": 0.0, "id": 2779593896, "level": 3}
+{"count": 44, "name": "Schlegel diagram", "weight": 0.0, "id": 72437048, "level": 3}
+{"count": 105, "name": "Ladder graph", "weight": 0.0, "id": 2779135755, "level": 3}
+{"count": 80, "name": "Rooted graph", "weight": 0.0, "id": 2780441972, "level": 3}
+{"count": 73, "name": "Mycielskian", "weight": 0.0, "id": 2776678465, "level": 3}
+{"count": 220, "name": "Vertex normal", "weight": 0.0, "id": 36772649, "level": 3}
+{"count": 185, "name": "Vertex distance", "weight": 0.0, "id": 118182725, "level": 3}
+{"count": 72, "name": "Laman graph", "weight": 0.0, "id": 135613798, "level": 3}
+{"count": 48, "name": "Strong product of graphs", "weight": 0.0, "id": 2781431355, "level": 3}
+{"count": 15, "name": "Cocoloring", "weight": 0.0, "id": 2779411611, "level": 3}
+{"count": 38, "name": "Pedal triangle", "weight": 0.0, "id": 2779918651, "level": 3}
+{"count": 14, "name": "Erd\u0151s\u2013Hajnal conjecture", "weight": 0.0, "id": 2781286651, "level": 3}
+{"count": 24, "name": "Thrackle", "weight": 0.0, "id": 2776164104, "level": 3}
+{"count": 419, "name": "Spherical polyhedron", "weight": 0.0, "id": 134134611, "level": 3}
+{"count": 23, "name": "Ore's theorem", "weight": 0.0, "id": 2777942178, "level": 3}
+{"count": 68, "name": "Lexicographic product of graphs", "weight": 0.0, "id": 2776850442, "level": 3}
+{"count": 107, "name": "Deltahedron", "weight": 0.0, "id": 3404012, "level": 3}
+{"count": 42, "name": "Dicycle", "weight": 0.0, "id": 2777553581, "level": 3}
+{"count": 776, "name": "Edge-graceful labeling", "weight": 0.0, "id": 150433608, "level": 3}
+{"count": 5303, "name": "Bound graph", "weight": 6.0, "id": 121134508, "level": 3}
+{"count": 45, "name": "Hexagonal number", "weight": 0.0, "id": 106810948, "level": 3}
+{"count": 21, "name": "Contact process (mathematics)", "weight": 0.0, "id": 134247516, "level": 3}
+{"count": 81, "name": "Gallai\u2013Hasse\u2013Roy\u2013Vitaver theorem", "weight": 0.0, "id": 129781785, "level": 3}
+{"count": 27, "name": "Graphs and Combinatorics", "weight": 0.0, "id": 2779090723, "level": 3}

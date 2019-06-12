@@ -1,0 +1,6 @@
+{"count": 801, "name": "Hoare logic", "weight": 10.0, "id": 104949639, "level": 3}
+{"count": 523, "name": "Linearizability", "weight": 6.0, "id": 20528329, "level": 3}
+{"count": 310, "name": "Postcondition", "weight": 3.0, "id": 177094867, "level": 3}
+{"count": 409, "name": "ACL2", "weight": 5.0, "id": 2778365302, "level": 3}
+{"count": 42, "name": "Verifiable computing", "weight": 0.0, "id": 2776827251, "level": 3}
+{"count": 12, "name": "PlusCal", "weight": 0.0, "id": 2776483534, "level": 3}

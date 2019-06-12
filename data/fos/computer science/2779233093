@@ -1,0 +1,16 @@
+{"count": 118, "name": "6to4", "weight": 3.0, "id": 2777024025, "level": 5}
+{"count": 373, "name": "IPv6 deployment", "weight": 10.0, "id": 104997904, "level": 5}
+{"count": 82, "name": "ISATAP", "weight": 2.0, "id": 2779637064, "level": 5}
+{"count": 72, "name": "Tunnel broker", "weight": 1.0, "id": 2776639921, "level": 5}
+{"count": 115, "name": "NAT64", "weight": 3.0, "id": 2779030719, "level": 5}
+{"count": 46, "name": "Internet Assigned Numbers Authority", "weight": 1.0, "id": 2778927364, "level": 5}
+{"count": 34, "name": "China Next Generation Internet", "weight": 0.0, "id": 39561485, "level": 5}
+{"count": 64, "name": "Softwire", "weight": 1.0, "id": 2778341758, "level": 5}
+{"count": 37, "name": "IPv6 transition mechanism", "weight": 1.0, "id": 2776876580, "level": 5}
+{"count": 32, "name": "Carrier-grade NAT", "weight": 0.0, "id": 2779077160, "level": 5}
+{"count": 13, "name": "6in4", "weight": 0.0, "id": 2780249809, "level": 5}
+{"count": 16, "name": "Happy Eyeballs", "weight": 0.0, "id": 2781414810, "level": 5}
+{"count": 28, "name": "6bone", "weight": 0.0, "id": 2777596862, "level": 5}
+{"count": 10, "name": "IPv6 rapid deployment", "weight": 0.0, "id": 2779717616, "level": 5}
+{"count": 12, "name": "Mapping of Address and Port", "weight": 0.0, "id": 2777316733, "level": 5}
+{"count": 185, "name": "Tunnel Setup Protocol", "weight": 5.0, "id": 173836518, "level": 5}

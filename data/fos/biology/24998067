@@ -1,0 +1,66 @@
+{"count": 16093, "name": "Motor cortex", "weight": 7.0, "id": 2778373776, "level": 3}
+{"count": 21055, "name": "Somatosensory system", "weight": 10.0, "id": 172497186, "level": 3}
+{"count": 18321, "name": "Transcranial magnetic stimulation", "weight": 8.0, "id": 2778581513, "level": 3}
+{"count": 12219, "name": "Somatosensory evoked potential", "weight": 5.0, "id": 161941745, "level": 3}
+{"count": 7696, "name": "Neuromodulation", "weight": 3.0, "id": 2780375056, "level": 3}
+{"count": 5034, "name": "Noxious stimulus", "weight": 2.0, "id": 104211972, "level": 3}
+{"count": 4169, "name": "Lateral hypothalamus", "weight": 1.0, "id": 2780714764, "level": 3}
+{"count": 5077, "name": "Functional electrical stimulation", "weight": 2.0, "id": 2777766275, "level": 3}
+{"count": 2085, "name": "Mechanoreceptor", "weight": 0.0, "id": 2779097085, "level": 3}
+{"count": 2352, "name": "Medial forebrain bundle", "weight": 1.0, "id": 2776669363, "level": 3}
+{"count": 2773, "name": "H-reflex", "weight": 1.0, "id": 10064560, "level": 3}
+{"count": 5267, "name": "Transcranial direct-current stimulation", "weight": 2.0, "id": 2777803708, "level": 3}
+{"count": 3230, "name": "Vagus nerve stimulation", "weight": 1.0, "id": 2780087125, "level": 3}
+{"count": 4413, "name": "Tibial nerve", "weight": 2.0, "id": 2776825438, "level": 3}
+{"count": 1287, "name": "Neuroprosthetics", "weight": 0.0, "id": 197525751, "level": 3}
+{"count": 5357, "name": "Sensory stimulation therapy", "weight": 2.0, "id": 25457674, "level": 3}
+{"count": 3110, "name": "Transcutaneous electrical nerve stimulation", "weight": 1.0, "id": 2780118021, "level": 3}
+{"count": 3394, "name": "Neurostimulation", "weight": 1.0, "id": 2776443511, "level": 3}
+{"count": 2221, "name": "Pudendal nerve", "weight": 1.0, "id": 2780682423, "level": 3}
+{"count": 919, "name": "Electrical brain stimulation", "weight": 0.0, "id": 177825189, "level": 3}
+{"count": 658, "name": "Occipital nerve stimulation", "weight": 0.0, "id": 2776911203, "level": 3}
+{"count": 1893, "name": "Microstimulation", "weight": 0.0, "id": 2778970358, "level": 3}
+{"count": 614, "name": "Visual prosthesis", "weight": 0.0, "id": 2778560042, "level": 3}
+{"count": 1003, "name": "Phosphene", "weight": 0.0, "id": 154145042, "level": 3}
+{"count": 2537, "name": "Withdrawal reflex", "weight": 1.0, "id": 195512701, "level": 3}
+{"count": 806, "name": "Fastigial nucleus", "weight": 0.0, "id": 2776139471, "level": 3}
+{"count": 302, "name": "Nociceptive flexion reflex", "weight": 0.0, "id": 2777901941, "level": 3}
+{"count": 594, "name": "Hypogastric nerve", "weight": 0.0, "id": 2779013793, "level": 3}
+{"count": 606, "name": "Galvanic vestibular stimulation", "weight": 0.0, "id": 2778010927, "level": 3}
+{"count": 963, "name": "Splanchnic nerves", "weight": 0.0, "id": 2780661788, "level": 3}
+{"count": 155, "name": "Mesencephalic locomotor region", "weight": 0.0, "id": 2776924474, "level": 3}
+{"count": 263, "name": "Vestibular cortex", "weight": 0.0, "id": 2780929208, "level": 3}
+{"count": 518, "name": "Medial lemniscus", "weight": 0.0, "id": 2776932261, "level": 3}
+{"count": 194, "name": "Command neuron", "weight": 0.0, "id": 2777158368, "level": 3}
+{"count": 366, "name": "Gate control theory", "weight": 0.0, "id": 133438084, "level": 3}
+{"count": 336, "name": "Diaphragm pacing", "weight": 0.0, "id": 2776130270, "level": 3}
+{"count": 313, "name": "Auditory brainstem implant", "weight": 0.0, "id": 2777636157, "level": 3}
+{"count": 610, "name": "Retinal implant", "weight": 0.0, "id": 158383150, "level": 3}
+{"count": 1147, "name": "Sympathetic trunk", "weight": 0.0, "id": 2776431978, "level": 3}
+{"count": 1833, "name": "Tetanic stimulation", "weight": 0.0, "id": 6742658, "level": 3}
+{"count": 598, "name": "Electrical muscle stimulation", "weight": 0.0, "id": 2776889139, "level": 3}
+{"count": 112, "name": "Scratch reflex", "weight": 0.0, "id": 2779180984, "level": 3}
+{"count": 512, "name": "Cutaneous receptor", "weight": 0.0, "id": 191089775, "level": 3}
+{"count": 573, "name": "Chronaxie", "weight": 0.0, "id": 18987944, "level": 3}
+{"count": 522, "name": "Spinal cord stimulator", "weight": 0.0, "id": 2778753352, "level": 3}
+{"count": 243, "name": "Activating function", "weight": 0.0, "id": 2776819758, "level": 3}
+{"count": 3991, "name": "Antidromic", "weight": 1.0, "id": 70471684, "level": 3}
+{"count": 926, "name": "Evoked activity", "weight": 0.0, "id": 2780454244, "level": 3}
+{"count": 147, "name": "Lemniscus", "weight": 0.0, "id": 2780703490, "level": 3}
+{"count": 99, "name": "Ventral posterolateral nucleus", "weight": 0.0, "id": 2779707144, "level": 3}
+{"count": 389, "name": "Intermittent photic stimulation", "weight": 0.0, "id": 2781447465, "level": 3}
+{"count": 133, "name": "Cranial electrotherapy stimulation", "weight": 0.0, "id": 2777206697, "level": 3}
+{"count": 173, "name": "Electroneurogram", "weight": 0.0, "id": 7061664, "level": 3}
+{"count": 114, "name": "Cortical stimulation mapping", "weight": 0.0, "id": 2781365221, "level": 3}
+{"count": 561, "name": "Evoked field", "weight": 0.0, "id": 2778092767, "level": 3}
+{"count": 99, "name": "Spinal fMRI", "weight": 0.0, "id": 2780250810, "level": 3}
+{"count": 23, "name": "Adiphenine", "weight": 0.0, "id": 2777667501, "level": 3}
+{"count": 93, "name": "Ventral spinocerebellar tract", "weight": 0.0, "id": 2778268996, "level": 3}
+{"count": 136, "name": "Nipple stimulation", "weight": 0.0, "id": 2778595616, "level": 3}
+{"count": 62, "name": "Spinal locomotion", "weight": 0.0, "id": 2778576132, "level": 3}
+{"count": 21, "name": "Anterior lobe of cerebellum", "weight": 0.0, "id": 2777124073, "level": 3}
+{"count": 31, "name": "Interoceptor", "weight": 0.0, "id": 118616139, "level": 3}
+{"count": 53, "name": "Sham rage", "weight": 0.0, "id": 2776948343, "level": 3}
+{"count": 43, "name": "Postganglionic nerve fibers", "weight": 0.0, "id": 2777570266, "level": 3}
+{"count": 139, "name": "Peripheral nerve field", "weight": 0.0, "id": 2776135271, "level": 3}
+{"count": 23, "name": "Actinozoa", "weight": 0.0, "id": 2781122736, "level": 3}

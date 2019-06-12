@@ -1,0 +1,61 @@
+{"count": 3389, "name": "\u03bc-opioid receptor", "weight": 10.0, "id": 14397066, "level": 5}
+{"count": 2378, "name": "Nociceptin receptor", "weight": 7.0, "id": 125439840, "level": 5}
+{"count": 1867, "name": "DAMGO", "weight": 5.0, "id": 2776401185, "level": 5}
+{"count": 2181, "name": "\u03ba-opioid receptor", "weight": 6.0, "id": 184389661, "level": 5}
+{"count": 1293, "name": "Dynorphin A", "weight": 3.0, "id": 2781181269, "level": 5}
+{"count": 1872, "name": "\u03b4-opioid receptor", "weight": 5.0, "id": 141087196, "level": 5}
+{"count": 549, "name": "Diprenorphine", "weight": 1.0, "id": 2779012664, "level": 5}
+{"count": 1314, "name": "Naltrindole", "weight": 3.0, "id": 2777953665, "level": 5}
+{"count": 3145, "name": "Opioid antagonist", "weight": 9.0, "id": 2775962371, "level": 5}
+{"count": 752, "name": "DADLE", "weight": 2.0, "id": 2778680407, "level": 5}
+{"count": 303, "name": "Endomorphin", "weight": 0.0, "id": 2781368963, "level": 5}
+{"count": 572, "name": "Dermorphin", "weight": 1.0, "id": 2778981110, "level": 5}
+{"count": 362, "name": "Salvinorin A", "weight": 1.0, "id": 2781384515, "level": 5}
+{"count": 115, "name": "Endomorphin-2", "weight": 0.0, "id": 2780046435, "level": 5}
+{"count": 312, "name": "Endomorphin-1", "weight": 0.0, "id": 2777699205, "level": 5}
+{"count": 370, "name": "Bremazocine", "weight": 1.0, "id": 2779613830, "level": 5}
+{"count": 114, "name": "Naloxonazine", "weight": 0.0, "id": 2775867042, "level": 5}
+{"count": 115, "name": "U-50488", "weight": 0.0, "id": 2780650954, "level": 5}
+{"count": 363, "name": "Norbinaltorphimine", "weight": 1.0, "id": 2780746492, "level": 5}
+{"count": 423, "name": "OGFr", "weight": 1.0, "id": 140636702, "level": 5}
+{"count": 583, "name": "Deltorphin", "weight": 1.0, "id": 2777708373, "level": 5}
+{"count": 300, "name": "Dynorphin B", "weight": 0.0, "id": 2775993039, "level": 5}
+{"count": 126, "name": "Spiradoline", "weight": 0.0, "id": 2779864207, "level": 5}
+{"count": 80, "name": "Kelatorphan", "weight": 0.0, "id": 2777372359, "level": 5}
+{"count": 124, "name": "Tifluadom", "weight": 0.0, "id": 2780109826, "level": 5}
+{"count": 70, "name": "RB-101", "weight": 0.0, "id": 2780421909, "level": 5}
+{"count": 55, "name": "Fedotozine", "weight": 0.0, "id": 2779591450, "level": 5}
+{"count": 84, "name": "SNC-80", "weight": 0.0, "id": 2778378049, "level": 5}
+{"count": 74, "name": "Enadoline", "weight": 0.0, "id": 2776354627, "level": 5}
+{"count": 192, "name": "Naltriben", "weight": 0.0, "id": 2777461405, "level": 5}
+{"count": 71, "name": "Asimadoline", "weight": 0.0, "id": 2779707722, "level": 5}
+{"count": 132, "name": "Nalfurafine", "weight": 0.0, "id": 2777677053, "level": 5}
+{"count": 93, "name": "Biphalin", "weight": 0.0, "id": 2778631984, "level": 5}
+{"count": 108, "name": "Ohmefentanyl", "weight": 0.0, "id": 2776507424, "level": 5}
+{"count": 105, "name": "JDTic", "weight": 0.0, "id": 2779439469, "level": 5}
+{"count": 27, "name": "TAN-67", "weight": 0.0, "id": 2776974382, "level": 5}
+{"count": 82, "name": "Ethylketazocine", "weight": 0.0, "id": 2777172680, "level": 5}
+{"count": 23, "name": "U-69,593", "weight": 0.0, "id": 2779364459, "level": 5}
+{"count": 44, "name": "Neoendorphin", "weight": 0.0, "id": 2778477888, "level": 5}
+{"count": 112, "name": "BW373U86", "weight": 0.0, "id": 2780091920, "level": 5}
+{"count": 18, "name": "Clocinnamox", "weight": 0.0, "id": 2779840569, "level": 5}
+{"count": 16, "name": "6\u03b2-Naltrexol", "weight": 0.0, "id": 2778084584, "level": 5}
+{"count": 140, "name": "Salvinorin", "weight": 0.0, "id": 2781159447, "level": 5}
+{"count": 26, "name": "7-Hydroxymitragynine", "weight": 0.0, "id": 2781069153, "level": 5}
+{"count": 24, "name": "JTC-801", "weight": 0.0, "id": 2776579590, "level": 5}
+{"count": 61, "name": "Quadazocine", "weight": 0.0, "id": 2776108539, "level": 5}
+{"count": 42, "name": "3-Methylfentanyl", "weight": 0.0, "id": 2778199916, "level": 5}
+{"count": 23, "name": "Big dynorphin", "weight": 0.0, "id": 2781003905, "level": 5}
+{"count": 68, "name": "Cyprodime", "weight": 0.0, "id": 2780530677, "level": 5}
+{"count": 1040, "name": "Opioidergic", "weight": 3.0, "id": 2779004600, "level": 5}
+{"count": 34, "name": "Chlornaltrexamine", "weight": 0.0, "id": 2779285997, "level": 5}
+{"count": 22, "name": "Herkinorin", "weight": 0.0, "id": 2776819573, "level": 5}
+{"count": 10, "name": "5'-Guanidinonaltrindole", "weight": 0.0, "id": 2780227778, "level": 5}
+{"count": 35, "name": "Cebranopadol", "weight": 0.0, "id": 2778726424, "level": 5}
+{"count": 17, "name": "14-Methoxymetopon", "weight": 0.0, "id": 2776249034, "level": 5}
+{"count": 601, "name": "RGS17", "weight": 1.0, "id": 75944450, "level": 5}
+{"count": 313, "name": "Neuropeptide FF receptor", "weight": 0.0, "id": 89815601, "level": 5}
+{"count": 7, "name": "Ro64-6198", "weight": 0.0, "id": 2779203805, "level": 5}
+{"count": 12, "name": "IBNtxA", "weight": 0.0, "id": 2779792712, "level": 5}
+{"count": 5, "name": "MCOPPB", "weight": 0.0, "id": 2778057052, "level": 5}
+{"count": 28, "name": "Oliceridine", "weight": 0.0, "id": 2778999159, "level": 5}

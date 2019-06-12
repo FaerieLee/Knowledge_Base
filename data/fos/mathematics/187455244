@@ -1,0 +1,9 @@
+{"count": 2858, "name": "Boolean network", "weight": 10.0, "id": 134444547, "level": 3}
+{"count": 755, "name": "Bent function", "weight": 2.0, "id": 84185955, "level": 3}
+{"count": 257, "name": "Correlation immunity", "weight": 0.0, "id": 2781037745, "level": 3}
+{"count": 717, "name": "Implicant", "weight": 2.0, "id": 102487863, "level": 3}
+{"count": 53, "name": "Pseudo-Boolean function", "weight": 0.0, "id": 2776390379, "level": 3}
+{"count": 1037, "name": "Complexity index", "weight": 3.0, "id": 6435147, "level": 3}
+{"count": 2130, "name": "Circuit minimization for Boolean functions", "weight": 7.0, "id": 94992772, "level": 3}
+{"count": 67, "name": "Horn function", "weight": 0.0, "id": 2777663735, "level": 3}
+{"count": 15, "name": "Dedekind number", "weight": 0.0, "id": 2780557669, "level": 3}

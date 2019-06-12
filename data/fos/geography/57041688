@@ -1,0 +1,9 @@
+{"count": 5192, "name": "Service-orientation", "weight": 10.0, "id": 2776098720, "level": 4}
+{"count": 993, "name": "Enterprise service bus", "weight": 1.0, "id": 2777764564, "level": 4}
+{"count": 1944, "name": "Service (systems architecture)", "weight": 3.0, "id": 37836645, "level": 4}
+{"count": 265, "name": "Event-driven architecture", "weight": 0.0, "id": 2780811038, "level": 4}
+{"count": 274, "name": "Service Component Architecture", "weight": 0.0, "id": 2780834230, "level": 4}
+{"count": 118, "name": "SoaML", "weight": 0.0, "id": 2776788946, "level": 4}
+{"count": 39, "name": "Semantic service-oriented architecture", "weight": 0.0, "id": 2779626945, "level": 4}
+{"count": 25, "name": "Web-oriented architecture", "weight": 0.0, "id": 2780729814, "level": 4}
+{"count": 1481, "name": "OASIS SOA Reference Model", "weight": 2.0, "id": 94103152, "level": 4}

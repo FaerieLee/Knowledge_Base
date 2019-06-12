@@ -1,0 +1,5 @@
+{"count": 1585, "name": "ModelSim", "weight": 10.0, "id": 2778571676, "level": 4}
+{"count": 772, "name": "VHSIC", "weight": 4.0, "id": 2776284886, "level": 4}
+{"count": 226, "name": "Altera Quartus", "weight": 1.0, "id": 2778405000, "level": 4}
+{"count": 27, "name": "C to HDL", "weight": 0.0, "id": 2781030520, "level": 4}
+{"count": 123, "name": "EDA database", "weight": 0.0, "id": 170856725, "level": 4}

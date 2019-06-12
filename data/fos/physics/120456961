@@ -1,0 +1,11 @@
+{"count": 9424, "name": "Mie scattering", "weight": 10.0, "id": 63688654, "level": 4}
+{"count": 3172, "name": "Static light scattering", "weight": 3.0, "id": 192441466, "level": 4}
+{"count": 651, "name": "Diffusing-wave spectroscopy", "weight": 0.0, "id": 146129523, "level": 4}
+{"count": 18, "name": "Anomalous diffraction theory", "weight": 0.0, "id": 2776996737, "level": 4}
+{"count": 2867, "name": "Multiangle light scattering", "weight": 3.0, "id": 98239406, "level": 4}
+{"count": 1047, "name": "Electrophoretic light scattering", "weight": 1.0, "id": 96462449, "level": 4}
+{"count": 496, "name": "Tyndall effect", "weight": 0.0, "id": 90775829, "level": 4}
+{"count": 238, "name": "Low-angle laser light scattering", "weight": 0.0, "id": 2780752539, "level": 4}
+{"count": 241, "name": "Differential dynamic microscopy", "weight": 0.0, "id": 38233168, "level": 4}
+{"count": 29, "name": "Ocular straylight", "weight": 0.0, "id": 2777341738, "level": 4}
+{"count": 128, "name": "Absolute molar mass", "weight": 0.0, "id": 94126134, "level": 4}

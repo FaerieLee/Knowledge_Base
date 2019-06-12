@@ -1,0 +1,8 @@
+{"count": 649, "name": "Intrinsic function", "weight": 5.0, "id": 42573942, "level": 5}
+{"count": 892, "name": "Inline expansion", "weight": 7.0, "id": 199624775, "level": 5}
+{"count": 1186, "name": "Interprocedural optimization", "weight": 10.0, "id": 111564260, "level": 5}
+{"count": 183, "name": "Superoptimization", "weight": 1.0, "id": 162855774, "level": 5}
+{"count": 63, "name": "Incremental compiler", "weight": 0.0, "id": 2779607076, "level": 5}
+{"count": 553, "name": "Bootstrapping (compilers)", "weight": 4.0, "id": 2980389, "level": 5}
+{"count": 447, "name": "Single Compilation Unit", "weight": 3.0, "id": 181197062, "level": 5}
+{"count": 288, "name": "Manifest expression", "weight": 2.0, "id": 51426862, "level": 5}

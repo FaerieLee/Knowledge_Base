@@ -1,0 +1,7 @@
+{"count": 1350, "name": "FastICA", "weight": 10.0, "id": 157709420, "level": 3}
+{"count": 671, "name": "Negentropy", "weight": 4.0, "id": 118346863, "level": 3}
+{"count": 529, "name": "Infomax", "weight": 3.0, "id": 153402090, "level": 3}
+{"count": 109, "name": "Kernel-independent component analysis", "weight": 0.0, "id": 2777843426, "level": 3}
+{"count": 38, "name": "Dependent component analysis", "weight": 0.0, "id": 2778876264, "level": 3}
+{"count": 208, "name": "EEGLAB", "weight": 1.0, "id": 30844329, "level": 3}
+{"count": 28, "name": "Factorial code", "weight": 0.0, "id": 171844981, "level": 3}

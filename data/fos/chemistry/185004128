@@ -1,0 +1,15 @@
+{"count": 4127, "name": "Cyclonic separation", "weight": 10.0, "id": 43973154, "level": 3}
+{"count": 779, "name": "Coalescer", "weight": 1.0, "id": 33505924, "level": 3}
+{"count": 3696, "name": "Separator (electricity)", "weight": 8.0, "id": 68591047, "level": 3}
+{"count": 1417, "name": "Oil\u2013water separator", "weight": 3.0, "id": 2779734286, "level": 3}
+{"count": 489, "name": "Jelly roll", "weight": 1.0, "id": 2780679820, "level": 3}
+{"count": 176, "name": "Antibubble", "weight": 0.0, "id": 199730722, "level": 3}
+{"count": 83, "name": "Oily water separator", "weight": 0.0, "id": 2781017838, "level": 3}
+{"count": 88, "name": "Hydrodynamic separator", "weight": 0.0, "id": 2776194782, "level": 3}
+{"count": 91, "name": "Eddy current separator", "weight": 0.0, "id": 2779620998, "level": 3}
+{"count": 140, "name": "High-intensity magnetic separator", "weight": 0.0, "id": 2780253937, "level": 3}
+{"count": 117, "name": "Vapor\u2013liquid separator", "weight": 0.0, "id": 2775875387, "level": 3}
+{"count": 385, "name": "Inert gas generator", "weight": 0.0, "id": 117075008, "level": 3}
+{"count": 175, "name": "Sand separator", "weight": 0.0, "id": 2778484430, "level": 3}
+{"count": 140, "name": "Gas collecting tube", "weight": 0.0, "id": 8266171, "level": 3}
+{"count": 473, "name": "Centrifugal water\u2013oil separator", "weight": 1.0, "id": 149723765, "level": 3}

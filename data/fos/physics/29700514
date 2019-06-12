@@ -1,0 +1,20 @@
+{"count": 9063, "name": "Heat transfer enhancement", "weight": 4.0, "id": 2777777821, "level": 4}
+{"count": 18804, "name": "Critical heat flux", "weight": 10.0, "id": 167131557, "level": 4}
+{"count": 15915, "name": "Nucleate boiling", "weight": 8.0, "id": 197194406, "level": 4}
+{"count": 2252, "name": "Enhanced heat transfer", "weight": 1.0, "id": 2781410879, "level": 4}
+{"count": 805, "name": "Stanton number", "weight": 0.0, "id": 107166191, "level": 4}
+{"count": 6648, "name": "Fin (extended surface)", "weight": 3.0, "id": 118829304, "level": 4}
+{"count": 1830, "name": "Thermal fluids", "weight": 0.0, "id": 184782024, "level": 4}
+{"count": 4281, "name": "Thermal transmittance", "weight": 2.0, "id": 115816120, "level": 4}
+{"count": 12501, "name": "Micro heat exchanger", "weight": 6.0, "id": 118227150, "level": 4}
+{"count": 3019, "name": "Turbulent Prandtl number", "weight": 1.0, "id": 181824747, "level": 4}
+{"count": 8715, "name": "Dynamic scraped surface heat exchanger", "weight": 4.0, "id": 192866977, "level": 4}
+{"count": 2004, "name": "Volumetric heat capacity", "weight": 1.0, "id": 199519896, "level": 4}
+{"count": 922, "name": "Rate of heat flow", "weight": 0.0, "id": 58703956, "level": 4}
+{"count": 1705, "name": "Bulk temperature", "weight": 0.0, "id": 17357313, "level": 4}
+{"count": 989, "name": "Fourier number", "weight": 0.0, "id": 72948385, "level": 4}
+{"count": 4048, "name": "Annular fin", "weight": 2.0, "id": 45753066, "level": 4}
+{"count": 12976, "name": "Film temperature", "weight": 6.0, "id": 37164169, "level": 4}
+{"count": 442, "name": "Intensity (heat transfer)", "weight": 0.0, "id": 69952018, "level": 4}
+{"count": 12, "name": "Dewvaporation", "weight": 0.0, "id": 2780133865, "level": 4}
+{"count": 10502, "name": "Churchill\u2013Bernstein equation", "weight": 5.0, "id": 89320823, "level": 4}

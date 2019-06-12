@@ -1,0 +1,6 @@
+{"count": 1252, "name": "Object request broker", "weight": 2.0, "id": 48914193, "level": 3}
+{"count": 542, "name": "Data Distribution Service", "weight": 0.0, "id": 2778229852, "level": 3}
+{"count": 338, "name": "RT middleware", "weight": 0.0, "id": 2776078904, "level": 3}
+{"count": 30, "name": "Tile Map Service", "weight": 0.0, "id": 2779285476, "level": 3}
+{"count": 6045, "name": "Middleware (distributed applications)", "weight": 10.0, "id": 169468491, "level": 3}
+{"count": 16, "name": "Application Interface Specification", "weight": 0.0, "id": 2780583957, "level": 3}

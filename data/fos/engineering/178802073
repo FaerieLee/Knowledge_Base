@@ -1,0 +1,56 @@
+{"count": 22152, "name": "Nova (rocket)", "weight": 7.0, "id": 199364081, "level": 2}
+{"count": 22745, "name": "Airplane", "weight": 7.0, "id": 2781407631, "level": 2}
+{"count": 29064, "name": "Balloon", "weight": 10.0, "id": 139059822, "level": 2}
+{"count": 10150, "name": "Mass ratio", "weight": 3.0, "id": 188232333, "level": 2}
+{"count": 1312, "name": "Drogue parachute", "weight": 0.0, "id": 81595293, "level": 2}
+{"count": 3211, "name": "BATES", "weight": 1.0, "id": 2781303124, "level": 2}
+{"count": 16828, "name": "Throwing", "weight": 5.0, "id": 207451115, "level": 2}
+{"count": 2113, "name": "Turboprop", "weight": 0.0, "id": 43227947, "level": 2}
+{"count": 3719, "name": "Aircraft flight mechanics", "weight": 1.0, "id": 114008111, "level": 2}
+{"count": 1555, "name": "Moon landing", "weight": 0.0, "id": 152067771, "level": 2}
+{"count": 608, "name": "Astronaut training", "weight": 0.0, "id": 3480121, "level": 2}
+{"count": 4734, "name": "Thrust reversal", "weight": 1.0, "id": 124055728, "level": 2}
+{"count": 677, "name": "Lighter than air", "weight": 0.0, "id": 172438305, "level": 2}
+{"count": 746, "name": "Aerostat", "weight": 0.0, "id": 2779288144, "level": 2}
+{"count": 326, "name": "High-Altitude Long Endurance", "weight": 0.0, "id": 2779628146, "level": 2}
+{"count": 430, "name": "Range safety", "weight": 0.0, "id": 2776500228, "level": 2}
+{"count": 107, "name": "Blunt instrument", "weight": 0.0, "id": 2777783070, "level": 2}
+{"count": 1619, "name": "Hangar", "weight": 0.0, "id": 2778989530, "level": 2}
+{"count": 121, "name": "Apollo Applications Program", "weight": 0.0, "id": 2777027900, "level": 2}
+{"count": 518, "name": "Blimp", "weight": 0.0, "id": 67104047, "level": 2}
+{"count": 2026, "name": "Takeoff and landing", "weight": 0.0, "id": 2780631144, "level": 2}
+{"count": 1451, "name": "Arcjet rocket", "weight": 0.0, "id": 180995995, "level": 2}
+{"count": 1448, "name": "Catapult", "weight": 0.0, "id": 199738491, "level": 2}
+{"count": 2331, "name": "Space launch", "weight": 0.0, "id": 832551, "level": 2}
+{"count": 457, "name": "NASA research", "weight": 0.0, "id": 2780378363, "level": 2}
+{"count": 1746, "name": "Space Launch System", "weight": 0.0, "id": 119498932, "level": 2}
+{"count": 58, "name": "HOPE-X", "weight": 0.0, "id": 2777264590, "level": 2}
+{"count": 277, "name": "Anguilla bicolor", "weight": 0.0, "id": 2779597466, "level": 2}
+{"count": 288, "name": "Water rocket", "weight": 0.0, "id": 2781117161, "level": 2}
+{"count": 2052, "name": "Expendable launch system", "weight": 0.0, "id": 169915972, "level": 2}
+{"count": 876, "name": "Launch pad", "weight": 0.0, "id": 2777012074, "level": 2}
+{"count": 213, "name": "Side-stick", "weight": 0.0, "id": 100044655, "level": 2}
+{"count": 82, "name": "Hard start", "weight": 0.0, "id": 2776783265, "level": 2}
+{"count": 67, "name": "ATREX", "weight": 0.0, "id": 2779675732, "level": 2}
+{"count": 21, "name": "Standoff missile", "weight": 0.0, "id": 2780043992, "level": 2}
+{"count": 485, "name": "Max Q", "weight": 0.0, "id": 178394621, "level": 2}
+{"count": 219, "name": "Lifting gas", "weight": 0.0, "id": 111439161, "level": 2}
+{"count": 147, "name": "Maiden flight", "weight": 0.0, "id": 126859111, "level": 2}
+{"count": 152, "name": "Flight number", "weight": 0.0, "id": 139663721, "level": 2}
+{"count": 4, "name": "Neenchelys daedalus", "weight": 0.0, "id": 2775906306, "level": 2}
+{"count": 1, "name": "Sooty eel", "weight": 0.0, "id": 2780839756, "level": 2}
+{"count": 12, "name": "NACA duct", "weight": 0.0, "id": 72932306, "level": 2}
+{"count": 2, "name": "Ophichthus ophis", "weight": 0.0, "id": 2775966573, "level": 2}
+{"count": 6, "name": "Cirrhimuraena chinensis", "weight": 0.0, "id": 2776123965, "level": 2}
+{"count": 2, "name": "Vacuum airship", "weight": 0.0, "id": 2776994116, "level": 2}
+{"count": 6, "name": "Global horizontal sounding technique", "weight": 0.0, "id": 2777364132, "level": 2}
+{"count": 46, "name": "General-purpose bomb", "weight": 0.0, "id": 71094894, "level": 2}
+{"count": 1, "name": "Anarchias supremus", "weight": 0.0, "id": 2777497198, "level": 2}
+{"count": 1, "name": "Shrimp eel", "weight": 0.0, "id": 2780007766, "level": 2}
+{"count": 5, "name": "System-specific impulse", "weight": 0.0, "id": 2780307232, "level": 2}
+{"count": 5, "name": "Rolleron", "weight": 0.0, "id": 2781324315, "level": 2}
+{"count": 8, "name": "Ogcocephalus", "weight": 0.0, "id": 2779513418, "level": 2}
+{"count": 32, "name": "Lockheed Martin Solar and Astrophysics Laboratory", "weight": 0.0, "id": 204994956, "level": 2}
+{"count": 1, "name": "Crawford burner", "weight": 0.0, "id": 2778870221, "level": 2}
+{"count": 1, "name": "Longfin snake-eel", "weight": 0.0, "id": 2780064936, "level": 2}
+{"count": 11, "name": "Tripropellant rocket", "weight": 0.0, "id": 2777325476, "level": 2}

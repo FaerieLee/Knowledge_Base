@@ -1,0 +1,200 @@
+{"count": 7156, "name": "Complication", "weight": 0.0, "id": 81182388, "level": 2}
+{"count": 69736, "name": "Central nervous system disease", "weight": 2.0, "id": 2779281540, "level": 2}
+{"count": 123176, "name": "Respiratory disease", "weight": 4.0, "id": 2776178081, "level": 2}
+{"count": 193631, "name": "Prospective cohort study", "weight": 6.0, "id": 188816634, "level": 2}
+{"count": 220330, "name": "Computed tomography", "weight": 7.0, "id": 544519230, "level": 2}
+{"count": 176350, "name": "Retrospective cohort study", "weight": 6.0, "id": 167135981, "level": 2}
+{"count": 110325, "name": "Spinal cord", "weight": 3.0, "id": 2780775167, "level": 2}
+{"count": 92086, "name": "Orthopedic surgery", "weight": 3.0, "id": 68312169, "level": 2}
+{"count": 41361, "name": "Endoscopy", "weight": 1.0, "id": 2778451229, "level": 2}
+{"count": 70721, "name": "Resuscitation", "weight": 2.0, "id": 2778165595, "level": 2}
+{"count": 288571, "name": "Lesion", "weight": 10.0, "id": 2781156865, "level": 2}
+{"count": 25079, "name": "Neurological disorder", "weight": 0.0, "id": 2780317758, "level": 2}
+{"count": 114944, "name": "Thrombosis", "weight": 3.0, "id": 2780868729, "level": 2}
+{"count": 61095, "name": "Cerebrospinal fluid", "weight": 2.0, "id": 2779651940, "level": 2}
+{"count": 137659, "name": "Mortality rate", "weight": 4.0, "id": 179755657, "level": 2}
+{"count": 67229, "name": "Aorta", "weight": 2.0, "id": 2779980429, "level": 2}
+{"count": 83305, "name": "Intensive care unit", "weight": 2.0, "id": 2776376669, "level": 2}
+{"count": 55262, "name": "Laparoscopy", "weight": 1.0, "id": 2780047204, "level": 2}
+{"count": 84425, "name": "Osteoarthritis", "weight": 2.0, "id": 2776164576, "level": 2}
+{"count": 210851, "name": "Artery", "weight": 7.0, "id": 2776820930, "level": 2}
+{"count": 70351, "name": "Soft tissue", "weight": 2.0, "id": 136948725, "level": 2}
+{"count": 28670, "name": "Upper limb", "weight": 0.0, "id": 2776660947, "level": 2}
+{"count": 58211, "name": "Wound healing", "weight": 2.0, "id": 2780269544, "level": 2}
+{"count": 59066, "name": "Prosthesis", "weight": 2.0, "id": 2778715743, "level": 2}
+{"count": 63813, "name": "Esophagus", "weight": 2.0, "id": 2777819096, "level": 2}
+{"count": 16405, "name": "Nitrous oxide", "weight": 0.0, "id": 2777573673, "level": 2}
+{"count": 58674, "name": "Abdomen", "weight": 2.0, "id": 2779983558, "level": 2}
+{"count": 69867, "name": "Analgesic", "weight": 2.0, "id": 2780820201, "level": 2}
+{"count": 48457, "name": "Cornea", "weight": 1.0, "id": 2776882836, "level": 2}
+{"count": 102504, "name": "Sepsis", "weight": 3.0, "id": 2778384902, "level": 2}
+{"count": 48403, "name": "Spinal cord injury", "weight": 1.0, "id": 2778334475, "level": 2}
+{"count": 29014, "name": "Thorax", "weight": 1.0, "id": 2777440523, "level": 2}
+{"count": 57711, "name": "Visual acuity", "weight": 1.0, "id": 2778257484, "level": 2}
+{"count": 41278, "name": "Autopsy", "weight": 1.0, "id": 2779504383, "level": 2}
+{"count": 43302, "name": "Pulmonary embolism", "weight": 1.0, "id": 2776265017, "level": 2}
+{"count": 40788, "name": "Nose", "weight": 1.0, "id": 2778311950, "level": 2}
+{"count": 75229, "name": "Fixation (histology)", "weight": 2.0, "id": 98516739, "level": 2}
+{"count": 66933, "name": "Swelling", "weight": 2.0, "id": 2778540859, "level": 2}
+{"count": 129521, "name": "Implant", "weight": 4.0, "id": 2781411149, "level": 2}
+{"count": 83043, "name": "Cartilage", "weight": 2.0, "id": 2780550940, "level": 2}
+{"count": 15830, "name": "Ambulatory", "weight": 0.0, "id": 35785553, "level": 2}
+{"count": 43352, "name": "Family history", "weight": 1.0, "id": 2781179581, "level": 2}
+{"count": 33941, "name": "Optic nerve", "weight": 1.0, "id": 2780837183, "level": 2}
+{"count": 55694, "name": "Meningitis", "weight": 1.0, "id": 2781026528, "level": 2}
+{"count": 27551, "name": "Bacteremia", "weight": 0.0, "id": 2779443120, "level": 2}
+{"count": 41132, "name": "Low back pain", "weight": 1.0, "id": 2780907711, "level": 2}
+{"count": 76916, "name": "Glaucoma", "weight": 2.0, "id": 2778527774, "level": 2}
+{"count": 46751, "name": "Cardiac surgery", "weight": 1.0, "id": 2778789114, "level": 2}
+{"count": 71706, "name": "Cyst", "weight": 2.0, "id": 2780597408, "level": 2}
+{"count": 36405, "name": "Whole blood", "weight": 1.0, "id": 1621761, "level": 2}
+{"count": 120150, "name": "Asymptomatic", "weight": 4.0, "id": 2777910003, "level": 2}
+{"count": 79201, "name": "Physical examination", "weight": 2.0, "id": 527108885, "level": 2}
+{"count": 10337, "name": "Fissure", "weight": 0.0, "id": 2780749890, "level": 2}
+{"count": 69192, "name": "Femur", "weight": 2.0, "id": 2780554211, "level": 2}
+{"count": 29231, "name": "Vagina", "weight": 1.0, "id": 2777744392, "level": 2}
+{"count": 10635, "name": "Cadaver", "weight": 0.0, "id": 91762617, "level": 2}
+{"count": 110154, "name": "Catheter", "weight": 3.0, "id": 2781267111, "level": 2}
+{"count": 75105, "name": "Vein", "weight": 2.0, "id": 2777202286, "level": 2}
+{"count": 10529, "name": "Chemoprophylaxis", "weight": 0.0, "id": 2776688490, "level": 2}
+{"count": 24758, "name": "Head injury", "weight": 0.0, "id": 2777975874, "level": 2}
+{"count": 18764, "name": "Local anesthetic", "weight": 0.0, "id": 2778994108, "level": 2}
+{"count": 18836, "name": "Sciatic nerve", "weight": 0.0, "id": 2781149210, "level": 2}
+{"count": 36425, "name": "Urinary incontinence", "weight": 1.0, "id": 2778531004, "level": 2}
+{"count": 26737, "name": "Plastic surgery", "weight": 0.0, "id": 137762411, "level": 2}
+{"count": 23208, "name": "Anterior cruciate ligament", "weight": 0.0, "id": 2778434673, "level": 2}
+{"count": 26576, "name": "Subarachnoid hemorrhage", "weight": 0.0, "id": 2777736543, "level": 2}
+{"count": 11767, "name": "Peritoneum", "weight": 0.0, "id": 2776001837, "level": 2}
+{"count": 30690, "name": "Larynx", "weight": 1.0, "id": 2780474809, "level": 2}
+{"count": 28860, "name": "Infection control", "weight": 1.0, "id": 166888038, "level": 2}
+{"count": 49005, "name": "Embolization", "weight": 1.0, "id": 2776035437, "level": 2}
+{"count": 62265, "name": "Abdominal pain", "weight": 2.0, "id": 2780955771, "level": 2}
+{"count": 28538, "name": "Endocarditis", "weight": 0.0, "id": 2775872228, "level": 2}
+{"count": 50142, "name": "Skull", "weight": 1.0, "id": 2779300802, "level": 2}
+{"count": 42484, "name": "Paralysis", "weight": 1.0, "id": 2779618896, "level": 2}
+{"count": 42738, "name": "Tibia", "weight": 1.0, "id": 2777236700, "level": 2}
+{"count": 24187, "name": "Embolism", "weight": 0.0, "id": 2777185221, "level": 2}
+{"count": 66523, "name": "Occlusion", "weight": 2.0, "id": 2776268601, "level": 2}
+{"count": 21838, "name": "Visual analogue scale", "weight": 0.0, "id": 14184104, "level": 2}
+{"count": 21998, "name": "Biliary tract", "weight": 0.0, "id": 2775982439, "level": 2}
+{"count": 28600, "name": "Hemostasis", "weight": 0.0, "id": 2778589496, "level": 2}
+{"count": 4888, "name": "Rachis", "weight": 0.0, "id": 2780811821, "level": 2}
+{"count": 23573, "name": "Arthroscopy", "weight": 0.0, "id": 2779162959, "level": 2}
+{"count": 30023, "name": "Back pain", "weight": 1.0, "id": 2776501849, "level": 2}
+{"count": 27998, "name": "Laparoscopic surgery", "weight": 0.0, "id": 2776111594, "level": 2}
+{"count": 30721, "name": "Burn", "weight": 1.0, "id": 2779302957, "level": 2}
+{"count": 38781, "name": "Hernia", "weight": 1.0, "id": 2779096551, "level": 2}
+{"count": 20087, "name": "Osteosarcoma", "weight": 0.0, "id": 2777760704, "level": 2}
+{"count": 45268, "name": "Tendon", "weight": 1.0, "id": 2780105995, "level": 2}
+{"count": 35510, "name": "Hypothermia", "weight": 1.0, "id": 2777390192, "level": 2}
+{"count": 32072, "name": "Propofol", "weight": 1.0, "id": 2776277131, "level": 2}
+{"count": 49065, "name": "Nausea", "weight": 1.0, "id": 2780580376, "level": 2}
+{"count": 49777, "name": "Abscess", "weight": 1.0, "id": 2777035434, "level": 2}
+{"count": 44305, "name": "Wrist", "weight": 1.0, "id": 2778216619, "level": 2}
+{"count": 26795, "name": "Foreign body", "weight": 0.0, "id": 2779995113, "level": 2}
+{"count": 37122, "name": "Gallbladder", "weight": 1.0, "id": 2777148285, "level": 2}
+{"count": 12670, "name": "Pharynx", "weight": 0.0, "id": 2776752453, "level": 2}
+{"count": 25917, "name": "Lidocaine", "weight": 0.0, "id": 2780149897, "level": 2}
+{"count": 44229, "name": "Intubation", "weight": 1.0, "id": 2778716859, "level": 2}
+{"count": 52947, "name": "Tongue", "weight": 1.0, "id": 2779744641, "level": 2}
+{"count": 22319, "name": "Intracranial pressure", "weight": 0.0, "id": 2780954326, "level": 2}
+{"count": 28871, "name": "Fibrin", "weight": 1.0, "id": 54173615, "level": 2}
+{"count": 42393, "name": "Hysterectomy", "weight": 1.0, "id": 2779494336, "level": 2}
+{"count": 13663, "name": "Range of motion", "weight": 0.0, "id": 60465272, "level": 2}
+{"count": 60322, "name": "Fistula", "weight": 2.0, "id": 2776341189, "level": 2}
+{"count": 35557, "name": "Cholecystectomy", "weight": 1.0, "id": 2776641081, "level": 2}
+{"count": 60839, "name": "Traction (orthopedics)", "weight": 2.0, "id": 2779252013, "level": 2}
+{"count": 25201, "name": "Urethra", "weight": 0.0, "id": 2777085111, "level": 2}
+{"count": 7457, "name": "Preoperative care", "weight": 0.0, "id": 2777722626, "level": 2}
+{"count": 28070, "name": "Periodontitis", "weight": 0.0, "id": 2780385504, "level": 2}
+{"count": 18568, "name": "Microsurgery", "weight": 0.0, "id": 2781437307, "level": 2}
+{"count": 15722, "name": "Heart valve", "weight": 0.0, "id": 2776229121, "level": 2}
+{"count": 13053, "name": "Arteriovenous malformation", "weight": 0.0, "id": 2779603958, "level": 2}
+{"count": 31693, "name": "Peritonitis", "weight": 1.0, "id": 2780199535, "level": 2}
+{"count": 20632, "name": "Femoral neck", "weight": 0.0, "id": 2775854910, "level": 2}
+{"count": 74913, "name": "Ankle", "weight": 2.0, "id": 2778640784, "level": 2}
+{"count": 44722, "name": "Burns", "weight": 1.0, "id": 2776609772, "level": 2}
+{"count": 35219, "name": "Forearm", "weight": 1.0, "id": 2780214079, "level": 2}
+{"count": 27500, "name": "Hydrocephalus", "weight": 0.0, "id": 2778134817, "level": 2}
+{"count": 21636, "name": "Cardiothoracic surgery", "weight": 0.0, "id": 160022790, "level": 2}
+{"count": 25285, "name": "Macular degeneration", "weight": 0.0, "id": 2776403814, "level": 2}
+{"count": 20136, "name": "Penis", "weight": 0.0, "id": 2777786686, "level": 2}
+{"count": 16770, "name": "Parotid gland", "weight": 0.0, "id": 2780395140, "level": 2}
+{"count": 9392, "name": "Mucous membrane", "weight": 0.0, "id": 2779890267, "level": 2}
+{"count": 19315, "name": "Ketamine", "weight": 0.0, "id": 2780795376, "level": 2}
+{"count": 31312, "name": "Medical history", "weight": 1.0, "id": 206179267, "level": 2}
+{"count": 16746, "name": "Cortical bone", "weight": 0.0, "id": 2781451080, "level": 2}
+{"count": 215170, "name": "Resection", "weight": 7.0, "id": 159110652, "level": 2}
+{"count": 14874, "name": "Anesthesiology", "weight": 0.0, "id": 2779526319, "level": 2}
+{"count": 25588, "name": "Dissection", "weight": 0.0, "id": 107533109, "level": 2}
+{"count": 19864, "name": "Bronchoscopy", "weight": 0.0, "id": 2778996910, "level": 2}
+{"count": 25907, "name": "Ureter", "weight": 0.0, "id": 2776664737, "level": 2}
+{"count": 20068, "name": "Osteosynthesis", "weight": 0.0, "id": 2777304102, "level": 2}
+{"count": 18143, "name": "Meningioma", "weight": 0.0, "id": 2779160599, "level": 2}
+{"count": 23064, "name": "Pleural effusion", "weight": 0.0, "id": 2779634585, "level": 2}
+{"count": 18884, "name": "Airway obstruction", "weight": 0.0, "id": 2778333281, "level": 2}
+{"count": 41305, "name": "Sedation", "weight": 1.0, "id": 2776814716, "level": 2}
+{"count": 35895, "name": "Laparotomy", "weight": 1.0, "id": 2780778865, "level": 2}
+{"count": 45891, "name": "Elbow", "weight": 1.0, "id": 2781184374, "level": 2}
+{"count": 9601, "name": "Proton-pump inhibitor", "weight": 0.0, "id": 2781025758, "level": 2}
+{"count": 16961, "name": "Botulinum toxin", "weight": 0.0, "id": 2777478456, "level": 2}
+{"count": 39661, "name": "Hematoma", "weight": 1.0, "id": 2779662492, "level": 2}
+{"count": 22463, "name": "Swallowing", "weight": 0.0, "id": 112497637, "level": 2}
+{"count": 20475, "name": "Retinal detachment", "weight": 0.0, "id": 2780428090, "level": 2}
+{"count": 6139, "name": "Frozen section procedure", "weight": 0.0, "id": 95798472, "level": 2}
+{"count": 16301, "name": "Rotator cuff", "weight": 0.0, "id": 2776511800, "level": 2}
+{"count": 23208, "name": "Fentanyl", "weight": 0.0, "id": 2781072394, "level": 2}
+{"count": 11577, "name": "Nerve injury", "weight": 0.0, "id": 2775991916, "level": 2}
+{"count": 27814, "name": "Scoliosis", "weight": 0.0, "id": 2780955175, "level": 2}
+{"count": 18791, "name": "Facial nerve", "weight": 0.0, "id": 2778987478, "level": 2}
+{"count": 18397, "name": "Bupivacaine", "weight": 0.0, "id": 2781328992, "level": 2}
+{"count": 13155, "name": "Carpal tunnel syndrome", "weight": 0.0, "id": 2779746960, "level": 2}
+{"count": 28026, "name": "Scalp", "weight": 0.0, "id": 2778515351, "level": 2}
+{"count": 20796, "name": "Temporomandibular joint", "weight": 0.0, "id": 2780202543, "level": 2}
+{"count": 22132, "name": "Sinusitis", "weight": 0.0, "id": 2777768476, "level": 2}
+{"count": 12127, "name": "Conjunctiva", "weight": 0.0, "id": 2775984611, "level": 2}
+{"count": 10401, "name": "Median nerve", "weight": 0.0, "id": 2779110535, "level": 2}
+{"count": 21022, "name": "Intraocular lens", "weight": 0.0, "id": 2779567214, "level": 2}
+{"count": 17866, "name": "Local anesthesia", "weight": 0.0, "id": 2776742690, "level": 2}
+{"count": 15801, "name": "Arthrodesis", "weight": 0.0, "id": 2781298600, "level": 2}
+{"count": 11963, "name": "Omeprazole", "weight": 0.0, "id": 2777498785, "level": 2}
+{"count": 36371, "name": "Amputation", "weight": 1.0, "id": 2776204877, "level": 2}
+{"count": 70633, "name": "Anastomosis", "weight": 2.0, "id": 8443397, "level": 2}
+{"count": 34990, "name": "Osteotomy", "weight": 1.0, "id": 2776389721, "level": 2}
+{"count": 29670, "name": "Hematocrit", "weight": 1.0, "id": 2780959883, "level": 2}
+{"count": 29755, "name": "Dysphagia", "weight": 1.0, "id": 2780596822, "level": 2}
+{"count": 26156, "name": "Neurosurgery", "weight": 0.0, "id": 12770488, "level": 2}
+{"count": 20531, "name": "Uveitis", "weight": 0.0, "id": 2776194053, "level": 2}
+{"count": 15837, "name": "Arteriovenous fistula", "weight": 0.0, "id": 2779063477, "level": 2}
+{"count": 3426, "name": "Osteochondrodysplasia", "weight": 0.0, "id": 2776260777, "level": 2}
+{"count": 23497, "name": "Cataract surgery", "weight": 0.0, "id": 2775888743, "level": 2}
+{"count": 7125, "name": "Oral and maxillofacial pathology", "weight": 0.0, "id": 54510867, "level": 2}
+{"count": 27276, "name": "Appendicitis", "weight": 0.0, "id": 2780016130, "level": 2}
+{"count": 13466, "name": "Isoflurane", "weight": 0.0, "id": 2776359302, "level": 2}
+{"count": 28492, "name": "Pelvis", "weight": 0.0, "id": 2778357063, "level": 2}
+{"count": 3875, "name": "Duplex ultrasonography", "weight": 0.0, "id": 2775855180, "level": 2}
+{"count": 12927, "name": "Prothrombin time", "weight": 0.0, "id": 2780434524, "level": 2}
+{"count": 26877, "name": "Pneumothorax", "weight": 0.0, "id": 2778329176, "level": 2}
+{"count": 8562, "name": "Trigeminal nerve", "weight": 0.0, "id": 2777397368, "level": 2}
+{"count": 12427, "name": "Blood culture", "weight": 0.0, "id": 2779473907, "level": 2}
+{"count": 14166, "name": "Paraplegia", "weight": 0.0, "id": 2777597760, "level": 2}
+{"count": 13275, "name": "Brachial plexus", "weight": 0.0, "id": 2781151446, "level": 2}
+{"count": 26645, "name": "Osteomyelitis", "weight": 0.0, "id": 2780551157, "level": 2}
+{"count": 16491, "name": "Aortic arch", "weight": 0.0, "id": 2781285907, "level": 2}
+{"count": 82341, "name": "Arthroplasty", "weight": 2.0, "id": 2778336525, "level": 2}
+{"count": 11247, "name": "Diclofenac", "weight": 0.0, "id": 2779826273, "level": 2}
+{"count": 12381, "name": "Glasgow Coma Scale", "weight": 0.0, "id": 17624336, "level": 2}
+{"count": 33203, "name": "Ligament", "weight": 1.0, "id": 2779753412, "level": 2}
+{"count": 10822, "name": "Spina bifida", "weight": 0.0, "id": 2778478650, "level": 2}
+{"count": 13639, "name": "Teratoma", "weight": 0.0, "id": 2776057878, "level": 2}
+{"count": 11793, "name": "Varices", "weight": 0.0, "id": 2778012290, "level": 2}
+{"count": 16980, "name": "Aortic dissection", "weight": 0.0, "id": 2779993142, "level": 2}
+{"count": 14936, "name": "Abdominal surgery", "weight": 0.0, "id": 2780120127, "level": 2}
+{"count": 13850, "name": "Halothane", "weight": 0.0, "id": 2776932660, "level": 2}
+{"count": 12091, "name": "Vertebral artery", "weight": 0.0, "id": 2780405337, "level": 2}
+{"count": 13846, "name": "Keratitis", "weight": 0.0, "id": 2778560704, "level": 2}
+{"count": 11380, "name": "Cancellous bone", "weight": 0.0, "id": 2776350087, "level": 2}
+{"count": 8683, "name": "Neuralgia", "weight": 0.0, "id": 2780016216, "level": 2}
+{"count": 11909, "name": "Interventional radiology", "weight": 0.0, "id": 513090587, "level": 2}
+{"count": 7575, "name": "Sequela", "weight": 0.0, "id": 2777609351, "level": 2}
+{"count": 15424, "name": "Nasal cavity", "weight": 0.0, "id": 2778801703, "level": 2}

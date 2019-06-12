@@ -1,0 +1,46 @@
+{"count": 46944, "name": "Hearing loss", "weight": 10.0, "id": 2780493683, "level": 2}
+{"count": 16213, "name": "Inner ear", "weight": 3.0, "id": 2778500370, "level": 2}
+{"count": 19118, "name": "Cochlea", "weight": 4.0, "id": 2780130748, "level": 2}
+{"count": 15222, "name": "Cochlear implant", "weight": 3.0, "id": 2778882171, "level": 2}
+{"count": 8417, "name": "Auditory system", "weight": 1.0, "id": 2777443451, "level": 2}
+{"count": 35375, "name": "Vestibular system", "weight": 7.0, "id": 190041318, "level": 2}
+{"count": 17085, "name": "Hearing aid", "weight": 3.0, "id": 2780801066, "level": 2}
+{"count": 6516, "name": "Sound localization", "weight": 1.0, "id": 68236139, "level": 2}
+{"count": 5915, "name": "Vertigo", "weight": 1.0, "id": 2779135839, "level": 2}
+{"count": 15035, "name": "Tinnitus", "weight": 3.0, "id": 2776992516, "level": 2}
+{"count": 22145, "name": "Middle ear", "weight": 4.0, "id": 2777846895, "level": 2}
+{"count": 7514, "name": "Phonation", "weight": 1.0, "id": 173988693, "level": 2}
+{"count": 2939, "name": "Ear disease", "weight": 0.0, "id": 2780076632, "level": 2}
+{"count": 4048, "name": "Acoustic neuroma", "weight": 0.0, "id": 2780858735, "level": 2}
+{"count": 5067, "name": "Ototoxicity", "weight": 1.0, "id": 2778534666, "level": 2}
+{"count": 13474, "name": "Nystagmus", "weight": 2.0, "id": 2779736392, "level": 2}
+{"count": 2336, "name": "Cochlear nerve", "weight": 0.0, "id": 2776796419, "level": 2}
+{"count": 4562, "name": "Bone conduction", "weight": 0.0, "id": 97785308, "level": 2}
+{"count": 4880, "name": "Meniere's disease", "weight": 1.0, "id": 2780865074, "level": 2}
+{"count": 4618, "name": "Tympanoplasty", "weight": 0.0, "id": 2779012872, "level": 2}
+{"count": 4263, "name": "Otosclerosis", "weight": 0.0, "id": 2778806077, "level": 2}
+{"count": 4224, "name": "Otology", "weight": 0.0, "id": 540533750, "level": 2}
+{"count": 1471, "name": "Velopharyngeal insufficiency", "weight": 0.0, "id": 2775989986, "level": 2}
+{"count": 6140, "name": "Ear canal", "weight": 1.0, "id": 2779812621, "level": 2}
+{"count": 1073, "name": "Electrocochleography", "weight": 0.0, "id": 2776195344, "level": 2}
+{"count": 1047, "name": "Labyrinthitis", "weight": 0.0, "id": 2777599811, "level": 2}
+{"count": 466, "name": "Nasalance", "weight": 0.0, "id": 2777483942, "level": 2}
+{"count": 699, "name": "Auditory processing disorder", "weight": 0.0, "id": 2780935420, "level": 2}
+{"count": 444, "name": "Ear protection", "weight": 0.0, "id": 2779866930, "level": 2}
+{"count": 365, "name": "Voice change", "weight": 0.0, "id": 2778349746, "level": 2}
+{"count": 249, "name": "Synaptopathy", "weight": 0.0, "id": 2776166933, "level": 2}
+{"count": 125, "name": "Cortical deafness", "weight": 0.0, "id": 2776023575, "level": 2}
+{"count": 44, "name": "Vocal fold nodule", "weight": 0.0, "id": 2777625244, "level": 2}
+{"count": 75, "name": "Puberphonia", "weight": 0.0, "id": 43261797, "level": 2}
+{"count": 355, "name": "Hearing range", "weight": 0.0, "id": 95865626, "level": 2}
+{"count": 286, "name": "Hoarse voice", "weight": 0.0, "id": 2776198355, "level": 2}
+{"count": 276, "name": "Phoniatrics", "weight": 0.0, "id": 2777912949, "level": 2}
+{"count": 109, "name": "Weber test", "weight": 0.0, "id": 2776185065, "level": 2}
+{"count": 121, "name": "Spondee", "weight": 0.0, "id": 1131559, "level": 2}
+{"count": 18, "name": "Bing test", "weight": 0.0, "id": 2779790952, "level": 2}
+{"count": 8, "name": "Teunissen\u2013Cremers syndrome", "weight": 0.0, "id": 2781137839, "level": 2}
+{"count": 20, "name": "Direct acoustic cochlear implant", "weight": 0.0, "id": 2781071078, "level": 2}
+{"count": 139, "name": "Ear pick", "weight": 0.0, "id": 2780140291, "level": 2}
+{"count": 71, "name": "Articulation score", "weight": 0.0, "id": 2778986453, "level": 2}
+{"count": 30, "name": "Ear trumpet", "weight": 0.0, "id": 2780952481, "level": 2}
+{"count": 7, "name": "Musical ear syndrome", "weight": 0.0, "id": 2778493564, "level": 2}

@@ -1,0 +1,52 @@
+{"count": 973, "name": "Estuarine water circulation", "weight": 4.0, "id": 107674354, "level": 3}
+{"count": 2084, "name": "Tidal range", "weight": 10.0, "id": 2780734843, "level": 3}
+{"count": 706, "name": "Nursery habitat", "weight": 3.0, "id": 2775851391, "level": 3}
+{"count": 913, "name": "Freshwater inflow", "weight": 4.0, "id": 2777526573, "level": 3}
+{"count": 743, "name": "Tidal bore", "weight": 3.0, "id": 63788969, "level": 3}
+{"count": 713, "name": "Tidal prism", "weight": 3.0, "id": 2780653195, "level": 3}
+{"count": 539, "name": "High marsh", "weight": 2.0, "id": 2779763278, "level": 3}
+{"count": 916, "name": "Brackish marsh", "weight": 4.0, "id": 117949133, "level": 3}
+{"count": 99, "name": "Potamocorbula amurensis", "weight": 0.0, "id": 2778286801, "level": 3}
+{"count": 139, "name": "Outwelling", "weight": 0.0, "id": 2780513062, "level": 3}
+{"count": 192, "name": "Coilia nasus", "weight": 0.0, "id": 2781147719, "level": 3}
+{"count": 160, "name": "Farfantepenaeus aztecus", "weight": 0.0, "id": 2780268878, "level": 3}
+{"count": 648, "name": "Slack water", "weight": 3.0, "id": 158454802, "level": 3}
+{"count": 47, "name": "Upogebia africana", "weight": 0.0, "id": 2779243543, "level": 3}
+{"count": 100, "name": "Intertidal wetland", "weight": 0.0, "id": 2781252835, "level": 3}
+{"count": 87, "name": "Rhabdosargus holubi", "weight": 0.0, "id": 2781363975, "level": 3}
+{"count": 88, "name": "Neomysis americana", "weight": 0.0, "id": 2777949572, "level": 3}
+{"count": 80, "name": "Tautog", "weight": 0.0, "id": 2776502805, "level": 3}
+{"count": 138, "name": "Ethmalosa fimbriata", "weight": 0.0, "id": 2781288267, "level": 3}
+{"count": 58, "name": "Pomadasys commersonnii", "weight": 0.0, "id": 2777135129, "level": 3}
+{"count": 11, "name": "Lithodoras dorsalis", "weight": 0.0, "id": 2778293272, "level": 3}
+{"count": 220, "name": "Hypomesus", "weight": 1.0, "id": 2777125437, "level": 3}
+{"count": 69, "name": "Cynoscion arenarius", "weight": 0.0, "id": 2776406872, "level": 3}
+{"count": 57, "name": "Neotrypaea californiensis", "weight": 0.0, "id": 2777528671, "level": 3}
+{"count": 38, "name": "Actinocyclus normanii", "weight": 0.0, "id": 2776979964, "level": 3}
+{"count": 40, "name": "Amphibola crenata", "weight": 0.0, "id": 2778912733, "level": 3}
+{"count": 1240, "name": "Bay mud", "weight": 5.0, "id": 43024197, "level": 3}
+{"count": 29, "name": "Favonigobius lateralis", "weight": 0.0, "id": 2777027453, "level": 3}
+{"count": 46, "name": "Helice tridens", "weight": 0.0, "id": 2777208134, "level": 3}
+{"count": 34, "name": "Clithon retropictus", "weight": 0.0, "id": 2776793833, "level": 3}
+{"count": 1141, "name": "Tidal irrigation", "weight": 5.0, "id": 182641432, "level": 3}
+{"count": 103, "name": "Microgadus", "weight": 0.0, "id": 2781277073, "level": 3}
+{"count": 320, "name": "Polyhaline", "weight": 1.0, "id": 51901199, "level": 3}
+{"count": 8, "name": "Mulinia coloradoensis", "weight": 0.0, "id": 2779794052, "level": 3}
+{"count": 42, "name": "Bulkhead (barrier)", "weight": 0.0, "id": 102194368, "level": 3}
+{"count": 164, "name": "Cathorops", "weight": 0.0, "id": 2780636597, "level": 3}
+{"count": 192, "name": "Ambassis", "weight": 0.0, "id": 2776487421, "level": 3}
+{"count": 25, "name": "Odontamblyopus rubicundus", "weight": 0.0, "id": 2779957294, "level": 3}
+{"count": 13, "name": "King threadfin", "weight": 0.0, "id": 2777741600, "level": 3}
+{"count": 75, "name": "Nematalosa", "weight": 0.0, "id": 2779171861, "level": 3}
+{"count": 21, "name": "Australian herring", "weight": 0.0, "id": 2779857714, "level": 3}
+{"count": 14, "name": "Hymenosoma", "weight": 0.0, "id": 2780328605, "level": 3}
+{"count": 24, "name": "Salanx", "weight": 0.0, "id": 2780522251, "level": 3}
+{"count": 21, "name": "Myxus", "weight": 0.0, "id": 2778926566, "level": 3}
+{"count": 60, "name": "Pogonichthys", "weight": 0.0, "id": 2776736919, "level": 3}
+{"count": 72, "name": "Trinectes", "weight": 0.0, "id": 2779728580, "level": 3}
+{"count": 29, "name": "Pacific staghorn sculpin", "weight": 0.0, "id": 2776474715, "level": 3}
+{"count": 14, "name": "Otolith microchemical analysis", "weight": 0.0, "id": 2775893390, "level": 3}
+{"count": 39, "name": "Soletellina", "weight": 0.0, "id": 2779730292, "level": 3}
+{"count": 10, "name": "MOHID water modelling system", "weight": 0.0, "id": 2781003094, "level": 3}
+{"count": 20, "name": "Tetractenos", "weight": 0.0, "id": 2778784956, "level": 3}
+{"count": 13, "name": "Maeotias", "weight": 0.0, "id": 2779351148, "level": 3}

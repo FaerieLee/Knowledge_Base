@@ -1,0 +1,134 @@
+{"count": 24874, "name": "Drug development", "weight": 10.0, "id": 64903051, "level": 3}
+{"count": 17881, "name": "Heroin", "weight": 7.0, "id": 2778903686, "level": 3}
+{"count": 8347, "name": "Pharmacovigilance", "weight": 3.0, "id": 57658597, "level": 3}
+{"count": 10739, "name": "Adverse drug reaction", "weight": 4.0, "id": 2780542314, "level": 3}
+{"count": 7221, "name": "Harm reduction", "weight": 2.0, "id": 529928208, "level": 3}
+{"count": 3155, "name": "Hallucinogen", "weight": 1.0, "id": 124315065, "level": 3}
+{"count": 2486, "name": "Pharmacoepidemiology", "weight": 0.0, "id": 23276603, "level": 3}
+{"count": 6194, "name": "Methadone maintenance", "weight": 2.0, "id": 2778903061, "level": 3}
+{"count": 6628, "name": "Ecstasy", "weight": 2.0, "id": 2779488553, "level": 3}
+{"count": 4746, "name": "MDMA", "weight": 1.0, "id": 2780876324, "level": 3}
+{"count": 8503, "name": "Polypharmacy", "weight": 3.0, "id": 36434225, "level": 3}
+{"count": 5817, "name": "Pharmaceutical care", "weight": 2.0, "id": 129930760, "level": 3}
+{"count": 2821, "name": "Drug education", "weight": 1.0, "id": 2780399684, "level": 3}
+{"count": 3811, "name": "Efficacy", "weight": 1.0, "id": 149172746, "level": 3}
+{"count": 2861, "name": "Drug overdose", "weight": 1.0, "id": 2776315796, "level": 3}
+{"count": 1414, "name": "Needle sharing", "weight": 0.0, "id": 2780586045, "level": 3}
+{"count": 7821, "name": "Prescription drug", "weight": 3.0, "id": 2778858636, "level": 3}
+{"count": 3287, "name": "Off-label use", "weight": 1.0, "id": 188313352, "level": 3}
+{"count": 1520, "name": "Defined daily dose", "weight": 0.0, "id": 2776865356, "level": 3}
+{"count": 2258, "name": "Generic drug", "weight": 0.0, "id": 2776396487, "level": 3}
+{"count": 2375, "name": "Drug allergy", "weight": 0.0, "id": 2779060952, "level": 3}
+{"count": 6991, "name": "Formulary", "weight": 2.0, "id": 100406419, "level": 3}
+{"count": 1020, "name": "Direct-to-consumer advertising", "weight": 0.0, "id": 2777250959, "level": 3}
+{"count": 1411, "name": "Drug repositioning", "weight": 0.0, "id": 103637391, "level": 3}
+{"count": 2406, "name": "Postmarketing surveillance", "weight": 0.0, "id": 197636746, "level": 3}
+{"count": 1064, "name": "Marketing authorization", "weight": 0.0, "id": 2777589142, "level": 3}
+{"count": 2388, "name": "Drug user", "weight": 0.0, "id": 2777329821, "level": 3}
+{"count": 550, "name": "Drug packaging", "weight": 0.0, "id": 2776811147, "level": 3}
+{"count": 694, "name": "Monitoring the Future", "weight": 0.0, "id": 2781176444, "level": 3}
+{"count": 656, "name": "Mephedrone", "weight": 0.0, "id": 2779972045, "level": 3}
+{"count": 1261, "name": "Drug court", "weight": 0.0, "id": 2778295384, "level": 3}
+{"count": 620, "name": "Recreational drug use", "weight": 0.0, "id": 2779321674, "level": 3}
+{"count": 1844, "name": "Package insert", "weight": 0.0, "id": 4892016, "level": 3}
+{"count": 922, "name": "Psychoactive drug", "weight": 0.0, "id": 2779369099, "level": 3}
+{"count": 1009, "name": "Polysubstance dependence", "weight": 0.0, "id": 121929971, "level": 3}
+{"count": 374, "name": "Designer drug", "weight": 0.0, "id": 2778961205, "level": 3}
+{"count": 3808, "name": "Drug action", "weight": 1.0, "id": 86380466, "level": 3}
+{"count": 473, "name": "Polypharmacology", "weight": 0.0, "id": 2778154635, "level": 3}
+{"count": 565, "name": "National Survey on Drug Use and Health", "weight": 0.0, "id": 2780138408, "level": 3}
+{"count": 520, "name": "Bath salts", "weight": 0.0, "id": 2778579341, "level": 3}
+{"count": 713, "name": "Controlled substance", "weight": 0.0, "id": 2777972796, "level": 3}
+{"count": 1490, "name": "Drug injection", "weight": 0.0, "id": 2780749119, "level": 3}
+{"count": 1033, "name": "Adverse Event Reporting System", "weight": 0.0, "id": 2777105317, "level": 3}
+{"count": 272, "name": "Summary of Product Characteristics", "weight": 0.0, "id": 2777436895, "level": 3}
+{"count": 1572, "name": "Chinese patent medicine", "weight": 0.0, "id": 2777980684, "level": 3}
+{"count": 649, "name": "Psychological dependence", "weight": 0.0, "id": 85030129, "level": 3}
+{"count": 511, "name": "Drug test", "weight": 0.0, "id": 2777569109, "level": 3}
+{"count": 165, "name": "Drug facilitated sexual assault", "weight": 0.0, "id": 2780462640, "level": 3}
+{"count": 356, "name": "Drug diversion", "weight": 0.0, "id": 2776205216, "level": 3}
+{"count": 20, "name": "Whoonga", "weight": 0.0, "id": 105917838, "level": 3}
+{"count": 453, "name": "Drug reaction with eosinophilia and systemic symptoms", "weight": 0.0, "id": 2778953119, "level": 3}
+{"count": 868, "name": "Patent medicine", "weight": 0.0, "id": 130787975, "level": 3}
+{"count": 127, "name": "Poly drug use", "weight": 0.0, "id": 2776286288, "level": 3}
+{"count": 1127, "name": "Drug class", "weight": 0.0, "id": 2778176773, "level": 3}
+{"count": 112, "name": "Methoxetamine", "weight": 0.0, "id": 2777926330, "level": 3}
+{"count": 101, "name": "Substance-related disorder", "weight": 0.0, "id": 2779193015, "level": 3}
+{"count": 298, "name": "MedWatch", "weight": 0.0, "id": 2777469769, "level": 3}
+{"count": 324, "name": "Drug detoxification", "weight": 0.0, "id": 2781203884, "level": 3}
+{"count": 146, "name": "Prescription Drug User Fee Act", "weight": 0.0, "id": 2776340472, "level": 3}
+{"count": 325, "name": "Controlled Substances Act", "weight": 0.0, "id": 2780963640, "level": 3}
+{"count": 182, "name": "Drug-related crime", "weight": 0.0, "id": 2777926767, "level": 3}
+{"count": 119, "name": "Drug Abuse Warning Network", "weight": 0.0, "id": 2778793849, "level": 3}
+{"count": 158, "name": "Addiction Research Center Inventory", "weight": 0.0, "id": 2777490815, "level": 3}
+{"count": 744, "name": "Pharmaceutical drug", "weight": 0.0, "id": 2779535233, "level": 3}
+{"count": 1050, "name": "Combination drug", "weight": 0.0, "id": 2775986368, "level": 3}
+{"count": 281, "name": "Dose dumping", "weight": 0.0, "id": 75632239, "level": 3}
+{"count": 28, "name": "Receptorome", "weight": 0.0, "id": 2780433237, "level": 3}
+{"count": 156, "name": "RxNorm", "weight": 0.0, "id": 77535585, "level": 3}
+{"count": 66, "name": "Drug nomenclature", "weight": 0.0, "id": 2777885588, "level": 3}
+{"count": 202, "name": "Botanical drug", "weight": 0.0, "id": 2778165219, "level": 3}
+{"count": 349, "name": "Experimental drug", "weight": 0.0, "id": 2778479125, "level": 3}
+{"count": 288, "name": "Hazardous drugs", "weight": 0.0, "id": 2780335305, "level": 3}
+{"count": 79, "name": "International Nonproprietary Name", "weight": 0.0, "id": 131640514, "level": 3}
+{"count": 208, "name": "Priority review", "weight": 0.0, "id": 2777624617, "level": 3}
+{"count": 247, "name": "Drug pipeline", "weight": 0.0, "id": 2779229745, "level": 3}
+{"count": 137, "name": "Drug policy reform", "weight": 0.0, "id": 2778067968, "level": 3}
+{"count": 427, "name": "DrugBank", "weight": 0.0, "id": 155261790, "level": 3}
+{"count": 143, "name": "Drug paraphernalia", "weight": 0.0, "id": 2779250557, "level": 3}
+{"count": 196, "name": "Boxed warning", "weight": 0.0, "id": 2776076514, "level": 3}
+{"count": 79, "name": "Drug recall", "weight": 0.0, "id": 2775946258, "level": 3}
+{"count": 75, "name": "Desomorphine", "weight": 0.0, "id": 2780488670, "level": 3}
+{"count": 126, "name": "Lifestyle drug", "weight": 0.0, "id": 86213176, "level": 3}
+{"count": 136, "name": "Common Technical Document", "weight": 0.0, "id": 2781271569, "level": 3}
+{"count": 217, "name": "Drug culture", "weight": 0.0, "id": 557037218, "level": 3}
+{"count": 94, "name": "Joint FAO/WHO Expert Committee on Food Additives", "weight": 0.0, "id": 2776875279, "level": 3}
+{"count": 670, "name": "Drugs in pregnancy", "weight": 0.0, "id": 2775950024, "level": 3}
+{"count": 45, "name": "Methiopropamine", "weight": 0.0, "id": 2780906284, "level": 3}
+{"count": 140, "name": "Federal Food, Drug, and Cosmetic Act", "weight": 0.0, "id": 2779000978, "level": 3}
+{"count": 171, "name": "Breakthrough therapy", "weight": 0.0, "id": 2778228984, "level": 3}
+{"count": 21, "name": "Drug pollution", "weight": 0.0, "id": 2777773567, "level": 3}
+{"count": 94, "name": "Single Convention on Narcotic Drugs", "weight": 0.0, "id": 2777042607, "level": 3}
+{"count": 35, "name": "25C-NBOMe", "weight": 0.0, "id": 2779402301, "level": 3}
+{"count": 26, "name": "MT-45", "weight": 0.0, "id": 2780467907, "level": 3}
+{"count": 114, "name": "Set and setting", "weight": 0.0, "id": 2776240539, "level": 3}
+{"count": 62, "name": "Drug Master File", "weight": 0.0, "id": 61478860, "level": 3}
+{"count": 43, "name": "Meth mouth", "weight": 0.0, "id": 2778755005, "level": 3}
+{"count": 24, "name": "AH-7921", "weight": 0.0, "id": 2775833693, "level": 3}
+{"count": 77, "name": "Misuse of Drugs Act 1971", "weight": 0.0, "id": 2780697019, "level": 3}
+{"count": 26, "name": "Pharmacopoeia of the People's Republic of China", "weight": 0.0, "id": 2778013600, "level": 3}
+{"count": 25, "name": "Acetylfentanyl", "weight": 0.0, "id": 2777728357, "level": 3}
+{"count": 456, "name": "Concomitant drug", "weight": 0.0, "id": 2776175100, "level": 3}
+{"count": 18, "name": "Furanylfentanyl", "weight": 0.0, "id": 2776211872, "level": 3}
+{"count": 890, "name": "Effects of cannabis", "weight": 0.0, "id": 2780313146, "level": 3}
+{"count": 81, "name": "World Drug Report", "weight": 0.0, "id": 2776184353, "level": 3}
+{"count": 49, "name": "Nutrition Labeling and Education Act of 1990", "weight": 0.0, "id": 2778297792, "level": 3}
+{"count": 53, "name": "Food and Drug Administration Amendments Act of 2007", "weight": 0.0, "id": 2777233039, "level": 3}
+{"count": 84, "name": "Disease model of addiction", "weight": 0.0, "id": 2779045728, "level": 3}
+{"count": 19, "name": "4-Fluoroamphetamine", "weight": 0.0, "id": 2776999059, "level": 3}
+{"count": 53, "name": "Convention on Psychotropic Substances", "weight": 0.0, "id": 2779090944, "level": 3}
+{"count": 102, "name": "Arrestee Drug Abuse Monitoring", "weight": 0.0, "id": 2777548748, "level": 3}
+{"count": 14, "name": "Responsible drug use", "weight": 0.0, "id": 2778597758, "level": 3}
+{"count": 25, "name": "Fixed drug reaction", "weight": 0.0, "id": 2781175141, "level": 3}
+{"count": 32, "name": "United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances", "weight": 0.0, "id": 2776440194, "level": 3}
+{"count": 24, "name": "United States Adopted Name", "weight": 0.0, "id": 175308658, "level": 3}
+{"count": 33, "name": "DailyMed", "weight": 0.0, "id": 2776387267, "level": 3}
+{"count": 28, "name": "Orphan Drug Act of 1983", "weight": 0.0, "id": 2776011601, "level": 3}
+{"count": 68, "name": "Metered dose transdermal spray", "weight": 0.0, "id": 82641374, "level": 3}
+{"count": 28, "name": "Retrometabolic drug design", "weight": 0.0, "id": 2775864889, "level": 3}
+{"count": 26, "name": "Good tissue practice", "weight": 0.0, "id": 2775926197, "level": 3}
+{"count": 14, "name": "Party and play", "weight": 0.0, "id": 2778231705, "level": 3}
+{"count": 33, "name": "Prohibition of drugs", "weight": 0.0, "id": 2777085151, "level": 3}
+{"count": 34, "name": "Pill splitting", "weight": 0.0, "id": 2780463393, "level": 3}
+{"count": 529, "name": "Approved drug", "weight": 0.0, "id": 2777494893, "level": 3}
+{"count": 23, "name": "Bunaftine", "weight": 0.0, "id": 2780590042, "level": 3}
+{"count": 22, "name": "Virtual pharmacy", "weight": 0.0, "id": 2780030461, "level": 3}
+{"count": 15, "name": "Generally recognized as safe and effective", "weight": 0.0, "id": 2780917892, "level": 3}
+{"count": 33, "name": "Drug Effectiveness Review Project", "weight": 0.0, "id": 2777946228, "level": 3}
+{"count": 225, "name": "Tobacco and other drugs", "weight": 0.0, "id": 92499631, "level": 3}
+{"count": 140, "name": "Sex and drugs", "weight": 0.0, "id": 2777122554, "level": 3}
+{"count": 49, "name": "Psychoanaleptic", "weight": 0.0, "id": 2778523303, "level": 3}
+{"count": 16, "name": "Food Additives Amendment of 1958", "weight": 0.0, "id": 2777373247, "level": 3}
+{"count": 16, "name": "Therapeutics Initiative", "weight": 0.0, "id": 2776602069, "level": 3}
+{"count": 6, "name": "Drug harmfulness", "weight": 0.0, "id": 2776810780, "level": 3}
+{"count": 34, "name": "Australian Medicines Handbook", "weight": 0.0, "id": 2777069468, "level": 3}

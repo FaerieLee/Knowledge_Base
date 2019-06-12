@@ -1,0 +1,22 @@
+{"count": 1993, "name": "Zero-knowledge proof", "weight": 5.0, "id": 176329583, "level": 3}
+{"count": 3743, "name": "Proof theory", "weight": 10.0, "id": 2318724, "level": 3}
+{"count": 2955, "name": "Proof assistant", "weight": 7.0, "id": 203265346, "level": 3}
+{"count": 1915, "name": "Proof complexity", "weight": 5.0, "id": 105605280, "level": 3}
+{"count": 1189, "name": "Computer-assisted proof", "weight": 3.0, "id": 173613240, "level": 3}
+{"count": 392, "name": "Structural induction", "weight": 1.0, "id": 63755874, "level": 3}
+{"count": 1212, "name": "Automated proof checking", "weight": 3.0, "id": 13766981, "level": 3}
+{"count": 159, "name": "Proof mining", "weight": 0.0, "id": 2779486786, "level": 3}
+{"count": 375, "name": "Mizar system", "weight": 1.0, "id": 97159802, "level": 3}
+{"count": 221, "name": "Nuprl", "weight": 0.0, "id": 2776508104, "level": 3}
+{"count": 2127, "name": "Analytic proof", "weight": 5.0, "id": 135754263, "level": 3}
+{"count": 144, "name": "Twelf", "weight": 0.0, "id": 2778965746, "level": 3}
+{"count": 27, "name": "Schr\u00f6der\u2013Bernstein theorem", "weight": 0.0, "id": 88151527, "level": 3}
+{"count": 28, "name": "Condensed detachment", "weight": 0.0, "id": 2779661891, "level": 3}
+{"count": 27, "name": "Hilbert system", "weight": 0.0, "id": 2778415297, "level": 3}
+{"count": 248, "name": "Proof", "weight": 0.0, "id": 202679639, "level": 3}
+{"count": 159, "name": "Theorem Proving System", "weight": 0.0, "id": 2776671111, "level": 3}
+{"count": 28, "name": "Inductive set", "weight": 0.0, "id": 2780900983, "level": 3}
+{"count": 110, "name": "Natural proof", "weight": 0.0, "id": 2780532209, "level": 3}
+{"count": 39, "name": "Disjunction elimination", "weight": 0.0, "id": 191555800, "level": 3}
+{"count": 20, "name": "Logic for Computable Functions", "weight": 0.0, "id": 2777998561, "level": 3}
+{"count": 112, "name": "Proofs involving the addition of natural numbers", "weight": 0.0, "id": 196632526, "level": 3}

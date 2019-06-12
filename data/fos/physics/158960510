@@ -1,0 +1,12 @@
+{"count": 1502, "name": "Heat index", "weight": 7.0, "id": 69332959, "level": 3}
+{"count": 885, "name": "Wet-bulb globe temperature", "weight": 4.0, "id": 75043328, "level": 3}
+{"count": 662, "name": "Psychrometrics", "weight": 3.0, "id": 51983180, "level": 3}
+{"count": 1980, "name": "Wet-bulb temperature", "weight": 10.0, "id": 162569806, "level": 3}
+{"count": 1896, "name": "Apparent temperature", "weight": 9.0, "id": 49364354, "level": 3}
+{"count": 844, "name": "Critical relative humidity", "weight": 4.0, "id": 75527780, "level": 3}
+{"count": 1171, "name": "Dry-bulb temperature", "weight": 5.0, "id": 164089938, "level": 3}
+{"count": 104, "name": "Humidex", "weight": 0.0, "id": 49517417, "level": 3}
+{"count": 47, "name": "Seawater greenhouse", "weight": 0.0, "id": 2776788573, "level": 3}
+{"count": 120, "name": "Dew point depression", "weight": 0.0, "id": 101546441, "level": 3}
+{"count": 31, "name": "Humidity buffering", "weight": 0.0, "id": 2780532233, "level": 3}
+{"count": 185, "name": "Humidistat", "weight": 0.0, "id": 2779113665, "level": 3}

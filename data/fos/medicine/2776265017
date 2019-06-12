@@ -1,0 +1,10 @@
+{"count": 1005, "name": "Intermittent pneumatic compression", "weight": 2.0, "id": 2781057395, "level": 3}
+{"count": 3413, "name": "Embolectomy", "weight": 9.0, "id": 2776652129, "level": 3}
+{"count": 3502, "name": "Pulmonary angiography", "weight": 10.0, "id": 2780149156, "level": 3}
+{"count": 214, "name": "Ventilation/perfusion scan", "weight": 0.0, "id": 2776794118, "level": 3}
+{"count": 154, "name": "Geneva score", "weight": 0.0, "id": 2781356125, "level": 3}
+{"count": 108, "name": "Obstructive shock", "weight": 0.0, "id": 2780091190, "level": 3}
+{"count": 96, "name": "Lung infarction", "weight": 0.0, "id": 2779514185, "level": 3}
+{"count": 30, "name": "Pleural friction rub", "weight": 0.0, "id": 2779861292, "level": 3}
+{"count": 26, "name": "Pulmonary thrombectomy", "weight": 0.0, "id": 2778569226, "level": 3}
+{"count": 27, "name": "Westermark sign", "weight": 0.0, "id": 2780148694, "level": 3}

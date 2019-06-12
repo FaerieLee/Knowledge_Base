@@ -1,0 +1,19 @@
+{"count": 1412, "name": "Approximate inference", "weight": 1.0, "id": 2777472644, "level": 3}
+{"count": 5402, "name": "Inference engine", "weight": 7.0, "id": 46743427, "level": 3}
+{"count": 1134, "name": "Variable elimination", "weight": 1.0, "id": 169272836, "level": 3}
+{"count": 1084, "name": "Modus ponens", "weight": 1.0, "id": 193885149, "level": 3}
+{"count": 433, "name": "Expectation propagation", "weight": 0.0, "id": 2779363554, "level": 3}
+{"count": 7718, "name": "Frequentist inference", "weight": 10.0, "id": 162376815, "level": 3}
+{"count": 64, "name": "Indian buffet process", "weight": 0.0, "id": 2778374948, "level": 3}
+{"count": 173, "name": "Uncertain inference", "weight": 0.0, "id": 2775978356, "level": 3}
+{"count": 32, "name": "Type qualifier", "weight": 0.0, "id": 2777202898, "level": 3}
+{"count": 104, "name": "Junction tree algorithm", "weight": 0.0, "id": 2776196174, "level": 3}
+{"count": 67, "name": "Credal network", "weight": 0.0, "id": 2776594863, "level": 3}
+{"count": 59, "name": "Informal inferential reasoning", "weight": 0.0, "id": 2781064888, "level": 3}
+{"count": 412, "name": "Variational message passing", "weight": 0.0, "id": 13778685, "level": 3}
+{"count": 26, "name": "Material inference", "weight": 0.0, "id": 2780949617, "level": 3}
+{"count": 109, "name": "Probabilistic programming language", "weight": 0.0, "id": 2779762310, "level": 3}
+{"count": 324, "name": "Disjunction introduction", "weight": 0.0, "id": 60843010, "level": 3}
+{"count": 43, "name": "Immediate inference", "weight": 0.0, "id": 201722593, "level": 3}
+{"count": 1301, "name": "Probabilistic logic network", "weight": 1.0, "id": 18998212, "level": 3}
+{"count": 24, "name": "Constraint inference", "weight": 0.0, "id": 2778639630, "level": 3}

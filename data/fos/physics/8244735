@@ -1,0 +1,94 @@
+{"count": 21534, "name": "Exchange interaction", "weight": 3.0, "id": 174771821, "level": 3}
+{"count": 44879, "name": "Spin polarization", "weight": 6.0, "id": 21690051, "level": 3}
+{"count": 19648, "name": "Spin\u2013orbit interaction", "weight": 2.0, "id": 125020911, "level": 3}
+{"count": 32060, "name": "Ising model", "weight": 4.0, "id": 51329190, "level": 3}
+{"count": 22087, "name": "Spin wave", "weight": 3.0, "id": 44221107, "level": 3}
+{"count": 71424, "name": "Antiferromagnetism", "weight": 10.0, "id": 155355069, "level": 3}
+{"count": 15922, "name": "Hubbard model", "weight": 2.0, "id": 106074065, "level": 3}
+{"count": 8989, "name": "Spinor", "weight": 1.0, "id": 43506125, "level": 3}
+{"count": 2583, "name": "Spin structure", "weight": 0.0, "id": 167107555, "level": 3}
+{"count": 5537, "name": "Spin density wave", "weight": 0.0, "id": 178341946, "level": 3}
+{"count": 4805, "name": "Bethe ansatz", "weight": 0.0, "id": 77843276, "level": 3}
+{"count": 23339, "name": "Spin (physics)", "weight": 3.0, "id": 53926316, "level": 3}
+{"count": 13790, "name": "Spintronics", "weight": 1.0, "id": 207999682, "level": 3}
+{"count": 13686, "name": "Spin states", "weight": 1.0, "id": 35325081, "level": 3}
+{"count": 3328, "name": "Magnetic dipole\u2013dipole interaction", "weight": 0.0, "id": 176900771, "level": 3}
+{"count": 3085, "name": "Luttinger liquid", "weight": 0.0, "id": 197334999, "level": 3}
+{"count": 7498, "name": "Magnon", "weight": 1.0, "id": 204382992, "level": 3}
+{"count": 3498, "name": "Spin trapping", "weight": 0.0, "id": 2778815226, "level": 3}
+{"count": 5033, "name": "Density matrix renormalization group", "weight": 0.0, "id": 29547527, "level": 3}
+{"count": 2899, "name": "Knight shift", "weight": 0.0, "id": 76097060, "level": 3}
+{"count": 1748, "name": "Gyromagnetic ratio", "weight": 0.0, "id": 56902620, "level": 3}
+{"count": 1889, "name": "Single-molecule magnet", "weight": 0.0, "id": 2777336399, "level": 3}
+{"count": 4092, "name": "Spin crossover", "weight": 0.0, "id": 2777222292, "level": 3}
+{"count": 4020, "name": "Spin label", "weight": 0.0, "id": 79123411, "level": 3}
+{"count": 3107, "name": "Classical XY model", "weight": 0.0, "id": 102439081, "level": 3}
+{"count": 3071, "name": "Site-directed spin labeling", "weight": 0.0, "id": 177462420, "level": 3}
+{"count": 3132, "name": "Strongly correlated material", "weight": 0.0, "id": 157077121, "level": 3}
+{"count": 3715, "name": "Skyrmion", "weight": 0.0, "id": 88020606, "level": 3}
+{"count": 1157, "name": "Peierls transition", "weight": 0.0, "id": 2779832597, "level": 3}
+{"count": 4230, "name": "Larmor precession", "weight": 0.0, "id": 5484521, "level": 3}
+{"count": 600, "name": "Polarized target", "weight": 0.0, "id": 2780988000, "level": 3}
+{"count": 2293, "name": "Spin model", "weight": 0.0, "id": 2780198381, "level": 3}
+{"count": 2812, "name": "Spin-transfer torque", "weight": 0.0, "id": 609986, "level": 3}
+{"count": 2591, "name": "Magnetization dynamics", "weight": 0.0, "id": 2778381111, "level": 3}
+{"count": 150, "name": "Foldy\u2013Wouthuysen transformation", "weight": 0.0, "id": 2779107843, "level": 3}
+{"count": 2108, "name": "Spin transition", "weight": 0.0, "id": 2778696020, "level": 3}
+{"count": 4422, "name": "Magnetic impurity", "weight": 0.0, "id": 170543821, "level": 3}
+{"count": 2097, "name": "Nanomagnet", "weight": 0.0, "id": 131872197, "level": 3}
+{"count": 5757, "name": "Unpaired electron", "weight": 0.0, "id": 186927785, "level": 3}
+{"count": 979, "name": "Hanle effect", "weight": 0.0, "id": 77827228, "level": 3}
+{"count": 1592, "name": "Spin probe", "weight": 0.0, "id": 2779394729, "level": 3}
+{"count": 1179, "name": "Spinon", "weight": 0.0, "id": 11848077, "level": 3}
+{"count": 1214, "name": "Spin ice", "weight": 0.0, "id": 25949731, "level": 3}
+{"count": 740, "name": "Promela", "weight": 0.0, "id": 2776329536, "level": 3}
+{"count": 434, "name": "Stern\u2013Gerlach experiment", "weight": 0.0, "id": 117175930, "level": 3}
+{"count": 267, "name": "Dynamic nuclear polarisation", "weight": 0.0, "id": 2781281848, "level": 3}
+{"count": 338, "name": "Spin\u2013charge separation", "weight": 0.0, "id": 2780118529, "level": 3}
+{"count": 602, "name": "Zitterbewegung", "weight": 0.0, "id": 2779577033, "level": 3}
+{"count": 534, "name": "Pauli matrices", "weight": 0.0, "id": 180347388, "level": 3}
+{"count": 3106, "name": "Kondo insulator", "weight": 0.0, "id": 72850747, "level": 3}
+{"count": 687, "name": "J-coupling", "weight": 0.0, "id": 140463767, "level": 3}
+{"count": 254, "name": "Einstein\u2013Cartan theory", "weight": 0.0, "id": 2776417906, "level": 3}
+{"count": 400, "name": "Spin connection", "weight": 0.0, "id": 2779728059, "level": 3}
+{"count": 203, "name": "Spin tensor", "weight": 0.0, "id": 2781166899, "level": 3}
+{"count": 529, "name": "Heusler compound", "weight": 0.0, "id": 2778087861, "level": 3}
+{"count": 755, "name": "Multiplicity (chemistry)", "weight": 0.0, "id": 82463264, "level": 3}
+{"count": 291, "name": "Pauli equation", "weight": 0.0, "id": 2780303587, "level": 3}
+{"count": 435, "name": "COMPASS experiment", "weight": 0.0, "id": 2777251814, "level": 3}
+{"count": 8647, "name": "Quantum spin Hall effect", "weight": 1.0, "id": 145727058, "level": 3}
+{"count": 632, "name": "Dynamical decoupling", "weight": 0.0, "id": 2778476455, "level": 3}
+{"count": 2239, "name": "Proton spin crisis", "weight": 0.0, "id": 150077920, "level": 3}
+{"count": 91, "name": "Newman\u2013Penrose formalism", "weight": 0.0, "id": 2780861578, "level": 3}
+{"count": 408, "name": "Spin contamination", "weight": 0.0, "id": 4244182, "level": 3}
+{"count": 598, "name": "Half-integer", "weight": 0.0, "id": 56863137, "level": 3}
+{"count": 139, "name": "Spin chemistry", "weight": 0.0, "id": 2780159067, "level": 3}
+{"count": 188, "name": "Spin (aerodynamics)", "weight": 0.0, "id": 42704618, "level": 3}
+{"count": 173, "name": "Wigner rotation", "weight": 0.0, "id": 2777898031, "level": 3}
+{"count": 50, "name": "Orbiton", "weight": 0.0, "id": 2776522838, "level": 3}
+{"count": 132, "name": "Zero field NMR", "weight": 0.0, "id": 2777349539, "level": 3}
+{"count": 185, "name": "Torsion field", "weight": 0.0, "id": 2778930494, "level": 3}
+{"count": 36, "name": "Mermin\u2013Wagner theorem", "weight": 0.0, "id": 2777948302, "level": 3}
+{"count": 535, "name": "Unrestricted Hartree\u2013Fock", "weight": 0.0, "id": 179204527, "level": 3}
+{"count": 170, "name": "Stoner criterion", "weight": 0.0, "id": 2780248845, "level": 3}
+{"count": 184, "name": "Geodetic effect", "weight": 0.0, "id": 81590668, "level": 3}
+{"count": 67, "name": "Redfield equation", "weight": 0.0, "id": 2776123138, "level": 3}
+{"count": 744, "name": "Gammasphere", "weight": 0.0, "id": 2777006617, "level": 3}
+{"count": 25, "name": "Elliptic gamma function", "weight": 0.0, "id": 2777216077, "level": 3}
+{"count": 86, "name": "Intrinsic parity", "weight": 0.0, "id": 2777211194, "level": 3}
+{"count": 34, "name": "GHP formalism", "weight": 0.0, "id": 2779825639, "level": 3}
+{"count": 225, "name": "Routhian", "weight": 0.0, "id": 184855987, "level": 3}
+{"count": 39, "name": "AKLT model", "weight": 0.0, "id": 2776850526, "level": 3}
+{"count": 9, "name": "Sokolov\u2013Ternov effect", "weight": 0.0, "id": 133748784, "level": 3}
+{"count": 38, "name": "Barnett effect", "weight": 0.0, "id": 68008528, "level": 3}
+{"count": 228, "name": "Spin welding", "weight": 0.0, "id": 2778302343, "level": 3}
+{"count": 26, "name": "Land\u00e9 interval rule", "weight": 0.0, "id": 2779984540, "level": 3}
+{"count": 84, "name": "Parity P", "weight": 0.0, "id": 2776001227, "level": 3}
+{"count": 105, "name": "Helicity basis", "weight": 0.0, "id": 2778385063, "level": 3}
+{"count": 78, "name": "Braid statistics", "weight": 0.0, "id": 2781042416, "level": 3}
+{"count": 3088, "name": "Yrast", "weight": 0.0, "id": 2778270267, "level": 3}
+{"count": 10, "name": "Total position spread", "weight": 0.0, "id": 2777349581, "level": 3}
+{"count": 48, "name": "Magnetic photon", "weight": 0.0, "id": 2776439294, "level": 3}
+{"count": 7, "name": "Mathisson\u2013Papapetrou\u2013Dixon equations", "weight": 0.0, "id": 2780601092, "level": 3}
+{"count": 20, "name": "Isotopes of ytterbium", "weight": 0.0, "id": 2778168430, "level": 3}
+{"count": 183, "name": "Hund's rule of maximum multiplicity", "weight": 0.0, "id": 110978292, "level": 3}

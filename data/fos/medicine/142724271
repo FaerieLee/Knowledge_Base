@@ -1,0 +1,200 @@
+{"count": 477273, "name": "Public health", "weight": 3.0, "id": 138816342, "level": 2}
+{"count": 321685, "name": "Epidemiology", "weight": 2.0, "id": 107130276, "level": 2}
+{"count": 439698, "name": "Chemotherapy", "weight": 3.0, "id": 2776694085, "level": 2}
+{"count": 344445, "name": "Occupational safety and health", "weight": 2.0, "id": 187155963, "level": 2}
+{"count": 324732, "name": "Injury prevention", "weight": 2.0, "id": 190385971, "level": 2}
+{"count": 69736, "name": "Central nervous system disease", "weight": 0.0, "id": 2779281540, "level": 2}
+{"count": 44155, "name": "Immunopathology", "weight": 0.0, "id": 2780648854, "level": 2}
+{"count": 123176, "name": "Respiratory disease", "weight": 0.0, "id": 2776178081, "level": 2}
+{"count": 242788, "name": "Magnetic resonance imaging", "weight": 1.0, "id": 143409427, "level": 2}
+{"count": 135006, "name": "Immunohistochemistry", "weight": 0.0, "id": 204232928, "level": 2}
+{"count": 215493, "name": "Pathogenesis", "weight": 1.0, "id": 2780942790, "level": 2}
+{"count": 186169, "name": "Clinical trial", "weight": 1.0, "id": 535046627, "level": 2}
+{"count": 281977, "name": "Randomized controlled trial", "weight": 2.0, "id": 168563851, "level": 2}
+{"count": 10599, "name": "Environmental factor", "weight": 0.0, "id": 2779237853, "level": 2}
+{"count": 134585, "name": "Cohort study", "weight": 0.0, "id": 201903717, "level": 2}
+{"count": 193631, "name": "Prospective cohort study", "weight": 1.0, "id": 188816634, "level": 2}
+{"count": 101295, "name": "Epithelium", "weight": 0.0, "id": 529295009, "level": 2}
+{"count": 324767, "name": "Lung", "weight": 2.0, "id": 2777714996, "level": 2}
+{"count": 414529, "name": "Carcinoma", "weight": 2.0, "id": 2777546739, "level": 2}
+{"count": 51195, "name": "Meta-analysis", "weight": 0.0, "id": 95190672, "level": 2}
+{"count": 55104, "name": "Case-control study", "weight": 0.0, "id": 146304588, "level": 2}
+{"count": 38350, "name": "Etiology", "weight": 0.0, "id": 137627325, "level": 2}
+{"count": 220330, "name": "Computed tomography", "weight": 1.0, "id": 544519230, "level": 2}
+{"count": 93313, "name": "Cross-sectional study", "weight": 0.0, "id": 142052008, "level": 2}
+{"count": 176350, "name": "Retrospective cohort study", "weight": 1.0, "id": 167135981, "level": 2}
+{"count": 180433, "name": "Rural area", "weight": 1.0, "id": 129047720, "level": 2}
+{"count": 231557, "name": "Tuberculosis", "weight": 1.0, "id": 2781069245, "level": 2}
+{"count": 92916, "name": "Microscopy", "weight": 0.0, "id": 147080431, "level": 2}
+{"count": 101283, "name": "Allergy", "weight": 0.0, "id": 207480886, "level": 2}
+{"count": 1407896, "name": "Disease", "weight": 10.0, "id": 2779134260, "level": 2}
+{"count": 50333, "name": "Positron emission tomography", "weight": 0.0, "id": 2775842073, "level": 2}
+{"count": 77032, "name": "Family planning", "weight": 0.0, "id": 2779076696, "level": 2}
+{"count": 109162, "name": "Malaria", "weight": 0.0, "id": 2778048844, "level": 2}
+{"count": 205295, "name": "Biopsy", "weight": 1.0, "id": 2775934546, "level": 2}
+{"count": 288571, "name": "Lesion", "weight": 2.0, "id": 2781156865, "level": 2}
+{"count": 148350, "name": "Vaccination", "weight": 1.0, "id": 22070199, "level": 2}
+{"count": 27564, "name": "Medical research", "weight": 0.0, "id": 106977388, "level": 2}
+{"count": 76355, "name": "Ultrastructure", "weight": 0.0, "id": 87555872, "level": 2}
+{"count": 31408, "name": "Histology", "weight": 0.0, "id": 57742111, "level": 2}
+{"count": 35705, "name": "Population density", "weight": 0.0, "id": 199733313, "level": 2}
+{"count": 61095, "name": "Cerebrospinal fluid", "weight": 0.0, "id": 2779651940, "level": 2}
+{"count": 87917, "name": "Multiple sclerosis", "weight": 0.0, "id": 2780640218, "level": 2}
+{"count": 69128, "name": "Longitudinal study", "weight": 0.0, "id": 2777895361, "level": 2}
+{"count": 137659, "name": "Mortality rate", "weight": 0.0, "id": 179755657, "level": 2}
+{"count": 98952, "name": "Ultrasonography", "weight": 0.0, "id": 529618451, "level": 2}
+{"count": 94304, "name": "Clinical research", "weight": 0.0, "id": 502991105, "level": 2}
+{"count": 96805, "name": "Serology", "weight": 0.0, "id": 45189115, "level": 2}
+{"count": 48444, "name": "Biomedical sciences", "weight": 0.0, "id": 502701156, "level": 2}
+{"count": 59190, "name": "Relative risk", "weight": 0.0, "id": 82789193, "level": 2}
+{"count": 94640, "name": "Hepatocellular carcinoma", "weight": 0.0, "id": 2778019345, "level": 2}
+{"count": 161466, "name": "Biomarker (medicine)", "weight": 1.0, "id": 7466232, "level": 2}
+{"count": 48045, "name": "Histopathology", "weight": 0.0, "id": 544855455, "level": 2}
+{"count": 125813, "name": "Odds ratio", "weight": 0.0, "id": 156957248, "level": 2}
+{"count": 17798, "name": "Immunocytochemistry", "weight": 0.0, "id": 35866371, "level": 2}
+{"count": 121435, "name": "Lymphoma", "weight": 0.0, "id": 2779338263, "level": 2}
+{"count": 19773, "name": "Mycosis", "weight": 0.0, "id": 2780908437, "level": 2}
+{"count": 70278, "name": "Prevalence", "weight": 0.0, "id": 186079640, "level": 2}
+{"count": 35515, "name": "Evidence-based medicine", "weight": 0.0, "id": 19648533, "level": 2}
+{"count": 70351, "name": "Soft tissue", "weight": 0.0, "id": 136948725, "level": 2}
+{"count": 39991, "name": "Hematology", "weight": 0.0, "id": 194409129, "level": 2}
+{"count": 113421, "name": "Melanoma", "weight": 0.0, "id": 2777658100, "level": 2}
+{"count": 33304, "name": "Gastrointestinal tract", "weight": 0.0, "id": 2780512811, "level": 2}
+{"count": 52069, "name": "Connective tissue", "weight": 0.0, "id": 518705261, "level": 2}
+{"count": 38097, "name": "White matter", "weight": 0.0, "id": 2781192897, "level": 2}
+{"count": 61558, "name": "Comorbidity", "weight": 0.0, "id": 2779159551, "level": 2}
+{"count": 30869, "name": "Behavior change", "weight": 0.0, "id": 14262774, "level": 2}
+{"count": 15776, "name": "Tropical medicine", "weight": 0.0, "id": 185032368, "level": 2}
+{"count": 4627, "name": "Predictive value of tests", "weight": 0.0, "id": 198433322, "level": 2}
+{"count": 104586, "name": "Observational study", "weight": 0.0, "id": 23131810, "level": 2}
+{"count": 46641, "name": "Cytology", "weight": 0.0, "id": 18823058, "level": 2}
+{"count": 28554, "name": "Respiratory tract", "weight": 0.0, "id": 2779644171, "level": 2}
+{"count": 52232, "name": "Neoplasm", "weight": 0.0, "id": 2780635560, "level": 2}
+{"count": 35280, "name": "Infant mortality", "weight": 0.0, "id": 112299071, "level": 2}
+{"count": 31943, "name": "Neuroimaging", "weight": 0.0, "id": 58693492, "level": 2}
+{"count": 21544, "name": "Human decontamination", "weight": 0.0, "id": 107211472, "level": 2}
+{"count": 101106, "name": "Outbreak", "weight": 0.0, "id": 116675565, "level": 2}
+{"count": 74275, "name": "Hazard ratio", "weight": 0.0, "id": 207103383, "level": 2}
+{"count": 7340, "name": "Functional imaging", "weight": 0.0, "id": 182752723, "level": 2}
+{"count": 40072, "name": "Life expectancy", "weight": 0.0, "id": 133925201, "level": 2}
+{"count": 29014, "name": "Thorax", "weight": 0.0, "id": 2777440523, "level": 2}
+{"count": 48701, "name": "Digestion", "weight": 0.0, "id": 16643866, "level": 2}
+{"count": 49967, "name": "Response rate (survey)", "weight": 0.0, "id": 2778289562, "level": 2}
+{"count": 10266, "name": "Parasitology", "weight": 0.0, "id": 190612196, "level": 2}
+{"count": 41278, "name": "Autopsy", "weight": 0.0, "id": 2779504383, "level": 2}
+{"count": 72704, "name": "Stromal cell", "weight": 0.0, "id": 16930146, "level": 2}
+{"count": 48858, "name": "Diagnostic test", "weight": 0.0, "id": 82157600, "level": 2}
+{"count": 39348, "name": "Adenoma", "weight": 0.0, "id": 2777428134, "level": 2}
+{"count": 9032, "name": "Molecular epidemiology", "weight": 0.0, "id": 97669555, "level": 2}
+{"count": 49569, "name": "Glioma", "weight": 0.0, "id": 2778227246, "level": 2}
+{"count": 42712, "name": "Incidence (epidemiology)", "weight": 0.0, "id": 44048612, "level": 2}
+{"count": 18457, "name": "Genitourinary system", "weight": 0.0, "id": 133507102, "level": 2}
+{"count": 20956, "name": "Basement membrane", "weight": 0.0, "id": 2776193487, "level": 2}
+{"count": 87290, "name": "Differential diagnosis", "weight": 0.0, "id": 2780801072, "level": 2}
+{"count": 40788, "name": "Nose", "weight": 0.0, "id": 2778311950, "level": 2}
+{"count": 127341, "name": "Placebo", "weight": 0.0, "id": 27081682, "level": 2}
+{"count": 15875, "name": "Per capita income", "weight": 0.0, "id": 160443848, "level": 2}
+{"count": 75229, "name": "Fixation (histology)", "weight": 0.0, "id": 98516739, "level": 2}
+{"count": 67643, "name": "Evidence-based practice", "weight": 0.0, "id": 141330323, "level": 2}
+{"count": 66933, "name": "Swelling", "weight": 0.0, "id": 2778540859, "level": 2}
+{"count": 2476, "name": "Dose\u2013response relationship", "weight": 0.0, "id": 79410662, "level": 2}
+{"count": 47386, "name": "Multiple myeloma", "weight": 0.0, "id": 2776364478, "level": 2}
+{"count": 11965, "name": "Helminthiasis", "weight": 0.0, "id": 2779726973, "level": 2}
+{"count": 52491, "name": "Food safety", "weight": 0.0, "id": 516717267, "level": 2}
+{"count": 55694, "name": "Meningitis", "weight": 0.0, "id": 2781026528, "level": 2}
+{"count": 65649, "name": "Sarcoma", "weight": 0.0, "id": 2778256501, "level": 2}
+{"count": 33361, "name": "Smoking cessation", "weight": 0.0, "id": 2777843972, "level": 2}
+{"count": 35663, "name": "Physical fitness", "weight": 0.0, "id": 171687745, "level": 2}
+{"count": 62960, "name": "Lymphatic system", "weight": 0.0, "id": 181152851, "level": 2}
+{"count": 63537, "name": "Hygiene", "weight": 0.0, "id": 547646559, "level": 2}
+{"count": 11634, "name": "Nicotiana tabacum", "weight": 0.0, "id": 2781205006, "level": 2}
+{"count": 26475, "name": "Salivary gland", "weight": 0.0, "id": 2778937882, "level": 2}
+{"count": 65993, "name": "Hyperplasia", "weight": 0.0, "id": 2777562237, "level": 2}
+{"count": 71706, "name": "Cyst", "weight": 0.0, "id": 2780597408, "level": 2}
+{"count": 56938, "name": "Psoriasis", "weight": 0.0, "id": 2780564577, "level": 2}
+{"count": 26211, "name": "Brain tumor", "weight": 0.0, "id": 2779130545, "level": 2}
+{"count": 120150, "name": "Asymptomatic", "weight": 0.0, "id": 2777910003, "level": 2}
+{"count": 7357, "name": "Health effect", "weight": 0.0, "id": 2777617796, "level": 2}
+{"count": 79201, "name": "Physical examination", "weight": 0.0, "id": 527108885, "level": 2}
+{"count": 64605, "name": "Atrophy", "weight": 0.0, "id": 2781172350, "level": 2}
+{"count": 32661, "name": "Scintigraphy", "weight": 0.0, "id": 2779902710, "level": 2}
+{"count": 22616, "name": "Neuroblastoma", "weight": 0.0, "id": 2776715637, "level": 2}
+{"count": 47233, "name": "Reproductive health", "weight": 0.0, "id": 121752807, "level": 2}
+{"count": 51880, "name": "HIV/AIDS", "weight": 0.0, "id": 2781455916, "level": 2}
+{"count": 11809, "name": "Bacteriology", "weight": 0.0, "id": 53162352, "level": 2}
+{"count": 19680, "name": "Digital elevation model", "weight": 0.0, "id": 181843262, "level": 2}
+{"count": 28932, "name": "Dengue fever", "weight": 0.0, "id": 533803919, "level": 2}
+{"count": 21349, "name": "Methylene blue", "weight": 0.0, "id": 2779191827, "level": 2}
+{"count": 25109, "name": "Glioblastoma", "weight": 0.0, "id": 2776194525, "level": 2}
+{"count": 11297, "name": "Retinoblastoma", "weight": 0.0, "id": 2776577112, "level": 2}
+{"count": 18962, "name": "Leishmaniasis", "weight": 0.0, "id": 2776555147, "level": 2}
+{"count": 38798, "name": "Calcification", "weight": 0.0, "id": 2780309369, "level": 2}
+{"count": 23463, "name": "Genetic testing", "weight": 0.0, "id": 2780673598, "level": 2}
+{"count": 7473, "name": "Inoculation", "weight": 0.0, "id": 180032290, "level": 2}
+{"count": 12361, "name": "Child mortality", "weight": 0.0, "id": 46299933, "level": 2}
+{"count": 10114, "name": "Selection bias", "weight": 0.0, "id": 40423286, "level": 2}
+{"count": 11767, "name": "Peritoneum", "weight": 0.0, "id": 2776001837, "level": 2}
+{"count": 40090, "name": "Breastfeeding", "weight": 0.0, "id": 2776283161, "level": 2}
+{"count": 22992, "name": "Economic evaluation", "weight": 0.0, "id": 2776125615, "level": 2}
+{"count": 30690, "name": "Larynx", "weight": 0.0, "id": 2780474809, "level": 2}
+{"count": 28860, "name": "Infection control", "weight": 0.0, "id": 166888038, "level": 2}
+{"count": 44240, "name": "Population study", "weight": 0.0, "id": 61470247, "level": 2}
+{"count": 44810, "name": "Syphilis", "weight": 0.0, "id": 2776983459, "level": 2}
+{"count": 50142, "name": "Skull", "weight": 0.0, "id": 2779300802, "level": 2}
+{"count": 16653, "name": "Sports medicine", "weight": 0.0, "id": 43893838, "level": 2}
+{"count": 84263, "name": "Census", "weight": 0.0, "id": 52130261, "level": 2}
+{"count": 15539, "name": "Corpus callosum", "weight": 0.0, "id": 2778183499, "level": 2}
+{"count": 38591, "name": "Sanitation", "weight": 0.0, "id": 2780151969, "level": 2}
+{"count": 48690, "name": "Dysplasia", "weight": 0.0, "id": 2775894508, "level": 2}
+{"count": 14325, "name": "Phases of clinical research", "weight": 0.0, "id": 31760486, "level": 2}
+{"count": 11857, "name": "Trypanosomiasis", "weight": 0.0, "id": 2778143080, "level": 2}
+{"count": 20087, "name": "Osteosarcoma", "weight": 0.0, "id": 2777760704, "level": 2}
+{"count": 45268, "name": "Tendon", "weight": 0.0, "id": 2780105995, "level": 2}
+{"count": 15208, "name": "Trypanosoma cruzi", "weight": 0.0, "id": 2777625466, "level": 2}
+{"count": 15594, "name": "Aspergillosis", "weight": 0.0, "id": 2776391196, "level": 2}
+{"count": 15602, "name": "Propensity score matching", "weight": 0.0, "id": 17923572, "level": 2}
+{"count": 4305, "name": "Mycology", "weight": 0.0, "id": 126116589, "level": 2}
+{"count": 15410, "name": "Food quality", "weight": 0.0, "id": 51592225, "level": 2}
+{"count": 49777, "name": "Abscess", "weight": 0.0, "id": 2777035434, "level": 2}
+{"count": 12670, "name": "Pharynx", "weight": 0.0, "id": 2776752453, "level": 2}
+{"count": 26369, "name": "Bronchitis", "weight": 0.0, "id": 2779993553, "level": 2}
+{"count": 15716, "name": "Cost-effectiveness analysis", "weight": 0.0, "id": 515549039, "level": 2}
+{"count": 20251, "name": "Organ transplantation", "weight": 0.0, "id": 168444539, "level": 2}
+{"count": 40798, "name": "Systematic review", "weight": 0.0, "id": 189708586, "level": 2}
+{"count": 10387, "name": "Lyme disease", "weight": 0.0, "id": 2777553296, "level": 2}
+{"count": 52947, "name": "Tongue", "weight": 0.0, "id": 2779744641, "level": 2}
+{"count": 21375, "name": "Confounding", "weight": 0.0, "id": 77350462, "level": 2}
+{"count": 15143, "name": "Preventive healthcare", "weight": 0.0, "id": 52207206, "level": 2}
+{"count": 22852, "name": "Granuloma", "weight": 0.0, "id": 2780140890, "level": 2}
+{"count": 61305, "name": "Flavor", "weight": 0.0, "id": 2780719635, "level": 2}
+{"count": 70690, "name": "Microscope", "weight": 0.0, "id": 67649825, "level": 2}
+{"count": 9794, "name": "Survey sampling", "weight": 0.0, "id": 5733905, "level": 2}
+{"count": 5539, "name": "Nosology", "weight": 0.0, "id": 72852651, "level": 2}
+{"count": 8219, "name": "Cytopathology", "weight": 0.0, "id": 2778654104, "level": 2}
+{"count": 20515, "name": "Toxoplasmosis", "weight": 0.0, "id": 2778062946, "level": 2}
+{"count": 25214, "name": "Survey methodology", "weight": 0.0, "id": 73945780, "level": 2}
+{"count": 8033, "name": "Occupational disease", "weight": 0.0, "id": 2780638295, "level": 2}
+{"count": 7457, "name": "Preoperative care", "weight": 0.0, "id": 2777722626, "level": 2}
+{"count": 27269, "name": "Leprosy", "weight": 0.0, "id": 2780695269, "level": 2}
+{"count": 20930, "name": "Typhoid fever", "weight": 0.0, "id": 520601542, "level": 2}
+{"count": 44163, "name": "First language", "weight": 0.0, "id": 171041071, "level": 2}
+{"count": 18289, "name": "Cholera", "weight": 0.0, "id": 2780722889, "level": 2}
+{"count": 18091, "name": "Asbestos", "weight": 0.0, "id": 510490043, "level": 2}
+{"count": 12608, "name": "Chagas disease", "weight": 0.0, "id": 112418997, "level": 2}
+{"count": 7210, "name": "Surrogate endpoint", "weight": 0.0, "id": 141341695, "level": 2}
+{"count": 729, "name": "Polarite", "weight": 0.0, "id": 2777957957, "level": 2}
+{"count": 35219, "name": "Forearm", "weight": 0.0, "id": 2780214079, "level": 2}
+{"count": 27500, "name": "Hydrocephalus", "weight": 0.0, "id": 2778134817, "level": 2}
+{"count": 11517, "name": "Stratum corneum", "weight": 0.0, "id": 2778370115, "level": 2}
+{"count": 29900, "name": "Parenchyma", "weight": 0.0, "id": 196822366, "level": 2}
+{"count": 16770, "name": "Parotid gland", "weight": 0.0, "id": 2780395140, "level": 2}
+{"count": 9392, "name": "Mucous membrane", "weight": 0.0, "id": 2779890267, "level": 2}
+{"count": 27325, "name": "Sarcoidosis", "weight": 0.0, "id": 2781301800, "level": 2}
+{"count": 16746, "name": "Cortical bone", "weight": 0.0, "id": 2781451080, "level": 2}
+{"count": 22139, "name": "Eosinophilia", "weight": 0.0, "id": 2777129736, "level": 2}
+{"count": 19864, "name": "Bronchoscopy", "weight": 0.0, "id": 2778996910, "level": 2}
+{"count": 24651, "name": "Mastitis", "weight": 0.0, "id": 2776344049, "level": 2}
+{"count": 18143, "name": "Meningioma", "weight": 0.0, "id": 2779160599, "level": 2}
+{"count": 23064, "name": "Pleural effusion", "weight": 0.0, "id": 2779634585, "level": 2}
+{"count": 24402, "name": "Poliomyelitis", "weight": 0.0, "id": 4870876, "level": 2}
+{"count": 7590, "name": "Genetic disorder", "weight": 0.0, "id": 2778908642, "level": 2}

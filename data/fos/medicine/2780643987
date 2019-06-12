@@ -1,0 +1,11 @@
+{"count": 11893, "name": "Magnetic resonance angiography", "weight": 10.0, "id": 2778212899, "level": 3}
+{"count": 9892, "name": "Indocyanine green", "weight": 8.0, "id": 2781065829, "level": 3}
+{"count": 10532, "name": "Digital subtraction angiography", "weight": 8.0, "id": 2778286760, "level": 3}
+{"count": 7737, "name": "Cerebral angiography", "weight": 6.0, "id": 2778749279, "level": 3}
+{"count": 7904, "name": "Computed tomography angiography", "weight": 6.0, "id": 2781347138, "level": 3}
+{"count": 2593, "name": "Maximum intensity projection", "weight": 2.0, "id": 110021049, "level": 3}
+{"count": 3502, "name": "Pulmonary angiography", "weight": 2.0, "id": 2780149156, "level": 3}
+{"count": 1168, "name": "Rotational angiography", "weight": 0.0, "id": 55138121, "level": 3}
+{"count": 513, "name": "Bolus tracking", "weight": 0.0, "id": 2779916577, "level": 3}
+{"count": 248, "name": "Artery of Adamkiewicz", "weight": 0.0, "id": 2781233906, "level": 3}
+{"count": 1314, "name": "Dural arteriovenous fistulas", "weight": 1.0, "id": 2779169418, "level": 3}

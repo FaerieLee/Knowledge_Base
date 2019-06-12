@@ -1,0 +1,8 @@
+{"count": 56, "name": "Smart card security", "weight": 0.0, "id": 2781387002, "level": 3}
+{"count": 2889, "name": "Contactless smart card", "weight": 6.0, "id": 66569333, "level": 3}
+{"count": 4190, "name": "Smart card application protocol data unit", "weight": 10.0, "id": 151340760, "level": 3}
+{"count": 234, "name": "CPU card", "weight": 0.0, "id": 2781169092, "level": 3}
+{"count": 40, "name": "FIPS 201", "weight": 0.0, "id": 2776136185, "level": 3}
+{"count": 27, "name": "PC/SC", "weight": 0.0, "id": 70869662, "level": 3}
+{"count": 264, "name": "Magnetic stripe card", "weight": 0.0, "id": 2781256545, "level": 3}
+{"count": 44, "name": "Secure access module", "weight": 0.0, "id": 2776401910, "level": 3}

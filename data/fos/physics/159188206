@@ -1,0 +1,10 @@
+{"count": 18804, "name": "Critical heat flux", "weight": 10.0, "id": 167131557, "level": 4}
+{"count": 15915, "name": "Nucleate boiling", "weight": 8.0, "id": 197194406, "level": 4}
+{"count": 1619, "name": "Bowen ratio", "weight": 0.0, "id": 112889943, "level": 4}
+{"count": 623, "name": "Heat flux sensor", "weight": 0.0, "id": 2780464722, "level": 4}
+{"count": 922, "name": "Rate of heat flow", "weight": 0.0, "id": 58703956, "level": 4}
+{"count": 989, "name": "Fourier number", "weight": 0.0, "id": 72948385, "level": 4}
+{"count": 442, "name": "Intensity (heat transfer)", "weight": 0.0, "id": 69952018, "level": 4}
+{"count": 73, "name": "Perfect thermal contact", "weight": 0.0, "id": 2776303600, "level": 4}
+{"count": 15, "name": "Gardon gauge", "weight": 0.0, "id": 2777297704, "level": 4}
+{"count": 2372, "name": "Relativistic heat conduction", "weight": 1.0, "id": 43818450, "level": 4}

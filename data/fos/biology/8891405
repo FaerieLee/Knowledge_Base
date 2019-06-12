@@ -1,0 +1,155 @@
+{"count": 124779, "name": "Immunity", "weight": 10.0, "id": 2779341262, "level": 3}
+{"count": 84364, "name": "Immunotherapy", "weight": 6.0, "id": 2777701055, "level": 3}
+{"count": 66939, "name": "Innate immune system", "weight": 5.0, "id": 136449434, "level": 3}
+{"count": 27734, "name": "Interferon gamma", "weight": 2.0, "id": 2780841837, "level": 3}
+{"count": 35328, "name": "Dendritic cell", "weight": 2.0, "id": 2778170410, "level": 3}
+{"count": 51020, "name": "Major histocompatibility complex", "weight": 4.0, "id": 207936829, "level": 3}
+{"count": 36263, "name": "Autoimmunity", "weight": 2.0, "id": 2780130043, "level": 3}
+{"count": 35165, "name": "Antigen-presenting cell", "weight": 2.0, "id": 67662055, "level": 3}
+{"count": 17191, "name": "Humoral immunity", "weight": 1.0, "id": 2776548049, "level": 3}
+{"count": 20178, "name": "Antigen presentation", "weight": 1.0, "id": 83464605, "level": 3}
+{"count": 13963, "name": "Lymphokine", "weight": 1.0, "id": 49382859, "level": 3}
+{"count": 20533, "name": "Natural killer cell", "weight": 1.0, "id": 2778102761, "level": 3}
+{"count": 34990, "name": "Immunogenicity", "weight": 2.0, "id": 2780868878, "level": 3}
+{"count": 32230, "name": "Acquired immune system", "weight": 2.0, "id": 193419808, "level": 3}
+{"count": 15795, "name": "Immune tolerance", "weight": 1.0, "id": 2777702733, "level": 3}
+{"count": 17989, "name": "Toll-like receptor", "weight": 1.0, "id": 2776709828, "level": 3}
+{"count": 9839, "name": "Immunoglobulin A", "weight": 0.0, "id": 2779102806, "level": 3}
+{"count": 11689, "name": "Immune complex", "weight": 0.0, "id": 2778474638, "level": 3}
+{"count": 53561, "name": "Adjuvant", "weight": 4.0, "id": 2777863537, "level": 3}
+{"count": 13308, "name": "Adoptive cell transfer", "weight": 1.0, "id": 90375314, "level": 3}
+{"count": 9084, "name": "Experimental autoimmune encephalomyelitis", "weight": 0.0, "id": 2778486448, "level": 3}
+{"count": 4607, "name": "Antigenic variation", "weight": 0.0, "id": 191942190, "level": 3}
+{"count": 5045, "name": "T helper cell", "weight": 0.0, "id": 2781136212, "level": 3}
+{"count": 4306, "name": "Immunocompetence", "weight": 0.0, "id": 2777422395, "level": 3}
+{"count": 732, "name": "Reproductive immunology", "weight": 0.0, "id": 2781245343, "level": 3}
+{"count": 21393, "name": "Tumor microenvironment", "weight": 1.0, "id": 2776107976, "level": 3}
+{"count": 5121, "name": "Superantigen", "weight": 0.0, "id": 36333154, "level": 3}
+{"count": 3142, "name": "Molecular mimicry", "weight": 0.0, "id": 2777119779, "level": 3}
+{"count": 3763, "name": "Mixed lymphocyte reaction", "weight": 0.0, "id": 2778740727, "level": 3}
+{"count": 3290, "name": "Immunostimulant", "weight": 0.0, "id": 2781264782, "level": 3}
+{"count": 8954, "name": "Splenocyte", "weight": 0.0, "id": 189976730, "level": 3}
+{"count": 1132, "name": "Clonal selection", "weight": 0.0, "id": 2776954793, "level": 3}
+{"count": 4445, "name": "Perforin", "weight": 0.0, "id": 2776062744, "level": 3}
+{"count": 50825, "name": "CD8", "weight": 4.0, "id": 167672396, "level": 3}
+{"count": 1451, "name": "Psychoneuroimmunology", "weight": 0.0, "id": 38042653, "level": 3}
+{"count": 5039, "name": "Complement receptor", "weight": 0.0, "id": 175773311, "level": 3}
+{"count": 2690, "name": "Antibody opsonization", "weight": 0.0, "id": 168507396, "level": 3}
+{"count": 1868, "name": "Keyhole limpet hemocyanin", "weight": 0.0, "id": 2776727803, "level": 3}
+{"count": 1955, "name": "Immune reconstitution inflammatory syndrome", "weight": 0.0, "id": 2779778235, "level": 3}
+{"count": 3675, "name": "CTLA-4", "weight": 0.0, "id": 21705690, "level": 3}
+{"count": 4764, "name": "Classical complement pathway", "weight": 0.0, "id": 171279029, "level": 3}
+{"count": 2672, "name": "Granzyme", "weight": 0.0, "id": 183193105, "level": 3}
+{"count": 1579, "name": "Neuroimmunology", "weight": 0.0, "id": 201934248, "level": 3}
+{"count": 927, "name": "Gut-associated lymphoid tissue", "weight": 0.0, "id": 2779088137, "level": 3}
+{"count": 1833, "name": "Plasmodium yoelii", "weight": 0.0, "id": 2776486806, "level": 3}
+{"count": 5275, "name": "ELISPOT", "weight": 0.0, "id": 2779053233, "level": 3}
+{"count": 1781, "name": "Immunosurveillance", "weight": 0.0, "id": 2776885095, "level": 3}
+{"count": 964, "name": "Plasmodium chabaudi", "weight": 0.0, "id": 2780789526, "level": 3}
+{"count": 4848, "name": "Myeloid-derived Suppressor Cell", "weight": 0.0, "id": 55721878, "level": 3}
+{"count": 2669, "name": "Bursa of Fabricius", "weight": 0.0, "id": 196978929, "level": 3}
+{"count": 33696, "name": "IL-2 receptor", "weight": 2.0, "id": 79484868, "level": 3}
+{"count": 3540, "name": "Granzyme B", "weight": 0.0, "id": 2780380082, "level": 3}
+{"count": 2574, "name": "Indoleamine 2,3-dioxygenase", "weight": 0.0, "id": 83478079, "level": 3}
+{"count": 2173, "name": "Immunosenescence", "weight": 0.0, "id": 2779056147, "level": 3}
+{"count": 4705, "name": "PD-L1", "weight": 0.0, "id": 2781053074, "level": 3}
+{"count": 3104, "name": "Intraepithelial lymphocyte", "weight": 0.0, "id": 152605822, "level": 3}
+{"count": 2136, "name": "HLA-G", "weight": 0.0, "id": 2780027760, "level": 3}
+{"count": 2259, "name": "Interleukin 22", "weight": 0.0, "id": 50345908, "level": 3}
+{"count": 834, "name": "Peyer's patch", "weight": 0.0, "id": 2778019737, "level": 3}
+{"count": 1607, "name": "Hygiene hypothesis", "weight": 0.0, "id": 78635009, "level": 3}
+{"count": 1650, "name": "Thymic stromal lymphopoietin", "weight": 0.0, "id": 2778070265, "level": 3}
+{"count": 1384, "name": "Nippostrongylus brasiliensis", "weight": 0.0, "id": 2775952312, "level": 3}
+{"count": 1465, "name": "Microfold cell", "weight": 0.0, "id": 43667030, "level": 3}
+{"count": 3030, "name": "Pokeweed mitogen", "weight": 0.0, "id": 2781005381, "level": 3}
+{"count": 4293, "name": "Transplant rejection", "weight": 0.0, "id": 2780179540, "level": 3}
+{"count": 1366, "name": "Immune privilege", "weight": 0.0, "id": 2781185574, "level": 3}
+{"count": 872, "name": "Sickness behavior", "weight": 0.0, "id": 138906646, "level": 3}
+{"count": 1014, "name": "Immunotoxicology", "weight": 0.0, "id": 159674089, "level": 3}
+{"count": 1070, "name": "Prophenoloxidase", "weight": 0.0, "id": 2781271842, "level": 3}
+{"count": 637, "name": "Heligmosomoides polygyrus", "weight": 0.0, "id": 2778885919, "level": 3}
+{"count": 222, "name": "Lactate dehydrogenase elevating virus", "weight": 0.0, "id": 2779531368, "level": 3}
+{"count": 682, "name": "Arthus reaction", "weight": 0.0, "id": 2779142470, "level": 3}
+{"count": 2349, "name": "Immune dysregulation", "weight": 0.0, "id": 2780194698, "level": 3}
+{"count": 3170, "name": "Inactivated vaccine", "weight": 0.0, "id": 2776872762, "level": 3}
+{"count": 1007, "name": "Gut\u2013brain axis", "weight": 0.0, "id": 177857423, "level": 3}
+{"count": 3415, "name": "HIV vaccine", "weight": 0.0, "id": 2780195530, "level": 3}
+{"count": 958, "name": "Effector cell", "weight": 0.0, "id": 2778241769, "level": 3}
+{"count": 380, "name": "Immunoproteomics", "weight": 0.0, "id": 2779369144, "level": 3}
+{"count": 396, "name": "Trichuris muris", "weight": 0.0, "id": 2779190066, "level": 3}
+{"count": 482, "name": "Osteoimmunology", "weight": 0.0, "id": 26374806, "level": 3}
+{"count": 401, "name": "Interleukin 27", "weight": 0.0, "id": 2776237456, "level": 3}
+{"count": 935, "name": "Eltrombopag", "weight": 0.0, "id": 2780588981, "level": 3}
+{"count": 7326, "name": "Immunogen", "weight": 0.0, "id": 2779909307, "level": 3}
+{"count": 44, "name": "Nasal-associated lymphoid tissue", "weight": 0.0, "id": 2777872020, "level": 3}
+{"count": 890, "name": "Thymic involution", "weight": 0.0, "id": 2777314012, "level": 3}
+{"count": 837, "name": "Central tolerance", "weight": 0.0, "id": 2778830056, "level": 3}
+{"count": 876, "name": "Cytokine storm", "weight": 0.0, "id": 2779559532, "level": 3}
+{"count": 114, "name": "4-1BB ligand", "weight": 0.0, "id": 2777488449, "level": 3}
+{"count": 856, "name": "CD137", "weight": 0.0, "id": 2780249625, "level": 3}
+{"count": 214, "name": "Carboxyfluorescein succinimidyl ester", "weight": 0.0, "id": 2777570947, "level": 3}
+{"count": 728, "name": "Alloimmunity", "weight": 0.0, "id": 2778324207, "level": 3}
+{"count": 358, "name": "Conglutinin", "weight": 0.0, "id": 2778213927, "level": 3}
+{"count": 992, "name": "Naive T cell", "weight": 0.0, "id": 2775982045, "level": 3}
+{"count": 411, "name": "Pidotimod", "weight": 0.0, "id": 2779582518, "level": 3}
+{"count": 754, "name": "Immune adherence", "weight": 0.0, "id": 2778212101, "level": 3}
+{"count": 126, "name": "Computational immunology", "weight": 0.0, "id": 191123037, "level": 3}
+{"count": 3840, "name": "Immune receptor", "weight": 0.0, "id": 103474210, "level": 3}
+{"count": 252, "name": "Trogocytosis", "weight": 0.0, "id": 97611707, "level": 3}
+{"count": 424, "name": "BTLA", "weight": 0.0, "id": 2780237676, "level": 3}
+{"count": 541, "name": "Lymphoproliferative response", "weight": 0.0, "id": 2776969849, "level": 3}
+{"count": 308, "name": "Imidazoquinoline", "weight": 0.0, "id": 2778572178, "level": 3}
+{"count": 592, "name": "Immune disorder", "weight": 0.0, "id": 2780732581, "level": 3}
+{"count": 88, "name": "Ecoimmunology", "weight": 0.0, "id": 511047542, "level": 3}
+{"count": 1229, "name": "Humanized mouse", "weight": 0.0, "id": 2776156784, "level": 3}
+{"count": 217, "name": "Interleukin 35", "weight": 0.0, "id": 2780376277, "level": 3}
+{"count": 82, "name": "Immunome", "weight": 0.0, "id": 2777351027, "level": 3}
+{"count": 186, "name": "Systems immunology", "weight": 0.0, "id": 21411121, "level": 3}
+{"count": 151, "name": "Poly ICLC", "weight": 0.0, "id": 2780012679, "level": 3}
+{"count": 227, "name": "Skin immunity", "weight": 0.0, "id": 2778316738, "level": 3}
+{"count": 364, "name": "EBI3", "weight": 0.0, "id": 2779233158, "level": 3}
+{"count": 387, "name": "LAG3", "weight": 0.0, "id": 2781387679, "level": 3}
+{"count": 234, "name": "T-cell receptor excision circles", "weight": 0.0, "id": 2776574207, "level": 3}
+{"count": 33, "name": "Virokine", "weight": 0.0, "id": 2781109070, "level": 3}
+{"count": 311, "name": "LcrV", "weight": 0.0, "id": 2777951791, "level": 3}
+{"count": 335, "name": "TIGIT", "weight": 0.0, "id": 2779118045, "level": 3}
+{"count": 13, "name": "Synthetic immunology", "weight": 0.0, "id": 2776242342, "level": 3}
+{"count": 58, "name": "Long-term nonprogressor", "weight": 0.0, "id": 2781040038, "level": 3}
+{"count": 96, "name": "Danger model", "weight": 0.0, "id": 2779127400, "level": 3}
+{"count": 337, "name": "TBX21", "weight": 0.0, "id": 2779151555, "level": 3}
+{"count": 169, "name": "Signaling lymphocytic activation molecule", "weight": 0.0, "id": 2778350374, "level": 3}
+{"count": 182, "name": "T helper 17 cell", "weight": 0.0, "id": 2778321426, "level": 3}
+{"count": 167, "name": "Inflammatory reflex", "weight": 0.0, "id": 2776825857, "level": 3}
+{"count": 80, "name": "Colostrinin", "weight": 0.0, "id": 2775831422, "level": 3}
+{"count": 368, "name": "Canarypox", "weight": 0.0, "id": 2777516842, "level": 3}
+{"count": 283, "name": "T cell deficiency", "weight": 0.0, "id": 2778421964, "level": 3}
+{"count": 400, "name": "CD8A", "weight": 0.0, "id": 2777766604, "level": 3}
+{"count": 63, "name": "Altered Schaedler flora", "weight": 0.0, "id": 2777149338, "level": 3}
+{"count": 267, "name": "Adenovirus vaccine", "weight": 0.0, "id": 2775943909, "level": 3}
+{"count": 126, "name": "Active hexose correlated compound", "weight": 0.0, "id": 2776434155, "level": 3}
+{"count": 90, "name": "Complement component 4", "weight": 0.0, "id": 2778250272, "level": 3}
+{"count": 107, "name": "Immune network theory", "weight": 0.0, "id": 2776680498, "level": 3}
+{"count": 128, "name": "Regulatory macrophages", "weight": 0.0, "id": 2777349060, "level": 3}
+{"count": 130, "name": "Neuroimmune system", "weight": 0.0, "id": 2778476413, "level": 3}
+{"count": 98, "name": "Heterologous vaccine", "weight": 0.0, "id": 2778925809, "level": 3}
+{"count": 130, "name": "Signal-regulatory protein alpha", "weight": 0.0, "id": 2777373511, "level": 3}
+{"count": 51, "name": "TNFRSF18", "weight": 0.0, "id": 2778493092, "level": 3}
+{"count": 21, "name": "Ghon focus", "weight": 0.0, "id": 2778216746, "level": 3}
+{"count": 20, "name": "Big-belly seahorse", "weight": 0.0, "id": 2778108289, "level": 3}
+{"count": 79, "name": "Avian immune system", "weight": 0.0, "id": 2777366921, "level": 3}
+{"count": 26, "name": "Type II hypersensitivity", "weight": 0.0, "id": 2779428516, "level": 3}
+{"count": 76, "name": "Humoral immune deficiency", "weight": 0.0, "id": 2780038583, "level": 3}
+{"count": 35, "name": "Pneumocystis murina", "weight": 0.0, "id": 2778162935, "level": 3}
+{"count": 107, "name": "Immunologic activation", "weight": 0.0, "id": 2780160987, "level": 3}
+{"count": 48, "name": "Reactive lymphocyte", "weight": 0.0, "id": 2779127350, "level": 3}
+{"count": 18, "name": "CD300C", "weight": 0.0, "id": 2781348068, "level": 3}
+{"count": 21, "name": "CD278", "weight": 0.0, "id": 2779060893, "level": 3}
+{"count": 26, "name": "Immunophysics", "weight": 0.0, "id": 93268334, "level": 3}
+{"count": 36, "name": "LILRB4", "weight": 0.0, "id": 2775935632, "level": 3}
+{"count": 27, "name": "Sentinel cell", "weight": 0.0, "id": 2779459061, "level": 3}
+{"count": 103, "name": "Total complement activity", "weight": 0.0, "id": 2779407090, "level": 3}
+{"count": 52, "name": "Interleukin-7 receptor-\u03b1", "weight": 0.0, "id": 2781157170, "level": 3}
+{"count": 8, "name": "Ocular immune system", "weight": 0.0, "id": 2778466876, "level": 3}
+{"count": 17, "name": "Varlilumab", "weight": 0.0, "id": 2777591794, "level": 3}
+{"count": 16, "name": "International Reviews of Immunology", "weight": 0.0, "id": 2780603059, "level": 3}
+{"count": 9, "name": "Experiments in immunology", "weight": 0.0, "id": 2779702527, "level": 3}

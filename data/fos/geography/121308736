@@ -1,0 +1,30 @@
+{"count": 346, "name": "Demand Assigned Multiple Access", "weight": 2.0, "id": 120417211, "level": 4}
+{"count": 413, "name": "Very-small-aperture terminal", "weight": 3.0, "id": 2779818550, "level": 4}
+{"count": 1070, "name": "Quasi-Zenith Satellite System", "weight": 8.0, "id": 68477667, "level": 4}
+{"count": 515, "name": "Site diversity", "weight": 4.0, "id": 2778067478, "level": 4}
+{"count": 1270, "name": "Transponder (satellite communications)", "weight": 10.0, "id": 196744537, "level": 4}
+{"count": 102, "name": "Mobile User Objective System", "weight": 0.0, "id": 2776974434, "level": 4}
+{"count": 802, "name": "Space segment", "weight": 6.0, "id": 2780097956, "level": 4}
+{"count": 904, "name": "Satellite dish", "weight": 7.0, "id": 79290922, "level": 4}
+{"count": 331, "name": "Rain fade", "weight": 2.0, "id": 2779509579, "level": 4}
+{"count": 643, "name": "Spot beam", "weight": 5.0, "id": 2778849385, "level": 4}
+{"count": 255, "name": "Fixed satellite service", "weight": 2.0, "id": 3839877, "level": 4}
+{"count": 875, "name": "Satellite Internet access", "weight": 6.0, "id": 163916292, "level": 4}
+{"count": 999, "name": "Global Broadcast Service", "weight": 7.0, "id": 127400637, "level": 4}
+{"count": 430, "name": "Demand assignment", "weight": 3.0, "id": 2779215832, "level": 4}
+{"count": 131, "name": "Satellite phone", "weight": 1.0, "id": 2781332785, "level": 4}
+{"count": 216, "name": "Single channel per carrier", "weight": 1.0, "id": 136055378, "level": 4}
+{"count": 132, "name": "Milstar", "weight": 1.0, "id": 72193611, "level": 4}
+{"count": 157, "name": "Inmarsat-C", "weight": 1.0, "id": 86046910, "level": 4}
+{"count": 133, "name": "High-throughput satellite", "weight": 1.0, "id": 2777918630, "level": 4}
+{"count": 149, "name": "Satellite modem", "weight": 1.0, "id": 2776294997, "level": 4}
+{"count": 210, "name": "Defense Satellite Communications System", "weight": 1.0, "id": 139213188, "level": 4}
+{"count": 384, "name": "European Data Relay System", "weight": 3.0, "id": 90224444, "level": 4}
+{"count": 37, "name": "Spaceway", "weight": 0.0, "id": 2781175074, "level": 4}
+{"count": 36, "name": "Aeronautical Operational Control", "weight": 0.0, "id": 134358085, "level": 4}
+{"count": 14, "name": "Satellite router", "weight": 0.0, "id": 2779213534, "level": 4}
+{"count": 26, "name": "ITU Radio Regulations", "weight": 0.0, "id": 2778358896, "level": 4}
+{"count": 25, "name": "Sun transit time", "weight": 0.0, "id": 148412406, "level": 4}
+{"count": 39, "name": "Internet Routing in Space", "weight": 0.0, "id": 19935590, "level": 4}
+{"count": 10, "name": "Sun outage", "weight": 0.0, "id": 2776495664, "level": 4}
+{"count": 69, "name": "Universal Satellites Automatic Location System", "weight": 0.0, "id": 117892258, "level": 4}

@@ -1,0 +1,8 @@
+{"count": 3356, "name": "PC Card", "weight": 8.0, "id": 68160299, "level": 3}
+{"count": 633, "name": "Thunderbolt", "weight": 1.0, "id": 51047818, "level": 3}
+{"count": 3034, "name": "Host controller interface", "weight": 7.0, "id": 37360884, "level": 3}
+{"count": 1007, "name": "Dongle", "weight": 2.0, "id": 113166071, "level": 3}
+{"count": 285, "name": "USB 3.0", "weight": 0.0, "id": 2779713774, "level": 3}
+{"count": 4097, "name": "USB hub", "weight": 10.0, "id": 61361435, "level": 3}
+{"count": 22, "name": "CoaXPress", "weight": 0.0, "id": 2779507205, "level": 3}
+{"count": 2919, "name": "eXtensible Host Controller Interface (xHCI)", "weight": 7.0, "id": 71784007, "level": 3}

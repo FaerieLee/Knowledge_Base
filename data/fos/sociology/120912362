@@ -1,0 +1,85 @@
+{"count": 25908, "name": "Faculty development", "weight": 4.0, "id": 2776893095, "level": 3}
+{"count": 33717, "name": "Education theory", "weight": 6.0, "id": 38014559, "level": 3}
+{"count": 56076, "name": "Education policy", "weight": 10.0, "id": 67141207, "level": 3}
+{"count": 40057, "name": "Comparative education", "weight": 7.0, "id": 134819137, "level": 3}
+{"count": 11768, "name": "Academic standards", "weight": 2.0, "id": 136287216, "level": 3}
+{"count": 17963, "name": "Business education", "weight": 3.0, "id": 523056402, "level": 3}
+{"count": 21128, "name": "Education reform", "weight": 3.0, "id": 552535540, "level": 3}
+{"count": 12034, "name": "International education", "weight": 2.0, "id": 2779177650, "level": 3}
+{"count": 7034, "name": "Course evaluation", "weight": 1.0, "id": 2780067481, "level": 3}
+{"count": 18577, "name": "Liberal arts education", "weight": 3.0, "id": 37413474, "level": 3}
+{"count": 6938, "name": "Technical writing", "weight": 1.0, "id": 98545295, "level": 3}
+{"count": 17906, "name": "Further education", "weight": 3.0, "id": 181575753, "level": 3}
+{"count": 7974, "name": "Student teaching", "weight": 1.0, "id": 2776585938, "level": 3}
+{"count": 8802, "name": "Informal education", "weight": 1.0, "id": 190973436, "level": 3}
+{"count": 4159, "name": "Collegiality", "weight": 0.0, "id": 2778058428, "level": 3}
+{"count": 27709, "name": "Economics education", "weight": 4.0, "id": 538133343, "level": 3}
+{"count": 6121, "name": "Institutional research", "weight": 1.0, "id": 2777161012, "level": 3}
+{"count": 7755, "name": "Academic freedom", "weight": 1.0, "id": 2779304910, "level": 3}
+{"count": 3664, "name": "Long-range planning", "weight": 0.0, "id": 2778498718, "level": 3}
+{"count": 5599, "name": "Retrenchment", "weight": 0.0, "id": 101173714, "level": 3}
+{"count": 1806, "name": "Communication apprehension", "weight": 0.0, "id": 2779743720, "level": 3}
+{"count": 3528, "name": "Cooperative education", "weight": 0.0, "id": 130148452, "level": 3}
+{"count": 3226, "name": "Academic advising", "weight": 0.0, "id": 2776509339, "level": 3}
+{"count": 4249, "name": "Bologna Process", "weight": 0.0, "id": 2779910751, "level": 3}
+{"count": 2292, "name": "College athletics", "weight": 0.0, "id": 2780020723, "level": 3}
+{"count": 1235, "name": "Alternative teacher certification", "weight": 0.0, "id": 2776454994, "level": 3}
+{"count": 601, "name": "Student\u2013teacher ratio", "weight": 0.0, "id": 2778742815, "level": 3}
+{"count": 6055, "name": "Experiential education", "weight": 1.0, "id": 188167160, "level": 3}
+{"count": 1274, "name": "Enrollment management", "weight": 0.0, "id": 2778903259, "level": 3}
+{"count": 893, "name": "Research Assessment Exercise", "weight": 0.0, "id": 2777861003, "level": 3}
+{"count": 1281, "name": "Dual enrollment", "weight": 0.0, "id": 2780500016, "level": 3}
+{"count": 2869, "name": "Access to Higher Education", "weight": 0.0, "id": 2777597347, "level": 3}
+{"count": 1275, "name": "Basic writing", "weight": 0.0, "id": 2777022483, "level": 3}
+{"count": 741, "name": "Grade inflation", "weight": 0.0, "id": 2781463719, "level": 3}
+{"count": 893, "name": "Grantsmanship", "weight": 0.0, "id": 2776304142, "level": 3}
+{"count": 126, "name": "Tertiary enrollment", "weight": 0.0, "id": 2780400009, "level": 3}
+{"count": 8323, "name": "National Science Education Standards", "weight": 1.0, "id": 66185432, "level": 3}
+{"count": 721, "name": "Constructive alignment", "weight": 0.0, "id": 2781422250, "level": 3}
+{"count": 626, "name": "Class rank", "weight": 0.0, "id": 124208396, "level": 3}
+{"count": 232, "name": "Student approaches to learning", "weight": 0.0, "id": 2779025965, "level": 3}
+{"count": 2022, "name": "Student loan", "weight": 0.0, "id": 2777227597, "level": 3}
+{"count": 5046, "name": "Student affairs", "weight": 0.0, "id": 2781405653, "level": 3}
+{"count": 4564, "name": "University system", "weight": 0.0, "id": 2777638134, "level": 3}
+{"count": 382, "name": "National Survey of Student Engagement", "weight": 0.0, "id": 2779419357, "level": 3}
+{"count": 1687, "name": "Internationalization of Higher Education", "weight": 0.0, "id": 2778011250, "level": 3}
+{"count": 458, "name": "National Qualifications Framework", "weight": 0.0, "id": 2776825973, "level": 3}
+{"count": 380, "name": "Personal development planning", "weight": 0.0, "id": 2779527027, "level": 3}
+{"count": 982, "name": "Academic mobility", "weight": 0.0, "id": 2776503146, "level": 3}
+{"count": 409, "name": "Academic probation", "weight": 0.0, "id": 2778243571, "level": 3}
+{"count": 550, "name": "Recognition of prior learning", "weight": 0.0, "id": 2778259814, "level": 3}
+{"count": 811, "name": "Student debt", "weight": 0.0, "id": 2778728124, "level": 3}
+{"count": 384, "name": "Student migration", "weight": 0.0, "id": 2777999585, "level": 3}
+{"count": 666, "name": "Academic administration", "weight": 0.0, "id": 2780493508, "level": 3}
+{"count": 1233, "name": "Academic department", "weight": 0.0, "id": 2778447678, "level": 3}
+{"count": 169, "name": "Cross-border education", "weight": 0.0, "id": 2779625318, "level": 3}
+{"count": 511, "name": "Research Excellence Framework", "weight": 0.0, "id": 2780066550, "level": 3}
+{"count": 304, "name": "Graduate unemployment", "weight": 0.0, "id": 2777211311, "level": 3}
+{"count": 196, "name": "Gross enrolment ratio", "weight": 0.0, "id": 2777538862, "level": 3}
+{"count": 1270, "name": "Historically black colleges and universities", "weight": 0.0, "id": 2777389919, "level": 3}
+{"count": 6810, "name": "Learning development", "weight": 1.0, "id": 10676486, "level": 3}
+{"count": 180, "name": "Knowledge triangle", "weight": 0.0, "id": 2777204566, "level": 3}
+{"count": 67, "name": "Tuition payments", "weight": 0.0, "id": 2780005557, "level": 3}
+{"count": 289, "name": "Nontraditional student", "weight": 0.0, "id": 2777849256, "level": 3}
+{"count": 288, "name": "Erasmus Programme", "weight": 0.0, "id": 2778750669, "level": 3}
+{"count": 6509, "name": "Preparatory school", "weight": 1.0, "id": 187667220, "level": 3}
+{"count": 121, "name": "Graduate tax", "weight": 0.0, "id": 2780971366, "level": 3}
+{"count": 176, "name": "Integrated Postsecondary Education Data System", "weight": 0.0, "id": 2778750004, "level": 3}
+{"count": 369, "name": "Higher education leadership", "weight": 0.0, "id": 2779443986, "level": 3}
+{"count": 70, "name": "Contract cheating", "weight": 0.0, "id": 2778503277, "level": 3}
+{"count": 153, "name": "Academic capital", "weight": 0.0, "id": 2780674924, "level": 3}
+{"count": 188, "name": "Placement testing", "weight": 0.0, "id": 2777145050, "level": 3}
+{"count": 126, "name": "Integration of faith and learning", "weight": 0.0, "id": 2779916678, "level": 3}
+{"count": 358, "name": "Online degree", "weight": 0.0, "id": 2780239943, "level": 3}
+{"count": 160, "name": "SREB", "weight": 0.0, "id": 2779191790, "level": 3}
+{"count": 54, "name": "Socrates programme", "weight": 0.0, "id": 2779028214, "level": 3}
+{"count": 27, "name": "Industry-oriented education", "weight": 0.0, "id": 2777122514, "level": 3}
+{"count": 1164, "name": "AP Biology", "weight": 0.0, "id": 177766495, "level": 3}
+{"count": 106, "name": "Standard written English", "weight": 0.0, "id": 2776003610, "level": 3}
+{"count": 46, "name": "Sponsored mobility", "weight": 0.0, "id": 2780770767, "level": 3}
+{"count": 182, "name": "Governance in higher education", "weight": 0.0, "id": 2779270267, "level": 3}
+{"count": 26, "name": "SAT Subject Test in Mathematics Level 1", "weight": 0.0, "id": 94967912, "level": 3}
+{"count": 12, "name": "Humanities in the United States", "weight": 0.0, "id": 2778991295, "level": 3}
+{"count": 21575, "name": "Education", "weight": 3.0, "id": 106432739, "level": 3}
+{"count": 24, "name": "Standard-setting study", "weight": 0.0, "id": 27515751, "level": 3}
+{"count": 25, "name": "Psychometric Entrance Test", "weight": 0.0, "id": 2780884684, "level": 3}

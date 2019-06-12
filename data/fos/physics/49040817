@@ -1,0 +1,72 @@
+{"count": 62584, "name": "Gallium arsenide", "weight": 4.0, "id": 510052550, "level": 2}
+{"count": 79791, "name": "Quantum well", "weight": 5.0, "id": 29169072, "level": 2}
+{"count": 133178, "name": "Light-emitting diode", "weight": 10.0, "id": 176666156, "level": 2}
+{"count": 58847, "name": "Photonic crystal", "weight": 4.0, "id": 75302062, "level": 2}
+{"count": 45582, "name": "Visible spectrum", "weight": 3.0, "id": 104663316, "level": 2}
+{"count": 36545, "name": "Quantum efficiency", "weight": 2.0, "id": 205507967, "level": 2}
+{"count": 28448, "name": "Wide-bandgap semiconductor", "weight": 2.0, "id": 189278905, "level": 2}
+{"count": 53186, "name": "Electroluminescence", "weight": 3.0, "id": 31625292, "level": 2}
+{"count": 58677, "name": "Photodetector", "weight": 4.0, "id": 23125352, "level": 2}
+{"count": 55509, "name": "Terahertz radiation", "weight": 4.0, "id": 107816215, "level": 2}
+{"count": 60324, "name": "Plasmon", "weight": 4.0, "id": 110879396, "level": 2}
+{"count": 74591, "name": "Photonics", "weight": 5.0, "id": 20788544, "level": 2}
+{"count": 43528, "name": "Photodiode", "weight": 3.0, "id": 751236, "level": 2}
+{"count": 34096, "name": "Photoconductivity", "weight": 2.0, "id": 201999631, "level": 2}
+{"count": 23602, "name": "Gallium nitride", "weight": 1.0, "id": 2778871202, "level": 2}
+{"count": 41442, "name": "OLED", "weight": 3.0, "id": 150759737, "level": 2}
+{"count": 6260, "name": "Optical computing", "weight": 0.0, "id": 148204187, "level": 2}
+{"count": 19354, "name": "Organic solar cell", "weight": 1.0, "id": 91614233, "level": 2}
+{"count": 16550, "name": "Nanophotonics", "weight": 1.0, "id": 27289702, "level": 2}
+{"count": 14081, "name": "Dark current", "weight": 1.0, "id": 180651308, "level": 2}
+{"count": 6234, "name": "Optical interconnect", "weight": 0.0, "id": 2777759342, "level": 2}
+{"count": 11352, "name": "Spatial light modulator", "weight": 0.0, "id": 2777903624, "level": 2}
+{"count": 4840, "name": "Luminous intensity", "weight": 0.0, "id": 74389443, "level": 2}
+{"count": 6200, "name": "Stray light", "weight": 0.0, "id": 144028864, "level": 2}
+{"count": 18938, "name": "Extreme ultraviolet lithography", "weight": 1.0, "id": 162996421, "level": 2}
+{"count": 7154, "name": "Organic electronics", "weight": 0.0, "id": 65371982, "level": 2}
+{"count": 12572, "name": "Microlens", "weight": 0.0, "id": 192560794, "level": 2}
+{"count": 3057, "name": "Optical microcavity", "weight": 0.0, "id": 47027709, "level": 2}
+{"count": 25540, "name": "Photocurrent", "weight": 1.0, "id": 2779845233, "level": 2}
+{"count": 17088, "name": "Incandescent light bulb", "weight": 1.0, "id": 173886181, "level": 2}
+{"count": 1673, "name": "Nonimaging optics", "weight": 0.0, "id": 97546620, "level": 2}
+{"count": 1146, "name": "Electro-optics", "weight": 0.0, "id": 198461270, "level": 2}
+{"count": 2382, "name": "Gallium phosphide", "weight": 0.0, "id": 2778288408, "level": 2}
+{"count": 4960, "name": "Optical isolator", "weight": 0.0, "id": 203146411, "level": 2}
+{"count": 3853, "name": "Photoresistor", "weight": 0.0, "id": 199051819, "level": 2}
+{"count": 1542, "name": "Optomechanics", "weight": 0.0, "id": 2778965693, "level": 2}
+{"count": 3572, "name": "Photon diffusion", "weight": 0.0, "id": 47019982, "level": 2}
+{"count": 10476, "name": "Electric light", "weight": 0.0, "id": 19643730, "level": 2}
+{"count": 1220, "name": "Gallium antimonide", "weight": 0.0, "id": 2781249499, "level": 2}
+{"count": 5389, "name": "Luminous flux", "weight": 0.0, "id": 110113834, "level": 2}
+{"count": 6219, "name": "Halogen lamp", "weight": 0.0, "id": 15340255, "level": 2}
+{"count": 35404, "name": "Ray", "weight": 2.0, "id": 182610534, "level": 2}
+{"count": 2170, "name": "Indium antimonide", "weight": 0.0, "id": 2777419967, "level": 2}
+{"count": 6062, "name": "Mercury-vapor lamp", "weight": 0.0, "id": 2688345, "level": 2}
+{"count": 1631, "name": "Color mixing", "weight": 0.0, "id": 2777850073, "level": 2}
+{"count": 2241, "name": "K\u00f6hler illumination", "weight": 0.0, "id": 116070441, "level": 2}
+{"count": 243, "name": "Lumen maintenance", "weight": 0.0, "id": 197434694, "level": 2}
+{"count": 18618, "name": "Optical modulation amplitude", "weight": 1.0, "id": 50831002, "level": 2}
+{"count": 202, "name": "Smart film", "weight": 0.0, "id": 160128029, "level": 2}
+{"count": 8002, "name": "First light", "weight": 0.0, "id": 2780874131, "level": 2}
+{"count": 128, "name": "Cone of light", "weight": 0.0, "id": 2776873390, "level": 2}
+{"count": 2552, "name": "Critical illumination", "weight": 0.0, "id": 57864310, "level": 2}
+{"count": 124, "name": "Surgical lighting", "weight": 0.0, "id": 2780831607, "level": 2}
+{"count": 1252, "name": "Light tube", "weight": 0.0, "id": 2776337997, "level": 2}
+{"count": 101, "name": "Full-spectrum light", "weight": 0.0, "id": 2777070931, "level": 2}
+{"count": 153, "name": "Grow light", "weight": 0.0, "id": 2777771907, "level": 2}
+{"count": 55, "name": "Light-second", "weight": 0.0, "id": 99316242, "level": 2}
+{"count": 415, "name": "Solid light", "weight": 0.0, "id": 2779341883, "level": 2}
+{"count": 194, "name": "Light characteristic", "weight": 0.0, "id": 19128256, "level": 2}
+{"count": 104, "name": "Candlepower", "weight": 0.0, "id": 2780051523, "level": 2}
+{"count": 3, "name": "Ferdinand-Braun-Institut", "weight": 0.0, "id": 2781377813, "level": 2}
+{"count": 40, "name": "Aquarium lighting", "weight": 0.0, "id": 2779829710, "level": 2}
+{"count": 11, "name": "Blue amber", "weight": 0.0, "id": 2779019468, "level": 2}
+{"count": 4, "name": "Gallium(III) bromide", "weight": 0.0, "id": 2780673698, "level": 2}
+{"count": 4, "name": "Vane display", "weight": 0.0, "id": 2776085500, "level": 2}
+{"count": 2, "name": "Aluminium indium arsenide", "weight": 0.0, "id": 2779808372, "level": 2}
+{"count": 1, "name": "Gallium(II) sulfide", "weight": 0.0, "id": 2778121234, "level": 2}
+{"count": 2, "name": "Warp 75", "weight": 0.0, "id": 2779236243, "level": 2}
+{"count": 55, "name": "Light pillar", "weight": 0.0, "id": 69304541, "level": 2}
+{"count": 2, "name": "Aluminium gallium phosphide", "weight": 0.0, "id": 2778211437, "level": 2}
+{"count": 97, "name": "Trouble light", "weight": 0.0, "id": 2781207722, "level": 2}
+{"count": 69, "name": "Glow stick", "weight": 0.0, "id": 2781345503, "level": 2}

@@ -1,0 +1,122 @@
+{"count": 69165, "name": "Human capital", "weight": 6.0, "id": 2776943663, "level": 2}
+{"count": 103965, "name": "Unemployment", "weight": 10.0, "id": 2778126366, "level": 2}
+{"count": 31061, "name": "Income distribution", "weight": 2.0, "id": 519300510, "level": 2}
+{"count": 22095, "name": "Economic inequality", "weight": 2.0, "id": 513380476, "level": 2}
+{"count": 22122, "name": "Household income", "weight": 2.0, "id": 2780892066, "level": 2}
+{"count": 14363, "name": "Productivity", "weight": 1.0, "id": 204983608, "level": 2}
+{"count": 16909, "name": "Informal sector", "weight": 1.0, "id": 64089585, "level": 2}
+{"count": 31061, "name": "Industrial relations", "weight": 2.0, "id": 38104776, "level": 2}
+{"count": 18115, "name": "Collective bargaining", "weight": 1.0, "id": 2776665811, "level": 2}
+{"count": 2943, "name": "Difference in differences", "weight": 0.0, "id": 33880087, "level": 2}
+{"count": 17345, "name": "Physical capital", "weight": 1.0, "id": 9127897, "level": 2}
+{"count": 59482, "name": "Earnings", "weight": 5.0, "id": 2781426361, "level": 2}
+{"count": 5552, "name": "Overlapping generations model", "weight": 0.0, "id": 7386506, "level": 2}
+{"count": 5669, "name": "Personal income", "weight": 0.0, "id": 2778566306, "level": 2}
+{"count": 10412, "name": "Bargaining power", "weight": 1.0, "id": 48057960, "level": 2}
+{"count": 20935, "name": "Labour law", "weight": 2.0, "id": 10144844, "level": 2}
+{"count": 2624, "name": "Permanent income hypothesis", "weight": 0.0, "id": 194425066, "level": 2}
+{"count": 5517, "name": "Redistribution of income and wealth", "weight": 0.0, "id": 110458093, "level": 2}
+{"count": 7693, "name": "Working time", "weight": 0.0, "id": 2777877159, "level": 2}
+{"count": 71028, "name": "Wage", "weight": 6.0, "id": 2777388388, "level": 2}
+{"count": 2983, "name": "Marginal product", "weight": 0.0, "id": 202063016, "level": 2}
+{"count": 4848, "name": "Sick leave", "weight": 0.0, "id": 2776737852, "level": 2}
+{"count": 5870, "name": "Labour supply", "weight": 0.0, "id": 2776689383, "level": 2}
+{"count": 3148, "name": "Current Population Survey", "weight": 0.0, "id": 2777766161, "level": 2}
+{"count": 26869, "name": "Labor relations", "weight": 2.0, "id": 80984254, "level": 2}
+{"count": 6315, "name": "Job security", "weight": 0.0, "id": 2777581918, "level": 2}
+{"count": 2793, "name": "Labor mobility", "weight": 0.0, "id": 2780370025, "level": 2}
+{"count": 1230, "name": "Consumption smoothing", "weight": 0.0, "id": 2778762746, "level": 2}
+{"count": 2980, "name": "Regression discontinuity design", "weight": 0.0, "id": 66912227, "level": 2}
+{"count": 1780, "name": "Panel Study of Income Dynamics", "weight": 0.0, "id": 2777169553, "level": 2}
+{"count": 2310, "name": "Dependency ratio", "weight": 0.0, "id": 22541086, "level": 2}
+{"count": 2671, "name": "Income Support", "weight": 0.0, "id": 2776237081, "level": 2}
+{"count": 2763, "name": "National Longitudinal Surveys", "weight": 0.0, "id": 171525042, "level": 2}
+{"count": 4707, "name": "Child labour", "weight": 0.0, "id": 2777464741, "level": 2}
+{"count": 998, "name": "Search theory", "weight": 0.0, "id": 98306058, "level": 2}
+{"count": 1392, "name": "Marginal propensity to consume", "weight": 0.0, "id": 161629241, "level": 2}
+{"count": 3025, "name": "Parental leave", "weight": 0.0, "id": 2778517334, "level": 2}
+{"count": 11718, "name": "Capital intensity", "weight": 1.0, "id": 143369678, "level": 2}
+{"count": 2441, "name": "Health and Retirement Study", "weight": 0.0, "id": 2780176501, "level": 2}
+{"count": 838, "name": "Statistical discrimination", "weight": 0.0, "id": 2781437166, "level": 2}
+{"count": 1368, "name": "British Household Panel Survey", "weight": 0.0, "id": 2778042847, "level": 2}
+{"count": 2568, "name": "Employment contract", "weight": 0.0, "id": 2776325488, "level": 2}
+{"count": 629, "name": "Internal labor market", "weight": 0.0, "id": 2776195443, "level": 2}
+{"count": 559, "name": "Termination of employment", "weight": 0.0, "id": 2776332928, "level": 2}
+{"count": 1600, "name": "Compensation of employees", "weight": 0.0, "id": 172123218, "level": 2}
+{"count": 1057, "name": "Survey of Income and Program Participation", "weight": 0.0, "id": 2776099370, "level": 2}
+{"count": 1730, "name": "Temporary work", "weight": 0.0, "id": 2777358941, "level": 2}
+{"count": 850, "name": "Labor shortage", "weight": 0.0, "id": 2778116346, "level": 2}
+{"count": 582, "name": "Family economics", "weight": 0.0, "id": 2780000394, "level": 2}
+{"count": 1644, "name": "Monopsony", "weight": 0.0, "id": 139203340, "level": 2}
+{"count": 1569, "name": "Marriage market", "weight": 0.0, "id": 2779783368, "level": 2}
+{"count": 2059, "name": "Unpaid work", "weight": 0.0, "id": 2779266529, "level": 2}
+{"count": 2505, "name": "Social dialogue", "weight": 0.0, "id": 2780521234, "level": 2}
+{"count": 5581, "name": "Overtime", "weight": 0.0, "id": 2780407378, "level": 2}
+{"count": 469, "name": "Child benefit", "weight": 0.0, "id": 2780931059, "level": 2}
+{"count": 844, "name": "Precautionary savings", "weight": 0.0, "id": 2780138423, "level": 2}
+{"count": 2668, "name": "Women's work", "weight": 0.0, "id": 2778462305, "level": 2}
+{"count": 1421, "name": "Flexicurity", "weight": 0.0, "id": 2780431834, "level": 2}
+{"count": 1506, "name": "Basic income", "weight": 0.0, "id": 2779264144, "level": 2}
+{"count": 1545, "name": "Labor theory of value", "weight": 0.0, "id": 59753492, "level": 2}
+{"count": 483, "name": "Factor shares", "weight": 0.0, "id": 2776490952, "level": 2}
+{"count": 4609, "name": "National wealth", "weight": 0.0, "id": 67829756, "level": 2}
+{"count": 872, "name": "Union density", "weight": 0.0, "id": 2781068852, "level": 2}
+{"count": 1376, "name": "Housing tenure", "weight": 0.0, "id": 2777439000, "level": 2}
+{"count": 659, "name": "Spatial mismatch", "weight": 0.0, "id": 66809384, "level": 2}
+{"count": 442, "name": "Household economics", "weight": 0.0, "id": 2779723664, "level": 2}
+{"count": 739, "name": "Skilled worker", "weight": 0.0, "id": 2777950934, "level": 2}
+{"count": 1908, "name": "Job hunting", "weight": 0.0, "id": 2777189776, "level": 2}
+{"count": 1378, "name": "Living wage", "weight": 0.0, "id": 2778038044, "level": 2}
+{"count": 921, "name": "Mandatory retirement", "weight": 0.0, "id": 2781096511, "level": 2}
+{"count": 635, "name": "European Employment Strategy", "weight": 0.0, "id": 2779676996, "level": 2}
+{"count": 414, "name": "Equal pay for equal work", "weight": 0.0, "id": 2777120107, "level": 2}
+{"count": 770, "name": "Permanent employment", "weight": 0.0, "id": 2776238595, "level": 2}
+{"count": 782, "name": "Housing Benefit", "weight": 0.0, "id": 2777055400, "level": 2}
+{"count": 449, "name": "Average propensity to save", "weight": 0.0, "id": 153975975, "level": 2}
+{"count": 659, "name": "Consumer Expenditure Survey", "weight": 0.0, "id": 2777256093, "level": 2}
+{"count": 1074, "name": "Wage labour", "weight": 0.0, "id": 2778714813, "level": 2}
+{"count": 434, "name": "Engel's law", "weight": 0.0, "id": 90490883, "level": 2}
+{"count": 889, "name": "Sex segregation", "weight": 0.0, "id": 2776173825, "level": 2}
+{"count": 945, "name": "Precarious work", "weight": 0.0, "id": 2775906418, "level": 2}
+{"count": 995, "name": "Home equity", "weight": 0.0, "id": 2780850388, "level": 2}
+{"count": 415, "name": "Occupational licensing", "weight": 0.0, "id": 2781005140, "level": 2}
+{"count": 477, "name": "American Time Use Survey", "weight": 0.0, "id": 2781235935, "level": 2}
+{"count": 600, "name": "Heckman correction", "weight": 0.0, "id": 118024401, "level": 2}
+{"count": 345, "name": "Contingent work", "weight": 0.0, "id": 2776898870, "level": 2}
+{"count": 650, "name": "Works council", "weight": 0.0, "id": 2780286488, "level": 2}
+{"count": 816, "name": "Labour power", "weight": 0.0, "id": 2778597803, "level": 2}
+{"count": 848, "name": "Contingent employment", "weight": 0.0, "id": 164861701, "level": 2}
+{"count": 80, "name": "Household production function", "weight": 0.0, "id": 2779291321, "level": 2}
+{"count": 317, "name": "Annual leave", "weight": 0.0, "id": 2776234507, "level": 2}
+{"count": 119, "name": "Stolper\u2013Samuelson theorem", "weight": 0.0, "id": 2777620140, "level": 2}
+{"count": 198, "name": "Female economic activity", "weight": 0.0, "id": 2776375993, "level": 2}
+{"count": 672, "name": "Time-use survey", "weight": 0.0, "id": 2776019354, "level": 2}
+{"count": 280, "name": "Overqualification", "weight": 0.0, "id": 2777568379, "level": 2}
+{"count": 707, "name": "Wages and salaries", "weight": 0.0, "id": 2778332525, "level": 2}
+{"count": 467, "name": "National Compensation Survey", "weight": 0.0, "id": 158107759, "level": 2}
+{"count": 74, "name": "Two-tier system", "weight": 0.0, "id": 2779794800, "level": 2}
+{"count": 82, "name": "Baumol's cost disease", "weight": 0.0, "id": 2779083775, "level": 2}
+{"count": 247, "name": "Right to Manage", "weight": 0.0, "id": 2779852884, "level": 2}
+{"count": 644, "name": "Prices of production", "weight": 0.0, "id": 199724614, "level": 2}
+{"count": 92, "name": "Labor process theory", "weight": 0.0, "id": 2778116076, "level": 2}
+{"count": 413, "name": "Licensing Act", "weight": 0.0, "id": 2776409604, "level": 2}
+{"count": 136, "name": "Imputed income", "weight": 0.0, "id": 51574498, "level": 2}
+{"count": 95, "name": "Owner-occupancy", "weight": 0.0, "id": 2778305497, "level": 2}
+{"count": 99, "name": "Attendance Allowance", "weight": 0.0, "id": 2777205846, "level": 2}
+{"count": 94, "name": "Reserve army of labour", "weight": 0.0, "id": 2780987995, "level": 2}
+{"count": 183, "name": "Dissaving", "weight": 0.0, "id": 184863583, "level": 2}
+{"count": 52, "name": "Productive and unproductive labour", "weight": 0.0, "id": 2777671052, "level": 2}
+{"count": 1209, "name": "Autonomous consumption", "weight": 0.0, "id": 200890946, "level": 2}
+{"count": 50, "name": "Iron law of wages", "weight": 0.0, "id": 125331498, "level": 2}
+{"count": 79, "name": "Wage slavery", "weight": 0.0, "id": 2777797340, "level": 2}
+{"count": 122, "name": "Paid time off", "weight": 0.0, "id": 2777975488, "level": 2}
+{"count": 78, "name": "Economics of marriage", "weight": 0.0, "id": 2777146842, "level": 2}
+{"count": 219, "name": "Breadwinner model", "weight": 0.0, "id": 2779368217, "level": 2}
+{"count": 110, "name": "Means of labor", "weight": 0.0, "id": 2775855626, "level": 2}
+{"count": 55, "name": "Social dividend", "weight": 0.0, "id": 2778727733, "level": 2}
+{"count": 37, "name": "Household, Income and Labour Dynamics in Australia Survey", "weight": 0.0, "id": 2777167252, "level": 2}
+{"count": 10, "name": "Foreign earned income exclusion", "weight": 0.0, "id": 2777197608, "level": 2}
+{"count": 20, "name": "Socially necessary labour time", "weight": 0.0, "id": 2776807030, "level": 2}
+{"count": 61, "name": "NOBUS", "weight": 0.0, "id": 2778037188, "level": 2}
+{"count": 71, "name": "Labor force in the United States", "weight": 0.0, "id": 2778898477, "level": 2}
+{"count": 17, "name": "Back labor", "weight": 0.0, "id": 2780007953, "level": 2}

@@ -1,0 +1,5 @@
+{"count": 6155, "name": "Sequential quadratic programming", "weight": 10.0, "id": 198927703, "level": 3}
+{"count": 3651, "name": "Second-order cone programming", "weight": 5.0, "id": 111397411, "level": 3}
+{"count": 1804, "name": "Active set method", "weight": 2.0, "id": 195064452, "level": 3}
+{"count": 3010, "name": "Quadratically constrained quadratic program", "weight": 4.0, "id": 65148998, "level": 3}
+{"count": 582, "name": "Quadratic unconstrained binary optimization", "weight": 0.0, "id": 177179195, "level": 3}

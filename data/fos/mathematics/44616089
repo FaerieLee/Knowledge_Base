@@ -1,0 +1,6 @@
+{"count": 4149, "name": "Local consistency", "weight": 8.0, "id": 137105694, "level": 3}
+{"count": 2726, "name": "Constraint (mathematics)", "weight": 5.0, "id": 30416901, "level": 3}
+{"count": 5102, "name": "Constraint logic programming", "weight": 10.0, "id": 176783269, "level": 3}
+{"count": 3453, "name": "Concurrent constraint logic programming", "weight": 6.0, "id": 204306468, "level": 3}
+{"count": 2713, "name": "Constraint satisfaction dual problem", "weight": 5.0, "id": 183046576, "level": 3}
+{"count": 2998, "name": "Hybrid algorithm (constraint satisfaction)", "weight": 5.0, "id": 62469222, "level": 3}

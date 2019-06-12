@@ -1,0 +1,11 @@
+{"count": 10982, "name": "Least mean squares filter", "weight": 7.0, "id": 32617633, "level": 3}
+{"count": 10369, "name": "Recursive least squares filter", "weight": 7.0, "id": 145249878, "level": 3}
+{"count": 1674, "name": "Recursive filter", "weight": 1.0, "id": 70518719, "level": 3}
+{"count": 941, "name": "Lattice phase equaliser", "weight": 0.0, "id": 111104540, "level": 3}
+{"count": 317, "name": "Separable filter", "weight": 0.0, "id": 206848076, "level": 3}
+{"count": 11172, "name": "Kernel adaptive filter", "weight": 7.0, "id": 13107197, "level": 3}
+{"count": 159, "name": "Adaptive feedback cancellation", "weight": 0.0, "id": 2777122376, "level": 3}
+{"count": 14649, "name": "Root-raised-cosine filter", "weight": 10.0, "id": 76826599, "level": 3}
+{"count": 20, "name": "Digital waveguide synthesis", "weight": 0.0, "id": 2778545397, "level": 3}
+{"count": 16, "name": "Wiener equation", "weight": 0.0, "id": 2776994660, "level": 3}
+{"count": 13120, "name": "m-derived filter", "weight": 8.0, "id": 156930551, "level": 3}

@@ -1,0 +1,6 @@
+{"count": 160, "name": "Majority logic decoding", "weight": 4.0, "id": 2779325319, "level": 5}
+{"count": 62, "name": "Generalized minimum-distance decoding", "weight": 1.0, "id": 2777165045, "level": 5}
+{"count": 371, "name": "Chien search", "weight": 10.0, "id": 41890893, "level": 5}
+{"count": 148, "name": "Forney algorithm", "weight": 4.0, "id": 54732863, "level": 5}
+{"count": 54, "name": "Folded Reed\u2013Solomon code", "weight": 1.0, "id": 172713977, "level": 5}
+{"count": 204, "name": "MAXEkSAT", "weight": 5.0, "id": 198660617, "level": 5}

@@ -1,0 +1,58 @@
+{"count": 34976, "name": "Gas chromatography\u2013mass spectrometry", "weight": 8.0, "id": 205345274, "level": 3}
+{"count": 43364, "name": "Mass spectrum", "weight": 10.0, "id": 40325409, "level": 3}
+{"count": 27536, "name": "Tandem mass spectrometry", "weight": 6.0, "id": 31827203, "level": 3}
+{"count": 25510, "name": "Electrospray ionization", "weight": 5.0, "id": 40684141, "level": 3}
+{"count": 5273, "name": "Electrospray", "weight": 1.0, "id": 194451485, "level": 3}
+{"count": 21388, "name": "Inductively coupled plasma", "weight": 4.0, "id": 95974651, "level": 3}
+{"count": 30917, "name": "Liquid chromatography\u2013mass spectrometry", "weight": 7.0, "id": 64489805, "level": 3}
+{"count": 10790, "name": "Matrix-assisted laser desorption/ionization", "weight": 2.0, "id": 75280812, "level": 3}
+{"count": 19784, "name": "Secondary ion mass spectrometry", "weight": 4.0, "id": 77671233, "level": 3}
+{"count": 22699, "name": "Inductively coupled plasma mass spectrometry", "weight": 5.0, "id": 165697059, "level": 3}
+{"count": 11208, "name": "Ion trap", "weight": 2.0, "id": 106289968, "level": 3}
+{"count": 8280, "name": "Isotope dilution", "weight": 1.0, "id": 171679685, "level": 3}
+{"count": 10813, "name": "Time-of-flight mass spectrometry", "weight": 2.0, "id": 16291436, "level": 3}
+{"count": 14031, "name": "Matrix (chemical analysis)", "weight": 3.0, "id": 106487976, "level": 3}
+{"count": 8189, "name": "Fourier transform ion cyclotron resonance", "weight": 1.0, "id": 170552419, "level": 3}
+{"count": 4796, "name": "Fast atom bombardment", "weight": 1.0, "id": 199033913, "level": 3}
+{"count": 13048, "name": "Selected reaction monitoring", "weight": 3.0, "id": 71043704, "level": 3}
+{"count": 6440, "name": "Quadrupole mass analyzer", "weight": 1.0, "id": 103232671, "level": 3}
+{"count": 3325, "name": "Accelerator mass spectrometry", "weight": 0.0, "id": 121073033, "level": 3}
+{"count": 4482, "name": "Ion-mobility spectrometry", "weight": 1.0, "id": 15213710, "level": 3}
+{"count": 2040, "name": "Isotope-ratio mass spectrometry", "weight": 0.0, "id": 170671577, "level": 3}
+{"count": 2405, "name": "Peptide mass fingerprinting", "weight": 0.0, "id": 27420735, "level": 3}
+{"count": 6277, "name": "Resolution (mass spectrometry)", "weight": 1.0, "id": 87529303, "level": 3}
+{"count": 3974, "name": "Mass spectrometry imaging", "weight": 0.0, "id": 24066741, "level": 3}
+{"count": 2127, "name": "Orbitrap", "weight": 0.0, "id": 2780841973, "level": 3}
+{"count": 553, "name": "Aerosol mass spectrometry", "weight": 0.0, "id": 2779413794, "level": 3}
+{"count": 897, "name": "Residual gas analyzer", "weight": 0.0, "id": 57540601, "level": 3}
+{"count": 1957, "name": "Infrared multiphoton dissociation", "weight": 0.0, "id": 3896420, "level": 3}
+{"count": 800, "name": "Evolved gas analysis", "weight": 0.0, "id": 2779489910, "level": 3}
+{"count": 495, "name": "Proton-transfer-reaction mass spectrometry", "weight": 0.0, "id": 2778031115, "level": 3}
+{"count": 1431, "name": "Natural abundance", "weight": 0.0, "id": 28271814, "level": 3}
+{"count": 320, "name": "Atomic mass unit", "weight": 0.0, "id": 25230592, "level": 3}
+{"count": 872, "name": "Mass-to-charge ratio", "weight": 0.0, "id": 25395469, "level": 3}
+{"count": 404, "name": "Comprehensive two-dimensional gas chromatography", "weight": 0.0, "id": 12635746, "level": 3}
+{"count": 451, "name": "Knudsen cell", "weight": 0.0, "id": 2780546109, "level": 3}
+{"count": 132, "name": "In-gel digestion", "weight": 0.0, "id": 131021294, "level": 3}
+{"count": 213, "name": "Shotgun lipidomics", "weight": 0.0, "id": 2777423784, "level": 3}
+{"count": 4582, "name": "Graphite furnace atomic absorption", "weight": 1.0, "id": 2777898358, "level": 3}
+{"count": 352, "name": "Gas-phase ion chemistry", "weight": 0.0, "id": 2780775687, "level": 3}
+{"count": 150, "name": "Orders of magnitude (mass)", "weight": 0.0, "id": 125481037, "level": 3}
+{"count": 230, "name": "Data-independent acquisition", "weight": 0.0, "id": 2777189903, "level": 3}
+{"count": 198, "name": "Membrane-introduction mass spectrometry", "weight": 0.0, "id": 2777652569, "level": 3}
+{"count": 301, "name": "Selected-ion flow-tube mass spectrometry", "weight": 0.0, "id": 2777949036, "level": 3}
+{"count": 1100, "name": "Cold vapour atomic fluorescence spectroscopy", "weight": 0.0, "id": 110132085, "level": 3}
+{"count": 34, "name": "Methanium", "weight": 0.0, "id": 2777847312, "level": 3}
+{"count": 575, "name": "Helium mass spectrometer", "weight": 0.0, "id": 153412584, "level": 3}
+{"count": 86, "name": "Time-resolved mass spectrometry", "weight": 0.0, "id": 2778055005, "level": 3}
+{"count": 108, "name": "Ion-attachment mass spectrometry", "weight": 0.0, "id": 2780280309, "level": 3}
+{"count": 84, "name": "Hexamethylene triperoxide diamine", "weight": 0.0, "id": 2778308876, "level": 3}
+{"count": 128, "name": "Mass spectrometry data format", "weight": 0.0, "id": 14471711, "level": 3}
+{"count": 163, "name": "Organosulfate", "weight": 0.0, "id": 2777824530, "level": 3}
+{"count": 927, "name": "Two-dimensional gas", "weight": 0.0, "id": 72850032, "level": 3}
+{"count": 14, "name": "Trimethoxyamphetamine", "weight": 0.0, "id": 2780970465, "level": 3}
+{"count": 22, "name": "Iknife", "weight": 0.0, "id": 2779267805, "level": 3}
+{"count": 16, "name": "Electrostatic spray ionization", "weight": 0.0, "id": 2778354359, "level": 3}
+{"count": 20, "name": "Laser microprobe mass spectrometer", "weight": 0.0, "id": 2778203618, "level": 3}
+{"count": 79, "name": "Isotopic ratio outlier analysis", "weight": 0.0, "id": 135922306, "level": 3}
+{"count": 9, "name": "Unimolecular ion decomposition", "weight": 0.0, "id": 2779080754, "level": 3}

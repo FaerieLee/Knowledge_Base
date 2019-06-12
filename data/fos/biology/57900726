@@ -1,0 +1,19 @@
+{"count": 12257, "name": "Systole", "weight": 10.0, "id": 169554166, "level": 5}
+{"count": 11053, "name": "Doppler echocardiography", "weight": 9.0, "id": 2780346441, "level": 5}
+{"count": 9743, "name": "Diastolic function", "weight": 7.0, "id": 2780829959, "level": 5}
+{"count": 4244, "name": "End-diastolic volume", "weight": 3.0, "id": 21143770, "level": 5}
+{"count": 2509, "name": "Diastolic heart failure", "weight": 2.0, "id": 2779781611, "level": 5}
+{"count": 1292, "name": "Tissue Doppler echocardiography", "weight": 1.0, "id": 2776449402, "level": 5}
+{"count": 1077, "name": "Strain rate imaging", "weight": 0.0, "id": 2778011828, "level": 5}
+{"count": 361, "name": "Third heart sound", "weight": 0.0, "id": 2779868937, "level": 5}
+{"count": 2756, "name": "Mitral annulus", "weight": 2.0, "id": 2777728562, "level": 5}
+{"count": 1328, "name": "Isovolumic relaxation time", "weight": 1.0, "id": 2779868719, "level": 5}
+{"count": 785, "name": "Diastolic depolarization", "weight": 0.0, "id": 197270303, "level": 5}
+{"count": 2570, "name": "E/A ratio", "weight": 2.0, "id": 114029902, "level": 5}
+{"count": 392, "name": "Korotkoff sounds", "weight": 0.0, "id": 2778275680, "level": 5}
+{"count": 2368, "name": "Isovolumetric contraction", "weight": 1.0, "id": 39078644, "level": 5}
+{"count": 386, "name": "Annular velocity", "weight": 0.0, "id": 5869474, "level": 5}
+{"count": 53, "name": "Austin Flint murmur", "weight": 0.0, "id": 2780391008, "level": 5}
+{"count": 267, "name": "Auscultatory gap", "weight": 0.0, "id": 159387666, "level": 5}
+{"count": 18, "name": "Graham Steell murmur", "weight": 0.0, "id": 2776926490, "level": 5}
+{"count": 60, "name": "MMode", "weight": 0.0, "id": 169855649, "level": 5}

@@ -1,0 +1,5 @@
+{"count": 1041, "name": "Prewitt operator", "weight": 3.0, "id": 155012704, "level": 5}
+{"count": 61, "name": "Kirsch operator", "weight": 0.0, "id": 144739853, "level": 5}
+{"count": 403, "name": "Marr\u2013Hildreth algorithm", "weight": 1.0, "id": 117068819, "level": 5}
+{"count": 2749, "name": "Deriche edge detector", "weight": 10.0, "id": 167074055, "level": 5}
+{"count": 111, "name": "Roberts cross", "weight": 0.0, "id": 113194795, "level": 5}

@@ -1,0 +1,29 @@
+{"count": 23487, "name": "Axial compressor", "weight": 10.0, "id": 180788929, "level": 3}
+{"count": 7738, "name": "Centrifugal compressor", "weight": 3.0, "id": 95277225, "level": 3}
+{"count": 4008, "name": "Vapor-compression refrigeration", "weight": 1.0, "id": 36570524, "level": 3}
+{"count": 7699, "name": "Overall pressure ratio", "weight": 3.0, "id": 96261405, "level": 3}
+{"count": 12899, "name": "Reciprocating compressor", "weight": 5.0, "id": 5395353, "level": 3}
+{"count": 15284, "name": "Air compressor", "weight": 6.0, "id": 2779983431, "level": 3}
+{"count": 9679, "name": "Thermal expansion valve", "weight": 4.0, "id": 184593036, "level": 3}
+{"count": 5121, "name": "Scroll compressor", "weight": 2.0, "id": 2777825279, "level": 3}
+{"count": 653, "name": "Transcritical cycle", "weight": 0.0, "id": 75825664, "level": 3}
+{"count": 6455, "name": "Swash", "weight": 2.0, "id": 2775891797, "level": 3}
+{"count": 1765, "name": "Compressor station", "weight": 0.0, "id": 118062091, "level": 3}
+{"count": 3244, "name": "Tip clearance", "weight": 1.0, "id": 2779285531, "level": 3}
+{"count": 1919, "name": "Linear compressor", "weight": 0.0, "id": 2781378038, "level": 3}
+{"count": 3994, "name": "Intercooler", "weight": 1.0, "id": 158139659, "level": 3}
+{"count": 473, "name": "Dry gas seal", "weight": 0.0, "id": 2778265225, "level": 3}
+{"count": 3325, "name": "Booster pump", "weight": 1.0, "id": 88245167, "level": 3}
+{"count": 599, "name": "Surge control", "weight": 0.0, "id": 2779038636, "level": 3}
+{"count": 3799, "name": "Variable refrigerant flow", "weight": 1.0, "id": 124907940, "level": 3}
+{"count": 927, "name": "Degree of reaction", "weight": 0.0, "id": 188952714, "level": 3}
+{"count": 1282, "name": "Automobile air conditioning", "weight": 0.0, "id": 2780092168, "level": 3}
+{"count": 650, "name": "Reed valve", "weight": 0.0, "id": 2779356357, "level": 3}
+{"count": 4993, "name": "Discharge pressure", "weight": 2.0, "id": 125989502, "level": 3}
+{"count": 3876, "name": "Variable displacement", "weight": 1.0, "id": 2777081633, "level": 3}
+{"count": 1281, "name": "Bleed air", "weight": 0.0, "id": 2780387067, "level": 3}
+{"count": 124, "name": "Flexure bearing", "weight": 0.0, "id": 2776381056, "level": 3}
+{"count": 216, "name": "Air cycle machine", "weight": 0.0, "id": 2780842476, "level": 3}
+{"count": 25, "name": "Specific volume", "weight": 0.0, "id": 44434619, "level": 3}
+{"count": 110, "name": "Car cooler", "weight": 0.0, "id": 2775931949, "level": 3}
+{"count": 52, "name": "Blade solidity", "weight": 0.0, "id": 2776624010, "level": 3}

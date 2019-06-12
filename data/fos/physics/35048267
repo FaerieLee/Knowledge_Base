@@ -1,0 +1,12 @@
+{"count": 4315, "name": "Cyclotron radiation", "weight": 3.0, "id": 44128863, "level": 3}
+{"count": 8676, "name": "Particle beam", "weight": 7.0, "id": 31190367, "level": 3}
+{"count": 11700, "name": "Charged particle beam", "weight": 10.0, "id": 93215691, "level": 3}
+{"count": 281, "name": "Delta ray", "weight": 0.0, "id": 171802235, "level": 3}
+{"count": 2933, "name": "Particle radiation", "weight": 2.0, "id": 147976105, "level": 3}
+{"count": 2501, "name": "Pseudorapidity", "weight": 2.0, "id": 2781178975, "level": 3}
+{"count": 120, "name": "C cap", "weight": 0.0, "id": 2779579303, "level": 3}
+{"count": 189, "name": "Bethe formula", "weight": 0.0, "id": 98440294, "level": 3}
+{"count": 228, "name": "Hermetic detector", "weight": 0.0, "id": 69258756, "level": 3}
+{"count": 5, "name": "Rigidity (electromagnetism)", "weight": 0.0, "id": 160343418, "level": 3}
+{"count": 60, "name": "Tracking (particle physics)", "weight": 0.0, "id": 41904074, "level": 3}
+{"count": 233, "name": "Stopping power (particle radiation)", "weight": 0.0, "id": 144232802, "level": 3}

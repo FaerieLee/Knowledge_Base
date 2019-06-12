@@ -1,0 +1,18 @@
+{"count": 5566, "name": "Sequencing batch reactor", "weight": 10.0, "id": 2780355613, "level": 4}
+{"count": 3955, "name": "Enhanced biological phosphorus removal", "weight": 7.0, "id": 2860155, "level": 4}
+{"count": 1374, "name": "Aerobic digestion", "weight": 2.0, "id": 2777383712, "level": 4}
+{"count": 1345, "name": "Volatile suspended solids", "weight": 2.0, "id": 38626664, "level": 4}
+{"count": 973, "name": "Segmented filamentous bacteria", "weight": 1.0, "id": 94562577, "level": 4}
+{"count": 476, "name": "Sludge volume index", "weight": 0.0, "id": 2776275385, "level": 4}
+{"count": 3094, "name": "Mixed liquor suspended solids", "weight": 5.0, "id": 78761867, "level": 4}
+{"count": 4121, "name": "Sludge bulking", "weight": 7.0, "id": 40062133, "level": 4}
+{"count": 999, "name": "Aerated lagoon", "weight": 1.0, "id": 128168118, "level": 4}
+{"count": 214, "name": "Thiothrix", "weight": 0.0, "id": 2780373485, "level": 4}
+{"count": 283, "name": "Sphaerotilus natans", "weight": 0.0, "id": 2780531901, "level": 4}
+{"count": 306, "name": "Zoogloea", "weight": 0.0, "id": 2777272942, "level": 4}
+{"count": 865, "name": "Activated sludge model", "weight": 1.0, "id": 2776897705, "level": 4}
+{"count": 519, "name": "Extended aeration", "weight": 0.0, "id": 2776301198, "level": 4}
+{"count": 18, "name": "Microlunatus phosphovorus", "weight": 0.0, "id": 2776661936, "level": 4}
+{"count": 87, "name": "Opercularia", "weight": 0.0, "id": 2779638172, "level": 4}
+{"count": 37, "name": "Anaerobic contact process", "weight": 0.0, "id": 2776193408, "level": 4}
+{"count": 45, "name": "Fine bubble diffusers", "weight": 0.0, "id": 2777383994, "level": 4}

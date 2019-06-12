@@ -1,0 +1,48 @@
+{"count": 9612, "name": "DNA mismatch repair", "weight": 8.0, "id": 60748783, "level": 4}
+{"count": 11137, "name": "Nucleotide excision repair", "weight": 10.0, "id": 104451858, "level": 4}
+{"count": 5078, "name": "DNA glycosylase", "weight": 4.0, "id": 192396546, "level": 4}
+{"count": 5084, "name": "Xeroderma pigmentosum", "weight": 4.0, "id": 2778378917, "level": 4}
+{"count": 5432, "name": "Base excision repair", "weight": 4.0, "id": 187206112, "level": 4}
+{"count": 4433, "name": "Pyrimidine dimer", "weight": 3.0, "id": 167975912, "level": 4}
+{"count": 2762, "name": "Non-homologous end joining", "weight": 2.0, "id": 122917832, "level": 4}
+{"count": 4638, "name": "Replication protein A", "weight": 4.0, "id": 113271649, "level": 4}
+{"count": 684, "name": "Nijmegen breakage syndrome", "weight": 0.0, "id": 2777136964, "level": 4}
+{"count": 2460, "name": "Photolyase", "weight": 2.0, "id": 165204475, "level": 4}
+{"count": 1097, "name": "RecBCD", "weight": 0.0, "id": 174742784, "level": 4}
+{"count": 219, "name": "Methylnitronitrosoguanidine", "weight": 0.0, "id": 2780625556, "level": 4}
+{"count": 2650, "name": "RAD51", "weight": 2.0, "id": 2779012473, "level": 4}
+{"count": 1703, "name": "XRCC1", "weight": 1.0, "id": 2776999993, "level": 4}
+{"count": 400, "name": "Flap endonuclease", "weight": 0.0, "id": 141202198, "level": 4}
+{"count": 1498, "name": "SOS response", "weight": 1.0, "id": 2780852648, "level": 4}
+{"count": 4387, "name": "G2-M DNA damage checkpoint", "weight": 3.0, "id": 54086632, "level": 4}
+{"count": 829, "name": "DNA-PKcs", "weight": 0.0, "id": 68748289, "level": 4}
+{"count": 3339, "name": "AP site", "weight": 3.0, "id": 150777479, "level": 4}
+{"count": 2242, "name": "PARP inhibitor", "weight": 2.0, "id": 2779138821, "level": 4}
+{"count": 939, "name": "Ku70", "weight": 0.0, "id": 2780919815, "level": 4}
+{"count": 1434, "name": "Olaparib", "weight": 1.0, "id": 2779962180, "level": 4}
+{"count": 1355, "name": "PARP1", "weight": 1.0, "id": 2778480876, "level": 4}
+{"count": 729, "name": "Rad50", "weight": 0.0, "id": 2775984157, "level": 4}
+{"count": 1076, "name": "Ku80", "weight": 0.0, "id": 193104389, "level": 4}
+{"count": 331, "name": "BRCT domain", "weight": 0.0, "id": 2778842248, "level": 4}
+{"count": 286, "name": "Flap structure-specific endonuclease 1", "weight": 0.0, "id": 83327996, "level": 4}
+{"count": 581, "name": "AlkB", "weight": 0.0, "id": 2777721518, "level": 4}
+{"count": 369, "name": "Sgs1", "weight": 0.0, "id": 2777754453, "level": 4}
+{"count": 269, "name": "BARD1", "weight": 0.0, "id": 2775840639, "level": 4}
+{"count": 614, "name": "FANCD2", "weight": 0.0, "id": 2776653068, "level": 4}
+{"count": 451, "name": "MRN complex", "weight": 0.0, "id": 142564062, "level": 4}
+{"count": 508, "name": "RecQ helicase", "weight": 0.0, "id": 2780751114, "level": 4}
+{"count": 385, "name": "REV1", "weight": 0.0, "id": 2775990307, "level": 4}
+{"count": 194, "name": "TDP1", "weight": 0.0, "id": 2780854515, "level": 4}
+{"count": 150, "name": "Aprataxin", "weight": 0.0, "id": 2777650480, "level": 4}
+{"count": 50, "name": "DNA damage checkpoints", "weight": 0.0, "id": 155767128, "level": 4}
+{"count": 240, "name": "FANCM", "weight": 0.0, "id": 2776431348, "level": 4}
+{"count": 310, "name": "FANCG", "weight": 0.0, "id": 2779641974, "level": 4}
+{"count": 451, "name": "Ataxia telangiectasia and Rad3 related", "weight": 0.0, "id": 141128189, "level": 4}
+{"count": 123, "name": "Immortal DNA strand hypothesis", "weight": 0.0, "id": 58269964, "level": 4}
+{"count": 140, "name": "MRE11A", "weight": 0.0, "id": 2777737540, "level": 4}
+{"count": 162, "name": "LIG1", "weight": 0.0, "id": 2777829045, "level": 4}
+{"count": 140, "name": "RMI1", "weight": 0.0, "id": 2780816725, "level": 4}
+{"count": 146, "name": "FAN1", "weight": 0.0, "id": 2780279878, "level": 4}
+{"count": 202, "name": "Adductomics", "weight": 0.0, "id": 7368262, "level": 4}
+{"count": 44, "name": "BRCC3", "weight": 0.0, "id": 2781083223, "level": 4}
+{"count": 27, "name": "Caretaker gene", "weight": 0.0, "id": 45487008, "level": 4}

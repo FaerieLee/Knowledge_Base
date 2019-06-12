@@ -1,0 +1,47 @@
+{"count": 1557, "name": "3T3 cells", "weight": 0.0, "id": 2776746612, "level": 3}
+{"count": 6311, "name": "Vero cell", "weight": 3.0, "id": 89138240, "level": 3}
+{"count": 3498, "name": "Caco-2", "weight": 2.0, "id": 193176779, "level": 3}
+{"count": 8214, "name": "Fetal bovine serum", "weight": 4.0, "id": 2779404806, "level": 3}
+{"count": 4834, "name": "Cytopathic effect", "weight": 2.0, "id": 2775996393, "level": 3}
+{"count": 11286, "name": "K562 cells", "weight": 6.0, "id": 171122931, "level": 3}
+{"count": 2221, "name": "Virus quantification", "weight": 1.0, "id": 70913881, "level": 3}
+{"count": 3630, "name": "U937 cell", "weight": 2.0, "id": 108634530, "level": 3}
+{"count": 11181, "name": "Lymphoblast", "weight": 6.0, "id": 113842279, "level": 3}
+{"count": 2069, "name": "Multiplicity of infection", "weight": 1.0, "id": 203233990, "level": 3}
+{"count": 2342, "name": "Baby hamster kidney cell", "weight": 1.0, "id": 33263850, "level": 3}
+{"count": 1216, "name": "Serial passage", "weight": 0.0, "id": 132351222, "level": 3}
+{"count": 1560, "name": "Contact inhibition", "weight": 0.0, "id": 64979461, "level": 3}
+{"count": 183, "name": "G0 phase", "weight": 0.0, "id": 82655104, "level": 3}
+{"count": 17352, "name": "HeLa", "weight": 10.0, "id": 2777366897, "level": 3}
+{"count": 160, "name": "NS-398", "weight": 0.0, "id": 2780368850, "level": 3}
+{"count": 2791, "name": "Microcarrier", "weight": 1.0, "id": 176999471, "level": 3}
+{"count": 2442, "name": "THP1 cell line", "weight": 1.0, "id": 204258353, "level": 3}
+{"count": 1401, "name": "3D cell culture", "weight": 0.0, "id": 163688615, "level": 3}
+{"count": 4347, "name": "Chinese hamster", "weight": 2.0, "id": 2777755551, "level": 3}
+{"count": 530, "name": "Tobacco BY-2 cells", "weight": 0.0, "id": 124895214, "level": 3}
+{"count": 2164, "name": "Hep G2", "weight": 1.0, "id": 181674461, "level": 3}
+{"count": 2929, "name": "HL60", "weight": 1.0, "id": 2778903051, "level": 3}
+{"count": 1595, "name": "Plating efficiency", "weight": 0.0, "id": 2776127477, "level": 3}
+{"count": 1552, "name": "Immortalised cell line", "weight": 0.0, "id": 6045943, "level": 3}
+{"count": 460, "name": "Nucleofection", "weight": 0.0, "id": 144251240, "level": 3}
+{"count": 1947, "name": "Gentamicin protection assay", "weight": 1.0, "id": 11957725, "level": 3}
+{"count": 793, "name": "Dispase", "weight": 0.0, "id": 2780374859, "level": 3}
+{"count": 236, "name": "Hollow fiber bioreactor", "weight": 0.0, "id": 2776404430, "level": 3}
+{"count": 2796, "name": "Trypsinization", "weight": 1.0, "id": 38240268, "level": 3}
+{"count": 195, "name": "Reverse transfection", "weight": 0.0, "id": 8305913, "level": 3}
+{"count": 330, "name": "PC12 cell line", "weight": 0.0, "id": 2781053138, "level": 3}
+{"count": 528, "name": "WI-38", "weight": 0.0, "id": 190474072, "level": 3}
+{"count": 329, "name": "Cell bank", "weight": 0.0, "id": 42624739, "level": 3}
+{"count": 187, "name": "MRC-5", "weight": 0.0, "id": 2780597511, "level": 3}
+{"count": 1832, "name": "Confluency", "weight": 1.0, "id": 176805009, "level": 3}
+{"count": 219, "name": "HT1080", "weight": 0.0, "id": 2777751087, "level": 3}
+{"count": 31, "name": "Eagle's minimal essential medium", "weight": 0.0, "id": 18400610, "level": 3}
+{"count": 476, "name": "Cell culture assays", "weight": 0.0, "id": 32484408, "level": 3}
+{"count": 75, "name": "NTERA-2", "weight": 0.0, "id": 2778733495, "level": 3}
+{"count": 1776, "name": "Subculture (biology)", "weight": 1.0, "id": 87863119, "level": 3}
+{"count": 70, "name": "Promonocyte", "weight": 0.0, "id": 27067170, "level": 3}
+{"count": 203, "name": "Viral plaque", "weight": 0.0, "id": 185266098, "level": 3}
+{"count": 182, "name": "Isogenic human disease models", "weight": 0.0, "id": 54161135, "level": 3}
+{"count": 22, "name": "Cuboidal epithelial cell", "weight": 0.0, "id": 2776070523, "level": 3}
+{"count": 292, "name": "FuGENE", "weight": 0.0, "id": 2780779046, "level": 3}
+{"count": 12, "name": "Hanks' salts", "weight": 0.0, "id": 2778097776, "level": 3}

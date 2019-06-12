@@ -1,0 +1,4 @@
+{"count": 1186, "name": "Internet backbone", "weight": 10.0, "id": 51274741, "level": 5}
+{"count": 631, "name": "Internet exchange point", "weight": 5.0, "id": 192030150, "level": 5}
+{"count": 640, "name": "NIPRNet", "weight": 5.0, "id": 24704702, "level": 5}
+{"count": 44, "name": "FRIACO", "weight": 0.0, "id": 34142284, "level": 5}

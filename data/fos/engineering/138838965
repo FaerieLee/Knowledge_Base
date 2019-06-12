@@ -1,0 +1,14 @@
+{"count": 6005, "name": "Autotransformer", "weight": 8.0, "id": 22958824, "level": 5}
+{"count": 6696, "name": "Isolation transformer", "weight": 9.0, "id": 180850520, "level": 5}
+{"count": 901, "name": "Quadrature booster", "weight": 1.0, "id": 111963331, "level": 5}
+{"count": 1002, "name": "Zigzag transformer", "weight": 1.0, "id": 177339994, "level": 5}
+{"count": 2017, "name": "Rotary transformer", "weight": 2.0, "id": 192105228, "level": 5}
+{"count": 6791, "name": "Energy efficient transformer", "weight": 10.0, "id": 9121194, "level": 5}
+{"count": 665, "name": "Open-circuit test", "weight": 0.0, "id": 86929007, "level": 5}
+{"count": 565, "name": "Per-unit system", "weight": 0.0, "id": 13252910, "level": 5}
+{"count": 79, "name": "Scott-T transformer", "weight": 0.0, "id": 63607946, "level": 5}
+{"count": 654, "name": "Split-phase electric power", "weight": 0.0, "id": 81924386, "level": 5}
+{"count": 3230, "name": "Transformer types", "weight": 4.0, "id": 47330980, "level": 5}
+{"count": 4578, "name": "Rotary variable differential transformer", "weight": 6.0, "id": 196489102, "level": 5}
+{"count": 394, "name": "Royer oscillator", "weight": 0.0, "id": 54137728, "level": 5}
+{"count": 4032, "name": "Transformer effect", "weight": 5.0, "id": 50177738, "level": 5}

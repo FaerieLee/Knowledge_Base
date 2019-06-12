@@ -1,0 +1,10 @@
+{"count": 4986, "name": "Job shop", "weight": 10.0, "id": 2777243215, "level": 5}
+{"count": 577, "name": "Open shop", "weight": 1.0, "id": 2776484797, "level": 5}
+{"count": 3362, "name": "Nurse scheduling problem", "weight": 6.0, "id": 102370290, "level": 5}
+{"count": 583, "name": "Open-shop scheduling", "weight": 1.0, "id": 35799125, "level": 5}
+{"count": 577, "name": "Sequence-dependent setup", "weight": 1.0, "id": 2780580633, "level": 5}
+{"count": 220, "name": "Disjunctive graph", "weight": 0.0, "id": 2776253682, "level": 5}
+{"count": 83, "name": "Shifting bottleneck heuristic", "weight": 0.0, "id": 2778739318, "level": 5}
+{"count": 355, "name": "Johnson's rule", "weight": 0.0, "id": 4828100, "level": 5}
+{"count": 22, "name": "Machine orders", "weight": 0.0, "id": 2779176523, "level": 5}
+{"count": 4810, "name": "Genetic algorithm scheduling", "weight": 9.0, "id": 159022435, "level": 5}

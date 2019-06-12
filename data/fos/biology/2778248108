@@ -1,0 +1,44 @@
+{"count": 11269, "name": "Iron-deficiency anemia", "weight": 10.0, "id": 2776732101, "level": 4}
+{"count": 7243, "name": "Serum iron", "weight": 6.0, "id": 2779875672, "level": 4}
+{"count": 5353, "name": "Hepcidin", "weight": 4.0, "id": 2776768029, "level": 4}
+{"count": 3817, "name": "Transferrin saturation", "weight": 3.0, "id": 153852466, "level": 4}
+{"count": 1482, "name": "Epoetin alfa", "weight": 1.0, "id": 2776164570, "level": 4}
+{"count": 2050, "name": "Pure red cell aplasia", "weight": 1.0, "id": 2777422296, "level": 4}
+{"count": 2242, "name": "Megaloblastic anemia", "weight": 1.0, "id": 2779405478, "level": 4}
+{"count": 1267, "name": "Darbepoetin alfa", "weight": 1.0, "id": 2781404941, "level": 4}
+{"count": 964, "name": "Sideroblastic anemia", "weight": 0.0, "id": 2779188306, "level": 4}
+{"count": 712, "name": "Diamond\u2013Blackfan anemia", "weight": 0.0, "id": 2778997081, "level": 4}
+{"count": 75, "name": "Erythropoiesis-stimulating agent", "weight": 0.0, "id": 2779278283, "level": 4}
+{"count": 439, "name": "Epoetin beta", "weight": 0.0, "id": 2778568593, "level": 4}
+{"count": 956, "name": "Macrocytosis", "weight": 0.0, "id": 2781291160, "level": 4}
+{"count": 970, "name": "Microcytic anemia", "weight": 0.0, "id": 2781376033, "level": 4}
+{"count": 1054, "name": "Ineffective erythropoiesis", "weight": 0.0, "id": 2780844101, "level": 4}
+{"count": 663, "name": "Nutritional anemia", "weight": 0.0, "id": 2778392474, "level": 4}
+{"count": 1209, "name": "Reticulocytosis", "weight": 1.0, "id": 2777799521, "level": 4}
+{"count": 163, "name": "Twin Anemia-Polycythemia Sequence", "weight": 0.0, "id": 2776423897, "level": 4}
+{"count": 115, "name": "Transient erythroblastopenia of childhood", "weight": 0.0, "id": 2780625085, "level": 4}
+{"count": 1148, "name": "Hypochromic anemia", "weight": 1.0, "id": 2778650401, "level": 4}
+{"count": 791, "name": "Microcytosis", "weight": 0.0, "id": 2781400336, "level": 4}
+{"count": 931, "name": "Macrocytic anemia", "weight": 0.0, "id": 2777550742, "level": 4}
+{"count": 277, "name": "Congenital dyserythropoietic anemia", "weight": 0.0, "id": 2777023144, "level": 4}
+{"count": 357, "name": "Anemia of prematurity", "weight": 0.0, "id": 2778433812, "level": 4}
+{"count": 381, "name": "Refractory anemia with excess of blasts", "weight": 0.0, "id": 2779725071, "level": 4}
+{"count": 413, "name": "Normocytic anemia", "weight": 0.0, "id": 2778882899, "level": 4}
+{"count": 616, "name": "Anisocytosis", "weight": 0.0, "id": 2777901627, "level": 4}
+{"count": 156, "name": "Continuous erythropoietin receptor activator", "weight": 0.0, "id": 2779154628, "level": 4}
+{"count": 177, "name": "Basophilic stippling", "weight": 0.0, "id": 18041740, "level": 4}
+{"count": 254, "name": "Refractory cytopenia with multilineage dysplasia", "weight": 0.0, "id": 2780146953, "level": 4}
+{"count": 373, "name": "Normochromic anemia", "weight": 0.0, "id": 2780515317, "level": 4}
+{"count": 328, "name": "Red blood cell indices", "weight": 0.0, "id": 2777993272, "level": 4}
+{"count": 222, "name": "Refractory anemia with ring sideroblasts", "weight": 0.0, "id": 2777081310, "level": 4}
+{"count": 92, "name": "Peginesatide", "weight": 0.0, "id": 2775925316, "level": 4}
+{"count": 88, "name": "Erythroid dysplasia", "weight": 0.0, "id": 2776851369, "level": 4}
+{"count": 256, "name": "Hematinic", "weight": 0.0, "id": 2777625098, "level": 4}
+{"count": 118, "name": "Congenital hypoplastic anemia", "weight": 0.0, "id": 2780476218, "level": 4}
+{"count": 58, "name": "Reticulocyte production index", "weight": 0.0, "id": 2780122585, "level": 4}
+{"count": 158, "name": "Polychromasia", "weight": 0.0, "id": 2777461856, "level": 4}
+{"count": 40, "name": "Hemosiderinuria", "weight": 0.0, "id": 2776051102, "level": 4}
+{"count": 12, "name": "Aase syndrome", "weight": 0.0, "id": 2780679701, "level": 4}
+{"count": 45, "name": "Myelophthisic anemia", "weight": 0.0, "id": 2776451715, "level": 4}
+{"count": 87, "name": "Acceleron", "weight": 0.0, "id": 2775934404, "level": 4}
+{"count": 21, "name": "HIF prolyl-hydroxylase inhibitor", "weight": 0.0, "id": 2777504050, "level": 4}

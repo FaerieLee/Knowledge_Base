@@ -1,0 +1,8 @@
+{"count": 8726, "name": "Speech enhancement", "weight": 6.0, "id": 2776182073, "level": 3}
+{"count": 7940, "name": "Linear predictive coding", "weight": 5.0, "id": 59883199, "level": 3}
+{"count": 2060, "name": "Speech segmentation", "weight": 1.0, "id": 207030507, "level": 3}
+{"count": 14486, "name": "Voice activity detection", "weight": 10.0, "id": 204201278, "level": 3}
+{"count": 8785, "name": "Acoustic model", "weight": 6.0, "id": 155635449, "level": 3}
+{"count": 516, "name": "Zero-crossing rate", "weight": 0.0, "id": 2776860830, "level": 3}
+{"count": 5447, "name": "Speech technology", "weight": 3.0, "id": 504749915, "level": 3}
+{"count": 1976, "name": "Pitch detection algorithm", "weight": 1.0, "id": 135622632, "level": 3}

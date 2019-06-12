@@ -1,0 +1,66 @@
+{"count": 19954, "name": "Grayscale", "weight": 8.0, "id": 78201319, "level": 3}
+{"count": 3528, "name": "Bilateral filter", "weight": 1.0, "id": 156140930, "level": 3}
+{"count": 5920, "name": "CMOS sensor", "weight": 2.0, "id": 155512908, "level": 3}
+{"count": 1389, "name": "Fixed-pattern noise", "weight": 0.0, "id": 2778368474, "level": 3}
+{"count": 8276, "name": "Color filter array", "weight": 3.0, "id": 177299597, "level": 3}
+{"count": 23436, "name": "Color gel", "weight": 10.0, "id": 142771000, "level": 3}
+{"count": 1757, "name": "Visual cryptography", "weight": 0.0, "id": 2779072331, "level": 3}
+{"count": 1048, "name": "Correlated double sampling", "weight": 0.0, "id": 118277053, "level": 3}
+{"count": 6184, "name": "Non-local means", "weight": 2.0, "id": 101453961, "level": 3}
+{"count": 1890, "name": "Error diffusion", "weight": 0.0, "id": 3062760, "level": 3}
+{"count": 779, "name": "Seam carving", "weight": 0.0, "id": 23746413, "level": 3}
+{"count": 1595, "name": "Charge sharing", "weight": 0.0, "id": 2781179661, "level": 3}
+{"count": 4706, "name": "Subpixel rendering", "weight": 2.0, "id": 68516990, "level": 3}
+{"count": 767, "name": "Scan conversion", "weight": 0.0, "id": 2778347262, "level": 3}
+{"count": 666, "name": "Alpha compositing", "weight": 0.0, "id": 94406722, "level": 3}
+{"count": 736, "name": "Ground sample distance", "weight": 0.0, "id": 197513456, "level": 3}
+{"count": 872, "name": "Foreground detection", "weight": 0.0, "id": 2779769447, "level": 3}
+{"count": 7829, "name": "Scan line", "weight": 3.0, "id": 142748172, "level": 3}
+{"count": 1870, "name": "Endmember", "weight": 0.0, "id": 58237817, "level": 3}
+{"count": 468, "name": "Vision chip", "weight": 0.0, "id": 2775908279, "level": 3}
+{"count": 859, "name": "Deinterlacing", "weight": 0.0, "id": 159299435, "level": 3}
+{"count": 6464, "name": "Halftone", "weight": 2.0, "id": 2777635815, "level": 3}
+{"count": 2768, "name": "Display resolution", "weight": 1.0, "id": 71597744, "level": 3}
+{"count": 1066, "name": "Progressive scan", "weight": 0.0, "id": 133510552, "level": 3}
+{"count": 1568, "name": "Parallax barrier", "weight": 0.0, "id": 157321605, "level": 3}
+{"count": 2841, "name": "Dot pitch", "weight": 1.0, "id": 179813606, "level": 3}
+{"count": 1621, "name": "Rolling shutter", "weight": 0.0, "id": 2776166537, "level": 3}
+{"count": 528, "name": "Bresenham's line algorithm", "weight": 0.0, "id": 46328506, "level": 3}
+{"count": 1463, "name": "Pixel density", "weight": 0.0, "id": 130117811, "level": 3}
+{"count": 605, "name": "Interlaced video", "weight": 0.0, "id": 2780294456, "level": 3}
+{"count": 2488, "name": "Sub-pixel resolution", "weight": 1.0, "id": 152363868, "level": 3}
+{"count": 743, "name": "Readout integrated circuit", "weight": 0.0, "id": 2776603980, "level": 3}
+{"count": 1019, "name": "Sum of absolute differences", "weight": 0.0, "id": 94622430, "level": 3}
+{"count": 266, "name": "Frame rate control", "weight": 0.0, "id": 2776164328, "level": 3}
+{"count": 29, "name": "Quantum image processing", "weight": 0.0, "id": 2780464117, "level": 3}
+{"count": 119, "name": "Flat-field correction", "weight": 0.0, "id": 2779841204, "level": 3}
+{"count": 1326, "name": "Luma", "weight": 0.0, "id": 168845085, "level": 3}
+{"count": 76, "name": "Order-independent transparency", "weight": 0.0, "id": 2779577208, "level": 3}
+{"count": 361, "name": "Pixelation", "weight": 0.0, "id": 153470786, "level": 3}
+{"count": 903, "name": "Transflective liquid-crystal display", "weight": 0.0, "id": 2780837018, "level": 3}
+{"count": 169, "name": "Grating light valve", "weight": 0.0, "id": 2778427726, "level": 3}
+{"count": 840, "name": "Defective pixel", "weight": 0.0, "id": 2778787723, "level": 3}
+{"count": 1303, "name": "Black level", "weight": 0.0, "id": 49338372, "level": 3}
+{"count": 536, "name": "Stencil buffer", "weight": 0.0, "id": 71655876, "level": 3}
+{"count": 174, "name": "Optical format", "weight": 0.0, "id": 2779207036, "level": 3}
+{"count": 101, "name": "Pixel geometry", "weight": 0.0, "id": 2780003111, "level": 3}
+{"count": 123, "name": "Pixelization", "weight": 0.0, "id": 2777543843, "level": 3}
+{"count": 523, "name": "Colour look-up table", "weight": 0.0, "id": 21689295, "level": 3}
+{"count": 437, "name": "Surface-conduction electron-emitter display", "weight": 0.0, "id": 37546764, "level": 3}
+{"count": 10, "name": "Hole accumulation diode", "weight": 0.0, "id": 2778004058, "level": 3}
+{"count": 101, "name": "Jaggies", "weight": 0.0, "id": 84196779, "level": 3}
+{"count": 80, "name": "Interferometric modulator display", "weight": 0.0, "id": 2779063799, "level": 3}
+{"count": 11, "name": "Angle\u2013sensitive pixel", "weight": 0.0, "id": 2777944307, "level": 3}
+{"count": 60, "name": "Colour cast", "weight": 0.0, "id": 2777826660, "level": 3}
+{"count": 38, "name": "Silhouette edge", "weight": 0.0, "id": 2776478775, "level": 3}
+{"count": 92, "name": "Picture function", "weight": 0.0, "id": 195295927, "level": 3}
+{"count": 14, "name": "Raw image format", "weight": 0.0, "id": 2777268718, "level": 3}
+{"count": 1522, "name": "Native resolution", "weight": 0.0, "id": 65152814, "level": 3}
+{"count": 65, "name": "RAMDAC", "weight": 0.0, "id": 2779866998, "level": 3}
+{"count": 110, "name": "AVC-Intra", "weight": 0.0, "id": 2777263723, "level": 3}
+{"count": 19, "name": "Shadow noise", "weight": 0.0, "id": 2777693481, "level": 3}
+{"count": 97, "name": "Fillrate", "weight": 0.0, "id": 170550822, "level": 3}
+{"count": 2063, "name": "960H Technology", "weight": 0.0, "id": 65010607, "level": 3}
+{"count": 14, "name": "Wobulation", "weight": 0.0, "id": 2778340443, "level": 3}
+{"count": 33, "name": "All points addressable", "weight": 0.0, "id": 2778528932, "level": 3}
+{"count": 17, "name": "X.1035", "weight": 0.0, "id": 2777668463, "level": 3}

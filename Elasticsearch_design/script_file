@@ -1,0 +1,56 @@
+{
+  "operations":
+  [
+    {
+      "description": "根据bool查询结合模糊查询删除不包含作者名字的文档",
+      "statement": "POST ***/_delete_by_query",
+      "parameter":{
+        "query": {
+          "bool": {
+            "must_not": {
+              "wildcard": {
+                "authors.name": "*"
+              }
+            }
+          }
+        }
+      }
+    },
+
+    {
+      "description": "通过关键词匹配找寻作者名字为特定字符串的文档,然后删除该文档中值为该字符串的作者名字,然而此方法存在局限性,当名字和机构同时存在时,该方法失效",
+      "statement": "POST ***/_update_by_query",
+      "parameter":{
+        "script" : {
+          "source": "while (ctx._source.authors.contains(params.tag)) { ctx._source.authors.remove(ctx._source.authors.indexOf(params.tag)) }",
+          "lang": "painless",
+          "params" : {
+            "tag" : {
+              "name":"&NA;"
+            }
+          }
+        },
+        "query": {
+          "term": {
+            "authors.name": "&na;"
+          }
+        }
+      }
+    },
+
+    {
+      "description": "通过正则表达式匹配,查询文档作者名字信息中包含邮箱的文档",
+      "statement": "_search",
+      "parameter": {
+        "query":{
+          "regexp": {
+            "authors.name": ".*([a-z]|[A-Z]|[0-9]|_|-)+(\".\"[a-z]|[A-Z]|[0-9]|_|-)*\"@\"([a-z]|[A-Z]|[0-9]|_|-)+(\".\"([a-z]|[A-Z]|[0-9]|_|-)+)+.*",
+          }
+        }
+      }
+    }
+
+
+  ]
+
+}

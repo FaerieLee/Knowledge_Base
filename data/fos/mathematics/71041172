@@ -1,0 +1,14 @@
+{"count": 8956, "name": "Power-added efficiency", "weight": 10.0, "id": 129231560, "level": 5}
+{"count": 837, "name": "Doherty amplifier", "weight": 0.0, "id": 2779809587, "level": 5}
+{"count": 3885, "name": "Multistage amplifier", "weight": 4.0, "id": 22206589, "level": 5}
+{"count": 66, "name": "Distributed active transformer", "weight": 0.0, "id": 2781179158, "level": 5}
+{"count": 6637, "name": "FET amplifier", "weight": 7.0, "id": 199501884, "level": 5}
+{"count": 6375, "name": "Cascade amplifier", "weight": 7.0, "id": 49922035, "level": 5}
+{"count": 628, "name": "Audio power", "weight": 0.0, "id": 45788676, "level": 5}
+{"count": 1009, "name": "Bridge-tied load", "weight": 1.0, "id": 38189310, "level": 5}
+{"count": 139, "name": "Half power point", "weight": 0.0, "id": 124182699, "level": 5}
+{"count": 453, "name": "Tower Mounted Amplifier", "weight": 0.0, "id": 36691168, "level": 5}
+{"count": 8627, "name": "Power bandwidth", "weight": 9.0, "id": 191907038, "level": 5}
+{"count": 21, "name": "Intermediate power amplifier", "weight": 0.0, "id": 2777222722, "level": 5}
+{"count": 11, "name": "Output transformerless", "weight": 0.0, "id": 2780308682, "level": 5}
+{"count": 1196, "name": "Amplifier figures of merit", "weight": 1.0, "id": 14577153, "level": 5}

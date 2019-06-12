@@ -1,0 +1,17 @@
+{"count": 13568, "name": "Gait analysis", "weight": 10.0, "id": 173906292, "level": 3}
+{"count": 7087, "name": "Ground reaction force", "weight": 5.0, "id": 96332660, "level": 3}
+{"count": 8920, "name": "Preferred walking speed", "weight": 6.0, "id": 70770792, "level": 3}
+{"count": 6202, "name": "STRIDE", "weight": 4.0, "id": 18007350, "level": 3}
+{"count": 3355, "name": "Gait (human)", "weight": 2.0, "id": 32665929, "level": 3}
+{"count": 2465, "name": "Gait training", "weight": 1.0, "id": 2777217371, "level": 3}
+{"count": 274, "name": "Passive dynamics", "weight": 0.0, "id": 205417435, "level": 3}
+{"count": 494, "name": "Terrestrial locomotion", "weight": 0.0, "id": 532751654, "level": 3}
+{"count": 1166, "name": "Quadrupedalism", "weight": 0.0, "id": 134181672, "level": 3}
+{"count": 157, "name": "Reciprocating gait orthosis", "weight": 0.0, "id": 2779196960, "level": 3}
+{"count": 346, "name": "Gait abnormality", "weight": 0.0, "id": 2777942086, "level": 3}
+{"count": 192, "name": "Tandem gait", "weight": 0.0, "id": 2780304025, "level": 3}
+{"count": 14, "name": "Preflexes", "weight": 0.0, "id": 2779583362, "level": 3}
+{"count": 34, "name": "Stotting", "weight": 0.0, "id": 51324312, "level": 3}
+{"count": 73, "name": "Sidewinding", "weight": 0.0, "id": 183711841, "level": 3}
+{"count": 43, "name": "Rectilinear locomotion", "weight": 0.0, "id": 175058371, "level": 3}
+{"count": 10, "name": "Broken escalator phenomenon", "weight": 0.0, "id": 2777347732, "level": 3}

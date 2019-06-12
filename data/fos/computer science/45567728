@@ -1,0 +1,6 @@
+{"count": 806, "name": "Separation of duties", "weight": 6.0, "id": 100587491, "level": 4}
+{"count": 913, "name": "Mandatory access control", "weight": 7.0, "id": 2777407602, "level": 4}
+{"count": 1192, "name": "Discretionary access control", "weight": 10.0, "id": 48814466, "level": 4}
+{"count": 301, "name": "Role hierarchy", "weight": 2.0, "id": 2776760504, "level": 4}
+{"count": 284, "name": "Attribute-based access control", "weight": 2.0, "id": 2780940336, "level": 4}
+{"count": 568, "name": "Privilege Management Infrastructure", "weight": 4.0, "id": 206794815, "level": 4}

@@ -1,0 +1,35 @@
+{"count": 36441, "name": "Land cover", "weight": 10.0, "id": 2780648208, "level": 3}
+{"count": 26039, "name": "Agricultural land", "weight": 7.0, "id": 502990516, "level": 3}
+{"count": 29452, "name": "Land management", "weight": 8.0, "id": 559400886, "level": 3}
+{"count": 21301, "name": "Land use, land-use change and forestry", "weight": 5.0, "id": 122690726, "level": 3}
+{"count": 26318, "name": "Land-use planning", "weight": 7.0, "id": 184603391, "level": 3}
+{"count": 8866, "name": "Land degradation", "weight": 2.0, "id": 113052830, "level": 3}
+{"count": 3479, "name": "Shifting cultivation", "weight": 0.0, "id": 141005173, "level": 3}
+{"count": 10242, "name": "Urban sprawl", "weight": 2.0, "id": 487182, "level": 3}
+{"count": 14430, "name": "Land development", "weight": 3.0, "id": 17206440, "level": 3}
+{"count": 1592, "name": "Marginal land", "weight": 0.0, "id": 2775874878, "level": 3}
+{"count": 2994, "name": "Land consolidation", "weight": 0.0, "id": 2777534865, "level": 3}
+{"count": 1933, "name": "Transit-oriented development", "weight": 0.0, "id": 2778399496, "level": 3}
+{"count": 2517, "name": "Smart growth", "weight": 0.0, "id": 2779152076, "level": 3}
+{"count": 1985, "name": "Growth management", "weight": 0.0, "id": 2780565591, "level": 3}
+{"count": 699, "name": "Mixed-use development", "weight": 0.0, "id": 2777294933, "level": 3}
+{"count": 443, "name": "Forest transition", "weight": 0.0, "id": 2777984968, "level": 3}
+{"count": 742, "name": "Built-up area", "weight": 0.0, "id": 2780105985, "level": 3}
+{"count": 565, "name": "Farmland protection", "weight": 0.0, "id": 2779204379, "level": 3}
+{"count": 134, "name": "National Resources Inventory", "weight": 0.0, "id": 2778203884, "level": 3}
+{"count": 288, "name": "Land-use conflict", "weight": 0.0, "id": 2780185008, "level": 3}
+{"count": 1453, "name": "Suitability analysis", "weight": 0.0, "id": 159440372, "level": 3}
+{"count": 376, "name": "Farmland preservation", "weight": 0.0, "id": 2776682078, "level": 3}
+{"count": 352, "name": "Rural\u2013urban fringe", "weight": 0.0, "id": 2777470500, "level": 3}
+{"count": 155, "name": "Automobile dependency", "weight": 0.0, "id": 2776150259, "level": 3}
+{"count": 191, "name": "Land banking", "weight": 0.0, "id": 2780334102, "level": 3}
+{"count": 312, "name": "Land consumption", "weight": 0.0, "id": 2776834102, "level": 3}
+{"count": 221, "name": "UrbanSim", "weight": 0.0, "id": 2779369318, "level": 3}
+{"count": 241, "name": "Exclusionary zoning", "weight": 0.0, "id": 2777380792, "level": 3}
+{"count": 288, "name": "Prime farmland", "weight": 0.0, "id": 143389717, "level": 3}
+{"count": 110, "name": "Shared parking", "weight": 0.0, "id": 2778322985, "level": 3}
+{"count": 88, "name": "TRANUS", "weight": 0.0, "id": 2780455979, "level": 3}
+{"count": 99, "name": "Variance (land use)", "weight": 0.0, "id": 118295117, "level": 3}
+{"count": 30, "name": "Locally unwanted land use", "weight": 0.0, "id": 2776419724, "level": 3}
+{"count": 18, "name": "Zoning in the United States", "weight": 0.0, "id": 2778461148, "level": 3}
+{"count": 34, "name": "Hydrological transport model", "weight": 0.0, "id": 169242911, "level": 3}

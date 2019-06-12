@@ -1,0 +1,15 @@
+{"count": 4337, "name": "Dust storm", "weight": 4.0, "id": 2781449660, "level": 3}
+{"count": 9311, "name": "Storm surge", "weight": 10.0, "id": 22818535, "level": 3}
+{"count": 5218, "name": "Severe weather", "weight": 5.0, "id": 187460315, "level": 3}
+{"count": 1194, "name": "Storm track", "weight": 1.0, "id": 2777351977, "level": 3}
+{"count": 1441, "name": "Supercell", "weight": 1.0, "id": 136498428, "level": 3}
+{"count": 3367, "name": "Winter storm", "weight": 3.0, "id": 196937547, "level": 3}
+{"count": 2035, "name": "Convective storm detection", "weight": 2.0, "id": 192932206, "level": 3}
+{"count": 884, "name": "Overwash", "weight": 0.0, "id": 2779462494, "level": 3}
+{"count": 133, "name": "Hurricane Research Division", "weight": 0.0, "id": 2776385422, "level": 3}
+{"count": 491, "name": "Hurricane Floyd", "weight": 0.0, "id": 38569191, "level": 3}
+{"count": 518, "name": "European windstorm", "weight": 0.0, "id": 121453224, "level": 3}
+{"count": 147, "name": "Paleotempestology", "weight": 0.0, "id": 9407859, "level": 3}
+{"count": 147, "name": "Nor'easter", "weight": 0.0, "id": 174102783, "level": 3}
+{"count": 251, "name": "Storm Data", "weight": 0.0, "id": 2779014059, "level": 3}
+{"count": 105, "name": "Storm cell", "weight": 0.0, "id": 2778323760, "level": 3}

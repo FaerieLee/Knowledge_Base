@@ -1,0 +1,15 @@
+{"count": 1445, "name": "DVB-T", "weight": 10.0, "id": 2777058275, "level": 4}
+{"count": 397, "name": "DVB-H", "weight": 2.0, "id": 2777695277, "level": 4}
+{"count": 748, "name": "DVB-S2", "weight": 5.0, "id": 2780584276, "level": 4}
+{"count": 392, "name": "DVB-T2", "weight": 2.0, "id": 2778955185, "level": 4}
+{"count": 353, "name": "DVB-S", "weight": 2.0, "id": 2776823125, "level": 4}
+{"count": 382, "name": "DVB-RCS", "weight": 2.0, "id": 2776895385, "level": 4}
+{"count": 155, "name": "Multimedia Home Platform", "weight": 1.0, "id": 2777232856, "level": 4}
+{"count": 72, "name": "MediaFLO", "weight": 0.0, "id": 2781001485, "level": 4}
+{"count": 165, "name": "DVB-C", "weight": 1.0, "id": 2777223602, "level": 4}
+{"count": 37, "name": "Unidirectional Lightweight Encapsulation", "weight": 0.0, "id": 2777549458, "level": 4}
+{"count": 42, "name": "Multiprotocol Encapsulation", "weight": 0.0, "id": 2779780536, "level": 4}
+{"count": 38, "name": "IP over DVB", "weight": 0.0, "id": 2776537846, "level": 4}
+{"count": 18, "name": "DVB-RCT", "weight": 0.0, "id": 2776256968, "level": 4}
+{"count": 33, "name": "OMA BCAST", "weight": 0.0, "id": 2777383691, "level": 4}
+{"count": 60, "name": "SMATV", "weight": 0.0, "id": 2777752016, "level": 4}

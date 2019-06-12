@@ -1,0 +1,9 @@
+{"count": 852, "name": "B-Method", "weight": 2.0, "id": 192698709, "level": 3}
+{"count": 1977, "name": "Formal equivalence checking", "weight": 5.0, "id": 96654402, "level": 3}
+{"count": 783, "name": "Design by contract", "weight": 2.0, "id": 80291951, "level": 3}
+{"count": 194, "name": "Prototype Verification System", "weight": 0.0, "id": 2780643309, "level": 3}
+{"count": 219, "name": "Object-Z", "weight": 0.0, "id": 2778489170, "level": 3}
+{"count": 95, "name": "Wide-spectrum language", "weight": 0.0, "id": 2778056323, "level": 3}
+{"count": 333, "name": "Vienna Development Method", "weight": 0.0, "id": 87835815, "level": 3}
+{"count": 1416, "name": "Refinement", "weight": 3.0, "id": 14331664, "level": 3}
+{"count": 3614, "name": "Language Of Temporal Ordering Specification", "weight": 10.0, "id": 90069079, "level": 3}

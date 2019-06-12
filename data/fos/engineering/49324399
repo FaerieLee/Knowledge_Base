@@ -1,0 +1,12 @@
+{"count": 15883, "name": "Voltage droop", "weight": 8.0, "id": 40760162, "level": 4}
+{"count": 1578, "name": "Voltage doubler", "weight": 0.0, "id": 106224450, "level": 4}
+{"count": 8014, "name": "Load line", "weight": 4.0, "id": 40597856, "level": 4}
+{"count": 3907, "name": "Current divider", "weight": 2.0, "id": 97264828, "level": 4}
+{"count": 7525, "name": "Mesh analysis", "weight": 3.0, "id": 55311165, "level": 4}
+{"count": 303, "name": "Single-ended signaling", "weight": 0.0, "id": 45356311, "level": 4}
+{"count": 3644, "name": "Pre-charge", "weight": 1.0, "id": 34919404, "level": 4}
+{"count": 18968, "name": "Dropout voltage", "weight": 10.0, "id": 15032970, "level": 4}
+{"count": 8720, "name": "Capacitive power supply", "weight": 4.0, "id": 34234416, "level": 4}
+{"count": 1481, "name": "Undervoltage-lockout", "weight": 0.0, "id": 85822417, "level": 4}
+{"count": 437, "name": "Trisil", "weight": 0.0, "id": 111090031, "level": 4}
+{"count": 5783, "name": "Zero cross circuit", "weight": 3.0, "id": 32817839, "level": 4}

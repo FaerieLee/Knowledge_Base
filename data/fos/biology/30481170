@@ -1,0 +1,62 @@
+{"count": 24628, "name": "Cytogenetics", "weight": 5.0, "id": 174475383, "level": 3}
+{"count": 19069, "name": "X chromosome", "weight": 4.0, "id": 35158069, "level": 3}
+{"count": 41585, "name": "Karyotype", "weight": 10.0, "id": 53226629, "level": 3}
+{"count": 29522, "name": "Meiosis", "weight": 7.0, "id": 148196450, "level": 3}
+{"count": 13370, "name": "Y chromosome", "weight": 3.0, "id": 2780246931, "level": 3}
+{"count": 9670, "name": "Centromere", "weight": 2.0, "id": 63491729, "level": 3}
+{"count": 10269, "name": "Heterochromatin", "weight": 2.0, "id": 103435993, "level": 3}
+{"count": 4046, "name": "Chromosomal rearrangement", "weight": 0.0, "id": 86546924, "level": 3}
+{"count": 5598, "name": "Chromosome instability", "weight": 1.0, "id": 140752955, "level": 3}
+{"count": 15941, "name": "Metaphase", "weight": 3.0, "id": 70278784, "level": 3}
+{"count": 2884, "name": "Satellite DNA", "weight": 0.0, "id": 140367098, "level": 3}
+{"count": 5809, "name": "Kinetochore", "weight": 1.0, "id": 192838845, "level": 3}
+{"count": 4280, "name": "Chromatid", "weight": 1.0, "id": 73397532, "level": 3}
+{"count": 3558, "name": "Polytene chromosome", "weight": 0.0, "id": 51423104, "level": 3}
+{"count": 7305, "name": "Autosome", "weight": 1.0, "id": 134925867, "level": 3}
+{"count": 2311, "name": "Premature chromosome condensation", "weight": 0.0, "id": 178108356, "level": 3}
+{"count": 2476, "name": "Chromosomal fragile site", "weight": 0.0, "id": 60449816, "level": 3}
+{"count": 3045, "name": "Chromosome 15", "weight": 0.0, "id": 165237769, "level": 3}
+{"count": 5850, "name": "Chromosome 22", "weight": 1.0, "id": 54815482, "level": 3}
+{"count": 443, "name": "Minichromosome", "weight": 0.0, "id": 2780091387, "level": 3}
+{"count": 4859, "name": "Sister chromatids", "weight": 1.0, "id": 8502773, "level": 3}
+{"count": 4109, "name": "Common wheat", "weight": 0.0, "id": 2780068994, "level": 3}
+{"count": 7629, "name": "Polyploid", "weight": 1.0, "id": 2776626444, "level": 3}
+{"count": 1861, "name": "Dicentric chromosome", "weight": 0.0, "id": 103037022, "level": 3}
+{"count": 486, "name": "Double minute", "weight": 0.0, "id": 204555670, "level": 3}
+{"count": 907, "name": "Condensin", "weight": 0.0, "id": 155790170, "level": 3}
+{"count": 547, "name": "Lampbrush chromosome", "weight": 0.0, "id": 189892973, "level": 3}
+{"count": 1500, "name": "Subtelomere", "weight": 0.0, "id": 23069440, "level": 3}
+{"count": 443, "name": "Drosophila hydei", "weight": 0.0, "id": 2778911891, "level": 3}
+{"count": 868, "name": "Human artificial chromosome", "weight": 0.0, "id": 132144397, "level": 3}
+{"count": 290, "name": "Crepis capillaris", "weight": 0.0, "id": 2777274751, "level": 3}
+{"count": 271, "name": "SMC protein", "weight": 0.0, "id": 128919714, "level": 3}
+{"count": 161, "name": "Isodisomy", "weight": 0.0, "id": 2780185332, "level": 3}
+{"count": 294, "name": "Chromomycin A3", "weight": 0.0, "id": 2780933421, "level": 3}
+{"count": 127, "name": "Langer\u2013Giedion syndrome", "weight": 0.0, "id": 2778955848, "level": 3}
+{"count": 198, "name": "Diploidization", "weight": 0.0, "id": 2776779442, "level": 3}
+{"count": 373, "name": "Thinopyrum intermedium", "weight": 0.0, "id": 2776530204, "level": 3}
+{"count": 515, "name": "Chromothripsis", "weight": 0.0, "id": 99983632, "level": 3}
+{"count": 158, "name": "Dasypyrum villosum", "weight": 0.0, "id": 2779771316, "level": 3}
+{"count": 183, "name": "Q-FISH", "weight": 0.0, "id": 107453869, "level": 3}
+{"count": 206, "name": "Thinopyrum ponticum", "weight": 0.0, "id": 2779044802, "level": 3}
+{"count": 111, "name": "Microcell-mediated chromosome transfer", "weight": 0.0, "id": 2777216408, "level": 3}
+{"count": 414, "name": "Chromosome microdissection", "weight": 0.0, "id": 2535587, "level": 3}
+{"count": 516, "name": "Muntjac", "weight": 0.0, "id": 2777048402, "level": 3}
+{"count": 293, "name": "Sciara", "weight": 0.0, "id": 2777804705, "level": 3}
+{"count": 570, "name": "Eukaryotic chromosome fine structure", "weight": 0.0, "id": 80116771, "level": 3}
+{"count": 43, "name": "Brachyscome", "weight": 0.0, "id": 2780605622, "level": 3}
+{"count": 1071, "name": "Heterogametic sex", "weight": 0.0, "id": 36217612, "level": 3}
+{"count": 42, "name": "Triaziquone", "weight": 0.0, "id": 2779050768, "level": 3}
+{"count": 68, "name": "Drosophila robusta", "weight": 0.0, "id": 2779159160, "level": 3}
+{"count": 71, "name": "Nothoscordum", "weight": 0.0, "id": 2776259780, "level": 3}
+{"count": 181, "name": "Sex-determination system", "weight": 0.0, "id": 138675689, "level": 3}
+{"count": 149, "name": "Ellobius", "weight": 0.0, "id": 2780347838, "level": 3}
+{"count": 16, "name": "Oryzias luzonensis", "weight": 0.0, "id": 2781209138, "level": 3}
+{"count": 96, "name": "Genetic imbalance", "weight": 0.0, "id": 2778190601, "level": 3}
+{"count": 187, "name": "Nullisomic", "weight": 0.0, "id": 2779200230, "level": 3}
+{"count": 77, "name": "Parodontidae", "weight": 0.0, "id": 2778945987, "level": 3}
+{"count": 23, "name": "Cytodeme", "weight": 0.0, "id": 2780869221, "level": 3}
+{"count": 271, "name": "Sex-limited genes", "weight": 0.0, "id": 154943629, "level": 3}
+{"count": 13, "name": "ZW sex-determination system", "weight": 0.0, "id": 2778798532, "level": 3}
+{"count": 14, "name": "Luzula nivea", "weight": 0.0, "id": 2779772947, "level": 3}
+{"count": 17, "name": "Nipponanthemum", "weight": 0.0, "id": 2779834806, "level": 3}

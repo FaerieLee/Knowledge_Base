@@ -1,0 +1,7 @@
+{"count": 362, "name": "Multi-channel memory architecture", "weight": 1.0, "id": 164333445, "level": 5}
+{"count": 384, "name": "Flash memory controller", "weight": 1.0, "id": 2778096888, "level": 5}
+{"count": 99, "name": "DDR3 SDRAM", "weight": 0.0, "id": 2777516226, "level": 5}
+{"count": 26, "name": "Fully Buffered DIMM", "weight": 0.0, "id": 2778275021, "level": 5}
+{"count": 94, "name": "NVDIMM", "weight": 0.0, "id": 108700619, "level": 5}
+{"count": 2198, "name": "Memory rank", "weight": 10.0, "id": 158294801, "level": 5}
+{"count": 34, "name": "Row hammer", "weight": 0.0, "id": 2779215740, "level": 5}

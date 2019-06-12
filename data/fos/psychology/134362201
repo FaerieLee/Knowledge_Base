@@ -1,0 +1,58 @@
+{"count": 57733, "name": "Mental illness", "weight": 10.0, "id": 2776674806, "level": 3}
+{"count": 5626, "name": "Help-seeking", "weight": 0.0, "id": 2779116948, "level": 3}
+{"count": 3050, "name": "SF-36", "weight": 0.0, "id": 2776237627, "level": 3}
+{"count": 11594, "name": "Psychiatric hospital", "weight": 2.0, "id": 2778697850, "level": 3}
+{"count": 5305, "name": "General Health Questionnaire", "weight": 0.0, "id": 2780124687, "level": 3}
+{"count": 1728, "name": "National Comorbidity Survey", "weight": 0.0, "id": 125920245, "level": 3}
+{"count": 7201, "name": "Somatization", "weight": 1.0, "id": 2777631960, "level": 3}
+{"count": 3256, "name": "Dual diagnosis", "weight": 0.0, "id": 2777955769, "level": 3}
+{"count": 2231, "name": "Strengths and Difficulties Questionnaire", "weight": 0.0, "id": 2776793905, "level": 3}
+{"count": 3106, "name": "Collaborative Care", "weight": 0.0, "id": 2781018821, "level": 3}
+{"count": 2152, "name": "Liaison psychiatry", "weight": 0.0, "id": 2778458342, "level": 3}
+{"count": 1079, "name": "Psychiatric epidemiology", "weight": 0.0, "id": 2777725460, "level": 3}
+{"count": 482, "name": "Cross-cultural psychiatry", "weight": 0.0, "id": 2779440264, "level": 3}
+{"count": 2631, "name": "Mental distress", "weight": 0.0, "id": 2777274743, "level": 3}
+{"count": 1663, "name": "Therapeutic jurisprudence", "weight": 0.0, "id": 156352284, "level": 3}
+{"count": 2852, "name": "Military psychiatry", "weight": 0.0, "id": 190104652, "level": 3}
+{"count": 903, "name": "Minority stress", "weight": 0.0, "id": 2777005476, "level": 3}
+{"count": 161, "name": "Internalizing disorder", "weight": 0.0, "id": 2780371516, "level": 3}
+{"count": 653, "name": "Involuntary treatment", "weight": 0.0, "id": 2780104750, "level": 3}
+{"count": 976, "name": "Global mental health", "weight": 0.0, "id": 2779943754, "level": 3}
+{"count": 12022, "name": "Mental health law", "weight": 2.0, "id": 545805344, "level": 3}
+{"count": 509, "name": "Research Domain Criteria", "weight": 0.0, "id": 2777343845, "level": 3}
+{"count": 565, "name": "National Survey on Drug Use and Health", "weight": 0.0, "id": 2780138408, "level": 3}
+{"count": 280, "name": "Care Programme Approach", "weight": 0.0, "id": 2776697053, "level": 3}
+{"count": 491, "name": "Partial hospitalization", "weight": 0.0, "id": 2777957930, "level": 3}
+{"count": 791, "name": "Infant mental health", "weight": 0.0, "id": 2776315141, "level": 3}
+{"count": 570, "name": "Emergency psychiatry", "weight": 0.0, "id": 2776012904, "level": 3}
+{"count": 263, "name": "Psychological first aid", "weight": 0.0, "id": 2777898158, "level": 3}
+{"count": 188, "name": "Pediatric Symptom Checklist", "weight": 0.0, "id": 2777825456, "level": 3}
+{"count": 305, "name": "Serious emotional disturbance", "weight": 0.0, "id": 2781283576, "level": 3}
+{"count": 9212, "name": "Prevalence of mental disorders", "weight": 1.0, "id": 145734003, "level": 3}
+{"count": 523, "name": "Involuntary commitment", "weight": 0.0, "id": 2776970674, "level": 3}
+{"count": 230, "name": "Critical incident stress management", "weight": 0.0, "id": 2776001652, "level": 3}
+{"count": 148, "name": "Green exercise", "weight": 0.0, "id": 2777175953, "level": 3}
+{"count": 665, "name": "Psychiatric medication", "weight": 0.0, "id": 2776309775, "level": 3}
+{"count": 68, "name": "Texas Medication Algorithm Project", "weight": 0.0, "id": 2775941451, "level": 3}
+{"count": 39, "name": "Mental disorders diagnosed in childhood", "weight": 0.0, "id": 2778796381, "level": 3}
+{"count": 325, "name": "Suicide intervention", "weight": 0.0, "id": 2781095222, "level": 3}
+{"count": 137, "name": "Clinical mental health counseling", "weight": 0.0, "id": 2777893898, "level": 3}
+{"count": 71, "name": "Dianetics", "weight": 0.0, "id": 2778793758, "level": 3}
+{"count": 236, "name": "Recovery approach", "weight": 0.0, "id": 2777382194, "level": 3}
+{"count": 294, "name": "Improving Access to Psychological Therapies", "weight": 0.0, "id": 2776101842, "level": 3}
+{"count": 152, "name": "Parity of esteem", "weight": 0.0, "id": 2780097137, "level": 3}
+{"count": 118, "name": "Primary Care Behavioral health", "weight": 0.0, "id": 2779036198, "level": 3}
+{"count": 175, "name": "Community counselor", "weight": 0.0, "id": 26032328, "level": 3}
+{"count": 28, "name": "Dyadic developmental psychotherapy", "weight": 0.0, "id": 2780538742, "level": 3}
+{"count": 40, "name": "Psychosexual disorder", "weight": 0.0, "id": 2778459914, "level": 3}
+{"count": 114, "name": "Homicidal ideation", "weight": 0.0, "id": 2777491060, "level": 3}
+{"count": 209, "name": "Psychiatric and mental health nursing", "weight": 0.0, "id": 2779209561, "level": 3}
+{"count": 128, "name": "Mental health counselor", "weight": 0.0, "id": 2777595580, "level": 3}
+{"count": 27, "name": "Attachment-based therapy", "weight": 0.0, "id": 2780970131, "level": 3}
+{"count": 24, "name": "Human givens", "weight": 0.0, "id": 2775992938, "level": 3}
+{"count": 34, "name": "Licensed professional counselor", "weight": 0.0, "id": 2778725151, "level": 3}
+{"count": 64, "name": "Trauma Screening Questionnaire", "weight": 0.0, "id": 2779232732, "level": 3}
+{"count": 12, "name": "Peer support specialist", "weight": 0.0, "id": 2777190842, "level": 3}
+{"count": 18, "name": "Psychiatric reform in Italy", "weight": 0.0, "id": 2777524860, "level": 3}
+{"count": 19, "name": "Kutcher Adolescent Depression Scale", "weight": 0.0, "id": 2777044162, "level": 3}
+{"count": 18, "name": "UCLA PTSD Index", "weight": 0.0, "id": 2781386604, "level": 3}

@@ -1,0 +1,200 @@
+{"count": 190603, "name": "Islam", "weight": 10.0, "id": 4445939, "level": 2}
+{"count": 72132, "name": "Christianity", "weight": 3.0, "id": 551968917, "level": 2}
+{"count": 84231, "name": "Judaism", "weight": 4.0, "id": 150152722, "level": 2}
+{"count": 51935, "name": "Buddhism", "weight": 2.0, "id": 75699723, "level": 2}
+{"count": 96082, "name": "Faith", "weight": 5.0, "id": 2778692574, "level": 2}
+{"count": 32492, "name": "Protestantism", "weight": 1.0, "id": 111021475, "level": 2}
+{"count": 27157, "name": "Hegelianism", "weight": 1.0, "id": 32506930, "level": 2}
+{"count": 11434, "name": "Secularization", "weight": 0.0, "id": 9299846, "level": 2}
+{"count": 10623, "name": "History of religions", "weight": 0.0, "id": 128536511, "level": 2}
+{"count": 25322, "name": "Mysticism", "weight": 1.0, "id": 169081014, "level": 2}
+{"count": 24986, "name": "New Testament", "weight": 1.0, "id": 150608813, "level": 2}
+{"count": 19896, "name": "Old Testament", "weight": 1.0, "id": 534701709, "level": 2}
+{"count": 19595, "name": "Hinduism", "weight": 1.0, "id": 46610780, "level": 2}
+{"count": 16910, "name": "Church history", "weight": 0.0, "id": 10869588, "level": 2}
+{"count": 25587, "name": "Revelation", "weight": 1.0, "id": 2776405206, "level": 2}
+{"count": 5725, "name": "Sociology of religion", "weight": 0.0, "id": 189667701, "level": 2}
+{"count": 11825, "name": "Biblical studies", "weight": 0.0, "id": 194105502, "level": 2}
+{"count": 22371, "name": "Prayer", "weight": 1.0, "id": 2777477151, "level": 2}
+{"count": 7785, "name": "Philosophy of religion", "weight": 0.0, "id": 81698637, "level": 2}
+{"count": 6458, "name": "Incarnation", "weight": 0.0, "id": 2780446828, "level": 2}
+{"count": 5872, "name": "Eschatology", "weight": 0.0, "id": 2780816474, "level": 2}
+{"count": 6579, "name": "Fundamentalism", "weight": 0.0, "id": 2780789983, "level": 2}
+{"count": 8417, "name": "Religious experience", "weight": 0.0, "id": 108305163, "level": 2}
+{"count": 7061, "name": "Christology", "weight": 0.0, "id": 2776982690, "level": 2}
+{"count": 26775, "name": "Gospel", "weight": 1.0, "id": 2781384534, "level": 2}
+{"count": 5265, "name": "Atheism", "weight": 0.0, "id": 2779783995, "level": 2}
+{"count": 5142, "name": "Ecclesiology", "weight": 0.0, "id": 2780498816, "level": 2}
+{"count": 7351, "name": "Deus", "weight": 0.0, "id": 2778547233, "level": 2}
+{"count": 122, "name": "Intermediate state", "weight": 0.0, "id": 2780702060, "level": 2}
+{"count": 8343, "name": "Christian theology", "weight": 0.0, "id": 199176802, "level": 2}
+{"count": 3689, "name": "Monasticism", "weight": 0.0, "id": 2776083423, "level": 2}
+{"count": 7303, "name": "Eucharist", "weight": 0.0, "id": 523496792, "level": 2}
+{"count": 7369, "name": "Divinity", "weight": 0.0, "id": 511535766, "level": 2}
+{"count": 11770, "name": "Orthodoxy", "weight": 0.0, "id": 2778802261, "level": 2}
+{"count": 6647, "name": "Baptism", "weight": 0.0, "id": 2777314847, "level": 2}
+{"count": 8035, "name": "Heresy", "weight": 0.0, "id": 506520463, "level": 2}
+{"count": 2710, "name": "Calvinism", "weight": 0.0, "id": 2781335502, "level": 2}
+{"count": 3432, "name": "Religious pluralism", "weight": 0.0, "id": 2777345323, "level": 2}
+{"count": 2369, "name": "Catholic theology", "weight": 0.0, "id": 2780279293, "level": 2}
+{"count": 4719, "name": "Asceticism", "weight": 0.0, "id": 556447560, "level": 2}
+{"count": 7398, "name": "Canon law", "weight": 0.0, "id": 54707276, "level": 2}
+{"count": 6198, "name": "Christian ethics", "weight": 0.0, "id": 516449090, "level": 2}
+{"count": 5838, "name": "Evangelism", "weight": 0.0, "id": 95201565, "level": 2}
+{"count": 2978, "name": "Liberation theology", "weight": 0.0, "id": 2778758649, "level": 2}
+{"count": 877, "name": "Christianism", "weight": 0.0, "id": 2777003233, "level": 2}
+{"count": 4680, "name": "Theism", "weight": 0.0, "id": 200610012, "level": 2}
+{"count": 2503, "name": "Scholasticism", "weight": 0.0, "id": 2779873701, "level": 2}
+{"count": 2729, "name": "Theodicy", "weight": 0.0, "id": 2778697353, "level": 2}
+{"count": 1772, "name": "Secularity", "weight": 0.0, "id": 2776074554, "level": 2}
+{"count": 5697, "name": "Natural theology", "weight": 0.0, "id": 40455488, "level": 2}
+{"count": 2737, "name": "Methodism", "weight": 0.0, "id": 84220965, "level": 2}
+{"count": 1543, "name": "Patristics", "weight": 0.0, "id": 515282520, "level": 2}
+{"count": 10211, "name": "Piety", "weight": 0.0, "id": 2778897741, "level": 2}
+{"count": 2560, "name": "Monotheism", "weight": 0.0, "id": 2776879149, "level": 2}
+{"count": 1927, "name": "Gnosticism", "weight": 0.0, "id": 2780831315, "level": 2}
+{"count": 1964, "name": "Moral theology", "weight": 0.0, "id": 2780690153, "level": 2}
+{"count": 2050, "name": "Apologetics", "weight": 0.0, "id": 534663127, "level": 2}
+{"count": 1805, "name": "Psychology of religion", "weight": 0.0, "id": 2780910195, "level": 2}
+{"count": 2714, "name": "Spiritualism", "weight": 0.0, "id": 543223122, "level": 2}
+{"count": 1239, "name": "Neo-Confucianism", "weight": 0.0, "id": 2779162601, "level": 2}
+{"count": 760, "name": "Original sin", "weight": 0.0, "id": 2775842373, "level": 2}
+{"count": 2500, "name": "Ecumenism", "weight": 0.0, "id": 2779209813, "level": 2}
+{"count": 1664, "name": "Religious conversion", "weight": 0.0, "id": 101208852, "level": 2}
+{"count": 1592, "name": "Celibacy", "weight": 0.0, "id": 2779342366, "level": 2}
+{"count": 1804, "name": "Soteriology", "weight": 0.0, "id": 2777606521, "level": 2}
+{"count": 2215, "name": "Idolatry", "weight": 0.0, "id": 2779744715, "level": 2}
+{"count": 1685, "name": "Personalism", "weight": 0.0, "id": 2779737220, "level": 2}
+{"count": 1423, "name": "Thomism", "weight": 0.0, "id": 534595448, "level": 2}
+{"count": 2698, "name": "Atonement", "weight": 0.0, "id": 2775858633, "level": 2}
+{"count": 4034, "name": "Messiah", "weight": 0.0, "id": 2779870438, "level": 2}
+{"count": 3163, "name": "Hebrews", "weight": 0.0, "id": 191297826, "level": 2}
+{"count": 1887, "name": "Predestination", "weight": 0.0, "id": 32303920, "level": 2}
+{"count": 3646, "name": "Christian tradition", "weight": 0.0, "id": 2779785697, "level": 2}
+{"count": 1780, "name": "Sanctification", "weight": 0.0, "id": 2781307008, "level": 2}
+{"count": 1650, "name": "Millenarianism", "weight": 0.0, "id": 173561787, "level": 2}
+{"count": 2060, "name": "Image of God", "weight": 0.0, "id": 2776147494, "level": 2}
+{"count": 1400, "name": "Pastoral theology", "weight": 0.0, "id": 2775834536, "level": 2}
+{"count": 1681, "name": "Zoroastrianism", "weight": 0.0, "id": 125885647, "level": 2}
+{"count": 6715, "name": "Fortress (chess)", "weight": 0.0, "id": 38035415, "level": 2}
+{"count": 1180, "name": "Folk religion", "weight": 0.0, "id": 2778157002, "level": 2}
+{"count": 10829, "name": "Early Christianity", "weight": 0.0, "id": 111936747, "level": 2}
+{"count": 1440, "name": "Feminist theology", "weight": 0.0, "id": 2779555700, "level": 2}
+{"count": 1506, "name": "Medieval philosophy", "weight": 0.0, "id": 2780267349, "level": 2}
+{"count": 1102, "name": "Sikhism", "weight": 0.0, "id": 515067334, "level": 2}
+{"count": 1491, "name": "Pneumatology", "weight": 0.0, "id": 124667768, "level": 2}
+{"count": 1630, "name": "Missiology", "weight": 0.0, "id": 2780362431, "level": 2}
+{"count": 1533, "name": "Indian philosophy", "weight": 0.0, "id": 146503098, "level": 2}
+{"count": 4745, "name": "Systematic theology", "weight": 0.0, "id": 62485664, "level": 2}
+{"count": 1052, "name": "Agnosticism", "weight": 0.0, "id": 2776139661, "level": 2}
+{"count": 1628, "name": "Encyclical", "weight": 0.0, "id": 2777916351, "level": 2}
+{"count": 602, "name": "Catholic liturgy", "weight": 0.0, "id": 2775915280, "level": 2}
+{"count": 960, "name": "Pietism", "weight": 0.0, "id": 2778236135, "level": 2}
+{"count": 1149, "name": "Catechesis", "weight": 0.0, "id": 2779452734, "level": 2}
+{"count": 1129, "name": "Trinitarian theology", "weight": 0.0, "id": 2779416288, "level": 2}
+{"count": 795, "name": "Law and Religion", "weight": 0.0, "id": 119883868, "level": 2}
+{"count": 1158, "name": "John Chrysostom", "weight": 0.0, "id": 516783827, "level": 2}
+{"count": 796, "name": "Jansenism", "weight": 0.0, "id": 49423321, "level": 2}
+{"count": 932, "name": "Theosophy", "weight": 0.0, "id": 500070807, "level": 2}
+{"count": 425, "name": "Neo-Kantianism", "weight": 0.0, "id": 2777283828, "level": 2}
+{"count": 1325, "name": "Agape", "weight": 0.0, "id": 2779028768, "level": 2}
+{"count": 728, "name": "Mariology", "weight": 0.0, "id": 95648434, "level": 2}
+{"count": 1394, "name": "Anabaptists", "weight": 0.0, "id": 71301784, "level": 2}
+{"count": 4592, "name": "Apostle", "weight": 0.0, "id": 2780401539, "level": 2}
+{"count": 1105, "name": "Vedanta", "weight": 0.0, "id": 13721787, "level": 2}
+{"count": 4827, "name": "Philosophical theology", "weight": 0.0, "id": 177275741, "level": 2}
+{"count": 1964, "name": "Catechism", "weight": 0.0, "id": 2780440048, "level": 2}
+{"count": 561, "name": "Christian anthropology", "weight": 0.0, "id": 2777348812, "level": 2}
+{"count": 880, "name": "Natural religion", "weight": 0.0, "id": 2776326447, "level": 2}
+{"count": 2395, "name": "Existence of God", "weight": 0.0, "id": 2776971825, "level": 2}
+{"count": 3695, "name": "Comparative religion", "weight": 0.0, "id": 20182410, "level": 2}
+{"count": 900, "name": "Christian literature", "weight": 0.0, "id": 2778040306, "level": 2}
+{"count": 1717, "name": "Historical Jesus", "weight": 0.0, "id": 2777684593, "level": 2}
+{"count": 501, "name": "Spiritism", "weight": 0.0, "id": 2778778704, "level": 2}
+{"count": 531, "name": "Espiritismo", "weight": 0.0, "id": 2780810141, "level": 2}
+{"count": 990, "name": "Magisterium", "weight": 0.0, "id": 2779407556, "level": 2}
+{"count": 704, "name": "Kenosis", "weight": 0.0, "id": 2778317241, "level": 2}
+{"count": 1232, "name": "Spiritual formation", "weight": 0.0, "id": 2776152459, "level": 2}
+{"count": 3463, "name": "Apostles", "weight": 0.0, "id": 2776705036, "level": 2}
+{"count": 1927, "name": "Problem of evil", "weight": 0.0, "id": 2778187809, "level": 2}
+{"count": 1295, "name": "Christian Identity", "weight": 0.0, "id": 2776728070, "level": 2}
+{"count": 1547, "name": "Church Fathers", "weight": 0.0, "id": 2778887610, "level": 2}
+{"count": 1027, "name": "Church Growth", "weight": 0.0, "id": 2776085293, "level": 2}
+{"count": 412, "name": "History of theology", "weight": 0.0, "id": 2779637460, "level": 2}
+{"count": 243, "name": "Religious association", "weight": 0.0, "id": 2777160890, "level": 2}
+{"count": 1320, "name": "Tantra", "weight": 0.0, "id": 2780925944, "level": 2}
+{"count": 584, "name": "Anti-Catholicism", "weight": 0.0, "id": 2776061189, "level": 2}
+{"count": 1156, "name": "Son of God", "weight": 0.0, "id": 2779973846, "level": 2}
+{"count": 720, "name": "Black theology", "weight": 0.0, "id": 2781421699, "level": 2}
+{"count": 696, "name": "Infallibility", "weight": 0.0, "id": 144938489, "level": 2}
+{"count": 503, "name": "Hindu law", "weight": 0.0, "id": 2778024263, "level": 2}
+{"count": 339, "name": "Panentheism", "weight": 0.0, "id": 2780965658, "level": 2}
+{"count": 301, "name": "Pelagianism", "weight": 0.0, "id": 2780995451, "level": 2}
+{"count": 436, "name": "Dogmatic theology", "weight": 0.0, "id": 2781184175, "level": 2}
+{"count": 1329, "name": "Divine law", "weight": 0.0, "id": 63179974, "level": 2}
+{"count": 715, "name": "Koinonia", "weight": 0.0, "id": 2780798557, "level": 2}
+{"count": 530, "name": "Missio Dei", "weight": 0.0, "id": 2780801025, "level": 2}
+{"count": 948, "name": "Son of man", "weight": 0.0, "id": 2779770443, "level": 2}
+{"count": 452, "name": "Glossolalia", "weight": 0.0, "id": 2780056763, "level": 2}
+{"count": 397, "name": "Fundamental theology", "weight": 0.0, "id": 2777358779, "level": 2}
+{"count": 426, "name": "Theology of the Cross", "weight": 0.0, "id": 2777605255, "level": 2}
+{"count": 2154, "name": "Secular education", "weight": 0.0, "id": 72590504, "level": 2}
+{"count": 647, "name": "Spiritual direction", "weight": 0.0, "id": 2776034548, "level": 2}
+{"count": 399, "name": "African theology", "weight": 0.0, "id": 2779620830, "level": 2}
+{"count": 1217, "name": "Love of God", "weight": 0.0, "id": 2776299749, "level": 2}
+{"count": 1349, "name": "Body of Christ", "weight": 0.0, "id": 2776995859, "level": 2}
+{"count": 222, "name": "Socinianism", "weight": 0.0, "id": 2779923358, "level": 2}
+{"count": 926, "name": "Interfaith dialogue", "weight": 0.0, "id": 2779483239, "level": 2}
+{"count": 472, "name": "Millennialism", "weight": 0.0, "id": 2779514881, "level": 2}
+{"count": 262, "name": "Hesychasm", "weight": 0.0, "id": 559265119, "level": 2}
+{"count": 919, "name": "Divine providence", "weight": 0.0, "id": 2776563008, "level": 2}
+{"count": 346, "name": "Ecotheology", "weight": 0.0, "id": 2777247162, "level": 2}
+{"count": 409, "name": "Confessionalization", "weight": 0.0, "id": 2777645883, "level": 2}
+{"count": 420, "name": "Donatism", "weight": 0.0, "id": 40731981, "level": 2}
+{"count": 821, "name": "Social Gospel", "weight": 0.0, "id": 2779815430, "level": 2}
+{"count": 437, "name": "Radical evil", "weight": 0.0, "id": 2776846871, "level": 2}
+{"count": 180, "name": "Ultramontanism", "weight": 0.0, "id": 2776120441, "level": 2}
+{"count": 10866, "name": "Brill", "weight": 0.0, "id": 2780273408, "level": 2}
+{"count": 335, "name": "Filioque", "weight": 0.0, "id": 2776527824, "level": 2}
+{"count": 369, "name": "Process theology", "weight": 0.0, "id": 2780312168, "level": 2}
+{"count": 339, "name": "Spinozism", "weight": 0.0, "id": 2777781133, "level": 2}
+{"count": 564, "name": "Kerygma", "weight": 0.0, "id": 2776464722, "level": 2}
+{"count": 378, "name": "Axial Age", "weight": 0.0, "id": 2776160466, "level": 2}
+{"count": 1533, "name": "Divine grace", "weight": 0.0, "id": 105072915, "level": 2}
+{"count": 522, "name": "Historical theology", "weight": 0.0, "id": 2779533196, "level": 2}
+{"count": 269, "name": "Paschal mystery", "weight": 0.0, "id": 2780025005, "level": 2}
+{"count": 302, "name": "Irreligion", "weight": 0.0, "id": 2779997400, "level": 2}
+{"count": 234, "name": "Antinomianism", "weight": 0.0, "id": 2776720770, "level": 2}
+{"count": 1128, "name": "People of God", "weight": 0.0, "id": 2780487337, "level": 2}
+{"count": 4223, "name": "Comparative theology", "weight": 0.0, "id": 16393274, "level": 2}
+{"count": 514, "name": "Beatitudes", "weight": 0.0, "id": 2780814625, "level": 2}
+{"count": 391, "name": "Greco-Roman world", "weight": 0.0, "id": 2780115896, "level": 2}
+{"count": 218, "name": "Apophasis", "weight": 0.0, "id": 2776513225, "level": 2}
+{"count": 495, "name": "Supernaturalism", "weight": 0.0, "id": 2780254760, "level": 2}
+{"count": 361, "name": "Western esotericism", "weight": 0.0, "id": 2777055271, "level": 2}
+{"count": 741, "name": "Great Awakening", "weight": 0.0, "id": 2776874911, "level": 2}
+{"count": 2455, "name": "Fides", "weight": 0.0, "id": 169756158, "level": 2}
+{"count": 230, "name": "Dispensationalism", "weight": 0.0, "id": 2777364972, "level": 2}
+{"count": 233, "name": "Apostolic succession", "weight": 0.0, "id": 2779384089, "level": 2}
+{"count": 5450, "name": "Lived religion", "weight": 0.0, "id": 558102812, "level": 2}
+{"count": 257, "name": "Beatific vision", "weight": 0.0, "id": 2778008530, "level": 2}
+{"count": 517, "name": "Theology of religions", "weight": 0.0, "id": 2778880570, "level": 2}
+{"count": 627, "name": "Will of God", "weight": 0.0, "id": 2776574911, "level": 2}
+{"count": 102, "name": "Latitudinarianism", "weight": 0.0, "id": 2776925463, "level": 2}
+{"count": 522, "name": "Women and religion", "weight": 0.0, "id": 2776132588, "level": 2}
+{"count": 104, "name": "Proportionalism", "weight": 0.0, "id": 2780308851, "level": 2}
+{"count": 331, "name": "Secular clergy", "weight": 0.0, "id": 2777883992, "level": 2}
+{"count": 428, "name": "Minjung", "weight": 0.0, "id": 2777075061, "level": 2}
+{"count": 277, "name": "Spiritual warfare", "weight": 0.0, "id": 2779036407, "level": 2}
+{"count": 484, "name": "Christian worldview", "weight": 0.0, "id": 2776161335, "level": 2}
+{"count": 1168, "name": "Swami", "weight": 0.0, "id": 2776232852, "level": 2}
+{"count": 452, "name": "Russian Orthodoxy", "weight": 0.0, "id": 2778959069, "level": 2}
+{"count": 305, "name": "Desert Fathers", "weight": 0.0, "id": 2777183392, "level": 2}
+{"count": 254, "name": "Doxology", "weight": 0.0, "id": 2780821115, "level": 2}
+{"count": 339, "name": "Guenon", "weight": 0.0, "id": 2781338277, "level": 2}
+{"count": 175, "name": "Perichoresis", "weight": 0.0, "id": 2776063293, "level": 2}
+{"count": 251, "name": "Concupiscence", "weight": 0.0, "id": 2779058104, "level": 2}
+{"count": 217, "name": "Divine simplicity", "weight": 0.0, "id": 2779255536, "level": 2}
+{"count": 315, "name": "Radical Orthodoxy", "weight": 0.0, "id": 2777034458, "level": 2}
+{"count": 1256, "name": "Papal infallibility", "weight": 0.0, "id": 3502112, "level": 2}
+{"count": 207, "name": "Conjugal love", "weight": 0.0, "id": 2778983345, "level": 2}

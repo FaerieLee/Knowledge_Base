@@ -1,0 +1,31 @@
+{"count": 24093, "name": "Metabolic pathway", "weight": 9.0, "id": 192989942, "level": 3}
+{"count": 26704, "name": "Glycolysis", "weight": 10.0, "id": 20251656, "level": 3}
+{"count": 7910, "name": "Protein metabolism", "weight": 2.0, "id": 2779572773, "level": 3}
+{"count": 9779, "name": "Gluconeogenesis", "weight": 3.0, "id": 20904676, "level": 3}
+{"count": 12481, "name": "Citric acid cycle", "weight": 4.0, "id": 165135838, "level": 3}
+{"count": 6794, "name": "Pentose phosphate pathway", "weight": 2.0, "id": 3409486, "level": 3}
+{"count": 1529, "name": "Metabolic flux analysis", "weight": 0.0, "id": 160941953, "level": 3}
+{"count": 622, "name": "Metabolic intermediate", "weight": 0.0, "id": 2781113356, "level": 3}
+{"count": 4472, "name": "Glyoxylate cycle", "weight": 1.0, "id": 165267168, "level": 3}
+{"count": 2851, "name": "Microbial metabolism", "weight": 1.0, "id": 101014631, "level": 3}
+{"count": 674, "name": "High-energy phosphate", "weight": 0.0, "id": 2778273184, "level": 3}
+{"count": 1452, "name": "Sulfur metabolism", "weight": 0.0, "id": 65192284, "level": 3}
+{"count": 627, "name": "Fructokinase", "weight": 0.0, "id": 2778713356, "level": 3}
+{"count": 901, "name": "Mercapturic acid", "weight": 0.0, "id": 2780539824, "level": 3}
+{"count": 487, "name": "Cunninghamella elegans", "weight": 0.0, "id": 2780204255, "level": 3}
+{"count": 343, "name": "Futile cycle", "weight": 0.0, "id": 127886523, "level": 3}
+{"count": 223, "name": "1-Nitropyrene", "weight": 0.0, "id": 2778208632, "level": 3}
+{"count": 438, "name": "Sulfur assimilation", "weight": 0.0, "id": 184993883, "level": 3}
+{"count": 255, "name": "Overflow metabolism", "weight": 0.0, "id": 2779232346, "level": 3}
+{"count": 264, "name": "Phaseic acid", "weight": 0.0, "id": 2777964611, "level": 3}
+{"count": 210, "name": "Phosphoketolase", "weight": 0.0, "id": 2777293058, "level": 3}
+{"count": 174, "name": "NIH shift", "weight": 0.0, "id": 2777291969, "level": 3}
+{"count": 47, "name": "o-Coumaric acid", "weight": 0.0, "id": 2775920468, "level": 3}
+{"count": 43, "name": "Chrysolaminarin", "weight": 0.0, "id": 2780280001, "level": 3}
+{"count": 208, "name": "Carbohydrate catabolism", "weight": 0.0, "id": 2778345699, "level": 3}
+{"count": 26, "name": "Triose phosphate translocator", "weight": 0.0, "id": 2777747260, "level": 3}
+{"count": 1433, "name": "Fructolysis", "weight": 0.0, "id": 63103864, "level": 3}
+{"count": 13, "name": "Commelina cyanea", "weight": 0.0, "id": 2779003601, "level": 3}
+{"count": 98, "name": "Sesamex", "weight": 0.0, "id": 2778670556, "level": 3}
+{"count": 22, "name": "Methylglyoxal pathway", "weight": 0.0, "id": 2781387471, "level": 3}
+{"count": 12, "name": "Methasterone", "weight": 0.0, "id": 2780773210, "level": 3}

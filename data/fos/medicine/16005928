@@ -1,0 +1,200 @@
+{"count": 56938, "name": "Psoriasis", "weight": 10.0, "id": 2780564577, "level": 2}
+{"count": 29939, "name": "Atopic dermatitis", "weight": 5.0, "id": 2778329239, "level": 2}
+{"count": 6222, "name": "Photosensitivity", "weight": 1.0, "id": 186807665, "level": 2}
+{"count": 28026, "name": "Scalp", "weight": 4.0, "id": 2778515351, "level": 2}
+{"count": 2388, "name": "Pigmentation disorder", "weight": 0.0, "id": 2779179668, "level": 2}
+{"count": 3119, "name": "Cabello", "weight": 0.0, "id": 2779805795, "level": 2}
+{"count": 21887, "name": "Erythema", "weight": 3.0, "id": 2779121184, "level": 2}
+{"count": 26322, "name": "Acne", "weight": 4.0, "id": 2777673923, "level": 2}
+{"count": 5157, "name": "Hyperkeratosis", "weight": 0.0, "id": 2779915019, "level": 2}
+{"count": 9459, "name": "Skin biopsy", "weight": 1.0, "id": 2780439664, "level": 2}
+{"count": 5188, "name": "Bullous pemphigoid", "weight": 0.0, "id": 2779252107, "level": 2}
+{"count": 10553, "name": "Vitiligo", "weight": 1.0, "id": 2779980618, "level": 2}
+{"count": 5989, "name": "Epidermolysis bullosa", "weight": 1.0, "id": 2781207856, "level": 2}
+{"count": 4156, "name": "Phototoxicity", "weight": 0.0, "id": 20639190, "level": 2}
+{"count": 4832, "name": "Dapsone", "weight": 0.0, "id": 2777640609, "level": 2}
+{"count": 4715, "name": "Pemphigus vulgaris", "weight": 0.0, "id": 2781313415, "level": 2}
+{"count": 4323, "name": "Toxic epidermal necrolysis", "weight": 0.0, "id": 2780664588, "level": 2}
+{"count": 5728, "name": "Alopecia areata", "weight": 1.0, "id": 2777524370, "level": 2}
+{"count": 6972, "name": "Pemphigus", "weight": 1.0, "id": 2781327288, "level": 2}
+{"count": 5135, "name": "Scabies", "weight": 0.0, "id": 2781443149, "level": 2}
+{"count": 5622, "name": "Hyperpigmentation", "weight": 0.0, "id": 2776728111, "level": 2}
+{"count": 3932, "name": "Dermatophyte", "weight": 0.0, "id": 2777220567, "level": 2}
+{"count": 3266, "name": "Terbinafine", "weight": 0.0, "id": 2778236110, "level": 2}
+{"count": 3618, "name": "Imiquimod", "weight": 0.0, "id": 2779112978, "level": 2}
+{"count": 3735, "name": "Ichthyosis", "weight": 0.0, "id": 2776292323, "level": 2}
+{"count": 4197, "name": "Hyperhidrosis", "weight": 0.0, "id": 2778650131, "level": 2}
+{"count": 3463, "name": "Rejuvenation", "weight": 0.0, "id": 112224295, "level": 2}
+{"count": 3985, "name": "Pyoderma gangrenosum", "weight": 0.0, "id": 2780520777, "level": 2}
+{"count": 4055, "name": "Oral lichen planus", "weight": 0.0, "id": 2776201145, "level": 2}
+{"count": 3027, "name": "Keratosis", "weight": 0.0, "id": 2778648961, "level": 2}
+{"count": 3255, "name": "Erythema multiforme", "weight": 0.0, "id": 2781320243, "level": 2}
+{"count": 2617, "name": "Erythroderma", "weight": 0.0, "id": 2778784858, "level": 2}
+{"count": 2434, "name": "Sporotrichosis", "weight": 0.0, "id": 2776872704, "level": 2}
+{"count": 2898, "name": "Tinea capitis", "weight": 0.0, "id": 2778217265, "level": 2}
+{"count": 2844, "name": "Dermatitis herpetiformis", "weight": 0.0, "id": 2778728583, "level": 2}
+{"count": 4626, "name": "Trichophyton", "weight": 0.0, "id": 2775874440, "level": 2}
+{"count": 4073, "name": "Mucocutaneous zone", "weight": 0.0, "id": 156662089, "level": 2}
+{"count": 2891, "name": "Malassezia", "weight": 0.0, "id": 2777472678, "level": 2}
+{"count": 2442, "name": "Minoxidil", "weight": 0.0, "id": 2779711729, "level": 2}
+{"count": 3685, "name": "Psoralen", "weight": 0.0, "id": 2781110370, "level": 2}
+{"count": 454, "name": "Lentiginosis", "weight": 0.0, "id": 2776422800, "level": 2}
+{"count": 2320, "name": "Dermatofibrosarcoma protuberans", "weight": 0.0, "id": 2778464197, "level": 2}
+{"count": 3287, "name": "Trichophyton rubrum", "weight": 0.0, "id": 2776202428, "level": 2}
+{"count": 4654, "name": "Rosacea", "weight": 0.0, "id": 2778081122, "level": 2}
+{"count": 3924, "name": "Erythema nodosum", "weight": 0.0, "id": 2777410594, "level": 2}
+{"count": 1802, "name": "Pseudoxanthoma elasticum", "weight": 0.0, "id": 2778028898, "level": 2}
+{"count": 12501, "name": "Skin care", "weight": 2.0, "id": 2780343512, "level": 2}
+{"count": 2341, "name": "Folliculitis", "weight": 0.0, "id": 2779248115, "level": 2}
+{"count": 1113, "name": "Chromoblastomycosis", "weight": 0.0, "id": 2781430460, "level": 2}
+{"count": 1024, "name": "Cutis laxa", "weight": 0.0, "id": 2778745941, "level": 2}
+{"count": 7759, "name": "Shampoo", "weight": 1.0, "id": 2781171460, "level": 2}
+{"count": 2004, "name": "Impetigo", "weight": 0.0, "id": 2778811088, "level": 2}
+{"count": 2307, "name": "Seborrheic dermatitis", "weight": 0.0, "id": 2777484424, "level": 2}
+{"count": 1574, "name": "Intense pulsed light", "weight": 0.0, "id": 2776714205, "level": 2}
+{"count": 1601, "name": "Hypopigmentation", "weight": 0.0, "id": 2776291823, "level": 2}
+{"count": 2085, "name": "Molluscum contagiosum", "weight": 0.0, "id": 2776311326, "level": 2}
+{"count": 2223, "name": "Pyoderma", "weight": 0.0, "id": 2780947638, "level": 2}
+{"count": 1457, "name": "Incontinentia pigmenti", "weight": 0.0, "id": 2780668358, "level": 2}
+{"count": 2097, "name": "Dermatopathology", "weight": 0.0, "id": 2776032170, "level": 2}
+{"count": 1512, "name": "Cosmetology", "weight": 0.0, "id": 24168220, "level": 2}
+{"count": 1861, "name": "Hypertrichosis", "weight": 0.0, "id": 2775876775, "level": 2}
+{"count": 7853, "name": "Hair loss", "weight": 1.0, "id": 2776360568, "level": 2}
+{"count": 17260, "name": "Scars", "weight": 3.0, "id": 2777642821, "level": 2}
+{"count": 1677, "name": "Blepharitis", "weight": 0.0, "id": 2780238520, "level": 2}
+{"count": 2147, "name": "Microsporum canis", "weight": 0.0, "id": 2776517583, "level": 2}
+{"count": 10609, "name": "Lotion", "weight": 1.0, "id": 2780986958, "level": 2}
+{"count": 1551, "name": "Dermabrasion", "weight": 0.0, "id": 2780001450, "level": 2}
+{"count": 1438, "name": "Azelaic acid", "weight": 0.0, "id": 2780285341, "level": 2}
+{"count": 2174, "name": "Melasma", "weight": 0.0, "id": 2776677263, "level": 2}
+{"count": 1406, "name": "Seborrheic keratosis", "weight": 0.0, "id": 2777845685, "level": 2}
+{"count": 1764, "name": "Pustulosis", "weight": 0.0, "id": 2779234776, "level": 2}
+{"count": 1500, "name": "Granuloma annulare", "weight": 0.0, "id": 2779470898, "level": 2}
+{"count": 4879, "name": "Blisters", "weight": 0.0, "id": 2780949179, "level": 2}
+{"count": 3061, "name": "Eyebrow", "weight": 0.0, "id": 2779022956, "level": 2}
+{"count": 2652, "name": "Lichen sclerosus", "weight": 0.0, "id": 2776552008, "level": 2}
+{"count": 1328, "name": "Genodermatosis", "weight": 0.0, "id": 2778156654, "level": 2}
+{"count": 2684, "name": "Pemphigoid", "weight": 0.0, "id": 2778075117, "level": 2}
+{"count": 3087, "name": "Desquamation", "weight": 0.0, "id": 2776003677, "level": 2}
+{"count": 2582, "name": "Drug eruption", "weight": 0.0, "id": 2779515644, "level": 2}
+{"count": 506, "name": "Suction blister", "weight": 0.0, "id": 2778962987, "level": 2}
+{"count": 707, "name": "Occlusive dressing", "weight": 0.0, "id": 2779899204, "level": 2}
+{"count": 667, "name": "Melkersson\u2013Rosenthal syndrome", "weight": 0.0, "id": 2779154281, "level": 2}
+{"count": 5420, "name": "Itching", "weight": 0.0, "id": 2779923671, "level": 2}
+{"count": 387, "name": "Netherton syndrome", "weight": 0.0, "id": 2778011771, "level": 2}
+{"count": 2271, "name": "Dry skin", "weight": 0.0, "id": 2777035695, "level": 2}
+{"count": 1709, "name": "Facial rejuvenation", "weight": 0.0, "id": 2779758324, "level": 2}
+{"count": 847, "name": "Balanitis", "weight": 0.0, "id": 2778426668, "level": 2}
+{"count": 936, "name": "Syringoma", "weight": 0.0, "id": 2779354686, "level": 2}
+{"count": 290, "name": "Rothmund\u2013Thomson syndrome", "weight": 0.0, "id": 2778312553, "level": 2}
+{"count": 1037, "name": "Angiokeratoma", "weight": 0.0, "id": 2775964029, "level": 2}
+{"count": 817, "name": "Acute generalized exanthematous pustulosis", "weight": 0.0, "id": 2780425889, "level": 2}
+{"count": 1166, "name": "Porokeratosis", "weight": 0.0, "id": 2778272181, "level": 2}
+{"count": 761, "name": "Clobetasol", "weight": 0.0, "id": 2776826141, "level": 2}
+{"count": 1612, "name": "Morphea", "weight": 0.0, "id": 2775938904, "level": 2}
+{"count": 1878, "name": "Nail plate", "weight": 0.0, "id": 2776745646, "level": 2}
+{"count": 1343, "name": "Tinea corporis", "weight": 0.0, "id": 2778311284, "level": 2}
+{"count": 1499, "name": "Parakeratosis", "weight": 0.0, "id": 2779664670, "level": 2}
+{"count": 1027, "name": "Cicatricial pemphigoid", "weight": 0.0, "id": 2776536667, "level": 2}
+{"count": 1081, "name": "Extramammary Paget's disease", "weight": 0.0, "id": 2779122609, "level": 2}
+{"count": 699, "name": "Tinea versicolor", "weight": 0.0, "id": 2776369991, "level": 2}
+{"count": 879, "name": "Ochronosis", "weight": 0.0, "id": 2777169657, "level": 2}
+{"count": 1053, "name": "Pityriasis rosea", "weight": 0.0, "id": 2780461338, "level": 2}
+{"count": 1252, "name": "Rhytidectomy", "weight": 0.0, "id": 2778814963, "level": 2}
+{"count": 444, "name": "Argyria", "weight": 0.0, "id": 2778723456, "level": 2}
+{"count": 1165, "name": "Prurigo", "weight": 0.0, "id": 2781431837, "level": 2}
+{"count": 358, "name": "Oxybenzone", "weight": 0.0, "id": 2779729002, "level": 2}
+{"count": 593, "name": "Poikiloderma", "weight": 0.0, "id": 2778163040, "level": 2}
+{"count": 430, "name": "Focal dermal hypoplasia", "weight": 0.0, "id": 2776353954, "level": 2}
+{"count": 1411, "name": "Demodex", "weight": 0.0, "id": 2779086053, "level": 2}
+{"count": 301, "name": "Papular mucinosis", "weight": 0.0, "id": 2779243263, "level": 2}
+{"count": 1234, "name": "Sensitive skin", "weight": 0.0, "id": 2780576536, "level": 2}
+{"count": 886, "name": "Pityriasis rubra pilaris", "weight": 0.0, "id": 2779873696, "level": 2}
+{"count": 2092, "name": "Dandruff", "weight": 0.0, "id": 2777359526, "level": 2}
+{"count": 759, "name": "Keratolytic", "weight": 0.0, "id": 49735497, "level": 2}
+{"count": 912, "name": "Acrodermatitis", "weight": 0.0, "id": 2780538096, "level": 2}
+{"count": 961, "name": "Spongiosis", "weight": 0.0, "id": 2780182102, "level": 2}
+{"count": 1535, "name": "Venereology", "weight": 0.0, "id": 2779437838, "level": 2}
+{"count": 555, "name": "Bifonazole", "weight": 0.0, "id": 2776776321, "level": 2}
+{"count": 481, "name": "Mesotherapy", "weight": 0.0, "id": 2780215918, "level": 2}
+{"count": 390, "name": "Tungiasis", "weight": 0.0, "id": 2780321569, "level": 2}
+{"count": 5767, "name": "Ruta", "weight": 1.0, "id": 2780518120, "level": 2}
+{"count": 270, "name": "Piebaldism", "weight": 0.0, "id": 2776858644, "level": 2}
+{"count": 425, "name": "Multicentric reticulohistiocytosis", "weight": 0.0, "id": 2779977424, "level": 2}
+{"count": 458, "name": "Pachyonychia congenita", "weight": 0.0, "id": 2778394808, "level": 2}
+{"count": 660, "name": "Pilomatricoma", "weight": 0.0, "id": 2781289335, "level": 2}
+{"count": 1539, "name": "Moisturizer", "weight": 0.0, "id": 2777541062, "level": 2}
+{"count": 861, "name": "Dermatomycosis", "weight": 0.0, "id": 2779299482, "level": 2}
+{"count": 693, "name": "Onycholysis", "weight": 0.0, "id": 2778758164, "level": 2}
+{"count": 1790, "name": "Topical steroid", "weight": 0.0, "id": 2777520566, "level": 2}
+{"count": 763, "name": "Nasolabial fold", "weight": 0.0, "id": 2775935860, "level": 2}
+{"count": 458, "name": "Aesthetic medicine", "weight": 0.0, "id": 107580501, "level": 2}
+{"count": 218, "name": "Dyshidrosis", "weight": 0.0, "id": 2777269425, "level": 2}
+{"count": 1326, "name": "Neurodermatitis", "weight": 0.0, "id": 2781025544, "level": 2}
+{"count": 263, "name": "Tinea nigra", "weight": 0.0, "id": 2777145831, "level": 2}
+{"count": 310, "name": "Lichen striatus", "weight": 0.0, "id": 2777448118, "level": 2}
+{"count": 655, "name": "Demodicosis", "weight": 0.0, "id": 2776603837, "level": 2}
+{"count": 86, "name": "Iododerma", "weight": 0.0, "id": 2781148903, "level": 2}
+{"count": 378, "name": "Frontal fibrosing alopecia", "weight": 0.0, "id": 2777656185, "level": 2}
+{"count": 1546, "name": "Pityriasis", "weight": 0.0, "id": 2778801904, "level": 2}
+{"count": 333, "name": "Psychodermatology", "weight": 0.0, "id": 2778297717, "level": 2}
+{"count": 355, "name": "Lichen nitidus", "weight": 0.0, "id": 2781261236, "level": 2}
+{"count": 339, "name": "Lip augmentation", "weight": 0.0, "id": 2777309969, "level": 2}
+{"count": 433, "name": "Intertrigo", "weight": 0.0, "id": 2778937634, "level": 2}
+{"count": 336, "name": "Erythema annulare centrifugum", "weight": 0.0, "id": 2776659485, "level": 2}
+{"count": 261, "name": "Monilethrix", "weight": 0.0, "id": 2778029226, "level": 2}
+{"count": 192, "name": "Phototype", "weight": 0.0, "id": 2780846639, "level": 2}
+{"count": 332, "name": "Birthmark", "weight": 0.0, "id": 2776826570, "level": 2}
+{"count": 296, "name": "Pityriasis lichenoides", "weight": 0.0, "id": 2776791600, "level": 2}
+{"count": 512, "name": "Prurigo nodularis", "weight": 0.0, "id": 2776266956, "level": 2}
+{"count": 316, "name": "Verruca plana", "weight": 0.0, "id": 2779708880, "level": 2}
+{"count": 327, "name": "Climatotherapy", "weight": 0.0, "id": 2780954655, "level": 2}
+{"count": 253, "name": "Gianotti\u2013Crosti syndrome", "weight": 0.0, "id": 2776949116, "level": 2}
+{"count": 324, "name": "Anetoderma", "weight": 0.0, "id": 2780959024, "level": 2}
+{"count": 493, "name": "Diaper rash", "weight": 0.0, "id": 2780305405, "level": 2}
+{"count": 305, "name": "Leukonychia", "weight": 0.0, "id": 2780295407, "level": 2}
+{"count": 438, "name": "Linear IgA bullous dermatosis", "weight": 0.0, "id": 2779763704, "level": 2}
+{"count": 328, "name": "Chilblains", "weight": 0.0, "id": 2779973244, "level": 2}
+{"count": 655, "name": "Milia", "weight": 0.0, "id": 2777225697, "level": 2}
+{"count": 180, "name": "Erythema dyschromicum perstans", "weight": 0.0, "id": 2781417530, "level": 2}
+{"count": 360, "name": "Striae distensae", "weight": 0.0, "id": 2779224932, "level": 2}
+{"count": 507, "name": "Dark skin", "weight": 0.0, "id": 2778561401, "level": 2}
+{"count": 228, "name": "Toxicodendron", "weight": 0.0, "id": 2778744759, "level": 2}
+{"count": 410, "name": "Hydrocolloid dressing", "weight": 0.0, "id": 2778801638, "level": 2}
+{"count": 161, "name": "Prurigo pigmentosa", "weight": 0.0, "id": 2776046715, "level": 2}
+{"count": 184, "name": "Clear cell acanthoma", "weight": 0.0, "id": 2778438883, "level": 2}
+{"count": 274, "name": "Acanthoma", "weight": 0.0, "id": 2777044767, "level": 2}
+{"count": 1837, "name": "Eyelash", "weight": 0.0, "id": 2779884382, "level": 2}
+{"count": 264, "name": "Erythrasma", "weight": 0.0, "id": 2777157605, "level": 2}
+{"count": 187, "name": "Erythema gyratum repens", "weight": 0.0, "id": 2778570612, "level": 2}
+{"count": 442, "name": "Occupational skin diseases", "weight": 0.0, "id": 2781005894, "level": 2}
+{"count": 581, "name": "Plantar warts", "weight": 0.0, "id": 2779778607, "level": 2}
+{"count": 107, "name": "Perforating folliculitis", "weight": 0.0, "id": 2780133820, "level": 2}
+{"count": 409, "name": "Spiradenoma", "weight": 0.0, "id": 2779470832, "level": 2}
+{"count": 188, "name": "Pili torti", "weight": 0.0, "id": 2778621858, "level": 2}
+{"count": 1009, "name": "Body hair", "weight": 0.0, "id": 2777918589, "level": 2}
+{"count": 174, "name": "Bufexamac", "weight": 0.0, "id": 2776512279, "level": 2}
+{"count": 269, "name": "Elastosis perforans serpiginosa", "weight": 0.0, "id": 2777543598, "level": 2}
+{"count": 316, "name": "Chemical peel", "weight": 0.0, "id": 2776245655, "level": 2}
+{"count": 115, "name": "Blaschko's lines", "weight": 0.0, "id": 2777099675, "level": 2}
+{"count": 326, "name": "Photodermatitis", "weight": 0.0, "id": 2775907672, "level": 2}
+{"count": 125, "name": "Lichen aureus", "weight": 0.0, "id": 2776179621, "level": 2}
+{"count": 183, "name": "Trichilemmoma", "weight": 0.0, "id": 2781019671, "level": 2}
+{"count": 1026, "name": "Freckle", "weight": 0.0, "id": 2775875209, "level": 2}
+{"count": 291, "name": "Cutis marmorata telangiectatica congenita", "weight": 0.0, "id": 2779312035, "level": 2}
+{"count": 148, "name": "Anonychia", "weight": 0.0, "id": 2780112285, "level": 2}
+{"count": 154, "name": "Primula obconica", "weight": 0.0, "id": 2778880588, "level": 2}
+{"count": 246, "name": "Pustulosis palmaris et plantaris", "weight": 0.0, "id": 2780820070, "level": 2}
+{"count": 279, "name": "Ingrown toenail", "weight": 0.0, "id": 2780298307, "level": 2}
+{"count": 245, "name": "Reactive perforating collagenosis", "weight": 0.0, "id": 2779409733, "level": 2}
+{"count": 195, "name": "Barrier cream", "weight": 0.0, "id": 2778427333, "level": 2}
+{"count": 178, "name": "Trichorrhexis nodosa", "weight": 0.0, "id": 2779300844, "level": 2}
+{"count": 607, "name": "Poroma", "weight": 0.0, "id": 2777664673, "level": 2}
+{"count": 153, "name": "Tricho\u2013rhino\u2013phalangeal syndrome", "weight": 0.0, "id": 2779401449, "level": 2}
+{"count": 120, "name": "Angioma serpiginosum", "weight": 0.0, "id": 2779281622, "level": 2}
+{"count": 506, "name": "Topical medication", "weight": 0.0, "id": 2779578545, "level": 2}
+{"count": 145, "name": "Tinea incognito", "weight": 0.0, "id": 2779553510, "level": 2}
+{"count": 248, "name": "Ainhum", "weight": 0.0, "id": 2776753179, "level": 2}
+{"count": 54, "name": "Splinter hemorrhage", "weight": 0.0, "id": 2778085167, "level": 2}
+{"count": 461, "name": "Necrobiosis", "weight": 0.0, "id": 2776261405, "level": 2}
+{"count": 130, "name": "Pigmented purpuric dermatosis", "weight": 0.0, "id": 2779471143, "level": 2}

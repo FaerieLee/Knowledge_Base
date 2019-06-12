@@ -1,0 +1,56 @@
+{"count": 9159, "name": "Hodgkin's lymphoma", "weight": 3.0, "id": 2779020855, "level": 3}
+{"count": 25809, "name": "Rituximab", "weight": 10.0, "id": 2780653079, "level": 3}
+{"count": 11687, "name": "Diffuse large B-cell lymphoma", "weight": 4.0, "id": 2778559949, "level": 3}
+{"count": 9279, "name": "Follicular lymphoma", "weight": 3.0, "id": 2777058707, "level": 3}
+{"count": 13616, "name": "Non-Hodgkin's lymphoma", "weight": 5.0, "id": 2778476748, "level": 3}
+{"count": 8104, "name": "Mycosis fungoides", "weight": 3.0, "id": 2777756187, "level": 3}
+{"count": 3034, "name": "Peripheral T-cell lymphoma", "weight": 1.0, "id": 2777891184, "level": 3}
+{"count": 6702, "name": "Mantle cell lymphoma", "weight": 2.0, "id": 2777525834, "level": 3}
+{"count": 3838, "name": "Cutaneous T-cell lymphoma", "weight": 1.0, "id": 2776780870, "level": 3}
+{"count": 2489, "name": "Large-cell lymphoma", "weight": 0.0, "id": 2779916150, "level": 3}
+{"count": 6359, "name": "Lymphoproliferative disorders", "weight": 2.0, "id": 2776995267, "level": 3}
+{"count": 2704, "name": "Mucosa-associated lymphoid tissue", "weight": 1.0, "id": 2779851268, "level": 3}
+{"count": 6017, "name": "Autologous stem-cell transplantation", "weight": 2.0, "id": 2779050716, "level": 3}
+{"count": 4238, "name": "MALT lymphoma", "weight": 1.0, "id": 2779526237, "level": 3}
+{"count": 3264, "name": "Burkitt's lymphoma", "weight": 1.0, "id": 2778913318, "level": 3}
+{"count": 4127, "name": "Anaplastic large-cell lymphoma", "weight": 1.0, "id": 2777872185, "level": 3}
+{"count": 1946, "name": "Waldenstrom macroglobulinemia", "weight": 0.0, "id": 2781038049, "level": 3}
+{"count": 2611, "name": "Primary central nervous system lymphoma", "weight": 1.0, "id": 2781173314, "level": 3}
+{"count": 5778, "name": "T-cell lymphoma", "weight": 2.0, "id": 2777589544, "level": 3}
+{"count": 498, "name": "Hematopathology", "weight": 0.0, "id": 2779060813, "level": 3}
+{"count": 1296, "name": "Primary effusion lymphoma", "weight": 0.0, "id": 2779594685, "level": 3}
+{"count": 7643, "name": "CHOP", "weight": 2.0, "id": 2779725641, "level": 3}
+{"count": 1553, "name": "Adult T-cell leukemia/lymphoma", "weight": 0.0, "id": 2780815077, "level": 3}
+{"count": 11311, "name": "CD20", "weight": 4.0, "id": 18031839, "level": 3}
+{"count": 2442, "name": "Lymphoid hyperplasia", "weight": 0.0, "id": 2780117679, "level": 3}
+{"count": 2098, "name": "Lymphoblastic lymphoma", "weight": 0.0, "id": 2777478502, "level": 3}
+{"count": 1205, "name": "Pseudolymphoma", "weight": 0.0, "id": 2777073666, "level": 3}
+{"count": 6857, "name": "CD30", "weight": 2.0, "id": 70905583, "level": 3}
+{"count": 1754, "name": "Gastric lymphoma", "weight": 0.0, "id": 2780941775, "level": 3}
+{"count": 866, "name": "Lymphomatoid granulomatosis", "weight": 0.0, "id": 2776135003, "level": 3}
+{"count": 704, "name": "Splenic marginal zone lymphoma", "weight": 0.0, "id": 2779380147, "level": 3}
+{"count": 1194, "name": "Nodular sclerosis", "weight": 0.0, "id": 2780430958, "level": 3}
+{"count": 286, "name": "Intravascular lymphoma", "weight": 0.0, "id": 2775852749, "level": 3}
+{"count": 665, "name": "Angioimmunoblastic T-cell lymphoma", "weight": 0.0, "id": 2776365654, "level": 3}
+{"count": 1096, "name": "Brentuximab vedotin", "weight": 0.0, "id": 2778191690, "level": 3}
+{"count": 249, "name": "Primary mediastinal B-cell lymphoma", "weight": 0.0, "id": 2781127494, "level": 3}
+{"count": 89, "name": "Immunoblast", "weight": 0.0, "id": 2779056374, "level": 3}
+{"count": 1455, "name": "BCL10", "weight": 0.0, "id": 107006841, "level": 3}
+{"count": 1262, "name": "Aggressive lymphoma", "weight": 0.0, "id": 2781214270, "level": 3}
+{"count": 545, "name": "Intraocular lymphoma", "weight": 0.0, "id": 2778007619, "level": 3}
+{"count": 741, "name": "CD43", "weight": 0.0, "id": 2776596971, "level": 3}
+{"count": 546, "name": "Intravascular large B-cell lymphoma", "weight": 0.0, "id": 2780151071, "level": 3}
+{"count": 236, "name": "AIDS-related lymphoma", "weight": 0.0, "id": 2781443441, "level": 3}
+{"count": 229, "name": "Lethal midline granuloma", "weight": 0.0, "id": 2776192826, "level": 3}
+{"count": 200, "name": "Benign lymphoepithelial lesion", "weight": 0.0, "id": 2779821203, "level": 3}
+{"count": 247, "name": "Hepatosplenic T-cell lymphoma", "weight": 0.0, "id": 2778929622, "level": 3}
+{"count": 295, "name": "Pralatrexate", "weight": 0.0, "id": 2776209020, "level": 3}
+{"count": 142, "name": "Reed\u2013Sternberg cell", "weight": 0.0, "id": 2779390272, "level": 3}
+{"count": 102, "name": "CD79B", "weight": 0.0, "id": 2781095127, "level": 3}
+{"count": 302, "name": "CD79", "weight": 0.0, "id": 2775923280, "level": 3}
+{"count": 102, "name": "Richter's transformation", "weight": 0.0, "id": 2781156077, "level": 3}
+{"count": 1657, "name": "B symptoms", "weight": 0.0, "id": 2779714933, "level": 3}
+{"count": 45, "name": "T-lymphoblastic leukemia/lymphoma", "weight": 0.0, "id": 2777607032, "level": 3}
+{"count": 12, "name": "Primary cutaneous immunocytoma", "weight": 0.0, "id": 2776330419, "level": 3}
+{"count": 31, "name": "Precursor T-lymphoblastic lymphoma", "weight": 0.0, "id": 2776323850, "level": 3}
+{"count": 16, "name": "Tumors of the hematopoietic and lymphoid tissues", "weight": 0.0, "id": 2779951434, "level": 3}

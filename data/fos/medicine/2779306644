@@ -1,0 +1,82 @@
+{"count": 100197, "name": "Insulin resistance", "weight": 10.0, "id": 2777391703, "level": 4}
+{"count": 9987, "name": "Pancreatic hormone", "weight": 0.0, "id": 2780352109, "level": 4}
+{"count": 38906, "name": "Carbohydrate metabolism", "weight": 3.0, "id": 17093226, "level": 4}
+{"count": 46258, "name": "Type 1 diabetes", "weight": 4.0, "id": 2781232474, "level": 4}
+{"count": 24071, "name": "Glucose tolerance test", "weight": 2.0, "id": 2780833929, "level": 4}
+{"count": 16377, "name": "Glucose transporter", "weight": 1.0, "id": 161573976, "level": 4}
+{"count": 26770, "name": "Streptozotocin", "weight": 2.0, "id": 2779280383, "level": 4}
+{"count": 27948, "name": "Glucagon", "weight": 2.0, "id": 2778563252, "level": 4}
+{"count": 33896, "name": "Hypoglycemia", "weight": 3.0, "id": 2780668416, "level": 4}
+{"count": 34479, "name": "Blood sugar", "weight": 3.0, "id": 2780485761, "level": 4}
+{"count": 13980, "name": "Pancreatic islets", "weight": 1.0, "id": 2779855799, "level": 4}
+{"count": 17049, "name": "Glucose uptake", "weight": 1.0, "id": 2777866211, "level": 4}
+{"count": 26745, "name": "Metformin", "weight": 2.0, "id": 2780323712, "level": 4}
+{"count": 4942, "name": "Glucagon-like peptide-1", "weight": 0.0, "id": 2776398474, "level": 4}
+{"count": 26021, "name": "Postprandial", "weight": 2.0, "id": 2778199505, "level": 4}
+{"count": 2823, "name": "C-peptide", "weight": 0.0, "id": 2778875212, "level": 4}
+{"count": 6153, "name": "Rosiglitazone", "weight": 0.0, "id": 2780152017, "level": 4}
+{"count": 7384, "name": "Pioglitazone", "weight": 0.0, "id": 2778384471, "level": 4}
+{"count": 7299, "name": "Glibenclamide", "weight": 0.0, "id": 2779768347, "level": 4}
+{"count": 4522, "name": "Proinsulin", "weight": 0.0, "id": 90061646, "level": 4}
+{"count": 5128, "name": "Insulinoma", "weight": 0.0, "id": 2780053029, "level": 4}
+{"count": 7091, "name": "Diabetic ketoacidosis", "weight": 0.0, "id": 2781283889, "level": 4}
+{"count": 5154, "name": "Glucokinase", "weight": 0.0, "id": 98335778, "level": 4}
+{"count": 1399, "name": "Troglitazone", "weight": 0.0, "id": 2778150266, "level": 4}
+{"count": 3925, "name": "Tolbutamide", "weight": 0.0, "id": 2776054734, "level": 4}
+{"count": 4732, "name": "Incretin", "weight": 0.0, "id": 2778881409, "level": 4}
+{"count": 3160, "name": "Thiazolidinedione", "weight": 0.0, "id": 2776923340, "level": 4}
+{"count": 3284, "name": "Acarbose", "weight": 0.0, "id": 2776617576, "level": 4}
+{"count": 8296, "name": "Beta cell", "weight": 0.0, "id": 2776828364, "level": 4}
+{"count": 2781, "name": "Amylin", "weight": 0.0, "id": 2780705028, "level": 4}
+{"count": 2778, "name": "Exenatide", "weight": 0.0, "id": 2780533449, "level": 4}
+{"count": 6277, "name": "Sulfonylurea", "weight": 0.0, "id": 2778854520, "level": 4}
+{"count": 3107, "name": "Glycosuria", "weight": 0.0, "id": 2781214132, "level": 4}
+{"count": 8083, "name": "Glycated hemoglobin", "weight": 0.0, "id": 2777538456, "level": 4}
+{"count": 2140, "name": "Gliclazide", "weight": 0.0, "id": 2777448766, "level": 4}
+{"count": 3143, "name": "Liraglutide", "weight": 0.0, "id": 2781308992, "level": 4}
+{"count": 737, "name": "Insulin-degrading enzyme", "weight": 0.0, "id": 2780331951, "level": 4}
+{"count": 2240, "name": "Fructosamine", "weight": 0.0, "id": 2781357877, "level": 4}
+{"count": 1651, "name": "Glipizide", "weight": 0.0, "id": 2779555806, "level": 4}
+{"count": 930, "name": "Diabetic diet", "weight": 0.0, "id": 2776901731, "level": 4}
+{"count": 2683, "name": "NEFA", "weight": 0.0, "id": 2779772378, "level": 4}
+{"count": 576, "name": "United Kingdom Prospective Diabetes Study", "weight": 0.0, "id": 2780920962, "level": 4}
+{"count": 1439, "name": "Insulin aspart", "weight": 0.0, "id": 2779908123, "level": 4}
+{"count": 2089, "name": "Glycogenesis", "weight": 0.0, "id": 109384507, "level": 4}
+{"count": 5991, "name": "Diabetes management", "weight": 0.0, "id": 2776217022, "level": 4}
+{"count": 905, "name": "Nateglinide", "weight": 0.0, "id": 2779463123, "level": 4}
+{"count": 3750, "name": "Blood sugar regulation", "weight": 0.0, "id": 76923068, "level": 4}
+{"count": 2651, "name": "Blood glucose monitoring", "weight": 0.0, "id": 2779524580, "level": 4}
+{"count": 425, "name": "Acipimox", "weight": 0.0, "id": 2776234762, "level": 4}
+{"count": 963, "name": "Free fatty acid receptor 1", "weight": 0.0, "id": 32670627, "level": 4}
+{"count": 935, "name": "Maturity onset diabetes of the young", "weight": 0.0, "id": 2780203522, "level": 4}
+{"count": 424, "name": "Neonatal diabetes mellitus", "weight": 0.0, "id": 2776865833, "level": 4}
+{"count": 870, "name": "Ketonuria", "weight": 0.0, "id": 2779617510, "level": 4}
+{"count": 508, "name": "Cystic fibrosis-related diabetes", "weight": 0.0, "id": 2780520431, "level": 4}
+{"count": 530, "name": "Voglibose", "weight": 0.0, "id": 2777842550, "level": 4}
+{"count": 464, "name": "Cephalic phase", "weight": 0.0, "id": 73200397, "level": 4}
+{"count": 642, "name": "Stress hyperglycemia", "weight": 0.0, "id": 2779639298, "level": 4}
+{"count": 476, "name": "Mannoheptulose", "weight": 0.0, "id": 2779365131, "level": 4}
+{"count": 253, "name": "ob/ob mouse", "weight": 0.0, "id": 2780070582, "level": 4}
+{"count": 32366, "name": "Glycemic", "weight": 3.0, "id": 2780473172, "level": 4}
+{"count": 167, "name": "Dawn phenomenon", "weight": 0.0, "id": 2778238611, "level": 4}
+{"count": 219, "name": "D-chiro-Inositol", "weight": 0.0, "id": 2778959535, "level": 4}
+{"count": 831, "name": "Insulin analog", "weight": 0.0, "id": 2776664568, "level": 4}
+{"count": 594, "name": "Insulin pen", "weight": 0.0, "id": 2779417425, "level": 4}
+{"count": 231, "name": "ABCC8", "weight": 0.0, "id": 2778537969, "level": 4}
+{"count": 284, "name": "Mitiglinide", "weight": 0.0, "id": 2776930691, "level": 4}
+{"count": 170, "name": "Transient neonatal diabetes mellitus", "weight": 0.0, "id": 2780129199, "level": 4}
+{"count": 829, "name": "Renal glucose reabsorption", "weight": 0.0, "id": 90466245, "level": 4}
+{"count": 979, "name": "Basal rate", "weight": 0.0, "id": 2779213540, "level": 4}
+{"count": 226, "name": "Permanent neonatal diabetes mellitus", "weight": 0.0, "id": 2781045103, "level": 4}
+{"count": 97, "name": "Xenin", "weight": 0.0, "id": 2779934506, "level": 4}
+{"count": 556, "name": "L-Glucose", "weight": 0.0, "id": 2780963292, "level": 4}
+{"count": 30, "name": "Allixin", "weight": 0.0, "id": 2779016349, "level": 4}
+{"count": 46, "name": "Anti-diabetic medication", "weight": 0.0, "id": 2777334876, "level": 4}
+{"count": 23, "name": "Glucose paradox", "weight": 0.0, "id": 2780112061, "level": 4}
+{"count": 22, "name": "Imeglimin", "weight": 0.0, "id": 2780756205, "level": 4}
+{"count": 199, "name": "Insulin shock therapy", "weight": 0.0, "id": 2778063737, "level": 4}
+{"count": 37, "name": "Inhalable insulin", "weight": 0.0, "id": 2777689814, "level": 4}
+{"count": 10, "name": "Insulin potentiation therapy", "weight": 0.0, "id": 2776205945, "level": 4}
+{"count": 33, "name": "Capillary aneurysms", "weight": 0.0, "id": 2778383921, "level": 4}
+{"count": 16, "name": "Prime constant", "weight": 0.0, "id": 2779754292, "level": 4}
+{"count": 86, "name": "Diabetes in dogs", "weight": 0.0, "id": 2781278746, "level": 4}

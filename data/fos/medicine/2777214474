@@ -1,0 +1,27 @@
+{"count": 23346, "name": "Portal hypertension", "weight": 10.0, "id": 2778808290, "level": 4}
+{"count": 17143, "name": "Chronic liver disease", "weight": 7.0, "id": 2779102576, "level": 4}
+{"count": 10226, "name": "Hepatic encephalopathy", "weight": 4.0, "id": 2780325230, "level": 4}
+{"count": 7551, "name": "Alcoholic liver disease", "weight": 3.0, "id": 2777575235, "level": 4}
+{"count": 8187, "name": "Esophageal varices", "weight": 3.0, "id": 2777595160, "level": 4}
+{"count": 4663, "name": "Portal vein thrombosis", "weight": 1.0, "id": 2778800853, "level": 4}
+{"count": 3157, "name": "Spontaneous bacterial peritonitis", "weight": 1.0, "id": 2777364826, "level": 4}
+{"count": 1638, "name": "Model for End-Stage Liver Disease", "weight": 0.0, "id": 2779250428, "level": 4}
+{"count": 2929, "name": "Hepatorenal syndrome", "weight": 1.0, "id": 2776988256, "level": 4}
+{"count": 2380, "name": "Transient elastography", "weight": 1.0, "id": 2780826214, "level": 4}
+{"count": 3397, "name": "Alcoholic hepatitis", "weight": 1.0, "id": 2780732942, "level": 4}
+{"count": 1389, "name": "Hepatopulmonary syndrome", "weight": 0.0, "id": 2777768114, "level": 4}
+{"count": 1102, "name": "Terlipressin", "weight": 0.0, "id": 2779393834, "level": 4}
+{"count": 518, "name": "FibroTest", "weight": 0.0, "id": 2781105215, "level": 4}
+{"count": 288, "name": "Child\u2013Pugh score", "weight": 0.0, "id": 2775902819, "level": 4}
+{"count": 1303, "name": "Milan criteria", "weight": 0.0, "id": 2776282453, "level": 4}
+{"count": 378, "name": "Indian childhood cirrhosis", "weight": 0.0, "id": 2780589705, "level": 4}
+{"count": 410, "name": "Peritoneovenous shunt", "weight": 0.0, "id": 2777720800, "level": 4}
+{"count": 50, "name": "Des-gamma carboxyprothrombin", "weight": 0.0, "id": 2779940932, "level": 4}
+{"count": 102, "name": "AST/ALT ratio", "weight": 0.0, "id": 2778798487, "level": 4}
+{"count": 73, "name": "Spider angioma", "weight": 0.0, "id": 2776437856, "level": 4}
+{"count": 332, "name": "Piecemeal necrosis", "weight": 0.0, "id": 2778075504, "level": 4}
+{"count": 125, "name": "Congestive hepatopathy", "weight": 0.0, "id": 2777051112, "level": 4}
+{"count": 37, "name": "African iron overload", "weight": 0.0, "id": 2777556922, "level": 4}
+{"count": 18, "name": "Familial cirrhosis", "weight": 0.0, "id": 2776831368, "level": 4}
+{"count": 16, "name": "Hepatitis C and HIV coinfection", "weight": 0.0, "id": 2777998963, "level": 4}
+{"count": 9, "name": "Nodular parenchyma", "weight": 0.0, "id": 184411955, "level": 4}

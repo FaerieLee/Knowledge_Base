@@ -1,0 +1,15 @@
+{"count": 1545, "name": "Block Truncation Coding", "weight": 3.0, "id": 20914364, "level": 5}
+{"count": 790, "name": "Bidirectional texture function", "weight": 2.0, "id": 165164221, "level": 5}
+{"count": 298, "name": "Mipmap", "weight": 0.0, "id": 120946964, "level": 5}
+{"count": 3924, "name": "Texture filtering", "weight": 10.0, "id": 144743038, "level": 5}
+{"count": 240, "name": "Relief mapping", "weight": 0.0, "id": 92643916, "level": 5}
+{"count": 801, "name": "Texture atlas", "weight": 2.0, "id": 207183524, "level": 5}
+{"count": 1159, "name": "Projective texture mapping", "weight": 2.0, "id": 78289832, "level": 5}
+{"count": 489, "name": "S3 Texture Compression", "weight": 1.0, "id": 27570572, "level": 5}
+{"count": 480, "name": "UVW mapping", "weight": 1.0, "id": 108584696, "level": 5}
+{"count": 113, "name": "Trilinear filtering", "weight": 0.0, "id": 113451754, "level": 5}
+{"count": 228, "name": "Alpha mapping", "weight": 0.0, "id": 175333325, "level": 5}
+{"count": 114, "name": "Bilinear filtering", "weight": 0.0, "id": 159817140, "level": 5}
+{"count": 342, "name": "Adaptive Scalable Texture Compression", "weight": 0.0, "id": 32185517, "level": 5}
+{"count": 377, "name": "Transparency (data compression)", "weight": 0.0, "id": 88056161, "level": 5}
+{"count": 6, "name": "PVRTC", "weight": 0.0, "id": 69498771, "level": 5}

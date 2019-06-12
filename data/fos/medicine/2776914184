@@ -1,0 +1,45 @@
+{"count": 84027, "name": "Proinflammatory cytokine", "weight": 10.0, "id": 164027704, "level": 3}
+{"count": 11477, "name": "Acute-phase protein", "weight": 1.0, "id": 57194454, "level": 3}
+{"count": 18550, "name": "Myeloperoxidase", "weight": 2.0, "id": 203565725, "level": 3}
+{"count": 3894, "name": "Macrophage inflammatory protein", "weight": 0.0, "id": 170217031, "level": 3}
+{"count": 10621, "name": "Systemic inflammation", "weight": 1.0, "id": 2776252253, "level": 3}
+{"count": 15677, "name": "Neuroinflammation", "weight": 1.0, "id": 87753298, "level": 3}
+{"count": 5123, "name": "Serum amyloid A", "weight": 0.0, "id": 55359608, "level": 3}
+{"count": 5075, "name": "Leukotriene B4", "weight": 0.0, "id": 2776685179, "level": 3}
+{"count": 2603, "name": "Neurogenic inflammation", "weight": 0.0, "id": 2776089194, "level": 3}
+{"count": 15042, "name": "TLR4", "weight": 1.0, "id": 2776070231, "level": 3}
+{"count": 8264, "name": "Inflammasome", "weight": 0.0, "id": 2777209026, "level": 3}
+{"count": 3658, "name": "CCL2", "weight": 0.0, "id": 101666144, "level": 3}
+{"count": 4868, "name": "HMGB1", "weight": 0.0, "id": 2780545709, "level": 3}
+{"count": 5277, "name": "Allergic inflammation", "weight": 0.0, "id": 2779675166, "level": 3}
+{"count": 1650, "name": "Thymic stromal lymphopoietin", "weight": 0.0, "id": 2778070265, "level": 3}
+{"count": 872, "name": "Sickness behavior", "weight": 0.0, "id": 138906646, "level": 3}
+{"count": 2828, "name": "Neutrophil extracellular traps", "weight": 0.0, "id": 134897094, "level": 3}
+{"count": 3726, "name": "Neutrophilia", "weight": 0.0, "id": 2777802486, "level": 3}
+{"count": 2330, "name": "Macrophage polarization", "weight": 0.0, "id": 2776682551, "level": 3}
+{"count": 2507, "name": "Endothelial activation", "weight": 0.0, "id": 2776246508, "level": 3}
+{"count": 682, "name": "Arthus reaction", "weight": 0.0, "id": 2779142470, "level": 3}
+{"count": 1025, "name": "CCL3", "weight": 0.0, "id": 110015553, "level": 3}
+{"count": 1317, "name": "Lipoxin", "weight": 0.0, "id": 2780415110, "level": 3}
+{"count": 960, "name": "S100A9", "weight": 0.0, "id": 2776307749, "level": 3}
+{"count": 726, "name": "Efferocytosis", "weight": 0.0, "id": 168261976, "level": 3}
+{"count": 1941, "name": "CXCL1", "weight": 0.0, "id": 96525457, "level": 3}
+{"count": 243, "name": "TSG-6", "weight": 0.0, "id": 2779451867, "level": 3}
+{"count": 309, "name": "Cholinergic anti-inflammatory pathway", "weight": 0.0, "id": 2777326111, "level": 3}
+{"count": 324, "name": "Calgranulin", "weight": 0.0, "id": 2777839721, "level": 3}
+{"count": 719, "name": "Resolvin", "weight": 0.0, "id": 2778679368, "level": 3}
+{"count": 586, "name": "Leukocyte extravasation", "weight": 0.0, "id": 2779974255, "level": 3}
+{"count": 575, "name": "Interleukin 25", "weight": 0.0, "id": 174260850, "level": 3}
+{"count": 167, "name": "Inflammatory reflex", "weight": 0.0, "id": 2776825857, "level": 3}
+{"count": 190, "name": "Formyl peptide receptor 2", "weight": 0.0, "id": 2776434589, "level": 3}
+{"count": 63, "name": "Altered Schaedler flora", "weight": 0.0, "id": 2777149338, "level": 3}
+{"count": 21, "name": "Specialized pro-resolving mediators", "weight": 0.0, "id": 2777355728, "level": 3}
+{"count": 128, "name": "Regulatory macrophages", "weight": 0.0, "id": 2777349060, "level": 3}
+{"count": 53, "name": "ALOX15B", "weight": 0.0, "id": 2778545323, "level": 3}
+{"count": 70, "name": "CCL6", "weight": 0.0, "id": 2779770056, "level": 3}
+{"count": 667, "name": "Pathophysiology of asthma", "weight": 0.0, "id": 2779999680, "level": 3}
+{"count": 36, "name": "LILRB4", "weight": 0.0, "id": 2775935632, "level": 3}
+{"count": 27, "name": "Sentinel cell", "weight": 0.0, "id": 2779459061, "level": 3}
+{"count": 25, "name": "CXCL15", "weight": 0.0, "id": 2777490987, "level": 3}
+{"count": 17, "name": "D-Deprenyl", "weight": 0.0, "id": 2779973749, "level": 3}
+{"count": 51, "name": "Functio laesa", "weight": 0.0, "id": 2777575674, "level": 3}

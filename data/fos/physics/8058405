@@ -1,0 +1,200 @@
+{"count": 76756, "name": "Ionosphere", "weight": 10.0, "id": 116403925, "level": 2}
+{"count": 48275, "name": "Solar wind", "weight": 6.0, "id": 108411613, "level": 2}
+{"count": 61340, "name": "Mantle (geology)", "weight": 7.0, "id": 67236022, "level": 2}
+{"count": 39972, "name": "Subduction", "weight": 5.0, "id": 58097730, "level": 2}
+{"count": 18194, "name": "Plate tectonics", "weight": 2.0, "id": 119477230, "level": 2}
+{"count": 28491, "name": "Solar cycle", "weight": 3.0, "id": 43867161, "level": 2}
+{"count": 25018, "name": "Seismic wave", "weight": 3.0, "id": 78542244, "level": 2}
+{"count": 39783, "name": "Earth's magnetic field", "weight": 5.0, "id": 199635899, "level": 2}
+{"count": 18548, "name": "Gravity wave", "weight": 2.0, "id": 185975314, "level": 2}
+{"count": 22901, "name": "Continental margin", "weight": 2.0, "id": 201867031, "level": 2}
+{"count": 17412, "name": "Continental crust", "weight": 2.0, "id": 141646446, "level": 2}
+{"count": 16627, "name": "Oceanic crust", "weight": 2.0, "id": 154200439, "level": 2}
+{"count": 46843, "name": "Latitude", "weight": 6.0, "id": 122523270, "level": 2}
+{"count": 8305, "name": "Secular variation", "weight": 1.0, "id": 112197492, "level": 2}
+{"count": 22977, "name": "Induced seismicity", "weight": 2.0, "id": 83176761, "level": 2}
+{"count": 16404, "name": "Shear zone", "weight": 2.0, "id": 23295444, "level": 2}
+{"count": 11219, "name": "Magnetic anomaly", "weight": 1.0, "id": 194482375, "level": 2}
+{"count": 13389, "name": "Internal wave", "weight": 1.0, "id": 146864707, "level": 2}
+{"count": 10466, "name": "Gravity anomaly", "weight": 1.0, "id": 96342900, "level": 2}
+{"count": 36252, "name": "Magma", "weight": 4.0, "id": 183222429, "level": 2}
+{"count": 10514, "name": "Shear waves", "weight": 1.0, "id": 2779438780, "level": 2}
+{"count": 31111, "name": "Coronal mass ejection", "weight": 4.0, "id": 72886185, "level": 2}
+{"count": 4639, "name": "Geophysical survey", "weight": 0.0, "id": 114315601, "level": 2}
+{"count": 8178, "name": "Structural geology", "weight": 1.0, "id": 7251660, "level": 2}
+{"count": 25774, "name": "Impact crater", "weight": 3.0, "id": 179537507, "level": 2}
+{"count": 50816, "name": "Crust", "weight": 6.0, "id": 2776698055, "level": 2}
+{"count": 12848, "name": "Paleomagnetism", "weight": 1.0, "id": 189479680, "level": 2}
+{"count": 28117, "name": "Rift", "weight": 3.0, "id": 50682988, "level": 2}
+{"count": 18769, "name": "Sunspot", "weight": 2.0, "id": 197370839, "level": 2}
+{"count": 679, "name": "Geochemical cycle", "weight": 0.0, "id": 127636831, "level": 2}
+{"count": 9085, "name": "Inner core", "weight": 1.0, "id": 72782756, "level": 2}
+{"count": 41554, "name": "Fault (geology)", "weight": 5.0, "id": 175551986, "level": 2}
+{"count": 11016, "name": "Space weather", "weight": 1.0, "id": 151325931, "level": 2}
+{"count": 3350, "name": "Triple junction", "weight": 0.0, "id": 2778282194, "level": 2}
+{"count": 5982, "name": "Rossby wave", "weight": 0.0, "id": 145151356, "level": 2}
+{"count": 5585, "name": "Earth's rotation", "weight": 0.0, "id": 142670403, "level": 2}
+{"count": 15841, "name": "Well logging", "weight": 2.0, "id": 35817400, "level": 2}
+{"count": 21509, "name": "Pressure control", "weight": 2.0, "id": 2781153586, "level": 2}
+{"count": 16758, "name": "Seafloor spreading", "weight": 2.0, "id": 117485682, "level": 2}
+{"count": 6065, "name": "Seismic refraction", "weight": 0.0, "id": 111461898, "level": 2}
+{"count": 8480, "name": "Seismogram", "weight": 1.0, "id": 169744125, "level": 2}
+{"count": 7805, "name": "Epicenter", "weight": 1.0, "id": 60859754, "level": 2}
+{"count": 3085, "name": "Gravimetry", "weight": 0.0, "id": 202453963, "level": 2}
+{"count": 5489, "name": "S-wave", "weight": 0.0, "id": 20252601, "level": 2}
+{"count": 37113, "name": "Geothermal gradient", "weight": 4.0, "id": 111766609, "level": 2}
+{"count": 8767, "name": "Pitch angle", "weight": 1.0, "id": 2777581452, "level": 2}
+{"count": 4133, "name": "Surf zone", "weight": 0.0, "id": 152303270, "level": 2}
+{"count": 5090, "name": "Synthetic seismogram", "weight": 0.0, "id": 137219930, "level": 2}
+{"count": 10726, "name": "Aftershock", "weight": 1.0, "id": 156801008, "level": 2}
+{"count": 6306, "name": "Earthquake prediction", "weight": 0.0, "id": 11097651, "level": 2}
+{"count": 6835, "name": "Homing (biology)", "weight": 0.0, "id": 151872237, "level": 2}
+{"count": 2891, "name": "Seismic array", "weight": 0.0, "id": 2776845669, "level": 2}
+{"count": 3277, "name": "Hypocenter", "weight": 0.0, "id": 111357193, "level": 2}
+{"count": 9747, "name": "Seismometer", "weight": 1.0, "id": 119217923, "level": 2}
+{"count": 2970, "name": "Satellite geodesy", "weight": 0.0, "id": 154839486, "level": 2}
+{"count": 2723, "name": "Kelvin wave", "weight": 0.0, "id": 73421765, "level": 2}
+{"count": 15525, "name": "Craton", "weight": 2.0, "id": 147717901, "level": 2}
+{"count": 4455, "name": "Mineral exploration", "weight": 0.0, "id": 66264921, "level": 2}
+{"count": 5947, "name": "Geoid", "weight": 0.0, "id": 80989030, "level": 2}
+{"count": 6697, "name": "Seamount", "weight": 0.0, "id": 135559958, "level": 2}
+{"count": 70116, "name": "Slab", "weight": 9.0, "id": 113740112, "level": 2}
+{"count": 11576, "name": "Equator", "weight": 1.0, "id": 12980444, "level": 2}
+{"count": 11057, "name": "Baroclinity", "weight": 1.0, "id": 53631411, "level": 2}
+{"count": 1504, "name": "Universal Time", "weight": 0.0, "id": 84853838, "level": 2}
+{"count": 4418, "name": "Magnetic dip", "weight": 0.0, "id": 60365795, "level": 2}
+{"count": 3277, "name": "Strong ground motion", "weight": 0.0, "id": 89929633, "level": 2}
+{"count": 1572, "name": "Earthquake location", "weight": 0.0, "id": 2780937219, "level": 2}
+{"count": 2245, "name": "Gravity current", "weight": 0.0, "id": 84482304, "level": 2}
+{"count": 6653, "name": "Microseism", "weight": 0.0, "id": 7266685, "level": 2}
+{"count": 1378, "name": "Aeronomy", "weight": 0.0, "id": 183191521, "level": 2}
+{"count": 10974, "name": "Shear velocity", "weight": 1.0, "id": 94656876, "level": 2}
+{"count": 4929, "name": "Vertical seismic profile", "weight": 0.0, "id": 89787772, "level": 2}
+{"count": 1307, "name": "Milankovitch cycles", "weight": 0.0, "id": 178100555, "level": 2}
+{"count": 2973, "name": "Helioseismology", "weight": 0.0, "id": 106048912, "level": 2}
+{"count": 17048, "name": "Annulus (oil well)", "weight": 2.0, "id": 164487770, "level": 2}
+{"count": 1770, "name": "Continental drift", "weight": 0.0, "id": 172578880, "level": 2}
+{"count": 8210, "name": "Peak ground acceleration", "weight": 1.0, "id": 60486960, "level": 2}
+{"count": 2078, "name": "Marine geology", "weight": 0.0, "id": 28115305, "level": 2}
+{"count": 3385, "name": "Lineation", "weight": 0.0, "id": 98742433, "level": 2}
+{"count": 3464, "name": "Geopotential", "weight": 0.0, "id": 160121416, "level": 2}
+{"count": 999, "name": "Ultra low frequency", "weight": 0.0, "id": 30518091, "level": 2}
+{"count": 4818, "name": "Kepler", "weight": 0.0, "id": 207963374, "level": 2}
+{"count": 10483, "name": "Space environment", "weight": 1.0, "id": 181762993, "level": 2}
+{"count": 3982, "name": "Seismic noise", "weight": 0.0, "id": 30947920, "level": 2}
+{"count": 2679, "name": "Ecliptic", "weight": 0.0, "id": 193587279, "level": 2}
+{"count": 1327, "name": "Rossby number", "weight": 0.0, "id": 42652486, "level": 2}
+{"count": 3549, "name": "Rift valley", "weight": 0.0, "id": 2778697265, "level": 2}
+{"count": 2070, "name": "Baltica", "weight": 0.0, "id": 2777040169, "level": 2}
+{"count": 1490, "name": "Majorite", "weight": 0.0, "id": 2779289094, "level": 2}
+{"count": 3512, "name": "Gravimeter", "weight": 0.0, "id": 139974479, "level": 2}
+{"count": 2973, "name": "Solstice", "weight": 0.0, "id": 108320909, "level": 2}
+{"count": 4913, "name": "Fracture zone", "weight": 0.0, "id": 2778677506, "level": 2}
+{"count": 1842, "name": "Hiss", "weight": 0.0, "id": 69523719, "level": 2}
+{"count": 334, "name": "Dawn chorus", "weight": 0.0, "id": 58633564, "level": 2}
+{"count": 1025, "name": "Rip current", "weight": 0.0, "id": 166482635, "level": 2}
+{"count": 1919, "name": "Inertial wave", "weight": 0.0, "id": 43734619, "level": 2}
+{"count": 4999, "name": "Coiled tubing", "weight": 0.0, "id": 42016506, "level": 2}
+{"count": 20529, "name": "Geological survey", "weight": 2.0, "id": 2781113848, "level": 2}
+{"count": 4840, "name": "Declination", "weight": 0.0, "id": 124200008, "level": 2}
+{"count": 5382, "name": "Horst", "weight": 0.0, "id": 2776074449, "level": 2}
+{"count": 502, "name": "Space geodesy", "weight": 0.0, "id": 2776407548, "level": 2}
+{"count": 1358, "name": "Tiltmeter", "weight": 0.0, "id": 21054061, "level": 2}
+{"count": 135, "name": "Brunt\u2013V\u00e4is\u00e4l\u00e4 frequency", "weight": 0.0, "id": 35797855, "level": 2}
+{"count": 652, "name": "Wave\u2013current interaction", "weight": 0.0, "id": 14080524, "level": 2}
+{"count": 772, "name": "Earth tide", "weight": 0.0, "id": 2779471799, "level": 2}
+{"count": 3685, "name": "Geophysical imaging", "weight": 0.0, "id": 79675319, "level": 2}
+{"count": 1429, "name": "Solid earth", "weight": 0.0, "id": 2780444441, "level": 2}
+{"count": 663, "name": "Edge wave", "weight": 0.0, "id": 2777768192, "level": 2}
+{"count": 1724, "name": "Tidal force", "weight": 0.0, "id": 86597896, "level": 2}
+{"count": 2783, "name": "Exploration geophysics", "weight": 0.0, "id": 235608, "level": 2}
+{"count": 1361, "name": "Seismic vibrator", "weight": 0.0, "id": 20947056, "level": 2}
+{"count": 418, "name": "Reflection seismology", "weight": 0.0, "id": 2779763130, "level": 2}
+{"count": 2741, "name": "Geotechnical investigation", "weight": 0.0, "id": 93011207, "level": 2}
+{"count": 9182, "name": "Tripping", "weight": 1.0, "id": 2779733308, "level": 2}
+{"count": 628, "name": "Earth structure", "weight": 0.0, "id": 2777084502, "level": 2}
+{"count": 944, "name": "Strain partitioning", "weight": 0.0, "id": 2779557651, "level": 2}
+{"count": 433, "name": "Analogue modelling", "weight": 0.0, "id": 2779742598, "level": 2}
+{"count": 10128, "name": "Interplanetary spaceflight", "weight": 1.0, "id": 194462397, "level": 2}
+{"count": 27, "name": "Terradynamics", "weight": 0.0, "id": 2778919464, "level": 2}
+{"count": 813, "name": "Spontaneous potential", "weight": 0.0, "id": 15962587, "level": 2}
+{"count": 1038, "name": "Bright spot", "weight": 0.0, "id": 93103189, "level": 2}
+{"count": 362, "name": "Love number", "weight": 0.0, "id": 2776258656, "level": 2}
+{"count": 214, "name": "Lunar limb", "weight": 0.0, "id": 2780641058, "level": 2}
+{"count": 1756, "name": "Sima", "weight": 0.0, "id": 2777962870, "level": 2}
+{"count": 642, "name": "Pneumatocele", "weight": 0.0, "id": 2780778915, "level": 2}
+{"count": 687, "name": "Radiation stress", "weight": 0.0, "id": 21559997, "level": 2}
+{"count": 310, "name": "Mariana Trench", "weight": 0.0, "id": 2780444291, "level": 2}
+{"count": 1569, "name": "Formation evaluation", "weight": 0.0, "id": 2781101838, "level": 2}
+{"count": 698, "name": "Mining geology", "weight": 0.0, "id": 66511971, "level": 2}
+{"count": 427, "name": "History of geology", "weight": 0.0, "id": 2776405105, "level": 2}
+{"count": 111, "name": "Biogeophysics", "weight": 0.0, "id": 2780135088, "level": 2}
+{"count": 710, "name": "Differential stress", "weight": 0.0, "id": 2780012869, "level": 2}
+{"count": 873, "name": "Earth radius", "weight": 0.0, "id": 75211307, "level": 2}
+{"count": 277, "name": "Long period ground motion", "weight": 0.0, "id": 2780536910, "level": 2}
+{"count": 641, "name": "Tidal acceleration", "weight": 0.0, "id": 183016530, "level": 2}
+{"count": 1333, "name": "Density contrast", "weight": 0.0, "id": 2777586563, "level": 2}
+{"count": 258, "name": "Mathematical geophysics", "weight": 0.0, "id": 114935716, "level": 2}
+{"count": 1314, "name": "Formation fluid", "weight": 0.0, "id": 2778415858, "level": 2}
+{"count": 4947, "name": "Wireline", "weight": 0.0, "id": 2776951270, "level": 2}
+{"count": 5844, "name": "Streak", "weight": 0.0, "id": 65185188, "level": 2}
+{"count": 2169, "name": "Equinox", "weight": 0.0, "id": 43157870, "level": 2}
+{"count": 1338, "name": "Passive seismic", "weight": 0.0, "id": 2780942248, "level": 2}
+{"count": 279, "name": "Undular bore", "weight": 0.0, "id": 121437726, "level": 2}
+{"count": 416, "name": "Pressuremeter test", "weight": 0.0, "id": 2777190445, "level": 2}
+{"count": 417, "name": "Kaguya", "weight": 0.0, "id": 2776083886, "level": 2}
+{"count": 300, "name": "Near-surface geophysics", "weight": 0.0, "id": 54267871, "level": 2}
+{"count": 586, "name": "Tidal heating", "weight": 0.0, "id": 51530852, "level": 2}
+{"count": 68, "name": "Project Vela", "weight": 0.0, "id": 2779041732, "level": 2}
+{"count": 1462, "name": "Tsunami earthquake", "weight": 0.0, "id": 144131665, "level": 2}
+{"count": 84, "name": "Pole shift hypothesis", "weight": 0.0, "id": 4727063, "level": 2}
+{"count": 169, "name": "Spherical Earth", "weight": 0.0, "id": 178869978, "level": 2}
+{"count": 322, "name": "Mining feasibility study", "weight": 0.0, "id": 51665439, "level": 2}
+{"count": 980, "name": "Figure of the Earth", "weight": 0.0, "id": 122224866, "level": 2}
+{"count": 171, "name": "Transient electromagnetics", "weight": 0.0, "id": 67613820, "level": 2}
+{"count": 415, "name": "Rille", "weight": 0.0, "id": 51260521, "level": 2}
+{"count": 195, "name": "Expanding Earth", "weight": 0.0, "id": 41596774, "level": 2}
+{"count": 798, "name": "Lunar water", "weight": 0.0, "id": 32471682, "level": 2}
+{"count": 974, "name": "Strahl", "weight": 0.0, "id": 2778436209, "level": 2}
+{"count": 110, "name": "Laboratory oven", "weight": 0.0, "id": 2777308949, "level": 2}
+{"count": 545, "name": "Depth conversion", "weight": 0.0, "id": 2780967690, "level": 2}
+{"count": 529, "name": "Earthscope", "weight": 0.0, "id": 184069050, "level": 2}
+{"count": 263, "name": "Submarine earthquake", "weight": 0.0, "id": 133716533, "level": 2}
+{"count": 1279, "name": "Isopycnal", "weight": 0.0, "id": 108699882, "level": 2}
+{"count": 1280, "name": "Far side of the Moon", "weight": 0.0, "id": 107195362, "level": 2}
+{"count": 145, "name": "Flat spot", "weight": 0.0, "id": 2778526547, "level": 2}
+{"count": 270, "name": "Geologic modelling", "weight": 0.0, "id": 72263520, "level": 2}
+{"count": 184, "name": "Isoseismal map", "weight": 0.0, "id": 163422655, "level": 2}
+{"count": 45, "name": "Mauch Chunk Formation", "weight": 0.0, "id": 2781289507, "level": 2}
+{"count": 779, "name": "Strike and dip", "weight": 0.0, "id": 86676338, "level": 2}
+{"count": 158, "name": "International Ocean Discovery Program", "weight": 0.0, "id": 2780995328, "level": 2}
+{"count": 155, "name": "SOFAR channel", "weight": 0.0, "id": 2777853079, "level": 2}
+{"count": 68, "name": "e-folding", "weight": 0.0, "id": 2776591089, "level": 2}
+{"count": 223, "name": "Rotating tank", "weight": 0.0, "id": 2777980634, "level": 2}
+{"count": 291, "name": "Mare Crisium", "weight": 0.0, "id": 81878897, "level": 2}
+{"count": 169, "name": "Hydrocarbon indicator", "weight": 0.0, "id": 2780214262, "level": 2}
+{"count": 18, "name": "Kalinite", "weight": 0.0, "id": 2777564568, "level": 2}
+{"count": 94, "name": "SEG Y", "weight": 0.0, "id": 181658902, "level": 2}
+{"count": 85, "name": "Shallow focus", "weight": 0.0, "id": 2779333279, "level": 2}
+{"count": 132, "name": "Equatorial bulge", "weight": 0.0, "id": 130700731, "level": 2}
+{"count": 764, "name": "Transient lunar phenomenon", "weight": 0.0, "id": 183137074, "level": 2}
+{"count": 11, "name": "Creedite", "weight": 0.0, "id": 2777930192, "level": 2}
+{"count": 409, "name": "Orbit of the Moon", "weight": 0.0, "id": 68124633, "level": 2}
+{"count": 322, "name": "Selenographic coordinates", "weight": 0.0, "id": 77286989, "level": 2}
+{"count": 41, "name": "National Data Repository", "weight": 0.0, "id": 159576947, "level": 2}
+{"count": 18, "name": "Ice spike", "weight": 0.0, "id": 2780323484, "level": 2}
+{"count": 18, "name": "Geology of the Himalaya", "weight": 0.0, "id": 2780898103, "level": 2}
+{"count": 13, "name": "Fraser Filter", "weight": 0.0, "id": 2778528993, "level": 2}
+{"count": 4, "name": "Evenkite", "weight": 0.0, "id": 2781165963, "level": 2}
+{"count": 54, "name": "Local mean time", "weight": 0.0, "id": 171675547, "level": 2}
+{"count": 61, "name": "Brunton compass", "weight": 0.0, "id": 102896746, "level": 2}
+{"count": 286, "name": "Variometer", "weight": 0.0, "id": 115206981, "level": 2}
+{"count": 6, "name": "Otwayite", "weight": 0.0, "id": 2781456569, "level": 2}
+{"count": 155, "name": "PDIFF", "weight": 0.0, "id": 2777675484, "level": 2}
+{"count": 10, "name": "Broken Hill ore deposit", "weight": 0.0, "id": 2780719963, "level": 2}
+{"count": 3, "name": "River anticlines", "weight": 0.0, "id": 2780701634, "level": 2}
+{"count": 48, "name": "Linarite", "weight": 0.0, "id": 2778466484, "level": 2}
+{"count": 397, "name": "Gravitation of the Moon", "weight": 0.0, "id": 109699482, "level": 2}
+{"count": 58, "name": "Moon rock", "weight": 0.0, "id": 2781208306, "level": 2}
+{"count": 2, "name": "Mawsonites", "weight": 0.0, "id": 2779457184, "level": 2}
+{"count": 3, "name": "Verneshot", "weight": 0.0, "id": 2779787091, "level": 2}

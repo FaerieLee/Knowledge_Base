@@ -1,0 +1,28 @@
+{"count": 13060, "name": "User modeling", "weight": 7.0, "id": 67712803, "level": 3}
+{"count": 3782, "name": "Interaction technique", "weight": 2.0, "id": 62402345, "level": 3}
+{"count": 18123, "name": "User interface design", "weight": 10.0, "id": 149229913, "level": 3}
+{"count": 2708, "name": "User assistance", "weight": 1.0, "id": 2779447705, "level": 3}
+{"count": 1376, "name": "Tangible user interface", "weight": 0.0, "id": 2777885485, "level": 3}
+{"count": 3387, "name": "Natural language user interface", "weight": 1.0, "id": 174252522, "level": 3}
+{"count": 176, "name": "Pen computing", "weight": 0.0, "id": 2778433126, "level": 3}
+{"count": 109, "name": "Keystroke-level model", "weight": 0.0, "id": 164603451, "level": 3}
+{"count": 324, "name": "Voice user interface", "weight": 0.0, "id": 2776539142, "level": 3}
+{"count": 78, "name": "Attentive user interface", "weight": 0.0, "id": 2778633792, "level": 3}
+{"count": 319, "name": "Context menu", "weight": 0.0, "id": 2779451141, "level": 3}
+{"count": 206, "name": "Paper prototyping", "weight": 0.0, "id": 2776358318, "level": 3}
+{"count": 58, "name": "Organic user interface", "weight": 0.0, "id": 2781365668, "level": 3}
+{"count": 182, "name": "Direct manipulation interface", "weight": 0.0, "id": 2780968085, "level": 3}
+{"count": 683, "name": "Adapter pattern", "weight": 0.0, "id": 108632669, "level": 3}
+{"count": 1165, "name": "Interface control document", "weight": 0.0, "id": 139965803, "level": 3}
+{"count": 45, "name": "3D user interaction", "weight": 0.0, "id": 2777675782, "level": 3}
+{"count": 2086, "name": "Look and feel", "weight": 1.0, "id": 39510489, "level": 3}
+{"count": 186, "name": "Scrollbar", "weight": 0.0, "id": 202264688, "level": 3}
+{"count": 98, "name": "Context-sensitive help", "weight": 0.0, "id": 2779889752, "level": 3}
+{"count": 111, "name": "Touch user interface", "weight": 0.0, "id": 2775881255, "level": 3}
+{"count": 406, "name": "Graphical user interface elements", "weight": 0.0, "id": 5469290, "level": 3}
+{"count": 42, "name": "Widget toolkit", "weight": 0.0, "id": 2776504685, "level": 3}
+{"count": 14, "name": "Text-based user interface", "weight": 0.0, "id": 2778503488, "level": 3}
+{"count": 36, "name": "Extensible Application Markup Language", "weight": 0.0, "id": 2776733890, "level": 3}
+{"count": 269, "name": "Composite UI Application Block", "weight": 0.0, "id": 178694470, "level": 3}
+{"count": 1974, "name": "Clickable", "weight": 1.0, "id": 8823195, "level": 3}
+{"count": 242, "name": "Model\u2013view\u2013adapter", "weight": 0.0, "id": 83346120, "level": 3}

@@ -1,0 +1,25 @@
+{"count": 30240, "name": "Tumor suppressor gene", "weight": 10.0, "id": 2778264664, "level": 4}
+{"count": 869, "name": "Anticarcinogen", "weight": 0.0, "id": 2779107934, "level": 4}
+{"count": 4011, "name": "Adenomatous polyposis coli", "weight": 1.0, "id": 2778237340, "level": 4}
+{"count": 3352, "name": "Tumor promotion", "weight": 1.0, "id": 2780122803, "level": 4}
+{"count": 1908, "name": "Aberrant crypt foci", "weight": 0.0, "id": 2780669762, "level": 4}
+{"count": 3297, "name": "Tumor initiation", "weight": 1.0, "id": 2778287671, "level": 4}
+{"count": 1992, "name": "Azoxymethane", "weight": 0.0, "id": 2778452354, "level": 4}
+{"count": 5497, "name": "DMBA", "weight": 1.0, "id": 2778938436, "level": 4}
+{"count": 1013, "name": "Deleted in Colorectal Cancer", "weight": 0.0, "id": 129642508, "level": 4}
+{"count": 563, "name": "4-Nitroquinoline 1-oxide", "weight": 0.0, "id": 2779911484, "level": 4}
+{"count": 1113, "name": "1,2-Dimethylhydrazine", "weight": 0.0, "id": 2779932572, "level": 4}
+{"count": 791, "name": "Field cancerization", "weight": 0.0, "id": 60120401, "level": 4}
+{"count": 487, "name": "Oncomir", "weight": 0.0, "id": 39845236, "level": 4}
+{"count": 188, "name": "Gankyrin", "weight": 0.0, "id": 2780489680, "level": 4}
+{"count": 87, "name": "GPRC5A", "weight": 0.0, "id": 2781167857, "level": 4}
+{"count": 42, "name": "Peto's paradox", "weight": 0.0, "id": 2778369524, "level": 4}
+{"count": 27, "name": "Co-carcinogen", "weight": 0.0, "id": 2777132888, "level": 4}
+{"count": 23, "name": "Zbtb7", "weight": 0.0, "id": 2775953083, "level": 4}
+{"count": 27, "name": "Cysmethynil", "weight": 0.0, "id": 2781073015, "level": 4}
+{"count": 27, "name": "Caretaker gene", "weight": 0.0, "id": 45487008, "level": 4}
+{"count": 22, "name": "FBXW11", "weight": 0.0, "id": 2777104241, "level": 4}
+{"count": 28, "name": "DLGAP5", "weight": 0.0, "id": 2780195309, "level": 4}
+{"count": 368, "name": "The Hallmarks of Cancer", "weight": 0.0, "id": 2776199265, "level": 4}
+{"count": 1791, "name": "Mouse model of colorectal and intestinal cancer", "weight": 0.0, "id": 111669997, "level": 4}
+{"count": 17, "name": "CENPH", "weight": 0.0, "id": 2779567744, "level": 4}

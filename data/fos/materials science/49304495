@@ -1,0 +1,28 @@
+{"count": 3162, "name": "Ballistics", "weight": 8.0, "id": 71480407, "level": 3}
+{"count": 873, "name": "Terminal ballistics", "weight": 2.0, "id": 2781333031, "level": 3}
+{"count": 1598, "name": "Internal ballistics", "weight": 4.0, "id": 74649582, "level": 3}
+{"count": 1697, "name": "Ballistic impact", "weight": 4.0, "id": 2779463939, "level": 3}
+{"count": 2099, "name": "Light-gas gun", "weight": 5.0, "id": 112040339, "level": 3}
+{"count": 1703, "name": "Ballistic limit", "weight": 4.0, "id": 136649699, "level": 3}
+{"count": 1306, "name": "Muzzle velocity", "weight": 3.0, "id": 74907780, "level": 3}
+{"count": 1742, "name": "Sabot", "weight": 4.0, "id": 204158828, "level": 3}
+{"count": 551, "name": "Ricochet", "weight": 1.0, "id": 593368, "level": 3}
+{"count": 1191, "name": "Projectile motion", "weight": 3.0, "id": 166194698, "level": 3}
+{"count": 763, "name": "Rifling", "weight": 1.0, "id": 177929929, "level": 3}
+{"count": 1378, "name": "Trajectory of a projectile", "weight": 3.0, "id": 98943031, "level": 3}
+{"count": 93, "name": "Tracer ammunition", "weight": 0.0, "id": 2777642663, "level": 3}
+{"count": 872, "name": "Ogive", "weight": 2.0, "id": 101360934, "level": 3}
+{"count": 3941, "name": "Muzzle", "weight": 10.0, "id": 2780673119, "level": 3}
+{"count": 358, "name": "Ram accelerator", "weight": 0.0, "id": 2777126586, "level": 3}
+{"count": 212, "name": "Full metal jacket bullet", "weight": 0.0, "id": 94703739, "level": 3}
+{"count": 95, "name": "Flechette", "weight": 0.0, "id": 118518216, "level": 3}
+{"count": 888, "name": "Range of a projectile", "weight": 2.0, "id": 62467634, "level": 3}
+{"count": 126, "name": "External ballistics", "weight": 0.0, "id": 2776269561, "level": 3}
+{"count": 292, "name": "Base bleed", "weight": 0.0, "id": 2780769610, "level": 3}
+{"count": 72, "name": "Permanent cavity", "weight": 0.0, "id": 2778346535, "level": 3}
+{"count": 27, "name": "Gilding metal", "weight": 0.0, "id": 2781012627, "level": 3}
+{"count": 38, "name": "Point-blank range", "weight": 0.0, "id": 138301425, "level": 3}
+{"count": 85, "name": "Ejection charge", "weight": 0.0, "id": 24722842, "level": 3}
+{"count": 8, "name": "High explosive incendiary", "weight": 0.0, "id": 136440599, "level": 3}
+{"count": 33, "name": "Obturator ring", "weight": 0.0, "id": 2779776945, "level": 3}
+{"count": 18, "name": "Ballistic foam", "weight": 0.0, "id": 33626725, "level": 3}

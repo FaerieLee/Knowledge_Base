@@ -1,0 +1,56 @@
+{"count": 11813, "name": "Renewable resource", "weight": 7.0, "id": 143517461, "level": 3}
+{"count": 12203, "name": "Alternative energy", "weight": 8.0, "id": 104988666, "level": 3}
+{"count": 15208, "name": "Energy engineering", "weight": 10.0, "id": 520343842, "level": 3}
+{"count": 5870, "name": "Cost of electricity by source", "weight": 3.0, "id": 5979214, "level": 3}
+{"count": 2733, "name": "Non-renewable resource", "weight": 1.0, "id": 160363772, "level": 3}
+{"count": 2444, "name": "Capacity factor", "weight": 1.0, "id": 37415627, "level": 3}
+{"count": 3275, "name": "Rural electrification", "weight": 2.0, "id": 2778970885, "level": 3}
+{"count": 5304, "name": "Tidal power", "weight": 3.0, "id": 40018170, "level": 3}
+{"count": 11302, "name": "Primary energy", "weight": 7.0, "id": 120441037, "level": 3}
+{"count": 3687, "name": "Energy planning", "weight": 2.0, "id": 2778834244, "level": 3}
+{"count": 4000, "name": "Marine energy", "weight": 2.0, "id": 52881836, "level": 3}
+{"count": 7029, "name": "Feed-in tariff", "weight": 4.0, "id": 105442212, "level": 3}
+{"count": 3031, "name": "Energy transition", "weight": 1.0, "id": 2777890234, "level": 3}
+{"count": 15088, "name": "Energy development", "weight": 9.0, "id": 551020850, "level": 3}
+{"count": 6599, "name": "Zero-energy building", "weight": 4.0, "id": 184978287, "level": 3}
+{"count": 961, "name": "Virtual power plant", "weight": 0.0, "id": 2776033628, "level": 3}
+{"count": 3056, "name": "Small hydro", "weight": 2.0, "id": 171666300, "level": 3}
+{"count": 2669, "name": "Energy mix", "weight": 1.0, "id": 2777682434, "level": 3}
+{"count": 410, "name": "Power purchase agreement", "weight": 0.0, "id": 2776512361, "level": 3}
+{"count": 1690, "name": "Concentrated solar power", "weight": 1.0, "id": 2779473208, "level": 3}
+{"count": 622, "name": "Net metering", "weight": 0.0, "id": 2779961549, "level": 3}
+{"count": 528, "name": "Microgeneration", "weight": 0.0, "id": 2781019048, "level": 3}
+{"count": 7938, "name": "Intermittent energy source", "weight": 5.0, "id": 121119573, "level": 3}
+{"count": 4505, "name": "Pumped-storage hydroelectricity", "weight": 2.0, "id": 183739832, "level": 3}
+{"count": 1038, "name": "Micro hydro", "weight": 0.0, "id": 2780106156, "level": 3}
+{"count": 995, "name": "Solar Resource", "weight": 0.0, "id": 2778676262, "level": 3}
+{"count": 6986, "name": "Environmental impact of the energy industry", "weight": 4.0, "id": 174503800, "level": 3}
+{"count": 355, "name": "Active Network Management", "weight": 0.0, "id": 2779434388, "level": 3}
+{"count": 1338, "name": "Energy independence", "weight": 0.0, "id": 2779990392, "level": 3}
+{"count": 6617, "name": "Grid parity", "weight": 4.0, "id": 186503672, "level": 3}
+{"count": 352, "name": "World energy consumption", "weight": 0.0, "id": 2781175455, "level": 3}
+{"count": 213, "name": "SuperGrid", "weight": 0.0, "id": 59622614, "level": 3}
+{"count": 230, "name": "Green certificate", "weight": 0.0, "id": 2777092252, "level": 3}
+{"count": 152, "name": "Western Interconnection", "weight": 0.0, "id": 2777213303, "level": 3}
+{"count": 557, "name": "Variable renewable energy", "weight": 0.0, "id": 2780789856, "level": 3}
+{"count": 271, "name": "Electricity delivery", "weight": 0.0, "id": 2778115826, "level": 3}
+{"count": 277, "name": "Wave farm", "weight": 0.0, "id": 186977519, "level": 3}
+{"count": 336, "name": "Merit order", "weight": 0.0, "id": 2776584213, "level": 3}
+{"count": 80, "name": "BioBus", "weight": 0.0, "id": 2779357232, "level": 3}
+{"count": 195, "name": "Pico hydro", "weight": 0.0, "id": 2776208950, "level": 3}
+{"count": 3957, "name": "Renewable heat", "weight": 2.0, "id": 144179057, "level": 3}
+{"count": 92, "name": "High-altitude wind power", "weight": 0.0, "id": 2776127450, "level": 3}
+{"count": 1253, "name": "Dispatchable generation", "weight": 0.0, "id": 85924503, "level": 3}
+{"count": 57, "name": "Solar tree", "weight": 0.0, "id": 2777538026, "level": 3}
+{"count": 26, "name": "Soft energy path", "weight": 0.0, "id": 2778409267, "level": 3}
+{"count": 158, "name": "Low-carbon power", "weight": 0.0, "id": 2776417682, "level": 3}
+{"count": 28, "name": "Energy returned on energy invested", "weight": 0.0, "id": 2778480603, "level": 3}
+{"count": 68, "name": "Energy policy of the European Union", "weight": 0.0, "id": 2779278070, "level": 3}
+{"count": 7, "name": "Solar Renewable Energy Certificate", "weight": 0.0, "id": 2776705190, "level": 3}
+{"count": 15, "name": "Lysekil Project", "weight": 0.0, "id": 2779314743, "level": 3}
+{"count": 40, "name": "Renewable thermal energy", "weight": 0.0, "id": 2781059368, "level": 3}
+{"count": 23, "name": "Worldwide energy supply", "weight": 0.0, "id": 2776945542, "level": 3}
+{"count": 30, "name": "Price per watt", "weight": 0.0, "id": 2781286989, "level": 3}
+{"count": 16, "name": "Energiewende in Germany", "weight": 0.0, "id": 2778573610, "level": 3}
+{"count": 17, "name": "Biomass heating system", "weight": 0.0, "id": 2779837008, "level": 3}
+{"count": 27, "name": "Renewable energy in Brazil", "weight": 0.0, "id": 2776537448, "level": 3}

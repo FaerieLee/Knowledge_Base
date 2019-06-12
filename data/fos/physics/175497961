@@ -1,0 +1,24 @@
+{"count": 449, "name": "Chord (peer-to-peer)", "weight": 10.0, "id": 194147245, "level": 3}
+{"count": 295, "name": "Voice leading", "weight": 6.0, "id": 2778588394, "level": 3}
+{"count": 95, "name": "Tonnetz", "weight": 2.0, "id": 2780158507, "level": 3}
+{"count": 228, "name": "Arpeggio", "weight": 5.0, "id": 2779377027, "level": 3}
+{"count": 99, "name": "Enharmonic", "weight": 2.0, "id": 200655491, "level": 3}
+{"count": 92, "name": "Circle of fifths", "weight": 2.0, "id": 2777206881, "level": 3}
+{"count": 54, "name": "Lead sheet", "weight": 1.0, "id": 2777216529, "level": 3}
+{"count": 66, "name": "Leading-tone", "weight": 1.0, "id": 2781049784, "level": 3}
+{"count": 176, "name": "Key signature", "weight": 4.0, "id": 77918934, "level": 3}
+{"count": 46, "name": "Augmented triad", "weight": 1.0, "id": 176889764, "level": 3}
+{"count": 214, "name": "Key (music)", "weight": 4.0, "id": 26668531, "level": 3}
+{"count": 43, "name": "Diminished seventh chord", "weight": 0.0, "id": 11573789, "level": 3}
+{"count": 124, "name": "Root (chord)", "weight": 2.0, "id": 36895264, "level": 3}
+{"count": 58, "name": "Harmonic rhythm", "weight": 1.0, "id": 92859348, "level": 3}
+{"count": 31, "name": "Minor seventh", "weight": 0.0, "id": 1791946, "level": 3}
+{"count": 7, "name": "Tritone substitution", "weight": 0.0, "id": 2776408001, "level": 3}
+{"count": 9, "name": "Dominant seventh chord", "weight": 0.0, "id": 2779265812, "level": 3}
+{"count": 17, "name": "Diminished seventh", "weight": 0.0, "id": 2775984305, "level": 3}
+{"count": 45, "name": "Eighth note", "weight": 1.0, "id": 15606402, "level": 3}
+{"count": 17, "name": "Augmented sixth", "weight": 0.0, "id": 50737898, "level": 3}
+{"count": 23, "name": "Jazz chord", "weight": 0.0, "id": 2777396366, "level": 3}
+{"count": 31, "name": "Diatonic and chromatic", "weight": 0.0, "id": 2778886922, "level": 3}
+{"count": 32, "name": "Major seventh", "weight": 0.0, "id": 162244945, "level": 3}
+{"count": 45, "name": "Bass note", "weight": 1.0, "id": 2780714529, "level": 3}

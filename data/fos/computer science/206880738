@@ -1,0 +1,13 @@
+{"count": 233, "name": "Model elimination", "weight": 1.0, "id": 2777948964, "level": 3}
+{"count": 194, "name": "Prototype Verification System", "weight": 1.0, "id": 2780643309, "level": 3}
+{"count": 1212, "name": "Automated proof checking", "weight": 10.0, "id": 13766981, "level": 3}
+{"count": 448, "name": "Skolem normal form", "weight": 3.0, "id": 168039801, "level": 3}
+{"count": 221, "name": "Herbrand's theorem", "weight": 1.0, "id": 181407239, "level": 3}
+{"count": 409, "name": "ACL2", "weight": 3.0, "id": 2778365302, "level": 3}
+{"count": 71, "name": "Nqthm", "weight": 0.0, "id": 2781097070, "level": 3}
+{"count": 221, "name": "Nuprl", "weight": 1.0, "id": 2776508104, "level": 3}
+{"count": 109, "name": "Superposition calculus", "weight": 0.0, "id": 2778249681, "level": 3}
+{"count": 28, "name": "Condensed detachment", "weight": 0.0, "id": 2779661891, "level": 3}
+{"count": 46, "name": "Larch Prover", "weight": 0.0, "id": 2780686816, "level": 3}
+{"count": 38, "name": "Prover9", "weight": 0.0, "id": 2776371804, "level": 3}
+{"count": 159, "name": "Theorem Proving System", "weight": 1.0, "id": 2776671111, "level": 3}

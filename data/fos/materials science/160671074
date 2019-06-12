@@ -1,0 +1,35 @@
+{"count": 6387, "name": "Wafer bonding", "weight": 2.0, "id": 2779133538, "level": 3}
+{"count": 23328, "name": "Chemical-mechanical planarization", "weight": 10.0, "id": 180088628, "level": 3}
+{"count": 21900, "name": "Semiconductor device fabrication", "weight": 9.0, "id": 66018809, "level": 3}
+{"count": 4377, "name": "Rapid thermal processing", "weight": 1.0, "id": 72832162, "level": 3}
+{"count": 3883, "name": "Through-silicon via", "weight": 1.0, "id": 45632049, "level": 3}
+{"count": 8257, "name": "Reticle", "weight": 3.0, "id": 146617872, "level": 3}
+{"count": 2853, "name": "Wafer-level packaging", "weight": 1.0, "id": 2780288131, "level": 3}
+{"count": 1088, "name": "Wafer-scale integration", "weight": 0.0, "id": 2778638305, "level": 3}
+{"count": 3313, "name": "Deep reactive-ion etching", "weight": 1.0, "id": 124634506, "level": 3}
+{"count": 1802, "name": "Bulk micromachining", "weight": 0.0, "id": 41075158, "level": 3}
+{"count": 6345, "name": "Anodic bonding", "weight": 2.0, "id": 201414436, "level": 3}
+{"count": 906, "name": "Back end of line", "weight": 0.0, "id": 2776628375, "level": 3}
+{"count": 2377, "name": "Wafer fabrication", "weight": 1.0, "id": 35750839, "level": 3}
+{"count": 2714, "name": "Direct bonding", "weight": 1.0, "id": 2778071519, "level": 3}
+{"count": 10020, "name": "Wafer dicing", "weight": 4.0, "id": 165013422, "level": 3}
+{"count": 1295, "name": "Mask inspection", "weight": 0.0, "id": 28181429, "level": 3}
+{"count": 7620, "name": "Die (integrated circuit)", "weight": 3.0, "id": 111106434, "level": 3}
+{"count": 192, "name": "Smart Cut", "weight": 0.0, "id": 30482079, "level": 3}
+{"count": 4809, "name": "Wafer testing", "weight": 2.0, "id": 44445679, "level": 3}
+{"count": 3089, "name": "Wire saw", "weight": 1.0, "id": 2777048928, "level": 3}
+{"count": 1650, "name": "Redistribution layer", "weight": 0.0, "id": 182537816, "level": 3}
+{"count": 4474, "name": "Susceptor", "weight": 1.0, "id": 2775943645, "level": 3}
+{"count": 6903, "name": "Probe card", "weight": 2.0, "id": 155629002, "level": 3}
+{"count": 313, "name": "Megasonic cleaning", "weight": 0.0, "id": 2778485852, "level": 3}
+{"count": 328, "name": "Multi-wire saw", "weight": 0.0, "id": 2780775966, "level": 3}
+{"count": 387, "name": "Wafering", "weight": 0.0, "id": 2780008778, "level": 3}
+{"count": 514, "name": "FOUP", "weight": 0.0, "id": 172890474, "level": 3}
+{"count": 347, "name": "SMIF", "weight": 0.0, "id": 112633954, "level": 3}
+{"count": 126, "name": "RCA clean", "weight": 0.0, "id": 47752232, "level": 3}
+{"count": 108, "name": "Local flatness", "weight": 0.0, "id": 2779773664, "level": 3}
+{"count": 33, "name": "Vapour phase decomposition", "weight": 0.0, "id": 2779978432, "level": 3}
+{"count": 6012, "name": "Wafer backgrinding", "weight": 2.0, "id": 8002213, "level": 3}
+{"count": 24, "name": "Conveyor belt furnace", "weight": 0.0, "id": 2780055456, "level": 3}
+{"count": 25, "name": "Wright etch", "weight": 0.0, "id": 2777072910, "level": 3}
+{"count": 4882, "name": "Die preparation", "weight": 2.0, "id": 126355924, "level": 3}

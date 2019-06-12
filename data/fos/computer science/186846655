@@ -1,0 +1,80 @@
+{"count": 9334, "name": "Software metric", "weight": 4.0, "id": 82214349, "level": 5}
+{"count": 4290, "name": "Software measurement", "weight": 2.0, "id": 89567784, "level": 5}
+{"count": 8028, "name": "Software requirements", "weight": 4.0, "id": 54534927, "level": 5}
+{"count": 4489, "name": "Regression testing", "weight": 2.0, "id": 161821725, "level": 5}
+{"count": 12551, "name": "Software framework", "weight": 6.0, "id": 76518257, "level": 5}
+{"count": 19469, "name": "Software verification and validation", "weight": 10.0, "id": 161743704, "level": 5}
+{"count": 7910, "name": "Software verification", "weight": 4.0, "id": 33054407, "level": 5}
+{"count": 1190, "name": "Software quality assurance", "weight": 0.0, "id": 2776969324, "level": 5}
+{"count": 2043, "name": "Search-based software engineering", "weight": 1.0, "id": 139143892, "level": 5}
+{"count": 394, "name": "Smoke testing (software)", "weight": 0.0, "id": 191101378, "level": 5}
+{"count": 10285, "name": "Personal software process", "weight": 5.0, "id": 39890963, "level": 5}
+{"count": 2465, "name": "Feature-oriented domain analysis", "weight": 1.0, "id": 21632574, "level": 5}
+{"count": 1759, "name": "Risk-based testing", "weight": 0.0, "id": 37945671, "level": 5}
+{"count": 175, "name": "Software testability", "weight": 0.0, "id": 2778782400, "level": 5}
+{"count": 18653, "name": "Software sizing", "weight": 9.0, "id": 201515116, "level": 5}
+{"count": 8232, "name": "Software walkthrough", "weight": 4.0, "id": 46110900, "level": 5}
+{"count": 4690, "name": "Software analytics", "weight": 2.0, "id": 171981572, "level": 5}
+{"count": 309, "name": "DO-178B", "weight": 0.0, "id": 189954558, "level": 5}
+{"count": 738, "name": "Use Case Points", "weight": 0.0, "id": 207701116, "level": 5}
+{"count": 5922, "name": "Software quality control", "weight": 3.0, "id": 176035894, "level": 5}
+{"count": 2626, "name": "Manual testing", "weight": 1.0, "id": 182122060, "level": 5}
+{"count": 669, "name": "Black-box testing", "weight": 0.0, "id": 24169984, "level": 5}
+{"count": 252, "name": "Software development effort estimation", "weight": 0.0, "id": 2778122767, "level": 5}
+{"count": 2138, "name": "Avionics software", "weight": 1.0, "id": 109905503, "level": 5}
+{"count": 19176, "name": "Resource-oriented architecture", "weight": 9.0, "id": 97382630, "level": 5}
+{"count": 338, "name": "Release engineering", "weight": 0.0, "id": 89916324, "level": 5}
+{"count": 660, "name": "Physical verification", "weight": 0.0, "id": 68479858, "level": 5}
+{"count": 140, "name": "Cleanroom software engineering", "weight": 0.0, "id": 106000735, "level": 5}
+{"count": 1465, "name": "Orthogonal array testing", "weight": 0.0, "id": 158324730, "level": 5}
+{"count": 2226, "name": "Long-term support", "weight": 1.0, "id": 20298536, "level": 5}
+{"count": 12605, "name": "Software reliability testing", "weight": 6.0, "id": 52928878, "level": 5}
+{"count": 87, "name": "Reuse metrics", "weight": 0.0, "id": 2779555159, "level": 5}
+{"count": 26, "name": "Knowledge Based Software Assistant", "weight": 0.0, "id": 2778692369, "level": 5}
+{"count": 1029, "name": "Development testing", "weight": 0.0, "id": 63406617, "level": 5}
+{"count": 183, "name": "Domain testing", "weight": 0.0, "id": 39468066, "level": 5}
+{"count": 4859, "name": "System integration testing", "weight": 2.0, "id": 111524372, "level": 5}
+{"count": 267, "name": "Software archaeology", "weight": 0.0, "id": 86187959, "level": 5}
+{"count": 350, "name": "IEC 62304", "weight": 0.0, "id": 206697072, "level": 5}
+{"count": 3701, "name": "High-level verification", "weight": 1.0, "id": 187250869, "level": 5}
+{"count": 119, "name": "Software rot", "weight": 0.0, "id": 104172830, "level": 5}
+{"count": 3044, "name": "Keyword-driven testing", "weight": 1.0, "id": 169168650, "level": 5}
+{"count": 282, "name": "Data-driven testing", "weight": 0.0, "id": 69838530, "level": 5}
+{"count": 419, "name": "Halstead complexity measures", "weight": 0.0, "id": 84002081, "level": 5}
+{"count": 436, "name": "Pair testing", "weight": 0.0, "id": 56352134, "level": 5}
+{"count": 119, "name": "Universal Verification Methodology", "weight": 0.0, "id": 2781025763, "level": 5}
+{"count": 502, "name": "Diagramming software", "weight": 0.0, "id": 65842339, "level": 5}
+{"count": 20, "name": "Perfect Developer", "weight": 0.0, "id": 2780109296, "level": 5}
+{"count": 47, "name": "Hackystat", "weight": 0.0, "id": 98625067, "level": 5}
+{"count": 27, "name": "Software system safety", "weight": 0.0, "id": 2779039154, "level": 5}
+{"count": 946, "name": "Software regression", "weight": 0.0, "id": 191727507, "level": 5}
+{"count": 388, "name": "Connascence", "weight": 0.0, "id": 35493371, "level": 5}
+{"count": 373, "name": "Recovery testing", "weight": 0.0, "id": 157383290, "level": 5}
+{"count": 2105, "name": "Real-time Control System Software", "weight": 1.0, "id": 53621112, "level": 5}
+{"count": 126, "name": "Linear code sequence and jump", "weight": 0.0, "id": 10452843, "level": 5}
+{"count": 16704, "name": "Software design description", "weight": 8.0, "id": 56909552, "level": 5}
+{"count": 72, "name": "CPAchecker", "weight": 0.0, "id": 2781309275, "level": 5}
+{"count": 11066, "name": "Backporting", "weight": 5.0, "id": 21491501, "level": 5}
+{"count": 4569, "name": "Non-regression testing", "weight": 2.0, "id": 86469151, "level": 5}
+{"count": 7116, "name": "Software quality analyst", "weight": 3.0, "id": 188329197, "level": 5}
+{"count": 49, "name": "Dependency hell", "weight": 0.0, "id": 177545051, "level": 5}
+{"count": 13, "name": "Efferent coupling", "weight": 0.0, "id": 99071121, "level": 5}
+{"count": 108, "name": "Weighted Micro Function Points", "weight": 0.0, "id": 54146219, "level": 5}
+{"count": 15122, "name": "Software Engineering Process Group", "weight": 7.0, "id": 44416564, "level": 5}
+{"count": 23, "name": "Software Engineering 2004", "weight": 0.0, "id": 2777122556, "level": 5}
+{"count": 1120, "name": "Monolithic application", "weight": 0.0, "id": 29651072, "level": 5}
+{"count": 2237, "name": "KPI-driven code analysis", "weight": 1.0, "id": 121957198, "level": 5}
+{"count": 8939, "name": "Goal-Driven Software Development Process", "weight": 4.0, "id": 42669973, "level": 5}
+{"count": 27, "name": "Cowboy coding", "weight": 0.0, "id": 124219776, "level": 5}
+{"count": 352, "name": "COSMIC software sizing", "weight": 0.0, "id": 49622512, "level": 5}
+{"count": 31, "name": "Definitive Media Library", "weight": 0.0, "id": 48753664, "level": 5}
+{"count": 320, "name": "Stress testing (software)", "weight": 0.0, "id": 7515471, "level": 5}
+{"count": 23, "name": "Market fragmentation", "weight": 0.0, "id": 167662435, "level": 5}
+{"count": 658, "name": "Session-based testing", "weight": 0.0, "id": 77177819, "level": 5}
+{"count": 1845, "name": "Software technical review", "weight": 0.0, "id": 6586637, "level": 5}
+{"count": 297, "name": "Portability testing", "weight": 0.0, "id": 124960375, "level": 5}
+{"count": 200, "name": "Artificial intelligence systems integration", "weight": 0.0, "id": 549602527, "level": 5}
+{"count": 43, "name": "Software package metrics", "weight": 0.0, "id": 4442578, "level": 5}
+{"count": 3790, "name": "Verification", "weight": 1.0, "id": 142284323, "level": 5}
+{"count": 201, "name": "Imagix 4D", "weight": 0.0, "id": 148675669, "level": 5}
+{"count": 507, "name": "Analysis effort method", "weight": 0.0, "id": 17910307, "level": 5}

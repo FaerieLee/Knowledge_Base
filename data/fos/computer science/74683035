@@ -1,0 +1,7 @@
+{"count": 640, "name": "Fully qualified domain name", "weight": 10.0, "id": 95392273, "level": 5}
+{"count": 257, "name": "CNAME record", "weight": 4.0, "id": 24352174, "level": 5}
+{"count": 220, "name": "Fully qualified name", "weight": 3.0, "id": 75427321, "level": 5}
+{"count": 83, "name": "Wildcard DNS record", "weight": 1.0, "id": 181099710, "level": 5}
+{"count": 299, "name": "Domain masking", "weight": 4.0, "id": 145030859, "level": 5}
+{"count": 80, "name": "Windows Internet Name Service", "weight": 1.0, "id": 134471815, "level": 5}
+{"count": 68, "name": "NAPTR record", "weight": 1.0, "id": 122375075, "level": 5}

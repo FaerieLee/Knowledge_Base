@@ -1,0 +1,138 @@
+{"count": 142061, "name": "Heart rate", "weight": 10.0, "id": 2777953023, "level": 4}
+{"count": 44162, "name": "Cardiac output", "weight": 3.0, "id": 139940330, "level": 4}
+{"count": 7455, "name": "Autoregulation", "weight": 0.0, "id": 111774379, "level": 4}
+{"count": 12496, "name": "ACE inhibitor", "weight": 0.0, "id": 2779611605, "level": 4}
+{"count": 30443, "name": "Vascular resistance", "weight": 2.0, "id": 58245268, "level": 4}
+{"count": 55841, "name": "Diastole", "weight": 3.0, "id": 57900726, "level": 4}
+{"count": 32953, "name": "Essential hypertension", "weight": 2.0, "id": 2777097880, "level": 4}
+{"count": 21099, "name": "Left ventricular hypertrophy", "weight": 1.0, "id": 2776002628, "level": 4}
+{"count": 9909, "name": "Spontaneously hypertensive rat", "weight": 0.0, "id": 2778086073, "level": 4}
+{"count": 15351, "name": "Ambulatory blood pressure", "weight": 1.0, "id": 149323552, "level": 4}
+{"count": 12840, "name": "Captopril", "weight": 0.0, "id": 2779479957, "level": 4}
+{"count": 9785, "name": "Brachial artery", "weight": 0.0, "id": 2777604165, "level": 4}
+{"count": 11520, "name": "Losartan", "weight": 0.0, "id": 2780288358, "level": 4}
+{"count": 8719, "name": "Enalapril", "weight": 0.0, "id": 2775940317, "level": 4}
+{"count": 12884, "name": "Arterial stiffness", "weight": 0.0, "id": 2775850156, "level": 4}
+{"count": 15825, "name": "Pulse pressure", "weight": 1.0, "id": 17140001, "level": 4}
+{"count": 12280, "name": "Phenylephrine", "weight": 0.0, "id": 2777952589, "level": 4}
+{"count": 4170, "name": "Haemodynamic response", "weight": 0.0, "id": 26170363, "level": 4}
+{"count": 16527, "name": "Plasma renin activity", "weight": 1.0, "id": 138976137, "level": 4}
+{"count": 7857, "name": "Atenolol", "weight": 0.0, "id": 2776525901, "level": 4}
+{"count": 11335, "name": "Central venous pressure", "weight": 0.0, "id": 35207712, "level": 4}
+{"count": 10493, "name": "Pulse wave velocity", "weight": 0.0, "id": 2778319312, "level": 4}
+{"count": 12580, "name": "Renal blood flow", "weight": 0.0, "id": 142225936, "level": 4}
+{"count": 13307, "name": "Ventricular pressure", "weight": 0.0, "id": 26635844, "level": 4}
+{"count": 10355, "name": "Pulmonary wedge pressure", "weight": 0.0, "id": 146556889, "level": 4}
+{"count": 8205, "name": "Hydrochlorothiazide", "weight": 0.0, "id": 2780361556, "level": 4}
+{"count": 9819, "name": "Amlodipine", "weight": 0.0, "id": 2779646130, "level": 4}
+{"count": 4390, "name": "Thiazide", "weight": 0.0, "id": 2780437262, "level": 4}
+{"count": 7002, "name": "Valsartan", "weight": 0.0, "id": 2777387769, "level": 4}
+{"count": 6041, "name": "Renovascular hypertension", "weight": 0.0, "id": 2781243531, "level": 4}
+{"count": 5813, "name": "Natriuresis", "weight": 0.0, "id": 174459258, "level": 4}
+{"count": 4273, "name": "Hypovolemia", "weight": 0.0, "id": 2781309813, "level": 4}
+{"count": 3992, "name": "Hydralazine", "weight": 0.0, "id": 2780521442, "level": 4}
+{"count": 3455, "name": "Ramipril", "weight": 0.0, "id": 2779888176, "level": 4}
+{"count": 3467, "name": "Lisinopril", "weight": 0.0, "id": 2777880890, "level": 4}
+{"count": 3158, "name": "Valsalva maneuver", "weight": 0.0, "id": 2777517520, "level": 4}
+{"count": 3804, "name": "Candesartan", "weight": 0.0, "id": 2780036600, "level": 4}
+{"count": 3436, "name": "Irbesartan", "weight": 0.0, "id": 2780259554, "level": 4}
+{"count": 3724, "name": "Perindopril", "weight": 0.0, "id": 2779200603, "level": 4}
+{"count": 4069, "name": "Photoplethysmogram", "weight": 0.0, "id": 116390426, "level": 4}
+{"count": 3495, "name": "Nicardipine", "weight": 0.0, "id": 2778043224, "level": 4}
+{"count": 2146, "name": "Felodipine", "weight": 0.0, "id": 2780648877, "level": 4}
+{"count": 3415, "name": "Cerebral autoregulation", "weight": 0.0, "id": 84359808, "level": 4}
+{"count": 3889, "name": "Systolic hypertension", "weight": 0.0, "id": 2777193177, "level": 4}
+{"count": 4386, "name": "Telmisartan", "weight": 0.0, "id": 2779716603, "level": 4}
+{"count": 5496, "name": "Carotid sinus", "weight": 0.0, "id": 2778774071, "level": 4}
+{"count": 2429, "name": "Labetalol", "weight": 0.0, "id": 2777962398, "level": 4}
+{"count": 2045, "name": "Doxazosin", "weight": 0.0, "id": 2777590997, "level": 4}
+{"count": 1965, "name": "Indapamide", "weight": 0.0, "id": 2777748223, "level": 4}
+{"count": 8189, "name": "Prehypertension", "weight": 0.0, "id": 118190526, "level": 4}
+{"count": 1787, "name": "Coronary perfusion pressure", "weight": 0.0, "id": 2777862461, "level": 4}
+{"count": 1939, "name": "Nebivolol", "weight": 0.0, "id": 2777537511, "level": 4}
+{"count": 2049, "name": "Benazepril", "weight": 0.0, "id": 2777363265, "level": 4}
+{"count": 1291, "name": "Isradipine", "weight": 0.0, "id": 2776066529, "level": 4}
+{"count": 1924, "name": "Aliskiren", "weight": 0.0, "id": 2779838083, "level": 4}
+{"count": 1154, "name": "Fosinopril", "weight": 0.0, "id": 2780436477, "level": 4}
+{"count": 707, "name": "Cilazapril", "weight": 0.0, "id": 2781352967, "level": 4}
+{"count": 5738, "name": "Aortic pressure", "weight": 0.0, "id": 39124391, "level": 4}
+{"count": 1452, "name": "Chlorthalidone", "weight": 0.0, "id": 2780427769, "level": 4}
+{"count": 882, "name": "End organ damage", "weight": 0.0, "id": 2778532077, "level": 4}
+{"count": 1260, "name": "Saralasin", "weight": 0.0, "id": 2776823063, "level": 4}
+{"count": 634, "name": "Lacidipine", "weight": 0.0, "id": 2779572014, "level": 4}
+{"count": 1004, "name": "Urapidil", "weight": 0.0, "id": 2778040405, "level": 4}
+{"count": 792, "name": "Moxonidine", "weight": 0.0, "id": 2777014715, "level": 4}
+{"count": 2555, "name": "Olmesartan", "weight": 0.0, "id": 2779766728, "level": 4}
+{"count": 1235, "name": "Hypertensive encephalopathy", "weight": 0.0, "id": 2779949217, "level": 4}
+{"count": 8538, "name": "Afterload", "weight": 0.0, "id": 123576724, "level": 4}
+{"count": 937, "name": "Hypertensive retinopathy", "weight": 0.0, "id": 2776004912, "level": 4}
+{"count": 4038, "name": "Antihypertensive drug", "weight": 0.0, "id": 2780192228, "level": 4}
+{"count": 497, "name": "Eprosartan", "weight": 0.0, "id": 2781328092, "level": 4}
+{"count": 1518, "name": "Renin inhibitor", "weight": 0.0, "id": 2777425892, "level": 4}
+{"count": 2187, "name": "Secondary hypertension", "weight": 0.0, "id": 2777581072, "level": 4}
+{"count": 503, "name": "Rilmenidine", "weight": 0.0, "id": 2780307058, "level": 4}
+{"count": 1969, "name": "Hypertension in Pregnancy", "weight": 0.0, "id": 2780719066, "level": 4}
+{"count": 909, "name": "Renal sympathetic denervation", "weight": 0.0, "id": 2780177628, "level": 4}
+{"count": 757, "name": "Lercanidipine", "weight": 0.0, "id": 2779283177, "level": 4}
+{"count": 358, "name": "Dihydralazine", "weight": 0.0, "id": 2780908528, "level": 4}
+{"count": 444, "name": "Benidipine", "weight": 0.0, "id": 2776852599, "level": 4}
+{"count": 11240, "name": "Orthostatic vital signs", "weight": 0.0, "id": 73787029, "level": 4}
+{"count": 578, "name": "Hypertensive emergency", "weight": 0.0, "id": 2776385636, "level": 4}
+{"count": 206, "name": "Impedance threshold device", "weight": 0.0, "id": 2778084729, "level": 4}
+{"count": 502, "name": "Pulsus paradoxus", "weight": 0.0, "id": 2779700851, "level": 4}
+{"count": 380, "name": "Manidipine", "weight": 0.0, "id": 2777700866, "level": 4}
+{"count": 300, "name": "Clevidipine", "weight": 0.0, "id": 2778663542, "level": 4}
+{"count": 1006, "name": "Critical closing pressure", "weight": 0.0, "id": 141102330, "level": 4}
+{"count": 157, "name": "Etilefrine", "weight": 0.0, "id": 2776244722, "level": 4}
+{"count": 245, "name": "Trichlormethiazide", "weight": 0.0, "id": 2778347027, "level": 4}
+{"count": 250, "name": "Indoramin", "weight": 0.0, "id": 2781369245, "level": 4}
+{"count": 1096, "name": "Presyncope", "weight": 0.0, "id": 2778122182, "level": 4}
+{"count": 545, "name": "DASH diet", "weight": 0.0, "id": 206680393, "level": 4}
+{"count": 132, "name": "Tertatolol", "weight": 0.0, "id": 2777228551, "level": 4}
+{"count": 586, "name": "Jugular venous pressure", "weight": 0.0, "id": 2777016511, "level": 4}
+{"count": 102, "name": "Darusentan", "weight": 0.0, "id": 2781221229, "level": 4}
+{"count": 170, "name": "Bopindolol", "weight": 0.0, "id": 2779788691, "level": 4}
+{"count": 292, "name": "Renalase", "weight": 0.0, "id": 41752080, "level": 4}
+{"count": 213, "name": "Mephentermine", "weight": 0.0, "id": 2780839761, "level": 4}
+{"count": 191, "name": "Cushing reflex", "weight": 0.0, "id": 92151059, "level": 4}
+{"count": 364, "name": "Caudal artery", "weight": 0.0, "id": 2780018159, "level": 4}
+{"count": 158, "name": "Arotinolol", "weight": 0.0, "id": 2779579535, "level": 4}
+{"count": 83, "name": "Cadralazine", "weight": 0.0, "id": 2777254445, "level": 4}
+{"count": 136, "name": "Cyclopenthiazide", "weight": 0.0, "id": 2777275801, "level": 4}
+{"count": 177, "name": "Therapeutic inertia", "weight": 0.0, "id": 2778928165, "level": 4}
+{"count": 214, "name": "Elastic artery", "weight": 0.0, "id": 2780144600, "level": 4}
+{"count": 556, "name": "Azilsartan", "weight": 0.0, "id": 2781122905, "level": 4}
+{"count": 104, "name": "John Henryism", "weight": 0.0, "id": 2778737635, "level": 4}
+{"count": 275, "name": "Vasomotor center", "weight": 0.0, "id": 2776073662, "level": 4}
+{"count": 208, "name": "Permissive hypotension", "weight": 0.0, "id": 2781059191, "level": 4}
+{"count": 158, "name": "Bethanidine", "weight": 0.0, "id": 2776796985, "level": 4}
+{"count": 6794, "name": "Pathophysiology of hypertension", "weight": 0.0, "id": 57190642, "level": 4}
+{"count": 115, "name": "Felypressin", "weight": 0.0, "id": 2780594634, "level": 4}
+{"count": 276, "name": "Levamlodipine", "weight": 0.0, "id": 2776054733, "level": 4}
+{"count": 112, "name": "ATP2B1", "weight": 0.0, "id": 2777218811, "level": 4}
+{"count": 30, "name": "Bayliss effect", "weight": 0.0, "id": 2781192653, "level": 4}
+{"count": 31, "name": "Military anti-shock trousers", "weight": 0.0, "id": 2778128098, "level": 4}
+{"count": 82, "name": "Lactotripeptides", "weight": 0.0, "id": 2777316973, "level": 4}
+{"count": 96, "name": "Pseudohypertension", "weight": 0.0, "id": 2776184003, "level": 4}
+{"count": 396, "name": "Pentolinium", "weight": 0.0, "id": 2778756527, "level": 4}
+{"count": 79, "name": "Thiobutabarbital", "weight": 0.0, "id": 2776301517, "level": 4}
+{"count": 87, "name": "Mefruside", "weight": 0.0, "id": 2779224355, "level": 4}
+{"count": 71, "name": "Naproxcinod", "weight": 0.0, "id": 2777239225, "level": 4}
+{"count": 250, "name": "Ganglionic blocker", "weight": 0.0, "id": 2777952989, "level": 4}
+{"count": 15, "name": "Cafedrine", "weight": 0.0, "id": 2778659268, "level": 4}
+{"count": 358, "name": "Paroxysmal hypertension", "weight": 0.0, "id": 2779403245, "level": 4}
+{"count": 49, "name": "Windkessel effect", "weight": 0.0, "id": 2779394006, "level": 4}
+{"count": 122, "name": "Microlife", "weight": 0.0, "id": 2780286589, "level": 4}
+{"count": 22, "name": "Tiamenidine", "weight": 0.0, "id": 2778877543, "level": 4}
+{"count": 23, "name": "High blood pressure (hypertension)", "weight": 0.0, "id": 2778044888, "level": 4}
+{"count": 33, "name": "Cardiopulmonary nerves", "weight": 0.0, "id": 2780378626, "level": 4}
+{"count": 76, "name": "Pithing", "weight": 0.0, "id": 144716742, "level": 4}
+{"count": 555, "name": "Complications of hypertension", "weight": 0.0, "id": 2780350358, "level": 4}
+{"count": 101, "name": "Hypertensive kidney disease", "weight": 0.0, "id": 2779539593, "level": 4}
+{"count": 15, "name": "Theodrenaline", "weight": 0.0, "id": 2779448102, "level": 4}
+{"count": 2523, "name": "Continuous noninvasive arterial pressure", "weight": 0.0, "id": 88812974, "level": 4}
+{"count": 89, "name": "Benign hypertension", "weight": 0.0, "id": 2780353612, "level": 4}
+{"count": 67, "name": "Arteriolar vasodilator", "weight": 0.0, "id": 2779278435, "level": 4}
+{"count": 32, "name": "Segmental blood pressure", "weight": 0.0, "id": 2778260207, "level": 4}
+{"count": 11, "name": "First-dose phenomenon", "weight": 0.0, "id": 2780627997, "level": 4}
+{"count": 30, "name": "Parasternal heave", "weight": 0.0, "id": 2778216524, "level": 4}

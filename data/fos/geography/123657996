@@ -1,0 +1,200 @@
+{"count": 38310, "name": "Systems architecture", "weight": 10.0, "id": 98025372, "level": 3}
+{"count": 25299, "name": "Software architecture", "weight": 6.0, "id": 35869016, "level": 3}
+{"count": 20850, "name": "Service-oriented architecture", "weight": 5.0, "id": 57041688, "level": 3}
+{"count": 14186, "name": "Instruction set", "weight": 3.0, "id": 202491316, "level": 3}
+{"count": 13405, "name": "CUDA", "weight": 3.0, "id": 2778119891, "level": 3}
+{"count": 8162, "name": "Network on a chip", "weight": 2.0, "id": 128519102, "level": 3}
+{"count": 7164, "name": "Microarchitecture", "weight": 1.0, "id": 107598950, "level": 3}
+{"count": 5165, "name": "Memory architecture", "weight": 1.0, "id": 2779602883, "level": 3}
+{"count": 13491, "name": "Hardware architecture", "weight": 3.0, "id": 65232700, "level": 3}
+{"count": 9291, "name": "Reconfigurable computing", "weight": 2.0, "id": 142962650, "level": 3}
+{"count": 4281, "name": "Systolic array", "weight": 1.0, "id": 150741067, "level": 3}
+{"count": 14014, "name": "Urban design", "weight": 3.0, "id": 205300905, "level": 3}
+{"count": 6903, "name": "Coprocessor", "weight": 1.0, "id": 86111242, "level": 3}
+{"count": 3919, "name": "Memory bandwidth", "weight": 1.0, "id": 188045654, "level": 3}
+{"count": 8446, "name": "SIMD", "weight": 2.0, "id": 150552126, "level": 3}
+{"count": 2908, "name": "Multitier architecture", "weight": 0.0, "id": 80445892, "level": 3}
+{"count": 4552, "name": "Design space exploration", "weight": 1.0, "id": 2776221188, "level": 3}
+{"count": 3346, "name": "Open architecture", "weight": 0.0, "id": 123326733, "level": 3}
+{"count": 5972, "name": "Agent architecture", "weight": 1.0, "id": 137703981, "level": 3}
+{"count": 2210, "name": "Architectural style", "weight": 0.0, "id": 2777364373, "level": 3}
+{"count": 15222, "name": "History of art", "weight": 3.0, "id": 204457725, "level": 3}
+{"count": 3831, "name": "Very long instruction word", "weight": 1.0, "id": 170595534, "level": 3}
+{"count": 3459, "name": "Cognitive architecture", "weight": 0.0, "id": 20854674, "level": 3}
+{"count": 6911, "name": "Pipeline (computing)", "weight": 1.0, "id": 148612746, "level": 3}
+{"count": 12458, "name": "Urbanism", "weight": 3.0, "id": 207141826, "level": 3}
+{"count": 2436, "name": "High-level architecture", "weight": 0.0, "id": 2780863039, "level": 3}
+{"count": 13504, "name": "Reference architecture", "weight": 3.0, "id": 55356503, "level": 3}
+{"count": 9372, "name": "Architectural technology", "weight": 2.0, "id": 108286215, "level": 3}
+{"count": 2363, "name": "CORDIC", "weight": 0.0, "id": 58870171, "level": 3}
+{"count": 5091, "name": "Architectural pattern", "weight": 1.0, "id": 72280835, "level": 3}
+{"count": 1421, "name": "Blackboard system", "weight": 0.0, "id": 157273737, "level": 3}
+{"count": 716, "name": "Policy-based management", "weight": 0.0, "id": 2780705035, "level": 3}
+{"count": 755, "name": "Adaptive architecture", "weight": 0.0, "id": 2778972211, "level": 3}
+{"count": 1110, "name": "Model\u2013view\u2013controller", "weight": 0.0, "id": 18825819, "level": 3}
+{"count": 2791, "name": "Vernacular architecture", "weight": 0.0, "id": 553195128, "level": 3}
+{"count": 508, "name": "Globally asynchronous locally synchronous", "weight": 0.0, "id": 2780070417, "level": 3}
+{"count": 4615, "name": "Reconfigurability", "weight": 1.0, "id": 2780149590, "level": 3}
+{"count": 2585, "name": "MPSoC", "weight": 0.0, "id": 2777187653, "level": 3}
+{"count": 2474, "name": "Architectural drawing", "weight": 0.0, "id": 20348765, "level": 3}
+{"count": 3514, "name": "MIMD", "weight": 0.0, "id": 21032095, "level": 3}
+{"count": 4305, "name": "History of architecture", "weight": 1.0, "id": 169085036, "level": 3}
+{"count": 139, "name": "Functionalism (architecture)", "weight": 0.0, "id": 206629060, "level": 3}
+{"count": 240, "name": "Meta-Object Facility", "weight": 0.0, "id": 2780277810, "level": 3}
+{"count": 995, "name": "Information-centric networking", "weight": 0.0, "id": 2777455782, "level": 3}
+{"count": 1015, "name": "Muscle architecture", "weight": 0.0, "id": 2777001087, "level": 3}
+{"count": 546, "name": "Platform-independent model", "weight": 0.0, "id": 2776718833, "level": 3}
+{"count": 104, "name": "Knowledge Query and Manipulation Language", "weight": 0.0, "id": 2781456638, "level": 3}
+{"count": 721, "name": "Content centric networking", "weight": 0.0, "id": 2779649860, "level": 3}
+{"count": 1324, "name": "Processor array", "weight": 0.0, "id": 2776189500, "level": 3}
+{"count": 149, "name": "Time-triggered architecture", "weight": 0.0, "id": 2780157993, "level": 3}
+{"count": 2410, "name": "Design studio", "weight": 0.0, "id": 2776583511, "level": 3}
+{"count": 1772, "name": "Interior architecture", "weight": 0.0, "id": 60202869, "level": 3}
+{"count": 1714, "name": "Processor design", "weight": 0.0, "id": 526435321, "level": 3}
+{"count": 1053, "name": "AUTOSAR", "weight": 0.0, "id": 2778602020, "level": 3}
+{"count": 1489, "name": "Architectural model", "weight": 0.0, "id": 2778544944, "level": 3}
+{"count": 1234, "name": "Integrated modular avionics", "weight": 0.0, "id": 189956118, "level": 3}
+{"count": 1409, "name": "Architectural theory", "weight": 0.0, "id": 2778206487, "level": 3}
+{"count": 367, "name": "Subsumption architecture", "weight": 0.0, "id": 201516958, "level": 3}
+{"count": 3084, "name": "Datapath", "weight": 0.0, "id": 2781198647, "level": 3}
+{"count": 729, "name": "Digital architecture", "weight": 0.0, "id": 2777728685, "level": 3}
+{"count": 393, "name": "Host Identity Protocol", "weight": 0.0, "id": 2781272012, "level": 3}
+{"count": 1046, "name": "Gate count", "weight": 0.0, "id": 2777892113, "level": 3}
+{"count": 468, "name": "Vision chip", "weight": 0.0, "id": 2775908279, "level": 3}
+{"count": 66, "name": "Real-Time Object-Oriented Modeling", "weight": 0.0, "id": 2781354122, "level": 3}
+{"count": 3085, "name": "Architectural plan", "weight": 0.0, "id": 152095336, "level": 3}
+{"count": 948, "name": "Microkernel", "weight": 0.0, "id": 2777127024, "level": 3}
+{"count": 826, "name": "Booth's multiplication algorithm", "weight": 0.0, "id": 72475854, "level": 3}
+{"count": 351, "name": "Mobile architecture", "weight": 0.0, "id": 2779366225, "level": 3}
+{"count": 892, "name": "Representational state transfer", "weight": 0.0, "id": 65399332, "level": 3}
+{"count": 63, "name": "Open Agent Architecture", "weight": 0.0, "id": 2780029052, "level": 3}
+{"count": 77, "name": "Architectural decision", "weight": 0.0, "id": 2776992859, "level": 3}
+{"count": 2275, "name": "Website architecture", "weight": 0.0, "id": 193068369, "level": 3}
+{"count": 121, "name": "Virtual Interface Architecture", "weight": 0.0, "id": 2778516818, "level": 3}
+{"count": 948, "name": "Microservices", "weight": 0.0, "id": 2778505942, "level": 3}
+{"count": 377, "name": "Computer-aided architectural design", "weight": 0.0, "id": 2780118192, "level": 3}
+{"count": 324, "name": "Virtual archaeology", "weight": 0.0, "id": 2777257828, "level": 3}
+{"count": 1104, "name": "Islamic architecture", "weight": 0.0, "id": 501911104, "level": 3}
+{"count": 493, "name": "Enterprise JavaBeans", "weight": 0.0, "id": 2776396197, "level": 3}
+{"count": 63, "name": "Exokernel", "weight": 0.0, "id": 172644921, "level": 3}
+{"count": 326, "name": "Dark silicon", "weight": 0.0, "id": 2778380858, "level": 3}
+{"count": 543, "name": "Industrial architecture", "weight": 0.0, "id": 2780533540, "level": 3}
+{"count": 2269, "name": "x86", "weight": 0.0, "id": 170723468, "level": 3}
+{"count": 10502, "name": "Applications architecture", "weight": 2.0, "id": 41065761, "level": 3}
+{"count": 96, "name": "Common Open Policy Service", "weight": 0.0, "id": 2777041887, "level": 3}
+{"count": 121, "name": "Time-Triggered Protocol", "weight": 0.0, "id": 2776361649, "level": 3}
+{"count": 523, "name": "Wallace tree", "weight": 0.0, "id": 2777063595, "level": 3}
+{"count": 161, "name": "Joint Tactical Radio System", "weight": 0.0, "id": 2777177307, "level": 3}
+{"count": 322, "name": "Autonomous decentralized system", "weight": 0.0, "id": 2777217641, "level": 3}
+{"count": 2294, "name": "Service layer", "weight": 0.0, "id": 108548466, "level": 3}
+{"count": 410, "name": "Shared nothing architecture", "weight": 0.0, "id": 184036432, "level": 3}
+{"count": 930, "name": "Presentation layer", "weight": 0.0, "id": 113916881, "level": 3}
+{"count": 411, "name": "Space architecture", "weight": 0.0, "id": 2780001536, "level": 3}
+{"count": 1683, "name": "Dataflow architecture", "weight": 0.0, "id": 176727019, "level": 3}
+{"count": 9511, "name": "Enterprise architecture framework", "weight": 2.0, "id": 27591593, "level": 3}
+{"count": 207, "name": "Autonomic networking", "weight": 0.0, "id": 2776894995, "level": 3}
+{"count": 665, "name": "Medieval architecture", "weight": 0.0, "id": 152791554, "level": 3}
+{"count": 477, "name": "Conceptual architecture", "weight": 0.0, "id": 162763945, "level": 3}
+{"count": 273, "name": "Software bus", "weight": 0.0, "id": 2778679810, "level": 3}
+{"count": 101, "name": "Belief\u2013desire\u2013intention model", "weight": 0.0, "id": 2778189135, "level": 3}
+{"count": 81, "name": "Non-recurring engineering", "weight": 0.0, "id": 2776235372, "level": 3}
+{"count": 232, "name": "Bisection bandwidth", "weight": 0.0, "id": 2780610565, "level": 3}
+{"count": 2689, "name": "Virtex", "weight": 0.0, "id": 2777674469, "level": 3}
+{"count": 241, "name": "Open systems architecture", "weight": 0.0, "id": 2776312560, "level": 3}
+{"count": 524, "name": "Colonnade", "weight": 0.0, "id": 112731501, "level": 3}
+{"count": 327, "name": "Museum architecture", "weight": 0.0, "id": 2776630868, "level": 3}
+{"count": 50, "name": "Tagged architecture", "weight": 0.0, "id": 2776964328, "level": 3}
+{"count": 175, "name": "Regenerative design", "weight": 0.0, "id": 2780190572, "level": 3}
+{"count": 798, "name": "International Style", "weight": 0.0, "id": 7679702, "level": 3}
+{"count": 21, "name": "Capability-based addressing", "weight": 0.0, "id": 2779081528, "level": 3}
+{"count": 149, "name": "Three-layer architecture", "weight": 0.0, "id": 2777115359, "level": 3}
+{"count": 283, "name": "Symmetric multiprocessing", "weight": 0.0, "id": 65634163, "level": 3}
+{"count": 176, "name": "EPCglobal Network", "weight": 0.0, "id": 2779786676, "level": 3}
+{"count": 102, "name": "Dhrystone", "weight": 0.0, "id": 156027787, "level": 3}
+{"count": 309, "name": "Baroque architecture", "weight": 0.0, "id": 180201027, "level": 3}
+{"count": 68, "name": "Reliable Server Pooling", "weight": 0.0, "id": 2780722625, "level": 3}
+{"count": 132, "name": "Holarchy", "weight": 0.0, "id": 65973859, "level": 3}
+{"count": 335, "name": "RapidIO", "weight": 0.0, "id": 2779788264, "level": 3}
+{"count": 263, "name": "Dry stone", "weight": 0.0, "id": 2777973373, "level": 3}
+{"count": 28, "name": "Snefru", "weight": 0.0, "id": 69068340, "level": 3}
+{"count": 51, "name": "Dynamic link matching", "weight": 0.0, "id": 2777947043, "level": 3}
+{"count": 309, "name": "Iranian architecture", "weight": 0.0, "id": 81405235, "level": 3}
+{"count": 660, "name": "Classical architecture", "weight": 0.0, "id": 128493665, "level": 3}
+{"count": 6, "name": "Explicit Data Graph Execution", "weight": 0.0, "id": 202667361, "level": 3}
+{"count": 503, "name": "Hardware abstraction", "weight": 0.0, "id": 2779867049, "level": 3}
+{"count": 154, "name": "Advanced Telecommunications Computing Architecture", "weight": 0.0, "id": 65770563, "level": 3}
+{"count": 402, "name": "Power Architecture", "weight": 0.0, "id": 105854066, "level": 3}
+{"count": 55, "name": "Decoupled architecture", "weight": 0.0, "id": 206139888, "level": 3}
+{"count": 376, "name": "Net-centric", "weight": 0.0, "id": 2779730248, "level": 3}
+{"count": 87, "name": "IA-64", "weight": 0.0, "id": 2778160552, "level": 3}
+{"count": 245, "name": "Underfloor air distribution", "weight": 0.0, "id": 2779463659, "level": 3}
+{"count": 138, "name": "Software Communications Architecture", "weight": 0.0, "id": 2775869251, "level": 3}
+{"count": 74, "name": "Bit-serial architecture", "weight": 0.0, "id": 2779138571, "level": 3}
+{"count": 208, "name": "Harvard architecture", "weight": 0.0, "id": 43322942, "level": 3}
+{"count": 159, "name": "Megastructure", "weight": 0.0, "id": 78488517, "level": 3}
+{"count": 65, "name": "Livermore loops", "weight": 0.0, "id": 2778928789, "level": 3}
+{"count": 84, "name": "Joint Battlespace Infosphere", "weight": 0.0, "id": 2776024814, "level": 3}
+{"count": 165, "name": "HyperTransport", "weight": 0.0, "id": 136975412, "level": 3}
+{"count": 707, "name": "Operations architecture", "weight": 0.0, "id": 115775671, "level": 3}
+{"count": 211, "name": "Mihrab", "weight": 0.0, "id": 118240996, "level": 3}
+{"count": 276, "name": "Advanced Mezzanine Card", "weight": 0.0, "id": 180433265, "level": 3}
+{"count": 113, "name": "Sacred geometry", "weight": 0.0, "id": 2778520190, "level": 3}
+{"count": 124, "name": "Experimental architecture", "weight": 0.0, "id": 2778079316, "level": 3}
+{"count": 29, "name": "Delivery Multimedia Integration Framework", "weight": 0.0, "id": 2780849405, "level": 3}
+{"count": 186, "name": "OpenRISC", "weight": 0.0, "id": 2778149154, "level": 3}
+{"count": 158, "name": "System Architecture Evolution", "weight": 0.0, "id": 2778251551, "level": 3}
+{"count": 126, "name": "Parlay X", "weight": 0.0, "id": 2776608329, "level": 3}
+{"count": 94, "name": "COLA (software architecture)", "weight": 0.0, "id": 146995729, "level": 3}
+{"count": 295, "name": "Performance per watt", "weight": 0.0, "id": 2779796603, "level": 3}
+{"count": 53, "name": "Darwin Information Typing Architecture", "weight": 0.0, "id": 2778399605, "level": 3}
+{"count": 60, "name": "Geoglyph", "weight": 0.0, "id": 2780048980, "level": 3}
+{"count": 123, "name": "Fractionated spacecraft", "weight": 0.0, "id": 2779199053, "level": 3}
+{"count": 381, "name": "1080p", "weight": 0.0, "id": 2779590718, "level": 3}
+{"count": 30, "name": "Time-driven switching", "weight": 0.0, "id": 2776923910, "level": 3}
+{"count": 136, "name": "Manycore processor", "weight": 0.0, "id": 2780306410, "level": 3}
+{"count": 73, "name": "Doric order", "weight": 0.0, "id": 2777081293, "level": 3}
+{"count": 142, "name": "Minergie", "weight": 0.0, "id": 2777309230, "level": 3}
+{"count": 137, "name": "Dennard scaling", "weight": 0.0, "id": 2779782208, "level": 3}
+{"count": 123, "name": "Advanced Microcontroller Bus Architecture", "weight": 0.0, "id": 2780424445, "level": 3}
+{"count": 27, "name": "Architectural endoscopy", "weight": 0.0, "id": 2778514176, "level": 3}
+{"count": 69, "name": "Sockets Direct Protocol", "weight": 0.0, "id": 116393459, "level": 3}
+{"count": 24, "name": "Hygienic macro", "weight": 0.0, "id": 2780345947, "level": 3}
+{"count": 106, "name": "Entity Bean", "weight": 0.0, "id": 2780463228, "level": 3}
+{"count": 159, "name": "Flat network", "weight": 0.0, "id": 2777654600, "level": 3}
+{"count": 86, "name": "Rationalism (architecture)", "weight": 0.0, "id": 120201567, "level": 3}
+{"count": 106, "name": "Brise soleil", "weight": 0.0, "id": 60279628, "level": 3}
+{"count": 125, "name": "Mudbrick", "weight": 0.0, "id": 2780910035, "level": 3}
+{"count": 60, "name": "Distributed data flow", "weight": 0.0, "id": 2777832147, "level": 3}
+{"count": 105, "name": "Wattle and daub", "weight": 0.0, "id": 156202196, "level": 3}
+{"count": 1142, "name": "Stratix", "weight": 0.0, "id": 2776277307, "level": 3}
+{"count": 46, "name": "CoreConnect", "weight": 0.0, "id": 2777603568, "level": 3}
+{"count": 38, "name": "Digital morphogenesis", "weight": 0.0, "id": 2776112827, "level": 3}
+{"count": 15, "name": "Explicit multi-threading", "weight": 0.0, "id": 2778899400, "level": 3}
+{"count": 27, "name": "King of the Goths", "weight": 0.0, "id": 2778609174, "level": 3}
+{"count": 80, "name": "Entasis", "weight": 0.0, "id": 168712457, "level": 3}
+{"count": 82, "name": "Heterogeneous System Architecture", "weight": 0.0, "id": 2777748111, "level": 3}
+{"count": 32, "name": "Plastic number", "weight": 0.0, "id": 2779283931, "level": 3}
+{"count": 26, "name": "Accelerated processing unit", "weight": 0.0, "id": 129140285, "level": 3}
+{"count": 117, "name": "Service abstraction", "weight": 0.0, "id": 2778420217, "level": 3}
+{"count": 153, "name": "Architect's scale", "weight": 0.0, "id": 83859853, "level": 3}
+{"count": 32, "name": "LAN eXtensions for Instrumentation", "weight": 0.0, "id": 2779461506, "level": 3}
+{"count": 15, "name": "Bit-level parallelism", "weight": 0.0, "id": 2779270510, "level": 3}
+{"count": 38, "name": "Open Document Architecture", "weight": 0.0, "id": 2777831555, "level": 3}
+{"count": 45, "name": "Hypostyle", "weight": 0.0, "id": 53380099, "level": 3}
+{"count": 213, "name": "System Architect", "weight": 0.0, "id": 2779307909, "level": 3}
+{"count": 43, "name": "Experience architecture", "weight": 0.0, "id": 2779205769, "level": 3}
+{"count": 164, "name": "Ivy Bridge", "weight": 0.0, "id": 32276425, "level": 3}
+{"count": 320, "name": "Locator/Identifier Separation Protocol", "weight": 0.0, "id": 60101212, "level": 3}
+{"count": 29, "name": "Mapping controversies", "weight": 0.0, "id": 2780714713, "level": 3}
+{"count": 66, "name": "Propellant depot", "weight": 0.0, "id": 2777862942, "level": 3}
+{"count": 86, "name": "Flying buttress", "weight": 0.0, "id": 75368297, "level": 3}
+{"count": 58, "name": "Massively parallel processor array", "weight": 0.0, "id": 2776688315, "level": 3}
+{"count": 25, "name": "Fundamental modeling concepts", "weight": 0.0, "id": 2781380619, "level": 3}
+{"count": 19, "name": "RMI-IIOP", "weight": 0.0, "id": 2778755451, "level": 3}
+{"count": 11, "name": "Formica pallidefulva", "weight": 0.0, "id": 2775977393, "level": 3}
+{"count": 39, "name": "IMS security", "weight": 0.0, "id": 2778453115, "level": 3}
+{"count": 26, "name": "Eurythmia", "weight": 0.0, "id": 2781356158, "level": 3}
+{"count": 139, "name": "Venustas", "weight": 0.0, "id": 2775838571, "level": 3}
+{"count": 24, "name": "DataSnap", "weight": 0.0, "id": 2777165891, "level": 3}
+{"count": 67, "name": "Systems architect", "weight": 0.0, "id": 2780750139, "level": 3}
+{"count": 82, "name": "Rangeomorph", "weight": 0.0, "id": 2780325947, "level": 3}

@@ -1,0 +1,16 @@
+{"count": 2378, "name": "Real Time Kinematic", "weight": 6.0, "id": 93103318, "level": 4}
+{"count": 3053, "name": "GLONASS", "weight": 8.0, "id": 102451475, "level": 4}
+{"count": 3723, "name": "GNSS augmentation", "weight": 10.0, "id": 166212672, "level": 4}
+{"count": 1695, "name": "Receiver autonomous integrity monitoring", "weight": 4.0, "id": 94821174, "level": 4}
+{"count": 1070, "name": "Quasi-Zenith Satellite System", "weight": 2.0, "id": 68477667, "level": 4}
+{"count": 973, "name": "European Geostationary Navigation Overlay Service", "weight": 2.0, "id": 186834915, "level": 4}
+{"count": 820, "name": "Multipath mitigation", "weight": 2.0, "id": 2776015439, "level": 4}
+{"count": 865, "name": "Virtual Reference Station", "weight": 2.0, "id": 72843123, "level": 4}
+{"count": 585, "name": "BeiDou Navigation Satellite System", "weight": 1.0, "id": 2777783341, "level": 4}
+{"count": 225, "name": "GNSS reflectometry", "weight": 0.0, "id": 2780156999, "level": 4}
+{"count": 1008, "name": "RINEX", "weight": 2.0, "id": 134428707, "level": 4}
+{"count": 87, "name": "EUREF Permanent Network", "weight": 0.0, "id": 2779588502, "level": 4}
+{"count": 209, "name": "GNSS radio occultation", "weight": 0.0, "id": 2775855162, "level": 4}
+{"count": 97, "name": "Orbit modeling", "weight": 0.0, "id": 2778135656, "level": 4}
+{"count": 35, "name": "Frequency ambiguity resolution", "weight": 0.0, "id": 2777693100, "level": 4}
+{"count": 33, "name": "Networked Transport of RTCM via Internet Protocol", "weight": 0.0, "id": 2780360077, "level": 4}

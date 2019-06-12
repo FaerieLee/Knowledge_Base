@@ -1,0 +1,22 @@
+{"count": 15315, "name": "Torque converter", "weight": 10.0, "id": 39854, "level": 4}
+{"count": 5243, "name": "Manual transmission", "weight": 3.0, "id": 123953119, "level": 4}
+{"count": 3900, "name": "Electromagnetic clutch", "weight": 2.0, "id": 87589383, "level": 4}
+{"count": 2538, "name": "Spline (mechanical)", "weight": 1.0, "id": 10390562, "level": 4}
+{"count": 657, "name": "Limited-slip differential", "weight": 0.0, "id": 88370871, "level": 4}
+{"count": 2425, "name": "Transfer case", "weight": 1.0, "id": 47414280, "level": 4}
+{"count": 2514, "name": "Freewheel", "weight": 1.0, "id": 2781084565, "level": 4}
+{"count": 5710, "name": "Magnetic particle clutch", "weight": 3.0, "id": 126963757, "level": 4}
+{"count": 1059, "name": "Centrifugal clutch", "weight": 0.0, "id": 2780597472, "level": 4}
+{"count": 739, "name": "Fan clutch", "weight": 0.0, "id": 2776450287, "level": 4}
+{"count": 361, "name": "Shift time", "weight": 0.0, "id": 2779197146, "level": 4}
+{"count": 18, "name": "Electrorheological clutch", "weight": 0.0, "id": 2779832793, "level": 4}
+{"count": 440, "name": "Automatic transmission system", "weight": 0.0, "id": 2776901220, "level": 4}
+{"count": 248, "name": "Epicyclic gearing", "weight": 0.0, "id": 2780335054, "level": 4}
+{"count": 620, "name": "Dog clutch", "weight": 0.0, "id": 2776415418, "level": 4}
+{"count": 79, "name": "Semi-automatic transmission", "weight": 0.0, "id": 2776344081, "level": 4}
+{"count": 254, "name": "Layshaft", "weight": 0.0, "id": 2777911531, "level": 4}
+{"count": 192, "name": "Transmission brake", "weight": 0.0, "id": 2779134149, "level": 4}
+{"count": 1602, "name": "Ravigneaux planetary gearset", "weight": 1.0, "id": 100796937, "level": 4}
+{"count": 26, "name": "Preselector gearbox", "weight": 0.0, "id": 167876249, "level": 4}
+{"count": 224, "name": "Jackshaft", "weight": 0.0, "id": 2780942577, "level": 4}
+{"count": 466, "name": "Locking differential", "weight": 0.0, "id": 2781379493, "level": 4}

@@ -1,0 +1,5 @@
+{"count": 494, "name": "Spectral edge frequency", "weight": 2.0, "id": 201000275, "level": 3}
+{"count": 1690, "name": "Line code", "weight": 10.0, "id": 85961473, "level": 3}
+{"count": 1061, "name": "Baseband processor", "weight": 6.0, "id": 2776989357, "level": 3}
+{"count": 25, "name": "DigRF", "weight": 0.0, "id": 2776558578, "level": 3}
+{"count": 7, "name": "Multiplex baseband", "weight": 0.0, "id": 2776629760, "level": 3}

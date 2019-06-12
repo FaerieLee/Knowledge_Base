@@ -1,0 +1,200 @@
+{"count": 259328, "name": "Electrical resistivity and conductivity", "weight": 6.0, "id": 69990965, "level": 2}
+{"count": 190197, "name": "Phase transition", "weight": 5.0, "id": 149288129, "level": 2}
+{"count": 114060, "name": "Electronic structure", "weight": 3.0, "id": 86025842, "level": 2}
+{"count": 158039, "name": "Band gap", "weight": 4.0, "id": 181966813, "level": 2}
+{"count": 242556, "name": "Superconductivity", "weight": 6.0, "id": 54101563, "level": 2}
+{"count": 131096, "name": "Ground state", "weight": 3.0, "id": 69523127, "level": 2}
+{"count": 90514, "name": "Phase diagram", "weight": 2.0, "id": 85906118, "level": 2}
+{"count": 82709, "name": "Permeability (electromagnetism)", "weight": 2.0, "id": 120882062, "level": 2}
+{"count": 110128, "name": "Quantum dot", "weight": 2.0, "id": 124657808, "level": 2}
+{"count": 173273, "name": "Liquid crystal", "weight": 4.0, "id": 13274807, "level": 2}
+{"count": 65988, "name": "Electronic band structure", "weight": 1.0, "id": 125469278, "level": 2}
+{"count": 372379, "name": "Doping", "weight": 10.0, "id": 57863236, "level": 2}
+{"count": 79791, "name": "Quantum well", "weight": 2.0, "id": 29169072, "level": 2}
+{"count": 55457, "name": "Magnetic moment", "weight": 1.0, "id": 54553102, "level": 2}
+{"count": 69356, "name": "Critical point (thermodynamics)", "weight": 1.0, "id": 144461396, "level": 2}
+{"count": 140812, "name": "Epitaxy", "weight": 3.0, "id": 110738630, "level": 2}
+{"count": 150097, "name": "Magnetization", "weight": 4.0, "id": 32546565, "level": 2}
+{"count": 70497, "name": "Magnetic susceptibility", "weight": 1.0, "id": 16889073, "level": 2}
+{"count": 92164, "name": "Lattice (order)", "weight": 2.0, "id": 135789939, "level": 2}
+{"count": 130478, "name": "Ferromagnetism", "weight": 3.0, "id": 82217956, "level": 2}
+{"count": 54490, "name": "Relaxation (NMR)", "weight": 1.0, "id": 45472611, "level": 2}
+{"count": 101613, "name": "Heterojunction", "weight": 2.0, "id": 79794668, "level": 2}
+{"count": 47263, "name": "Superlattice", "weight": 1.0, "id": 105382558, "level": 2}
+{"count": 83737, "name": "Hysteresis", "weight": 2.0, "id": 123299182, "level": 2}
+{"count": 34242, "name": "Mean field theory", "weight": 0.0, "id": 202213908, "level": 2}
+{"count": 39630, "name": "Dispersion relation", "weight": 1.0, "id": 202579712, "level": 2}
+{"count": 333344, "name": "Spin-\u00bd", "weight": 8.0, "id": 8244735, "level": 2}
+{"count": 49888, "name": "Density of states", "weight": 1.0, "id": 53964469, "level": 2}
+{"count": 43177, "name": "Electron mobility", "weight": 1.0, "id": 106782819, "level": 2}
+{"count": 41159, "name": "Neutron diffraction", "weight": 1.0, "id": 73585123, "level": 2}
+{"count": 37304, "name": "First principle", "weight": 1.0, "id": 119249546, "level": 2}
+{"count": 62760, "name": "Lattice constant", "weight": 1.0, "id": 132612359, "level": 2}
+{"count": 59351, "name": "Exciton", "weight": 1.0, "id": 17729963, "level": 2}
+{"count": 40624, "name": "Heat capacity", "weight": 1.0, "id": 60205243, "level": 2}
+{"count": 10460, "name": "Valence band", "weight": 0.0, "id": 103272658, "level": 2}
+{"count": 23496, "name": "Quantum Hall effect", "weight": 0.0, "id": 200369452, "level": 2}
+{"count": 24466, "name": "Renormalization group", "weight": 0.0, "id": 68532491, "level": 2}
+{"count": 18300, "name": "Electronic correlation", "weight": 0.0, "id": 35052450, "level": 2}
+{"count": 25433, "name": "Effective mass (solid-state physics)", "weight": 0.0, "id": 24089560, "level": 2}
+{"count": 37432, "name": "Curie temperature", "weight": 1.0, "id": 63648874, "level": 2}
+{"count": 79083, "name": "Quantum tunnelling", "weight": 2.0, "id": 120398109, "level": 2}
+{"count": 50020, "name": "Magnetism", "weight": 1.0, "id": 197162081, "level": 2}
+{"count": 33794, "name": "Field electron emission", "weight": 0.0, "id": 121029787, "level": 2}
+{"count": 84781, "name": "Phonon", "weight": 2.0, "id": 24169881, "level": 2}
+{"count": 21753, "name": "Domain wall (magnetism)", "weight": 0.0, "id": 181686392, "level": 2}
+{"count": 17340, "name": "Tight binding", "weight": 0.0, "id": 182063899, "level": 2}
+{"count": 44952, "name": "Coercivity", "weight": 1.0, "id": 126530901, "level": 2}
+{"count": 13781, "name": "Mean free path", "weight": 0.0, "id": 168986899, "level": 2}
+{"count": 6150, "name": "Charge-carrier density", "weight": 0.0, "id": 109724073, "level": 2}
+{"count": 33738, "name": "Perovskite (structure)", "weight": 0.0, "id": 155011858, "level": 2}
+{"count": 21163, "name": "Magnetic structure", "weight": 0.0, "id": 175601593, "level": 2}
+{"count": 19295, "name": "Bose\u2013Einstein condensate", "weight": 0.0, "id": 37589322, "level": 2}
+{"count": 47854, "name": "Hyperfine structure", "weight": 1.0, "id": 131538251, "level": 2}
+{"count": 13662, "name": "Structure factor", "weight": 0.0, "id": 26065003, "level": 2}
+{"count": 18247, "name": "Spin glass", "weight": 0.0, "id": 150775274, "level": 2}
+{"count": 14050, "name": "Cubic crystal system", "weight": 0.0, "id": 24444364, "level": 2}
+{"count": 81320, "name": "Hamiltonian (quantum mechanics)", "weight": 2.0, "id": 173941050, "level": 2}
+{"count": 14765, "name": "Density matrix", "weight": 0.0, "id": 56911000, "level": 2}
+{"count": 34518, "name": "Fermi level", "weight": 0.0, "id": 40636707, "level": 2}
+{"count": 21839, "name": "Percolation", "weight": 0.0, "id": 143691341, "level": 2}
+{"count": 15495, "name": "Metal\u2013insulator transition", "weight": 0.0, "id": 179936367, "level": 2}
+{"count": 19041, "name": "Penetration depth", "weight": 0.0, "id": 193493375, "level": 2}
+{"count": 33320, "name": "Ohmic contact", "weight": 0.0, "id": 138230450, "level": 2}
+{"count": 11006, "name": "Jahn\u2013Teller effect", "weight": 0.0, "id": 83981384, "level": 2}
+{"count": 7946, "name": "Phenomenological model", "weight": 0.0, "id": 2779569378, "level": 2}
+{"count": 36099, "name": "Charge carrier", "weight": 0.0, "id": 104232198, "level": 2}
+{"count": 51615, "name": "Thermoelectric effect", "weight": 1.0, "id": 63024428, "level": 2}
+{"count": 14706, "name": "Local field", "weight": 0.0, "id": 84583765, "level": 2}
+{"count": 5600, "name": "Short range order", "weight": 0.0, "id": 2778931360, "level": 2}
+{"count": 19689, "name": "Brillouin zone", "weight": 0.0, "id": 16291881, "level": 2}
+{"count": 16388, "name": "Bulk modulus", "weight": 0.0, "id": 94406020, "level": 2}
+{"count": 11193, "name": "Quantum wire", "weight": 0.0, "id": 151107866, "level": 2}
+{"count": 34633, "name": "Quantum entanglement", "weight": 0.0, "id": 121040770, "level": 2}
+{"count": 132494, "name": "Cluster (physics)", "weight": 3.0, "id": 130967087, "level": 2}
+{"count": 21490, "name": "Magnetostriction", "weight": 0.0, "id": 72852350, "level": 2}
+{"count": 8175, "name": "Random phase approximation", "weight": 0.0, "id": 138309006, "level": 2}
+{"count": 11820, "name": "Kerr effect", "weight": 0.0, "id": 176672485, "level": 2}
+{"count": 19036, "name": "Superfluidity", "weight": 0.0, "id": 25536358, "level": 2}
+{"count": 8206, "name": "Quantum fluctuation", "weight": 0.0, "id": 141886431, "level": 2}
+{"count": 10653, "name": "Fermi liquid theory", "weight": 0.0, "id": 51675196, "level": 2}
+{"count": 16503, "name": "Surface states", "weight": 0.0, "id": 79689650, "level": 2}
+{"count": 10286, "name": "Kondo effect", "weight": 0.0, "id": 109281498, "level": 2}
+{"count": 13025, "name": "Jamming", "weight": 0.0, "id": 2779079576, "level": 2}
+{"count": 24203, "name": "Ferromagnetic resonance", "weight": 0.0, "id": 43922652, "level": 2}
+{"count": 5744, "name": "Helium-4", "weight": 0.0, "id": 15522680, "level": 2}
+{"count": 5738, "name": "Solid-state physics", "weight": 0.0, "id": 43588577, "level": 2}
+{"count": 15033, "name": "Polaron", "weight": 0.0, "id": 64127065, "level": 2}
+{"count": 67025, "name": "Paramagnetism", "weight": 1.0, "id": 124712363, "level": 2}
+{"count": 11271, "name": "Hexagonal lattice", "weight": 0.0, "id": 90626534, "level": 2}
+{"count": 39864, "name": "Vacancy defect", "weight": 1.0, "id": 114221277, "level": 2}
+{"count": 8955, "name": "Charge density wave", "weight": 0.0, "id": 2780525273, "level": 2}
+{"count": 10280, "name": "Polariton", "weight": 0.0, "id": 130725296, "level": 2}
+{"count": 9694, "name": "Quasicrystal", "weight": 0.0, "id": 203101518, "level": 2}
+{"count": 9055, "name": "Magnetic force microscope", "weight": 0.0, "id": 181635281, "level": 2}
+{"count": 5561, "name": "Geometric phase", "weight": 0.0, "id": 17269025, "level": 2}
+{"count": 6476, "name": "Thermodynamic limit", "weight": 0.0, "id": 54021167, "level": 2}
+{"count": 6169, "name": "Critical dimension", "weight": 0.0, "id": 207789793, "level": 2}
+{"count": 10981, "name": "Pseudopotential", "weight": 0.0, "id": 132378524, "level": 2}
+{"count": 8283, "name": "Melt spinning", "weight": 0.0, "id": 2779784324, "level": 2}
+{"count": 5994, "name": "Optical conductivity", "weight": 0.0, "id": 2778187894, "level": 2}
+{"count": 5482, "name": "Valence bond theory", "weight": 0.0, "id": 178429038, "level": 2}
+{"count": 7740, "name": "Magnetic circular dichroism", "weight": 0.0, "id": 68563686, "level": 2}
+{"count": 3764, "name": "Mean squared displacement", "weight": 0.0, "id": 187128312, "level": 2}
+{"count": 25933, "name": "Pairing", "weight": 0.0, "id": 14103023, "level": 2}
+{"count": 4147, "name": "Anderson localization", "weight": 0.0, "id": 133654230, "level": 2}
+{"count": 6820, "name": "Energy level", "weight": 0.0, "id": 170628024, "level": 2}
+{"count": 5418, "name": "Mott insulator", "weight": 0.0, "id": 136766821, "level": 2}
+{"count": 19923, "name": "Anharmonicity", "weight": 0.0, "id": 147724859, "level": 2}
+{"count": 3576, "name": "Free induction decay", "weight": 0.0, "id": 90199342, "level": 2}
+{"count": 4122, "name": "Topological defect", "weight": 0.0, "id": 104862878, "level": 2}
+{"count": 9333, "name": "Rectangular potential barrier", "weight": 0.0, "id": 201966971, "level": 2}
+{"count": 19871, "name": "Diamagnetism", "weight": 0.0, "id": 96026104, "level": 2}
+{"count": 4054, "name": "Manganite", "weight": 0.0, "id": 2779700590, "level": 2}
+{"count": 8008, "name": "Oscillator strength", "weight": 0.0, "id": 99191460, "level": 2}
+{"count": 1155, "name": "Many-body theory", "weight": 0.0, "id": 24355240, "level": 2}
+{"count": 8268, "name": "Debye model", "weight": 0.0, "id": 25376523, "level": 2}
+{"count": 11385, "name": "Correlation function (statistical mechanics)", "weight": 0.0, "id": 78622024, "level": 2}
+{"count": 2469, "name": "Superradiance", "weight": 0.0, "id": 37829102, "level": 2}
+{"count": 4059, "name": "Local density of states", "weight": 0.0, "id": 2778205538, "level": 2}
+{"count": 4121, "name": "Yttrium iron garnet", "weight": 0.0, "id": 2775869346, "level": 2}
+{"count": 9364, "name": "Cryostat", "weight": 0.0, "id": 89106999, "level": 2}
+{"count": 24108, "name": "Qubit", "weight": 0.0, "id": 203087015, "level": 2}
+{"count": 3602, "name": "Self-energy", "weight": 0.0, "id": 50368034, "level": 2}
+{"count": 4926, "name": "Matter wave", "weight": 0.0, "id": 45792457, "level": 2}
+{"count": 2619, "name": "Cluster expansion", "weight": 0.0, "id": 2778999785, "level": 2}
+{"count": 4902, "name": "Nuclear quadrupole resonance", "weight": 0.0, "id": 2778981401, "level": 2}
+{"count": 13250, "name": "Liquid helium", "weight": 0.0, "id": 1855228, "level": 2}
+{"count": 22707, "name": "Conductance", "weight": 0.0, "id": 121932024, "level": 2}
+{"count": 10590, "name": "Pauli exclusion principle", "weight": 0.0, "id": 110340908, "level": 2}
+{"count": 3916, "name": "Thermalisation", "weight": 0.0, "id": 15359245, "level": 2}
+{"count": 11500, "name": "Superheating", "weight": 0.0, "id": 37114186, "level": 2}
+{"count": 10511, "name": "Quantum decoherence", "weight": 0.0, "id": 122527463, "level": 2}
+{"count": 3020, "name": "Energy level splitting", "weight": 0.0, "id": 188332802, "level": 2}
+{"count": 1755, "name": "Fluctuation-dissipation theorem", "weight": 0.0, "id": 178201587, "level": 2}
+{"count": 5121, "name": "Charge ordering", "weight": 0.0, "id": 159176642, "level": 2}
+{"count": 5712, "name": "Pyrochlore", "weight": 0.0, "id": 2779303976, "level": 2}
+{"count": 3003, "name": "Bloch equations", "weight": 0.0, "id": 142951617, "level": 2}
+{"count": 11004, "name": "Angle-resolved photoemission spectroscopy", "weight": 0.0, "id": 156390739, "level": 2}
+{"count": 9892, "name": "Topological insulator", "weight": 0.0, "id": 128911142, "level": 2}
+{"count": 7822, "name": "Square lattice", "weight": 0.0, "id": 2777620828, "level": 2}
+{"count": 7916, "name": "Reciprocal lattice", "weight": 0.0, "id": 89957378, "level": 2}
+{"count": 3202, "name": "Pair potential", "weight": 0.0, "id": 2777692963, "level": 2}
+{"count": 1117, "name": "Debye\u2013Waller factor", "weight": 0.0, "id": 2781104464, "level": 2}
+{"count": 12968, "name": "Fermi energy", "weight": 0.0, "id": 26057338, "level": 2}
+{"count": 4941, "name": "Quantum limit", "weight": 0.0, "id": 180214583, "level": 2}
+{"count": 2068, "name": "Spherical model", "weight": 0.0, "id": 2778084274, "level": 2}
+{"count": 2960, "name": "Bloch wave", "weight": 0.0, "id": 37689646, "level": 2}
+{"count": 2074, "name": "Envelope (waves)", "weight": 0.0, "id": 98801062, "level": 2}
+{"count": 325, "name": "Ames Laboratory", "weight": 0.0, "id": 2776762116, "level": 2}
+{"count": 2382, "name": "Gallium phosphide", "weight": 0.0, "id": 2778288408, "level": 2}
+{"count": 15823, "name": "Degeneracy (mathematics)", "weight": 0.0, "id": 168548019, "level": 2}
+{"count": 4045, "name": "Absolute zero", "weight": 0.0, "id": 97278139, "level": 2}
+{"count": 17202, "name": "Fermi Gamma-ray Space Telescope", "weight": 0.0, "id": 186769553, "level": 2}
+{"count": 29982, "name": "Coulomb", "weight": 0.0, "id": 9342510, "level": 2}
+{"count": 5873, "name": "Position and momentum space", "weight": 0.0, "id": 152991086, "level": 2}
+{"count": 327, "name": "Selection rule", "weight": 0.0, "id": 38323859, "level": 2}
+{"count": 3291, "name": "Second sound", "weight": 0.0, "id": 31686786, "level": 2}
+{"count": 11058, "name": "Field effect", "weight": 0.0, "id": 31500677, "level": 2}
+{"count": 5712, "name": "Principal quantum number", "weight": 0.0, "id": 104240894, "level": 2}
+{"count": 3338, "name": "Microscopic theory", "weight": 0.0, "id": 2781288168, "level": 2}
+{"count": 1814, "name": "Density wave theory", "weight": 0.0, "id": 205561991, "level": 2}
+{"count": 1368, "name": "Fermi\u2013Dirac statistics", "weight": 0.0, "id": 43647195, "level": 2}
+{"count": 721, "name": "Fermi's golden rule", "weight": 0.0, "id": 15119206, "level": 2}
+{"count": 1459, "name": "Wannier function", "weight": 0.0, "id": 14022793, "level": 2}
+{"count": 21141, "name": "Mesoscopic physics", "weight": 0.0, "id": 177731217, "level": 2}
+{"count": 2496, "name": "Rabi cycle", "weight": 0.0, "id": 40025392, "level": 2}
+{"count": 10181, "name": "Dephasing", "weight": 0.0, "id": 49023278, "level": 2}
+{"count": 2046, "name": "Topological quantum computer", "weight": 0.0, "id": 187483380, "level": 2}
+{"count": 2182, "name": "Rabi frequency", "weight": 0.0, "id": 35114708, "level": 2}
+{"count": 3583, "name": "Filling factor", "weight": 0.0, "id": 9508911, "level": 2}
+{"count": 2170, "name": "Indium antimonide", "weight": 0.0, "id": 2777419967, "level": 2}
+{"count": 7990, "name": "Curie", "weight": 0.0, "id": 26325048, "level": 2}
+{"count": 6302, "name": "Thermal fluctuations", "weight": 0.0, "id": 5637370, "level": 2}
+{"count": 1246, "name": "Fluctuation spectrum", "weight": 0.0, "id": 2778974888, "level": 2}
+{"count": 40147, "name": "Degenerate energy levels", "weight": 1.0, "id": 72319582, "level": 2}
+{"count": 2103, "name": "Thermodynamic potential", "weight": 0.0, "id": 41607394, "level": 2}
+{"count": 9615, "name": "Debye", "weight": 0.0, "id": 40899509, "level": 2}
+{"count": 527, "name": "D band", "weight": 0.0, "id": 56444636, "level": 2}
+{"count": 474, "name": "Mass action law", "weight": 0.0, "id": 36543247, "level": 2}
+{"count": 1661, "name": "Critical line", "weight": 0.0, "id": 2776605787, "level": 2}
+{"count": 3430, "name": "Screening effect", "weight": 0.0, "id": 125801514, "level": 2}
+{"count": 5770, "name": "Topological order", "weight": 0.0, "id": 45646460, "level": 2}
+{"count": 1361, "name": "Point reflection", "weight": 0.0, "id": 188914724, "level": 2}
+{"count": 1049, "name": "Delafossite", "weight": 0.0, "id": 2779899794, "level": 2}
+{"count": 258, "name": "Frenkel\u2013Kontorova model", "weight": 0.0, "id": 2776034570, "level": 2}
+{"count": 729, "name": "Spins", "weight": 0.0, "id": 2778870898, "level": 2}
+{"count": 906, "name": "Fractionalization", "weight": 0.0, "id": 71735400, "level": 2}
+{"count": 757, "name": "Material physics", "weight": 0.0, "id": 196111849, "level": 2}
+{"count": 449, "name": "Bogoliubov transformation", "weight": 0.0, "id": 2777261391, "level": 2}
+{"count": 146, "name": "Kramers theorem", "weight": 0.0, "id": 132208319, "level": 2}
+{"count": 1800, "name": "Coupling parameter", "weight": 0.0, "id": 2777391479, "level": 2}
+{"count": 882, "name": "Einstein relation", "weight": 0.0, "id": 2780790625, "level": 2}
+{"count": 1525, "name": "Translational symmetry", "weight": 0.0, "id": 84229, "level": 2}
+{"count": 2609, "name": "Elementary charge", "weight": 0.0, "id": 101879516, "level": 2}
+{"count": 388, "name": "Cavity method", "weight": 0.0, "id": 2778385709, "level": 2}
+{"count": 904, "name": "Residual entropy", "weight": 0.0, "id": 97785096, "level": 2}
+{"count": 333, "name": "Meron", "weight": 0.0, "id": 2780318823, "level": 2}
+{"count": 448, "name": "Quinaldine", "weight": 0.0, "id": 2779431559, "level": 2}
+{"count": 2526, "name": "State of matter", "weight": 0.0, "id": 101496351, "level": 2}
+{"count": 749, "name": "Long wavelength limit", "weight": 0.0, "id": 2777144786, "level": 2}

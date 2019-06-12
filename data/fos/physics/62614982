@@ -1,0 +1,10 @@
+{"count": 2159, "name": "Molten globule", "weight": 10.0, "id": 118493188, "level": 3}
+{"count": 414, "name": "310 helix", "weight": 1.0, "id": 4048633, "level": 3}
+{"count": 305, "name": "DSSP (hydrogen bond estimation algorithm)", "weight": 1.0, "id": 110364554, "level": 3}
+{"count": 114, "name": "Chemical shift index", "weight": 0.0, "id": 2779190930, "level": 3}
+{"count": 200, "name": "Beta helix", "weight": 0.0, "id": 58845343, "level": 3}
+{"count": 188, "name": "Helical wheel", "weight": 0.0, "id": 2776651428, "level": 3}
+{"count": 206, "name": "Supersecondary structure", "weight": 0.0, "id": 83149532, "level": 3}
+{"count": 20, "name": "ShiftX", "weight": 0.0, "id": 2775868109, "level": 3}
+{"count": 104, "name": "SOSUI", "weight": 0.0, "id": 2781159875, "level": 3}
+{"count": 49, "name": "RefDB", "weight": 0.0, "id": 109365771, "level": 3}

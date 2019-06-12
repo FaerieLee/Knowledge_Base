@@ -1,0 +1,83 @@
+{"count": 30740, "name": "Hydrogen atom", "weight": 10.0, "id": 2776640939, "level": 3}
+{"count": 2908, "name": "Atomic theory", "weight": 0.0, "id": 131707115, "level": 3}
+{"count": 6680, "name": "Interatomic potential", "weight": 2.0, "id": 2776372370, "level": 3}
+{"count": 6831, "name": "Laser cooling", "weight": 2.0, "id": 91275184, "level": 3}
+{"count": 7989, "name": "Optical lattice", "weight": 2.0, "id": 93751859, "level": 3}
+{"count": 4421, "name": "Atom probe", "weight": 1.0, "id": 16876290, "level": 3}
+{"count": 3688, "name": "Field ion microscope", "weight": 1.0, "id": 197977467, "level": 3}
+{"count": 12392, "name": "Atomic number", "weight": 4.0, "id": 61782718, "level": 3}
+{"count": 3186, "name": "Feshbach resonance", "weight": 1.0, "id": 39190425, "level": 3}
+{"count": 1892, "name": "Thomas\u2013Fermi model", "weight": 0.0, "id": 24572877, "level": 3}
+{"count": 4636, "name": "Energetic neutral atom", "weight": 1.0, "id": 138560296, "level": 3}
+{"count": 11289, "name": "Valence electron", "weight": 3.0, "id": 38649801, "level": 3}
+{"count": 2813, "name": "Atom optics", "weight": 0.0, "id": 2775929963, "level": 3}
+{"count": 9732, "name": "Atoms in molecules", "weight": 3.0, "id": 63385615, "level": 3}
+{"count": 2152, "name": "Magneto-optical trap", "weight": 0.0, "id": 2778183165, "level": 3}
+{"count": 1383, "name": "Low-energy ion scattering", "weight": 0.0, "id": 2777174998, "level": 3}
+{"count": 4446, "name": "Ultracold atom", "weight": 1.0, "id": 111776688, "level": 3}
+{"count": 1642, "name": "Jaynes\u2013Cummings model", "weight": 0.0, "id": 9849289, "level": 3}
+{"count": 1479, "name": "Reverse Monte Carlo", "weight": 0.0, "id": 39110650, "level": 3}
+{"count": 904, "name": "Rotating wave approximation", "weight": 0.0, "id": 34991734, "level": 3}
+{"count": 3262, "name": "Atomic radius", "weight": 1.0, "id": 71100877, "level": 3}
+{"count": 1425, "name": "Exotic atom", "weight": 0.0, "id": 186395988, "level": 3}
+{"count": 3010, "name": "Helium atom", "weight": 0.0, "id": 2780846936, "level": 3}
+{"count": 2524, "name": "Atom interferometer", "weight": 0.0, "id": 184551789, "level": 3}
+{"count": 983, "name": "Atomic coherence", "weight": 0.0, "id": 2776134477, "level": 3}
+{"count": 3937, "name": "Core electron", "weight": 1.0, "id": 36678784, "level": 3}
+{"count": 1103, "name": "Atomic, molecular, and optical physics", "weight": 0.0, "id": 8085057, "level": 3}
+{"count": 1217, "name": "Atom laser", "weight": 0.0, "id": 43071845, "level": 3}
+{"count": 6537, "name": "Atomic units", "weight": 2.0, "id": 66823137, "level": 3}
+{"count": 671, "name": "Hot atom", "weight": 0.0, "id": 2780360988, "level": 3}
+{"count": 1789, "name": "Magnetic trap", "weight": 0.0, "id": 68466655, "level": 3}
+{"count": 1366, "name": "Endohedral fullerene", "weight": 0.0, "id": 45474811, "level": 3}
+{"count": 1421, "name": "Icosahedron", "weight": 0.0, "id": 145194963, "level": 3}
+{"count": 1010, "name": "Lithium atom", "weight": 0.0, "id": 2779852509, "level": 3}
+{"count": 572, "name": "Francium", "weight": 0.0, "id": 528649303, "level": 3}
+{"count": 1026, "name": "Atomic model", "weight": 0.0, "id": 194778546, "level": 3}
+{"count": 66, "name": "Born\u2013Mayer equation", "weight": 0.0, "id": 2779292865, "level": 3}
+{"count": 536, "name": "Interstitial compound", "weight": 0.0, "id": 90180122, "level": 3}
+{"count": 93, "name": "Linear entropy", "weight": 0.0, "id": 99220025, "level": 3}
+{"count": 667, "name": "Embedded atom model", "weight": 0.0, "id": 157116553, "level": 3}
+{"count": 454, "name": "Binary collision approximation", "weight": 0.0, "id": 2779821378, "level": 3}
+{"count": 232, "name": "R-factor (crystallography)", "weight": 0.0, "id": 208021042, "level": 3}
+{"count": 101, "name": "Autler\u2013Townes effect", "weight": 0.0, "id": 2779567988, "level": 3}
+{"count": 757, "name": "Atomic spacing", "weight": 0.0, "id": 122221948, "level": 3}
+{"count": 463, "name": "Helium atom scattering", "weight": 0.0, "id": 2776684446, "level": 3}
+{"count": 403, "name": "Wyckoff positions", "weight": 0.0, "id": 103678177, "level": 3}
+{"count": 251, "name": "Atom vibrations", "weight": 0.0, "id": 52906813, "level": 3}
+{"count": 138, "name": "Atomic form factor", "weight": 0.0, "id": 2778141182, "level": 3}
+{"count": 3152, "name": "Interstitial defect", "weight": 1.0, "id": 60546165, "level": 3}
+{"count": 443, "name": "Superatom", "weight": 0.0, "id": 171706072, "level": 3}
+{"count": 214, "name": "Kaonic hydrogen", "weight": 0.0, "id": 2778577139, "level": 3}
+{"count": 345, "name": "Isomeric shift", "weight": 0.0, "id": 71167089, "level": 3}
+{"count": 285, "name": "Borophene", "weight": 0.0, "id": 2779029100, "level": 3}
+{"count": 142, "name": "Threshold displacement energy", "weight": 0.0, "id": 2779395835, "level": 3}
+{"count": 50, "name": "Hund's rules", "weight": 0.0, "id": 2779642493, "level": 3}
+{"count": 706, "name": "Formal charge", "weight": 0.0, "id": 2515530, "level": 3}
+{"count": 216, "name": "Aufbau principle", "weight": 0.0, "id": 73371168, "level": 3}
+{"count": 85, "name": "Franck\u2013Hertz experiment", "weight": 0.0, "id": 2780344975, "level": 3}
+{"count": 164, "name": "Helium dimer", "weight": 0.0, "id": 2780209961, "level": 3}
+{"count": 225, "name": "Quantum reflection", "weight": 0.0, "id": 2779998746, "level": 3}
+{"count": 58, "name": "Ramsauer\u2013Townsend effect", "weight": 0.0, "id": 2777447315, "level": 3}
+{"count": 745, "name": "Crossed molecular beam", "weight": 0.0, "id": 2777734200, "level": 3}
+{"count": 239, "name": "Laser detuning", "weight": 0.0, "id": 2776929978, "level": 3}
+{"count": 36, "name": "Lamb Dicke regime", "weight": 0.0, "id": 2780615684, "level": 3}
+{"count": 222, "name": "Atomic recoil", "weight": 0.0, "id": 2780948669, "level": 3}
+{"count": 58, "name": "Hooke's atom", "weight": 0.0, "id": 60555311, "level": 3}
+{"count": 48, "name": "Central field approximation", "weight": 0.0, "id": 2776256699, "level": 3}
+{"count": 95, "name": "Extended metal atom chains", "weight": 0.0, "id": 180161851, "level": 3}
+{"count": 51, "name": "Rutherford model", "weight": 0.0, "id": 191615282, "level": 3}
+{"count": 142, "name": "Ramsey interferometry", "weight": 0.0, "id": 2780916549, "level": 3}
+{"count": 508, "name": "Fermionic condensate", "weight": 0.0, "id": 51108505, "level": 3}
+{"count": 25, "name": "Noble gas compound", "weight": 0.0, "id": 2776446010, "level": 3}
+{"count": 563, "name": "Tetravalence", "weight": 0.0, "id": 17884519, "level": 3}
+{"count": 154, "name": "Nitrogen rule", "weight": 0.0, "id": 68412588, "level": 3}
+{"count": 177, "name": "Photoionisation cross section", "weight": 0.0, "id": 131876706, "level": 3}
+{"count": 26, "name": "X-ray crystal truncation rod", "weight": 0.0, "id": 2775895916, "level": 3}
+{"count": 263, "name": "Noble gas configuration", "weight": 0.0, "id": 199304137, "level": 3}
+{"count": 22, "name": "Cold Atom Laboratory", "weight": 0.0, "id": 2776459509, "level": 3}
+{"count": 13, "name": "Whole number rule", "weight": 0.0, "id": 153055011, "level": 3}
+{"count": 42, "name": "Atomic and molecular astrophysics", "weight": 0.0, "id": 512728698, "level": 3}
+{"count": 46, "name": "Cluster impact fusion", "weight": 0.0, "id": 2776827247, "level": 3}
+{"count": 345, "name": "Crystal structure of boron-rich metal borides", "weight": 0.0, "id": 117198864, "level": 3}
+{"count": 38, "name": "Chemical bonding model", "weight": 0.0, "id": 2780437806, "level": 3}

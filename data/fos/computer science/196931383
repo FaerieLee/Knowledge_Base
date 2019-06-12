@@ -1,0 +1,6 @@
+{"count": 5493, "name": "Antenna gain", "weight": 5.0, "id": 81183938, "level": 5}
+{"count": 425, "name": "Plasma antenna", "weight": 0.0, "id": 2776640869, "level": 5}
+{"count": 574, "name": "Reference antenna", "weight": 0.0, "id": 2778905137, "level": 5}
+{"count": 9089, "name": "Antenna tuner", "weight": 8.0, "id": 119439620, "level": 5}
+{"count": 10688, "name": "Antenna noise temperature", "weight": 10.0, "id": 72816602, "level": 5}
+{"count": 30, "name": "Antenna height above average terrain", "weight": 0.0, "id": 68090203, "level": 5}

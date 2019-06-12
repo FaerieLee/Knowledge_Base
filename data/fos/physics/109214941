@@ -1,0 +1,200 @@
+{"count": 85674, "name": "Elementary particle", "weight": 8.0, "id": 102999125, "level": 2}
+{"count": 31918, "name": "Institutional repository", "weight": 3.0, "id": 2780824705, "level": 2}
+{"count": 42771, "name": "Gauge theory", "weight": 4.0, "id": 181830111, "level": 2}
+{"count": 36853, "name": "Quantum field theory", "weight": 3.0, "id": 115047598, "level": 2}
+{"count": 98730, "name": "Technical report", "weight": 10.0, "id": 182449105, "level": 2}
+{"count": 41012, "name": "Fermion", "weight": 4.0, "id": 52233224, "level": 2}
+{"count": 47103, "name": "Coupling constant", "weight": 4.0, "id": 183276030, "level": 2}
+{"count": 37928, "name": "Supersymmetry", "weight": 3.0, "id": 116674579, "level": 2}
+{"count": 63331, "name": "Quantum chromodynamics", "weight": 6.0, "id": 117137515, "level": 2}
+{"count": 42468, "name": "Standard Model", "weight": 4.0, "id": 506670242, "level": 2}
+{"count": 40400, "name": "Dark matter", "weight": 4.0, "id": 159249277, "level": 2}
+{"count": 65101, "name": "Hadron", "weight": 6.0, "id": 19694890, "level": 2}
+{"count": 26459, "name": "Symmetry breaking", "weight": 2.0, "id": 204795200, "level": 2}
+{"count": 65339, "name": "Nucleon", "weight": 6.0, "id": 172695262, "level": 2}
+{"count": 46210, "name": "Asymmetry", "weight": 4.0, "id": 38976095, "level": 2}
+{"count": 27999, "name": "Baryon", "weight": 2.0, "id": 154153549, "level": 2}
+{"count": 33399, "name": "Lepton", "weight": 3.0, "id": 179203047, "level": 2}
+{"count": 10574, "name": "String theory", "weight": 1.0, "id": 49987212, "level": 2}
+{"count": 21857, "name": "Momentum transfer", "weight": 2.0, "id": 76494280, "level": 2}
+{"count": 20607, "name": "Form factor (quantum field theory)", "weight": 2.0, "id": 13203339, "level": 2}
+{"count": 23279, "name": "Renormalization", "weight": 2.0, "id": 166124518, "level": 2}
+{"count": 34917, "name": "Boson", "weight": 3.0, "id": 79118098, "level": 2}
+{"count": 61746, "name": "Quark", "weight": 6.0, "id": 7602139, "level": 2}
+{"count": 63005, "name": "Meson", "weight": 6.0, "id": 200006409, "level": 2}
+{"count": 18966, "name": "Cosmic microwave background", "weight": 1.0, "id": 207297109, "level": 2}
+{"count": 23565, "name": "Physics beyond the Standard Model", "weight": 2.0, "id": 184748400, "level": 2}
+{"count": 50044, "name": "Pion", "weight": 5.0, "id": 206094082, "level": 2}
+{"count": 57189, "name": "Neutrino", "weight": 5.0, "id": 186453547, "level": 2}
+{"count": 38456, "name": "Higgs boson", "weight": 3.0, "id": 158129726, "level": 2}
+{"count": 13461, "name": "Cosmological constant", "weight": 1.0, "id": 166861157, "level": 2}
+{"count": 11294, "name": "Weak interaction", "weight": 1.0, "id": 25876928, "level": 2}
+{"count": 64190, "name": "Large Hadron Collider", "weight": 6.0, "id": 87668248, "level": 2}
+{"count": 18438, "name": "CP violation", "weight": 1.0, "id": 41002478, "level": 2}
+{"count": 9312, "name": "Electron\u2013positron annihilation", "weight": 0.0, "id": 2778671642, "level": 2}
+{"count": 14283, "name": "Spontaneous symmetry breaking", "weight": 1.0, "id": 125881977, "level": 2}
+{"count": 11924, "name": "Effective action", "weight": 1.0, "id": 110528137, "level": 2}
+{"count": 12865, "name": "Massless particle", "weight": 1.0, "id": 54937798, "level": 2}
+{"count": 6871, "name": "Model building", "weight": 0.0, "id": 189474733, "level": 2}
+{"count": 9311, "name": "Unified field theory", "weight": 0.0, "id": 46451288, "level": 2}
+{"count": 5596, "name": "Kaluza\u2013Klein theory", "weight": 0.0, "id": 79969916, "level": 2}
+{"count": 2942, "name": "Chiral symmetry", "weight": 0.0, "id": 2778564446, "level": 2}
+{"count": 14660, "name": "Nuclear matter", "weight": 1.0, "id": 165410206, "level": 2}
+{"count": 7165, "name": "AdS/CFT correspondence", "weight": 0.0, "id": 44633245, "level": 2}
+{"count": 14358, "name": "Magnetic monopole", "weight": 1.0, "id": 149298590, "level": 2}
+{"count": 4972, "name": "Non-perturbative", "weight": 0.0, "id": 34640026, "level": 2}
+{"count": 22793, "name": "Branching fraction", "weight": 2.0, "id": 46460574, "level": 2}
+{"count": 26541, "name": "Annihilation", "weight": 2.0, "id": 201941533, "level": 2}
+{"count": 35699, "name": "Muon", "weight": 3.0, "id": 205334942, "level": 2}
+{"count": 16656, "name": "Propagator", "weight": 1.0, "id": 104416048, "level": 2}
+{"count": 8660, "name": "Compactification (physics)", "weight": 0.0, "id": 170536752, "level": 2}
+{"count": 5782, "name": "Sigma model", "weight": 0.0, "id": 2781313195, "level": 2}
+{"count": 13611, "name": "Flavour", "weight": 1.0, "id": 16281581, "level": 2}
+{"count": 11701, "name": "Effective field theory", "weight": 1.0, "id": 163387558, "level": 2}
+{"count": 12992, "name": "Pair production", "weight": 1.0, "id": 47085818, "level": 2}
+{"count": 9928, "name": "Unitarity", "weight": 1.0, "id": 130295795, "level": 2}
+{"count": 17501, "name": "Electroweak interaction", "weight": 1.0, "id": 17863212, "level": 2}
+{"count": 14230, "name": "Isospin", "weight": 1.0, "id": 190284468, "level": 2}
+{"count": 11253, "name": "Helicity", "weight": 1.0, "id": 2775859700, "level": 2}
+{"count": 8420, "name": "Instanton", "weight": 0.0, "id": 125198404, "level": 2}
+{"count": 5911, "name": "Vacuum state", "weight": 0.0, "id": 70662872, "level": 2}
+{"count": 4602, "name": "Operator product expansion", "weight": 0.0, "id": 18199665, "level": 2}
+{"count": 4214, "name": "Cosmic string", "weight": 0.0, "id": 170442971, "level": 2}
+{"count": 1990, "name": "Zero mode", "weight": 0.0, "id": 2780658932, "level": 2}
+{"count": 6233, "name": "Strong interaction", "weight": 0.0, "id": 96537103, "level": 2}
+{"count": 7118, "name": "Invariant mass", "weight": 0.0, "id": 151987854, "level": 2}
+{"count": 3556, "name": "Antimatter", "weight": 0.0, "id": 110916831, "level": 2}
+{"count": 5111, "name": "Graviton", "weight": 0.0, "id": 130044071, "level": 2}
+{"count": 2573, "name": "1/N expansion", "weight": 0.0, "id": 23992396, "level": 2}
+{"count": 3754, "name": "Light cone", "weight": 0.0, "id": 197067312, "level": 2}
+{"count": 9123, "name": "Sum rule in quantum mechanics", "weight": 0.0, "id": 88407732, "level": 2}
+{"count": 9523, "name": "String field theory", "weight": 0.0, "id": 15760308, "level": 2}
+{"count": 5404, "name": "Impact parameter", "weight": 0.0, "id": 90167683, "level": 2}
+{"count": 5606, "name": "Strangeness", "weight": 0.0, "id": 2776440232, "level": 2}
+{"count": 2524, "name": "Goldstone boson", "weight": 0.0, "id": 151389596, "level": 2}
+{"count": 3928, "name": "Orbifold", "weight": 0.0, "id": 143782950, "level": 2}
+{"count": 2628, "name": "Tachyon", "weight": 0.0, "id": 42458899, "level": 2}
+{"count": 4900, "name": "Dilaton", "weight": 0.0, "id": 8369393, "level": 2}
+{"count": 3956, "name": "Relativistic Heavy Ion Collider", "weight": 0.0, "id": 2780765408, "level": 2}
+{"count": 2539, "name": "Vacuum polarization", "weight": 0.0, "id": 2780154664, "level": 2}
+{"count": 8236, "name": "Yukawa potential", "weight": 0.0, "id": 151195881, "level": 2}
+{"count": 9706, "name": "Fermilab", "weight": 0.0, "id": 2779848721, "level": 2}
+{"count": 3517, "name": "Astroparticle physics", "weight": 0.0, "id": 534381523, "level": 2}
+{"count": 613, "name": "Born\u2013Infeld model", "weight": 0.0, "id": 2776534060, "level": 2}
+{"count": 13364, "name": "Gauge boson", "weight": 1.0, "id": 40263606, "level": 2}
+{"count": 532, "name": "Back-reaction", "weight": 0.0, "id": 2779428755, "level": 2}
+{"count": 537, "name": "Postprint", "weight": 0.0, "id": 2780208856, "level": 2}
+{"count": 7019, "name": "Brane cosmology", "weight": 0.0, "id": 57979875, "level": 2}
+{"count": 5865, "name": "Chiral anomaly", "weight": 0.0, "id": 163845019, "level": 2}
+{"count": 5163, "name": "Grey literature", "weight": 0.0, "id": 61904560, "level": 2}
+{"count": 465, "name": "Gamma process", "weight": 0.0, "id": 79495835, "level": 2}
+{"count": 1224, "name": "B \u2212 L", "weight": 0.0, "id": 2776496057, "level": 2}
+{"count": 4862, "name": "Naturalness", "weight": 0.0, "id": 134537474, "level": 2}
+{"count": 8833, "name": "Brane", "weight": 0.0, "id": 68249636, "level": 2}
+{"count": 3447, "name": "Inflaton", "weight": 0.0, "id": 173153575, "level": 2}
+{"count": 6269, "name": "Heterotic string theory", "weight": 0.0, "id": 96732373, "level": 2}
+{"count": 26517, "name": "Collider", "weight": 2.0, "id": 152290109, "level": 2}
+{"count": 4008, "name": "Atomic nucleus", "weight": 0.0, "id": 127774322, "level": 2}
+{"count": 1665, "name": "Mass formula", "weight": 0.0, "id": 15580451, "level": 2}
+{"count": 1282, "name": "Mass gap", "weight": 0.0, "id": 2777925532, "level": 2}
+{"count": 2881, "name": "Extra dimensions", "weight": 0.0, "id": 2779625871, "level": 2}
+{"count": 2008, "name": "Nuclear emulsion", "weight": 0.0, "id": 2777505555, "level": 2}
+{"count": 1823, "name": "Local symmetry", "weight": 0.0, "id": 2779291638, "level": 2}
+{"count": 590, "name": "Bhabha scattering", "weight": 0.0, "id": 2779000718, "level": 2}
+{"count": 2842, "name": "HARP", "weight": 0.0, "id": 2776030095, "level": 2}
+{"count": 657, "name": "Cornell Electron Storage Ring", "weight": 0.0, "id": 2779673619, "level": 2}
+{"count": 13824, "name": "Fine-tuning", "weight": 1.0, "id": 157524613, "level": 2}
+{"count": 2602, "name": "Toy model", "weight": 0.0, "id": 2777514206, "level": 2}
+{"count": 4128, "name": "PICASSO", "weight": 0.0, "id": 32916116, "level": 2}
+{"count": 2857, "name": "DESY", "weight": 0.0, "id": 2777240086, "level": 2}
+{"count": 2863, "name": "Bubble chamber", "weight": 0.0, "id": 35785392, "level": 2}
+{"count": 1317, "name": "Crystal Ball", "weight": 0.0, "id": 2781224569, "level": 2}
+{"count": 1228, "name": "False vacuum", "weight": 0.0, "id": 100752768, "level": 2}
+{"count": 442, "name": "Infrared divergence", "weight": 0.0, "id": 2779636039, "level": 2}
+{"count": 1088, "name": "Discrete symmetry", "weight": 0.0, "id": 2776394503, "level": 2}
+{"count": 365, "name": "Regge theory", "weight": 0.0, "id": 2776054970, "level": 2}
+{"count": 431, "name": "Self-archiving", "weight": 0.0, "id": 2778720986, "level": 2}
+{"count": 16, "name": "CogPrints", "weight": 0.0, "id": 2776230775, "level": 2}
+{"count": 18356, "name": "Perturbation theory (quantum mechanics)", "weight": 1.0, "id": 174256460, "level": 2}
+{"count": 180, "name": "Q-ball", "weight": 0.0, "id": 2775936641, "level": 2}
+{"count": 739, "name": "Chiral model", "weight": 0.0, "id": 2779463233, "level": 2}
+{"count": 116, "name": "Left\u2013right symmetry", "weight": 0.0, "id": 2778264514, "level": 2}
+{"count": 275, "name": "Auxiliary field", "weight": 0.0, "id": 2780017161, "level": 2}
+{"count": 631, "name": "Electronic submission", "weight": 0.0, "id": 2777389783, "level": 2}
+{"count": 1210, "name": "Planck mass", "weight": 0.0, "id": 128228380, "level": 2}
+{"count": 363, "name": "Few-body systems", "weight": 0.0, "id": 2779586443, "level": 2}
+{"count": 2526, "name": "State of matter", "weight": 0.0, "id": 101496351, "level": 2}
+{"count": 557, "name": "DAFNE", "weight": 0.0, "id": 2776069064, "level": 2}
+{"count": 1297, "name": "Octet", "weight": 0.0, "id": 106033101, "level": 2}
+{"count": 154, "name": "Selectron tube", "weight": 0.0, "id": 59002494, "level": 2}
+{"count": 712, "name": "BaBar experiment", "weight": 0.0, "id": 2777979353, "level": 2}
+{"count": 1230, "name": "Scientific terminology", "weight": 0.0, "id": 9593695, "level": 2}
+{"count": 659, "name": "Electromagnetic mass", "weight": 0.0, "id": 29058008, "level": 2}
+{"count": 198, "name": "CUSB", "weight": 0.0, "id": 2779290516, "level": 2}
+{"count": 374, "name": "Bare mass", "weight": 0.0, "id": 2778052068, "level": 2}
+{"count": 211, "name": "S-LINK", "weight": 0.0, "id": 157068496, "level": 2}
+{"count": 341, "name": "Mark I", "weight": 0.0, "id": 2778648105, "level": 2}
+{"count": 471, "name": "Exchange force", "weight": 0.0, "id": 28085128, "level": 2}
+{"count": 260, "name": "Tsallis distribution", "weight": 0.0, "id": 2779208898, "level": 2}
+{"count": 14, "name": "Chan\u2013Paton factor", "weight": 0.0, "id": 2777224460, "level": 2}
+{"count": 544, "name": "Thesis statement", "weight": 0.0, "id": 2777547047, "level": 2}
+{"count": 278, "name": "Free streaming", "weight": 0.0, "id": 2777153115, "level": 2}
+{"count": 105, "name": "Triangle graph", "weight": 0.0, "id": 2780624928, "level": 2}
+{"count": 43, "name": "Charge invariance", "weight": 0.0, "id": 2775877032, "level": 2}
+{"count": 69, "name": "C-symmetry", "weight": 0.0, "id": 2780258521, "level": 2}
+{"count": 213, "name": "Compact dimension", "weight": 0.0, "id": 2779182886, "level": 2}
+{"count": 76, "name": "Mandelstam variables", "weight": 0.0, "id": 2779431338, "level": 2}
+{"count": 203, "name": "Leviton", "weight": 0.0, "id": 2780739061, "level": 2}
+{"count": 260, "name": "Eprint", "weight": 0.0, "id": 2776950949, "level": 2}
+{"count": 66, "name": "Accidental symmetry", "weight": 0.0, "id": 2779943054, "level": 2}
+{"count": 82, "name": "N-jet", "weight": 0.0, "id": 93491991, "level": 2}
+{"count": 95, "name": "Graceful exit", "weight": 0.0, "id": 2780310095, "level": 2}
+{"count": 49, "name": "Academic authorship", "weight": 0.0, "id": 2779731367, "level": 2}
+{"count": 1640, "name": "Onium", "weight": 0.0, "id": 2775859925, "level": 2}
+{"count": 9888, "name": "Non-critical string theory", "weight": 1.0, "id": 156341967, "level": 2}
+{"count": 59, "name": "Dimensional deconstruction", "weight": 0.0, "id": 2777348327, "level": 2}
+{"count": 18, "name": "Look-elsewhere effect", "weight": 0.0, "id": 2776901567, "level": 2}
+{"count": 65, "name": "Maximon", "weight": 0.0, "id": 2780106137, "level": 2}
+{"count": 376, "name": "Plasmaron", "weight": 0.0, "id": 140650875, "level": 2}
+{"count": 5, "name": "Elitzur's theorem", "weight": 0.0, "id": 2777416505, "level": 2}
+{"count": 3633, "name": "Overline", "weight": 0.0, "id": 2776508292, "level": 2}
+{"count": 61, "name": "Causal contact", "weight": 0.0, "id": 2779347187, "level": 2}
+{"count": 127, "name": "High energy nuclear physics", "weight": 0.0, "id": 2778026234, "level": 2}
+{"count": 14598, "name": "Hamiltonian lattice gauge theory", "weight": 1.0, "id": 27428435, "level": 2}
+{"count": 13, "name": "Coleman\u2013Weinberg potential", "weight": 0.0, "id": 2778438986, "level": 2}
+{"count": 4, "name": "Hadron epoch", "weight": 0.0, "id": 2780300979, "level": 2}
+{"count": 2, "name": "Peskin\u2013Takeuchi parameter", "weight": 0.0, "id": 2778618046, "level": 2}
+{"count": 29, "name": "Particle zoo", "weight": 0.0, "id": 53431047, "level": 2}
+{"count": 12, "name": "HyperPhysics", "weight": 0.0, "id": 2781005439, "level": 2}
+{"count": 11, "name": "'t Hooft operator", "weight": 0.0, "id": 2776452925, "level": 2}
+{"count": 2, "name": "Banks\u2013Zaks fixed point", "weight": 0.0, "id": 2776659690, "level": 2}
+{"count": 10, "name": "Nielsen\u2013Ninomiya theorem", "weight": 0.0, "id": 2779504090, "level": 2}
+{"count": 3, "name": "X and Y bosons", "weight": 0.0, "id": 2777394090, "level": 2}
+{"count": 5, "name": "Chromo\u2013Weibel instability", "weight": 0.0, "id": 2779588826, "level": 2}
+{"count": 1, "name": "B\u2013Bbar oscillation", "weight": 0.0, "id": 2777467600, "level": 2}
+{"count": 2, "name": "Minicharged particle", "weight": 0.0, "id": 2781204922, "level": 2}
+{"count": 7, "name": "Hylogenesis", "weight": 0.0, "id": 2778422732, "level": 2}
+{"count": 2, "name": "Anomalous electric dipole moment", "weight": 0.0, "id": 2778822207, "level": 2}
+{"count": 13, "name": "Grand unification energy", "weight": 0.0, "id": 2777087102, "level": 2}
+{"count": 1, "name": "Rare Symmetry Violating Processes", "weight": 0.0, "id": 2780227043, "level": 2}
+{"count": 3, "name": "Baikal Deep Underwater Neutrino Telescope", "weight": 0.0, "id": 2779176109, "level": 2}
+{"count": 2, "name": "Gell-Mann\u2013Nishijima formula", "weight": 0.0, "id": 2779331949, "level": 2}
+{"count": 1, "name": "Georgi\u2013Jarlskog mass relation", "weight": 0.0, "id": 2776467800, "level": 2}
+{"count": 2, "name": "Wu experiment", "weight": 0.0, "id": 2779320813, "level": 2}
+{"count": 2, "name": "Bottomness", "weight": 0.0, "id": 2781415359, "level": 2}
+{"count": 801, "name": "Superfluid vacuum theory", "weight": 0.0, "id": 21169086, "level": 2}
+{"count": 2, "name": "Weakless Universe", "weight": 0.0, "id": 2779945432, "level": 2}
+{"count": 4, "name": "Accelerator Neutrino Neutron Interaction Experiment", "weight": 0.0, "id": 2776925611, "level": 2}
+{"count": 3, "name": "Topness", "weight": 0.0, "id": 2776880613, "level": 2}
+{"count": 1, "name": "Neutral particle oscillation", "weight": 0.0, "id": 2780686615, "level": 2}
+{"count": 1, "name": "INSPIRE-HEP", "weight": 0.0, "id": 2778214061, "level": 2}
+{"count": 4, "name": "Totalitarian principle", "weight": 0.0, "id": 152277473, "level": 2}
+{"count": 2, "name": "Positron-Electron Tandem Ring Accelerator", "weight": 0.0, "id": 2781304153, "level": 2}
+{"count": 8, "name": "Stueckelberg action", "weight": 0.0, "id": 2778264444, "level": 2}
+{"count": 12, "name": "Theta meson", "weight": 0.0, "id": 2778474607, "level": 2}
+{"count": 3, "name": "Accelerator physics codes", "weight": 0.0, "id": 2779939598, "level": 2}
+{"count": 5, "name": "Quantum triviality", "weight": 0.0, "id": 2776980137, "level": 2}
+{"count": 11, "name": "Strange B meson", "weight": 0.0, "id": 2777120949, "level": 2}
+{"count": 7, "name": "Fermilab E-906/SeaQuest", "weight": 0.0, "id": 2776310278, "level": 2}
+{"count": 8, "name": "Multiplicative quantum number", "weight": 0.0, "id": 2779962519, "level": 2}
+{"count": 1, "name": "Goldberger\u2013Wise mechanism", "weight": 0.0, "id": 2779300976, "level": 2}

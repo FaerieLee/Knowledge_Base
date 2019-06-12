@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "description": "测试数据",
+
+  "indices": [
+    {
+      "name": "mag_aminer"
+    }
+  ],
+
+  "operations": [],
+
+  "schedule": [
+    {
+      "operation": "search",
+      "clients": 5,
+      "warmup-iterations":5,
+      "iterations":50,
+      "target-throughput": 10
+
+    }
+  ]
+
+}

@@ -1,0 +1,4 @@
+{"count": 864, "name": "Edge-preserving smoothing", "weight": 10.0, "id": 141651230, "level": 3}
+{"count": 169, "name": "Scatterplot smoothing", "weight": 1.0, "id": 57833419, "level": 3}
+{"count": 494, "name": "Additive smoothing", "weight": 5.0, "id": 145752271, "level": 3}
+{"count": 14, "name": "Kneser\u2013Ney smoothing", "weight": 0.0, "id": 2778239037, "level": 3}

@@ -1,0 +1,5 @@
+{"count": 55, "name": "Loudness monitoring", "weight": 1.0, "id": 160356432, "level": 3}
+{"count": 395, "name": "Loudness compensation", "weight": 10.0, "id": 34138748, "level": 3}
+{"count": 41, "name": "Equal-loudness contour", "weight": 1.0, "id": 2778354527, "level": 3}
+{"count": 25, "name": "Loudness war", "weight": 0.0, "id": 142130110, "level": 3}
+{"count": 24, "name": "Sound annoyance", "weight": 0.0, "id": 2780765684, "level": 3}

@@ -1,0 +1,20 @@
+{"count": 3408, "name": "Urban runoff", "weight": 10.0, "id": 126933887, "level": 4}
+{"count": 2660, "name": "Combined sewer", "weight": 7.0, "id": 2778583955, "level": 4}
+{"count": 1818, "name": "Detention basin", "weight": 5.0, "id": 114993203, "level": 4}
+{"count": 1810, "name": "Low-impact development", "weight": 5.0, "id": 122885670, "level": 4}
+{"count": 1675, "name": "Retention basin", "weight": 4.0, "id": 56624168, "level": 4}
+{"count": 1426, "name": "First flush", "weight": 4.0, "id": 47173362, "level": 4}
+{"count": 1107, "name": "Swale", "weight": 3.0, "id": 36439732, "level": 4}
+{"count": 1086, "name": "Bioretention", "weight": 3.0, "id": 2778396350, "level": 4}
+{"count": 607, "name": "Water-sensitive urban design", "weight": 1.0, "id": 2777414841, "level": 4}
+{"count": 768, "name": "Rain garden", "weight": 2.0, "id": 150920281, "level": 4}
+{"count": 238, "name": "Sustainable Drainage System", "weight": 0.0, "id": 107179328, "level": 4}
+{"count": 575, "name": "Storm Water Management Model", "weight": 1.0, "id": 2776093225, "level": 4}
+{"count": 251, "name": "Stormwater harvesting", "weight": 0.0, "id": 2781028066, "level": 4}
+{"count": 183, "name": "Percolation trench", "weight": 0.0, "id": 192553487, "level": 4}
+{"count": 31, "name": "Everglades Protection Area", "weight": 0.0, "id": 2778128472, "level": 4}
+{"count": 488, "name": "Storm drain", "weight": 1.0, "id": 2776017841, "level": 4}
+{"count": 188, "name": "Permeable paving", "weight": 0.0, "id": 2777486808, "level": 4}
+{"count": 157, "name": "Water cycle management", "weight": 0.0, "id": 2778893359, "level": 4}
+{"count": 53, "name": "MIKE URBAN", "weight": 0.0, "id": 2780128067, "level": 4}
+{"count": 67, "name": "Bioswale", "weight": 0.0, "id": 2778113224, "level": 4}

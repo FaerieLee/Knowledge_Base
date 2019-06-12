@@ -1,0 +1,200 @@
+{"count": 61216, "name": "Phylogenetics", "weight": 2.0, "id": 90132467, "level": 2}
+{"count": 33867, "name": "Poaceae", "weight": 1.0, "id": 46757340, "level": 2}
+{"count": 129667, "name": "Taxonomy (biology)", "weight": 4.0, "id": 58642233, "level": 2}
+{"count": 86067, "name": "Genetic variation", "weight": 3.0, "id": 68873052, "level": 2}
+{"count": 192409, "name": "Nutrient", "weight": 7.0, "id": 142796444, "level": 2}
+{"count": 19159, "name": "Protozoa", "weight": 0.0, "id": 2778566189, "level": 2}
+{"count": 100166, "name": "Photosynthesis", "weight": 3.0, "id": 183688256, "level": 2}
+{"count": 77685, "name": "Algae", "weight": 2.0, "id": 559758991, "level": 2}
+{"count": 9566, "name": "Fungi imperfecti", "weight": 0.0, "id": 2778394675, "level": 2}
+{"count": 108070, "name": "Larva", "weight": 3.0, "id": 173758957, "level": 2}
+{"count": 49321, "name": "Cell wall", "weight": 1.0, "id": 125235067, "level": 2}
+{"count": 64800, "name": "Tissue culture", "weight": 2.0, "id": 90703135, "level": 2}
+{"count": 67208, "name": "Woody plant", "weight": 2.0, "id": 128758860, "level": 2}
+{"count": 227122, "name": "Vegetation", "weight": 8.0, "id": 172427765, "level": 2}
+{"count": 272962, "name": "Crop", "weight": 10.0, "id": 137580998, "level": 2}
+{"count": 76355, "name": "Ultrastructure", "weight": 2.0, "id": 87555872, "level": 2}
+{"count": 52259, "name": "Respiration", "weight": 1.0, "id": 182215343, "level": 2}
+{"count": 1617, "name": "Paleobiology", "weight": 0.0, "id": 88385403, "level": 2}
+{"count": 90626, "name": "Salinity", "weight": 3.0, "id": 129513315, "level": 2}
+{"count": 27082, "name": "Electron transport chain", "weight": 0.0, "id": 24840226, "level": 2}
+{"count": 83802, "name": "Field experiment", "weight": 3.0, "id": 75639521, "level": 2}
+{"count": 37780, "name": "Senescence", "weight": 1.0, "id": 522857546, "level": 2}
+{"count": 30087, "name": "Genetic variability", "weight": 1.0, "id": 172777353, "level": 2}
+{"count": 11596, "name": "Solanaceae", "weight": 0.0, "id": 2778761015, "level": 2}
+{"count": 161372, "name": "Cultivar", "weight": 5.0, "id": 197321923, "level": 2}
+{"count": 52174, "name": "Biological pest control", "weight": 1.0, "id": 104727253, "level": 2}
+{"count": 136351, "name": "Germination", "weight": 4.0, "id": 100701293, "level": 2}
+{"count": 43076, "name": "Introduced species", "weight": 1.0, "id": 173651095, "level": 2}
+{"count": 46796, "name": "Species diversity", "weight": 1.0, "id": 62648534, "level": 2}
+{"count": 41482, "name": "Quantitative trait locus", "weight": 1.0, "id": 81941488, "level": 2}
+{"count": 73011, "name": "Genetic diversity", "weight": 2.0, "id": 81977670, "level": 2}
+{"count": 45412, "name": "Pathogenicity", "weight": 1.0, "id": 64502627, "level": 2}
+{"count": 79166, "name": "Species richness", "weight": 2.0, "id": 53565203, "level": 2}
+{"count": 8747, "name": "Pharmacognosy", "weight": 0.0, "id": 160492267, "level": 2}
+{"count": 40892, "name": "Plant disease resistance", "weight": 1.0, "id": 93678976, "level": 2}
+{"count": 64230, "name": "Chlorophyll", "weight": 2.0, "id": 2776373379, "level": 2}
+{"count": 44526, "name": "Lepidoptera genitalia", "weight": 1.0, "id": 177756618, "level": 2}
+{"count": 34719, "name": "Invasive species", "weight": 1.0, "id": 136020623, "level": 2}
+{"count": 125714, "name": "Starch", "weight": 4.0, "id": 529335014, "level": 2}
+{"count": 90177, "name": "Natural history", "weight": 3.0, "id": 163276114, "level": 2}
+{"count": 31095, "name": "Host (biology)", "weight": 1.0, "id": 126831891, "level": 2}
+{"count": 35557, "name": "Epidermis (botany)", "weight": 1.0, "id": 93536670, "level": 2}
+{"count": 16500, "name": "Symbiosis", "weight": 0.0, "id": 43144210, "level": 2}
+{"count": 89602, "name": "Phylogenetic tree", "weight": 3.0, "id": 193252679, "level": 2}
+{"count": 52189, "name": "Sucrose", "weight": 1.0, "id": 2778597767, "level": 2}
+{"count": 46199, "name": "Spore", "weight": 1.0, "id": 174618031, "level": 2}
+{"count": 32789, "name": "Alkaloid", "weight": 1.0, "id": 2777667214, "level": 2}
+{"count": 36368, "name": "Medicinal plants", "weight": 1.0, "id": 2779158651, "level": 2}
+{"count": 38009, "name": "Carotenoid", "weight": 1.0, "id": 28781525, "level": 2}
+{"count": 25994, "name": "Oryza sativa", "weight": 0.0, "id": 2778543611, "level": 2}
+{"count": 24963, "name": "Aquatic plant", "weight": 0.0, "id": 34771814, "level": 2}
+{"count": 31805, "name": "Plant breeding", "weight": 1.0, "id": 155015343, "level": 2}
+{"count": 25220, "name": "Cyanobacteria", "weight": 0.0, "id": 2779669040, "level": 2}
+{"count": 50009, "name": "Lignin", "weight": 1.0, "id": 2781052789, "level": 2}
+{"count": 46243, "name": "Hymenoptera", "weight": 1.0, "id": 2780653484, "level": 2}
+{"count": 68366, "name": "Fungicide", "weight": 2.0, "id": 74600772, "level": 2}
+{"count": 17686, "name": "Dry weight", "weight": 0.0, "id": 150668497, "level": 2}
+{"count": 67592, "name": "Dry matter", "weight": 2.0, "id": 2780138947, "level": 2}
+{"count": 37867, "name": "Candida albicans", "weight": 1.0, "id": 2780917455, "level": 2}
+{"count": 38490, "name": "Chloroplast", "weight": 1.0, "id": 69305403, "level": 2}
+{"count": 75326, "name": "Pollen", "weight": 2.0, "id": 2780618852, "level": 2}
+{"count": 31521, "name": "Ripening", "weight": 1.0, "id": 172353545, "level": 2}
+{"count": 28116, "name": "Herbivore", "weight": 1.0, "id": 46325548, "level": 2}
+{"count": 98267, "name": "Fauna", "weight": 3.0, "id": 125471540, "level": 2}
+{"count": 22143, "name": "Mycotoxin", "weight": 0.0, "id": 84699730, "level": 2}
+{"count": 19665, "name": "Folk medicine", "weight": 0.0, "id": 2781380062, "level": 2}
+{"count": 25152, "name": "Terpenoid", "weight": 0.0, "id": 206103511, "level": 2}
+{"count": 26479, "name": "Auxin", "weight": 0.0, "id": 207778908, "level": 2}
+{"count": 41082, "name": "Growing season", "weight": 1.0, "id": 137660486, "level": 2}
+{"count": 16187, "name": "Plant development", "weight": 0.0, "id": 2778239642, "level": 2}
+{"count": 71812, "name": "Forage", "weight": 2.0, "id": 2779370140, "level": 2}
+{"count": 23625, "name": "Plant physiology", "weight": 0.0, "id": 161221295, "level": 2}
+{"count": 49348, "name": "Glycoside", "weight": 1.0, "id": 194671627, "level": 2}
+{"count": 59557, "name": "Maple", "weight": 2.0, "id": 2780414537, "level": 2}
+{"count": 12325, "name": "Plant ecology", "weight": 0.0, "id": 141282968, "level": 2}
+{"count": 38552, "name": "Heritability", "weight": 1.0, "id": 161890455, "level": 2}
+{"count": 48803, "name": "Essential oil", "weight": 1.0, "id": 2777278459, "level": 2}
+{"count": 25720, "name": "Legume", "weight": 0.0, "id": 2776632002, "level": 2}
+{"count": 3977, "name": "Apicomplexa", "weight": 0.0, "id": 2781023229, "level": 2}
+{"count": 23797, "name": "Sex ratio", "weight": 0.0, "id": 57520943, "level": 2}
+{"count": 11634, "name": "Nicotiana tabacum", "weight": 0.0, "id": 2781205006, "level": 2}
+{"count": 25454, "name": "Bioremediation", "weight": 0.0, "id": 2124996, "level": 2}
+{"count": 22884, "name": "Terpene", "weight": 0.0, "id": 44937612, "level": 2}
+{"count": 8104, "name": "Rosaceae", "weight": 0.0, "id": 2777742739, "level": 2}
+{"count": 5403, "name": "Ecophysiology", "weight": 0.0, "id": 137265123, "level": 2}
+{"count": 41036, "name": "Ecological succession", "weight": 1.0, "id": 150117547, "level": 2}
+{"count": 19511, "name": "Salicylic acid", "weight": 0.0, "id": 2778221352, "level": 2}
+{"count": 30133, "name": "Rhizosphere", "weight": 1.0, "id": 86626682, "level": 2}
+{"count": 27276, "name": "Gene flow", "weight": 0.0, "id": 107023163, "level": 2}
+{"count": 30269, "name": "Interspecific competition", "weight": 1.0, "id": 63644423, "level": 2}
+{"count": 23258, "name": "Rainforest", "weight": 0.0, "id": 2619416, "level": 2}
+{"count": 1903, "name": "Phycomycetes", "weight": 0.0, "id": 2779310556, "level": 2}
+{"count": 24264, "name": "Acari", "weight": 0.0, "id": 2780755047, "level": 2}
+{"count": 15615, "name": "Phytotoxicity", "weight": 0.0, "id": 2780858201, "level": 2}
+{"count": 43196, "name": "Ploidy", "weight": 1.0, "id": 143191323, "level": 2}
+{"count": 14448, "name": "Osmotic pressure", "weight": 0.0, "id": 9603476, "level": 2}
+{"count": 19646, "name": "Abscisic acid", "weight": 0.0, "id": 2779591172, "level": 2}
+{"count": 4604, "name": "Natural population growth", "weight": 0.0, "id": 61249696, "level": 2}
+{"count": 27635, "name": "Cortex (botany)", "weight": 1.0, "id": 34107064, "level": 2}
+{"count": 17853, "name": "Amphotericin B", "weight": 0.0, "id": 2779629538, "level": 2}
+{"count": 10727, "name": "Mycorrhiza", "weight": 0.0, "id": 2778464884, "level": 2}
+{"count": 124411, "name": "Shoot", "weight": 4.0, "id": 21410773, "level": 2}
+{"count": 19293, "name": "Sex pheromone", "weight": 0.0, "id": 64778439, "level": 2}
+{"count": 36152, "name": "Sorghum", "weight": 1.0, "id": 2778157034, "level": 2}
+{"count": 53278, "name": "Hybrid", "weight": 1.0, "id": 48189365, "level": 2}
+{"count": 30026, "name": "Phenology", "weight": 1.0, "id": 51417038, "level": 2}
+{"count": 32145, "name": "Pollination", "weight": 1.0, "id": 168197293, "level": 2}
+{"count": 59651, "name": "Biological dispersal", "weight": 2.0, "id": 47559259, "level": 2}
+{"count": 28799, "name": "Fecundity", "weight": 1.0, "id": 67283656, "level": 2}
+{"count": 33641, "name": "Temperate climate", "weight": 1.0, "id": 81461190, "level": 2}
+{"count": 15812, "name": "photoperiodism", "weight": 0.0, "id": 55969652, "level": 2}
+{"count": 30412, "name": "Transpiration", "weight": 1.0, "id": 157517311, "level": 2}
+{"count": 17235, "name": "Leaf area index", "weight": 0.0, "id": 25989453, "level": 2}
+{"count": 13040, "name": "Entomology", "weight": 0.0, "id": 147135968, "level": 2}
+{"count": 12747, "name": "Fruit tree", "weight": 0.0, "id": 2779276392, "level": 2}
+{"count": 19644, "name": "Absorption of water", "weight": 0.0, "id": 168314062, "level": 2}
+{"count": 15725, "name": "Protoplast", "weight": 0.0, "id": 173749725, "level": 2}
+{"count": 9821, "name": "Sexual reproduction", "weight": 0.0, "id": 159575461, "level": 2}
+{"count": 44032, "name": "Weed", "weight": 1.0, "id": 2775891814, "level": 2}
+{"count": 27624, "name": "Systematics", "weight": 1.0, "id": 41806617, "level": 2}
+{"count": 2008, "name": "Chenopodiaceae", "weight": 0.0, "id": 2776362301, "level": 2}
+{"count": 38950, "name": "Ornamental plant", "weight": 1.0, "id": 74103781, "level": 2}
+{"count": 13659, "name": "Homoptera", "weight": 0.0, "id": 2776988988, "level": 2}
+{"count": 5391, "name": "Fagaceae", "weight": 0.0, "id": 2776935020, "level": 2}
+{"count": 4888, "name": "Rachis", "weight": 0.0, "id": 2780811821, "level": 2}
+{"count": 21323, "name": "Parasitism", "weight": 0.0, "id": 2778234367, "level": 2}
+{"count": 17911, "name": "Grafting", "weight": 0.0, "id": 2775937945, "level": 2}
+{"count": 18988, "name": "Bacillus thuringiensis", "weight": 0.0, "id": 2779035793, "level": 2}
+{"count": 17917, "name": "Inbred strain", "weight": 0.0, "id": 76725341, "level": 2}
+{"count": 2466, "name": "Chemotaxonomy", "weight": 0.0, "id": 53784102, "level": 2}
+{"count": 22559, "name": "Deciduous", "weight": 0.0, "id": 33283694, "level": 2}
+{"count": 21844, "name": "Aspergillus", "weight": 0.0, "id": 2779175654, "level": 2}
+{"count": 13305, "name": "Cuticle", "weight": 0.0, "id": 78826203, "level": 2}
+{"count": 10353, "name": "Stigma (botany)", "weight": 0.0, "id": 168285401, "level": 2}
+{"count": 115069, "name": "Traditional Chinese medicine", "weight": 4.0, "id": 188947578, "level": 2}
+{"count": 25420, "name": "Aphid", "weight": 0.0, "id": 2775976403, "level": 2}
+{"count": 18239, "name": "Vegetative reproduction", "weight": 0.0, "id": 25761633, "level": 2}
+{"count": 40393, "name": "Bark", "weight": 1.0, "id": 45292766, "level": 2}
+{"count": 17467, "name": "Drought tolerance", "weight": 0.0, "id": 189797535, "level": 2}
+{"count": 25136, "name": "Quercetin", "weight": 0.0, "id": 2781263971, "level": 2}
+{"count": 4305, "name": "Mycology", "weight": 0.0, "id": 126116589, "level": 2}
+{"count": 19481, "name": "Endemism", "weight": 0.0, "id": 137664086, "level": 2}
+{"count": 13006, "name": "Sesquiterpene", "weight": 0.0, "id": 2776211264, "level": 2}
+{"count": 13079, "name": "Sunflower", "weight": 0.0, "id": 2779197568, "level": 2}
+{"count": 12371, "name": "Plant morphology", "weight": 0.0, "id": 70839106, "level": 2}
+{"count": 21345, "name": "Aspergillus niger", "weight": 0.0, "id": 2775960407, "level": 2}
+{"count": 31881, "name": "Fodder", "weight": 1.0, "id": 513193947, "level": 2}
+{"count": 41655, "name": "Hay", "weight": 1.0, "id": 106191032, "level": 2}
+{"count": 15882, "name": "Rhizobium", "weight": 0.0, "id": 2780434414, "level": 2}
+{"count": 8500, "name": "Mating system", "weight": 0.0, "id": 116402615, "level": 2}
+{"count": 57658, "name": "Greenhouse", "weight": 2.0, "id": 32198211, "level": 2}
+{"count": 26256, "name": "Genetic structure", "weight": 0.0, "id": 46576788, "level": 2}
+{"count": 11105, "name": "Picea abies", "weight": 0.0, "id": 2777427081, "level": 2}
+{"count": 49879, "name": "Canopy", "weight": 1.0, "id": 101000010, "level": 2}
+{"count": 23806, "name": "Lichen", "weight": 0.0, "id": 120149898, "level": 2}
+{"count": 10103, "name": "Osmotic shock", "weight": 0.0, "id": 168529131, "level": 2}
+{"count": 2507, "name": "Salicaceae", "weight": 0.0, "id": 2777945561, "level": 2}
+{"count": 6350, "name": "Myrtaceae", "weight": 0.0, "id": 2777423695, "level": 2}
+{"count": 148519, "name": "Sowing", "weight": 5.0, "id": 168741863, "level": 2}
+{"count": 3551, "name": "Cucurbitaceae", "weight": 0.0, "id": 2775987957, "level": 2}
+{"count": 17939, "name": "Anthocyanin", "weight": 0.0, "id": 2778945092, "level": 2}
+{"count": 6968, "name": "Osmoregulation", "weight": 0.0, "id": 58415070, "level": 2}
+{"count": 4557, "name": "Phytotherapy", "weight": 0.0, "id": 2779969877, "level": 2}
+{"count": 23175, "name": "Pepper", "weight": 0.0, "id": 2776242653, "level": 2}
+{"count": 10584, "name": "Amplified fragment length polymorphism", "weight": 0.0, "id": 153523973, "level": 2}
+{"count": 39588, "name": "Germplasm", "weight": 1.0, "id": 2777461220, "level": 2}
+{"count": 6437, "name": "Nematology", "weight": 0.0, "id": 125333598, "level": 2}
+{"count": 4628, "name": "Malvaceae", "weight": 0.0, "id": 2780659118, "level": 2}
+{"count": 15027, "name": "Inbreeding", "weight": 0.0, "id": 2777782036, "level": 2}
+{"count": 3282, "name": "Liliaceae", "weight": 0.0, "id": 2777492721, "level": 2}
+{"count": 22311, "name": "Synonym", "weight": 0.0, "id": 8034284, "level": 2}
+{"count": 31672, "name": "Silage", "weight": 1.0, "id": 2776544680, "level": 2}
+{"count": 14619, "name": "Gibberellin", "weight": 0.0, "id": 83740816, "level": 2}
+{"count": 6257, "name": "Rutaceae", "weight": 0.0, "id": 2781353486, "level": 2}
+{"count": 8654, "name": "Organogenesis", "weight": 0.0, "id": 30503417, "level": 2}
+{"count": 11344, "name": "Abiotic stress", "weight": 0.0, "id": 89519541, "level": 2}
+{"count": 30673, "name": "Agar", "weight": 1.0, "id": 2778660310, "level": 2}
+{"count": 37191, "name": "Callus", "weight": 1.0, "id": 9549007, "level": 2}
+{"count": 361, "name": "Groenlandia", "weight": 0.0, "id": 2779298566, "level": 2}
+{"count": 14953, "name": "Pheromone", "weight": 0.0, "id": 2777328355, "level": 2}
+{"count": 29900, "name": "Parenchyma", "weight": 1.0, "id": 196822366, "level": 2}
+{"count": 23906, "name": "Fusarium", "weight": 0.0, "id": 2778867309, "level": 2}
+{"count": 17586, "name": "Meristem", "weight": 0.0, "id": 126021549, "level": 2}
+{"count": 6668, "name": "Euphorbiaceae", "weight": 0.0, "id": 2779047212, "level": 2}
+{"count": 6355, "name": "Phenolic acid", "weight": 0.0, "id": 2778778762, "level": 2}
+{"count": 5697, "name": "Plant defense against herbivory", "weight": 0.0, "id": 183570298, "level": 2}
+{"count": 20315, "name": "Acclimatization", "weight": 0.0, "id": 119406331, "level": 2}
+{"count": 15952, "name": "Sugar beet", "weight": 0.0, "id": 2776936025, "level": 2}
+{"count": 16064, "name": "Xylem", "weight": 0.0, "id": 49799701, "level": 2}
+{"count": 25530, "name": "RAPD", "weight": 0.0, "id": 84623179, "level": 2}
+{"count": 8330, "name": "Monoterpene", "weight": 0.0, "id": 2777671706, "level": 2}
+{"count": 4038, "name": "Secondary metabolism", "weight": 0.0, "id": 2777157883, "level": 2}
+{"count": 18771, "name": "Sterility", "weight": 0.0, "id": 2776687438, "level": 2}
+{"count": 34008, "name": "Infestation", "weight": 1.0, "id": 2776451879, "level": 2}
+{"count": 16099, "name": "Aedes aegypti", "weight": 0.0, "id": 2777775583, "level": 2}
+{"count": 20483, "name": "Eucalyptus", "weight": 0.0, "id": 2779752776, "level": 2}
+{"count": 17265, "name": "Parasitoid", "weight": 0.0, "id": 2778260489, "level": 2}
+{"count": 4079, "name": "Gametogenesis", "weight": 0.0, "id": 39297687, "level": 2}
+{"count": 13789, "name": "Gibberellic acid", "weight": 0.0, "id": 2777970491, "level": 2}
+{"count": 14461, "name": "Tannin", "weight": 0.0, "id": 2780309462, "level": 2}

@@ -1,0 +1,13 @@
+{"count": 2880, "name": "Splicing factor", "weight": 7.0, "id": 73758832, "level": 4}
+{"count": 3441, "name": "Exonic splicing enhancer", "weight": 8.0, "id": 42576000, "level": 4}
+{"count": 1501, "name": "SR protein", "weight": 3.0, "id": 10447831, "level": 4}
+{"count": 2210, "name": "Exon skipping", "weight": 5.0, "id": 2778776201, "level": 4}
+{"count": 4076, "name": "Splice site mutation", "weight": 10.0, "id": 62257209, "level": 4}
+{"count": 1977, "name": "Minigene", "weight": 4.0, "id": 166342232, "level": 4}
+{"count": 338, "name": "DSCAM", "weight": 0.0, "id": 2777094285, "level": 4}
+{"count": 1036, "name": "Primary transcript", "weight": 2.0, "id": 67585878, "level": 4}
+{"count": 1257, "name": "Exon trapping", "weight": 3.0, "id": 39917842, "level": 4}
+{"count": 697, "name": "Protein isoform", "weight": 1.0, "id": 135979968, "level": 4}
+{"count": 231, "name": "PTBP1", "weight": 0.0, "id": 2776414840, "level": 4}
+{"count": 144, "name": "RBFOX1", "weight": 0.0, "id": 2779759862, "level": 4}
+{"count": 16, "name": "ECgene", "weight": 0.0, "id": 2777881849, "level": 4}

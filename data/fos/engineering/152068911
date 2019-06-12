@@ -1,0 +1,15 @@
+{"count": 2020, "name": "Lost circulation", "weight": 9.0, "id": 2779439521, "level": 4}
+{"count": 1767, "name": "Underbalanced drilling", "weight": 8.0, "id": 141813653, "level": 4}
+{"count": 2135, "name": "Drill cuttings", "weight": 10.0, "id": 66097969, "level": 4}
+{"count": 1273, "name": "Mud logging", "weight": 5.0, "id": 69378780, "level": 4}
+{"count": 340, "name": "Oil-based mud", "weight": 1.0, "id": 2775892464, "level": 4}
+{"count": 315, "name": "Well engineering", "weight": 1.0, "id": 126002925, "level": 4}
+{"count": 169, "name": "Differential sticking", "weight": 0.0, "id": 2779809362, "level": 4}
+{"count": 501, "name": "Mud weight", "weight": 2.0, "id": 2778326990, "level": 4}
+{"count": 523, "name": "Pore pressure gradient", "weight": 2.0, "id": 12703456, "level": 4}
+{"count": 75, "name": "Drilling fluid invasion", "weight": 0.0, "id": 2780647180, "level": 4}
+{"count": 257, "name": "Mud systems", "weight": 1.0, "id": 199839135, "level": 4}
+{"count": 80, "name": "Shale shakers", "weight": 0.0, "id": 2780775929, "level": 4}
+{"count": 170, "name": "Mud tank", "weight": 0.0, "id": 2777330397, "level": 4}
+{"count": 9, "name": "Mud engineer", "weight": 0.0, "id": 2779034015, "level": 4}
+{"count": 22, "name": "Mud Gas Separator", "weight": 0.0, "id": 2780494494, "level": 4}

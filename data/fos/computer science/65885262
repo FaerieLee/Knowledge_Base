@@ -1,0 +1,4 @@
+{"count": 13403, "name": "Region growing", "weight": 6.0, "id": 206824153, "level": 4}
+{"count": 284, "name": "Mumford\u2013Shah functional", "weight": 0.0, "id": 2778312761, "level": 4}
+{"count": 1487, "name": "Otsu's method", "weight": 0.0, "id": 21729346, "level": 4}
+{"count": 21773, "name": "Segmentation-based object categorization", "weight": 10.0, "id": 25694479, "level": 4}

@@ -1,0 +1,59 @@
+{"count": 27313, "name": "Information privacy", "weight": 8.0, "id": 123201435, "level": 2}
+{"count": 15852, "name": "Anonymity", "weight": 5.0, "id": 178005623, "level": 2}
+{"count": 14505, "name": "Malware", "weight": 4.0, "id": 541664917, "level": 2}
+{"count": 31706, "name": "Password", "weight": 10.0, "id": 109297577, "level": 2}
+{"count": 4792, "name": "Digital forensics", "weight": 1.0, "id": 84418412, "level": 2}
+{"count": 3048, "name": "Trusted third party", "weight": 0.0, "id": 139089976, "level": 2}
+{"count": 13324, "name": "Hacker", "weight": 4.0, "id": 86844869, "level": 2}
+{"count": 21509, "name": "Personally identifiable information", "weight": 6.0, "id": 169093310, "level": 2}
+{"count": 4470, "name": "Digital rights management", "weight": 1.0, "id": 537843408, "level": 2}
+{"count": 3113, "name": "Identity theft", "weight": 0.0, "id": 522325796, "level": 2}
+{"count": 2809, "name": "Honeypot", "weight": 0.0, "id": 191267431, "level": 2}
+{"count": 27152, "name": "Honor", "weight": 8.0, "id": 2779438500, "level": 2}
+{"count": 1464, "name": "CAPTCHA", "weight": 0.0, "id": 163339463, "level": 2}
+{"count": 7479, "name": "Information sensitivity", "weight": 2.0, "id": 137822555, "level": 2}
+{"count": 3395, "name": "Fake news", "weight": 1.0, "id": 2779756789, "level": 2}
+{"count": 586, "name": "Cookie decorating", "weight": 0.0, "id": 2780360903, "level": 2}
+{"count": 1216, "name": "Digital identity", "weight": 0.0, "id": 2779813694, "level": 2}
+{"count": 496, "name": "Blacklisting", "weight": 0.0, "id": 2779797433, "level": 2}
+{"count": 1535, "name": "Email address", "weight": 0.0, "id": 2778972732, "level": 2}
+{"count": 1744, "name": "App store", "weight": 0.0, "id": 2779794324, "level": 2}
+{"count": 1397, "name": "Targeted advertising", "weight": 0.0, "id": 2777459780, "level": 2}
+{"count": 76, "name": "Extraction (military)", "weight": 0.0, "id": 175014982, "level": 2}
+{"count": 1147, "name": "Digital rights", "weight": 0.0, "id": 2776393157, "level": 2}
+{"count": 1292, "name": "Blacklist", "weight": 0.0, "id": 2781345505, "level": 2}
+{"count": 1006, "name": "Bookmarking", "weight": 0.0, "id": 176504155, "level": 2}
+{"count": 350, "name": "Mobile instant messaging", "weight": 0.0, "id": 2777389031, "level": 2}
+{"count": 446, "name": "Secure messaging", "weight": 0.0, "id": 2778614732, "level": 2}
+{"count": 156, "name": "XRDS", "weight": 0.0, "id": 2778862650, "level": 2}
+{"count": 85, "name": "Do Not Track", "weight": 0.0, "id": 2781434702, "level": 2}
+{"count": 200, "name": "Mobile news", "weight": 0.0, "id": 2777404366, "level": 2}
+{"count": 385, "name": "Data theft", "weight": 0.0, "id": 2781311898, "level": 2}
+{"count": 110, "name": "Trackback", "weight": 0.0, "id": 2776485071, "level": 2}
+{"count": 155, "name": "Heartbleed", "weight": 0.0, "id": 107224180, "level": 2}
+{"count": 183, "name": "Bookmarklet", "weight": 0.0, "id": 2776477972, "level": 2}
+{"count": 126, "name": "Email attachment", "weight": 0.0, "id": 2780414984, "level": 2}
+{"count": 94, "name": "Security question", "weight": 0.0, "id": 2779280868, "level": 2}
+{"count": 32, "name": "Video email", "weight": 0.0, "id": 2777373108, "level": 2}
+{"count": 91, "name": "Authorized domain", "weight": 0.0, "id": 2778786846, "level": 2}
+{"count": 28, "name": "hCard", "weight": 0.0, "id": 2780136984, "level": 2}
+{"count": 30, "name": "Digital inheritance", "weight": 0.0, "id": 2776732770, "level": 2}
+{"count": 24, "name": "Two-step verification", "weight": 0.0, "id": 57855836, "level": 2}
+{"count": 13, "name": "Website governance", "weight": 0.0, "id": 2780045208, "level": 2}
+{"count": 57, "name": "URL shortening", "weight": 0.0, "id": 2776188522, "level": 2}
+{"count": 27, "name": "Email archiving", "weight": 0.0, "id": 2781030029, "level": 2}
+{"count": 9, "name": "Disposable email address", "weight": 0.0, "id": 2776746202, "level": 2}
+{"count": 141, "name": "Ad serving", "weight": 0.0, "id": 2780330982, "level": 2}
+{"count": 9, "name": "Yadis", "weight": 0.0, "id": 2776501758, "level": 2}
+{"count": 8, "name": "HTTP referer", "weight": 0.0, "id": 2778354704, "level": 2}
+{"count": 38, "name": "Click-to-call", "weight": 0.0, "id": 2779753162, "level": 2}
+{"count": 227, "name": "MX record", "weight": 0.0, "id": 191853054, "level": 2}
+{"count": 7, "name": "Ten Commandments of Computer Ethics", "weight": 0.0, "id": 2776062300, "level": 2}
+{"count": 24, "name": "Blind carbon copy", "weight": 0.0, "id": 2781292249, "level": 2}
+{"count": 585, "name": "Lightning (connector)", "weight": 0.0, "id": 69398868, "level": 2}
+{"count": 13, "name": "Facepalm", "weight": 0.0, "id": 36327016, "level": 2}
+{"count": 10, "name": "Password fatigue", "weight": 0.0, "id": 2779805729, "level": 2}
+{"count": 6, "name": "Website spoofing", "weight": 0.0, "id": 2780322815, "level": 2}
+{"count": 23, "name": "Life hack", "weight": 0.0, "id": 2776721535, "level": 2}
+{"count": 12, "name": "Flame", "weight": 0.0, "id": 108188834, "level": 2}
+{"count": 112, "name": "Webmention", "weight": 0.0, "id": 2780492874, "level": 2}

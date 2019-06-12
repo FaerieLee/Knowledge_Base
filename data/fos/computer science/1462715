@@ -1,0 +1,4 @@
+{"count": 519, "name": "scanf format string", "weight": 8.0, "id": 191564119, "level": 3}
+{"count": 595, "name": "Connection string", "weight": 10.0, "id": 179529582, "level": 3}
+{"count": 244, "name": "Null character", "weight": 4.0, "id": 172150477, "level": 3}
+{"count": 274, "name": "Character large object", "weight": 4.0, "id": 173676486, "level": 3}

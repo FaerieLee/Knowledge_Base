@@ -1,0 +1,13 @@
+.abstract{
+    text-overflow:ellipsis;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:3;
+    overflow:hidden;
+}
+
+.title{
+   overflow:hidden;//超出部分隐藏
+   text-overflow:ellipsis;//超出部分显示省略号
+   white-space:nowarp;//不允许折行
+}

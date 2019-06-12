@@ -1,0 +1,21 @@
+{"count": 2034, "name": "Memory-mapped file", "weight": 5.0, "id": 123084682, "level": 5}
+{"count": 107, "name": "Andrew File System", "weight": 0.0, "id": 13194111, "level": 5}
+{"count": 149, "name": "File deletion", "weight": 0.0, "id": 2780488782, "level": 5}
+{"count": 91, "name": "File locking", "weight": 0.0, "id": 2776033464, "level": 5}
+{"count": 2787, "name": "Fork (file system)", "weight": 7.0, "id": 165121294, "level": 5}
+{"count": 123, "name": "Installable File System", "weight": 0.0, "id": 48132188, "level": 5}
+{"count": 3726, "name": "Torrent file", "weight": 10.0, "id": 40350719, "level": 5}
+{"count": 1751, "name": "Class implementation file", "weight": 4.0, "id": 166690567, "level": 5}
+{"count": 863, "name": "fstab", "weight": 2.0, "id": 92292633, "level": 5}
+{"count": 522, "name": "Everything is a file", "weight": 1.0, "id": 77487227, "level": 5}
+{"count": 26, "name": "Orlov block allocator", "weight": 0.0, "id": 174405920, "level": 5}
+{"count": 1950, "name": "ZAP File", "weight": 5.0, "id": 37025074, "level": 5}
+{"count": 2798, "name": "Design rule for Camera File system", "weight": 7.0, "id": 81961946, "level": 5}
+{"count": 81, "name": "Transactional NTFS", "weight": 0.0, "id": 39401711, "level": 5}
+{"count": 31, "name": "Sparse file", "weight": 0.0, "id": 2778143869, "level": 5}
+{"count": 3551, "name": "File area network", "weight": 9.0, "id": 129187258, "level": 5}
+{"count": 20, "name": "Virtual file server", "weight": 0.0, "id": 2778085896, "level": 5}
+{"count": 965, "name": "resolv.conf", "weight": 2.0, "id": 205757877, "level": 5}
+{"count": 174, "name": "inode pointer structure", "weight": 0.0, "id": 198511032, "level": 5}
+{"count": 24, "name": "Resource fork", "weight": 0.0, "id": 204145039, "level": 5}
+{"count": 310, "name": "Archive bit", "weight": 0.0, "id": 125158212, "level": 5}

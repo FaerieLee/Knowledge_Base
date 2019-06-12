@@ -1,0 +1,28 @@
+{"count": 13459, "name": "CpG site", "weight": 10.0, "id": 140173407, "level": 4}
+{"count": 7462, "name": "Genomic imprinting", "weight": 5.0, "id": 201492766, "level": 4}
+{"count": 5200, "name": "DNA methyltransferase", "weight": 3.0, "id": 2779979206, "level": 4}
+{"count": 7821, "name": "Histone methylation", "weight": 5.0, "id": 22709980, "level": 4}
+{"count": 1021, "name": "5-Methylcytosine", "weight": 0.0, "id": 2775926025, "level": 4}
+{"count": 10345, "name": "Epigenomics", "weight": 7.0, "id": 121912465, "level": 4}
+{"count": 4855, "name": "Bisulfite sequencing", "weight": 3.0, "id": 189235521, "level": 4}
+{"count": 4406, "name": "Epigenome", "weight": 3.0, "id": 117717151, "level": 4}
+{"count": 610, "name": "5-Hydroxymethylcytosine", "weight": 0.0, "id": 2778901553, "level": 4}
+{"count": 1722, "name": "DNA demethylation", "weight": 1.0, "id": 16824249, "level": 4}
+{"count": 767, "name": "Epigenetic therapy", "weight": 0.0, "id": 2780737395, "level": 4}
+{"count": 286, "name": "Paramutation", "weight": 0.0, "id": 50527525, "level": 4}
+{"count": 224, "name": "Zebularine", "weight": 0.0, "id": 2780898095, "level": 4}
+{"count": 312, "name": "CHFR", "weight": 0.0, "id": 2779523296, "level": 4}
+{"count": 157, "name": "Behavioral epigenetics", "weight": 0.0, "id": 81211395, "level": 4}
+{"count": 348, "name": "WIF1", "weight": 0.0, "id": 2779119536, "level": 4}
+{"count": 174, "name": "HLTF", "weight": 0.0, "id": 2778403750, "level": 4}
+{"count": 936, "name": "Demethylating agent", "weight": 0.0, "id": 2779277951, "level": 4}
+{"count": 1193, "name": "HpaII", "weight": 0.0, "id": 2777162945, "level": 4}
+{"count": 243, "name": "dNaM", "weight": 0.0, "id": 2775921022, "level": 4}
+{"count": 71, "name": "TIG1", "weight": 0.0, "id": 2778073298, "level": 4}
+{"count": 107, "name": "Reprimo", "weight": 0.0, "id": 2779188497, "level": 4}
+{"count": 60, "name": "NEFM", "weight": 0.0, "id": 2778509491, "level": 4}
+{"count": 74, "name": "HIF3A", "weight": 0.0, "id": 2779639330, "level": 4}
+{"count": 43, "name": "PTPRN2", "weight": 0.0, "id": 2776738929, "level": 4}
+{"count": 28, "name": "PRIMA1", "weight": 0.0, "id": 2776607743, "level": 4}
+{"count": 10, "name": "MethDB", "weight": 0.0, "id": 2779623931, "level": 4}
+{"count": 416, "name": "Epigenetics of schizophrenia", "weight": 0.0, "id": 138668567, "level": 4}

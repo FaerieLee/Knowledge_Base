@@ -1,0 +1,10 @@
+{"count": 10364, "name": "Demand response", "weight": 10.0, "id": 2779438525, "level": 3}
+{"count": 3245, "name": "Smart meter", "weight": 3.0, "id": 2779510800, "level": 3}
+{"count": 961, "name": "Virtual power plant", "weight": 0.0, "id": 2776033628, "level": 3}
+{"count": 4298, "name": "Load balancing (electrical power)", "weight": 4.0, "id": 138959212, "level": 3}
+{"count": 271, "name": "Electricity delivery", "weight": 0.0, "id": 2778115826, "level": 3}
+{"count": 119, "name": "IEC 61968", "weight": 0.0, "id": 2780084296, "level": 3}
+{"count": 94, "name": "Advanced Distribution Automation", "weight": 0.0, "id": 2780940338, "level": 3}
+{"count": 104, "name": "Grid friendly", "weight": 0.0, "id": 2779243919, "level": 3}
+{"count": 10, "name": "Unified Smart Grid", "weight": 0.0, "id": 2777304449, "level": 3}
+{"count": 286, "name": "SDS Protocol", "weight": 0.0, "id": 25535669, "level": 3}

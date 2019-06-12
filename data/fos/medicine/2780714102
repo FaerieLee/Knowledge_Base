@@ -1,0 +1,13 @@
+{"count": 7058, "name": "Aortic valve stenosis", "weight": 10.0, "id": 2781414266, "level": 3}
+{"count": 4226, "name": "Bicuspid aortic valve", "weight": 5.0, "id": 2781355080, "level": 3}
+{"count": 2824, "name": "EuroSCORE", "weight": 4.0, "id": 2779040412, "level": 3}
+{"count": 865, "name": "Papillary fibroelastoma", "weight": 1.0, "id": 2777671420, "level": 3}
+{"count": 754, "name": "Aortic valve repair", "weight": 1.0, "id": 2779011268, "level": 3}
+{"count": 439, "name": "Quadricuspid aortic valve", "weight": 0.0, "id": 2777562306, "level": 3}
+{"count": 891, "name": "Aortic valve regurgitation", "weight": 1.0, "id": 2779745306, "level": 3}
+{"count": 185, "name": "Valve-sparing aortic root replacement", "weight": 0.0, "id": 2778364511, "level": 3}
+{"count": 57, "name": "Austrian syndrome", "weight": 0.0, "id": 2777766557, "level": 3}
+{"count": 228, "name": "Unicuspid", "weight": 0.0, "id": 2778979075, "level": 3}
+{"count": 213, "name": "Aortic orifice", "weight": 0.0, "id": 2778685846, "level": 3}
+{"count": 26, "name": "Diastolic heart murmur", "weight": 0.0, "id": 2776938450, "level": 3}
+{"count": 12, "name": "Aortic valve area calculation", "weight": 0.0, "id": 2779200113, "level": 3}

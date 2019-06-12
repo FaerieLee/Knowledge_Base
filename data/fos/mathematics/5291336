@@ -1,0 +1,5 @@
+{"count": 6343, "name": "Frequency drift", "weight": 6.0, "id": 122348159, "level": 3}
+{"count": 9267, "name": "dBc", "weight": 10.0, "id": 193523891, "level": 3}
+{"count": 457, "name": "Frequency-locked loop", "weight": 0.0, "id": 2779426729, "level": 3}
+{"count": 2597, "name": "PLL multibit", "weight": 2.0, "id": 77881186, "level": 3}
+{"count": 8058, "name": "Vack\u00e1\u0159 oscillator", "weight": 8.0, "id": 111657199, "level": 3}

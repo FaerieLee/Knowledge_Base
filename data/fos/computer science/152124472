@@ -1,0 +1,7 @@
+{"count": 1930, "name": "Triple modular redundancy", "weight": 7.0, "id": 196371267, "level": 3}
+{"count": 2667, "name": "Data redundancy", "weight": 10.0, "id": 7545210, "level": 3}
+{"count": 68, "name": "Reliable Server Pooling", "weight": 0.0, "id": 2780722625, "level": 3}
+{"count": 399, "name": "Active redundancy", "weight": 1.0, "id": 55757217, "level": 3}
+{"count": 77, "name": "Parallel Redundancy Protocol", "weight": 0.0, "id": 2776440382, "level": 3}
+{"count": 39, "name": "N+1 redundancy", "weight": 0.0, "id": 197233529, "level": 3}
+{"count": 23, "name": "1T-SRAM", "weight": 0.0, "id": 2778655182, "level": 3}

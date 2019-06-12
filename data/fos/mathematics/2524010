@@ -1,0 +1,200 @@
+{"count": 102295, "name": "Correlation", "weight": 2.0, "id": 117220453, "level": 2}
+{"count": 11246, "name": "Growth rate", "weight": 0.0, "id": 2778312390, "level": 2}
+{"count": 36564, "name": "Parametrization", "weight": 0.0, "id": 106199856, "level": 2}
+{"count": 37304, "name": "First principle", "weight": 0.0, "id": 119249546, "level": 2}
+{"count": 44078, "name": "Coordinate system", "weight": 0.0, "id": 80551277, "level": 2}
+{"count": 23326, "name": "Parameter space", "weight": 0.0, "id": 73586568, "level": 2}
+{"count": 19477, "name": "Solid modeling", "weight": 0.0, "id": 108882727, "level": 2}
+{"count": 19343, "name": "Differential geometry", "weight": 0.0, "id": 192939610, "level": 2}
+{"count": 131726, "name": "Scaling", "weight": 2.0, "id": 99844830, "level": 2}
+{"count": 113541, "name": "Curvature", "weight": 2.0, "id": 195065555, "level": 2}
+{"count": 41283, "name": "Singularity", "weight": 0.0, "id": 16171025, "level": 2}
+{"count": 65582, "name": "Tensor", "weight": 1.0, "id": 107180903, "level": 2}
+{"count": 12071, "name": "Geometric modeling", "weight": 0.0, "id": 104065381, "level": 2}
+{"count": 83884, "name": "Manifold", "weight": 1.0, "id": 178207025, "level": 2}
+{"count": 4848, "name": "Cross section (geometry)", "weight": 0.0, "id": 167429731, "level": 2}
+{"count": 18432, "name": "Euclidean distance", "weight": 0.0, "id": 120174047, "level": 2}
+{"count": 14121, "name": "Euclidean space", "weight": 0.0, "id": 186450821, "level": 2}
+{"count": 6650, "name": "Geometric mean", "weight": 0.0, "id": 40222840, "level": 2}
+{"count": 52308, "name": "Parabola", "weight": 1.0, "id": 205890394, "level": 2}
+{"count": 11845, "name": "Voronoi diagram", "weight": 0.0, "id": 24881265, "level": 2}
+{"count": 24300, "name": "Divergence", "weight": 0.0, "id": 164098820, "level": 2}
+{"count": 10940, "name": "Moduli space", "weight": 0.0, "id": 73373263, "level": 2}
+{"count": 26946, "name": "Conformal map", "weight": 0.0, "id": 98214594, "level": 2}
+{"count": 220726, "name": "Grid", "weight": 4.0, "id": 187691185, "level": 2}
+{"count": 8581, "name": "Riemann surface", "weight": 0.0, "id": 18556879, "level": 2}
+{"count": 42976, "name": "Azimuth", "weight": 0.0, "id": 159737794, "level": 2}
+{"count": 240599, "name": "Pi", "weight": 5.0, "id": 53009064, "level": 2}
+{"count": 69615, "name": "Magnitude (mathematics)", "weight": 1.0, "id": 61586570, "level": 2}
+{"count": 11761, "name": "Finite group", "weight": 0.0, "id": 2777404646, "level": 2}
+{"count": 16007, "name": "Camera resectioning", "weight": 0.0, "id": 110898773, "level": 2}
+{"count": 3683, "name": "Three-dimensional space", "weight": 0.0, "id": 157498722, "level": 2}
+{"count": 4350, "name": "Differential form", "weight": 0.0, "id": 115071613, "level": 2}
+{"count": 6195, "name": "One-dimensional space", "weight": 0.0, "id": 175205982, "level": 2}
+{"count": 7366, "name": "Vector bundle", "weight": 0.0, "id": 95857938, "level": 2}
+{"count": 9699, "name": "Helianthus annuus", "weight": 0.0, "id": 2778181364, "level": 2}
+{"count": 6931, "name": "Facility location problem", "weight": 0.0, "id": 108005400, "level": 2}
+{"count": 474766, "name": "Cylinder", "weight": 10.0, "id": 203311528, "level": 2}
+{"count": 11271, "name": "Hexagonal lattice", "weight": 0.0, "id": 90626534, "level": 2}
+{"count": 20428, "name": "Geodesic", "weight": 0.0, "id": 165818556, "level": 2}
+{"count": 9694, "name": "Quasicrystal", "weight": 0.0, "id": 203101518, "level": 2}
+{"count": 2411, "name": "Close-packing of equal spheres", "weight": 0.0, "id": 177825532, "level": 2}
+{"count": 7342, "name": "Polar coordinate system", "weight": 0.0, "id": 40069579, "level": 2}
+{"count": 22139, "name": "Torus", "weight": 0.0, "id": 9767117, "level": 2}
+{"count": 11485, "name": "Scale factor", "weight": 0.0, "id": 141450046, "level": 2}
+{"count": 1585, "name": "Reflection (mathematics)", "weight": 0.0, "id": 55260650, "level": 2}
+{"count": 1472, "name": "Exportation", "weight": 0.0, "id": 42012324, "level": 2}
+{"count": 16656, "name": "Symplectic geometry", "weight": 0.0, "id": 168619227, "level": 2}
+{"count": 4467, "name": "Minimal surface", "weight": 0.0, "id": 30707913, "level": 2}
+{"count": 22734, "name": "Cartesian coordinate system", "weight": 0.0, "id": 16038011, "level": 2}
+{"count": 14068, "name": "Polyhedron", "weight": 0.0, "id": 54829058, "level": 2}
+{"count": 9187, "name": "Location", "weight": 0.0, "id": 61980418, "level": 2}
+{"count": 3893, "name": "Symmetric space", "weight": 0.0, "id": 139941754, "level": 2}
+{"count": 40928, "name": "Polygon", "weight": 0.0, "id": 198513863, "level": 2}
+{"count": 8569, "name": "Orthographic projection", "weight": 0.0, "id": 175694140, "level": 2}
+{"count": 3450, "name": "Projective geometry", "weight": 0.0, "id": 185362025, "level": 2}
+{"count": 37352, "name": "Horizon", "weight": 0.0, "id": 159176650, "level": 2}
+{"count": 9942, "name": "Linear function", "weight": 0.0, "id": 63251961, "level": 2}
+{"count": 1236, "name": "Two-dimensional space", "weight": 0.0, "id": 87195055, "level": 2}
+{"count": 3195, "name": "Self-similarity", "weight": 0.0, "id": 119453123, "level": 2}
+{"count": 4613, "name": "Nomogram", "weight": 0.0, "id": 34626388, "level": 2}
+{"count": 8808, "name": "Projective space", "weight": 0.0, "id": 75280867, "level": 2}
+{"count": 2577, "name": "Mirror symmetry", "weight": 0.0, "id": 188374626, "level": 2}
+{"count": 16111, "name": "Euclidean geometry", "weight": 0.0, "id": 129782007, "level": 2}
+{"count": 3572, "name": "Sphere packing", "weight": 0.0, "id": 183893376, "level": 2}
+{"count": 2029, "name": "Perspective (graphical)", "weight": 0.0, "id": 12713177, "level": 2}
+{"count": 7662, "name": "Geometric design", "weight": 0.0, "id": 40319758, "level": 2}
+{"count": 3828, "name": "Line bundle", "weight": 0.0, "id": 137134375, "level": 2}
+{"count": 64491, "name": "Spiral", "weight": 1.0, "id": 39178231, "level": 2}
+{"count": 2132, "name": "Point location", "weight": 0.0, "id": 186750021, "level": 2}
+{"count": 2537, "name": "Spherical geometry", "weight": 0.0, "id": 77730005, "level": 2}
+{"count": 102143, "name": "Rotation", "weight": 2.0, "id": 80192629, "level": 2}
+{"count": 125849, "name": "Arc (geometry)", "weight": 2.0, "id": 83415579, "level": 2}
+{"count": 2829, "name": "Morse theory", "weight": 0.0, "id": 156730297, "level": 2}
+{"count": 8350, "name": "Unit sphere", "weight": 0.0, "id": 191948623, "level": 2}
+{"count": 8529, "name": "Fibonacci number", "weight": 0.0, "id": 173734053, "level": 2}
+{"count": 2674, "name": "Euler characteristic", "weight": 0.0, "id": 196433757, "level": 2}
+{"count": 2496, "name": "Galois theory", "weight": 0.0, "id": 94398972, "level": 2}
+{"count": 4502, "name": "Epipolar geometry", "weight": 0.0, "id": 23379248, "level": 2}
+{"count": 2382, "name": "Elliptic integral", "weight": 0.0, "id": 52704855, "level": 2}
+{"count": 4422, "name": "Projective plane", "weight": 0.0, "id": 39290043, "level": 2}
+{"count": 21882, "name": "Apex (geometry)", "weight": 0.0, "id": 67139541, "level": 2}
+{"count": 4451, "name": "Plane curve", "weight": 0.0, "id": 43809302, "level": 2}
+{"count": 1321, "name": "Parametric surface", "weight": 0.0, "id": 2187777, "level": 2}
+{"count": 6537, "name": "Isometry", "weight": 0.0, "id": 154384420, "level": 2}
+{"count": 4121, "name": "Geometry and topology", "weight": 0.0, "id": 156135169, "level": 2}
+{"count": 3543, "name": "Circular symmetry", "weight": 0.0, "id": 20892832, "level": 2}
+{"count": 2642, "name": "Information geometry", "weight": 0.0, "id": 109546454, "level": 2}
+{"count": 25966, "name": "Axiom", "weight": 0.0, "id": 167729594, "level": 2}
+{"count": 4903, "name": "Control point", "weight": 0.0, "id": 2777774050, "level": 2}
+{"count": 38630, "name": "Inverse", "weight": 0.0, "id": 207467116, "level": 2}
+{"count": 5314, "name": "B\u00e9zier curve", "weight": 0.0, "id": 206423108, "level": 2}
+{"count": 19807, "name": "Radius", "weight": 0.0, "id": 83053163, "level": 2}
+{"count": 15431, "name": "Facet (geometry)", "weight": 0.0, "id": 2779724837, "level": 2}
+{"count": 23614, "name": "Modulo", "weight": 0.0, "id": 54732982, "level": 2}
+{"count": 1930, "name": "Medial axis", "weight": 0.0, "id": 185877587, "level": 2}
+{"count": 38221, "name": "Formalism (philosophy)", "weight": 0.0, "id": 38706069, "level": 2}
+{"count": 1009, "name": "Faceting", "weight": 0.0, "id": 113231013, "level": 2}
+{"count": 2950, "name": "Chern class", "weight": 0.0, "id": 151527765, "level": 2}
+{"count": 8139, "name": "Hypersurface", "weight": 0.0, "id": 114410712, "level": 2}
+{"count": 16569, "name": "Ellipse", "weight": 0.0, "id": 74261601, "level": 2}
+{"count": 19439, "name": "Cube", "weight": 0.0, "id": 143542225, "level": 2}
+{"count": 2103, "name": "Hyperbolic geometry", "weight": 0.0, "id": 206352148, "level": 2}
+{"count": 1787, "name": "Harmonic mean", "weight": 0.0, "id": 203858083, "level": 2}
+{"count": 9955, "name": "Line segment", "weight": 0.0, "id": 182124507, "level": 2}
+{"count": 23615, "name": "Twist", "weight": 0.0, "id": 2776196297, "level": 2}
+{"count": 3374, "name": "Hyperbolic space", "weight": 0.0, "id": 83677898, "level": 2}
+{"count": 1560, "name": "Solid geometry", "weight": 0.0, "id": 25653684, "level": 2}
+{"count": 3497, "name": "Grassmannian", "weight": 0.0, "id": 162929932, "level": 2}
+{"count": 4870, "name": "Parametric equation", "weight": 0.0, "id": 99636146, "level": 2}
+{"count": 17800, "name": "Proportionality (mathematics)", "weight": 0.0, "id": 205942526, "level": 2}
+{"count": 22000, "name": "Confocal", "weight": 0.0, "id": 136009344, "level": 2}
+{"count": 8338, "name": "Simplex", "weight": 0.0, "id": 62438384, "level": 2}
+{"count": 2754, "name": "Vertical orientation", "weight": 0.0, "id": 2777234117, "level": 2}
+{"count": 2423, "name": "Stereographic projection", "weight": 0.0, "id": 119001982, "level": 2}
+{"count": 7822, "name": "Square lattice", "weight": 0.0, "id": 2777620828, "level": 2}
+{"count": 2557, "name": "Vanishing point", "weight": 0.0, "id": 99404194, "level": 2}
+{"count": 11922, "name": "Trigonometric functions", "weight": 0.0, "id": 178009071, "level": 2}
+{"count": 1113, "name": "Contact geometry", "weight": 0.0, "id": 74544821, "level": 2}
+{"count": 79744, "name": "Grating", "weight": 1.0, "id": 2777813233, "level": 2}
+{"count": 6754, "name": "Spherical shell", "weight": 0.0, "id": 108280814, "level": 2}
+{"count": 1507, "name": "Rotation number", "weight": 0.0, "id": 135007989, "level": 2}
+{"count": 21448, "name": "Honeycomb", "weight": 0.0, "id": 145665481, "level": 2}
+{"count": 1156, "name": "Rationalisation", "weight": 0.0, "id": 37968372, "level": 2}
+{"count": 1114, "name": "Integral geometry", "weight": 0.0, "id": 157252659, "level": 2}
+{"count": 950, "name": "Developable surface", "weight": 0.0, "id": 181773393, "level": 2}
+{"count": 4049, "name": "Spherical coordinate system", "weight": 0.0, "id": 126990412, "level": 2}
+{"count": 5320, "name": "Kappa", "weight": 0.0, "id": 2778724333, "level": 2}
+{"count": 811, "name": "Rational surface", "weight": 0.0, "id": 2777979628, "level": 2}
+{"count": 1595, "name": "Continued fraction", "weight": 0.0, "id": 20080352, "level": 2}
+{"count": 16272, "name": "Centroid", "weight": 0.0, "id": 146599234, "level": 2}
+{"count": 8162, "name": "Square root", "weight": 0.0, "id": 11577676, "level": 2}
+{"count": 20678, "name": "Rotational symmetry", "weight": 0.0, "id": 33026886, "level": 2}
+{"count": 2746, "name": "Hyperbola", "weight": 0.0, "id": 145050668, "level": 2}
+{"count": 19651, "name": "Tangent", "weight": 0.0, "id": 138187205, "level": 2}
+{"count": 6128, "name": "Poincar\u00e9 conjecture", "weight": 0.0, "id": 88221313, "level": 2}
+{"count": 6258, "name": "Roundness (object)", "weight": 0.0, "id": 14190554, "level": 2}
+{"count": 1988, "name": "Geometric transformation", "weight": 0.0, "id": 56435381, "level": 2}
+{"count": 22434, "name": "Angular displacement", "weight": 0.0, "id": 108439606, "level": 2}
+{"count": 129218, "name": "Periodic graph (geometry)", "weight": 2.0, "id": 184008170, "level": 2}
+{"count": 1168, "name": "Combinatorial design", "weight": 0.0, "id": 122451846, "level": 2}
+{"count": 24976, "name": "Perimeter", "weight": 0.0, "id": 98503990, "level": 2}
+{"count": 27897, "name": "Polygon mesh", "weight": 0.0, "id": 31487907, "level": 2}
+{"count": 8305, "name": "Trigonometry", "weight": 0.0, "id": 29001434, "level": 2}
+{"count": 4864, "name": "Sphericity", "weight": 0.0, "id": 173913448, "level": 2}
+{"count": 19608, "name": "Certainty", "weight": 0.0, "id": 7493553, "level": 2}
+{"count": 2543, "name": "Exponential map (Riemannian geometry)", "weight": 0.0, "id": 102224218, "level": 2}
+{"count": 3098, "name": "Alternating group", "weight": 0.0, "id": 38847919, "level": 2}
+{"count": 3176, "name": "Loft", "weight": 0.0, "id": 2777247095, "level": 2}
+{"count": 5756, "name": "Unit circle", "weight": 0.0, "id": 126875415, "level": 2}
+{"count": 4342, "name": "Euler angles", "weight": 0.0, "id": 146160929, "level": 2}
+{"count": 12135, "name": "Sine", "weight": 0.0, "id": 186661526, "level": 2}
+{"count": 2672, "name": "Advanced Placement", "weight": 0.0, "id": 54933915, "level": 2}
+{"count": 2151, "name": "Surface of revolution", "weight": 0.0, "id": 18157462, "level": 2}
+{"count": 4910, "name": "Normal subgroup", "weight": 0.0, "id": 105515060, "level": 2}
+{"count": 1190, "name": "Linear complex structure", "weight": 0.0, "id": 120955133, "level": 2}
+{"count": 61760, "name": "Dilemma", "weight": 1.0, "id": 2778496695, "level": 2}
+{"count": 706, "name": "Non-uniform rational B-spline", "weight": 0.0, "id": 111258989, "level": 2}
+{"count": 1371, "name": "Space partitioning", "weight": 0.0, "id": 13670688, "level": 2}
+{"count": 590, "name": "Elliptic surface", "weight": 0.0, "id": 2780044486, "level": 2}
+{"count": 4956, "name": "Second moment of area", "weight": 0.0, "id": 61062188, "level": 2}
+{"count": 5095, "name": "Cylindrical coordinate system", "weight": 0.0, "id": 201076478, "level": 2}
+{"count": 787, "name": "Kleinian group", "weight": 0.0, "id": 49527426, "level": 2}
+{"count": 3422, "name": "Mathematical sciences", "weight": 0.0, "id": 2777451057, "level": 2}
+{"count": 2092, "name": "Collinearity", "weight": 0.0, "id": 106192678, "level": 2}
+{"count": 1945, "name": "Spatial network", "weight": 0.0, "id": 53471067, "level": 2}
+{"count": 9190, "name": "Conic section", "weight": 0.0, "id": 108598597, "level": 2}
+{"count": 5988, "name": "Shape factor", "weight": 0.0, "id": 77993745, "level": 2}
+{"count": 2422, "name": "Plane (geometry)", "weight": 0.0, "id": 17825722, "level": 2}
+{"count": 1937, "name": "Convex geometry", "weight": 0.0, "id": 110202963, "level": 2}
+{"count": 2203, "name": "Point group", "weight": 0.0, "id": 57796230, "level": 2}
+{"count": 1332, "name": "Ruled surface", "weight": 0.0, "id": 123635137, "level": 2}
+{"count": 1616, "name": "Transformation (function)", "weight": 0.0, "id": 113976600, "level": 2}
+{"count": 13457, "name": "Curvilinear coordinates", "weight": 0.0, "id": 98343798, "level": 2}
+{"count": 1974, "name": "Golden ratio", "weight": 0.0, "id": 18802822, "level": 2}
+{"count": 3334, "name": "Analytic geometry", "weight": 0.0, "id": 46175816, "level": 2}
+{"count": 930, "name": "Median", "weight": 0.0, "id": 156460124, "level": 2}
+{"count": 2152, "name": "Transformation geometry", "weight": 0.0, "id": 32990609, "level": 2}
+{"count": 2338, "name": "Annual growth rate", "weight": 0.0, "id": 2780618658, "level": 2}
+{"count": 38021, "name": "Mathematical proof", "weight": 0.0, "id": 108710211, "level": 2}
+{"count": 6606, "name": "Inflection point", "weight": 0.0, "id": 74545648, "level": 2}
+{"count": 25511, "name": "Line (geometry)", "weight": 0.0, "id": 198352243, "level": 2}
+{"count": 3318, "name": "Tessellation", "weight": 0.0, "id": 97002563, "level": 2}
+{"count": 12723, "name": "Flip", "weight": 0.0, "id": 2776591724, "level": 2}
+{"count": 1915, "name": "Knot invariant", "weight": 0.0, "id": 36794415, "level": 2}
+{"count": 72003, "name": "Scalar (physics)", "weight": 1.0, "id": 44663343, "level": 2}
+{"count": 4093, "name": "Jacobi elliptic functions", "weight": 0.0, "id": 73749972, "level": 2}
+{"count": 1666, "name": "Tensegrity", "weight": 0.0, "id": 182950735, "level": 2}
+{"count": 11104, "name": "Square (algebra)", "weight": 0.0, "id": 135692309, "level": 2}
+{"count": 1002, "name": "Argument (complex analysis)", "weight": 0.0, "id": 98184364, "level": 2}
+{"count": 2574, "name": "Ptolemy's table of chords", "weight": 0.0, "id": 46984397, "level": 2}
+{"count": 1113, "name": "Gauss map", "weight": 0.0, "id": 2776441312, "level": 2}
+{"count": 1945, "name": "Bisection", "weight": 0.0, "id": 31599958, "level": 2}
+{"count": 7827, "name": "Mathematical problem", "weight": 0.0, "id": 66783780, "level": 2}
+{"count": 590, "name": "Geometric flow", "weight": 0.0, "id": 32209215, "level": 2}
+{"count": 3266, "name": "Asymptote", "weight": 0.0, "id": 58315980, "level": 2}
+{"count": 287, "name": "Dyadics", "weight": 0.0, "id": 2780026776, "level": 2}
+{"count": 4990, "name": "Quadric", "weight": 0.0, "id": 126764288, "level": 2}
+{"count": 679, "name": "Schwarzian derivative", "weight": 0.0, "id": 39292890, "level": 2}
+{"count": 26953, "name": "Cord", "weight": 0.0, "id": 2779632786, "level": 2}
+{"count": 756, "name": "Eucalyptus nitens", "weight": 0.0, "id": 2777629817, "level": 2}

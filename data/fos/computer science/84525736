@@ -1,0 +1,7 @@
+{"count": 9342, "name": "Decision tree learning", "weight": 10.0, "id": 5481197, "level": 3}
+{"count": 5229, "name": "Influence diagram", "weight": 5.0, "id": 20837028, "level": 3}
+{"count": 511, "name": "ID3", "weight": 0.0, "id": 174599459, "level": 3}
+{"count": 3879, "name": "Decision tree model", "weight": 4.0, "id": 56289965, "level": 3}
+{"count": 1126, "name": "CHAID", "weight": 1.0, "id": 16023879, "level": 3}
+{"count": 545, "name": "Pruning (decision trees)", "weight": 0.0, "id": 62764039, "level": 3}
+{"count": 2233, "name": "Weighted sum model", "weight": 2.0, "id": 188222737, "level": 3}

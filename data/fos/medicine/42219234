@@ -1,0 +1,200 @@
+{"count": 126675, "name": "Hemodynamics", "weight": 5.0, "id": 178853913, "level": 2}
+{"count": 138267, "name": "Pharmacokinetics", "weight": 6.0, "id": 112705442, "level": 2}
+{"count": 208560, "name": "Ischemia", "weight": 9.0, "id": 541997718, "level": 2}
+{"count": 110325, "name": "Spinal cord", "weight": 4.0, "id": 2780775167, "level": 2}
+{"count": 110278, "name": "Electroencephalography", "weight": 4.0, "id": 522805319, "level": 2}
+{"count": 143537, "name": "Respiratory system", "weight": 6.0, "id": 534529494, "level": 2}
+{"count": 70721, "name": "Resuscitation", "weight": 3.0, "id": 2778165595, "level": 2}
+{"count": 30932, "name": "Side effect", "weight": 1.0, "id": 2776083868, "level": 2}
+{"count": 126315, "name": "Epilepsy", "weight": 5.0, "id": 2778186239, "level": 2}
+{"count": 25079, "name": "Neurological disorder", "weight": 1.0, "id": 2780317758, "level": 2}
+{"count": 25839, "name": "Electrodiagnosis", "weight": 1.0, "id": 523008124, "level": 2}
+{"count": 61095, "name": "Cerebrospinal fluid", "weight": 2.0, "id": 2779651940, "level": 2}
+{"count": 81953, "name": "Hypoxia (medical)", "weight": 3.0, "id": 2779435683, "level": 2}
+{"count": 224530, "name": "Stimulation", "weight": 10.0, "id": 24998067, "level": 2}
+{"count": 41945, "name": "Dexamethasone", "weight": 1.0, "id": 2780401358, "level": 2}
+{"count": 27088, "name": "Autonomic nervous system", "weight": 1.0, "id": 2777372248, "level": 2}
+{"count": 45911, "name": "Inhalation", "weight": 2.0, "id": 2776954882, "level": 2}
+{"count": 16405, "name": "Nitrous oxide", "weight": 0.0, "id": 2777573673, "level": 2}
+{"count": 69867, "name": "Analgesic", "weight": 3.0, "id": 2780820201, "level": 2}
+{"count": 48403, "name": "Spinal cord injury", "weight": 2.0, "id": 2778334475, "level": 2}
+{"count": 50378, "name": "Morphine", "weight": 2.0, "id": 2777389121, "level": 2}
+{"count": 27593, "name": "Sleep disorder", "weight": 1.0, "id": 1513209611, "level": 2}
+{"count": 41964, "name": "Nicotine", "weight": 1.0, "id": 2779547902, "level": 2}
+{"count": 40712, "name": "Cerebral blood flow", "weight": 1.0, "id": 157767197, "level": 2}
+{"count": 41734, "name": "Mechanical ventilation", "weight": 1.0, "id": 2777080012, "level": 2}
+{"count": 28633, "name": "Thalamus", "weight": 1.0, "id": 2779246727, "level": 2}
+{"count": 127341, "name": "Placebo", "weight": 5.0, "id": 27081682, "level": 2}
+{"count": 33974, "name": "Cardiopulmonary bypass", "weight": 1.0, "id": 2778881276, "level": 2}
+{"count": 47781, "name": "Chronic pain", "weight": 2.0, "id": 2781118164, "level": 2}
+{"count": 47075, "name": "Traumatic brain injury", "weight": 2.0, "id": 2781017439, "level": 2}
+{"count": 27943, "name": "Nociception", "weight": 1.0, "id": 15490471, "level": 2}
+{"count": 22411, "name": "Brain damage", "weight": 0.0, "id": 2781458332, "level": 2}
+{"count": 19902, "name": "Evoked potential", "weight": 0.0, "id": 2778823896, "level": 2}
+{"count": 27146, "name": "Sensitization", "weight": 1.0, "id": 2776217527, "level": 2}
+{"count": 57278, "name": "Neuroprotection", "weight": 2.0, "id": 25498285, "level": 2}
+{"count": 42219, "name": "Migraine", "weight": 1.0, "id": 2778541695, "level": 2}
+{"count": 24758, "name": "Head injury", "weight": 1.0, "id": 2777975874, "level": 2}
+{"count": 18764, "name": "Local anesthetic", "weight": 0.0, "id": 2778994108, "level": 2}
+{"count": 26295, "name": "Respiratory failure", "weight": 1.0, "id": 2776888751, "level": 2}
+{"count": 18836, "name": "Sciatic nerve", "weight": 0.0, "id": 2781149210, "level": 2}
+{"count": 26912, "name": "Vasoconstriction", "weight": 1.0, "id": 2779961880, "level": 2}
+{"count": 8565, "name": "Microdialysis", "weight": 0.0, "id": 50156730, "level": 2}
+{"count": 10765, "name": "Route of administration", "weight": 0.0, "id": 2776093070, "level": 2}
+{"count": 23828, "name": "Ventricular fibrillation", "weight": 1.0, "id": 2781005686, "level": 2}
+{"count": 26576, "name": "Subarachnoid hemorrhage", "weight": 1.0, "id": 2777736543, "level": 2}
+{"count": 25202, "name": "Neuropathic pain", "weight": 1.0, "id": 2777107010, "level": 2}
+{"count": 42484, "name": "Paralysis", "weight": 1.0, "id": 2779618896, "level": 2}
+{"count": 21838, "name": "Visual analogue scale", "weight": 0.0, "id": 14184104, "level": 2}
+{"count": 64528, "name": "Reflex", "weight": 2.0, "id": 83974742, "level": 2}
+{"count": 20525, "name": "Hyperthermia", "weight": 0.0, "id": 2779949491, "level": 2}
+{"count": 20500, "name": "QT interval", "weight": 0.0, "id": 118441451, "level": 2}
+{"count": 5098, "name": "Self-administration", "weight": 0.0, "id": 2778555786, "level": 2}
+{"count": 24627, "name": "Blood volume", "weight": 1.0, "id": 37557685, "level": 2}
+{"count": 28484, "name": "Ventricular tachycardia", "weight": 1.0, "id": 2776331378, "level": 2}
+{"count": 7885, "name": "Open field", "weight": 0.0, "id": 2779085643, "level": 2}
+{"count": 35510, "name": "Hypothermia", "weight": 1.0, "id": 2777390192, "level": 2}
+{"count": 10288, "name": "Oxygenation", "weight": 0.0, "id": 70289976, "level": 2}
+{"count": 32072, "name": "Propofol", "weight": 1.0, "id": 2776277131, "level": 2}
+{"count": 49065, "name": "Nausea", "weight": 2.0, "id": 2780580376, "level": 2}
+{"count": 14470, "name": "Haloperidol", "weight": 0.0, "id": 2780948584, "level": 2}
+{"count": 15834, "name": "Hyperalgesia", "weight": 0.0, "id": 2779245659, "level": 2}
+{"count": 16522, "name": "Apnea", "weight": 0.0, "id": 2781326671, "level": 2}
+{"count": 25917, "name": "Lidocaine", "weight": 1.0, "id": 2780149897, "level": 2}
+{"count": 10282, "name": "Capsaicin", "weight": 0.0, "id": 2780051329, "level": 2}
+{"count": 44229, "name": "Intubation", "weight": 1.0, "id": 2778716859, "level": 2}
+{"count": 22319, "name": "Intracranial pressure", "weight": 0.0, "id": 2780954326, "level": 2}
+{"count": 11123, "name": "Vagus nerve", "weight": 0.0, "id": 2781404750, "level": 2}
+{"count": 12670, "name": "Fluoxetine", "weight": 0.0, "id": 2776134451, "level": 2}
+{"count": 18038, "name": "Polysomnography", "weight": 0.0, "id": 2778205975, "level": 2}
+{"count": 17066, "name": "Verapamil", "weight": 0.0, "id": 2777022698, "level": 2}
+{"count": 18059, "name": "Diazepam", "weight": 0.0, "id": 2776175493, "level": 2}
+{"count": 12009, "name": "Amnesia", "weight": 0.0, "id": 2778615406, "level": 2}
+{"count": 16320, "name": "Theophylline", "weight": 0.0, "id": 2778095195, "level": 2}
+{"count": 13065, "name": "Sleep deprivation", "weight": 0.0, "id": 2778329153, "level": 2}
+{"count": 27500, "name": "Hydrocephalus", "weight": 1.0, "id": 2778134817, "level": 2}
+{"count": 12585, "name": "Nerve conduction velocity", "weight": 0.0, "id": 179253579, "level": 2}
+{"count": 11692, "name": "Hypnotic", "weight": 0.0, "id": 2780930544, "level": 2}
+{"count": 19315, "name": "Ketamine", "weight": 0.0, "id": 2780795376, "level": 2}
+{"count": 25943, "name": "Brainstem", "weight": 1.0, "id": 551621295, "level": 2}
+{"count": 14874, "name": "Anesthesiology", "weight": 0.0, "id": 2779526319, "level": 2}
+{"count": 50769, "name": "Acupuncture", "weight": 2.0, "id": 56837625, "level": 2}
+{"count": 20834, "name": "Atropine", "weight": 0.0, "id": 2775859210, "level": 2}
+{"count": 14084, "name": "Phenobarbital", "weight": 0.0, "id": 2778793413, "level": 2}
+{"count": 18884, "name": "Airway obstruction", "weight": 0.0, "id": 2778333281, "level": 2}
+{"count": 2264, "name": "Cerebro", "weight": 0.0, "id": 19167412, "level": 2}
+{"count": 13797, "name": "Clonidine", "weight": 0.0, "id": 2778399450, "level": 2}
+{"count": 41305, "name": "Sedation", "weight": 1.0, "id": 2776814716, "level": 2}
+{"count": 16961, "name": "Botulinum toxin", "weight": 0.0, "id": 2777478456, "level": 2}
+{"count": 39661, "name": "Hematoma", "weight": 1.0, "id": 2779662492, "level": 2}
+{"count": 29780, "name": "Tachycardia", "weight": 1.0, "id": 2780283014, "level": 2}
+{"count": 23208, "name": "Fentanyl", "weight": 1.0, "id": 2781072394, "level": 2}
+{"count": 11577, "name": "Nerve injury", "weight": 0.0, "id": 2775991916, "level": 2}
+{"count": 14233, "name": "Methadone", "weight": 0.0, "id": 2778767360, "level": 2}
+{"count": 18397, "name": "Bupivacaine", "weight": 0.0, "id": 2781328992, "level": 2}
+{"count": 10785, "name": "Ibuprofen", "weight": 0.0, "id": 2779944601, "level": 2}
+{"count": 10401, "name": "Median nerve", "weight": 0.0, "id": 2779110535, "level": 2}
+{"count": 5070, "name": "Chemoreceptor", "weight": 0.0, "id": 103247709, "level": 2}
+{"count": 14851, "name": "Dystonia", "weight": 0.0, "id": 2778559928, "level": 2}
+{"count": 14849, "name": "Acetaminophen", "weight": 0.0, "id": 2778722691, "level": 2}
+{"count": 14424, "name": "Cerebral arteries", "weight": 0.0, "id": 171614378, "level": 2}
+{"count": 17866, "name": "Local anesthesia", "weight": 0.0, "id": 2776742690, "level": 2}
+{"count": 6878, "name": "Threshold of pain", "weight": 0.0, "id": 3673659, "level": 2}
+{"count": 13466, "name": "Isoflurane", "weight": 0.0, "id": 2776359302, "level": 2}
+{"count": 10820, "name": "Wakefulness", "weight": 0.0, "id": 2779320081, "level": 2}
+{"count": 8562, "name": "Trigeminal nerve", "weight": 0.0, "id": 2777397368, "level": 2}
+{"count": 11545, "name": "Methamphetamine", "weight": 0.0, "id": 2780376393, "level": 2}
+{"count": 14166, "name": "Paraplegia", "weight": 0.0, "id": 2777597760, "level": 2}
+{"count": 13275, "name": "Brachial plexus", "weight": 0.0, "id": 2781151446, "level": 2}
+{"count": 7169, "name": "Acetylcysteine", "weight": 0.0, "id": 2777847592, "level": 2}
+{"count": 17225, "name": "Delirium", "weight": 0.0, "id": 2779753318, "level": 2}
+{"count": 8299, "name": "Imipramine", "weight": 0.0, "id": 2779145073, "level": 2}
+{"count": 7939, "name": "Slow-wave sleep", "weight": 0.0, "id": 110539466, "level": 2}
+{"count": 4919, "name": "Rapid eye movement sleep", "weight": 0.0, "id": 2779213384, "level": 2}
+{"count": 11247, "name": "Diclofenac", "weight": 0.0, "id": 2779826273, "level": 2}
+{"count": 12381, "name": "Glasgow Coma Scale", "weight": 0.0, "id": 17624336, "level": 2}
+{"count": 3877, "name": "Withdrawal syndrome", "weight": 0.0, "id": 2776922375, "level": 2}
+{"count": 11698, "name": "Fibrillation", "weight": 0.0, "id": 2777356233, "level": 2}
+{"count": 14936, "name": "Abdominal surgery", "weight": 0.0, "id": 2780120127, "level": 2}
+{"count": 13850, "name": "Halothane", "weight": 0.0, "id": 2776932660, "level": 2}
+{"count": 8683, "name": "Neuralgia", "weight": 0.0, "id": 2780016216, "level": 2}
+{"count": 53792, "name": "Opioid", "weight": 2.0, "id": 2781063702, "level": 2}
+{"count": 11768, "name": "Provocation test", "weight": 0.0, "id": 110586980, "level": 2}
+{"count": 13996, "name": "Spasticity", "weight": 0.0, "id": 2779012798, "level": 2}
+{"count": 8817, "name": "Plethysmograph", "weight": 0.0, "id": 73362275, "level": 2}
+{"count": 11286, "name": "Chlorpromazine", "weight": 0.0, "id": 2778775820, "level": 2}
+{"count": 9499, "name": "Electroconvulsive therapy", "weight": 0.0, "id": 2777330709, "level": 2}
+{"count": 10905, "name": "Intramuscular injection", "weight": 0.0, "id": 2776291583, "level": 2}
+{"count": 4136, "name": "Periaqueductal gray", "weight": 0.0, "id": 2781069035, "level": 2}
+{"count": 6061, "name": "Paroxetine", "weight": 0.0, "id": 2777828372, "level": 2}
+{"count": 11203, "name": "Phenytoin", "weight": 0.0, "id": 2778337148, "level": 2}
+{"count": 10146, "name": "Dobutamine", "weight": 0.0, "id": 2781185063, "level": 2}
+{"count": 5930, "name": "Scopolamine", "weight": 0.0, "id": 2778576352, "level": 2}
+{"count": 11540, "name": "Sevoflurane", "weight": 0.0, "id": 2781453256, "level": 2}
+{"count": 26404, "name": "Headaches", "weight": 1.0, "id": 2780966972, "level": 2}
+{"count": 14353, "name": "General anaesthesia", "weight": 0.0, "id": 2776983577, "level": 2}
+{"count": 45906, "name": "Anesthetic", "weight": 2.0, "id": 2778162923, "level": 2}
+{"count": 5643, "name": "Iontophoresis", "weight": 0.0, "id": 183529106, "level": 2}
+{"count": 4117, "name": "Refractory period", "weight": 0.0, "id": 70616116, "level": 2}
+{"count": 4604, "name": "Occipital lobe", "weight": 0.0, "id": 2778046553, "level": 2}
+{"count": 94423, "name": "Perioperative", "weight": 4.0, "id": 31174226, "level": 2}
+{"count": 8622, "name": "Diltiazem", "weight": 0.0, "id": 2776741139, "level": 2}
+{"count": 3473, "name": "Stereotypy", "weight": 0.0, "id": 2779459141, "level": 2}
+{"count": 5450, "name": "Peripheral nerve injury", "weight": 0.0, "id": 2776880756, "level": 2}
+{"count": 3371, "name": "Bundle branch block", "weight": 0.0, "id": 2777233412, "level": 2}
+{"count": 9130, "name": "Trigeminal neuralgia", "weight": 0.0, "id": 2780355897, "level": 2}
+{"count": 12160, "name": "Reserpine", "weight": 0.0, "id": 2777842393, "level": 2}
+{"count": 9294, "name": "Pentobarbital", "weight": 0.0, "id": 2776755955, "level": 2}
+{"count": 6462, "name": "Amitriptyline", "weight": 0.0, "id": 2780216858, "level": 2}
+{"count": 4702, "name": "Activated charcoal", "weight": 0.0, "id": 95031505, "level": 2}
+{"count": 5902, "name": "Celecoxib", "weight": 0.0, "id": 2776467144, "level": 2}
+{"count": 5147, "name": "Desipramine", "weight": 0.0, "id": 2780250439, "level": 2}
+{"count": 7017, "name": "Gabapentin", "weight": 0.0, "id": 2776608144, "level": 2}
+{"count": 11482, "name": "Coronary sinus", "weight": 0.0, "id": 2778259205, "level": 2}
+{"count": 6881, "name": "Dura mater", "weight": 0.0, "id": 2778987889, "level": 2}
+{"count": 3251, "name": "Trigeminal ganglion", "weight": 0.0, "id": 2776352249, "level": 2}
+{"count": 7865, "name": "Myoclonus", "weight": 0.0, "id": 2776538686, "level": 2}
+{"count": 19426, "name": "Irritation", "weight": 0.0, "id": 2777063393, "level": 2}
+{"count": 5883, "name": "Triamcinolone acetonide", "weight": 0.0, "id": 2778903070, "level": 2}
+{"count": 13550, "name": "Craniotomy", "weight": 0.0, "id": 2778871575, "level": 2}
+{"count": 6993, "name": "Ranitidine", "weight": 0.0, "id": 2777445857, "level": 2}
+{"count": 7649, "name": "Pulse oximetry", "weight": 0.0, "id": 2780124106, "level": 2}
+{"count": 6305, "name": "Pilocarpine", "weight": 0.0, "id": 2777204577, "level": 2}
+{"count": 5415, "name": "Baclofen", "weight": 0.0, "id": 2781201050, "level": 2}
+{"count": 5751, "name": "Sertraline", "weight": 0.0, "id": 2777669559, "level": 2}
+{"count": 25714, "name": "Transdermal", "weight": 1.0, "id": 205679159, "level": 2}
+{"count": 10685, "name": "Tonsillectomy", "weight": 0.0, "id": 2779073326, "level": 2}
+{"count": 18165, "name": "Benzodiazepine", "weight": 0.0, "id": 2778173252, "level": 2}
+{"count": 5543, "name": "Naproxen", "weight": 0.0, "id": 2778115740, "level": 2}
+{"count": 13752, "name": "Therapeutic index", "weight": 0.0, "id": 19831878, "level": 2}
+{"count": 9017, "name": "Premedication", "weight": 0.0, "id": 2778300832, "level": 2}
+{"count": 6500, "name": "Quinidine", "weight": 0.0, "id": 2780339425, "level": 2}
+{"count": 2223, "name": "Drug tolerance", "weight": 0.0, "id": 2779985140, "level": 2}
+{"count": 6122, "name": "Narcolepsy", "weight": 0.0, "id": 2779494582, "level": 2}
+{"count": 19772, "name": "Airway", "weight": 0.0, "id": 105922876, "level": 2}
+{"count": 2608, "name": "Endorphins", "weight": 0.0, "id": 2778680817, "level": 2}
+{"count": 8796, "name": "Paresis", "weight": 0.0, "id": 2778879792, "level": 2}
+{"count": 6964, "name": "Atrioventricular block", "weight": 0.0, "id": 2778557577, "level": 2}
+{"count": 8745, "name": "Facial paralysis", "weight": 0.0, "id": 2781019609, "level": 2}
+{"count": 5734, "name": "Metoclopramide", "weight": 0.0, "id": 2778479196, "level": 2}
+{"count": 4311, "name": "Motion sickness", "weight": 0.0, "id": 2779336972, "level": 2}
+{"count": 4750, "name": "Essential tremor", "weight": 0.0, "id": 2780112193, "level": 2}
+{"count": 8884, "name": "Phentolamine", "weight": 0.0, "id": 2780253649, "level": 2}
+{"count": 2490, "name": "Rectal administration", "weight": 0.0, "id": 2776873419, "level": 2}
+{"count": 4591, "name": "Malignant hyperthermia", "weight": 0.0, "id": 2778575482, "level": 2}
+{"count": 8066, "name": "Hyperventilation", "weight": 0.0, "id": 2777449187, "level": 2}
+{"count": 7566, "name": "Ropivacaine", "weight": 0.0, "id": 2780269707, "level": 2}
+{"count": 3773, "name": "Amantadine", "weight": 0.0, "id": 2777374534, "level": 2}
+{"count": 4867, "name": "Nimodipine", "weight": 0.0, "id": 2777294900, "level": 2}
+{"count": 6098, "name": "Phrenic nerve", "weight": 0.0, "id": 2777099253, "level": 2}
+{"count": 9048, "name": "Non-rapid eye movement sleep", "weight": 0.0, "id": 20566671, "level": 2}
+{"count": 3782, "name": "Somnolence", "weight": 0.0, "id": 2779034229, "level": 2}
+{"count": 4365, "name": "Evans Blue", "weight": 0.0, "id": 2777649898, "level": 2}
+{"count": 4956, "name": "Aprotinin", "weight": 0.0, "id": 2780799893, "level": 2}
+{"count": 22736, "name": "Supine position", "weight": 1.0, "id": 125567185, "level": 2}
+{"count": 5427, "name": "Tranexamic acid", "weight": 0.0, "id": 2779637338, "level": 2}
+{"count": 4360, "name": "Compound muscle action potential", "weight": 0.0, "id": 151626666, "level": 2}
+{"count": 3333, "name": "Clomipramine", "weight": 0.0, "id": 2779305415, "level": 2}
+{"count": 3693, "name": "Atrioventricular node", "weight": 0.0, "id": 2776024998, "level": 2}
+{"count": 2680, "name": "Periventricular leukomalacia", "weight": 0.0, "id": 2780123866, "level": 2}
+{"count": 5539, "name": "Ephedrine", "weight": 0.0, "id": 2778984665, "level": 2}

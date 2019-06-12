@@ -1,0 +1,33 @@
+{"count": 12288, "name": "Financial statement", "weight": 7.0, "id": 2781027943, "level": 3}
+{"count": 16734, "name": "Internal audit", "weight": 10.0, "id": 170856484, "level": 3}
+{"count": 6882, "name": "Audit committee", "weight": 4.0, "id": 137725906, "level": 3}
+{"count": 9253, "name": "Quality audit", "weight": 5.0, "id": 140181557, "level": 3}
+{"count": 3616, "name": "Clinical audit", "weight": 2.0, "id": 2776579137, "level": 3}
+{"count": 1907, "name": "Sarbanes\u2013Oxley Act", "weight": 1.0, "id": 2779815580, "level": 3}
+{"count": 1774, "name": "Alcohol Use Disorders Identification Test", "weight": 1.0, "id": 2780757190, "level": 3}
+{"count": 7715, "name": "Auditor's report", "weight": 4.0, "id": 41282006, "level": 3}
+{"count": 2259, "name": "Audit trail", "weight": 1.0, "id": 80958533, "level": 3}
+{"count": 981, "name": "Environmental audit", "weight": 0.0, "id": 2780587570, "level": 3}
+{"count": 493, "name": "Social audit", "weight": 0.0, "id": 2778717833, "level": 3}
+{"count": 819, "name": "Litigation risk analysis", "weight": 0.0, "id": 154307955, "level": 3}
+{"count": 1009, "name": "Forensic accounting", "weight": 0.0, "id": 2780073145, "level": 3}
+{"count": 2544, "name": "Going concern", "weight": 1.0, "id": 2777823127, "level": 3}
+{"count": 543, "name": "Road safety audit", "weight": 0.0, "id": 2777988118, "level": 3}
+{"count": 408, "name": "Public Accounts Committee", "weight": 0.0, "id": 2778243394, "level": 3}
+{"count": 552, "name": "Accounting scandals", "weight": 0.0, "id": 2777639076, "level": 3}
+{"count": 185, "name": "Information audit", "weight": 0.0, "id": 99400440, "level": 3}
+{"count": 12596, "name": "Joint audit", "weight": 7.0, "id": 191602146, "level": 3}
+{"count": 334, "name": "Audit study", "weight": 0.0, "id": 2779836203, "level": 3}
+{"count": 218, "name": "Communication audit", "weight": 0.0, "id": 2779758020, "level": 3}
+{"count": 108, "name": "Eco-Management and Audit Scheme", "weight": 0.0, "id": 2780336619, "level": 3}
+{"count": 112, "name": "ISO 19011", "weight": 0.0, "id": 2781403547, "level": 3}
+{"count": 56, "name": "Content audit", "weight": 0.0, "id": 2780508918, "level": 3}
+{"count": 63, "name": "Control self-assessment", "weight": 0.0, "id": 2779166072, "level": 3}
+{"count": 82, "name": "Engagement letter", "weight": 0.0, "id": 2779107966, "level": 3}
+{"count": 60, "name": "Fraud deterrence", "weight": 0.0, "id": 2781048586, "level": 3}
+{"count": 18, "name": "Information technology controls", "weight": 0.0, "id": 2778217363, "level": 3}
+{"count": 84, "name": "Government financial statements", "weight": 0.0, "id": 2776271055, "level": 3}
+{"count": 28, "name": "Lead auditor", "weight": 0.0, "id": 2776230019, "level": 3}
+{"count": 28, "name": "Management representation", "weight": 0.0, "id": 2776586997, "level": 3}
+{"count": 16, "name": "Negative assurance", "weight": 0.0, "id": 2776452512, "level": 3}
+{"count": 5, "name": "XBRL assurance", "weight": 0.0, "id": 2776729464, "level": 3}

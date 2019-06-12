@@ -1,0 +1,16 @@
+{"count": 1411, "name": "Drug repositioning", "weight": 6.0, "id": 103637391, "level": 3}
+{"count": 1067, "name": "Phenotypic screening", "weight": 4.0, "id": 6555983, "level": 3}
+{"count": 473, "name": "Polypharmacology", "weight": 2.0, "id": 2778154635, "level": 3}
+{"count": 425, "name": "Chemogenomics", "weight": 1.0, "id": 2778796938, "level": 3}
+{"count": 471, "name": "Fragment-based lead discovery", "weight": 2.0, "id": 174483455, "level": 3}
+{"count": 663, "name": "Systems pharmacology", "weight": 2.0, "id": 2779446555, "level": 3}
+{"count": 2336, "name": "Druggability", "weight": 10.0, "id": 10679952, "level": 3}
+{"count": 422, "name": "Reverse pharmacology", "weight": 1.0, "id": 31522870, "level": 3}
+{"count": 280, "name": "Hit to lead", "weight": 1.0, "id": 66533464, "level": 3}
+{"count": 222, "name": "Classical pharmacology", "weight": 0.0, "id": 110913234, "level": 3}
+{"count": 28, "name": "Receptorome", "weight": 0.0, "id": 2780433237, "level": 3}
+{"count": 326, "name": "Compound management", "weight": 1.0, "id": 53091690, "level": 3}
+{"count": 374, "name": "chEMBL", "weight": 1.0, "id": 63222358, "level": 3}
+{"count": 268, "name": "Combinatorial biology", "weight": 1.0, "id": 150377506, "level": 3}
+{"count": 52, "name": "Matched molecular pair analysis", "weight": 0.0, "id": 2778455421, "level": 3}
+{"count": 40, "name": "Pan-assay interference compounds", "weight": 0.0, "id": 2780474240, "level": 3}

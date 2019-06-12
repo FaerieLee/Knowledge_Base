@@ -1,0 +1,3 @@
+{"count": 286, "name": "Do while loop", "weight": 4.0, "id": 190834728, "level": 3}
+{"count": 534, "name": "Loop nest optimization", "weight": 7.0, "id": 21443878, "level": 3}
+{"count": 684, "name": "Loop interchange", "weight": 10.0, "id": 20977289, "level": 3}

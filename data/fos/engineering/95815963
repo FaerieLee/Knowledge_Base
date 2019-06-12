@@ -1,0 +1,4 @@
+{"count": 187, "name": "Transposition table", "weight": 7.0, "id": 4548397, "level": 4}
+{"count": 262, "name": "Nim", "weight": 10.0, "id": 31026700, "level": 4}
+{"count": 244, "name": "Expectiminimax tree", "weight": 9.0, "id": 146993110, "level": 4}
+{"count": 131, "name": "Quiescence search", "weight": 5.0, "id": 76663681, "level": 4}

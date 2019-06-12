@@ -1,0 +1,8 @@
+{"count": 811, "name": "Standard normal deviate", "weight": 6.0, "id": 49472881, "level": 5}
+{"count": 953, "name": "Pairwise independence", "weight": 7.0, "id": 114928208, "level": 5}
+{"count": 1203, "name": "Exchangeable random variables", "weight": 10.0, "id": 113325137, "level": 5}
+{"count": 44, "name": "Bennett's inequality", "weight": 0.0, "id": 80528551, "level": 5}
+{"count": 1185, "name": "Covariance and correlation", "weight": 9.0, "id": 98991287, "level": 5}
+{"count": 828, "name": "Proofs of convergence of random variables", "weight": 6.0, "id": 206190082, "level": 5}
+{"count": 45, "name": "Normally distributed and uncorrelated does not imply independent", "weight": 0.0, "id": 144019316, "level": 5}
+{"count": 174, "name": "Indecomposable distribution", "weight": 1.0, "id": 54483272, "level": 5}

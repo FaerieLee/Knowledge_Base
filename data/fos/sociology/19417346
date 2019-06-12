@@ -1,0 +1,200 @@
+{"count": 513837, "name": "Higher education", "weight": 10.0, "id": 120912362, "level": 2}
+{"count": 255394, "name": "Teaching method", "weight": 4.0, "id": 88610354, "level": 2}
+{"count": 194938, "name": "Qualitative research", "weight": 3.0, "id": 190248442, "level": 2}
+{"count": 101502, "name": "Academic achievement", "weight": 1.0, "id": 2781206393, "level": 2}
+{"count": 132977, "name": "Primary education", "weight": 2.0, "id": 10050518, "level": 2}
+{"count": 83254, "name": "Program evaluation", "weight": 1.0, "id": 5395021, "level": 2}
+{"count": 152292, "name": "Professional development", "weight": 2.0, "id": 51067260, "level": 2}
+{"count": 119896, "name": "Educational technology", "weight": 2.0, "id": 16443162, "level": 2}
+{"count": 67666, "name": "Educational research", "weight": 1.0, "id": 36727532, "level": 2}
+{"count": 87773, "name": "Science education", "weight": 1.0, "id": 44877443, "level": 2}
+{"count": 36739, "name": "Self-concept", "weight": 0.0, "id": 2777410049, "level": 2}
+{"count": 49608, "name": "Self-efficacy", "weight": 0.0, "id": 110131835, "level": 2}
+{"count": 96803, "name": "Teacher education", "weight": 1.0, "id": 2780805685, "level": 2}
+{"count": 104008, "name": "Focus group", "weight": 2.0, "id": 56995899, "level": 2}
+{"count": 30258, "name": "Social influence", "weight": 0.0, "id": 131158328, "level": 2}
+{"count": 69728, "name": "Cultural diversity", "weight": 1.0, "id": 125209646, "level": 2}
+{"count": 383082, "name": "Curriculum", "weight": 7.0, "id": 47177190, "level": 2}
+{"count": 62705, "name": "Language acquisition", "weight": 1.0, "id": 74672266, "level": 2}
+{"count": 71423, "name": "Socialization", "weight": 1.0, "id": 25032326, "level": 2}
+{"count": 23530, "name": "Concept learning", "weight": 0.0, "id": 48164120, "level": 2}
+{"count": 26235, "name": "Learning theory", "weight": 0.0, "id": 92393732, "level": 2}
+{"count": 60152, "name": "Distance education", "weight": 1.0, "id": 503872463, "level": 2}
+{"count": 43351, "name": "Learning disability", "weight": 0.0, "id": 15107229, "level": 2}
+{"count": 168617, "name": "Vocational education", "weight": 3.0, "id": 668760, "level": 2}
+{"count": 40020, "name": "Discourse analysis", "weight": 0.0, "id": 84389358, "level": 2}
+{"count": 27453, "name": "Educational attainment", "weight": 0.0, "id": 2779297142, "level": 2}
+{"count": 103487, "name": "Accountability", "weight": 2.0, "id": 2776007630, "level": 2}
+{"count": 105751, "name": "Creativity", "weight": 2.0, "id": 11012388, "level": 2}
+{"count": 63349, "name": "Special education", "weight": 1.0, "id": 28858896, "level": 2}
+{"count": 37258, "name": "Reading comprehension", "weight": 0.0, "id": 2778780117, "level": 2}
+{"count": 111904, "name": "Literacy", "weight": 2.0, "id": 547764534, "level": 2}
+{"count": 43597, "name": "Early childhood education", "weight": 0.0, "id": 178229462, "level": 2}
+{"count": 8397, "name": "Basso continuo", "weight": 0.0, "id": 68101726, "level": 2}
+{"count": 21681, "name": "Aptitude", "weight": 0.0, "id": 48561166, "level": 2}
+{"count": 46718, "name": "Adult education", "weight": 0.0, "id": 44493715, "level": 2}
+{"count": 30348, "name": "Instructional design", "weight": 0.0, "id": 159456220, "level": 2}
+{"count": 50376, "name": "Early childhood", "weight": 0.0, "id": 2777082460, "level": 2}
+{"count": 16714, "name": "Knowledge level", "weight": 0.0, "id": 2776291881, "level": 2}
+{"count": 8055, "name": "Face-to-face", "weight": 0.0, "id": 2777359053, "level": 2}
+{"count": 15650, "name": "Attitude change", "weight": 0.0, "id": 549090830, "level": 2}
+{"count": 12695, "name": "Program Design Language", "weight": 0.0, "id": 206674616, "level": 2}
+{"count": 49410, "name": "Teamwork", "weight": 0.0, "id": 111226992, "level": 2}
+{"count": 51699, "name": "Cooperative learning", "weight": 1.0, "id": 51672120, "level": 2}
+{"count": 39910, "name": "Engineering education", "weight": 0.0, "id": 5041995, "level": 2}
+{"count": 50545, "name": "Critical thinking", "weight": 0.0, "id": 533356498, "level": 2}
+{"count": 23592, "name": "Social value orientations", "weight": 0.0, "id": 62657170, "level": 2}
+{"count": 27237, "name": "Cultural competence", "weight": 0.0, "id": 169536714, "level": 2}
+{"count": 46004, "name": "Action research", "weight": 0.0, "id": 53173841, "level": 2}
+{"count": 30988, "name": "Needs assessment", "weight": 0.0, "id": 28718268, "level": 2}
+{"count": 27304, "name": "Cross-cultural", "weight": 0.0, "id": 168646138, "level": 2}
+{"count": 28515, "name": "Philosophy of education", "weight": 0.0, "id": 207096701, "level": 2}
+{"count": 46920, "name": "Social studies", "weight": 0.0, "id": 150710463, "level": 2}
+{"count": 70371, "name": "Physical education", "weight": 1.0, "id": 71406770, "level": 2}
+{"count": 11194, "name": "Context effect", "weight": 0.0, "id": 76188268, "level": 2}
+{"count": 54036, "name": "Grading (education)", "weight": 1.0, "id": 138336922, "level": 2}
+{"count": 103621, "name": "Experiential learning", "weight": 2.0, "id": 37228920, "level": 2}
+{"count": 29867, "name": "Environmental education", "weight": 0.0, "id": 43141900, "level": 2}
+{"count": 18063, "name": "Social integration", "weight": 0.0, "id": 2781160424, "level": 2}
+{"count": 59773, "name": "Active learning", "weight": 1.0, "id": 26258499, "level": 2}
+{"count": 27408, "name": "Social skills", "weight": 0.0, "id": 86772948, "level": 2}
+{"count": 30162, "name": "Career development", "weight": 0.0, "id": 2777247013, "level": 2}
+{"count": 21437, "name": "Educational assessment", "weight": 0.0, "id": 188231857, "level": 2}
+{"count": 44091, "name": "Learning environment", "weight": 0.0, "id": 2778365744, "level": 2}
+{"count": 15413, "name": "Goal orientation", "weight": 0.0, "id": 84653758, "level": 2}
+{"count": 19808, "name": "Social learning", "weight": 0.0, "id": 79416737, "level": 2}
+{"count": 32488, "name": "Lifelong learning", "weight": 0.0, "id": 108771440, "level": 2}
+{"count": 19056, "name": "Multicultural education", "weight": 0.0, "id": 2777301881, "level": 2}
+{"count": 79727, "name": "Foreign language", "weight": 1.0, "id": 114010052, "level": 2}
+{"count": 14749, "name": "Learning object", "weight": 0.0, "id": 2779542340, "level": 2}
+{"count": 12721, "name": "Cultural pluralism", "weight": 0.0, "id": 2780304933, "level": 2}
+{"count": 5627, "name": "Interaction model", "weight": 0.0, "id": 2780806968, "level": 2}
+{"count": 15855, "name": "Peer group", "weight": 0.0, "id": 128593788, "level": 2}
+{"count": 20681, "name": "Problem-based learning", "weight": 0.0, "id": 2780909375, "level": 2}
+{"count": 12861, "name": "Organisation climate", "weight": 0.0, "id": 185654502, "level": 2}
+{"count": 41466, "name": "Formative assessment", "weight": 0.0, "id": 42525527, "level": 2}
+{"count": 20506, "name": "Educational psychology", "weight": 0.0, "id": 134895398, "level": 2}
+{"count": 14150, "name": "Physics education", "weight": 0.0, "id": 50773583, "level": 2}
+{"count": 17089, "name": "Language proficiency", "weight": 0.0, "id": 2778883600, "level": 2}
+{"count": 44163, "name": "First language", "weight": 0.0, "id": 171041071, "level": 2}
+{"count": 23951, "name": "Qualitative property", "weight": 0.0, "id": 87156501, "level": 2}
+{"count": 39381, "name": "Information literacy", "weight": 0.0, "id": 119883117, "level": 2}
+{"count": 10307, "name": "Production manager", "weight": 0.0, "id": 135909481, "level": 2}
+{"count": 137548, "name": "Competence (human resources)", "weight": 2.0, "id": 100521375, "level": 2}
+{"count": 20548, "name": "Standardized test", "weight": 0.0, "id": 203151758, "level": 2}
+{"count": 28995, "name": "Professional association", "weight": 0.0, "id": 134215751, "level": 2}
+{"count": 6601, "name": "Transfer of training", "weight": 0.0, "id": 2777938197, "level": 2}
+{"count": 10568, "name": "Power structure", "weight": 0.0, "id": 2777595002, "level": 2}
+{"count": 16686, "name": "Moral development", "weight": 0.0, "id": 76247681, "level": 2}
+{"count": 33274, "name": "Constructivism (philosophy of education)", "weight": 0.0, "id": 11620657, "level": 2}
+{"count": 41076, "name": "Music education", "weight": 0.0, "id": 13553968, "level": 2}
+{"count": 20794, "name": "Achievement test", "weight": 0.0, "id": 81369262, "level": 2}
+{"count": 32047, "name": "Leadership style", "weight": 0.0, "id": 197386563, "level": 2}
+{"count": 18726, "name": "Educational program", "weight": 0.0, "id": 2777458711, "level": 2}
+{"count": 63236, "name": "Language education", "weight": 1.0, "id": 123960582, "level": 2}
+{"count": 54702, "name": "Multiculturalism", "weight": 1.0, "id": 542530943, "level": 2}
+{"count": 13313, "name": "Multilingualism", "weight": 0.0, "id": 2780035574, "level": 2}
+{"count": 19524, "name": "School psychology", "weight": 0.0, "id": 172712801, "level": 2}
+{"count": 8916, "name": "Community of practice", "weight": 0.0, "id": 2776280689, "level": 2}
+{"count": 19134, "name": "Participant observation", "weight": 0.0, "id": 194943564, "level": 2}
+{"count": 12885, "name": "Bilingual education", "weight": 0.0, "id": 2776853841, "level": 2}
+{"count": 9486, "name": "Sociology of Education", "weight": 0.0, "id": 145472048, "level": 2}
+{"count": 13398, "name": "Time management", "weight": 0.0, "id": 166235249, "level": 2}
+{"count": 15651, "name": "Intercultural communication", "weight": 0.0, "id": 2776423180, "level": 2}
+{"count": 19906, "name": "Social competence", "weight": 0.0, "id": 25148115, "level": 2}
+{"count": 17323, "name": "Participatory action research", "weight": 0.0, "id": 140988679, "level": 2}
+{"count": 9773, "name": "Business communication", "weight": 0.0, "id": 175815440, "level": 2}
+{"count": 10227, "name": "Management development", "weight": 0.0, "id": 2778693558, "level": 2}
+{"count": 16724, "name": "Service-learning", "weight": 0.0, "id": 2780333494, "level": 2}
+{"count": 9149, "name": "Concept map", "weight": 0.0, "id": 200287777, "level": 2}
+{"count": 14471, "name": "Multiple choice", "weight": 0.0, "id": 176730311, "level": 2}
+{"count": 26056, "name": "Language arts", "weight": 0.0, "id": 207700645, "level": 2}
+{"count": 44675, "name": "Disadvantaged", "weight": 0.0, "id": 2780623907, "level": 2}
+{"count": 18806, "name": "Apprenticeship", "weight": 0.0, "id": 107806365, "level": 2}
+{"count": 27293, "name": "Likert scale", "weight": 0.0, "id": 105776082, "level": 2}
+{"count": 15145, "name": "Computer literacy", "weight": 0.0, "id": 192531217, "level": 2}
+{"count": 7350, "name": "Logical reasoning", "weight": 0.0, "id": 43971567, "level": 2}
+{"count": 7035, "name": "Need for achievement", "weight": 0.0, "id": 158227716, "level": 2}
+{"count": 13737, "name": "Group work", "weight": 0.0, "id": 2776020993, "level": 2}
+{"count": 4169, "name": "Physical science", "weight": 0.0, "id": 6314898, "level": 2}
+{"count": 31835, "name": "Educational leadership", "weight": 0.0, "id": 111366508, "level": 2}
+{"count": 36449, "name": "Syllabus", "weight": 0.0, "id": 45504901, "level": 2}
+{"count": 8108, "name": "School choice", "weight": 0.0, "id": 2778136243, "level": 2}
+{"count": 25584, "name": "Student engagement", "weight": 0.0, "id": 194519906, "level": 2}
+{"count": 10846, "name": "Written language", "weight": 0.0, "id": 2780790391, "level": 2}
+{"count": 7076, "name": "Self-assessment", "weight": 0.0, "id": 205333247, "level": 2}
+{"count": 3122, "name": "Adult development", "weight": 0.0, "id": 117250062, "level": 2}
+{"count": 16663, "name": "Work experience", "weight": 0.0, "id": 2780319001, "level": 2}
+{"count": 11001, "name": "Independent study", "weight": 0.0, "id": 140696310, "level": 2}
+{"count": 11202, "name": "Multimethodology", "weight": 0.0, "id": 156393514, "level": 2}
+{"count": 20117, "name": "Special needs", "weight": 0.0, "id": 2776206778, "level": 2}
+{"count": 12986, "name": "Reflective practice", "weight": 0.0, "id": 132413290, "level": 2}
+{"count": 5338, "name": "Self-regulated learning", "weight": 0.0, "id": 2776503756, "level": 2}
+{"count": 9759, "name": "Cultural capital", "weight": 0.0, "id": 2778930550, "level": 2}
+{"count": 13658, "name": "Learning community", "weight": 0.0, "id": 39343751, "level": 2}
+{"count": 5075, "name": "Conceptual change", "weight": 0.0, "id": 2781329482, "level": 2}
+{"count": 37207, "name": "Coaching", "weight": 0.0, "id": 2779363792, "level": 2}
+{"count": 4986, "name": "Self-actualization", "weight": 0.0, "id": 21409990, "level": 2}
+{"count": 6236, "name": "Self-determination theory", "weight": 0.0, "id": 146854351, "level": 2}
+{"count": 8047, "name": "Career counseling", "weight": 0.0, "id": 2777393702, "level": 2}
+{"count": 4917, "name": "Participative decision-making", "weight": 0.0, "id": 2779545206, "level": 2}
+{"count": 26008, "name": "Transformative learning", "weight": 0.0, "id": 70587473, "level": 2}
+{"count": 3820, "name": "Visual learning", "weight": 0.0, "id": 2779321571, "level": 2}
+{"count": 14472, "name": "Technology education", "weight": 0.0, "id": 547231352, "level": 2}
+{"count": 13553, "name": "Basic skills", "weight": 0.0, "id": 2780623789, "level": 2}
+{"count": 5319, "name": "Class size", "weight": 0.0, "id": 2776824051, "level": 2}
+{"count": 81065, "name": "Active listening", "weight": 1.0, "id": 177291462, "level": 2}
+{"count": 7592, "name": "At-risk students", "weight": 0.0, "id": 2779479571, "level": 2}
+{"count": 15842, "name": "Religious education", "weight": 0.0, "id": 19352297, "level": 2}
+{"count": 4179, "name": "Consciousness raising", "weight": 0.0, "id": 2778557136, "level": 2}
+{"count": 10532, "name": "Study abroad", "weight": 0.0, "id": 2780814955, "level": 2}
+{"count": 10599, "name": "Professional ethics", "weight": 0.0, "id": 500143535, "level": 2}
+{"count": 8393, "name": "Study skills", "weight": 0.0, "id": 104182661, "level": 2}
+{"count": 9350, "name": "Civic engagement", "weight": 0.0, "id": 2776431611, "level": 2}
+{"count": 4815, "name": "Word problem (mathematics education)", "weight": 0.0, "id": 90988201, "level": 2}
+{"count": 9915, "name": "Nature versus nurture", "weight": 0.0, "id": 120452360, "level": 2}
+{"count": 3622, "name": "Situated learning", "weight": 0.0, "id": 200380349, "level": 2}
+{"count": 15129, "name": "Creative writing", "weight": 0.0, "id": 198912144, "level": 2}
+{"count": 4546, "name": "On-the-job training", "weight": 0.0, "id": 2778583658, "level": 2}
+{"count": 18548, "name": "Remedial education", "weight": 0.0, "id": 100207952, "level": 2}
+{"count": 7710, "name": "Informal learning", "weight": 0.0, "id": 2780198215, "level": 2}
+{"count": 9531, "name": "Positive Youth Development", "weight": 0.0, "id": 21788436, "level": 2}
+{"count": 10372, "name": "Language policy", "weight": 0.0, "id": 556340858, "level": 2}
+{"count": 9219, "name": "Cheating", "weight": 0.0, "id": 2778024590, "level": 2}
+{"count": 9071, "name": "Open university", "weight": 0.0, "id": 2780745866, "level": 2}
+{"count": 10941, "name": "Communicative competence", "weight": 0.0, "id": 2777549822, "level": 2}
+{"count": 7453, "name": "Outdoor education", "weight": 0.0, "id": 133485526, "level": 2}
+{"count": 1777, "name": "Metalinguistics", "weight": 0.0, "id": 77243148, "level": 2}
+{"count": 11837, "name": "Community engagement", "weight": 0.0, "id": 2776193868, "level": 2}
+{"count": 11895, "name": "Legal education", "weight": 0.0, "id": 524211801, "level": 2}
+{"count": 10476, "name": "Leadership development", "weight": 0.0, "id": 2780271678, "level": 2}
+{"count": 7125, "name": "Theory of multiple intelligences", "weight": 0.0, "id": 193254068, "level": 2}
+{"count": 7668, "name": "Sense of community", "weight": 0.0, "id": 2779942219, "level": 2}
+{"count": 2222, "name": "Autodidacticism", "weight": 0.0, "id": 205096519, "level": 2}
+{"count": 8853, "name": "Family and consumer science", "weight": 0.0, "id": 175662133, "level": 2}
+{"count": 4937, "name": "Quantitative research", "weight": 0.0, "id": 87858587, "level": 2}
+{"count": 6421, "name": "Media literacy", "weight": 0.0, "id": 97628146, "level": 2}
+{"count": 4281, "name": "Mastery learning", "weight": 0.0, "id": 2776933062, "level": 2}
+{"count": 11355, "name": "Professionalization", "weight": 0.0, "id": 2781334022, "level": 2}
+{"count": 5109, "name": "Critical pedagogy", "weight": 0.0, "id": 25977355, "level": 2}
+{"count": 8392, "name": "Classroom management", "weight": 0.0, "id": 2779923759, "level": 2}
+{"count": 15321, "name": "Learning styles", "weight": 0.0, "id": 2781285556, "level": 2}
+{"count": 4706, "name": "Language planning", "weight": 0.0, "id": 2781281093, "level": 2}
+{"count": 17703, "name": "College English", "weight": 0.0, "id": 2779264503, "level": 2}
+{"count": 7508, "name": "Project-based learning", "weight": 0.0, "id": 2779825147, "level": 2}
+{"count": 7122, "name": "Community education", "weight": 0.0, "id": 2780940773, "level": 2}
+{"count": 4656, "name": "Values education", "weight": 0.0, "id": 2779616190, "level": 2}
+{"count": 13230, "name": "Academic writing", "weight": 0.0, "id": 119867837, "level": 2}
+{"count": 16240, "name": "Educational evaluation", "weight": 0.0, "id": 45844045, "level": 2}
+{"count": 1562, "name": "Psychology of learning", "weight": 0.0, "id": 58160517, "level": 2}
+{"count": 13971, "name": "Employability", "weight": 0.0, "id": 15302153, "level": 2}
+{"count": 4149, "name": "Humanistic education", "weight": 0.0, "id": 2778825498, "level": 2}
+{"count": 4117, "name": "Observational learning", "weight": 0.0, "id": 102483320, "level": 2}
+{"count": 20073, "name": "Personal development", "weight": 0.0, "id": 56154687, "level": 2}
+{"count": 6702, "name": "Open education", "weight": 0.0, "id": 2781052624, "level": 2}
+{"count": 3850, "name": "Multiple disabilities", "weight": 0.0, "id": 2780228444, "level": 2}
+{"count": 2897, "name": "Teacher quality", "weight": 0.0, "id": 2776905826, "level": 2}
+{"count": 2824, "name": "Value judgment", "weight": 0.0, "id": 2777186514, "level": 2}
+{"count": 4793, "name": "Work ethic", "weight": 0.0, "id": 157532075, "level": 2}
+{"count": 6623, "name": "Knowledge society", "weight": 0.0, "id": 2780784464, "level": 2}
+{"count": 4109, "name": "Peer assessment", "weight": 0.0, "id": 53839665, "level": 2}

@@ -1,0 +1,54 @@
+{"count": 37783, "name": "Thrombin", "weight": 10.0, "id": 2777292125, "level": 3}
+{"count": 15459, "name": "Von Willebrand factor", "weight": 4.0, "id": 2779394231, "level": 3}
+{"count": 6230, "name": "Adenosine diphosphate", "weight": 1.0, "id": 2777399203, "level": 3}
+{"count": 3492, "name": "P-selectin", "weight": 0.0, "id": 56701166, "level": 3}
+{"count": 8580, "name": "Platelet-rich plasma", "weight": 2.0, "id": 2780076745, "level": 3}
+{"count": 7545, "name": "Thromboxane A2", "weight": 1.0, "id": 2781024287, "level": 3}
+{"count": 11976, "name": "Thromboxane", "weight": 3.0, "id": 2776785769, "level": 3}
+{"count": 6052, "name": "Thrombotic thrombocytopenic purpura", "weight": 1.0, "id": 2778585876, "level": 3}
+{"count": 4583, "name": "Platelet membrane glycoprotein", "weight": 1.0, "id": 26828662, "level": 3}
+{"count": 4718, "name": "Bleeding time", "weight": 1.0, "id": 2779216453, "level": 3}
+{"count": 3789, "name": "Heparin-induced thrombocytopenia", "weight": 1.0, "id": 2776472838, "level": 3}
+{"count": 3780, "name": "Platelet factor 4", "weight": 1.0, "id": 159973064, "level": 3}
+{"count": 9078, "name": "Partial thromboplastin time", "weight": 2.0, "id": 2778261982, "level": 3}
+{"count": 3921, "name": "Thrombopoietin", "weight": 1.0, "id": 2777863708, "level": 3}
+{"count": 5446, "name": "Megakaryocyte", "weight": 1.0, "id": 2779705218, "level": 3}
+{"count": 1535, "name": "Platelet adhesiveness", "weight": 0.0, "id": 2780009322, "level": 3}
+{"count": 5115, "name": "Thrombocytosis", "weight": 1.0, "id": 2779788118, "level": 3}
+{"count": 5712, "name": "Mean platelet volume", "weight": 1.0, "id": 190481736, "level": 3}
+{"count": 1402, "name": "Apyrase", "weight": 0.0, "id": 2779508331, "level": 3}
+{"count": 2468, "name": "Thromboelastography", "weight": 0.0, "id": 2777664302, "level": 3}
+{"count": 3984, "name": "Platelet transfusion", "weight": 1.0, "id": 2776689292, "level": 3}
+{"count": 3481, "name": "Clotting time", "weight": 0.0, "id": 77171857, "level": 3}
+{"count": 10546, "name": "Thrombocytopenic purpura", "weight": 2.0, "id": 2779771385, "level": 3}
+{"count": 556, "name": "Sulfinpyrazone", "weight": 0.0, "id": 2777738910, "level": 3}
+{"count": 2108, "name": "Cryoprecipitate", "weight": 0.0, "id": 2778258694, "level": 3}
+{"count": 1305, "name": "Platelet-rich fibrin", "weight": 0.0, "id": 2777560349, "level": 3}
+{"count": 1923, "name": "Thrombogenicity", "weight": 0.0, "id": 2776649359, "level": 3}
+{"count": 860, "name": "Clot retraction", "weight": 0.0, "id": 2778863912, "level": 3}
+{"count": 495, "name": "Bernard\u2013Soulier syndrome", "weight": 0.0, "id": 2778212984, "level": 3}
+{"count": 627, "name": "Dense granule", "weight": 0.0, "id": 2781295650, "level": 3}
+{"count": 1539, "name": "Bleeding diathesis", "weight": 0.0, "id": 2776217217, "level": 3}
+{"count": 935, "name": "Eltrombopag", "weight": 0.0, "id": 2780588981, "level": 3}
+{"count": 2340, "name": "Buffy coat", "weight": 0.0, "id": 2778285947, "level": 3}
+{"count": 720, "name": "Plateletpheresis", "weight": 0.0, "id": 2779867487, "level": 3}
+{"count": 790, "name": "Platelet lysate", "weight": 0.0, "id": 2776662772, "level": 3}
+{"count": 858, "name": "Neonatal alloimmune thrombocytopenia", "weight": 0.0, "id": 2779989375, "level": 3}
+{"count": 487, "name": "Glanzmann's thrombasthenia", "weight": 0.0, "id": 2778198917, "level": 3}
+{"count": 211, "name": "May\u2013Hegglin anomaly", "weight": 0.0, "id": 2780225612, "level": 3}
+{"count": 176, "name": "Indobufen", "weight": 0.0, "id": 2776093650, "level": 3}
+{"count": 137, "name": "12-Hydroxyeicosatetraenoic acid", "weight": 0.0, "id": 2779082270, "level": 3}
+{"count": 392, "name": "Pseudothrombocytopenia", "weight": 0.0, "id": 2779361904, "level": 3}
+{"count": 57, "name": "PAC-1", "weight": 0.0, "id": 2776360605, "level": 3}
+{"count": 205, "name": "Gray platelet syndrome", "weight": 0.0, "id": 2778755535, "level": 3}
+{"count": 151, "name": "Post-transfusion purpura", "weight": 0.0, "id": 2776137380, "level": 3}
+{"count": 168, "name": "CD61", "weight": 0.0, "id": 2776123856, "level": 3}
+{"count": 115, "name": "Platelet storage pool deficiency", "weight": 0.0, "id": 2779617985, "level": 3}
+{"count": 86, "name": "CD36 antigen", "weight": 0.0, "id": 34340304, "level": 3}
+{"count": 162, "name": "Microvascular occlusion", "weight": 0.0, "id": 2780961768, "level": 3}
+{"count": 48, "name": "Microcyte", "weight": 0.0, "id": 2777142877, "level": 3}
+{"count": 32, "name": "Oprelvekin", "weight": 0.0, "id": 2777664456, "level": 3}
+{"count": 77, "name": "Thromboregulation", "weight": 0.0, "id": 2779418875, "level": 3}
+{"count": 18, "name": "Ditazole", "weight": 0.0, "id": 2779988433, "level": 3}
+{"count": 100, "name": "Platelet alpha-granule", "weight": 0.0, "id": 2780595474, "level": 3}
+{"count": 45, "name": "IBM 2997", "weight": 0.0, "id": 2780953096, "level": 3}

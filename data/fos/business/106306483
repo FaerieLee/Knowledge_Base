@@ -1,0 +1,26 @@
+{"count": 2891, "name": "Price discovery", "weight": 6.0, "id": 39658296, "level": 3}
+{"count": 4625, "name": "Spot contract", "weight": 10.0, "id": 175223733, "level": 3}
+{"count": 3950, "name": "Spot market", "weight": 8.0, "id": 2776789725, "level": 3}
+{"count": 2980, "name": "Derivatives market", "weight": 6.0, "id": 95727064, "level": 3}
+{"count": 4274, "name": "Forward market", "weight": 9.0, "id": 52837651, "level": 3}
+{"count": 354, "name": "Open interest", "weight": 0.0, "id": 9000899, "level": 3}
+{"count": 248, "name": "Forward curve", "weight": 0.0, "id": 2777149296, "level": 3}
+{"count": 1680, "name": "Contango", "weight": 3.0, "id": 90937171, "level": 3}
+{"count": 654, "name": "West Texas Intermediate", "weight": 1.0, "id": 70784835, "level": 3}
+{"count": 174, "name": "Theory of storage", "weight": 0.0, "id": 2778791410, "level": 3}
+{"count": 429, "name": "Eurodollar", "weight": 0.0, "id": 2778108091, "level": 3}
+{"count": 15, "name": "Interest rate future", "weight": 0.0, "id": 2780114766, "level": 3}
+{"count": 498, "name": "Brent Crude", "weight": 1.0, "id": 68593654, "level": 3}
+{"count": 146, "name": "Program trading", "weight": 0.0, "id": 2779069500, "level": 3}
+{"count": 182, "name": "Forward rate agreement", "weight": 0.0, "id": 191548909, "level": 3}
+{"count": 65, "name": "Calendar spread", "weight": 0.0, "id": 2778338211, "level": 3}
+{"count": 125, "name": "Soft commodity", "weight": 0.0, "id": 11066176, "level": 3}
+{"count": 1141, "name": "Commodity swap", "weight": 2.0, "id": 175992601, "level": 3}
+{"count": 156, "name": "International Futures", "weight": 0.0, "id": 2780613980, "level": 3}
+{"count": 20, "name": "Anticipatory democracy", "weight": 0.0, "id": 2776971020, "level": 3}
+{"count": 118, "name": "Fundamental analysis", "weight": 0.0, "id": 191256058, "level": 3}
+{"count": 14, "name": "Crush spread", "weight": 0.0, "id": 2776263912, "level": 3}
+{"count": 26, "name": "Badla", "weight": 0.0, "id": 2780561996, "level": 3}
+{"count": 26, "name": "Dubai Crude", "weight": 0.0, "id": 2777500981, "level": 3}
+{"count": 30, "name": "World Agricultural Supply and Demand Estimates", "weight": 0.0, "id": 2777115324, "level": 3}
+{"count": 17, "name": "Futures techniques", "weight": 0.0, "id": 2781334496, "level": 3}

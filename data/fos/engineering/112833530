@@ -1,0 +1,15 @@
+{"count": 2935, "name": "Coupling (electronics)", "weight": 2.0, "id": 44070075, "level": 3}
+{"count": 10109, "name": "Coupling coefficient of resonators", "weight": 10.0, "id": 91397564, "level": 3}
+{"count": 2184, "name": "Coupling loss", "weight": 2.0, "id": 21792228, "level": 3}
+{"count": 1769, "name": "Substrate coupling", "weight": 1.0, "id": 51674796, "level": 3}
+{"count": 4579, "name": "Direct coupling", "weight": 4.0, "id": 165738657, "level": 3}
+{"count": 3420, "name": "Fluid coupling", "weight": 3.0, "id": 86203231, "level": 3}
+{"count": 204, "name": "Unidirectional coupling", "weight": 0.0, "id": 2778736105, "level": 3}
+{"count": 362, "name": "Kinematic coupling", "weight": 0.0, "id": 2780143407, "level": 3}
+{"count": 337, "name": "Amplitude death", "weight": 0.0, "id": 2779135890, "level": 3}
+{"count": 217, "name": "Inertia coupling", "weight": 0.0, "id": 101700870, "level": 3}
+{"count": 164, "name": "Sequential coupling", "weight": 0.0, "id": 2776533822, "level": 3}
+{"count": 1252, "name": "Hose coupling", "weight": 1.0, "id": 2777952477, "level": 3}
+{"count": 23, "name": "Bonding jumper", "weight": 0.0, "id": 2778842615, "level": 3}
+{"count": 24, "name": "Spacer coupling", "weight": 0.0, "id": 2776147223, "level": 3}
+{"count": 17, "name": "Flare fitting", "weight": 0.0, "id": 2778671415, "level": 3}

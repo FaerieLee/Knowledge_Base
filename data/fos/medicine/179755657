@@ -1,0 +1,10 @@
+{"count": 7688, "name": "Standardized mortality ratio", "weight": 10.0, "id": 102803821, "level": 3}
+{"count": 2799, "name": "Years of potential life lost", "weight": 3.0, "id": 126451531, "level": 3}
+{"count": 897, "name": "National Death Index", "weight": 1.0, "id": 2777654188, "level": 3}
+{"count": 352, "name": "Force of mortality", "weight": 0.0, "id": 17318760, "level": 3}
+{"count": 245, "name": "Lee\u2013Carter model", "weight": 0.0, "id": 2780500595, "level": 3}
+{"count": 164, "name": "Mortality forecasting", "weight": 0.0, "id": 2776521188, "level": 3}
+{"count": 179, "name": "Gompertz\u2013Makeham law of mortality", "weight": 0.0, "id": 111873324, "level": 3}
+{"count": 40, "name": "Risk adjusted mortality rate", "weight": 0.0, "id": 2779008906, "level": 3}
+{"count": 221, "name": "Stroke Belt", "weight": 0.0, "id": 2781465692, "level": 3}
+{"count": 396, "name": "Compensation law of mortality", "weight": 0.0, "id": 152755659, "level": 3}

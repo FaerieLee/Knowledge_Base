@@ -1,0 +1,30 @@
+{"count": 5693, "name": "Sigma factor", "weight": 9.0, "id": 47319516, "level": 5}
+{"count": 2394, "name": "RNA polymerase III", "weight": 3.0, "id": 70916841, "level": 5}
+{"count": 6062, "name": "RNA polymerase I", "weight": 10.0, "id": 25281209, "level": 5}
+{"count": 1912, "name": "rpoS", "weight": 3.0, "id": 2777712861, "level": 5}
+{"count": 301, "name": "Rho factor", "weight": 0.0, "id": 2780193958, "level": 5}
+{"count": 1008, "name": "Antitermination", "weight": 1.0, "id": 42943712, "level": 5}
+{"count": 2042, "name": "T7 RNA polymerase", "weight": 3.0, "id": 2780048736, "level": 5}
+{"count": 1457, "name": "Termination factor", "weight": 2.0, "id": 51807208, "level": 5}
+{"count": 1520, "name": "Specificity factor", "weight": 2.0, "id": 103549609, "level": 5}
+{"count": 194, "name": "Totiviridae", "weight": 0.0, "id": 2776351847, "level": 5}
+{"count": 541, "name": "rpoN", "weight": 0.0, "id": 2779606329, "level": 5}
+{"count": 75, "name": "Tagetitoxin", "weight": 0.0, "id": 2777261517, "level": 5}
+{"count": 118, "name": "Totivirus", "weight": 0.0, "id": 2776938249, "level": 5}
+{"count": 613, "name": "Abortive initiation", "weight": 1.0, "id": 134134224, "level": 5}
+{"count": 168, "name": "Partitiviridae", "weight": 0.0, "id": 2780790975, "level": 5}
+{"count": 501, "name": "Bacterial transcription", "weight": 0.0, "id": 26261996, "level": 5}
+{"count": 21, "name": "Upstream activating factor", "weight": 0.0, "id": 2778534372, "level": 5}
+{"count": 1059, "name": "Transcription bubble", "weight": 1.0, "id": 199728103, "level": 5}
+{"count": 196, "name": "Streptolydigin", "weight": 0.0, "id": 2777695605, "level": 5}
+{"count": 81, "name": "POLRMT", "weight": 0.0, "id": 2777675176, "level": 5}
+{"count": 70, "name": "Chrysovirus", "weight": 0.0, "id": 2777763512, "level": 5}
+{"count": 41, "name": "Tetraviridae", "weight": 0.0, "id": 2777676531, "level": 5}
+{"count": 231, "name": "Intrinsic termination", "weight": 0.0, "id": 137212935, "level": 5}
+{"count": 71, "name": "Narnaviridae", "weight": 0.0, "id": 2776510791, "level": 5}
+{"count": 20, "name": "NTP binding site", "weight": 0.0, "id": 2781108227, "level": 5}
+{"count": 217, "name": "Anti-sigma factors", "weight": 0.0, "id": 33197759, "level": 5}
+{"count": 91, "name": "BDP1", "weight": 0.0, "id": 2779970882, "level": 5}
+{"count": 50, "name": "Myxopyronin", "weight": 0.0, "id": 2777847002, "level": 5}
+{"count": 32, "name": "Endornaviridae", "weight": 0.0, "id": 2778152797, "level": 5}
+{"count": 141, "name": "LacUV5", "weight": 0.0, "id": 2777693902, "level": 5}

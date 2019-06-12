@@ -1,0 +1,7 @@
+{"count": 591, "name": "Session Description Protocol", "weight": 4.0, "id": 138031650, "level": 3}
+{"count": 56, "name": "Call-Processing Language", "weight": 0.0, "id": 2779527699, "level": 3}
+{"count": 31, "name": "XML Configuration Access Protocol", "weight": 0.0, "id": 2781297125, "level": 3}
+{"count": 17, "name": "Text-based protocol", "weight": 0.0, "id": 2780887103, "level": 3}
+{"count": 1419, "name": "SIP trunking", "weight": 10.0, "id": 174255183, "level": 3}
+{"count": 48, "name": "Signaling Compression", "weight": 0.0, "id": 2780584057, "level": 3}
+{"count": 14, "name": "Java APIs for Integrated Networks", "weight": 0.0, "id": 2776702113, "level": 3}

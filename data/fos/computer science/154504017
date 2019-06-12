@@ -1,0 +1,16 @@
+{"count": 7549, "name": "Unique identifier", "weight": 10.0, "id": 119839945, "level": 3}
+{"count": 1066, "name": "Object identifier", "weight": 1.0, "id": 2776608989, "level": 3}
+{"count": 104, "name": "Uniform resource name", "weight": 0.0, "id": 10461743, "level": 3}
+{"count": 147, "name": "Persistent identifier", "weight": 0.0, "id": 2779484992, "level": 3}
+{"count": 6930, "name": "User identifier", "weight": 9.0, "id": 163365612, "level": 3}
+{"count": 24, "name": "Hygienic macro", "weight": 0.0, "id": 2780345947, "level": 3}
+{"count": 793, "name": "Group identifier", "weight": 1.0, "id": 75628126, "level": 3}
+{"count": 320, "name": "Locator/Identifier Separation Protocol", "weight": 0.0, "id": 60101212, "level": 3}
+{"count": 15, "name": "Internationalized Resource Identifier", "weight": 0.0, "id": 2778715138, "level": 3}
+{"count": 286, "name": "Process identifier", "weight": 0.0, "id": 201838085, "level": 3}
+{"count": 186, "name": "System identifier", "weight": 0.0, "id": 2776453540, "level": 3}
+{"count": 199, "name": "Globally unique identifier", "weight": 0.0, "id": 2780917906, "level": 3}
+{"count": 2106, "name": "Network Access Identifier", "weight": 2.0, "id": 182997721, "level": 3}
+{"count": 13, "name": "Serial Item and Contribution Identifier", "weight": 0.0, "id": 2777739574, "level": 3}
+{"count": 12, "name": "Automated Certificate Management Environment", "weight": 0.0, "id": 2778623643, "level": 3}
+{"count": 2962, "name": "Network Service Access Point Identifier", "weight": 3.0, "id": 67508692, "level": 3}

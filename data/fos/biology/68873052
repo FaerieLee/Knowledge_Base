@@ -1,0 +1,8 @@
+{"count": 7293, "name": "Genetic drift", "weight": 10.0, "id": 80990810, "level": 3}
+{"count": 3510, "name": "Genetic gain", "weight": 4.0, "id": 2778890363, "level": 3}
+{"count": 2707, "name": "Isolation by distance", "weight": 3.0, "id": 2777706067, "level": 3}
+{"count": 2105, "name": "Population bottleneck", "weight": 2.0, "id": 105076106, "level": 3}
+{"count": 927, "name": "Human genetic variation", "weight": 1.0, "id": 40583040, "level": 3}
+{"count": 46, "name": "Salix sericea", "weight": 0.0, "id": 2779065235, "level": 3}
+{"count": 75, "name": "Tajima's D", "weight": 0.0, "id": 158690344, "level": 3}
+{"count": 41, "name": "Genic capture", "weight": 0.0, "id": 2777166737, "level": 3}

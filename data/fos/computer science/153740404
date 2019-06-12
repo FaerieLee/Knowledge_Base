@@ -1,0 +1,8 @@
+{"count": 221, "name": "Software-defined data center", "weight": 2.0, "id": 160730041, "level": 3}
+{"count": 912, "name": "Raised floor", "weight": 10.0, "id": 2781108661, "level": 3}
+{"count": 432, "name": "Power usage effectiveness", "weight": 4.0, "id": 99881593, "level": 3}
+{"count": 454, "name": "Server room", "weight": 4.0, "id": 117355905, "level": 3}
+{"count": 38, "name": "Data center bridging", "weight": 0.0, "id": 2780386252, "level": 3}
+{"count": 47, "name": "SPECpower", "weight": 0.0, "id": 2776244720, "level": 3}
+{"count": 62, "name": "Data center network architectures", "weight": 0.0, "id": 2779247989, "level": 3}
+{"count": 850, "name": "Data center services", "weight": 9.0, "id": 5363266, "level": 3}

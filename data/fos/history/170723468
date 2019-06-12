@@ -1,0 +1,5 @@
+{"count": 248, "name": "Intel 80386", "weight": 6.0, "id": 167781542, "level": 4}
+{"count": 380, "name": "SSE2", "weight": 10.0, "id": 63165475, "level": 4}
+{"count": 17, "name": "Call gate", "weight": 0.0, "id": 2780846734, "level": 4}
+{"count": 247, "name": "Intel 8008", "weight": 6.0, "id": 75084916, "level": 4}
+{"count": 187, "name": "Intel GMA", "weight": 4.0, "id": 52224119, "level": 4}

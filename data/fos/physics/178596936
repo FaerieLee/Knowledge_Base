@@ -1,0 +1,11 @@
+{"count": 2487, "name": "Chirped pulse amplification", "weight": 2.0, "id": 26585016, "level": 4}
+{"count": 1370, "name": "Carrier-envelope phase", "weight": 1.0, "id": 2778259960, "level": 4}
+{"count": 11139, "name": "Femtosecond pulse shaping", "weight": 9.0, "id": 102595763, "level": 4}
+{"count": 625, "name": "Femtochemistry", "weight": 0.0, "id": 32414821, "level": 4}
+{"count": 995, "name": "Ultrashort pulse laser", "weight": 0.0, "id": 2781451037, "level": 4}
+{"count": 4644, "name": "Attosecond", "weight": 3.0, "id": 143357915, "level": 4}
+{"count": 439, "name": "Ultrafast electron diffraction", "weight": 0.0, "id": 2776234943, "level": 4}
+{"count": 166, "name": "Chirped mirror", "weight": 0.0, "id": 2778247098, "level": 4}
+{"count": 656, "name": "Optical autocorrelation", "weight": 0.0, "id": 58578762, "level": 4}
+{"count": 12352, "name": "Bandwidth-limited pulse", "weight": 10.0, "id": 179549803, "level": 4}
+{"count": 15, "name": "Serial time-encoded amplified microscopy", "weight": 0.0, "id": 2776532284, "level": 4}

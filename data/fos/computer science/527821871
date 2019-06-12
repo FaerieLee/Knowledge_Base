@@ -1,0 +1,12 @@
+{"count": 6899, "name": "Role-based access control", "weight": 10.0, "id": 45567728, "level": 3}
+{"count": 1188, "name": "Access control list", "weight": 1.0, "id": 2779684932, "level": 3}
+{"count": 5501, "name": "Computer access control", "weight": 7.0, "id": 44415380, "level": 3}
+{"count": 1054, "name": "XACML", "weight": 1.0, "id": 2779886121, "level": 3}
+{"count": 2932, "name": "Physical access", "weight": 4.0, "id": 1304207, "level": 3}
+{"count": 314, "name": "Reference monitor", "weight": 0.0, "id": 2778908344, "level": 3}
+{"count": 524, "name": "Digital credential", "weight": 0.0, "id": 82922719, "level": 3}
+{"count": 651, "name": "Principle of least privilege", "weight": 0.0, "id": 155835930, "level": 3}
+{"count": 67, "name": "Linux Security Modules", "weight": 0.0, "id": 2777036351, "level": 3}
+{"count": 45, "name": "Bell\u2013LaPadula model", "weight": 0.0, "id": 2778340491, "level": 3}
+{"count": 70, "name": "Biba Model", "weight": 0.0, "id": 2779073529, "level": 3}
+{"count": 33, "name": "Virtual private database", "weight": 0.0, "id": 2777770210, "level": 3}

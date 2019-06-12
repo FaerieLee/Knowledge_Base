@@ -1,0 +1,21 @@
+{"count": 6808, "name": "Multiuser detection", "weight": 10.0, "id": 2777104032, "level": 4}
+{"count": 5259, "name": "Rake receiver", "weight": 7.0, "id": 23486597, "level": 4}
+{"count": 1527, "name": "CDMA2000", "weight": 2.0, "id": 39183613, "level": 4}
+{"count": 1692, "name": "Process gain", "weight": 2.0, "id": 198124995, "level": 4}
+{"count": 1280, "name": "Near-far problem", "weight": 1.0, "id": 89719804, "level": 4}
+{"count": 797, "name": "Gold code", "weight": 1.0, "id": 3716999, "level": 4}
+{"count": 1323, "name": "Hadamard code", "weight": 1.0, "id": 26693338, "level": 4}
+{"count": 432, "name": "Macrodiversity", "weight": 0.0, "id": 28239884, "level": 4}
+{"count": 278, "name": "Carrier interferometry", "weight": 0.0, "id": 2777845385, "level": 4}
+{"count": 75, "name": "Multi-carrier code-division multiple access", "weight": 0.0, "id": 2779002334, "level": 4}
+{"count": 23, "name": "Adaptive projected subgradient method", "weight": 0.0, "id": 2780567931, "level": 4}
+{"count": 146, "name": "Cell breathing", "weight": 0.0, "id": 24728410, "level": 4}
+{"count": 489, "name": "Short Code", "weight": 0.0, "id": 2777067813, "level": 4}
+{"count": 94, "name": "gpsOne", "weight": 0.0, "id": 11143637, "level": 4}
+{"count": 338, "name": "Long code", "weight": 0.0, "id": 2776418058, "level": 4}
+{"count": 355, "name": "Common pilot channel", "weight": 0.0, "id": 2778543320, "level": 4}
+{"count": 22, "name": "Welch bounds", "weight": 0.0, "id": 2778710637, "level": 4}
+{"count": 28, "name": "Bipolar encoding", "weight": 0.0, "id": 2778933517, "level": 4}
+{"count": 2238, "name": "Multi-frequency time division multiple access", "weight": 3.0, "id": 190519244, "level": 4}
+{"count": 1630, "name": "CDMA spectral efficiency", "weight": 2.0, "id": 139970496, "level": 4}
+{"count": 13, "name": "Cellular Message Encryption Algorithm", "weight": 0.0, "id": 2778992337, "level": 4}

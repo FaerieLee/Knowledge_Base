@@ -1,0 +1,8 @@
+{"count": 984, "name": "Full configuration interaction", "weight": 4.0, "id": 127765767, "level": 4}
+{"count": 1647, "name": "Multireference configuration interaction", "weight": 7.0, "id": 101848323, "level": 4}
+{"count": 196, "name": "Size consistency and size extensivity", "weight": 0.0, "id": 92191843, "level": 4}
+{"count": 276, "name": "Quadratic configuration interaction", "weight": 1.0, "id": 2776249816, "level": 4}
+{"count": 2260, "name": "Complete active space", "weight": 10.0, "id": 41455181, "level": 4}
+{"count": 64, "name": "Configuration state function", "weight": 0.0, "id": 2775964361, "level": 4}
+{"count": 268, "name": "Multi-configurational self-consistent field", "weight": 1.0, "id": 24204152, "level": 4}
+{"count": 23, "name": "State-universal coupled cluster", "weight": 0.0, "id": 2779643610, "level": 4}

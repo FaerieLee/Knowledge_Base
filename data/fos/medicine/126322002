@@ -1,0 +1,200 @@
+{"count": 148316, "name": "Central nervous system", "weight": 2.0, "id": 529278444, "level": 2}
+{"count": 284082, "name": "Metabolism", "weight": 5.0, "id": 62231903, "level": 2}
+{"count": 494861, "name": "Pregnancy", "weight": 10.0, "id": 2779234561, "level": 2}
+{"count": 215493, "name": "Pathogenesis", "weight": 4.0, "id": 2780942790, "level": 2}
+{"count": 328136, "name": "Stroke", "weight": 6.0, "id": 518460624, "level": 2}
+{"count": 58637, "name": "Mechanism of action", "weight": 1.0, "id": 2776120743, "level": 2}
+{"count": 334685, "name": "Inflammation", "weight": 6.0, "id": 2776914184, "level": 2}
+{"count": 94947, "name": "Animal model", "weight": 1.0, "id": 2778117688, "level": 2}
+{"count": 46676, "name": "Electrophysiology", "weight": 0.0, "id": 185263204, "level": 2}
+{"count": 63172, "name": "Circulatory system", "weight": 1.0, "id": 72859922, "level": 2}
+{"count": 115774, "name": "Nitric oxide", "weight": 2.0, "id": 519581460, "level": 2}
+{"count": 240812, "name": "Body weight", "weight": 4.0, "id": 147583825, "level": 2}
+{"count": 126675, "name": "Hemodynamics", "weight": 2.0, "id": 178853913, "level": 2}
+{"count": 89654, "name": "Growth factor", "weight": 1.0, "id": 2775960820, "level": 2}
+{"count": 161234, "name": "Platelet", "weight": 3.0, "id": 89560881, "level": 2}
+{"count": 57058, "name": "Blood vessel", "weight": 1.0, "id": 2777663904, "level": 2}
+{"count": 257677, "name": "Fetus", "weight": 5.0, "id": 172680121, "level": 2}
+{"count": 69640, "name": "Glutamate receptor", "weight": 1.0, "id": 61174792, "level": 2}
+{"count": 93079, "name": "Hippocampus", "weight": 1.0, "id": 2781161787, "level": 2}
+{"count": 109246, "name": "Dopamine", "weight": 2.0, "id": 513476851, "level": 2}
+{"count": 176821, "name": "Oxidative stress", "weight": 3.0, "id": 2776151105, "level": 2}
+{"count": 208560, "name": "Ischemia", "weight": 4.0, "id": 541997718, "level": 2}
+{"count": 49381, "name": "Cerebral cortex", "weight": 0.0, "id": 2781041448, "level": 2}
+{"count": 273092, "name": "Hormone", "weight": 5.0, "id": 71315377, "level": 2}
+{"count": 76901, "name": "Serotonin", "weight": 1.0, "id": 2775864247, "level": 2}
+{"count": 482617, "name": "Receptor", "weight": 9.0, "id": 170493617, "level": 2}
+{"count": 96519, "name": "Blood flow", "weight": 1.0, "id": 158846371, "level": 2}
+{"count": 150495, "name": "Urine", "weight": 3.0, "id": 2780026642, "level": 2}
+{"count": 10864, "name": "Antagonist", "weight": 0.0, "id": 2776885963, "level": 2}
+{"count": 101000, "name": "Estrogen", "weight": 2.0, "id": 2777164284, "level": 2}
+{"count": 49814, "name": "Neurotransmitter", "weight": 1.0, "id": 2776219046, "level": 2}
+{"count": 117057, "name": "Stomach", "weight": 2.0, "id": 2779422922, "level": 2}
+{"count": 99765, "name": "Skeletal muscle", "weight": 2.0, "id": 2779959927, "level": 2}
+{"count": 71553, "name": "Endothelium", "weight": 1.0, "id": 2776992346, "level": 2}
+{"count": 70152, "name": "Interleukin", "weight": 1.0, "id": 74172505, "level": 2}
+{"count": 93545, "name": "Adipose tissue", "weight": 1.0, "id": 171089720, "level": 2}
+{"count": 47032, "name": "NMDA receptor", "weight": 0.0, "id": 67018056, "level": 2}
+{"count": 56405, "name": "Protein kinase C", "weight": 1.0, "id": 195794163, "level": 2}
+{"count": 25160, "name": "Guinea pig", "weight": 0.0, "id": 2778815084, "level": 2}
+{"count": 56834, "name": "Circadian rhythm", "weight": 1.0, "id": 121446783, "level": 2}
+{"count": 168016, "name": "Secretion", "weight": 3.0, "id": 49039625, "level": 2}
+{"count": 59942, "name": "Prostaglandin", "weight": 1.0, "id": 2780664492, "level": 2}
+{"count": 74719, "name": "Ovary", "weight": 1.0, "id": 2778324911, "level": 2}
+{"count": 41200, "name": "Neuropeptide", "weight": 0.0, "id": 118303440, "level": 2}
+{"count": 114944, "name": "Thrombosis", "weight": 2.0, "id": 2780868729, "level": 2}
+{"count": 25839, "name": "Electrodiagnosis", "weight": 0.0, "id": 523008124, "level": 2}
+{"count": 42974, "name": "Interleukin 6", "weight": 0.0, "id": 11988809, "level": 2}
+{"count": 36640, "name": "Electrocardiography", "weight": 0.0, "id": 2780040984, "level": 2}
+{"count": 54142, "name": "Acetylcholine", "weight": 1.0, "id": 2775910092, "level": 2}
+{"count": 146381, "name": "Downregulation and upregulation", "weight": 2.0, "id": 127561419, "level": 2}
+{"count": 38488, "name": "Neurotransmission", "weight": 0.0, "id": 200170125, "level": 2}
+{"count": 94529, "name": "Osteoporosis", "weight": 1.0, "id": 2776541429, "level": 2}
+{"count": 67229, "name": "Aorta", "weight": 1.0, "id": 2779980429, "level": 2}
+{"count": 94304, "name": "Clinical research", "weight": 1.0, "id": 502991105, "level": 2}
+{"count": 81953, "name": "Hypoxia (medical)", "weight": 1.0, "id": 2779435683, "level": 2}
+{"count": 59131, "name": "Hypothalamus", "weight": 1.0, "id": 2777003273, "level": 2}
+{"count": 94539, "name": "Atrial fibrillation", "weight": 1.0, "id": 2779161974, "level": 2}
+{"count": 36424, "name": "Catecholamine", "weight": 0.0, "id": 2775894120, "level": 2}
+{"count": 67709, "name": "Uterus", "weight": 1.0, "id": 2779066055, "level": 2}
+{"count": 224530, "name": "Stimulation", "weight": 4.0, "id": 24998067, "level": 2}
+{"count": 36060, "name": "Epidermal growth factor", "weight": 0.0, "id": 2776362946, "level": 2}
+{"count": 85458, "name": "Testosterone", "weight": 1.0, "id": 539436888, "level": 2}
+{"count": 31320, "name": "Long-term potentiation", "weight": 0.0, "id": 25274449, "level": 2}
+{"count": 60029, "name": "Small intestine", "weight": 1.0, "id": 2777882243, "level": 2}
+{"count": 32150, "name": "Muscle contraction", "weight": 0.0, "id": 2776050358, "level": 2}
+{"count": 92208, "name": "Myocyte", "weight": 1.0, "id": 207200792, "level": 2}
+{"count": 49106, "name": "Homeostasis", "weight": 0.0, "id": 63645605, "level": 2}
+{"count": 43899, "name": "Transforming growth factor", "weight": 0.0, "id": 118131993, "level": 2}
+{"count": 210851, "name": "Artery", "weight": 4.0, "id": 2776820930, "level": 2}
+{"count": 54774, "name": "Vasodilation", "weight": 1.0, "id": 120770815, "level": 2}
+{"count": 42685, "name": "Glucocorticoid", "weight": 0.0, "id": 2780841215, "level": 2}
+{"count": 39991, "name": "Hematology", "weight": 0.0, "id": 194409129, "level": 2}
+{"count": 41945, "name": "Dexamethasone", "weight": 0.0, "id": 2780401358, "level": 2}
+{"count": 59658, "name": "Alkaline phosphatase", "weight": 1.0, "id": 160160445, "level": 2}
+{"count": 59551, "name": "Vascular endothelial growth factor", "weight": 1.0, "id": 2777025900, "level": 2}
+{"count": 33304, "name": "Gastrointestinal tract", "weight": 0.0, "id": 2780512811, "level": 2}
+{"count": 32746, "name": "Motility", "weight": 0.0, "id": 58207958, "level": 2}
+{"count": 27088, "name": "Autonomic nervous system", "weight": 0.0, "id": 2777372248, "level": 2}
+{"count": 40232, "name": "Anticoagulant", "weight": 0.0, "id": 2778205648, "level": 2}
+{"count": 74008, "name": "Perfusion", "weight": 1.0, "id": 146957229, "level": 2}
+{"count": 61041, "name": "Heparin", "weight": 1.0, "id": 2777557582, "level": 2}
+{"count": 55729, "name": "Lactation", "weight": 1.0, "id": 2776659692, "level": 2}
+{"count": 47307, "name": "Blood proteins", "weight": 0.0, "id": 146543888, "level": 2}
+{"count": 35784, "name": "Arachidonic acid", "weight": 0.0, "id": 2778078955, "level": 2}
+{"count": 26717, "name": "Blood\u2013brain barrier", "weight": 0.0, "id": 2778402981, "level": 2}
+{"count": 24377, "name": "Fibroblast growth factor", "weight": 0.0, "id": 74373430, "level": 2}
+{"count": 46316, "name": "Androgen", "weight": 0.0, "id": 2777911890, "level": 2}
+{"count": 122658, "name": "Angiography", "weight": 2.0, "id": 2780643987, "level": 2}
+{"count": 62474, "name": "Arginine", "weight": 1.0, "id": 2777468819, "level": 2}
+{"count": 74275, "name": "Hazard ratio", "weight": 1.0, "id": 207103383, "level": 2}
+{"count": 33451, "name": "Serum albumin", "weight": 0.0, "id": 165616093, "level": 2}
+{"count": 25247, "name": "Synaptic plasticity", "weight": 0.0, "id": 98229152, "level": 2}
+{"count": 43773, "name": "Menopause", "weight": 0.0, "id": 2778562196, "level": 2}
+{"count": 19184, "name": "Nerve growth factor", "weight": 0.0, "id": 2778423431, "level": 2}
+{"count": 27722, "name": "Amygdala", "weight": 0.0, "id": 2779144063, "level": 2}
+{"count": 34879, "name": "Hepatocyte", "weight": 0.0, "id": 2776200302, "level": 2}
+{"count": 24019, "name": "Cyclooxygenase", "weight": 0.0, "id": 2779689624, "level": 2}
+{"count": 15617, "name": "Knockout mouse", "weight": 0.0, "id": 182704531, "level": 2}
+{"count": 22015, "name": "Potassium channel", "weight": 0.0, "id": 83743174, "level": 2}
+{"count": 21780, "name": "Basal ganglia", "weight": 0.0, "id": 2778187257, "level": 2}
+{"count": 61620, "name": "Ablation", "weight": 1.0, "id": 2778902805, "level": 2}
+{"count": 84000, "name": "Aneurysm", "weight": 1.0, "id": 2776098176, "level": 2}
+{"count": 129643, "name": "Stenosis", "weight": 2.0, "id": 2780007028, "level": 2}
+{"count": 16955, "name": "Patch clamp", "weight": 0.0, "id": 147944092, "level": 2}
+{"count": 50378, "name": "Morphine", "weight": 1.0, "id": 2777389121, "level": 2}
+{"count": 41964, "name": "Nicotine", "weight": 0.0, "id": 2779547902, "level": 2}
+{"count": 40712, "name": "Cerebral blood flow", "weight": 0.0, "id": 157767197, "level": 2}
+{"count": 43302, "name": "Pulmonary embolism", "weight": 0.0, "id": 2776265017, "level": 2}
+{"count": 28465, "name": "Microcirculation", "weight": 0.0, "id": 12722491, "level": 2}
+{"count": 39348, "name": "Adenoma", "weight": 0.0, "id": 2777428134, "level": 2}
+{"count": 19217, "name": "Substance P", "weight": 0.0, "id": 2776533618, "level": 2}
+{"count": 20965, "name": "Hamster", "weight": 0.0, "id": 2778575167, "level": 2}
+{"count": 77195, "name": "Endocrine system", "weight": 1.0, "id": 46699223, "level": 2}
+{"count": 57417, "name": "Adenosine", "weight": 1.0, "id": 2776991684, "level": 2}
+{"count": 27368, "name": "Adrenergic", "weight": 0.0, "id": 158453852, "level": 2}
+{"count": 38580, "name": "Bone remodeling", "weight": 0.0, "id": 170033053, "level": 2}
+{"count": 100490, "name": "Stent", "weight": 2.0, "id": 2778583881, "level": 2}
+{"count": 33092, "name": "Gonadotropin", "weight": 0.0, "id": 2778782382, "level": 2}
+{"count": 55450, "name": "Steroid", "weight": 1.0, "id": 2780902042, "level": 2}
+{"count": 49688, "name": "Pulmonary artery", "weight": 1.0, "id": 2780940725, "level": 2}
+{"count": 35598, "name": "Endometrium", "weight": 0.0, "id": 2779742232, "level": 2}
+{"count": 26531, "name": "Acetylcholinesterase", "weight": 0.0, "id": 2778816929, "level": 2}
+{"count": 58607, "name": "Histamine", "weight": 1.0, "id": 1122143, "level": 2}
+{"count": 36007, "name": "Oocyte", "weight": 0.0, "id": 2776690073, "level": 2}
+{"count": 28512, "name": "Muscarinic acetylcholine receptor", "weight": 0.0, "id": 33789571, "level": 2}
+{"count": 33974, "name": "Cardiopulmonary bypass", "weight": 0.0, "id": 2778881276, "level": 2}
+{"count": 29495, "name": "Menstrual cycle", "weight": 0.0, "id": 2779058012, "level": 2}
+{"count": 39114, "name": "Estrous cycle", "weight": 0.0, "id": 1998276, "level": 2}
+{"count": 40010, "name": "Saliva", "weight": 0.0, "id": 504460877, "level": 2}
+{"count": 45169, "name": "Adrenergic receptor", "weight": 0.0, "id": 40465926, "level": 2}
+{"count": 18467, "name": "Premovement neuronal activity", "weight": 0.0, "id": 74254510, "level": 2}
+{"count": 46751, "name": "Cardiac surgery", "weight": 0.0, "id": 2778789114, "level": 2}
+{"count": 75377, "name": "Albumin", "weight": 1.0, "id": 2776125364, "level": 2}
+{"count": 26828, "name": "Spermatogenesis", "weight": 0.0, "id": 123765429, "level": 2}
+{"count": 45345, "name": "Vitamin E", "weight": 0.0, "id": 2777551382, "level": 2}
+{"count": 26475, "name": "Salivary gland", "weight": 0.0, "id": 2778937882, "level": 2}
+{"count": 55034, "name": "Infertility", "weight": 1.0, "id": 2777688143, "level": 2}
+{"count": 12247, "name": "Testicle", "weight": 0.0, "id": 2779066085, "level": 2}
+{"count": 65993, "name": "Hyperplasia", "weight": 1.0, "id": 2777562237, "level": 2}
+{"count": 120150, "name": "Asymptomatic", "weight": 2.0, "id": 2777910003, "level": 2}
+{"count": 28054, "name": "Bone resorption", "weight": 0.0, "id": 673006, "level": 2}
+{"count": 12355, "name": "CAD", "weight": 0.0, "id": 194789388, "level": 2}
+{"count": 13218, "name": "Blood cell", "weight": 0.0, "id": 2779979121, "level": 2}
+{"count": 27110, "name": "Somatostatin", "weight": 0.0, "id": 2776297358, "level": 2}
+{"count": 26392, "name": "Corticosterone", "weight": 0.0, "id": 2780352252, "level": 2}
+{"count": 24627, "name": "Oxytocin", "weight": 0.0, "id": 2776176026, "level": 2}
+{"count": 64605, "name": "Atrophy", "weight": 1.0, "id": 2781172350, "level": 2}
+{"count": 40685, "name": "Duodenum", "weight": 0.0, "id": 2776809568, "level": 2}
+{"count": 13555, "name": "Brain-derived neurotrophic factor", "weight": 0.0, "id": 2778790584, "level": 2}
+{"count": 32661, "name": "Scintigraphy", "weight": 0.0, "id": 2779902710, "level": 2}
+{"count": 21055, "name": "Phosphodiesterase", "weight": 0.0, "id": 62826618, "level": 2}
+{"count": 53999, "name": "Angioplasty", "weight": 1.0, "id": 2780326628, "level": 2}
+{"count": 24765, "name": "Caffeine", "weight": 0.0, "id": 2778500429, "level": 2}
+{"count": 110154, "name": "Catheter", "weight": 2.0, "id": 2781267111, "level": 2}
+{"count": 75105, "name": "Vein", "weight": 1.0, "id": 2777202286, "level": 2}
+{"count": 12915, "name": "Neuropeptide Y receptor", "weight": 0.0, "id": 93984277, "level": 2}
+{"count": 34423, "name": "Vitamin C", "weight": 0.0, "id": 2780022331, "level": 2}
+{"count": 24416, "name": "Neurogenesis", "weight": 0.0, "id": 4746552, "level": 2}
+{"count": 39818, "name": "Ovulation", "weight": 0.0, "id": 2777702977, "level": 2}
+{"count": 57278, "name": "Neuroprotection", "weight": 1.0, "id": 25498285, "level": 2}
+{"count": 24014, "name": "Catabolism", "weight": 0.0, "id": 96942376, "level": 2}
+{"count": 38136, "name": "Aortic valve", "weight": 0.0, "id": 2780714102, "level": 2}
+{"count": 30894, "name": "Melatonin", "weight": 0.0, "id": 2778182776, "level": 2}
+{"count": 38798, "name": "Calcification", "weight": 0.0, "id": 2780309369, "level": 2}
+{"count": 34978, "name": "Mitral valve", "weight": 0.0, "id": 2777543888, "level": 2}
+{"count": 28089, "name": "Osteoblast", "weight": 0.0, "id": 2778260815, "level": 2}
+{"count": 28121, "name": "Apolipoprotein E", "weight": 0.0, "id": 57089818, "level": 2}
+{"count": 26659, "name": "Ileum", "weight": 0.0, "id": 2777226302, "level": 2}
+{"count": 34012, "name": "Vasopressin", "weight": 0.0, "id": 2776370428, "level": 2}
+{"count": 37969, "name": "Animal studies", "weight": 0.0, "id": 172268261, "level": 2}
+{"count": 22252, "name": "Bile acid", "weight": 0.0, "id": 2779399885, "level": 2}
+{"count": 15812, "name": "photoperiodism", "weight": 0.0, "id": 55969652, "level": 2}
+{"count": 47366, "name": "Depolarization", "weight": 0.0, "id": 4141045, "level": 2}
+{"count": 26912, "name": "Vasoconstriction", "weight": 0.0, "id": 2779961880, "level": 2}
+{"count": 21665, "name": "Neurotrophic factors", "weight": 0.0, "id": 160539049, "level": 2}
+{"count": 8565, "name": "Microdialysis", "weight": 0.0, "id": 50156730, "level": 2}
+{"count": 18917, "name": "Voltage-dependent calcium channel", "weight": 0.0, "id": 18699975, "level": 2}
+{"count": 27932, "name": "Warfarin", "weight": 0.0, "id": 2776301958, "level": 2}
+{"count": 13136, "name": "Olfactory bulb", "weight": 0.0, "id": 2780496858, "level": 2}
+{"count": 39223, "name": "Glycogen", "weight": 0.0, "id": 2777499176, "level": 2}
+{"count": 23828, "name": "Ventricular fibrillation", "weight": 0.0, "id": 2781005686, "level": 2}
+{"count": 26576, "name": "Subarachnoid hemorrhage", "weight": 0.0, "id": 2777736543, "level": 2}
+{"count": 46319, "name": "Contractility", "weight": 0.0, "id": 39133596, "level": 2}
+{"count": 14773, "name": "Vascular permeability", "weight": 0.0, "id": 113045295, "level": 2}
+{"count": 13288, "name": "Single-photon emission computed tomography", "weight": 0.0, "id": 2780441642, "level": 2}
+{"count": 10869, "name": "Sexual maturity", "weight": 0.0, "id": 192536144, "level": 2}
+{"count": 49005, "name": "Embolization", "weight": 0.0, "id": 2776035437, "level": 2}
+{"count": 28538, "name": "Endocarditis", "weight": 0.0, "id": 2775872228, "level": 2}
+{"count": 14326, "name": "Calcitonin gene-related peptide", "weight": 0.0, "id": 163170386, "level": 2}
+{"count": 37501, "name": "Weaning", "weight": 0.0, "id": 2780655333, "level": 2}
+{"count": 12715, "name": "Neuromuscular junction", "weight": 0.0, "id": 2777240379, "level": 2}
+{"count": 24187, "name": "Embolism", "weight": 0.0, "id": 2777185221, "level": 2}
+{"count": 66523, "name": "Occlusion", "weight": 1.0, "id": 2776268601, "level": 2}
+{"count": 14551, "name": "Midbrain", "weight": 0.0, "id": 552161191, "level": 2}
+{"count": 33909, "name": "Endometriosis", "weight": 0.0, "id": 2779522080, "level": 2}
+{"count": 28600, "name": "Hemostasis", "weight": 0.0, "id": 2778589496, "level": 2}
+{"count": 21205, "name": "Portal vein", "weight": 0.0, "id": 2779033008, "level": 2}
+{"count": 20500, "name": "QT interval", "weight": 0.0, "id": 118441451, "level": 2}
+{"count": 9537, "name": "Caudate nucleus", "weight": 0.0, "id": 2781423529, "level": 2}
+{"count": 5098, "name": "Self-administration", "weight": 0.0, "id": 2778555786, "level": 2}

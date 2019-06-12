@@ -1,0 +1,6 @@
+{"count": 3036, "name": "Analogue switch", "weight": 10.0, "id": 45367353, "level": 4}
+{"count": 47, "name": "Load-balanced switch", "weight": 0.0, "id": 2780768318, "level": 4}
+{"count": 721, "name": "Time-Slot Interchange", "weight": 2.0, "id": 178859891, "level": 4}
+{"count": 340, "name": "Banyan switch", "weight": 1.0, "id": 88105052, "level": 4}
+{"count": 1980, "name": "DIP switch", "weight": 6.0, "id": 61742228, "level": 4}
+{"count": 1411, "name": "Number One Crossbar Switching System", "weight": 4.0, "id": 56919463, "level": 4}

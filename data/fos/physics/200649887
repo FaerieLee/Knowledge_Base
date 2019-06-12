@@ -1,0 +1,9 @@
+{"count": 1134, "name": "Thermal blooming", "weight": 0.0, "id": 187151468, "level": 4}
+{"count": 3478, "name": "Gain-switching", "weight": 2.0, "id": 170931432, "level": 4}
+{"count": 9857, "name": "Active laser medium", "weight": 7.0, "id": 28745240, "level": 4}
+{"count": 8844, "name": "Diode-pumped solid-state laser", "weight": 6.0, "id": 141790741, "level": 4}
+{"count": 985, "name": "Disk laser", "weight": 0.0, "id": 2779199891, "level": 4}
+{"count": 2847, "name": "Gain", "weight": 2.0, "id": 166566249, "level": 4}
+{"count": 166, "name": "Solar-pumped laser", "weight": 0.0, "id": 2781465288, "level": 4}
+{"count": 13031, "name": "Injection seeder", "weight": 10.0, "id": 157560385, "level": 4}
+{"count": 10456, "name": "Semiconductor optical gain", "weight": 8.0, "id": 60511073, "level": 4}

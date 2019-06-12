@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/data_process/fos_recognize/checkpoints/text8.ckpt.data-00000-of-00001" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/data_process/fos_recognize/checkpoints/text8.ckpt.index" charset="US-ASCII" />
+  </component>
+</project>

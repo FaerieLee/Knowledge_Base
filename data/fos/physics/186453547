@@ -1,0 +1,23 @@
+{"count": 19730, "name": "Neutrino oscillation", "weight": 10.0, "id": 107966497, "level": 3}
+{"count": 3503, "name": "Charged current", "weight": 1.0, "id": 2779643182, "level": 3}
+{"count": 5443, "name": "Neutral current", "weight": 2.0, "id": 84235322, "level": 3}
+{"count": 13311, "name": "Solar neutrino", "weight": 6.0, "id": 5807566, "level": 3}
+{"count": 7829, "name": "Double beta decay", "weight": 3.0, "id": 74857556, "level": 3}
+{"count": 1903, "name": "Baryon asymmetry", "weight": 0.0, "id": 2779293552, "level": 3}
+{"count": 1451, "name": "Weinberg angle", "weight": 0.0, "id": 2777532455, "level": 3}
+{"count": 3879, "name": "Mass matrix", "weight": 1.0, "id": 135585149, "level": 3}
+{"count": 2073, "name": "Type II supernova", "weight": 1.0, "id": 31461409, "level": 3}
+{"count": 904, "name": "Mass generation", "weight": 0.0, "id": 2780935849, "level": 3}
+{"count": 5505, "name": "MAJORANA", "weight": 2.0, "id": 2778761060, "level": 3}
+{"count": 1428, "name": "ICARUS", "weight": 0.0, "id": 185892436, "level": 3}
+{"count": 1293, "name": "KATRIN", "weight": 0.0, "id": 2777664397, "level": 3}
+{"count": 247, "name": "Urca process", "weight": 0.0, "id": 2780548072, "level": 3}
+{"count": 3067, "name": "Seesaw molecular geometry", "weight": 1.0, "id": 159762639, "level": 3}
+{"count": 108, "name": "Geoneutrino", "weight": 0.0, "id": 2777082120, "level": 3}
+{"count": 97, "name": "Bilepton", "weight": 0.0, "id": 2776248513, "level": 3}
+{"count": 71, "name": "Particle shower", "weight": 0.0, "id": 2781321235, "level": 3}
+{"count": 94, "name": "Relic particles", "weight": 0.0, "id": 2780809214, "level": 3}
+{"count": 25, "name": "Big European Bubble Chamber", "weight": 0.0, "id": 2778606359, "level": 3}
+{"count": 31, "name": "Nuclear interaction length", "weight": 0.0, "id": 2779819111, "level": 3}
+{"count": 39, "name": "Mu to E Gamma", "weight": 0.0, "id": 2780834713, "level": 3}
+{"count": 10, "name": "ARIANNA Experiment", "weight": 0.0, "id": 2779918387, "level": 3}

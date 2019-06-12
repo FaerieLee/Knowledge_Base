@@ -1,0 +1,13 @@
+{"count": 610, "name": "Amdahl's law", "weight": 2.0, "id": 114595137, "level": 3}
+{"count": 326, "name": "Dark silicon", "weight": 1.0, "id": 2778380858, "level": 3}
+{"count": 2370, "name": "Single-core", "weight": 10.0, "id": 2780365336, "level": 3}
+{"count": 295, "name": "Performance per watt", "weight": 1.0, "id": 2779796603, "level": 3}
+{"count": 136, "name": "Manycore processor", "weight": 0.0, "id": 2780306410, "level": 3}
+{"count": 65, "name": "MCAPI", "weight": 0.0, "id": 2780328082, "level": 3}
+{"count": 46, "name": "UltraSPARC T2", "weight": 0.0, "id": 2780242086, "level": 3}
+{"count": 103, "name": "Cray XT5", "weight": 0.0, "id": 2781157231, "level": 3}
+{"count": 135, "name": "OpenSPARC", "weight": 0.0, "id": 2778587383, "level": 3}
+{"count": 42, "name": "TILE64", "weight": 0.0, "id": 2778862576, "level": 3}
+{"count": 51, "name": "TILEPro64", "weight": 0.0, "id": 2777304591, "level": 3}
+{"count": 14, "name": "Inter-processor interrupt", "weight": 0.0, "id": 2777209291, "level": 3}
+{"count": 9, "name": "Parallel Patterns Library", "weight": 0.0, "id": 2778017799, "level": 3}

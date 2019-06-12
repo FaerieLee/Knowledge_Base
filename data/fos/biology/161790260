@@ -1,0 +1,200 @@
+{"count": 75530, "name": "Reaction mechanism", "weight": 6.0, "id": 65024703, "level": 3}
+{"count": 77102, "name": "Carbon monoxide", "weight": 6.0, "id": 512735826, "level": 3}
+{"count": 27099, "name": "Heterogeneous catalysis", "weight": 2.0, "id": 175583648, "level": 3}
+{"count": 82001, "name": "Platinum", "weight": 6.0, "id": 518104683, "level": 3}
+{"count": 123486, "name": "Methanol", "weight": 10.0, "id": 2779607525, "level": 3}
+{"count": 64996, "name": "Reaction rate", "weight": 5.0, "id": 175113610, "level": 3}
+{"count": 109829, "name": "Photocatalysis", "weight": 8.0, "id": 65165184, "level": 3}
+{"count": 91404, "name": "Palladium", "weight": 7.0, "id": 502130503, "level": 3}
+{"count": 34247, "name": "Molecular sieve", "weight": 2.0, "id": 105281773, "level": 3}
+{"count": 73721, "name": "Zeolite", "weight": 5.0, "id": 2778077586, "level": 3}
+{"count": 70879, "name": "Cracking", "weight": 5.0, "id": 58396970, "level": 3}
+{"count": 38836, "name": "Hydrogen production", "weight": 3.0, "id": 202189072, "level": 3}
+{"count": 4117, "name": "Binary compound", "weight": 0.0, "id": 2776381363, "level": 3}
+{"count": 53772, "name": "Isomerization", "weight": 4.0, "id": 126661725, "level": 3}
+{"count": 66238, "name": "Enantioselective synthesis", "weight": 5.0, "id": 146686406, "level": 3}
+{"count": 27888, "name": "Chemisorption", "weight": 2.0, "id": 33790079, "level": 3}
+{"count": 28582, "name": "Electrocatalyst", "weight": 2.0, "id": 33989665, "level": 3}
+{"count": 60352, "name": "Aldehyde", "weight": 4.0, "id": 2779825165, "level": 3}
+{"count": 11070, "name": "Green chemistry", "weight": 0.0, "id": 91558341, "level": 3}
+{"count": 58378, "name": "Ruthenium", "weight": 4.0, "id": 555196967, "level": 3}
+{"count": 13820, "name": "Biocatalysis", "weight": 1.0, "id": 191503008, "level": 3}
+{"count": 24633, "name": "Alkane", "weight": 1.0, "id": 2781327020, "level": 3}
+{"count": 58176, "name": "Alkylation", "weight": 4.0, "id": 164361826, "level": 3}
+{"count": 62572, "name": "Calcination", "weight": 5.0, "id": 7082614, "level": 3}
+{"count": 38788, "name": "Rhodium", "weight": 3.0, "id": 521398313, "level": 3}
+{"count": 12148, "name": "Reaction intermediate", "weight": 0.0, "id": 105768512, "level": 3}
+{"count": 25695, "name": "Addition reaction", "weight": 2.0, "id": 92832382, "level": 3}
+{"count": 35390, "name": "Syngas", "weight": 2.0, "id": 194439259, "level": 3}
+{"count": 22384, "name": "Transesterification", "weight": 1.0, "id": 2777241282, "level": 3}
+{"count": 13967, "name": "Homogeneous catalysis", "weight": 1.0, "id": 109474758, "level": 3}
+{"count": 12096, "name": "Partial oxidation", "weight": 0.0, "id": 110686534, "level": 3}
+{"count": 17468, "name": "Steam reforming", "weight": 1.0, "id": 43535742, "level": 3}
+{"count": 39306, "name": "Regioselectivity", "weight": 3.0, "id": 59759590, "level": 3}
+{"count": 4636, "name": "Stereoisomerism", "weight": 0.0, "id": 129694887, "level": 3}
+{"count": 31195, "name": "Dehydrogenation", "weight": 2.0, "id": 119889771, "level": 3}
+{"count": 10123, "name": "Fischer\u2013Tropsch process", "weight": 0.0, "id": 62192006, "level": 3}
+{"count": 11318, "name": "Enzyme catalysis", "weight": 0.0, "id": 69118441, "level": 3}
+{"count": 24997, "name": "Iridium", "weight": 2.0, "id": 528581852, "level": 3}
+{"count": 30231, "name": "Lewis acids and bases", "weight": 2.0, "id": 163638829, "level": 3}
+{"count": 5973, "name": "Anaerobic oxidation of methane", "weight": 0.0, "id": 104577883, "level": 3}
+{"count": 61194, "name": "Mesoporous material", "weight": 4.0, "id": 82776694, "level": 3}
+{"count": 7976, "name": "Membrane reactor", "weight": 0.0, "id": 97488330, "level": 3}
+{"count": 26731, "name": "Epoxide", "weight": 2.0, "id": 2776920199, "level": 3}
+{"count": 12580, "name": "Oxygen evolution", "weight": 1.0, "id": 135473242, "level": 3}
+{"count": 23372, "name": "Catalyst support", "weight": 1.0, "id": 178394782, "level": 3}
+{"count": 13579, "name": "Hydrodesulfurization", "weight": 1.0, "id": 197129369, "level": 3}
+{"count": 20650, "name": "Condensation reaction", "weight": 1.0, "id": 207245611, "level": 3}
+{"count": 7231, "name": "Water-gas shift reaction", "weight": 0.0, "id": 66114498, "level": 3}
+{"count": 7287, "name": "Cerium oxide", "weight": 0.0, "id": 2780657402, "level": 3}
+{"count": 7209, "name": "Batch reactor", "weight": 0.0, "id": 47502133, "level": 3}
+{"count": 21284, "name": "Alkene", "weight": 1.0, "id": 2776254738, "level": 3}
+{"count": 13877, "name": "Butane", "weight": 1.0, "id": 2778717364, "level": 3}
+{"count": 7318, "name": "Acid catalysis", "weight": 0.0, "id": 2777380813, "level": 3}
+{"count": 11805, "name": "Propene", "weight": 0.0, "id": 2777954637, "level": 3}
+{"count": 4139, "name": "Temperature-programmed reduction", "weight": 0.0, "id": 2777116465, "level": 3}
+{"count": 14197, "name": "Michael reaction", "weight": 1.0, "id": 112423150, "level": 3}
+{"count": 16522, "name": "Benzaldehyde", "weight": 1.0, "id": 2779692420, "level": 3}
+{"count": 22065, "name": "Carbene", "weight": 1.0, "id": 2777164566, "level": 3}
+{"count": 6044, "name": "Cobalt oxide", "weight": 0.0, "id": 2779664699, "level": 3}
+{"count": 19891, "name": "Organic synthesis", "weight": 1.0, "id": 535685238, "level": 3}
+{"count": 5555, "name": "Catalytic reforming", "weight": 0.0, "id": 116953117, "level": 3}
+{"count": 6569, "name": "Polyoxometalate", "weight": 0.0, "id": 2777498215, "level": 3}
+{"count": 10888, "name": "Amination", "weight": 0.0, "id": 198503264, "level": 3}
+{"count": 42723, "name": "Olefin fiber", "weight": 3.0, "id": 51886252, "level": 3}
+{"count": 11657, "name": "Carbonylation", "weight": 0.0, "id": 168382676, "level": 3}
+{"count": 15287, "name": "Triphenylphosphine", "weight": 1.0, "id": 2777247709, "level": 3}
+{"count": 7191, "name": "Hydrotalcite", "weight": 0.0, "id": 64792281, "level": 3}
+{"count": 9324, "name": "Microreactor", "weight": 0.0, "id": 147831808, "level": 3}
+{"count": 6809, "name": "Vanadium oxide", "weight": 0.0, "id": 2776820632, "level": 3}
+{"count": 21447, "name": "Noble metal", "weight": 1.0, "id": 2775871042, "level": 3}
+{"count": 9851, "name": "Furfural", "weight": 0.0, "id": 2779719330, "level": 3}
+{"count": 7655, "name": "Acrolein", "weight": 0.0, "id": 2780422782, "level": 3}
+{"count": 5885, "name": "Aldol condensation", "weight": 0.0, "id": 18616679, "level": 3}
+{"count": 6315, "name": "Catalytic combustion", "weight": 0.0, "id": 24411645, "level": 3}
+{"count": 7870, "name": "Oxidative coupling of methane", "weight": 0.0, "id": 83155894, "level": 3}
+{"count": 31342, "name": "Phosphine", "weight": 2.0, "id": 2777716191, "level": 3}
+{"count": 9852, "name": "Hydrogenolysis", "weight": 0.0, "id": 181886296, "level": 3}
+{"count": 2306, "name": "Carbochemistry", "weight": 0.0, "id": 21434488, "level": 3}
+{"count": 4447, "name": "Chemoselectivity", "weight": 0.0, "id": 190667039, "level": 3}
+{"count": 12117, "name": "Aldol reaction", "weight": 0.0, "id": 61156836, "level": 3}
+{"count": 10071, "name": "Ethylbenzene", "weight": 0.0, "id": 2779533485, "level": 3}
+{"count": 15315, "name": "Alkyne", "weight": 1.0, "id": 2779012754, "level": 3}
+{"count": 8231, "name": "Hydrosilylation", "weight": 0.0, "id": 2778421718, "level": 3}
+{"count": 6724, "name": "Aromatization", "weight": 0.0, "id": 2779325354, "level": 3}
+{"count": 6516, "name": "Friedel\u2013Crafts reaction", "weight": 0.0, "id": 202224193, "level": 3}
+{"count": 10235, "name": "Cyclohexene", "weight": 0.0, "id": 2779484182, "level": 3}
+{"count": 21704, "name": "Catalytic oxidation", "weight": 1.0, "id": 78030364, "level": 3}
+{"count": 7615, "name": "Br\u00f8nsted\u2013Lowry acid\u2013base theory", "weight": 0.0, "id": 79878483, "level": 3}
+{"count": 4094, "name": "Aldimine", "weight": 0.0, "id": 67524406, "level": 3}
+{"count": 11153, "name": "Disproportionation", "weight": 0.0, "id": 17365422, "level": 3}
+{"count": 10801, "name": "Cyclohexanone", "weight": 0.0, "id": 2780450521, "level": 3}
+{"count": 3485, "name": "Ring-closing metathesis", "weight": 0.0, "id": 2778593322, "level": 3}
+{"count": 23695, "name": "Coupling reaction", "weight": 1.0, "id": 48424934, "level": 3}
+{"count": 10440, "name": "Order of reaction", "weight": 0.0, "id": 135502975, "level": 3}
+{"count": 4866, "name": "Isobutane", "weight": 0.0, "id": 2778861962, "level": 3}
+{"count": 2681, "name": "Lanthanum oxide", "weight": 0.0, "id": 2778802672, "level": 3}
+{"count": 4513, "name": "Dibenzothiophene", "weight": 0.0, "id": 2778949310, "level": 3}
+{"count": 9473, "name": "Annulation", "weight": 0.0, "id": 7512685, "level": 3}
+{"count": 2421, "name": "Chemical reaction engineering", "weight": 0.0, "id": 198134878, "level": 3}
+{"count": 5674, "name": "Salt metathesis reaction", "weight": 0.0, "id": 44138296, "level": 3}
+{"count": 5914, "name": "Cascade reaction", "weight": 0.0, "id": 58548122, "level": 3}
+{"count": 9037, "name": "Catalytic converter", "weight": 0.0, "id": 2778727938, "level": 3}
+{"count": 9161, "name": "Benzyl alcohol", "weight": 0.0, "id": 2776460118, "level": 3}
+{"count": 7537, "name": "Acetophenone", "weight": 0.0, "id": 2775888733, "level": 3}
+{"count": 928, "name": "Briggs\u2013Rauscher reaction", "weight": 0.0, "id": 189935429, "level": 3}
+{"count": 6425, "name": "Deoxygenation", "weight": 0.0, "id": 2779778602, "level": 3}
+{"count": 4657, "name": "Naphtha", "weight": 0.0, "id": 134484671, "level": 3}
+{"count": 4635, "name": "Organometallic chemistry", "weight": 0.0, "id": 514695523, "level": 3}
+{"count": 3908, "name": "Sulfidation", "weight": 0.0, "id": 2778480967, "level": 3}
+{"count": 5380, "name": "Butene", "weight": 0.0, "id": 2776164856, "level": 3}
+{"count": 4539, "name": "Cyclopropanation", "weight": 0.0, "id": 2777052750, "level": 3}
+{"count": 2870, "name": "Reactive distillation", "weight": 0.0, "id": 2780843468, "level": 3}
+{"count": 3671, "name": "Side reaction", "weight": 0.0, "id": 2779229924, "level": 3}
+{"count": 5211, "name": "Phthalic anhydride", "weight": 0.0, "id": 2778226065, "level": 3}
+{"count": 692, "name": "Self-condensation", "weight": 0.0, "id": 2776527169, "level": 3}
+{"count": 4107, "name": "Mannich reaction", "weight": 0.0, "id": 2780640045, "level": 3}
+{"count": 11396, "name": "One-pot synthesis", "weight": 0.0, "id": 118939319, "level": 3}
+{"count": 4548, "name": "Knoevenagel condensation", "weight": 0.0, "id": 168395250, "level": 3}
+{"count": 3771, "name": "Anisole", "weight": 0.0, "id": 2776404417, "level": 3}
+{"count": 5637, "name": "Cyclohexanol", "weight": 0.0, "id": 2776606100, "level": 3}
+{"count": 1945, "name": "Activated alumina", "weight": 0.0, "id": 34778079, "level": 3}
+{"count": 10371, "name": "Sodium borohydride", "weight": 0.0, "id": 2780048404, "level": 3}
+{"count": 1110, "name": "tert-Butyl alcohol", "weight": 0.0, "id": 2781325792, "level": 3}
+{"count": 1939, "name": "Trickle-bed reactor", "weight": 0.0, "id": 8624102, "level": 3}
+{"count": 3252, "name": "Transmetalation", "weight": 0.0, "id": 142653250, "level": 3}
+{"count": 10353, "name": "Trifluoromethanesulfonate", "weight": 0.0, "id": 21774173, "level": 3}
+{"count": 3926, "name": "Hydroboration", "weight": 0.0, "id": 196306401, "level": 3}
+{"count": 3447, "name": "Cumene", "weight": 0.0, "id": 2778215507, "level": 3}
+{"count": 4109, "name": "Wet oxidation", "weight": 0.0, "id": 167710798, "level": 3}
+{"count": 3600, "name": "1,3-Butadiene", "weight": 0.0, "id": 2780887139, "level": 3}
+{"count": 3369, "name": "Raney nickel", "weight": 0.0, "id": 2776419971, "level": 3}
+{"count": 2871, "name": "Phosphotungstic acid", "weight": 0.0, "id": 2776424955, "level": 3}
+{"count": 11492, "name": "Acetic anhydride", "weight": 0.0, "id": 2779854550, "level": 3}
+{"count": 978, "name": "o-Xylene", "weight": 0.0, "id": 2780270247, "level": 3}
+{"count": 1622, "name": "Methyl vinyl ketone", "weight": 0.0, "id": 2776753869, "level": 3}
+{"count": 3348, "name": "Decarbonylation", "weight": 0.0, "id": 132190689, "level": 3}
+{"count": 2374, "name": "Hydrodeoxygenation", "weight": 0.0, "id": 2778496505, "level": 3}
+{"count": 2716, "name": "Carbon\u2013carbon bond", "weight": 0.0, "id": 2776932080, "level": 3}
+{"count": 2690, "name": "Superacid", "weight": 0.0, "id": 2779409356, "level": 3}
+{"count": 4864, "name": "Ammonia production", "weight": 0.0, "id": 181258405, "level": 3}
+{"count": 824, "name": "Cycloalkene", "weight": 0.0, "id": 2778499932, "level": 3}
+{"count": 443, "name": "Reaction inhibitor", "weight": 0.0, "id": 12660134, "level": 3}
+{"count": 4242, "name": "Solid acid", "weight": 0.0, "id": 2776549599, "level": 3}
+{"count": 16084, "name": "Oxidation state", "weight": 1.0, "id": 2778591166, "level": 3}
+{"count": 2787, "name": "Levulinic acid", "weight": 0.0, "id": 2780604391, "level": 3}
+{"count": 6922, "name": "Oxidative addition", "weight": 0.0, "id": 94882840, "level": 3}
+{"count": 12057, "name": "Bimetallic strip", "weight": 0.0, "id": 43411465, "level": 3}
+{"count": 5205, "name": "Malononitrile", "weight": 0.0, "id": 2780513484, "level": 3}
+{"count": 3885, "name": "Tetralin", "weight": 0.0, "id": 2778216191, "level": 3}
+{"count": 4112, "name": "Reductive amination", "weight": 0.0, "id": 2779938440, "level": 3}
+{"count": 2310, "name": "Hydroamination", "weight": 0.0, "id": 7596914, "level": 3}
+{"count": 6344, "name": "Alcohol oxidation", "weight": 0.0, "id": 114157696, "level": 3}
+{"count": 4446, "name": "Oxygenate", "weight": 0.0, "id": 108285982, "level": 3}
+{"count": 542, "name": "Molybdenum carbide", "weight": 0.0, "id": 2780571541, "level": 3}
+{"count": 985, "name": "4-Nitrophenol", "weight": 0.0, "id": 2778849558, "level": 3}
+{"count": 1998, "name": "Cyclooctene", "weight": 0.0, "id": 2781436684, "level": 3}
+{"count": 1500, "name": "Active center", "weight": 0.0, "id": 2778861492, "level": 3}
+{"count": 5241, "name": "Space velocity", "weight": 0.0, "id": 42922719, "level": 3}
+{"count": 2651, "name": "Norbornadiene", "weight": 0.0, "id": 2780669175, "level": 3}
+{"count": 1751, "name": "Beckmann rearrangement", "weight": 0.0, "id": 2781033381, "level": 3}
+{"count": 1599, "name": "Hexene", "weight": 0.0, "id": 2780953527, "level": 3}
+{"count": 1149, "name": "Biginelli reaction", "weight": 0.0, "id": 2778526080, "level": 3}
+{"count": 8517, "name": "Mixed oxide", "weight": 0.0, "id": 2779990138, "level": 3}
+{"count": 638, "name": "Microwave chemistry", "weight": 0.0, "id": 2778523140, "level": 3}
+{"count": 5940, "name": "Precious metal", "weight": 0.0, "id": 2778146478, "level": 3}
+{"count": 2544, "name": "Oxygen storage", "weight": 0.0, "id": 2778300517, "level": 3}
+{"count": 11160, "name": "BET theory", "weight": 0.0, "id": 27923307, "level": 3}
+{"count": 3569, "name": "Cyclopentene", "weight": 0.0, "id": 2777811443, "level": 3}
+{"count": 2649, "name": "Furfuryl alcohol", "weight": 0.0, "id": 2780526948, "level": 3}
+{"count": 2426, "name": "DABCO", "weight": 0.0, "id": 2775995839, "level": 3}
+{"count": 1972, "name": "Cycloisomerization", "weight": 0.0, "id": 2776788722, "level": 3}
+{"count": 1314, "name": "Nanoreactor", "weight": 0.0, "id": 190818770, "level": 3}
+{"count": 1466, "name": "Potassium bromate", "weight": 0.0, "id": 2779625114, "level": 3}
+{"count": 401, "name": "Filamentous carbon", "weight": 0.0, "id": 2781144741, "level": 3}
+{"count": 1302, "name": "Umpolung", "weight": 0.0, "id": 76164948, "level": 3}
+{"count": 1008, "name": "tert-Butyl hydroperoxide", "weight": 0.0, "id": 2781055043, "level": 3}
+{"count": 3893, "name": "Phase-transfer catalyst", "weight": 0.0, "id": 2778930939, "level": 3}
+{"count": 3213, "name": "Allyl alcohol", "weight": 0.0, "id": 2779672685, "level": 3}
+{"count": 1435, "name": "Telomerization", "weight": 0.0, "id": 18950567, "level": 3}
+{"count": 1124, "name": "Alkynylation", "weight": 0.0, "id": 2781363961, "level": 3}
+{"count": 1664, "name": "Cyanohydrin", "weight": 0.0, "id": 2778910044, "level": 3}
+{"count": 2070, "name": "Gas diffusion electrode", "weight": 0.0, "id": 2781203471, "level": 3}
+{"count": 824, "name": "Phosphorus oxide", "weight": 0.0, "id": 2781292038, "level": 3}
+{"count": 2037, "name": "Pyrolysis oil", "weight": 0.0, "id": 2780536370, "level": 3}
+{"count": 903, "name": "Baylis\u2013Hillman reaction", "weight": 0.0, "id": 2777579429, "level": 3}
+{"count": 1757, "name": "Cumene hydroperoxide", "weight": 0.0, "id": 2778113725, "level": 3}
+{"count": 464, "name": "Vanadium phosphate", "weight": 0.0, "id": 2780070058, "level": 3}
+{"count": 1276, "name": "Citronellal", "weight": 0.0, "id": 2778938429, "level": 3}
+{"count": 4967, "name": "Rate-determining step", "weight": 0.0, "id": 190463131, "level": 3}
+{"count": 719, "name": "Ullmann reaction", "weight": 0.0, "id": 2779145934, "level": 3}
+{"count": 1002, "name": "Belousov\u2013Zhabotinsky reaction", "weight": 0.0, "id": 41971866, "level": 3}
+{"count": 10780, "name": "Overpotential", "weight": 0.0, "id": 186460083, "level": 3}
+{"count": 1751, "name": "Crotonaldehyde", "weight": 0.0, "id": 2775910738, "level": 3}
+{"count": 798, "name": "Baeyer\u2013Villiger oxidation", "weight": 0.0, "id": 2779137883, "level": 3}
+{"count": 2463, "name": "Phenylboronic acid", "weight": 0.0, "id": 2777734296, "level": 3}
+{"count": 571, "name": "Multi-component reaction", "weight": 0.0, "id": 2781471045, "level": 3}
+{"count": 1629, "name": "Supercritical drying", "weight": 0.0, "id": 2777577357, "level": 3}
+{"count": 3478, "name": "Reductive elimination", "weight": 0.0, "id": 2778815869, "level": 3}
+{"count": 2924, "name": "Hydroxymethylfurfural", "weight": 0.0, "id": 2776740761, "level": 3}
+{"count": 878, "name": "Strecker amino acid synthesis", "weight": 0.0, "id": 5412963, "level": 3}

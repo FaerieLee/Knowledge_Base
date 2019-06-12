@@ -1,0 +1,12 @@
+{"count": 820, "name": "Simple cell", "weight": 5.0, "id": 2778837399, "level": 4}
+{"count": 549, "name": "Complex cell", "weight": 3.0, "id": 2776943200, "level": 4}
+{"count": 329, "name": "Cortical magnification", "weight": 2.0, "id": 2777639037, "level": 4}
+{"count": 921, "name": "Surround suppression", "weight": 6.0, "id": 198381616, "level": 4}
+{"count": 1401, "name": "Orientation column", "weight": 10.0, "id": 163931696, "level": 4}
+{"count": 27, "name": "Center-surround antagonism", "weight": 0.0, "id": 2776242844, "level": 4}
+{"count": 30, "name": "Spectro-temporal receptive field", "weight": 0.0, "id": 2779277887, "level": 4}
+{"count": 122, "name": "Lateral intraparietal cortex", "weight": 0.0, "id": 2776655406, "level": 4}
+{"count": 923, "name": "Binocular neurons", "weight": 6.0, "id": 168860233, "level": 4}
+{"count": 38, "name": "Spike-triggered covariance", "weight": 0.0, "id": 2777888693, "level": 4}
+{"count": 13, "name": "Hypercomplex cell", "weight": 0.0, "id": 2779201271, "level": 4}
+{"count": 142, "name": "Efficient coding hypothesis", "weight": 1.0, "id": 133219170, "level": 4}

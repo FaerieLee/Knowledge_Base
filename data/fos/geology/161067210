@@ -1,0 +1,18 @@
+{"count": 12173, "name": "Wind shear", "weight": 6.0, "id": 135558025, "level": 3}
+{"count": 9174, "name": "Anemometer", "weight": 4.0, "id": 127882809, "level": 3}
+{"count": 18924, "name": "Wind direction", "weight": 10.0, "id": 107775477, "level": 3}
+{"count": 3007, "name": "Atmospheric instability", "weight": 1.0, "id": 89298926, "level": 3}
+{"count": 4861, "name": "Scatterometer", "weight": 2.0, "id": 2776212561, "level": 3}
+{"count": 10545, "name": "Wind profile power law", "weight": 5.0, "id": 154718420, "level": 3}
+{"count": 1125, "name": "Wind power forecasting", "weight": 0.0, "id": 2781084341, "level": 3}
+{"count": 607, "name": "Downburst", "weight": 0.0, "id": 188121562, "level": 3}
+{"count": 1237, "name": "Small wind turbine", "weight": 0.0, "id": 2779862270, "level": 3}
+{"count": 1374, "name": "Tip-speed ratio", "weight": 0.0, "id": 2777512574, "level": 3}
+{"count": 3325, "name": "Prevailing winds", "weight": 1.0, "id": 94700167, "level": 3}
+{"count": 133, "name": "Hurricane Research Division", "weight": 0.0, "id": 2776385422, "level": 3}
+{"count": 632, "name": "Wind turbine design", "weight": 0.0, "id": 2777052346, "level": 3}
+{"count": 338, "name": "Wind chill", "weight": 0.0, "id": 44243462, "level": 3}
+{"count": 2497, "name": "Wind wave model", "weight": 1.0, "id": 140927136, "level": 3}
+{"count": 100, "name": "Wind run", "weight": 0.0, "id": 2777183766, "level": 3}
+{"count": 50, "name": "Foehn wind", "weight": 0.0, "id": 2776632058, "level": 3}
+{"count": 126, "name": "Continuous gusts", "weight": 0.0, "id": 12858262, "level": 3}

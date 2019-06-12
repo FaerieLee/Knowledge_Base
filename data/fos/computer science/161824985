@@ -1,0 +1,3 @@
+{"count": 438, "name": "Scalar processor", "weight": 10.0, "id": 97266591, "level": 3}
+{"count": 19, "name": "Heterogeneous Element Processor", "weight": 0.0, "id": 194616574, "level": 3}
+{"count": 11, "name": "DAP FORTRAN", "weight": 0.0, "id": 2779076067, "level": 3}

@@ -1,0 +1,22 @@
+{"count": 16390, "name": "Rayleigh wave", "weight": 6.0, "id": 51473458, "level": 3}
+{"count": 13183, "name": "Breaking wave", "weight": 5.0, "id": 169596890, "level": 3}
+{"count": 11788, "name": "Lamb waves", "weight": 4.0, "id": 142358356, "level": 3}
+{"count": 4309, "name": "Wave turbulence", "weight": 1.0, "id": 165419338, "level": 3}
+{"count": 24547, "name": "Longitudinal wave", "weight": 10.0, "id": 143351421, "level": 3}
+{"count": 7151, "name": "Transverse wave", "weight": 2.0, "id": 160507315, "level": 3}
+{"count": 10926, "name": "Ion acoustic wave", "weight": 4.0, "id": 105580336, "level": 3}
+{"count": 3921, "name": "Stokes wave", "weight": 1.0, "id": 53630964, "level": 3}
+{"count": 11233, "name": "Wave vector", "weight": 4.0, "id": 109496249, "level": 3}
+{"count": 613, "name": "Stoneley wave", "weight": 0.0, "id": 118900574, "level": 3}
+{"count": 3258, "name": "Infragravity wave", "weight": 1.0, "id": 190791664, "level": 3}
+{"count": 4423, "name": "Ground wave propagation", "weight": 1.0, "id": 177071327, "level": 3}
+{"count": 441, "name": "Mild-slope equation", "weight": 0.0, "id": 197268543, "level": 3}
+{"count": 6109, "name": "Wave shoaling", "weight": 2.0, "id": 103437262, "level": 3}
+{"count": 1770, "name": "Radio propagation model", "weight": 0.0, "id": 76843793, "level": 3}
+{"count": 593, "name": "Magnetosonic wave", "weight": 0.0, "id": 2780151238, "level": 3}
+{"count": 4825, "name": "Electromagnetic wave equation", "weight": 1.0, "id": 202351285, "level": 3}
+{"count": 480, "name": "Anomalous propagation", "weight": 0.0, "id": 39639997, "level": 3}
+{"count": 198, "name": "Scholte wave", "weight": 0.0, "id": 2780773427, "level": 3}
+{"count": 292, "name": "Dyakonov surface waves", "weight": 0.0, "id": 192691480, "level": 3}
+{"count": 678, "name": "Seismic metamaterials", "weight": 0.0, "id": 46754376, "level": 3}
+{"count": 15835, "name": "Electromagnetic electron wave", "weight": 6.0, "id": 192304548, "level": 3}

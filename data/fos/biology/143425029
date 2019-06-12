@@ -1,0 +1,29 @@
+{"count": 10864, "name": "Comet assay", "weight": 9.0, "id": 2780358455, "level": 4}
+{"count": 11137, "name": "Nucleotide excision repair", "weight": 10.0, "id": 104451858, "level": 4}
+{"count": 5078, "name": "DNA glycosylase", "weight": 4.0, "id": 192396546, "level": 4}
+{"count": 5432, "name": "Base excision repair", "weight": 4.0, "id": 187206112, "level": 4}
+{"count": 4433, "name": "Pyrimidine dimer", "weight": 3.0, "id": 167975912, "level": 4}
+{"count": 1340, "name": "Methyl methanesulfonate", "weight": 1.0, "id": 2776900477, "level": 4}
+{"count": 1703, "name": "XRCC1", "weight": 1.0, "id": 2776999993, "level": 4}
+{"count": 1498, "name": "SOS response", "weight": 1.0, "id": 2780852648, "level": 4}
+{"count": 4387, "name": "G2-M DNA damage checkpoint", "weight": 3.0, "id": 54086632, "level": 4}
+{"count": 787, "name": "DNA oxidation", "weight": 0.0, "id": 2781119792, "level": 4}
+{"count": 829, "name": "DNA-PKcs", "weight": 0.0, "id": 68748289, "level": 4}
+{"count": 327, "name": "Replication stress", "weight": 0.0, "id": 2779308462, "level": 4}
+{"count": 3339, "name": "AP site", "weight": 3.0, "id": 150777479, "level": 4}
+{"count": 1355, "name": "PARP1", "weight": 1.0, "id": 2778480876, "level": 4}
+{"count": 729, "name": "Rad50", "weight": 0.0, "id": 2775984157, "level": 4}
+{"count": 1076, "name": "Ku80", "weight": 0.0, "id": 193104389, "level": 4}
+{"count": 331, "name": "BRCT domain", "weight": 0.0, "id": 2778842248, "level": 4}
+{"count": 178, "name": "8-Oxo-2'-deoxyguanosine", "weight": 0.0, "id": 2777132160, "level": 4}
+{"count": 614, "name": "FANCD2", "weight": 0.0, "id": 2776653068, "level": 4}
+{"count": 451, "name": "MRN complex", "weight": 0.0, "id": 142564062, "level": 4}
+{"count": 385, "name": "REV1", "weight": 0.0, "id": 2775990307, "level": 4}
+{"count": 194, "name": "TDP1", "weight": 0.0, "id": 2780854515, "level": 4}
+{"count": 150, "name": "Aprataxin", "weight": 0.0, "id": 2777650480, "level": 4}
+{"count": 50, "name": "DNA damage checkpoints", "weight": 0.0, "id": 155767128, "level": 4}
+{"count": 451, "name": "Ataxia telangiectasia and Rad3 related", "weight": 0.0, "id": 141128189, "level": 4}
+{"count": 202, "name": "Adductomics", "weight": 0.0, "id": 7368262, "level": 4}
+{"count": 247, "name": "Direct DNA damage", "weight": 0.0, "id": 2778532096, "level": 4}
+{"count": 442, "name": "Free radical damage to DNA", "weight": 0.0, "id": 202399690, "level": 4}
+{"count": 55, "name": "Indirect DNA damage", "weight": 0.0, "id": 2781312550, "level": 4}

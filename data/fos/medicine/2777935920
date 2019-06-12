@@ -1,0 +1,5 @@
+{"count": 2759, "name": "Apnea\u2013hypopnea index", "weight": 4.0, "id": 2776377968, "level": 4}
+{"count": 1141, "name": "Respiratory disturbance index", "weight": 2.0, "id": 2781442344, "level": 4}
+{"count": 1677, "name": "Central sleep apnea", "weight": 3.0, "id": 2780168309, "level": 4}
+{"count": 441, "name": "Upper airway resistance syndrome", "weight": 0.0, "id": 2779646052, "level": 4}
+{"count": 5579, "name": "Hypopnea", "weight": 10.0, "id": 2777711342, "level": 4}

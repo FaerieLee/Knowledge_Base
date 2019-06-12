@@ -1,0 +1,24 @@
+{"count": 2986, "name": "Synchrotron Radiation Source", "weight": 10.0, "id": 2779320509, "level": 4}
+{"count": 2411, "name": "Electron cooling", "weight": 8.0, "id": 2780364802, "level": 4}
+{"count": 1118, "name": "Superconducting Super Collider", "weight": 3.0, "id": 2780117330, "level": 4}
+{"count": 553, "name": "Intersecting Storage Rings", "weight": 1.0, "id": 2780026365, "level": 4}
+{"count": 333, "name": "Large Electron\u2013Positron Collider", "weight": 1.0, "id": 2780154287, "level": 4}
+{"count": 637, "name": "Stochastic cooling", "weight": 2.0, "id": 2780778643, "level": 4}
+{"count": 1137, "name": "Dynamic aperture", "weight": 3.0, "id": 2777609063, "level": 4}
+{"count": 1255, "name": "Synchrotron light source", "weight": 4.0, "id": 2779575624, "level": 4}
+{"count": 143, "name": "Proton Synchrotron Booster", "weight": 0.0, "id": 2780544767, "level": 4}
+{"count": 367, "name": "ADONE", "weight": 1.0, "id": 2781259194, "level": 4}
+{"count": 408, "name": "Low Energy Ion Ring", "weight": 1.0, "id": 11251659, "level": 4}
+{"count": 164, "name": "Sextupole magnet", "weight": 0.0, "id": 2780759913, "level": 4}
+{"count": 346, "name": "Intrabeam scattering", "weight": 1.0, "id": 2777564094, "level": 4}
+{"count": 571, "name": "Compact Linear Collider", "weight": 1.0, "id": 2776415844, "level": 4}
+{"count": 75, "name": "Touschek effect", "weight": 0.0, "id": 2780307158, "level": 4}
+{"count": 303, "name": "Momentum compaction", "weight": 1.0, "id": 2777914903, "level": 4}
+{"count": 81, "name": "Electron-cloud effect", "weight": 0.0, "id": 2779250170, "level": 4}
+{"count": 58, "name": "Magnetic horn", "weight": 0.0, "id": 2776800086, "level": 4}
+{"count": 60, "name": "Antiproton Collector", "weight": 0.0, "id": 2780013955, "level": 4}
+{"count": 7, "name": "Chasman\u2013Green lattice", "weight": 0.0, "id": 2777612475, "level": 4}
+{"count": 22, "name": "PLUTO detector", "weight": 0.0, "id": 2780626321, "level": 4}
+{"count": 91, "name": "CLEO", "weight": 0.0, "id": 157043506, "level": 4}
+{"count": 28, "name": "Injection kicker magnets", "weight": 0.0, "id": 2778435231, "level": 4}
+{"count": 16, "name": "LINAC 1", "weight": 0.0, "id": 2776073813, "level": 4}

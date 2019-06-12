@@ -1,0 +1,19 @@
+{"count": 26684, "name": "Direct torque control", "weight": 10.0, "id": 109871850, "level": 3}
+{"count": 3160, "name": "Reaction wheel", "weight": 1.0, "id": 206245727, "level": 3}
+{"count": 19321, "name": "Torque sensor", "weight": 7.0, "id": 1040795, "level": 3}
+{"count": 4544, "name": "Friction torque", "weight": 1.0, "id": 163274877, "level": 3}
+{"count": 988, "name": "Magnetic gear", "weight": 0.0, "id": 2775996065, "level": 3}
+{"count": 1333, "name": "Control moment gyroscope", "weight": 0.0, "id": 134425645, "level": 3}
+{"count": 370, "name": "Steering law", "weight": 0.0, "id": 176544364, "level": 3}
+{"count": 6545, "name": "Electronic differential", "weight": 2.0, "id": 106613895, "level": 3}
+{"count": 428, "name": "Torque vectoring", "weight": 0.0, "id": 2780763206, "level": 3}
+{"count": 769, "name": "All-wheel drive", "weight": 0.0, "id": 2776736370, "level": 3}
+{"count": 1766, "name": "Torque wrench", "weight": 0.0, "id": 2777225065, "level": 3}
+{"count": 717, "name": "Torque tube", "weight": 0.0, "id": 2776727923, "level": 3}
+{"count": 631, "name": "Impact wrench", "weight": 0.0, "id": 2781158820, "level": 3}
+{"count": 16, "name": "Trouton\u2013Noble experiment", "weight": 0.0, "id": 2780945969, "level": 3}
+{"count": 11342, "name": "Torque steering", "weight": 4.0, "id": 80932167, "level": 3}
+{"count": 21, "name": "Mechanical singularity", "weight": 0.0, "id": 2779388798, "level": 3}
+{"count": 45, "name": "Newton metre", "weight": 0.0, "id": 64266004, "level": 3}
+{"count": 64, "name": "Pound-foot", "weight": 0.0, "id": 153524861, "level": 3}
+{"count": 89, "name": "Backdrive", "weight": 0.0, "id": 2780262331, "level": 3}

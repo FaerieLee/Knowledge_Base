@@ -1,0 +1,24 @@
+{"count": 5678, "name": "Database search engine", "weight": 3.0, "id": 48000682, "level": 3}
+{"count": 4094, "name": "Web search engine", "weight": 2.0, "id": 521815418, "level": 3}
+{"count": 8143, "name": "Semantic search", "weight": 4.0, "id": 166423231, "level": 3}
+{"count": 1192, "name": "Personalized search", "weight": 0.0, "id": 2776945383, "level": 3}
+{"count": 576, "name": "Anchor text", "weight": 0.0, "id": 13436196, "level": 3}
+{"count": 921, "name": "Exploratory search", "weight": 0.0, "id": 2777866876, "level": 3}
+{"count": 3087, "name": "Search engine optimization", "weight": 1.0, "id": 178218473, "level": 3}
+{"count": 526, "name": "Social search", "weight": 0.0, "id": 2779800709, "level": 3}
+{"count": 2634, "name": "Full text search", "weight": 1.0, "id": 20228898, "level": 3}
+{"count": 17587, "name": "Web search query", "weight": 10.0, "id": 164120249, "level": 3}
+{"count": 2665, "name": "Online search", "weight": 1.0, "id": 171089853, "level": 3}
+{"count": 619, "name": "Federated search", "weight": 0.0, "id": 2778563054, "level": 3}
+{"count": 1134, "name": "Focused crawler", "weight": 0.0, "id": 73340581, "level": 3}
+{"count": 451, "name": "Multimedia search", "weight": 0.0, "id": 2780898994, "level": 3}
+{"count": 610, "name": "Vertical search", "weight": 0.0, "id": 2780475579, "level": 3}
+{"count": 5590, "name": "Concept search", "weight": 3.0, "id": 182861755, "level": 3}
+{"count": 236, "name": "Desktop search", "weight": 0.0, "id": 2777614687, "level": 3}
+{"count": 40, "name": "Sponsored search auction", "weight": 0.0, "id": 2777683312, "level": 3}
+{"count": 57, "name": "Visual search engine", "weight": 0.0, "id": 2781142771, "level": 3}
+{"count": 55, "name": "OpenSearch", "weight": 0.0, "id": 2777292277, "level": 3}
+{"count": 1321, "name": "Keyword density", "weight": 0.0, "id": 57560718, "level": 3}
+{"count": 6349, "name": "Search analytics", "weight": 3.0, "id": 14838553, "level": 3}
+{"count": 147, "name": "Click path", "weight": 0.0, "id": 84792229, "level": 3}
+{"count": 10, "name": "Audio search engine", "weight": 0.0, "id": 2779161153, "level": 3}

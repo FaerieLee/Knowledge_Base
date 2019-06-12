@@ -1,0 +1,132 @@
+{"count": 47585, "name": "Soil contamination", "weight": 7.0, "id": 65580899, "level": 3}
+{"count": 51202, "name": "Soil organic matter", "weight": 8.0, "id": 182124840, "level": 3}
+{"count": 50980, "name": "Soil fertility", "weight": 8.0, "id": 38774213, "level": 3}
+{"count": 32215, "name": "Soil classification", "weight": 5.0, "id": 152494472, "level": 3}
+{"count": 29366, "name": "Soil carbon", "weight": 4.0, "id": 39464130, "level": 3}
+{"count": 60570, "name": "Soil test", "weight": 10.0, "id": 50516716, "level": 3}
+{"count": 29920, "name": "Soil pH", "weight": 4.0, "id": 198072978, "level": 3}
+{"count": 17401, "name": "Soil management", "weight": 2.0, "id": 85675897, "level": 3}
+{"count": 26043, "name": "Soil type", "weight": 4.0, "id": 160934017, "level": 3}
+{"count": 30432, "name": "Soil horizon", "weight": 5.0, "id": 156634047, "level": 3}
+{"count": 14047, "name": "Soil quality", "weight": 2.0, "id": 2776475172, "level": 3}
+{"count": 14760, "name": "Soil structure", "weight": 2.0, "id": 120991184, "level": 3}
+{"count": 14260, "name": "Cation-exchange capacity", "weight": 2.0, "id": 197484155, "level": 3}
+{"count": 21095, "name": "Soil salinity", "weight": 3.0, "id": 141650431, "level": 3}
+{"count": 14533, "name": "Phytoremediation", "weight": 2.0, "id": 63797996, "level": 3}
+{"count": 20777, "name": "Humus", "weight": 3.0, "id": 52201283, "level": 3}
+{"count": 12468, "name": "Soil texture", "weight": 2.0, "id": 175963888, "level": 3}
+{"count": 1389, "name": "Mollisol", "weight": 0.0, "id": 67276197, "level": 3}
+{"count": 9060, "name": "Soil respiration", "weight": 1.0, "id": 154414509, "level": 3}
+{"count": 4707, "name": "Ultisol", "weight": 0.0, "id": 154108195, "level": 3}
+{"count": 2915, "name": "Inceptisol", "weight": 0.0, "id": 169081408, "level": 3}
+{"count": 8048, "name": "Soil stabilization", "weight": 1.0, "id": 2780189059, "level": 3}
+{"count": 4083, "name": "Podzol", "weight": 0.0, "id": 142535954, "level": 3}
+{"count": 9886, "name": "Soil compaction", "weight": 1.0, "id": 70957220, "level": 3}
+{"count": 9569, "name": "Soil retrogression and degradation", "weight": 1.0, "id": 141185391, "level": 3}
+{"count": 12096, "name": "Soil conditioner", "weight": 1.0, "id": 162902727, "level": 3}
+{"count": 3730, "name": "Oxisol", "weight": 0.0, "id": 179538286, "level": 3}
+{"count": 2481, "name": "Alfisol", "weight": 0.0, "id": 2781410044, "level": 3}
+{"count": 32672, "name": "Loam", "weight": 5.0, "id": 113578266, "level": 3}
+{"count": 4788, "name": "Vertisol", "weight": 0.0, "id": 37991615, "level": 3}
+{"count": 2258, "name": "Entisol", "weight": 0.0, "id": 148648291, "level": 3}
+{"count": 6397, "name": "Conventional tillage", "weight": 1.0, "id": 2780696901, "level": 3}
+{"count": 3477, "name": "Water potential", "weight": 0.0, "id": 30335454, "level": 3}
+{"count": 8235, "name": "Pedogenesis", "weight": 1.0, "id": 184269829, "level": 3}
+{"count": 6724, "name": "Lysimeter", "weight": 1.0, "id": 85871539, "level": 3}
+{"count": 17150, "name": "Topsoil", "weight": 2.0, "id": 20529654, "level": 3}
+{"count": 10000, "name": "Field capacity", "weight": 1.0, "id": 27934549, "level": 3}
+{"count": 11309, "name": "Subsoil", "weight": 1.0, "id": 121923324, "level": 3}
+{"count": 5675, "name": "Soil survey", "weight": 0.0, "id": 3742959, "level": 3}
+{"count": 1536, "name": "Soil physics", "weight": 0.0, "id": 100474770, "level": 3}
+{"count": 1972, "name": "Pedology", "weight": 0.0, "id": 70160891, "level": 3}
+{"count": 5519, "name": "Expansive clay", "weight": 0.0, "id": 1121360, "level": 3}
+{"count": 6845, "name": "Soil map", "weight": 1.0, "id": 71864017, "level": 3}
+{"count": 1796, "name": "Cambisol", "weight": 0.0, "id": 2776501588, "level": 3}
+{"count": 621, "name": "Aridisol", "weight": 0.0, "id": 133250040, "level": 3}
+{"count": 3214, "name": "Chronosequence", "weight": 0.0, "id": 2778948613, "level": 3}
+{"count": 3667, "name": "Chernozem", "weight": 0.0, "id": 2778589381, "level": 3}
+{"count": 6378, "name": "Macropore", "weight": 1.0, "id": 57924286, "level": 3}
+{"count": 4245, "name": "Atterberg limits", "weight": 0.0, "id": 116973930, "level": 3}
+{"count": 973, "name": "Andosol", "weight": 0.0, "id": 2778301344, "level": 3}
+{"count": 3102, "name": "Frost heaving", "weight": 0.0, "id": 65653873, "level": 3}
+{"count": 4539, "name": "Pedotransfer function", "weight": 0.0, "id": 164285268, "level": 3}
+{"count": 2242, "name": "California bearing ratio", "weight": 0.0, "id": 37646163, "level": 3}
+{"count": 1382, "name": "Allophane", "weight": 0.0, "id": 2778973568, "level": 3}
+{"count": 1553, "name": "Gleysol", "weight": 0.0, "id": 21008047, "level": 3}
+{"count": 1292, "name": "Sodic soil", "weight": 0.0, "id": 2775845107, "level": 3}
+{"count": 834, "name": "Biological soil crust", "weight": 0.0, "id": 2780257989, "level": 3}
+{"count": 659, "name": "Available water capacity", "weight": 0.0, "id": 2781205627, "level": 3}
+{"count": 1753, "name": "Parent rock", "weight": 0.0, "id": 177921069, "level": 3}
+{"count": 1571, "name": "Sodium adsorption ratio", "weight": 0.0, "id": 2776332401, "level": 3}
+{"count": 909, "name": "Andisol", "weight": 0.0, "id": 2777607528, "level": 3}
+{"count": 779, "name": "Acid sulfate soil", "weight": 0.0, "id": 2778163119, "level": 3}
+{"count": 306, "name": "Aporrectodea caliginosa", "weight": 0.0, "id": 2777823752, "level": 3}
+{"count": 436, "name": "Acrisol", "weight": 0.0, "id": 129627177, "level": 3}
+{"count": 3952, "name": "Red soil", "weight": 0.0, "id": 58395597, "level": 3}
+{"count": 255, "name": "Serpentine soil", "weight": 0.0, "id": 2779746779, "level": 3}
+{"count": 2734, "name": "Soil gas", "weight": 0.0, "id": 2777027713, "level": 3}
+{"count": 1997, "name": "Latosol", "weight": 0.0, "id": 206969832, "level": 3}
+{"count": 375, "name": "Fluvisol", "weight": 0.0, "id": 2779211753, "level": 3}
+{"count": 375, "name": "Rendzina", "weight": 0.0, "id": 2775848157, "level": 3}
+{"count": 635, "name": "Soil crust", "weight": 0.0, "id": 2779422593, "level": 3}
+{"count": 291, "name": "Rhizotron", "weight": 0.0, "id": 2781172536, "level": 3}
+{"count": 372, "name": "Phaeozem", "weight": 0.0, "id": 2776452438, "level": 3}
+{"count": 696, "name": "Solonetz", "weight": 0.0, "id": 2781083496, "level": 3}
+{"count": 406, "name": "Terra preta", "weight": 0.0, "id": 139260352, "level": 3}
+{"count": 1337, "name": "Soil thermal properties", "weight": 0.0, "id": 114426456, "level": 3}
+{"count": 470, "name": "Terra rossa", "weight": 0.0, "id": 2776366451, "level": 3}
+{"count": 257, "name": "Cryoturbation", "weight": 0.0, "id": 2780214078, "level": 3}
+{"count": 236, "name": "Planosol", "weight": 0.0, "id": 20700756, "level": 3}
+{"count": 314, "name": "Claypan", "weight": 0.0, "id": 2780574846, "level": 3}
+{"count": 1046, "name": "Infiltrometer", "weight": 0.0, "id": 37788397, "level": 3}
+{"count": 224, "name": "Desert pavement", "weight": 0.0, "id": 2776238824, "level": 3}
+{"count": 2833, "name": "Soil gradation", "weight": 0.0, "id": 182745123, "level": 3}
+{"count": 177, "name": "Anthrosol", "weight": 0.0, "id": 2777677765, "level": 3}
+{"count": 134, "name": "Kastanozems", "weight": 0.0, "id": 2778427129, "level": 3}
+{"count": 6280, "name": "Edaphic", "weight": 1.0, "id": 71908930, "level": 3}
+{"count": 2337, "name": "Hydric soil", "weight": 0.0, "id": 28362043, "level": 3}
+{"count": 174, "name": "Calcisol", "weight": 0.0, "id": 2777174596, "level": 3}
+{"count": 538, "name": "Tilth", "weight": 0.0, "id": 2779004245, "level": 3}
+{"count": 178, "name": "Nitisol", "weight": 0.0, "id": 2777022833, "level": 3}
+{"count": 823, "name": "Summer fallow", "weight": 0.0, "id": 108738950, "level": 3}
+{"count": 977, "name": "Frost line", "weight": 0.0, "id": 155633948, "level": 3}
+{"count": 60, "name": "Umbrisol", "weight": 0.0, "id": 2781178138, "level": 3}
+{"count": 118, "name": "Hydropedology", "weight": 0.0, "id": 80183826, "level": 3}
+{"count": 566, "name": "Soil color", "weight": 0.0, "id": 152100882, "level": 3}
+{"count": 121, "name": "Stubble-mulching", "weight": 0.0, "id": 2780948830, "level": 3}
+{"count": 70, "name": "Anthyllis cytisoides", "weight": 0.0, "id": 2779185060, "level": 3}
+{"count": 28, "name": "Carex pilulifera", "weight": 0.0, "id": 2778822355, "level": 3}
+{"count": 537, "name": "Hardpan", "weight": 0.0, "id": 62216158, "level": 3}
+{"count": 22, "name": "Hilaria rigida", "weight": 0.0, "id": 2778311181, "level": 3}
+{"count": 267, "name": "Pedosphere", "weight": 0.0, "id": 152024379, "level": 3}
+{"count": 159, "name": "Calcifuge", "weight": 0.0, "id": 2777819585, "level": 3}
+{"count": 462, "name": "Brown earth", "weight": 0.0, "id": 2779456222, "level": 3}
+{"count": 39, "name": "Hilaria jamesii", "weight": 0.0, "id": 2778347451, "level": 3}
+{"count": 696, "name": "Parent material", "weight": 0.0, "id": 155843905, "level": 3}
+{"count": 164, "name": "Technosol", "weight": 0.0, "id": 2776916087, "level": 3}
+{"count": 47, "name": "Agrostis scabra", "weight": 0.0, "id": 2779258074, "level": 3}
+{"count": 211, "name": "Soil plant atmosphere continuum", "weight": 0.0, "id": 134906952, "level": 3}
+{"count": 106, "name": "Fluorescein diacetate hydrolysis", "weight": 0.0, "id": 2780944589, "level": 3}
+{"count": 36, "name": "Stagnogley", "weight": 0.0, "id": 2776086177, "level": 3}
+{"count": 638, "name": "Eluvium", "weight": 0.0, "id": 116122396, "level": 3}
+{"count": 88, "name": "Hydrophobic soil", "weight": 0.0, "id": 2780435559, "level": 3}
+{"count": 477, "name": "Decomposed granite", "weight": 0.0, "id": 2777630565, "level": 3}
+{"count": 97, "name": "Alisols", "weight": 0.0, "id": 2778932057, "level": 3}
+{"count": 169, "name": "Dark earth", "weight": 0.0, "id": 2780339442, "level": 3}
+{"count": 42, "name": "Piptatherum miliaceum", "weight": 0.0, "id": 2777302651, "level": 3}
+{"count": 173, "name": "Sandplain", "weight": 0.0, "id": 2779422555, "level": 3}
+{"count": 144, "name": "Fellfield", "weight": 0.0, "id": 2778134781, "level": 3}
+{"count": 48, "name": "Neutron moisture gauge", "weight": 0.0, "id": 2781006310, "level": 3}
+{"count": 73, "name": "Kankar", "weight": 0.0, "id": 2780664233, "level": 3}
+{"count": 196, "name": "Ustic", "weight": 0.0, "id": 2779982040, "level": 3}
+{"count": 33, "name": "Depression storage capacity", "weight": 0.0, "id": 67719675, "level": 3}
+{"count": 12, "name": "Podsolisation", "weight": 0.0, "id": 2780875058, "level": 3}
+{"count": 25, "name": "Olive mill pomace", "weight": 0.0, "id": 2775842926, "level": 3}
+{"count": 49, "name": "Patterned vegetation", "weight": 0.0, "id": 2781011026, "level": 3}
+{"count": 85, "name": "Soil value", "weight": 0.0, "id": 93214737, "level": 3}
+{"count": 17, "name": "Genista aetnensis", "weight": 0.0, "id": 2775933579, "level": 3}
+{"count": 32, "name": "Permanent vegetative cover", "weight": 0.0, "id": 2779648537, "level": 3}
+{"count": 30, "name": "Paralithic", "weight": 0.0, "id": 2778288965, "level": 3}
+{"count": 15, "name": "Episphaeria", "weight": 0.0, "id": 2776562206, "level": 3}
+{"count": 12, "name": "Rockdust", "weight": 0.0, "id": 2775950116, "level": 3}
+{"count": 30, "name": "Jurong Formation", "weight": 0.0, "id": 2777733740, "level": 3}

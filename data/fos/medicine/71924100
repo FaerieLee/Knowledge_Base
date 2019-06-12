@@ -1,0 +1,46 @@
+{"count": 4546041, "name": "Surgery", "weight": 6.0, "id": 141071460, "level": 1}
+{"count": 3681852, "name": "Pathology", "weight": 5.0, "id": 142724271, "level": 1}
+{"count": 167408, "name": "Physiology", "weight": 0.0, "id": 42407357, "level": 1}
+{"count": 3089817, "name": "Immunology", "weight": 4.0, "id": 203014093, "level": 1}
+{"count": 616863, "name": "Pharmacology", "weight": 0.0, "id": 98274493, "level": 1}
+{"count": 371896, "name": "Veterinary medicine", "weight": 0.0, "id": 42972112, "level": 1}
+{"count": 775565, "name": "Pediatrics", "weight": 1.0, "id": 187212893, "level": 1}
+{"count": 2482775, "name": "Cardiology", "weight": 3.0, "id": 164705383, "level": 1}
+{"count": 156262, "name": "Oncology", "weight": 0.0, "id": 143998085, "level": 1}
+{"count": 269974, "name": "Biomedical engineering", "weight": 0.0, "id": 136229726, "level": 1}
+{"count": 2163201, "name": "Anatomy", "weight": 3.0, "id": 105702510, "level": 1}
+{"count": 1469990, "name": "Nursing", "weight": 2.0, "id": 159110408, "level": 1}
+{"count": 2089084, "name": "Anesthesia", "weight": 2.0, "id": 42219234, "level": 1}
+{"count": 4019110, "name": "Endocrinology", "weight": 5.0, "id": 134018914, "level": 1}
+{"count": 1282308, "name": "Radiology", "weight": 1.0, "id": 126838900, "level": 1}
+{"count": 6997187, "name": "Internal medicine", "weight": 10.0, "id": 126322002, "level": 1}
+{"count": 177524, "name": "Nuclear medicine", "weight": 0.0, "id": 2989005, "level": 1}
+{"count": 551378, "name": "Urology", "weight": 0.0, "id": 126894567, "level": 1}
+{"count": 2083834, "name": "Virology", "weight": 2.0, "id": 159047783, "level": 1}
+{"count": 1466009, "name": "Psychiatry", "weight": 2.0, "id": 118552586, "level": 1}
+{"count": 614680, "name": "Obstetrics", "weight": 0.0, "id": 131872663, "level": 1}
+{"count": 455986, "name": "Gynecology", "weight": 0.0, "id": 29456083, "level": 1}
+{"count": 272290, "name": "Ophthalmology", "weight": 0.0, "id": 118487528, "level": 1}
+{"count": 433265, "name": "Dermatology", "weight": 0.0, "id": 16005928, "level": 1}
+{"count": 161185, "name": "Gastroenterology", "weight": 0.0, "id": 90924648, "level": 1}
+{"count": 586075, "name": "Emergency medicine", "weight": 0.0, "id": 194828623, "level": 1}
+{"count": 1287658, "name": "Cancer research", "weight": 1.0, "id": 502942594, "level": 1}
+{"count": 296878, "name": "Medical education", "weight": 0.0, "id": 509550671, "level": 1}
+{"count": 435713, "name": "Environmental health", "weight": 0.0, "id": 99454951, "level": 1}
+{"count": 2746216, "name": "Physical therapy", "weight": 3.0, "id": 1862650, "level": 1}
+{"count": 465353, "name": "Dentistry", "weight": 0.0, "id": 199343813, "level": 1}
+{"count": 968487, "name": "Clinical psychology", "weight": 1.0, "id": 70410870, "level": 1}
+{"count": 255465, "name": "Traditional medicine", "weight": 0.0, "id": 556039675, "level": 1}
+{"count": 415117, "name": "Gerontology", "weight": 0.0, "id": 74909509, "level": 1}
+{"count": 54455, "name": "Andrology", "weight": 0.0, "id": 16685009, "level": 1}
+{"count": 1455398, "name": "Family medicine", "weight": 2.0, "id": 512399662, "level": 1}
+{"count": 489749, "name": "Alternative medicine", "weight": 0.0, "id": 204787440, "level": 1}
+{"count": 2031481, "name": "General surgery", "weight": 2.0, "id": 61434518, "level": 1}
+{"count": 241717, "name": "Orthodontics", "weight": 0.0, "id": 29694066, "level": 1}
+{"count": 177744, "name": "Optometry", "weight": 0.0, "id": 119767625, "level": 1}
+{"count": 220104, "name": "Medical physics", "weight": 0.0, "id": 19527891, "level": 1}
+{"count": 356393, "name": "Physical medicine and rehabilitation", "weight": 0.0, "id": 99508421, "level": 1}
+{"count": 1566144, "name": "Intensive care medicine", "weight": 2.0, "id": 177713679, "level": 1}
+{"count": 173508, "name": "Audiology", "weight": 0.0, "id": 548259974, "level": 1}
+{"count": 518215, "name": "Medical emergency", "weight": 0.0, "id": 545542383, "level": 1}
+{"count": 82861, "name": "Risk analysis (engineering)", "weight": 0.0, "id": 112930515, "level": 1}

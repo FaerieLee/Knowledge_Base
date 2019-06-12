@@ -1,0 +1,38 @@
+{"count": 5796, "name": "Non-performing loan", "weight": 10.0, "id": 71387314, "level": 3}
+{"count": 1610, "name": "Net interest margin", "weight": 2.0, "id": 6175523, "level": 3}
+{"count": 277, "name": "Structural adjustment loan", "weight": 0.0, "id": 2778955916, "level": 3}
+{"count": 435, "name": "Loan guarantee", "weight": 0.0, "id": 2781099861, "level": 3}
+{"count": 2022, "name": "Student loan", "weight": 3.0, "id": 2777227597, "level": 3}
+{"count": 422, "name": "Line of credit", "weight": 0.0, "id": 2779931541, "level": 3}
+{"count": 491, "name": "Predatory lending", "weight": 0.0, "id": 2780487296, "level": 3}
+{"count": 274, "name": "Business loan", "weight": 0.0, "id": 2779642330, "level": 3}
+{"count": 1146, "name": "Cost of funds index", "weight": 1.0, "id": 98937230, "level": 3}
+{"count": 2507, "name": "Loan agreement", "weight": 4.0, "id": 2779432606, "level": 3}
+{"count": 3187, "name": "Bridge loan", "weight": 5.0, "id": 158725981, "level": 3}
+{"count": 419, "name": "Syndicated loan", "weight": 0.0, "id": 2776931825, "level": 3}
+{"count": 492, "name": "Subprime lending", "weight": 0.0, "id": 2776113583, "level": 3}
+{"count": 75, "name": "Loan covenant", "weight": 0.0, "id": 2776359467, "level": 3}
+{"count": 256, "name": "Strategic default", "weight": 0.0, "id": 2781196155, "level": 3}
+{"count": 242, "name": "Loan origination", "weight": 0.0, "id": 2779993358, "level": 3}
+{"count": 85, "name": "Risk-based pricing", "weight": 0.0, "id": 2776419517, "level": 3}
+{"count": 200, "name": "Truth in Lending Act", "weight": 0.0, "id": 2777751599, "level": 3}
+{"count": 2720, "name": "Mortgage underwriting", "weight": 4.0, "id": 43039823, "level": 3}
+{"count": 99, "name": "Construction loan", "weight": 0.0, "id": 2777294513, "level": 3}
+{"count": 386, "name": "Loss mitigation", "weight": 0.0, "id": 200573392, "level": 3}
+{"count": 125, "name": "Appraised value", "weight": 0.0, "id": 2780695111, "level": 3}
+{"count": 69, "name": "Home equity loan", "weight": 0.0, "id": 2778514182, "level": 3}
+{"count": 88, "name": "Loan servicing", "weight": 0.0, "id": 2776375307, "level": 3}
+{"count": 62, "name": "Installment loan", "weight": 0.0, "id": 2780001622, "level": 3}
+{"count": 136, "name": "Net interest spread", "weight": 0.0, "id": 84886770, "level": 3}
+{"count": 64, "name": "Asset-based lending", "weight": 0.0, "id": 2779066884, "level": 3}
+{"count": 35, "name": "Debtor-in-possession financing", "weight": 0.0, "id": 2776714086, "level": 3}
+{"count": 85, "name": "Closing costs", "weight": 0.0, "id": 2780069254, "level": 3}
+{"count": 57, "name": "Real Estate Settlement Procedures Act", "weight": 0.0, "id": 2778030769, "level": 3}
+{"count": 2910, "name": "Shared appreciation mortgage", "weight": 5.0, "id": 138893092, "level": 3}
+{"count": 20, "name": "Semantic loan", "weight": 0.0, "id": 2777977159, "level": 3}
+{"count": 3766, "name": "Participation loan", "weight": 6.0, "id": 2229670, "level": 3}
+{"count": 3070, "name": "Cross-collateralization", "weight": 5.0, "id": 107235782, "level": 3}
+{"count": 47, "name": "Recovery of loans", "weight": 0.0, "id": 2780486837, "level": 3}
+{"count": 192, "name": "Borrowing base", "weight": 0.0, "id": 58294127, "level": 3}
+{"count": 4042, "name": "Non-conforming loan", "weight": 6.0, "id": 165339153, "level": 3}
+{"count": 11, "name": "Foreign currency mortgage", "weight": 0.0, "id": 2780497243, "level": 3}

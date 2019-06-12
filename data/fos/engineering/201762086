@@ -1,0 +1,5 @@
+{"count": 659, "name": "CANopen", "weight": 10.0, "id": 200991394, "level": 3}
+{"count": 235, "name": "Local Interconnect Network", "weight": 3.0, "id": 2780299722, "level": 3}
+{"count": 171, "name": "SAE J1939", "weight": 2.0, "id": 2781002240, "level": 3}
+{"count": 23, "name": "CANaerospace", "weight": 0.0, "id": 2780008831, "level": 3}
+{"count": 22, "name": "Byteflight", "weight": 0.0, "id": 2779572973, "level": 3}

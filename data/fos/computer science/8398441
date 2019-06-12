@@ -1,0 +1,4 @@
+{"count": 6756, "name": "Tikhonov regularization", "weight": 10.0, "id": 152442038, "level": 3}
+{"count": 1810, "name": "Total variation denoising", "weight": 2.0, "id": 207282899, "level": 3}
+{"count": 460, "name": "Landweber iteration", "weight": 0.0, "id": 25484224, "level": 3}
+{"count": 76, "name": "Pauli\u2013Villars regularization", "weight": 0.0, "id": 2776744996, "level": 3}

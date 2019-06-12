@@ -1,0 +1,8 @@
+{"count": 5402, "name": "Inference engine", "weight": 6.0, "id": 46743427, "level": 3}
+{"count": 245, "name": "Ripple-down rules", "weight": 0.0, "id": 2777327672, "level": 3}
+{"count": 66, "name": "Multiple-classification ripple-down rules", "weight": 0.0, "id": 2780082611, "level": 3}
+{"count": 694, "name": "IDEF3", "weight": 0.0, "id": 139076508, "level": 3}
+{"count": 78, "name": "Knowledge-based configuration", "weight": 0.0, "id": 2778439741, "level": 3}
+{"count": 114, "name": "Visual Prolog", "weight": 0.0, "id": 2778986880, "level": 3}
+{"count": 8789, "name": "Legal expert system", "weight": 10.0, "id": 102600418, "level": 3}
+{"count": 63, "name": "Explanation module", "weight": 0.0, "id": 2779725914, "level": 3}

@@ -1,0 +1,92 @@
+{"count": 23029, "name": "Soot", "weight": 2.0, "id": 2775925408, "level": 3}
+{"count": 72226, "name": "Combustion chamber", "weight": 6.0, "id": 106169591, "level": 3}
+{"count": 19954, "name": "Fluidized bed combustion", "weight": 1.0, "id": 59269787, "level": 3}
+{"count": 56074, "name": "Flue gas", "weight": 5.0, "id": 167206829, "level": 3}
+{"count": 15123, "name": "Heat of combustion", "weight": 1.0, "id": 156383657, "level": 3}
+{"count": 58153, "name": "NOx", "weight": 5.0, "id": 203032635, "level": 3}
+{"count": 12769, "name": "Premixed flame", "weight": 1.0, "id": 129474609, "level": 3}
+{"count": 22251, "name": "Char", "weight": 2.0, "id": 2779970684, "level": 3}
+{"count": 6411, "name": "Spark-ignition engine", "weight": 0.0, "id": 2777703250, "level": 3}
+{"count": 15599, "name": "Pulverized coal-fired boiler", "weight": 1.0, "id": 41888846, "level": 3}
+{"count": 11866, "name": "Diffusion flame", "weight": 1.0, "id": 6506403, "level": 3}
+{"count": 7030, "name": "Air\u2013fuel ratio", "weight": 0.0, "id": 2775956859, "level": 3}
+{"count": 6315, "name": "Catalytic combustion", "weight": 0.0, "id": 24411645, "level": 3}
+{"count": 16652, "name": "Solid fuel", "weight": 1.0, "id": 196832758, "level": 3}
+{"count": 103454, "name": "Combustor", "weight": 10.0, "id": 83104080, "level": 3}
+{"count": 18747, "name": "Liquid fuel", "weight": 1.0, "id": 2779985886, "level": 3}
+{"count": 2727, "name": "Self-propagating high-temperature synthesis", "weight": 0.0, "id": 2778602036, "level": 3}
+{"count": 6962, "name": "Autoignition temperature", "weight": 0.0, "id": 64127748, "level": 3}
+{"count": 22165, "name": "Homogeneous charge compression ignition", "weight": 2.0, "id": 96949565, "level": 3}
+{"count": 6992, "name": "Burn rate (chemistry)", "weight": 0.0, "id": 140277857, "level": 3}
+{"count": 6447, "name": "Chemical looping combustion", "weight": 0.0, "id": 158089330, "level": 3}
+{"count": 3273, "name": "Ammonium perchlorate", "weight": 0.0, "id": 2776704483, "level": 3}
+{"count": 14069, "name": "Coal combustion products", "weight": 1.0, "id": 188471824, "level": 3}
+{"count": 3890, "name": "Cetane number", "weight": 0.0, "id": 55062507, "level": 3}
+{"count": 5860, "name": "Spontaneous combustion", "weight": 0.0, "id": 152984320, "level": 3}
+{"count": 7609, "name": "Adiabatic flame temperature", "weight": 0.0, "id": 197554733, "level": 3}
+{"count": 3755, "name": "Deflagration", "weight": 0.0, "id": 47396930, "level": 3}
+{"count": 2345, "name": "Flammability limit", "weight": 0.0, "id": 177800056, "level": 3}
+{"count": 375, "name": "Rapid compression machine", "weight": 0.0, "id": 2781239065, "level": 3}
+{"count": 2355, "name": "Cone calorimeter", "weight": 0.0, "id": 33374538, "level": 3}
+{"count": 2627, "name": "Deflagration to detonation transition", "weight": 0.0, "id": 10500322, "level": 3}
+{"count": 2420, "name": "Flame spread", "weight": 0.0, "id": 82930556, "level": 3}
+{"count": 2275, "name": "Combustibility", "weight": 0.0, "id": 166050371, "level": 3}
+{"count": 1520, "name": "Gasoline direct injection", "weight": 0.0, "id": 2776595511, "level": 3}
+{"count": 2107, "name": "Industrial furnace", "weight": 0.0, "id": 2776067343, "level": 3}
+{"count": 1426, "name": "Oxy-fuel", "weight": 0.0, "id": 48729370, "level": 3}
+{"count": 1449, "name": "Monopropellant", "weight": 0.0, "id": 21395175, "level": 3}
+{"count": 833, "name": "Damk\u00f6hler numbers", "weight": 0.0, "id": 39343618, "level": 3}
+{"count": 858, "name": "Combustion analysis", "weight": 0.0, "id": 187958608, "level": 3}
+{"count": 1126, "name": "Laser ignition", "weight": 0.0, "id": 2779853127, "level": 3}
+{"count": 12606, "name": "Ignition timing", "weight": 1.0, "id": 96532641, "level": 3}
+{"count": 1409, "name": "Cofiring", "weight": 0.0, "id": 187414654, "level": 3}
+{"count": 597, "name": "Cool flame", "weight": 0.0, "id": 2777131152, "level": 3}
+{"count": 552, "name": "Single-cylinder engine", "weight": 0.0, "id": 2778109710, "level": 3}
+{"count": 686, "name": "Pyrotechnic composition", "weight": 0.0, "id": 2779800572, "level": 3}
+{"count": 133, "name": "In situ adaptive tabulation", "weight": 0.0, "id": 2780999975, "level": 3}
+{"count": 1388, "name": "Thermite", "weight": 0.0, "id": 2776983814, "level": 3}
+{"count": 2647, "name": "Minimum ignition energy", "weight": 0.0, "id": 104733991, "level": 3}
+{"count": 361, "name": "Ammonium dinitramide", "weight": 0.0, "id": 2778994018, "level": 3}
+{"count": 1634, "name": "Afterburner", "weight": 0.0, "id": 2779121625, "level": 3}
+{"count": 1200, "name": "Emulsified fuel", "weight": 0.0, "id": 76098368, "level": 3}
+{"count": 204, "name": "Partially premixed combustion", "weight": 0.0, "id": 2781327496, "level": 3}
+{"count": 233, "name": "Heterogeneous Combustion", "weight": 0.0, "id": 2777759629, "level": 3}
+{"count": 460, "name": "Burn rate", "weight": 0.0, "id": 58733880, "level": 3}
+{"count": 698, "name": "Hypergolic propellant", "weight": 0.0, "id": 153080966, "level": 3}
+{"count": 210, "name": "Orimulsion", "weight": 0.0, "id": 2780272429, "level": 3}
+{"count": 252, "name": "HCNG", "weight": 0.0, "id": 78930993, "level": 3}
+{"count": 643, "name": "Boiler design", "weight": 0.0, "id": 2781323112, "level": 3}
+{"count": 81, "name": "G equation", "weight": 0.0, "id": 2776452194, "level": 3}
+{"count": 131, "name": "Oxygen compatibility", "weight": 0.0, "id": 2778048437, "level": 3}
+{"count": 310, "name": "Cyclone furnace", "weight": 0.0, "id": 2777828254, "level": 3}
+{"count": 653, "name": "Smouldering", "weight": 0.0, "id": 2779316642, "level": 3}
+{"count": 115, "name": "Boilover", "weight": 0.0, "id": 2776821010, "level": 3}
+{"count": 358, "name": "Ram accelerator", "weight": 0.0, "id": 2777126586, "level": 3}
+{"count": 3580, "name": "Coal water", "weight": 0.0, "id": 2777959845, "level": 3}
+{"count": 2490, "name": "Mean effective pressure", "weight": 0.0, "id": 128143373, "level": 3}
+{"count": 170, "name": "Grate firing", "weight": 0.0, "id": 2778204871, "level": 3}
+{"count": 517, "name": "Pellet fuel", "weight": 0.0, "id": 2776036445, "level": 3}
+{"count": 154, "name": "Stefan flow", "weight": 0.0, "id": 2780576571, "level": 3}
+{"count": 513, "name": "Indirect injection", "weight": 0.0, "id": 2775927348, "level": 3}
+{"count": 72, "name": "Tire-derived fuel", "weight": 0.0, "id": 2781464243, "level": 3}
+{"count": 507, "name": "Thermal oxidizer", "weight": 0.0, "id": 181127317, "level": 3}
+{"count": 742, "name": "Cryogenic fuel", "weight": 0.0, "id": 204353038, "level": 3}
+{"count": 59, "name": "Hydrazinium nitroformate", "weight": 0.0, "id": 2780507174, "level": 3}
+{"count": 4650, "name": "Fuel mass fraction", "weight": 0.0, "id": 70247577, "level": 3}
+{"count": 41, "name": "Tire fire", "weight": 0.0, "id": 2777541825, "level": 3}
+{"count": 61, "name": "Fuel surrogate", "weight": 0.0, "id": 2778671384, "level": 3}
+{"count": 104, "name": "Isopropyl nitrate", "weight": 0.0, "id": 2776517767, "level": 3}
+{"count": 183, "name": "Fire triangle", "weight": 0.0, "id": 171383529, "level": 3}
+{"count": 436, "name": "Multifuel", "weight": 0.0, "id": 2777374301, "level": 3}
+{"count": 26, "name": "Novec 1230", "weight": 0.0, "id": 2777446189, "level": 3}
+{"count": 134, "name": "Catalytic heater", "weight": 0.0, "id": 2779627320, "level": 3}
+{"count": 11, "name": "Combustion light-gas gun", "weight": 0.0, "id": 2780670609, "level": 3}
+{"count": 33, "name": "Masonry heater", "weight": 0.0, "id": 2781038186, "level": 3}
+{"count": 106, "name": "Cryogenic oxygen plant", "weight": 0.0, "id": 94677621, "level": 3}
+{"count": 51, "name": "Carbon-based fuel", "weight": 0.0, "id": 2781033832, "level": 3}
+{"count": 26, "name": "Controlled combustion engine", "weight": 0.0, "id": 2777985156, "level": 3}
+{"count": 9, "name": "Magnussen model", "weight": 0.0, "id": 2778968823, "level": 3}
+{"count": 13, "name": "Oxy-fuel combustion process", "weight": 0.0, "id": 2779474488, "level": 3}
+{"count": 521, "name": "Grate heater", "weight": 0.0, "id": 185668508, "level": 3}
+{"count": 18, "name": "Direct vent fireplace", "weight": 0.0, "id": 2780768045, "level": 3}
+{"count": 29, "name": "Combustion, Explosion, and Shock Waves", "weight": 0.0, "id": 2776261308, "level": 3}

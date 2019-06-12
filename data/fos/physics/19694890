@@ -1,0 +1,26 @@
+{"count": 3756, "name": "Elliptic flow", "weight": 9.0, "id": 80903900, "level": 3}
+{"count": 3995, "name": "Quarkonium", "weight": 10.0, "id": 2779985612, "level": 3}
+{"count": 2578, "name": "Semileptonic decay", "weight": 6.0, "id": 2778910143, "level": 3}
+{"count": 1616, "name": "Hadron spectroscopy", "weight": 4.0, "id": 2779547278, "level": 3}
+{"count": 688, "name": "Fragmentation function", "weight": 1.0, "id": 2775885684, "level": 3}
+{"count": 2866, "name": "Hadronization", "weight": 7.0, "id": 186022433, "level": 3}
+{"count": 1381, "name": "Lambda baryon", "weight": 3.0, "id": 11850993, "level": 3}
+{"count": 799, "name": "Bose\u2013Einstein correlations", "weight": 2.0, "id": 2777765857, "level": 3}
+{"count": 2850, "name": "Charm quark", "weight": 7.0, "id": 86040059, "level": 3}
+{"count": 744, "name": "Charmed baryons", "weight": 1.0, "id": 2775980768, "level": 3}
+{"count": 742, "name": "Transverse mass", "weight": 1.0, "id": 157773166, "level": 3}
+{"count": 181, "name": "ALEPH experiment", "weight": 0.0, "id": 2779354923, "level": 3}
+{"count": 1071, "name": "D meson", "weight": 2.0, "id": 2779391981, "level": 3}
+{"count": 2501, "name": "Pseudorapidity", "weight": 6.0, "id": 2781178975, "level": 3}
+{"count": 1042, "name": "Exotic hadron", "weight": 2.0, "id": 48264206, "level": 3}
+{"count": 435, "name": "COMPASS experiment", "weight": 1.0, "id": 2777251814, "level": 3}
+{"count": 214, "name": "Kaonic hydrogen", "weight": 0.0, "id": 2778577139, "level": 3}
+{"count": 272, "name": "Calorimeter (particle physics)", "weight": 0.0, "id": 18073261, "level": 3}
+{"count": 257, "name": "OZI rule", "weight": 0.0, "id": 2775956589, "level": 3}
+{"count": 417, "name": "STAR detector", "weight": 1.0, "id": 2777696153, "level": 3}
+{"count": 278, "name": "PHENIX detector", "weight": 0.0, "id": 2781029765, "level": 3}
+{"count": 106, "name": "VEPP-2000", "weight": 0.0, "id": 2777767899, "level": 3}
+{"count": 140, "name": "NA49 experiment", "weight": 0.0, "id": 2780063897, "level": 3}
+{"count": 33, "name": "Hexaquark", "weight": 0.0, "id": 2781233810, "level": 3}
+{"count": 10, "name": "Centauro event", "weight": 0.0, "id": 2778421361, "level": 3}
+{"count": 31, "name": "Nuclear interaction length", "weight": 0.0, "id": 2779819111, "level": 3}

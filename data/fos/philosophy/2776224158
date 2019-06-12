@@ -1,0 +1,4 @@
+{"count": 146, "name": "Prosodic unit", "weight": 10.0, "id": 2775972300, "level": 3}
+{"count": 68, "name": "Focus phrase", "weight": 4.0, "id": 2780795154, "level": 3}
+{"count": 28, "name": "Inflectional phrase", "weight": 2.0, "id": 2779850570, "level": 3}
+{"count": 81, "name": "Phrase chunking", "weight": 5.0, "id": 2776777511, "level": 3}

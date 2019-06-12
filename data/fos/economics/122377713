@@ -1,0 +1,4 @@
+{"count": 430, "name": "Release consistency", "weight": 10.0, "id": 175061136, "level": 5}
+{"count": 44, "name": "Processor consistency", "weight": 1.0, "id": 2779803096, "level": 5}
+{"count": 245, "name": "Consistency (statistics)", "weight": 5.0, "id": 11654742, "level": 5}
+{"count": 65, "name": "PRAM consistency", "weight": 1.0, "id": 38128926, "level": 5}

@@ -1,0 +1,4 @@
+{"count": 1075, "name": "Emitter turn off thyristor", "weight": 4.0, "id": 203922085, "level": 5}
+{"count": 1612, "name": "Static induction thyristor", "weight": 7.0, "id": 164401470, "level": 5}
+{"count": 2180, "name": "MOS-controlled thyristor", "weight": 10.0, "id": 12688097, "level": 5}
+{"count": 405, "name": "Phase-fired controllers", "weight": 1.0, "id": 171331204, "level": 5}

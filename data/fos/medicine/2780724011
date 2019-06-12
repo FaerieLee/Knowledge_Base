@@ -1,0 +1,14 @@
+{"count": 2424, "name": "Emergency nursing", "weight": 10.0, "id": 2780415970, "level": 3}
+{"count": 1291, "name": "Pediatric emergency medicine", "weight": 5.0, "id": 2778954079, "level": 3}
+{"count": 595, "name": "Emergency ultrasound", "weight": 2.0, "id": 2779278165, "level": 3}
+{"count": 247, "name": "Ottawa ankle rules", "weight": 1.0, "id": 2778661984, "level": 3}
+{"count": 119, "name": "Drug Abuse Warning Network", "weight": 0.0, "id": 2778793849, "level": 3}
+{"count": 357, "name": "Emergency Severity Index", "weight": 1.0, "id": 2776001952, "level": 3}
+{"count": 420, "name": "Procedural sedation and analgesia", "weight": 1.0, "id": 2779165828, "level": 3}
+{"count": 216, "name": "Resuscitative thoracotomy", "weight": 0.0, "id": 2778785385, "level": 3}
+{"count": 50, "name": "Hematoma block", "weight": 0.0, "id": 2780518264, "level": 3}
+{"count": 44, "name": "Ottawa knee rules", "weight": 0.0, "id": 2778561531, "level": 3}
+{"count": 29, "name": "Medical scribe", "weight": 0.0, "id": 2781107263, "level": 3}
+{"count": 81, "name": "San Francisco Syncope Rule", "weight": 0.0, "id": 2777616371, "level": 3}
+{"count": 51, "name": "EDACS", "weight": 0.0, "id": 2777818608, "level": 3}
+{"count": 15, "name": "GI cocktail", "weight": 0.0, "id": 2778363619, "level": 3}

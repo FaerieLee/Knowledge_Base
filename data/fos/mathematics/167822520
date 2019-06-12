@@ -1,0 +1,14 @@
+{"count": 3064, "name": "Deterministic finite automaton", "weight": 7.0, "id": 104091681, "level": 3}
+{"count": 1137, "name": "Abstract state machines", "weight": 2.0, "id": 145243422, "level": 3}
+{"count": 929, "name": "Extended finite-state machine", "weight": 2.0, "id": 181062253, "level": 3}
+{"count": 198, "name": "Communicating finite-state machine", "weight": 0.0, "id": 2777719083, "level": 3}
+{"count": 432, "name": "State machine replication", "weight": 1.0, "id": 49265948, "level": 3}
+{"count": 1048, "name": "State transition table", "weight": 2.0, "id": 165207097, "level": 3}
+{"count": 180, "name": "Moore machine", "weight": 0.0, "id": 127214767, "level": 3}
+{"count": 261, "name": "Mealy machine", "weight": 0.0, "id": 167960825, "level": 3}
+{"count": 83, "name": "Unary language", "weight": 0.0, "id": 2778183011, "level": 3}
+{"count": 4109, "name": "Quantum finite automata", "weight": 10.0, "id": 174327141, "level": 3}
+{"count": 58, "name": "Umple", "weight": 0.0, "id": 2779962295, "level": 3}
+{"count": 31, "name": "Algorithmic State Machine", "weight": 0.0, "id": 47218614, "level": 3}
+{"count": 61, "name": "SCXML", "weight": 0.0, "id": 2779262563, "level": 3}
+{"count": 6, "name": "State encoding for low power", "weight": 0.0, "id": 2780987080, "level": 3}

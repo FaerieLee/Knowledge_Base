@@ -1,0 +1,200 @@
+{"count": 492765, "name": "Virus", "weight": 7.0, "id": 2522874641, "level": 2}
+{"count": 345351, "name": "Apoptosis", "weight": 5.0, "id": 190283241, "level": 2}
+{"count": 44155, "name": "Immunopathology", "weight": 0.0, "id": 2780648854, "level": 2}
+{"count": 630115, "name": "Antibody", "weight": 10.0, "id": 159654299, "level": 2}
+{"count": 515449, "name": "Immune system", "weight": 8.0, "id": 8891405, "level": 2}
+{"count": 135006, "name": "Immunohistochemistry", "weight": 2.0, "id": 204232928, "level": 2}
+{"count": 215493, "name": "Pathogenesis", "weight": 3.0, "id": 2780942790, "level": 2}
+{"count": 187421, "name": "Cytokine", "weight": 2.0, "id": 2778690821, "level": 2}
+{"count": 334685, "name": "Inflammation", "weight": 5.0, "id": 2776914184, "level": 2}
+{"count": 443145, "name": "Antigen", "weight": 7.0, "id": 147483822, "level": 2}
+{"count": 198266, "name": "Stem cell", "weight": 3.0, "id": 28328180, "level": 2}
+{"count": 113979, "name": "Cellular differentiation", "weight": 1.0, "id": 148738053, "level": 2}
+{"count": 166251, "name": "Tumor necrosis factor alpha", "weight": 2.0, "id": 17991360, "level": 2}
+{"count": 161234, "name": "Platelet", "weight": 2.0, "id": 89560881, "level": 2}
+{"count": 88255, "name": "Endothelial stem cell", "weight": 1.0, "id": 123012128, "level": 2}
+{"count": 206303, "name": "Bone marrow", "weight": 3.0, "id": 2780007613, "level": 2}
+{"count": 29142, "name": "Flow cytometry", "weight": 0.0, "id": 553184892, "level": 2}
+{"count": 182617, "name": "Asthma", "weight": 2.0, "id": 2776042228, "level": 2}
+{"count": 118478, "name": "Cytotoxicity", "weight": 1.0, "id": 109316439, "level": 2}
+{"count": 101283, "name": "Allergy", "weight": 1.0, "id": 207480886, "level": 2}
+{"count": 109162, "name": "Malaria", "weight": 1.0, "id": 2778048844, "level": 2}
+{"count": 148350, "name": "Vaccination", "weight": 2.0, "id": 22070199, "level": 2}
+{"count": 70152, "name": "Interleukin", "weight": 1.0, "id": 74172505, "level": 2}
+{"count": 105691, "name": "Angiogenesis", "weight": 1.0, "id": 2780394083, "level": 2}
+{"count": 71103, "name": "Helminths", "weight": 1.0, "id": 165901193, "level": 2}
+{"count": 93954, "name": "Virulence", "weight": 1.0, "id": 60987743, "level": 2}
+{"count": 56253, "name": "Lipopolysaccharide", "weight": 0.0, "id": 2778754761, "level": 2}
+{"count": 42974, "name": "Interleukin 6", "weight": 0.0, "id": 11988809, "level": 2}
+{"count": 110410, "name": "Spleen", "weight": 1.0, "id": 2780931953, "level": 2}
+{"count": 87917, "name": "Multiple sclerosis", "weight": 1.0, "id": 2780640218, "level": 2}
+{"count": 33052, "name": "Cell adhesion molecule", "weight": 0.0, "id": 16224149, "level": 2}
+{"count": 96805, "name": "Serology", "weight": 1.0, "id": 45189115, "level": 2}
+{"count": 67674, "name": "Peripheral blood mononuclear cell", "weight": 1.0, "id": 137061746, "level": 2}
+{"count": 169812, "name": "Cytotoxic T cell", "weight": 2.0, "id": 154317977, "level": 2}
+{"count": 47900, "name": "Red blood cell", "weight": 0.0, "id": 2776557347, "level": 2}
+{"count": 128247, "name": "Lymphocyte", "weight": 2.0, "id": 2777761686, "level": 2}
+{"count": 57210, "name": "Hepatitis C virus", "weight": 0.0, "id": 2776408679, "level": 2}
+{"count": 120901, "name": "Leukemia", "weight": 1.0, "id": 2778461978, "level": 2}
+{"count": 29060, "name": "Phagocytosis", "weight": 0.0, "id": 160448771, "level": 2}
+{"count": 121435, "name": "Lymphoma", "weight": 1.0, "id": 2779338263, "level": 2}
+{"count": 19773, "name": "Mycosis", "weight": 0.0, "id": 2780908437, "level": 2}
+{"count": 43899, "name": "Transforming growth factor", "weight": 0.0, "id": 118131993, "level": 2}
+{"count": 42685, "name": "Glucocorticoid", "weight": 0.0, "id": 2780841215, "level": 2}
+{"count": 39991, "name": "Hematology", "weight": 0.0, "id": 194409129, "level": 2}
+{"count": 113421, "name": "Melanoma", "weight": 1.0, "id": 2777658100, "level": 2}
+{"count": 59551, "name": "Vascular endothelial growth factor", "weight": 0.0, "id": 2777025900, "level": 2}
+{"count": 72379, "name": "Necrosis", "weight": 1.0, "id": 503630168, "level": 2}
+{"count": 57205, "name": "Serotype", "weight": 0.0, "id": 10389963, "level": 2}
+{"count": 58211, "name": "Wound healing", "weight": 0.0, "id": 2780269544, "level": 2}
+{"count": 93667, "name": "Mesenchymal stem cell", "weight": 1.0, "id": 198826908, "level": 2}
+{"count": 50219, "name": "Hepatitis B virus", "weight": 0.0, "id": 2780593183, "level": 2}
+{"count": 15776, "name": "Tropical medicine", "weight": 0.0, "id": 185032368, "level": 2}
+{"count": 8910, "name": "Cell\u2013cell interaction", "weight": 0.0, "id": 183521119, "level": 2}
+{"count": 27256, "name": "Interleukin 2", "weight": 0.0, "id": 2777371288, "level": 2}
+{"count": 52232, "name": "Neoplasm", "weight": 0.0, "id": 2780635560, "level": 2}
+{"count": 46768, "name": "Chemokine", "weight": 0.0, "id": 13373296, "level": 2}
+{"count": 1724, "name": "Neutrophile", "weight": 0.0, "id": 198677920, "level": 2}
+{"count": 53388, "name": "Immunosuppression", "weight": 0.0, "id": 2780252810, "level": 2}
+{"count": 100428, "name": "Interferon", "weight": 1.0, "id": 2776178377, "level": 2}
+{"count": 62059, "name": "Hepatitis C", "weight": 0.0, "id": 2776455275, "level": 2}
+{"count": 97641, "name": "Haematopoiesis", "weight": 1.0, "id": 109159458, "level": 2}
+{"count": 95845, "name": "Arthritis", "weight": 1.0, "id": 2777077863, "level": 2}
+{"count": 50624, "name": "Monocyte", "weight": 0.0, "id": 2781184567, "level": 2}
+{"count": 78272, "name": "Hepatitis B", "weight": 1.0, "id": 2777382497, "level": 2}
+{"count": 102504, "name": "Sepsis", "weight": 1.0, "id": 2778384902, "level": 2}
+{"count": 27554, "name": "Streptococcus pneumoniae", "weight": 0.0, "id": 2781253189, "level": 2}
+{"count": 29614, "name": "Mast cell", "weight": 0.0, "id": 2779726688, "level": 2}
+{"count": 31317, "name": "Chemotaxis", "weight": 0.0, "id": 54166955, "level": 2}
+{"count": 10266, "name": "Parasitology", "weight": 0.0, "id": 190612196, "level": 2}
+{"count": 72704, "name": "Stromal cell", "weight": 1.0, "id": 16930146, "level": 2}
+{"count": 2671, "name": "Hot spot (veterinary medicine)", "weight": 0.0, "id": 2778518061, "level": 2}
+{"count": 67049, "name": "Human leukocyte antigen", "weight": 1.0, "id": 188280979, "level": 2}
+{"count": 2877, "name": "Cell lineage", "weight": 0.0, "id": 2777620950, "level": 2}
+{"count": 47386, "name": "Multiple myeloma", "weight": 0.0, "id": 2776364478, "level": 2}
+{"count": 11965, "name": "Helminthiasis", "weight": 0.0, "id": 2779726973, "level": 2}
+{"count": 79207, "name": "Salmonella", "weight": 1.0, "id": 2781065037, "level": 2}
+{"count": 27551, "name": "Bacteremia", "weight": 0.0, "id": 2779443120, "level": 2}
+{"count": 62960, "name": "Lymphatic system", "weight": 0.0, "id": 181152851, "level": 2}
+{"count": 22340, "name": "Granulocyte", "weight": 0.0, "id": 2777983669, "level": 2}
+{"count": 23673, "name": "Listeria monocytogenes", "weight": 0.0, "id": 2781350384, "level": 2}
+{"count": 27711, "name": "Microglia", "weight": 0.0, "id": 2779830541, "level": 2}
+{"count": 14978, "name": "Growth factor receptor", "weight": 0.0, "id": 26375932, "level": 2}
+{"count": 42694, "name": "Lysis", "weight": 0.0, "id": 57409179, "level": 2}
+{"count": 36405, "name": "Whole blood", "weight": 0.0, "id": 1621761, "level": 2}
+{"count": 56938, "name": "Psoriasis", "weight": 0.0, "id": 2780564577, "level": 2}
+{"count": 13218, "name": "Blood cell", "weight": 0.0, "id": 2779979121, "level": 2}
+{"count": 10529, "name": "Chemoprophylaxis", "weight": 0.0, "id": 2776688490, "level": 2}
+{"count": 28932, "name": "Dengue fever", "weight": 0.0, "id": 533803919, "level": 2}
+{"count": 27146, "name": "Sensitization", "weight": 0.0, "id": 2776217527, "level": 2}
+{"count": 29939, "name": "Atopic dermatitis", "weight": 0.0, "id": 2778329239, "level": 2}
+{"count": 18962, "name": "Leishmaniasis", "weight": 0.0, "id": 2776555147, "level": 2}
+{"count": 34232, "name": "Fibronectin", "weight": 0.0, "id": 86492073, "level": 2}
+{"count": 7473, "name": "Inoculation", "weight": 0.0, "id": 180032290, "level": 2}
+{"count": 20941, "name": "Concanavalin A", "weight": 0.0, "id": 19869320, "level": 2}
+{"count": 20089, "name": "Transferrin", "weight": 0.0, "id": 22814914, "level": 2}
+{"count": 3994, "name": "Immunogenetics", "weight": 0.0, "id": 1547928, "level": 2}
+{"count": 11246, "name": "Enterotoxin", "weight": 0.0, "id": 66999527, "level": 2}
+{"count": 17455, "name": "Haemophilus influenzae", "weight": 0.0, "id": 2776925733, "level": 2}
+{"count": 28631, "name": "Lectin", "weight": 0.0, "id": 2780758401, "level": 2}
+{"count": 33189, "name": "Colitis", "weight": 0.0, "id": 2775862500, "level": 2}
+{"count": 25087, "name": "Blood type", "weight": 0.0, "id": 18172741, "level": 2}
+{"count": 14773, "name": "Vascular permeability", "weight": 0.0, "id": 113045295, "level": 2}
+{"count": 23205, "name": "Chronic lymphocytic leukemia", "weight": 0.0, "id": 2777938653, "level": 2}
+{"count": 11188, "name": "Granulocyte colony-stimulating factor", "weight": 0.0, "id": 2777767877, "level": 2}
+{"count": 16526, "name": "Keratinocyte", "weight": 0.0, "id": 2777074287, "level": 2}
+{"count": 11857, "name": "Trypanosomiasis", "weight": 0.0, "id": 2778143080, "level": 2}
+{"count": 9044, "name": "Zidovudine", "weight": 0.0, "id": 2780216070, "level": 2}
+{"count": 15208, "name": "Trypanosoma cruzi", "weight": 0.0, "id": 2777625466, "level": 2}
+{"count": 18852, "name": "Toxoplasma gondii", "weight": 0.0, "id": 2778128430, "level": 2}
+{"count": 25871, "name": "Myelin", "weight": 0.0, "id": 2778609137, "level": 2}
+{"count": 18478, "name": "Chlamydia trachomatis", "weight": 0.0, "id": 2777391075, "level": 2}
+{"count": 16784, "name": "Mucin", "weight": 0.0, "id": 179264091, "level": 2}
+{"count": 11694, "name": "Sirolimus", "weight": 0.0, "id": 2777921159, "level": 2}
+{"count": 15594, "name": "Aspergillosis", "weight": 0.0, "id": 2776391196, "level": 2}
+{"count": 26637, "name": "Globulin", "weight": 0.0, "id": 81358767, "level": 2}
+{"count": 10744, "name": "Platelet-activating factor", "weight": 0.0, "id": 2779020240, "level": 2}
+{"count": 10557, "name": "Respiratory burst", "weight": 0.0, "id": 99971728, "level": 2}
+{"count": 11400, "name": "Protein C", "weight": 0.0, "id": 2781287897, "level": 2}
+{"count": 70904, "name": "Pathogen", "weight": 1.0, "id": 2776460866, "level": 2}
+{"count": 21379, "name": "Complement system", "weight": 0.0, "id": 111684460, "level": 2}
+{"count": 20251, "name": "Organ transplantation", "weight": 0.0, "id": 168444539, "level": 2}
+{"count": 10387, "name": "Lyme disease", "weight": 0.0, "id": 2777553296, "level": 2}
+{"count": 12544, "name": "Hepatocyte growth factor", "weight": 0.0, "id": 2776996007, "level": 2}
+{"count": 22602, "name": "Hemolysis", "weight": 0.0, "id": 2779902561, "level": 2}
+{"count": 63638, "name": "PI3K/AKT/mTOR pathway", "weight": 1.0, "id": 86554907, "level": 2}
+{"count": 12575, "name": "Glycolipid", "weight": 0.0, "id": 22222904, "level": 2}
+{"count": 13577, "name": "Schistosoma mansoni", "weight": 0.0, "id": 2776863245, "level": 2}
+{"count": 28871, "name": "Fibrin", "weight": 0.0, "id": 54173615, "level": 2}
+{"count": 22852, "name": "Granuloma", "weight": 0.0, "id": 2780140890, "level": 2}
+{"count": 18729, "name": "Rotavirus", "weight": 0.0, "id": 2781367151, "level": 2}
+{"count": 18033, "name": "Respiratory tract infections", "weight": 0.0, "id": 2776012195, "level": 2}
+{"count": 9724, "name": "Streptococcus pyogenes", "weight": 0.0, "id": 2779306812, "level": 2}
+{"count": 20515, "name": "Toxoplasmosis", "weight": 0.0, "id": 2778062946, "level": 2}
+{"count": 9606, "name": "Neisseria meningitidis", "weight": 0.0, "id": 2778458888, "level": 2}
+{"count": 27269, "name": "Leprosy", "weight": 0.0, "id": 2780695269, "level": 2}
+{"count": 20930, "name": "Typhoid fever", "weight": 0.0, "id": 520601542, "level": 2}
+{"count": 11993, "name": "Tissue factor", "weight": 0.0, "id": 186738567, "level": 2}
+{"count": 18997, "name": "Osteoclast", "weight": 0.0, "id": 2776033226, "level": 2}
+{"count": 26513, "name": "Hematopoietic stem cell transplantation", "weight": 0.0, "id": 2777408962, "level": 2}
+{"count": 9556, "name": "Ovalbumin", "weight": 0.0, "id": 2776946954, "level": 2}
+{"count": 12180, "name": "Calcineurin", "weight": 0.0, "id": 128057223, "level": 2}
+{"count": 12608, "name": "Chagas disease", "weight": 0.0, "id": 112418997, "level": 2}
+{"count": 11317, "name": "Aspergillus fumigatus", "weight": 0.0, "id": 2779787849, "level": 2}
+{"count": 10021, "name": "Borrelia burgdorferi", "weight": 0.0, "id": 2779159148, "level": 2}
+{"count": 8889, "name": "Cryptococcus neoformans", "weight": 0.0, "id": 2777893358, "level": 2}
+{"count": 17716, "name": "Ankylosing spondylitis", "weight": 0.0, "id": 2777402515, "level": 2}
+{"count": 27325, "name": "Sarcoidosis", "weight": 0.0, "id": 2781301800, "level": 2}
+{"count": 22139, "name": "Eosinophilia", "weight": 0.0, "id": 2777129736, "level": 2}
+{"count": 17951, "name": "Myasthenia gravis", "weight": 0.0, "id": 2778105408, "level": 2}
+{"count": 15744, "name": "Leishmania", "weight": 0.0, "id": 2781092759, "level": 2}
+{"count": 24402, "name": "Poliomyelitis", "weight": 0.0, "id": 4870876, "level": 2}
+{"count": 18385, "name": "Chlamydia", "weight": 0.0, "id": 2780122209, "level": 2}
+{"count": 20053, "name": "Tetanus", "weight": 0.0, "id": 2779841045, "level": 2}
+{"count": 14180, "name": "Erythropoiesis", "weight": 0.0, "id": 2779703530, "level": 2}
+{"count": 10847, "name": "Community-acquired pneumonia", "weight": 0.0, "id": 2776102371, "level": 2}
+{"count": 158123, "name": "T cell", "weight": 2.0, "id": 2776090121, "level": 2}
+{"count": 4769, "name": "Langerhans cell", "weight": 0.0, "id": 2778379841, "level": 2}
+{"count": 17456, "name": "Rabies", "weight": 0.0, "id": 2776849203, "level": 2}
+{"count": 22132, "name": "Sinusitis", "weight": 0.0, "id": 2777768476, "level": 2}
+{"count": 5364, "name": "Severe combined immunodeficiency", "weight": 0.0, "id": 2779468541, "level": 2}
+{"count": 24364, "name": "Seroprevalence", "weight": 0.0, "id": 2778494684, "level": 2}
+{"count": 15199, "name": "Brucellosis", "weight": 0.0, "id": 2781429187, "level": 2}
+{"count": 19085, "name": "White blood cell", "weight": 0.0, "id": 2778488018, "level": 2}
+{"count": 7319, "name": "Cryptococcosis", "weight": 0.0, "id": 2779413141, "level": 2}
+{"count": 20531, "name": "Uveitis", "weight": 0.0, "id": 2776194053, "level": 2}
+{"count": 16099, "name": "Diphtheria", "weight": 0.0, "id": 2780572238, "level": 2}
+{"count": 5203, "name": "Kupffer cell", "weight": 0.0, "id": 2778904781, "level": 2}
+{"count": 11239, "name": "Leukotriene", "weight": 0.0, "id": 2776452501, "level": 2}
+{"count": 10657, "name": "Encephalomyelitis", "weight": 0.0, "id": 2777899865, "level": 2}
+{"count": 26645, "name": "Osteomyelitis", "weight": 0.0, "id": 2780551157, "level": 2}
+{"count": 8518, "name": "Fibrosarcoma", "weight": 0.0, "id": 2776495794, "level": 2}
+{"count": 17495, "name": "Imatinib", "weight": 0.0, "id": 2777583451, "level": 2}
+{"count": 6997, "name": "Ganciclovir", "weight": 0.0, "id": 2777965375, "level": 2}
+{"count": 10117, "name": "Lactoferrin", "weight": 0.0, "id": 2779170986, "level": 2}
+{"count": 27154, "name": "Ex vivo", "weight": 0.0, "id": 26291073, "level": 2}
+{"count": 15269, "name": "Mycoplasma", "weight": 0.0, "id": 2778838687, "level": 2}
+{"count": 8146, "name": "Hemolysin", "weight": 0.0, "id": 136139683, "level": 2}
+{"count": 8663, "name": "Porphyromonas gingivalis", "weight": 0.0, "id": 2780183776, "level": 2}
+{"count": 17983, "name": "Microbiome", "weight": 0.0, "id": 143121216, "level": 2}
+{"count": 10648, "name": "Osteopontin", "weight": 0.0, "id": 2780804394, "level": 2}
+{"count": 7834, "name": "Mononuclear phagocyte system", "weight": 0.0, "id": 19702531, "level": 2}
+{"count": 49085, "name": "Anti-inflammatory", "weight": 0.0, "id": 2779703632, "level": 2}
+{"count": 11768, "name": "Provocation test", "weight": 0.0, "id": 110586980, "level": 2}
+{"count": 12685, "name": "Dysentery", "weight": 0.0, "id": 2780708024, "level": 2}
+{"count": 8199, "name": "Mycoplasma pneumoniae", "weight": 0.0, "id": 2779215961, "level": 2}
+{"count": 6826, "name": "Bordetella pertussis", "weight": 0.0, "id": 2777582894, "level": 2}
+{"count": 4677, "name": "Cryptosporidium parvum", "weight": 0.0, "id": 2777795018, "level": 2}
+{"count": 10952, "name": "Cumulative incidence", "weight": 0.0, "id": 88879693, "level": 2}
+{"count": 9938, "name": "Bronchiolitis", "weight": 0.0, "id": 2778821649, "level": 2}
+{"count": 5480, "name": "Maximum tolerated dose", "weight": 0.0, "id": 2777334693, "level": 2}
+{"count": 4831, "name": "Factor V", "weight": 0.0, "id": 2776046644, "level": 2}
+{"count": 8290, "name": "Entamoeba histolytica", "weight": 0.0, "id": 2776867272, "level": 2}
+{"count": 5899, "name": "Diphtheria toxin", "weight": 0.0, "id": 33057221, "level": 2}
+{"count": 12333, "name": "Colostrum", "weight": 0.0, "id": 2779073587, "level": 2}
+{"count": 6885, "name": "Legionella pneumophila", "weight": 0.0, "id": 2776118409, "level": 2}
+{"count": 7216, "name": "ICAM-1", "weight": 0.0, "id": 185946421, "level": 2}
+{"count": 5943, "name": "Amoebiasis", "weight": 0.0, "id": 2778455923, "level": 2}
+{"count": 8187, "name": "Acute promyelocytic leukemia", "weight": 0.0, "id": 2776601000, "level": 2}
+{"count": 11533, "name": "Microvesicles", "weight": 0.0, "id": 20518536, "level": 2}
+{"count": 76014, "name": "Lymph", "weight": 1.0, "id": 2779720271, "level": 2}

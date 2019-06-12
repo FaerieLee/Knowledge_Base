@@ -1,0 +1,20 @@
+{"count": 10090, "name": "Fractionating column", "weight": 10.0, "id": 154030694, "level": 3}
+{"count": 2870, "name": "Reactive distillation", "weight": 2.0, "id": 2780843468, "level": 3}
+{"count": 8720, "name": "Vacuum distillation", "weight": 8.0, "id": 73522102, "level": 3}
+{"count": 7997, "name": "Steam distillation", "weight": 7.0, "id": 63663721, "level": 3}
+{"count": 1960, "name": "Solar still", "weight": 1.0, "id": 2776058518, "level": 3}
+{"count": 3349, "name": "Extractive distillation", "weight": 3.0, "id": 19924549, "level": 3}
+{"count": 3843, "name": "Azeotropic distillation", "weight": 3.0, "id": 131548973, "level": 3}
+{"count": 2539, "name": "Batch distillation", "weight": 2.0, "id": 76100544, "level": 3}
+{"count": 1024, "name": "Multi-stage flash distillation", "weight": 1.0, "id": 1814991, "level": 3}
+{"count": 916, "name": "Plate column", "weight": 0.0, "id": 2779291680, "level": 3}
+{"count": 5155, "name": "Fractional distillation", "weight": 5.0, "id": 204838308, "level": 3}
+{"count": 871, "name": "Catalytic distillation", "weight": 0.0, "id": 2778751234, "level": 3}
+{"count": 3871, "name": "Reboiler", "weight": 3.0, "id": 76752636, "level": 3}
+{"count": 875, "name": "Relative volatility", "weight": 0.0, "id": 136699399, "level": 3}
+{"count": 118, "name": "Alembic", "weight": 0.0, "id": 2777630478, "level": 3}
+{"count": 86, "name": "Pot still", "weight": 0.0, "id": 204152106, "level": 3}
+{"count": 366, "name": "Evaporator (marine)", "weight": 0.0, "id": 168896984, "level": 3}
+{"count": 121, "name": "Deodoriser", "weight": 0.0, "id": 2778224242, "level": 3}
+{"count": 60, "name": "Kugelrohr", "weight": 0.0, "id": 2780258913, "level": 3}
+{"count": 18, "name": "Atmospheric distillation of crude oil", "weight": 0.0, "id": 2779650007, "level": 3}

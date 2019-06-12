@@ -1,0 +1,26 @@
+{"count": 1135, "name": "Approval voting", "weight": 4.0, "id": 100479058, "level": 5}
+{"count": 707, "name": "Proxy voting", "weight": 2.0, "id": 10150695, "level": 5}
+{"count": 455, "name": "Compulsory voting", "weight": 1.0, "id": 2779578752, "level": 5}
+{"count": 1358, "name": "Instant-runoff voting", "weight": 5.0, "id": 60454596, "level": 5}
+{"count": 765, "name": "Voting trust", "weight": 3.0, "id": 70532380, "level": 5}
+{"count": 1240, "name": "Single-member district", "weight": 5.0, "id": 48487596, "level": 5}
+{"count": 230, "name": "Early voting", "weight": 0.0, "id": 2780273880, "level": 5}
+{"count": 2463, "name": "First-past-the-post voting", "weight": 10.0, "id": 48226144, "level": 5}
+{"count": 139, "name": "Sincere voting", "weight": 0.0, "id": 2777974950, "level": 5}
+{"count": 111, "name": "Tactical voting", "weight": 0.0, "id": 2779267529, "level": 5}
+{"count": 1077, "name": "Parallel voting", "weight": 4.0, "id": 49230009, "level": 5}
+{"count": 825, "name": "Two-round system", "weight": 3.0, "id": 164575281, "level": 5}
+{"count": 37, "name": "Range voting", "weight": 0.0, "id": 2778796795, "level": 5}
+{"count": 558, "name": "Calculus of voting", "weight": 2.0, "id": 69409115, "level": 5}
+{"count": 54, "name": "Bucklin voting", "weight": 0.0, "id": 195861665, "level": 5}
+{"count": 1653, "name": "Straight-ticket voting", "weight": 6.0, "id": 11027740, "level": 5}
+{"count": 31, "name": "Limited voting", "weight": 0.0, "id": 2777762518, "level": 5}
+{"count": 27, "name": "Wasted vote", "weight": 0.0, "id": 2777018176, "level": 5}
+{"count": 21, "name": "ThreeBallot", "weight": 0.0, "id": 2779750200, "level": 5}
+{"count": 130, "name": "Qualified personal residence trust", "weight": 0.0, "id": 14508518, "level": 5}
+{"count": 1533, "name": "Anti-plurality voting", "weight": 6.0, "id": 70095417, "level": 5}
+{"count": 124, "name": "Coombs' method", "weight": 0.0, "id": 99029307, "level": 5}
+{"count": 220, "name": "Exhaustive ballot", "weight": 0.0, "id": 188968914, "level": 5}
+{"count": 219, "name": "Positional voting system", "weight": 0.0, "id": 151986153, "level": 5}
+{"count": 757, "name": "Preferential block voting", "weight": 3.0, "id": 179637079, "level": 5}
+{"count": 1653, "name": "Bullet voting", "weight": 6.0, "id": 102483414, "level": 5}

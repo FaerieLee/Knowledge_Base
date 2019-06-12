@@ -1,0 +1,5 @@
+{"count": 89, "name": "Fixed expression", "weight": 2.0, "id": 2777035146, "level": 3}
+{"count": 197, "name": "Multiword expression", "weight": 5.0, "id": 2780767090, "level": 3}
+{"count": 369, "name": "Referring expression", "weight": 10.0, "id": 197568419, "level": 3}
+{"count": 20, "name": "ISWIM", "weight": 0.0, "id": 2776286898, "level": 3}
+{"count": 14, "name": "Brzozowski derivative", "weight": 0.0, "id": 2779891005, "level": 3}

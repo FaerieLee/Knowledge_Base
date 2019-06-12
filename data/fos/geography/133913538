@@ -1,0 +1,6 @@
+{"count": 832, "name": "Thermal manikin", "weight": 8.0, "id": 2778356852, "level": 3}
+{"count": 885, "name": "Wet-bulb globe temperature", "weight": 8.0, "id": 75043328, "level": 3}
+{"count": 1013, "name": "Operative temperature", "weight": 10.0, "id": 84967980, "level": 3}
+{"count": 452, "name": "Clothing insulation", "weight": 4.0, "id": 2778890288, "level": 3}
+{"count": 245, "name": "Underfloor air distribution", "weight": 2.0, "id": 2779463659, "level": 3}
+{"count": 104, "name": "Humidex", "weight": 1.0, "id": 49517417, "level": 3}

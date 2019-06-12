@@ -1,0 +1,200 @@
+{"count": 90554, "name": "Livestock", "weight": 6.0, "id": 112964050, "level": 2}
+{"count": 45042, "name": "Forest management", "weight": 3.0, "id": 28631016, "level": 2}
+{"count": 38035, "name": "Dairy cattle", "weight": 2.0, "id": 2776977481, "level": 2}
+{"count": 26143, "name": "Deforestation", "weight": 1.0, "id": 139496715, "level": 2}
+{"count": 32104, "name": "Forest ecology", "weight": 2.0, "id": 73935091, "level": 2}
+{"count": 7889, "name": "Trapping", "weight": 0.0, "id": 2777924906, "level": 2}
+{"count": 7827, "name": "Tropical forest", "weight": 0.0, "id": 2776285232, "level": 2}
+{"count": 12674, "name": "Taiga", "weight": 0.0, "id": 87621631, "level": 2}
+{"count": 16634, "name": "Nature Conservation", "weight": 1.0, "id": 2777952078, "level": 2}
+{"count": 144671, "name": "Cycling", "weight": 10.0, "id": 541528975, "level": 2}
+{"count": 45512, "name": "National park", "weight": 3.0, "id": 2780993040, "level": 2}
+{"count": 19144, "name": "Nature reserve", "weight": 1.0, "id": 53571324, "level": 2}
+{"count": 14055, "name": "Old-growth forest", "weight": 0.0, "id": 121560416, "level": 2}
+{"count": 11013, "name": "Silviculture", "weight": 0.0, "id": 2775966360, "level": 2}
+{"count": 15703, "name": "Afforestation", "weight": 1.0, "id": 56095865, "level": 2}
+{"count": 31236, "name": "Woodland", "weight": 2.0, "id": 203174812, "level": 2}
+{"count": 32584, "name": "Logging", "weight": 2.0, "id": 125620115, "level": 2}
+{"count": 19763, "name": "Thinning", "weight": 1.0, "id": 2781353100, "level": 2}
+{"count": 14117, "name": "Hardwood", "weight": 0.0, "id": 2780674770, "level": 2}
+{"count": 10810, "name": "Basal area", "weight": 0.0, "id": 91354502, "level": 2}
+{"count": 10189, "name": "Forest inventory", "weight": 0.0, "id": 147103442, "level": 2}
+{"count": 1954, "name": "Forest fragmentation", "weight": 0.0, "id": 198979508, "level": 2}
+{"count": 2792, "name": "Pinus contorta", "weight": 0.0, "id": 2778823381, "level": 2}
+{"count": 9001, "name": "Poultry farming", "weight": 0.0, "id": 66914385, "level": 2}
+{"count": 18838, "name": "Milking", "weight": 1.0, "id": 2779885849, "level": 2}
+{"count": 3184, "name": "Quercus robur", "weight": 0.0, "id": 2776211871, "level": 2}
+{"count": 2960, "name": "Forest dynamics", "weight": 0.0, "id": 2776107028, "level": 2}
+{"count": 4101, "name": "Coppicing", "weight": 0.0, "id": 103017160, "level": 2}
+{"count": 8654, "name": "Reforestation", "weight": 0.0, "id": 154575652, "level": 2}
+{"count": 3234, "name": "Clearcutting", "weight": 0.0, "id": 192392207, "level": 2}
+{"count": 16796, "name": "Wilderness", "weight": 1.0, "id": 2778677346, "level": 2}
+{"count": 3367, "name": "Neospora caninum", "weight": 0.0, "id": 2781154746, "level": 2}
+{"count": 2547, "name": "Coarse woody debris", "weight": 0.0, "id": 83873828, "level": 2}
+{"count": 5729, "name": "Tree planting", "weight": 0.0, "id": 8328733, "level": 2}
+{"count": 2775, "name": "Urban forestry", "weight": 0.0, "id": 2780977904, "level": 2}
+{"count": 3472, "name": "Urban forest", "weight": 0.0, "id": 2776426263, "level": 2}
+{"count": 2279, "name": "Wood industry", "weight": 0.0, "id": 2778348119, "level": 2}
+{"count": 706, "name": "Dendrometry", "weight": 0.0, "id": 86409407, "level": 2}
+{"count": 5662, "name": "Felling", "weight": 0.0, "id": 119249163, "level": 2}
+{"count": 3390, "name": "Tropical and subtropical dry broadleaf forests", "weight": 0.0, "id": 108216600, "level": 2}
+{"count": 2403, "name": "Pig farming", "weight": 0.0, "id": 2780069929, "level": 2}
+{"count": 1429, "name": "Abies balsamea", "weight": 0.0, "id": 2775898225, "level": 2}
+{"count": 2347, "name": "Site index", "weight": 0.0, "id": 2775882201, "level": 2}
+{"count": 5207, "name": "Herding", "weight": 0.0, "id": 177605951, "level": 2}
+{"count": 2091, "name": "Mountain pine beetle", "weight": 0.0, "id": 2777131384, "level": 2}
+{"count": 1444, "name": "Western Hemlock", "weight": 0.0, "id": 2777983457, "level": 2}
+{"count": 906, "name": "Acer pseudoplatanus", "weight": 0.0, "id": 2777111245, "level": 2}
+{"count": 343, "name": "Ponderosa pine forest", "weight": 0.0, "id": 2776414313, "level": 2}
+{"count": 2213, "name": "Adaptive strategies", "weight": 0.0, "id": 167393769, "level": 2}
+{"count": 4420, "name": "Natura 2000", "weight": 0.0, "id": 2780815956, "level": 2}
+{"count": 494, "name": "Crown Fire", "weight": 0.0, "id": 2779524849, "level": 2}
+{"count": 2839, "name": "Pulpwood", "weight": 0.0, "id": 121412344, "level": 2}
+{"count": 1037, "name": "Phytophthora ramorum", "weight": 0.0, "id": 2777968112, "level": 2}
+{"count": 223, "name": "Pinophyta", "weight": 0.0, "id": 2776867504, "level": 2}
+{"count": 1383, "name": "Forest road", "weight": 0.0, "id": 2778521444, "level": 2}
+{"count": 504, "name": "Populus balsamifera", "weight": 0.0, "id": 2776326992, "level": 2}
+{"count": 712, "name": "Wildland\u2013urban interface", "weight": 0.0, "id": 2777958270, "level": 2}
+{"count": 26953, "name": "Cord", "weight": 1.0, "id": 2779632786, "level": 2}
+{"count": 580, "name": "Forest pathology", "weight": 0.0, "id": 89295123, "level": 2}
+{"count": 1463, "name": "Illegal logging", "weight": 0.0, "id": 2777989319, "level": 2}
+{"count": 2432, "name": "Wood processing", "weight": 0.0, "id": 2776752069, "level": 2}
+{"count": 1089, "name": "Windthrow", "weight": 0.0, "id": 125072520, "level": 2}
+{"count": 3850, "name": "Shetland", "weight": 0.0, "id": 2780978308, "level": 2}
+{"count": 1746, "name": "Wood production", "weight": 0.0, "id": 2777089699, "level": 2}
+{"count": 366, "name": "Forest dieback", "weight": 0.0, "id": 2776027161, "level": 2}
+{"count": 4909, "name": "Forestal", "weight": 0.0, "id": 2777111047, "level": 2}
+{"count": 931, "name": "Claviceps purpurea", "weight": 0.0, "id": 2777529992, "level": 2}
+{"count": 1432, "name": "Game reserve", "weight": 0.0, "id": 141605663, "level": 2}
+{"count": 400, "name": "Crown closure", "weight": 0.0, "id": 2775900385, "level": 2}
+{"count": 1566, "name": "Forester", "weight": 0.0, "id": 2776331030, "level": 2}
+{"count": 1637, "name": "Rockfish", "weight": 0.0, "id": 2779741180, "level": 2}
+{"count": 2780, "name": "Tropical and subtropical moist broadleaf forests", "weight": 0.0, "id": 149095469, "level": 2}
+{"count": 1733, "name": "POLK", "weight": 0.0, "id": 2778720973, "level": 2}
+{"count": 615, "name": "Quercus pyrenaica", "weight": 0.0, "id": 2779860516, "level": 2}
+{"count": 342, "name": "Carbadox", "weight": 0.0, "id": 2779824303, "level": 2}
+{"count": 3235, "name": "Natural landscape", "weight": 0.0, "id": 129216166, "level": 2}
+{"count": 345, "name": "Salix caprea", "weight": 0.0, "id": 2780127440, "level": 2}
+{"count": 237, "name": "Tree farm", "weight": 0.0, "id": 2778055474, "level": 2}
+{"count": 1459, "name": "Reaper", "weight": 0.0, "id": 50450362, "level": 2}
+{"count": 1864, "name": "Sequoia", "weight": 0.0, "id": 2778811002, "level": 2}
+{"count": 1518, "name": "Slash Pine", "weight": 0.0, "id": 2777764431, "level": 2}
+{"count": 684, "name": "Protection forest", "weight": 0.0, "id": 2780606388, "level": 2}
+{"count": 1145, "name": "Pine barrens", "weight": 0.0, "id": 41335879, "level": 2}
+{"count": 746, "name": "Meat market", "weight": 0.0, "id": 2777453605, "level": 2}
+{"count": 649, "name": "Animal identification", "weight": 0.0, "id": 168220971, "level": 2}
+{"count": 1467, "name": "Forwarder", "weight": 0.0, "id": 2781363737, "level": 2}
+{"count": 355, "name": "Tropical timber", "weight": 0.0, "id": 2780664241, "level": 2}
+{"count": 666, "name": "Ulmus pumila", "weight": 0.0, "id": 2781087829, "level": 2}
+{"count": 262, "name": "Dendrology", "weight": 0.0, "id": 184287166, "level": 2}
+{"count": 120, "name": "Quercus kelloggii", "weight": 0.0, "id": 2777745088, "level": 2}
+{"count": 293, "name": "Picea jezoensis", "weight": 0.0, "id": 2778126800, "level": 2}
+{"count": 478, "name": "Animal product", "weight": 0.0, "id": 2778142394, "level": 2}
+{"count": 305, "name": "Cinnamomum verum", "weight": 0.0, "id": 2778337044, "level": 2}
+{"count": 487, "name": "Satoyama", "weight": 0.0, "id": 2779771488, "level": 2}
+{"count": 380, "name": "Pinus oocarpa", "weight": 0.0, "id": 2780416805, "level": 2}
+{"count": 440, "name": "Pinus sibirica", "weight": 0.0, "id": 2780876848, "level": 2}
+{"count": 2852, "name": "Picnic", "weight": 0.0, "id": 2776829547, "level": 2}
+{"count": 130, "name": "Symphonia globulifera", "weight": 0.0, "id": 2781374916, "level": 2}
+{"count": 441, "name": "Natural monument", "weight": 0.0, "id": 113186846, "level": 2}
+{"count": 1190, "name": "Pulex", "weight": 0.0, "id": 2778919138, "level": 2}
+{"count": 525, "name": "Pinus merkusii", "weight": 0.0, "id": 2777782646, "level": 2}
+{"count": 794, "name": "Conservation Plan", "weight": 0.0, "id": 2776248522, "level": 2}
+{"count": 89, "name": "Types of tobacco", "weight": 0.0, "id": 46410232, "level": 2}
+{"count": 231, "name": "Horticulture industry", "weight": 0.0, "id": 2777754270, "level": 2}
+{"count": 732, "name": "Stumpage", "weight": 0.0, "id": 2777046420, "level": 2}
+{"count": 78, "name": "Oak\u2013hickory forest", "weight": 0.0, "id": 2775971591, "level": 2}
+{"count": 922, "name": "Lasius", "weight": 0.0, "id": 2776111856, "level": 2}
+{"count": 187, "name": "Ulmus davidiana", "weight": 0.0, "id": 2776466531, "level": 2}
+{"count": 369, "name": "Volume table", "weight": 0.0, "id": 126005526, "level": 2}
+{"count": 131, "name": "Anemone nemorosa", "weight": 0.0, "id": 2775938369, "level": 2}
+{"count": 3782, "name": "Wildlife refuge", "weight": 0.0, "id": 2777938942, "level": 2}
+{"count": 149, "name": "Abies firma", "weight": 0.0, "id": 2779821296, "level": 2}
+{"count": 93, "name": "Phaeocryptopus gaeumannii", "weight": 0.0, "id": 2778964213, "level": 2}
+{"count": 183, "name": "Animal slaughter", "weight": 0.0, "id": 2781230746, "level": 2}
+{"count": 265, "name": "Pinus pseudostrobus", "weight": 0.0, "id": 2778465005, "level": 2}
+{"count": 364, "name": "Oak wilt", "weight": 0.0, "id": 2778618685, "level": 2}
+{"count": 669, "name": "Bioregion", "weight": 0.0, "id": 2778371126, "level": 2}
+{"count": 175, "name": "Ulmus laevis", "weight": 0.0, "id": 2777673111, "level": 2}
+{"count": 65, "name": "Dacrycarpus dacrydioides", "weight": 0.0, "id": 2776449344, "level": 2}
+{"count": 578, "name": "Tree measurement", "weight": 0.0, "id": 78453108, "level": 2}
+{"count": 177, "name": "Pinus cembroides", "weight": 0.0, "id": 2780724310, "level": 2}
+{"count": 207, "name": "Pinus hartwegii", "weight": 0.0, "id": 2778091589, "level": 2}
+{"count": 569, "name": "Carollia", "weight": 0.0, "id": 2780876751, "level": 2}
+{"count": 1070, "name": "Sandhill", "weight": 0.0, "id": 2779520408, "level": 2}
+{"count": 187, "name": "Seed tree", "weight": 0.0, "id": 2780598364, "level": 2}
+{"count": 481, "name": "Flatwoods", "weight": 0.0, "id": 2780572764, "level": 2}
+{"count": 459, "name": "Mean annual increment", "weight": 0.0, "id": 2779554145, "level": 2}
+{"count": 79, "name": "Paris quadrifolia", "weight": 0.0, "id": 2781329721, "level": 2}
+{"count": 72, "name": "Pseudotsuga menziesii var. menziesii", "weight": 0.0, "id": 2777825637, "level": 2}
+{"count": 233, "name": "Tree inventory", "weight": 0.0, "id": 2776565828, "level": 2}
+{"count": 852, "name": "Woodlot", "weight": 0.0, "id": 2778066585, "level": 2}
+{"count": 357, "name": "Deer hunting", "weight": 0.0, "id": 2781366883, "level": 2}
+{"count": 804, "name": "Ear tag", "weight": 0.0, "id": 2779415522, "level": 2}
+{"count": 65, "name": "Northern long-eared bat", "weight": 0.0, "id": 2777958357, "level": 2}
+{"count": 174, "name": "Peltophorum pterocarpum", "weight": 0.0, "id": 2776210202, "level": 2}
+{"count": 38, "name": "Abies borisii-regis", "weight": 0.0, "id": 2776752699, "level": 2}
+{"count": 170, "name": "Logrolling (sport)", "weight": 0.0, "id": 56357963, "level": 2}
+{"count": 99, "name": "Tree shelter", "weight": 0.0, "id": 2778384543, "level": 2}
+{"count": 111, "name": "Mountain beaver", "weight": 0.0, "id": 2776296477, "level": 2}
+{"count": 39, "name": "Quercus oleoides", "weight": 0.0, "id": 2780313470, "level": 2}
+{"count": 1939, "name": "Experimental forest", "weight": 0.0, "id": 2778904170, "level": 2}
+{"count": 46, "name": "Milium effusum", "weight": 0.0, "id": 2777697752, "level": 2}
+{"count": 43, "name": "Quercus macranthera", "weight": 0.0, "id": 2778434425, "level": 2}
+{"count": 86, "name": "Carpinus orientalis", "weight": 0.0, "id": 2775896434, "level": 2}
+{"count": 265, "name": "Ironwood", "weight": 0.0, "id": 2779147738, "level": 2}
+{"count": 142, "name": "Zootechnics", "weight": 0.0, "id": 2778509784, "level": 2}
+{"count": 40, "name": "Maerua crassifolia", "weight": 0.0, "id": 2777900546, "level": 2}
+{"count": 185, "name": "Earmark", "weight": 0.0, "id": 12722705, "level": 2}
+{"count": 17, "name": "Viola hirta", "weight": 0.0, "id": 2781387821, "level": 2}
+{"count": 160, "name": "Mixed coniferous forest", "weight": 0.0, "id": 2779041740, "level": 2}
+{"count": 77, "name": "Pinus arizonica", "weight": 0.0, "id": 2779196075, "level": 2}
+{"count": 97, "name": "Hoolock gibbon", "weight": 0.0, "id": 2776192671, "level": 2}
+{"count": 167, "name": "High grading", "weight": 0.0, "id": 59200822, "level": 2}
+{"count": 33, "name": "Flight interception trap", "weight": 0.0, "id": 2776583157, "level": 2}
+{"count": 50, "name": "Pinus chiapensis", "weight": 0.0, "id": 2779064143, "level": 2}
+{"count": 166, "name": "Caribbean pine", "weight": 0.0, "id": 2776788484, "level": 2}
+{"count": 11, "name": "Corymbia gummifera", "weight": 0.0, "id": 2777483326, "level": 2}
+{"count": 82, "name": "Pinus durangensis", "weight": 0.0, "id": 2776067547, "level": 2}
+{"count": 66, "name": "Pinus tropicalis", "weight": 0.0, "id": 2777686605, "level": 2}
+{"count": 108, "name": "Ulmus macrocarpa", "weight": 0.0, "id": 2776796791, "level": 2}
+{"count": 77, "name": "Pinus teocote", "weight": 0.0, "id": 2777049609, "level": 2}
+{"count": 75, "name": "Pinus cooperi", "weight": 0.0, "id": 2779063166, "level": 2}
+{"count": 54, "name": "Ulmus wallichiana", "weight": 0.0, "id": 2779426159, "level": 2}
+{"count": 417, "name": "Mountain research", "weight": 0.0, "id": 140981771, "level": 2}
+{"count": 108, "name": "Increment borer", "weight": 0.0, "id": 152463240, "level": 2}
+{"count": 21, "name": "Bearded tachuri", "weight": 0.0, "id": 2778537623, "level": 2}
+{"count": 562, "name": "Swather", "weight": 0.0, "id": 36710623, "level": 2}
+{"count": 15, "name": "Pygmy forest", "weight": 0.0, "id": 197772288, "level": 2}
+{"count": 18, "name": "Bosque Andino Patag\u00f3nico", "weight": 0.0, "id": 2780241780, "level": 2}
+{"count": 50, "name": "Quercus libani", "weight": 0.0, "id": 2776080639, "level": 2}
+{"count": 21, "name": "Brachylaena huillensis", "weight": 0.0, "id": 2778637234, "level": 2}
+{"count": 6, "name": "Liberation cutting", "weight": 0.0, "id": 2781259810, "level": 2}
+{"count": 14, "name": "Ulmus lamellosa", "weight": 0.0, "id": 2779049170, "level": 2}
+{"count": 7, "name": "Pedicularis groenlandica", "weight": 0.0, "id": 2778775172, "level": 2}
+{"count": 34, "name": "Back-to-the-land movement", "weight": 0.0, "id": 2779886815, "level": 2}
+{"count": 43, "name": "Conservation of fungi", "weight": 0.0, "id": 2781377344, "level": 2}
+{"count": 17, "name": "Endospermum medullosum", "weight": 0.0, "id": 2777258387, "level": 2}
+{"count": 57, "name": "Widdringtonia", "weight": 0.0, "id": 2779169126, "level": 2}
+{"count": 15, "name": "Swainsona galegifolia", "weight": 0.0, "id": 2780719944, "level": 2}
+{"count": 15, "name": "Meconema meridionale", "weight": 0.0, "id": 2779729159, "level": 2}
+{"count": 60, "name": "Ground hornbill", "weight": 0.0, "id": 2778667896, "level": 2}
+{"count": 25, "name": "Ulmus villosa", "weight": 0.0, "id": 2780555087, "level": 2}
+{"count": 146, "name": "Tropical garden", "weight": 0.0, "id": 2776753382, "level": 2}
+{"count": 345, "name": "Angle gauge", "weight": 0.0, "id": 162062475, "level": 2}
+{"count": 3, "name": "Danthonia compressa", "weight": 0.0, "id": 2776904598, "level": 2}
+{"count": 10, "name": "Hericium ramosum", "weight": 0.0, "id": 2779048506, "level": 2}
+{"count": 4, "name": "Castela emoryi", "weight": 0.0, "id": 2777322764, "level": 2}
+{"count": 9, "name": "Black Hills Spruce", "weight": 0.0, "id": 2776423645, "level": 2}
+{"count": 8, "name": "Spiranthes magnicamporum", "weight": 0.0, "id": 2775906956, "level": 2}
+{"count": 31, "name": "Land description", "weight": 0.0, "id": 2781428114, "level": 2}
+{"count": 14, "name": "Pit-and-mound topography", "weight": 0.0, "id": 2777459747, "level": 2}
+{"count": 37, "name": "Tanbark", "weight": 0.0, "id": 2781092258, "level": 2}
+{"count": 13, "name": "Marpesia", "weight": 0.0, "id": 2780884672, "level": 2}
+{"count": 8, "name": "Eriochloa sericea", "weight": 0.0, "id": 2776252187, "level": 2}
+{"count": 40, "name": "Coulter pine", "weight": 0.0, "id": 2777044256, "level": 2}
+{"count": 2, "name": "Chlorostrymon", "weight": 0.0, "id": 2778507391, "level": 2}
+{"count": 5, "name": "Doodia aspera", "weight": 0.0, "id": 2779163799, "level": 2}
+{"count": 4, "name": "Bedfordia arborescens", "weight": 0.0, "id": 2779677577, "level": 2}
+{"count": 8, "name": "Ulmus chenmoui", "weight": 0.0, "id": 2775907299, "level": 2}
+{"count": 56, "name": "Rhynchopsitta", "weight": 0.0, "id": 2779854087, "level": 2}

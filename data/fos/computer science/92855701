@@ -1,0 +1,5 @@
+{"count": 4192, "name": "Flash file system", "weight": 3.0, "id": 27670709, "level": 4}
+{"count": 1571, "name": "Universal memory", "weight": 1.0, "id": 195053848, "level": 4}
+{"count": 4151, "name": "Volatile memory", "weight": 3.0, "id": 6338478, "level": 4}
+{"count": 3677, "name": "Sequential access memory", "weight": 2.0, "id": 164145335, "level": 4}
+{"count": 12441, "name": "Memory refresh", "weight": 10.0, "id": 87907426, "level": 4}

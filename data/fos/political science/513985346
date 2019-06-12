@@ -1,0 +1,11 @@
+{"count": 5974, "name": "Hypervisor", "weight": 10.0, "id": 112904061, "level": 4}
+{"count": 2470, "name": "Network virtualization", "weight": 4.0, "id": 2779898492, "level": 4}
+{"count": 1393, "name": "Live migration", "weight": 2.0, "id": 2778710394, "level": 4}
+{"count": 2127, "name": "Temporal isolation among virtual machines", "weight": 3.0, "id": 142355369, "level": 4}
+{"count": 299, "name": "Virtual appliance", "weight": 0.0, "id": 2776388164, "level": 4}
+{"count": 3813, "name": "Full virtualization", "weight": 6.0, "id": 47878483, "level": 4}
+{"count": 2207, "name": "Data virtualization", "weight": 3.0, "id": 80344994, "level": 4}
+{"count": 17, "name": "Memory overcommitment", "weight": 0.0, "id": 2779760088, "level": 4}
+{"count": 19, "name": "I/O bound", "weight": 0.0, "id": 2780894838, "level": 4}
+{"count": 27, "name": "Trusted Execution Technology", "weight": 0.0, "id": 2777993529, "level": 4}
+{"count": 9, "name": "Single-root input/output virtualization", "weight": 0.0, "id": 2776675137, "level": 4}

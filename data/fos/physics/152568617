@@ -1,0 +1,74 @@
+{"count": 39790, "name": "Neutron scattering", "weight": 9.0, "id": 104015590, "level": 3}
+{"count": 40950, "name": "Neutron temperature", "weight": 10.0, "id": 27251351, "level": 3}
+{"count": 22874, "name": "Neutron flux", "weight": 5.0, "id": 81988546, "level": 3}
+{"count": 18365, "name": "Neutron source", "weight": 4.0, "id": 181833780, "level": 3}
+{"count": 3843, "name": "Uranium-235", "weight": 0.0, "id": 131193917, "level": 3}
+{"count": 2982, "name": "Uranium-238", "weight": 0.0, "id": 186381275, "level": 3}
+{"count": 8761, "name": "Spallation", "weight": 2.0, "id": 11608111, "level": 3}
+{"count": 9399, "name": "Neutron transport", "weight": 2.0, "id": 66963500, "level": 3}
+{"count": 4483, "name": "Neutron imaging", "weight": 1.0, "id": 142923127, "level": 3}
+{"count": 7204, "name": "Neutron activation", "weight": 1.0, "id": 92664810, "level": 3}
+{"count": 10980, "name": "Neutron capture", "weight": 2.0, "id": 30421969, "level": 3}
+{"count": 3201, "name": "Neutron monitor", "weight": 0.0, "id": 2780510704, "level": 3}
+{"count": 5226, "name": "Nuclear transmutation", "weight": 1.0, "id": 12989632, "level": 3}
+{"count": 6140, "name": "Neutron emission", "weight": 1.0, "id": 153336213, "level": 3}
+{"count": 6992, "name": "Fissile material", "weight": 1.0, "id": 78310665, "level": 3}
+{"count": 3639, "name": "r-process", "weight": 0.0, "id": 107229949, "level": 3}
+{"count": 3695, "name": "Spontaneous fission", "weight": 0.0, "id": 76258055, "level": 3}
+{"count": 1808, "name": "s-process", "weight": 0.0, "id": 157504770, "level": 3}
+{"count": 4489, "name": "Delayed neutron", "weight": 1.0, "id": 172911342, "level": 3}
+{"count": 10121, "name": "Neutron radiation", "weight": 2.0, "id": 30134620, "level": 3}
+{"count": 3305, "name": "Nuclear fission", "weight": 0.0, "id": 36091686, "level": 3}
+{"count": 5820, "name": "Research reactor", "weight": 1.0, "id": 2779154452, "level": 3}
+{"count": 1396, "name": "Californium", "weight": 0.0, "id": 547234621, "level": 3}
+{"count": 1416, "name": "CR-39", "weight": 0.0, "id": 2780745476, "level": 3}
+{"count": 6614, "name": "Nuclear data", "weight": 1.0, "id": 2779281675, "level": 3}
+{"count": 5227, "name": "Fission product yield", "weight": 1.0, "id": 77016745, "level": 3}
+{"count": 601, "name": "Isotopes of tin", "weight": 0.0, "id": 20830254, "level": 3}
+{"count": 1071, "name": "High Flux Isotope Reactor", "weight": 0.0, "id": 2781310676, "level": 3}
+{"count": 756, "name": "Magnetic form factor", "weight": 0.0, "id": 2780457580, "level": 3}
+{"count": 731, "name": "Mirror nuclei", "weight": 0.0, "id": 2776242157, "level": 3}
+{"count": 812, "name": "Ultracold neutrons", "weight": 0.0, "id": 2778241385, "level": 3}
+{"count": 1352, "name": "Neutron number", "weight": 0.0, "id": 167068780, "level": 3}
+{"count": 377, "name": "Electric form factor", "weight": 0.0, "id": 2778883298, "level": 3}
+{"count": 1023, "name": "Halo nucleus", "weight": 0.0, "id": 164418477, "level": 3}
+{"count": 4645, "name": "Nuclear drip line", "weight": 1.0, "id": 12378171, "level": 3}
+{"count": 247, "name": "Urca process", "weight": 0.0, "id": 2780548072, "level": 3}
+{"count": 4260, "name": "Cluster decay", "weight": 1.0, "id": 15522600, "level": 3}
+{"count": 249, "name": "Neutron depth profiling", "weight": 0.0, "id": 2780823848, "level": 3}
+{"count": 315, "name": "Fast-neutron reactor", "weight": 0.0, "id": 2779383824, "level": 3}
+{"count": 162, "name": "Strain scanning", "weight": 0.0, "id": 2780737778, "level": 3}
+{"count": 287, "name": "Skyshine", "weight": 0.0, "id": 2776354700, "level": 3}
+{"count": 223, "name": "N cap", "weight": 0.0, "id": 2777030880, "level": 3}
+{"count": 235, "name": "Neutron interferometer", "weight": 0.0, "id": 2779450434, "level": 3}
+{"count": 365, "name": "Antineutron", "weight": 0.0, "id": 143886310, "level": 3}
+{"count": 4304, "name": "Cold fission", "weight": 1.0, "id": 43997528, "level": 3}
+{"count": 264, "name": "Island of inversion", "weight": 0.0, "id": 2777155078, "level": 3}
+{"count": 132, "name": "Beryllide", "weight": 0.0, "id": 2780879891, "level": 3}
+{"count": 127, "name": "Nuclear reactor physics", "weight": 0.0, "id": 2776170670, "level": 3}
+{"count": 164, "name": "Energy amplifier", "weight": 0.0, "id": 2777257838, "level": 3}
+{"count": 37, "name": "Maria reactor", "weight": 0.0, "id": 2776573969, "level": 3}
+{"count": 744, "name": "Gammasphere", "weight": 0.0, "id": 2777006617, "level": 3}
+{"count": 269, "name": "Materials testing reactor", "weight": 0.0, "id": 2777789692, "level": 3}
+{"count": 48, "name": "Neutron moisture gauge", "weight": 0.0, "id": 2781006310, "level": 3}
+{"count": 70, "name": "Tetraneutron", "weight": 0.0, "id": 22275737, "level": 3}
+{"count": 225, "name": "Routhian", "weight": 0.0, "id": 184855987, "level": 3}
+{"count": 188, "name": "Island of stability", "weight": 0.0, "id": 119391150, "level": 3}
+{"count": 16, "name": "Oppenheimer\u2013Phillips process", "weight": 0.0, "id": 2777097269, "level": 3}
+{"count": 219, "name": "Stable nuclide", "weight": 0.0, "id": 180586826, "level": 3}
+{"count": 53, "name": "Cargo scanning", "weight": 0.0, "id": 120727787, "level": 3}
+{"count": 46, "name": "Neutron\u2013proton ratio", "weight": 0.0, "id": 2778689565, "level": 3}
+{"count": 142, "name": "Nuclear pasta", "weight": 0.0, "id": 2780642438, "level": 3}
+{"count": 3088, "name": "Yrast", "weight": 0.0, "id": 2778270267, "level": 3}
+{"count": 199, "name": "Valley of stability", "weight": 0.0, "id": 2777689850, "level": 3}
+{"count": 24, "name": "Soreq Nuclear Research Center", "weight": 0.0, "id": 2779350305, "level": 3}
+{"count": 51, "name": "Borromean nucleus", "weight": 0.0, "id": 2779645041, "level": 3}
+{"count": 19, "name": "Isotopes of silver", "weight": 0.0, "id": 2776497151, "level": 3}
+{"count": 112, "name": "Discovery of the neutron", "weight": 0.0, "id": 2778492134, "level": 3}
+{"count": 14, "name": "Neutron Science Laboratory", "weight": 0.0, "id": 2779473272, "level": 3}
+{"count": 20, "name": "Beta decay transition", "weight": 0.0, "id": 2777106168, "level": 3}
+{"count": 27, "name": "Isotopes of tungsten", "weight": 0.0, "id": 2777684879, "level": 3}
+{"count": 19, "name": "Isotopes of tellurium", "weight": 0.0, "id": 2778767496, "level": 3}
+{"count": 17, "name": "Isotopes of antimony", "weight": 0.0, "id": 2780314275, "level": 3}
+{"count": 41, "name": "Isotopes of nickel", "weight": 0.0, "id": 2780343009, "level": 3}
+{"count": 15, "name": "Helium analyzer", "weight": 0.0, "id": 2780597339, "level": 3}

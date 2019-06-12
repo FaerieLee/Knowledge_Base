@@ -1,0 +1,13 @@
+{"count": 46913, "name": "Magnetic anisotropy", "weight": 10.0, "id": 32938098, "level": 3}
+{"count": 4474, "name": "Fluorescence anisotropy", "weight": 0.0, "id": 111357860, "level": 3}
+{"count": 9428, "name": "Transverse isotropy", "weight": 2.0, "id": 101842124, "level": 3}
+{"count": 4318, "name": "Seismic anisotropy", "weight": 0.0, "id": 23148476, "level": 3}
+{"count": 2724, "name": "Shear wave splitting", "weight": 0.0, "id": 22512106, "level": 3}
+{"count": 763, "name": "Normal moveout", "weight": 0.0, "id": 9984622, "level": 3}
+{"count": 783, "name": "Earing", "weight": 0.0, "id": 2779801355, "level": 3}
+{"count": 309, "name": "Reflectance difference spectroscopy", "weight": 0.0, "id": 2776420410, "level": 3}
+{"count": 203, "name": "Dipole anisotropy", "weight": 0.0, "id": 2778875687, "level": 3}
+{"count": 41, "name": "Lebedev quadrature", "weight": 0.0, "id": 70329555, "level": 3}
+{"count": 141, "name": "Gyricon", "weight": 0.0, "id": 2781423012, "level": 3}
+{"count": 99, "name": "Archeops", "weight": 0.0, "id": 2779557236, "level": 3}
+{"count": 42, "name": "BOOMERanG experiment", "weight": 0.0, "id": 2777805694, "level": 3}

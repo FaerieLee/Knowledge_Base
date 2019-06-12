@@ -1,0 +1,9 @@
+{"count": 4449, "name": "Earthing system", "weight": 10.0, "id": 78779171, "level": 3}
+{"count": 1522, "name": "Soil resistivity", "weight": 3.0, "id": 205150262, "level": 3}
+{"count": 1800, "name": "Ground and neutral", "weight": 4.0, "id": 171166322, "level": 3}
+{"count": 412, "name": "Electrical bonding", "weight": 0.0, "id": 14287634, "level": 3}
+{"count": 1052, "name": "Arc suppression", "weight": 2.0, "id": 2779234724, "level": 3}
+{"count": 96, "name": "Optical ground wire", "weight": 0.0, "id": 2778740655, "level": 3}
+{"count": 219, "name": "Insulation monitoring device", "weight": 0.0, "id": 2777635065, "level": 3}
+{"count": 32, "name": "Antistatic wrist strap", "weight": 0.0, "id": 3931414, "level": 3}
+{"count": 189, "name": "Isolated ground", "weight": 0.0, "id": 165420027, "level": 3}

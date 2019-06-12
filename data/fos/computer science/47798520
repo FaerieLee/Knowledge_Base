@@ -1,0 +1,16 @@
+{"count": 18658, "name": "Transmitter power output", "weight": 10.0, "id": 65422117, "level": 3}
+{"count": 2397, "name": "Radio transmitter design", "weight": 1.0, "id": 142031617, "level": 3}
+{"count": 239, "name": "Polar modulation", "weight": 0.0, "id": 2781043178, "level": 3}
+{"count": 631, "name": "Medium wave", "weight": 0.0, "id": 2776202825, "level": 3}
+{"count": 575, "name": "FM transmitter", "weight": 0.0, "id": 2781194246, "level": 3}
+{"count": 157, "name": "Spurious emission", "weight": 0.0, "id": 2779748173, "level": 3}
+{"count": 372, "name": "Broadcast transmitter", "weight": 0.0, "id": 196227537, "level": 3}
+{"count": 73, "name": "DCF77", "weight": 0.0, "id": 2780435283, "level": 3}
+{"count": 340, "name": "Garage door opener", "weight": 0.0, "id": 2777299624, "level": 3}
+{"count": 175, "name": "Rolling code", "weight": 0.0, "id": 2776865216, "level": 3}
+{"count": 43, "name": "PSK31", "weight": 0.0, "id": 131807344, "level": 3}
+{"count": 301, "name": "Transmitter station", "weight": 0.0, "id": 2777796589, "level": 3}
+{"count": 52, "name": "Programme identification", "weight": 0.0, "id": 2778984636, "level": 3}
+{"count": 26, "name": "Personal RF safety monitors", "weight": 0.0, "id": 32751979, "level": 3}
+{"count": 29, "name": "Convenience function", "weight": 0.0, "id": 2778910147, "level": 3}
+{"count": 15, "name": "Illegitimate receiver", "weight": 0.0, "id": 2777079009, "level": 3}

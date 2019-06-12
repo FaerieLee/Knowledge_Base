@@ -1,0 +1,14 @@
+{"count": 1721, "name": "Bankruptcy prediction", "weight": 2.0, "id": 2777388754, "level": 3}
+{"count": 6794, "name": "Debtor", "weight": 10.0, "id": 2780414751, "level": 3}
+{"count": 691, "name": "Altman Z-score", "weight": 1.0, "id": 2779077495, "level": 3}
+{"count": 410, "name": "Cross-border insolvency", "weight": 0.0, "id": 2780145465, "level": 3}
+{"count": 275, "name": "Unsecured debt", "weight": 0.0, "id": 2776068643, "level": 3}
+{"count": 684, "name": "Receivership", "weight": 1.0, "id": 30636981, "level": 3}
+{"count": 174, "name": "Credit counseling", "weight": 0.0, "id": 2777679245, "level": 3}
+{"count": 141, "name": "Bankruptcy problem", "weight": 0.0, "id": 2780588585, "level": 3}
+{"count": 162, "name": "Creditors' rights", "weight": 0.0, "id": 2780404338, "level": 3}
+{"count": 138, "name": "Fraudulent conveyance", "weight": 0.0, "id": 2781249701, "level": 3}
+{"count": 576, "name": "Bankruptcy Act", "weight": 0.0, "id": 2779629460, "level": 3}
+{"count": 35, "name": "Debtor-in-possession financing", "weight": 0.0, "id": 2776714086, "level": 3}
+{"count": 62, "name": "Executory contract", "weight": 0.0, "id": 2781132585, "level": 3}
+{"count": 52, "name": "ISDA Master Agreement", "weight": 0.0, "id": 2776528909, "level": 3}

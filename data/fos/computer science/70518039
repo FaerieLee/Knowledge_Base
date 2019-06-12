@@ -1,0 +1,8 @@
+{"count": 4823, "name": "Nonlinear dimensionality reduction", "weight": 10.0, "id": 151876577, "level": 3}
+{"count": 516, "name": "Sliced inverse regression", "weight": 1.0, "id": 41341539, "level": 3}
+{"count": 467, "name": "Intrinsic dimension", "weight": 0.0, "id": 30732413, "level": 3}
+{"count": 570, "name": "Sufficient dimension reduction", "weight": 1.0, "id": 27931671, "level": 3}
+{"count": 79, "name": "Johnson\u2013Lindenstrauss lemma", "weight": 0.0, "id": 2776993754, "level": 3}
+{"count": 35, "name": "t-distributed stochastic neighbor embedding", "weight": 0.0, "id": 2778344778, "level": 3}
+{"count": 503, "name": "Multilinear subspace learning", "weight": 1.0, "id": 26689484, "level": 3}
+{"count": 15, "name": "Targeted projection pursuit", "weight": 0.0, "id": 2778207380, "level": 3}

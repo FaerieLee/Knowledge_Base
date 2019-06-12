@@ -1,0 +1,18 @@
+{"count": 465, "name": "Heat and moisture exchanger", "weight": 1.0, "id": 2777240490, "level": 3}
+{"count": 3629, "name": "Wood drying", "weight": 10.0, "id": 121469830, "level": 3}
+{"count": 502, "name": "Karl Fischer titration", "weight": 1.0, "id": 2779401587, "level": 3}
+{"count": 701, "name": "Soil moisture sensor", "weight": 1.0, "id": 2776544661, "level": 3}
+{"count": 185, "name": "Biodrying", "weight": 0.0, "id": 2777826014, "level": 3}
+{"count": 844, "name": "Critical relative humidity", "weight": 2.0, "id": 75527780, "level": 3}
+{"count": 264, "name": "Moisture analysis", "weight": 0.0, "id": 2776586418, "level": 3}
+{"count": 570, "name": "Moisture advection", "weight": 1.0, "id": 199553029, "level": 3}
+{"count": 241, "name": "Moisture vapor transmission rate", "weight": 0.0, "id": 2780633513, "level": 3}
+{"count": 132, "name": "Coolmax", "weight": 0.0, "id": 2776895193, "level": 3}
+{"count": 107, "name": "Interstitial condensation", "weight": 0.0, "id": 2780015703, "level": 3}
+{"count": 48, "name": "Neutron moisture gauge", "weight": 0.0, "id": 2781006310, "level": 3}
+{"count": 2123, "name": "Dry basis", "weight": 5.0, "id": 182671461, "level": 3}
+{"count": 61, "name": "Aquametry", "weight": 0.0, "id": 2779104543, "level": 3}
+{"count": 31, "name": "Humidity buffering", "weight": 0.0, "id": 2780532233, "level": 3}
+{"count": 40, "name": "Shelf-stable food", "weight": 0.0, "id": 2776327051, "level": 3}
+{"count": 22, "name": "Zahn cup", "weight": 0.0, "id": 107288118, "level": 3}
+{"count": 32, "name": "Barrier cable", "weight": 0.0, "id": 2780750752, "level": 3}

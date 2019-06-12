@@ -1,0 +1,19 @@
+{"count": 2649, "name": "Tandem exon duplication", "weight": 10.0, "id": 156446351, "level": 4}
+{"count": 1259, "name": "Concerted evolution", "weight": 4.0, "id": 141036, "level": 4}
+{"count": 1503, "name": "Functional divergence", "weight": 5.0, "id": 103077935, "level": 4}
+{"count": 1029, "name": "Segmental duplication", "weight": 3.0, "id": 57808653, "level": 4}
+{"count": 202, "name": "Low copy repeats", "weight": 0.0, "id": 2777109703, "level": 4}
+{"count": 570, "name": "Subfunctionalization", "weight": 2.0, "id": 2779922708, "level": 4}
+{"count": 501, "name": "Neofunctionalization", "weight": 1.0, "id": 107110972, "level": 4}
+{"count": 441, "name": "Unequal crossing over", "weight": 1.0, "id": 79334067, "level": 4}
+{"count": 271, "name": "PLK4", "weight": 1.0, "id": 2776624888, "level": 4}
+{"count": 139, "name": "Paleopolyploidy", "weight": 0.0, "id": 207733477, "level": 4}
+{"count": 157, "name": "Enteric duplication cyst", "weight": 0.0, "id": 2776283419, "level": 4}
+{"count": 51, "name": "Dipygus", "weight": 0.0, "id": 2780862463, "level": 4}
+{"count": 42, "name": "Potocki\u2013Lupski syndrome", "weight": 0.0, "id": 2777294702, "level": 4}
+{"count": 31, "name": "Dup15q", "weight": 0.0, "id": 2778426146, "level": 4}
+{"count": 15, "name": "Euteleostomi", "weight": 0.0, "id": 2775985557, "level": 4}
+{"count": 44, "name": "Tandemly arrayed genes", "weight": 0.0, "id": 2780695713, "level": 4}
+{"count": 5, "name": "8p23.1 duplication syndrome", "weight": 0.0, "id": 2778533385, "level": 4}
+{"count": 85, "name": "Evolution by gene duplication", "weight": 0.0, "id": 2778584155, "level": 4}
+{"count": 22, "name": "T4 rII system", "weight": 0.0, "id": 100172376, "level": 4}

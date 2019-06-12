@@ -1,0 +1,12 @@
+{"count": 176, "name": "Linguistic Data Consortium", "weight": 0.0, "id": 2781422427, "level": 3}
+{"count": 2949, "name": "Treebank", "weight": 10.0, "id": 206134035, "level": 3}
+{"count": 359, "name": "Text annotation", "weight": 1.0, "id": 2776584721, "level": 3}
+{"count": 1170, "name": "UniProt", "weight": 3.0, "id": 202264299, "level": 3}
+{"count": 427, "name": "InterPro", "weight": 1.0, "id": 3771798, "level": 3}
+{"count": 129, "name": "Web annotation", "weight": 0.0, "id": 2779780572, "level": 3}
+{"count": 55, "name": "American National Corpus", "weight": 0.0, "id": 2779569290, "level": 3}
+{"count": 19, "name": "Annotea", "weight": 0.0, "id": 2777849621, "level": 3}
+{"count": 37, "name": "INTSINT", "weight": 0.0, "id": 2779343166, "level": 3}
+{"count": 50, "name": "GeneRIF", "weight": 0.0, "id": 97269054, "level": 3}
+{"count": 25, "name": "Gene Wiki", "weight": 0.0, "id": 104400116, "level": 3}
+{"count": 26, "name": "Biocurator", "weight": 0.0, "id": 161250554, "level": 3}

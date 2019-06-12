@@ -1,0 +1,25 @@
+{"count": 3477, "name": "Water potential", "weight": 3.0, "id": 30335454, "level": 3}
+{"count": 10000, "name": "Field capacity", "weight": 10.0, "id": 27934549, "level": 3}
+{"count": 4245, "name": "Atterberg limits", "weight": 4.0, "id": 116973930, "level": 3}
+{"count": 4180, "name": "Bound water", "weight": 4.0, "id": 73673656, "level": 3}
+{"count": 4539, "name": "Pedotransfer function", "weight": 4.0, "id": 164285268, "level": 3}
+{"count": 2242, "name": "California bearing ratio", "weight": 2.0, "id": 37646163, "level": 3}
+{"count": 659, "name": "Available water capacity", "weight": 0.0, "id": 2781205627, "level": 3}
+{"count": 1170, "name": "Richards equation", "weight": 1.0, "id": 103272765, "level": 3}
+{"count": 1531, "name": "Proctor compaction test", "weight": 1.0, "id": 29689760, "level": 3}
+{"count": 3629, "name": "Wood drying", "weight": 3.0, "id": 121469830, "level": 3}
+{"count": 1311, "name": "Solar dryer", "weight": 1.0, "id": 2779973532, "level": 3}
+{"count": 1337, "name": "Soil thermal properties", "weight": 1.0, "id": 114426456, "level": 3}
+{"count": 2833, "name": "Soil gradation", "weight": 2.0, "id": 182745123, "level": 3}
+{"count": 502, "name": "Karl Fischer titration", "weight": 0.0, "id": 2779401587, "level": 3}
+{"count": 701, "name": "Soil moisture sensor", "weight": 0.0, "id": 2776544661, "level": 3}
+{"count": 522, "name": "Nuclear density gauge", "weight": 0.0, "id": 183215833, "level": 3}
+{"count": 185, "name": "Biodrying", "weight": 0.0, "id": 2777826014, "level": 3}
+{"count": 264, "name": "Moisture analysis", "weight": 0.0, "id": 2776586418, "level": 3}
+{"count": 804, "name": "Controller (irrigation)", "weight": 0.0, "id": 203479927, "level": 3}
+{"count": 48, "name": "Neutron moisture gauge", "weight": 0.0, "id": 2781006310, "level": 3}
+{"count": 2123, "name": "Dry basis", "weight": 2.0, "id": 182671461, "level": 3}
+{"count": 61, "name": "Aquametry", "weight": 0.0, "id": 2779104543, "level": 3}
+{"count": 475, "name": "Frequency domain sensor", "weight": 0.0, "id": 160453526, "level": 3}
+{"count": 18, "name": "Pseudolachnostylis", "weight": 0.0, "id": 2780993050, "level": 3}
+{"count": 15, "name": "Interaction Soil-Biosphere-Atmosphere", "weight": 0.0, "id": 2780283367, "level": 3}

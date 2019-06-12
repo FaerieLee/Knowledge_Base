@@ -1,0 +1,9 @@
+{"count": 13835, "name": "Local-density approximation", "weight": 10.0, "id": 9249130, "level": 3}
+{"count": 2518, "name": "Coherent potential approximation", "weight": 1.0, "id": 2780732345, "level": 3}
+{"count": 781, "name": "Extended H\u00fcckel method", "weight": 0.0, "id": 1334723, "level": 3}
+{"count": 353, "name": "WIEN2k", "weight": 0.0, "id": 65412894, "level": 3}
+{"count": 335, "name": "GAMESS", "weight": 0.0, "id": 2780574720, "level": 3}
+{"count": 458, "name": "Projector augmented wave method", "weight": 0.0, "id": 143829660, "level": 3}
+{"count": 48, "name": "Korringa\u2013Kohn\u2013Rostoker method", "weight": 0.0, "id": 2777289918, "level": 3}
+{"count": 12, "name": "Folded spectrum method", "weight": 0.0, "id": 2780947462, "level": 3}
+{"count": 890, "name": "SIESTA (computer program)", "weight": 0.0, "id": 185818568, "level": 3}

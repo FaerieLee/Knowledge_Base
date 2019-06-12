@@ -1,0 +1,25 @@
+{"count": 848, "name": "Carrier-sense multiple access", "weight": 1.0, "id": 2777147264, "level": 3}
+{"count": 4737, "name": "Automatic repeat request", "weight": 7.0, "id": 171952454, "level": 3}
+{"count": 6101, "name": "IEEE 802.11", "weight": 10.0, "id": 185298936, "level": 3}
+{"count": 2647, "name": "Max-min fairness", "weight": 4.0, "id": 177972170, "level": 3}
+{"count": 2391, "name": "Carrier sense multiple access with collision avoidance", "weight": 3.0, "id": 59229178, "level": 3}
+{"count": 288, "name": "Bandwidth-delay product", "weight": 0.0, "id": 58817359, "level": 3}
+{"count": 1061, "name": "Exponential backoff", "weight": 1.0, "id": 30777684, "level": 3}
+{"count": 761, "name": "Capture effect", "weight": 1.0, "id": 187077762, "level": 3}
+{"count": 253, "name": "Additive increase/multiplicative decrease", "weight": 0.0, "id": 2775879146, "level": 3}
+{"count": 2813, "name": "Aloha", "weight": 4.0, "id": 2776398200, "level": 3}
+{"count": 361, "name": "Congestion window", "weight": 0.0, "id": 73135967, "level": 3}
+{"count": 1459, "name": "Goodput", "weight": 2.0, "id": 94022561, "level": 3}
+{"count": 1769, "name": "Throughput (business)", "weight": 2.0, "id": 137678388, "level": 3}
+{"count": 69, "name": "Multipacket reception", "weight": 0.0, "id": 2780350764, "level": 3}
+{"count": 460, "name": "Frame aggregation", "weight": 0.0, "id": 2779627188, "level": 3}
+{"count": 255, "name": "Head-of-line blocking", "weight": 0.0, "id": 103512785, "level": 3}
+{"count": 232, "name": "Bisection bandwidth", "weight": 0.0, "id": 2780610565, "level": 3}
+{"count": 453, "name": "Channel bonding", "weight": 0.0, "id": 100298382, "level": 3}
+{"count": 731, "name": "Offered load", "weight": 1.0, "id": 54273483, "level": 3}
+{"count": 2515, "name": "Fairness measure", "weight": 4.0, "id": 11867375, "level": 3}
+{"count": 21, "name": "Lindley equation", "weight": 0.0, "id": 2778870774, "level": 3}
+{"count": 49, "name": "Contention ratio", "weight": 0.0, "id": 42386278, "level": 3}
+{"count": 44, "name": "Measuring network throughput", "weight": 0.0, "id": 176551563, "level": 3}
+{"count": 9, "name": "4320p", "weight": 0.0, "id": 2777052424, "level": 3}
+{"count": 21, "name": "High Frequency Data Link", "weight": 0.0, "id": 2777926151, "level": 3}

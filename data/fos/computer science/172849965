@@ -1,0 +1,9 @@
+{"count": 945, "name": "Terrestrial reference frame", "weight": 1.0, "id": 2777212710, "level": 3}
+{"count": 657, "name": "International Terrestrial Reference System", "weight": 1.0, "id": 176069352, "level": 3}
+{"count": 338, "name": "International Celestial Reference Frame", "weight": 0.0, "id": 2778874910, "level": 3}
+{"count": 382, "name": "Non-inertial reference frame", "weight": 0.0, "id": 176903044, "level": 3}
+{"count": 219, "name": "Local reference frame", "weight": 0.0, "id": 2779287937, "level": 3}
+{"count": 5742, "name": "Inter frame", "weight": 10.0, "id": 39394851, "level": 3}
+{"count": 5500, "name": "Residual frame", "weight": 9.0, "id": 204641915, "level": 3}
+{"count": 107, "name": "International Celestial Reference System", "weight": 0.0, "id": 2776649498, "level": 3}
+{"count": 204, "name": "Barycentric celestial reference system", "weight": 0.0, "id": 121804170, "level": 3}

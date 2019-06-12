@@ -1,0 +1,5 @@
+{"count": 3125, "name": "Cache coherence", "weight": 10.0, "id": 141917322, "level": 3}
+{"count": 192, "name": "Read-modify-write", "weight": 0.0, "id": 37918660, "level": 3}
+{"count": 221, "name": "Scalable Coherent Interface", "weight": 0.0, "id": 2779763825, "level": 3}
+{"count": 17, "name": "Fetch-and-add", "weight": 0.0, "id": 176011237, "level": 3}
+{"count": 130, "name": "Shared memory architecture", "weight": 0.0, "id": 62280894, "level": 3}

@@ -1,0 +1,12 @@
+{"count": 2071, "name": "Consumption tax", "weight": 1.0, "id": 2776762034, "level": 4}
+{"count": 13305, "name": "Gross income", "weight": 10.0, "id": 172008318, "level": 4}
+{"count": 1429, "name": "Capital gains tax", "weight": 1.0, "id": 2778631509, "level": 4}
+{"count": 693, "name": "Flat tax", "weight": 0.0, "id": 2777802852, "level": 4}
+{"count": 3520, "name": "Deferred tax", "weight": 2.0, "id": 170802524, "level": 4}
+{"count": 179, "name": "Regressive tax", "weight": 0.0, "id": 2776477725, "level": 4}
+{"count": 787, "name": "Progressive tax", "weight": 0.0, "id": 2780846222, "level": 4}
+{"count": 356, "name": "Alternative minimum tax", "weight": 0.0, "id": 2779774685, "level": 4}
+{"count": 219, "name": "Low-Income Housing Tax Credit", "weight": 0.0, "id": 2778571887, "level": 4}
+{"count": 195, "name": "Proportional tax", "weight": 0.0, "id": 2776653640, "level": 4}
+{"count": 3065, "name": "Tax basis", "weight": 2.0, "id": 202253471, "level": 4}
+{"count": 180, "name": "Child tax credit", "weight": 0.0, "id": 2780344220, "level": 4}

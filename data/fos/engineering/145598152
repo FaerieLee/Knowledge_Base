@@ -1,0 +1,11 @@
+{"count": 7362, "name": "MESFET", "weight": 10.0, "id": 134123091, "level": 3}
+{"count": 1844, "name": "MISFET", "weight": 2.0, "id": 2778673556, "level": 3}
+{"count": 2363, "name": "ISFET", "weight": 3.0, "id": 154275363, "level": 3}
+{"count": 3144, "name": "JFET", "weight": 4.0, "id": 2778484494, "level": 3}
+{"count": 3451, "name": "Carbon nanotube field-effect transistor", "weight": 4.0, "id": 58916441, "level": 3}
+{"count": 719, "name": "Tunnel field-effect transistor", "weight": 0.0, "id": 2775945429, "level": 3}
+{"count": 62, "name": "Phenacene", "weight": 0.0, "id": 2776972378, "level": 3}
+{"count": 11, "name": "Depletion and enhancement modes", "weight": 0.0, "id": 2777143166, "level": 3}
+{"count": 16, "name": "Bio-FET", "weight": 0.0, "id": 2776023367, "level": 3}
+{"count": 36, "name": "Chemical field-effect transistor", "weight": 0.0, "id": 2778890324, "level": 3}
+{"count": 110, "name": "DNA field-effect transistor", "weight": 0.0, "id": 67656411, "level": 3}

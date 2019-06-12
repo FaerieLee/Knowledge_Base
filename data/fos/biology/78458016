@@ -1,0 +1,200 @@
+{"count": 30445, "name": "Population genetics", "weight": 1.0, "id": 85721925, "level": 2}
+{"count": 21501, "name": "Natural selection", "weight": 1.0, "id": 75268714, "level": 2}
+{"count": 38552, "name": "Heritability", "weight": 1.0, "id": 161890455, "level": 2}
+{"count": 23797, "name": "Sex ratio", "weight": 1.0, "id": 57520943, "level": 2}
+{"count": 15081, "name": "Sexual selection", "weight": 0.0, "id": 130981225, "level": 2}
+{"count": 14155, "name": "Spatial organization", "weight": 0.0, "id": 175779824, "level": 2}
+{"count": 14492, "name": "Reproductive success", "weight": 0.0, "id": 117376503, "level": 2}
+{"count": 5485, "name": "Animal communication", "weight": 0.0, "id": 59726852, "level": 2}
+{"count": 18635, "name": "Altruism", "weight": 0.0, "id": 68579090, "level": 2}
+{"count": 4170, "name": "Quantitative genetics", "weight": 0.0, "id": 51255272, "level": 2}
+{"count": 4224, "name": "Ecology and Evolutionary Biology", "weight": 0.0, "id": 125134236, "level": 2}
+{"count": 3732, "name": "Imprinting (psychology)", "weight": 0.0, "id": 94715292, "level": 2}
+{"count": 7833, "name": "Life history theory", "weight": 0.0, "id": 66698415, "level": 2}
+{"count": 5266, "name": "Evolutionary psychology", "weight": 0.0, "id": 92150231, "level": 2}
+{"count": 5684, "name": "Evolutionary dynamics", "weight": 0.0, "id": 171578705, "level": 2}
+{"count": 3436, "name": "Assortative mating", "weight": 0.0, "id": 2777433574, "level": 2}
+{"count": 736, "name": "Rate of evolution", "weight": 0.0, "id": 2777949028, "level": 2}
+{"count": 1420, "name": "Group selection", "weight": 0.0, "id": 51520907, "level": 2}
+{"count": 60517, "name": "Alpha (ethology)", "weight": 2.0, "id": 178362625, "level": 2}
+{"count": 1950, "name": "Neutral theory of molecular evolution", "weight": 0.0, "id": 1570309, "level": 2}
+{"count": 2598, "name": "Kin selection", "weight": 0.0, "id": 23714114, "level": 2}
+{"count": 2615, "name": "Helping behavior", "weight": 0.0, "id": 207546712, "level": 2}
+{"count": 6689, "name": "Evolutionary ecology", "weight": 0.0, "id": 135811302, "level": 2}
+{"count": 3335, "name": "Cultural transmission in animals", "weight": 0.0, "id": 32433346, "level": 2}
+{"count": 3441, "name": "Sociobiology", "weight": 0.0, "id": 90182286, "level": 2}
+{"count": 4221, "name": "Ethology", "weight": 0.0, "id": 175909808, "level": 2}
+{"count": 8567, "name": "Instinct", "weight": 0.0, "id": 3232509, "level": 2}
+{"count": 3427, "name": "Social evolution", "weight": 0.0, "id": 205945042, "level": 2}
+{"count": 2060, "name": "Behavioral ecology", "weight": 0.0, "id": 9343608, "level": 2}
+{"count": 839, "name": "Frequency-dependent selection", "weight": 0.0, "id": 97568371, "level": 2}
+{"count": 2874, "name": "Evolutionary developmental biology", "weight": 0.0, "id": 168601633, "level": 2}
+{"count": 10082, "name": "Darwinism", "weight": 0.0, "id": 196919123, "level": 2}
+{"count": 1730, "name": "Inclusive fitness", "weight": 0.0, "id": 4430575, "level": 2}
+{"count": 5481, "name": "Sociality", "weight": 0.0, "id": 176544851, "level": 2}
+{"count": 2401, "name": "Experimental evolution", "weight": 0.0, "id": 87590526, "level": 2}
+{"count": 29826, "name": "Daughter", "weight": 1.0, "id": 2779033419, "level": 2}
+{"count": 1000, "name": "Punctuated equilibrium", "weight": 0.0, "id": 148108004, "level": 2}
+{"count": 3599, "name": "Creationism", "weight": 0.0, "id": 15608057, "level": 2}
+{"count": 1572, "name": "Macroevolution", "weight": 0.0, "id": 44527532, "level": 2}
+{"count": 3626, "name": "Evolutionism", "weight": 0.0, "id": 188162584, "level": 2}
+{"count": 596, "name": "Ecological genetics", "weight": 0.0, "id": 18832751, "level": 2}
+{"count": 2165, "name": "Directional selection", "weight": 0.0, "id": 90032942, "level": 2}
+{"count": 805, "name": "Disruptive selection", "weight": 0.0, "id": 46097333, "level": 2}
+{"count": 1413, "name": "Microevolution", "weight": 0.0, "id": 11710620, "level": 2}
+{"count": 882, "name": "Statistical genetics", "weight": 0.0, "id": 555299818, "level": 2}
+{"count": 2010, "name": "Evolvability", "weight": 0.0, "id": 176147130, "level": 2}
+{"count": 1061, "name": "Niche construction", "weight": 0.0, "id": 10437067, "level": 2}
+{"count": 389, "name": "Baldwin effect", "weight": 0.0, "id": 206849690, "level": 2}
+{"count": 1341, "name": "Function (biology)", "weight": 0.0, "id": 14036430, "level": 2}
+{"count": 924, "name": "Memetics", "weight": 0.0, "id": 51620047, "level": 2}
+{"count": 1622, "name": "Psychological adaptation", "weight": 0.0, "id": 2776795518, "level": 2}
+{"count": 4262, "name": "Survival of the fittest", "weight": 0.0, "id": 22614528, "level": 2}
+{"count": 2469, "name": "Limulus", "weight": 0.0, "id": 2776487282, "level": 2}
+{"count": 600, "name": "Neuroethology", "weight": 0.0, "id": 188015885, "level": 2}
+{"count": 629, "name": "Price equation", "weight": 0.0, "id": 6856009, "level": 2}
+{"count": 722, "name": "Scramble competition", "weight": 0.0, "id": 162722077, "level": 2}
+{"count": 196, "name": "r/K selection theory", "weight": 0.0, "id": 136985768, "level": 2}
+{"count": 502, "name": "Kalotermitidae", "weight": 0.0, "id": 2780948375, "level": 2}
+{"count": 1952, "name": "Comparative biology", "weight": 0.0, "id": 39234202, "level": 2}
+{"count": 826, "name": "Evolutionary epistemology", "weight": 0.0, "id": 94726928, "level": 2}
+{"count": 594, "name": "Ethogram", "weight": 0.0, "id": 97990089, "level": 2}
+{"count": 947, "name": "Proximate and ultimate causation", "weight": 0.0, "id": 114425635, "level": 2}
+{"count": 498, "name": "Heliconius", "weight": 0.0, "id": 2776713692, "level": 2}
+{"count": 1716, "name": "Harem", "weight": 0.0, "id": 17954761, "level": 2}
+{"count": 213762, "name": "Spite", "weight": 10.0, "id": 181836184, "level": 2}
+{"count": 761, "name": "Modern evolutionary synthesis", "weight": 0.0, "id": 137583809, "level": 2}
+{"count": 4229, "name": "Cultural group selection", "weight": 0.0, "id": 38749836, "level": 2}
+{"count": 621, "name": "Developmental systems theory", "weight": 0.0, "id": 141252552, "level": 2}
+{"count": 223, "name": "Cryptomys", "weight": 0.0, "id": 2779334491, "level": 2}
+{"count": 733, "name": "Deme", "weight": 0.0, "id": 2781435552, "level": 2}
+{"count": 129, "name": "Zootermopsis angusticollis", "weight": 0.0, "id": 2778853999, "level": 2}
+{"count": 165, "name": "Saltation (biology)", "weight": 0.0, "id": 25894309, "level": 2}
+{"count": 1054, "name": "Evolutionary anthropology", "weight": 0.0, "id": 166278019, "level": 2}
+{"count": 174, "name": "Quantum evolution", "weight": 0.0, "id": 2779835947, "level": 2}
+{"count": 923, "name": "Interactor", "weight": 0.0, "id": 166998942, "level": 2}
+{"count": 2753, "name": "Adaptive value", "weight": 0.0, "id": 88654294, "level": 2}
+{"count": 205, "name": "Cakile", "weight": 0.0, "id": 2780753728, "level": 2}
+{"count": 140, "name": "Hypergamy", "weight": 0.0, "id": 2776513985, "level": 2}
+{"count": 327, "name": "Dendrobates", "weight": 0.0, "id": 2776312873, "level": 2}
+{"count": 185, "name": "Evolutionary progress", "weight": 0.0, "id": 2779053753, "level": 2}
+{"count": 117, "name": "Ecogenetics", "weight": 0.0, "id": 182587106, "level": 2}
+{"count": 135, "name": "Avida", "weight": 0.0, "id": 192368846, "level": 2}
+{"count": 946, "name": "Social animal", "weight": 0.0, "id": 130939695, "level": 2}
+{"count": 106, "name": "Evolutionary aesthetics", "weight": 0.0, "id": 2778498683, "level": 2}
+{"count": 111, "name": "Zootermopsis nevadensis", "weight": 0.0, "id": 2779303897, "level": 2}
+{"count": 196, "name": "Inheritance of acquired characteristics", "weight": 0.0, "id": 178418240, "level": 2}
+{"count": 140, "name": "Hominization", "weight": 0.0, "id": 2776837341, "level": 2}
+{"count": 160, "name": "Argiope bruennichi", "weight": 0.0, "id": 2778552983, "level": 2}
+{"count": 60, "name": "Devolution (biology)", "weight": 0.0, "id": 190542761, "level": 2}
+{"count": 107, "name": "Mismatch theory", "weight": 0.0, "id": 66359076, "level": 2}
+{"count": 400, "name": "Mimus", "weight": 0.0, "id": 2777847309, "level": 2}
+{"count": 93, "name": "Displacement activity", "weight": 0.0, "id": 53689614, "level": 2}
+{"count": 131, "name": "Law of Life", "weight": 0.0, "id": 2778850678, "level": 2}
+{"count": 232, "name": "Gene-centered view of evolution", "weight": 0.0, "id": 129759858, "level": 2}
+{"count": 92, "name": "Biohistory", "weight": 0.0, "id": 2777476548, "level": 2}
+{"count": 26, "name": "Euler\u2013Lotka equation", "weight": 0.0, "id": 2775936453, "level": 2}
+{"count": 19, "name": "Ophioblennius atlanticus", "weight": 0.0, "id": 2779295233, "level": 2}
+{"count": 69, "name": "Microbial cooperation", "weight": 0.0, "id": 84357590, "level": 2}
+{"count": 203, "name": "Bowerbird", "weight": 0.0, "id": 2780681486, "level": 2}
+{"count": 99, "name": "Chlorion", "weight": 0.0, "id": 2776753452, "level": 2}
+{"count": 8, "name": "Autothysis", "weight": 0.0, "id": 42710230, "level": 2}
+{"count": 12, "name": "Bombus ternarius", "weight": 0.0, "id": 2779041815, "level": 2}
+{"count": 11, "name": "Austroplatypus incompertus", "weight": 0.0, "id": 2778808665, "level": 2}
+{"count": 116, "name": "Savaging", "weight": 0.0, "id": 114564498, "level": 2}
+{"count": 144, "name": "Kaira", "weight": 0.0, "id": 2780283303, "level": 2}
+{"count": 7, "name": "Eucalyptus tenuiramis", "weight": 0.0, "id": 2776368174, "level": 2}
+{"count": 8, "name": "Creatonotos gangis", "weight": 0.0, "id": 2777411957, "level": 2}
+{"count": 63, "name": "Cultural evolutionism", "weight": 0.0, "id": 2775989194, "level": 2}
+{"count": 27, "name": "Megaevolution", "weight": 0.0, "id": 2776374771, "level": 2}
+{"count": 213, "name": "Aiko", "weight": 0.0, "id": 2779100186, "level": 2}
+{"count": 5, "name": "Hamiltonian spite", "weight": 0.0, "id": 2776374695, "level": 2}
+{"count": 26, "name": "Vacuum activity", "weight": 0.0, "id": 101248873, "level": 2}
+{"count": 7, "name": "Coptotermes frenchi", "weight": 0.0, "id": 2780977395, "level": 2}
+{"count": 18, "name": "Evolutionary invasion analysis", "weight": 0.0, "id": 2776835903, "level": 2}
+{"count": 10, "name": "Melophagus", "weight": 0.0, "id": 2779089892, "level": 2}
+{"count": 29, "name": "Cinderella effect", "weight": 0.0, "id": 2779979806, "level": 2}
+{"count": 11, "name": "Fisher's principle", "weight": 0.0, "id": 2777716146, "level": 2}
+{"count": 88, "name": "Evolutionary landscape", "weight": 0.0, "id": 2780009971, "level": 2}
+{"count": 118, "name": "Evidence of common descent", "weight": 0.0, "id": 96493396, "level": 2}
+{"count": 5, "name": "Polistes bellicosus", "weight": 0.0, "id": 2778382370, "level": 2}
+{"count": 18, "name": "Conspicuous conservation", "weight": 0.0, "id": 2780337990, "level": 2}
+{"count": 191, "name": "Agent detection", "weight": 0.0, "id": 2776321090, "level": 2}
+{"count": 5, "name": "Darwinian Demon", "weight": 0.0, "id": 2779452946, "level": 2}
+{"count": 17, "name": "Evolutionary musicology", "weight": 0.0, "id": 2777267550, "level": 2}
+{"count": 2, "name": "Patriarch hypothesis", "weight": 0.0, "id": 2779726234, "level": 2}
+{"count": 7, "name": "Myrmecia nigriceps", "weight": 0.0, "id": 2780901058, "level": 2}
+{"count": 9, "name": "Koinophilia", "weight": 0.0, "id": 2777047752, "level": 2}
+{"count": 17, "name": "Andreolepis", "weight": 0.0, "id": 2779038893, "level": 2}
+{"count": 8, "name": "Syphonota geographica", "weight": 0.0, "id": 2776666273, "level": 2}
+{"count": 8, "name": "Stenomylus", "weight": 0.0, "id": 2778524567, "level": 2}
+{"count": 9, "name": "Gender symbol", "weight": 0.0, "id": 2777556984, "level": 2}
+{"count": 11, "name": "Apatura metis", "weight": 0.0, "id": 2780822723, "level": 2}
+{"count": 7, "name": "Mellinus arvensis", "weight": 0.0, "id": 2777872418, "level": 2}
+{"count": 4, "name": "Philanthus gibbosus", "weight": 0.0, "id": 2780440178, "level": 2}
+{"count": 14, "name": "Negative-state relief model", "weight": 0.0, "id": 158590519, "level": 2}
+{"count": 6, "name": "Ropalidia revolutionalis", "weight": 0.0, "id": 2778613529, "level": 2}
+{"count": 3, "name": "Euglossa hyacinthina", "weight": 0.0, "id": 2779268433, "level": 2}
+{"count": 6, "name": "Darwin Centennial Celebration", "weight": 0.0, "id": 2780744041, "level": 2}
+{"count": 2, "name": "Cressida cressida", "weight": 0.0, "id": 2779193305, "level": 2}
+{"count": 25, "name": "Beanbag genetics", "weight": 0.0, "id": 2776341551, "level": 2}
+{"count": 5, "name": "Extended female sexuality", "weight": 0.0, "id": 2778220964, "level": 2}
+{"count": 3, "name": "Polistes carnifex", "weight": 0.0, "id": 2780056981, "level": 2}
+{"count": 11, "name": "Semantides", "weight": 0.0, "id": 2777657095, "level": 2}
+{"count": 12, "name": "Parmacella", "weight": 0.0, "id": 2779196880, "level": 2}
+{"count": 11, "name": "Sexual suggestiveness", "weight": 0.0, "id": 2778866101, "level": 2}
+{"count": 126, "name": "Introduction to genetics", "weight": 0.0, "id": 2779968108, "level": 2}
+{"count": 58, "name": "Chest hair", "weight": 0.0, "id": 2779404927, "level": 2}
+{"count": 6, "name": "Herpelidae", "weight": 0.0, "id": 2779591554, "level": 2}
+{"count": 1, "name": "Court jester hypothesis", "weight": 0.0, "id": 2775858940, "level": 2}
+{"count": 1, "name": "Philomycus togatus", "weight": 0.0, "id": 2778821944, "level": 2}
+{"count": 8, "name": "Asian giant hornet", "weight": 0.0, "id": 2776160222, "level": 2}
+{"count": 3, "name": "Polistes major major", "weight": 0.0, "id": 2778298452, "level": 2}
+{"count": 8, "name": "Fake orgasm", "weight": 0.0, "id": 2778995436, "level": 2}
+{"count": 5, "name": "Dolichoderus mariae", "weight": 0.0, "id": 2779744445, "level": 2}
+{"count": 1, "name": "Straightnose pipefish", "weight": 0.0, "id": 2777537328, "level": 2}
+{"count": 8, "name": "Sham dustbathing", "weight": 0.0, "id": 2776358231, "level": 2}
+{"count": 8, "name": "Tefibazumab", "weight": 0.0, "id": 2781364749, "level": 2}
+{"count": 7, "name": "Gazella erlangeri", "weight": 0.0, "id": 2780686479, "level": 2}
+{"count": 11, "name": "Dog communication", "weight": 0.0, "id": 2778642228, "level": 2}
+{"count": 6, "name": "Polistes carolina", "weight": 0.0, "id": 2778626504, "level": 2}
+{"count": 10, "name": "Task allocation and partitioning of social insects", "weight": 0.0, "id": 107295837, "level": 2}
+{"count": 3, "name": "Culturgen", "weight": 0.0, "id": 2778104583, "level": 2}
+{"count": 3, "name": "Mermithergate", "weight": 0.0, "id": 2777522445, "level": 2}
+{"count": 4, "name": "Melipotes", "weight": 0.0, "id": 2777856221, "level": 2}
+{"count": 4, "name": "Ameles spallanzania", "weight": 0.0, "id": 2779211900, "level": 2}
+{"count": 3, "name": "Julodimorpha", "weight": 0.0, "id": 2779338219, "level": 2}
+{"count": 4, "name": "Polistes dorsalis", "weight": 0.0, "id": 2776690854, "level": 2}
+{"count": 4, "name": "Crateroscelis", "weight": 0.0, "id": 2778120903, "level": 2}
+{"count": 10, "name": "Human\u2013canine bond", "weight": 0.0, "id": 2781116580, "level": 2}
+{"count": 13, "name": "African jacana", "weight": 0.0, "id": 2781441774, "level": 2}
+{"count": 6, "name": "Supplemental nursing system", "weight": 0.0, "id": 2779207493, "level": 2}
+{"count": 34, "name": "Vicar of Bray", "weight": 0.0, "id": 2776019198, "level": 2}
+{"count": 8, "name": "Objections to evolution", "weight": 0.0, "id": 2777570457, "level": 2}
+{"count": 5, "name": "Dolabrifera brazieri", "weight": 0.0, "id": 2777501852, "level": 2}
+{"count": 3, "name": "Evolutionary approaches to depression", "weight": 0.0, "id": 2778000015, "level": 2}
+{"count": 2, "name": "Archimantis latistyla", "weight": 0.0, "id": 2780806353, "level": 2}
+{"count": 5, "name": "Martialis heureka", "weight": 0.0, "id": 2778434320, "level": 2}
+{"count": 60, "name": "Introduction to evolution", "weight": 0.0, "id": 35247392, "level": 2}
+{"count": 1, "name": "Creation and evolution in public education", "weight": 0.0, "id": 2775915328, "level": 2}
+{"count": 2, "name": "Pyrgus communis", "weight": 0.0, "id": 2776211083, "level": 2}
+{"count": 1, "name": "Greater banded hornet", "weight": 0.0, "id": 2779626821, "level": 2}
+{"count": 2, "name": "Dawkinsia", "weight": 0.0, "id": 2779748904, "level": 2}
+{"count": 3, "name": "Weasel program", "weight": 0.0, "id": 77297682, "level": 2}
+{"count": 2, "name": "Aplysia morio", "weight": 0.0, "id": 2777849821, "level": 2}
+{"count": 3, "name": "Siksika ottae", "weight": 0.0, "id": 2781260410, "level": 2}
+{"count": 2, "name": "Sierra newt", "weight": 0.0, "id": 2781428933, "level": 2}
+{"count": 3, "name": "Evolutionary leadership theory", "weight": 0.0, "id": 2778818468, "level": 2}
+{"count": 20, "name": "Eudorcas", "weight": 0.0, "id": 2778933897, "level": 2}
+{"count": 1, "name": "High-altitude adaptation in humans", "weight": 0.0, "id": 181237673, "level": 2}
+{"count": 4, "name": "Vespula acadica", "weight": 0.0, "id": 2779161549, "level": 2}
+{"count": 1, "name": "Golofa claviger", "weight": 0.0, "id": 2779376468, "level": 2}
+{"count": 1, "name": "Melychiopharis cynips", "weight": 0.0, "id": 2779630149, "level": 2}
+{"count": 2, "name": "Biological exponential growth", "weight": 0.0, "id": 95290990, "level": 2}
+{"count": 3, "name": "Theoretical foundations of evolutionary psychology", "weight": 0.0, "id": 2777589893, "level": 2}
+{"count": 3, "name": "Ctenomorphodes tessulatus", "weight": 0.0, "id": 2780682772, "level": 2}
+{"count": 2, "name": "Doctor's lady", "weight": 0.0, "id": 2781350748, "level": 2}
+{"count": 12, "name": "Behavioral sink", "weight": 0.0, "id": 136169204, "level": 2}
+{"count": 5, "name": "Infanticide in rodents", "weight": 0.0, "id": 2779905453, "level": 2}
+{"count": 1, "name": "Precambrian rabbit", "weight": 0.0, "id": 38259504, "level": 2}
+{"count": 1, "name": "Monogamy in animals", "weight": 0.0, "id": 2775887884, "level": 2}

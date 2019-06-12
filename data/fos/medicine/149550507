@@ -1,0 +1,9 @@
+{"count": 6312, "name": "Fractional anisotropy", "weight": 9.0, "id": 89916169, "level": 4}
+{"count": 6518, "name": "Tractography", "weight": 10.0, "id": 84787856, "level": 4}
+{"count": 861, "name": "Intravoxel incoherent motion", "weight": 1.0, "id": 82641631, "level": 4}
+{"count": 628, "name": "Optic radiation", "weight": 0.0, "id": 2780317479, "level": 4}
+{"count": 1963, "name": "Splenium", "weight": 3.0, "id": 2776643646, "level": 4}
+{"count": 494, "name": "External capsule", "weight": 0.0, "id": 2779934287, "level": 4}
+{"count": 108, "name": "Association fiber", "weight": 0.0, "id": 2778486124, "level": 4}
+{"count": 48, "name": "Cone of Uncertainty", "weight": 0.0, "id": 2779392230, "level": 4}
+{"count": 21, "name": "Connectogram", "weight": 0.0, "id": 128523660, "level": 4}

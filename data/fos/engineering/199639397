@@ -1,0 +1,200 @@
+{"count": 184384, "name": "Machining", "weight": 3.0, "id": 523214423, "level": 2}
+{"count": 59002, "name": "Front and back ends", "weight": 1.0, "id": 53016008, "level": 2}
+{"count": 82179, "name": "Machine tool", "weight": 1.0, "id": 5941749, "level": 2}
+{"count": 254408, "name": "Nozzle", "weight": 5.0, "id": 56200935, "level": 2}
+{"count": 10034, "name": "STRIPS", "weight": 0.0, "id": 200925200, "level": 2}
+{"count": 396328, "name": "Bearing (mechanical)", "weight": 8.0, "id": 127298686, "level": 2}
+{"count": 364853, "name": "Molding (process)", "weight": 7.0, "id": 46516522, "level": 2}
+{"count": 116963, "name": "Axial symmetry", "weight": 2.0, "id": 35377427, "level": 2}
+{"count": 44001, "name": "Sheet metal", "weight": 0.0, "id": 2779747408, "level": 2}
+{"count": 11881, "name": "Rod", "weight": 0.0, "id": 162184086, "level": 2}
+{"count": 136951, "name": "Suction", "weight": 2.0, "id": 23795335, "level": 2}
+{"count": 12463, "name": "Radius of curvature", "weight": 0.0, "id": 182574964, "level": 2}
+{"count": 474766, "name": "Cylinder", "weight": 10.0, "id": 203311528, "level": 2}
+{"count": 14169, "name": "Screen printing", "weight": 0.0, "id": 2776422346, "level": 2}
+{"count": 21672, "name": "Anchoring", "weight": 0.0, "id": 18483071, "level": 2}
+{"count": 186530, "name": "Piston", "weight": 3.0, "id": 44301573, "level": 2}
+{"count": 91076, "name": "Yarn", "weight": 1.0, "id": 2778787235, "level": 2}
+{"count": 8213, "name": "Annulus (firestop)", "weight": 0.0, "id": 71952513, "level": 2}
+{"count": 8274, "name": "Linkage (mechanical)", "weight": 0.0, "id": 69608853, "level": 2}
+{"count": 13630, "name": "Engraving", "weight": 0.0, "id": 154843443, "level": 2}
+{"count": 102143, "name": "Rotation", "weight": 2.0, "id": 80192629, "level": 2}
+{"count": 49189, "name": "Groove (music)", "weight": 1.0, "id": 157332803, "level": 2}
+{"count": 6208, "name": "Grippers", "weight": 0.0, "id": 2775960376, "level": 2}
+{"count": 10191, "name": "Deep drawing", "weight": 0.0, "id": 2781031896, "level": 2}
+{"count": 5110, "name": "Coordinate-measuring machine", "weight": 0.0, "id": 2777511293, "level": 2}
+{"count": 54938, "name": "Wedge (mechanical device)", "weight": 1.0, "id": 99649670, "level": 2}
+{"count": 50719, "name": "Body orifice", "weight": 1.0, "id": 194242075, "level": 2}
+{"count": 165503, "name": "Transverse plane", "weight": 3.0, "id": 154954056, "level": 2}
+{"count": 27349, "name": "Cage", "weight": 0.0, "id": 160272327, "level": 2}
+{"count": 25184, "name": "Rib cage", "weight": 0.0, "id": 160306043, "level": 2}
+{"count": 4012, "name": "Tamper resistance", "weight": 0.0, "id": 19163912, "level": 2}
+{"count": 18785, "name": "Blanket", "weight": 0.0, "id": 2779261148, "level": 2}
+{"count": 11889, "name": "Stiffening", "weight": 0.0, "id": 108729823, "level": 2}
+{"count": 95853, "name": "Axle", "weight": 2.0, "id": 129727815, "level": 2}
+{"count": 41842, "name": "Baffle", "weight": 0.0, "id": 131396349, "level": 2}
+{"count": 49682, "name": "Impeller", "weight": 1.0, "id": 153005164, "level": 2}
+{"count": 3709, "name": "Lifting equipment", "weight": 0.0, "id": 558441949, "level": 2}
+{"count": 2219, "name": "Tolerance analysis", "weight": 0.0, "id": 2780080018, "level": 2}
+{"count": 28391, "name": "Weaving", "weight": 0.0, "id": 54525549, "level": 2}
+{"count": 100125, "name": "Hinge", "weight": 2.0, "id": 44000306, "level": 2}
+{"count": 2754, "name": "Vertical orientation", "weight": 0.0, "id": 2777234117, "level": 2}
+{"count": 49253, "name": "Eccentric", "weight": 1.0, "id": 100784341, "level": 2}
+{"count": 34512, "name": "Heel", "weight": 0.0, "id": 2777248721, "level": 2}
+{"count": 37171, "name": "Abutment", "weight": 0.0, "id": 48777230, "level": 2}
+{"count": 32102, "name": "Leading edge", "weight": 0.0, "id": 2779570065, "level": 2}
+{"count": 28309, "name": "Snap", "weight": 0.0, "id": 2779997099, "level": 2}
+{"count": 12769, "name": "Slicing", "weight": 0.0, "id": 2776190703, "level": 2}
+{"count": 71819, "name": "Fastener", "weight": 1.0, "id": 2778240408, "level": 2}
+{"count": 30910, "name": "Gauge (firearms)", "weight": 0.0, "id": 40976572, "level": 2}
+{"count": 89241, "name": "Electrical conduit", "weight": 1.0, "id": 89836073, "level": 2}
+{"count": 42812, "name": "Barrel (unit)", "weight": 0.0, "id": 159008231, "level": 2}
+{"count": 134489, "name": "Spark plug", "weight": 2.0, "id": 164205550, "level": 2}
+{"count": 18146, "name": "Trailing edge", "weight": 0.0, "id": 28317120, "level": 2}
+{"count": 34768, "name": "Gasket", "weight": 0.0, "id": 128421294, "level": 2}
+{"count": 6380, "name": "Paper machine", "weight": 0.0, "id": 2777732649, "level": 2}
+{"count": 74062, "name": "Drill", "weight": 1.0, "id": 173736775, "level": 2}
+{"count": 9014, "name": "splice", "weight": 0.0, "id": 2780989783, "level": 2}
+{"count": 30210, "name": "Die (manufacturing)", "weight": 0.0, "id": 176289848, "level": 2}
+{"count": 241495, "name": "Cable gland", "weight": 5.0, "id": 110925319, "level": 2}
+{"count": 165184, "name": "Clamping", "weight": 3.0, "id": 84111939, "level": 2}
+{"count": 45160, "name": "Pulley", "weight": 0.0, "id": 171937826, "level": 2}
+{"count": 15541, "name": "Tearing", "weight": 0.0, "id": 2776097996, "level": 2}
+{"count": 12030, "name": "Bracing", "weight": 0.0, "id": 2777905996, "level": 2}
+{"count": 6258, "name": "Roundness (object)", "weight": 0.0, "id": 14190554, "level": 2}
+{"count": 39096, "name": "Laying", "weight": 0.0, "id": 2780812243, "level": 2}
+{"count": 14067, "name": "Embossing", "weight": 0.0, "id": 2776392700, "level": 2}
+{"count": 22434, "name": "Angular displacement", "weight": 0.0, "id": 108439606, "level": 2}
+{"count": 24976, "name": "Perimeter", "weight": 0.0, "id": 98503990, "level": 2}
+{"count": 101847, "name": "Bottle", "weight": 2.0, "id": 32236832, "level": 2}
+{"count": 152931, "name": "Casing", "weight": 3.0, "id": 30399818, "level": 2}
+{"count": 22388, "name": "Brace", "weight": 0.0, "id": 2779793219, "level": 2}
+{"count": 11286, "name": "Agitator", "weight": 0.0, "id": 2779506852, "level": 2}
+{"count": 103404, "name": "Drum", "weight": 2.0, "id": 175845324, "level": 2}
+{"count": 123923, "name": "Flange", "weight": 2.0, "id": 2778417280, "level": 2}
+{"count": 11083, "name": "Mast (sailing)", "weight": 0.0, "id": 79004654, "level": 2}
+{"count": 3203, "name": "Technical drawing", "weight": 0.0, "id": 145961650, "level": 2}
+{"count": 16396, "name": "Threading (manufacturing)", "weight": 0.0, "id": 524400119, "level": 2}
+{"count": 26043, "name": "Rivet", "weight": 0.0, "id": 57769158, "level": 2}
+{"count": 80669, "name": "Hook", "weight": 1.0, "id": 2777586403, "level": 2}
+{"count": 42311, "name": "Ceiling (aeronautics)", "weight": 0.0, "id": 169744489, "level": 2}
+{"count": 42932, "name": "Carriage", "weight": 0.0, "id": 32762888, "level": 2}
+{"count": 14083, "name": "Image stitching", "weight": 0.0, "id": 29081049, "level": 2}
+{"count": 5385, "name": "Pantograph", "weight": 0.0, "id": 20756127, "level": 2}
+{"count": 1040, "name": "Bassinet", "weight": 0.0, "id": 2780103070, "level": 2}
+{"count": 9026, "name": "Lapping", "weight": 0.0, "id": 109880203, "level": 2}
+{"count": 35121, "name": "Hammer", "weight": 0.0, "id": 13655849, "level": 2}
+{"count": 127075, "name": "Clamp", "weight": 2.0, "id": 2776161997, "level": 2}
+{"count": 17200, "name": "Winch", "weight": 0.0, "id": 116168119, "level": 2}
+{"count": 29246, "name": "Pallet", "weight": 0.0, "id": 51413319, "level": 2}
+{"count": 41825, "name": "Punching", "weight": 0.0, "id": 2778527123, "level": 2}
+{"count": 32515, "name": "Stamping", "weight": 0.0, "id": 144444463, "level": 2}
+{"count": 2681, "name": "Floor plate", "weight": 0.0, "id": 78577261, "level": 2}
+{"count": 28952, "name": "Tread", "weight": 0.0, "id": 155296804, "level": 2}
+{"count": 18796, "name": "Bellows", "weight": 0.0, "id": 2779410321, "level": 2}
+{"count": 23929, "name": "Trimming", "weight": 0.0, "id": 56951928, "level": 2}
+{"count": 15671, "name": "Blanking", "weight": 0.0, "id": 108710744, "level": 2}
+{"count": 10544, "name": "Paperboard", "weight": 0.0, "id": 193987312, "level": 2}
+{"count": 9006, "name": "Wire drawing", "weight": 0.0, "id": 165292400, "level": 2}
+{"count": 26330, "name": "Bead", "weight": 0.0, "id": 109386097, "level": 2}
+{"count": 21831, "name": "Conveyor belt", "weight": 0.0, "id": 2777709985, "level": 2}
+{"count": 6831, "name": "Camber (aerodynamics)", "weight": 0.0, "id": 60053565, "level": 2}
+{"count": 72775, "name": "Brush", "weight": 1.0, "id": 16108499, "level": 2}
+{"count": 30057, "name": "Carton", "weight": 0.0, "id": 155908867, "level": 2}
+{"count": 11838, "name": "Tapering", "weight": 0.0, "id": 114138010, "level": 2}
+{"count": 59955, "name": "Compartment (ship)", "weight": 1.0, "id": 203635412, "level": 2}
+{"count": 78038, "name": "Bracket", "weight": 1.0, "id": 133769200, "level": 2}
+{"count": 20700, "name": "Interlock", "weight": 0.0, "id": 99535591, "level": 2}
+{"count": 10565, "name": "Worm drive", "weight": 0.0, "id": 21261922, "level": 2}
+{"count": 2388, "name": "Machine element", "weight": 0.0, "id": 2779088103, "level": 2}
+{"count": 9722, "name": "Fillet (mechanics)", "weight": 0.0, "id": 121646663, "level": 2}
+{"count": 33099, "name": "Concentric", "weight": 0.0, "id": 90296322, "level": 2}
+{"count": 34498, "name": "Distributor", "weight": 0.0, "id": 2776814158, "level": 2}
+{"count": 76071, "name": "Mount", "weight": 1.0, "id": 2778091609, "level": 2}
+{"count": 48549, "name": "Reel", "weight": 1.0, "id": 2779273396, "level": 2}
+{"count": 85695, "name": "Cartridge", "weight": 1.0, "id": 34381374, "level": 2}
+{"count": 70760, "name": "Nut", "weight": 1.0, "id": 206391251, "level": 2}
+{"count": 115954, "name": "Perpendicular", "weight": 2.0, "id": 199631012, "level": 2}
+{"count": 21239, "name": "Trim", "weight": 0.0, "id": 88611116, "level": 2}
+{"count": 71571, "name": "Blank", "weight": 1.0, "id": 2778089247, "level": 2}
+{"count": 7686, "name": "Digital printing", "weight": 0.0, "id": 207239344, "level": 2}
+{"count": 21729, "name": "Crusher", "weight": 0.0, "id": 198340109, "level": 2}
+{"count": 16460, "name": "Scraper site", "weight": 0.0, "id": 78500136, "level": 2}
+{"count": 4176, "name": "Webbing", "weight": 0.0, "id": 2779243624, "level": 2}
+{"count": 17809, "name": "Coil spring", "weight": 0.0, "id": 182664415, "level": 2}
+{"count": 5405, "name": "Burnishing (metal)", "weight": 0.0, "id": 176980610, "level": 2}
+{"count": 11362, "name": "Corrugated fiberboard", "weight": 0.0, "id": 115333844, "level": 2}
+{"count": 3728, "name": "Grommet", "weight": 0.0, "id": 2778544182, "level": 2}
+{"count": 7370, "name": "NIP", "weight": 0.0, "id": 182420344, "level": 2}
+{"count": 22187, "name": "Check valve", "weight": 0.0, "id": 2778894822, "level": 2}
+{"count": 112871, "name": "Lever", "weight": 2.0, "id": 107524782, "level": 2}
+{"count": 46236, "name": "Rope", "weight": 0.0, "id": 162269090, "level": 2}
+{"count": 64196, "name": "Fixture", "weight": 1.0, "id": 2781122048, "level": 2}
+{"count": 11725, "name": "Retractor", "weight": 0.0, "id": 2781001935, "level": 2}
+{"count": 12513, "name": "Leaf spring", "weight": 0.0, "id": 53788299, "level": 2}
+{"count": 2062, "name": "Lateral movement", "weight": 0.0, "id": 2778358062, "level": 2}
+{"count": 20916, "name": "Interlocking", "weight": 0.0, "id": 2778844933, "level": 2}
+{"count": 25442, "name": "Bushing", "weight": 0.0, "id": 30293662, "level": 2}
+{"count": 13923, "name": "Claw", "weight": 0.0, "id": 29738020, "level": 2}
+{"count": 21287, "name": "Horizontal plane", "weight": 0.0, "id": 37222873, "level": 2}
+{"count": 88503, "name": "Rack", "weight": 1.0, "id": 2776843527, "level": 2}
+{"count": 1322, "name": "Contact print", "weight": 0.0, "id": 188079319, "level": 2}
+{"count": 1237, "name": "Arrowhead", "weight": 0.0, "id": 2778296017, "level": 2}
+{"count": 2018, "name": "Circular section", "weight": 0.0, "id": 2780028509, "level": 2}
+{"count": 5507, "name": "Interference fit", "weight": 0.0, "id": 204695899, "level": 2}
+{"count": 541, "name": "Hooping", "weight": 0.0, "id": 2777742318, "level": 2}
+{"count": 9374, "name": "Rifle", "weight": 0.0, "id": 2777051993, "level": 2}
+{"count": 2396, "name": "O-ring", "weight": 0.0, "id": 2777253660, "level": 2}
+{"count": 399, "name": "Side arm", "weight": 0.0, "id": 2777501195, "level": 2}
+{"count": 12752, "name": "Universal joint", "weight": 0.0, "id": 63316402, "level": 2}
+{"count": 5358, "name": "Hydraulic press", "weight": 0.0, "id": 2780052225, "level": 2}
+{"count": 2612, "name": "Radial Force Variation", "weight": 0.0, "id": 25009002, "level": 2}
+{"count": 2147, "name": "Chord (geometry)", "weight": 0.0, "id": 58552647, "level": 2}
+{"count": 41628, "name": "Ball (bearing)", "weight": 0.0, "id": 96926464, "level": 2}
+{"count": 7674, "name": "Curling", "weight": 0.0, "id": 2777383481, "level": 2}
+{"count": 5793, "name": "Inclined plane", "weight": 0.0, "id": 111808769, "level": 2}
+{"count": 64750, "name": "Circumference", "weight": 1.0, "id": 166504685, "level": 2}
+{"count": 11394, "name": "Torsion spring", "weight": 0.0, "id": 57614664, "level": 2}
+{"count": 8810, "name": "Tension (physics)", "weight": 0.0, "id": 206442445, "level": 2}
+{"count": 3459, "name": "Dimple", "weight": 0.0, "id": 152327431, "level": 2}
+{"count": 36573, "name": "Butterfly valve", "weight": 0.0, "id": 75974155, "level": 2}
+{"count": 49763, "name": "Reciprocating motion", "weight": 1.0, "id": 15466294, "level": 2}
+{"count": 41416, "name": "Vertical direction", "weight": 0.0, "id": 49661696, "level": 2}
+{"count": 74904, "name": "Tray", "weight": 1.0, "id": 2780950554, "level": 2}
+{"count": 1423, "name": "Polygraph", "weight": 0.0, "id": 37428701, "level": 2}
+{"count": 49180, "name": "Drive shaft", "weight": 1.0, "id": 10159599, "level": 2}
+{"count": 5787, "name": "Slider", "weight": 0.0, "id": 2776585123, "level": 2}
+{"count": 11124, "name": "Gauge (instrument)", "weight": 0.0, "id": 185302217, "level": 2}
+{"count": 14473, "name": "Cushioning", "weight": 0.0, "id": 93291783, "level": 2}
+{"count": 52213, "name": "Cushion", "weight": 1.0, "id": 2780584845, "level": 2}
+{"count": 9525, "name": "Mechanical fan", "weight": 0.0, "id": 72203522, "level": 2}
+{"count": 4423, "name": "Shim (computing)", "weight": 0.0, "id": 2780493668, "level": 2}
+{"count": 10435, "name": "Gate valve", "weight": 0.0, "id": 143950194, "level": 2}
+{"count": 737, "name": "Photogravure", "weight": 0.0, "id": 105360689, "level": 2}
+{"count": 3991, "name": "Spring steel", "weight": 0.0, "id": 2775832600, "level": 2}
+{"count": 4637, "name": "Broaching", "weight": 0.0, "id": 83604417, "level": 2}
+{"count": 6797, "name": "Ball joint", "weight": 0.0, "id": 129531949, "level": 2}
+{"count": 10190, "name": "Sharpening", "weight": 0.0, "id": 2781137444, "level": 2}
+{"count": 1962, "name": "Stirrup", "weight": 0.0, "id": 2776021025, "level": 2}
+{"count": 6312, "name": "Leading-edge slats", "weight": 0.0, "id": 205757953, "level": 2}
+{"count": 5197, "name": "Honing", "weight": 0.0, "id": 2776715399, "level": 2}
+{"count": 45244, "name": "Ball valve", "weight": 0.0, "id": 90610171, "level": 2}
+{"count": 25339, "name": "Collar", "weight": 0.0, "id": 2781448223, "level": 2}
+{"count": 1319, "name": "Pivot element", "weight": 0.0, "id": 199643119, "level": 2}
+{"count": 2295, "name": "Cycloid", "weight": 0.0, "id": 16224638, "level": 2}
+{"count": 4606, "name": "Swaging", "weight": 0.0, "id": 146441035, "level": 2}
+{"count": 3301, "name": "Floor plan", "weight": 0.0, "id": 61056293, "level": 2}
+{"count": 13416, "name": "Screw thread", "weight": 0.0, "id": 172644405, "level": 2}
+{"count": 7614, "name": "Tripod (photography)", "weight": 0.0, "id": 130614165, "level": 2}
+{"count": 34099, "name": "Inflatable", "weight": 0.0, "id": 66098623, "level": 2}
+{"count": 3747, "name": "Roll forming", "weight": 0.0, "id": 2777069866, "level": 2}
+{"count": 46333, "name": "Bent molecular geometry", "weight": 0.0, "id": 138211643, "level": 2}
+{"count": 33133, "name": "Right angle", "weight": 0.0, "id": 94128814, "level": 2}
+{"count": 6514, "name": "Keel", "weight": 0.0, "id": 89650837, "level": 2}
+{"count": 62969, "name": "Conical surface", "weight": 1.0, "id": 124961601, "level": 2}
+{"count": 7909, "name": "Backpack", "weight": 0.0, "id": 2780345887, "level": 2}
+{"count": 10852, "name": "Scroll", "weight": 0.0, "id": 2781324535, "level": 2}
+{"count": 16646, "name": "cardboard", "weight": 0.0, "id": 187767449, "level": 2}
+{"count": 9218, "name": "Pedestal", "weight": 0.0, "id": 2778611943, "level": 2}
+{"count": 3402, "name": "Buttress", "weight": 0.0, "id": 14712689, "level": 2}
+{"count": 18683, "name": "Boss", "weight": 0.0, "id": 2777020290, "level": 2}

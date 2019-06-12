@@ -1,0 +1,4 @@
+{"count": 1091, "name": "Sovereign default", "weight": 10.0, "id": 2778782394, "level": 3}
+{"count": 213, "name": "Event of default", "weight": 1.0, "id": 2777453620, "level": 3}
+{"count": 928, "name": "Loss given default", "weight": 8.0, "id": 133930124, "level": 3}
+{"count": 256, "name": "Strategic default", "weight": 2.0, "id": 2781196155, "level": 3}

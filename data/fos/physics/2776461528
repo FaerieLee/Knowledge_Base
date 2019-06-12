@@ -1,0 +1,13 @@
+{"count": 9812, "name": "Coefficient of performance", "weight": 9.0, "id": 13119800, "level": 3}
+{"count": 10727, "name": "Air source heat pumps", "weight": 10.0, "id": 187949908, "level": 3}
+{"count": 2007, "name": "Absorption heat pump", "weight": 1.0, "id": 2780165552, "level": 3}
+{"count": 758, "name": "Ground heat exchanger", "weight": 0.0, "id": 2776741288, "level": 3}
+{"count": 653, "name": "Transcritical cycle", "weight": 0.0, "id": 75825664, "level": 3}
+{"count": 247, "name": "Solar-assisted heat pump", "weight": 0.0, "id": 2778032680, "level": 3}
+{"count": 784, "name": "Seasonal energy efficiency ratio", "weight": 0.0, "id": 182501304, "level": 3}
+{"count": 4929, "name": "Heat pump and refrigeration cycle", "weight": 4.0, "id": 141713623, "level": 3}
+{"count": 1216, "name": "Hot water storage tank", "weight": 1.0, "id": 2780813333, "level": 3}
+{"count": 3957, "name": "Renewable heat", "weight": 3.0, "id": 144179057, "level": 3}
+{"count": 9114, "name": "Hybrid heat", "weight": 8.0, "id": 44044945, "level": 3}
+{"count": 47, "name": "Ground-coupled heat exchanger", "weight": 0.0, "id": 2777790030, "level": 3}
+{"count": 98, "name": "Energy tower", "weight": 0.0, "id": 2776546366, "level": 3}

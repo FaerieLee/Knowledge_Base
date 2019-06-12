@@ -1,0 +1,6 @@
+{"count": 10948, "name": "Early warning system", "weight": 10.0, "id": 2779296788, "level": 3}
+{"count": 1603, "name": "Lane departure warning system", "weight": 1.0, "id": 151043444, "level": 3}
+{"count": 880, "name": "Early warning score", "weight": 0.0, "id": 2777671062, "level": 3}
+{"count": 113, "name": "Laser warning receiver", "weight": 0.0, "id": 143700934, "level": 3}
+{"count": 283, "name": "Ground proximity warning system", "weight": 0.0, "id": 165981476, "level": 3}
+{"count": 19, "name": "Minimum safe altitude warning", "weight": 0.0, "id": 2778509612, "level": 3}

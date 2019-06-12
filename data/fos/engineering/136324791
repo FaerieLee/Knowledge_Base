@@ -1,0 +1,4 @@
+{"count": 2062, "name": "Mechanical filter", "weight": 10.0, "id": 195708903, "level": 5}
+{"count": 1966, "name": "Distributed element filter", "weight": 9.0, "id": 109767898, "level": 5}
+{"count": 789, "name": "Roll-off", "weight": 3.0, "id": 134963609, "level": 5}
+{"count": 109, "name": "Optimum \"L\" filter", "weight": 0.0, "id": 138416754, "level": 5}

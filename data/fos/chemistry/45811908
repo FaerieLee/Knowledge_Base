@@ -1,0 +1,4 @@
+{"count": 4129, "name": "Charge cycle", "weight": 10.0, "id": 200013194, "level": 4}
+{"count": 701, "name": "Main battery", "weight": 1.0, "id": 83151135, "level": 4}
+{"count": 36, "name": "Smart battery charger", "weight": 0.0, "id": 2777981296, "level": 4}
+{"count": 1481, "name": "Undervoltage-lockout", "weight": 3.0, "id": 85822417, "level": 4}

@@ -1,0 +1,9 @@
+{"count": 5103, "name": "Autoionization", "weight": 10.0, "id": 180115280, "level": 5}
+{"count": 1125, "name": "Above threshold ionization", "weight": 2.0, "id": 2779841645, "level": 5}
+{"count": 712, "name": "Photoionization detector", "weight": 1.0, "id": 43873718, "level": 5}
+{"count": 458, "name": "Appearance energy", "weight": 0.0, "id": 2780368406, "level": 5}
+{"count": 1040, "name": "Resonance-enhanced multiphoton ionization", "weight": 2.0, "id": 2779545503, "level": 5}
+{"count": 48, "name": "Methylidyne radical", "weight": 0.0, "id": 2775842144, "level": 5}
+{"count": 500, "name": "Photoelectron photoion coincidence spectroscopy", "weight": 0.0, "id": 160059392, "level": 5}
+{"count": 45, "name": "Molecular autoionization", "weight": 0.0, "id": 2776159512, "level": 5}
+{"count": 1968, "name": "Photoionization mode", "weight": 3.0, "id": 47362216, "level": 5}

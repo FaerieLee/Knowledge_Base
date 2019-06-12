@@ -1,0 +1,8 @@
+{"count": 2736, "name": "Single-scattering albedo", "weight": 10.0, "id": 2778552899, "level": 4}
+{"count": 435, "name": "Phase curve", "weight": 1.0, "id": 151890007, "level": 4}
+{"count": 1499, "name": "Cloud albedo", "weight": 5.0, "id": 75115192, "level": 4}
+{"count": 576, "name": "Geometric albedo", "weight": 2.0, "id": 129140170, "level": 4}
+{"count": 177, "name": "Opposition surge", "weight": 0.0, "id": 28558869, "level": 4}
+{"count": 182, "name": "Bond albedo", "weight": 0.0, "id": 72822464, "level": 4}
+{"count": 28, "name": "Albedo feature", "weight": 0.0, "id": 2777869288, "level": 4}
+{"count": 87, "name": "Hapke parameters", "weight": 0.0, "id": 154976771, "level": 4}

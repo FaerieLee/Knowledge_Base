@@ -1,0 +1,12 @@
+{"count": 1095, "name": "Inverse distance weighting", "weight": 1.0, "id": 47872207, "level": 5}
+{"count": 4317, "name": "Trilinear interpolation", "weight": 6.0, "id": 188325010, "level": 5}
+{"count": 4516, "name": "Bicubic interpolation", "weight": 6.0, "id": 49608258, "level": 5}
+{"count": 6639, "name": "Nearest-neighbor interpolation", "weight": 10.0, "id": 207214200, "level": 5}
+{"count": 29, "name": "Padua points", "weight": 0.0, "id": 2775936635, "level": 5}
+{"count": 64, "name": "Slerp", "weight": 0.0, "id": 203052015, "level": 5}
+{"count": 73, "name": "Tschirnhausen cubic", "weight": 0.0, "id": 176516335, "level": 5}
+{"count": 267, "name": "Tricubic interpolation", "weight": 0.0, "id": 41676017, "level": 5}
+{"count": 2757, "name": "Monotone cubic interpolation", "weight": 4.0, "id": 64485984, "level": 5}
+{"count": 3187, "name": "Inverse quadratic interpolation", "weight": 4.0, "id": 143542097, "level": 5}
+{"count": 374, "name": "Interpolation (computer graphics)", "weight": 0.0, "id": 137800194, "level": 5}
+{"count": 6115, "name": "Stairstep interpolation", "weight": 9.0, "id": 119768884, "level": 5}

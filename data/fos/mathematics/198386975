@@ -1,0 +1,4 @@
+{"count": 320, "name": "Common subexpression elimination", "weight": 10.0, "id": 165972615, "level": 3}
+{"count": 304, "name": "Kaiser window", "weight": 9.0, "id": 128076125, "level": 3}
+{"count": 71, "name": "Symmetric convolution", "weight": 2.0, "id": 2775923299, "level": 3}
+{"count": 200, "name": "Canonical signed digit", "weight": 6.0, "id": 2778710392, "level": 3}

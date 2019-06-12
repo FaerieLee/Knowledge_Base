@@ -1,0 +1,3 @@
+{"count": 1887, "name": "Broadcast domain", "weight": 10.0, "id": 66901998, "level": 4}
+{"count": 999, "name": "Global Broadcast Service", "weight": 5.0, "id": 127400637, "level": 4}
+{"count": 421, "name": "Switching loop", "weight": 2.0, "id": 201779775, "level": 4}

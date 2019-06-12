@@ -1,0 +1,10 @@
+{"count": 6883, "name": "Shot peening", "weight": 10.0, "id": 541310201, "level": 3}
+{"count": 3898, "name": "Surface integrity", "weight": 5.0, "id": 2776363543, "level": 3}
+{"count": 835, "name": "Hole drilling method", "weight": 1.0, "id": 2778240362, "level": 3}
+{"count": 890, "name": "Autofrettage", "weight": 1.0, "id": 2778775876, "level": 3}
+{"count": 6538, "name": "Peening", "weight": 9.0, "id": 84566556, "level": 3}
+{"count": 1732, "name": "Deep hole drilling", "weight": 2.0, "id": 102458011, "level": 3}
+{"count": 368, "name": "Ultrasonic impact treatment", "weight": 0.0, "id": 2780769866, "level": 3}
+{"count": 218, "name": "Vibratory stress relief", "weight": 0.0, "id": 2777768457, "level": 3}
+{"count": 162, "name": "Strain scanning", "weight": 0.0, "id": 2780737778, "level": 3}
+{"count": 200, "name": "Acoustoelastic effect", "weight": 0.0, "id": 2778705978, "level": 3}

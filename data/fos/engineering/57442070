@@ -1,0 +1,25 @@
+{"count": 31332, "name": "Activated sludge", "weight": 10.0, "id": 2777730692, "level": 3}
+{"count": 12334, "name": "Industrial wastewater treatment", "weight": 3.0, "id": 44403221, "level": 3}
+{"count": 8752, "name": "Membrane bioreactor", "weight": 2.0, "id": 2776266027, "level": 3}
+{"count": 8302, "name": "Constructed wetland", "weight": 2.0, "id": 2780367215, "level": 3}
+{"count": 11005, "name": "Sewage sludge treatment", "weight": 3.0, "id": 107446159, "level": 3}
+{"count": 4045, "name": "Septic tank", "weight": 1.0, "id": 2778680458, "level": 3}
+{"count": 1826, "name": "Trickling filter", "weight": 0.0, "id": 179113317, "level": 3}
+{"count": 1192, "name": "Stabilization pond", "weight": 0.0, "id": 2779283343, "level": 3}
+{"count": 1162, "name": "Rotating biological contactor", "weight": 0.0, "id": 81599089, "level": 3}
+{"count": 648, "name": "Reed bed", "weight": 0.0, "id": 2777604680, "level": 3}
+{"count": 1862, "name": "Secondary treatment", "weight": 0.0, "id": 2776306026, "level": 3}
+{"count": 976, "name": "Environmental impact of pharmaceuticals and personal care products", "weight": 0.0, "id": 147852310, "level": 3}
+{"count": 4156, "name": "Clarifier", "weight": 1.0, "id": 2777428582, "level": 3}
+{"count": 310, "name": "Galaxolide", "weight": 0.0, "id": 2777170369, "level": 3}
+{"count": 330, "name": "Septage", "weight": 0.0, "id": 2780797762, "level": 3}
+{"count": 878, "name": "Facultative lagoon", "weight": 0.0, "id": 139925424, "level": 3}
+{"count": 78, "name": "Urban Waste Water Treatment Directive", "weight": 0.0, "id": 2781080343, "level": 3}
+{"count": 146, "name": "Agricultural wastewater treatment", "weight": 0.0, "id": 79303471, "level": 3}
+{"count": 66, "name": "Internal circulation reactor", "weight": 0.0, "id": 2779638610, "level": 3}
+{"count": 179, "name": "Population equivalent", "weight": 0.0, "id": 2781128188, "level": 3}
+{"count": 165, "name": "Publicly owned treatment works", "weight": 0.0, "id": 2780323005, "level": 3}
+{"count": 177, "name": "Wastewater engineering", "weight": 0.0, "id": 2776299736, "level": 3}
+{"count": 67, "name": "Mound system", "weight": 0.0, "id": 45680448, "level": 3}
+{"count": 20, "name": "Microalgal bacterial flocs", "weight": 0.0, "id": 2778085626, "level": 3}
+{"count": 484, "name": "Effluent sewer", "weight": 0.0, "id": 28579673, "level": 3}

@@ -1,0 +1,6 @@
+{"count": 2371, "name": "Nested transaction", "weight": 10.0, "id": 137180784, "level": 5}
+{"count": 1429, "name": "Compensating transaction", "weight": 6.0, "id": 155951066, "level": 5}
+{"count": 21, "name": "Long-lived transaction", "weight": 0.0, "id": 2780636664, "level": 5}
+{"count": 1161, "name": "Extreme Transaction Processing", "weight": 4.0, "id": 165547555, "level": 5}
+{"count": 330, "name": "Schedule (computer science)", "weight": 1.0, "id": 125601483, "level": 5}
+{"count": 1886, "name": "X/Open XA", "weight": 7.0, "id": 171035894, "level": 5}

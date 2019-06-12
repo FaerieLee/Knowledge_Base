@@ -1,0 +1,200 @@
+{"count": 24681, "name": "Inorganic compound", "weight": 1.0, "id": 2778279818, "level": 3}
+{"count": 180541, "name": "Hydrogen bond", "weight": 10.0, "id": 112887158, "level": 3}
+{"count": 12817, "name": "Molecular mechanics", "weight": 0.0, "id": 25057246, "level": 3}
+{"count": 37507, "name": "Molecular orbital", "weight": 2.0, "id": 139358910, "level": 3}
+{"count": 24390, "name": "Diatomic molecule", "weight": 1.0, "id": 111806078, "level": 3}
+{"count": 39688, "name": "Bond length", "weight": 2.0, "id": 155860418, "level": 3}
+{"count": 7549, "name": "Molecular electronics", "weight": 0.0, "id": 123057669, "level": 3}
+{"count": 34163, "name": "Solvation", "weight": 1.0, "id": 148093993, "level": 3}
+{"count": 4636, "name": "Stereoisomerism", "weight": 0.0, "id": 129694887, "level": 3}
+{"count": 5974, "name": "Triatomic molecule", "weight": 0.0, "id": 193201615, "level": 3}
+{"count": 5396, "name": "Inclusion compound", "weight": 0.0, "id": 2778649806, "level": 3}
+{"count": 20969, "name": "Molecular geometry", "weight": 1.0, "id": 193547582, "level": 3}
+{"count": 3170, "name": "Polycyclic compound", "weight": 0.0, "id": 2780629035, "level": 3}
+{"count": 63671, "name": "Intermolecular force", "weight": 3.0, "id": 166950319, "level": 3}
+{"count": 9126, "name": "Bond-dissociation energy", "weight": 0.0, "id": 62396407, "level": 3}
+{"count": 2926, "name": "Gaussian orbital", "weight": 0.0, "id": 2778529930, "level": 3}
+{"count": 5591, "name": "Matrix isolation", "weight": 0.0, "id": 2777896788, "level": 3}
+{"count": 9432, "name": "Rotational spectroscopy", "weight": 0.0, "id": 31100168, "level": 3}
+{"count": 16737, "name": "HOMO/LUMO", "weight": 0.0, "id": 14158195, "level": 3}
+{"count": 5033, "name": "Cyclophane", "weight": 0.0, "id": 2778624557, "level": 3}
+{"count": 4391, "name": "Astrochemistry", "weight": 0.0, "id": 180920033, "level": 3}
+{"count": 2801, "name": "Proton affinity", "weight": 0.0, "id": 53323650, "level": 3}
+{"count": 3521, "name": "Metallacycle", "weight": 0.0, "id": 135361552, "level": 3}
+{"count": 1457, "name": "Sandwich compound", "weight": 0.0, "id": 2780926202, "level": 3}
+{"count": 1093, "name": "Van der Waals molecule", "weight": 0.0, "id": 2781077158, "level": 3}
+{"count": 8409, "name": "Vibrational energy relaxation", "weight": 0.0, "id": 84662259, "level": 3}
+{"count": 8571, "name": "Natural bond orbital", "weight": 0.0, "id": 130188946, "level": 3}
+{"count": 5508, "name": "Chemical polarity", "weight": 0.0, "id": 61978335, "level": 3}
+{"count": 9732, "name": "Atoms in molecules", "weight": 0.0, "id": 63385615, "level": 3}
+{"count": 1288, "name": "Buckminsterfullerene", "weight": 0.0, "id": 2777802778, "level": 3}
+{"count": 1889, "name": "Single-molecule magnet", "weight": 0.0, "id": 2777336399, "level": 3}
+{"count": 2541, "name": "Molecular wire", "weight": 0.0, "id": 174920882, "level": 3}
+{"count": 1375, "name": "Tridentate ligand", "weight": 0.0, "id": 2780753689, "level": 3}
+{"count": 1273, "name": "Host\u2013guest chemistry", "weight": 0.0, "id": 29152607, "level": 3}
+{"count": 541, "name": "Hydrogen deuteride", "weight": 0.0, "id": 2776094679, "level": 3}
+{"count": 904, "name": "Tetradentate ligand", "weight": 0.0, "id": 2778656347, "level": 3}
+{"count": 781, "name": "Extended H\u00fcckel method", "weight": 0.0, "id": 1334723, "level": 3}
+{"count": 2036, "name": "Trimethylphosphine", "weight": 0.0, "id": 2775968720, "level": 3}
+{"count": 24554, "name": "Conformational isomerism", "weight": 1.0, "id": 18705241, "level": 3}
+{"count": 4650, "name": "Tetrathiafulvalene", "weight": 0.0, "id": 2778421084, "level": 3}
+{"count": 2035, "name": "Linear molecular geometry", "weight": 0.0, "id": 205463323, "level": 3}
+{"count": 3850, "name": "Force spectroscopy", "weight": 0.0, "id": 119473381, "level": 3}
+{"count": 1206, "name": "Cucurbituril", "weight": 0.0, "id": 83730648, "level": 3}
+{"count": 13498, "name": "Polyatomic ion", "weight": 0.0, "id": 66594872, "level": 3}
+{"count": 1680, "name": "Coronene", "weight": 0.0, "id": 2776662679, "level": 3}
+{"count": 8722, "name": "Lone pair", "weight": 0.0, "id": 46000676, "level": 3}
+{"count": 852, "name": "Molecular self-assembly", "weight": 0.0, "id": 96709497, "level": 3}
+{"count": 1232, "name": "Pseudorotation", "weight": 0.0, "id": 2779413573, "level": 3}
+{"count": 2467, "name": "London dispersion force", "weight": 0.0, "id": 185424724, "level": 3}
+{"count": 1957, "name": "Infrared multiphoton dissociation", "weight": 0.0, "id": 3896420, "level": 3}
+{"count": 50838, "name": "Monoclinic crystal system", "weight": 2.0, "id": 61276311, "level": 3}
+{"count": 1577, "name": "Antiaromaticity", "weight": 0.0, "id": 55213715, "level": 3}
+{"count": 4068, "name": "Isotopomers", "weight": 0.0, "id": 127124265, "level": 3}
+{"count": 824, "name": "Crystal structure prediction", "weight": 0.0, "id": 84947059, "level": 3}
+{"count": 845, "name": "Polyrotaxane", "weight": 0.0, "id": 2778696202, "level": 3}
+{"count": 1511, "name": "Single-molecule experiment", "weight": 0.0, "id": 199191878, "level": 3}
+{"count": 1094, "name": "ONIOM", "weight": 0.0, "id": 2776165824, "level": 3}
+{"count": 230, "name": "Hexadentate ligand", "weight": 0.0, "id": 2779530586, "level": 3}
+{"count": 2492, "name": "Cubane", "weight": 0.0, "id": 2780750454, "level": 3}
+{"count": 8336, "name": "Coordination sphere", "weight": 0.0, "id": 11111787, "level": 3}
+{"count": 2580, "name": "MNDO", "weight": 0.0, "id": 2778153843, "level": 3}
+{"count": 578, "name": "J-aggregate", "weight": 0.0, "id": 2778060476, "level": 3}
+{"count": 704, "name": "Fukui function", "weight": 0.0, "id": 2776959261, "level": 3}
+{"count": 1366, "name": "Endohedral fullerene", "weight": 0.0, "id": 45474811, "level": 3}
+{"count": 3073, "name": "Molecular symmetry", "weight": 0.0, "id": 37197862, "level": 3}
+{"count": 723, "name": "Porphin", "weight": 0.0, "id": 2779148216, "level": 3}
+{"count": 194, "name": "Triisopropylphosphine", "weight": 0.0, "id": 2780764838, "level": 3}
+{"count": 2198, "name": "Mulliken population analysis", "weight": 0.0, "id": 7214806, "level": 3}
+{"count": 737, "name": "Break junction", "weight": 0.0, "id": 2778956022, "level": 3}
+{"count": 675, "name": "Corannulene", "weight": 0.0, "id": 2781314386, "level": 3}
+{"count": 820, "name": "Cavitand", "weight": 0.0, "id": 69169829, "level": 3}
+{"count": 1963, "name": "Molecular solid", "weight": 0.0, "id": 141055242, "level": 3}
+{"count": 548, "name": "Molecular tweezers", "weight": 0.0, "id": 89804040, "level": 3}
+{"count": 6120, "name": "Trigonal bipyramidal molecular geometry", "weight": 0.0, "id": 111592845, "level": 3}
+{"count": 208, "name": "Atrane", "weight": 0.0, "id": 2780602810, "level": 3}
+{"count": 541, "name": "Hydration energy", "weight": 0.0, "id": 2776939475, "level": 3}
+{"count": 6101, "name": "Octahedral molecular geometry", "weight": 0.0, "id": 39297587, "level": 3}
+{"count": 200, "name": "Homoaromaticity", "weight": 0.0, "id": 28943831, "level": 3}
+{"count": 684, "name": "ZINDO", "weight": 0.0, "id": 2778627677, "level": 3}
+{"count": 1468, "name": "Isodesmic reaction", "weight": 0.0, "id": 144557053, "level": 3}
+{"count": 288, "name": "Cryptophane", "weight": 0.0, "id": 145268232, "level": 3}
+{"count": 126, "name": "Nickel(II) nitrate", "weight": 0.0, "id": 2777006094, "level": 3}
+{"count": 251, "name": "NDDO", "weight": 0.0, "id": 2778795003, "level": 3}
+{"count": 868, "name": "Supermolecule", "weight": 0.0, "id": 19144061, "level": 3}
+{"count": 401, "name": "Hexabenzocoronene", "weight": 0.0, "id": 2776258759, "level": 3}
+{"count": 168, "name": "Dodecahedrane", "weight": 0.0, "id": 2780945337, "level": 3}
+{"count": 969, "name": "Molecular configuration", "weight": 0.0, "id": 46967093, "level": 3}
+{"count": 445, "name": "Lewis structure", "weight": 0.0, "id": 162358106, "level": 3}
+{"count": 7605, "name": "Dissociation (chemistry)", "weight": 0.0, "id": 102931765, "level": 3}
+{"count": 2863, "name": "Tetrahedral molecular geometry", "weight": 0.0, "id": 127709339, "level": 3}
+{"count": 2157, "name": "Hydronium", "weight": 0.0, "id": 2777325023, "level": 3}
+{"count": 18895, "name": "Triclinic crystal system", "weight": 1.0, "id": 42228675, "level": 3}
+{"count": 211, "name": "Molecule-based magnets", "weight": 0.0, "id": 2775887543, "level": 3}
+{"count": 4723, "name": "CNDO/2", "weight": 0.0, "id": 95306019, "level": 3}
+{"count": 321, "name": "Molecular property", "weight": 0.0, "id": 118508133, "level": 3}
+{"count": 1649, "name": "Pentagonal bipyramidal molecular geometry", "weight": 0.0, "id": 158842870, "level": 3}
+{"count": 157, "name": "Molecular entity", "weight": 0.0, "id": 138589960, "level": 3}
+{"count": 636, "name": "Sum frequency generation spectroscopy", "weight": 0.0, "id": 2777207611, "level": 3}
+{"count": 431, "name": "Car\u2013Parrinello molecular dynamics", "weight": 0.0, "id": 31323656, "level": 3}
+{"count": 65, "name": "Kekulene", "weight": 0.0, "id": 2780973800, "level": 3}
+{"count": 196, "name": "Sumanene", "weight": 0.0, "id": 2777478384, "level": 3}
+{"count": 406, "name": "Polyyne", "weight": 0.0, "id": 98405313, "level": 3}
+{"count": 253, "name": "Tetrahedrane", "weight": 0.0, "id": 2776651708, "level": 3}
+{"count": 314, "name": "Cyclotriveratrylene", "weight": 0.0, "id": 2778708936, "level": 3}
+{"count": 202, "name": "Kinetic diameter", "weight": 0.0, "id": 2778251931, "level": 3}
+{"count": 456, "name": "4-Methylpyridine", "weight": 0.0, "id": 2780441277, "level": 3}
+{"count": 134, "name": "Methanediol", "weight": 0.0, "id": 2777267097, "level": 3}
+{"count": 171, "name": "M\u00f6bius aromaticity", "weight": 0.0, "id": 128666700, "level": 3}
+{"count": 4311, "name": "Square pyramidal molecular geometry", "weight": 0.0, "id": 92840921, "level": 3}
+{"count": 1265, "name": "Alkane stereochemistry", "weight": 0.0, "id": 155518411, "level": 3}
+{"count": 34, "name": "Methanium", "weight": 0.0, "id": 2777847312, "level": 3}
+{"count": 1108, "name": "Self-ionization of water", "weight": 0.0, "id": 52266145, "level": 3}
+{"count": 706, "name": "Formal charge", "weight": 0.0, "id": 2515530, "level": 3}
+{"count": 137, "name": "Pentazole", "weight": 0.0, "id": 2779746948, "level": 3}
+{"count": 1515, "name": "MINDO", "weight": 0.0, "id": 2780649890, "level": 3}
+{"count": 62, "name": "Thermal ellipsoid", "weight": 0.0, "id": 2779794855, "level": 3}
+{"count": 107, "name": "Tetraphenylene", "weight": 0.0, "id": 2777471417, "level": 3}
+{"count": 155, "name": "Gallane", "weight": 0.0, "id": 2778985688, "level": 3}
+{"count": 192, "name": "Prochirality", "weight": 0.0, "id": 67587652, "level": 3}
+{"count": 259, "name": "CHELPG", "weight": 0.0, "id": 134770084, "level": 3}
+{"count": 79, "name": "Spherical aromaticity", "weight": 0.0, "id": 2778332694, "level": 3}
+{"count": 37, "name": "Carcerand", "weight": 0.0, "id": 72774068, "level": 3}
+{"count": 745, "name": "Crossed molecular beam", "weight": 0.0, "id": 2777734200, "level": 3}
+{"count": 114, "name": "Icosane", "weight": 0.0, "id": 2778183139, "level": 3}
+{"count": 65, "name": "Cyclohexanethiol", "weight": 0.0, "id": 2780809223, "level": 3}
+{"count": 6724, "name": "Rotational\u2013vibrational spectroscopy", "weight": 0.0, "id": 167812310, "level": 3}
+{"count": 321, "name": "Copper(II) nitrate", "weight": 0.0, "id": 2779206161, "level": 3}
+{"count": 126, "name": "Circulene", "weight": 0.0, "id": 2776924250, "level": 3}
+{"count": 49, "name": "3-Hydroxypicolinic acid", "weight": 0.0, "id": 2775968407, "level": 3}
+{"count": 189, "name": "C70 fullerene", "weight": 0.0, "id": 2777477729, "level": 3}
+{"count": 64, "name": "Digallane", "weight": 0.0, "id": 2777033470, "level": 3}
+{"count": 84, "name": "Pake doublet", "weight": 0.0, "id": 2777431244, "level": 3}
+{"count": 66, "name": "Nanocar", "weight": 0.0, "id": 167020577, "level": 3}
+{"count": 136, "name": "Metal carbonyl cluster", "weight": 0.0, "id": 2778453817, "level": 3}
+{"count": 31, "name": "Hexazine", "weight": 0.0, "id": 2778626995, "level": 3}
+{"count": 125, "name": "Hexagonal bipyramid", "weight": 0.0, "id": 2777336839, "level": 3}
+{"count": 96, "name": "Cyanopolyyne", "weight": 0.0, "id": 2777246527, "level": 3}
+{"count": 368, "name": "1,2-Bis(diphenylphosphino)ethane", "weight": 0.0, "id": 2776255907, "level": 3}
+{"count": 734, "name": "Square antiprism", "weight": 0.0, "id": 2776525051, "level": 3}
+{"count": 467, "name": "Staggered conformation", "weight": 0.0, "id": 131028705, "level": 3}
+{"count": 271, "name": "Austin Model 1", "weight": 0.0, "id": 2781332012, "level": 3}
+{"count": 28, "name": "Lagochilin", "weight": 0.0, "id": 2776987993, "level": 3}
+{"count": 396, "name": "Dimethylphenylphosphine", "weight": 0.0, "id": 2775874298, "level": 3}
+{"count": 48, "name": "Iptycene", "weight": 0.0, "id": 2780538738, "level": 3}
+{"count": 24, "name": "Thionyl tetrafluoride", "weight": 0.0, "id": 2779773715, "level": 3}
+{"count": 40, "name": "Copper(II) azide", "weight": 0.0, "id": 2780937170, "level": 3}
+{"count": 177, "name": "Repulsive state", "weight": 0.0, "id": 2778703894, "level": 3}
+{"count": 200, "name": "Antiprism", "weight": 0.0, "id": 2779568082, "level": 3}
+{"count": 1099, "name": "Trigonal planar molecular geometry", "weight": 0.0, "id": 193515253, "level": 3}
+{"count": 193, "name": "Deuterated benzene", "weight": 0.0, "id": 2780977027, "level": 3}
+{"count": 62, "name": "Phenacene", "weight": 0.0, "id": 2776972378, "level": 3}
+{"count": 31, "name": "Molecular gyroscope", "weight": 0.0, "id": 2778858337, "level": 3}
+{"count": 142, "name": "Oxocarbon", "weight": 0.0, "id": 2778617405, "level": 3}
+{"count": 44, "name": "Eckart conditions", "weight": 0.0, "id": 2780870420, "level": 3}
+{"count": 109, "name": "Formyl fluoride", "weight": 0.0, "id": 2776677669, "level": 3}
+{"count": 31, "name": "Propadienone", "weight": 0.0, "id": 2780998013, "level": 3}
+{"count": 22, "name": "Cyanoform", "weight": 0.0, "id": 2777441056, "level": 3}
+{"count": 27, "name": "Triazane", "weight": 0.0, "id": 2778202246, "level": 3}
+{"count": 21, "name": "Shattuckite", "weight": 0.0, "id": 2780209093, "level": 3}
+{"count": 533, "name": "Eclipsed conformation", "weight": 0.0, "id": 123026534, "level": 3}
+{"count": 505, "name": "Square antiprismatic molecular geometry", "weight": 0.0, "id": 94804456, "level": 3}
+{"count": 24, "name": "2-Cyanoguanidine", "weight": 0.0, "id": 2777342534, "level": 3}
+{"count": 120, "name": "Pentagonal pyramid", "weight": 0.0, "id": 145064022, "level": 3}
+{"count": 16, "name": "Metal dithiolene complex", "weight": 0.0, "id": 2777439047, "level": 3}
+{"count": 25, "name": "Noble gas compound", "weight": 0.0, "id": 2776446010, "level": 3}
+{"count": 63, "name": "Oxalyl fluoride", "weight": 0.0, "id": 2778279724, "level": 3}
+{"count": 27, "name": "Cahn\u2013Ingold\u2013Prelog priority rules", "weight": 0.0, "id": 138724741, "level": 3}
+{"count": 53, "name": "Octasulfur", "weight": 0.0, "id": 2779221173, "level": 3}
+{"count": 25, "name": "2,4,6-Trimethylaniline", "weight": 0.0, "id": 2779794476, "level": 3}
+{"count": 71, "name": "Fluoronium", "weight": 0.0, "id": 2777408148, "level": 3}
+{"count": 40, "name": "Hydrogen-terminated silicon surface", "weight": 0.0, "id": 2779477466, "level": 3}
+{"count": 65, "name": "Fluxional molecule", "weight": 0.0, "id": 2779015563, "level": 3}
+{"count": 760, "name": "Absorption (chemistry)", "weight": 0.0, "id": 71792504, "level": 3}
+{"count": 187, "name": "Aromatic ring current", "weight": 0.0, "id": 108567136, "level": 3}
+{"count": 42, "name": "Decamethylcobaltocene", "weight": 0.0, "id": 2779204377, "level": 3}
+{"count": 13, "name": "Pentazine", "weight": 0.0, "id": 2776865576, "level": 3}
+{"count": 15, "name": "Pentagonal antiprism", "weight": 0.0, "id": 2776963933, "level": 3}
+{"count": 36, "name": "Tetraoxygen", "weight": 0.0, "id": 149903611, "level": 3}
+{"count": 344, "name": "Copper(II) perchlorate", "weight": 0.0, "id": 2781218748, "level": 3}
+{"count": 23, "name": "1,4-Dibromobenzene", "weight": 0.0, "id": 2779464766, "level": 3}
+{"count": 19, "name": "Uranium borohydride", "weight": 0.0, "id": 2777162111, "level": 3}
+{"count": 37, "name": "Osmotic stress technique", "weight": 0.0, "id": 2780053330, "level": 3}
+{"count": 129, "name": "1,2-Bis(dimethylphosphino)ethane", "weight": 0.0, "id": 2779211972, "level": 3}
+{"count": 25, "name": "Chloryl fluoride", "weight": 0.0, "id": 2777453651, "level": 3}
+{"count": 11, "name": "Gard model", "weight": 0.0, "id": 2777924200, "level": 3}
+{"count": 44, "name": "Aminomethanol", "weight": 0.0, "id": 2777350349, "level": 3}
+{"count": 21, "name": "Widom insertion method", "weight": 0.0, "id": 2781037801, "level": 3}
+{"count": 11, "name": "Overlapping distribution method", "weight": 0.0, "id": 2775834622, "level": 3}
+{"count": 64, "name": "Hydrogen anion", "weight": 0.0, "id": 2776130283, "level": 3}
+{"count": 121, "name": "Tricarbon", "weight": 0.0, "id": 2777379560, "level": 3}
+{"count": 14, "name": "Phenylsilatrane", "weight": 0.0, "id": 2778043416, "level": 3}
+{"count": 37, "name": "cis-Inositol", "weight": 0.0, "id": 2780786102, "level": 3}
+{"count": 121, "name": "Mechanically interlocked molecular architectures", "weight": 0.0, "id": 130948911, "level": 3}
+{"count": 48, "name": "Topology (chemistry)", "weight": 0.0, "id": 35413817, "level": 3}
+{"count": 18, "name": "Spiropentadiene", "weight": 0.0, "id": 2775970151, "level": 3}
+{"count": 28, "name": "Fluoromethylidyne", "weight": 0.0, "id": 2781238242, "level": 3}
+{"count": 42, "name": "F number", "weight": 0.0, "id": 25751012, "level": 3}
+{"count": 13, "name": "Hexanitrobenzene", "weight": 0.0, "id": 2777688971, "level": 3}
+{"count": 49, "name": "Dithiete", "weight": 0.0, "id": 2777749691, "level": 3}
+{"count": 18, "name": "Chromium(III) iodide", "weight": 0.0, "id": 2776473871, "level": 3}

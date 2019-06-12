@@ -1,0 +1,5 @@
+{"count": 2109, "name": "Border Gateway Protocol", "weight": 1.0, "id": 178086212, "level": 3}
+{"count": 4763, "name": "Hierarchical routing", "weight": 3.0, "id": 177818476, "level": 3}
+{"count": 2420, "name": "Open Shortest Path First", "weight": 1.0, "id": 70522964, "level": 3}
+{"count": 14969, "name": "Zone Routing Protocol", "weight": 10.0, "id": 189884158, "level": 3}
+{"count": 10915, "name": "Enhanced Interior Gateway Routing Protocol", "weight": 7.0, "id": 87044965, "level": 3}

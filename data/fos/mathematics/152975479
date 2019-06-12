@@ -1,0 +1,3 @@
+{"count": 422, "name": "Decimal floating point", "weight": 10.0, "id": 19362205, "level": 4}
+{"count": 349, "name": "decimal32 floating-point format", "weight": 8.0, "id": 168302042, "level": 4}
+{"count": 344, "name": "decimal128 floating-point format", "weight": 8.0, "id": 90395794, "level": 4}

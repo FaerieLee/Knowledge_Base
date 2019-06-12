@@ -1,0 +1,5 @@
+{"count": 1268, "name": "Semantic security", "weight": 10.0, "id": 204806902, "level": 4}
+{"count": 275, "name": "Known-plaintext attack", "weight": 2.0, "id": 100563656, "level": 4}
+{"count": 573, "name": "Proxy re-encryption", "weight": 4.0, "id": 2776861820, "level": 4}
+{"count": 996, "name": "Malleability", "weight": 7.0, "id": 100980136, "level": 4}
+{"count": 663, "name": "Key clustering", "weight": 5.0, "id": 13433670, "level": 4}

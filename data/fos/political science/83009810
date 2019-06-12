@@ -1,0 +1,19 @@
+{"count": 14187, "name": "House of Representatives", "weight": 10.0, "id": 2780849931, "level": 4}
+{"count": 430, "name": "Lower house", "weight": 0.0, "id": 2780468282, "level": 4}
+{"count": 525, "name": "Upper house", "weight": 0.0, "id": 2781352403, "level": 4}
+{"count": 1613, "name": "Redistricting", "weight": 1.0, "id": 2778477362, "level": 4}
+{"count": 1222, "name": "Divided government", "weight": 0.0, "id": 131364728, "level": 4}
+{"count": 460, "name": "Electoral district", "weight": 0.0, "id": 2777366252, "level": 4}
+{"count": 2190, "name": "State legislature", "weight": 1.0, "id": 2779949451, "level": 4}
+{"count": 831, "name": "Gerrymandering", "weight": 0.0, "id": 2779910420, "level": 4}
+{"count": 468, "name": "Bicameralism", "weight": 0.0, "id": 2781317773, "level": 4}
+{"count": 720, "name": "Chamber of Deputies", "weight": 0.0, "id": 2778964614, "level": 4}
+{"count": 293, "name": "Logrolling", "weight": 0.0, "id": 2777907920, "level": 4}
+{"count": 490, "name": "Substantive representation", "weight": 0.0, "id": 2780322681, "level": 4}
+{"count": 400, "name": "Supermajority", "weight": 0.0, "id": 2779142459, "level": 4}
+{"count": 120, "name": "Legislative scrutiny", "weight": 0.0, "id": 2780550603, "level": 4}
+{"count": 205, "name": "Session laws", "weight": 0.0, "id": 2776648899, "level": 4}
+{"count": 190, "name": "Party switching", "weight": 0.0, "id": 2779688377, "level": 4}
+{"count": 135, "name": "Line-item veto", "weight": 0.0, "id": 2780168134, "level": 4}
+{"count": 143, "name": "Nondelegation doctrine", "weight": 0.0, "id": 2781350264, "level": 4}
+{"count": 153, "name": "Legislative veto", "weight": 0.0, "id": 2777505917, "level": 4}

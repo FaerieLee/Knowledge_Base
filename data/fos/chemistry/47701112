@@ -1,0 +1,22 @@
+{"count": 5353, "name": "Protein structure prediction", "weight": 10.0, "id": 18051474, "level": 3}
+{"count": 3769, "name": "Protein Data Bank", "weight": 7.0, "id": 119145174, "level": 3}
+{"count": 3311, "name": "Protein design", "weight": 6.0, "id": 152769699, "level": 3}
+{"count": 3795, "name": "Protein Data Bank (RCSB PDB)", "weight": 7.0, "id": 65556437, "level": 3}
+{"count": 2978, "name": "Structural genomics", "weight": 5.0, "id": 192772702, "level": 3}
+{"count": 2453, "name": "Structural alignment", "weight": 4.0, "id": 4668613, "level": 3}
+{"count": 901, "name": "Structural Classification of Proteins database", "weight": 1.0, "id": 58773245, "level": 3}
+{"count": 1034, "name": "Structural bioinformatics", "weight": 1.0, "id": 69131567, "level": 3}
+{"count": 254, "name": "Structure validation", "weight": 0.0, "id": 130846254, "level": 3}
+{"count": 292, "name": "Protein topology", "weight": 0.0, "id": 2777087431, "level": 3}
+{"count": 230, "name": "Crambin", "weight": 0.0, "id": 2779497104, "level": 3}
+{"count": 589, "name": "Conformational ensembles", "weight": 1.0, "id": 2777936996, "level": 3}
+{"count": 28, "name": "ModBase", "weight": 0.0, "id": 2780624882, "level": 3}
+{"count": 546, "name": "Biomolecular structure", "weight": 1.0, "id": 38111792, "level": 3}
+{"count": 1026, "name": "Protein structure database", "weight": 1.0, "id": 136475424, "level": 3}
+{"count": 114, "name": "Chemical shift index", "weight": 0.0, "id": 2779190930, "level": 3}
+{"count": 143, "name": "Levinthal's paradox", "weight": 0.0, "id": 38693183, "level": 3}
+{"count": 1046, "name": "Lattice protein", "weight": 1.0, "id": 32598905, "level": 3}
+{"count": 206, "name": "Supersecondary structure", "weight": 0.0, "id": 83149532, "level": 3}
+{"count": 20, "name": "ShiftX", "weight": 0.0, "id": 2775868109, "level": 3}
+{"count": 8, "name": "Protein chemical shift prediction", "weight": 0.0, "id": 128265829, "level": 3}
+{"count": 49, "name": "RefDB", "weight": 0.0, "id": 109365771, "level": 3}

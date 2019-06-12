@@ -1,0 +1,5 @@
+{"count": 475, "name": "Parametric polymorphism", "weight": 10.0, "id": 122376413, "level": 3}
+{"count": 84, "name": "Polymorphic recursion", "weight": 1.0, "id": 2776834425, "level": 3}
+{"count": 285, "name": "Parametricity", "weight": 6.0, "id": 92521327, "level": 3}
+{"count": 27, "name": "Polymorphic code", "weight": 0.0, "id": 2780063655, "level": 3}
+{"count": 130, "name": "Bounded quantification", "weight": 2.0, "id": 95782163, "level": 3}

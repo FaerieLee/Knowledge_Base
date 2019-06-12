@@ -1,0 +1,200 @@
+{"count": 477273, "name": "Public health", "weight": 10.0, "id": 138816342, "level": 2}
+{"count": 324732, "name": "Injury prevention", "weight": 6.0, "id": 190385971, "level": 2}
+{"count": 349595, "name": "Suicide prevention", "weight": 7.0, "id": 526869908, "level": 2}
+{"count": 64482, "name": "Pharmacotherapy", "weight": 1.0, "id": 500440147, "level": 2}
+{"count": 48444, "name": "Biomedical sciences", "weight": 1.0, "id": 502701156, "level": 2}
+{"count": 104008, "name": "Focus group", "weight": 2.0, "id": 56995899, "level": 2}
+{"count": 67327, "name": "Medical record", "weight": 1.0, "id": 195910791, "level": 2}
+{"count": 49967, "name": "Response rate (survey)", "weight": 1.0, "id": 2778289562, "level": 2}
+{"count": 39173, "name": "Patient satisfaction", "weight": 0.0, "id": 2775944032, "level": 2}
+{"count": 350103, "name": "Psychological intervention", "weight": 7.0, "id": 27415008, "level": 2}
+{"count": 97391, "name": "Medical prescription", "weight": 2.0, "id": 2426938, "level": 2}
+{"count": 47233, "name": "Reproductive health", "weight": 0.0, "id": 121752807, "level": 2}
+{"count": 82296, "name": "Pharmacy", "weight": 1.0, "id": 104863432, "level": 2}
+{"count": 40090, "name": "Breastfeeding", "weight": 0.0, "id": 2776283161, "level": 2}
+{"count": 23877, "name": "Long-term care", "weight": 0.0, "id": 2780233487, "level": 2}
+{"count": 60839, "name": "Traction (orthopedics)", "weight": 1.0, "id": 2779252013, "level": 2}
+{"count": 21906, "name": "Patient education", "weight": 0.0, "id": 2777929519, "level": 2}
+{"count": 81970, "name": "Nurse education", "weight": 1.0, "id": 113616995, "level": 2}
+{"count": 26551, "name": "Burnout", "weight": 0.0, "id": 143916079, "level": 2}
+{"count": 8369, "name": "Occupational stress", "weight": 0.0, "id": 2776788475, "level": 2}
+{"count": 9879, "name": "Adolescent health", "weight": 0.0, "id": 2778063736, "level": 2}
+{"count": 13737, "name": "Group work", "weight": 0.0, "id": 2776020993, "level": 2}
+{"count": 12666, "name": "Nutrition Education", "weight": 0.0, "id": 2776890026, "level": 2}
+{"count": 8260, "name": "Pharmaceutical sciences", "weight": 0.0, "id": 178855305, "level": 2}
+{"count": 13858, "name": "Family support", "weight": 0.0, "id": 2779017400, "level": 2}
+{"count": 12306, "name": "End-of-life care", "weight": 0.0, "id": 2780879335, "level": 2}
+{"count": 15552, "name": "Day care", "weight": 0.0, "id": 2781187916, "level": 2}
+{"count": 11439, "name": "Foster care", "weight": 0.0, "id": 2777935177, "level": 2}
+{"count": 44826, "name": "Neglect", "weight": 0.0, "id": 2776289891, "level": 2}
+{"count": 7288, "name": "Docking (dog)", "weight": 0.0, "id": 137616902, "level": 2}
+{"count": 4626, "name": "Cost sharing", "weight": 0.0, "id": 2776680279, "level": 2}
+{"count": 4848, "name": "Sick leave", "weight": 0.0, "id": 2776737852, "level": 2}
+{"count": 11142, "name": "Medical equipment", "weight": 0.0, "id": 513323569, "level": 2}
+{"count": 71487, "name": "Workforce", "weight": 1.0, "id": 2778139618, "level": 2}
+{"count": 6995, "name": "Independent living", "weight": 0.0, "id": 2780700307, "level": 2}
+{"count": 7003, "name": "Health communication", "weight": 0.0, "id": 2778080475, "level": 2}
+{"count": 82723, "name": "Referral", "weight": 1.0, "id": 2776135927, "level": 2}
+{"count": 7771, "name": "Peer support", "weight": 0.0, "id": 2781094116, "level": 2}
+{"count": 4380, "name": "Systemic therapy", "weight": 0.0, "id": 185926286, "level": 2}
+{"count": 5681, "name": "Pediatric intensive care unit", "weight": 0.0, "id": 2778939556, "level": 2}
+{"count": 9770, "name": "Family caregivers", "weight": 0.0, "id": 2778900529, "level": 2}
+{"count": 12112, "name": "Child protection", "weight": 0.0, "id": 2779415726, "level": 2}
+{"count": 7719, "name": "Licensure", "weight": 0.0, "id": 2781234862, "level": 2}
+{"count": 3772, "name": "Clinical pathway", "weight": 0.0, "id": 2778373050, "level": 2}
+{"count": 18455, "name": "Harassment", "weight": 0.0, "id": 2778976716, "level": 2}
+{"count": 2784, "name": "Nursing assessment", "weight": 0.0, "id": 2780813765, "level": 2}
+{"count": 3382, "name": "ICD-10", "weight": 0.0, "id": 2781116378, "level": 2}
+{"count": 3773, "name": "Job description", "weight": 0.0, "id": 2780550299, "level": 2}
+{"count": 8452, "name": "Public hospital", "weight": 0.0, "id": 2775860198, "level": 2}
+{"count": 26170, "name": "Staffing", "weight": 0.0, "id": 2777512617, "level": 2}
+{"count": 1801, "name": "Minimum Data Set", "weight": 0.0, "id": 2779028819, "level": 2}
+{"count": 5043, "name": "Nursing process", "weight": 0.0, "id": 2777097888, "level": 2}
+{"count": 4258, "name": "Pharmaceutics", "weight": 0.0, "id": 138651985, "level": 2}
+{"count": 11302, "name": "Compounding", "weight": 0.0, "id": 207673951, "level": 2}
+{"count": 6404, "name": "Debriefing", "weight": 0.0, "id": 202695956, "level": 2}
+{"count": 21906, "name": "Pill", "weight": 0.0, "id": 81603835, "level": 2}
+{"count": 2973, "name": "Pediatric nursing", "weight": 0.0, "id": 2775961509, "level": 2}
+{"count": 2819, "name": "Compassion fatigue", "weight": 0.0, "id": 11625366, "level": 2}
+{"count": 5286, "name": "Pastoral care", "weight": 0.0, "id": 2777039924, "level": 2}
+{"count": 4357, "name": "Respite care", "weight": 0.0, "id": 82479568, "level": 2}
+{"count": 6057, "name": "Nursing management", "weight": 0.0, "id": 2780344248, "level": 2}
+{"count": 2338, "name": "Objective structured clinical examination", "weight": 0.0, "id": 2778000598, "level": 2}
+{"count": 2784, "name": "Evidence-based nursing", "weight": 0.0, "id": 2780905194, "level": 2}
+{"count": 12501, "name": "Skin care", "weight": 0.0, "id": 2780343512, "level": 2}
+{"count": 7802, "name": "Mentorship", "weight": 0.0, "id": 2776535583, "level": 2}
+{"count": 7879, "name": "Medical laboratory", "weight": 0.0, "id": 44519122, "level": 2}
+{"count": 1738, "name": "Aging in place", "weight": 0.0, "id": 2776294918, "level": 2}
+{"count": 1095, "name": "Nominal group technique", "weight": 0.0, "id": 71690789, "level": 2}
+{"count": 3923, "name": "Clinical supervision", "weight": 0.0, "id": 2780895476, "level": 2}
+{"count": 1337, "name": "Community mobilization", "weight": 0.0, "id": 2777788812, "level": 2}
+{"count": 3827, "name": "Case mix index", "weight": 0.0, "id": 88579808, "level": 2}
+{"count": 2434, "name": "Peer education", "weight": 0.0, "id": 2776356274, "level": 2}
+{"count": 2037, "name": "Photovoice", "weight": 0.0, "id": 2781095836, "level": 2}
+{"count": 1683, "name": "Home management", "weight": 0.0, "id": 2778103839, "level": 2}
+{"count": 412, "name": "Health systems strengthening", "weight": 0.0, "id": 2780774518, "level": 2}
+{"count": 576, "name": "Full-time equivalent", "weight": 0.0, "id": 126763645, "level": 2}
+{"count": 4524, "name": "Credentialing", "weight": 0.0, "id": 2780530410, "level": 2}
+{"count": 16087, "name": "Nursing ethics", "weight": 0.0, "id": 178125196, "level": 2}
+{"count": 2007, "name": "Implementation research", "weight": 0.0, "id": 72497813, "level": 2}
+{"count": 2763, "name": "Solution focused brief therapy", "weight": 0.0, "id": 141480434, "level": 2}
+{"count": 1110, "name": "Neonatal nursing", "weight": 0.0, "id": 2776604044, "level": 2}
+{"count": 1297, "name": "Current Procedural Terminology", "weight": 0.0, "id": 2779513377, "level": 2}
+{"count": 3680, "name": "Care work", "weight": 0.0, "id": 102003337, "level": 2}
+{"count": 1382, "name": "Patients' rights", "weight": 0.0, "id": 2778226746, "level": 2}
+{"count": 1824, "name": "Holistic nursing", "weight": 0.0, "id": 2779989835, "level": 2}
+{"count": 1045, "name": "Nurse\u2013client relationship", "weight": 0.0, "id": 175239898, "level": 2}
+{"count": 8028, "name": "Nursing Interventions Classification", "weight": 0.0, "id": 140117577, "level": 2}
+{"count": 703, "name": "Kangaroo care", "weight": 0.0, "id": 2777765887, "level": 2}
+{"count": 1828, "name": "Incivility", "weight": 0.0, "id": 133987381, "level": 2}
+{"count": 3927, "name": "Hospital bed", "weight": 0.0, "id": 2776807919, "level": 2}
+{"count": 1960, "name": "Outpatient surgery", "weight": 0.0, "id": 2776887337, "level": 2}
+{"count": 692, "name": "Pharmaceutical policy", "weight": 0.0, "id": 2778030619, "level": 2}
+{"count": 5300, "name": "Psychiatric assessment", "weight": 0.0, "id": 507311573, "level": 2}
+{"count": 1873, "name": "Patient choice", "weight": 0.0, "id": 2777144654, "level": 2}
+{"count": 13084, "name": "Safeguarding", "weight": 0.0, "id": 2776743756, "level": 2}
+{"count": 896, "name": "Medical classification", "weight": 0.0, "id": 154874363, "level": 2}
+{"count": 873, "name": "Retirement community", "weight": 0.0, "id": 2778729698, "level": 2}
+{"count": 324, "name": "School Breakfast Program", "weight": 0.0, "id": 2779846139, "level": 2}
+{"count": 3817, "name": "Simulated patient", "weight": 0.0, "id": 80059220, "level": 2}
+{"count": 9354, "name": "Community hospital", "weight": 0.0, "id": 2779861157, "level": 2}
+{"count": 2328, "name": "Clinical nurse specialist", "weight": 0.0, "id": 2778330989, "level": 2}
+{"count": 441, "name": "Practice-based research network", "weight": 0.0, "id": 2780631141, "level": 2}
+{"count": 2074, "name": "Preceptor", "weight": 0.0, "id": 2779742342, "level": 2}
+{"count": 1486, "name": "College health", "weight": 0.0, "id": 2776781095, "level": 2}
+{"count": 2083, "name": "Medical terminology", "weight": 0.0, "id": 511227900, "level": 2}
+{"count": 818, "name": "Destabilisation", "weight": 0.0, "id": 2775884256, "level": 2}
+{"count": 587, "name": "Weekend effect", "weight": 0.0, "id": 2780515205, "level": 2}
+{"count": 579, "name": "Positive deviance", "weight": 0.0, "id": 2775963511, "level": 2}
+{"count": 320, "name": "Hospice and palliative medicine", "weight": 0.0, "id": 2776822808, "level": 2}
+{"count": 1547, "name": "Traffic police", "weight": 0.0, "id": 2776034591, "level": 2}
+{"count": 1388, "name": "Time-out", "weight": 0.0, "id": 2780141013, "level": 2}
+{"count": 1355, "name": "Group home", "weight": 0.0, "id": 2779141489, "level": 2}
+{"count": 414, "name": "Secobarbital", "weight": 0.0, "id": 2777327472, "level": 2}
+{"count": 2659, "name": "Psychiatric history", "weight": 0.0, "id": 2780577388, "level": 2}
+{"count": 4147, "name": "Diagnosis code", "weight": 0.0, "id": 45827449, "level": 2}
+{"count": 1234, "name": "Sensitive skin", "weight": 0.0, "id": 2780576536, "level": 2}
+{"count": 2045, "name": "Revalidation", "weight": 0.0, "id": 2780398090, "level": 2}
+{"count": 336, "name": "Maternal-child nursing", "weight": 0.0, "id": 2779160856, "level": 2}
+{"count": 806, "name": "Historical trauma", "weight": 0.0, "id": 2779117399, "level": 2}
+{"count": 1178, "name": "Virtual patient", "weight": 0.0, "id": 2778533338, "level": 2}
+{"count": 4526, "name": "Medical library", "weight": 0.0, "id": 2777341132, "level": 2}
+{"count": 364, "name": "Self-neglect", "weight": 0.0, "id": 2776973072, "level": 2}
+{"count": 720, "name": "Housing First", "weight": 0.0, "id": 2779341259, "level": 2}
+{"count": 428, "name": "De-identification", "weight": 0.0, "id": 2781351580, "level": 2}
+{"count": 696, "name": "Work sampling", "weight": 0.0, "id": 2778298967, "level": 2}
+{"count": 502, "name": "Insurance medicine", "weight": 0.0, "id": 2776191179, "level": 2}
+{"count": 778, "name": "Sheltered housing", "weight": 0.0, "id": 2776542223, "level": 2}
+{"count": 916, "name": "Death education", "weight": 0.0, "id": 2777956134, "level": 2}
+{"count": 236, "name": "Black eye", "weight": 0.0, "id": 2777199041, "level": 2}
+{"count": 4513, "name": "Medical advice", "weight": 0.0, "id": 2776510742, "level": 2}
+{"count": 1058, "name": "Spiritual Health", "weight": 0.0, "id": 2780750053, "level": 2}
+{"count": 1182, "name": "Next of kin", "weight": 0.0, "id": 2777116211, "level": 2}
+{"count": 495, "name": "Respiratory therapist", "weight": 0.0, "id": 2776704448, "level": 2}
+{"count": 553, "name": "Exit interview", "weight": 0.0, "id": 2776559936, "level": 2}
+{"count": 792, "name": "Patient-centered outcomes", "weight": 0.0, "id": 2776814669, "level": 2}
+{"count": 4876, "name": "Dispensary", "weight": 0.0, "id": 2775959389, "level": 2}
+{"count": 225, "name": "Prevention of HIV/AIDS", "weight": 0.0, "id": 2779910346, "level": 2}
+{"count": 290, "name": "Evidence-based education", "weight": 0.0, "id": 2780706738, "level": 2}
+{"count": 395, "name": "Medical certificate", "weight": 0.0, "id": 2776946982, "level": 2}
+{"count": 2022, "name": "Genogram", "weight": 0.0, "id": 113012060, "level": 2}
+{"count": 864, "name": "Vulnerable adult", "weight": 0.0, "id": 97001182, "level": 2}
+{"count": 671, "name": "Employee assistance program", "weight": 0.0, "id": 2780422332, "level": 2}
+{"count": 1167, "name": "Toileting", "weight": 0.0, "id": 2776829999, "level": 2}
+{"count": 254, "name": "Tidal Model", "weight": 0.0, "id": 2780748239, "level": 2}
+{"count": 627, "name": "Collective impact", "weight": 0.0, "id": 2778700663, "level": 2}
+{"count": 364, "name": "Zingiber zerumbet", "weight": 0.0, "id": 2776011473, "level": 2}
+{"count": 750, "name": "Supportive housing", "weight": 0.0, "id": 2780084376, "level": 2}
+{"count": 365, "name": "Chemical restraint", "weight": 0.0, "id": 2777132379, "level": 2}
+{"count": 696, "name": "Child and Youth Care", "weight": 0.0, "id": 2776460186, "level": 2}
+{"count": 2632, "name": "Medical procedure", "weight": 0.0, "id": 2778729991, "level": 2}
+{"count": 1159, "name": "Helpline", "weight": 0.0, "id": 2779690104, "level": 2}
+{"count": 499, "name": "Family child care", "weight": 0.0, "id": 2779063172, "level": 2}
+{"count": 250, "name": "Institutional abuse", "weight": 0.0, "id": 2777899161, "level": 2}
+{"count": 1150, "name": "Career Pathways", "weight": 0.0, "id": 2777902257, "level": 2}
+{"count": 2037, "name": "Waxing", "weight": 0.0, "id": 2781255744, "level": 2}
+{"count": 248, "name": "Nurse-led clinic", "weight": 0.0, "id": 2779368939, "level": 2}
+{"count": 648, "name": "Pedicure", "weight": 0.0, "id": 2776503955, "level": 2}
+{"count": 718, "name": "Operating room management", "weight": 0.0, "id": 117751175, "level": 2}
+{"count": 425, "name": "Workplace wellness", "weight": 0.0, "id": 2778112910, "level": 2}
+{"count": 161, "name": "Child and Adult Care Food Program", "weight": 0.0, "id": 2781015274, "level": 2}
+{"count": 388, "name": "Transitional housing", "weight": 0.0, "id": 2781297417, "level": 2}
+{"count": 188, "name": "Neuman systems model", "weight": 0.0, "id": 2777775064, "level": 2}
+{"count": 470, "name": "Externship", "weight": 0.0, "id": 2778316933, "level": 2}
+{"count": 896, "name": "Apothecary", "weight": 0.0, "id": 2776962759, "level": 2}
+{"count": 239, "name": "Communities That Care", "weight": 0.0, "id": 2777547122, "level": 2}
+{"count": 182, "name": "Family Group Conference", "weight": 0.0, "id": 2781451963, "level": 2}
+{"count": 313, "name": "Moral treatment", "weight": 0.0, "id": 2781050254, "level": 2}
+{"count": 933, "name": "Response rate", "weight": 0.0, "id": 61189997, "level": 2}
+{"count": 263, "name": "Commercial sexual exploitation of children", "weight": 0.0, "id": 2776699611, "level": 2}
+{"count": 639, "name": "General medical services", "weight": 0.0, "id": 2777669906, "level": 2}
+{"count": 397, "name": "Procedure code", "weight": 0.0, "id": 2779662324, "level": 2}
+{"count": 152, "name": "Medical transcription", "weight": 0.0, "id": 2777618336, "level": 2}
+{"count": 3833, "name": "Polyclinic", "weight": 0.0, "id": 2776978955, "level": 2}
+{"count": 227, "name": "Clinical data repository", "weight": 0.0, "id": 2780542330, "level": 2}
+{"count": 1035, "name": "Cripple", "weight": 0.0, "id": 2778432050, "level": 2}
+{"count": 369, "name": "Older Americans Act", "weight": 0.0, "id": 2779457256, "level": 2}
+{"count": 154, "name": "Science of unitary human beings", "weight": 0.0, "id": 2776054118, "level": 2}
+{"count": 139, "name": "Parenting time", "weight": 0.0, "id": 2777837961, "level": 2}
+{"count": 826, "name": "Total care", "weight": 0.0, "id": 2777267695, "level": 2}
+{"count": 193, "name": "Domestic medicine", "weight": 0.0, "id": 2779242287, "level": 2}
+{"count": 148, "name": "Informationist", "weight": 0.0, "id": 2778793285, "level": 2}
+{"count": 560, "name": "International Statistical Classification of Diseases and Related Health Problems", "weight": 0.0, "id": 2777389428, "level": 2}
+{"count": 353, "name": "House call", "weight": 0.0, "id": 2780344846, "level": 2}
+{"count": 99, "name": "Attendance Allowance", "weight": 0.0, "id": 2777205846, "level": 2}
+{"count": 183, "name": "Cardiac nursing", "weight": 0.0, "id": 2777662205, "level": 2}
+{"count": 113, "name": "Non Violent Resistance", "weight": 0.0, "id": 2780653865, "level": 2}
+{"count": 30, "name": "I-Change Model", "weight": 0.0, "id": 2778422715, "level": 2}
+{"count": 538, "name": "Director of nursing", "weight": 0.0, "id": 2776737905, "level": 2}
+{"count": 96, "name": "Dysthanasia", "weight": 0.0, "id": 2781202354, "level": 2}
+{"count": 175, "name": "Step therapy", "weight": 0.0, "id": 2777293892, "level": 2}
+{"count": 106, "name": "Patient abuse", "weight": 0.0, "id": 2778177497, "level": 2}
+{"count": 310, "name": "Doctor's office", "weight": 0.0, "id": 2776570324, "level": 2}
+{"count": 56, "name": "Ephedra gerardiana", "weight": 0.0, "id": 2778415400, "level": 2}
+{"count": 90, "name": "White coat ceremony", "weight": 0.0, "id": 62591217, "level": 2}
+{"count": 68, "name": "Behavioral engineering", "weight": 0.0, "id": 2779078335, "level": 2}
+{"count": 102, "name": "Home inspection", "weight": 0.0, "id": 2779174555, "level": 2}
+{"count": 134, "name": "nutritionDay", "weight": 0.0, "id": 2778823544, "level": 2}
+{"count": 26, "name": "Citing Medicine", "weight": 0.0, "id": 2777918783, "level": 2}
+{"count": 524, "name": "Officinal", "weight": 0.0, "id": 2780224878, "level": 2}
+{"count": 30, "name": "Premastication", "weight": 0.0, "id": 2776186054, "level": 2}

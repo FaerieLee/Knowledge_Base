@@ -1,0 +1,19 @@
+{"count": 567, "name": "Impossible differential cryptanalysis", "weight": 5.0, "id": 120488936, "level": 5}
+{"count": 715, "name": "Boomerang attack", "weight": 6.0, "id": 147552392, "level": 5}
+{"count": 901, "name": "Key schedule", "weight": 8.0, "id": 112145980, "level": 5}
+{"count": 372, "name": "Integral cryptanalysis", "weight": 3.0, "id": 71167773, "level": 5}
+{"count": 92, "name": "Feistel cipher", "weight": 0.0, "id": 2781190650, "level": 5}
+{"count": 35, "name": "Product cipher", "weight": 0.0, "id": 2778767657, "level": 5}
+{"count": 612, "name": "Slide attack", "weight": 5.0, "id": 89694405, "level": 5}
+{"count": 426, "name": "Interpolation attack", "weight": 3.0, "id": 130684572, "level": 5}
+{"count": 56, "name": "Truncated differential cryptanalysis", "weight": 0.0, "id": 2780075205, "level": 5}
+{"count": 281, "name": "T-function", "weight": 2.0, "id": 85491257, "level": 5}
+{"count": 1128, "name": "Higher-order differential cryptanalysis", "weight": 10.0, "id": 151607707, "level": 5}
+{"count": 490, "name": "Piling-up lemma", "weight": 4.0, "id": 13312943, "level": 5}
+{"count": 90, "name": "Differential-linear attack", "weight": 0.0, "id": 127076983, "level": 5}
+{"count": 32, "name": "Biclique attack", "weight": 0.0, "id": 2778416667, "level": 5}
+{"count": 321, "name": "XSL attack", "weight": 2.0, "id": 174503567, "level": 5}
+{"count": 204, "name": "Mod n cryptanalysis", "weight": 1.0, "id": 146624077, "level": 5}
+{"count": 90, "name": "Kasiski examination", "weight": 0.0, "id": 111179778, "level": 5}
+{"count": 34, "name": "Rijndael key schedule", "weight": 0.0, "id": 83308190, "level": 5}
+{"count": 11, "name": "Black-bag cryptanalysis", "weight": 0.0, "id": 134590416, "level": 5}

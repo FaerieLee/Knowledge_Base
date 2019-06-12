@@ -1,0 +1,5 @@
+{"count": 2766, "name": "Traffic conflict", "weight": 5.0, "id": 178944661, "level": 4}
+{"count": 5108, "name": "Traffic optimization", "weight": 10.0, "id": 86266404, "level": 4}
+{"count": 1111, "name": "Traffic policing", "weight": 2.0, "id": 12303254, "level": 4}
+{"count": 2947, "name": "Traffic wave", "weight": 5.0, "id": 168069670, "level": 4}
+{"count": 2800, "name": "InSync adaptive traffic control system", "weight": 5.0, "id": 38560070, "level": 4}

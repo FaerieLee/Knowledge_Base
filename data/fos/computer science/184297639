@@ -1,0 +1,13 @@
+{"count": 6376, "name": "Iris recognition", "weight": 10.0, "id": 112356035, "level": 3}
+{"count": 1962, "name": "Fingerprint Verification Competition", "weight": 3.0, "id": 164995936, "level": 3}
+{"count": 952, "name": "Keystroke dynamics", "weight": 1.0, "id": 79540074, "level": 3}
+{"count": 776, "name": "Hand geometry", "weight": 1.0, "id": 146318809, "level": 3}
+{"count": 339, "name": "Soft biometrics", "weight": 0.0, "id": 2777629068, "level": 3}
+{"count": 89, "name": "Fuzzy extractor", "weight": 0.0, "id": 2780362852, "level": 3}
+{"count": 2471, "name": "Signature recognition", "weight": 3.0, "id": 74370796, "level": 3}
+{"count": 877, "name": "Palm print", "weight": 1.0, "id": 2777503689, "level": 3}
+{"count": 553, "name": "Finger vein recognition", "weight": 0.0, "id": 52601983, "level": 3}
+{"count": 49, "name": "Biometric Consortium", "weight": 0.0, "id": 142544681, "level": 3}
+{"count": 183, "name": "Time and attendance", "weight": 0.0, "id": 2777821043, "level": 3}
+{"count": 32, "name": "Vein matching", "weight": 0.0, "id": 162167440, "level": 3}
+{"count": 80, "name": "Biometrics in schools", "weight": 0.0, "id": 160853947, "level": 3}

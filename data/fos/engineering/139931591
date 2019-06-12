@@ -1,0 +1,8 @@
+{"count": 4108, "name": "Low probability of intercept radar", "weight": 7.0, "id": 147345108, "level": 5}
+{"count": 813, "name": "Digital radio frequency memory", "weight": 1.0, "id": 30406889, "level": 5}
+{"count": 2938, "name": "Low-frequency radar", "weight": 5.0, "id": 192314852, "level": 5}
+{"count": 2460, "name": "Radar display", "weight": 4.0, "id": 144695926, "level": 5}
+{"count": 1959, "name": "Wave radar", "weight": 3.0, "id": 207699401, "level": 5}
+{"count": 32, "name": "Range ambiguity resolution", "weight": 0.0, "id": 2780448505, "level": 5}
+{"count": 5640, "name": "Radar horizon", "weight": 10.0, "id": 131493965, "level": 5}
+{"count": 1226, "name": "Envelope (radar)", "weight": 2.0, "id": 65155139, "level": 5}

@@ -1,0 +1,14 @@
+{"count": 175, "name": "Paravirtualization", "weight": 0.0, "id": 2780285038, "level": 5}
+{"count": 1433, "name": "Application virtualization", "weight": 7.0, "id": 13062989, "level": 5}
+{"count": 1974, "name": "Hardware virtualization", "weight": 10.0, "id": 68793194, "level": 5}
+{"count": 1638, "name": "Storage virtualization", "weight": 8.0, "id": 34760210, "level": 5}
+{"count": 358, "name": "Desktop virtualization", "weight": 1.0, "id": 2776712616, "level": 5}
+{"count": 178, "name": "I/O virtualization", "weight": 0.0, "id": 2776445415, "level": 5}
+{"count": 132, "name": "Memory virtualization", "weight": 0.0, "id": 2777783080, "level": 5}
+{"count": 876, "name": "Service virtualization", "weight": 4.0, "id": 22502294, "level": 5}
+{"count": 68, "name": "Hardware-assisted virtualization", "weight": 0.0, "id": 2780356329, "level": 5}
+{"count": 800, "name": "Thin provisioning", "weight": 4.0, "id": 205120359, "level": 5}
+{"count": 27, "name": "Database virtualization", "weight": 0.0, "id": 2776712778, "level": 5}
+{"count": 210, "name": "Overlay transport virtualization", "weight": 1.0, "id": 151292979, "level": 5}
+{"count": 39, "name": "VMmark", "weight": 0.0, "id": 42662011, "level": 5}
+{"count": 14, "name": "x86 virtualization", "weight": 0.0, "id": 2779977264, "level": 5}

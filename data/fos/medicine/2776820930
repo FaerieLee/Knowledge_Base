@@ -1,0 +1,88 @@
+{"count": 11863, "name": "Coronary artery bypass surgery", "weight": 3.0, "id": 2775901492, "level": 3}
+{"count": 11303, "name": "Common carotid artery", "weight": 3.0, "id": 2781064879, "level": 3}
+{"count": 9036, "name": "Intima-media thickness", "weight": 2.0, "id": 2779339615, "level": 3}
+{"count": 9944, "name": "Radial artery", "weight": 2.0, "id": 2778218979, "level": 3}
+{"count": 7731, "name": "Collateral circulation", "weight": 2.0, "id": 2776599846, "level": 3}
+{"count": 1616, "name": "Tunica media", "weight": 0.0, "id": 2777178098, "level": 3}
+{"count": 5195, "name": "Intimal hyperplasia", "weight": 1.0, "id": 2779751240, "level": 3}
+{"count": 1300, "name": "Tunica intima", "weight": 0.0, "id": 2779305218, "level": 3}
+{"count": 4992, "name": "Mesenteric arteries", "weight": 1.0, "id": 2780771799, "level": 3}
+{"count": 33162, "name": "Coronary arteries", "weight": 10.0, "id": 2778742706, "level": 3}
+{"count": 3592, "name": "Adventitia", "weight": 1.0, "id": 2776716733, "level": 3}
+{"count": 1022, "name": "Internal elastic lamina", "weight": 0.0, "id": 2776205367, "level": 3}
+{"count": 3321, "name": "Off-pump coronary artery bypass", "weight": 1.0, "id": 2780069944, "level": 3}
+{"count": 1325, "name": "Vasa vasorum", "weight": 0.0, "id": 2779205420, "level": 3}
+{"count": 2421, "name": "Common iliac artery", "weight": 0.0, "id": 2779959501, "level": 3}
+{"count": 2007, "name": "External iliac artery", "weight": 0.0, "id": 2778692183, "level": 3}
+{"count": 1714, "name": "Central retinal artery", "weight": 0.0, "id": 2775926640, "level": 3}
+{"count": 1213, "name": "Gastroduodenal artery", "weight": 0.0, "id": 2776606024, "level": 3}
+{"count": 1190, "name": "Arteriotomy", "weight": 0.0, "id": 2779450455, "level": 3}
+{"count": 1194, "name": "Posterior tibial artery", "weight": 0.0, "id": 2777522714, "level": 3}
+{"count": 641, "name": "Occipital artery", "weight": 0.0, "id": 2781078443, "level": 3}
+{"count": 1106, "name": "Left gastric artery", "weight": 0.0, "id": 2780773843, "level": 3}
+{"count": 307, "name": "Nutrient artery", "weight": 0.0, "id": 2781092229, "level": 3}
+{"count": 850, "name": "Anterior tibial artery", "weight": 0.0, "id": 2780776380, "level": 3}
+{"count": 353, "name": "Internal pudendal artery", "weight": 0.0, "id": 2779015181, "level": 3}
+{"count": 919, "name": "Carotid ultrasonography", "weight": 0.0, "id": 2776761947, "level": 3}
+{"count": 1215, "name": "Common hepatic artery", "weight": 0.0, "id": 2776390723, "level": 3}
+{"count": 454, "name": "Branch retinal artery occlusion", "weight": 0.0, "id": 2779885944, "level": 3}
+{"count": 568, "name": "Great cardiac vein", "weight": 0.0, "id": 2778410449, "level": 3}
+{"count": 428, "name": "Ciliary arteries", "weight": 0.0, "id": 2779108703, "level": 3}
+{"count": 99, "name": "Left gastroepiploic artery", "weight": 0.0, "id": 2778827828, "level": 3}
+{"count": 574, "name": "Testicular artery", "weight": 0.0, "id": 2779061837, "level": 3}
+{"count": 1969, "name": "Arterial tree", "weight": 0.0, "id": 2776619873, "level": 3}
+{"count": 539, "name": "Dorsalis pedis artery", "weight": 0.0, "id": 2779815167, "level": 3}
+{"count": 248, "name": "Artery of Adamkiewicz", "weight": 0.0, "id": 2781233906, "level": 3}
+{"count": 346, "name": "Median artery", "weight": 0.0, "id": 2777208045, "level": 3}
+{"count": 1176, "name": "Aortic sinus", "weight": 0.0, "id": 2780562891, "level": 3}
+{"count": 393, "name": "Vein graft disease", "weight": 0.0, "id": 2776690593, "level": 3}
+{"count": 451, "name": "Perforating arteries", "weight": 0.0, "id": 2780522763, "level": 3}
+{"count": 932, "name": "Myograph", "weight": 0.0, "id": 2779941686, "level": 3}
+{"count": 693, "name": "Right hepatic artery", "weight": 0.0, "id": 2775887080, "level": 3}
+{"count": 323, "name": "Lateral circumflex femoral artery", "weight": 0.0, "id": 2780160970, "level": 3}
+{"count": 288, "name": "Inferior gluteal artery", "weight": 0.0, "id": 2776649643, "level": 3}
+{"count": 1295, "name": "Circumflex", "weight": 0.0, "id": 197321550, "level": 3}
+{"count": 165, "name": "Posterior interosseous artery", "weight": 0.0, "id": 2780553315, "level": 3}
+{"count": 119, "name": "Medial circumflex femoral artery", "weight": 0.0, "id": 2780458222, "level": 3}
+{"count": 180, "name": "Lateral thoracic artery", "weight": 0.0, "id": 2778421766, "level": 3}
+{"count": 168, "name": "Transverse cervical artery", "weight": 0.0, "id": 2779638732, "level": 3}
+{"count": 382, "name": "Lumbar arteries", "weight": 0.0, "id": 2778784962, "level": 3}
+{"count": 208, "name": "Thyrocervical trunk", "weight": 0.0, "id": 2780854190, "level": 3}
+{"count": 116, "name": "Inferior alveolar artery", "weight": 0.0, "id": 2781238611, "level": 3}
+{"count": 547, "name": "Intercostal arteries", "weight": 0.0, "id": 2781179364, "level": 3}
+{"count": 95, "name": "Infraorbital artery", "weight": 0.0, "id": 2780509158, "level": 3}
+{"count": 63, "name": "Idiopathic infantile arterial calcification", "weight": 0.0, "id": 2776991945, "level": 3}
+{"count": 100, "name": "Adrenal artery", "weight": 0.0, "id": 2781324561, "level": 3}
+{"count": 129, "name": "Thoracoacromial artery", "weight": 0.0, "id": 2775875004, "level": 3}
+{"count": 77, "name": "Minimized extracorporeal circulation", "weight": 0.0, "id": 2778571902, "level": 3}
+{"count": 86, "name": "Supratrochlear artery", "weight": 0.0, "id": 2781367625, "level": 3}
+{"count": 117, "name": "Descending genicular artery", "weight": 0.0, "id": 2776498825, "level": 3}
+{"count": 159, "name": "Subscapular artery", "weight": 0.0, "id": 2779818928, "level": 3}
+{"count": 156, "name": "Genicular artery", "weight": 0.0, "id": 2777545372, "level": 3}
+{"count": 92, "name": "Suprascapular artery", "weight": 0.0, "id": 2778850875, "level": 3}
+{"count": 36, "name": "Lacrimal artery", "weight": 0.0, "id": 2778072226, "level": 3}
+{"count": 141, "name": "Medial plantar artery", "weight": 0.0, "id": 2778215395, "level": 3}
+{"count": 24, "name": "Middle genicular artery", "weight": 0.0, "id": 2776843385, "level": 3}
+{"count": 60, "name": "Superior labial artery", "weight": 0.0, "id": 2780328305, "level": 3}
+{"count": 111, "name": "Angular artery", "weight": 0.0, "id": 2778763493, "level": 3}
+{"count": 95, "name": "First dorsal metatarsal artery", "weight": 0.0, "id": 2776961653, "level": 3}
+{"count": 26, "name": "Caliber persistent artery", "weight": 0.0, "id": 2780099655, "level": 3}
+{"count": 49, "name": "Inferior labial artery", "weight": 0.0, "id": 2780479913, "level": 3}
+{"count": 38, "name": "Posterior ethmoidal artery", "weight": 0.0, "id": 2778432866, "level": 3}
+{"count": 97, "name": "Circumflex scapular artery", "weight": 0.0, "id": 2779922941, "level": 3}
+{"count": 74, "name": "Lateral plantar artery", "weight": 0.0, "id": 2780916916, "level": 3}
+{"count": 21, "name": "Proper palmar digital arteries", "weight": 0.0, "id": 2776988524, "level": 3}
+{"count": 50, "name": "Adductor hiatus", "weight": 0.0, "id": 2776063167, "level": 3}
+{"count": 19, "name": "Stylomastoid artery", "weight": 0.0, "id": 2777909233, "level": 3}
+{"count": 15, "name": "Posterior interventricular sulcus", "weight": 0.0, "id": 2778861016, "level": 3}
+{"count": 93, "name": "Superficial epigastric artery", "weight": 0.0, "id": 2780515054, "level": 3}
+{"count": 19, "name": "Esophageal arteries", "weight": 0.0, "id": 2775925722, "level": 3}
+{"count": 25, "name": "Superficial external pudendal artery", "weight": 0.0, "id": 2780305642, "level": 3}
+{"count": 28, "name": "Endoscopic vessel harvesting", "weight": 0.0, "id": 2780688161, "level": 3}
+{"count": 51, "name": "End artery", "weight": 0.0, "id": 2776162851, "level": 3}
+{"count": 12, "name": "Interosseous recurrent artery", "weight": 0.0, "id": 2781186308, "level": 3}
+{"count": 22, "name": "Anterior humeral circumflex artery", "weight": 0.0, "id": 2778360525, "level": 3}
+{"count": 51, "name": "Pressure-controlled intermittent coronary sinus occlusion", "weight": 0.0, "id": 2778253852, "level": 3}
+{"count": 23, "name": "Stenosis of pulmonary artery", "weight": 0.0, "id": 2776405978, "level": 3}
+{"count": 14, "name": "Urethral artery", "weight": 0.0, "id": 2776809099, "level": 3}
+{"count": 14, "name": "Dorsal artery of the penis", "weight": 0.0, "id": 2777731864, "level": 3}

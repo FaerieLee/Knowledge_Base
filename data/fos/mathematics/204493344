@@ -1,0 +1,17 @@
+{"count": 6933, "name": "Monte Carlo integration", "weight": 10.0, "id": 132725507, "level": 5}
+{"count": 4463, "name": "Quasi-Monte Carlo method", "weight": 6.0, "id": 63320529, "level": 5}
+{"count": 2867, "name": "Diffusion Monte Carlo", "weight": 4.0, "id": 47833936, "level": 5}
+{"count": 1400, "name": "Rejection sampling", "weight": 2.0, "id": 187192777, "level": 5}
+{"count": 1821, "name": "Parallel tempering", "weight": 2.0, "id": 187653413, "level": 5}
+{"count": 355, "name": "Halton sequence", "weight": 0.0, "id": 92661605, "level": 5}
+{"count": 113, "name": "Low-discrepancy sequence", "weight": 0.0, "id": 65254969, "level": 5}
+{"count": 732, "name": "Stochastic tunneling", "weight": 1.0, "id": 132150799, "level": 5}
+{"count": 38, "name": "Quantum solvent", "weight": 0.0, "id": 2778784013, "level": 5}
+{"count": 210, "name": "Metropolis light transport", "weight": 0.0, "id": 120942488, "level": 5}
+{"count": 229, "name": "Multiple-try Metropolis", "weight": 0.0, "id": 166031726, "level": 5}
+{"count": 54, "name": "VEGAS algorithm", "weight": 0.0, "id": 155305683, "level": 5}
+{"count": 3858, "name": "Monte Carlo method for photon transport", "weight": 5.0, "id": 98125479, "level": 5}
+{"count": 8, "name": "Quasi-Monte Carlo methods in finance", "weight": 0.0, "id": 148726608, "level": 5}
+{"count": 45, "name": "Auxiliary field Monte Carlo", "weight": 0.0, "id": 2781258386, "level": 5}
+{"count": 114, "name": "Wang and Landau algorithm", "weight": 0.0, "id": 64968022, "level": 5}
+{"count": 1101, "name": "Photon transport in biological tissue", "weight": 1.0, "id": 140894746, "level": 5}

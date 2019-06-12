@@ -1,0 +1,29 @@
+{"count": 9462, "name": "Intelligent sensor", "weight": 1.0, "id": 176563091, "level": 3}
+{"count": 4131, "name": "Data aggregator", "weight": 0.0, "id": 82578977, "level": 3}
+{"count": 2368, "name": "Local algorithm", "weight": 0.0, "id": 2777144717, "level": 3}
+{"count": 4823, "name": "Body area network", "weight": 0.0, "id": 88737568, "level": 3}
+{"count": 616, "name": "Unit disk graph", "weight": 0.0, "id": 130184317, "level": 3}
+{"count": 27934, "name": "Sink (computing)", "weight": 3.0, "id": 66461080, "level": 3}
+{"count": 940, "name": "Sybil attack", "weight": 0.0, "id": 2777505653, "level": 3}
+{"count": 3678, "name": "Soft sensor", "weight": 0.0, "id": 115575686, "level": 3}
+{"count": 1693, "name": "Trilateration", "weight": 0.0, "id": 20832178, "level": 3}
+{"count": 1003, "name": "nesC", "weight": 0.0, "id": 144321074, "level": 3}
+{"count": 130, "name": "Multi-hop routing", "weight": 0.0, "id": 2780361066, "level": 3}
+{"count": 511, "name": "WirelessHART", "weight": 0.0, "id": 77286137, "level": 3}
+{"count": 1144, "name": "Received signal strength indication", "weight": 0.0, "id": 2778913798, "level": 3}
+{"count": 3074, "name": "IEEE 802.15", "weight": 0.0, "id": 2780407094, "level": 3}
+{"count": 494, "name": "Sun SPOT", "weight": 0.0, "id": 68085945, "level": 3}
+{"count": 285, "name": "Sensor grid", "weight": 0.0, "id": 2779597457, "level": 3}
+{"count": 288, "name": "Flooding algorithm", "weight": 0.0, "id": 2778720547, "level": 3}
+{"count": 454, "name": "Castalia", "weight": 0.0, "id": 94921317, "level": 3}
+{"count": 86, "name": "B-MAC", "weight": 0.0, "id": 2780168729, "level": 3}
+{"count": 23, "name": "Graph realization problem", "weight": 0.0, "id": 2779436820, "level": 3}
+{"count": 48, "name": "IQRF", "weight": 0.0, "id": 2776729202, "level": 3}
+{"count": 53, "name": "DASH7", "weight": 0.0, "id": 2776820105, "level": 3}
+{"count": 43, "name": "Smartdust", "weight": 0.0, "id": 3021726, "level": 3}
+{"count": 55, "name": "Intelligent street lighting", "weight": 0.0, "id": 2779538081, "level": 3}
+{"count": 21, "name": "Leaf sensor", "weight": 0.0, "id": 2779857384, "level": 3}
+{"count": 7, "name": "Reuleaux tetrahedron", "weight": 0.0, "id": 2779905153, "level": 3}
+{"count": 74387, "name": "Key distribution in wireless sensor networks", "weight": 10.0, "id": 41971633, "level": 3}
+{"count": 10, "name": "Location estimation in sensor networks", "weight": 0.0, "id": 2776908556, "level": 3}
+{"count": 286, "name": "SDS Protocol", "weight": 0.0, "id": 25535669, "level": 3}

@@ -1,0 +1,16 @@
+{"count": 6776, "name": "Discrete optimization", "weight": 7.0, "id": 145671259, "level": 3}
+{"count": 4025, "name": "Quadratic assignment problem", "weight": 4.0, "id": 98036226, "level": 3}
+{"count": 2544, "name": "Bilevel optimization", "weight": 2.0, "id": 3309286, "level": 3}
+{"count": 4447, "name": "Cutting stock problem", "weight": 5.0, "id": 37307619, "level": 3}
+{"count": 1117, "name": "Cross-entropy method", "weight": 1.0, "id": 75782508, "level": 3}
+{"count": 6889, "name": "Engineering optimization", "weight": 7.0, "id": 110850998, "level": 3}
+{"count": 119, "name": "Infinite-dimensional optimization", "weight": 0.0, "id": 2781429736, "level": 3}
+{"count": 61, "name": "Generalized semi-infinite programming", "weight": 0.0, "id": 2780649904, "level": 3}
+{"count": 582, "name": "Quadratic unconstrained binary optimization", "weight": 0.0, "id": 177179195, "level": 3}
+{"count": 36, "name": "Biconvex optimization", "weight": 0.0, "id": 2778841942, "level": 3}
+{"count": 21, "name": "Evolutionary multimodal optimization", "weight": 0.0, "id": 2779841055, "level": 3}
+{"count": 185, "name": "COBYLA", "weight": 0.0, "id": 111034812, "level": 3}
+{"count": 308, "name": "Minimum k-cut", "weight": 0.0, "id": 184434704, "level": 3}
+{"count": 8647, "name": "Probabilistic-based design optimization", "weight": 10.0, "id": 98528093, "level": 3}
+{"count": 23, "name": "Walking fish", "weight": 0.0, "id": 2776848600, "level": 3}
+{"count": 94, "name": "Karp's 21 NP-complete problems", "weight": 0.0, "id": 155373194, "level": 3}

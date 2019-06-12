@@ -1,0 +1,8 @@
+{"count": 1100, "name": "Undulation of the geoid", "weight": 10.0, "id": 180966878, "level": 3}
+{"count": 613, "name": "Physical geodesy", "weight": 5.0, "id": 2716537, "level": 3}
+{"count": 810, "name": "Orthometric height", "weight": 7.0, "id": 200418468, "level": 3}
+{"count": 469, "name": "Reference ellipsoid", "weight": 4.0, "id": 105024398, "level": 3}
+{"count": 645, "name": "Geopotential model", "weight": 5.0, "id": 153028686, "level": 3}
+{"count": 579, "name": "Normal height", "weight": 5.0, "id": 95077039, "level": 3}
+{"count": 498, "name": "EGM96", "weight": 4.0, "id": 29863660, "level": 3}
+{"count": 770, "name": "European Combined Geodetic Network", "weight": 7.0, "id": 47033486, "level": 3}

@@ -1,0 +1,9 @@
+{"count": 8142, "name": "Bias of an estimator", "weight": 10.0, "id": 191393472, "level": 3}
+{"count": 4552, "name": "Mean absolute error", "weight": 5.0, "id": 188154048, "level": 3}
+{"count": 1237, "name": "Shrinkage estimator", "weight": 1.0, "id": 102592046, "level": 3}
+{"count": 3679, "name": "Mean absolute percentage error", "weight": 4.0, "id": 150217764, "level": 3}
+{"count": 407, "name": "Mean percentage error", "weight": 0.0, "id": 172895721, "level": 3}
+{"count": 534, "name": "Nash\u2013Sutcliffe model efficiency coefficient", "weight": 0.0, "id": 133716632, "level": 3}
+{"count": 83, "name": "Focused information criterion", "weight": 0.0, "id": 2777642024, "level": 3}
+{"count": 352, "name": "Huber loss", "weight": 0.0, "id": 203118368, "level": 3}
+{"count": 25, "name": "Platt scaling", "weight": 0.0, "id": 2779516535, "level": 3}

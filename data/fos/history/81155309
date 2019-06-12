@@ -1,0 +1,12 @@
+{"count": 208, "name": "Foreign object damage", "weight": 1.0, "id": 207145673, "level": 3}
+{"count": 379, "name": "Landing fee", "weight": 2.0, "id": 101175848, "level": 3}
+{"count": 1291, "name": "ASDE-X", "weight": 10.0, "id": 168958951, "level": 3}
+{"count": 153, "name": "Landing lights", "weight": 1.0, "id": 93891892, "level": 3}
+{"count": 298, "name": "Runway visual range", "weight": 2.0, "id": 76804118, "level": 3}
+{"count": 27, "name": "Enhanced flight vision system", "weight": 0.0, "id": 2776261257, "level": 3}
+{"count": 140, "name": "Airport problem", "weight": 1.0, "id": 207943828, "level": 3}
+{"count": 248, "name": "Maneuvering area", "weight": 1.0, "id": 170860863, "level": 3}
+{"count": 21, "name": "Instrument landing system localizer", "weight": 0.0, "id": 2778009708, "level": 3}
+{"count": 32, "name": "Visual approach slope indicator", "weight": 0.0, "id": 2779324578, "level": 3}
+{"count": 14, "name": "Localizer type directional aid", "weight": 0.0, "id": 193650213, "level": 3}
+{"count": 9, "name": "Runway edge lights", "weight": 0.0, "id": 2776193809, "level": 3}

@@ -1,0 +1,6 @@
+{"count": 243, "name": "Fragment processing", "weight": 10.0, "id": 193565377, "level": 5}
+{"count": 198, "name": "Unified shader model", "weight": 8.0, "id": 65519503, "level": 5}
+{"count": 201, "name": "Fixed-function", "weight": 8.0, "id": 135370450, "level": 5}
+{"count": 109, "name": "Vertex Buffer Object", "weight": 4.0, "id": 146785682, "level": 5}
+{"count": 164, "name": "HLSL2GLSL", "weight": 6.0, "id": 117507287, "level": 5}
+{"count": 45, "name": "Render output unit", "weight": 1.0, "id": 31759971, "level": 5}

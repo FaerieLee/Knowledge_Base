@@ -1,0 +1,39 @@
+{"count": 32118, "name": "Electron ionization", "weight": 10.0, "id": 205759337, "level": 4}
+{"count": 21368, "name": "Ionization energy", "weight": 6.0, "id": 147192597, "level": 4}
+{"count": 28491, "name": "Photoionization", "weight": 8.0, "id": 158749347, "level": 4}
+{"count": 11692, "name": "Chemical ionization", "weight": 3.0, "id": 51884965, "level": 4}
+{"count": 6838, "name": "Impact ionization", "weight": 2.0, "id": 32921249, "level": 4}
+{"count": 3665, "name": "Rydberg state", "weight": 1.0, "id": 2779482579, "level": 4}
+{"count": 4086, "name": "Electron shell", "weight": 1.0, "id": 11916219, "level": 4}
+{"count": 3981, "name": "Field desorption", "weight": 1.0, "id": 38438003, "level": 4}
+{"count": 740, "name": "Townsend discharge", "weight": 0.0, "id": 2779656077, "level": 4}
+{"count": 1962, "name": "Coulomb explosion", "weight": 0.0, "id": 69402668, "level": 4}
+{"count": 399, "name": "Saha ionization equation", "weight": 0.0, "id": 15280444, "level": 4}
+{"count": 1258, "name": "Penning ionization", "weight": 0.0, "id": 2777138958, "level": 4}
+{"count": 26, "name": "Rydberg correction", "weight": 0.0, "id": 2776989766, "level": 4}
+{"count": 878, "name": "Electron avalanche", "weight": 0.0, "id": 207634928, "level": 4}
+{"count": 336, "name": "Sinapinic acid", "weight": 0.0, "id": 2779716327, "level": 4}
+{"count": 715, "name": "DART ion source", "weight": 0.0, "id": 118663420, "level": 4}
+{"count": 39, "name": "Wisconsin H-Alpha Mapper", "weight": 0.0, "id": 2780290284, "level": 4}
+{"count": 404, "name": "Resonance ionization", "weight": 0.0, "id": 2776103483, "level": 4}
+{"count": 1474, "name": "Reflectron", "weight": 0.0, "id": 11174340, "level": 4}
+{"count": 74, "name": "Advanced Thin Ionization Calorimeter", "weight": 0.0, "id": 2779901784, "level": 4}
+{"count": 219, "name": "Surface-assisted laser desorption/ionization", "weight": 0.0, "id": 2778949723, "level": 4}
+{"count": 276, "name": "Distonic ion", "weight": 0.0, "id": 75563273, "level": 4}
+{"count": 91, "name": "Ion-neutral complex", "weight": 0.0, "id": 2781456866, "level": 4}
+{"count": 1813, "name": "Degree of ionization", "weight": 0.0, "id": 70981558, "level": 4}
+{"count": 162, "name": "Delayed extraction", "weight": 0.0, "id": 2779496482, "level": 4}
+{"count": 1590, "name": "Helium ionization detector", "weight": 0.0, "id": 20133976, "level": 4}
+{"count": 404, "name": "Hot-filament ionization gauge", "weight": 0.0, "id": 184498113, "level": 4}
+{"count": 201, "name": "Interatomic Coulombic decay", "weight": 0.0, "id": 2779966052, "level": 4}
+{"count": 177, "name": "Ponderomotive energy", "weight": 0.0, "id": 2781001390, "level": 4}
+{"count": 96, "name": "Independent electron approximation", "weight": 0.0, "id": 2776043446, "level": 4}
+{"count": 47, "name": "Desorption/ionization on silicon", "weight": 0.0, "id": 2780845903, "level": 4}
+{"count": 66, "name": "Str\u00f6mgren sphere", "weight": 0.0, "id": 2775857852, "level": 4}
+{"count": 1480, "name": "Discharge ionization detector", "weight": 0.0, "id": 2983539, "level": 4}
+{"count": 216, "name": "Penning mixture", "weight": 0.0, "id": 4058229, "level": 4}
+{"count": 1603, "name": "Gaseous ionization detectors", "weight": 0.0, "id": 190072372, "level": 4}
+{"count": 376, "name": "Spark ionization", "weight": 0.0, "id": 183926375, "level": 4}
+{"count": 32, "name": "Photofragment-ion imaging", "weight": 0.0, "id": 2778092843, "level": 4}
+{"count": 180, "name": "Argon flash", "weight": 0.0, "id": 164977555, "level": 4}
+{"count": 9, "name": "Rydberg ionization spectroscopy", "weight": 0.0, "id": 2776871613, "level": 4}

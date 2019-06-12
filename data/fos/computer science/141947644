@@ -1,0 +1,9 @@
+{"count": 642, "name": "AX.25", "weight": 4.0, "id": 147621760, "level": 5}
+{"count": 144, "name": "Ingress router", "weight": 0.0, "id": 2780318228, "level": 5}
+{"count": 1502, "name": "Bridge router", "weight": 9.0, "id": 87756765, "level": 5}
+{"count": 1169, "name": "Egress router", "weight": 7.0, "id": 116879578, "level": 5}
+{"count": 1583, "name": "P Router", "weight": 10.0, "id": 202274260, "level": 5}
+{"count": 159, "name": "Terminal node controller", "weight": 1.0, "id": 33341308, "level": 5}
+{"count": 691, "name": "Martian packet", "weight": 4.0, "id": 75635799, "level": 5}
+{"count": 487, "name": "Christmas tree packet", "weight": 3.0, "id": 175346045, "level": 5}
+{"count": 42, "name": "PARC Universal Packet", "weight": 0.0, "id": 134159626, "level": 5}

@@ -1,0 +1,6 @@
+{"count": 1614, "name": "Discretization error", "weight": 10.0, "id": 126148662, "level": 3}
+{"count": 145, "name": "Discrete exterior calculus", "weight": 0.0, "id": 2781162609, "level": 3}
+{"count": 1241, "name": "Temporal discretization", "weight": 7.0, "id": 2778327290, "level": 3}
+{"count": 167, "name": "Compact stencil", "weight": 1.0, "id": 2778437084, "level": 3}
+{"count": 153, "name": "Five-point stencil", "weight": 0.0, "id": 3032387, "level": 3}
+{"count": 982, "name": "Discretization of continuous features", "weight": 6.0, "id": 105427703, "level": 3}

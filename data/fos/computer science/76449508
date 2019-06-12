@@ -1,0 +1,89 @@
+{"count": 1531, "name": "Mathematical Operators", "weight": 0.0, "id": 2777483049, "level": 3}
+{"count": 1336, "name": "Normal operator", "weight": 0.0, "id": 77929767, "level": 3}
+{"count": 2176, "name": "Composition operator", "weight": 1.0, "id": 21513729, "level": 3}
+{"count": 4031, "name": "Self-adjoint operator", "weight": 1.0, "id": 171972299, "level": 3}
+{"count": 7213, "name": "Multiplication operator", "weight": 3.0, "id": 82916341, "level": 3}
+{"count": 6051, "name": "Hardy space", "weight": 2.0, "id": 42178598, "level": 3}
+{"count": 5108, "name": "Bounded operator", "weight": 2.0, "id": 175454919, "level": 3}
+{"count": 5672, "name": "Shift operator", "weight": 2.0, "id": 65630602, "level": 3}
+{"count": 2382, "name": "Maximal function", "weight": 1.0, "id": 188422159, "level": 3}
+{"count": 20599, "name": "Operator theory", "weight": 10.0, "id": 43929395, "level": 3}
+{"count": 942, "name": "Transfer operator", "weight": 0.0, "id": 2777952282, "level": 3}
+{"count": 1033, "name": "Pseudo-differential operator", "weight": 0.0, "id": 15460668, "level": 3}
+{"count": 2526, "name": "Modulus of continuity", "weight": 1.0, "id": 3098717, "level": 3}
+{"count": 1785, "name": "Essential spectrum", "weight": 0.0, "id": 2780297109, "level": 3}
+{"count": 1062, "name": "Closure operator", "weight": 0.0, "id": 160771489, "level": 3}
+{"count": 2722, "name": "Bergman space", "weight": 1.0, "id": 107264478, "level": 3}
+{"count": 833, "name": "Banach lattice", "weight": 0.0, "id": 2781271947, "level": 3}
+{"count": 5806, "name": "Resolvent", "weight": 2.0, "id": 196267783, "level": 3}
+{"count": 508, "name": "Modulation space", "weight": 0.0, "id": 9861890, "level": 3}
+{"count": 10427, "name": "Schr\u00f6dinger's cat", "weight": 5.0, "id": 194800363, "level": 3}
+{"count": 2228, "name": "Bergman kernel", "weight": 1.0, "id": 17139452, "level": 3}
+{"count": 842, "name": "D'Alembert operator", "weight": 0.0, "id": 58677928, "level": 3}
+{"count": 625, "name": "Carleson measure", "weight": 0.0, "id": 2778899738, "level": 3}
+{"count": 654, "name": "Bloch space", "weight": 0.0, "id": 2778283813, "level": 3}
+{"count": 495, "name": "Dirichlet space", "weight": 0.0, "id": 2780079374, "level": 3}
+{"count": 555, "name": "Modulus of smoothness", "weight": 0.0, "id": 2780325870, "level": 3}
+{"count": 396, "name": "Ecological interface design", "weight": 0.0, "id": 44863063, "level": 3}
+{"count": 248, "name": "Hyponormal operator", "weight": 0.0, "id": 2780609894, "level": 3}
+{"count": 2150, "name": "Unitary operator", "weight": 1.0, "id": 188313703, "level": 3}
+{"count": 394, "name": "Oscillatory integral", "weight": 0.0, "id": 2776003510, "level": 3}
+{"count": 151, "name": "Operator ideal", "weight": 0.0, "id": 2778823038, "level": 3}
+{"count": 415, "name": "Dunkl operator", "weight": 0.0, "id": 187142553, "level": 3}
+{"count": 482, "name": "GOMS", "weight": 0.0, "id": 196074963, "level": 3}
+{"count": 188, "name": "Spectral set", "weight": 0.0, "id": 2777411256, "level": 3}
+{"count": 114, "name": "Hypercyclic operator", "weight": 0.0, "id": 2779128903, "level": 3}
+{"count": 402, "name": "Strong operator topology", "weight": 0.0, "id": 107664039, "level": 3}
+{"count": 621, "name": "Trace class", "weight": 0.0, "id": 131229623, "level": 3}
+{"count": 303, "name": "Translation operator", "weight": 0.0, "id": 2780096738, "level": 3}
+{"count": 66, "name": "Hilbert\u2013Schmidt operator", "weight": 0.0, "id": 2781268278, "level": 3}
+{"count": 371, "name": "Relational operator", "weight": 0.0, "id": 72589913, "level": 3}
+{"count": 33, "name": "G\u00e5rding's inequality", "weight": 0.0, "id": 2777354458, "level": 3}
+{"count": 267, "name": "Muckenhoupt weights", "weight": 0.0, "id": 2776991344, "level": 3}
+{"count": 77, "name": "Measure of non-compactness", "weight": 0.0, "id": 2780003456, "level": 3}
+{"count": 173, "name": "Delimited continuation", "weight": 0.0, "id": 63284112, "level": 3}
+{"count": 239, "name": "Principal type", "weight": 0.0, "id": 2780315694, "level": 3}
+{"count": 23, "name": "J operator", "weight": 0.0, "id": 63137364, "level": 3}
+{"count": 344, "name": "Exchange operator", "weight": 0.0, "id": 119677907, "level": 3}
+{"count": 246, "name": "Operator overloading", "weight": 0.0, "id": 139485218, "level": 3}
+{"count": 185, "name": "Friedrichs extension", "weight": 0.0, "id": 2779811775, "level": 3}
+{"count": 201, "name": "Calkin algebra", "weight": 0.0, "id": 2778316994, "level": 3}
+{"count": 107, "name": "Nilpotent operator", "weight": 0.0, "id": 2778584771, "level": 3}
+{"count": 77, "name": "Dixmier trace", "weight": 0.0, "id": 56649809, "level": 3}
+{"count": 88, "name": "q-derivative", "weight": 0.0, "id": 2776286756, "level": 3}
+{"count": 226, "name": "Resolvent set", "weight": 0.0, "id": 2776717620, "level": 3}
+{"count": 122, "name": "Operator system", "weight": 0.0, "id": 2779059210, "level": 3}
+{"count": 70, "name": "Nemytskii operator", "weight": 0.0, "id": 2780645928, "level": 3}
+{"count": 76, "name": "Nevanlinna function", "weight": 0.0, "id": 2778990664, "level": 3}
+{"count": 32, "name": "Rota\u2013Baxter algebra", "weight": 0.0, "id": 2779899538, "level": 3}
+{"count": 148, "name": "Fusion frame", "weight": 0.0, "id": 2776204677, "level": 3}
+{"count": 43, "name": "Lieb\u2013Thirring inequality", "weight": 0.0, "id": 2775903777, "level": 3}
+{"count": 51, "name": "Diamond operator", "weight": 0.0, "id": 2777855167, "level": 3}
+{"count": 102, "name": "Heronian mean", "weight": 0.0, "id": 6420306, "level": 3}
+{"count": 1700, "name": "Strongly monotone", "weight": 0.0, "id": 12715386, "level": 3}
+{"count": 32, "name": "Natural bundle", "weight": 0.0, "id": 2780592716, "level": 3}
+{"count": 177, "name": "Window operator", "weight": 0.0, "id": 2777017336, "level": 3}
+{"count": 274, "name": "Order operator", "weight": 0.0, "id": 2778369418, "level": 3}
+{"count": 94, "name": "Conditional operator", "weight": 0.0, "id": 2778456252, "level": 3}
+{"count": 55, "name": "FBI transform", "weight": 0.0, "id": 134155982, "level": 3}
+{"count": 117, "name": "Almost Mathieu operator", "weight": 0.0, "id": 203893716, "level": 3}
+{"count": 473, "name": "Marcinkiewicz interpolation theorem", "weight": 0.0, "id": 123988919, "level": 3}
+{"count": 32, "name": "Neumann\u2013Poincar\u00e9 operator", "weight": 0.0, "id": 2780155828, "level": 3}
+{"count": 163, "name": "Antiunitary operator", "weight": 0.0, "id": 166774567, "level": 3}
+{"count": 26, "name": "Schur test", "weight": 0.0, "id": 2778829648, "level": 3}
+{"count": 30, "name": "Carleson's theorem", "weight": 0.0, "id": 2778088847, "level": 3}
+{"count": 44, "name": "Bicommutant", "weight": 0.0, "id": 2780391956, "level": 3}
+{"count": 110, "name": "Mobile phone operator", "weight": 0.0, "id": 2781191085, "level": 3}
+{"count": 18, "name": "Heinz mean", "weight": 0.0, "id": 192318995, "level": 3}
+{"count": 168, "name": "Compensatory tracking task", "weight": 0.0, "id": 2776678601, "level": 3}
+{"count": 77, "name": "Downward entailing", "weight": 0.0, "id": 2777091648, "level": 3}
+{"count": 53, "name": "Common operator notation", "weight": 0.0, "id": 161356922, "level": 3}
+{"count": 167, "name": "Reactor operator", "weight": 0.0, "id": 2781065220, "level": 3}
+{"count": 151, "name": "Differintegral", "weight": 0.0, "id": 2776869986, "level": 3}
+{"count": 83, "name": "Gate operator", "weight": 0.0, "id": 2780630376, "level": 3}
+{"count": 12, "name": "Increment and decrement operators", "weight": 0.0, "id": 2778194686, "level": 3}
+{"count": 75, "name": "Dimensional operator", "weight": 0.0, "id": 2779544772, "level": 3}
+{"count": 7, "name": "Antieigenvalue theory", "weight": 0.0, "id": 2780102678, "level": 3}
+{"count": 26, "name": "Clobbering", "weight": 0.0, "id": 2779977157, "level": 3}
+{"count": 38, "name": "Traffic Service Position System", "weight": 0.0, "id": 2776348708, "level": 3}
+{"count": 42, "name": "Operator associativity", "weight": 0.0, "id": 145458116, "level": 3}

@@ -1,0 +1,15 @@
+{"count": 2145, "name": "Kernel (image processing)", "weight": 10.0, "id": 3270621, "level": 3}
+{"count": 312, "name": "Line integral convolution", "weight": 1.0, "id": 146914847, "level": 3}
+{"count": 1770, "name": "Circular convolution", "weight": 8.0, "id": 194980680, "level": 3}
+{"count": 1728, "name": "Convolution theorem", "weight": 8.0, "id": 79587385, "level": 3}
+{"count": 278, "name": "Mollifier", "weight": 1.0, "id": 95622383, "level": 3}
+{"count": 317, "name": "Separable filter", "weight": 1.0, "id": 206848076, "level": 3}
+{"count": 1824, "name": "Overlap\u2013add method", "weight": 8.0, "id": 181002996, "level": 3}
+{"count": 120, "name": "Boehmians", "weight": 0.0, "id": 2777903711, "level": 3}
+{"count": 71, "name": "Symmetric convolution", "weight": 0.0, "id": 2775923299, "level": 3}
+{"count": 24, "name": "Idempotent measure", "weight": 0.0, "id": 2779091175, "level": 3}
+{"count": 72, "name": "Dirichlet convolution", "weight": 0.0, "id": 2777200045, "level": 3}
+{"count": 58, "name": "Beurling algebra", "weight": 0.0, "id": 2780581409, "level": 3}
+{"count": 1799, "name": "Convolution power", "weight": 8.0, "id": 86254553, "level": 3}
+{"count": 28, "name": "Titchmarsh convolution theorem", "weight": 0.0, "id": 2776005614, "level": 3}
+{"count": 7, "name": "Negacyclic convolution", "weight": 0.0, "id": 2775891936, "level": 3}

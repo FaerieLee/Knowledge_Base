@@ -1,0 +1,11 @@
+{"count": 2082, "name": "Clock drift", "weight": 7.0, "id": 155837451, "level": 5}
+{"count": 283, "name": "Logical clock", "weight": 1.0, "id": 35355132, "level": 5}
+{"count": 687, "name": "Clock network", "weight": 2.0, "id": 2778182565, "level": 5}
+{"count": 1481, "name": "Vector clock", "weight": 5.0, "id": 52563298, "level": 5}
+{"count": 2621, "name": "Timing failure", "weight": 10.0, "id": 104654189, "level": 5}
+{"count": 958, "name": "Matrix clock", "weight": 3.0, "id": 57990899, "level": 5}
+{"count": 89, "name": "Megahertz myth", "weight": 0.0, "id": 124255082, "level": 5}
+{"count": 371, "name": "Dual-voltage CPU", "weight": 1.0, "id": 82989803, "level": 5}
+{"count": 1250, "name": "Underclocking", "weight": 4.0, "id": 120253599, "level": 5}
+{"count": 1413, "name": "Clock angle problem", "weight": 5.0, "id": 40635601, "level": 5}
+{"count": 27, "name": "Page Size Extension", "weight": 0.0, "id": 170845606, "level": 5}

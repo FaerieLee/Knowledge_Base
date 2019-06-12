@@ -1,0 +1,7 @@
+{"count": 156, "name": "MD4", "weight": 4.0, "id": 184565465, "level": 5}
+{"count": 363, "name": "Preimage attack", "weight": 10.0, "id": 119400147, "level": 5}
+{"count": 126, "name": "MD2", "weight": 3.0, "id": 142770879, "level": 5}
+{"count": 171, "name": "Birthday attack", "weight": 4.0, "id": 107774196, "level": 5}
+{"count": 62, "name": "Rebound attack", "weight": 1.0, "id": 2776934012, "level": 5}
+{"count": 8, "name": "FORK-256", "weight": 0.0, "id": 2777414901, "level": 5}
+{"count": 84, "name": "Claw-free permutation", "weight": 2.0, "id": 145759651, "level": 5}

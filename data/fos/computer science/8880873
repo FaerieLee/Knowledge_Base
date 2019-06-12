@@ -1,0 +1,18 @@
+{"count": 23445, "name": "Evolutionary computation", "weight": 7.0, "id": 105902424, "level": 3}
+{"count": 11759, "name": "Fitness function", "weight": 3.0, "id": 176066374, "level": 3}
+{"count": 13360, "name": "Genetic programming", "weight": 4.0, "id": 110332635, "level": 3}
+{"count": 5094, "name": "Premature convergence", "weight": 1.0, "id": 58758708, "level": 3}
+{"count": 4144, "name": "Memetic algorithm", "weight": 1.0, "id": 35129592, "level": 3}
+{"count": 31325, "name": "Crossover", "weight": 10.0, "id": 122507166, "level": 3}
+{"count": 1382, "name": "Evolvable hardware", "weight": 0.0, "id": 2776243922, "level": 3}
+{"count": 99, "name": "Mating pool", "weight": 0.0, "id": 2776797630, "level": 3}
+{"count": 4254, "name": "Adaptive simulated annealing", "weight": 1.0, "id": 46714192, "level": 3}
+{"count": 11526, "name": "Population-based incremental learning", "weight": 3.0, "id": 184497298, "level": 3}
+{"count": 913, "name": "Truncation selection", "weight": 0.0, "id": 106284839, "level": 3}
+{"count": 4869, "name": "Genetic representation", "weight": 1.0, "id": 6135463, "level": 3}
+{"count": 104, "name": "Effective fitness", "weight": 0.0, "id": 2780209366, "level": 3}
+{"count": 17937, "name": "Meta-optimization", "weight": 5.0, "id": 4935549, "level": 3}
+{"count": 51, "name": "Evolutionary data mining", "weight": 0.0, "id": 2778368200, "level": 3}
+{"count": 30, "name": "HEGA", "weight": 0.0, "id": 2780682406, "level": 3}
+{"count": 7, "name": "Human-based genetic algorithm", "weight": 0.0, "id": 2780223067, "level": 3}
+{"count": 648, "name": "Selection (genetic algorithm)", "weight": 0.0, "id": 81917197, "level": 3}

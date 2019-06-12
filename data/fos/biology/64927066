@@ -1,0 +1,18 @@
+{"count": 11403, "name": "Nucleosome", "weight": 10.0, "id": 84772758, "level": 3}
+{"count": 7854, "name": "Histone H3", "weight": 6.0, "id": 2776745794, "level": 3}
+{"count": 2672, "name": "Histone acetyltransferase", "weight": 2.0, "id": 2778001298, "level": 3}
+{"count": 648, "name": "HDAC1", "weight": 0.0, "id": 85240754, "level": 3}
+{"count": 6706, "name": "Histone H1", "weight": 5.0, "id": 101152365, "level": 3}
+{"count": 2744, "name": "Histone H4", "weight": 2.0, "id": 2779085176, "level": 3}
+{"count": 7599, "name": "Histone code", "weight": 6.0, "id": 10058791, "level": 3}
+{"count": 7697, "name": "Histone H2A", "weight": 6.0, "id": 56428682, "level": 3}
+{"count": 1740, "name": "Non-histone protein", "weight": 1.0, "id": 87026931, "level": 3}
+{"count": 8315, "name": "Histone methyltransferase", "weight": 7.0, "id": 150425827, "level": 3}
+{"count": 2122, "name": "Bromodomain", "weight": 1.0, "id": 74401373, "level": 3}
+{"count": 181, "name": "Histone variants", "weight": 0.0, "id": 2776608422, "level": 3}
+{"count": 4646, "name": "Demethylase", "weight": 4.0, "id": 2781364455, "level": 3}
+{"count": 4404, "name": "Histone octamer", "weight": 3.0, "id": 173681060, "level": 3}
+{"count": 662, "name": "Chromodomain", "weight": 0.0, "id": 179138559, "level": 3}
+{"count": 116, "name": "Methanothermus fervidus", "weight": 0.0, "id": 2781109573, "level": 3}
+{"count": 82, "name": "CAF-1", "weight": 0.0, "id": 2780684434, "level": 3}
+{"count": 403, "name": "Deoxyribonucleoprotein", "weight": 0.0, "id": 2778798054, "level": 3}

@@ -1,0 +1,4 @@
+{"count": 984, "name": "Face Recognition Grand Challenge", "weight": 1.0, "id": 191070858, "level": 4}
+{"count": 1299, "name": "Haar-like features", "weight": 1.0, "id": 123134398, "level": 4}
+{"count": 2926, "name": "Face hallucination", "weight": 4.0, "id": 54654163, "level": 4}
+{"count": 6568, "name": "Object-class detection", "weight": 10.0, "id": 71681937, "level": 4}

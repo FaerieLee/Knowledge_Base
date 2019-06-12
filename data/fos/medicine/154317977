@@ -1,0 +1,24 @@
+{"count": 35165, "name": "Antigen-presenting cell", "weight": 6.0, "id": 67662055, "level": 3}
+{"count": 24932, "name": "Interleukin 12", "weight": 4.0, "id": 149532602, "level": 3}
+{"count": 13308, "name": "Adoptive cell transfer", "weight": 2.0, "id": 90375314, "level": 3}
+{"count": 5045, "name": "T helper cell", "weight": 0.0, "id": 2781136212, "level": 3}
+{"count": 22259, "name": "CD40", "weight": 4.0, "id": 39347974, "level": 3}
+{"count": 9982, "name": "CTL*", "weight": 1.0, "id": 147969180, "level": 3}
+{"count": 4445, "name": "Perforin", "weight": 0.0, "id": 2776062744, "level": 3}
+{"count": 17727, "name": "Natural killer T cell", "weight": 3.0, "id": 139563560, "level": 3}
+{"count": 50825, "name": "CD8", "weight": 10.0, "id": 167672396, "level": 3}
+{"count": 3675, "name": "CTLA-4", "weight": 0.0, "id": 21705690, "level": 3}
+{"count": 2672, "name": "Granzyme", "weight": 0.0, "id": 183193105, "level": 3}
+{"count": 11927, "name": "CD28", "weight": 2.0, "id": 148125776, "level": 3}
+{"count": 33696, "name": "IL-2 receptor", "weight": 6.0, "id": 79484868, "level": 3}
+{"count": 3540, "name": "Granzyme B", "weight": 0.0, "id": 2780380082, "level": 3}
+{"count": 30029, "name": "Interleukin 21", "weight": 5.0, "id": 129374314, "level": 3}
+{"count": 992, "name": "Naive T cell", "weight": 0.0, "id": 2775982045, "level": 3}
+{"count": 335, "name": "TIGIT", "weight": 0.0, "id": 2779118045, "level": 3}
+{"count": 111, "name": "Ranpirnase", "weight": 0.0, "id": 2777751152, "level": 3}
+{"count": 24, "name": "Rhabdastrella globostellata", "weight": 0.0, "id": 2778712680, "level": 3}
+{"count": 14, "name": "Aglaia elliptica", "weight": 0.0, "id": 2777940414, "level": 3}
+{"count": 3615, "name": "Pan-T antigens", "weight": 0.0, "id": 153968139, "level": 3}
+{"count": 21, "name": "CD278", "weight": 0.0, "id": 2779060893, "level": 3}
+{"count": 29, "name": "KLRD1", "weight": 0.0, "id": 2775870334, "level": 3}
+{"count": 20, "name": "Piptocoma", "weight": 0.0, "id": 2780815734, "level": 3}

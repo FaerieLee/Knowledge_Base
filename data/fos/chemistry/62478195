@@ -1,0 +1,101 @@
+{"count": 45067, "name": "Cell signaling", "weight": 6.0, "id": 150555746, "level": 3}
+{"count": 35033, "name": "Mitogen-activated protein kinase", "weight": 5.0, "id": 132149769, "level": 3}
+{"count": 28457, "name": "G protein", "weight": 4.0, "id": 80631254, "level": 3}
+{"count": 9465, "name": "NFKB1", "weight": 1.0, "id": 123298856, "level": 3}
+{"count": 18971, "name": "Second messenger system", "weight": 2.0, "id": 163235415, "level": 3}
+{"count": 21973, "name": "Tyrosine phosphorylation", "weight": 3.0, "id": 2777553839, "level": 3}
+{"count": 67183, "name": "MAPK/ERK pathway", "weight": 10.0, "id": 57074206, "level": 3}
+{"count": 17348, "name": "Phospholipase C", "weight": 2.0, "id": 2778597717, "level": 3}
+{"count": 28453, "name": "NF-\u03baB", "weight": 4.0, "id": 2777730290, "level": 3}
+{"count": 5644, "name": "Inositol phosphate", "weight": 0.0, "id": 2778618036, "level": 3}
+{"count": 8002, "name": "Adenylyl cyclase", "weight": 1.0, "id": 2779178603, "level": 3}
+{"count": 7335, "name": "Signal transducing adaptor protein", "weight": 1.0, "id": 183786373, "level": 3}
+{"count": 3796, "name": "Phosphoinositide 3-kinase", "weight": 0.0, "id": 2781322055, "level": 3}
+{"count": 4812, "name": "Guanine nucleotide exchange factor", "weight": 0.0, "id": 126619667, "level": 3}
+{"count": 8869, "name": "STAT protein", "weight": 1.0, "id": 171958077, "level": 3}
+{"count": 2410, "name": "Two-component regulatory system", "weight": 0.0, "id": 138223613, "level": 3}
+{"count": 3899, "name": "Response regulator", "weight": 0.0, "id": 2781196521, "level": 3}
+{"count": 15760, "name": "STAT3", "weight": 2.0, "id": 2778923194, "level": 3}
+{"count": 2543, "name": "Histidine kinase", "weight": 0.0, "id": 2778905257, "level": 3}
+{"count": 1116, "name": "Src family kinase", "weight": 0.0, "id": 2779976819, "level": 3}
+{"count": 7175, "name": "Autophosphorylation", "weight": 1.0, "id": 150109051, "level": 3}
+{"count": 12506, "name": "Notch signaling pathway", "weight": 1.0, "id": 161879069, "level": 3}
+{"count": 2146, "name": "Janus kinase 2", "weight": 0.0, "id": 32465701, "level": 3}
+{"count": 7038, "name": "SMAD", "weight": 1.0, "id": 2781080636, "level": 3}
+{"count": 3176, "name": "Frizzled", "weight": 0.0, "id": 107300179, "level": 3}
+{"count": 8886, "name": "RHOA", "weight": 1.0, "id": 2777093181, "level": 3}
+{"count": 1389, "name": "Integrin-linked kinase", "weight": 0.0, "id": 66417403, "level": 3}
+{"count": 2172, "name": "Caveolin", "weight": 0.0, "id": 2779403975, "level": 3}
+{"count": 4951, "name": "JAK-STAT signaling pathway", "weight": 0.0, "id": 157333092, "level": 3}
+{"count": 6547, "name": "Scaffold protein", "weight": 0.0, "id": 53645450, "level": 3}
+{"count": 2816, "name": "SOCS3", "weight": 0.0, "id": 126042315, "level": 3}
+{"count": 2566, "name": "Glycoprotein 130", "weight": 0.0, "id": 126037660, "level": 3}
+{"count": 427, "name": "A-kinase-anchoring protein", "weight": 0.0, "id": 2778965603, "level": 3}
+{"count": 3271, "name": "Janus kinase", "weight": 0.0, "id": 112392421, "level": 3}
+{"count": 990, "name": "Janus kinase 1", "weight": 0.0, "id": 154390347, "level": 3}
+{"count": 6318, "name": "Wortmannin", "weight": 0.0, "id": 2778308172, "level": 3}
+{"count": 3261, "name": "STAT1", "weight": 0.0, "id": 2777003663, "level": 3}
+{"count": 4565, "name": "P70-S6 Kinase 1", "weight": 0.0, "id": 104202773, "level": 3}
+{"count": 4252, "name": "Syk", "weight": 0.0, "id": 35174551, "level": 3}
+{"count": 374, "name": "TNF receptor associated factor", "weight": 0.0, "id": 2777761293, "level": 3}
+{"count": 2892, "name": "STAT5", "weight": 0.0, "id": 2779391668, "level": 3}
+{"count": 2708, "name": "GRB2", "weight": 0.0, "id": 177917778, "level": 3}
+{"count": 1476, "name": "Rap1", "weight": 0.0, "id": 2776179587, "level": 3}
+{"count": 2789, "name": "FYN", "weight": 0.0, "id": 37686147, "level": 3}
+{"count": 1175, "name": "Cyclopamine", "weight": 0.0, "id": 2777605378, "level": 3}
+{"count": 3117, "name": "LYN", "weight": 0.0, "id": 175818844, "level": 3}
+{"count": 1839, "name": "BMPR2", "weight": 0.0, "id": 73834784, "level": 3}
+{"count": 2070, "name": "Smoothened", "weight": 0.0, "id": 145837895, "level": 3}
+{"count": 2026, "name": "LY294002", "weight": 0.0, "id": 2776912716, "level": 3}
+{"count": 2433, "name": "Hippo signaling pathway", "weight": 0.0, "id": 172512520, "level": 3}
+{"count": 4502, "name": "LRP5", "weight": 0.0, "id": 182819311, "level": 3}
+{"count": 1624, "name": "GLI1", "weight": 0.0, "id": 2779933373, "level": 3}
+{"count": 770, "name": "Adapter molecule crk", "weight": 0.0, "id": 133570447, "level": 3}
+{"count": 550, "name": "PAS domain", "weight": 0.0, "id": 2778875234, "level": 3}
+{"count": 417, "name": "Systemin", "weight": 0.0, "id": 2776790235, "level": 3}
+{"count": 3883, "name": "LRP6", "weight": 0.0, "id": 170320316, "level": 3}
+{"count": 999, "name": "PAK1", "weight": 0.0, "id": 24901178, "level": 3}
+{"count": 8478, "name": "Akt/PKB signaling pathway", "weight": 1.0, "id": 120395915, "level": 3}
+{"count": 968, "name": "Decapentaplegic", "weight": 0.0, "id": 2776735322, "level": 3}
+{"count": 1247, "name": "Tyrosine kinase 2", "weight": 0.0, "id": 130523297, "level": 3}
+{"count": 1358, "name": "Calphostin C", "weight": 0.0, "id": 2780245509, "level": 3}
+{"count": 800, "name": "WNT3A", "weight": 0.0, "id": 2779131293, "level": 3}
+{"count": 363, "name": "K252a", "weight": 0.0, "id": 2780094326, "level": 3}
+{"count": 196, "name": "Octadecanoid pathway", "weight": 0.0, "id": 2779584486, "level": 3}
+{"count": 419, "name": "CRKL", "weight": 0.0, "id": 2779260914, "level": 3}
+{"count": 428, "name": "P110\u03b1", "weight": 0.0, "id": 2781465904, "level": 3}
+{"count": 1466, "name": "Suppressor of cytokine signalling", "weight": 0.0, "id": 162354598, "level": 3}
+{"count": 312, "name": "GAB2", "weight": 0.0, "id": 2780827600, "level": 3}
+{"count": 317, "name": "Ultrasensitivity", "weight": 0.0, "id": 2778596595, "level": 3}
+{"count": 207, "name": "Receptor for activated C kinase 1", "weight": 0.0, "id": 2777302399, "level": 3}
+{"count": 365, "name": "TRAF3", "weight": 0.0, "id": 2778607703, "level": 3}
+{"count": 123, "name": "Signal transduction inhibitor", "weight": 0.0, "id": 2779562619, "level": 3}
+{"count": 373, "name": "IRAK4", "weight": 0.0, "id": 2778366702, "level": 3}
+{"count": 26, "name": "Chimerin 1", "weight": 0.0, "id": 2776464739, "level": 3}
+{"count": 277, "name": "TRAF1", "weight": 0.0, "id": 2780168922, "level": 3}
+{"count": 136, "name": "SIAH2", "weight": 0.0, "id": 2779516495, "level": 3}
+{"count": 205, "name": "Pyrabactin", "weight": 0.0, "id": 2780573496, "level": 3}
+{"count": 129, "name": "Naked cuticle", "weight": 0.0, "id": 82470875, "level": 3}
+{"count": 228, "name": "Pyr1", "weight": 0.0, "id": 2776185575, "level": 3}
+{"count": 201, "name": "TRAF4", "weight": 0.0, "id": 2776914232, "level": 3}
+{"count": 257, "name": "Protein kinase D1", "weight": 0.0, "id": 2777207633, "level": 3}
+{"count": 603, "name": "HAMP domain", "weight": 0.0, "id": 10522644, "level": 3}
+{"count": 522, "name": "KT5720", "weight": 0.0, "id": 2777990073, "level": 3}
+{"count": 142, "name": "IRAK2", "weight": 0.0, "id": 2781196876, "level": 3}
+{"count": 882, "name": "ACVR2B", "weight": 0.0, "id": 22517002, "level": 3}
+{"count": 2628, "name": "Upstream and downstream (transduction)", "weight": 0.0, "id": 18411471, "level": 3}
+{"count": 63, "name": "Chemically induced dimerization", "weight": 0.0, "id": 2780365407, "level": 3}
+{"count": 143, "name": "NDR kinase", "weight": 0.0, "id": 2777678975, "level": 3}
+{"count": 578, "name": "Calphostin", "weight": 0.0, "id": 2781168148, "level": 3}
+{"count": 75, "name": "WNT1-inducible-signaling pathway protein 1", "weight": 0.0, "id": 2777137960, "level": 3}
+{"count": 4112, "name": "RPTOR", "weight": 0.0, "id": 43060935, "level": 3}
+{"count": 71, "name": "HHAT", "weight": 0.0, "id": 2781450010, "level": 3}
+{"count": 25, "name": "Blood vessel epicardial substance", "weight": 0.0, "id": 2781430367, "level": 3}
+{"count": 26, "name": "GNG2", "weight": 0.0, "id": 2776509936, "level": 3}
+{"count": 135, "name": "Biochemical cascade", "weight": 0.0, "id": 34758486, "level": 3}
+{"count": 12, "name": "N-myc-interactor", "weight": 0.0, "id": 2780312448, "level": 3}
+{"count": 19, "name": "RAPGEF4", "weight": 0.0, "id": 2776113462, "level": 3}
+{"count": 112, "name": "Ras subfamily", "weight": 0.0, "id": 2777019131, "level": 3}
+{"count": 50, "name": "Protein-glutamate methylesterase", "weight": 0.0, "id": 164555247, "level": 3}
+{"count": 81, "name": "Crosstalk (biology)", "weight": 0.0, "id": 82942028, "level": 3}
+{"count": 45, "name": "Protein-glutamate O-methyltransferase", "weight": 0.0, "id": 51541190, "level": 3}

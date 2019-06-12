@@ -1,0 +1,8 @@
+{"count": 146, "name": "Streaming SIMD Extensions", "weight": 3.0, "id": 2777760043, "level": 4}
+{"count": 380, "name": "SSE2", "weight": 10.0, "id": 63165475, "level": 4}
+{"count": 21, "name": "Visual Instruction Set", "weight": 0.0, "id": 91698911, "level": 4}
+{"count": 164, "name": "AltiVec", "weight": 4.0, "id": 197018842, "level": 4}
+{"count": 329, "name": "MISD", "weight": 8.0, "id": 202941707, "level": 4}
+{"count": 152, "name": "SISD", "weight": 4.0, "id": 80223181, "level": 4}
+{"count": 28, "name": "Superword Level Parallelism", "weight": 0.0, "id": 2779189532, "level": 4}
+{"count": 13, "name": "Xetal", "weight": 0.0, "id": 2780122955, "level": 4}

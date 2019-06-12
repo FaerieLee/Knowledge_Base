@@ -1,0 +1,54 @@
+{"count": 28902, "name": "Portland cement", "weight": 8.0, "id": 2780021121, "level": 3}
+{"count": 32718, "name": "Mortar", "weight": 10.0, "id": 130767629, "level": 3}
+{"count": 10031, "name": "Silica fume", "weight": 3.0, "id": 11839303, "level": 3}
+{"count": 12100, "name": "Ground granulated blast-furnace slag", "weight": 3.0, "id": 33819350, "level": 3}
+{"count": 3546, "name": "Water\u2013cement ratio", "weight": 1.0, "id": 2779054714, "level": 3}
+{"count": 2542, "name": "Calcium silicate hydrate", "weight": 0.0, "id": 2779850335, "level": 3}
+{"count": 13568, "name": "Clinker (cement)", "weight": 4.0, "id": 105192709, "level": 3}
+{"count": 7780, "name": "Superplasticizer", "weight": 2.0, "id": 192757587, "level": 3}
+{"count": 3896, "name": "Metakaolin", "weight": 1.0, "id": 126292034, "level": 3}
+{"count": 2173, "name": "Alkali\u2013silica reaction", "weight": 0.0, "id": 102336505, "level": 3}
+{"count": 1263, "name": "Alkali\u2013aggregate reaction", "weight": 0.0, "id": 2778194941, "level": 3}
+{"count": 5475, "name": "Polymer concrete", "weight": 1.0, "id": 117718488, "level": 3}
+{"count": 1558, "name": "Concrete slump test", "weight": 0.0, "id": 84889859, "level": 3}
+{"count": 2509, "name": "Soil cement", "weight": 0.0, "id": 2776196969, "level": 3}
+{"count": 890, "name": "Dental cement", "weight": 0.0, "id": 2776189445, "level": 3}
+{"count": 3722, "name": "Cement kiln", "weight": 1.0, "id": 2776955867, "level": 3}
+{"count": 2232, "name": "Roller-compacted concrete", "weight": 0.0, "id": 147108130, "level": 3}
+{"count": 891, "name": "Sorptivity", "weight": 0.0, "id": 2777364628, "level": 3}
+{"count": 2005, "name": "Foam concrete", "weight": 0.0, "id": 2778500112, "level": 3}
+{"count": 903, "name": "Co-processing", "weight": 0.0, "id": 76196390, "level": 3}
+{"count": 18892, "name": "Cementitious", "weight": 5.0, "id": 2779666059, "level": 3}
+{"count": 608, "name": "Tetracalcium phosphate", "weight": 0.0, "id": 2781339703, "level": 3}
+{"count": 1792, "name": "Hydration reaction", "weight": 0.0, "id": 2776775114, "level": 3}
+{"count": 556, "name": "Hydraulic lime", "weight": 0.0, "id": 2779462205, "level": 3}
+{"count": 400, "name": "Freeze thaw resistance", "weight": 0.0, "id": 2778511298, "level": 3}
+{"count": 112, "name": "Friedel's salt", "weight": 0.0, "id": 2777450185, "level": 3}
+{"count": 1786, "name": "Water reducer", "weight": 0.0, "id": 2777433738, "level": 3}
+{"count": 1091, "name": "Well cementing", "weight": 0.0, "id": 2777880356, "level": 3}
+{"count": 422, "name": "Fineness modulus", "weight": 0.0, "id": 2778960328, "level": 3}
+{"count": 78, "name": "Whitewash", "weight": 0.0, "id": 116456004, "level": 3}
+{"count": 438, "name": "Accelerated curing", "weight": 0.0, "id": 2780129296, "level": 3}
+{"count": 205, "name": "Welan gum", "weight": 0.0, "id": 2777111015, "level": 3}
+{"count": 244, "name": "Concrete recycling", "weight": 0.0, "id": 2777637114, "level": 3}
+{"count": 355, "name": "Fibre cement", "weight": 0.0, "id": 2779527186, "level": 3}
+{"count": 233, "name": "Controlled low strength material", "weight": 0.0, "id": 2777548727, "level": 3}
+{"count": 435, "name": "Wood wool", "weight": 0.0, "id": 2777634390, "level": 3}
+{"count": 1296, "name": "Types of concrete", "weight": 0.0, "id": 2780968451, "level": 3}
+{"count": 186, "name": "Sulfur concrete", "weight": 0.0, "id": 2776601839, "level": 3}
+{"count": 397, "name": "Cement mill", "weight": 0.0, "id": 2775858036, "level": 3}
+{"count": 200, "name": "Sandcrete", "weight": 0.0, "id": 2780963925, "level": 3}
+{"count": 6886, "name": "Properties of concrete", "weight": 2.0, "id": 2781191127, "level": 3}
+{"count": 217, "name": "Triisopropanolamine", "weight": 0.0, "id": 2780816298, "level": 3}
+{"count": 1062, "name": "Cement board", "weight": 0.0, "id": 2776177899, "level": 3}
+{"count": 249, "name": "Rubber cement", "weight": 0.0, "id": 2778242978, "level": 3}
+{"count": 110, "name": "Ultrasonic pulse velocity test", "weight": 0.0, "id": 2775920383, "level": 3}
+{"count": 83, "name": "Cement bond log", "weight": 0.0, "id": 2779501808, "level": 3}
+{"count": 76, "name": "Sorel cement", "weight": 0.0, "id": 2776915535, "level": 3}
+{"count": 21, "name": "Cement render", "weight": 0.0, "id": 2777389744, "level": 3}
+{"count": 19, "name": "Full depth recycling", "weight": 0.0, "id": 2777851880, "level": 3}
+{"count": 104, "name": "Gypsum concrete", "weight": 0.0, "id": 2779867950, "level": 3}
+{"count": 37, "name": "Hydrophobic concrete", "weight": 0.0, "id": 2779940164, "level": 3}
+{"count": 229, "name": "Cement tile", "weight": 0.0, "id": 2779948292, "level": 3}
+{"count": 21, "name": "Fiber cement siding", "weight": 0.0, "id": 2778475754, "level": 3}
+{"count": 30, "name": "Cement accelerator", "weight": 0.0, "id": 2776883282, "level": 3}

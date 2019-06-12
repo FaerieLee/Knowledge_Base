@@ -1,0 +1,19 @@
+{"count": 6411, "name": "Spark-ignition engine", "weight": 5.0, "id": 2777703250, "level": 3}
+{"count": 6962, "name": "Autoignition temperature", "weight": 5.0, "id": 64127748, "level": 3}
+{"count": 5860, "name": "Spontaneous combustion", "weight": 4.0, "id": 152984320, "level": 3}
+{"count": 375, "name": "Rapid compression machine", "weight": 0.0, "id": 2781239065, "level": 3}
+{"count": 1126, "name": "Laser ignition", "weight": 0.0, "id": 2779853127, "level": 3}
+{"count": 12606, "name": "Ignition timing", "weight": 10.0, "id": 96532641, "level": 3}
+{"count": 597, "name": "Cool flame", "weight": 0.0, "id": 2777131152, "level": 3}
+{"count": 2647, "name": "Minimum ignition energy", "weight": 2.0, "id": 104733991, "level": 3}
+{"count": 698, "name": "Hypergolic propellant", "weight": 0.0, "id": 153080966, "level": 3}
+{"count": 131, "name": "Oxygen compatibility", "weight": 0.0, "id": 2778048437, "level": 3}
+{"count": 2126, "name": "IGNITOR", "weight": 1.0, "id": 2779970349, "level": 3}
+{"count": 65, "name": "Incendiary ammunition", "weight": 0.0, "id": 2776255022, "level": 3}
+{"count": 61, "name": "Fuel surrogate", "weight": 0.0, "id": 2778671384, "level": 3}
+{"count": 796, "name": "Squib", "weight": 0.0, "id": 2781188489, "level": 3}
+{"count": 2611, "name": "Ignition switch", "weight": 2.0, "id": 2778094885, "level": 3}
+{"count": 85, "name": "Ejection charge", "weight": 0.0, "id": 24722842, "level": 3}
+{"count": 29, "name": "Combustion, Explosion, and Shock Waves", "weight": 0.0, "id": 2776261308, "level": 3}
+{"count": 9, "name": "Inductive discharge ignition", "weight": 0.0, "id": 2777738059, "level": 3}
+{"count": 35, "name": "Ignition magneto", "weight": 0.0, "id": 2780672959, "level": 3}

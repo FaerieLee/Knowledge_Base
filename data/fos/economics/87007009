@@ -1,0 +1,8 @@
+{"count": 2626, "name": "False discovery rate", "weight": 2.0, "id": 193244246, "level": 3}
+{"count": 9272, "name": "Test statistic", "weight": 10.0, "id": 169857963, "level": 3}
+{"count": 3067, "name": "p-value", "weight": 3.0, "id": 44036329, "level": 3}
+{"count": 5101, "name": "Alternative hypothesis", "weight": 5.0, "id": 120577422, "level": 3}
+{"count": 429, "name": "Uniformly most powerful test", "weight": 0.0, "id": 39495881, "level": 3}
+{"count": 109, "name": "Neyman\u2013Pearson lemma", "weight": 0.0, "id": 2779740131, "level": 3}
+{"count": 214, "name": "Data dredging", "weight": 0.0, "id": 145699631, "level": 3}
+{"count": 249, "name": "Estimation statistics", "weight": 0.0, "id": 202410800, "level": 3}

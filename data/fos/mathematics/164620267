@@ -1,0 +1,16 @@
+{"count": 1875, "name": "Residue number system", "weight": 5.0, "id": 71480937, "level": 3}
+{"count": 1073, "name": "Power\u2013delay product", "weight": 3.0, "id": 2776391166, "level": 3}
+{"count": 320, "name": "Common subexpression elimination", "weight": 0.0, "id": 165972615, "level": 3}
+{"count": 3409, "name": "Carry-save adder", "weight": 10.0, "id": 3227080, "level": 3}
+{"count": 826, "name": "Booth's multiplication algorithm", "weight": 2.0, "id": 72475854, "level": 3}
+{"count": 2665, "name": "Subtractor", "weight": 7.0, "id": 187805909, "level": 3}
+{"count": 230, "name": "Binary multiplier", "weight": 0.0, "id": 2778008563, "level": 3}
+{"count": 523, "name": "Wallace tree", "weight": 1.0, "id": 2777063595, "level": 3}
+{"count": 441, "name": "Two's complement", "weight": 1.0, "id": 70087712, "level": 3}
+{"count": 216, "name": "Logical effort", "weight": 0.0, "id": 2780611830, "level": 3}
+{"count": 95, "name": "Signed-digit representation", "weight": 0.0, "id": 2778342864, "level": 3}
+{"count": 65, "name": "Redundant binary representation", "weight": 0.0, "id": 2781026396, "level": 3}
+{"count": 234, "name": "Multiply\u2013accumulate operation", "weight": 0.0, "id": 171607307, "level": 3}
+{"count": 169, "name": "Sign extension", "weight": 0.0, "id": 2780089525, "level": 3}
+{"count": 212, "name": "Signed number representations", "weight": 0.0, "id": 147016909, "level": 3}
+{"count": 3038, "name": "Serial binary adder", "weight": 8.0, "id": 116206932, "level": 3}

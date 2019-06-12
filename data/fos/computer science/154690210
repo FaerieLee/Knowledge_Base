@@ -1,0 +1,10 @@
+{"count": 553, "name": "Rewrite rule", "weight": 10.0, "id": 2781222771, "level": 3}
+{"count": 338, "name": "Query Rewriting", "weight": 6.0, "id": 2775960964, "level": 3}
+{"count": 500, "name": "Critical pair", "weight": 9.0, "id": 2776201456, "level": 3}
+{"count": 170, "name": "Interaction nets", "weight": 3.0, "id": 2777608525, "level": 3}
+{"count": 30, "name": "Rho calculus", "weight": 0.0, "id": 2778125561, "level": 3}
+{"count": 105, "name": "Path-ordering", "weight": 1.0, "id": 2779712879, "level": 3}
+{"count": 24, "name": "Abstract rewriting system", "weight": 0.0, "id": 2779352050, "level": 3}
+{"count": 33, "name": "Dense order", "weight": 0.0, "id": 2781092544, "level": 3}
+{"count": 291, "name": "Prefix grammar", "weight": 5.0, "id": 138388338, "level": 3}
+{"count": 149, "name": "Knuth\u2013Bendix completion algorithm", "weight": 2.0, "id": 85675765, "level": 3}

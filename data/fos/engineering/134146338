@@ -1,0 +1,29 @@
+{"count": 8895, "name": "Analogue electronics", "weight": 8.0, "id": 29074008, "level": 3}
+{"count": 7179, "name": "Combinational logic", "weight": 6.0, "id": 81409106, "level": 3}
+{"count": 1673, "name": "Circuit reliability", "weight": 1.0, "id": 2778309119, "level": 3}
+{"count": 8561, "name": "Linear circuit", "weight": 7.0, "id": 194571574, "level": 3}
+{"count": 2533, "name": "Current conveyor", "weight": 2.0, "id": 110252649, "level": 3}
+{"count": 1073, "name": "Power\u2013delay product", "weight": 0.0, "id": 2776391166, "level": 3}
+{"count": 1516, "name": "Quantum dot cellular automaton", "weight": 1.0, "id": 116523029, "level": 3}
+{"count": 968, "name": "Current-mode logic", "weight": 0.0, "id": 2780295579, "level": 3}
+{"count": 1221, "name": "Chua's circuit", "weight": 1.0, "id": 2781300247, "level": 3}
+{"count": 3933, "name": "Electronic circuit simulation", "weight": 3.0, "id": 46205389, "level": 3}
+{"count": 917, "name": "Electronic circuit design", "weight": 0.0, "id": 99149447, "level": 3}
+{"count": 682, "name": "Transistor\u2013transistor logic", "weight": 0.0, "id": 30250603, "level": 3}
+{"count": 614, "name": "Reversible computing", "weight": 0.0, "id": 20274610, "level": 3}
+{"count": 11025, "name": "Discrete circuit", "weight": 10.0, "id": 188058453, "level": 3}
+{"count": 4847, "name": "Integrated injection logic", "weight": 4.0, "id": 159903706, "level": 3}
+{"count": 216, "name": "Logical effort", "weight": 0.0, "id": 2780611830, "level": 3}
+{"count": 113, "name": "Berger code", "weight": 0.0, "id": 2776035758, "level": 3}
+{"count": 109, "name": "Sneak circuit analysis", "weight": 0.0, "id": 51234025, "level": 3}
+{"count": 577, "name": "Coincidence circuit", "weight": 0.0, "id": 2781209677, "level": 3}
+{"count": 93, "name": "Norator", "weight": 0.0, "id": 2779747906, "level": 3}
+{"count": 92, "name": "Nullator", "weight": 0.0, "id": 2776722476, "level": 3}
+{"count": 64, "name": "ASTAP", "weight": 0.0, "id": 2777062596, "level": 3}
+{"count": 210, "name": "Cryotron", "weight": 0.0, "id": 2780949739, "level": 3}
+{"count": 64, "name": "Translinear circuit", "weight": 0.0, "id": 2780760133, "level": 3}
+{"count": 193, "name": "Regenerative circuit", "weight": 0.0, "id": 2775858421, "level": 3}
+{"count": 139, "name": "Parametron", "weight": 0.0, "id": 2776631533, "level": 3}
+{"count": 32, "name": "ACC0", "weight": 0.0, "id": 2780188414, "level": 3}
+{"count": 21, "name": "Beam deflection tube", "weight": 0.0, "id": 2779910867, "level": 3}
+{"count": 38, "name": "Dekatron", "weight": 0.0, "id": 2777168771, "level": 3}

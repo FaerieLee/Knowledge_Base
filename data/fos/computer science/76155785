@@ -1,0 +1,200 @@
+{"count": 254340, "name": "Optical fiber", "weight": 3.0, "id": 194232370, "level": 2}
+{"count": 242262, "name": "Chip", "weight": 3.0, "id": 165005293, "level": 2}
+{"count": 100286, "name": "Signal-to-noise ratio", "weight": 1.0, "id": 73836528, "level": 2}
+{"count": 211971, "name": "Bandwidth (signal processing)", "weight": 2.0, "id": 74211669, "level": 2}
+{"count": 33285, "name": "Low frequency", "weight": 0.0, "id": 104892082, "level": 2}
+{"count": 409379, "name": "Wireless", "weight": 5.0, "id": 555944384, "level": 2}
+{"count": 136016, "name": "Wireless network", "weight": 1.0, "id": 108037233, "level": 2}
+{"count": 156165, "name": "Synchronization", "weight": 2.0, "id": 102602991, "level": 2}
+{"count": 102563, "name": "Radio frequency", "weight": 1.0, "id": 74064498, "level": 2}
+{"count": 214369, "name": "Modulation", "weight": 2.0, "id": 54956558, "level": 2}
+{"count": 139218, "name": "Data transmission", "weight": 1.0, "id": 557945733, "level": 2}
+{"count": 87122, "name": "Transmission line", "weight": 1.0, "id": 33441834, "level": 2}
+{"count": 142175, "name": "Decoding methods", "weight": 1.0, "id": 57273362, "level": 2}
+{"count": 52087, "name": "Spectral density", "weight": 0.0, "id": 168110828, "level": 2}
+{"count": 35215, "name": "Optical communication", "weight": 0.0, "id": 129404179, "level": 2}
+{"count": 214044, "name": "Microwave", "weight": 2.0, "id": 44838205, "level": 2}
+{"count": 361177, "name": "Antenna (radio)", "weight": 5.0, "id": 21822782, "level": 2}
+{"count": 69552, "name": "Mobile computing", "weight": 0.0, "id": 144543869, "level": 2}
+{"count": 66067, "name": "Surface wave", "weight": 0.0, "id": 84174578, "level": 2}
+{"count": 188029, "name": "Communications system", "weight": 2.0, "id": 101765175, "level": 2}
+{"count": 111710, "name": "Mobile telephony", "weight": 1.0, "id": 95491727, "level": 2}
+{"count": 26311, "name": "Spread spectrum", "weight": 0.0, "id": 105344744, "level": 2}
+{"count": 132761, "name": "Global Positioning System", "weight": 1.0, "id": 60229501, "level": 2}
+{"count": 121268, "name": "Base station", "weight": 1.0, "id": 68649174, "level": 2}
+{"count": 25089, "name": "Selectivity", "weight": 0.0, "id": 118792377, "level": 2}
+{"count": 82014, "name": "Telecommunications network", "weight": 1.0, "id": 192126672, "level": 2}
+{"count": 717151, "name": "Communication channel", "weight": 10.0, "id": 156996364, "level": 2}
+{"count": 170491, "name": "Radar", "weight": 2.0, "id": 554190296, "level": 2}
+{"count": 28142, "name": "White noise", "weight": 0.0, "id": 112633086, "level": 2}
+{"count": 158114, "name": "Transmitter", "weight": 2.0, "id": 47798520, "level": 2}
+{"count": 38102, "name": "Optical switch", "weight": 0.0, "id": 101336846, "level": 2}
+{"count": 29850, "name": "Extremely high frequency", "weight": 0.0, "id": 45764600, "level": 2}
+{"count": 18822, "name": "Mobile radio", "weight": 0.0, "id": 2781307350, "level": 2}
+{"count": 113901, "name": "Waveform", "weight": 1.0, "id": 197424946, "level": 2}
+{"count": 45120, "name": "Cellular network", "weight": 0.0, "id": 153646914, "level": 2}
+{"count": 11555, "name": "Radio receiver", "weight": 0.0, "id": 77602650, "level": 2}
+{"count": 143614, "name": "Distortion", "weight": 2.0, "id": 115225779, "level": 2}
+{"count": 130402, "name": "Broadcasting", "weight": 1.0, "id": 81959379, "level": 2}
+{"count": 86968, "name": "Service provider", "weight": 1.0, "id": 116537, "level": 2}
+{"count": 33472, "name": "Frequency modulation", "weight": 0.0, "id": 11930861, "level": 2}
+{"count": 52498, "name": "Transceiver", "weight": 0.0, "id": 7720470, "level": 2}
+{"count": 34533, "name": "Electromagnetic interference", "weight": 0.0, "id": 184892835, "level": 2}
+{"count": 11862, "name": "Intelligent Network", "weight": 0.0, "id": 51675839, "level": 2}
+{"count": 18552, "name": "Telephony", "weight": 0.0, "id": 195358072, "level": 2}
+{"count": 92295, "name": "Mobile phone", "weight": 1.0, "id": 2777421447, "level": 2}
+{"count": 60206, "name": "Interconnection", "weight": 0.0, "id": 123745756, "level": 2}
+{"count": 24638, "name": "Impedance matching", "weight": 0.0, "id": 612350, "level": 2}
+{"count": 51074, "name": "Demodulation", "weight": 0.0, "id": 195251586, "level": 2}
+{"count": 25293, "name": "Network planning and design", "weight": 0.0, "id": 114563136, "level": 2}
+{"count": 22520, "name": "Information exchange", "weight": 0.0, "id": 189693848, "level": 2}
+{"count": 26345, "name": "Data stream", "weight": 0.0, "id": 2778484313, "level": 2}
+{"count": 5899, "name": "Point-to-point", "weight": 0.0, "id": 174440990, "level": 2}
+{"count": 34185, "name": "Signal generator", "weight": 0.0, "id": 207912722, "level": 2}
+{"count": 22584, "name": "Telemetry", "weight": 0.0, "id": 183121708, "level": 2}
+{"count": 65973, "name": "Asynchronous communication", "weight": 0.0, "id": 151319957, "level": 2}
+{"count": 38593, "name": "Tracking system", "weight": 0.0, "id": 154586513, "level": 2}
+{"count": 34664, "name": "Jitter", "weight": 0.0, "id": 134652429, "level": 2}
+{"count": 27050, "name": "Radio wave", "weight": 0.0, "id": 96513508, "level": 2}
+{"count": 19119, "name": "Information transfer", "weight": 0.0, "id": 8854915, "level": 2}
+{"count": 19922, "name": "Background noise", "weight": 0.0, "id": 100675267, "level": 2}
+{"count": 17683, "name": "Narrowband", "weight": 0.0, "id": 2776096036, "level": 2}
+{"count": 67733, "name": "Remote control", "weight": 0.0, "id": 557691694, "level": 2}
+{"count": 22059, "name": "Noise (electronics)", "weight": 0.0, "id": 45584529, "level": 2}
+{"count": 22335, "name": "Voice over IP", "weight": 0.0, "id": 171246234, "level": 2}
+{"count": 41803, "name": "Warning system", "weight": 0.0, "id": 29825287, "level": 2}
+{"count": 17485, "name": "Videoconferencing", "weight": 0.0, "id": 22561748, "level": 2}
+{"count": 11672, "name": "Telecommunications service", "weight": 0.0, "id": 33271190, "level": 2}
+{"count": 15530, "name": "Codec", "weight": 0.0, "id": 161765866, "level": 2}
+{"count": 28328, "name": "Access network", "weight": 0.0, "id": 62793504, "level": 2}
+{"count": 28584, "name": "GSM", "weight": 0.0, "id": 59201141, "level": 2}
+{"count": 68911, "name": "Broadband", "weight": 0.0, "id": 509933004, "level": 2}
+{"count": 10526, "name": "Radio propagation", "weight": 0.0, "id": 202311505, "level": 2}
+{"count": 26668, "name": "Baseband", "weight": 0.0, "id": 65165936, "level": 2}
+{"count": 6350, "name": "Digital radio", "weight": 0.0, "id": 507880516, "level": 2}
+{"count": 17441, "name": "Passive optical network", "weight": 0.0, "id": 204827203, "level": 2}
+{"count": 17913, "name": "Home automation", "weight": 0.0, "id": 507571656, "level": 2}
+{"count": 6746, "name": "Wide area network", "weight": 0.0, "id": 2776238582, "level": 2}
+{"count": 12061, "name": "Digital subscriber line", "weight": 0.0, "id": 201374245, "level": 2}
+{"count": 16474, "name": "Local oscillator", "weight": 0.0, "id": 203597036, "level": 2}
+{"count": 7369, "name": "Teleconference", "weight": 0.0, "id": 126669455, "level": 2}
+{"count": 10420, "name": "Next-generation network", "weight": 0.0, "id": 110994511, "level": 2}
+{"count": 11738, "name": "Integrated Services Digital Network", "weight": 0.0, "id": 536894130, "level": 2}
+{"count": 5175, "name": "Active networking", "weight": 0.0, "id": 102665078, "level": 2}
+{"count": 26321, "name": "Sound pressure", "weight": 0.0, "id": 68115822, "level": 2}
+{"count": 53199, "name": "Digital signal", "weight": 0.0, "id": 52773712, "level": 2}
+{"count": 33371, "name": "Multiplexer", "weight": 0.0, "id": 70970002, "level": 2}
+{"count": 13296, "name": "Intermediate frequency", "weight": 0.0, "id": 8480308, "level": 2}
+{"count": 8117, "name": "Mobility model", "weight": 0.0, "id": 191485582, "level": 2}
+{"count": 10478, "name": "Location-based service", "weight": 0.0, "id": 155292070, "level": 2}
+{"count": 54294, "name": "Mobile station", "weight": 0.0, "id": 207029474, "level": 2}
+{"count": 20232, "name": "Fidelity", "weight": 0.0, "id": 2776459999, "level": 2}
+{"count": 19765, "name": "Repeater", "weight": 0.0, "id": 70420846, "level": 2}
+{"count": 8064, "name": "Extinction ratio", "weight": 0.0, "id": 96137627, "level": 2}
+{"count": 16683, "name": "SILK", "weight": 0.0, "id": 2780431358, "level": 2}
+{"count": 13503, "name": "Command and control", "weight": 0.0, "id": 506615639, "level": 2}
+{"count": 6305, "name": "Time of arrival", "weight": 0.0, "id": 163150518, "level": 2}
+{"count": 3734, "name": "Pulse-code modulation", "weight": 0.0, "id": 160987145, "level": 2}
+{"count": 41437, "name": "Frequency band", "weight": 0.0, "id": 2778116611, "level": 2}
+{"count": 3528, "name": "L band", "weight": 0.0, "id": 133969743, "level": 2}
+{"count": 22369, "name": "Positioning system", "weight": 0.0, "id": 2778603505, "level": 2}
+{"count": 9145, "name": "Mobility management", "weight": 0.0, "id": 2778555145, "level": 2}
+{"count": 6806, "name": "X band", "weight": 0.0, "id": 99936299, "level": 2}
+{"count": 4607, "name": "Radio equipment", "weight": 0.0, "id": 2778576095, "level": 2}
+{"count": 3196, "name": "Bioacoustics", "weight": 0.0, "id": 34951282, "level": 2}
+{"count": 37631, "name": "Handover", "weight": 0.0, "id": 111852164, "level": 2}
+{"count": 16939, "name": "Radio spectrum", "weight": 0.0, "id": 92545706, "level": 2}
+{"count": 30700, "name": "Transmission (telecommunications)", "weight": 0.0, "id": 761482, "level": 2}
+{"count": 2730, "name": "High-definition television", "weight": 0.0, "id": 2778129506, "level": 2}
+{"count": 4052, "name": "Variable bitrate", "weight": 0.0, "id": 57667952, "level": 2}
+{"count": 31908, "name": "Dissemination", "weight": 0.0, "id": 101780184, "level": 2}
+{"count": 5403, "name": "Mobile service", "weight": 0.0, "id": 2780559388, "level": 2}
+{"count": 10633, "name": "Data link", "weight": 0.0, "id": 182132293, "level": 2}
+{"count": 6375, "name": "International standard", "weight": 0.0, "id": 2776588390, "level": 2}
+{"count": 6634, "name": "Radio Link Protocol", "weight": 0.0, "id": 12430449, "level": 2}
+{"count": 11602, "name": "Synchronism", "weight": 0.0, "id": 2779853468, "level": 2}
+{"count": 5958, "name": "W-CDMA", "weight": 0.0, "id": 120620775, "level": 2}
+{"count": 7085, "name": "Information infrastructure", "weight": 0.0, "id": 31652620, "level": 2}
+{"count": 4135, "name": "Clock recovery", "weight": 0.0, "id": 2779835379, "level": 2}
+{"count": 3085, "name": "Gray code", "weight": 0.0, "id": 129861397, "level": 2}
+{"count": 15312, "name": "Digitization", "weight": 0.0, "id": 2779308522, "level": 2}
+{"count": 59767, "name": "Enclosure", "weight": 0.0, "id": 98375054, "level": 2}
+{"count": 1729, "name": "Analytic signal", "weight": 0.0, "id": 94727143, "level": 2}
+{"count": 2192, "name": "Radio control", "weight": 0.0, "id": 554876149, "level": 2}
+{"count": 5952, "name": "Multilateration", "weight": 0.0, "id": 104037064, "level": 2}
+{"count": 10089, "name": "Telematics", "weight": 0.0, "id": 89074322, "level": 2}
+{"count": 3761, "name": "C band", "weight": 0.0, "id": 63944557, "level": 2}
+{"count": 14862, "name": "Telephone network", "weight": 0.0, "id": 197698232, "level": 2}
+{"count": 16183, "name": "Limiter", "weight": 0.0, "id": 45011657, "level": 2}
+{"count": 8965, "name": "UMTS frequency bands", "weight": 0.0, "id": 101618186, "level": 2}
+{"count": 10431, "name": "Core network", "weight": 0.0, "id": 5038329, "level": 2}
+{"count": 6701, "name": "Session Initiation Protocol", "weight": 0.0, "id": 41878487, "level": 2}
+{"count": 5572, "name": "Interactive television", "weight": 0.0, "id": 543280262, "level": 2}
+{"count": 26796, "name": "Digital data", "weight": 0.0, "id": 2778864079, "level": 2}
+{"count": 2629, "name": "Medium frequency", "weight": 0.0, "id": 85885044, "level": 2}
+{"count": 9065, "name": "Wireless broadband", "weight": 0.0, "id": 85608190, "level": 2}
+{"count": 4918, "name": "Remote operation", "weight": 0.0, "id": 2778697102, "level": 2}
+{"count": 3247, "name": "Conformance testing", "weight": 0.0, "id": 76844732, "level": 2}
+{"count": 10705, "name": "Noise (radio)", "weight": 0.0, "id": 169553431, "level": 2}
+{"count": 3613, "name": "Synchronous optical networking", "weight": 0.0, "id": 198306430, "level": 2}
+{"count": 24842, "name": "Telephone line", "weight": 0.0, "id": 111943024, "level": 2}
+{"count": 19472, "name": "Clock skew", "weight": 0.0, "id": 60501442, "level": 2}
+{"count": 22767, "name": "Facsimile", "weight": 0.0, "id": 2778310199, "level": 2}
+{"count": 1969, "name": "Frequency assignment", "weight": 0.0, "id": 2776628324, "level": 2}
+{"count": 1301, "name": "Carrier-to-noise ratio", "weight": 0.0, "id": 43658927, "level": 2}
+{"count": 5607, "name": "Telecommunications equipment", "weight": 0.0, "id": 206034944, "level": 2}
+{"count": 51861, "name": "Analog signal", "weight": 0.0, "id": 13412647, "level": 2}
+{"count": 3241, "name": "MPEG-2", "weight": 0.0, "id": 18446390, "level": 2}
+{"count": 7901, "name": "IPTV", "weight": 0.0, "id": 2776855496, "level": 2}
+{"count": 5469, "name": "Direct-conversion receiver", "weight": 0.0, "id": 26351279, "level": 2}
+{"count": 9364, "name": "Short Message Service", "weight": 0.0, "id": 74558129, "level": 2}
+{"count": 5353, "name": "Ka band", "weight": 0.0, "id": 2777720951, "level": 2}
+{"count": 6574, "name": "Telephone call", "weight": 0.0, "id": 2776181593, "level": 2}
+{"count": 2442, "name": "Universal service", "weight": 0.0, "id": 2780840467, "level": 2}
+{"count": 3488, "name": "Digital recording", "weight": 0.0, "id": 2780415423, "level": 2}
+{"count": 5534, "name": "Data bank", "weight": 0.0, "id": 2779786304, "level": 2}
+{"count": 16648, "name": "Noise temperature", "weight": 0.0, "id": 52660251, "level": 2}
+{"count": 2754, "name": "Vertical orientation", "weight": 0.0, "id": 2777234117, "level": 2}
+{"count": 3317, "name": "S band", "weight": 0.0, "id": 2777592538, "level": 2}
+{"count": 52552, "name": "Signal", "weight": 0.0, "id": 113841659, "level": 2}
+{"count": 63555, "name": "Studio", "weight": 0.0, "id": 45012715, "level": 2}
+{"count": 18501, "name": "Crossbar switch", "weight": 0.0, "id": 29984679, "level": 2}
+{"count": 14949, "name": "Transponder (aeronautics)", "weight": 0.0, "id": 117920542, "level": 2}
+{"count": 35844, "name": "User equipment", "weight": 0.0, "id": 2781327853, "level": 2}
+{"count": 7658, "name": "Sideband", "weight": 0.0, "id": 2776499502, "level": 2}
+{"count": 2596, "name": "Call centre", "weight": 0.0, "id": 2779808267, "level": 2}
+{"count": 10631, "name": "Informatization", "weight": 0.0, "id": 2776352007, "level": 2}
+{"count": 3403, "name": "Ku band", "weight": 0.0, "id": 2779383134, "level": 2}
+{"count": 21454, "name": "Optical cross-connect", "weight": 0.0, "id": 196129803, "level": 2}
+{"count": 3641, "name": "Local loop", "weight": 0.0, "id": 204162243, "level": 2}
+{"count": 5478, "name": "LTE Advanced", "weight": 0.0, "id": 17652562, "level": 2}
+{"count": 11107, "name": "Roaming", "weight": 0.0, "id": 194498986, "level": 2}
+{"count": 651825, "name": "Ranging", "weight": 9.0, "id": 115051666, "level": 2}
+{"count": 2185, "name": "Cable modem", "weight": 0.0, "id": 182336301, "level": 2}
+{"count": 2256, "name": "Audience response", "weight": 0.0, "id": 2781168091, "level": 2}
+{"count": 838, "name": "Media space", "weight": 0.0, "id": 2776197670, "level": 2}
+{"count": 3393, "name": "Dedicated short-range communications", "weight": 0.0, "id": 53140260, "level": 2}
+{"count": 6177, "name": "Global network", "weight": 0.0, "id": 123138037, "level": 2}
+{"count": 4486, "name": "Twisted pair", "weight": 0.0, "id": 108990781, "level": 2}
+{"count": 2471, "name": "Hotline", "weight": 0.0, "id": 141668000, "level": 2}
+{"count": 3731, "name": "Diathermy", "weight": 0.0, "id": 2781131426, "level": 2}
+{"count": 1397, "name": "V band", "weight": 0.0, "id": 2780298425, "level": 2}
+{"count": 2357, "name": "Dynamic range compression", "weight": 0.0, "id": 150178126, "level": 2}
+{"count": 19007, "name": "Skew", "weight": 0.0, "id": 43711488, "level": 2}
+{"count": 5238, "name": "IP Multimedia Subsystem", "weight": 0.0, "id": 26878273, "level": 2}
+{"count": 4752, "name": "Campus network", "weight": 0.0, "id": 2780944068, "level": 2}
+{"count": 2204, "name": "Public switched telephone network", "weight": 0.0, "id": 2780391855, "level": 2}
+{"count": 3111, "name": "Superheterodyne receiver", "weight": 0.0, "id": 55366258, "level": 2}
+{"count": 1165, "name": "Tethering", "weight": 0.0, "id": 201815810, "level": 2}
+{"count": 2449, "name": "Telecommunications engineering", "weight": 0.0, "id": 24459613, "level": 2}
+{"count": 2063, "name": "Communications security", "weight": 0.0, "id": 151423352, "level": 2}
+{"count": 1270, "name": "Videophone", "weight": 0.0, "id": 2777880623, "level": 2}
+{"count": 2805, "name": "Envelope detector", "weight": 0.0, "id": 95676537, "level": 2}
+{"count": 16391, "name": "Watt", "weight": 0.0, "id": 44012409, "level": 2}
+{"count": 4097, "name": "Noise power", "weight": 0.0, "id": 203234222, "level": 2}
+{"count": 1950, "name": "Interactive voice response", "weight": 0.0, "id": 2777858628, "level": 2}
+{"count": 2131, "name": "Frame Relay", "weight": 0.0, "id": 16830735, "level": 2}
+{"count": 955, "name": "Wireless local loop", "weight": 0.0, "id": 2779334510, "level": 2}
+{"count": 2798, "name": "Technological convergence", "weight": 0.0, "id": 118916094, "level": 2}
+{"count": 2803, "name": "Clos network", "weight": 0.0, "id": 119700423, "level": 2}
+{"count": 4621, "name": "Air interface", "weight": 0.0, "id": 2776362087, "level": 2}

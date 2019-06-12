@@ -1,0 +1,56 @@
+{"count": 38783, "name": "Optical amplifier", "weight": 9.0, "id": 101649071, "level": 3}
+{"count": 40361, "name": "Operational amplifier", "weight": 10.0, "id": 145366948, "level": 3}
+{"count": 21942, "name": "Noise figure", "weight": 5.0, "id": 112806910, "level": 3}
+{"count": 15462, "name": "Monolithic microwave integrated circuit", "weight": 3.0, "id": 128450285, "level": 3}
+{"count": 16766, "name": "Automatic gain control", "weight": 4.0, "id": 177502760, "level": 3}
+{"count": 14478, "name": "Low-noise amplifier", "weight": 3.0, "id": 155332784, "level": 3}
+{"count": 8488, "name": "Amplified spontaneous emission", "weight": 2.0, "id": 194564183, "level": 3}
+{"count": 7782, "name": "Nonlinear distortion", "weight": 1.0, "id": 173413354, "level": 3}
+{"count": 9499, "name": "Intermodulation", "weight": 2.0, "id": 11773624, "level": 3}
+{"count": 10331, "name": "Preamplifier", "weight": 2.0, "id": 14245642, "level": 3}
+{"count": 6872, "name": "Traveling-wave tube", "weight": 1.0, "id": 142803427, "level": 3}
+{"count": 6593, "name": "Power gain", "weight": 1.0, "id": 98377741, "level": 3}
+{"count": 30496, "name": "RF power amplifier", "weight": 7.0, "id": 196054291, "level": 3}
+{"count": 5031, "name": "Predistortion", "weight": 1.0, "id": 2778587875, "level": 3}
+{"count": 891, "name": "Regenerative amplification", "weight": 0.0, "id": 2778727045, "level": 3}
+{"count": 3573, "name": "Phase margin", "weight": 0.0, "id": 81455027, "level": 3}
+{"count": 556, "name": "Envelope Tracking", "weight": 0.0, "id": 27030619, "level": 3}
+{"count": 1379, "name": "Frequency compensation", "weight": 0.0, "id": 131782439, "level": 3}
+{"count": 14397, "name": "dBm", "weight": 3.0, "id": 94105702, "level": 3}
+{"count": 5819, "name": "Cascode", "weight": 1.0, "id": 2775946640, "level": 3}
+{"count": 735, "name": "Lock-in amplifier", "weight": 0.0, "id": 2780259410, "level": 3}
+{"count": 797, "name": "Load pull", "weight": 0.0, "id": 2780141302, "level": 3}
+{"count": 1100, "name": "Gain compression", "weight": 0.0, "id": 58760974, "level": 3}
+{"count": 812, "name": "Tetrode", "weight": 0.0, "id": 65208757, "level": 3}
+{"count": 239, "name": "Polar modulation", "weight": 0.0, "id": 2781043178, "level": 3}
+{"count": 78, "name": "Bioamplifier", "weight": 0.0, "id": 113089930, "level": 3}
+{"count": 3918, "name": "Audio power amplifier", "weight": 0.0, "id": 131289371, "level": 3}
+{"count": 1191, "name": "Common gate", "weight": 0.0, "id": 2781117048, "level": 3}
+{"count": 4102, "name": "Transistor array", "weight": 1.0, "id": 170523978, "level": 3}
+{"count": 1225, "name": "Common collector", "weight": 0.0, "id": 180254493, "level": 3}
+{"count": 522, "name": "Push\u2013pull output", "weight": 0.0, "id": 198978007, "level": 3}
+{"count": 1129, "name": "Net gain", "weight": 0.0, "id": 2776939828, "level": 3}
+{"count": 174, "name": "Adaptive bias", "weight": 0.0, "id": 2778688154, "level": 3}
+{"count": 118, "name": "X-parameters", "weight": 0.0, "id": 2779491486, "level": 3}
+{"count": 33990, "name": "Direct-coupled amplifier", "weight": 8.0, "id": 172218469, "level": 3}
+{"count": 3961, "name": "Line driver", "weight": 0.0, "id": 942694, "level": 3}
+{"count": 179, "name": "Mechanical amplifier", "weight": 0.0, "id": 2779534845, "level": 3}
+{"count": 901, "name": "Gain stage", "weight": 0.0, "id": 2776018638, "level": 3}
+{"count": 160, "name": "Instrument amplifier", "weight": 0.0, "id": 2776185437, "level": 3}
+{"count": 89, "name": "Peak envelope power", "weight": 0.0, "id": 2777585946, "level": 3}
+{"count": 258, "name": "Integrated amplifier", "weight": 0.0, "id": 2780890376, "level": 3}
+{"count": 126, "name": "Inductive output tube", "weight": 0.0, "id": 2779395395, "level": 3}
+{"count": 331, "name": "Tube sound", "weight": 0.0, "id": 148054077, "level": 3}
+{"count": 123, "name": "Bias tee", "weight": 0.0, "id": 2778373979, "level": 3}
+{"count": 144, "name": "Crossed-field amplifier", "weight": 0.0, "id": 2778432231, "level": 3}
+{"count": 32, "name": "Charge-transfer amplifier", "weight": 0.0, "id": 2780104801, "level": 3}
+{"count": 211, "name": "Complex gain", "weight": 0.0, "id": 2777358087, "level": 3}
+{"count": 764, "name": "Equivalent input", "weight": 0.0, "id": 2778023400, "level": 3}
+{"count": 61, "name": "Headphone amplifier", "weight": 0.0, "id": 2776993063, "level": 3}
+{"count": 107, "name": "Valve amplifier", "weight": 0.0, "id": 2777650633, "level": 3}
+{"count": 25, "name": "DigRF", "weight": 0.0, "id": 2776558578, "level": 3}
+{"count": 75, "name": "Ultra-linear", "weight": 0.0, "id": 2777121650, "level": 3}
+{"count": 19, "name": "Nuvistor", "weight": 0.0, "id": 103569687, "level": 3}
+{"count": 31, "name": "Speaker wire", "weight": 0.0, "id": 2777532227, "level": 3}
+{"count": 233, "name": "Grid-leak detector", "weight": 0.0, "id": 62711739, "level": 3}
+{"count": 24, "name": "Processing amplifier", "weight": 0.0, "id": 2779232058, "level": 3}

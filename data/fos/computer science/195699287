@@ -1,0 +1,5 @@
+{"count": 2627, "name": "Kernel regression", "weight": 9.0, "id": 200695384, "level": 5}
+{"count": 2071, "name": "Kernel smoother", "weight": 7.0, "id": 27406209, "level": 5}
+{"count": 1671, "name": "String kernel", "weight": 6.0, "id": 55851704, "level": 5}
+{"count": 2726, "name": "Tree kernel", "weight": 10.0, "id": 140417398, "level": 5}
+{"count": 2514, "name": "Multivariate kernel density estimation", "weight": 9.0, "id": 84894716, "level": 5}

@@ -1,0 +1,7 @@
+{"count": 15371, "name": "Phase detector", "weight": 10.0, "id": 110086884, "level": 3}
+{"count": 12276, "name": "Frequency synthesizer", "weight": 7.0, "id": 182099602, "level": 3}
+{"count": 6648, "name": "Delay-locked loop", "weight": 4.0, "id": 190462668, "level": 3}
+{"count": 1219, "name": "DPLL algorithm", "weight": 0.0, "id": 143936061, "level": 3}
+{"count": 457, "name": "Frequency-locked loop", "weight": 0.0, "id": 2779426729, "level": 3}
+{"count": 79, "name": "GPS enhancement", "weight": 0.0, "id": 145043497, "level": 3}
+{"count": 2597, "name": "PLL multibit", "weight": 1.0, "id": 77881186, "level": 3}

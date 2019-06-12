@@ -1,0 +1,9 @@
+{"count": 1745, "name": "Data rate units", "weight": 6.0, "id": 181105467, "level": 3}
+{"count": 570, "name": "Remote data transmission", "weight": 2.0, "id": 2779590518, "level": 3}
+{"count": 29, "name": "Native Command Queuing", "weight": 0.0, "id": 2778736293, "level": 3}
+{"count": 2537, "name": "Data circuit-terminating equipment", "weight": 10.0, "id": 202772844, "level": 3}
+{"count": 553, "name": "Programmed input/output", "weight": 2.0, "id": 188224288, "level": 3}
+{"count": 13, "name": "SMPTE 259M", "weight": 0.0, "id": 2778361064, "level": 3}
+{"count": 325, "name": "Data signaling rate", "weight": 1.0, "id": 24555108, "level": 3}
+{"count": 116, "name": "Effective data transfer rate", "weight": 0.0, "id": 82544571, "level": 3}
+{"count": 436, "name": "Data transmission circuit", "weight": 1.0, "id": 2779743683, "level": 3}

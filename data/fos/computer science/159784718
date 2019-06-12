@@ -1,0 +1,10 @@
+{"count": 3815, "name": "Color quantization", "weight": 8.0, "id": 173752661, "level": 5}
+{"count": 2685, "name": "False color", "weight": 5.0, "id": 173285193, "level": 5}
+{"count": 722, "name": "Color gradient", "weight": 1.0, "id": 90506922, "level": 5}
+{"count": 2684, "name": "ICC profile", "weight": 5.0, "id": 95143428, "level": 5}
+{"count": 4529, "name": "Color normalization", "weight": 10.0, "id": 44404184, "level": 5}
+{"count": 658, "name": "3D lookup table", "weight": 1.0, "id": 126757763, "level": 5}
+{"count": 34, "name": "OSA-UCS", "weight": 0.0, "id": 2778773973, "level": 5}
+{"count": 665, "name": "Web colors", "weight": 1.0, "id": 545234249, "level": 5}
+{"count": 116, "name": "Black balance", "weight": 0.0, "id": 62305946, "level": 5}
+{"count": 1489, "name": "8-bit color", "weight": 3.0, "id": 116917528, "level": 5}

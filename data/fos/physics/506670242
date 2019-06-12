@@ -1,0 +1,30 @@
+{"count": 8051, "name": "Minimal Supersymmetric Standard Model", "weight": 9.0, "id": 21265024, "level": 3}
+{"count": 2251, "name": "Superpartner", "weight": 2.0, "id": 112244425, "level": 3}
+{"count": 7446, "name": "W and Z bosons", "weight": 8.0, "id": 83637716, "level": 3}
+{"count": 1451, "name": "Weinberg angle", "weight": 1.0, "id": 2777532455, "level": 3}
+{"count": 1144, "name": "Large extra dimension", "weight": 1.0, "id": 5242263, "level": 3}
+{"count": 1284, "name": "Flavor-changing neutral current", "weight": 1.0, "id": 2781244163, "level": 3}
+{"count": 1741, "name": "Two-Higgs-doublet model", "weight": 2.0, "id": 2776388722, "level": 3}
+{"count": 5213, "name": "Technicolor", "weight": 6.0, "id": 73702503, "level": 3}
+{"count": 1200, "name": "Collider Detector at Fermilab", "weight": 1.0, "id": 2776366106, "level": 3}
+{"count": 889, "name": "Universal extra dimension", "weight": 1.0, "id": 172091981, "level": 3}
+{"count": 899, "name": "Hypercharge", "weight": 1.0, "id": 124989549, "level": 3}
+{"count": 1214, "name": "Missing energy", "weight": 1.0, "id": 2779081240, "level": 3}
+{"count": 3861, "name": "Vector boson", "weight": 4.0, "id": 155700901, "level": 3}
+{"count": 8642, "name": "Higgs field", "weight": 10.0, "id": 179885171, "level": 3}
+{"count": 950, "name": "Leptoquark", "weight": 1.0, "id": 2780579170, "level": 3}
+{"count": 988, "name": "Hierarchy problem", "weight": 1.0, "id": 64606577, "level": 3}
+{"count": 181, "name": "ALEPH experiment", "weight": 0.0, "id": 2779354923, "level": 3}
+{"count": 715, "name": "Unparticle physics", "weight": 0.0, "id": 97431609, "level": 3}
+{"count": 377, "name": "Dark photon", "weight": 0.0, "id": 2780571165, "level": 3}
+{"count": 1289, "name": "Electroweak scale", "weight": 1.0, "id": 2781073886, "level": 3}
+{"count": 502, "name": "Phenomenology (particle physics)", "weight": 0.0, "id": 93145067, "level": 3}
+{"count": 97, "name": "Bilepton", "weight": 0.0, "id": 2776248513, "level": 3}
+{"count": 101, "name": "Penguin diagram", "weight": 0.0, "id": 2779797600, "level": 3}
+{"count": 38, "name": "Graviscalar", "weight": 0.0, "id": 2780981764, "level": 3}
+{"count": 85, "name": "GIM mechanism", "weight": 0.0, "id": 2776686652, "level": 3}
+{"count": 87, "name": "Non-standard model", "weight": 0.0, "id": 2780690095, "level": 3}
+{"count": 112, "name": "Michel parameters", "weight": 0.0, "id": 2776669105, "level": 3}
+{"count": 94, "name": "331 model", "weight": 0.0, "id": 2778422406, "level": 3}
+{"count": 224, "name": "750 GeV diphoton excess", "weight": 0.0, "id": 2779685861, "level": 3}
+{"count": 432, "name": "Search for the Higgs boson", "weight": 0.0, "id": 2779911333, "level": 3}

@@ -1,0 +1,14 @@
+{"count": 3715, "name": "Power iteration", "weight": 5.0, "id": 162443888, "level": 3}
+{"count": 2082, "name": "Gauss\u2013Seidel method", "weight": 2.0, "id": 3828260, "level": 3}
+{"count": 6852, "name": "Relaxation (iterative method)", "weight": 9.0, "id": 136954975, "level": 3}
+{"count": 3867, "name": "Krylov subspace", "weight": 5.0, "id": 147060835, "level": 3}
+{"count": 6372, "name": "Local convergence", "weight": 8.0, "id": 117898588, "level": 3}
+{"count": 4124, "name": "Fixed-point iteration", "weight": 5.0, "id": 157449380, "level": 3}
+{"count": 3582, "name": "Generalized minimal residual method", "weight": 4.0, "id": 155332342, "level": 3}
+{"count": 7357, "name": "Preconditioner", "weight": 10.0, "id": 167431342, "level": 3}
+{"count": 552, "name": "Iterative proportional fitting", "weight": 0.0, "id": 187608804, "level": 3}
+{"count": 1051, "name": "Root-finding algorithm", "weight": 1.0, "id": 194777461, "level": 3}
+{"count": 87, "name": "Generalized iterative scaling", "weight": 0.0, "id": 52306562, "level": 3}
+{"count": 460, "name": "Landweber iteration", "weight": 0.0, "id": 25484224, "level": 3}
+{"count": 18, "name": "Uzawa iteration", "weight": 0.0, "id": 2776129096, "level": 3}
+{"count": 19, "name": "Heterogeneous Element Processor", "weight": 0.0, "id": 194616574, "level": 3}

@@ -1,0 +1,5 @@
+{"count": 2291, "name": "Pathfinding", "weight": 6.0, "id": 25321074, "level": 4}
+{"count": 1649, "name": "Distance", "weight": 4.0, "id": 54385418, "level": 4}
+{"count": 2658, "name": "Euclidean shortest path", "weight": 7.0, "id": 170836113, "level": 4}
+{"count": 3651, "name": "Constrained Shortest Path First", "weight": 9.0, "id": 178067994, "level": 4}
+{"count": 3683, "name": "Shortest Path Faster Algorithm", "weight": 10.0, "id": 168451585, "level": 4}

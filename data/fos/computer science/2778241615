@@ -1,0 +1,11 @@
+{"count": 598, "name": "High Performance Fortran", "weight": 10.0, "id": 2776044905, "level": 3}
+{"count": 126, "name": "IBM 709", "weight": 2.0, "id": 2776788448, "level": 3}
+{"count": 65, "name": "Livermore loops", "weight": 1.0, "id": 2778928789, "level": 3}
+{"count": 191, "name": "IBM 1620", "weight": 3.0, "id": 2776761419, "level": 3}
+{"count": 32, "name": "MEX file", "weight": 0.0, "id": 2779583176, "level": 3}
+{"count": 52, "name": "Ratfor", "weight": 0.0, "id": 2779158952, "level": 3}
+{"count": 205, "name": "EBCDIC", "weight": 3.0, "id": 89416777, "level": 3}
+{"count": 19, "name": "Heterogeneous Element Processor", "weight": 0.0, "id": 194616574, "level": 3}
+{"count": 40, "name": "Variable-length array", "weight": 0.0, "id": 24443039, "level": 3}
+{"count": 11, "name": "DAP FORTRAN", "weight": 0.0, "id": 2779076067, "level": 3}
+{"count": 16, "name": "Mortran", "weight": 0.0, "id": 2777535371, "level": 3}

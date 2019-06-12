@@ -1,0 +1,4 @@
+{"count": 1116, "name": "NOR logic", "weight": 7.0, "id": 165862026, "level": 5}
+{"count": 100, "name": "High Threshold Logic", "weight": 0.0, "id": 22972026, "level": 5}
+{"count": 1419, "name": "Three-input universal logic gate", "weight": 10.0, "id": 76153270, "level": 5}
+{"count": 1120, "name": "Depletion-load NMOS logic", "weight": 7.0, "id": 107733154, "level": 5}

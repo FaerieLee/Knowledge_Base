@@ -1,0 +1,54 @@
+{"count": 65001, "name": "Permittivity", "weight": 7.0, "id": 168651791, "level": 3}
+{"count": 83860, "name": "Ferroelectricity", "weight": 10.0, "id": 79090758, "level": 3}
+{"count": 27882, "name": "Dielectric loss", "weight": 3.0, "id": 91066073, "level": 3}
+{"count": 3718, "name": "Electroceramics", "weight": 0.0, "id": 2776135264, "level": 3}
+{"count": 11865, "name": "Barium titanate", "weight": 1.0, "id": 2779159579, "level": 3}
+{"count": 2090, "name": "Kramers\u2013Kronig relations", "weight": 0.0, "id": 196224560, "level": 3}
+{"count": 7397, "name": "Dielectric resonator", "weight": 0.0, "id": 2780204790, "level": 3}
+{"count": 7342, "name": "Strontium titanate", "weight": 0.0, "id": 2781063764, "level": 3}
+{"count": 12104, "name": "Dielectric barrier discharge", "weight": 1.0, "id": 89448510, "level": 3}
+{"count": 11507, "name": "Dielectric strength", "weight": 1.0, "id": 70401718, "level": 3}
+{"count": 19974, "name": "High-\u03ba dielectric", "weight": 2.0, "id": 16317505, "level": 3}
+{"count": 2544, "name": "Metal-insulator-metal", "weight": 0.0, "id": 2776605731, "level": 3}
+{"count": 4704, "name": "Electrostriction", "weight": 0.0, "id": 117911374, "level": 3}
+{"count": 6988, "name": "Dissipation factor", "weight": 0.0, "id": 97274863, "level": 3}
+{"count": 8985, "name": "Dielectric resonator antenna", "weight": 1.0, "id": 127820260, "level": 3}
+{"count": 554, "name": "Poole\u2013Frenkel effect", "weight": 0.0, "id": 127396331, "level": 3}
+{"count": 5492, "name": "Liquid dielectric", "weight": 0.0, "id": 80487561, "level": 3}
+{"count": 7642, "name": "Ceramic capacitor", "weight": 0.0, "id": 115974795, "level": 3}
+{"count": 1232, "name": "Calcium titanate", "weight": 0.0, "id": 2776930187, "level": 3}
+{"count": 5958, "name": "Electrical breakdown", "weight": 0.0, "id": 191695590, "level": 3}
+{"count": 6269, "name": "Dielectric heating", "weight": 0.0, "id": 186145619, "level": 3}
+{"count": 2073, "name": "Low-k dielectric", "weight": 0.0, "id": 2779866884, "level": 3}
+{"count": 767, "name": "Dielectric withstand test", "weight": 0.0, "id": 190540093, "level": 3}
+{"count": 1587, "name": "Drude model", "weight": 0.0, "id": 2776445377, "level": 3}
+{"count": 3166, "name": "Electrowetting", "weight": 0.0, "id": 2779673822, "level": 3}
+{"count": 26693, "name": "Gate dielectric", "weight": 3.0, "id": 166972891, "level": 3}
+{"count": 7901, "name": "Copper interconnect", "weight": 0.0, "id": 116372231, "level": 3}
+{"count": 906, "name": "Back end of line", "weight": 0.0, "id": 2776628375, "level": 3}
+{"count": 809, "name": "Flexoelectricity", "weight": 0.0, "id": 2778070859, "level": 3}
+{"count": 8236, "name": "Piezoelectric coefficient", "weight": 0.0, "id": 135405054, "level": 3}
+{"count": 7947, "name": "Polarization density", "weight": 0.0, "id": 99942733, "level": 3}
+{"count": 5138, "name": "Microwave cavity", "weight": 0.0, "id": 186397771, "level": 3}
+{"count": 1090, "name": "Dielectric elastomers", "weight": 0.0, "id": 51044723, "level": 3}
+{"count": 5451, "name": "Capacitance probe", "weight": 0.0, "id": 203455917, "level": 3}
+{"count": 1303, "name": "Dielectric absorption", "weight": 0.0, "id": 164771162, "level": 3}
+{"count": 6066, "name": "Film capacitor", "weight": 0.0, "id": 6432897, "level": 3}
+{"count": 371, "name": "MIS capacitor", "weight": 0.0, "id": 2779200529, "level": 3}
+{"count": 289, "name": "Thermally Stimulated Depolarization Current", "weight": 0.0, "id": 2779579376, "level": 3}
+{"count": 798, "name": "Dielectric mirror", "weight": 0.0, "id": 2779878699, "level": 3}
+{"count": 231, "name": "DEAP", "weight": 0.0, "id": 74993794, "level": 3}
+{"count": 1192, "name": "Antifuse", "weight": 0.0, "id": 2776310973, "level": 3}
+{"count": 174, "name": "Salisbury screen", "weight": 0.0, "id": 2778471829, "level": 3}
+{"count": 3382, "name": "Cole\u2013Cole equation", "weight": 0.0, "id": 75733527, "level": 3}
+{"count": 171, "name": "Electromagnetic absorbers", "weight": 0.0, "id": 2778498098, "level": 3}
+{"count": 1829, "name": "Dielectric gas", "weight": 0.0, "id": 119224816, "level": 3}
+{"count": 1662, "name": "LCR meter", "weight": 0.0, "id": 55592779, "level": 3}
+{"count": 931, "name": "Plasma pencil", "weight": 0.0, "id": 77667144, "level": 3}
+{"count": 127, "name": "Fluorosilicate glass", "weight": 0.0, "id": 2778365788, "level": 3}
+{"count": 585, "name": "Solid-state reaction route", "weight": 0.0, "id": 202954235, "level": 3}
+{"count": 200, "name": "Dielectric thermal analysis", "weight": 0.0, "id": 95333671, "level": 3}
+{"count": 104, "name": "Ixiolite", "weight": 0.0, "id": 2780706740, "level": 3}
+{"count": 275, "name": "Plasma lamp", "weight": 0.0, "id": 2778788844, "level": 3}
+{"count": 475, "name": "Frequency domain sensor", "weight": 0.0, "id": 160453526, "level": 3}
+{"count": 37, "name": "First surface mirror", "weight": 0.0, "id": 2781255493, "level": 3}

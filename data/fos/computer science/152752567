@@ -1,0 +1,5 @@
+{"count": 655, "name": "Code smell", "weight": 10.0, "id": 133237599, "level": 4}
+{"count": 28, "name": "Database refactoring", "weight": 0.0, "id": 2778591257, "level": 4}
+{"count": 60, "name": "Extract class", "weight": 0.0, "id": 2780886887, "level": 4}
+{"count": 7, "name": "Rename method", "weight": 0.0, "id": 2777790244, "level": 4}
+{"count": 11, "name": "Code cleanup", "weight": 0.0, "id": 2778837299, "level": 4}

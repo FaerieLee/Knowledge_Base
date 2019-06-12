@@ -1,0 +1,53 @@
+{"count": 9330, "name": "Small-cell carcinoma", "weight": 9.0, "id": 2779292878, "level": 4}
+{"count": 8870, "name": "Gefitinib", "weight": 8.0, "id": 2780580887, "level": 4}
+{"count": 9426, "name": "Erlotinib", "weight": 9.0, "id": 2778087573, "level": 4}
+{"count": 9883, "name": "Pneumonectomy", "weight": 10.0, "id": 2777589429, "level": 4}
+{"count": 5542, "name": "Vinorelbine", "weight": 5.0, "id": 2780350996, "level": 4}
+{"count": 6839, "name": "Brain metastasis", "weight": 6.0, "id": 2778164965, "level": 4}
+{"count": 4207, "name": "Anaplastic lymphoma kinase", "weight": 4.0, "id": 117643217, "level": 4}
+{"count": 3769, "name": "Malignant pleural effusion", "weight": 3.0, "id": 2776232967, "level": 4}
+{"count": 2296, "name": "Solitary pulmonary nodule", "weight": 2.0, "id": 2780244788, "level": 4}
+{"count": 4670, "name": "Pemetrexed", "weight": 4.0, "id": 2777240266, "level": 4}
+{"count": 9347, "name": "A549 cell", "weight": 9.0, "id": 81729549, "level": 4}
+{"count": 1612, "name": "Vindesine", "weight": 1.0, "id": 2779321808, "level": 4}
+{"count": 2755, "name": "Mediastinoscopy", "weight": 2.0, "id": 2779961022, "level": 4}
+{"count": 1272, "name": "Ground-glass opacity", "weight": 1.0, "id": 2777001051, "level": 4}
+{"count": 1349, "name": "Prophylactic cranial irradiation", "weight": 1.0, "id": 2779562246, "level": 4}
+{"count": 8180, "name": "non-small cell lung cancer (NSCLC)", "weight": 8.0, "id": 2779177807, "level": 4}
+{"count": 3278, "name": "Lung cancer screening", "weight": 3.0, "id": 2777405583, "level": 4}
+{"count": 4166, "name": "Nivolumab", "weight": 4.0, "id": 2780030458, "level": 4}
+{"count": 2674, "name": "Adenocarcinoma of the lung", "weight": 2.0, "id": 2779563347, "level": 4}
+{"count": 1323, "name": "Lung cancer surgery", "weight": 1.0, "id": 2778078201, "level": 4}
+{"count": 2842, "name": "Crizotinib", "weight": 2.0, "id": 2779422266, "level": 4}
+{"count": 706, "name": "Atypical adenomatous hyperplasia", "weight": 0.0, "id": 2777150480, "level": 4}
+{"count": 6621, "name": "Large cell", "weight": 6.0, "id": 2778911148, "level": 4}
+{"count": 2475, "name": "EGFR inhibitors", "weight": 2.0, "id": 2777506169, "level": 4}
+{"count": 752, "name": "Lung cancer staging", "weight": 0.0, "id": 2777693549, "level": 4}
+{"count": 375, "name": "Bronchial brushing", "weight": 0.0, "id": 2780795658, "level": 4}
+{"count": 319, "name": "Pancoast tumor", "weight": 0.0, "id": 2776729450, "level": 4}
+{"count": 426, "name": "Radiation-induced lung injury", "weight": 0.0, "id": 2776269894, "level": 4}
+{"count": 829, "name": "VATS lobectomy", "weight": 0.0, "id": 2776904799, "level": 4}
+{"count": 185, "name": "Electromagnetic navigation bronchoscopy", "weight": 0.0, "id": 2778861012, "level": 4}
+{"count": 111, "name": "Picoplatin", "weight": 0.0, "id": 2777876862, "level": 4}
+{"count": 1152, "name": "Squamous-cell carcinoma of the lung", "weight": 1.0, "id": 2779327097, "level": 4}
+{"count": 179, "name": "Extensive stage", "weight": 0.0, "id": 2775869673, "level": 4}
+{"count": 426, "name": "Durvalumab", "weight": 0.0, "id": 2777742743, "level": 4}
+{"count": 114, "name": "Figitumumab", "weight": 0.0, "id": 2780427501, "level": 4}
+{"count": 719, "name": "Lung cancer susceptibility", "weight": 0.0, "id": 2779372377, "level": 4}
+{"count": 87, "name": "GPRC5A", "weight": 0.0, "id": 2781167857, "level": 4}
+{"count": 96, "name": "Tracheobronchoplasty", "weight": 0.0, "id": 2776664783, "level": 4}
+{"count": 74, "name": "Vadimezan", "weight": 0.0, "id": 2778348800, "level": 4}
+{"count": 107, "name": "Fetal adenocarcinoma", "weight": 0.0, "id": 2778982072, "level": 4}
+{"count": 40, "name": "CimaVax-EGF", "weight": 0.0, "id": 2781332334, "level": 4}
+{"count": 80, "name": "Sarcomatoid carcinoma of the lung", "weight": 0.0, "id": 2776131420, "level": 4}
+{"count": 3327, "name": "Treatment of lung cancer", "weight": 3.0, "id": 2778807442, "level": 4}
+{"count": 20, "name": "Combined small-cell lung carcinoma", "weight": 0.0, "id": 2777536436, "level": 4}
+{"count": 43, "name": "British Doctors Study", "weight": 0.0, "id": 193000286, "level": 4}
+{"count": 14, "name": "Tarextumab", "weight": 0.0, "id": 2779270305, "level": 4}
+{"count": 34, "name": "PSMA4", "weight": 0.0, "id": 2779865826, "level": 4}
+{"count": 28, "name": "DLGAP5", "weight": 0.0, "id": 2780195309, "level": 4}
+{"count": 17, "name": "Large-cell neuroendocrine cancer", "weight": 0.0, "id": 2781279685, "level": 4}
+{"count": 16, "name": "B3GALNT1", "weight": 0.0, "id": 2779535957, "level": 4}
+{"count": 11, "name": "EML4-ALK positive lung cancer", "weight": 0.0, "id": 2776133454, "level": 4}
+{"count": 50, "name": "Targeted therapy of lung cancer", "weight": 0.0, "id": 2778539075, "level": 4}
+{"count": 6, "name": "Intrapulmonary nodes", "weight": 0.0, "id": 2779076964, "level": 4}

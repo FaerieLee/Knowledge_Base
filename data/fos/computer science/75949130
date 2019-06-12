@@ -1,0 +1,14 @@
+{"count": 11709, "name": "Transaction processing", "weight": 10.0, "id": 72108876, "level": 3}
+{"count": 2592, "name": "Transactional memory", "weight": 2.0, "id": 134277064, "level": 3}
+{"count": 9562, "name": "Transaction data", "weight": 8.0, "id": 127722929, "level": 3}
+{"count": 8495, "name": "Distributed transaction", "weight": 7.0, "id": 25185021, "level": 3}
+{"count": 2241, "name": "Atomicity", "weight": 1.0, "id": 188045909, "level": 3}
+{"count": 606, "name": "Transaction time", "weight": 0.0, "id": 76965650, "level": 3}
+{"count": 616, "name": "Transaction-level modeling", "weight": 0.0, "id": 169571997, "level": 3}
+{"count": 1765, "name": "Transaction log", "weight": 1.0, "id": 2212953, "level": 3}
+{"count": 180, "name": "Secured transaction", "weight": 0.0, "id": 2781467665, "level": 3}
+{"count": 145, "name": "Transaction logic", "weight": 0.0, "id": 2776715265, "level": 3}
+{"count": 1116, "name": "Payment terminal", "weight": 0.0, "id": 2780737666, "level": 3}
+{"count": 161, "name": "Proof-of-stake", "weight": 0.0, "id": 146149330, "level": 3}
+{"count": 163, "name": "Debit note", "weight": 0.0, "id": 113092710, "level": 3}
+{"count": 119, "name": "Transactions per second", "weight": 0.0, "id": 2777882138, "level": 3}

@@ -1,0 +1,7 @@
+{"count": 4604, "name": "GPS/INS", "weight": 10.0, "id": 193183557, "level": 4}
+{"count": 588, "name": "Transfer alignment", "weight": 1.0, "id": 2776602396, "level": 4}
+{"count": 1489, "name": "Attitude and heading reference system", "weight": 3.0, "id": 204114589, "level": 4}
+{"count": 495, "name": "Inertial platform", "weight": 1.0, "id": 2778906359, "level": 4}
+{"count": 179, "name": "TERCOM", "weight": 0.0, "id": 32277728, "level": 4}
+{"count": 1887, "name": "Inertial reference unit", "weight": 4.0, "id": 189096121, "level": 4}
+{"count": 18, "name": "LN-3 Inertial Navigation System", "weight": 0.0, "id": 188082901, "level": 4}

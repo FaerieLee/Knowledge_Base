@@ -1,0 +1,9 @@
+{"count": 19089, "name": "Centrifugal pump", "weight": 10.0, "id": 166675230, "level": 3}
+{"count": 7738, "name": "Centrifugal compressor", "weight": 4.0, "id": 95277225, "level": 3}
+{"count": 4764, "name": "Centrifugal fan", "weight": 2.0, "id": 2776442516, "level": 3}
+{"count": 803, "name": "Rushton turbine", "weight": 0.0, "id": 2778912791, "level": 3}
+{"count": 348, "name": "Power number", "weight": 0.0, "id": 2778023962, "level": 3}
+{"count": 3631, "name": "Slip factor", "weight": 1.0, "id": 187999972, "level": 3}
+{"count": 102, "name": "Submersible mixer", "weight": 0.0, "id": 2777059425, "level": 3}
+{"count": 52, "name": "Blend time", "weight": 0.0, "id": 2776812495, "level": 3}
+{"count": 74, "name": "Flexible impeller", "weight": 0.0, "id": 2778803451, "level": 3}

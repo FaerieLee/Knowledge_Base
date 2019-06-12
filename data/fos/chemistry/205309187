@@ -1,0 +1,10 @@
+{"count": 351, "name": "Optical molasses", "weight": 1.0, "id": 2779714819, "level": 5}
+{"count": 712, "name": "Doppler cooling", "weight": 3.0, "id": 137022216, "level": 5}
+{"count": 508, "name": "Transmission Raman spectroscopy", "weight": 2.0, "id": 24902520, "level": 5}
+{"count": 1757, "name": "Coherent spectroscopy", "weight": 7.0, "id": 110806042, "level": 5}
+{"count": 148, "name": "Sisyphus cooling", "weight": 0.0, "id": 2776323859, "level": 5}
+{"count": 2332, "name": "Raman cooling", "weight": 10.0, "id": 101952150, "level": 5}
+{"count": 215, "name": "Rule of mutual exclusion", "weight": 0.0, "id": 811021, "level": 5}
+{"count": 29, "name": "Recoil temperature", "weight": 0.0, "id": 2776813562, "level": 5}
+{"count": 1283, "name": "Resolved sideband cooling", "weight": 5.0, "id": 137286776, "level": 5}
+{"count": 24, "name": "Inverse Raman effect", "weight": 0.0, "id": 2777370312, "level": 5}

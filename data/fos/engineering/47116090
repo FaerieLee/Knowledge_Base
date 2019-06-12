@@ -1,0 +1,10 @@
+{"count": 2183, "name": "Smith predictor", "weight": 1.0, "id": 162853984, "level": 4}
+{"count": 12763, "name": "Overshoot (signal)", "weight": 10.0, "id": 114793185, "level": 4}
+{"count": 5260, "name": "Self-tuning", "weight": 4.0, "id": 2780039885, "level": 4}
+{"count": 461, "name": "Fractional-order control", "weight": 0.0, "id": 2779844194, "level": 4}
+{"count": 127, "name": "Ziegler\u2013Nichols method", "weight": 0.0, "id": 2778943941, "level": 4}
+{"count": 450, "name": "Potential induced degradation", "weight": 0.0, "id": 2776303389, "level": 4}
+{"count": 187, "name": "Coefficient diagram method", "weight": 0.0, "id": 2776586755, "level": 4}
+{"count": 162, "name": "BELBIC", "weight": 0.0, "id": 2775885668, "level": 4}
+{"count": 355, "name": "Integral windup", "weight": 0.0, "id": 141915434, "level": 4}
+{"count": 19, "name": "Iso-damping", "weight": 0.0, "id": 2778991238, "level": 4}

@@ -1,0 +1,44 @@
+{"count": 11377, "name": "Payment system", "weight": 10.0, "id": 2776983043, "level": 3}
+{"count": 1641, "name": "Electronic funds transfer", "weight": 1.0, "id": 71052197, "level": 3}
+{"count": 8075, "name": "Mobile payment", "weight": 7.0, "id": 160949748, "level": 3}
+{"count": 1974, "name": "Prospective payment system", "weight": 1.0, "id": 2779245251, "level": 3}
+{"count": 4084, "name": "Electronic money", "weight": 3.0, "id": 122941539, "level": 3}
+{"count": 2508, "name": "Payment card", "weight": 2.0, "id": 21021354, "level": 3}
+{"count": 7177, "name": "Payment service provider", "weight": 6.0, "id": 185822510, "level": 3}
+{"count": 1838, "name": "Direct Payments", "weight": 1.0, "id": 2780382634, "level": 3}
+{"count": 1908, "name": "Debit card", "weight": 1.0, "id": 2777303138, "level": 3}
+{"count": 1780, "name": "Electronic cash", "weight": 1.0, "id": 2778522442, "level": 3}
+{"count": 728, "name": "Advance payment", "weight": 0.0, "id": 33791563, "level": 3}
+{"count": 4883, "name": "ATM card", "weight": 4.0, "id": 108087509, "level": 3}
+{"count": 372, "name": "Payment schedule", "weight": 0.0, "id": 2776623338, "level": 3}
+{"count": 564, "name": "Down payment", "weight": 0.0, "id": 2781075638, "level": 3}
+{"count": 603, "name": "Micropayment", "weight": 0.0, "id": 113631901, "level": 3}
+{"count": 342, "name": "Deposit account", "weight": 0.0, "id": 2778887099, "level": 3}
+{"count": 365, "name": "Money order", "weight": 0.0, "id": 172833380, "level": 3}
+{"count": 193, "name": "Direct deposit", "weight": 0.0, "id": 2777917632, "level": 3}
+{"count": 161, "name": "Partial payment", "weight": 0.0, "id": 2777008152, "level": 3}
+{"count": 224, "name": "Wire transfer", "weight": 0.0, "id": 204812870, "level": 3}
+{"count": 67, "name": "Tuition payments", "weight": 0.0, "id": 2780005557, "level": 3}
+{"count": 155, "name": "Annuity", "weight": 0.0, "id": 44465351, "level": 3}
+{"count": 89, "name": "ecash", "weight": 0.0, "id": 102148904, "level": 3}
+{"count": 4937, "name": "Card security code", "weight": 4.0, "id": 149071572, "level": 3}
+{"count": 257, "name": "Automated Clearing House", "weight": 0.0, "id": 32989238, "level": 3}
+{"count": 340, "name": "Straight-through processing", "weight": 0.0, "id": 179627306, "level": 3}
+{"count": 1331, "name": "Issuing bank", "weight": 1.0, "id": 200924035, "level": 3}
+{"count": 1116, "name": "Payment terminal", "weight": 0.0, "id": 2780737666, "level": 3}
+{"count": 76, "name": "Proof-of-payment", "weight": 0.0, "id": 2778454716, "level": 3}
+{"count": 37, "name": "Winter Fuel Payment", "weight": 0.0, "id": 2779769154, "level": 3}
+{"count": 66, "name": "Authorized generics", "weight": 0.0, "id": 2777482915, "level": 3}
+{"count": 337, "name": "Invoice processing", "weight": 0.0, "id": 26232790, "level": 3}
+{"count": 25, "name": "Factor payments", "weight": 0.0, "id": 159660753, "level": 3}
+{"count": 22, "name": "Contingent value rights", "weight": 0.0, "id": 2781091668, "level": 3}
+{"count": 98, "name": "Cheque truncation", "weight": 0.0, "id": 7918523, "level": 3}
+{"count": 76, "name": "Demand draft", "weight": 0.0, "id": 111008707, "level": 3}
+{"count": 163, "name": "Debit note", "weight": 0.0, "id": 113092710, "level": 3}
+{"count": 17, "name": "Check kiting", "weight": 0.0, "id": 2778249998, "level": 3}
+{"count": 72, "name": "Accrued liabilities", "weight": 0.0, "id": 147243753, "level": 3}
+{"count": 90, "name": "Substitute check", "weight": 0.0, "id": 29264003, "level": 3}
+{"count": 30, "name": "World Agricultural Supply and Demand Estimates", "weight": 0.0, "id": 2777115324, "level": 3}
+{"count": 67, "name": "Certified check", "weight": 0.0, "id": 14807025, "level": 3}
+{"count": 31, "name": "Alternative payments", "weight": 0.0, "id": 2780108426, "level": 3}
+{"count": 451, "name": "Transfer payments multiplier", "weight": 0.0, "id": 37771279, "level": 3}

@@ -1,0 +1,13 @@
+{"count": 7954, "name": "Differentiated service", "weight": 7.0, "id": 158713421, "level": 4}
+{"count": 3033, "name": "Application service provider", "weight": 2.0, "id": 76143314, "level": 4}
+{"count": 10222, "name": "Service level objective", "weight": 10.0, "id": 16151460, "level": 4}
+{"count": 1983, "name": "Basic service", "weight": 1.0, "id": 178511221, "level": 4}
+{"count": 3526, "name": "Service desk", "weight": 3.0, "id": 6878162, "level": 4}
+{"count": 6312, "name": "Service product management", "weight": 6.0, "id": 36829320, "level": 4}
+{"count": 4738, "name": "Business service provider", "weight": 4.0, "id": 1622189, "level": 4}
+{"count": 3242, "name": "Service catalog", "weight": 3.0, "id": 189423186, "level": 4}
+{"count": 2867, "name": "Provider Edge", "weight": 2.0, "id": 16096599, "level": 4}
+{"count": 1601, "name": "Online charging system", "weight": 1.0, "id": 60186202, "level": 4}
+{"count": 164, "name": "Service locator pattern", "weight": 0.0, "id": 50946473, "level": 4}
+{"count": 1883, "name": "Service bureau", "weight": 1.0, "id": 200624784, "level": 4}
+{"count": 9829, "name": "Customer Service Assurance", "weight": 9.0, "id": 61974975, "level": 4}

@@ -1,0 +1,11 @@
+{"count": 549, "name": "GPS Block IIIA", "weight": 2.0, "id": 89787793, "level": 5}
+{"count": 222, "name": "Cell site", "weight": 0.0, "id": 134135649, "level": 5}
+{"count": 2446, "name": "GPS disciplined oscillator", "weight": 10.0, "id": 80624579, "level": 5}
+{"count": 513, "name": "U-TDOA", "weight": 2.0, "id": 72807224, "level": 5}
+{"count": 25, "name": "Mobile Location Protocol", "weight": 0.0, "id": 2781349421, "level": 5}
+{"count": 1344, "name": "Secure User Plane Location", "weight": 5.0, "id": 958218, "level": 5}
+{"count": 70, "name": "Selective availability anti-spoofing module", "weight": 0.0, "id": 17511153, "level": 5}
+{"count": 2069, "name": "GPS tracking server", "weight": 8.0, "id": 207539736, "level": 5}
+{"count": 347, "name": "S-GPS", "weight": 1.0, "id": 94761510, "level": 5}
+{"count": 927, "name": "Defense Advanced GPS Receiver", "weight": 3.0, "id": 186407943, "level": 5}
+{"count": 63, "name": "GPS Block IIF", "weight": 0.0, "id": 191191824, "level": 5}

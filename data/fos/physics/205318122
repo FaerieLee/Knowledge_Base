@@ -1,0 +1,9 @@
+{"count": 3643, "name": "Negative refraction", "weight": 10.0, "id": 70324355, "level": 3}
+{"count": 1556, "name": "Atmospheric refraction", "weight": 4.0, "id": 13468771, "level": 3}
+{"count": 749, "name": "Snell's law", "weight": 2.0, "id": 90081545, "level": 3}
+{"count": 508, "name": "Intraocular lens power calculation", "weight": 1.0, "id": 2781095051, "level": 3}
+{"count": 1064, "name": "Total external reflection", "weight": 2.0, "id": 142737757, "level": 3}
+{"count": 166, "name": "Phoropter", "weight": 0.0, "id": 2780931076, "level": 3}
+{"count": 165, "name": "Index-matching material", "weight": 0.0, "id": 31590821, "level": 3}
+{"count": 34, "name": "Plus minus method", "weight": 0.0, "id": 2778660862, "level": 3}
+{"count": 78, "name": "Total refraction", "weight": 0.0, "id": 2779929522, "level": 3}

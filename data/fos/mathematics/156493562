@@ -1,0 +1,12 @@
+{"count": 627, "name": "Finite field arithmetic", "weight": 3.0, "id": 189178079, "level": 3}
+{"count": 826, "name": "Booth's multiplication algorithm", "weight": 4.0, "id": 72475854, "level": 3}
+{"count": 230, "name": "Binary multiplier", "weight": 1.0, "id": 2778008563, "level": 3}
+{"count": 469, "name": "Multiplication table", "weight": 2.0, "id": 25143550, "level": 3}
+{"count": 523, "name": "Wallace tree", "weight": 2.0, "id": 2777063595, "level": 3}
+{"count": 424, "name": "Karatsuba algorithm", "weight": 2.0, "id": 24856740, "level": 3}
+{"count": 1897, "name": "Multiplication algorithm", "weight": 10.0, "id": 201290732, "level": 3}
+{"count": 169, "name": "Sign extension", "weight": 0.0, "id": 2780089525, "level": 3}
+{"count": 98, "name": "Field arithmetic", "weight": 0.0, "id": 2777427355, "level": 3}
+{"count": 212, "name": "Signed number representations", "weight": 1.0, "id": 147016909, "level": 3}
+{"count": 23, "name": "Skip counting", "weight": 0.0, "id": 2779501510, "level": 3}
+{"count": 35, "name": "Signed zero", "weight": 0.0, "id": 42766391, "level": 3}

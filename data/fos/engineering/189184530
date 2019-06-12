@@ -1,0 +1,9 @@
+{"count": 1002, "name": "Gain\u2013bandwidth product", "weight": 1.0, "id": 38566628, "level": 5}
+{"count": 1822, "name": "Negative feedback amplifier", "weight": 2.0, "id": 76265683, "level": 5}
+{"count": 4762, "name": "Open-loop gain", "weight": 7.0, "id": 143931264, "level": 5}
+{"count": 857, "name": "Programmable-gain amplifier", "weight": 1.0, "id": 2781023662, "level": 5}
+{"count": 3255, "name": "Log amplifier", "weight": 5.0, "id": 175228775, "level": 5}
+{"count": 3885, "name": "Multistage amplifier", "weight": 6.0, "id": 22206589, "level": 5}
+{"count": 6375, "name": "Cascade amplifier", "weight": 10.0, "id": 49922035, "level": 5}
+{"count": 124, "name": "Asymptotic gain model", "weight": 0.0, "id": 172263392, "level": 5}
+{"count": 1196, "name": "Amplifier figures of merit", "weight": 1.0, "id": 14577153, "level": 5}

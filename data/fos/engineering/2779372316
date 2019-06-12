@@ -1,0 +1,10 @@
+{"count": 3247, "name": "Joint stiffness", "weight": 3.0, "id": 2781415944, "level": 3}
+{"count": 10141, "name": "Bending stiffness", "weight": 10.0, "id": 128172907, "level": 3}
+{"count": 1374, "name": "Steel plate shear wall", "weight": 1.0, "id": 139700937, "level": 3}
+{"count": 539, "name": "Infill wall", "weight": 0.0, "id": 2780933944, "level": 3}
+{"count": 180, "name": "Durotaxis", "weight": 0.0, "id": 2775972973, "level": 3}
+{"count": 111, "name": "Time-varying mesh", "weight": 0.0, "id": 2779729902, "level": 3}
+{"count": 37, "name": "Pneumatic trail", "weight": 0.0, "id": 2780961862, "level": 3}
+{"count": 21, "name": "Mechanical singularity", "weight": 0.0, "id": 2779388798, "level": 3}
+{"count": 24, "name": "Advanced fiber placement", "weight": 0.0, "id": 2779071632, "level": 3}
+{"count": 74, "name": "Structural engineering theory", "weight": 0.0, "id": 24876551, "level": 3}

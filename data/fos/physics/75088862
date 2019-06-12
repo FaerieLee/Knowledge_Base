@@ -1,0 +1,18 @@
+{"count": 11913, "name": "Absorbed dose", "weight": 6.0, "id": 151337348, "level": 4}
+{"count": 17328, "name": "Dosimeter", "weight": 10.0, "id": 105636585, "level": 4}
+{"count": 4473, "name": "Equivalent dose", "weight": 2.0, "id": 170226646, "level": 4}
+{"count": 2539, "name": "Optically stimulated luminescence", "weight": 1.0, "id": 125800877, "level": 4}
+{"count": 2215, "name": "Kerma", "weight": 1.0, "id": 178639098, "level": 4}
+{"count": 1075, "name": "Radiochromic film", "weight": 0.0, "id": 2777079595, "level": 4}
+{"count": 661, "name": "Biodosimetry", "weight": 0.0, "id": 2779254040, "level": 4}
+{"count": 337, "name": "Computed tomography dose index", "weight": 0.0, "id": 2777982735, "level": 4}
+{"count": 754, "name": "Internal dosimetry", "weight": 0.0, "id": 2781184130, "level": 4}
+{"count": 4562, "name": "Dose profile", "weight": 2.0, "id": 63007395, "level": 4}
+{"count": 459, "name": "Electron therapy", "weight": 0.0, "id": 2779692314, "level": 4}
+{"count": 156, "name": "Lyoluminescence", "weight": 0.0, "id": 2777745227, "level": 4}
+{"count": 802, "name": "Truebeam", "weight": 0.0, "id": 2780271382, "level": 4}
+{"count": 56, "name": "Radiation dose reconstruction", "weight": 0.0, "id": 2781345353, "level": 4}
+{"count": 100, "name": "Committed dose", "weight": 0.0, "id": 154611686, "level": 4}
+{"count": 57, "name": "Megavoltage X-rays", "weight": 0.0, "id": 2778065157, "level": 4}
+{"count": 121, "name": "Computational human phantom", "weight": 0.0, "id": 170377707, "level": 4}
+{"count": 10, "name": "Canadian National Calibration Reference Centre", "weight": 0.0, "id": 2778853779, "level": 4}

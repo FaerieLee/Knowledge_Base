@@ -1,0 +1,7 @@
+{"count": 1661, "name": "Hamming weight", "weight": 10.0, "id": 63361517, "level": 4}
+{"count": 1467, "name": "Hamming bound", "weight": 8.0, "id": 166530166, "level": 4}
+{"count": 330, "name": "Singleton bound", "weight": 1.0, "id": 189244057, "level": 4}
+{"count": 397, "name": "Hamming space", "weight": 2.0, "id": 2779494224, "level": 4}
+{"count": 156, "name": "Lee distance", "weight": 0.0, "id": 67355649, "level": 4}
+{"count": 206, "name": "Enumerator polynomial", "weight": 1.0, "id": 8598418, "level": 4}
+{"count": 1147, "name": "Hamming(7,4)", "weight": 6.0, "id": 112932734, "level": 4}

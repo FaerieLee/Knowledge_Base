@@ -1,0 +1,138 @@
+{"count": 55497, "name": "Fault tolerance", "weight": 6.0, "id": 63540848, "level": 2}
+{"count": 66250, "name": "Redundancy (engineering)", "weight": 8.0, "id": 152124472, "level": 2}
+{"count": 19646, "name": "Failure mode and effects analysis", "weight": 2.0, "id": 66283442, "level": 2}
+{"count": 81388, "name": "Service life", "weight": 10.0, "id": 103208741, "level": 2}
+{"count": 12469, "name": "Failure rate", "weight": 1.0, "id": 163164238, "level": 2}
+{"count": 12184, "name": "Maintenance engineering", "weight": 1.0, "id": 23725684, "level": 2}
+{"count": 7052, "name": "Remedial action", "weight": 0.0, "id": 196513747, "level": 2}
+{"count": 11277, "name": "Fault tree analysis", "weight": 1.0, "id": 107094494, "level": 2}
+{"count": 4453, "name": "Stress testing", "weight": 0.0, "id": 2775857362, "level": 2}
+{"count": 7103, "name": "Reliability theory", "weight": 0.0, "id": 201729545, "level": 2}
+{"count": 13673, "name": "Hazard analysis", "weight": 1.0, "id": 206355099, "level": 2}
+{"count": 9386, "name": "Human error", "weight": 1.0, "id": 169806903, "level": 2}
+{"count": 10841, "name": "Preventive maintenance", "weight": 1.0, "id": 24090081, "level": 2}
+{"count": 4864, "name": "Process capability", "weight": 0.0, "id": 91439571, "level": 2}
+{"count": 12892, "name": "System safety", "weight": 1.0, "id": 132835097, "level": 2}
+{"count": 6616, "name": "High availability", "weight": 0.0, "id": 65813073, "level": 2}
+{"count": 8380, "name": "Quality function deployment", "weight": 1.0, "id": 86992474, "level": 2}
+{"count": 2430, "name": "Accelerated life testing", "weight": 0.0, "id": 158379689, "level": 2}
+{"count": 4623, "name": "Mean time between failures", "weight": 0.0, "id": 44154001, "level": 2}
+{"count": 3790, "name": "Reliability (computer networking)", "weight": 0.0, "id": 167677733, "level": 2}
+{"count": 13637, "name": "Dependability", "weight": 1.0, "id": 77019957, "level": 2}
+{"count": 5690, "name": "Accident analysis", "weight": 0.0, "id": 2780591428, "level": 2}
+{"count": 6248, "name": "Safety standards", "weight": 0.0, "id": 2776179734, "level": 2}
+{"count": 9456, "name": "Survivability", "weight": 1.0, "id": 2781133158, "level": 2}
+{"count": 13645, "name": "Maintainability", "weight": 1.0, "id": 160713754, "level": 2}
+{"count": 6296, "name": "Safety engineering", "weight": 0.0, "id": 94279714, "level": 2}
+{"count": 4267, "name": "Code coverage", "weight": 0.0, "id": 53942775, "level": 2}
+{"count": 4896, "name": "Accelerated aging", "weight": 0.0, "id": 118820876, "level": 2}
+{"count": 1980, "name": "Environmental tests", "weight": 0.0, "id": 7576483, "level": 2}
+{"count": 9712, "name": "Acceptance testing", "weight": 1.0, "id": 131377759, "level": 2}
+{"count": 4965, "name": "Prognostics", "weight": 0.0, "id": 129364497, "level": 2}
+{"count": 7129, "name": "Predictive maintenance", "weight": 0.0, "id": 70452415, "level": 2}
+{"count": 2786, "name": "Root cause analysis", "weight": 0.0, "id": 130963320, "level": 2}
+{"count": 7368, "name": "Warranty", "weight": 0.0, "id": 2779056723, "level": 2}
+{"count": 13707, "name": "Troubleshooting", "weight": 1.0, "id": 147494362, "level": 2}
+{"count": 4904, "name": "White-box testing", "weight": 0.0, "id": 162443782, "level": 2}
+{"count": 10106, "name": "Downtime", "weight": 1.0, "id": 180591934, "level": 2}
+{"count": 2070, "name": "Axiomatic design", "weight": 0.0, "id": 84170951, "level": 2}
+{"count": 5015, "name": "Planned maintenance", "weight": 0.0, "id": 4402595, "level": 2}
+{"count": 2199, "name": "Near miss", "weight": 0.0, "id": 206713868, "level": 2}
+{"count": 1487, "name": "Total productive maintenance", "weight": 0.0, "id": 3285680, "level": 2}
+{"count": 1050, "name": "Design for assembly", "weight": 0.0, "id": 113378356, "level": 2}
+{"count": 1390, "name": "Common cause and special cause", "weight": 0.0, "id": 14396502, "level": 2}
+{"count": 1405, "name": "Reliability centered maintenance", "weight": 0.0, "id": 113661981, "level": 2}
+{"count": 1778, "name": "Burn-in", "weight": 0.0, "id": 179707776, "level": 2}
+{"count": 2035, "name": "Process safety", "weight": 0.0, "id": 80038721, "level": 2}
+{"count": 6086, "name": "Test strategy", "weight": 0.0, "id": 188598960, "level": 2}
+{"count": 1565, "name": "Residual risk", "weight": 0.0, "id": 152163801, "level": 2}
+{"count": 20916, "name": "Interlocking", "weight": 2.0, "id": 2778844933, "level": 2}
+{"count": 2543, "name": "Fail-safe", "weight": 0.0, "id": 42259789, "level": 2}
+{"count": 8781, "name": "Humanitarian Logistics", "weight": 1.0, "id": 205548138, "level": 2}
+{"count": 2683, "name": "Functional safety", "weight": 0.0, "id": 148493468, "level": 2}
+{"count": 17598, "name": "Operability", "weight": 2.0, "id": 126231374, "level": 2}
+{"count": 734, "name": "Safety Integrity Level", "weight": 0.0, "id": 14157789, "level": 2}
+{"count": 1029, "name": "Overall equipment effectiveness", "weight": 0.0, "id": 2781106871, "level": 2}
+{"count": 1119, "name": "Inherent safety", "weight": 0.0, "id": 64695881, "level": 2}
+{"count": 1475, "name": "Safety case", "weight": 0.0, "id": 2780234205, "level": 2}
+{"count": 703, "name": "Safety instrumented system", "weight": 0.0, "id": 22607221, "level": 2}
+{"count": 519, "name": "Ishikawa diagram", "weight": 0.0, "id": 70726487, "level": 2}
+{"count": 450, "name": "Reliability, availability and serviceability", "weight": 0.0, "id": 43259222, "level": 2}
+{"count": 658, "name": "Physics of failure", "weight": 0.0, "id": 2778306610, "level": 2}
+{"count": 244, "name": "Terotechnology", "weight": 0.0, "id": 2775990641, "level": 2}
+{"count": 1430, "name": "Logistics center", "weight": 0.0, "id": 2776756026, "level": 2}
+{"count": 1028, "name": "IEC 61508", "weight": 0.0, "id": 138267214, "level": 2}
+{"count": 883, "name": "System integrity", "weight": 0.0, "id": 2777499013, "level": 2}
+{"count": 7036, "name": "Unavailability", "weight": 0.0, "id": 2780505938, "level": 2}
+{"count": 12823, "name": "Root cause", "weight": 1.0, "id": 84945661, "level": 2}
+{"count": 533, "name": "Deferred maintenance", "weight": 0.0, "id": 112008065, "level": 2}
+{"count": 1226, "name": "Integrity management", "weight": 0.0, "id": 2777675914, "level": 2}
+{"count": 393, "name": "Logistics engineering", "weight": 0.0, "id": 2781094044, "level": 2}
+{"count": 2362, "name": "Unexpected events", "weight": 0.0, "id": 2776544517, "level": 2}
+{"count": 1851, "name": "Work order", "weight": 0.0, "id": 158066952, "level": 2}
+{"count": 3464, "name": "Intra-rater reliability", "weight": 0.0, "id": 197815874, "level": 2}
+{"count": 1297, "name": "Failure assessment", "weight": 0.0, "id": 2778445657, "level": 2}
+{"count": 3088, "name": "Manufacturing operations", "weight": 0.0, "id": 154742593, "level": 2}
+{"count": 764, "name": "Accident management", "weight": 0.0, "id": 2780004111, "level": 2}
+{"count": 241, "name": "Environmental stress screening", "weight": 0.0, "id": 99626738, "level": 2}
+{"count": 2272, "name": "Seven Management and Planning Tools", "weight": 0.0, "id": 174102782, "level": 2}
+{"count": 158, "name": "Integrated vehicle health management", "weight": 0.0, "id": 2777805294, "level": 2}
+{"count": 4148, "name": "Computerized maintenance management system", "weight": 0.0, "id": 115837547, "level": 2}
+{"count": 833, "name": "Operational availability", "weight": 0.0, "id": 2776074501, "level": 2}
+{"count": 158, "name": "Performance-based regulation", "weight": 0.0, "id": 2776281555, "level": 2}
+{"count": 1006, "name": "Hot spare", "weight": 0.0, "id": 122195918, "level": 2}
+{"count": 91, "name": "SORM", "weight": 0.0, "id": 2779030449, "level": 2}
+{"count": 785, "name": "Recovery procedure", "weight": 0.0, "id": 2778589938, "level": 2}
+{"count": 411, "name": "Critical to quality", "weight": 0.0, "id": 47569489, "level": 2}
+{"count": 277, "name": "Behavior-based safety", "weight": 0.0, "id": 2777549400, "level": 2}
+{"count": 149, "name": "Detection risk", "weight": 0.0, "id": 2781278088, "level": 2}
+{"count": 1130, "name": "Operational acceptance testing", "weight": 0.0, "id": 18362487, "level": 2}
+{"count": 2455, "name": "Fides", "weight": 0.0, "id": 169756158, "level": 2}
+{"count": 1869, "name": "Optimal maintenance", "weight": 0.0, "id": 2776671899, "level": 2}
+{"count": 114, "name": "Fail-fast", "weight": 0.0, "id": 109349799, "level": 2}
+{"count": 4080, "name": "Switchover", "weight": 0.0, "id": 124200919, "level": 2}
+{"count": 1291, "name": "Failure causes", "weight": 0.0, "id": 28944875, "level": 2}
+{"count": 648, "name": "Compatibility testing", "weight": 0.0, "id": 160865550, "level": 2}
+{"count": 211, "name": "Swiss cheese model", "weight": 0.0, "id": 63910690, "level": 2}
+{"count": 405, "name": "Mission assurance", "weight": 0.0, "id": 2777479259, "level": 2}
+{"count": 376, "name": "Failure analysis", "weight": 0.0, "id": 149843283, "level": 2}
+{"count": 496, "name": "Maintenance mode", "weight": 0.0, "id": 5294848, "level": 2}
+{"count": 812, "name": "Fall protection", "weight": 0.0, "id": 2777971728, "level": 2}
+{"count": 184, "name": "CAIDI", "weight": 0.0, "id": 2777366433, "level": 2}
+{"count": 180, "name": "Soft goal", "weight": 0.0, "id": 185172162, "level": 2}
+{"count": 155, "name": "EVOP", "weight": 0.0, "id": 13734980, "level": 2}
+{"count": 374, "name": "Testing reliability", "weight": 0.0, "id": 2776197328, "level": 2}
+{"count": 191, "name": "Integrated product team", "weight": 0.0, "id": 2780565209, "level": 2}
+{"count": 109, "name": "Graphical Evaluation and Review Technique", "weight": 0.0, "id": 2777065962, "level": 2}
+{"count": 210, "name": "Predictive failure analysis", "weight": 0.0, "id": 52059595, "level": 2}
+{"count": 3, "name": "SafetyBUS p", "weight": 0.0, "id": 2779029795, "level": 2}
+{"count": 254, "name": "Risk metric", "weight": 0.0, "id": 2775892784, "level": 2}
+{"count": 69, "name": "Built-in test equipment", "weight": 0.0, "id": 2777712407, "level": 2}
+{"count": 122, "name": "Volume testing", "weight": 0.0, "id": 47407248, "level": 2}
+{"count": 107, "name": "Soak testing", "weight": 0.0, "id": 172852746, "level": 2}
+{"count": 13, "name": "Stress\u2013strength analysis", "weight": 0.0, "id": 2778118320, "level": 2}
+{"count": 120, "name": "Mean time to recovery", "weight": 0.0, "id": 162829433, "level": 2}
+{"count": 15, "name": "Zonal safety analysis", "weight": 0.0, "id": 2780346654, "level": 2}
+{"count": 28, "name": "Transition engineering", "weight": 0.0, "id": 2779675688, "level": 2}
+{"count": 310, "name": "Theory of operation", "weight": 0.0, "id": 2780743846, "level": 2}
+{"count": 27, "name": "Functional flow block diagram", "weight": 0.0, "id": 107474922, "level": 2}
+{"count": 6, "name": "Annualized failure rate", "weight": 0.0, "id": 13719553, "level": 2}
+{"count": 10, "name": "Why\u2013because analysis", "weight": 0.0, "id": 2777070252, "level": 2}
+{"count": 21, "name": "Maintenance, repair and operations", "weight": 0.0, "id": 2779450541, "level": 2}
+{"count": 137, "name": "System accident", "weight": 0.0, "id": 77568526, "level": 2}
+{"count": 2, "name": "Spurious trip level", "weight": 0.0, "id": 193191644, "level": 2}
+{"count": 6, "name": "Failure modes, effects, and diagnostic analysis", "weight": 0.0, "id": 2779640736, "level": 2}
+{"count": 10, "name": "Maritime Resource Management", "weight": 0.0, "id": 2780357454, "level": 2}
+{"count": 49, "name": "Synthetic monitoring", "weight": 0.0, "id": 2778830394, "level": 2}
+{"count": 11, "name": "Eight Disciplines Problem Solving", "weight": 0.0, "id": 80752171, "level": 2}
+{"count": 1, "name": "Definitive software library", "weight": 0.0, "id": 2776278442, "level": 2}
+{"count": 1, "name": "Parts stress modelling", "weight": 0.0, "id": 6555421, "level": 2}
+{"count": 5, "name": "Structured What If Technique", "weight": 0.0, "id": 18827939, "level": 2}
+{"count": 113, "name": "Failure reporting, analysis, and corrective action system", "weight": 0.0, "id": 141448439, "level": 2}
+{"count": 10, "name": "National Day of Mourning", "weight": 0.0, "id": 2779022365, "level": 2}
+{"count": 3, "name": "SafetyNET p", "weight": 0.0, "id": 2780869721, "level": 2}
+{"count": 4, "name": "Hazardous Materials Identification System", "weight": 0.0, "id": 2779622696, "level": 2}
+{"count": 6834, "name": "Test Management Approach", "weight": 0.0, "id": 7435765, "level": 2}
+{"count": 1, "name": "Lusser's law", "weight": 0.0, "id": 2777853094, "level": 2}
+{"count": 210, "name": "Reliability (semiconductor)", "weight": 0.0, "id": 43214815, "level": 2}
+{"count": 11, "name": "Failing badly", "weight": 0.0, "id": 2778904326, "level": 2}

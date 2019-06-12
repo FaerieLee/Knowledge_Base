@@ -1,0 +1,4 @@
+{"count": 352, "name": "Loop counter", "weight": 10.0, "id": 140461892, "level": 4}
+{"count": 340, "name": "Loop splitting", "weight": 9.0, "id": 117670421, "level": 4}
+{"count": 199, "name": "Conditional loop", "weight": 5.0, "id": 56240398, "level": 4}
+{"count": 286, "name": "Loop dependence analysis", "weight": 8.0, "id": 99874240, "level": 4}

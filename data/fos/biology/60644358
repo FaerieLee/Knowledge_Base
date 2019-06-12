@@ -1,0 +1,200 @@
+{"count": 78239, "name": "Biological activity", "weight": 4.0, "id": 116073593, "level": 2}
+{"count": 186169, "name": "Clinical trial", "weight": 10.0, "id": 535046627, "level": 2}
+{"count": 104090, "name": "Absorption (pharmacology)", "weight": 5.0, "id": 70687592, "level": 2}
+{"count": 138267, "name": "Pharmacokinetics", "weight": 7.0, "id": 112705442, "level": 2}
+{"count": 53735, "name": "Proteomics", "weight": 2.0, "id": 46111723, "level": 2}
+{"count": 13303, "name": "Sequence alignment", "weight": 0.0, "id": 45484198, "level": 2}
+{"count": 36599, "name": "Drug discovery", "weight": 1.0, "id": 74187038, "level": 2}
+{"count": 19459, "name": "Systems biology", "weight": 1.0, "id": 152662350, "level": 2}
+{"count": 18929, "name": "Metabolomics", "weight": 1.0, "id": 21565614, "level": 2}
+{"count": 7489, "name": "Structural biology", "weight": 0.0, "id": 191120209, "level": 2}
+{"count": 15866, "name": "Structure\u2013activity relationship", "weight": 0.0, "id": 193042331, "level": 2}
+{"count": 19535, "name": "Liberation", "weight": 1.0, "id": 2776711897, "level": 2}
+{"count": 39424, "name": "Dosage form", "weight": 2.0, "id": 77281830, "level": 2}
+{"count": 66423, "name": "Bioavailability", "weight": 3.0, "id": 181389837, "level": 2}
+{"count": 23338, "name": "Protein\u2013protein interaction", "weight": 1.0, "id": 11804247, "level": 2}
+{"count": 15301, "name": "Human genetics", "weight": 0.0, "id": 47042493, "level": 2}
+{"count": 17021, "name": "Omics", "weight": 0.0, "id": 157585117, "level": 2}
+{"count": 7185, "name": "Molecular probe", "weight": 0.0, "id": 145169222, "level": 2}
+{"count": 14538, "name": "Biotransformation", "weight": 0.0, "id": 27881333, "level": 2}
+{"count": 34904, "name": "Proteome", "weight": 1.0, "id": 104397665, "level": 2}
+{"count": 65938, "name": "Active ingredient", "weight": 3.0, "id": 45904493, "level": 2}
+{"count": 33704, "name": "Combination therapy", "weight": 1.0, "id": 2776999253, "level": 2}
+{"count": 6606, "name": "Multiple sequence alignment", "weight": 0.0, "id": 88031987, "level": 2}
+{"count": 15540, "name": "Pharmacogenetics", "weight": 0.0, "id": 55775858, "level": 2}
+{"count": 10765, "name": "Route of administration", "weight": 0.0, "id": 2776093070, "level": 2}
+{"count": 14325, "name": "Phases of clinical research", "weight": 0.0, "id": 31760486, "level": 2}
+{"count": 3907, "name": "Molecular biophysics", "weight": 0.0, "id": 70636015, "level": 2}
+{"count": 6277, "name": "High-throughput screening", "weight": 0.0, "id": 51323132, "level": 2}
+{"count": 15768, "name": "In silico", "weight": 0.0, "id": 2775905019, "level": 2}
+{"count": 12899, "name": "Metagenomics", "weight": 0.0, "id": 15151743, "level": 2}
+{"count": 19436, "name": "Quantitative structure\u2013activity relationship", "weight": 1.0, "id": 164126121, "level": 2}
+{"count": 43736, "name": "Annotation", "weight": 2.0, "id": 2776321320, "level": 2}
+{"count": 9184, "name": "Metabolic engineering", "weight": 0.0, "id": 6350086, "level": 2}
+{"count": 25530, "name": "RAPD", "weight": 1.0, "id": 84623179, "level": 2}
+{"count": 4038, "name": "Secondary metabolism", "weight": 0.0, "id": 2777157883, "level": 2}
+{"count": 4529, "name": "Metabolic network", "weight": 0.0, "id": 101810790, "level": 2}
+{"count": 13468, "name": "Biological data", "weight": 0.0, "id": 201797286, "level": 2}
+{"count": 14661, "name": "Personalized medicine", "weight": 0.0, "id": 32220436, "level": 2}
+{"count": 17983, "name": "Microbiome", "weight": 0.0, "id": 143121216, "level": 2}
+{"count": 2574, "name": "Protein subcellular localization prediction", "weight": 0.0, "id": 140051345, "level": 2}
+{"count": 5993, "name": "Biological network", "weight": 0.0, "id": 28225019, "level": 2}
+{"count": 6815, "name": "Homology modeling", "weight": 0.0, "id": 169627665, "level": 2}
+{"count": 14310, "name": "Docking (molecular)", "weight": 0.0, "id": 123015428, "level": 2}
+{"count": 7601, "name": "Biomedicine", "weight": 0.0, "id": 66782513, "level": 2}
+{"count": 2443, "name": "Drug design", "weight": 0.0, "id": 192071366, "level": 2}
+{"count": 7059, "name": "Synthetic biology", "weight": 0.0, "id": 191908910, "level": 2}
+{"count": 7002, "name": "Interaction network", "weight": 0.0, "id": 55105296, "level": 2}
+{"count": 11975, "name": "Clinical pharmacology", "weight": 0.0, "id": 63433958, "level": 2}
+{"count": 7952, "name": "Virtual screening", "weight": 0.0, "id": 103697762, "level": 2}
+{"count": 8229, "name": "Glycoconjugate", "weight": 0.0, "id": 13426554, "level": 2}
+{"count": 4990, "name": "Molecular diagnostics", "weight": 0.0, "id": 179786068, "level": 2}
+{"count": 9659, "name": "Pharmacogenomics", "weight": 0.0, "id": 170734499, "level": 2}
+{"count": 68662, "name": "Potency", "weight": 3.0, "id": 57992300, "level": 2}
+{"count": 4527, "name": "Multiscale modeling", "weight": 0.0, "id": 141123601, "level": 2}
+{"count": 3314, "name": "Pyrosequencing", "weight": 0.0, "id": 125009961, "level": 2}
+{"count": 759, "name": "Cellular model", "weight": 0.0, "id": 147025567, "level": 2}
+{"count": 16835, "name": "Concordance", "weight": 0.0, "id": 160798450, "level": 2}
+{"count": 421, "name": "Fold change", "weight": 0.0, "id": 2779018089, "level": 2}
+{"count": 3073, "name": "Pathway analysis", "weight": 0.0, "id": 2779230013, "level": 2}
+{"count": 13046, "name": "Subcutaneous injection", "weight": 0.0, "id": 2776390293, "level": 2}
+{"count": 1608, "name": "Phycoerythrin", "weight": 0.0, "id": 137243819, "level": 2}
+{"count": 1297, "name": "Sublingual administration", "weight": 0.0, "id": 2779350572, "level": 2}
+{"count": 2678, "name": "Lipidomics", "weight": 0.0, "id": 58017582, "level": 2}
+{"count": 32781, "name": "Multiplex", "weight": 1.0, "id": 2781188995, "level": 2}
+{"count": 2260, "name": "Optical mapping", "weight": 0.0, "id": 28289500, "level": 2}
+{"count": 6928, "name": "Biochip", "weight": 0.0, "id": 87892846, "level": 2}
+{"count": 2968, "name": "Phycocyanin", "weight": 0.0, "id": 2778093064, "level": 2}
+{"count": 1286, "name": "Biological database", "weight": 0.0, "id": 20901353, "level": 2}
+{"count": 5171, "name": "Biobank", "weight": 0.0, "id": 116567970, "level": 2}
+{"count": 2371, "name": "DIDS", "weight": 0.0, "id": 2779533339, "level": 2}
+{"count": 1116, "name": "Macromolecular docking", "weight": 0.0, "id": 116887118, "level": 2}
+{"count": 1528, "name": "High-content screening", "weight": 0.0, "id": 157044486, "level": 2}
+{"count": 1548, "name": "Fixed-dose combination", "weight": 0.0, "id": 2776623344, "level": 2}
+{"count": 2944, "name": "Melting curve analysis", "weight": 0.0, "id": 84133368, "level": 2}
+{"count": 2205, "name": "Cheminformatics", "weight": 0.0, "id": 68762167, "level": 2}
+{"count": 3186, "name": "Sexing", "weight": 0.0, "id": 2779383911, "level": 2}
+{"count": 1531, "name": "Protein function prediction", "weight": 0.0, "id": 207060522, "level": 2}
+{"count": 1536, "name": "Nutrigenomics", "weight": 0.0, "id": 97633540, "level": 2}
+{"count": 2163, "name": "Orphan drug", "weight": 0.0, "id": 75480439, "level": 2}
+{"count": 882, "name": "Statistical genetics", "weight": 0.0, "id": 555299818, "level": 2}
+{"count": 979, "name": "Tissue bank", "weight": 0.0, "id": 2780006781, "level": 2}
+{"count": 2253, "name": "Intrinsically disordered proteins", "weight": 0.0, "id": 2778815515, "level": 2}
+{"count": 1408, "name": "Phycobiliprotein", "weight": 0.0, "id": 116514494, "level": 2}
+{"count": 1341, "name": "Function (biology)", "weight": 0.0, "id": 14036430, "level": 2}
+{"count": 5105, "name": "Fast track", "weight": 0.0, "id": 2776078045, "level": 2}
+{"count": 3194, "name": "Interactome", "weight": 0.0, "id": 9760119, "level": 2}
+{"count": 4879, "name": "Structural variation", "weight": 0.0, "id": 151020129, "level": 2}
+{"count": 6527, "name": "Safety monitoring", "weight": 0.0, "id": 2777488183, "level": 2}
+{"count": 2002, "name": "Sequence database", "weight": 0.0, "id": 41584329, "level": 2}
+{"count": 960, "name": "Azelastine", "weight": 0.0, "id": 2780113039, "level": 2}
+{"count": 680, "name": "Biophysical chemistry", "weight": 0.0, "id": 19658042, "level": 2}
+{"count": 624, "name": "Tebufenozide", "weight": 0.0, "id": 2780000458, "level": 2}
+{"count": 16104, "name": "Buccal administration", "weight": 0.0, "id": 195735259, "level": 2}
+{"count": 485, "name": "Thionin", "weight": 0.0, "id": 2780255809, "level": 2}
+{"count": 555, "name": "Bioisostere", "weight": 0.0, "id": 2779095896, "level": 2}
+{"count": 2290, "name": "Protein superfamily", "weight": 0.0, "id": 178180057, "level": 2}
+{"count": 796, "name": "Footprinting", "weight": 0.0, "id": 2778021871, "level": 2}
+{"count": 861, "name": "Safety pharmacology", "weight": 0.0, "id": 2776190711, "level": 2}
+{"count": 42, "name": "Synergy", "weight": 0.0, "id": 157460569, "level": 2}
+{"count": 1242, "name": "Environmental DNA", "weight": 0.0, "id": 2779969263, "level": 2}
+{"count": 514, "name": "Molecular microbiology", "weight": 0.0, "id": 123244313, "level": 2}
+{"count": 3895, "name": "Lead compound", "weight": 0.0, "id": 2777752112, "level": 2}
+{"count": 538, "name": "Predictive medicine", "weight": 0.0, "id": 2778926291, "level": 2}
+{"count": 476, "name": "Genotyping by sequencing", "weight": 0.0, "id": 2780428443, "level": 2}
+{"count": 3524, "name": "Onset of action", "weight": 0.0, "id": 46821324, "level": 2}
+{"count": 2191, "name": "Chemical space", "weight": 0.0, "id": 99726746, "level": 2}
+{"count": 2448, "name": "MODELLER", "weight": 0.0, "id": 193153401, "level": 2}
+{"count": 632, "name": "E-research", "weight": 0.0, "id": 2778390475, "level": 2}
+{"count": 1995, "name": "Crude drug", "weight": 0.0, "id": 2778956427, "level": 2}
+{"count": 393, "name": "N-Acetylgalactosamine", "weight": 0.0, "id": 2777718345, "level": 2}
+{"count": 337, "name": "Metallome", "weight": 0.0, "id": 58314162, "level": 2}
+{"count": 427, "name": "Geranylgeraniol", "weight": 0.0, "id": 2778359262, "level": 2}
+{"count": 326, "name": "Virtual research environment", "weight": 0.0, "id": 2778730959, "level": 2}
+{"count": 1442, "name": "Pharmaceutical manufacturing", "weight": 0.0, "id": 2778938233, "level": 2}
+{"count": 595, "name": "Responsible Research and Innovation", "weight": 0.0, "id": 2777720028, "level": 2}
+{"count": 1094, "name": "Orally disintegrating tablet", "weight": 0.0, "id": 2779275604, "level": 2}
+{"count": 1366, "name": "Assay sensitivity", "weight": 0.0, "id": 2780367336, "level": 2}
+{"count": 1178, "name": "Expanded access", "weight": 0.0, "id": 2775832928, "level": 2}
+{"count": 415, "name": "PROSITE", "weight": 0.0, "id": 76252022, "level": 2}
+{"count": 255, "name": "Biochemical systems theory", "weight": 0.0, "id": 99202608, "level": 2}
+{"count": 490, "name": "Proximity ligation assay", "weight": 0.0, "id": 2776243700, "level": 2}
+{"count": 38, "name": "Volcano plot", "weight": 0.0, "id": 159802954, "level": 2}
+{"count": 211, "name": "Dot plot (statistics)", "weight": 0.0, "id": 174995386, "level": 2}
+{"count": 683, "name": "Chemical library", "weight": 0.0, "id": 2779057010, "level": 2}
+{"count": 527, "name": "Chemical similarity", "weight": 0.0, "id": 24259465, "level": 2}
+{"count": 136, "name": "Tree alignment", "weight": 0.0, "id": 2780958398, "level": 2}
+{"count": 1765, "name": "DECIPHER", "weight": 0.0, "id": 164614171, "level": 2}
+{"count": 288, "name": "Physiome", "weight": 0.0, "id": 43540238, "level": 2}
+{"count": 213, "name": "CUB domain", "weight": 0.0, "id": 2776992972, "level": 2}
+{"count": 529, "name": "PubChem", "weight": 0.0, "id": 158180186, "level": 2}
+{"count": 303, "name": "Short linear motif", "weight": 0.0, "id": 193117094, "level": 2}
+{"count": 679, "name": "Data profiling", "weight": 0.0, "id": 80583463, "level": 2}
+{"count": 119, "name": "Brivudine", "weight": 0.0, "id": 2780496420, "level": 2}
+{"count": 151, "name": "Coarse-grained modeling", "weight": 0.0, "id": 2776225496, "level": 2}
+{"count": 174, "name": "Fantom", "weight": 0.0, "id": 2780036518, "level": 2}
+{"count": 425, "name": "Applied physiology", "weight": 0.0, "id": 134170938, "level": 2}
+{"count": 182, "name": "Virtual Physiological Human", "weight": 0.0, "id": 87065143, "level": 2}
+{"count": 356, "name": "Pharmaceutical medicine", "weight": 0.0, "id": 2777281137, "level": 2}
+{"count": 391, "name": "Minion", "weight": 0.0, "id": 2779927696, "level": 2}
+{"count": 398, "name": "k-mer", "weight": 0.0, "id": 2279292, "level": 2}
+{"count": 103, "name": "Materiomics", "weight": 0.0, "id": 165823086, "level": 2}
+{"count": 236, "name": "FASTA format", "weight": 0.0, "id": 109915654, "level": 2}
+{"count": 184, "name": "SIMAP", "weight": 0.0, "id": 113752570, "level": 2}
+{"count": 262, "name": "Nosiheptide", "weight": 0.0, "id": 2781342473, "level": 2}
+{"count": 108, "name": "FREP", "weight": 0.0, "id": 51562490, "level": 2}
+{"count": 110, "name": "Bioimage informatics", "weight": 0.0, "id": 2778790029, "level": 2}
+{"count": 157, "name": "Biosimulation", "weight": 0.0, "id": 2780041498, "level": 2}
+{"count": 108, "name": "e-social science", "weight": 0.0, "id": 2778140607, "level": 2}
+{"count": 365, "name": "Medical biology", "weight": 0.0, "id": 110271434, "level": 2}
+{"count": 133, "name": "GenoMik", "weight": 0.0, "id": 2781099659, "level": 2}
+{"count": 88, "name": "Multi-compartment model", "weight": 0.0, "id": 11246889, "level": 2}
+{"count": 96, "name": "Cellular noise", "weight": 0.0, "id": 2779705785, "level": 2}
+{"count": 245, "name": "Protein methods", "weight": 0.0, "id": 111364199, "level": 2}
+{"count": 96, "name": "Pharmacotoxicology", "weight": 0.0, "id": 187802514, "level": 2}
+{"count": 95, "name": "Idiosyncratic drug reaction", "weight": 0.0, "id": 2779047825, "level": 2}
+{"count": 105, "name": "Pharmacoinformatics", "weight": 0.0, "id": 39845830, "level": 2}
+{"count": 979, "name": "Biological target", "weight": 0.0, "id": 109317608, "level": 2}
+{"count": 101, "name": "EMBnet", "weight": 0.0, "id": 2779736571, "level": 2}
+{"count": 451, "name": "AK2", "weight": 0.0, "id": 66753802, "level": 2}
+{"count": 440, "name": "DIMA", "weight": 0.0, "id": 2778213332, "level": 2}
+{"count": 206, "name": "Reaxys", "weight": 0.0, "id": 2776925088, "level": 2}
+{"count": 33, "name": "Reverse ecology", "weight": 0.0, "id": 2776539755, "level": 2}
+{"count": 383, "name": "Intravitreal administration", "weight": 0.0, "id": 2779742858, "level": 2}
+{"count": 220, "name": "Integrative bioinformatics", "weight": 0.0, "id": 197261262, "level": 2}
+{"count": 91, "name": "Human Variome Project", "weight": 0.0, "id": 2777223518, "level": 2}
+{"count": 172, "name": "mothur", "weight": 0.0, "id": 2779935634, "level": 2}
+{"count": 546, "name": "Entrez", "weight": 0.0, "id": 2776937090, "level": 2}
+{"count": 36, "name": "Digital organism", "weight": 0.0, "id": 38406130, "level": 2}
+{"count": 56, "name": "Bibliome", "weight": 0.0, "id": 179120425, "level": 2}
+{"count": 75, "name": "Dock6", "weight": 0.0, "id": 2775923303, "level": 2}
+{"count": 59, "name": "High throughput biology", "weight": 0.0, "id": 2776274527, "level": 2}
+{"count": 384, "name": "Time release technology", "weight": 0.0, "id": 181634319, "level": 2}
+{"count": 53, "name": "Biomics", "weight": 0.0, "id": 2777770448, "level": 2}
+{"count": 104, "name": "Mental environment", "weight": 0.0, "id": 2781314974, "level": 2}
+{"count": 89, "name": "Mathematical physiology", "weight": 0.0, "id": 186685421, "level": 2}
+{"count": 107, "name": "FoldX", "weight": 0.0, "id": 2777045728, "level": 2}
+{"count": 50, "name": "First-in-man study", "weight": 0.0, "id": 2781191404, "level": 2}
+{"count": 36, "name": "Clerodendrum colebrookianum", "weight": 0.0, "id": 2781243169, "level": 2}
+{"count": 100, "name": "Race and genetics", "weight": 0.0, "id": 2780397185, "level": 2}
+{"count": 174, "name": "Dry lab", "weight": 0.0, "id": 51779373, "level": 2}
+{"count": 5, "name": "des(1-3)IGF-1", "weight": 0.0, "id": 2778342552, "level": 2}
+{"count": 42, "name": "Tambjamine", "weight": 0.0, "id": 2776530205, "level": 2}
+{"count": 65, "name": "Automated species identification", "weight": 0.0, "id": 111753860, "level": 2}
+{"count": 27, "name": "UHMK1", "weight": 0.0, "id": 2780318613, "level": 2}
+{"count": 339, "name": "ProSAS", "weight": 0.0, "id": 2780246408, "level": 2}
+{"count": 10, "name": "Mycobacterium hassiacum", "weight": 0.0, "id": 2781387729, "level": 2}
+{"count": 10, "name": "Pharmaceutical fraud", "weight": 0.0, "id": 2781125580, "level": 2}
+{"count": 114, "name": "EamA", "weight": 0.0, "id": 2779686754, "level": 2}
+{"count": 8, "name": "3,4-Methylenedioxy-N-ethylamphetamine", "weight": 0.0, "id": 2777094863, "level": 2}
+{"count": 5, "name": "Mycobacterium heidelbergense", "weight": 0.0, "id": 2781156107, "level": 2}
+{"count": 47, "name": "Metaserver", "weight": 0.0, "id": 2776147551, "level": 2}
+{"count": 107, "name": "Galenic formulation", "weight": 0.0, "id": 2776325195, "level": 2}
+{"count": 15, "name": "Sodium-solute symporter", "weight": 0.0, "id": 2776552563, "level": 2}
+{"count": 74, "name": "SDRF", "weight": 0.0, "id": 138912039, "level": 2}
+{"count": 93, "name": "PCAA", "weight": 0.0, "id": 2779938888, "level": 2}
+{"count": 15, "name": "FV-100", "weight": 0.0, "id": 2777656812, "level": 2}
+{"count": 15, "name": "Minimum Information Standards", "weight": 0.0, "id": 2779434039, "level": 2}
+{"count": 22, "name": "Do-it-yourself biology", "weight": 0.0, "id": 2779300460, "level": 2}
+{"count": 88, "name": "Evolutionary landscape", "weight": 0.0, "id": 2780009971, "level": 2}
+{"count": 8, "name": "Cephalomyidae", "weight": 0.0, "id": 2779327422, "level": 2}

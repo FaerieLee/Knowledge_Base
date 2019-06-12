@@ -1,0 +1,5 @@
+{"count": 1133, "name": "Isomap", "weight": 7.0, "id": 2778626561, "level": 4}
+{"count": 510, "name": "Local tangent space alignment", "weight": 3.0, "id": 114178687, "level": 4}
+{"count": 840, "name": "Diffusion map", "weight": 5.0, "id": 55128770, "level": 4}
+{"count": 220, "name": "Sammon mapping", "weight": 1.0, "id": 96350302, "level": 4}
+{"count": 1599, "name": "Manifold alignment", "weight": 10.0, "id": 153120616, "level": 4}

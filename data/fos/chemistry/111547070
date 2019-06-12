@@ -1,0 +1,20 @@
+{"count": 10502, "name": "Microfiltration", "weight": 10.0, "id": 48314217, "level": 3}
+{"count": 3320, "name": "Cross-flow filtration", "weight": 3.0, "id": 53163501, "level": 3}
+{"count": 5854, "name": "Filter cake", "weight": 5.0, "id": 20699195, "level": 3}
+{"count": 2470, "name": "Sand filter", "weight": 2.0, "id": 2778581769, "level": 3}
+{"count": 983, "name": "Slow sand filter", "weight": 0.0, "id": 136223276, "level": 3}
+{"count": 3888, "name": "Backwashing", "weight": 3.0, "id": 2778909257, "level": 3}
+{"count": 258, "name": "Electrofiltration", "weight": 0.0, "id": 107269619, "level": 3}
+{"count": 5988, "name": "Filter press", "weight": 5.0, "id": 86668045, "level": 3}
+{"count": 665, "name": "Filtration coefficient", "weight": 0.0, "id": 2781130763, "level": 3}
+{"count": 739, "name": "Belt filter", "weight": 0.0, "id": 2781470988, "level": 3}
+{"count": 470, "name": "Depth filter", "weight": 0.0, "id": 129924090, "level": 3}
+{"count": 454, "name": "Rapid sand filter", "weight": 0.0, "id": 177234587, "level": 3}
+{"count": 171, "name": "Natural filtration", "weight": 0.0, "id": 167402260, "level": 3}
+{"count": 223, "name": "Nucleopore filter", "weight": 0.0, "id": 16761115, "level": 3}
+{"count": 195, "name": "Cloth filter", "weight": 0.0, "id": 2779890821, "level": 3}
+{"count": 81, "name": "Syringe filter", "weight": 0.0, "id": 2777495188, "level": 3}
+{"count": 504, "name": "Media filter", "weight": 0.0, "id": 2780343803, "level": 3}
+{"count": 166, "name": "B\u00fcchner funnel", "weight": 0.0, "id": 57861760, "level": 3}
+{"count": 25, "name": "Tilting pan filter", "weight": 0.0, "id": 2776905995, "level": 3}
+{"count": 20, "name": "Minimum efficiency reporting value", "weight": 0.0, "id": 114260428, "level": 3}

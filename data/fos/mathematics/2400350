@@ -1,0 +1,7 @@
+{"count": 4334, "name": "Cyclic code", "weight": 5.0, "id": 2096984, "level": 3}
+{"count": 8003, "name": "Hamming code", "weight": 10.0, "id": 73150493, "level": 3}
+{"count": 1490, "name": "Group code", "weight": 1.0, "id": 3427991, "level": 3}
+{"count": 422, "name": "Goppa code", "weight": 0.0, "id": 120352678, "level": 3}
+{"count": 193, "name": "Griesmer bound", "weight": 0.0, "id": 2778403620, "level": 3}
+{"count": 388, "name": "Covering code", "weight": 0.0, "id": 111908495, "level": 3}
+{"count": 59, "name": "Coset leader", "weight": 0.0, "id": 2776363452, "level": 3}

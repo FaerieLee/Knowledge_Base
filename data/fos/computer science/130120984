@@ -1,0 +1,7 @@
+{"count": 1646, "name": "Leader election", "weight": 2.0, "id": 53480672, "level": 3}
+{"count": 827, "name": "Self-stabilization", "weight": 1.0, "id": 71112949, "level": 3}
+{"count": 111, "name": "Snapshot algorithm", "weight": 0.0, "id": 24804095, "level": 3}
+{"count": 6806, "name": "Distributed design patterns", "weight": 10.0, "id": 42112101, "level": 3}
+{"count": 3919, "name": "Distributed concurrency control", "weight": 5.0, "id": 208087996, "level": 3}
+{"count": 12, "name": "PlusCal", "weight": 0.0, "id": 2776483534, "level": 3}
+{"count": 720, "name": "Suzuki-Kasami algorithm", "weight": 1.0, "id": 18664526, "level": 3}

@@ -1,0 +1,15 @@
+{"count": 5327, "name": "Nonlinear filter", "weight": 3.0, "id": 137685913, "level": 3}
+{"count": 14821, "name": "Median filter", "weight": 10.0, "id": 55352655, "level": 3}
+{"count": 3528, "name": "Bilateral filter", "weight": 2.0, "id": 156140930, "level": 3}
+{"count": 1578, "name": "Inverse filter", "weight": 1.0, "id": 2779948431, "level": 3}
+{"count": 2900, "name": "Deblocking filter", "weight": 1.0, "id": 143184774, "level": 3}
+{"count": 563, "name": "Homomorphic filtering", "weight": 0.0, "id": 56683213, "level": 3}
+{"count": 501, "name": "Anisotropic filtering", "weight": 0.0, "id": 204036478, "level": 3}
+{"count": 864, "name": "Edge-preserving smoothing", "weight": 0.0, "id": 141651230, "level": 3}
+{"count": 170, "name": "Image spam", "weight": 0.0, "id": 2778989420, "level": 3}
+{"count": 266, "name": "Email filtering", "weight": 0.0, "id": 2780734892, "level": 3}
+{"count": 98, "name": "Filter (software)", "weight": 0.0, "id": 50201147, "level": 3}
+{"count": 69, "name": "Anscombe transform", "weight": 0.0, "id": 34599290, "level": 3}
+{"count": 29, "name": "Berkeley Packet Filter", "weight": 0.0, "id": 2781305104, "level": 3}
+{"count": 12, "name": "CRM114", "weight": 0.0, "id": 2777039085, "level": 3}
+{"count": 36, "name": "Generalized filtering", "weight": 0.0, "id": 2776978312, "level": 3}

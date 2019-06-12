@@ -1,0 +1,94 @@
+{"count": 64907, "name": "Thin-film transistor", "weight": 10.0, "id": 87359718, "level": 3}
+{"count": 35939, "name": "Supercapacitor", "weight": 5.0, "id": 6585489, "level": 3}
+{"count": 23699, "name": "Electrochemical cell", "weight": 3.0, "id": 132543647, "level": 3}
+{"count": 13625, "name": "Microelectrode", "weight": 2.0, "id": 111670793, "level": 3}
+{"count": 19962, "name": "Voltammetry", "weight": 3.0, "id": 2779603750, "level": 3}
+{"count": 9706, "name": "Ion selective electrode", "weight": 1.0, "id": 2777207949, "level": 3}
+{"count": 18014, "name": "Amperometry", "weight": 2.0, "id": 139369640, "level": 3}
+{"count": 22363, "name": "Electric discharge", "weight": 3.0, "id": 89508514, "level": 3}
+{"count": 19605, "name": "Lithium battery", "weight": 3.0, "id": 2779004117, "level": 3}
+{"count": 16868, "name": "Electrical discharge machining", "weight": 2.0, "id": 140075996, "level": 3}
+{"count": 12104, "name": "Dielectric barrier discharge", "weight": 1.0, "id": 89448510, "level": 3}
+{"count": 7902, "name": "Electrode potential", "weight": 1.0, "id": 18787249, "level": 3}
+{"count": 5665, "name": "Anodic stripping voltammetry", "weight": 0.0, "id": 81557720, "level": 3}
+{"count": 15955, "name": "Electrolytic cell", "weight": 2.0, "id": 136674465, "level": 3}
+{"count": 41027, "name": "Gate oxide", "weight": 6.0, "id": 2361726, "level": 3}
+{"count": 6607, "name": "Spark gap", "weight": 1.0, "id": 67737819, "level": 3}
+{"count": 10595, "name": "Electrochemical gas sensor", "weight": 1.0, "id": 188095982, "level": 3}
+{"count": 2828, "name": "Clark electrode", "weight": 0.0, "id": 77926170, "level": 3}
+{"count": 22767, "name": "Gas-discharge lamp", "weight": 3.0, "id": 157307466, "level": 3}
+{"count": 7642, "name": "Ceramic capacitor", "weight": 1.0, "id": 115974795, "level": 3}
+{"count": 15900, "name": "Auxiliary electrode", "weight": 2.0, "id": 185910354, "level": 3}
+{"count": 17357, "name": "Reference electrode", "weight": 2.0, "id": 40290423, "level": 3}
+{"count": 3341, "name": "Electrochemical machining", "weight": 0.0, "id": 2777887233, "level": 3}
+{"count": 59297, "name": "Substrate (electronics)", "weight": 9.0, "id": 42338107, "level": 3}
+{"count": 4976, "name": "Electrochemical energy conversion", "weight": 0.0, "id": 153465999, "level": 3}
+{"count": 980, "name": "Ultramicroelectrode", "weight": 0.0, "id": 2778641217, "level": 3}
+{"count": 2578, "name": "Interdigital transducer", "weight": 0.0, "id": 9066896, "level": 3}
+{"count": 2577, "name": "Lithium titanate", "weight": 0.0, "id": 2776709159, "level": 3}
+{"count": 3139, "name": "Electric double-layer capacitor", "weight": 0.0, "id": 2779402669, "level": 3}
+{"count": 635, "name": "Self-discharge", "weight": 0.0, "id": 2776650655, "level": 3}
+{"count": 9977, "name": "Electrode array", "weight": 1.0, "id": 97562148, "level": 3}
+{"count": 4117, "name": "Standard electrode potential", "weight": 0.0, "id": 96345733, "level": 3}
+{"count": 6875, "name": "Current collector", "weight": 1.0, "id": 2780874899, "level": 3}
+{"count": 1614, "name": "Double-layer capacitance", "weight": 0.0, "id": 2778026820, "level": 3}
+{"count": 2070, "name": "Gas diffusion electrode", "weight": 0.0, "id": 2781203471, "level": 3}
+{"count": 2865, "name": "Potentiometric sensor", "weight": 0.0, "id": 195767000, "level": 3}
+{"count": 1433, "name": "Capacitive deionization", "weight": 0.0, "id": 2780987889, "level": 3}
+{"count": 5585, "name": "Electroluminescent display", "weight": 0.0, "id": 107043475, "level": 3}
+{"count": 3544, "name": "Alkaline battery", "weight": 0.0, "id": 164308340, "level": 3}
+{"count": 1902, "name": "Plate electrode", "weight": 0.0, "id": 2776227388, "level": 3}
+{"count": 1750, "name": "Lead dioxide", "weight": 0.0, "id": 2780871159, "level": 3}
+{"count": 2017, "name": "Potentiostat", "weight": 0.0, "id": 2779995598, "level": 3}
+{"count": 1970, "name": "Exchange current density", "weight": 0.0, "id": 96606616, "level": 3}
+{"count": 617, "name": "Thin film rechargeable lithium battery", "weight": 0.0, "id": 40731752, "level": 3}
+{"count": 4397, "name": "Flow battery", "weight": 0.0, "id": 2777596839, "level": 3}
+{"count": 895, "name": "Lithium\u2013air battery", "weight": 0.0, "id": 2777602256, "level": 3}
+{"count": 1505, "name": "Ion wind", "weight": 0.0, "id": 62649504, "level": 3}
+{"count": 1382, "name": "Polarization (electrochemistry)", "weight": 0.0, "id": 205049153, "level": 3}
+{"count": 405, "name": "Faradaic impedance", "weight": 0.0, "id": 2776701365, "level": 3}
+{"count": 1428, "name": "Electrochemical kinetics", "weight": 0.0, "id": 144559425, "level": 3}
+{"count": 584, "name": "Zinc\u2013air battery", "weight": 0.0, "id": 2776325313, "level": 3}
+{"count": 5451, "name": "Capacitance probe", "weight": 0.0, "id": 203455917, "level": 3}
+{"count": 2069, "name": "Metal-halide lamp", "weight": 0.0, "id": 2776819170, "level": 3}
+{"count": 817, "name": "Streamer discharge", "weight": 0.0, "id": 2781036261, "level": 3}
+{"count": 248, "name": "Organic memory", "weight": 0.0, "id": 2778101592, "level": 3}
+{"count": 19804, "name": "Plasma display", "weight": 3.0, "id": 197489587, "level": 3}
+{"count": 908, "name": "Solid-state battery", "weight": 0.0, "id": 2778603015, "level": 3}
+{"count": 12716, "name": "Solar battery", "weight": 1.0, "id": 2780179501, "level": 3}
+{"count": 253, "name": "Electrospark deposition", "weight": 0.0, "id": 2778561511, "level": 3}
+{"count": 1060, "name": "Light-emitting electrochemical cell", "weight": 0.0, "id": 186842179, "level": 3}
+{"count": 687, "name": "Lithium-ion capacitor", "weight": 0.0, "id": 2776552312, "level": 3}
+{"count": 24686, "name": "Working electrode", "weight": 3.0, "id": 69118416, "level": 3}
+{"count": 736, "name": "Nickel\u2013hydrogen battery", "weight": 0.0, "id": 2777549781, "level": 3}
+{"count": 3447, "name": "Electric spark", "weight": 0.0, "id": 76959184, "level": 3}
+{"count": 213, "name": "Bipolar electrochemistry", "weight": 0.0, "id": 2780988156, "level": 3}
+{"count": 303, "name": "Copper\u2013tungsten", "weight": 0.0, "id": 2778994682, "level": 3}
+{"count": 34, "name": "10-20 system", "weight": 0.0, "id": 186281816, "level": 3}
+{"count": 82, "name": "Paschen's law", "weight": 0.0, "id": 2776798080, "level": 3}
+{"count": 931, "name": "Plasma pencil", "weight": 0.0, "id": 77667144, "level": 3}
+{"count": 489, "name": "Jelly roll", "weight": 0.0, "id": 2780679820, "level": 3}
+{"count": 118, "name": "Mixed potential theory", "weight": 0.0, "id": 204164866, "level": 3}
+{"count": 694, "name": "Faradaic current", "weight": 0.0, "id": 82771367, "level": 3}
+{"count": 8812, "name": "Lithium vanadium phosphate battery", "weight": 1.0, "id": 93078006, "level": 3}
+{"count": 345, "name": "Flexible battery", "weight": 0.0, "id": 2781165733, "level": 3}
+{"count": 254, "name": "Thin-film bulk acoustic resonator", "weight": 0.0, "id": 2777880760, "level": 3}
+{"count": 903, "name": "Transflective liquid-crystal display", "weight": 0.0, "id": 2780837018, "level": 3}
+{"count": 164, "name": "Decomposition potential", "weight": 0.0, "id": 2780504676, "level": 3}
+{"count": 130, "name": "Peripheral nerve interface", "weight": 0.0, "id": 2779313829, "level": 3}
+{"count": 201, "name": "Electro-slag remelting", "weight": 0.0, "id": 2776362741, "level": 3}
+{"count": 240, "name": "Thin-film diode", "weight": 0.0, "id": 2777968703, "level": 3}
+{"count": 127, "name": "Nickel\u2013zinc battery", "weight": 0.0, "id": 2778858786, "level": 3}
+{"count": 89, "name": "Paper battery", "weight": 0.0, "id": 2778343631, "level": 3}
+{"count": 182, "name": "Zinc\u2013bromine battery", "weight": 0.0, "id": 2776698672, "level": 3}
+{"count": 127, "name": "Alkali-metal thermal to electric converter", "weight": 0.0, "id": 106631144, "level": 3}
+{"count": 1890, "name": "Flexible organic light-emitting diode", "weight": 0.0, "id": 75497556, "level": 3}
+{"count": 34, "name": "Cellulose electrode", "weight": 0.0, "id": 2778558985, "level": 3}
+{"count": 54, "name": "Shadow loss", "weight": 0.0, "id": 2780431676, "level": 3}
+{"count": 18, "name": "Electrostatic fluid accelerator", "weight": 0.0, "id": 2778792704, "level": 3}
+{"count": 32, "name": "Bismuth fluoride", "weight": 0.0, "id": 2780569895, "level": 3}
+{"count": 22, "name": "Mixed metal oxide electrode", "weight": 0.0, "id": 2780920646, "level": 3}
+{"count": 11, "name": "Earth battery", "weight": 0.0, "id": 2780954703, "level": 3}
+{"count": 15, "name": "Lithium-ion flow battery", "weight": 0.0, "id": 2777330838, "level": 3}
+{"count": 1116, "name": "Nanoarchitectures for lithium-ion batteries", "weight": 0.0, "id": 165886283, "level": 3}
+{"count": 1785, "name": "Layer 8", "weight": 0.0, "id": 170739118, "level": 3}

@@ -1,0 +1,55 @@
+{"count": 14068, "name": "Serine protease", "weight": 4.0, "id": 2777807008, "level": 4}
+{"count": 3575, "name": "PMSF", "weight": 1.0, "id": 2780865716, "level": 4}
+{"count": 28787, "name": "Proteases", "weight": 10.0, "id": 182220744, "level": 4}
+{"count": 2495, "name": "HIV-1 protease", "weight": 0.0, "id": 2777583353, "level": 4}
+{"count": 4807, "name": "Subtilisin", "weight": 1.0, "id": 2779811187, "level": 4}
+{"count": 1669, "name": "Saquinavir", "weight": 0.0, "id": 2776937687, "level": 4}
+{"count": 1692, "name": "Nelfinavir", "weight": 0.0, "id": 2781160516, "level": 4}
+{"count": 3534, "name": "Kunitz STI protease inhibitor", "weight": 1.0, "id": 141814087, "level": 4}
+{"count": 698, "name": "Amprenavir", "weight": 0.0, "id": 2777363262, "level": 4}
+{"count": 4915, "name": "NS3", "weight": 1.0, "id": 132379496, "level": 4}
+{"count": 990, "name": "SLPI", "weight": 0.0, "id": 2777090344, "level": 4}
+{"count": 444, "name": "Tipranavir", "weight": 0.0, "id": 2777368111, "level": 4}
+{"count": 2308, "name": "Leupeptin", "weight": 0.0, "id": 2775883766, "level": 4}
+{"count": 375, "name": "Signal peptide peptidase", "weight": 0.0, "id": 22785313, "level": 4}
+{"count": 2233, "name": "Pepstatin", "weight": 0.0, "id": 2776350231, "level": 4}
+{"count": 250, "name": "Astacin", "weight": 0.0, "id": 2781166764, "level": 4}
+{"count": 32, "name": "Pitrilysin", "weight": 0.0, "id": 2777652968, "level": 4}
+{"count": 54, "name": "Aspergillopepsin II", "weight": 0.0, "id": 2780064593, "level": 4}
+{"count": 299, "name": "Plasmepsin", "weight": 0.0, "id": 2781038541, "level": 4}
+{"count": 277, "name": "TEV protease", "weight": 0.0, "id": 2776999971, "level": 4}
+{"count": 85, "name": "Pseudolysin", "weight": 0.0, "id": 2777329203, "level": 4}
+{"count": 251, "name": "Camostat", "weight": 0.0, "id": 2777962497, "level": 4}
+{"count": 49, "name": "Picornain 3C", "weight": 0.0, "id": 2780906543, "level": 4}
+{"count": 101, "name": "Serralysin", "weight": 0.0, "id": 2780693603, "level": 4}
+{"count": 193, "name": "Plasmepsin II", "weight": 0.0, "id": 2776742297, "level": 4}
+{"count": 309, "name": "Clostripain", "weight": 0.0, "id": 81362643, "level": 4}
+{"count": 395, "name": "OmpT", "weight": 0.0, "id": 2776162869, "level": 4}
+{"count": 12, "name": "IgA specific serine endopeptidase", "weight": 0.0, "id": 2781053401, "level": 4}
+{"count": 108, "name": "EDANS", "weight": 0.0, "id": 2779484777, "level": 4}
+{"count": 206, "name": "SENP1", "weight": 0.0, "id": 2780882336, "level": 4}
+{"count": 234, "name": "Kunitz domain", "weight": 0.0, "id": 2777777334, "level": 4}
+{"count": 124, "name": "Bevirimat", "weight": 0.0, "id": 2776275779, "level": 4}
+{"count": 186, "name": "Lysyl endopeptidase", "weight": 0.0, "id": 2777382718, "level": 4}
+{"count": 97, "name": "HslVU", "weight": 0.0, "id": 2776219138, "level": 4}
+{"count": 19, "name": "Achromobacter lyticus", "weight": 0.0, "id": 2781182123, "level": 4}
+{"count": 390, "name": "Nexin", "weight": 0.0, "id": 20706207, "level": 4}
+{"count": 178, "name": "Intramembrane protease", "weight": 0.0, "id": 2780609815, "level": 4}
+{"count": 111, "name": "Bowman\u2013Birk protease inhibitor", "weight": 0.0, "id": 2781164033, "level": 4}
+{"count": 34, "name": "Bacillolysin", "weight": 0.0, "id": 2776140941, "level": 4}
+{"count": 22, "name": "Antarctic microorganism", "weight": 0.0, "id": 2779649352, "level": 4}
+{"count": 76, "name": "Assemblin", "weight": 0.0, "id": 2779193233, "level": 4}
+{"count": 28, "name": "Streptomyces thermocarboxydus", "weight": 0.0, "id": 2780880977, "level": 4}
+{"count": 48, "name": "Threonine protease", "weight": 0.0, "id": 2777448933, "level": 4}
+{"count": 18, "name": "Brecanavir", "weight": 0.0, "id": 2778408327, "level": 4}
+{"count": 11, "name": "Adenain", "weight": 0.0, "id": 2776398508, "level": 4}
+{"count": 54, "name": "SENP6", "weight": 0.0, "id": 2780052730, "level": 4}
+{"count": 20, "name": "Zingibain", "weight": 0.0, "id": 2779411776, "level": 4}
+{"count": 2996, "name": "NS2-3 protease", "weight": 1.0, "id": 83100098, "level": 4}
+{"count": 94, "name": "Tricorn", "weight": 0.0, "id": 2780614720, "level": 4}
+{"count": 22, "name": "Cenchritis muricatus", "weight": 0.0, "id": 2776940478, "level": 4}
+{"count": 13, "name": "TMPRSS11D", "weight": 0.0, "id": 2777558676, "level": 4}
+{"count": 16, "name": "Blotched snakehead", "weight": 0.0, "id": 2779183829, "level": 4}
+{"count": 107, "name": "Terminal amine isotopic labeling of substrates", "weight": 0.0, "id": 199388629, "level": 4}
+{"count": 340, "name": "Discovery and development of non-nucleoside reverse-transcriptase inhibitors", "weight": 0.0, "id": 161542725, "level": 4}
+{"count": 14, "name": "Acyldepsipeptide antibiotics", "weight": 0.0, "id": 2780007041, "level": 4}

@@ -1,0 +1,6 @@
+{"count": 6943, "name": "Query by Example", "weight": 10.0, "id": 194222762, "level": 4}
+{"count": 4386, "name": "Spatial query", "weight": 6.0, "id": 172722865, "level": 4}
+{"count": 1122, "name": "Query plan", "weight": 1.0, "id": 2779729312, "level": 4}
+{"count": 1618, "name": "Boolean conjunctive query", "weight": 2.0, "id": 24755975, "level": 4}
+{"count": 2291, "name": "Online aggregation", "weight": 3.0, "id": 24028149, "level": 4}
+{"count": 6476, "name": "Ranking (information retrieval)", "weight": 9.0, "id": 189430467, "level": 4}

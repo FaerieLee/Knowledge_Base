@@ -1,0 +1,13 @@
+{"count": 8164, "name": "Collision detection", "weight": 10.0, "id": 199668693, "level": 3}
+{"count": 1061, "name": "Exponential backoff", "weight": 1.0, "id": 30777684, "level": 3}
+{"count": 1522, "name": "Rear-end collision", "weight": 1.0, "id": 2776772631, "level": 3}
+{"count": 2315, "name": "Collision avoidance system", "weight": 2.0, "id": 2777016798, "level": 3}
+{"count": 660, "name": "Traffic collision avoidance system", "weight": 0.0, "id": 9028365, "level": 3}
+{"count": 152, "name": "Collision problem", "weight": 0.0, "id": 2780034591, "level": 3}
+{"count": 418, "name": "Airborne collision avoidance system", "weight": 0.0, "id": 81867528, "level": 3}
+{"count": 145, "name": "Binary splitting", "weight": 0.0, "id": 27117146, "level": 3}
+{"count": 298, "name": "Collision domain", "weight": 0.0, "id": 75513984, "level": 3}
+{"count": 333, "name": "Bridge (nautical)", "weight": 0.0, "id": 176097265, "level": 3}
+{"count": 150, "name": "International Regulations for Preventing Collisions at Sea", "weight": 0.0, "id": 2780492929, "level": 3}
+{"count": 49, "name": "Contention ratio", "weight": 0.0, "id": 42386278, "level": 3}
+{"count": 21, "name": "Run-off-road collision", "weight": 0.0, "id": 2779822130, "level": 3}

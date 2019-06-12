@@ -1,0 +1,7 @@
+{"count": 977, "name": "Digital Signature Algorithm", "weight": 4.0, "id": 202424057, "level": 5}
+{"count": 276, "name": "Undeniable signature", "weight": 1.0, "id": 7690918, "level": 5}
+{"count": 192, "name": "Strong RSA assumption", "weight": 0.0, "id": 2781279103, "level": 5}
+{"count": 1966, "name": "ElGamal signature scheme", "weight": 8.0, "id": 132860680, "level": 5}
+{"count": 500, "name": "EdDSA", "weight": 2.0, "id": 197550996, "level": 5}
+{"count": 2349, "name": "Merkle signature scheme", "weight": 10.0, "id": 40404285, "level": 5}
+{"count": 450, "name": "KCDSA", "weight": 1.0, "id": 183685488, "level": 5}

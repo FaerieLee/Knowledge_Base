@@ -1,0 +1,6 @@
+{"count": 3711, "name": "Quadratic classifier", "weight": 9.0, "id": 52620605, "level": 3}
+{"count": 1409, "name": "Cascading classifiers", "weight": 3.0, "id": 40651066, "level": 3}
+{"count": 131, "name": "Classifier chains", "weight": 0.0, "id": 2781344982, "level": 3}
+{"count": 3742, "name": "Margin classifier", "weight": 10.0, "id": 173102733, "level": 3}
+{"count": 32, "name": "Chinese classifier", "weight": 0.0, "id": 2779283976, "level": 3}
+{"count": 726, "name": "Boosting methods for object categorization", "weight": 1.0, "id": 64497148, "level": 3}

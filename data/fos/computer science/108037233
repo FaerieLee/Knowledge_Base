@@ -1,0 +1,15 @@
+{"count": 14137, "name": "Wi-Fi", "weight": 3.0, "id": 508800617, "level": 3}
+{"count": 21407, "name": "Heterogeneous network", "weight": 4.0, "id": 158207573, "level": 3}
+{"count": 13730, "name": "Wireless mesh network", "weight": 2.0, "id": 31548570, "level": 3}
+{"count": 3642, "name": "Call Admission Control", "weight": 0.0, "id": 2780372748, "level": 3}
+{"count": 14371, "name": "Radio resource management", "weight": 3.0, "id": 182448111, "level": 3}
+{"count": 1105, "name": "Cross-layer optimization", "weight": 0.0, "id": 2779851314, "level": 3}
+{"count": 1534, "name": "Wireless security", "weight": 0.0, "id": 2776946656, "level": 3}
+{"count": 511, "name": "WirelessHART", "weight": 0.0, "id": 77286137, "level": 3}
+{"count": 69, "name": "Multipacket reception", "weight": 0.0, "id": 2780350764, "level": 3}
+{"count": 76, "name": "WaveLAN", "weight": 0.0, "id": 197361508, "level": 3}
+{"count": 94, "name": "Wardriving", "weight": 0.0, "id": 48422248, "level": 3}
+{"count": 18, "name": "Hop-by-hop transport", "weight": 0.0, "id": 2779162791, "level": 3}
+{"count": 26, "name": "MAC filtering", "weight": 0.0, "id": 2778546146, "level": 3}
+{"count": 68, "name": "Wireless engineering", "weight": 0.0, "id": 187197815, "level": 3}
+{"count": 45921, "name": "Wi-Fi array", "weight": 10.0, "id": 152153834, "level": 3}

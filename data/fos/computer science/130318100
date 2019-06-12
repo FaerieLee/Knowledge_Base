@@ -1,0 +1,8 @@
+{"count": 573, "name": "Normalized compression distance", "weight": 1.0, "id": 84828104, "level": 3}
+{"count": 2205, "name": "Explicit semantic analysis", "weight": 7.0, "id": 173862523, "level": 3}
+{"count": 2483, "name": "Semantic equivalence", "weight": 7.0, "id": 37926939, "level": 3}
+{"count": 164, "name": "Normalized Google distance", "weight": 0.0, "id": 41988192, "level": 3}
+{"count": 439, "name": "Document-term matrix", "weight": 1.0, "id": 68841619, "level": 3}
+{"count": 3156, "name": "Semantic compression", "weight": 10.0, "id": 202708506, "level": 3}
+{"count": 549, "name": "Similarity heuristic", "weight": 1.0, "id": 23306645, "level": 3}
+{"count": 31, "name": "w-shingling", "weight": 0.0, "id": 25047087, "level": 3}

@@ -1,0 +1,7 @@
+{"count": 1088, "name": "Wafer-scale integration", "weight": 3.0, "id": 2778638305, "level": 3}
+{"count": 2855, "name": "Floorplan", "weight": 10.0, "id": 130145326, "level": 3}
+{"count": 253, "name": "Cube-connected cycles", "weight": 0.0, "id": 157446924, "level": 3}
+{"count": 465, "name": "Silicon compiler", "weight": 1.0, "id": 2778935095, "level": 3}
+{"count": 287, "name": "Repeater insertion", "weight": 1.0, "id": 2778579527, "level": 3}
+{"count": 74, "name": "Bit-serial architecture", "weight": 0.0, "id": 2779138571, "level": 3}
+{"count": 6, "name": "Mead & Conway revolution", "weight": 0.0, "id": 204649672, "level": 3}

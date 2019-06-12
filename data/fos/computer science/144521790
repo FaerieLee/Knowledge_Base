@@ -1,0 +1,8 @@
+{"count": 1007, "name": "Nelder\u2013Mead method", "weight": 10.0, "id": 191496400, "level": 4}
+{"count": 299, "name": "Karmarkar's algorithm", "weight": 2.0, "id": 46374063, "level": 4}
+{"count": 136, "name": "Network simplex algorithm", "weight": 1.0, "id": 2776427118, "level": 4}
+{"count": 209, "name": "Netlib", "weight": 2.0, "id": 79039603, "level": 4}
+{"count": 801, "name": "Revised simplex method", "weight": 8.0, "id": 191157680, "level": 4}
+{"count": 31, "name": "Unique sink orientation", "weight": 0.0, "id": 2779529781, "level": 4}
+{"count": 278, "name": "Klee\u2013Minty cube", "weight": 2.0, "id": 45607770, "level": 4}
+{"count": 8, "name": "Bland's rule", "weight": 0.0, "id": 27998551, "level": 4}

@@ -1,0 +1,12 @@
+{"count": 7793, "name": "Profilometer", "weight": 10.0, "id": 79261456, "level": 3}
+{"count": 2034, "name": "Surface metrology", "weight": 2.0, "id": 2777625669, "level": 3}
+{"count": 3898, "name": "Surface integrity", "weight": 5.0, "id": 2776363543, "level": 3}
+{"count": 1156, "name": "Hydraulic roughness", "weight": 1.0, "id": 199322603, "level": 3}
+{"count": 1177, "name": "International Roughness Index", "weight": 1.0, "id": 2781212230, "level": 3}
+{"count": 4082, "name": "Waviness", "weight": 5.0, "id": 2777701225, "level": 3}
+{"count": 412, "name": "Abrasive flow machining", "weight": 0.0, "id": 2779026289, "level": 3}
+{"count": 428, "name": "Roller burnishing", "weight": 0.0, "id": 2780088479, "level": 3}
+{"count": 96, "name": "Mass finishing", "weight": 0.0, "id": 2781420096, "level": 3}
+{"count": 232, "name": "Profilograph", "weight": 0.0, "id": 155448606, "level": 3}
+{"count": 80, "name": "Hot air solder leveling", "weight": 0.0, "id": 2780904741, "level": 3}
+{"count": 65, "name": "ISO 25178", "weight": 0.0, "id": 2776153678, "level": 3}

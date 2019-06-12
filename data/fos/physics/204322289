@@ -1,0 +1,6 @@
+{"count": 1715, "name": "Variable air volume", "weight": 8.0, "id": 51176869, "level": 3}
+{"count": 2080, "name": "Atmospheric duct", "weight": 9.0, "id": 172057663, "level": 3}
+{"count": 2113, "name": "Constant air volume", "weight": 10.0, "id": 53689896, "level": 3}
+{"count": 426, "name": "Air handler", "weight": 2.0, "id": 2779149726, "level": 3}
+{"count": 51, "name": "Cold air intake", "weight": 0.0, "id": 2780617287, "level": 3}
+{"count": 157, "name": "Air mass (solar energy)", "weight": 0.0, "id": 204861789, "level": 3}

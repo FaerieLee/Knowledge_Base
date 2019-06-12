@@ -1,0 +1,4 @@
+{"count": 1887, "name": "Broadcast domain", "weight": 10.0, "id": 66901998, "level": 4}
+{"count": 999, "name": "Global Broadcast Service", "weight": 5.0, "id": 127400637, "level": 4}
+{"count": 75, "name": "Common control physical channel", "weight": 0.0, "id": 2778555005, "level": 4}
+{"count": 303, "name": "Broadcast and Multicast Service", "weight": 1.0, "id": 2778345690, "level": 4}

@@ -1,0 +1,7 @@
+{"count": 968, "name": "Omnidirectional camera", "weight": 5.0, "id": 2777953668, "level": 4}
+{"count": 512, "name": "Mecanum wheel", "weight": 2.0, "id": 149233829, "level": 4}
+{"count": 639, "name": "Sector antenna", "weight": 3.0, "id": 96625880, "level": 4}
+{"count": 583, "name": "Whip antenna", "weight": 3.0, "id": 58932076, "level": 4}
+{"count": 83, "name": "Catadioptric sensor", "weight": 0.0, "id": 2778433986, "level": 4}
+{"count": 1418, "name": "Choke ring antenna", "weight": 7.0, "id": 145382573, "level": 4}
+{"count": 1931, "name": "WokFi", "weight": 10.0, "id": 124946342, "level": 4}

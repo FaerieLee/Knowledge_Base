@@ -1,0 +1,42 @@
+{"count": 23003, "name": "Digital television", "weight": 10.0, "id": 520681616, "level": 3}
+{"count": 5531, "name": "Digital Video Broadcasting", "weight": 2.0, "id": 551482933, "level": 3}
+{"count": 10243, "name": "Radio broadcasting", "weight": 4.0, "id": 58911810, "level": 3}
+{"count": 5912, "name": "Public broadcasting", "weight": 2.0, "id": 556509198, "level": 3}
+{"count": 2075, "name": "Digital multimedia broadcasting", "weight": 0.0, "id": 2780079832, "level": 3}
+{"count": 4110, "name": "Atomic broadcast", "weight": 1.0, "id": 943373, "level": 3}
+{"count": 992, "name": "Time shifting", "weight": 0.0, "id": 104759252, "level": 3}
+{"count": 4814, "name": "Commercial broadcasting", "weight": 2.0, "id": 119452085, "level": 3}
+{"count": 1338, "name": "Single-frequency network", "weight": 0.0, "id": 2776847985, "level": 3}
+{"count": 3424, "name": "Broadcast television systems", "weight": 1.0, "id": 91285054, "level": 3}
+{"count": 5815, "name": "Multimedia Broadcast Multicast Service", "weight": 2.0, "id": 77757571, "level": 3}
+{"count": 12448, "name": "Digital broadcasting", "weight": 5.0, "id": 41062264, "level": 3}
+{"count": 729, "name": "Mobile television", "weight": 0.0, "id": 2779213998, "level": 3}
+{"count": 2246, "name": "Teletext", "weight": 0.0, "id": 2780818791, "level": 3}
+{"count": 2055, "name": "Conditional access", "weight": 0.0, "id": 2778749970, "level": 3}
+{"count": 3622, "name": "Broadcasting (networking)", "weight": 1.0, "id": 110157686, "level": 3}
+{"count": 1047, "name": "Television station", "weight": 0.0, "id": 2779438827, "level": 3}
+{"count": 1322, "name": "Broadcast journalism", "weight": 0.0, "id": 2011517, "level": 3}
+{"count": 2453, "name": "Electronic program guide", "weight": 1.0, "id": 2779883265, "level": 3}
+{"count": 4053, "name": "Broadcast radiation", "weight": 1.0, "id": 114529192, "level": 3}
+{"count": 2457, "name": "Broadcast engineering", "weight": 1.0, "id": 88527984, "level": 3}
+{"count": 354, "name": "Direct-broadcast satellite", "weight": 0.0, "id": 2777445618, "level": 3}
+{"count": 348, "name": "International broadcasting", "weight": 0.0, "id": 2779056648, "level": 3}
+{"count": 212, "name": "TV-Anytime", "weight": 0.0, "id": 2777452754, "level": 3}
+{"count": 290, "name": "Narrowcasting", "weight": 0.0, "id": 2775997990, "level": 3}
+{"count": 555, "name": "Radio Data System", "weight": 0.0, "id": 68163228, "level": 3}
+{"count": 631, "name": "Medium wave", "weight": 0.0, "id": 2776202825, "level": 3}
+{"count": 234, "name": "Fairness Doctrine", "weight": 0.0, "id": 57637812, "level": 3}
+{"count": 412, "name": "FM broadcasting", "weight": 0.0, "id": 2779461089, "level": 3}
+{"count": 236, "name": "Broadcast quality", "weight": 0.0, "id": 2780698354, "level": 3}
+{"count": 372, "name": "Broadcast transmitter", "weight": 0.0, "id": 196227537, "level": 3}
+{"count": 55, "name": "Loudness monitoring", "weight": 0.0, "id": 160356432, "level": 3}
+{"count": 125, "name": "Broadcast address", "weight": 0.0, "id": 2779742664, "level": 3}
+{"count": 229, "name": "AM stereo", "weight": 0.0, "id": 2779081413, "level": 3}
+{"count": 23, "name": "1seg", "weight": 0.0, "id": 2778553611, "level": 3}
+{"count": 13, "name": "Enhanced-definition television", "weight": 0.0, "id": 2780814829, "level": 3}
+{"count": 116, "name": "Broadcast range", "weight": 0.0, "id": 2776313748, "level": 3}
+{"count": 30, "name": "Teleview", "weight": 0.0, "id": 2780624852, "level": 3}
+{"count": 42, "name": "Outside broadcasting", "weight": 0.0, "id": 205933531, "level": 3}
+{"count": 30, "name": "Voice group call service", "weight": 0.0, "id": 2775922152, "level": 3}
+{"count": 227, "name": "Broadcast band", "weight": 0.0, "id": 2777514068, "level": 3}
+{"count": 52, "name": "Programme identification", "weight": 0.0, "id": 2778984636, "level": 3}

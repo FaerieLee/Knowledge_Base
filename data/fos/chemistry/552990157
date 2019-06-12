@@ -1,0 +1,151 @@
+{"count": 28161, "name": "DNA-binding protein", "weight": 4.0, "id": 94966510, "level": 3}
+{"count": 57151, "name": "DNA sequencing", "weight": 8.0, "id": 51679486, "level": 3}
+{"count": 65752, "name": "DNA damage", "weight": 9.0, "id": 143425029, "level": 3}
+{"count": 33149, "name": "Base pair", "weight": 4.0, "id": 185581394, "level": 3}
+{"count": 54044, "name": "DNA repair", "weight": 8.0, "id": 134935766, "level": 3}
+{"count": 33565, "name": "DNA replication", "weight": 5.0, "id": 73573662, "level": 3}
+{"count": 8468, "name": "Nucleic acid thermodynamics", "weight": 1.0, "id": 54871578, "level": 3}
+{"count": 66497, "name": "Oligonucleotide", "weight": 10.0, "id": 129312508, "level": 3}
+{"count": 26087, "name": "DNA synthesis", "weight": 3.0, "id": 64241487, "level": 3}
+{"count": 41345, "name": "genomic DNA", "weight": 6.0, "id": 17757408, "level": 3}
+{"count": 25496, "name": "DNA polymerase", "weight": 3.0, "id": 2756471, "level": 3}
+{"count": 33428, "name": "Restriction enzyme", "weight": 5.0, "id": 128319531, "level": 3}
+{"count": 4556, "name": "DNA\u2013DNA hybridization", "weight": 0.0, "id": 137390916, "level": 3}
+{"count": 14161, "name": "Southern blot", "weight": 2.0, "id": 133307689, "level": 3}
+{"count": 18532, "name": "Homologous recombination", "weight": 2.0, "id": 102744134, "level": 3}
+{"count": 13094, "name": "Hybridization probe", "weight": 1.0, "id": 130197536, "level": 3}
+{"count": 9685, "name": "DNA profiling", "weight": 1.0, "id": 79386861, "level": 3}
+{"count": 11403, "name": "Nucleosome", "weight": 1.0, "id": 84772758, "level": 3}
+{"count": 18190, "name": "Guanine", "weight": 2.0, "id": 2778301229, "level": 3}
+{"count": 14109, "name": "Cytosine", "weight": 2.0, "id": 2776023528, "level": 3}
+{"count": 8676, "name": "Nuclear DNA", "weight": 1.0, "id": 115960442, "level": 3}
+{"count": 12974, "name": "Topoisomerase", "weight": 1.0, "id": 147897179, "level": 3}
+{"count": 6350, "name": "DNA adduct", "weight": 0.0, "id": 2781247443, "level": 3}
+{"count": 6838, "name": "Nucleoprotein", "weight": 1.0, "id": 60325843, "level": 3}
+{"count": 2518, "name": "Deoxyribonuclease I", "weight": 0.0, "id": 2779377703, "level": 3}
+{"count": 11443, "name": "Thymine", "weight": 1.0, "id": 2776858809, "level": 3}
+{"count": 3427, "name": "Protein\u2013DNA interaction", "weight": 0.0, "id": 32010083, "level": 3}
+{"count": 6450, "name": "Ethidium bromide", "weight": 0.0, "id": 2776907736, "level": 3}
+{"count": 31957, "name": "Polymerase", "weight": 4.0, "id": 82381507, "level": 3}
+{"count": 2884, "name": "Satellite DNA", "weight": 0.0, "id": 140367098, "level": 3}
+{"count": 10636, "name": "Nuclease", "weight": 1.0, "id": 2777271071, "level": 3}
+{"count": 9064, "name": "Endonuclease", "weight": 1.0, "id": 2777028655, "level": 3}
+{"count": 3775, "name": "DNA gyrase", "weight": 0.0, "id": 167125095, "level": 3}
+{"count": 9838, "name": "DNA ligase", "weight": 1.0, "id": 175114707, "level": 3}
+{"count": 6533, "name": "Integrase", "weight": 0.0, "id": 14430832, "level": 3}
+{"count": 3158, "name": "Ancient DNA", "weight": 0.0, "id": 189338579, "level": 3}
+{"count": 3596, "name": "Deoxyguanosine", "weight": 0.0, "id": 2780441211, "level": 3}
+{"count": 1060, "name": "DNA footprinting", "weight": 0.0, "id": 22427896, "level": 3}
+{"count": 8514, "name": "Helicase", "weight": 1.0, "id": 161223559, "level": 3}
+{"count": 361, "name": "Low copy number", "weight": 0.0, "id": 2777116013, "level": 3}
+{"count": 2994, "name": "Peptide nucleic acid", "weight": 0.0, "id": 2777343594, "level": 3}
+{"count": 869, "name": "Helix-turn-helix", "weight": 0.0, "id": 199487717, "level": 3}
+{"count": 2510, "name": "Rolling circle replication", "weight": 0.0, "id": 7452308, "level": 3}
+{"count": 3107, "name": "Systematic evolution of ligands by exponential enrichment", "weight": 0.0, "id": 122682173, "level": 3}
+{"count": 2643, "name": "Heteroduplex", "weight": 0.0, "id": 134494468, "level": 3}
+{"count": 4241, "name": "Recombinase", "weight": 0.0, "id": 102414288, "level": 3}
+{"count": 4389, "name": "Exonuclease", "weight": 0.0, "id": 2777501222, "level": 3}
+{"count": 2419, "name": "DNA computing", "weight": 0.0, "id": 82047324, "level": 3}
+{"count": 1300, "name": "Circular DNA", "weight": 0.0, "id": 42625924, "level": 3}
+{"count": 1228, "name": "Palindromic sequence", "weight": 0.0, "id": 76557, "level": 3}
+{"count": 2200, "name": "Library", "weight": 0.0, "id": 1436000, "level": 3}
+{"count": 3634, "name": "G-quadruplex", "weight": 0.0, "id": 83762044, "level": 3}
+{"count": 2374, "name": "Deoxyribonuclease", "weight": 0.0, "id": 2778659741, "level": 3}
+{"count": 2324, "name": "Deoxyribozyme", "weight": 0.0, "id": 84211826, "level": 3}
+{"count": 8118, "name": "Nucleobase", "weight": 1.0, "id": 61234307, "level": 3}
+{"count": 1243, "name": "2-Acetylaminofluorene", "weight": 0.0, "id": 2779838395, "level": 3}
+{"count": 6280, "name": "DNA supercoil", "weight": 0.0, "id": 158456008, "level": 3}
+{"count": 3046, "name": "Nucleoid", "weight": 0.0, "id": 53642103, "level": 3}
+{"count": 1383, "name": "Deinococcus radiodurans", "weight": 0.0, "id": 2776519032, "level": 3}
+{"count": 1025, "name": "V(D)J recombination", "weight": 0.0, "id": 2780254951, "level": 3}
+{"count": 392, "name": "2-Aminopurine", "weight": 0.0, "id": 2780015133, "level": 3}
+{"count": 443, "name": "Minichromosome", "weight": 0.0, "id": 2780091387, "level": 3}
+{"count": 2411, "name": "Deoxyribose", "weight": 0.0, "id": 2777709666, "level": 3}
+{"count": 1670, "name": "Kinetoplast", "weight": 0.0, "id": 2776027055, "level": 3}
+{"count": 850, "name": "Z-DNA", "weight": 0.0, "id": 77122620, "level": 3}
+{"count": 1388, "name": "Macronucleus", "weight": 0.0, "id": 56683836, "level": 3}
+{"count": 373, "name": "Oxytricha", "weight": 0.0, "id": 2776643497, "level": 3}
+{"count": 6364, "name": "HMG-box", "weight": 0.0, "id": 5179208, "level": 3}
+{"count": 8103, "name": "Agarose gel electrophoresis", "weight": 1.0, "id": 2778271344, "level": 3}
+{"count": 838, "name": "Proflavine", "weight": 0.0, "id": 2776594999, "level": 3}
+{"count": 656, "name": "Netropsin", "weight": 0.0, "id": 2781063032, "level": 3}
+{"count": 1263, "name": "DNA nanotechnology", "weight": 0.0, "id": 129275984, "level": 3}
+{"count": 1438, "name": "DNA origami", "weight": 0.0, "id": 118630614, "level": 3}
+{"count": 1108, "name": "DNA condensation", "weight": 0.0, "id": 115028873, "level": 3}
+{"count": 4747, "name": "Phosphodiester bond", "weight": 0.0, "id": 38441620, "level": 3}
+{"count": 598, "name": "Nick translation", "weight": 0.0, "id": 18767898, "level": 3}
+{"count": 479, "name": "Circular permutation in proteins", "weight": 0.0, "id": 4844085, "level": 3}
+{"count": 332, "name": "Echinomycin", "weight": 0.0, "id": 2778138827, "level": 3}
+{"count": 731, "name": "Depurination", "weight": 0.0, "id": 34737976, "level": 3}
+{"count": 944, "name": "Minicircle", "weight": 0.0, "id": 55204905, "level": 3}
+{"count": 157, "name": "Trioxsalen", "weight": 0.0, "id": 2778474140, "level": 3}
+{"count": 368, "name": "Pyrrolobenzodiazepine", "weight": 0.0, "id": 2777424095, "level": 3}
+{"count": 84, "name": "Deoxycytidine monophosphate", "weight": 0.0, "id": 2779116245, "level": 3}
+{"count": 682, "name": "Shelterin", "weight": 0.0, "id": 2776879488, "level": 3}
+{"count": 949, "name": "Neocarzinostatin", "weight": 0.0, "id": 2777392692, "level": 3}
+{"count": 86, "name": "Tectivirus", "weight": 0.0, "id": 2778722839, "level": 3}
+{"count": 1759, "name": "Gel electrophoresis of nucleic acids", "weight": 0.0, "id": 190911170, "level": 3}
+{"count": 251, "name": "Bacteriophage T5", "weight": 0.0, "id": 2777286284, "level": 3}
+{"count": 663, "name": "Distamycin", "weight": 0.0, "id": 2780689322, "level": 3}
+{"count": 271, "name": "SMC protein", "weight": 0.0, "id": 128919714, "level": 3}
+{"count": 294, "name": "Chromomycin A3", "weight": 0.0, "id": 2780933421, "level": 3}
+{"count": 138, "name": "Bisbenzimide", "weight": 0.0, "id": 2777734266, "level": 3}
+{"count": 506, "name": "DNA database", "weight": 0.0, "id": 2778593128, "level": 3}
+{"count": 692, "name": "Lambda phage", "weight": 0.0, "id": 2781135666, "level": 3}
+{"count": 8436, "name": "A-DNA", "weight": 1.0, "id": 191961535, "level": 3}
+{"count": 86, "name": "Base J", "weight": 0.0, "id": 2777926428, "level": 3}
+{"count": 336, "name": "Models of DNA evolution", "weight": 0.0, "id": 141402517, "level": 3}
+{"count": 344, "name": "Crosslinking of DNA", "weight": 0.0, "id": 199360600, "level": 3}
+{"count": 247, "name": "Nogalamycin", "weight": 0.0, "id": 2779317797, "level": 3}
+{"count": 380, "name": "Natural competence", "weight": 0.0, "id": 85105605, "level": 3}
+{"count": 271, "name": "TE buffer", "weight": 0.0, "id": 36762435, "level": 3}
+{"count": 276, "name": "Meganuclease", "weight": 0.0, "id": 2775929439, "level": 3}
+{"count": 1614, "name": "Exogenous DNA", "weight": 0.0, "id": 182420341, "level": 3}
+{"count": 80, "name": "Endonuclease V", "weight": 0.0, "id": 2781230947, "level": 3}
+{"count": 676, "name": "Dodecameric protein", "weight": 0.0, "id": 35271833, "level": 3}
+{"count": 603, "name": "Concatemer", "weight": 0.0, "id": 17133392, "level": 3}
+{"count": 2780, "name": "Feulgen stain", "weight": 0.0, "id": 62649737, "level": 3}
+{"count": 1762, "name": "Telomere-binding protein", "weight": 0.0, "id": 202265312, "level": 3}
+{"count": 232, "name": "Anthramycin", "weight": 0.0, "id": 2777432737, "level": 3}
+{"count": 77, "name": "YOYO-1", "weight": 0.0, "id": 2776229282, "level": 3}
+{"count": 640, "name": "Hyperchromicity", "weight": 0.0, "id": 21463570, "level": 3}
+{"count": 90, "name": "AT-hook", "weight": 0.0, "id": 2780888185, "level": 3}
+{"count": 147, "name": "Actinophage", "weight": 0.0, "id": 2780053523, "level": 3}
+{"count": 136, "name": "Rhynchosciara americana", "weight": 0.0, "id": 2778946940, "level": 3}
+{"count": 444, "name": "Superhelix", "weight": 0.0, "id": 2779408652, "level": 3}
+{"count": 23, "name": "Corticovirus", "weight": 0.0, "id": 2776871009, "level": 3}
+{"count": 563, "name": "Molecular models of DNA", "weight": 0.0, "id": 41056977, "level": 3}
+{"count": 570, "name": "Eukaryotic chromosome fine structure", "weight": 0.0, "id": 80116771, "level": 3}
+{"count": 687, "name": "Sticky and blunt ends", "weight": 0.0, "id": 195116880, "level": 3}
+{"count": 89, "name": "DNA machine", "weight": 0.0, "id": 53101803, "level": 3}
+{"count": 121, "name": "Dam methylase", "weight": 0.0, "id": 2781408395, "level": 3}
+{"count": 230, "name": "Central dogma of molecular biology", "weight": 0.0, "id": 2778677087, "level": 3}
+{"count": 274, "name": "APOBEC3A", "weight": 0.0, "id": 2781067145, "level": 3}
+{"count": 213, "name": "Chargaff's rules", "weight": 0.0, "id": 29204129, "level": 3}
+{"count": 129, "name": "Tethered particle motion", "weight": 0.0, "id": 2777134636, "level": 3}
+{"count": 254, "name": "C-DNA", "weight": 0.0, "id": 144820252, "level": 3}
+{"count": 372, "name": "Reannealing", "weight": 0.0, "id": 72410601, "level": 3}
+{"count": 403, "name": "Deoxyribonucleoprotein", "weight": 0.0, "id": 2778798054, "level": 3}
+{"count": 62, "name": "Golden Gate Cloning", "weight": 0.0, "id": 2778565515, "level": 3}
+{"count": 80, "name": "DNA walker", "weight": 0.0, "id": 2776643017, "level": 3}
+{"count": 21, "name": "Acridine carboxamide", "weight": 0.0, "id": 2776662232, "level": 3}
+{"count": 26, "name": "SSC buffer", "weight": 0.0, "id": 2776854676, "level": 3}
+{"count": 672, "name": "DNA Patterns", "weight": 0.0, "id": 2778087726, "level": 3}
+{"count": 102, "name": "DNA bank", "weight": 0.0, "id": 106492072, "level": 3}
+{"count": 1178, "name": "DNA construct", "weight": 0.0, "id": 87781428, "level": 3}
+{"count": 150, "name": "Esperamicin", "weight": 0.0, "id": 2778396590, "level": 3}
+{"count": 15, "name": "Artificial gene synthesis", "weight": 0.0, "id": 2779737242, "level": 3}
+{"count": 26, "name": "Paleofeces", "weight": 0.0, "id": 2781192353, "level": 3}
+{"count": 16, "name": "Ff phages", "weight": 0.0, "id": 2780367335, "level": 3}
+{"count": 36, "name": "DNA digital data storage", "weight": 0.0, "id": 188506305, "level": 3}
+{"count": 33, "name": "SiDNA", "weight": 0.0, "id": 2777155377, "level": 3}
+{"count": 12, "name": "GelGreen", "weight": 0.0, "id": 2776284007, "level": 3}
+{"count": 66, "name": "DNA Solutions", "weight": 0.0, "id": 2779264018, "level": 3}
+{"count": 42, "name": "T3 phage", "weight": 0.0, "id": 2777563184, "level": 3}
+{"count": 8, "name": "Hershey\u2013Chase experiment", "weight": 0.0, "id": 71729401, "level": 3}
+{"count": 32, "name": "Fluorescein amidite", "weight": 0.0, "id": 2776329524, "level": 3}
+{"count": 88, "name": "Phi X 174", "weight": 0.0, "id": 2780113915, "level": 3}
+{"count": 9, "name": "Intercalation (biochemistry)", "weight": 0.0, "id": 505422184, "level": 3}
+{"count": 110, "name": "DNA field-effect transistor", "weight": 0.0, "id": 67656411, "level": 3}
+{"count": 376, "name": "DNA separation by silica adsorption", "weight": 0.0, "id": 17421560, "level": 3}
+{"count": 150, "name": "Magnet-assisted transfection", "weight": 0.0, "id": 30649106, "level": 3}

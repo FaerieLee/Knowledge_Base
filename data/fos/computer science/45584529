@@ -1,0 +1,4 @@
+{"count": 7787, "name": "Flicker noise", "weight": 7.0, "id": 113873419, "level": 3}
+{"count": 959, "name": "Johnson\u2013Nyquist noise", "weight": 0.0, "id": 104419016, "level": 3}
+{"count": 10148, "name": "Noise generator", "weight": 9.0, "id": 74342258, "level": 3}
+{"count": 10168, "name": "Noise spectral density", "weight": 10.0, "id": 133976006, "level": 3}

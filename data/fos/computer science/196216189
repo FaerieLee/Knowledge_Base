@@ -1,0 +1,15 @@
+{"count": 5600, "name": "Multiresolution analysis", "weight": 1.0, "id": 121927907, "level": 4}
+{"count": 34604, "name": "Discrete wavelet transform", "weight": 10.0, "id": 46286280, "level": 4}
+{"count": 29284, "name": "Wavelet packet decomposition", "weight": 8.0, "id": 155777637, "level": 4}
+{"count": 5095, "name": "Gabor wavelet", "weight": 1.0, "id": 136902061, "level": 4}
+{"count": 2713, "name": "Set partitioning in hierarchical trees", "weight": 0.0, "id": 136968285, "level": 4}
+{"count": 3819, "name": "Contourlet", "weight": 1.0, "id": 20479862, "level": 4}
+{"count": 2923, "name": "Curvelet", "weight": 0.0, "id": 131720326, "level": 4}
+{"count": 3944, "name": "S transform", "weight": 1.0, "id": 99234102, "level": 4}
+{"count": 1694, "name": "Morlet wavelet", "weight": 0.0, "id": 2778280487, "level": 4}
+{"count": 1340, "name": "Continuous wavelet", "weight": 0.0, "id": 2777991042, "level": 4}
+{"count": 345, "name": "Spline wavelet", "weight": 0.0, "id": 2777946946, "level": 4}
+{"count": 224, "name": "Bandelet", "weight": 0.0, "id": 45865881, "level": 4}
+{"count": 275, "name": "Mexican hat wavelet", "weight": 0.0, "id": 2779388324, "level": 4}
+{"count": 156, "name": "Shannon wavelet", "weight": 0.0, "id": 2780491929, "level": 4}
+{"count": 75, "name": "Wavelet transform modulus maxima method", "weight": 0.0, "id": 2777293603, "level": 4}

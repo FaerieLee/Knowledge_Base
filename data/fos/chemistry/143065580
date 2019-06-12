@@ -1,0 +1,37 @@
+{"count": 46115, "name": "Wild type", "weight": 10.0, "id": 207583985, "level": 4}
+{"count": 16810, "name": "Complementation", "weight": 3.0, "id": 188082640, "level": 4}
+{"count": 2728, "name": "Reverse genetics", "weight": 0.0, "id": 25365240, "level": 4}
+{"count": 3277, "name": "Insertional mutagenesis", "weight": 0.0, "id": 107635520, "level": 4}
+{"count": 4524, "name": "Huntingtin", "weight": 0.0, "id": 2781427258, "level": 4}
+{"count": 1833, "name": "Essential gene", "weight": 0.0, "id": 2780936250, "level": 4}
+{"count": 3851, "name": "Mutation frequency", "weight": 0.0, "id": 102306862, "level": 4}
+{"count": 1919, "name": "Ethyl methanesulfonate", "weight": 0.0, "id": 2779115727, "level": 4}
+{"count": 4262, "name": "Auxotrophy", "weight": 0.0, "id": 20950039, "level": 4}
+{"count": 1097, "name": "RecBCD", "weight": 0.0, "id": 174742784, "level": 4}
+{"count": 3221, "name": "Genetic screen", "weight": 0.0, "id": 207177822, "level": 4}
+{"count": 1678, "name": "Mutation breeding", "weight": 0.0, "id": 36723025, "level": 4}
+{"count": 5850, "name": "Mutant protein", "weight": 1.0, "id": 2779926675, "level": 4}
+{"count": 1619, "name": "Conidiation", "weight": 0.0, "id": 2779347548, "level": 4}
+{"count": 805, "name": "Temperature-sensitive mutant", "weight": 0.0, "id": 2779304273, "level": 4}
+{"count": 669, "name": "Forward genetics", "weight": 0.0, "id": 134486438, "level": 4}
+{"count": 169, "name": "Synthetic genetic array", "weight": 0.0, "id": 2779302612, "level": 4}
+{"count": 363, "name": "Pharmacological chaperone", "weight": 0.0, "id": 2780481677, "level": 4}
+{"count": 69, "name": "Glycine\u2014tRNA ligase", "weight": 0.0, "id": 2779113870, "level": 4}
+{"count": 165, "name": "Lurcher", "weight": 0.0, "id": 2776031782, "level": 4}
+{"count": 826, "name": "Suppressor mutation", "weight": 0.0, "id": 26567756, "level": 4}
+{"count": 187, "name": "White (mutation)", "weight": 0.0, "id": 56273599, "level": 4}
+{"count": 678, "name": "URA3", "weight": 0.0, "id": 2778137531, "level": 4}
+{"count": 187, "name": "Dauer larva", "weight": 0.0, "id": 2780935427, "level": 4}
+{"count": 81, "name": "Schmid metaphyseal chondrodysplasia", "weight": 0.0, "id": 2780699192, "level": 4}
+{"count": 133, "name": "petite mutation", "weight": 0.0, "id": 2776022131, "level": 4}
+{"count": 77, "name": "SHIRPA", "weight": 0.0, "id": 2777038276, "level": 4}
+{"count": 38, "name": "Kanamycin nucleotidyltransferase", "weight": 0.0, "id": 2780353131, "level": 4}
+{"count": 629, "name": "COLD-PCR", "weight": 0.0, "id": 50524450, "level": 4}
+{"count": 531, "name": "Epistasis and functional genomics", "weight": 0.0, "id": 36653963, "level": 4}
+{"count": 25, "name": "Phage P22 Tailspike Protein", "weight": 0.0, "id": 2779005749, "level": 4}
+{"count": 27, "name": "Spinocerebellar ataxia type-13", "weight": 0.0, "id": 2776395606, "level": 4}
+{"count": 54, "name": "International Knockout Mouse Consortium", "weight": 0.0, "id": 204337752, "level": 4}
+{"count": 31, "name": "Euflavine", "weight": 0.0, "id": 2779989798, "level": 4}
+{"count": 25, "name": "Bradytroph", "weight": 0.0, "id": 2779286836, "level": 4}
+{"count": 22, "name": "T4 rII system", "weight": 0.0, "id": 100172376, "level": 4}
+{"count": 15, "name": "Mutagenesis (molecular biology technique)", "weight": 0.0, "id": 96754136, "level": 4}

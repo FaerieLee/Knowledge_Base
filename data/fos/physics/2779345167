@@ -1,0 +1,38 @@
+{"count": 22571, "name": "Optical depth", "weight": 10.0, "id": 27896171, "level": 3}
+{"count": 9339, "name": "Radiative forcing", "weight": 4.0, "id": 99578197, "level": 3}
+{"count": 5418, "name": "Cloud condensation nuclei", "weight": 2.0, "id": 33332676, "level": 3}
+{"count": 7490, "name": "Black carbon", "weight": 3.0, "id": 53603896, "level": 3}
+{"count": 5251, "name": "Mineral dust", "weight": 2.0, "id": 160529264, "level": 3}
+{"count": 2796, "name": "Sea salt", "weight": 1.0, "id": 2778804858, "level": 3}
+{"count": 4824, "name": "Nebulizer", "weight": 2.0, "id": 2780352487, "level": 3}
+{"count": 1108, "name": "Liquid water path", "weight": 0.0, "id": 2778516841, "level": 3}
+{"count": 1169, "name": "Differential mobility analyzer", "weight": 0.0, "id": 2777148325, "level": 3}
+{"count": 2262, "name": "Bioaerosol", "weight": 1.0, "id": 2775921931, "level": 3}
+{"count": 673, "name": "Stratospheric Aerosol and Gas Experiment", "weight": 0.0, "id": 2777976995, "level": 3}
+{"count": 1609, "name": "Cascade impactor", "weight": 0.0, "id": 2780350004, "level": 3}
+{"count": 2371, "name": "Particle counter", "weight": 1.0, "id": 159315249, "level": 3}
+{"count": 1746, "name": "Levoglucosan", "weight": 0.0, "id": 2780059578, "level": 3}
+{"count": 2102, "name": "Asian Dust", "weight": 0.0, "id": 193024070, "level": 3}
+{"count": 339, "name": "Multi-angle Imaging SpectroRadiometer", "weight": 0.0, "id": 2781236200, "level": 3}
+{"count": 553, "name": "Aerosol mass spectrometry", "weight": 0.0, "id": 2779413794, "level": 3}
+{"count": 961, "name": "Sulfate aerosol", "weight": 0.0, "id": 2779681926, "level": 3}
+{"count": 233, "name": "Tapered element oscillating microbalance", "weight": 0.0, "id": 2776432587, "level": 3}
+{"count": 1297, "name": "Nephelometer", "weight": 0.0, "id": 21158419, "level": 3}
+{"count": 442, "name": "Arctic haze", "weight": 0.0, "id": 2777579577, "level": 3}
+{"count": 2703, "name": "Aerosolization", "weight": 1.0, "id": 82085835, "level": 3}
+{"count": 660, "name": "Secondary organic aerosols", "weight": 0.0, "id": 2780883738, "level": 3}
+{"count": 1034, "name": "HYSPLIT", "weight": 0.0, "id": 2776914140, "level": 3}
+{"count": 322, "name": "Photophoresis", "weight": 0.0, "id": 17669193, "level": 3}
+{"count": 376, "name": "Diffusiophoresis", "weight": 0.0, "id": 186309590, "level": 3}
+{"count": 1191, "name": "Sea spray", "weight": 0.0, "id": 20060382, "level": 3}
+{"count": 1002, "name": "Electrical mobility", "weight": 0.0, "id": 50067584, "level": 3}
+{"count": 457, "name": "AATSR", "weight": 0.0, "id": 2777148781, "level": 3}
+{"count": 756, "name": "Marine stratocumulus", "weight": 0.0, "id": 2778270655, "level": 3}
+{"count": 119, "name": "Charged aerosol detector", "weight": 0.0, "id": 2776666619, "level": 3}
+{"count": 969, "name": "Aerosol spray", "weight": 0.0, "id": 2780598775, "level": 3}
+{"count": 499, "name": "Hair spray", "weight": 0.0, "id": 2778937387, "level": 3}
+{"count": 226, "name": "Ship tracks", "weight": 0.0, "id": 2776773011, "level": 3}
+{"count": 163, "name": "Organosulfate", "weight": 0.0, "id": 2777824530, "level": 3}
+{"count": 223, "name": "Nucleopore filter", "weight": 0.0, "id": 16761115, "level": 3}
+{"count": 219, "name": "CLOUD experiment", "weight": 0.0, "id": 2781383829, "level": 3}
+{"count": 67, "name": "Aerosol impaction", "weight": 0.0, "id": 116156461, "level": 3}

@@ -1,0 +1,37 @@
+{"count": 15318, "name": "Deformation mechanism", "weight": 10.0, "id": 205539056, "level": 3}
+{"count": 14525, "name": "Flow stress", "weight": 9.0, "id": 162611839, "level": 3}
+{"count": 6537, "name": "Finite strain theory", "weight": 4.0, "id": 163892269, "level": 3}
+{"count": 2305, "name": "Deformation theory", "weight": 1.0, "id": 18109118, "level": 3}
+{"count": 6225, "name": "Hyperelastic material", "weight": 4.0, "id": 147370603, "level": 3}
+{"count": 9316, "name": "Plate theory", "weight": 6.0, "id": 16826683, "level": 3}
+{"count": 2562, "name": "Stress path", "weight": 1.0, "id": 2776799674, "level": 3}
+{"count": 867, "name": "Free-form deformation", "weight": 0.0, "id": 2780391921, "level": 3}
+{"count": 13199, "name": "Simple shear", "weight": 8.0, "id": 101082671, "level": 3}
+{"count": 606, "name": "F\u00f6ppl\u2013von K\u00e1rm\u00e1n equations", "weight": 0.0, "id": 55510962, "level": 3}
+{"count": 4205, "name": "Infinitesimal strain theory", "weight": 2.0, "id": 85523063, "level": 3}
+{"count": 4297, "name": "Diffusion creep", "weight": 2.0, "id": 187059263, "level": 3}
+{"count": 864, "name": "Portevin\u2013Le Chatelier effect", "weight": 0.0, "id": 193733630, "level": 3}
+{"count": 4158, "name": "Deformation monitoring", "weight": 2.0, "id": 136428324, "level": 3}
+{"count": 804, "name": "Discontinuous Deformation Analysis", "weight": 0.0, "id": 175221391, "level": 3}
+{"count": 2011, "name": "Deformation (meteorology)", "weight": 1.0, "id": 204366326, "level": 3}
+{"count": 1166, "name": "Deformation bands", "weight": 0.0, "id": 185770841, "level": 3}
+{"count": 461, "name": "Mullins effect", "weight": 0.0, "id": 2777700800, "level": 3}
+{"count": 209, "name": "Geometrically necessary dislocations", "weight": 0.0, "id": 2780364063, "level": 3}
+{"count": 3133, "name": "Rotary inertia", "weight": 2.0, "id": 146996283, "level": 3}
+{"count": 2040, "name": "Slip line field", "weight": 1.0, "id": 256373, "level": 3}
+{"count": 131, "name": "Cauchy\u2013Born rule", "weight": 0.0, "id": 2775971640, "level": 3}
+{"count": 92, "name": "Deformation retract", "weight": 0.0, "id": 188894458, "level": 3}
+{"count": 1197, "name": "Stress resultants", "weight": 0.0, "id": 130713241, "level": 3}
+{"count": 66, "name": "Mechanical metamaterial", "weight": 0.0, "id": 2778798718, "level": 3}
+{"count": 46, "name": "D-DIA", "weight": 0.0, "id": 2779551338, "level": 3}
+{"count": 51, "name": "Circle grid analysis", "weight": 0.0, "id": 2779420016, "level": 3}
+{"count": 87, "name": "Elastica theory", "weight": 0.0, "id": 2779615899, "level": 3}
+{"count": 24, "name": "Chain-linked model", "weight": 0.0, "id": 2777475121, "level": 3}
+{"count": 225, "name": "Routhian", "weight": 0.0, "id": 184855987, "level": 3}
+{"count": 15, "name": "Objective stress rates", "weight": 0.0, "id": 129623567, "level": 3}
+{"count": 1753, "name": "Cauchy elastic material", "weight": 1.0, "id": 72746482, "level": 3}
+{"count": 11, "name": "Two-point tensor", "weight": 0.0, "id": 2776119708, "level": 3}
+{"count": 47, "name": "Soft body dynamics", "weight": 0.0, "id": 158351645, "level": 3}
+{"count": 32, "name": "Contact explosive", "weight": 0.0, "id": 2775860645, "level": 3}
+{"count": 67, "name": "Minimum total potential energy principle", "weight": 0.0, "id": 2778800587, "level": 3}
+{"count": 66, "name": "Movable cellular automaton", "weight": 0.0, "id": 2780415864, "level": 3}

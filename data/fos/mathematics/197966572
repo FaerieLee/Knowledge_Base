@@ -1,0 +1,8 @@
+{"count": 435, "name": "Elliptic curve Diffie\u2013Hellman", "weight": 5.0, "id": 95059368, "level": 5}
+{"count": 845, "name": "Curve25519", "weight": 10.0, "id": 198690329, "level": 5}
+{"count": 38, "name": "IEEE P1363", "weight": 0.0, "id": 165400924, "level": 5}
+{"count": 258, "name": "Schoof\u2013Elkies\u2013Atkin algorithm", "weight": 3.0, "id": 103827415, "level": 5}
+{"count": 500, "name": "EdDSA", "weight": 5.0, "id": 197550996, "level": 5}
+{"count": 450, "name": "KCDSA", "weight": 5.0, "id": 183685488, "level": 5}
+{"count": 51, "name": "Integrated Encryption Scheme", "weight": 0.0, "id": 2778970436, "level": 5}
+{"count": 25, "name": "ECC patents", "weight": 0.0, "id": 72748735, "level": 5}

@@ -1,0 +1,8 @@
+{"count": 2600, "name": "Basis risk", "weight": 9.0, "id": 169029255, "level": 4}
+{"count": 1444, "name": "Alternative asset", "weight": 5.0, "id": 106803007, "level": 4}
+{"count": 2821, "name": "Security market line", "weight": 10.0, "id": 140577478, "level": 4}
+{"count": 1088, "name": "Non-performing asset", "weight": 3.0, "id": 107966889, "level": 4}
+{"count": 802, "name": "Average cost pricing", "weight": 2.0, "id": 29865150, "level": 4}
+{"count": 141, "name": "Intertemporal CAPM", "weight": 0.0, "id": 2779451318, "level": 4}
+{"count": 356, "name": "Gross asset value", "weight": 1.0, "id": 163657073, "level": 4}
+{"count": 1126, "name": "Stochastic investment model", "weight": 3.0, "id": 117219021, "level": 4}

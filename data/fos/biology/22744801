@@ -1,0 +1,76 @@
+{"count": 6491, "name": "Restriction map", "weight": 5.0, "id": 170673058, "level": 4}
+{"count": 11830, "name": "DNA vaccination", "weight": 10.0, "id": 167508917, "level": 4}
+{"count": 3700, "name": "Cosmid", "weight": 3.0, "id": 35101798, "level": 4}
+{"count": 6533, "name": "Replicon", "weight": 5.0, "id": 18103114, "level": 4}
+{"count": 4312, "name": "Origin of replication", "weight": 3.0, "id": 58337764, "level": 4}
+{"count": 1987, "name": "Site-specific recombination", "weight": 1.0, "id": 119898374, "level": 4}
+{"count": 2436, "name": "Shuttle vector", "weight": 2.0, "id": 145640855, "level": 4}
+{"count": 1329, "name": "Multiple cloning site", "weight": 1.0, "id": 107618985, "level": 4}
+{"count": 2517, "name": "Integron", "weight": 2.0, "id": 2776650774, "level": 4}
+{"count": 153, "name": "Kanamycin kinase", "weight": 0.0, "id": 2779106368, "level": 4}
+{"count": 3192, "name": "Extrachromosomal DNA", "weight": 2.0, "id": 89684784, "level": 4}
+{"count": 1162, "name": "Hygromycin B", "weight": 0.0, "id": 2780058085, "level": 4}
+{"count": 1187, "name": "Amp resistance", "weight": 1.0, "id": 183641309, "level": 4}
+{"count": 1047, "name": "Autonomously replicating sequence", "weight": 0.0, "id": 85638360, "level": 4}
+{"count": 709, "name": "Bacteriophage Mu", "weight": 0.0, "id": 2779637723, "level": 4}
+{"count": 4439, "name": "Selectable marker", "weight": 3.0, "id": 42411736, "level": 4}
+{"count": 3901, "name": "Cloning vector", "weight": 3.0, "id": 168374021, "level": 4}
+{"count": 709, "name": "Gene gun", "weight": 0.0, "id": 168112101, "level": 4}
+{"count": 1705, "name": "Naked DNA", "weight": 1.0, "id": 195856716, "level": 4}
+{"count": 1749, "name": "DnaA", "weight": 1.0, "id": 107827726, "level": 4}
+{"count": 3882, "name": "Transformation efficiency", "weight": 3.0, "id": 178050479, "level": 4}
+{"count": 2310, "name": "Vector (molecular biology)", "weight": 1.0, "id": 92087593, "level": 4}
+{"count": 378, "name": "Cotransformation", "weight": 0.0, "id": 149265406, "level": 4}
+{"count": 654, "name": "Hybrid plasmid", "weight": 0.0, "id": 2780242733, "level": 4}
+{"count": 213, "name": "Plasmid copy number", "weight": 0.0, "id": 2777163813, "level": 4}
+{"count": 1493, "name": "PBR322", "weight": 1.0, "id": 205225487, "level": 4}
+{"count": 533, "name": "Bacterial conjugation", "weight": 0.0, "id": 103244968, "level": 4}
+{"count": 647, "name": "Recombineering", "weight": 0.0, "id": 70239388, "level": 4}
+{"count": 372, "name": "Enteroinvasive Escherichia coli", "weight": 0.0, "id": 2781097526, "level": 4}
+{"count": 366, "name": "Restriction modification system", "weight": 0.0, "id": 205098303, "level": 4}
+{"count": 2423, "name": "Subcloning", "weight": 2.0, "id": 163005120, "level": 4}
+{"count": 633, "name": "Aerobactin", "weight": 0.0, "id": 2778487981, "level": 4}
+{"count": 114, "name": "Ligation-independent cloning", "weight": 0.0, "id": 2781342068, "level": 4}
+{"count": 75, "name": "PBAD promoter", "weight": 0.0, "id": 2776055791, "level": 4}
+{"count": 5498, "name": "In vitro recombination", "weight": 4.0, "id": 203284983, "level": 4}
+{"count": 768, "name": "ColE1", "weight": 0.0, "id": 2777014509, "level": 4}
+{"count": 170, "name": "Nourseothricin", "weight": 0.0, "id": 2780724645, "level": 4}
+{"count": 6427, "name": "EcoRI", "weight": 5.0, "id": 130123407, "level": 4}
+{"count": 468, "name": "MCR-1", "weight": 0.0, "id": 2777620836, "level": 4}
+{"count": 1268, "name": "Transfer DNA", "weight": 1.0, "id": 160136775, "level": 4}
+{"count": 257, "name": "ParM", "weight": 0.0, "id": 60854295, "level": 4}
+{"count": 302, "name": "Toxin-antitoxin system", "weight": 0.0, "id": 188992823, "level": 4}
+{"count": 678, "name": "URA3", "weight": 0.0, "id": 2778137531, "level": 4}
+{"count": 271, "name": "Gene electrotransfer", "weight": 0.0, "id": 2780678448, "level": 4}
+{"count": 285, "name": "Relaxase", "weight": 0.0, "id": 144639871, "level": 4}
+{"count": 155, "name": "Streptogramin A", "weight": 0.0, "id": 2778063210, "level": 4}
+{"count": 3179, "name": "Plasmid preparation", "weight": 2.0, "id": 109932267, "level": 4}
+{"count": 66, "name": "Tac-Promoter", "weight": 0.0, "id": 2780894392, "level": 4}
+{"count": 44, "name": "Mesorhizobium huakuii", "weight": 0.0, "id": 2781009859, "level": 4}
+{"count": 142, "name": "Plasmid-mediated resistance", "weight": 0.0, "id": 2777820814, "level": 4}
+{"count": 214, "name": "Dyad symmetry", "weight": 0.0, "id": 141039863, "level": 4}
+{"count": 120, "name": "Transfer gene", "weight": 0.0, "id": 2776774726, "level": 4}
+{"count": 38, "name": "Kanamycin nucleotidyltransferase", "weight": 0.0, "id": 2780353131, "level": 4}
+{"count": 327, "name": "Origin of transfer", "weight": 0.0, "id": 160384405, "level": 4}
+{"count": 3214, "name": "HindIII", "weight": 2.0, "id": 151292725, "level": 4}
+{"count": 36, "name": "Streptomyces azureus", "weight": 0.0, "id": 2777401599, "level": 4}
+{"count": 287, "name": "Topoisomer", "weight": 0.0, "id": 99802081, "level": 4}
+{"count": 105, "name": "Triparental mating", "weight": 0.0, "id": 170060884, "level": 4}
+{"count": 94, "name": "Gibson assembly", "weight": 0.0, "id": 2780989981, "level": 4}
+{"count": 1751, "name": "pUC19", "weight": 1.0, "id": 142372107, "level": 4}
+{"count": 154, "name": "pSC101", "weight": 0.0, "id": 2779310203, "level": 4}
+{"count": 75, "name": "COPG", "weight": 0.0, "id": 2777893180, "level": 4}
+{"count": 143, "name": "vapBC", "weight": 0.0, "id": 152191520, "level": 4}
+{"count": 877, "name": "BglII", "weight": 0.0, "id": 2779758144, "level": 4}
+{"count": 881, "name": "pBluescript", "weight": 0.0, "id": 2781336617, "level": 4}
+{"count": 83, "name": "Live vector vaccine", "weight": 0.0, "id": 2778666262, "level": 4}
+{"count": 64, "name": "R1 plasmid", "weight": 0.0, "id": 2776906686, "level": 4}
+{"count": 63, "name": "Gateway Technology", "weight": 0.0, "id": 64637435, "level": 4}
+{"count": 851, "name": "XhoI", "weight": 0.0, "id": 2778972215, "level": 4}
+{"count": 55, "name": "Addiction module", "weight": 0.0, "id": 2778570463, "level": 4}
+{"count": 121, "name": "Sereny test", "weight": 0.0, "id": 2778848297, "level": 4}
+{"count": 25, "name": "Acinetobacter bereziniae", "weight": 0.0, "id": 2776992122, "level": 4}
+{"count": 30, "name": "pGLO", "weight": 0.0, "id": 2776358713, "level": 4}
+{"count": 23, "name": "Epsilon antitoxin", "weight": 0.0, "id": 2779985098, "level": 4}
+{"count": 197, "name": "NdeI", "weight": 0.0, "id": 2778560470, "level": 4}
+{"count": 11, "name": "Plasmid partition system", "weight": 0.0, "id": 2777145632, "level": 4}

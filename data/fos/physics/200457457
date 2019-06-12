@@ -1,0 +1,26 @@
+{"count": 18294, "name": "Indoor air quality", "weight": 10.0, "id": 65469, "level": 3}
+{"count": 8863, "name": "Positive pressure", "weight": 4.0, "id": 204832983, "level": 3}
+{"count": 8707, "name": "Natural ventilation", "weight": 4.0, "id": 206018219, "level": 3}
+{"count": 1975, "name": "High-frequency ventilation", "weight": 1.0, "id": 2776691311, "level": 3}
+{"count": 1532, "name": "Pressure support ventilation", "weight": 0.0, "id": 2780368197, "level": 3}
+{"count": 1183, "name": "Displacement ventilation", "weight": 0.0, "id": 2776668771, "level": 3}
+{"count": 1218, "name": "Stack effect", "weight": 0.0, "id": 56550808, "level": 3}
+{"count": 857, "name": "Intermittent mandatory ventilation", "weight": 0.0, "id": 2775904088, "level": 3}
+{"count": 376, "name": "Air changes per hour", "weight": 0.0, "id": 2780163275, "level": 3}
+{"count": 358, "name": "Neurally adjusted ventilatory assist", "weight": 0.0, "id": 2779473289, "level": 3}
+{"count": 254, "name": "Bag valve mask", "weight": 0.0, "id": 2779673038, "level": 3}
+{"count": 689, "name": "Ventilation shaft", "weight": 0.0, "id": 178715651, "level": 3}
+{"count": 245, "name": "Underfloor air distribution", "weight": 0.0, "id": 2779463659, "level": 3}
+{"count": 180, "name": "HVAC control system", "weight": 0.0, "id": 2780731337, "level": 3}
+{"count": 177, "name": "Kitchen ventilation", "weight": 0.0, "id": 2777963065, "level": 3}
+{"count": 151, "name": "Clean Air Delivery Rate", "weight": 0.0, "id": 175371373, "level": 3}
+{"count": 73, "name": "Underground mine ventilation", "weight": 0.0, "id": 2776793659, "level": 3}
+{"count": 41, "name": "Biphasic cuirass ventilation", "weight": 0.0, "id": 2777668078, "level": 3}
+{"count": 77, "name": "Slurry pit", "weight": 0.0, "id": 2776478683, "level": 3}
+{"count": 119, "name": "Perfluorocarbon tracer", "weight": 0.0, "id": 2779609425, "level": 3}
+{"count": 20, "name": "Minimum efficiency reporting value", "weight": 0.0, "id": 114260428, "level": 3}
+{"count": 17, "name": "Liquid Cooling and Ventilation Garment", "weight": 0.0, "id": 2776942135, "level": 3}
+{"count": 220, "name": "Modes of mechanical ventilation", "weight": 0.0, "id": 2780987507, "level": 3}
+{"count": 14, "name": "Testing, adjusting, balancing", "weight": 0.0, "id": 165820187, "level": 3}
+{"count": 5, "name": "Air Infiltration and Ventilation Centre", "weight": 0.0, "id": 2778842984, "level": 3}
+{"count": 163, "name": "Heat and smoke vent", "weight": 0.0, "id": 190237492, "level": 3}

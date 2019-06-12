@@ -1,0 +1,17 @@
+{"count": 2857, "name": "Topology control", "weight": 0.0, "id": 2778034918, "level": 4}
+{"count": 20206, "name": "Sensor node", "weight": 6.0, "id": 111185680, "level": 4}
+{"count": 291, "name": "Low Energy Adaptive Clustering Hierarchy", "weight": 0.0, "id": 26285567, "level": 4}
+{"count": 10948, "name": "Base transceiver station", "weight": 3.0, "id": 116593020, "level": 4}
+{"count": 4496, "name": "Wired communication", "weight": 1.0, "id": 136708747, "level": 4}
+{"count": 23143, "name": "Wireless WAN", "weight": 7.0, "id": 87379069, "level": 4}
+{"count": 30279, "name": "Mobile wireless sensor network", "weight": 10.0, "id": 7091991, "level": 4}
+{"count": 19308, "name": "Fixed wireless", "weight": 6.0, "id": 58074150, "level": 4}
+{"count": 554, "name": "Wireless gateway", "weight": 0.0, "id": 2776745980, "level": 4}
+{"count": 45, "name": "MobiCast", "weight": 0.0, "id": 2778651286, "level": 4}
+{"count": 159, "name": "Collection Tree Protocol", "weight": 0.0, "id": 2778807401, "level": 4}
+{"count": 81, "name": "Over-the-air programming", "weight": 0.0, "id": 2778335787, "level": 4}
+{"count": 219, "name": "Wi-Fi Protected Setup", "weight": 0.0, "id": 154683421, "level": 4}
+{"count": 138, "name": "Route filtering", "weight": 0.0, "id": 2780248821, "level": 4}
+{"count": 1438, "name": "Stochastic geometry models of wireless networks", "weight": 0.0, "id": 27819379, "level": 4}
+{"count": 2718, "name": "Multiple Access with Collision Avoidance for Wireless", "weight": 0.0, "id": 156643399, "level": 4}
+{"count": 4456, "name": "NeuRFon", "weight": 1.0, "id": 161691276, "level": 4}

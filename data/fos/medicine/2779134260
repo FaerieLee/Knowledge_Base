@@ -1,0 +1,200 @@
+{"count": 15799, "name": "Degenerative disease", "weight": 2.0, "id": 2777427615, "level": 3}
+{"count": 46594, "name": "Alzheimer's disease", "weight": 6.0, "id": 502032728, "level": 3}
+{"count": 20919, "name": "Systemic disease", "weight": 2.0, "id": 2778674544, "level": 3}
+{"count": 44273, "name": "Cause of death", "weight": 6.0, "id": 29374701, "level": 3}
+{"count": 44195, "name": "Infectious disease (medical specialty)", "weight": 6.0, "id": 524204448, "level": 3}
+{"count": 68794, "name": "Parkinson's disease", "weight": 9.0, "id": 2779734285, "level": 3}
+{"count": 36952, "name": "Rheumatology", "weight": 5.0, "id": 198451711, "level": 3}
+{"count": 21967, "name": "Age of onset", "weight": 3.0, "id": 2777767895, "level": 3}
+{"count": 53890, "name": "Inflammatory bowel disease", "weight": 7.0, "id": 2778260677, "level": 3}
+{"count": 37262, "name": "Crohn's disease", "weight": 5.0, "id": 2779280984, "level": 3}
+{"count": 16322, "name": "Genetic predisposition", "weight": 2.0, "id": 67636389, "level": 3}
+{"count": 10687, "name": "Huntington's disease", "weight": 1.0, "id": 2780647506, "level": 3}
+{"count": 70503, "name": "COPD", "weight": 10.0, "id": 2776780178, "level": 3}
+{"count": 10637, "name": "Sickle cell anemia", "weight": 1.0, "id": 2778620579, "level": 3}
+{"count": 9816, "name": "Coeliac disease", "weight": 1.0, "id": 2780349322, "level": 3}
+{"count": 10406, "name": "Vascular dementia", "weight": 1.0, "id": 2777952318, "level": 3}
+{"count": 7369, "name": "Frontotemporal dementia", "weight": 1.0, "id": 2778641062, "level": 3}
+{"count": 6631, "name": "Chronic condition", "weight": 0.0, "id": 2780600951, "level": 3}
+{"count": 5521, "name": "Zoonosis", "weight": 0.0, "id": 2776353676, "level": 3}
+{"count": 8041, "name": "Progressive disease", "weight": 1.0, "id": 2778822529, "level": 3}
+{"count": 6417, "name": "Foot-and-mouth disease", "weight": 0.0, "id": 2779070877, "level": 3}
+{"count": 3859, "name": "Bovine spongiform encephalopathy", "weight": 0.0, "id": 2781131914, "level": 3}
+{"count": 6641, "name": "Intermittent claudication", "weight": 0.0, "id": 2779881954, "level": 3}
+{"count": 2724, "name": "Legionnaires' disease", "weight": 0.0, "id": 2780295090, "level": 3}
+{"count": 4869, "name": "Dementia with Lewy bodies", "weight": 0.0, "id": 2778548049, "level": 3}
+{"count": 5374, "name": "Enzyme replacement therapy", "weight": 0.0, "id": 2779969927, "level": 3}
+{"count": 2480, "name": "Mycobacterium avium complex", "weight": 0.0, "id": 2781455004, "level": 3}
+{"count": 2930, "name": "Family aggregation", "weight": 0.0, "id": 203083617, "level": 3}
+{"count": 12780, "name": "GERD", "weight": 1.0, "id": 2777014526, "level": 3}
+{"count": 4761, "name": "Caregiver burden", "weight": 0.0, "id": 2779878486, "level": 3}
+{"count": 4232, "name": "Familial Mediterranean fever", "weight": 0.0, "id": 2779537928, "level": 3}
+{"count": 4183, "name": "Memantine", "weight": 0.0, "id": 2779484449, "level": 3}
+{"count": 7410, "name": "Behcet's disease", "weight": 1.0, "id": 2781428731, "level": 3}
+{"count": 803, "name": "Disability-adjusted life year", "weight": 0.0, "id": 2778049256, "level": 3}
+{"count": 10545, "name": "Rare disease", "weight": 1.0, "id": 2779701055, "level": 3}
+{"count": 3443, "name": "Pneumococcal conjugate vaccine", "weight": 0.0, "id": 2778866548, "level": 3}
+{"count": 4801, "name": "Donepezil", "weight": 0.0, "id": 2780904820, "level": 3}
+{"count": 6362, "name": "Ebola virus", "weight": 0.0, "id": 2777469322, "level": 3}
+{"count": 1828, "name": "Emerging infectious disease", "weight": 0.0, "id": 2779973787, "level": 3}
+{"count": 31738, "name": "Exacerbation", "weight": 4.0, "id": 2777014857, "level": 3}
+{"count": 2721, "name": "Contact tracing", "weight": 0.0, "id": 113162765, "level": 3}
+{"count": 4160, "name": "Wilson's disease", "weight": 0.0, "id": 2776231509, "level": 3}
+{"count": 5485, "name": "Disease surveillance", "weight": 0.0, "id": 2776480101, "level": 3}
+{"count": 1905, "name": "Tropical disease", "weight": 0.0, "id": 2777474118, "level": 3}
+{"count": 12986, "name": "Disease burden", "weight": 1.0, "id": 2780664029, "level": 3}
+{"count": 1163, "name": "Slow virus", "weight": 0.0, "id": 148632171, "level": 3}
+{"count": 3063, "name": "Pneumococcal vaccine", "weight": 0.0, "id": 2779301066, "level": 3}
+{"count": 2274, "name": "Hand-foot-and-mouth disease", "weight": 0.0, "id": 2777158596, "level": 3}
+{"count": 2470, "name": "Rivastigmine", "weight": 0.0, "id": 2776332859, "level": 3}
+{"count": 1969, "name": "Galantamine", "weight": 0.0, "id": 2779056891, "level": 3}
+{"count": 2799, "name": "Years of potential life lost", "weight": 0.0, "id": 126451531, "level": 3}
+{"count": 3016, "name": "Expanded Disability Status Scale", "weight": 0.0, "id": 2780892749, "level": 3}
+{"count": 2169, "name": "Neglected tropical diseases", "weight": 0.0, "id": 2776246342, "level": 3}
+{"count": 2123, "name": "Glatiramer acetate", "weight": 0.0, "id": 2778577042, "level": 3}
+{"count": 5901, "name": "Heartburn", "weight": 0.0, "id": 2776462128, "level": 3}
+{"count": 1239, "name": "Buruli ulcer", "weight": 0.0, "id": 2776261420, "level": 3}
+{"count": 1316, "name": "Chancroid", "weight": 0.0, "id": 2777871504, "level": 3}
+{"count": 2555, "name": "Hidradenitis suppurativa", "weight": 0.0, "id": 2776002364, "level": 3}
+{"count": 1696, "name": "Motor neurone disease", "weight": 0.0, "id": 2778466831, "level": 3}
+{"count": 2320, "name": "Cognitive reserve", "weight": 0.0, "id": 67739388, "level": 3}
+{"count": 3545, "name": "Clinical attachment loss", "weight": 0.0, "id": 61260549, "level": 3}
+{"count": 1614, "name": "Dermatology Life Quality Index", "weight": 0.0, "id": 2776173921, "level": 3}
+{"count": 3772, "name": "Chronic care", "weight": 0.0, "id": 2776807786, "level": 3}
+{"count": 1607, "name": "Hygiene hypothesis", "weight": 0.0, "id": 78635009, "level": 3}
+{"count": 3300, "name": "Parasitic disease", "weight": 0.0, "id": 2780301010, "level": 3}
+{"count": 2724, "name": "Herd immunity", "weight": 0.0, "id": 106192422, "level": 3}
+{"count": 1839, "name": "Epidemiological transition", "weight": 0.0, "id": 28039750, "level": 3}
+{"count": 670, "name": "Fatal familial insomnia", "weight": 0.0, "id": 2779455247, "level": 3}
+{"count": 519, "name": "Ankle\u2013brachial pressure index", "weight": 0.0, "id": 2776281374, "level": 3}
+{"count": 920, "name": "Xenodiagnosis", "weight": 0.0, "id": 2778335811, "level": 3}
+{"count": 1268, "name": "Valganciclovir", "weight": 0.0, "id": 2776317777, "level": 3}
+{"count": 1841, "name": "Glucocerebrosidase", "weight": 0.0, "id": 2780674200, "level": 3}
+{"count": 1263, "name": "Palivizumab", "weight": 0.0, "id": 2778644256, "level": 3}
+{"count": 1260, "name": "Epidemiological method", "weight": 0.0, "id": 1391233, "level": 3}
+{"count": 640, "name": "Dracunculiasis", "weight": 0.0, "id": 2776787830, "level": 3}
+{"count": 1695, "name": "Predictive testing", "weight": 0.0, "id": 134534832, "level": 3}
+{"count": 931, "name": "Mild cognitive impairment (MCI)", "weight": 0.0, "id": 2781457404, "level": 3}
+{"count": 1393, "name": "Laryngopharyngeal reflux", "weight": 0.0, "id": 2780897648, "level": 3}
+{"count": 1478, "name": "Kuru", "weight": 0.0, "id": 2779233500, "level": 3}
+{"count": 1544, "name": "IgG4-related disease", "weight": 0.0, "id": 2780224187, "level": 3}
+{"count": 1123, "name": "Macrophage activation syndrome", "weight": 0.0, "id": 2779613421, "level": 3}
+{"count": 1378, "name": "Rosai\u2013Dorfman disease", "weight": 0.0, "id": 2781192723, "level": 3}
+{"count": 1099, "name": "Non-communicable disease", "weight": 0.0, "id": 2776577793, "level": 3}
+{"count": 734, "name": "Occupational lung disease", "weight": 0.0, "id": 2781441816, "level": 3}
+{"count": 670, "name": "Hemoglobin C", "weight": 0.0, "id": 2780591564, "level": 3}
+{"count": 321, "name": "Lhermitte\u2013Duclos disease", "weight": 0.0, "id": 2776256618, "level": 3}
+{"count": 2349, "name": "Immune dysregulation", "weight": 0.0, "id": 2780194698, "level": 3}
+{"count": 1633, "name": "Gaucher's disease", "weight": 0.0, "id": 2776723260, "level": 3}
+{"count": 1670, "name": "Paget's disease of bone", "weight": 0.0, "id": 2776154862, "level": 3}
+{"count": 1506, "name": "Whipple's disease", "weight": 0.0, "id": 2777440137, "level": 3}
+{"count": 254, "name": "Koch's postulates", "weight": 0.0, "id": 45343203, "level": 3}
+{"count": 521, "name": "Hailey\u2013Hailey disease", "weight": 0.0, "id": 2778494947, "level": 3}
+{"count": 1194, "name": "Nodular sclerosis", "weight": 0.0, "id": 2780430958, "level": 3}
+{"count": 652, "name": "Wildlife disease", "weight": 0.0, "id": 2780597670, "level": 3}
+{"count": 1333, "name": "Endocrine disease", "weight": 0.0, "id": 2776869705, "level": 3}
+{"count": 1478, "name": "Pediatric gastroenterology", "weight": 0.0, "id": 2776848118, "level": 3}
+{"count": 767, "name": "Disease registry", "weight": 0.0, "id": 2778959093, "level": 3}
+{"count": 798, "name": "Hematologic disease", "weight": 0.0, "id": 2780571819, "level": 3}
+{"count": 768, "name": "Evolutionary medicine", "weight": 0.0, "id": 105619462, "level": 3}
+{"count": 394, "name": "Miglustat", "weight": 0.0, "id": 2778358581, "level": 3}
+{"count": 444, "name": "Nutrigenetics", "weight": 0.0, "id": 119663443, "level": 3}
+{"count": 738, "name": "Vogt\u2013Koyanagi\u2013Harada disease", "weight": 0.0, "id": 2778396096, "level": 3}
+{"count": 660, "name": "Kimura's disease", "weight": 0.0, "id": 2780465605, "level": 3}
+{"count": 471, "name": "Natural history of disease", "weight": 0.0, "id": 2781236523, "level": 3}
+{"count": 8871, "name": "Occlusive", "weight": 1.0, "id": 2780075939, "level": 3}
+{"count": 569, "name": "Viral hemorrhagic fever", "weight": 0.0, "id": 2776430180, "level": 3}
+{"count": 285, "name": "Adult Still's disease", "weight": 0.0, "id": 2780706684, "level": 3}
+{"count": 1030, "name": "Buerger's disease", "weight": 0.0, "id": 2781265703, "level": 3}
+{"count": 1086, "name": "Pneumococcal polysaccharide vaccine", "weight": 0.0, "id": 2779664119, "level": 3}
+{"count": 303, "name": "Marchiafava\u2013Bignami disease", "weight": 0.0, "id": 2778038514, "level": 3}
+{"count": 1472, "name": "Axial spondyloarthritis", "weight": 0.0, "id": 2776213234, "level": 3}
+{"count": 1456, "name": "Contagious disease", "weight": 0.0, "id": 2780646360, "level": 3}
+{"count": 566, "name": "TREM2", "weight": 0.0, "id": 2779685842, "level": 3}
+{"count": 1140, "name": "Genital ulcer", "weight": 0.0, "id": 2780276817, "level": 3}
+{"count": 466, "name": "Rochester Epidemiology Project", "weight": 0.0, "id": 2778525166, "level": 3}
+{"count": 1266, "name": "Memory clinic", "weight": 0.0, "id": 2776656118, "level": 3}
+{"count": 344, "name": "Neuroepidemiology", "weight": 0.0, "id": 149577121, "level": 3}
+{"count": 515, "name": "Germ theory of disease", "weight": 0.0, "id": 183454016, "level": 3}
+{"count": 294, "name": "Peripheral artery disease (PAD)", "weight": 0.0, "id": 2776773230, "level": 3}
+{"count": 1046, "name": "Biological plausibility", "weight": 0.0, "id": 75648832, "level": 3}
+{"count": 349, "name": "Nervous system disease", "weight": 0.0, "id": 2780540183, "level": 3}
+{"count": 809, "name": "Darier's disease", "weight": 0.0, "id": 2780070061, "level": 3}
+{"count": 160, "name": "Lobomycosis", "weight": 0.0, "id": 2776976556, "level": 3}
+{"count": 469, "name": "Exposome", "weight": 0.0, "id": 119709500, "level": 3}
+{"count": 321, "name": "History of tuberculosis", "weight": 0.0, "id": 2780499168, "level": 3}
+{"count": 354, "name": "Autoimmune enteropathy", "weight": 0.0, "id": 2780786897, "level": 3}
+{"count": 550, "name": "Polypill", "weight": 0.0, "id": 2777758740, "level": 3}
+{"count": 2124, "name": "BASDAI", "weight": 0.0, "id": 2777453003, "level": 3}
+{"count": 258, "name": "Compression of morbidity", "weight": 0.0, "id": 149575653, "level": 3}
+{"count": 199, "name": "Mosquito-borne disease", "weight": 0.0, "id": 2776747861, "level": 3}
+{"count": 389, "name": "Lifestyle medicine", "weight": 0.0, "id": 2779537295, "level": 3}
+{"count": 209, "name": "Endotype", "weight": 0.0, "id": 2781293274, "level": 3}
+{"count": 232, "name": "Network medicine", "weight": 0.0, "id": 2777408241, "level": 3}
+{"count": 207, "name": "Onychomadesis", "weight": 0.0, "id": 2780698164, "level": 3}
+{"count": 161, "name": "Pelvic inflammatory disease (PID)", "weight": 0.0, "id": 2776465991, "level": 3}
+{"count": 592, "name": "Immune disorder", "weight": 0.0, "id": 2780732581, "level": 3}
+{"count": 100, "name": "Economic epidemiology", "weight": 0.0, "id": 2779598706, "level": 3}
+{"count": 171, "name": "Mycobiome", "weight": 0.0, "id": 2777856373, "level": 3}
+{"count": 195, "name": "Non-celiac gluten sensitivity", "weight": 0.0, "id": 2780588455, "level": 3}
+{"count": 240, "name": "Valley fever", "weight": 0.0, "id": 2780455708, "level": 3}
+{"count": 329, "name": "Systemic-onset juvenile idiopathic arthritis", "weight": 0.0, "id": 2780400840, "level": 3}
+{"count": 284, "name": "Pityriasis lichenoides et varioliformis acuta", "weight": 0.0, "id": 2780562476, "level": 3}
+{"count": 254, "name": "Nutritional genomics", "weight": 0.0, "id": 196430987, "level": 3}
+{"count": 873, "name": "Notifiable disease", "weight": 0.0, "id": 2779373090, "level": 3}
+{"count": 220, "name": "Kikuchi disease", "weight": 0.0, "id": 2776836876, "level": 3}
+{"count": 125, "name": "Predictive adaptive response", "weight": 0.0, "id": 2777985560, "level": 3}
+{"count": 759, "name": "Susceptible individual", "weight": 0.0, "id": 52103748, "level": 3}
+{"count": 593, "name": "Plant disease epidemiology", "weight": 0.0, "id": 60536914, "level": 3}
+{"count": 379, "name": "Infantile cortical hyperostosis", "weight": 0.0, "id": 2777733752, "level": 3}
+{"count": 210, "name": "Disease cluster", "weight": 0.0, "id": 190724433, "level": 3}
+{"count": 1342, "name": "Localized disease", "weight": 0.0, "id": 2778162587, "level": 3}
+{"count": 161, "name": "Childhood chronic illness", "weight": 0.0, "id": 2778100296, "level": 3}
+{"count": 188, "name": "Salivary diagnostics", "weight": 0.0, "id": 2780436114, "level": 3}
+{"count": 186, "name": "Monomelic amyotrophy", "weight": 0.0, "id": 2778831127, "level": 3}
+{"count": 881, "name": "Vata", "weight": 0.0, "id": 2780220313, "level": 3}
+{"count": 281, "name": "Case definition", "weight": 0.0, "id": 183313806, "level": 3}
+{"count": 53, "name": "Mycoplasma agassizii", "weight": 0.0, "id": 2779095086, "level": 3}
+{"count": 310, "name": "Stomach disease", "weight": 0.0, "id": 2777875457, "level": 3}
+{"count": 134, "name": "Geroscience", "weight": 0.0, "id": 2778084767, "level": 3}
+{"count": 530, "name": "Prevention of dementia", "weight": 0.0, "id": 2776074789, "level": 3}
+{"count": 3018, "name": "Disseminated disease", "weight": 0.0, "id": 2776590645, "level": 3}
+{"count": 379, "name": "Degos disease", "weight": 0.0, "id": 2776838091, "level": 3}
+{"count": 160, "name": "Disease Ontology", "weight": 0.0, "id": 2776381358, "level": 3}
+{"count": 161, "name": "Benign symmetric lipomatosis", "weight": 0.0, "id": 2779071637, "level": 3}
+{"count": 297, "name": "Intergluteal cleft", "weight": 0.0, "id": 89618193, "level": 3}
+{"count": 155, "name": "Adiposis dolorosa", "weight": 0.0, "id": 2777027664, "level": 3}
+{"count": 325, "name": "Mouth ulcers", "weight": 0.0, "id": 2779354847, "level": 3}
+{"count": 218, "name": "Healthy Life Years", "weight": 0.0, "id": 2779938330, "level": 3}
+{"count": 285, "name": "Lung microbiome", "weight": 0.0, "id": 2776828318, "level": 3}
+{"count": 100, "name": "PBT2", "weight": 0.0, "id": 2776166200, "level": 3}
+{"count": 182, "name": "Virechana", "weight": 0.0, "id": 2779416491, "level": 3}
+{"count": 165, "name": "Transient acantholytic dermatosis", "weight": 0.0, "id": 2777744145, "level": 3}
+{"count": 1798, "name": "Constitutional symptoms", "weight": 0.0, "id": 2777753580, "level": 3}
+{"count": 203, "name": "Alzheimer's disease biomarkers", "weight": 0.0, "id": 2781380890, "level": 3}
+{"count": 134, "name": "Neonatal onset multisystem inflammatory disease", "weight": 0.0, "id": 2781372130, "level": 3}
+{"count": 63, "name": "Proteopathy", "weight": 0.0, "id": 2776512968, "level": 3}
+{"count": 139, "name": "Airborne disease", "weight": 0.0, "id": 2778928701, "level": 3}
+{"count": 672, "name": "Heterogeneous condition", "weight": 0.0, "id": 2779876969, "level": 3}
+{"count": 53, "name": "Flammer syndrome", "weight": 0.0, "id": 2777280349, "level": 3}
+{"count": 217, "name": "Diseases of poverty", "weight": 0.0, "id": 2776605987, "level": 3}
+{"count": 80, "name": "Riga\u2013Fede disease", "weight": 0.0, "id": 2779977934, "level": 3}
+{"count": 72, "name": "Activation syndrome", "weight": 0.0, "id": 2778044867, "level": 3}
+{"count": 59, "name": "Sever's disease", "weight": 0.0, "id": 2777103116, "level": 3}
+{"count": 70, "name": "Heck's disease", "weight": 0.0, "id": 2779491980, "level": 3}
+{"count": 75, "name": "Sweating sickness", "weight": 0.0, "id": 2777772228, "level": 3}
+{"count": 144, "name": "Lymphatic disease", "weight": 0.0, "id": 2776733047, "level": 3}
+{"count": 56, "name": "Number needed to vaccinate", "weight": 0.0, "id": 27629390, "level": 3}
+{"count": 856, "name": "Diagnosis of exclusion", "weight": 0.0, "id": 2776093885, "level": 3}
+{"count": 238, "name": "Alzheimer's disease research", "weight": 0.0, "id": 2781416690, "level": 3}
+{"count": 106, "name": "Morgellons", "weight": 0.0, "id": 2781457390, "level": 3}
+{"count": 97, "name": "Inverse psoriasis", "weight": 0.0, "id": 2781353438, "level": 3}
+{"count": 42, "name": "Schindler disease", "weight": 0.0, "id": 2778645211, "level": 3}
+{"count": 80, "name": "Souvenaid", "weight": 0.0, "id": 2781371727, "level": 3}
+{"count": 64, "name": "Laboratory Response Network", "weight": 0.0, "id": 2781164611, "level": 3}
+{"count": 280, "name": "Multiple morbidities", "weight": 0.0, "id": 2778791661, "level": 3}
+{"count": 41, "name": "ProMED-mail", "weight": 0.0, "id": 2779122709, "level": 3}
+{"count": 39, "name": "Anorectal disorder", "weight": 0.0, "id": 2778582479, "level": 3}
+{"count": 21, "name": "Phanquinone", "weight": 0.0, "id": 2779308541, "level": 3}
+{"count": 170, "name": "NHS health check", "weight": 0.0, "id": 2775911139, "level": 3}
+{"count": 89, "name": "Vesiculobullous disease", "weight": 0.0, "id": 2780444185, "level": 3}

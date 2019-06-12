@@ -1,0 +1,41 @@
+{"count": 46594, "name": "Alzheimer's disease", "weight": 10.0, "id": 502032728, "level": 3}
+{"count": 14897, "name": "Cognitive disorder", "weight": 3.0, "id": 2780566141, "level": 3}
+{"count": 10406, "name": "Vascular dementia", "weight": 2.0, "id": 2777952318, "level": 3}
+{"count": 7369, "name": "Frontotemporal dementia", "weight": 1.0, "id": 2778641062, "level": 3}
+{"count": 5431, "name": "Mini\u2013Mental State Examination", "weight": 1.0, "id": 2779077818, "level": 3}
+{"count": 4869, "name": "Dementia with Lewy bodies", "weight": 1.0, "id": 2778548049, "level": 3}
+{"count": 4761, "name": "Caregiver burden", "weight": 1.0, "id": 2779878486, "level": 3}
+{"count": 4801, "name": "Donepezil", "weight": 1.0, "id": 2780904820, "level": 3}
+{"count": 1906, "name": "Corticobasal degeneration", "weight": 0.0, "id": 2776936178, "level": 3}
+{"count": 2470, "name": "Rivastigmine", "weight": 0.0, "id": 2776332859, "level": 3}
+{"count": 1969, "name": "Galantamine", "weight": 0.0, "id": 2779056891, "level": 3}
+{"count": 2336, "name": "Geriatric psychiatry", "weight": 0.0, "id": 2776236459, "level": 3}
+{"count": 2320, "name": "Cognitive reserve", "weight": 0.0, "id": 67739388, "level": 3}
+{"count": 757, "name": "Pick's disease", "weight": 0.0, "id": 2777887643, "level": 3}
+{"count": 931, "name": "Mild cognitive impairment (MCI)", "weight": 0.0, "id": 2781457404, "level": 3}
+{"count": 299, "name": "National Adult Reading Test", "weight": 0.0, "id": 2780105673, "level": 3}
+{"count": 666, "name": "Posterior cortical atrophy", "weight": 0.0, "id": 2776228812, "level": 3}
+{"count": 2398, "name": "Montreal Cognitive Assessment", "weight": 0.0, "id": 2776632958, "level": 3}
+{"count": 896, "name": "Caregiver stress", "weight": 0.0, "id": 2776101926, "level": 3}
+{"count": 1266, "name": "Memory clinic", "weight": 0.0, "id": 2776656118, "level": 3}
+{"count": 119, "name": "Kufs disease", "weight": 0.0, "id": 2776626464, "level": 3}
+{"count": 531, "name": "Reminiscence therapy", "weight": 0.0, "id": 2781062137, "level": 3}
+{"count": 246, "name": "Yokukansan", "weight": 0.0, "id": 2780061622, "level": 3}
+{"count": 339, "name": "Pseudodementia", "weight": 0.0, "id": 2780410942, "level": 3}
+{"count": 186, "name": "Addenbrooke's cognitive examination", "weight": 0.0, "id": 2780952426, "level": 3}
+{"count": 173, "name": "Spaced retrieval", "weight": 0.0, "id": 2777865167, "level": 3}
+{"count": 233, "name": "Informant Questionnaire on Cognitive Decline in the Elderly", "weight": 0.0, "id": 2776572760, "level": 3}
+{"count": 1018, "name": "Mental status examination", "weight": 0.0, "id": 2779497073, "level": 3}
+{"count": 530, "name": "Prevention of dementia", "weight": 0.0, "id": 2776074789, "level": 3}
+{"count": 152, "name": "Life story work", "weight": 0.0, "id": 2777609909, "level": 3}
+{"count": 65, "name": "Alcohol-related dementia", "weight": 0.0, "id": 2779852504, "level": 3}
+{"count": 203, "name": "Alzheimer's disease biomarkers", "weight": 0.0, "id": 2781380890, "level": 3}
+{"count": 93, "name": "Hereditary diffuse leukoencephalopathy with spheroids", "weight": 0.0, "id": 2780495802, "level": 3}
+{"count": 62, "name": "Paratonia", "weight": 0.0, "id": 2780377418, "level": 3}
+{"count": 91, "name": "Validation therapy", "weight": 0.0, "id": 2778779043, "level": 3}
+{"count": 80, "name": "Souvenaid", "weight": 0.0, "id": 2781371727, "level": 3}
+{"count": 16, "name": "Viliuisk encephalomyelitis", "weight": 0.0, "id": 2781221680, "level": 3}
+{"count": 147, "name": "Abbreviated mental test score", "weight": 0.0, "id": 2777578640, "level": 3}
+{"count": 228, "name": "Tangentiality", "weight": 0.0, "id": 203689254, "level": 3}
+{"count": 229, "name": "Caring for people with dementia", "weight": 0.0, "id": 2780177918, "level": 3}
+{"count": 18, "name": "Leukoencephalopathy with neuroaxonal spheroids", "weight": 0.0, "id": 2780339980, "level": 3}

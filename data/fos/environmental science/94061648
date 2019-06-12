@@ -1,0 +1,38 @@
+{"count": 31332, "name": "Activated sludge", "weight": 10.0, "id": 2777730692, "level": 3}
+{"count": 26831, "name": "Chemical oxygen demand", "weight": 8.0, "id": 188287460, "level": 3}
+{"count": 12334, "name": "Industrial wastewater treatment", "weight": 3.0, "id": 44403221, "level": 3}
+{"count": 6984, "name": "Hydraulic retention time", "weight": 2.0, "id": 84250820, "level": 3}
+{"count": 8752, "name": "Membrane bioreactor", "weight": 2.0, "id": 2776266027, "level": 3}
+{"count": 8302, "name": "Constructed wetland", "weight": 2.0, "id": 2780367215, "level": 3}
+{"count": 4802, "name": "Electrocoagulation", "weight": 1.0, "id": 2777828583, "level": 3}
+{"count": 1792, "name": "Water reclamation", "weight": 0.0, "id": 2776849319, "level": 3}
+{"count": 4045, "name": "Septic tank", "weight": 1.0, "id": 2778680458, "level": 3}
+{"count": 1826, "name": "Trickling filter", "weight": 0.0, "id": 179113317, "level": 3}
+{"count": 1192, "name": "Stabilization pond", "weight": 0.0, "id": 2779283343, "level": 3}
+{"count": 1162, "name": "Rotating biological contactor", "weight": 0.0, "id": 81599089, "level": 3}
+{"count": 1542, "name": "Dissolved air flotation", "weight": 0.0, "id": 2778902904, "level": 3}
+{"count": 648, "name": "Reed bed", "weight": 0.0, "id": 2777604680, "level": 3}
+{"count": 3805, "name": "Reclaimed water", "weight": 1.0, "id": 2777493420, "level": 3}
+{"count": 1785, "name": "Greywater", "weight": 0.0, "id": 21955270, "level": 3}
+{"count": 905, "name": "Blackwater", "weight": 0.0, "id": 101682728, "level": 3}
+{"count": 864, "name": "Biotreatment", "weight": 0.0, "id": 2780553527, "level": 3}
+{"count": 1862, "name": "Secondary treatment", "weight": 0.0, "id": 2776306026, "level": 3}
+{"count": 976, "name": "Environmental impact of pharmaceuticals and personal care products", "weight": 0.0, "id": 147852310, "level": 3}
+{"count": 330, "name": "Septage", "weight": 0.0, "id": 2780797762, "level": 3}
+{"count": 234, "name": "Anaerobic lagoon", "weight": 0.0, "id": 2780547735, "level": 3}
+{"count": 878, "name": "Facultative lagoon", "weight": 0.0, "id": 139925424, "level": 3}
+{"count": 481, "name": "Grease trap", "weight": 0.0, "id": 2777882088, "level": 3}
+{"count": 483, "name": "Aerobic treatment system", "weight": 0.0, "id": 97920779, "level": 3}
+{"count": 78, "name": "Urban Waste Water Treatment Directive", "weight": 0.0, "id": 2781080343, "level": 3}
+{"count": 146, "name": "Agricultural wastewater treatment", "weight": 0.0, "id": 79303471, "level": 3}
+{"count": 66, "name": "Internal circulation reactor", "weight": 0.0, "id": 2779638610, "level": 3}
+{"count": 179, "name": "Population equivalent", "weight": 0.0, "id": 2781128188, "level": 3}
+{"count": 165, "name": "Publicly owned treatment works", "weight": 0.0, "id": 2780323005, "level": 3}
+{"count": 60, "name": "Sanitary sewer overflow", "weight": 0.0, "id": 2776950119, "level": 3}
+{"count": 177, "name": "Wastewater engineering", "weight": 0.0, "id": 2776299736, "level": 3}
+{"count": 67, "name": "Mound system", "weight": 0.0, "id": 45680448, "level": 3}
+{"count": 297, "name": "Induced gas flotation", "weight": 0.0, "id": 55526242, "level": 3}
+{"count": 20, "name": "Microalgal bacterial flocs", "weight": 0.0, "id": 2778085626, "level": 3}
+{"count": 309, "name": "Grinder pump", "weight": 0.0, "id": 10447210, "level": 3}
+{"count": 484, "name": "Effluent sewer", "weight": 0.0, "id": 28579673, "level": 3}
+{"count": 38, "name": "Holston Army Ammunition Plant", "weight": 0.0, "id": 2776744436, "level": 3}

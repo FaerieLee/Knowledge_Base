@@ -1,0 +1,9 @@
+{"count": 1262, "name": "Piconet", "weight": 7.0, "id": 171013185, "level": 4}
+{"count": 1735, "name": "Bluetooth Low Energy", "weight": 10.0, "id": 2776418194, "level": 4}
+{"count": 832, "name": "Scatternet", "weight": 4.0, "id": 252157, "level": 4}
+{"count": 394, "name": "OBject EXchange", "weight": 2.0, "id": 174037175, "level": 4}
+{"count": 24, "name": "Gaussian frequency-shift keying", "weight": 0.0, "id": 2780239118, "level": 4}
+{"count": 538, "name": "iBeacon", "weight": 3.0, "id": 2777698055, "level": 4}
+{"count": 379, "name": "Bluesnarfing", "weight": 2.0, "id": 179028808, "level": 4}
+{"count": 14, "name": "Asynchronous Connection-Less", "weight": 0.0, "id": 2777372136, "level": 4}
+{"count": 106, "name": "I-CubeX", "weight": 0.0, "id": 78997905, "level": 4}

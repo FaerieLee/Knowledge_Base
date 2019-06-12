@@ -1,0 +1,12 @@
+{"count": 3933, "name": "Quantum gate", "weight": 6.0, "id": 58849907, "level": 3}
+{"count": 614, "name": "Reversible computing", "weight": 0.0, "id": 20274610, "level": 3}
+{"count": 309, "name": "Quantum neural network", "weight": 0.0, "id": 2780728410, "level": 3}
+{"count": 29, "name": "Quantum image processing", "weight": 0.0, "id": 2780464117, "level": 3}
+{"count": 182, "name": "Quantum register", "weight": 0.0, "id": 2777813873, "level": 3}
+{"count": 184, "name": "Physics of computation", "weight": 0.0, "id": 130669043, "level": 3}
+{"count": 183, "name": "Quantum programming", "weight": 0.0, "id": 2780594989, "level": 3}
+{"count": 156, "name": "Quantum machine learning", "weight": 0.0, "id": 2779094486, "level": 3}
+{"count": 33, "name": "Orchestrated objective reduction", "weight": 0.0, "id": 2780633498, "level": 3}
+{"count": 101, "name": "Quantum machine", "weight": 0.0, "id": 2777552228, "level": 3}
+{"count": 23, "name": "Kane quantum computer", "weight": 0.0, "id": 2780868203, "level": 3}
+{"count": 6162, "name": "Quantum phase estimation algorithm", "weight": 10.0, "id": 192122513, "level": 3}

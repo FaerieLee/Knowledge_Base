@@ -1,0 +1,16 @@
+{"count": 1183, "name": "Displacement ventilation", "weight": 4.0, "id": 2776668771, "level": 3}
+{"count": 1715, "name": "Variable air volume", "weight": 7.0, "id": 51176869, "level": 3}
+{"count": 1218, "name": "Stack effect", "weight": 5.0, "id": 56550808, "level": 3}
+{"count": 2394, "name": "Mass flow sensor", "weight": 10.0, "id": 22922584, "level": 3}
+{"count": 2113, "name": "Constant air volume", "weight": 8.0, "id": 53689896, "level": 3}
+{"count": 245, "name": "Underfloor air distribution", "weight": 1.0, "id": 2779463659, "level": 3}
+{"count": 177, "name": "Kitchen ventilation", "weight": 0.0, "id": 2777963065, "level": 3}
+{"count": 151, "name": "Clean Air Delivery Rate", "weight": 0.0, "id": 175371373, "level": 3}
+{"count": 73, "name": "Underground mine ventilation", "weight": 0.0, "id": 2776793659, "level": 3}
+{"count": 748, "name": "Air flow meter", "weight": 3.0, "id": 2779511240, "level": 3}
+{"count": 182, "name": "Actual cubic feet per minute", "weight": 0.0, "id": 55342973, "level": 3}
+{"count": 77, "name": "Slurry pit", "weight": 0.0, "id": 2776478683, "level": 3}
+{"count": 632, "name": "Pneumatic filter", "weight": 2.0, "id": 44309054, "level": 3}
+{"count": 181, "name": "Air flow bench", "weight": 0.0, "id": 49639426, "level": 3}
+{"count": 25, "name": "Specific volume", "weight": 0.0, "id": 44434619, "level": 3}
+{"count": 17, "name": "Suction excavator", "weight": 0.0, "id": 2780325491, "level": 3}

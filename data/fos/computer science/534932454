@@ -1,0 +1,9 @@
+{"count": 5623, "name": "File sharing", "weight": 10.0, "id": 551386961, "level": 3}
+{"count": 2309, "name": "Distributed hash table", "weight": 4.0, "id": 2780224649, "level": 3}
+{"count": 2358, "name": "BitTorrent", "weight": 4.0, "id": 520566109, "level": 3}
+{"count": 101, "name": "Peer-to-Peer Protocol", "weight": 0.0, "id": 2777241580, "level": 3}
+{"count": 449, "name": "Chord (peer-to-peer)", "weight": 0.0, "id": 194147245, "level": 3}
+{"count": 127, "name": "Skip graph", "weight": 0.0, "id": 2779051267, "level": 3}
+{"count": 549, "name": "Dead Peer Detection", "weight": 0.0, "id": 89645440, "level": 3}
+{"count": 16, "name": "PlanetSim", "weight": 0.0, "id": 2781227079, "level": 3}
+{"count": 32, "name": "P2P caching", "weight": 0.0, "id": 2776392923, "level": 3}

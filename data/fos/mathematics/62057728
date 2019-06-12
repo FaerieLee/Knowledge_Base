@@ -1,0 +1,18 @@
+{"count": 1105, "name": "Online Certificate Status Protocol", "weight": 7.0, "id": 97423836, "level": 5}
+{"count": 787, "name": "X.509", "weight": 5.0, "id": 104075073, "level": 5}
+{"count": 673, "name": "Chain of trust", "weight": 4.0, "id": 192858625, "level": 5}
+{"count": 1025, "name": "Implicit certificate", "weight": 7.0, "id": 67405866, "level": 5}
+{"count": 844, "name": "Certificate policy", "weight": 5.0, "id": 177250674, "level": 5}
+{"count": 876, "name": "Certification path validation algorithm", "weight": 6.0, "id": 195982407, "level": 5}
+{"count": 1420, "name": "Self-signed certificate", "weight": 9.0, "id": 68424977, "level": 5}
+{"count": 263, "name": "Hypertext Transfer Protocol over Secure Socket Layer", "weight": 1.0, "id": 95122627, "level": 5}
+{"count": 138, "name": "Client certificate", "weight": 0.0, "id": 2776332951, "level": 5}
+{"count": 496, "name": "Certification Practice Statement", "weight": 3.0, "id": 77974619, "level": 5}
+{"count": 69, "name": "Extended Validation Certificate", "weight": 0.0, "id": 148409869, "level": 5}
+{"count": 81, "name": "Secure Hypertext Transfer Protocol", "weight": 0.0, "id": 35710039, "level": 5}
+{"count": 77, "name": "Intermediate certificate authorities", "weight": 0.0, "id": 193226445, "level": 5}
+{"count": 1435, "name": "Certificate signing request", "weight": 10.0, "id": 178545355, "level": 5}
+{"count": 237, "name": "Certificate Management over CMS", "weight": 1.0, "id": 77242001, "level": 5}
+{"count": 175, "name": "Certificate server", "weight": 1.0, "id": 170933480, "level": 5}
+{"count": 144, "name": "OCSP stapling", "weight": 1.0, "id": 112514388, "level": 5}
+{"count": 38, "name": "Private Communications Technology", "weight": 0.0, "id": 78243114, "level": 5}

@@ -1,0 +1,200 @@
+{"count": 135530, "name": "Young adult", "weight": 10.0, "id": 205545832, "level": 2}
+{"count": 49200, "name": "Psychometrics", "weight": 3.0, "id": 171606756, "level": 2}
+{"count": 101502, "name": "Academic achievement", "weight": 7.0, "id": 2781206393, "level": 2}
+{"count": 33779, "name": "Test validity", "weight": 2.0, "id": 116211729, "level": 2}
+{"count": 18314, "name": "Operant conditioning", "weight": 1.0, "id": 163270606, "level": 2}
+{"count": 35645, "name": "Prefrontal cortex", "weight": 2.0, "id": 2781195155, "level": 2}
+{"count": 17664, "name": "Social perception", "weight": 1.0, "id": 129484327, "level": 2}
+{"count": 44502, "name": "Child development", "weight": 3.0, "id": 109260823, "level": 2}
+{"count": 75703, "name": "Autism", "weight": 5.0, "id": 205778803, "level": 2}
+{"count": 31490, "name": "Rating scale", "weight": 2.0, "id": 83849319, "level": 2}
+{"count": 10195, "name": "Brain mapping", "weight": 0.0, "id": 50231774, "level": 2}
+{"count": 19347, "name": "Frontal lobe", "weight": 1.0, "id": 2777127467, "level": 2}
+{"count": 34323, "name": "Nonverbal communication", "weight": 2.0, "id": 145633318, "level": 2}
+{"count": 64430, "name": "Aggression", "weight": 4.0, "id": 2779448149, "level": 2}
+{"count": 26235, "name": "Learning theory", "weight": 1.0, "id": 92393732, "level": 2}
+{"count": 31537, "name": "Construct validity", "weight": 2.0, "id": 49453240, "level": 2}
+{"count": 43351, "name": "Learning disability", "weight": 3.0, "id": 15107229, "level": 2}
+{"count": 15509, "name": "Vigilance (psychology)", "weight": 1.0, "id": 192769605, "level": 2}
+{"count": 15583, "name": "Neuroplasticity", "weight": 1.0, "id": 47611674, "level": 2}
+{"count": 32453, "name": "Attention deficit hyperactivity disorder", "weight": 2.0, "id": 2780783007, "level": 2}
+{"count": 12466, "name": "Self-control", "weight": 0.0, "id": 32362775, "level": 2}
+{"count": 17784, "name": "Language development", "weight": 1.0, "id": 2778073708, "level": 2}
+{"count": 43597, "name": "Early childhood education", "weight": 3.0, "id": 178229462, "level": 2}
+{"count": 18733, "name": "Intelligence quotient", "weight": 1.0, "id": 166047926, "level": 2}
+{"count": 21681, "name": "Aptitude", "weight": 1.0, "id": 48561166, "level": 2}
+{"count": 9724, "name": "Language disorder", "weight": 0.0, "id": 2777102477, "level": 2}
+{"count": 15606, "name": "Event-related potential", "weight": 1.0, "id": 67359045, "level": 2}
+{"count": 50376, "name": "Early childhood", "weight": 3.0, "id": 2777082460, "level": 2}
+{"count": 17799, "name": "Dyslexia", "weight": 1.0, "id": 506058694, "level": 2}
+{"count": 11644, "name": "Posterior parietal cortex", "weight": 0.0, "id": 6757342, "level": 2}
+{"count": 17467, "name": "Motor skill", "weight": 1.0, "id": 169976356, "level": 2}
+{"count": 3222, "name": "Domain specificity", "weight": 0.0, "id": 2778848085, "level": 2}
+{"count": 10595, "name": "Emotionality", "weight": 0.0, "id": 168862018, "level": 2}
+{"count": 28408, "name": "Arousal", "weight": 2.0, "id": 36951298, "level": 2}
+{"count": 11194, "name": "Context effect", "weight": 0.0, "id": 76188268, "level": 2}
+{"count": 9259, "name": "Laterality", "weight": 0.0, "id": 171508891, "level": 2}
+{"count": 3049, "name": "Sex characteristics", "weight": 0.0, "id": 2778945730, "level": 2}
+{"count": 9406, "name": "Long-term memory", "weight": 0.0, "id": 24590219, "level": 2}
+{"count": 29650, "name": "Functional magnetic resonance imaging", "weight": 2.0, "id": 2779226451, "level": 2}
+{"count": 20655, "name": "Lateralization of brain function", "weight": 1.0, "id": 79840881, "level": 2}
+{"count": 59773, "name": "Active learning", "weight": 4.0, "id": 26258499, "level": 2}
+{"count": 14855, "name": "Predictive validity", "weight": 1.0, "id": 20685875, "level": 2}
+{"count": 7179, "name": "Parietal lobe", "weight": 0.0, "id": 2778180168, "level": 2}
+{"count": 9604, "name": "Neuroscience of multilingualism", "weight": 0.0, "id": 49876356, "level": 2}
+{"count": 11750, "name": "Middle age", "weight": 0.0, "id": 2779758577, "level": 2}
+{"count": 5235, "name": "Cingulate cortex", "weight": 0.0, "id": 2781210436, "level": 2}
+{"count": 15855, "name": "Peer group", "weight": 1.0, "id": 128593788, "level": 2}
+{"count": 9019, "name": "Anterior cingulate cortex", "weight": 0.0, "id": 2778402161, "level": 2}
+{"count": 20506, "name": "Educational psychology", "weight": 1.0, "id": 134895398, "level": 2}
+{"count": 22061, "name": "Aphasia", "weight": 1.0, "id": 2779422653, "level": 2}
+{"count": 16000, "name": "Prosocial behavior", "weight": 1.0, "id": 158608086, "level": 2}
+{"count": 7678, "name": "Functional neuroimaging", "weight": 0.0, "id": 52338299, "level": 2}
+{"count": 17899, "name": "Impulsivity", "weight": 1.0, "id": 2780319597, "level": 2}
+{"count": 10591, "name": "Motor learning", "weight": 0.0, "id": 107690735, "level": 2}
+{"count": 7642, "name": "Discrimination learning", "weight": 0.0, "id": 196178793, "level": 2}
+{"count": 12009, "name": "Amnesia", "weight": 0.0, "id": 2778615406, "level": 2}
+{"count": 6290, "name": "Psychophysiology", "weight": 0.0, "id": 23677625, "level": 2}
+{"count": 18138, "name": "Life course approach", "weight": 1.0, "id": 1691868, "level": 2}
+{"count": 9063, "name": "Skin conductance", "weight": 0.0, "id": 111902132, "level": 2}
+{"count": 26830, "name": "Imitation", "weight": 1.0, "id": 126388530, "level": 2}
+{"count": 13675, "name": "Resting state fMRI", "weight": 1.0, "id": 66324658, "level": 2}
+{"count": 4258, "name": "Mirror neuron", "weight": 0.0, "id": 136617856, "level": 2}
+{"count": 24038, "name": "Emotional intelligence", "weight": 1.0, "id": 174107131, "level": 2}
+{"count": 33274, "name": "Constructivism (philosophy of education)", "weight": 2.0, "id": 11620657, "level": 2}
+{"count": 22820, "name": "Validity", "weight": 1.0, "id": 70364389, "level": 2}
+{"count": 20794, "name": "Achievement test", "weight": 1.0, "id": 81369262, "level": 2}
+{"count": 4236, "name": "Premotor cortex", "weight": 0.0, "id": 2779534489, "level": 2}
+{"count": 5337, "name": "Cerebral hemisphere", "weight": 0.0, "id": 2779486818, "level": 2}
+{"count": 7723, "name": "Item analysis", "weight": 0.0, "id": 2778263599, "level": 2}
+{"count": 12000, "name": "Emotional expression", "weight": 0.0, "id": 143110190, "level": 2}
+{"count": 19906, "name": "Social competence", "weight": 1.0, "id": 25148115, "level": 2}
+{"count": 8714, "name": "Visual memory", "weight": 0.0, "id": 178278151, "level": 2}
+{"count": 15969, "name": "Sibling", "weight": 1.0, "id": 2776194465, "level": 2}
+{"count": 12210, "name": "Habituation", "weight": 0.0, "id": 50610925, "level": 2}
+{"count": 6701, "name": "Birth order", "weight": 0.0, "id": 2779209633, "level": 2}
+{"count": 6143, "name": "Adaptive behavior", "weight": 0.0, "id": 68784500, "level": 2}
+{"count": 1841, "name": "Sociometry", "weight": 0.0, "id": 165305691, "level": 2}
+{"count": 3732, "name": "Imprinting (psychology)", "weight": 0.0, "id": 94715292, "level": 2}
+{"count": 9603, "name": "Erikson's stages of psychosocial development", "weight": 0.0, "id": 127158533, "level": 2}
+{"count": 6649, "name": "Brain size", "weight": 0.0, "id": 65835030, "level": 2}
+{"count": 5266, "name": "Evolutionary psychology", "weight": 0.0, "id": 92150231, "level": 2}
+{"count": 3202, "name": "Voxel-based morphometry", "weight": 0.0, "id": 200134340, "level": 2}
+{"count": 3122, "name": "Adult development", "weight": 0.0, "id": 117250062, "level": 2}
+{"count": 4382, "name": "Inhibitory control", "weight": 0.0, "id": 2778796910, "level": 2}
+{"count": 7158, "name": "Transfer of learning", "weight": 0.0, "id": 150899416, "level": 2}
+{"count": 26641, "name": "Rigidity (psychology)", "weight": 1.0, "id": 2776557470, "level": 2}
+{"count": 6748, "name": "Parenting styles", "weight": 0.0, "id": 2779661023, "level": 2}
+{"count": 12986, "name": "Reflective practice", "weight": 0.0, "id": 132413290, "level": 2}
+{"count": 4932, "name": "Mismatch negativity", "weight": 0.0, "id": 21715850, "level": 2}
+{"count": 7503, "name": "Test score", "weight": 0.0, "id": 98347192, "level": 2}
+{"count": 3404, "name": "Behavioural genetics", "weight": 0.0, "id": 53500534, "level": 2}
+{"count": 11274, "name": "Wechsler Adult Intelligence Scale", "weight": 0.0, "id": 89798072, "level": 2}
+{"count": 5075, "name": "Conceptual change", "weight": 0.0, "id": 2781329482, "level": 2}
+{"count": 4313, "name": "Motor coordination", "weight": 0.0, "id": 113062710, "level": 2}
+{"count": 10341, "name": "Rasch model", "weight": 0.0, "id": 101266164, "level": 2}
+{"count": 26008, "name": "Transformative learning", "weight": 1.0, "id": 70587473, "level": 2}
+{"count": 3473, "name": "Stereotypy", "weight": 0.0, "id": 2779459141, "level": 2}
+{"count": 2539, "name": "Fusiform gyrus", "weight": 0.0, "id": 2777655717, "level": 2}
+{"count": 11921, "name": "Attachment theory", "weight": 0.0, "id": 119477188, "level": 2}
+{"count": 3413, "name": "Superior temporal gyrus", "weight": 0.0, "id": 2777497123, "level": 2}
+{"count": 8687, "name": "Gender role", "weight": 0.0, "id": 2781403550, "level": 2}
+{"count": 4202, "name": "Child Behavior Checklist", "weight": 0.0, "id": 2781192327, "level": 2}
+{"count": 3762, "name": "Specific language impairment", "weight": 0.0, "id": 2777395276, "level": 2}
+{"count": 3622, "name": "Situated learning", "weight": 0.0, "id": 200380349, "level": 2}
+{"count": 4458, "name": "Inferior frontal gyrus", "weight": 0.0, "id": 2781423396, "level": 2}
+{"count": 947, "name": "Broca's area", "weight": 0.0, "id": 2778617256, "level": 2}
+{"count": 8444, "name": "Stuttering", "weight": 0.0, "id": 2781371259, "level": 2}
+{"count": 3426, "name": "Environmental enrichment", "weight": 0.0, "id": 53927964, "level": 2}
+{"count": 2615, "name": "Helping behavior", "weight": 0.0, "id": 207546712, "level": 2}
+{"count": 6531, "name": "Rumination", "weight": 0.0, "id": 2776060345, "level": 2}
+{"count": 15741, "name": "Brain activity and meditation", "weight": 1.0, "id": 120843803, "level": 2}
+{"count": 1423, "name": "Inferior parietal lobule", "weight": 0.0, "id": 2777944498, "level": 2}
+{"count": 4560, "name": "Behavioral neuroscience", "weight": 0.0, "id": 138917182, "level": 2}
+{"count": 7125, "name": "Theory of multiple intelligences", "weight": 0.0, "id": 193254068, "level": 2}
+{"count": 2496, "name": "Williams syndrome", "weight": 0.0, "id": 2781240822, "level": 2}
+{"count": 3348, "name": "Spatial intelligence", "weight": 0.0, "id": 155911833, "level": 2}
+{"count": 1586, "name": "Social rejection", "weight": 0.0, "id": 544768975, "level": 2}
+{"count": 15321, "name": "Learning styles", "weight": 1.0, "id": 2781285556, "level": 2}
+{"count": 2340, "name": "Ecological validity", "weight": 0.0, "id": 190210774, "level": 2}
+{"count": 11741, "name": "Stereotypy (non-human)", "weight": 0.0, "id": 136865744, "level": 2}
+{"count": 4117, "name": "Observational learning", "weight": 0.0, "id": 102483320, "level": 2}
+{"count": 1600, "name": "Sensory deprivation", "weight": 0.0, "id": 2779083617, "level": 2}
+{"count": 4291, "name": "Dichotic listening", "weight": 0.0, "id": 111060362, "level": 2}
+{"count": 2066, "name": "Mental age", "weight": 0.0, "id": 103879163, "level": 2}
+{"count": 4221, "name": "Ethology", "weight": 0.0, "id": 175909808, "level": 2}
+{"count": 3850, "name": "Multiple disabilities", "weight": 0.0, "id": 2780228444, "level": 2}
+{"count": 1549, "name": "Social facilitation", "weight": 0.0, "id": 37310437, "level": 2}
+{"count": 1963, "name": "Middle temporal gyrus", "weight": 0.0, "id": 2780621315, "level": 2}
+{"count": 1959, "name": "Shaping", "weight": 0.0, "id": 142311740, "level": 2}
+{"count": 1319, "name": "Motor planning", "weight": 0.0, "id": 2780576329, "level": 2}
+{"count": 3136, "name": "Knowledge building", "weight": 0.0, "id": 2778484570, "level": 2}
+{"count": 3276, "name": "Augmentative and alternative communication", "weight": 0.0, "id": 2778121785, "level": 2}
+{"count": 2114, "name": "Neurolinguistics", "weight": 0.0, "id": 155614148, "level": 2}
+{"count": 11328, "name": "Generalizability theory", "weight": 0.0, "id": 27158222, "level": 2}
+{"count": 1537, "name": "Planum temporale", "weight": 0.0, "id": 125384106, "level": 2}
+{"count": 4431, "name": "Apraxia", "weight": 0.0, "id": 2776818353, "level": 2}
+{"count": 3476, "name": "Eye contact", "weight": 0.0, "id": 183553116, "level": 2}
+{"count": 2158, "name": "Attention span", "weight": 0.0, "id": 41606952, "level": 2}
+{"count": 1630, "name": "Egocentrism", "weight": 0.0, "id": 159336430, "level": 2}
+{"count": 3117, "name": "Social intelligence", "weight": 0.0, "id": 45801056, "level": 2}
+{"count": 650, "name": "Epigenesis", "weight": 0.0, "id": 179463898, "level": 2}
+{"count": 2535, "name": "Suggestibility", "weight": 0.0, "id": 74385725, "level": 2}
+{"count": 2927, "name": "Naturalistic observation", "weight": 0.0, "id": 167699689, "level": 2}
+{"count": 4809, "name": "Semantic differential", "weight": 0.0, "id": 43020497, "level": 2}
+{"count": 2740, "name": "Place attachment", "weight": 0.0, "id": 42942097, "level": 2}
+{"count": 2394, "name": "Androgyny", "weight": 0.0, "id": 2778374289, "level": 2}
+{"count": 6232, "name": "Individuation", "weight": 0.0, "id": 2779148493, "level": 2}
+{"count": 1252, "name": "Allostatic load", "weight": 0.0, "id": 187150481, "level": 2}
+{"count": 8461, "name": "Toddler", "weight": 0.0, "id": 2778242525, "level": 2}
+{"count": 2213, "name": "Zone of proximal development", "weight": 0.0, "id": 12338191, "level": 2}
+{"count": 2162, "name": "Reading motivation", "weight": 0.0, "id": 2781040141, "level": 2}
+{"count": 1316, "name": "Physiological psychology", "weight": 0.0, "id": 145442124, "level": 2}
+{"count": 1637, "name": "Agnosia", "weight": 0.0, "id": 530569494, "level": 2}
+{"count": 1939, "name": "Perseveration", "weight": 0.0, "id": 2780769854, "level": 2}
+{"count": 3254, "name": "Cultural psychology", "weight": 0.0, "id": 2778560987, "level": 2}
+{"count": 1222, "name": "Motor program", "weight": 0.0, "id": 2778332238, "level": 2}
+{"count": 2505, "name": "Stepfamily", "weight": 0.0, "id": 57159822, "level": 2}
+{"count": 4354, "name": "Disinhibition", "weight": 0.0, "id": 2776599063, "level": 2}
+{"count": 1791, "name": "Speech disorder", "weight": 0.0, "id": 2779642007, "level": 2}
+{"count": 2299, "name": "Peer learning", "weight": 0.0, "id": 2777776026, "level": 2}
+{"count": 4288, "name": "Precuneus", "weight": 0.0, "id": 2781441883, "level": 2}
+{"count": 1493, "name": "Comparative psychology", "weight": 0.0, "id": 194896165, "level": 2}
+{"count": 31648, "name": "Cronbach's alpha", "weight": 2.0, "id": 106906290, "level": 2}
+{"count": 8151, "name": "Rorschach test", "weight": 0.0, "id": 105786092, "level": 2}
+{"count": 939, "name": "Inspection time", "weight": 0.0, "id": 2780407802, "level": 2}
+{"count": 667, "name": "Maternal deprivation", "weight": 0.0, "id": 123202247, "level": 2}
+{"count": 3781, "name": "Objective test", "weight": 0.0, "id": 90697598, "level": 2}
+{"count": 1272, "name": "Engram", "weight": 0.0, "id": 28093023, "level": 2}
+{"count": 8653, "name": "Religious identity", "weight": 0.0, "id": 50718005, "level": 2}
+{"count": 2289, "name": "Mentalization", "weight": 0.0, "id": 18591518, "level": 2}
+{"count": 663, "name": "Allostasis", "weight": 0.0, "id": 157541749, "level": 2}
+{"count": 5092, "name": "Ingroups and outgroups", "weight": 0.0, "id": 107344746, "level": 2}
+{"count": 3338, "name": "Successful aging", "weight": 0.0, "id": 2778175527, "level": 2}
+{"count": 2042, "name": "Constructionism", "weight": 0.0, "id": 2856821, "level": 2}
+{"count": 547, "name": "Psychopedagogy", "weight": 0.0, "id": 2781163068, "level": 2}
+{"count": 1054, "name": "Vocal learning", "weight": 0.0, "id": 2776575663, "level": 2}
+{"count": 24576, "name": "Genius", "weight": 1.0, "id": 118563197, "level": 2}
+{"count": 1874, "name": "Social neuroscience", "weight": 0.0, "id": 170320452, "level": 2}
+{"count": 54560, "name": "Girl", "weight": 4.0, "id": 2778047097, "level": 2}
+{"count": 1370, "name": "Child psychotherapy", "weight": 0.0, "id": 15471489, "level": 2}
+{"count": 1166, "name": "Anosognosia", "weight": 0.0, "id": 2781111876, "level": 2}
+{"count": 3758, "name": "Youth culture", "weight": 0.0, "id": 2776752563, "level": 2}
+{"count": 517, "name": "Emotional security", "weight": 0.0, "id": 2776914023, "level": 2}
+{"count": 921, "name": "Thematic apperception test", "weight": 0.0, "id": 2777892571, "level": 2}
+{"count": 1312, "name": "Goal pursuit", "weight": 0.0, "id": 2777536939, "level": 2}
+{"count": 699, "name": "Diathesis\u2013stress model", "weight": 0.0, "id": 101630550, "level": 2}
+{"count": 6727, "name": "Gifted education", "weight": 0.0, "id": 72564820, "level": 2}
+{"count": 2152, "name": "Brain morphometry", "weight": 0.0, "id": 145940234, "level": 2}
+{"count": 611, "name": "Visual spatial attention", "weight": 0.0, "id": 2776310537, "level": 2}
+{"count": 1686, "name": "Classroom climate", "weight": 0.0, "id": 2780191437, "level": 2}
+{"count": 9808, "name": "Neural correlates of consciousness", "weight": 0.0, "id": 129564537, "level": 2}
+{"count": 1317, "name": "Neophobia", "weight": 0.0, "id": 2778358550, "level": 2}
+{"count": 1902, "name": "Precentral gyrus", "weight": 0.0, "id": 2776286752, "level": 2}
+{"count": 3307, "name": "Identity crisis", "weight": 0.0, "id": 2780714602, "level": 2}
+{"count": 1731, "name": "Generativity", "weight": 0.0, "id": 162130032, "level": 2}
+{"count": 1520, "name": "Dynamic assessment", "weight": 0.0, "id": 2780513070, "level": 2}
+{"count": 865, "name": "T-maze", "weight": 0.0, "id": 109344038, "level": 2}
+{"count": 1458, "name": "Angular gyrus", "weight": 0.0, "id": 2777470907, "level": 2}
+{"count": 1795, "name": "Echoic memory", "weight": 0.0, "id": 11626679, "level": 2}
+{"count": 6005, "name": "Human intelligence", "weight": 0.0, "id": 105409693, "level": 2}

@@ -1,0 +1,16 @@
+{"count": 20701, "name": "Current transformer", "weight": 10.0, "id": 133770746, "level": 3}
+{"count": 9144, "name": "Transformer oil", "weight": 4.0, "id": 181335627, "level": 3}
+{"count": 6802, "name": "Inrush current", "weight": 3.0, "id": 23340480, "level": 3}
+{"count": 6443, "name": "Leakage inductance", "weight": 3.0, "id": 32976094, "level": 3}
+{"count": 1339, "name": "Ferroresonance in electricity networks", "weight": 0.0, "id": 101382669, "level": 3}
+{"count": 17474, "name": "Distribution transformer", "weight": 8.0, "id": 117323899, "level": 3}
+{"count": 1517, "name": "Electrical insulation paper", "weight": 0.0, "id": 162387780, "level": 3}
+{"count": 514, "name": "Short-circuit test", "weight": 0.0, "id": 2776822643, "level": 3}
+{"count": 348, "name": "Cellulose insulation", "weight": 0.0, "id": 157906377, "level": 3}
+{"count": 188, "name": "Planar transformers", "weight": 0.0, "id": 2777345200, "level": 3}
+{"count": 936, "name": "Center tap", "weight": 0.0, "id": 83514697, "level": 3}
+{"count": 139, "name": "Compensation winding", "weight": 0.0, "id": 2776141590, "level": 3}
+{"count": 11, "name": "Padmount transformer", "weight": 0.0, "id": 2778026141, "level": 3}
+{"count": 76, "name": "Buchholz relay", "weight": 0.0, "id": 12681628, "level": 3}
+{"count": 17, "name": "High-leg delta", "weight": 0.0, "id": 24552278, "level": 3}
+{"count": 15, "name": "Condition monitoring of transformers", "weight": 0.0, "id": 2779630447, "level": 3}

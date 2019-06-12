@@ -1,0 +1,191 @@
+{"count": 107374, "name": "Diesel fuel", "weight": 5.0, "id": 138171918, "level": 2}
+{"count": 205709, "name": "Internal combustion engine", "weight": 10.0, "id": 511840579, "level": 2}
+{"count": 79889, "name": "Diesel engine", "weight": 3.0, "id": 2780804531, "level": 2}
+{"count": 118757, "name": "Automotive industry", "weight": 5.0, "id": 526921623, "level": 2}
+{"count": 47780, "name": "Fuel efficiency", "weight": 2.0, "id": 45882903, "level": 2}
+{"count": 21384, "name": "Vehicle dynamics", "weight": 1.0, "id": 79487989, "level": 2}
+{"count": 128907, "name": "Truck", "weight": 6.0, "id": 52121051, "level": 2}
+{"count": 170920, "name": "Suspension (vehicle)", "weight": 8.0, "id": 171878239, "level": 2}
+{"count": 86638, "name": "Exhaust gas", "weight": 4.0, "id": 2779139147, "level": 2}
+{"count": 37497, "name": "Navigation system", "weight": 1.0, "id": 2777891301, "level": 2}
+{"count": 15406, "name": "Hybrid vehicle", "weight": 0.0, "id": 516807790, "level": 2}
+{"count": 15265, "name": "Stirling engine", "weight": 0.0, "id": 27134321, "level": 2}
+{"count": 10847, "name": "Jet engine", "weight": 0.0, "id": 39643299, "level": 2}
+{"count": 10091, "name": "Dynamometer", "weight": 0.0, "id": 102284421, "level": 2}
+{"count": 95853, "name": "Axle", "weight": 4.0, "id": 129727815, "level": 2}
+{"count": 7252, "name": "Airframe", "weight": 0.0, "id": 205167488, "level": 2}
+{"count": 84151, "name": "Elevator", "weight": 4.0, "id": 147021018, "level": 2}
+{"count": 148054, "name": "Brake", "weight": 7.0, "id": 2780999251, "level": 2}
+{"count": 7382, "name": "Turbofan", "weight": 0.0, "id": 110050840, "level": 2}
+{"count": 3709, "name": "Lifting equipment", "weight": 0.0, "id": 558441949, "level": 2}
+{"count": 5574, "name": "Regenerative brake", "weight": 0.0, "id": 162380856, "level": 2}
+{"count": 6125, "name": "Aircraft maintenance", "weight": 0.0, "id": 107545201, "level": 2}
+{"count": 2972, "name": "Zero emission", "weight": 0.0, "id": 118334743, "level": 2}
+{"count": 3055, "name": "Automobile handling", "weight": 0.0, "id": 148381915, "level": 2}
+{"count": 45547, "name": "Tractor", "weight": 2.0, "id": 2780427559, "level": 2}
+{"count": 5893, "name": "Gas engine", "weight": 0.0, "id": 2780611706, "level": 2}
+{"count": 47386, "name": "Crash", "weight": 2.0, "id": 183469790, "level": 2}
+{"count": 7031, "name": "Rolling resistance", "weight": 0.0, "id": 77624028, "level": 2}
+{"count": 5917, "name": "Turbojet", "weight": 0.0, "id": 2780549525, "level": 2}
+{"count": 3626, "name": "Active safety", "weight": 0.0, "id": 127757376, "level": 2}
+{"count": 3259, "name": "Vehicle engineering", "weight": 0.0, "id": 161133936, "level": 2}
+{"count": 6264, "name": "Landing gear", "weight": 0.0, "id": 2779688405, "level": 2}
+{"count": 56504, "name": "Chassis", "weight": 2.0, "id": 512993513, "level": 2}
+{"count": 6120, "name": "Advanced driver assistance systems", "weight": 0.0, "id": 87833898, "level": 2}
+{"count": 4625, "name": "Cold start (automotive)", "weight": 0.0, "id": 2778956030, "level": 2}
+{"count": 2113, "name": "Turboprop", "weight": 0.0, "id": 43227947, "level": 2}
+{"count": 6820, "name": "Auxiliary power unit", "weight": 0.0, "id": 161511644, "level": 2}
+{"count": 14265, "name": "Bogie", "weight": 0.0, "id": 123045823, "level": 2}
+{"count": 25630, "name": "Steering wheel", "weight": 1.0, "id": 2780354894, "level": 2}
+{"count": 15496, "name": "Seat belt", "weight": 0.0, "id": 2777639670, "level": 2}
+{"count": 4686, "name": "Maglev", "weight": 0.0, "id": 196781063, "level": 2}
+{"count": 25335, "name": "Starter", "weight": 1.0, "id": 2777176278, "level": 2}
+{"count": 35824, "name": "Trailer", "weight": 1.0, "id": 2779101595, "level": 2}
+{"count": 11606, "name": "Muffler", "weight": 0.0, "id": 125853085, "level": 2}
+{"count": 6030, "name": "Cruise control", "weight": 0.0, "id": 113168747, "level": 2}
+{"count": 4837, "name": "Engine power", "weight": 0.0, "id": 2779876931, "level": 2}
+{"count": 1553, "name": "Environmental control system", "weight": 0.0, "id": 10612715, "level": 2}
+{"count": 11698, "name": "Automotive engine", "weight": 0.0, "id": 56238396, "level": 2}
+{"count": 1061, "name": "Aquaplaning", "weight": 0.0, "id": 33665396, "level": 2}
+{"count": 7156, "name": "Rollover", "weight": 0.0, "id": 157406491, "level": 2}
+{"count": 2707, "name": "Steam engine", "weight": 0.0, "id": 2776377115, "level": 2}
+{"count": 3937, "name": "Electric locomotive", "weight": 0.0, "id": 2778469430, "level": 2}
+{"count": 1600, "name": "Vehicle inspection", "weight": 0.0, "id": 2776019820, "level": 2}
+{"count": 22425, "name": "Airbag", "weight": 1.0, "id": 2780235499, "level": 2}
+{"count": 2360, "name": "Power take-off", "weight": 0.0, "id": 2779227238, "level": 2}
+{"count": 395, "name": "Air Transport Network", "weight": 0.0, "id": 2780124536, "level": 2}
+{"count": 26654, "name": "Fuel tank", "weight": 1.0, "id": 38673314, "level": 2}
+{"count": 3731, "name": "Injection pump", "weight": 0.0, "id": 2779745222, "level": 2}
+{"count": 1854, "name": "Road traffic safety", "weight": 0.0, "id": 2777636896, "level": 2}
+{"count": 15585, "name": "Towing", "weight": 0.0, "id": 23927387, "level": 2}
+{"count": 3477, "name": "Horsepower", "weight": 0.0, "id": 47980062, "level": 2}
+{"count": 39908, "name": "Throttle", "weight": 1.0, "id": 72971556, "level": 2}
+{"count": 3366, "name": "Derailment", "weight": 0.0, "id": 197090313, "level": 2}
+{"count": 6797, "name": "Ball joint", "weight": 0.0, "id": 129531949, "level": 2}
+{"count": 1539, "name": "Driving test", "weight": 0.0, "id": 2777745276, "level": 2}
+{"count": 738, "name": "Alternative fuel vehicle", "weight": 0.0, "id": 13763315, "level": 2}
+{"count": 671, "name": "Risk compensation", "weight": 0.0, "id": 2781292049, "level": 2}
+{"count": 2574, "name": "Volumetric efficiency", "weight": 0.0, "id": 38414747, "level": 2}
+{"count": 1761, "name": "Turbopump", "weight": 0.0, "id": 2778292705, "level": 2}
+{"count": 4975, "name": "Chain drive", "weight": 0.0, "id": 97637500, "level": 2}
+{"count": 25508, "name": "Reversing", "weight": 1.0, "id": 2781085045, "level": 2}
+{"count": 4772, "name": "Haulage", "weight": 0.0, "id": 2778325830, "level": 2}
+{"count": 2677, "name": "Heavy equipment", "weight": 0.0, "id": 2780946774, "level": 2}
+{"count": 5895, "name": "Fuel filter", "weight": 0.0, "id": 179975769, "level": 2}
+{"count": 4004, "name": "Monorail", "weight": 0.0, "id": 180806031, "level": 2}
+{"count": 4734, "name": "Thrust reversal", "weight": 0.0, "id": 124055728, "level": 2}
+{"count": 1238, "name": "Aviation fuel", "weight": 0.0, "id": 2776776657, "level": 2}
+{"count": 1476, "name": "Head restraint", "weight": 0.0, "id": 2778302646, "level": 2}
+{"count": 1208, "name": "Ground pressure", "weight": 0.0, "id": 186096623, "level": 2}
+{"count": 10345, "name": "Gas generator", "weight": 0.0, "id": 2777315644, "level": 2}
+{"count": 625, "name": "Wankel engine", "weight": 0.0, "id": 83934094, "level": 2}
+{"count": 5972, "name": "Dynamic braking", "weight": 0.0, "id": 158549904, "level": 2}
+{"count": 1048, "name": "Steam locomotive", "weight": 0.0, "id": 33705081, "level": 2}
+{"count": 1447, "name": "Chassis dynamometer", "weight": 0.0, "id": 2778084335, "level": 2}
+{"count": 97, "name": "Engine tuning", "weight": 0.0, "id": 2778682304, "level": 2}
+{"count": 794, "name": "Vehicle-to-vehicle", "weight": 0.0, "id": 2780241275, "level": 2}
+{"count": 12346, "name": "Oil pump", "weight": 0.0, "id": 2776981007, "level": 2}
+{"count": 528, "name": "Parallel parking", "weight": 0.0, "id": 2778157376, "level": 2}
+{"count": 5769, "name": "Car door", "weight": 0.0, "id": 2780955829, "level": 2}
+{"count": 847, "name": "Front-wheel drive", "weight": 0.0, "id": 2777507793, "level": 2}
+{"count": 158, "name": "Integrated vehicle health management", "weight": 0.0, "id": 2777805294, "level": 2}
+{"count": 11556, "name": "Fuel pump", "weight": 0.0, "id": 2776557616, "level": 2}
+{"count": 7864, "name": "Car seat", "weight": 0.0, "id": 2780240375, "level": 2}
+{"count": 19574, "name": "Skid (automobile)", "weight": 0.0, "id": 2779330493, "level": 2}
+{"count": 4131, "name": "Engine room", "weight": 0.0, "id": 2776439729, "level": 2}
+{"count": 530, "name": "Low emission vehicle", "weight": 0.0, "id": 97155497, "level": 2}
+{"count": 171, "name": "Road tax", "weight": 0.0, "id": 2777708215, "level": 2}
+{"count": 4111, "name": "Spoiler", "weight": 0.0, "id": 129092768, "level": 2}
+{"count": 702, "name": "Drive by wire", "weight": 0.0, "id": 2776442713, "level": 2}
+{"count": 915, "name": "Driving range", "weight": 0.0, "id": 2780847881, "level": 2}
+{"count": 730, "name": "Formula SAE", "weight": 0.0, "id": 2777314521, "level": 2}
+{"count": 11658, "name": "Mower", "weight": 0.0, "id": 2781429825, "level": 2}
+{"count": 8582, "name": "Fender", "weight": 0.0, "id": 2777301251, "level": 2}
+{"count": 15669, "name": "Windshield", "weight": 0.0, "id": 2780387288, "level": 2}
+{"count": 677, "name": "Arresting gear", "weight": 0.0, "id": 2777666210, "level": 2}
+{"count": 371, "name": "On-board diagnostics", "weight": 0.0, "id": 2776882647, "level": 2}
+{"count": 404, "name": "Hybrid electric bus", "weight": 0.0, "id": 2779173197, "level": 2}
+{"count": 257, "name": "Freight terminal", "weight": 0.0, "id": 2778290582, "level": 2}
+{"count": 212, "name": "Fuel cell bus", "weight": 0.0, "id": 2778599579, "level": 2}
+{"count": 907, "name": "Tachograph", "weight": 0.0, "id": 2779863869, "level": 2}
+{"count": 528, "name": "Power-to-weight ratio", "weight": 0.0, "id": 135887793, "level": 2}
+{"count": 870, "name": "Transit bus", "weight": 0.0, "id": 2779205984, "level": 2}
+{"count": 1449, "name": "Hybrid III", "weight": 0.0, "id": 2780378259, "level": 2}
+{"count": 5670, "name": "Tappet", "weight": 0.0, "id": 16517697, "level": 2}
+{"count": 701, "name": "Tractive effort", "weight": 0.0, "id": 134467416, "level": 2}
+{"count": 690, "name": "Rail profile", "weight": 0.0, "id": 2780012172, "level": 2}
+{"count": 192, "name": "Vehicle category", "weight": 0.0, "id": 2777173067, "level": 2}
+{"count": 7251, "name": "Drive wheel", "weight": 0.0, "id": 2778852349, "level": 2}
+{"count": 348, "name": "Racing slick", "weight": 0.0, "id": 50251070, "level": 2}
+{"count": 456, "name": "Speed bump", "weight": 0.0, "id": 2779275416, "level": 2}
+{"count": 1420, "name": "Wheel alignment", "weight": 0.0, "id": 2776019841, "level": 2}
+{"count": 5353, "name": "Vehicle frame", "weight": 0.0, "id": 2778581420, "level": 2}
+{"count": 2666, "name": "Toe", "weight": 0.0, "id": 160045210, "level": 2}
+{"count": 819, "name": "Rain sensor", "weight": 0.0, "id": 2777010609, "level": 2}
+{"count": 303, "name": "WHIPS", "weight": 0.0, "id": 2781276060, "level": 2}
+{"count": 161, "name": "Shell Eco-marathon", "weight": 0.0, "id": 2777918842, "level": 2}
+{"count": 1012, "name": "Engine-generator", "weight": 0.0, "id": 2780118279, "level": 2}
+{"count": 672, "name": "Weight transfer", "weight": 0.0, "id": 114173007, "level": 2}
+{"count": 193, "name": "Tank locomotive", "weight": 0.0, "id": 159549609, "level": 2}
+{"count": 246, "name": "Hydraulic hybrid vehicle", "weight": 0.0, "id": 2780804199, "level": 2}
+{"count": 389, "name": "Valvetrain", "weight": 0.0, "id": 2778482453, "level": 2}
+{"count": 394, "name": "Vehicle fire", "weight": 0.0, "id": 2776338932, "level": 2}
+{"count": 782, "name": "Safety harness", "weight": 0.0, "id": 2777091564, "level": 2}
+{"count": 94, "name": "FTP-75", "weight": 0.0, "id": 2776973835, "level": 2}
+{"count": 4826, "name": "Windscreen wiper", "weight": 0.0, "id": 2776426851, "level": 2}
+{"count": 569, "name": "Passenger car equivalent", "weight": 0.0, "id": 143053726, "level": 2}
+{"count": 371, "name": "Air-cooled engine", "weight": 0.0, "id": 2779664454, "level": 2}
+{"count": 27, "name": "Tramlining", "weight": 0.0, "id": 2777123354, "level": 2}
+{"count": 52, "name": "Railbus", "weight": 0.0, "id": 2777054155, "level": 2}
+{"count": 2112, "name": "Spare tire", "weight": 0.0, "id": 2776731834, "level": 2}
+{"count": 2278, "name": "Fuel line", "weight": 0.0, "id": 2781371239, "level": 2}
+{"count": 86, "name": "Tweel", "weight": 0.0, "id": 2781457838, "level": 2}
+{"count": 283, "name": "Siping", "weight": 0.0, "id": 16545007, "level": 2}
+{"count": 83, "name": "Gondola lift", "weight": 0.0, "id": 2780417790, "level": 2}
+{"count": 667, "name": "Smart key", "weight": 0.0, "id": 2781096932, "level": 2}
+{"count": 72, "name": "Airless tire", "weight": 0.0, "id": 2778925267, "level": 2}
+{"count": 351, "name": "Model engine", "weight": 0.0, "id": 2779519114, "level": 2}
+{"count": 3679, "name": "Tire balance", "weight": 0.0, "id": 133055659, "level": 2}
+{"count": 590, "name": "Power seat", "weight": 0.0, "id": 2781116836, "level": 2}
+{"count": 424, "name": "Spoke", "weight": 0.0, "id": 149878745, "level": 2}
+{"count": 207, "name": "Roll cage", "weight": 0.0, "id": 2778889047, "level": 2}
+{"count": 137, "name": "Engine test stand", "weight": 0.0, "id": 2778360186, "level": 2}
+{"count": 213, "name": "Side-stick", "weight": 0.0, "id": 100044655, "level": 2}
+{"count": 76, "name": "Fishtailing", "weight": 0.0, "id": 56070313, "level": 2}
+{"count": 118, "name": "Airbox", "weight": 0.0, "id": 2779991568, "level": 2}
+{"count": 40, "name": "Backup camera", "weight": 0.0, "id": 2776255262, "level": 2}
+{"count": 7, "name": "Autonomous cruise control system", "weight": 0.0, "id": 2777917076, "level": 2}
+{"count": 255, "name": "Reduction drive", "weight": 0.0, "id": 2776580400, "level": 2}
+{"count": 104, "name": "Pilot", "weight": 0.0, "id": 77688971, "level": 2}
+{"count": 47, "name": "Countersteering", "weight": 0.0, "id": 52919654, "level": 2}
+{"count": 8, "name": "Moose test", "weight": 0.0, "id": 2778881310, "level": 2}
+{"count": 12, "name": "Hydraulic Launch Assist", "weight": 0.0, "id": 2778998487, "level": 2}
+{"count": 270, "name": "Motronic", "weight": 0.0, "id": 105244621, "level": 2}
+{"count": 15, "name": "Body flex", "weight": 0.0, "id": 29533486, "level": 2}
+{"count": 104, "name": "Operating weight", "weight": 0.0, "id": 96448400, "level": 2}
+{"count": 257, "name": "Skid plate", "weight": 0.0, "id": 2777242013, "level": 2}
+{"count": 271, "name": "Wheel chock", "weight": 0.0, "id": 2779964848, "level": 2}
+{"count": 58, "name": "Car controls", "weight": 0.0, "id": 2780415669, "level": 2}
+{"count": 52, "name": "Wheel spider", "weight": 0.0, "id": 2779300250, "level": 2}
+{"count": 6, "name": "Tyre label", "weight": 0.0, "id": 2776226832, "level": 2}
+{"count": 14, "name": "Shaft effect", "weight": 0.0, "id": 2779814112, "level": 2}
+{"count": 53, "name": "SkyActiv", "weight": 0.0, "id": 182846274, "level": 2}
+{"count": 10, "name": "SmartWay Transport Partnership", "weight": 0.0, "id": 2781120777, "level": 2}
+{"count": 2, "name": "All-terrain tyre", "weight": 0.0, "id": 2775976951, "level": 2}
+{"count": 2, "name": "Left-foot braking", "weight": 0.0, "id": 2779149032, "level": 2}
+{"count": 5, "name": "SAE J1269", "weight": 0.0, "id": 2779213964, "level": 2}
+{"count": 5, "name": "Nitro engine", "weight": 0.0, "id": 2777869096, "level": 2}
+{"count": 4, "name": "Si 363", "weight": 0.0, "id": 2778586160, "level": 2}
+{"count": 68, "name": "Ground start", "weight": 0.0, "id": 2779859302, "level": 2}
+{"count": 1, "name": "Coil bind", "weight": 0.0, "id": 2778886694, "level": 2}
+{"count": 7, "name": "Active rollover protection", "weight": 0.0, "id": 2775881368, "level": 2}
+{"count": 9, "name": "Beadlock", "weight": 0.0, "id": 2778673815, "level": 2}
+{"count": 11, "name": "Uniflow steam engine", "weight": 0.0, "id": 2780257784, "level": 2}
+{"count": 4, "name": "Traffic collision reconstruction", "weight": 0.0, "id": 2776120582, "level": 2}
+{"count": 8, "name": "Horsepower-hour", "weight": 0.0, "id": 2780681588, "level": 2}
+{"count": 4, "name": "Wheel washing system", "weight": 0.0, "id": 2779843609, "level": 2}
+{"count": 20, "name": "Custom wheel", "weight": 0.0, "id": 2775915928, "level": 2}
+{"count": 438, "name": "Wheel train", "weight": 0.0, "id": 2780688888, "level": 2}
+{"count": 6, "name": "Aniline leather", "weight": 0.0, "id": 2778701337, "level": 2}
+{"count": 1, "name": "Pedestrian safety through vehicle design", "weight": 0.0, "id": 2777023223, "level": 2}
+{"count": 14, "name": "Toyota UZ engine", "weight": 0.0, "id": 4465461, "level": 2}

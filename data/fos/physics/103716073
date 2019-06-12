@@ -1,0 +1,33 @@
+{"count": 19860, "name": "Circular polarization", "weight": 7.0, "id": 153201621, "level": 3}
+{"count": 19588, "name": "Polarimetry", "weight": 7.0, "id": 28493345, "level": 3}
+{"count": 6444, "name": "Polarization mode dispersion", "weight": 2.0, "id": 178557918, "level": 3}
+{"count": 3686, "name": "Induced polarization", "weight": 1.0, "id": 85292911, "level": 3}
+{"count": 4940, "name": "Degree of polarization", "weight": 1.0, "id": 194118358, "level": 3}
+{"count": 25422, "name": "Polarizer", "weight": 10.0, "id": 121524040, "level": 3}
+{"count": 21918, "name": "Linear polarization", "weight": 8.0, "id": 107190969, "level": 3}
+{"count": 4261, "name": "Polarized light microscopy", "weight": 1.0, "id": 111643667, "level": 3}
+{"count": 5073, "name": "Stokes parameters", "weight": 1.0, "id": 188141570, "level": 3}
+{"count": 1938, "name": "Photon polarization", "weight": 0.0, "id": 96473913, "level": 3}
+{"count": 4237, "name": "Waveplate", "weight": 1.0, "id": 125633901, "level": 3}
+{"count": 3822, "name": "Brewster's angle", "weight": 1.0, "id": 35068176, "level": 3}
+{"count": 600, "name": "Polarized target", "weight": 0.0, "id": 2780988000, "level": 3}
+{"count": 1783, "name": "Dual-polarization interferometry", "weight": 0.0, "id": 161926555, "level": 3}
+{"count": 6098, "name": "Polarimeter", "weight": 2.0, "id": 77530849, "level": 3}
+{"count": 979, "name": "Hanle effect", "weight": 0.0, "id": 77827228, "level": 3}
+{"count": 2031, "name": "Orthogonal polarization spectral imaging", "weight": 0.0, "id": 48563382, "level": 3}
+{"count": 267, "name": "Dynamic nuclear polarisation", "weight": 0.0, "id": 2781281848, "level": 3}
+{"count": 1254, "name": "Polarization controller", "weight": 0.0, "id": 2779030962, "level": 3}
+{"count": 548, "name": "Wollaston prism", "weight": 0.0, "id": 3149852, "level": 3}
+{"count": 434, "name": "Photoelastic modulator", "weight": 0.0, "id": 93404832, "level": 3}
+{"count": 554, "name": "Jones calculus", "weight": 0.0, "id": 31657872, "level": 3}
+{"count": 1004, "name": "Depolarizer", "weight": 0.0, "id": 71798729, "level": 3}
+{"count": 6581, "name": "Polarization rotator", "weight": 2.0, "id": 13223952, "level": 3}
+{"count": 484, "name": "Orthomode transducer", "weight": 0.0, "id": 37027561, "level": 3}
+{"count": 98, "name": "Vector radiative transfer", "weight": 0.0, "id": 2781296133, "level": 3}
+{"count": 140, "name": "Polarization mixing", "weight": 0.0, "id": 2780112393, "level": 3}
+{"count": 2527, "name": "Plane of incidence", "weight": 0.0, "id": 57616465, "level": 3}
+{"count": 146, "name": "Fresnel rhomb", "weight": 0.0, "id": 57792337, "level": 3}
+{"count": 12, "name": "Babinet\u2013Soleil compensator", "weight": 0.0, "id": 2776605163, "level": 3}
+{"count": 12, "name": "Umov effect", "weight": 0.0, "id": 2778557870, "level": 3}
+{"count": 32, "name": "Vectograph", "weight": 0.0, "id": 2778455237, "level": 3}
+{"count": 25, "name": "Chirality (electromagnetism)", "weight": 0.0, "id": 82476175, "level": 3}

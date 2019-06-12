@@ -1,0 +1,14 @@
+{"count": 14466, "name": "Autoregressive conditional heteroskedasticity", "weight": 10.0, "id": 23922673, "level": 3}
+{"count": 10593, "name": "Stochastic volatility", "weight": 7.0, "id": 85393063, "level": 3}
+{"count": 10958, "name": "Implied volatility", "weight": 7.0, "id": 24189920, "level": 3}
+{"count": 10170, "name": "Volatility smile", "weight": 7.0, "id": 13290067, "level": 3}
+{"count": 521, "name": "Heath\u2013Jarrow\u2013Morton framework", "weight": 0.0, "id": 187614132, "level": 3}
+{"count": 838, "name": "Great Moderation", "weight": 0.0, "id": 72868586, "level": 3}
+{"count": 354, "name": "Open interest", "weight": 0.0, "id": 9000899, "level": 3}
+{"count": 255, "name": "Price return", "weight": 0.0, "id": 2775948099, "level": 3}
+{"count": 353, "name": "Swaption", "weight": 0.0, "id": 2778143149, "level": 3}
+{"count": 654, "name": "West Texas Intermediate", "weight": 0.0, "id": 70784835, "level": 3}
+{"count": 200, "name": "Mixed-data sampling", "weight": 0.0, "id": 44609931, "level": 3}
+{"count": 8308, "name": "Volatility swap", "weight": 5.0, "id": 192620184, "level": 3}
+{"count": 65, "name": "Calendar spread", "weight": 0.0, "id": 2778338211, "level": 3}
+{"count": 22, "name": "Covered warrant", "weight": 0.0, "id": 2781062016, "level": 3}

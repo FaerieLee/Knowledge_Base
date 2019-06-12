@@ -1,0 +1,200 @@
+{"count": 301710, "name": "Developing country", "weight": 4.0, "id": 83864248, "level": 2}
+{"count": 513837, "name": "Higher education", "weight": 6.0, "id": 120912362, "level": 2}
+{"count": 734385, "name": "Health care", "weight": 10.0, "id": 160735492, "level": 2}
+{"count": 192954, "name": "Public policy", "weight": 2.0, "id": 109986646, "level": 2}
+{"count": 173328, "name": "Socioeconomic status", "weight": 2.0, "id": 147077947, "level": 2}
+{"count": 180433, "name": "Rural area", "weight": 2.0, "id": 129047720, "level": 2}
+{"count": 161497, "name": "Social change", "weight": 2.0, "id": 206836424, "level": 2}
+{"count": 132977, "name": "Primary education", "weight": 1.0, "id": 10050518, "level": 2}
+{"count": 203237, "name": "Poverty", "weight": 2.0, "id": 189326681, "level": 2}
+{"count": 69165, "name": "Human capital", "weight": 0.0, "id": 2776943663, "level": 2}
+{"count": 152292, "name": "Professional development", "weight": 2.0, "id": 51067260, "level": 2}
+{"count": 197982, "name": "Globalization", "weight": 2.0, "id": 2119116, "level": 2}
+{"count": 76266, "name": "Foreign direct investment", "weight": 1.0, "id": 33842695, "level": 2}
+{"count": 44522, "name": "Population growth", "weight": 0.0, "id": 77352025, "level": 2}
+{"count": 76532, "name": "Social issues", "weight": 1.0, "id": 53001019, "level": 2}
+{"count": 96803, "name": "Teacher education", "weight": 1.0, "id": 2780805685, "level": 2}
+{"count": 91016, "name": "Urbanization", "weight": 1.0, "id": 39853841, "level": 2}
+{"count": 132278, "name": "Social work", "weight": 1.0, "id": 16920402, "level": 2}
+{"count": 54612, "name": "Economic impact analysis", "weight": 0.0, "id": 188897, "level": 2}
+{"count": 383082, "name": "Curriculum", "weight": 5.0, "id": 47177190, "level": 2}
+{"count": 58326, "name": "Social policy", "weight": 0.0, "id": 19159745, "level": 2}
+{"count": 103965, "name": "Unemployment", "weight": 1.0, "id": 2778126366, "level": 2}
+{"count": 45144, "name": "Emerging markets", "weight": 0.0, "id": 121087249, "level": 2}
+{"count": 31061, "name": "Income distribution", "weight": 0.0, "id": 519300510, "level": 2}
+{"count": 168617, "name": "Vocational education", "weight": 2.0, "id": 668760, "level": 2}
+{"count": 27453, "name": "Educational attainment", "weight": 0.0, "id": 2779297142, "level": 2}
+{"count": 102600, "name": "Entrepreneurship", "weight": 1.0, "id": 84309077, "level": 2}
+{"count": 15875, "name": "Per capita income", "weight": 0.0, "id": 160443848, "level": 2}
+{"count": 111904, "name": "Literacy", "weight": 1.0, "id": 547764534, "level": 2}
+{"count": 68386, "name": "Financial crisis", "weight": 0.0, "id": 2778300220, "level": 2}
+{"count": 32249, "name": "Standard of living", "weight": 0.0, "id": 142077812, "level": 2}
+{"count": 43597, "name": "Early childhood education", "weight": 0.0, "id": 178229462, "level": 2}
+{"count": 46718, "name": "Adult education", "weight": 0.0, "id": 44493715, "level": 2}
+{"count": 36470, "name": "Decentralization", "weight": 0.0, "id": 136810230, "level": 2}
+{"count": 22095, "name": "Economic inequality", "weight": 0.0, "id": 513380476, "level": 2}
+{"count": 42609, "name": "Social security", "weight": 0.0, "id": 2777111884, "level": 2}
+{"count": 27743, "name": "Gross domestic product", "weight": 0.0, "id": 114350782, "level": 2}
+{"count": 22122, "name": "Household income", "weight": 0.0, "id": 2780892066, "level": 2}
+{"count": 14363, "name": "Productivity", "weight": 0.0, "id": 204983608, "level": 2}
+{"count": 34200, "name": "Tertiary sector of the economy", "weight": 0.0, "id": 43246008, "level": 2}
+{"count": 12361, "name": "Child mortality", "weight": 0.0, "id": 46299933, "level": 2}
+{"count": 64712, "name": "Social exclusion", "weight": 0.0, "id": 134659438, "level": 2}
+{"count": 29625, "name": "Community development", "weight": 0.0, "id": 71343576, "level": 2}
+{"count": 16909, "name": "Informal sector", "weight": 0.0, "id": 64089585, "level": 2}
+{"count": 86667, "name": "Modernization theory", "weight": 1.0, "id": 53844881, "level": 2}
+{"count": 81360, "name": "Empowerment", "weight": 1.0, "id": 20555606, "level": 2}
+{"count": 47788, "name": "Emergency management", "weight": 0.0, "id": 62555980, "level": 2}
+{"count": 16087, "name": "Total factor productivity", "weight": 0.0, "id": 120009192, "level": 2}
+{"count": 23224, "name": "Economies of agglomeration", "weight": 0.0, "id": 131850264, "level": 2}
+{"count": 52248, "name": "Industrialisation", "weight": 0.0, "id": 41866144, "level": 2}
+{"count": 23408, "name": "Land tenure", "weight": 0.0, "id": 137607661, "level": 2}
+{"count": 30398, "name": "International development", "weight": 0.0, "id": 87616379, "level": 2}
+{"count": 14042, "name": "Capital accumulation", "weight": 0.0, "id": 81751973, "level": 2}
+{"count": 17122, "name": "Economic indicator", "weight": 0.0, "id": 202353208, "level": 2}
+{"count": 31430, "name": "Welfare state", "weight": 0.0, "id": 129603779, "level": 2}
+{"count": 26976, "name": "Capacity building", "weight": 0.0, "id": 2779622097, "level": 2}
+{"count": 7035, "name": "Transition economy", "weight": 0.0, "id": 2776002544, "level": 2}
+{"count": 23473, "name": "Social inequality", "weight": 0.0, "id": 165148211, "level": 2}
+{"count": 3774, "name": "Population decline", "weight": 0.0, "id": 2779860289, "level": 2}
+{"count": 35713, "name": "Economic integration", "weight": 0.0, "id": 506295513, "level": 2}
+{"count": 25508, "name": "Social mobility", "weight": 0.0, "id": 37129596, "level": 2}
+{"count": 14763, "name": "Industrial policy", "weight": 0.0, "id": 87980944, "level": 2}
+{"count": 8732, "name": "Development theory", "weight": 0.0, "id": 162919384, "level": 2}
+{"count": 8622, "name": "National accounts", "weight": 0.0, "id": 32235935, "level": 2}
+{"count": 28995, "name": "Professional association", "weight": 0.0, "id": 134215751, "level": 2}
+{"count": 14009, "name": "Social protection", "weight": 0.0, "id": 2777433830, "level": 2}
+{"count": 24114, "name": "Population ageing", "weight": 0.0, "id": 13774568, "level": 2}
+{"count": 53342, "name": "Livelihood", "weight": 0.0, "id": 3987366, "level": 2}
+{"count": 9583, "name": "Measures of national income and output", "weight": 0.0, "id": 50091055, "level": 2}
+{"count": 28364, "name": "Knowledge economy", "weight": 0.0, "id": 162696548, "level": 2}
+{"count": 47205, "name": "Recession", "weight": 0.0, "id": 195742910, "level": 2}
+{"count": 37910, "name": "Liberalization", "weight": 0.0, "id": 58823610, "level": 2}
+{"count": 17323, "name": "Participatory action research", "weight": 0.0, "id": 140988679, "level": 2}
+{"count": 9454, "name": "Structural adjustment", "weight": 0.0, "id": 2779627474, "level": 2}
+{"count": 10216, "name": "Land reform", "weight": 0.0, "id": 2777178263, "level": 2}
+{"count": 15065, "name": "Planned economy", "weight": 0.0, "id": 177002080, "level": 2}
+{"count": 5213, "name": "Gross national product", "weight": 0.0, "id": 3769998, "level": 2}
+{"count": 44675, "name": "Disadvantaged", "weight": 0.0, "id": 2780623907, "level": 2}
+{"count": 10443, "name": "Public\u2013private partnership", "weight": 0.0, "id": 2776553905, "level": 2}
+{"count": 11737, "name": "Regional integration", "weight": 0.0, "id": 2779015535, "level": 2}
+{"count": 12099, "name": "Secondary sector of the economy", "weight": 0.0, "id": 169685871, "level": 2}
+{"count": 7009, "name": "Regional economics", "weight": 0.0, "id": 2776858744, "level": 2}
+{"count": 31835, "name": "Educational leadership", "weight": 0.0, "id": 111366508, "level": 2}
+{"count": 5669, "name": "Personal income", "weight": 0.0, "id": 2778566306, "level": 2}
+{"count": 93108, "name": "Scholarship", "weight": 1.0, "id": 2778061430, "level": 2}
+{"count": 40667, "name": "Outreach", "weight": 0.0, "id": 2781400479, "level": 2}
+{"count": 36449, "name": "Syllabus", "weight": 0.0, "id": 45504901, "level": 2}
+{"count": 12666, "name": "Nutrition Education", "weight": 0.0, "id": 2776890026, "level": 2}
+{"count": 19523, "name": "Community organization", "weight": 0.0, "id": 509133132, "level": 2}
+{"count": 16168, "name": "Public housing", "weight": 0.0, "id": 533584247, "level": 2}
+{"count": 3908, "name": "Access to finance", "weight": 0.0, "id": 2780082420, "level": 2}
+{"count": 15004, "name": "Family income", "weight": 0.0, "id": 2777101753, "level": 2}
+{"count": 10017, "name": "Regional policy", "weight": 0.0, "id": 2776510970, "level": 2}
+{"count": 12235, "name": "Local Development", "weight": 0.0, "id": 2779382934, "level": 2}
+{"count": 6350, "name": "Urban economics", "weight": 0.0, "id": 145940883, "level": 2}
+{"count": 9108, "name": "Social insurance", "weight": 0.0, "id": 2779282124, "level": 2}
+{"count": 23776, "name": "World economy", "weight": 0.0, "id": 2777098093, "level": 2}
+{"count": 16663, "name": "Work experience", "weight": 0.0, "id": 2780319001, "level": 2}
+{"count": 43572, "name": "Accreditation", "weight": 0.0, "id": 61521584, "level": 2}
+{"count": 8836, "name": "Institutional economics", "weight": 0.0, "id": 177821555, "level": 2}
+{"count": 12577, "name": "Energy security", "weight": 0.0, "id": 2777172336, "level": 2}
+{"count": 2780, "name": "Economic welfare", "weight": 0.0, "id": 2776709667, "level": 2}
+{"count": 5517, "name": "Redistribution of income and wealth", "weight": 0.0, "id": 110458093, "level": 2}
+{"count": 13623, "name": "Development studies", "weight": 0.0, "id": 160515943, "level": 2}
+{"count": 5864, "name": "Dreyfus model of skill acquisition", "weight": 0.0, "id": 132758656, "level": 2}
+{"count": 6942, "name": "International comparisons", "weight": 0.0, "id": 2777216955, "level": 2}
+{"count": 10532, "name": "Study abroad", "weight": 0.0, "id": 2780814955, "level": 2}
+{"count": 71487, "name": "Workforce", "weight": 0.0, "id": 2778139618, "level": 2}
+{"count": 57574, "name": "Attendance", "weight": 0.0, "id": 2778173179, "level": 2}
+{"count": 12515, "name": "Emulation", "weight": 0.0, "id": 149810388, "level": 2}
+{"count": 1772, "name": "Financial sector development", "weight": 0.0, "id": 2777747085, "level": 2}
+{"count": 28802, "name": "Economic sector", "weight": 0.0, "id": 154193497, "level": 2}
+{"count": 10048, "name": "Monitoring and evaluation", "weight": 0.0, "id": 2780815959, "level": 2}
+{"count": 7841, "name": "Innovation system", "weight": 0.0, "id": 2781395336, "level": 2}
+{"count": 2793, "name": "Labor mobility", "weight": 0.0, "id": 2780370025, "level": 2}
+{"count": 4546, "name": "On-the-job training", "weight": 0.0, "id": 2778583658, "level": 2}
+{"count": 10861, "name": "National Policy", "weight": 0.0, "id": 2781213906, "level": 2}
+{"count": 8044, "name": "New economy", "weight": 0.0, "id": 2778859120, "level": 2}
+{"count": 23560, "name": "Human services", "weight": 0.0, "id": 181907467, "level": 2}
+{"count": 17666, "name": "Regionalism (international relations)", "weight": 0.0, "id": 549326192, "level": 2}
+{"count": 11837, "name": "Community engagement", "weight": 0.0, "id": 2776193868, "level": 2}
+{"count": 6706, "name": "Safety net", "weight": 0.0, "id": 2778216598, "level": 2}
+{"count": 8032, "name": "Slowdown", "weight": 0.0, "id": 2777242750, "level": 2}
+{"count": 5700, "name": "Development aid", "weight": 0.0, "id": 2778449271, "level": 2}
+{"count": 3389, "name": "Cost of living", "weight": 0.0, "id": 2777645362, "level": 2}
+{"count": 1492, "name": "Capital flight", "weight": 0.0, "id": 2777657794, "level": 2}
+{"count": 1666, "name": "Public capital", "weight": 0.0, "id": 2776675903, "level": 2}
+{"count": 5032, "name": "Agrarian reform", "weight": 0.0, "id": 2780396716, "level": 2}
+{"count": 6823, "name": "World population", "weight": 0.0, "id": 543383583, "level": 2}
+{"count": 11205, "name": "Socioeconomic development", "weight": 0.0, "id": 42298096, "level": 2}
+{"count": 5647, "name": "Business cluster", "weight": 0.0, "id": 14391329, "level": 2}
+{"count": 2840, "name": "Technology policy", "weight": 0.0, "id": 2779576378, "level": 2}
+{"count": 2323, "name": "Aid effectiveness", "weight": 0.0, "id": 2778454966, "level": 2}
+{"count": 7122, "name": "Community education", "weight": 0.0, "id": 2780940773, "level": 2}
+{"count": 13971, "name": "Employability", "weight": 0.0, "id": 15302153, "level": 2}
+{"count": 2994, "name": "Free trade zone", "weight": 0.0, "id": 10357712, "level": 2}
+{"count": 2310, "name": "Dependency ratio", "weight": 0.0, "id": 22541086, "level": 2}
+{"count": 2671, "name": "Income Support", "weight": 0.0, "id": 2776237081, "level": 2}
+{"count": 4381, "name": "Investment policy", "weight": 0.0, "id": 2779228913, "level": 2}
+{"count": 14178, "name": "Business sector", "weight": 0.0, "id": 137757676, "level": 2}
+{"count": 5889, "name": "Financial literacy", "weight": 0.0, "id": 2777941463, "level": 2}
+{"count": 7733, "name": "Urban studies", "weight": 0.0, "id": 2779470537, "level": 2}
+{"count": 3970, "name": "Human Development Index", "weight": 0.0, "id": 2779735493, "level": 2}
+{"count": 4707, "name": "Child labour", "weight": 0.0, "id": 2777464741, "level": 2}
+{"count": 3454, "name": "Economic freedom", "weight": 0.0, "id": 2776122629, "level": 2}
+{"count": 2665, "name": "Social infrastructure", "weight": 0.0, "id": 2781396848, "level": 2}
+{"count": 10287, "name": "Educational institution", "weight": 0.0, "id": 2781209966, "level": 2}
+{"count": 2478, "name": "Industrial district", "weight": 0.0, "id": 2777551599, "level": 2}
+{"count": 7100, "name": "Creative industries", "weight": 0.0, "id": 2776182711, "level": 2}
+{"count": 12467, "name": "Community building", "weight": 0.0, "id": 539944628, "level": 2}
+{"count": 5638, "name": "Local economic development", "weight": 0.0, "id": 2776060186, "level": 2}
+{"count": 5556, "name": "Economic recovery", "weight": 0.0, "id": 2777461252, "level": 2}
+{"count": 6370, "name": "Compulsory education", "weight": 0.0, "id": 2779791860, "level": 2}
+{"count": 4181, "name": "Remittance", "weight": 0.0, "id": 2780962165, "level": 2}
+{"count": 5598, "name": "Sustainable growth rate", "weight": 0.0, "id": 134632028, "level": 2}
+{"count": 4617, "name": "Global education", "weight": 0.0, "id": 2776702143, "level": 2}
+{"count": 3251, "name": "Capability approach", "weight": 0.0, "id": 2781118332, "level": 2}
+{"count": 24447, "name": "Internship", "weight": 0.0, "id": 540751848, "level": 2}
+{"count": 254, "name": "Comparative economic systems", "weight": 0.0, "id": 2780676979, "level": 2}
+{"count": 7966, "name": "Social equality", "weight": 0.0, "id": 25287524, "level": 2}
+{"count": 2919, "name": "National innovation system", "weight": 0.0, "id": 2778965292, "level": 2}
+{"count": 1797, "name": "Landlocked country", "weight": 0.0, "id": 176507212, "level": 2}
+{"count": 16439, "name": "Entitlement", "weight": 0.0, "id": 105379811, "level": 2}
+{"count": 7065, "name": "Affordable housing", "weight": 0.0, "id": 2777663346, "level": 2}
+{"count": 27430, "name": "Donation", "weight": 0.0, "id": 2775933685, "level": 2}
+{"count": 3263, "name": "Peer tutor", "weight": 0.0, "id": 179748633, "level": 2}
+{"count": 6321, "name": "Gentrification", "weight": 0.0, "id": 2777554338, "level": 2}
+{"count": 13379, "name": "Social economy", "weight": 0.0, "id": 542628504, "level": 2}
+{"count": 4726, "name": "Disaster risk reduction", "weight": 0.0, "id": 2780750338, "level": 2}
+{"count": 10818, "name": "Austerity", "weight": 0.0, "id": 69828861, "level": 2}
+{"count": 2814, "name": "Self-sufficiency", "weight": 0.0, "id": 73495956, "level": 2}
+{"count": 584, "name": "World Development Indicators", "weight": 0.0, "id": 2779845407, "level": 2}
+{"count": 4109, "name": "Economic statistics", "weight": 0.0, "id": 77173449, "level": 2}
+{"count": 2489, "name": "Global value chain", "weight": 0.0, "id": 2778764706, "level": 2}
+{"count": 3265, "name": "Glass ceiling", "weight": 0.0, "id": 2779674044, "level": 2}
+{"count": 1330, "name": "Financial deepening", "weight": 0.0, "id": 2776076839, "level": 2}
+{"count": 1656, "name": "Distribution of wealth", "weight": 0.0, "id": 2778096659, "level": 2}
+{"count": 10212, "name": "Economic security", "weight": 0.0, "id": 82326809, "level": 2}
+{"count": 1699, "name": "Participatory rural appraisal", "weight": 0.0, "id": 2781470993, "level": 2}
+{"count": 2134, "name": "Regional innovation system", "weight": 0.0, "id": 2781086688, "level": 2}
+{"count": 3786, "name": "Gender mainstreaming", "weight": 0.0, "id": 2780765865, "level": 2}
+{"count": 280, "name": "Consumption distribution", "weight": 0.0, "id": 2778099575, "level": 2}
+{"count": 7016, "name": "Urban agglomeration", "weight": 0.0, "id": 154611951, "level": 2}
+{"count": 1656, "name": "Gender and Education", "weight": 0.0, "id": 2777893823, "level": 2}
+{"count": 3080, "name": "Gender analysis", "weight": 0.0, "id": 2779119250, "level": 2}
+{"count": 7619, "name": "Human migration", "weight": 0.0, "id": 170595211, "level": 2}
+{"count": 5353, "name": "Social progress", "weight": 0.0, "id": 2779905815, "level": 2}
+{"count": 3411, "name": "Kuznets curve", "weight": 0.0, "id": 2780481019, "level": 2}
+{"count": 1887, "name": "Educational inequality", "weight": 0.0, "id": 2778783286, "level": 2}
+{"count": 399, "name": "Infant industry argument", "weight": 0.0, "id": 129228275, "level": 2}
+{"count": 1263, "name": "Micro-enterprise", "weight": 0.0, "id": 2776238116, "level": 2}
+{"count": 1346, "name": "Median income", "weight": 0.0, "id": 2780761588, "level": 2}
+{"count": 1969, "name": "Participatory development", "weight": 0.0, "id": 2776748916, "level": 2}
+{"count": 620, "name": "Urban bias", "weight": 0.0, "id": 2779525708, "level": 2}
+{"count": 3983, "name": "Cultural industry", "weight": 0.0, "id": 2777890638, "level": 2}
+{"count": 2388, "name": "Participatory planning", "weight": 0.0, "id": 2780915742, "level": 2}
+{"count": 5341, "name": "Humanitarian aid", "weight": 0.0, "id": 521897407, "level": 2}
+{"count": 3958, "name": "Economic planning", "weight": 0.0, "id": 2779071577, "level": 2}
+{"count": 4396, "name": "Megacity", "weight": 0.0, "id": 127040729, "level": 2}
+{"count": 38096, "name": "Prosperity", "weight": 0.0, "id": 2776554220, "level": 2}

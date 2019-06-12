@@ -1,0 +1,17 @@
+{"count": 6954, "name": "Deformable mirror", "weight": 10.0, "id": 136872047, "level": 3}
+{"count": 2953, "name": "Active optics", "weight": 4.0, "id": 53550047, "level": 3}
+{"count": 6313, "name": "Wavefront sensor", "weight": 9.0, "id": 99407587, "level": 3}
+{"count": 2237, "name": "Laser guide star", "weight": 3.0, "id": 55743289, "level": 3}
+{"count": 658, "name": "Large Binocular Telescope", "weight": 0.0, "id": 2779710718, "level": 3}
+{"count": 2042, "name": "Strehl ratio", "weight": 2.0, "id": 90416638, "level": 3}
+{"count": 398, "name": "Thirty Meter Telescope", "weight": 0.0, "id": 2776485659, "level": 3}
+{"count": 1168, "name": "Guide star", "weight": 1.0, "id": 2780851263, "level": 3}
+{"count": 453, "name": "Sodium layer", "weight": 0.0, "id": 176563613, "level": 3}
+{"count": 602, "name": "Astronomical seeing", "weight": 0.0, "id": 11181294, "level": 3}
+{"count": 186, "name": "Fried parameter", "weight": 0.0, "id": 130137934, "level": 3}
+{"count": 336, "name": "StarFire", "weight": 0.0, "id": 187959015, "level": 3}
+{"count": 50, "name": "MMT Observatory", "weight": 0.0, "id": 2777148692, "level": 3}
+{"count": 53, "name": "Greenwood frequency", "weight": 0.0, "id": 207139960, "level": 3}
+{"count": 86, "name": "Pueo", "weight": 0.0, "id": 2779656134, "level": 3}
+{"count": 18, "name": "Overwhelmingly Large Telescope", "weight": 0.0, "id": 2780553336, "level": 3}
+{"count": 8, "name": "Microstructured optical arrays", "weight": 0.0, "id": 2780631418, "level": 3}

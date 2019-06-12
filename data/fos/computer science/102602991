@@ -1,0 +1,31 @@
+{"count": 8098, "name": "Clock synchronization", "weight": 2.0, "id": 129891060, "level": 3}
+{"count": 4790, "name": "Phase synchronization", "weight": 1.0, "id": 194027367, "level": 3}
+{"count": 5498, "name": "Frame synchronization", "weight": 1.0, "id": 178317062, "level": 3}
+{"count": 895, "name": "Network Time Protocol", "weight": 0.0, "id": 178148046, "level": 3}
+{"count": 1221, "name": "Chua's circuit", "weight": 0.0, "id": 2781300247, "level": 3}
+{"count": 7847, "name": "Synchronizer", "weight": 2.0, "id": 66727535, "level": 3}
+{"count": 188, "name": "Compare-and-swap", "weight": 0.0, "id": 101612960, "level": 3}
+{"count": 7019, "name": "Data synchronization", "weight": 1.0, "id": 108734733, "level": 3}
+{"count": 823, "name": "Kuramoto model", "weight": 0.0, "id": 2780042749, "level": 3}
+{"count": 732, "name": "UTC offset", "weight": 0.0, "id": 185588997, "level": 3}
+{"count": 3002, "name": "Synchronization networks", "weight": 0.0, "id": 111097370, "level": 3}
+{"count": 569, "name": "Intermittent control", "weight": 0.0, "id": 2778179450, "level": 3}
+{"count": 593, "name": "Timestamping", "weight": 0.0, "id": 2775975972, "level": 3}
+{"count": 204, "name": "Unidirectional coupling", "weight": 0.0, "id": 2778736105, "level": 3}
+{"count": 7883, "name": "sync", "weight": 2.0, "id": 3913047, "level": 3}
+{"count": 36050, "name": "Synchronizing", "weight": 10.0, "id": 162932704, "level": 3}
+{"count": 69, "name": "Maximum time interval error", "weight": 0.0, "id": 2777755459, "level": 3}
+{"count": 175, "name": "Firing squad synchronization problem", "weight": 0.0, "id": 176735038, "level": 3}
+{"count": 157, "name": "Busy waiting", "weight": 0.0, "id": 131584672, "level": 3}
+{"count": 11052, "name": "Synchronization of chaos", "weight": 3.0, "id": 202759130, "level": 3}
+{"count": 744, "name": "Synchronization Channel", "weight": 0.0, "id": 2780659626, "level": 3}
+{"count": 32, "name": "LAN eXtensions for Instrumentation", "weight": 0.0, "id": 2779461506, "level": 3}
+{"count": 53, "name": "Time Stamp Counter", "weight": 0.0, "id": 2781114031, "level": 3}
+{"count": 199, "name": "Vsync", "weight": 0.0, "id": 2775904943, "level": 3}
+{"count": 47, "name": "Rulkov map", "weight": 0.0, "id": 2776651956, "level": 3}
+{"count": 449, "name": "Time Protocol", "weight": 0.0, "id": 2778647566, "level": 3}
+{"count": 28, "name": "Pulse-coupled networks", "weight": 0.0, "id": 2779036390, "level": 3}
+{"count": 41, "name": "Disc theorem", "weight": 0.0, "id": 2776455223, "level": 3}
+{"count": 186, "name": "Independent clock", "weight": 0.0, "id": 2780044537, "level": 3}
+{"count": 48, "name": "Channel (programming)", "weight": 0.0, "id": 45746551, "level": 3}
+{"count": 17, "name": "Pulse-per-second signal", "weight": 0.0, "id": 2780247242, "level": 3}

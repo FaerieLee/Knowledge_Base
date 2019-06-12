@@ -1,0 +1,28 @@
+{"count": 31530, "name": "Framingham Risk Score", "weight": 10.0, "id": 11783203, "level": 4}
+{"count": 4065, "name": "Hypoplastic left heart syndrome", "weight": 1.0, "id": 2779545397, "level": 4}
+{"count": 476, "name": "Persistent fetal circulation", "weight": 0.0, "id": 2775854949, "level": 4}
+{"count": 1907, "name": "Transposition of the great vessels", "weight": 0.0, "id": 2778200330, "level": 4}
+{"count": 2276, "name": "Hypertensive heart disease", "weight": 0.0, "id": 2780045698, "level": 4}
+{"count": 2660, "name": "Fetal echocardiography", "weight": 0.0, "id": 2777162553, "level": 4}
+{"count": 923, "name": "Atrioventricular cushions", "weight": 0.0, "id": 129119232, "level": 4}
+{"count": 1032, "name": "Eisenmenger syndrome", "weight": 0.0, "id": 2779249879, "level": 4}
+{"count": 60, "name": "Glycogen storage disease type VI", "weight": 0.0, "id": 2776179140, "level": 4}
+{"count": 342, "name": "Seven Countries Study", "weight": 0.0, "id": 4202522, "level": 4}
+{"count": 235, "name": "Double inlet left ventricle", "weight": 0.0, "id": 2776155796, "level": 4}
+{"count": 302, "name": "Atrioventricular canal defect", "weight": 0.0, "id": 2778040585, "level": 4}
+{"count": 171, "name": "GUCH", "weight": 0.0, "id": 2778377027, "level": 4}
+{"count": 66, "name": "Major aortopulmonary collateral artery", "weight": 0.0, "id": 2780408365, "level": 4}
+{"count": 352, "name": "Atrial switch", "weight": 0.0, "id": 2776796480, "level": 4}
+{"count": 108, "name": "KIF6", "weight": 0.0, "id": 2778072024, "level": 4}
+{"count": 44, "name": "Holiday heart syndrome", "weight": 0.0, "id": 2778370808, "level": 4}
+{"count": 221, "name": "Whitehall Study", "weight": 0.0, "id": 203965478, "level": 4}
+{"count": 149, "name": "Lipid hypothesis", "weight": 0.0, "id": 2778558538, "level": 4}
+{"count": 39, "name": "Cardiac psychology", "weight": 0.0, "id": 2776386417, "level": 4}
+{"count": 12, "name": "Varespladib methyl", "weight": 0.0, "id": 2777556200, "level": 4}
+{"count": 47, "name": "Cyanotic heart defect", "weight": 0.0, "id": 2781227802, "level": 4}
+{"count": 38, "name": "Functional murmur", "weight": 0.0, "id": 2780477538, "level": 4}
+{"count": 83, "name": "Caerphilly Heart Disease Study", "weight": 0.0, "id": 41415879, "level": 4}
+{"count": 52, "name": "Alcohol and cardiovascular disease", "weight": 0.0, "id": 2780198187, "level": 4}
+{"count": 32, "name": "Saturated fat and cardiovascular disease controversy", "weight": 0.0, "id": 40584094, "level": 4}
+{"count": 39, "name": "Canadian health claims", "weight": 0.0, "id": 47528270, "level": 4}
+{"count": 17, "name": "Sterosis", "weight": 0.0, "id": 2776034191, "level": 4}

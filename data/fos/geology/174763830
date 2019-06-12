@@ -1,0 +1,184 @@
+{"count": 7519, "name": "Avian clutch size", "weight": 10.0, "id": 65532224, "level": 3}
+{"count": 3236, "name": "Vespidae", "weight": 4.0, "id": 2780461565, "level": 3}
+{"count": 2381, "name": "Brood parasite", "weight": 3.0, "id": 155284869, "level": 3}
+{"count": 1165, "name": "Accipitridae", "weight": 1.0, "id": 2778171474, "level": 3}
+{"count": 613, "name": "Extra-pair copulation", "weight": 0.0, "id": 2778828772, "level": 3}
+{"count": 2132, "name": "Nest box", "weight": 2.0, "id": 103623929, "level": 3}
+{"count": 1165, "name": "Sphecidae", "weight": 1.0, "id": 2779705877, "level": 3}
+{"count": 479, "name": "Ecological trap", "weight": 0.0, "id": 202220414, "level": 3}
+{"count": 475, "name": "Trophallaxis", "weight": 0.0, "id": 125705542, "level": 3}
+{"count": 3484, "name": "Fledge", "weight": 4.0, "id": 76257803, "level": 3}
+{"count": 253, "name": "Monogyny", "weight": 0.0, "id": 2777750345, "level": 3}
+{"count": 172, "name": "Dermochelyidae", "weight": 0.0, "id": 2777234470, "level": 3}
+{"count": 4629, "name": "Hatchling", "weight": 6.0, "id": 148736943, "level": 3}
+{"count": 634, "name": "Myrmica", "weight": 0.0, "id": 2777122650, "level": 3}
+{"count": 277, "name": "Atta cephalotes", "weight": 0.0, "id": 2781217236, "level": 3}
+{"count": 412, "name": "Formica rufa", "weight": 0.0, "id": 2776794393, "level": 3}
+{"count": 402, "name": "Acromyrmex", "weight": 0.0, "id": 2778565514, "level": 3}
+{"count": 411, "name": "Pogonomyrmex", "weight": 0.0, "id": 2778515947, "level": 3}
+{"count": 2811, "name": "Cuckoo", "weight": 3.0, "id": 2776810535, "level": 3}
+{"count": 291, "name": "Formica polyctena", "weight": 0.0, "id": 2779137308, "level": 3}
+{"count": 1163, "name": "Altricial", "weight": 1.0, "id": 167654180, "level": 3}
+{"count": 516, "name": "Atta sexdens", "weight": 0.0, "id": 2779673026, "level": 3}
+{"count": 227, "name": "Nuptial flight", "weight": 0.0, "id": 181301773, "level": 3}
+{"count": 319, "name": "Myrmica rubra", "weight": 0.0, "id": 2776111646, "level": 3}
+{"count": 412, "name": "Leptothorax", "weight": 0.0, "id": 2778225715, "level": 3}
+{"count": 531, "name": "Cataglyphis", "weight": 0.0, "id": 2778086937, "level": 3}
+{"count": 264, "name": "Ovenbird", "weight": 0.0, "id": 2777521251, "level": 3}
+{"count": 307, "name": "Macrotermitinae", "weight": 0.0, "id": 2777069452, "level": 3}
+{"count": 448, "name": "Crabronidae", "weight": 0.0, "id": 2778424037, "level": 3}
+{"count": 397, "name": "Inquiline", "weight": 0.0, "id": 2777555581, "level": 3}
+{"count": 214, "name": "Siblicide", "weight": 0.0, "id": 84638343, "level": 3}
+{"count": 105, "name": "Ceratophyllus gallinae", "weight": 0.0, "id": 2781380722, "level": 3}
+{"count": 148, "name": "Atta colombica", "weight": 0.0, "id": 2778500118, "level": 3}
+{"count": 735, "name": "Breeding pair", "weight": 0.0, "id": 2779124185, "level": 3}
+{"count": 162, "name": "Formica fusca", "weight": 0.0, "id": 2777136744, "level": 3}
+{"count": 108, "name": "Oophagy", "weight": 0.0, "id": 2778252716, "level": 3}
+{"count": 808, "name": "Bird egg", "weight": 1.0, "id": 35630896, "level": 3}
+{"count": 125, "name": "Formica exsecta", "weight": 0.0, "id": 2777511927, "level": 3}
+{"count": 148, "name": "Symmorphus", "weight": 0.0, "id": 2777438572, "level": 3}
+{"count": 321, "name": "Messor", "weight": 0.0, "id": 2779509673, "level": 3}
+{"count": 103, "name": "Leptothorax acervorum", "weight": 0.0, "id": 2780951988, "level": 3}
+{"count": 90, "name": "Polyergus rufescens", "weight": 0.0, "id": 2778098524, "level": 3}
+{"count": 973, "name": "Bird nest", "weight": 1.0, "id": 6588050, "level": 3}
+{"count": 357, "name": "Army ant", "weight": 0.0, "id": 2776429553, "level": 3}
+{"count": 353, "name": "Aphaenogaster", "weight": 0.0, "id": 2777268134, "level": 3}
+{"count": 1346, "name": "Ficedula", "weight": 1.0, "id": 2780910680, "level": 3}
+{"count": 1388, "name": "Accipiter", "weight": 1.0, "id": 2776764107, "level": 3}
+{"count": 156, "name": "Diacamma", "weight": 0.0, "id": 2776862486, "level": 3}
+{"count": 161, "name": "Tandem running", "weight": 0.0, "id": 33144199, "level": 3}
+{"count": 55, "name": "Lasius alienus", "weight": 0.0, "id": 2776881160, "level": 3}
+{"count": 235, "name": "Temnothorax", "weight": 0.0, "id": 2780248508, "level": 3}
+{"count": 77, "name": "Ornithonyssus bursa", "weight": 0.0, "id": 2779998309, "level": 3}
+{"count": 160, "name": "Protocalliphora", "weight": 0.0, "id": 2776110101, "level": 3}
+{"count": 1245, "name": "Charadrius", "weight": 1.0, "id": 2780911997, "level": 3}
+{"count": 495, "name": "Harvester ant", "weight": 0.0, "id": 2778696018, "level": 3}
+{"count": 96, "name": "Lasius fuliginosus", "weight": 0.0, "id": 2777685564, "level": 3}
+{"count": 89, "name": "Formica sanguinea", "weight": 0.0, "id": 2780054363, "level": 3}
+{"count": 51, "name": "Harpagoxenus sublaevis", "weight": 0.0, "id": 2781012024, "level": 3}
+{"count": 48, "name": "Formica cinerea", "weight": 0.0, "id": 2778338611, "level": 3}
+{"count": 544, "name": "Bluebird", "weight": 0.0, "id": 2778121904, "level": 3}
+{"count": 165, "name": "Collocalia", "weight": 0.0, "id": 2778118610, "level": 3}
+{"count": 224, "name": "Sialis", "weight": 0.0, "id": 2776804573, "level": 3}
+{"count": 96, "name": "Cyphomyrmex", "weight": 0.0, "id": 2777240472, "level": 3}
+{"count": 116, "name": "Nidicolous", "weight": 0.0, "id": 89342003, "level": 3}
+{"count": 141, "name": "Rhytidoponera", "weight": 0.0, "id": 2779754588, "level": 3}
+{"count": 221, "name": "Furnished cages", "weight": 0.0, "id": 2780923162, "level": 3}
+{"count": 261, "name": "Swiftlet", "weight": 0.0, "id": 2778272302, "level": 3}
+{"count": 73, "name": "Formica cunicularia", "weight": 0.0, "id": 2778016127, "level": 3}
+{"count": 208, "name": "Brood patch", "weight": 0.0, "id": 128774285, "level": 3}
+{"count": 31, "name": "Formica yessensis", "weight": 0.0, "id": 2780967839, "level": 3}
+{"count": 258, "name": "Weaver ant", "weight": 0.0, "id": 2778591292, "level": 3}
+{"count": 75, "name": "Carnus hemapterus", "weight": 0.0, "id": 2776582750, "level": 3}
+{"count": 55, "name": "Melophorus bagoti", "weight": 0.0, "id": 2775881764, "level": 3}
+{"count": 60, "name": "Ectatomma tuberculatum", "weight": 0.0, "id": 2778600750, "level": 3}
+{"count": 64, "name": "Formica obscuripes", "weight": 0.0, "id": 2775923733, "level": 3}
+{"count": 129, "name": "Meadow pipit", "weight": 0.0, "id": 2776423884, "level": 3}
+{"count": 489, "name": "Ammodramus", "weight": 0.0, "id": 2779161095, "level": 3}
+{"count": 33, "name": "Aphaenogaster cockerelli", "weight": 0.0, "id": 2780079120, "level": 3}
+{"count": 34, "name": "Lamprologus callipterus", "weight": 0.0, "id": 2777967364, "level": 3}
+{"count": 45, "name": "Lasius neoniger", "weight": 0.0, "id": 2780534982, "level": 3}
+{"count": 118, "name": "Philornis", "weight": 0.0, "id": 2779943734, "level": 3}
+{"count": 149, "name": "Euplectes", "weight": 0.0, "id": 2776157658, "level": 3}
+{"count": 118, "name": "Slave-making ant", "weight": 0.0, "id": 2777958761, "level": 3}
+{"count": 605, "name": "Tachycineta", "weight": 0.0, "id": 2776652099, "level": 3}
+{"count": 43, "name": "Atta capiguara", "weight": 0.0, "id": 2780365533, "level": 3}
+{"count": 132, "name": "Trachymyrmex", "weight": 0.0, "id": 2779398751, "level": 3}
+{"count": 95, "name": "Common swift", "weight": 0.0, "id": 2777223185, "level": 3}
+{"count": 310, "name": "Gyne", "weight": 0.0, "id": 111996318, "level": 3}
+{"count": 67, "name": "Myrmecocystus", "weight": 0.0, "id": 2781271652, "level": 3}
+{"count": 43, "name": "Atta vollenweideri", "weight": 0.0, "id": 2776456635, "level": 3}
+{"count": 59, "name": "Polyergus", "weight": 0.0, "id": 2776331218, "level": 3}
+{"count": 88, "name": "Campylorhynchus", "weight": 0.0, "id": 2780784767, "level": 3}
+{"count": 435, "name": "Cyanistes", "weight": 0.0, "id": 2775993993, "level": 3}
+{"count": 41, "name": "Atta bisphaerica", "weight": 0.0, "id": 2776167723, "level": 3}
+{"count": 114, "name": "Nocomis", "weight": 0.0, "id": 2779464479, "level": 3}
+{"count": 412, "name": "Empidonax", "weight": 0.0, "id": 2779414922, "level": 3}
+{"count": 1080, "name": "Nesting season", "weight": 1.0, "id": 2776010296, "level": 3}
+{"count": 172, "name": "Sapsucker", "weight": 0.0, "id": 2776799339, "level": 3}
+{"count": 521, "name": "Agelaius", "weight": 0.0, "id": 2779283734, "level": 3}
+{"count": 307, "name": "Ploceus", "weight": 0.0, "id": 2779812492, "level": 3}
+{"count": 55, "name": "Distraction display", "weight": 0.0, "id": 6617129, "level": 3}
+{"count": 42, "name": "Crab-plover", "weight": 0.0, "id": 2777784507, "level": 3}
+{"count": 85, "name": "Hawksbill sea turtle", "weight": 0.0, "id": 2776579938, "level": 3}
+{"count": 50, "name": "Beewolf", "weight": 0.0, "id": 2778537315, "level": 3}
+{"count": 60, "name": "Peacock blenny", "weight": 0.0, "id": 2778003178, "level": 3}
+{"count": 52, "name": "Auplopus", "weight": 0.0, "id": 2777486614, "level": 3}
+{"count": 361, "name": "Spizella", "weight": 0.0, "id": 2779884967, "level": 3}
+{"count": 32, "name": "Two-spotted goby", "weight": 0.0, "id": 2777898314, "level": 3}
+{"count": 28, "name": "Megaponera", "weight": 0.0, "id": 2778554643, "level": 3}
+{"count": 52, "name": "European beewolf", "weight": 0.0, "id": 2780515824, "level": 3}
+{"count": 33, "name": "Mass provisioning", "weight": 0.0, "id": 2778399672, "level": 3}
+{"count": 29, "name": "Trachymyrmex septentrionalis", "weight": 0.0, "id": 2780833813, "level": 3}
+{"count": 95, "name": "Leafcutter ant", "weight": 0.0, "id": 2781340165, "level": 3}
+{"count": 313, "name": "Brachyramphus", "weight": 0.0, "id": 2779193470, "level": 3}
+{"count": 431, "name": "Characteristics of common wasps and bees", "weight": 0.0, "id": 97019313, "level": 3}
+{"count": 11, "name": "Formica pallidefulva", "weight": 0.0, "id": 2775977393, "level": 3}
+{"count": 67, "name": "Nidifugous", "weight": 0.0, "id": 2776308942, "level": 3}
+{"count": 18, "name": "Rossomyrmex minuchae", "weight": 0.0, "id": 2781226413, "level": 3}
+{"count": 39, "name": "Leporillus", "weight": 0.0, "id": 2777273448, "level": 3}
+{"count": 33, "name": "Badumna", "weight": 0.0, "id": 2781444129, "level": 3}
+{"count": 28, "name": "Tyrant flycatcher", "weight": 0.0, "id": 2777940472, "level": 3}
+{"count": 27, "name": "Fecal sac", "weight": 0.0, "id": 2780903052, "level": 3}
+{"count": 8, "name": "Telmatochromis vittatus", "weight": 0.0, "id": 2776538007, "level": 3}
+{"count": 39, "name": "Chirixalus", "weight": 0.0, "id": 2778673260, "level": 3}
+{"count": 51, "name": "Myrmecophilus", "weight": 0.0, "id": 2777377987, "level": 3}
+{"count": 21, "name": "Melierax", "weight": 0.0, "id": 2781189673, "level": 3}
+{"count": 143, "name": "Bubble nest", "weight": 0.0, "id": 65211865, "level": 3}
+{"count": 48, "name": "Aracari", "weight": 0.0, "id": 2776819427, "level": 3}
+{"count": 107, "name": "Gerygone", "weight": 0.0, "id": 2775975784, "level": 3}
+{"count": 35, "name": "Barred warbler", "weight": 0.0, "id": 2776036766, "level": 3}
+{"count": 24, "name": "Lasius brunneus", "weight": 0.0, "id": 2776383935, "level": 3}
+{"count": 129, "name": "Megadyptes", "weight": 0.0, "id": 2779126551, "level": 3}
+{"count": 47, "name": "Proformica", "weight": 0.0, "id": 2779710072, "level": 3}
+{"count": 8, "name": "Ancistrocerus gazella", "weight": 0.0, "id": 2779330257, "level": 3}
+{"count": 19, "name": "Eremopterix", "weight": 0.0, "id": 2778731466, "level": 3}
+{"count": 17, "name": "Society finch", "weight": 0.0, "id": 2778448312, "level": 3}
+{"count": 19, "name": "Rock-pool blenny", "weight": 0.0, "id": 2780671593, "level": 3}
+{"count": 146, "name": "Longspur", "weight": 0.0, "id": 2779314219, "level": 3}
+{"count": 25, "name": "Hamerkop", "weight": 0.0, "id": 2778240441, "level": 3}
+{"count": 13, "name": "Polyergus lucidus", "weight": 0.0, "id": 2779164072, "level": 3}
+{"count": 17, "name": "Ammomanes", "weight": 0.0, "id": 2779433115, "level": 3}
+{"count": 17, "name": "Premnoplex", "weight": 0.0, "id": 2778378538, "level": 3}
+{"count": 18, "name": "Ailuroedus", "weight": 0.0, "id": 2776519632, "level": 3}
+{"count": 365, "name": "Aegolius", "weight": 0.0, "id": 2778283044, "level": 3}
+{"count": 40, "name": "Fruit dove", "weight": 0.0, "id": 2777891935, "level": 3}
+{"count": 22, "name": "Atta robusta", "weight": 0.0, "id": 2777553576, "level": 3}
+{"count": 27, "name": "Black carpenter ant", "weight": 0.0, "id": 2779859956, "level": 3}
+{"count": 24, "name": "Friarbird", "weight": 0.0, "id": 2779278320, "level": 3}
+{"count": 72, "name": "Parrotlet", "weight": 0.0, "id": 2779541421, "level": 3}
+{"count": 11, "name": "Red-throated caracara", "weight": 0.0, "id": 2776463277, "level": 3}
+{"count": 61, "name": "Cypseloides", "weight": 0.0, "id": 2776423030, "level": 3}
+{"count": 59, "name": "Anthracoceros", "weight": 0.0, "id": 2777928431, "level": 3}
+{"count": 7, "name": "Harpagoxenus canadensis", "weight": 0.0, "id": 2778550275, "level": 3}
+{"count": 136, "name": "Cistothorus", "weight": 0.0, "id": 2777433713, "level": 3}
+{"count": 19, "name": "Black wheatear", "weight": 0.0, "id": 2780890442, "level": 3}
+{"count": 20, "name": "Telespiza", "weight": 0.0, "id": 2778356173, "level": 3}
+{"count": 43, "name": "Fody", "weight": 0.0, "id": 2778971452, "level": 3}
+{"count": 203, "name": "Petrochelidon", "weight": 0.0, "id": 2779531639, "level": 3}
+{"count": 52, "name": "Eopsaltria", "weight": 0.0, "id": 2780971122, "level": 3}
+{"count": 18, "name": "Margarornis", "weight": 0.0, "id": 2778698591, "level": 3}
+{"count": 16, "name": "Gnateater", "weight": 0.0, "id": 2777060083, "level": 3}
+{"count": 21, "name": "Penelopides", "weight": 0.0, "id": 2777463226, "level": 3}
+{"count": 30, "name": "Streptoprocne", "weight": 0.0, "id": 2775889153, "level": 3}
+{"count": 15, "name": "Cyprus wheatear", "weight": 0.0, "id": 2778444166, "level": 3}
+{"count": 114, "name": "Polioptila", "weight": 0.0, "id": 2776620780, "level": 3}
+{"count": 8, "name": "Pseudonigrita", "weight": 0.0, "id": 2778951796, "level": 3}
+{"count": 12, "name": "Dinosaur reproduction", "weight": 0.0, "id": 2778530096, "level": 3}
+{"count": 19, "name": "Tolmomyias", "weight": 0.0, "id": 2779234570, "level": 3}
+{"count": 125, "name": "Sternula", "weight": 0.0, "id": 2781306339, "level": 3}
+{"count": 20, "name": "Hanging parrot", "weight": 0.0, "id": 2780933767, "level": 3}
+{"count": 7, "name": "Structures built by animals", "weight": 0.0, "id": 59052937, "level": 3}
+{"count": 10, "name": "Kurixalus eiffingeri", "weight": 0.0, "id": 2780624786, "level": 3}
+{"count": 169, "name": "Kingbird", "weight": 0.0, "id": 2777001911, "level": 3}
+{"count": 28, "name": "Tree vole", "weight": 0.0, "id": 2780849930, "level": 3}
+{"count": 36, "name": "Myiozetetes", "weight": 0.0, "id": 2776306452, "level": 3}
+{"count": 39, "name": "Neochmia", "weight": 0.0, "id": 2779369703, "level": 3}
+{"count": 54, "name": "Ictinia", "weight": 0.0, "id": 2776867611, "level": 3}
+{"count": 21, "name": "Ocyceros", "weight": 0.0, "id": 2780220729, "level": 3}
+{"count": 91, "name": "Euphagus", "weight": 0.0, "id": 2779893324, "level": 3}
+{"count": 42, "name": "Hunting wasp", "weight": 0.0, "id": 2775866675, "level": 3}
+{"count": 39, "name": "Aphrastura", "weight": 0.0, "id": 2778178146, "level": 3}
+{"count": 33, "name": "Thinornis", "weight": 0.0, "id": 2779962527, "level": 3}
+{"count": 25, "name": "Avian ecology field methods", "weight": 0.0, "id": 145428635, "level": 3}
+{"count": 63, "name": "Haliastur", "weight": 0.0, "id": 2780797526, "level": 3}

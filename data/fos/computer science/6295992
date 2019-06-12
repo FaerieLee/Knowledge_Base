@@ -1,0 +1,25 @@
+{"count": 1348, "name": "Hybrid cryptosystem", "weight": 10.0, "id": 73468433, "level": 5}
+{"count": 253, "name": "Chosen-plaintext attack", "weight": 1.0, "id": 2777408079, "level": 5}
+{"count": 629, "name": "McEliece cryptosystem", "weight": 4.0, "id": 16935551, "level": 5}
+{"count": 537, "name": "NTRU", "weight": 4.0, "id": 122368425, "level": 5}
+{"count": 154, "name": "Multivariate cryptography", "weight": 1.0, "id": 2779328587, "level": 5}
+{"count": 588, "name": "Paillier cryptosystem", "weight": 4.0, "id": 66989864, "level": 5}
+{"count": 946, "name": "Threshold cryptosystem", "weight": 7.0, "id": 123744220, "level": 5}
+{"count": 73, "name": "NTRUSign", "weight": 0.0, "id": 2780799437, "level": 5}
+{"count": 54, "name": "Knapsack cryptosystems", "weight": 0.0, "id": 2779266619, "level": 5}
+{"count": 33, "name": "Niederreiter cryptosystem", "weight": 0.0, "id": 2778235271, "level": 5}
+{"count": 25, "name": "Kleptography", "weight": 0.0, "id": 137856018, "level": 5}
+{"count": 61, "name": "Rabin cryptosystem", "weight": 0.0, "id": 2780290180, "level": 5}
+{"count": 271, "name": "NTRUEncrypt", "weight": 2.0, "id": 93273356, "level": 5}
+{"count": 523, "name": "Cramer\u2013Shoup cryptosystem", "weight": 3.0, "id": 172213664, "level": 5}
+{"count": 43, "name": "Barrett reduction", "weight": 0.0, "id": 461265, "level": 5}
+{"count": 143, "name": "Hidden Field Equations", "weight": 1.0, "id": 148210946, "level": 5}
+{"count": 55, "name": "Rabin fingerprint", "weight": 0.0, "id": 57733568, "level": 5}
+{"count": 216, "name": "Merkle\u2013Hellman knapsack cryptosystem", "weight": 1.0, "id": 167278681, "level": 5}
+{"count": 740, "name": "Goldwasser\u2013Micali cryptosystem", "weight": 5.0, "id": 36367407, "level": 5}
+{"count": 41, "name": "Unbalanced Oil and Vinegar", "weight": 0.0, "id": 2779056050, "level": 5}
+{"count": 42, "name": "Blum\u2013Goldwasser cryptosystem", "weight": 0.0, "id": 132336049, "level": 5}
+{"count": 603, "name": "Kochanski multiplication", "weight": 4.0, "id": 154301674, "level": 5}
+{"count": 73, "name": "GGH encryption scheme", "weight": 0.0, "id": 119857281, "level": 5}
+{"count": 25, "name": "ECC patents", "weight": 0.0, "id": 72748735, "level": 5}
+{"count": 356, "name": "Benaloh cryptosystem", "weight": 2.0, "id": 180743555, "level": 5}

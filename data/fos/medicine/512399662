@@ -1,0 +1,107 @@
+{"count": 49967, "name": "Response rate (survey)", "weight": 6.0, "id": 2778289562, "level": 2}
+{"count": 39173, "name": "Patient satisfaction", "weight": 4.0, "id": 2775944032, "level": 2}
+{"count": 48683, "name": "General practice", "weight": 5.0, "id": 2781318095, "level": 2}
+{"count": 24722, "name": "Geriatrics", "weight": 2.0, "id": 54183767, "level": 2}
+{"count": 38478, "name": "Informed consent", "weight": 4.0, "id": 68122502, "level": 2}
+{"count": 82296, "name": "Pharmacy", "weight": 9.0, "id": 104863432, "level": 2}
+{"count": 23877, "name": "Long-term care", "weight": 2.0, "id": 2780233487, "level": 2}
+{"count": 15143, "name": "Preventive healthcare", "weight": 1.0, "id": 52207206, "level": 2}
+{"count": 21906, "name": "Patient education", "weight": 2.0, "id": 2777929519, "level": 2}
+{"count": 81970, "name": "Nurse education", "weight": 9.0, "id": 113616995, "level": 2}
+{"count": 17131, "name": "Medical ethics", "weight": 2.0, "id": 126086293, "level": 2}
+{"count": 12666, "name": "Nutrition Education", "weight": 1.0, "id": 2776890026, "level": 2}
+{"count": 12306, "name": "End-of-life care", "weight": 1.0, "id": 2780879335, "level": 2}
+{"count": 61880, "name": "Specialty", "weight": 7.0, "id": 20387591, "level": 2}
+{"count": 14896, "name": "Dental care", "weight": 1.0, "id": 2776693998, "level": 2}
+{"count": 82723, "name": "Referral", "weight": 10.0, "id": 2776135927, "level": 2}
+{"count": 4399, "name": "Institutional review board", "weight": 0.0, "id": 2777106319, "level": 2}
+{"count": 3393, "name": "Doctor\u2013patient relationship", "weight": 0.0, "id": 2775961244, "level": 2}
+{"count": 393, "name": "Physician-scientist", "weight": 0.0, "id": 2777443221, "level": 2}
+{"count": 6469, "name": "Medical malpractice", "weight": 0.0, "id": 514090530, "level": 2}
+{"count": 9770, "name": "Family caregivers", "weight": 1.0, "id": 2778900529, "level": 2}
+{"count": 2769, "name": "Self-medication", "weight": 0.0, "id": 142104173, "level": 2}
+{"count": 3932, "name": "Medical law", "weight": 0.0, "id": 68365596, "level": 2}
+{"count": 7719, "name": "Licensure", "weight": 0.0, "id": 2781234862, "level": 2}
+{"count": 2784, "name": "Nursing assessment", "weight": 0.0, "id": 2780813765, "level": 2}
+{"count": 1801, "name": "Minimum Data Set", "weight": 0.0, "id": 2779028819, "level": 2}
+{"count": 5043, "name": "Nursing process", "weight": 0.0, "id": 2777097888, "level": 2}
+{"count": 4006, "name": "Integrative medicine", "weight": 0.0, "id": 2778587949, "level": 2}
+{"count": 2973, "name": "Pediatric nursing", "weight": 0.0, "id": 2775961509, "level": 2}
+{"count": 6057, "name": "Nursing management", "weight": 0.0, "id": 2780344248, "level": 2}
+{"count": 2338, "name": "Objective structured clinical examination", "weight": 0.0, "id": 2778000598, "level": 2}
+{"count": 2784, "name": "Evidence-based nursing", "weight": 0.0, "id": 2780905194, "level": 2}
+{"count": 2244, "name": "Osteopathic medicine in the United States", "weight": 0.0, "id": 181844944, "level": 2}
+{"count": 1855, "name": "Parental consent", "weight": 0.0, "id": 2779171700, "level": 2}
+{"count": 1996, "name": "Adolescent medicine", "weight": 0.0, "id": 2781247642, "level": 2}
+{"count": 322, "name": "Community genetics", "weight": 0.0, "id": 2780947415, "level": 2}
+{"count": 4524, "name": "Credentialing", "weight": 0.0, "id": 2780530410, "level": 2}
+{"count": 16087, "name": "Nursing ethics", "weight": 1.0, "id": 178125196, "level": 2}
+{"count": 1921, "name": "Clinical Ethics", "weight": 0.0, "id": 2780572471, "level": 2}
+{"count": 1110, "name": "Neonatal nursing", "weight": 0.0, "id": 2776604044, "level": 2}
+{"count": 1382, "name": "Patients' rights", "weight": 0.0, "id": 2778226746, "level": 2}
+{"count": 1824, "name": "Holistic nursing", "weight": 0.0, "id": 2779989835, "level": 2}
+{"count": 2540, "name": "Journal club", "weight": 0.0, "id": 2777445551, "level": 2}
+{"count": 1045, "name": "Nurse\u2013client relationship", "weight": 0.0, "id": 175239898, "level": 2}
+{"count": 2702, "name": "Academic medicine", "weight": 0.0, "id": 2780831525, "level": 2}
+{"count": 8028, "name": "Nursing Interventions Classification", "weight": 0.0, "id": 140117577, "level": 2}
+{"count": 1873, "name": "Patient choice", "weight": 0.0, "id": 2777144654, "level": 2}
+{"count": 896, "name": "Medical classification", "weight": 0.0, "id": 154874363, "level": 2}
+{"count": 324, "name": "School Breakfast Program", "weight": 0.0, "id": 2779846139, "level": 2}
+{"count": 3817, "name": "Simulated patient", "weight": 0.0, "id": 80059220, "level": 2}
+{"count": 2252, "name": "Hospital medicine", "weight": 0.0, "id": 2780358146, "level": 2}
+{"count": 642, "name": "Geriatric dentistry", "weight": 0.0, "id": 2779097381, "level": 2}
+{"count": 2328, "name": "Clinical nurse specialist", "weight": 0.0, "id": 2778330989, "level": 2}
+{"count": 441, "name": "Practice-based research network", "weight": 0.0, "id": 2780631141, "level": 2}
+{"count": 2074, "name": "Preceptor", "weight": 0.0, "id": 2779742342, "level": 2}
+{"count": 1486, "name": "College health", "weight": 0.0, "id": 2776781095, "level": 2}
+{"count": 320, "name": "Hospice and palliative medicine", "weight": 0.0, "id": 2776822808, "level": 2}
+{"count": 2045, "name": "Revalidation", "weight": 0.0, "id": 2780398090, "level": 2}
+{"count": 336, "name": "Maternal-child nursing", "weight": 0.0, "id": 2779160856, "level": 2}
+{"count": 1454, "name": "Translational science", "weight": 0.0, "id": 57634137, "level": 2}
+{"count": 502, "name": "Insurance medicine", "weight": 0.0, "id": 2776191179, "level": 2}
+{"count": 916, "name": "Death education", "weight": 0.0, "id": 2777956134, "level": 2}
+{"count": 226, "name": "Relative value unit", "weight": 0.0, "id": 2778641802, "level": 2}
+{"count": 1182, "name": "Next of kin", "weight": 0.0, "id": 2777116211, "level": 2}
+{"count": 792, "name": "Patient-centered outcomes", "weight": 0.0, "id": 2776814669, "level": 2}
+{"count": 265, "name": "HIV/AIDS research", "weight": 0.0, "id": 2776951988, "level": 2}
+{"count": 225, "name": "Prevention of HIV/AIDS", "weight": 0.0, "id": 2779910346, "level": 2}
+{"count": 395, "name": "Medical certificate", "weight": 0.0, "id": 2776946982, "level": 2}
+{"count": 170, "name": "National Children's Study", "weight": 0.0, "id": 2780246505, "level": 2}
+{"count": 1835, "name": "Nutritionist", "weight": 0.0, "id": 2779823546, "level": 2}
+{"count": 195, "name": "Anthroposophic medicine", "weight": 0.0, "id": 2776223276, "level": 2}
+{"count": 499, "name": "Family child care", "weight": 0.0, "id": 2779063172, "level": 2}
+{"count": 6703, "name": "Subspecialty", "weight": 0.0, "id": 2780642338, "level": 2}
+{"count": 306, "name": "General Hospital Psychiatry", "weight": 0.0, "id": 2777964078, "level": 2}
+{"count": 248, "name": "Nurse-led clinic", "weight": 0.0, "id": 2779368939, "level": 2}
+{"count": 161, "name": "Child and Adult Care Food Program", "weight": 0.0, "id": 2781015274, "level": 2}
+{"count": 123, "name": "Quaternary prevention", "weight": 0.0, "id": 2780691594, "level": 2}
+{"count": 153, "name": "International emergency medicine", "weight": 0.0, "id": 2778025750, "level": 2}
+{"count": 933, "name": "Response rate", "weight": 0.0, "id": 61189997, "level": 2}
+{"count": 639, "name": "General medical services", "weight": 0.0, "id": 2777669906, "level": 2}
+{"count": 432, "name": "United States Medical Licensing Examination", "weight": 0.0, "id": 2779741528, "level": 2}
+{"count": 369, "name": "Older Americans Act", "weight": 0.0, "id": 2779457256, "level": 2}
+{"count": 216, "name": "Medicare fraud", "weight": 0.0, "id": 2779973942, "level": 2}
+{"count": 321, "name": "Flexner Report", "weight": 0.0, "id": 2781230755, "level": 2}
+{"count": 826, "name": "Total care", "weight": 0.0, "id": 2777267695, "level": 2}
+{"count": 353, "name": "Editorial independence", "weight": 0.0, "id": 2780025177, "level": 2}
+{"count": 353, "name": "House call", "weight": 0.0, "id": 2780344846, "level": 2}
+{"count": 226, "name": "Medical license", "weight": 0.0, "id": 2777897565, "level": 2}
+{"count": 538, "name": "Director of nursing", "weight": 0.0, "id": 2776737905, "level": 2}
+{"count": 106, "name": "Patient abuse", "weight": 0.0, "id": 2778177497, "level": 2}
+{"count": 68, "name": "Physician\u2013patient privilege", "weight": 0.0, "id": 2780740300, "level": 2}
+{"count": 310, "name": "Doctor's office", "weight": 0.0, "id": 2776570324, "level": 2}
+{"count": 90, "name": "White coat ceremony", "weight": 0.0, "id": 62591217, "level": 2}
+{"count": 25, "name": "People-first language", "weight": 0.0, "id": 2780210949, "level": 2}
+{"count": 150, "name": "Independent medical examination", "weight": 0.0, "id": 116260871, "level": 2}
+{"count": 28, "name": "Doctor's visit", "weight": 0.0, "id": 2780694726, "level": 2}
+{"count": 118, "name": "Navigator Program", "weight": 0.0, "id": 2779322155, "level": 2}
+{"count": 20, "name": "Medical Orders for Life-Sustaining Treatment", "weight": 0.0, "id": 2780259122, "level": 2}
+{"count": 45, "name": "H.323 Gatekeeper", "weight": 0.0, "id": 155097751, "level": 2}
+{"count": 98, "name": "UK National Screening Committee", "weight": 0.0, "id": 2779722197, "level": 2}
+{"count": 52, "name": "Online doctor", "weight": 0.0, "id": 2777203284, "level": 2}
+{"count": 34, "name": "Clinical peer review", "weight": 0.0, "id": 2776807720, "level": 2}
+{"count": 77, "name": "Women in nursing", "weight": 0.0, "id": 2781245972, "level": 2}
+{"count": 118, "name": "Assessment and plan", "weight": 0.0, "id": 2781398571, "level": 2}
+{"count": 9, "name": "Medical education in Norway", "weight": 0.0, "id": 2778789199, "level": 2}
+{"count": 9, "name": "American Medical College Application Service", "weight": 0.0, "id": 2777694342, "level": 2}
+{"count": 2, "name": "Daily Assessment of Symptoms \u2013 Anxiety", "weight": 0.0, "id": 2781296166, "level": 2}

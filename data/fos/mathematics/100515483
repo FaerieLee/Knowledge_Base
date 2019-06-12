@@ -1,0 +1,3 @@
+{"count": 1101, "name": "Quadrature mirror filter", "weight": 8.0, "id": 64621657, "level": 3}
+{"count": 1260, "name": "Reconstruction filter", "weight": 10.0, "id": 41578188, "level": 3}
+{"count": 214, "name": "Polyphase matrix", "weight": 1.0, "id": 81962532, "level": 3}

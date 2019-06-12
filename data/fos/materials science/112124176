@@ -1,0 +1,20 @@
+{"count": 3870, "name": "Pitching moment", "weight": 10.0, "id": 46820840, "level": 3}
+{"count": 135, "name": "Joukowsky transform", "weight": 0.0, "id": 78533743, "level": 3}
+{"count": 130, "name": "Supersonic airfoils", "weight": 0.0, "id": 2779798683, "level": 3}
+{"count": 509, "name": "Kutta condition", "weight": 1.0, "id": 182709274, "level": 3}
+{"count": 1549, "name": "NACA", "weight": 4.0, "id": 2779873734, "level": 3}
+{"count": 384, "name": "Gurney flap", "weight": 0.0, "id": 2779943039, "level": 3}
+{"count": 1284, "name": "Reduced frequency", "weight": 3.0, "id": 2777152854, "level": 3}
+{"count": 2432, "name": "NACA airfoil", "weight": 6.0, "id": 189360488, "level": 3}
+{"count": 411, "name": "Supercritical airfoil", "weight": 1.0, "id": 2778796009, "level": 3}
+{"count": 998, "name": "Chord (aeronautics)", "weight": 2.0, "id": 50331138, "level": 3}
+{"count": 312, "name": "Post stall", "weight": 0.0, "id": 2781202724, "level": 3}
+{"count": 363, "name": "XFOIL", "weight": 0.0, "id": 2778597625, "level": 3}
+{"count": 319, "name": "Glaze ice", "weight": 0.0, "id": 90664946, "level": 3}
+{"count": 1428, "name": "Relative wind", "weight": 3.0, "id": 111582010, "level": 3}
+{"count": 319, "name": "Clark Y", "weight": 0.0, "id": 2779414816, "level": 3}
+{"count": 47, "name": "Decambering", "weight": 0.0, "id": 2776767746, "level": 3}
+{"count": 315, "name": "Shock stall", "weight": 0.0, "id": 142388331, "level": 3}
+{"count": 90, "name": "Circulation control wing", "weight": 0.0, "id": 2781215850, "level": 3}
+{"count": 5, "name": "Kline\u2013Fogleman airfoil", "weight": 0.0, "id": 2778748185, "level": 3}
+{"count": 42, "name": "Wing-shape optimization", "weight": 0.0, "id": 2778037175, "level": 3}

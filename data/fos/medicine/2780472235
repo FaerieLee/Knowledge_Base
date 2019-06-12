@@ -1,0 +1,22 @@
+{"count": 8271, "name": "Breast cancer screening", "weight": 10.0, "id": 2778491387, "level": 5}
+{"count": 6044, "name": "Breast imaging", "weight": 7.0, "id": 2777432617, "level": 5}
+{"count": 4556, "name": "Digital mammography", "weight": 5.0, "id": 2781281974, "level": 5}
+{"count": 2245, "name": "Microcalcification", "weight": 2.0, "id": 2781129008, "level": 5}
+{"count": 3037, "name": "Breast biopsy", "weight": 3.0, "id": 2777517664, "level": 5}
+{"count": 4145, "name": "Tomosynthesis", "weight": 5.0, "id": 147454874, "level": 5}
+{"count": 2777, "name": "Breast MRI", "weight": 3.0, "id": 2777111374, "level": 5}
+{"count": 1941, "name": "Breast ultrasound", "weight": 2.0, "id": 2777423100, "level": 5}
+{"count": 890, "name": "BI-RADS", "weight": 1.0, "id": 2779098232, "level": 5}
+{"count": 327, "name": "Positron emission mammography", "weight": 0.0, "id": 2778910389, "level": 5}
+{"count": 741, "name": "Scintimammography", "weight": 0.0, "id": 2780285475, "level": 5}
+{"count": 307, "name": "Simultaneous Algebraic Reconstruction Technique", "weight": 0.0, "id": 2778878816, "level": 5}
+{"count": 396, "name": "Radial scar", "weight": 0.0, "id": 2776378012, "level": 5}
+{"count": 340, "name": "Galactography", "weight": 0.0, "id": 2779113232, "level": 5}
+{"count": 104, "name": "CEDM", "weight": 0.0, "id": 2777388111, "level": 5}
+{"count": 349, "name": "Vacuum-assisted breast biopsy", "weight": 0.0, "id": 2781250434, "level": 5}
+{"count": 106, "name": "Spiculated mass", "weight": 0.0, "id": 2778252351, "level": 5}
+{"count": 40, "name": "Automated whole-breast ultrasound", "weight": 0.0, "id": 2777723297, "level": 5}
+{"count": 111, "name": "Mammography Quality Standards Act", "weight": 0.0, "id": 2777640117, "level": 5}
+{"count": 22, "name": "Fibrocystic breasts", "weight": 0.0, "id": 2779229018, "level": 5}
+{"count": 21, "name": "Triple test score", "weight": 0.0, "id": 2778126149, "level": 5}
+{"count": 80, "name": "Positive recall", "weight": 0.0, "id": 2778849799, "level": 5}

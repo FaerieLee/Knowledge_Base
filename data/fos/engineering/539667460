@@ -1,0 +1,101 @@
+{"count": 93333, "name": "Decision support system", "weight": 10.0, "id": 107327155, "level": 2}
+{"count": 17359, "name": "Decision theory", "weight": 1.0, "id": 28901747, "level": 2}
+{"count": 52193, "name": "Analytic hierarchy process", "weight": 5.0, "id": 87345402, "level": 2}
+{"count": 43652, "name": "Organizational learning", "weight": 4.0, "id": 169735623, "level": 2}
+{"count": 18739, "name": "Decision-making", "weight": 2.0, "id": 122308676, "level": 2}
+{"count": 21026, "name": "Knowledge engineering", "weight": 2.0, "id": 84685590, "level": 2}
+{"count": 27300, "name": "Decision analysis", "weight": 2.0, "id": 186116695, "level": 2}
+{"count": 10754, "name": "Group decision-making", "weight": 1.0, "id": 20701700, "level": 2}
+{"count": 15493, "name": "Decision model", "weight": 1.0, "id": 59594135, "level": 2}
+{"count": 10863, "name": "Tacit knowledge", "weight": 1.0, "id": 2779561248, "level": 2}
+{"count": 8546, "name": "Organizational architecture", "weight": 0.0, "id": 156812175, "level": 2}
+{"count": 11286, "name": "Design research", "weight": 1.0, "id": 119142448, "level": 2}
+{"count": 6689, "name": "Goal programming", "weight": 0.0, "id": 61157135, "level": 2}
+{"count": 5523, "name": "Agent-based model", "weight": 0.0, "id": 2780873155, "level": 2}
+{"count": 9314, "name": "Systems thinking", "weight": 0.0, "id": 27177047, "level": 2}
+{"count": 5312, "name": "Complex adaptive system", "weight": 0.0, "id": 63108463, "level": 2}
+{"count": 4917, "name": "Dynamic capabilities", "weight": 0.0, "id": 2780504989, "level": 2}
+{"count": 13623, "name": "Multiple-criteria decision analysis", "weight": 1.0, "id": 11105738, "level": 2}
+{"count": 5992, "name": "Technology strategy", "weight": 0.0, "id": 544072693, "level": 2}
+{"count": 6089, "name": "Participatory design", "weight": 0.0, "id": 2777455480, "level": 2}
+{"count": 3422, "name": "Contingency theory", "weight": 0.0, "id": 60297154, "level": 2}
+{"count": 1530, "name": "Design rationale", "weight": 0.0, "id": 3473561, "level": 2}
+{"count": 13655, "name": "Business rule", "weight": 1.0, "id": 11066294, "level": 2}
+{"count": 7868, "name": "Sociotechnical system", "weight": 0.0, "id": 127627568, "level": 2}
+{"count": 2170, "name": "Design science", "weight": 0.0, "id": 2780103759, "level": 2}
+{"count": 5376, "name": "Design thinking", "weight": 0.0, "id": 142778471, "level": 2}
+{"count": 2910, "name": "Scenario planning", "weight": 0.0, "id": 202033279, "level": 2}
+{"count": 9732, "name": "Optimal decision", "weight": 1.0, "id": 150325174, "level": 2}
+{"count": 10154, "name": "Futures studies", "weight": 1.0, "id": 64848388, "level": 2}
+{"count": 811, "name": "Boundary object", "weight": 0.0, "id": 2780920095, "level": 2}
+{"count": 1409, "name": "Collaborative Problem Solving", "weight": 0.0, "id": 2778284867, "level": 2}
+{"count": 3447, "name": "Decision aids", "weight": 0.0, "id": 2780033181, "level": 2}
+{"count": 3422, "name": "Strategy implementation", "weight": 0.0, "id": 2780637533, "level": 2}
+{"count": 1001, "name": "Dynamic decision-making", "weight": 0.0, "id": 174988536, "level": 2}
+{"count": 2488, "name": "Systems science", "weight": 0.0, "id": 117847474, "level": 2}
+{"count": 808, "name": "Computational economics", "weight": 0.0, "id": 2776142066, "level": 2}
+{"count": 1107, "name": "Business game", "weight": 0.0, "id": 2778323702, "level": 2}
+{"count": 1511, "name": "Boundary spanning", "weight": 0.0, "id": 196067599, "level": 2}
+{"count": 3740, "name": "Decision-making models", "weight": 0.0, "id": 2888476, "level": 2}
+{"count": 2007, "name": "Implementation research", "weight": 0.0, "id": 72497813, "level": 2}
+{"count": 388, "name": "Agent-based computational economics", "weight": 0.0, "id": 2777618053, "level": 2}
+{"count": 719, "name": "Computational sociology", "weight": 0.0, "id": 126349790, "level": 2}
+{"count": 240, "name": "Post-normal science", "weight": 0.0, "id": 2780795620, "level": 2}
+{"count": 368, "name": "Value sensitive design", "weight": 0.0, "id": 2779523757, "level": 2}
+{"count": 1437, "name": "Expert elicitation", "weight": 0.0, "id": 72161134, "level": 2}
+{"count": 2118, "name": "ELECTRE", "weight": 0.0, "id": 47431972, "level": 2}
+{"count": 3279, "name": "Rational planning model", "weight": 0.0, "id": 36375443, "level": 2}
+{"count": 1170, "name": "Wicked problem", "weight": 0.0, "id": 2777489824, "level": 2}
+{"count": 1464, "name": "Decision quality", "weight": 0.0, "id": 2779351106, "level": 2}
+{"count": 466, "name": "Robust decision-making", "weight": 0.0, "id": 2777867642, "level": 2}
+{"count": 2157, "name": "Complexity management", "weight": 0.0, "id": 57936825, "level": 2}
+{"count": 781, "name": "Strategic intelligence", "weight": 0.0, "id": 2778542649, "level": 2}
+{"count": 1020, "name": "Contingency approach", "weight": 0.0, "id": 144316380, "level": 2}
+{"count": 2394, "name": "Strategic design", "weight": 0.0, "id": 87736272, "level": 2}
+{"count": 92, "name": "Sugarscape", "weight": 0.0, "id": 2776173305, "level": 2}
+{"count": 289, "name": "Project networks", "weight": 0.0, "id": 2777768463, "level": 2}
+{"count": 1182, "name": "Business simulation", "weight": 0.0, "id": 2780483485, "level": 2}
+{"count": 348, "name": "Artificial society", "weight": 0.0, "id": 2775981055, "level": 2}
+{"count": 331, "name": "Technology intelligence", "weight": 0.0, "id": 2777321096, "level": 2}
+{"count": 285, "name": "Multi-agent planning", "weight": 0.0, "id": 2776713243, "level": 2}
+{"count": 270, "name": "Participatory modeling", "weight": 0.0, "id": 2780621478, "level": 2}
+{"count": 611, "name": "Problem management", "weight": 0.0, "id": 99018643, "level": 2}
+{"count": 278, "name": "Geodesign", "weight": 0.0, "id": 170147591, "level": 2}
+{"count": 251, "name": "Data based decision making", "weight": 0.0, "id": 2776675990, "level": 2}
+{"count": 238, "name": "Effects-based operations", "weight": 0.0, "id": 2781114426, "level": 2}
+{"count": 184, "name": "Cross impact analysis", "weight": 0.0, "id": 34637939, "level": 2}
+{"count": 391, "name": "Multi-attribute utility", "weight": 0.0, "id": 2780750474, "level": 2}
+{"count": 260, "name": "Matrix management", "weight": 0.0, "id": 41413648, "level": 2}
+{"count": 22, "name": "Control theory (sociology)", "weight": 0.0, "id": 47446073, "level": 2}
+{"count": 2898, "name": "Systematic process", "weight": 0.0, "id": 44030460, "level": 2}
+{"count": 87, "name": "Linear model of innovation", "weight": 0.0, "id": 2778626457, "level": 2}
+{"count": 143, "name": "Viable systems approach", "weight": 0.0, "id": 2779788146, "level": 2}
+{"count": 128, "name": "Opportunity management", "weight": 0.0, "id": 2779967005, "level": 2}
+{"count": 178, "name": "Constructive research", "weight": 0.0, "id": 2777331624, "level": 2}
+{"count": 138, "name": "Value-driven design", "weight": 0.0, "id": 2776426461, "level": 2}
+{"count": 100, "name": "Network of practice", "weight": 0.0, "id": 2777602254, "level": 2}
+{"count": 163, "name": "Artificial intelligence and law", "weight": 0.0, "id": 2777200204, "level": 2}
+{"count": 133, "name": "Knowledge ecosystem", "weight": 0.0, "id": 2779323733, "level": 2}
+{"count": 460, "name": "Decision management", "weight": 0.0, "id": 2776184337, "level": 2}
+{"count": 180, "name": "Soft goal", "weight": 0.0, "id": 185172162, "level": 2}
+{"count": 126, "name": "Partial-order planning", "weight": 0.0, "id": 2777116644, "level": 2}
+{"count": 19, "name": "Judge\u2013advisor system", "weight": 0.0, "id": 2779084808, "level": 2}
+{"count": 136, "name": "Technology dynamics", "weight": 0.0, "id": 2777399949, "level": 2}
+{"count": 65, "name": "Data-informed decision-making", "weight": 0.0, "id": 2776660648, "level": 2}
+{"count": 67, "name": "Morphological box", "weight": 0.0, "id": 64301856, "level": 2}
+{"count": 65, "name": "Science of team science", "weight": 0.0, "id": 2776012002, "level": 2}
+{"count": 781, "name": "Behavioral operations research", "weight": 0.0, "id": 190929874, "level": 2}
+{"count": 52, "name": "Technology alignment", "weight": 0.0, "id": 2776674144, "level": 2}
+{"count": 194, "name": "Tradespace", "weight": 0.0, "id": 45248598, "level": 2}
+{"count": 35, "name": "Qualitative economics", "weight": 0.0, "id": 150655782, "level": 2}
+{"count": 374, "name": "Feasibility study", "weight": 0.0, "id": 43720462, "level": 2}
+{"count": 15, "name": "Converging Technologies for Improving Human Performance", "weight": 0.0, "id": 2776912056, "level": 2}
+{"count": 72, "name": "Structure follows strategy", "weight": 0.0, "id": 2776834576, "level": 2}
+{"count": 500, "name": "Modeling perspective", "weight": 0.0, "id": 73951748, "level": 2}
+{"count": 10, "name": "Decision-making paradox", "weight": 0.0, "id": 2779272393, "level": 2}
+{"count": 11, "name": "Eight Disciplines Problem Solving", "weight": 0.0, "id": 80752171, "level": 2}
+{"count": 46, "name": "Simulated Society", "weight": 0.0, "id": 2777193777, "level": 2}
+{"count": 550, "name": "General Group Problem Solving (GGPS) Model", "weight": 0.0, "id": 54461396, "level": 2}
+{"count": 19, "name": "Actor modeling", "weight": 0.0, "id": 2781103743, "level": 2}
+{"count": 155, "name": "Case study in psychology", "weight": 0.0, "id": 177429239, "level": 2}
+{"count": 3095, "name": "Intelligence cycle (target-centric approach)", "weight": 0.0, "id": 138207750, "level": 2}

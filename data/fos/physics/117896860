@@ -1,0 +1,25 @@
+{"count": 3624, "name": "Plasma acceleration", "weight": 7.0, "id": 198861627, "level": 3}
+{"count": 5082, "name": "Angular acceleration", "weight": 10.0, "id": 190704821, "level": 3}
+{"count": 903, "name": "Fermi acceleration", "weight": 1.0, "id": 2777811780, "level": 3}
+{"count": 4922, "name": "Jerk", "weight": 9.0, "id": 181605269, "level": 3}
+{"count": 1810, "name": "Proof mass", "weight": 3.0, "id": 2780330379, "level": 3}
+{"count": 387, "name": "Pioneer anomaly", "weight": 0.0, "id": 203542878, "level": 3}
+{"count": 565, "name": "Head injury criterion", "weight": 1.0, "id": 2776901443, "level": 3}
+{"count": 1382, "name": "Proportional navigation", "weight": 2.0, "id": 2778464233, "level": 3}
+{"count": 1380, "name": "Spectral acceleration", "weight": 2.0, "id": 68295578, "level": 3}
+{"count": 1108, "name": "Euler force", "weight": 2.0, "id": 169613056, "level": 3}
+{"count": 1649, "name": "Yaw-rate sensor", "weight": 3.0, "id": 127761069, "level": 3}
+{"count": 297, "name": "Arias Intensity", "weight": 0.0, "id": 83369375, "level": 3}
+{"count": 170, "name": "Inertial switch", "weight": 0.0, "id": 2777448162, "level": 3}
+{"count": 159, "name": "Free fall", "weight": 0.0, "id": 52326447, "level": 3}
+{"count": 129, "name": "Artificial wave", "weight": 0.0, "id": 2778030049, "level": 3}
+{"count": 68, "name": "Atwood machine", "weight": 0.0, "id": 75666825, "level": 3}
+{"count": 42, "name": "Banked turn", "weight": 0.0, "id": 169007574, "level": 3}
+{"count": 324, "name": "Spatial acceleration", "weight": 0.0, "id": 204589417, "level": 3}
+{"count": 55, "name": "Four-acceleration", "weight": 0.0, "id": 2777631781, "level": 3}
+{"count": 273, "name": "Standard gravity", "weight": 0.0, "id": 158491681, "level": 3}
+{"count": 201, "name": "Proper acceleration", "weight": 0.0, "id": 56993271, "level": 3}
+{"count": 62, "name": "Aitken's delta-squared process", "weight": 0.0, "id": 129158679, "level": 3}
+{"count": 13, "name": "Siacci's theorem", "weight": 0.0, "id": 99667363, "level": 3}
+{"count": 27, "name": "Shock and vibration data logger", "weight": 0.0, "id": 71618829, "level": 3}
+{"count": 34, "name": "Velocity", "weight": 0.0, "id": 108821247, "level": 3}

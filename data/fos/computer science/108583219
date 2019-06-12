@@ -1,0 +1,8 @@
+{"count": 2281, "name": "Deep belief network", "weight": 2.0, "id": 97385483, "level": 4}
+{"count": 3507, "name": "Autoencoder", "weight": 3.0, "id": 101738243, "level": 4}
+{"count": 1275, "name": "Restricted Boltzmann machine", "weight": 1.0, "id": 199354608, "level": 4}
+{"count": 1718, "name": "Neocognitron", "weight": 1.0, "id": 121144440, "level": 4}
+{"count": 187, "name": "Theano", "weight": 0.0, "id": 2776159882, "level": 4}
+{"count": 89, "name": "Vanishing gradient problem", "weight": 0.0, "id": 2778149865, "level": 4}
+{"count": 9002, "name": "Types of artificial neural networks", "weight": 10.0, "id": 177973122, "level": 4}
+{"count": 28, "name": "Google Brain", "weight": 0.0, "id": 86528369, "level": 4}

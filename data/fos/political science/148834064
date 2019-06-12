@@ -1,0 +1,200 @@
+{"count": 88824, "name": "Private sector", "weight": 10.0, "id": 121426985, "level": 3}
+{"count": 28300, "name": "Fiscal policy", "weight": 3.0, "id": 524878704, "level": 3}
+{"count": 29635, "name": "Public finance", "weight": 3.0, "id": 178283979, "level": 3}
+{"count": 15928, "name": "Health economics", "weight": 1.0, "id": 524218345, "level": 3}
+{"count": 43615, "name": "Public service", "weight": 4.0, "id": 2780110086, "level": 3}
+{"count": 9380, "name": "Market failure", "weight": 1.0, "id": 178411942, "level": 3}
+{"count": 22283, "name": "Population health", "weight": 2.0, "id": 2778149918, "level": 3}
+{"count": 10086, "name": "Public expenditure", "weight": 1.0, "id": 2777234743, "level": 3}
+{"count": 9019, "name": "Government spending", "weight": 1.0, "id": 2781356325, "level": 3}
+{"count": 11328, "name": "Economic interventionism", "weight": 1.0, "id": 172886114, "level": 3}
+{"count": 16867, "name": "Good governance", "weight": 1.0, "id": 2780526558, "level": 3}
+{"count": 7057, "name": "Deficit spending", "weight": 0.0, "id": 45619296, "level": 3}
+{"count": 19413, "name": "Federalism", "weight": 2.0, "id": 533735693, "level": 3}
+{"count": 12971, "name": "E-Government", "weight": 1.0, "id": 170007233, "level": 3}
+{"count": 4180, "name": "Public infrastructure", "weight": 0.0, "id": 2776330005, "level": 3}
+{"count": 10014, "name": "Separation of powers", "weight": 1.0, "id": 126053111, "level": 3}
+{"count": 12901, "name": "New public management", "weight": 1.0, "id": 47936135, "level": 3}
+{"count": 26376, "name": "Central government", "weight": 2.0, "id": 62908951, "level": 3}
+{"count": 3403, "name": "Transfer payment", "weight": 0.0, "id": 158830683, "level": 3}
+{"count": 2348, "name": "Government budget", "weight": 0.0, "id": 2780269213, "level": 3}
+{"count": 5925, "name": "Market mechanism", "weight": 0.0, "id": 2777137687, "level": 3}
+{"count": 1631, "name": "Universal Primary Education", "weight": 0.0, "id": 2781022233, "level": 3}
+{"count": 564, "name": "Contingent liability", "weight": 0.0, "id": 54879946, "level": 3}
+{"count": 8961, "name": "Devolution", "weight": 1.0, "id": 19185018, "level": 3}
+{"count": 2195, "name": "Family planning policy", "weight": 0.0, "id": 2778877664, "level": 3}
+{"count": 1679, "name": "Government bond", "weight": 0.0, "id": 2780389337, "level": 3}
+{"count": 4924, "name": "Political corruption", "weight": 0.0, "id": 508889258, "level": 3}
+{"count": 2244, "name": "Budget process", "weight": 0.0, "id": 2777196312, "level": 3}
+{"count": 2346, "name": "Block grant", "weight": 0.0, "id": 52417709, "level": 3}
+{"count": 3288, "name": "Government procurement", "weight": 0.0, "id": 2779253866, "level": 3}
+{"count": 2931, "name": "E-governance", "weight": 0.0, "id": 2775975177, "level": 3}
+{"count": 1525, "name": "Civil affairs", "weight": 0.0, "id": 2778240384, "level": 3}
+{"count": 2158, "name": "Military government", "weight": 0.0, "id": 2779274809, "level": 3}
+{"count": 2744, "name": "Open government", "weight": 0.0, "id": 2777221391, "level": 3}
+{"count": 719, "name": "Budget support", "weight": 0.0, "id": 2777354075, "level": 3}
+{"count": 28, "name": "Solution process", "weight": 0.0, "id": 2778357024, "level": 3}
+{"count": 2924, "name": "Bailout", "weight": 0.0, "id": 2779775300, "level": 3}
+{"count": 691, "name": "National Information Infrastructure", "weight": 0.0, "id": 2776746713, "level": 3}
+{"count": 9932, "name": "White paper", "weight": 1.0, "id": 2778605646, "level": 3}
+{"count": 855, "name": "National Development Plan", "weight": 0.0, "id": 2780237831, "level": 3}
+{"count": 303, "name": "Benefit incidence", "weight": 0.0, "id": 2780314200, "level": 3}
+{"count": 916, "name": "Seigniorage", "weight": 0.0, "id": 2780089521, "level": 3}
+{"count": 4998, "name": "Public trust", "weight": 0.0, "id": 2777825026, "level": 3}
+{"count": 3658, "name": "Federal budget", "weight": 0.0, "id": 2780822617, "level": 3}
+{"count": 1708, "name": "Balanced budget", "weight": 0.0, "id": 2779931205, "level": 3}
+{"count": 1558, "name": "Establishment Clause", "weight": 0.0, "id": 2778323131, "level": 3}
+{"count": 472, "name": "Poverty Reduction Strategy Paper", "weight": 0.0, "id": 2778329027, "level": 3}
+{"count": 2381, "name": "Free Exercise Clause", "weight": 0.0, "id": 104636517, "level": 3}
+{"count": 1004, "name": "Corrupt practices", "weight": 0.0, "id": 2780208563, "level": 3}
+{"count": 996, "name": "e-participation", "weight": 0.0, "id": 2778056439, "level": 3}
+{"count": 2905, "name": "Centralized government", "weight": 0.0, "id": 120144228, "level": 3}
+{"count": 989, "name": "United States National Security Agency", "weight": 0.0, "id": 517823627, "level": 3}
+{"count": 1207, "name": "Free education", "weight": 0.0, "id": 2778511055, "level": 3}
+{"count": 3793, "name": "Coalition government", "weight": 0.0, "id": 2776568539, "level": 3}
+{"count": 2630, "name": "Aggregate expenditure", "weight": 0.0, "id": 192250389, "level": 3}
+{"count": 1503, "name": "Martial law", "weight": 0.0, "id": 2777452007, "level": 3}
+{"count": 1097, "name": "Diamond model", "weight": 0.0, "id": 2776288071, "level": 3}
+{"count": 2600, "name": "Security forces", "weight": 0.0, "id": 2775907854, "level": 3}
+{"count": 1114, "name": "National Security Council", "weight": 0.0, "id": 2778892158, "level": 3}
+{"count": 2988, "name": "Select committee", "weight": 0.0, "id": 2778276147, "level": 3}
+{"count": 120, "name": "Monetary discipline", "weight": 0.0, "id": 2777461691, "level": 3}
+{"count": 149, "name": "Final consumption expenditure", "weight": 0.0, "id": 2781308888, "level": 3}
+{"count": 1503, "name": "Good government", "weight": 0.0, "id": 2780655730, "level": 3}
+{"count": 101, "name": "Red tape", "weight": 0.0, "id": 58047569, "level": 3}
+{"count": 883, "name": "Big Society", "weight": 0.0, "id": 2776311859, "level": 3}
+{"count": 1913, "name": "Constitution of India", "weight": 0.0, "id": 115505562, "level": 3}
+{"count": 599, "name": "Cronyism", "weight": 0.0, "id": 2778796478, "level": 3}
+{"count": 634, "name": "Pharmaceutical Benefits Scheme", "weight": 0.0, "id": 2778793514, "level": 3}
+{"count": 345, "name": "Administrative guidance", "weight": 0.0, "id": 2777613848, "level": 3}
+{"count": 1111, "name": "Patriot Act", "weight": 0.0, "id": 2778886770, "level": 3}
+{"count": 776, "name": "Just compensation", "weight": 0.0, "id": 2777828199, "level": 3}
+{"count": 2068, "name": "Regional autonomy", "weight": 0.0, "id": 2779493567, "level": 3}
+{"count": 644, "name": "Black Economic Empowerment", "weight": 0.0, "id": 2780185301, "level": 3}
+{"count": 1940, "name": "Green paper", "weight": 0.0, "id": 2780611403, "level": 3}
+{"count": 991, "name": "Failed state", "weight": 0.0, "id": 2777054862, "level": 3}
+{"count": 792, "name": "Combating Corruption", "weight": 0.0, "id": 2776212398, "level": 3}
+{"count": 1176, "name": "Legislative assembly", "weight": 0.0, "id": 2776977782, "level": 3}
+{"count": 131, "name": "Golden share", "weight": 0.0, "id": 2779495945, "level": 3}
+{"count": 322, "name": "Government Performance and Results Act", "weight": 0.0, "id": 2779109526, "level": 3}
+{"count": 1752, "name": "Exchequer", "weight": 0.0, "id": 2777212497, "level": 3}
+{"count": 1852, "name": "Limited government", "weight": 0.0, "id": 197768897, "level": 3}
+{"count": 324, "name": "Fiscal illusion", "weight": 0.0, "id": 2776432149, "level": 3}
+{"count": 197, "name": "E-Administration", "weight": 0.0, "id": 2780188385, "level": 3}
+{"count": 443, "name": "Flypaper effect", "weight": 0.0, "id": 2781396481, "level": 3}
+{"count": 255, "name": "Political opportunism", "weight": 0.0, "id": 2776274671, "level": 3}
+{"count": 615, "name": "Minority government", "weight": 0.0, "id": 2776946107, "level": 3}
+{"count": 480, "name": "Internet censorship", "weight": 0.0, "id": 2776939270, "level": 3}
+{"count": 697, "name": "Military aid", "weight": 0.0, "id": 2778165026, "level": 3}
+{"count": 480, "name": "Public budgeting", "weight": 0.0, "id": 2776488190, "level": 3}
+{"count": 1075, "name": "Federal Information Processing Standards", "weight": 0.0, "id": 51402658, "level": 3}
+{"count": 216, "name": "Reconstruction and Development Programme", "weight": 0.0, "id": 2780862182, "level": 3}
+{"count": 1018, "name": "Responsible government", "weight": 0.0, "id": 2776671265, "level": 3}
+{"count": 347, "name": "National Nanotechnology Initiative", "weight": 0.0, "id": 2780349207, "level": 3}
+{"count": 185, "name": "Industry self-regulation", "weight": 0.0, "id": 2778528411, "level": 3}
+{"count": 326, "name": "Troubled Asset Relief Program", "weight": 0.0, "id": 540888833, "level": 3}
+{"count": 408, "name": "Public Accounts Committee", "weight": 0.0, "id": 2778243394, "level": 3}
+{"count": 1136, "name": "Trade name", "weight": 0.0, "id": 2780733346, "level": 3}
+{"count": 353, "name": "Commodity programs", "weight": 0.0, "id": 2777813273, "level": 3}
+{"count": 543, "name": "False Claims Act", "weight": 0.0, "id": 2778955637, "level": 3}
+{"count": 1988, "name": "Ministry of Foreign Affairs", "weight": 0.0, "id": 2780799905, "level": 3}
+{"count": 196, "name": "Gross enrolment ratio", "weight": 0.0, "id": 2777538862, "level": 3}
+{"count": 104, "name": "Public sector comparator", "weight": 0.0, "id": 2777086665, "level": 3}
+{"count": 105, "name": "Program Assessment Rating Tool", "weight": 0.0, "id": 2776702525, "level": 3}
+{"count": 206, "name": "Road Fund", "weight": 0.0, "id": 2779022522, "level": 3}
+{"count": 132, "name": "Women in government", "weight": 0.0, "id": 2778161261, "level": 3}
+{"count": 71, "name": "Certificate of occupancy", "weight": 0.0, "id": 149126043, "level": 3}
+{"count": 667, "name": "Knesset", "weight": 0.0, "id": 193897990, "level": 3}
+{"count": 264, "name": "Enemy combatant", "weight": 0.0, "id": 2775939076, "level": 3}
+{"count": 316, "name": "Illegal mining", "weight": 0.0, "id": 2781202899, "level": 3}
+{"count": 539, "name": "National Rural Health Mission", "weight": 0.0, "id": 2779015095, "level": 3}
+{"count": 116, "name": "Contraceptive security", "weight": 0.0, "id": 2776820240, "level": 3}
+{"count": 142, "name": "Production sharing agreement", "weight": 0.0, "id": 2776499299, "level": 3}
+{"count": 227, "name": "Regulatory taking", "weight": 0.0, "id": 2778501726, "level": 3}
+{"count": 144, "name": "Government ethics", "weight": 0.0, "id": 2781450060, "level": 3}
+{"count": 994, "name": "Government Office", "weight": 0.0, "id": 2778244660, "level": 3}
+{"count": 1047, "name": "Multi-party system", "weight": 0.0, "id": 160663922, "level": 3}
+{"count": 298, "name": "Direct rule", "weight": 0.0, "id": 2776779800, "level": 3}
+{"count": 82, "name": "Excess burden of taxation", "weight": 0.0, "id": 2780514585, "level": 3}
+{"count": 278, "name": "Foreign Intelligence Surveillance Act", "weight": 0.0, "id": 2779269999, "level": 3}
+{"count": 190, "name": "Marginal cost of public funds", "weight": 0.0, "id": 2781462415, "level": 3}
+{"count": 288, "name": "Prior restraint", "weight": 0.0, "id": 2780310593, "level": 3}
+{"count": 201, "name": "Charitable choice", "weight": 0.0, "id": 2777173703, "level": 3}
+{"count": 215, "name": "Sunshine Policy", "weight": 0.0, "id": 2778196289, "level": 3}
+{"count": 238, "name": "Government speech", "weight": 0.0, "id": 2781334886, "level": 3}
+{"count": 177, "name": "Ninth Malaysia Plan", "weight": 0.0, "id": 2776859587, "level": 3}
+{"count": 766, "name": "Term of office", "weight": 0.0, "id": 2776794151, "level": 3}
+{"count": 461, "name": "Congressional Record", "weight": 0.0, "id": 2780944079, "level": 3}
+{"count": 506, "name": "Farm programs", "weight": 0.0, "id": 2781134122, "level": 3}
+{"count": 380, "name": "National champions", "weight": 0.0, "id": 2780561120, "level": 3}
+{"count": 329, "name": "Indian Act", "weight": 0.0, "id": 2778459495, "level": 3}
+{"count": 243, "name": "Federal Tort Claims Act", "weight": 0.0, "id": 2779974535, "level": 3}
+{"count": 459, "name": "Maladministration", "weight": 0.0, "id": 2777386858, "level": 3}
+{"count": 186, "name": "Right to petition", "weight": 0.0, "id": 2776937921, "level": 3}
+{"count": 203, "name": "Microeconomic reform", "weight": 0.0, "id": 2779236963, "level": 3}
+{"count": 331, "name": "Arms embargo", "weight": 0.0, "id": 2775973746, "level": 3}
+{"count": 129, "name": "Transformational Government", "weight": 0.0, "id": 2780352286, "level": 3}
+{"count": 366, "name": "Comprehensive Peace Agreement", "weight": 0.0, "id": 2776670723, "level": 3}
+{"count": 217, "name": "ArBenz", "weight": 0.0, "id": 2779570374, "level": 3}
+{"count": 144, "name": "Pacific Solution", "weight": 0.0, "id": 2778736949, "level": 3}
+{"count": 20, "name": "Tax choice", "weight": 0.0, "id": 2776312432, "level": 3}
+{"count": 209, "name": "Intermediate scrutiny", "weight": 0.0, "id": 2781057107, "level": 3}
+{"count": 276, "name": "House of Assembly", "weight": 0.0, "id": 2776289120, "level": 3}
+{"count": 228, "name": "Incapacity Benefit", "weight": 0.0, "id": 2781002587, "level": 3}
+{"count": 360, "name": "Direct Provision", "weight": 0.0, "id": 2781438025, "level": 3}
+{"count": 265, "name": "National Disability Insurance Scheme", "weight": 0.0, "id": 2781140413, "level": 3}
+{"count": 100, "name": "Output-based aid", "weight": 0.0, "id": 2781045264, "level": 3}
+{"count": 240, "name": "National Broadband Network", "weight": 0.0, "id": 161715444, "level": 3}
+{"count": 109, "name": "Stored Communications Act", "weight": 0.0, "id": 2781163275, "level": 3}
+{"count": 115, "name": "Government-to-government", "weight": 0.0, "id": 2779909205, "level": 3}
+{"count": 179, "name": "Northwest Ordinance", "weight": 0.0, "id": 2779695715, "level": 3}
+{"count": 222, "name": "Contract with America", "weight": 0.0, "id": 2776755751, "level": 3}
+{"count": 132, "name": "Alien and Sedition Acts", "weight": 0.0, "id": 2781207483, "level": 3}
+{"count": 237, "name": "Federal Depository Library Program", "weight": 0.0, "id": 2778383560, "level": 3}
+{"count": 138, "name": "Official Secrets Act", "weight": 0.0, "id": 2779801350, "level": 3}
+{"count": 77, "name": "Mosaic theory", "weight": 0.0, "id": 2776954415, "level": 3}
+{"count": 290, "name": "Pass laws", "weight": 0.0, "id": 2776961145, "level": 3}
+{"count": 270, "name": "Unilateral declaration of independence", "weight": 0.0, "id": 2780086761, "level": 3}
+{"count": 86, "name": "Spring-gun", "weight": 0.0, "id": 2779664475, "level": 3}
+{"count": 156, "name": "Debarment", "weight": 0.0, "id": 2780953017, "level": 3}
+{"count": 727, "name": "Big government", "weight": 0.0, "id": 2780420883, "level": 3}
+{"count": 98, "name": "Fraser Government", "weight": 0.0, "id": 2776549641, "level": 3}
+{"count": 121, "name": "Priority sector lending", "weight": 0.0, "id": 2781392947, "level": 3}
+{"count": 144, "name": "M\u00e9rida Initiative", "weight": 0.0, "id": 2781300771, "level": 3}
+{"count": 35, "name": "Anarcho-capitalism", "weight": 0.0, "id": 2780436627, "level": 3}
+{"count": 180, "name": "Rule of man", "weight": 0.0, "id": 2780091905, "level": 3}
+{"count": 143, "name": "Policy network analysis", "weight": 0.0, "id": 2781287053, "level": 3}
+{"count": 59, "name": "General welfare clause", "weight": 0.0, "id": 2779669536, "level": 3}
+{"count": 74, "name": "Virginia Plan", "weight": 0.0, "id": 2776278127, "level": 3}
+{"count": 62, "name": "Community Development Employment Projects", "weight": 0.0, "id": 2777506815, "level": 3}
+{"count": 81, "name": "HMAS Sydney", "weight": 0.0, "id": 2778437579, "level": 3}
+{"count": 98, "name": "State secrets privilege", "weight": 0.0, "id": 2777277180, "level": 3}
+{"count": 101, "name": "Employment Act of 1946", "weight": 0.0, "id": 2779136407, "level": 3}
+{"count": 132, "name": "Commandeering", "weight": 0.0, "id": 2780033643, "level": 3}
+{"count": 95, "name": "Universal access to education", "weight": 0.0, "id": 2776034490, "level": 3}
+{"count": 151, "name": "Group Areas Act", "weight": 0.0, "id": 2776720875, "level": 3}
+{"count": 202, "name": "Right to keep and bear arms", "weight": 0.0, "id": 2779591560, "level": 3}
+{"count": 76, "name": "Keating Government", "weight": 0.0, "id": 2778503091, "level": 3}
+{"count": 220, "name": "Federal Laboratories", "weight": 0.0, "id": 2776173463, "level": 3}
+{"count": 86, "name": "Baby bonus", "weight": 0.0, "id": 2777723812, "level": 3}
+{"count": 118, "name": "National Response Plan", "weight": 0.0, "id": 2778776521, "level": 3}
+{"count": 80, "name": "Treaty of S\u00e8vres", "weight": 0.0, "id": 2778834893, "level": 3}
+{"count": 27, "name": "Non-interventionism", "weight": 0.0, "id": 2778050638, "level": 3}
+{"count": 72, "name": "Reverse brain drain", "weight": 0.0, "id": 2777540979, "level": 3}
+{"count": 54, "name": "Detainee Treatment Act", "weight": 0.0, "id": 2781337469, "level": 3}
+{"count": 128, "name": "Industrial sickness", "weight": 0.0, "id": 2778523980, "level": 3}
+{"count": 103, "name": "Enhanced interrogation techniques", "weight": 0.0, "id": 2776830445, "level": 3}
+{"count": 69, "name": "G-Cloud", "weight": 0.0, "id": 2777559524, "level": 3}
+{"count": 120, "name": "National Planning Policy Framework", "weight": 0.0, "id": 2777488067, "level": 3}
+{"count": 61, "name": "Mandal Commission", "weight": 0.0, "id": 2779426526, "level": 3}
+{"count": 51, "name": "Tripartite Pact", "weight": 0.0, "id": 2779017597, "level": 3}
+{"count": 47, "name": "Hutton Inquiry", "weight": 0.0, "id": 2777156684, "level": 3}
+{"count": 50, "name": "STOCK Act", "weight": 0.0, "id": 2780033820, "level": 3}
+{"count": 79, "name": "Sanctions against Iraq", "weight": 0.0, "id": 2778311816, "level": 3}
+{"count": 48, "name": "Forward estimates", "weight": 0.0, "id": 2777201301, "level": 3}
+{"count": 169, "name": "Rehabilitation Policy", "weight": 0.0, "id": 2778921512, "level": 3}
+{"count": 21, "name": "Queensland Day", "weight": 0.0, "id": 2778923067, "level": 3}
+{"count": 645, "name": "Government operations", "weight": 0.0, "id": 2779655786, "level": 3}
+{"count": 159, "name": "Abbott Government", "weight": 0.0, "id": 2778821608, "level": 3}
+{"count": 44, "name": "Subpoena duces tecum", "weight": 0.0, "id": 2776424982, "level": 3}
+{"count": 20, "name": "Sectoral balances", "weight": 0.0, "id": 2780595092, "level": 3}

@@ -1,0 +1,5 @@
+{"count": 158, "name": "Common Vulnerabilities and Exposures", "weight": 5.0, "id": 150126291, "level": 5}
+{"count": 144, "name": "National Vulnerability Database", "weight": 5.0, "id": 2776865783, "level": 5}
+{"count": 270, "name": "Responsible disclosure", "weight": 10.0, "id": 127360305, "level": 5}
+{"count": 140, "name": "File inclusion vulnerability", "weight": 5.0, "id": 187267772, "level": 5}
+{"count": 21, "name": "Mass assignment vulnerability", "weight": 0.0, "id": 149061698, "level": 5}

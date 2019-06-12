@@ -1,0 +1,6 @@
+{"count": 12060, "name": "Network Access Control", "weight": 10.0, "id": 14982408, "level": 3}
+{"count": 3408, "name": "Host-based intrusion detection system", "weight": 2.0, "id": 90936777, "level": 3}
+{"count": 706, "name": "Unified threat management", "weight": 0.0, "id": 29795917, "level": 3}
+{"count": 2913, "name": "Application firewall", "weight": 2.0, "id": 86444895, "level": 3}
+{"count": 16, "name": "MAC flooding", "weight": 0.0, "id": 2777820173, "level": 3}
+{"count": 169, "name": "Pseudoserver", "weight": 0.0, "id": 161847132, "level": 3}

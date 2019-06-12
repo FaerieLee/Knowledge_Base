@@ -1,0 +1,4 @@
+{"count": 2037, "name": "Optimistic concurrency control", "weight": 9.0, "id": 79240183, "level": 4}
+{"count": 2091, "name": "Isolation (database systems)", "weight": 9.0, "id": 197362993, "level": 4}
+{"count": 2203, "name": "Multiversion concurrency control", "weight": 10.0, "id": 108744092, "level": 4}
+{"count": 2171, "name": "Non-lock concurrency control", "weight": 9.0, "id": 61912525, "level": 4}

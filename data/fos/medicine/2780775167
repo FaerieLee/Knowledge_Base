@@ -1,0 +1,74 @@
+{"count": 7873, "name": "Spinal cord compression", "weight": 5.0, "id": 2778231337, "level": 3}
+{"count": 3953, "name": "Corticospinal tract", "weight": 2.0, "id": 2779779279, "level": 3}
+{"count": 9533, "name": "Laminectomy", "weight": 6.0, "id": 2780091945, "level": 3}
+{"count": 14724, "name": "Myelopathy", "weight": 10.0, "id": 2777604421, "level": 3}
+{"count": 4944, "name": "Syringomyelia", "weight": 3.0, "id": 2777836068, "level": 3}
+{"count": 1132, "name": "Pyramidal tracts", "weight": 0.0, "id": 2778583998, "level": 3}
+{"count": 3025, "name": "Spinal nerve", "weight": 2.0, "id": 2780999072, "level": 3}
+{"count": 4262, "name": "Cauda equina", "weight": 2.0, "id": 2781300204, "level": 3}
+{"count": 1163, "name": "Spinal cord tumor", "weight": 0.0, "id": 2776507482, "level": 3}
+{"count": 1494, "name": "Glial scar", "weight": 1.0, "id": 2777594495, "level": 3}
+{"count": 1731, "name": "Conus medullaris", "weight": 1.0, "id": 2780415424, "level": 3}
+{"count": 829, "name": "Cordotomy", "weight": 0.0, "id": 2779946112, "level": 3}
+{"count": 973, "name": "American Spinal Injury Association", "weight": 0.0, "id": 2781115485, "level": 3}
+{"count": 1022, "name": "Autonomic dysreflexia", "weight": 0.0, "id": 2777312010, "level": 3}
+{"count": 560, "name": "Lateral reticular nucleus", "weight": 0.0, "id": 2776956477, "level": 3}
+{"count": 448, "name": "Brown-S\u00e9quard syndrome", "weight": 0.0, "id": 2780925564, "level": 3}
+{"count": 966, "name": "Filum terminale", "weight": 0.0, "id": 2778991078, "level": 3}
+{"count": 741, "name": "Diastematomyelia", "weight": 0.0, "id": 2781068240, "level": 3}
+{"count": 837, "name": "Anterior spinal artery", "weight": 0.0, "id": 2777264004, "level": 3}
+{"count": 769, "name": "Spinothalamic tract", "weight": 0.0, "id": 2778222838, "level": 3}
+{"count": 280, "name": "Intermediolateral nucleus", "weight": 0.0, "id": 2776227383, "level": 3}
+{"count": 652, "name": "Dorsal column nuclei", "weight": 0.0, "id": 2777786120, "level": 3}
+{"count": 678, "name": "Bulbocavernosus reflex", "weight": 0.0, "id": 186706434, "level": 3}
+{"count": 434, "name": "Spinal shock", "weight": 0.0, "id": 2777924115, "level": 3}
+{"count": 133, "name": "Onuf's nucleus", "weight": 0.0, "id": 2777076897, "level": 3}
+{"count": 386, "name": "Central cord syndrome", "weight": 0.0, "id": 2779396247, "level": 3}
+{"count": 659, "name": "Posterior column", "weight": 0.0, "id": 2780741286, "level": 3}
+{"count": 283, "name": "Gracile nucleus", "weight": 0.0, "id": 2781234324, "level": 3}
+{"count": 112, "name": "Scratch reflex", "weight": 0.0, "id": 2779180984, "level": 3}
+{"count": 229, "name": "Spinal neuron", "weight": 0.0, "id": 2778704350, "level": 3}
+{"count": 522, "name": "Spinal cord stimulator", "weight": 0.0, "id": 2778753352, "level": 3}
+{"count": 251, "name": "Renshaw cell", "weight": 0.0, "id": 2778037872, "level": 3}
+{"count": 154, "name": "Reissner's fiber", "weight": 0.0, "id": 2780974035, "level": 3}
+{"count": 273, "name": "Anterior spinal artery syndrome", "weight": 0.0, "id": 2778247924, "level": 3}
+{"count": 121, "name": "Vestibulospinal tract", "weight": 0.0, "id": 2778148688, "level": 3}
+{"count": 248, "name": "Artery of Adamkiewicz", "weight": 0.0, "id": 2781233906, "level": 3}
+{"count": 448, "name": "Lateral funiculus", "weight": 0.0, "id": 2777905999, "level": 3}
+{"count": 55, "name": "Gacyclidine", "weight": 0.0, "id": 2779625712, "level": 3}
+{"count": 140, "name": "Spinocerebellar tract", "weight": 0.0, "id": 2777128545, "level": 3}
+{"count": 281, "name": "Alar plate", "weight": 0.0, "id": 114505331, "level": 3}
+{"count": 264, "name": "Motor pool", "weight": 0.0, "id": 124100399, "level": 3}
+{"count": 382, "name": "Lumbar arteries", "weight": 0.0, "id": 2778784962, "level": 3}
+{"count": 27, "name": "Central canal of spinal cord", "weight": 0.0, "id": 2778393650, "level": 3}
+{"count": 202, "name": "Spinal cord injury without radiographic abnormality", "weight": 0.0, "id": 2779142262, "level": 3}
+{"count": 67, "name": "Lower motor neuron lesion", "weight": 0.0, "id": 2778658739, "level": 3}
+{"count": 99, "name": "Spinal fMRI", "weight": 0.0, "id": 2780250810, "level": 3}
+{"count": 212, "name": "Cervical enlargement", "weight": 0.0, "id": 2777033993, "level": 3}
+{"count": 183, "name": "Dorsal spinocerebellar tract", "weight": 0.0, "id": 2776656887, "level": 3}
+{"count": 93, "name": "Ventral spinocerebellar tract", "weight": 0.0, "id": 2778268996, "level": 3}
+{"count": 314, "name": "Lumbar enlargement", "weight": 0.0, "id": 2776251775, "level": 3}
+{"count": 569, "name": "Thecal sac", "weight": 0.0, "id": 2777195788, "level": 3}
+{"count": 34, "name": "Tectospinal tract", "weight": 0.0, "id": 2780221093, "level": 3}
+{"count": 643, "name": "GDF7", "weight": 0.0, "id": 41708089, "level": 3}
+{"count": 62, "name": "Spinal locomotion", "weight": 0.0, "id": 2778576132, "level": 3}
+{"count": 93, "name": "Tethered spinal cord syndrome", "weight": 0.0, "id": 2776423935, "level": 3}
+{"count": 22, "name": "Gamma motor neuron", "weight": 0.0, "id": 2780402941, "level": 3}
+{"count": 19, "name": "Lazarus sign", "weight": 0.0, "id": 2779618477, "level": 3}
+{"count": 36, "name": "Rexed laminae", "weight": 0.0, "id": 2777474233, "level": 3}
+{"count": 26, "name": "Spinal accessory nucleus", "weight": 0.0, "id": 2780641760, "level": 3}
+{"count": 52, "name": "Intercalated nucleus", "weight": 0.0, "id": 2778112775, "level": 3}
+{"count": 10, "name": "Myelomere", "weight": 0.0, "id": 2780323719, "level": 3}
+{"count": 49, "name": "Abdominal reflex", "weight": 0.0, "id": 2775999649, "level": 3}
+{"count": 10, "name": "Signal enhancement by extravascular water protons", "weight": 0.0, "id": 2777150337, "level": 3}
+{"count": 98, "name": "Posterior funiculus", "weight": 0.0, "id": 2779912519, "level": 3}
+{"count": 131, "name": "Spinal cord injury research", "weight": 0.0, "id": 2780671787, "level": 3}
+{"count": 12, "name": "White ramus communicans", "weight": 0.0, "id": 2775869301, "level": 3}
+{"count": 139, "name": "Peripheral nerve field", "weight": 0.0, "id": 2776135271, "level": 3}
+{"count": 361, "name": "Dorsal nerve cord", "weight": 0.0, "id": 99612951, "level": 3}
+{"count": 587, "name": "Lumbar anterior root stimulator", "weight": 0.0, "id": 169908864, "level": 3}
+{"count": 62, "name": "Neural substrate of locomotor central pattern generators in mammals", "weight": 0.0, "id": 17423870, "level": 3}
+{"count": 11, "name": "Grey column", "weight": 0.0, "id": 2776000794, "level": 3}
+{"count": 22, "name": "Wobbler disease", "weight": 0.0, "id": 2776256268, "level": 3}
+{"count": 8, "name": "Posterior spinal veins", "weight": 0.0, "id": 2777653144, "level": 3}
+{"count": 74, "name": "Gray commissure", "weight": 0.0, "id": 2779611783, "level": 3}

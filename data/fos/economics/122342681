@@ -1,0 +1,8 @@
+{"count": 923, "name": "Skew normal distribution", "weight": 10.0, "id": 43694697, "level": 3}
+{"count": 155, "name": "Coskewness", "weight": 1.0, "id": 2776500622, "level": 3}
+{"count": 591, "name": "Pearson distribution", "weight": 6.0, "id": 27059816, "level": 3}
+{"count": 72, "name": "Skewness risk", "weight": 0.0, "id": 2777489587, "level": 3}
+{"count": 15, "name": "Medcouple", "weight": 0.0, "id": 2776363294, "level": 3}
+{"count": 67, "name": "Kurtosis risk", "weight": 0.0, "id": 96274950, "level": 3}
+{"count": 375, "name": "Nonparametric skew", "weight": 4.0, "id": 158944566, "level": 3}
+{"count": 425, "name": "D'Agostino's K-squared test", "weight": 4.0, "id": 187623527, "level": 3}

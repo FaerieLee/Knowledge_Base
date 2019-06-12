@@ -1,0 +1,14 @@
+{"count": 1517, "name": "Fixed-point arithmetic", "weight": 8.0, "id": 163973906, "level": 3}
+{"count": 1584, "name": "Floating-point unit", "weight": 8.0, "id": 110305270, "level": 3}
+{"count": 507, "name": "Logarithmic number system", "weight": 2.0, "id": 21462125, "level": 3}
+{"count": 711, "name": "Machine epsilon", "weight": 3.0, "id": 203739276, "level": 3}
+{"count": 1819, "name": "Double-precision floating-point format", "weight": 10.0, "id": 35912277, "level": 3}
+{"count": 206, "name": "Block floating-point", "weight": 1.0, "id": 2781185314, "level": 3}
+{"count": 961, "name": "IEEE floating point", "weight": 5.0, "id": 137231763, "level": 3}
+{"count": 18, "name": "Guard digit", "weight": 0.0, "id": 2777149348, "level": 3}
+{"count": 1050, "name": "Significand", "weight": 5.0, "id": 29692043, "level": 3}
+{"count": 234, "name": "Multiply\u2013accumulate operation", "weight": 1.0, "id": 171607307, "level": 3}
+{"count": 54, "name": "Unit in the last place", "weight": 0.0, "id": 10751651, "level": 3}
+{"count": 136, "name": "Sticky bit", "weight": 0.0, "id": 96522627, "level": 3}
+{"count": 71, "name": "Radix point", "weight": 0.0, "id": 137546732, "level": 3}
+{"count": 35, "name": "Signed zero", "weight": 0.0, "id": 42766391, "level": 3}

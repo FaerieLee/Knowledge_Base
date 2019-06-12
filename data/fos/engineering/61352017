@@ -1,0 +1,9 @@
+{"count": 2580, "name": "Transient recovery voltage", "weight": 4.0, "id": 72047438, "level": 3}
+{"count": 1436, "name": "Vacuum interrupter", "weight": 2.0, "id": 2780065510, "level": 3}
+{"count": 849, "name": "Breaking capacity", "weight": 1.0, "id": 33870017, "level": 3}
+{"count": 1405, "name": "Recloser", "weight": 2.0, "id": 31712484, "level": 3}
+{"count": 3373, "name": "Disconnector", "weight": 6.0, "id": 66325886, "level": 3}
+{"count": 4219, "name": "Residual-current device", "weight": 8.0, "id": 15116251, "level": 3}
+{"count": 5170, "name": "Arc-fault circuit interrupter", "weight": 10.0, "id": 157069517, "level": 3}
+{"count": 4883, "name": "Distribution board", "weight": 9.0, "id": 123158532, "level": 3}
+{"count": 1322, "name": "Isolated-phase bus", "weight": 2.0, "id": 6829977, "level": 3}

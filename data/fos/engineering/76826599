@@ -1,0 +1,13 @@
+{"count": 1046, "name": "Cascaded integrator\u2013comb filter", "weight": 2.0, "id": 185455795, "level": 4}
+{"count": 1126, "name": "Anti-aliasing filter", "weight": 2.0, "id": 146826852, "level": 4}
+{"count": 238, "name": "Nyquist filter", "weight": 0.0, "id": 2777153448, "level": 4}
+{"count": 2266, "name": "Raised-cosine filter", "weight": 4.0, "id": 51426754, "level": 4}
+{"count": 2573, "name": "Half-band filter", "weight": 5.0, "id": 141159389, "level": 4}
+{"count": 1997, "name": "2D Filters", "weight": 4.0, "id": 100106864, "level": 4}
+{"count": 396, "name": "Causal filter", "weight": 0.0, "id": 108212597, "level": 4}
+{"count": 354, "name": "Top-hat filter", "weight": 0.0, "id": 148260802, "level": 4}
+{"count": 622, "name": "Sinc filter", "weight": 1.0, "id": 130600737, "level": 4}
+{"count": 4788, "name": "Capacitor-input filter", "weight": 10.0, "id": 164331903, "level": 4}
+{"count": 967, "name": "Multidelay block frequency domain adaptive filter", "weight": 2.0, "id": 36638914, "level": 4}
+{"count": 526, "name": "Parks\u2013McClellan filter design algorithm", "weight": 1.0, "id": 201994401, "level": 4}
+{"count": 151, "name": "Matched Z-transform method", "weight": 0.0, "id": 198045236, "level": 4}

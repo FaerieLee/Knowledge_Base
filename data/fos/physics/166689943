@@ -1,0 +1,43 @@
+{"count": 18020, "name": "Astronomical interferometer", "weight": 10.0, "id": 23576306, "level": 3}
+{"count": 10344, "name": "Mach\u2013Zehnder interferometer", "weight": 5.0, "id": 12296473, "level": 3}
+{"count": 5343, "name": "Speckle imaging", "weight": 2.0, "id": 99507719, "level": 3}
+{"count": 7982, "name": "Holographic interferometry", "weight": 4.0, "id": 128289946, "level": 3}
+{"count": 10076, "name": "Optical path length", "weight": 5.0, "id": 22783969, "level": 3}
+{"count": 11870, "name": "Interferometric synthetic aperture radar", "weight": 6.0, "id": 22286887, "level": 3}
+{"count": 2988, "name": "Aperture synthesis", "weight": 1.0, "id": 22094913, "level": 3}
+{"count": 6549, "name": "Michelson interferometer", "weight": 3.0, "id": 9809166, "level": 3}
+{"count": 2396, "name": "Interference microscopy", "weight": 1.0, "id": 152194808, "level": 3}
+{"count": 6545, "name": "Electronic speckle pattern interferometry", "weight": 3.0, "id": 172991262, "level": 3}
+{"count": 3052, "name": "White light interferometry", "weight": 1.0, "id": 159074562, "level": 3}
+{"count": 1161, "name": "Sagnac effect", "weight": 0.0, "id": 2778985243, "level": 3}
+{"count": 2524, "name": "Atom interferometer", "weight": 1.0, "id": 184551789, "level": 3}
+{"count": 1399, "name": "Shearing interferometer", "weight": 0.0, "id": 2780186746, "level": 3}
+{"count": 531, "name": "Hanbury Brown and Twiss effect", "weight": 0.0, "id": 43290667, "level": 3}
+{"count": 513, "name": "Space Interferometry Mission", "weight": 0.0, "id": 2781163934, "level": 3}
+{"count": 658, "name": "Large Binocular Telescope", "weight": 0.0, "id": 2779710718, "level": 3}
+{"count": 342, "name": "Moire deflectometry", "weight": 0.0, "id": 2779185888, "level": 3}
+{"count": 901, "name": "Seismic interferometry", "weight": 0.0, "id": 109417826, "level": 3}
+{"count": 548, "name": "Wollaston prism", "weight": 0.0, "id": 3149852, "level": 3}
+{"count": 184, "name": "Ronchi test", "weight": 0.0, "id": 11509905, "level": 3}
+{"count": 485, "name": "Gauge block", "weight": 0.0, "id": 2777614252, "level": 3}
+{"count": 340, "name": "Fringe shift", "weight": 0.0, "id": 53641464, "level": 3}
+{"count": 165, "name": "Abbe error", "weight": 0.0, "id": 83648862, "level": 3}
+{"count": 286, "name": "Interferometric microscopy", "weight": 0.0, "id": 2778906987, "level": 3}
+{"count": 379, "name": "Heisenberg limit", "weight": 0.0, "id": 2778361524, "level": 3}
+{"count": 235, "name": "Neutron interferometer", "weight": 0.0, "id": 2779450434, "level": 3}
+{"count": 110, "name": "Electron interferometer", "weight": 0.0, "id": 2780614803, "level": 3}
+{"count": 73, "name": "Interaction-free measurement", "weight": 0.0, "id": 2778255149, "level": 3}
+{"count": 386, "name": "Picometre", "weight": 0.0, "id": 79381769, "level": 3}
+{"count": 759, "name": "White light scanner", "weight": 0.0, "id": 178324829, "level": 3}
+{"count": 440, "name": "Optical flat", "weight": 0.0, "id": 2778798949, "level": 3}
+{"count": 100, "name": "Null corrector", "weight": 0.0, "id": 2776002752, "level": 3}
+{"count": 109, "name": "Lloyd's mirror", "weight": 0.0, "id": 60965734, "level": 3}
+{"count": 75, "name": "Jamin interferometer", "weight": 0.0, "id": 2777241263, "level": 3}
+{"count": 142, "name": "Ramsey interferometry", "weight": 0.0, "id": 2780916549, "level": 3}
+{"count": 80, "name": "Interferometric modulator display", "weight": 0.0, "id": 2779063799, "level": 3}
+{"count": 68, "name": "Interferome", "weight": 0.0, "id": 2780652653, "level": 3}
+{"count": 16, "name": "Transponder landing system", "weight": 0.0, "id": 2777705394, "level": 3}
+{"count": 51, "name": "Rayleigh interferometer", "weight": 0.0, "id": 2780717710, "level": 3}
+{"count": 24, "name": "Holometer", "weight": 0.0, "id": 2777105829, "level": 3}
+{"count": 31, "name": "N-slit interferometric equation", "weight": 0.0, "id": 191436197, "level": 3}
+{"count": 48, "name": "Space Science and Engineering Center", "weight": 0.0, "id": 2777320488, "level": 3}

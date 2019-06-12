@@ -1,0 +1,9 @@
+{"count": 4671, "name": "Computerized adaptive testing", "weight": 10.0, "id": 144352353, "level": 3}
+{"count": 4138, "name": "Differential item functioning", "weight": 8.0, "id": 181447626, "level": 3}
+{"count": 1774, "name": "Classical test theory", "weight": 3.0, "id": 140390113, "level": 3}
+{"count": 2917, "name": "Polytomous Rasch model", "weight": 6.0, "id": 207968926, "level": 3}
+{"count": 451, "name": "Patient-Reported Outcomes Measurement Information System", "weight": 0.0, "id": 2778486562, "level": 3}
+{"count": 271, "name": "Mokken scale", "weight": 0.0, "id": 179068157, "level": 3}
+{"count": 34, "name": "Person-fit analysis", "weight": 0.0, "id": 2779933913, "level": 3}
+{"count": 491, "name": "Anchor test", "weight": 1.0, "id": 191037910, "level": 3}
+{"count": 116, "name": "Equating coefficients", "weight": 0.0, "id": 200923497, "level": 3}

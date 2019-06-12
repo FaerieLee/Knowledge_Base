@@ -1,0 +1,17 @@
+{"count": 4045, "name": "Passive radar", "weight": 4.0, "id": 151120012, "level": 5}
+{"count": 4108, "name": "Low probability of intercept radar", "weight": 4.0, "id": 147345108, "level": 5}
+{"count": 772, "name": "Multistatic radar", "weight": 0.0, "id": 2777585438, "level": 5}
+{"count": 7420, "name": "Fire-control radar", "weight": 8.0, "id": 84236424, "level": 5}
+{"count": 813, "name": "Digital radio frequency memory", "weight": 0.0, "id": 30406889, "level": 5}
+{"count": 5339, "name": "3D radar", "weight": 6.0, "id": 81076408, "level": 5}
+{"count": 2938, "name": "Low-frequency radar", "weight": 3.0, "id": 192314852, "level": 5}
+{"count": 2460, "name": "Radar display", "weight": 2.0, "id": 144695926, "level": 5}
+{"count": 1959, "name": "Wave radar", "weight": 2.0, "id": 207699401, "level": 5}
+{"count": 69, "name": "Chi-squared target models", "weight": 0.0, "id": 128886847, "level": 5}
+{"count": 5640, "name": "Radar horizon", "weight": 6.0, "id": 131493965, "level": 5}
+{"count": 38, "name": "Phase-comparison monopulse", "weight": 0.0, "id": 2776844897, "level": 5}
+{"count": 8052, "name": "Radar configurations and types", "weight": 9.0, "id": 5249743, "level": 5}
+{"count": 8599, "name": "Man-portable radar", "weight": 10.0, "id": 161475128, "level": 5}
+{"count": 761, "name": "Semi-active radar homing", "weight": 0.0, "id": 131055897, "level": 5}
+{"count": 1226, "name": "Envelope (radar)", "weight": 1.0, "id": 65155139, "level": 5}
+{"count": 1642, "name": "Stationary target indication", "weight": 1.0, "id": 51196962, "level": 5}

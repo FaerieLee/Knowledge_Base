@@ -1,0 +1,7 @@
+{"count": 1949, "name": "Emergency brake assist", "weight": 5.0, "id": 144818796, "level": 5}
+{"count": 3494, "name": "Brake fade", "weight": 10.0, "id": 59203436, "level": 5}
+{"count": 22, "name": "Trail braking", "weight": 0.0, "id": 8481719, "level": 5}
+{"count": 447, "name": "Track brake", "weight": 1.0, "id": 126572992, "level": 5}
+{"count": 11, "name": "DC injection braking", "weight": 0.0, "id": 2776097936, "level": 5}
+{"count": 736, "name": "Cadence braking", "weight": 2.0, "id": 113712545, "level": 5}
+{"count": 3014, "name": "Dynamic braking", "weight": 8.0, "id": 2755678, "level": 5}

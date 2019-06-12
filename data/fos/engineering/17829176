@@ -1,0 +1,23 @@
+{"count": 6170, "name": "Focused Impedance Measurement", "weight": 4.0, "id": 172066009, "level": 3}
+{"count": 12698, "name": "Admittance", "weight": 8.0, "id": 108811297, "level": 3}
+{"count": 15178, "name": "Input impedance", "weight": 10.0, "id": 26262908, "level": 3}
+{"count": 9029, "name": "Acoustic impedance", "weight": 5.0, "id": 98937189, "level": 3}
+{"count": 4519, "name": "Electrical impedance tomography", "weight": 2.0, "id": 155175808, "level": 3}
+{"count": 4146, "name": "Impedance control", "weight": 2.0, "id": 2777984285, "level": 3}
+{"count": 10126, "name": "Characteristic impedance", "weight": 6.0, "id": 172674978, "level": 3}
+{"count": 1452, "name": "Nyquist plot", "weight": 0.0, "id": 195762429, "level": 3}
+{"count": 3190, "name": "Mechanical impedance", "weight": 2.0, "id": 159447365, "level": 3}
+{"count": 3538, "name": "Impedance parameters", "weight": 2.0, "id": 113805353, "level": 3}
+{"count": 10616, "name": "Output impedance", "weight": 6.0, "id": 58112919, "level": 3}
+{"count": 1128, "name": "Constant phase element", "weight": 0.0, "id": 124579511, "level": 3}
+{"count": 825, "name": "Smith chart", "weight": 0.0, "id": 207807769, "level": 3}
+{"count": 10494, "name": "High impedance", "weight": 6.0, "id": 174268685, "level": 3}
+{"count": 4913, "name": "Damping factor", "weight": 3.0, "id": 48427663, "level": 3}
+{"count": 4245, "name": "Wave impedance", "weight": 2.0, "id": 67402182, "level": 3}
+{"count": 773, "name": "Radiation impedance", "weight": 0.0, "id": 2778771554, "level": 3}
+{"count": 181, "name": "Electric cell-substrate impedance sensing", "weight": 0.0, "id": 2780986492, "level": 3}
+{"count": 405, "name": "Faradaic impedance", "weight": 0.0, "id": 2776701365, "level": 3}
+{"count": 966, "name": "Equivalent impedance transforms", "weight": 0.0, "id": 76450673, "level": 3}
+{"count": 32, "name": "Extra element theorem", "weight": 0.0, "id": 2780471435, "level": 3}
+{"count": 67, "name": "Warburg coefficient", "weight": 0.0, "id": 2781013284, "level": 3}
+{"count": 19, "name": "Iterative impedance", "weight": 0.0, "id": 2776514767, "level": 3}

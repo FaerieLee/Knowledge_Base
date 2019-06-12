@@ -1,0 +1,5 @@
+{"count": 964, "name": "ChIP-on-chip", "weight": 5.0, "id": 191608507, "level": 5}
+{"count": 1735, "name": "ChIP-sequencing", "weight": 10.0, "id": 176619506, "level": 5}
+{"count": 155, "name": "Peak calling", "weight": 0.0, "id": 2779517772, "level": 5}
+{"count": 294, "name": "RIP-Chip", "weight": 1.0, "id": 205850341, "level": 5}
+{"count": 115, "name": "ChIP-exo", "weight": 0.0, "id": 110640306, "level": 5}

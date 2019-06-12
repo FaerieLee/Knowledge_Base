@@ -1,0 +1,8 @@
+{"count": 2366, "name": "Payment order", "weight": 7.0, "id": 35637245, "level": 4}
+{"count": 525, "name": "Direct debit", "weight": 1.0, "id": 120157274, "level": 4}
+{"count": 3202, "name": "Payment processor", "weight": 10.0, "id": 190978112, "level": 4}
+{"count": 693, "name": "Payment gateway", "weight": 2.0, "id": 156656230, "level": 4}
+{"count": 414, "name": "Electronic billing", "weight": 1.0, "id": 44842133, "level": 4}
+{"count": 72, "name": "Payment Card Industry Data Security Standard", "weight": 0.0, "id": 2776562328, "level": 4}
+{"count": 1947, "name": "Merchant account", "weight": 6.0, "id": 185499921, "level": 4}
+{"count": 35, "name": "Payment card number", "weight": 0.0, "id": 2781075165, "level": 4}

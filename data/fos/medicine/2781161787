@@ -1,0 +1,34 @@
+{"count": 17919, "name": "Dentate gyrus", "weight": 10.0, "id": 2776464000, "level": 3}
+{"count": 6447, "name": "Limbic system", "weight": 3.0, "id": 541082541, "level": 3}
+{"count": 6368, "name": "Pyramidal cell", "weight": 3.0, "id": 2778437258, "level": 3}
+{"count": 8311, "name": "Granule cell", "weight": 4.0, "id": 2778888523, "level": 3}
+{"count": 6550, "name": "Entorhinal cortex", "weight": 3.0, "id": 2780715579, "level": 3}
+{"count": 848, "name": "Rhinencephalon", "weight": 0.0, "id": 2776452703, "level": 3}
+{"count": 7197, "name": "Morris water navigation task", "weight": 4.0, "id": 44752575, "level": 3}
+{"count": 7766, "name": "Memory consolidation", "weight": 4.0, "id": 48455012, "level": 3}
+{"count": 3221, "name": "Water maze", "weight": 1.0, "id": 12515866, "level": 3}
+{"count": 2450, "name": "Theta rhythm", "weight": 1.0, "id": 84644016, "level": 3}
+{"count": 1718, "name": "Piriform cortex", "weight": 0.0, "id": 2780382662, "level": 3}
+{"count": 1210, "name": "Place cell", "weight": 0.0, "id": 2781369091, "level": 3}
+{"count": 3391, "name": "Fornix", "weight": 1.0, "id": 2778677889, "level": 3}
+{"count": 5158, "name": "Epileptogenesis", "weight": 2.0, "id": 57236427, "level": 3}
+{"count": 861, "name": "Septal nuclei", "weight": 0.0, "id": 2780148200, "level": 3}
+{"count": 1002, "name": "Spontaneous alternation", "weight": 0.0, "id": 2775847253, "level": 3}
+{"count": 246, "name": "Cajal\u2013Retzius cell", "weight": 0.0, "id": 2780742153, "level": 3}
+{"count": 939, "name": "Retrosplenial cortex", "weight": 0.0, "id": 2780200011, "level": 3}
+{"count": 445, "name": "Mammillary body", "weight": 0.0, "id": 2777507194, "level": 3}
+{"count": 388, "name": "Head direction cells", "weight": 0.0, "id": 63005831, "level": 3}
+{"count": 190, "name": "Papez circuit", "weight": 0.0, "id": 2780460407, "level": 3}
+{"count": 428, "name": "Methylazoxymethanol acetate", "weight": 0.0, "id": 2778705273, "level": 3}
+{"count": 821, "name": "Seahorse", "weight": 0.0, "id": 2781470023, "level": 3}
+{"count": 468, "name": "Barnes maze", "weight": 0.0, "id": 2775858765, "level": 3}
+{"count": 213, "name": "Nucleus reuniens", "weight": 0.0, "id": 98871467, "level": 3}
+{"count": 142, "name": "Basal dendrite", "weight": 0.0, "id": 2776194327, "level": 3}
+{"count": 213, "name": "Sholl analysis", "weight": 0.0, "id": 2780261391, "level": 3}
+{"count": 340, "name": "Boundary cell", "weight": 0.0, "id": 70976792, "level": 3}
+{"count": 78, "name": "Commissural fiber", "weight": 0.0, "id": 2781458299, "level": 3}
+{"count": 1302, "name": "LTP induction", "weight": 0.0, "id": 2776328245, "level": 3}
+{"count": 20, "name": "Big-belly seahorse", "weight": 0.0, "id": 2778108289, "level": 3}
+{"count": 15, "name": "Hippocampal prosthesis", "weight": 0.0, "id": 167254265, "level": 3}
+{"count": 16, "name": "Large irregular activity", "weight": 0.0, "id": 2779351268, "level": 3}
+{"count": 15, "name": "Amygdalum", "weight": 0.0, "id": 2781063723, "level": 3}

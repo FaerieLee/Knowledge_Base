@@ -1,0 +1,8 @@
+{"count": 343, "name": "XFP transceiver", "weight": 10.0, "id": 55868113, "level": 3}
+{"count": 29, "name": "TransferJet", "weight": 0.0, "id": 2779063894, "level": 3}
+{"count": 78, "name": "XAUI", "weight": 2.0, "id": 2775994619, "level": 3}
+{"count": 167, "name": "QSFP", "weight": 4.0, "id": 2779785548, "level": 3}
+{"count": 35, "name": "Small form-factor pluggable transceiver", "weight": 1.0, "id": 2779674007, "level": 3}
+{"count": 25, "name": "DigRF", "weight": 0.0, "id": 2776558578, "level": 3}
+{"count": 50, "name": "Attachment Unit Interface", "weight": 1.0, "id": 2779603079, "level": 3}
+{"count": 12, "name": "Gigabit interface converter", "weight": 0.0, "id": 2777417113, "level": 3}

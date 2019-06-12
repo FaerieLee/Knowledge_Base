@@ -1,0 +1,81 @@
+{"count": 13864, "name": "Thermal barrier coating", "weight": 6.0, "id": 176711861, "level": 3}
+{"count": 9252, "name": "Optical coating", "weight": 4.0, "id": 71597924, "level": 3}
+{"count": 20216, "name": "Thermal spraying", "weight": 10.0, "id": 149669645, "level": 3}
+{"count": 15226, "name": "Spin coating", "weight": 7.0, "id": 115196108, "level": 3}
+{"count": 9305, "name": "Dip-coating", "weight": 4.0, "id": 49241924, "level": 3}
+{"count": 19290, "name": "Galvanization", "weight": 9.0, "id": 8846229, "level": 3}
+{"count": 2153, "name": "Vacuum coating", "weight": 1.0, "id": 2776596571, "level": 3}
+{"count": 7146, "name": "Conversion coating", "weight": 3.0, "id": 147280077, "level": 3}
+{"count": 1744, "name": "Chromium nitride", "weight": 0.0, "id": 2776568710, "level": 3}
+{"count": 2069, "name": "Enteric coating", "weight": 1.0, "id": 2777570183, "level": 3}
+{"count": 2841, "name": "Melamine resin", "weight": 1.0, "id": 2778393666, "level": 3}
+{"count": 6591, "name": "Alkyd", "weight": 3.0, "id": 162585328, "level": 3}
+{"count": 1896, "name": "Paint adhesion testing", "weight": 0.0, "id": 26854220, "level": 3}
+{"count": 12179, "name": "Varnish", "weight": 6.0, "id": 28667232, "level": 3}
+{"count": 1914, "name": "Plasma electrolytic oxidation", "weight": 0.0, "id": 2777578362, "level": 3}
+{"count": 4795, "name": "Gas dynamic cold spray", "weight": 2.0, "id": 202752663, "level": 3}
+{"count": 2032, "name": "Salt spray test", "weight": 1.0, "id": 2777514341, "level": 3}
+{"count": 5054, "name": "Coated paper", "weight": 2.0, "id": 2778435127, "level": 3}
+{"count": 6930, "name": "Anti-reflective coating", "weight": 3.0, "id": 108406538, "level": 3}
+{"count": 11097, "name": "Lacquer", "weight": 5.0, "id": 2778522843, "level": 3}
+{"count": 6844, "name": "Film coating", "weight": 3.0, "id": 2778805482, "level": 3}
+{"count": 5721, "name": "Anti-corrosion", "weight": 2.0, "id": 2778219899, "level": 3}
+{"count": 2708, "name": "Electroless nickel", "weight": 1.0, "id": 2778557003, "level": 3}
+{"count": 10768, "name": "Powder coating", "weight": 5.0, "id": 2778450782, "level": 3}
+{"count": 980, "name": "Nickel aluminide", "weight": 0.0, "id": 2778537444, "level": 3}
+{"count": 2815, "name": "Nichrome", "weight": 1.0, "id": 140086010, "level": 3}
+{"count": 3496, "name": "Chrome plating", "weight": 1.0, "id": 8708552, "level": 3}
+{"count": 372, "name": "Food coating", "weight": 0.0, "id": 2778285946, "level": 3}
+{"count": 1492, "name": "Shellac", "weight": 0.0, "id": 2777721144, "level": 3}
+{"count": 3477, "name": "Aluminide", "weight": 1.0, "id": 2781372787, "level": 3}
+{"count": 5557, "name": "Silicone resin", "weight": 2.0, "id": 2780125811, "level": 3}
+{"count": 2238, "name": "Superhydrophobic coating", "weight": 1.0, "id": 112439578, "level": 3}
+{"count": 695, "name": "Coil coating", "weight": 0.0, "id": 2779643017, "level": 3}
+{"count": 1149, "name": "Conformal coating", "weight": 0.0, "id": 2777421745, "level": 3}
+{"count": 1429, "name": "Polysilazane", "weight": 0.0, "id": 2780145811, "level": 3}
+{"count": 315, "name": "Micro-encapsulation", "weight": 0.0, "id": 174398352, "level": 3}
+{"count": 951, "name": "Reactive diluent", "weight": 0.0, "id": 2777361014, "level": 3}
+{"count": 395, "name": "Scratch hardness", "weight": 0.0, "id": 84396100, "level": 3}
+{"count": 253, "name": "Electrospark deposition", "weight": 0.0, "id": 2778561511, "level": 3}
+{"count": 2332, "name": "Extrusion coating", "weight": 1.0, "id": 156778055, "level": 3}
+{"count": 159, "name": "Zinc molybdate", "weight": 0.0, "id": 2779103519, "level": 3}
+{"count": 452, "name": "Aluminized steel", "weight": 0.0, "id": 2781353498, "level": 3}
+{"count": 155, "name": "Icephobicity", "weight": 0.0, "id": 2779018660, "level": 3}
+{"count": 221, "name": "Hot melt coating", "weight": 0.0, "id": 2780017171, "level": 3}
+{"count": 175, "name": "Carbonless copy paper", "weight": 0.0, "id": 2778987795, "level": 3}
+{"count": 1391, "name": "Air knife", "weight": 0.0, "id": 2778618990, "level": 3}
+{"count": 932, "name": "Curtain coating", "weight": 0.0, "id": 2777584022, "level": 3}
+{"count": 717, "name": "Recoating", "weight": 0.0, "id": 27958593, "level": 3}
+{"count": 1692, "name": "Electrostatic coating", "weight": 0.0, "id": 2777725092, "level": 3}
+{"count": 123, "name": "DCVG", "weight": 0.0, "id": 2778946378, "level": 3}
+{"count": 401, "name": "UV coating", "weight": 0.0, "id": 2777631912, "level": 3}
+{"count": 30, "name": "Osmotic blistering", "weight": 0.0, "id": 2777063312, "level": 3}
+{"count": 510, "name": "Ferrotitanium", "weight": 0.0, "id": 2778653940, "level": 3}
+{"count": 837, "name": "Film-forming agent", "weight": 0.0, "id": 2781220295, "level": 3}
+{"count": 154, "name": "Photochromic lens", "weight": 0.0, "id": 2777853498, "level": 3}
+{"count": 447, "name": "Cementation process", "weight": 0.0, "id": 101722098, "level": 3}
+{"count": 231, "name": "Evaporative-pattern casting", "weight": 0.0, "id": 2778702275, "level": 3}
+{"count": 116, "name": "Distinctness of image", "weight": 0.0, "id": 32834411, "level": 3}
+{"count": 545, "name": "Heat-shrinkable sleeve", "weight": 0.0, "id": 97006071, "level": 3}
+{"count": 956, "name": "Anti-fog", "weight": 0.0, "id": 2778717465, "level": 3}
+{"count": 116, "name": "Roof coating", "weight": 0.0, "id": 2776744947, "level": 3}
+{"count": 195, "name": "Terne", "weight": 0.0, "id": 2778977255, "level": 3}
+{"count": 134, "name": "Lipophobicity", "weight": 0.0, "id": 201267125, "level": 3}
+{"count": 113, "name": "Glassine", "weight": 0.0, "id": 111404276, "level": 3}
+{"count": 21, "name": "Acetylenediol", "weight": 0.0, "id": 2779892171, "level": 3}
+{"count": 141, "name": "Solid film lubricant", "weight": 0.0, "id": 2778485085, "level": 3}
+{"count": 30, "name": "Anti-graffiti coating", "weight": 0.0, "id": 2776742798, "level": 3}
+{"count": 48, "name": "Titanium yellow", "weight": 0.0, "id": 2776483902, "level": 3}
+{"count": 16, "name": "Lime render", "weight": 0.0, "id": 2781419268, "level": 3}
+{"count": 22, "name": "Zahn cup", "weight": 0.0, "id": 107288118, "level": 3}
+{"count": 10, "name": "Zinc flake coating", "weight": 0.0, "id": 2780006188, "level": 3}
+{"count": 37, "name": "First surface mirror", "weight": 0.0, "id": 2781255493, "level": 3}
+{"count": 136, "name": "Film applicator", "weight": 0.0, "id": 2778487134, "level": 3}
+{"count": 256, "name": "Rustproof", "weight": 0.0, "id": 43678285, "level": 3}
+{"count": 11, "name": "Corrosion in ballast tanks", "weight": 0.0, "id": 2779244999, "level": 3}
+{"count": 15, "name": "Cyclic corrosion testing", "weight": 0.0, "id": 2776374941, "level": 3}
+{"count": 43, "name": "Non-stick surface", "weight": 0.0, "id": 2777127856, "level": 3}
+{"count": 14, "name": "Disposable food packaging", "weight": 0.0, "id": 2781087174, "level": 3}
+{"count": 55, "name": "Polyurethane laminate", "weight": 0.0, "id": 73187638, "level": 3}
+{"count": 14, "name": "Sol", "weight": 0.0, "id": 181775810, "level": 3}
+{"count": 19, "name": "Sodium polycarboxylate", "weight": 0.0, "id": 2778817049, "level": 3}

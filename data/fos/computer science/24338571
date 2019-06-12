@@ -1,0 +1,6 @@
+{"count": 2165, "name": "Moving-average model", "weight": 6.0, "id": 155380588, "level": 4}
+{"count": 1303, "name": "Box\u2013Jenkins", "weight": 3.0, "id": 82257358, "level": 4}
+{"count": 825, "name": "Partial autocorrelation function", "weight": 2.0, "id": 114775468, "level": 4}
+{"count": 1117, "name": "Autoregressive fractionally integrated moving average", "weight": 3.0, "id": 1297061, "level": 4}
+{"count": 2757, "name": "Nonlinear autoregressive exogenous model", "weight": 7.0, "id": 42536954, "level": 4}
+{"count": 3500, "name": "STAR model", "weight": 10.0, "id": 194657046, "level": 4}

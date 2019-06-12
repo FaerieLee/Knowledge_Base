@@ -1,0 +1,52 @@
+{"count": 48438, "name": "Synchronous motor", "weight": 3.0, "id": 71376005, "level": 3}
+{"count": 23616, "name": "Vector control", "weight": 1.0, "id": 152060993, "level": 3}
+{"count": 21674, "name": "AC motor", "weight": 1.0, "id": 173161252, "level": 3}
+{"count": 22701, "name": "Permanent magnet synchronous generator", "weight": 1.0, "id": 201320609, "level": 3}
+{"count": 15298, "name": "Switched reluctance motor", "weight": 1.0, "id": 12090584, "level": 3}
+{"count": 4493, "name": "Permanent magnet motor", "weight": 0.0, "id": 2776617710, "level": 3}
+{"count": 10839, "name": "Magnetic bearing", "weight": 0.0, "id": 153056533, "level": 3}
+{"count": 122372, "name": "Stator", "weight": 10.0, "id": 2776529397, "level": 3}
+{"count": 5241, "name": "Critical speed", "weight": 0.0, "id": 179093217, "level": 3}
+{"count": 9270, "name": "Helicopter rotor", "weight": 0.0, "id": 177124886, "level": 3}
+{"count": 1186, "name": "Rotordynamics", "weight": 0.0, "id": 2780581274, "level": 3}
+{"count": 5611, "name": "Rotary engine", "weight": 0.0, "id": 69381644, "level": 3}
+{"count": 2143, "name": "Foil bearing", "weight": 0.0, "id": 114520438, "level": 3}
+{"count": 2280, "name": "Downwash", "weight": 0.0, "id": 202685678, "level": 3}
+{"count": 615, "name": "Momentum theory", "weight": 0.0, "id": 165819098, "level": 3}
+{"count": 2631, "name": "Counter-electromotive force", "weight": 0.0, "id": 152565533, "level": 3}
+{"count": 876, "name": "Axial turbine", "weight": 0.0, "id": 2780747060, "level": 3}
+{"count": 988, "name": "Magnetic gear", "weight": 0.0, "id": 2775996065, "level": 3}
+{"count": 2648, "name": "Labyrinth seal", "weight": 0.0, "id": 2780313912, "level": 3}
+{"count": 2061, "name": "Rigid rotor", "weight": 0.0, "id": 56006197, "level": 3}
+{"count": 9470, "name": "Magnetic reluctance", "weight": 0.0, "id": 197993065, "level": 3}
+{"count": 3244, "name": "Tip clearance", "weight": 0.0, "id": 2779285531, "level": 3}
+{"count": 1787, "name": "Turbo generator", "weight": 0.0, "id": 2779826791, "level": 3}
+{"count": 786, "name": "Stationary Reference Frame", "weight": 0.0, "id": 2778690891, "level": 3}
+{"count": 3313, "name": "Screw pump", "weight": 0.0, "id": 2775991074, "level": 3}
+{"count": 1763, "name": "Crowbar", "weight": 0.0, "id": 2780655974, "level": 3}
+{"count": 1374, "name": "Tip-speed ratio", "weight": 0.0, "id": 2777512574, "level": 3}
+{"count": 654, "name": "Turbomolecular pump", "weight": 0.0, "id": 2780194802, "level": 3}
+{"count": 1082, "name": "Radial turbine", "weight": 0.0, "id": 2781171283, "level": 3}
+{"count": 251, "name": "Impact mill", "weight": 0.0, "id": 2777334950, "level": 3}
+{"count": 1934, "name": "Blade element theory", "weight": 0.0, "id": 55589367, "level": 3}
+{"count": 927, "name": "Degree of reaction", "weight": 0.0, "id": 188952714, "level": 3}
+{"count": 833, "name": "Gerotor", "weight": 0.0, "id": 2777384266, "level": 3}
+{"count": 494, "name": "Trochoid", "weight": 0.0, "id": 84782433, "level": 3}
+{"count": 1404, "name": "Tail rotor", "weight": 0.0, "id": 2781447819, "level": 3}
+{"count": 164, "name": "Lobe pump", "weight": 0.0, "id": 196703952, "level": 3}
+{"count": 1194, "name": "Balancing machine", "weight": 0.0, "id": 159162486, "level": 3}
+{"count": 6156, "name": "Blade pitch", "weight": 0.0, "id": 97683284, "level": 3}
+{"count": 66, "name": "Flettner rotor", "weight": 0.0, "id": 2776595424, "level": 3}
+{"count": 127, "name": "Epitrochoid", "weight": 0.0, "id": 180545023, "level": 3}
+{"count": 279, "name": "Rotary vane pump", "weight": 0.0, "id": 2778502708, "level": 3}
+{"count": 123, "name": "Airplane mode", "weight": 0.0, "id": 2779220029, "level": 3}
+{"count": 111, "name": "Premium efficiency", "weight": 0.0, "id": 2778534273, "level": 3}
+{"count": 112, "name": "Bar induction", "weight": 0.0, "id": 2780984747, "level": 3}
+{"count": 939, "name": "Rotating unbalance", "weight": 0.0, "id": 56894122, "level": 3}
+{"count": 209, "name": "Laboratory centrifuge", "weight": 0.0, "id": 2780222859, "level": 3}
+{"count": 20, "name": "Cyclorotor", "weight": 0.0, "id": 2776370381, "level": 3}
+{"count": 52, "name": "Blade solidity", "weight": 0.0, "id": 2776624010, "level": 3}
+{"count": 26, "name": "Air core gauge", "weight": 0.0, "id": 2780894210, "level": 3}
+{"count": 1440, "name": "Cheng rotation vane", "weight": 0.0, "id": 35157781, "level": 3}
+{"count": 4435, "name": "Internal fan-cooled electric motor", "weight": 0.0, "id": 164468515, "level": 3}
+{"count": 133, "name": "Conical plate centrifuge", "weight": 0.0, "id": 17619305, "level": 3}

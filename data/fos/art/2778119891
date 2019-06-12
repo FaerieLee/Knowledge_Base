@@ -1,0 +1,3 @@
+{"count": 773, "name": "GPU cluster", "weight": 10.0, "id": 2781335571, "level": 4}
+{"count": 11, "name": "OpenHMPP", "weight": 0.0, "id": 2779161803, "level": 4}
+{"count": 31, "name": "Single instruction, multiple threads", "weight": 0.0, "id": 2776130978, "level": 4}

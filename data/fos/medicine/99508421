@@ -1,0 +1,61 @@
+{"count": 41132, "name": "Low back pain", "weight": 8.0, "id": 2780907711, "level": 2}
+{"count": 49235, "name": "Gait", "weight": 10.0, "id": 151800584, "level": 2}
+{"count": 16653, "name": "Sports medicine", "weight": 3.0, "id": 43893838, "level": 2}
+{"count": 8259, "name": "Exercise therapy", "weight": 1.0, "id": 2777771302, "level": 2}
+{"count": 12309, "name": "Proprioception", "weight": 2.0, "id": 171790689, "level": 2}
+{"count": 13254, "name": "Strength training", "weight": 2.0, "id": 123550912, "level": 2}
+{"count": 13996, "name": "Spasticity", "weight": 2.0, "id": 2779012798, "level": 2}
+{"count": 12255, "name": "Neck pain", "weight": 2.0, "id": 2781038967, "level": 2}
+{"count": 3863, "name": "Musculoskeletal disorder", "weight": 0.0, "id": 2777414892, "level": 2}
+{"count": 8343, "name": "Grip strength", "weight": 1.0, "id": 2777433710, "level": 2}
+{"count": 3266, "name": "Balance (ability)", "weight": 0.0, "id": 168031717, "level": 2}
+{"count": 8136, "name": "Chiropractic", "weight": 1.0, "id": 516994506, "level": 2}
+{"count": 2735, "name": "Orthotics", "weight": 0.0, "id": 2776462017, "level": 2}
+{"count": 7489, "name": "Physical strength", "weight": 1.0, "id": 153396756, "level": 2}
+{"count": 4576, "name": "Manual therapy", "weight": 0.0, "id": 514863369, "level": 2}
+{"count": 5312, "name": "Whiplash", "weight": 1.0, "id": 2780098137, "level": 2}
+{"count": 1664, "name": "Minimal clinically important difference", "weight": 0.0, "id": 111278954, "level": 2}
+{"count": 1465, "name": "Myofascial pain syndrome", "weight": 0.0, "id": 2779316685, "level": 2}
+{"count": 8607, "name": "Hamstring", "weight": 1.0, "id": 2776141760, "level": 2}
+{"count": 3385, "name": "Exercise prescription", "weight": 0.0, "id": 2779673892, "level": 2}
+{"count": 1481, "name": "Patellofemoral pain syndrome", "weight": 0.0, "id": 2779734345, "level": 2}
+{"count": 1864, "name": "Deconditioning", "weight": 0.0, "id": 2777152909, "level": 2}
+{"count": 2732, "name": "Functional training", "weight": 0.0, "id": 119343949, "level": 2}
+{"count": 2402, "name": "Plyometrics", "weight": 0.0, "id": 31897792, "level": 2}
+{"count": 1585, "name": "Musculoskeletal injury", "weight": 0.0, "id": 2780610925, "level": 2}
+{"count": 1455, "name": "Core stability", "weight": 0.0, "id": 204664388, "level": 2}
+{"count": 393, "name": "Functional capacity evaluation", "weight": 0.0, "id": 2775840374, "level": 2}
+{"count": 1628, "name": "Timed Up and Go test", "weight": 0.0, "id": 2776048318, "level": 2}
+{"count": 1337, "name": "Static stretching", "weight": 0.0, "id": 2777013735, "level": 2}
+{"count": 488, "name": "Running injuries", "weight": 0.0, "id": 2781048043, "level": 2}
+{"count": 482, "name": "Prolotherapy", "weight": 0.0, "id": 2780145008, "level": 2}
+{"count": 642, "name": "Muscle imbalance", "weight": 0.0, "id": 2778388502, "level": 2}
+{"count": 523, "name": "Passive stretching", "weight": 0.0, "id": 2779638389, "level": 2}
+{"count": 549, "name": "Myofascial release", "weight": 0.0, "id": 2779926553, "level": 2}
+{"count": 245, "name": "Muscle energy technique", "weight": 0.0, "id": 2780825402, "level": 2}
+{"count": 231, "name": "Iliotibial band syndrome", "weight": 0.0, "id": 2779446146, "level": 2}
+{"count": 69, "name": "NeuroMatrix", "weight": 0.0, "id": 148082430, "level": 2}
+{"count": 596, "name": "Limits of stability", "weight": 0.0, "id": 2778021803, "level": 2}
+{"count": 304, "name": "Shin splints", "weight": 0.0, "id": 2776899627, "level": 2}
+{"count": 394, "name": "Manual medicine", "weight": 0.0, "id": 2780832309, "level": 2}
+{"count": 247, "name": "Somatic dysfunction", "weight": 0.0, "id": 2779349678, "level": 2}
+{"count": 1388, "name": "Functional movement", "weight": 0.0, "id": 64635419, "level": 2}
+{"count": 473, "name": "Push-up", "weight": 0.0, "id": 2777407228, "level": 2}
+{"count": 208, "name": "Iyengar Yoga", "weight": 0.0, "id": 2779061482, "level": 2}
+{"count": 757, "name": "Tinetti test", "weight": 0.0, "id": 203187845, "level": 2}
+{"count": 723, "name": "Balance board", "weight": 0.0, "id": 2777953645, "level": 2}
+{"count": 215, "name": "Adaptive equipment", "weight": 0.0, "id": 2779716877, "level": 2}
+{"count": 285, "name": "Sit-up", "weight": 0.0, "id": 2781325135, "level": 2}
+{"count": 178, "name": "Joint manipulation", "weight": 0.0, "id": 2780061416, "level": 2}
+{"count": 188, "name": "Schmidt sting pain index", "weight": 0.0, "id": 92998641, "level": 2}
+{"count": 193, "name": "Standing frame", "weight": 0.0, "id": 2776872195, "level": 2}
+{"count": 102, "name": "Restorative neurology", "weight": 0.0, "id": 2776910547, "level": 2}
+{"count": 612, "name": "Balance problems", "weight": 0.0, "id": 2778171261, "level": 2}
+{"count": 118, "name": "Thomas test", "weight": 0.0, "id": 104451534, "level": 2}
+{"count": 35, "name": "De Quervain syndrome", "weight": 0.0, "id": 2781002046, "level": 2}
+{"count": 69, "name": "Shoulder problem", "weight": 0.0, "id": 2778943199, "level": 2}
+{"count": 61, "name": "Watsu", "weight": 0.0, "id": 2779870494, "level": 2}
+{"count": 54, "name": "Neuromuscular therapy", "weight": 0.0, "id": 2777413197, "level": 2}
+{"count": 17, "name": "Postural Restoration", "weight": 0.0, "id": 2777073755, "level": 2}
+{"count": 139, "name": "Leg raise", "weight": 0.0, "id": 2780639612, "level": 2}
+{"count": 16, "name": "Cuboid syndrome", "weight": 0.0, "id": 2776347121, "level": 2}

@@ -1,0 +1,33 @@
+{"count": 13936, "name": "Induction generator", "weight": 7.0, "id": 98716924, "level": 3}
+{"count": 2444, "name": "Capacity factor", "weight": 1.0, "id": 37415627, "level": 3}
+{"count": 4967, "name": "Nameplate capacity", "weight": 2.0, "id": 71554815, "level": 3}
+{"count": 17875, "name": "Offshore wind power", "weight": 10.0, "id": 8735168, "level": 3}
+{"count": 3583, "name": "Vertical axis wind turbine", "weight": 2.0, "id": 2777596722, "level": 3}
+{"count": 3056, "name": "Grid connection", "weight": 1.0, "id": 2780685028, "level": 3}
+{"count": 10545, "name": "Wind profile power law", "weight": 5.0, "id": 154718420, "level": 3}
+{"count": 3374, "name": "Pitch control", "weight": 1.0, "id": 2778330180, "level": 3}
+{"count": 1125, "name": "Wind power forecasting", "weight": 0.0, "id": 2781084341, "level": 3}
+{"count": 4899, "name": "Windmill", "weight": 2.0, "id": 2776565914, "level": 3}
+{"count": 10847, "name": "Base load power plant", "weight": 6.0, "id": 123153844, "level": 3}
+{"count": 7938, "name": "Intermittent energy source", "weight": 4.0, "id": 121119573, "level": 3}
+{"count": 4505, "name": "Pumped-storage hydroelectricity", "weight": 2.0, "id": 183739832, "level": 3}
+{"count": 1237, "name": "Small wind turbine", "weight": 0.0, "id": 2779862270, "level": 3}
+{"count": 1763, "name": "Crowbar", "weight": 0.0, "id": 2780655974, "level": 3}
+{"count": 6617, "name": "Grid parity", "weight": 3.0, "id": 186503672, "level": 3}
+{"count": 249, "name": "Wind-turbine aerodynamics", "weight": 0.0, "id": 2777751561, "level": 3}
+{"count": 1374, "name": "Tip-speed ratio", "weight": 0.0, "id": 2777512574, "level": 3}
+{"count": 5515, "name": "Grid energy storage", "weight": 3.0, "id": 38864968, "level": 3}
+{"count": 455, "name": "Operating reserve", "weight": 0.0, "id": 2780913411, "level": 3}
+{"count": 11348, "name": "Stand-alone power system", "weight": 6.0, "id": 104708988, "level": 3}
+{"count": 632, "name": "Wind turbine design", "weight": 0.0, "id": 2777052346, "level": 3}
+{"count": 413, "name": "Inertial response", "weight": 0.0, "id": 2777563595, "level": 3}
+{"count": 152, "name": "Western Interconnection", "weight": 0.0, "id": 2777213303, "level": 3}
+{"count": 557, "name": "Variable renewable energy", "weight": 0.0, "id": 2780789856, "level": 3}
+{"count": 14399, "name": "Power optimizer", "weight": 8.0, "id": 145180747, "level": 3}
+{"count": 92, "name": "High-altitude wind power", "weight": 0.0, "id": 2776127450, "level": 3}
+{"count": 1253, "name": "Dispatchable generation", "weight": 0.0, "id": 85924503, "level": 3}
+{"count": 25, "name": "Wind turbine syndrome", "weight": 0.0, "id": 2777956064, "level": 3}
+{"count": 1264, "name": "Power system simulator for engineering", "weight": 0.0, "id": 57467194, "level": 3}
+{"count": 7, "name": "Environmental impact of wind power", "weight": 0.0, "id": 2779416208, "level": 3}
+{"count": 8, "name": "Renewable energy in Denmark", "weight": 0.0, "id": 2778318924, "level": 3}
+{"count": 27, "name": "Renewable energy in Brazil", "weight": 0.0, "id": 2776537448, "level": 3}

@@ -1,0 +1,19 @@
+{"count": 5201, "name": "Hash table", "weight": 10.0, "id": 67388219, "level": 3}
+{"count": 3096, "name": "Cryptographic hash function", "weight": 5.0, "id": 7608002, "level": 3}
+{"count": 1595, "name": "Locality-sensitive hashing", "weight": 3.0, "id": 74270461, "level": 3}
+{"count": 3773, "name": "Hash chain", "weight": 7.0, "id": 135783594, "level": 3}
+{"count": 262, "name": "SHA-1", "weight": 0.0, "id": 8343483, "level": 3}
+{"count": 741, "name": "Perfect hash function", "weight": 1.0, "id": 87431388, "level": 3}
+{"count": 262, "name": "SHA-3", "weight": 0.0, "id": 51173467, "level": 3}
+{"count": 107, "name": "RIPEMD", "weight": 0.0, "id": 158390033, "level": 3}
+{"count": 154, "name": "MinHash", "weight": 0.0, "id": 2080492, "level": 3}
+{"count": 215, "name": "Perceptual hashing", "weight": 0.0, "id": 2777442007, "level": 3}
+{"count": 10, "name": "N-Hash", "weight": 0.0, "id": 2778709297, "level": 3}
+{"count": 3300, "name": "Double hashing", "weight": 6.0, "id": 138111711, "level": 3}
+{"count": 44, "name": "Leftover hash lemma", "weight": 0.0, "id": 2778709885, "level": 3}
+{"count": 16, "name": "National Software Reference Library", "weight": 0.0, "id": 2776443049, "level": 3}
+{"count": 20, "name": "scrypt", "weight": 0.0, "id": 65821590, "level": 3}
+{"count": 14, "name": "HAS-V", "weight": 0.0, "id": 2778753311, "level": 3}
+{"count": 47, "name": "Quotient filter", "weight": 0.0, "id": 27641421, "level": 3}
+{"count": 9, "name": "SipHash", "weight": 0.0, "id": 2778683872, "level": 3}
+{"count": 9, "name": "LM hash", "weight": 0.0, "id": 193919947, "level": 3}

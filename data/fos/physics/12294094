@@ -1,0 +1,6 @@
+{"count": 3695, "name": "Spontaneous fission", "weight": 8.0, "id": 76258055, "level": 3}
+{"count": 3305, "name": "Nuclear fission", "weight": 7.0, "id": 36091686, "level": 3}
+{"count": 4260, "name": "Cluster decay", "weight": 9.0, "id": 15522600, "level": 3}
+{"count": 4304, "name": "Cold fission", "weight": 10.0, "id": 43997528, "level": 3}
+{"count": 271, "name": "Fissility", "weight": 0.0, "id": 207263186, "level": 3}
+{"count": 29, "name": "Paratomy", "weight": 0.0, "id": 2780792017, "level": 3}

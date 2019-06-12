@@ -1,0 +1,6 @@
+{"count": 4686, "name": "Hill climbing", "weight": 10.0, "id": 135450995, "level": 3}
+{"count": 4144, "name": "Memetic algorithm", "weight": 8.0, "id": 35129592, "level": 3}
+{"count": 1917, "name": "Variable neighborhood search", "weight": 4.0, "id": 2776435737, "level": 3}
+{"count": 3639, "name": "Guided Local Search", "weight": 7.0, "id": 90189156, "level": 3}
+{"count": 145, "name": "Great Deluge algorithm", "weight": 0.0, "id": 2777761721, "level": 3}
+{"count": 56, "name": "Very large-scale neighborhood search", "weight": 0.0, "id": 2780663532, "level": 3}

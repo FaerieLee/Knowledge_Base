@@ -1,0 +1,200 @@
+{"count": 17782, "name": "Mesozoic", "weight": 10.0, "id": 202783661, "level": 3}
+{"count": 12511, "name": "Paleogene", "weight": 7.0, "id": 204330871, "level": 3}
+{"count": 1106, "name": "Tertiary", "weight": 0.0, "id": 9664454, "level": 3}
+{"count": 5000, "name": "Cenomanian", "weight": 2.0, "id": 27543578, "level": 3}
+{"count": 3701, "name": "Aptian", "weight": 2.0, "id": 189473229, "level": 3}
+{"count": 860, "name": "Theropoda", "weight": 0.0, "id": 2777634094, "level": 3}
+{"count": 968, "name": "Ammonoidea", "weight": 0.0, "id": 2777029203, "level": 3}
+{"count": 562, "name": "Sauropoda", "weight": 0.0, "id": 2778296485, "level": 3}
+{"count": 555, "name": "Laurasia", "weight": 0.0, "id": 2776322157, "level": 3}
+{"count": 672, "name": "Yixian Formation", "weight": 0.0, "id": 2777124981, "level": 3}
+{"count": 479, "name": "Ornithischia", "weight": 0.0, "id": 2778173827, "level": 3}
+{"count": 553, "name": "Belemnites", "weight": 0.0, "id": 2780665516, "level": 3}
+{"count": 647, "name": "Laramide orogeny", "weight": 0.0, "id": 2780515430, "level": 3}
+{"count": 1920, "name": "Ammonite", "weight": 1.0, "id": 2779032034, "level": 3}
+{"count": 223, "name": "Plesiosauria", "weight": 0.0, "id": 2777719566, "level": 3}
+{"count": 585, "name": "Western Interior Seaway", "weight": 0.0, "id": 2775932422, "level": 3}
+{"count": 103, "name": "Confuciusornis", "weight": 0.0, "id": 2776015834, "level": 3}
+{"count": 275, "name": "Sauropterygia", "weight": 0.0, "id": 2779695921, "level": 3}
+{"count": 172, "name": "Crocodyliformes", "weight": 0.0, "id": 2775967273, "level": 3}
+{"count": 124, "name": "Multituberculata", "weight": 0.0, "id": 2779911998, "level": 3}
+{"count": 110, "name": "Potomac Group", "weight": 0.0, "id": 2780776036, "level": 3}
+{"count": 202, "name": "Jiufotang Formation", "weight": 0.0, "id": 2778128784, "level": 3}
+{"count": 736, "name": "Greensand", "weight": 0.0, "id": 2776419718, "level": 3}
+{"count": 667, "name": "Tethys Ocean", "weight": 0.0, "id": 2777598122, "level": 3}
+{"count": 246, "name": "Pleurodira", "weight": 0.0, "id": 2781137088, "level": 3}
+{"count": 170, "name": "Pterodactyloidea", "weight": 0.0, "id": 2778260204, "level": 3}
+{"count": 131, "name": "Neoselachii", "weight": 0.0, "id": 2780770162, "level": 3}
+{"count": 181, "name": "Feathered dinosaur", "weight": 0.0, "id": 73713916, "level": 3}
+{"count": 230, "name": "Mosasaur", "weight": 0.0, "id": 2779855248, "level": 3}
+{"count": 152, "name": "Las Hoyas", "weight": 0.0, "id": 2781140911, "level": 3}
+{"count": 189, "name": "Bauru Group", "weight": 0.0, "id": 2776828160, "level": 3}
+{"count": 162, "name": "Santana Formation", "weight": 0.0, "id": 2780785422, "level": 3}
+{"count": 316, "name": "Ichnotaxon", "weight": 0.0, "id": 121377613, "level": 3}
+{"count": 113, "name": "Ceratopsia", "weight": 0.0, "id": 2780682386, "level": 3}
+{"count": 183, "name": "Marine reptile", "weight": 0.0, "id": 2780202110, "level": 3}
+{"count": 153, "name": "Iguanodon", "weight": 0.0, "id": 2779814621, "level": 3}
+{"count": 103, "name": "Eusuchia", "weight": 0.0, "id": 2776144765, "level": 3}
+{"count": 215, "name": "Hell Creek Formation", "weight": 0.0, "id": 2778874969, "level": 3}
+{"count": 164, "name": "Mesoeucrocodylia", "weight": 0.0, "id": 2781267942, "level": 3}
+{"count": 303, "name": "Ichthyosaur", "weight": 0.0, "id": 2780728726, "level": 3}
+{"count": 382, "name": "Ornithopod", "weight": 0.0, "id": 2777173426, "level": 3}
+{"count": 81, "name": "Pycnodonte", "weight": 0.0, "id": 2776519677, "level": 3}
+{"count": 338, "name": "Niobrara Formation", "weight": 0.0, "id": 2779040996, "level": 3}
+{"count": 102, "name": "Exogyra", "weight": 0.0, "id": 2778541645, "level": 3}
+{"count": 63, "name": "Choristodera", "weight": 0.0, "id": 2777618597, "level": 3}
+{"count": 77, "name": "Azhdarchidae", "weight": 0.0, "id": 2781232563, "level": 3}
+{"count": 116, "name": "Dinosaur Park Formation", "weight": 0.0, "id": 2775890599, "level": 3}
+{"count": 68, "name": "Cupedidae", "weight": 0.0, "id": 2776685061, "level": 3}
+{"count": 59, "name": "Hesperornis", "weight": 0.0, "id": 2776968027, "level": 3}
+{"count": 62, "name": "Lopha", "weight": 0.0, "id": 2780787542, "level": 3}
+{"count": 311, "name": "Inoceramus", "weight": 0.0, "id": 2778683248, "level": 3}
+{"count": 45, "name": "Greenhorn Limestone", "weight": 0.0, "id": 2775970663, "level": 3}
+{"count": 42, "name": "Pachyostosis", "weight": 0.0, "id": 2777686995, "level": 3}
+{"count": 134, "name": "Judith River Formation", "weight": 0.0, "id": 2778649245, "level": 3}
+{"count": 54, "name": "Microraptor", "weight": 0.0, "id": 2781252596, "level": 3}
+{"count": 97, "name": "Calcareous dinoflagellate cysts", "weight": 0.0, "id": 2780002038, "level": 3}
+{"count": 75, "name": "Pycnodontiformes", "weight": 0.0, "id": 2776493744, "level": 3}
+{"count": 25, "name": "Stelleroidea", "weight": 0.0, "id": 2776619740, "level": 3}
+{"count": 40, "name": "Albanerpetontidae", "weight": 0.0, "id": 2778035110, "level": 3}
+{"count": 101, "name": "Adamantina Formation", "weight": 0.0, "id": 2777163171, "level": 3}
+{"count": 58, "name": "Scincomorpha", "weight": 0.0, "id": 2776314026, "level": 3}
+{"count": 28, "name": "Iguanodontidae", "weight": 0.0, "id": 2776107005, "level": 3}
+{"count": 123, "name": "Cedar Mountain Formation", "weight": 0.0, "id": 2779123329, "level": 3}
+{"count": 131, "name": "Brachyphyllum", "weight": 0.0, "id": 2776208344, "level": 3}
+{"count": 110, "name": "Neosuchia", "weight": 0.0, "id": 2780735564, "level": 3}
+{"count": 180, "name": "Hadrosaurid", "weight": 0.0, "id": 2779078063, "level": 3}
+{"count": 144, "name": "Continental fragment", "weight": 0.0, "id": 2779191708, "level": 3}
+{"count": 76, "name": "Goniasteridae", "weight": 0.0, "id": 2779467031, "level": 3}
+{"count": 28, "name": "Gondwanatheria", "weight": 0.0, "id": 2777158500, "level": 3}
+{"count": 154, "name": "Intertrappean Beds", "weight": 0.0, "id": 2779589573, "level": 3}
+{"count": 27, "name": "Madtsoiidae", "weight": 0.0, "id": 2779008107, "level": 3}
+{"count": 54, "name": "Alligatoroidea", "weight": 0.0, "id": 2780267161, "level": 3}
+{"count": 16, "name": "Eutriconodonta", "weight": 0.0, "id": 2778236133, "level": 3}
+{"count": 38, "name": "Hadrosauroidea", "weight": 0.0, "id": 2780898090, "level": 3}
+{"count": 37, "name": "Ichthyornis", "weight": 0.0, "id": 2779409113, "level": 3}
+{"count": 48, "name": "Anemiaceae", "weight": 0.0, "id": 2779652880, "level": 3}
+{"count": 116, "name": "Dinosaur egg", "weight": 0.0, "id": 2776246122, "level": 3}
+{"count": 26, "name": "Gobiconodon", "weight": 0.0, "id": 2776566704, "level": 3}
+{"count": 55, "name": "Semionotiformes", "weight": 0.0, "id": 2776888429, "level": 3}
+{"count": 58, "name": "Troodon", "weight": 0.0, "id": 2778151683, "level": 3}
+{"count": 50, "name": "Astropectinidae", "weight": 0.0, "id": 2776425934, "level": 3}
+{"count": 36, "name": "Hybodontiformes", "weight": 0.0, "id": 2781142216, "level": 3}
+{"count": 15, "name": "Mosasauroidea", "weight": 0.0, "id": 2777424970, "level": 3}
+{"count": 197, "name": "Baculites", "weight": 0.0, "id": 2778229746, "level": 3}
+{"count": 102, "name": "Scaphites", "weight": 0.0, "id": 2779066866, "level": 3}
+{"count": 44, "name": "Amiiformes", "weight": 0.0, "id": 2780409691, "level": 3}
+{"count": 71, "name": "Pteranodon", "weight": 0.0, "id": 2776087603, "level": 3}
+{"count": 30, "name": "Halecomorphi", "weight": 0.0, "id": 2780970811, "level": 3}
+{"count": 40, "name": "Calpionella", "weight": 0.0, "id": 2777484230, "level": 3}
+{"count": 66, "name": "Oldman Formation", "weight": 0.0, "id": 2777525930, "level": 3}
+{"count": 73, "name": "Squalicorax", "weight": 0.0, "id": 2776328334, "level": 3}
+{"count": 68, "name": "Trigoniidae", "weight": 0.0, "id": 2776981592, "level": 3}
+{"count": 19, "name": "Adapisoriculidae", "weight": 0.0, "id": 2778485753, "level": 3}
+{"count": 29, "name": "Tempskya", "weight": 0.0, "id": 2775842749, "level": 3}
+{"count": 83, "name": "Hybodus", "weight": 0.0, "id": 2776662995, "level": 3}
+{"count": 26, "name": "Coloborhynchus", "weight": 0.0, "id": 2777714535, "level": 3}
+{"count": 72, "name": "Lepidotes", "weight": 0.0, "id": 2779259583, "level": 3}
+{"count": 47, "name": "Allen Formation", "weight": 0.0, "id": 2778392008, "level": 3}
+{"count": 29, "name": "Megalyridae", "weight": 0.0, "id": 2781161827, "level": 3}
+{"count": 56, "name": "Aguja Formation", "weight": 0.0, "id": 2779863206, "level": 3}
+{"count": 33, "name": "Nymphidae", "weight": 0.0, "id": 2779486776, "level": 3}
+{"count": 184, "name": "Lance Formation", "weight": 0.0, "id": 2779343979, "level": 3}
+{"count": 12, "name": "Bajo Barreal Formation", "weight": 0.0, "id": 2777951320, "level": 3}
+{"count": 62, "name": "Wessex Formation", "weight": 0.0, "id": 2780962609, "level": 3}
+{"count": 91, "name": "Dinosaur Provincial Park", "weight": 0.0, "id": 2780563042, "level": 3}
+{"count": 15, "name": "Alphadon", "weight": 0.0, "id": 2779720361, "level": 3}
+{"count": 35, "name": "Aporrhaidae", "weight": 0.0, "id": 2780965535, "level": 3}
+{"count": 8, "name": "Megaraptora", "weight": 0.0, "id": 2776639467, "level": 3}
+{"count": 62, "name": "Lameta Formation", "weight": 0.0, "id": 2779588624, "level": 3}
+{"count": 10, "name": "Barun Goyot Formation", "weight": 0.0, "id": 2779286898, "level": 3}
+{"count": 64, "name": "Echinocorys", "weight": 0.0, "id": 2778829562, "level": 3}
+{"count": 24, "name": "La Colonia Formation", "weight": 0.0, "id": 2780909654, "level": 3}
+{"count": 133, "name": "Trigonia", "weight": 0.0, "id": 2776229389, "level": 3}
+{"count": 33, "name": "Theriosuchus", "weight": 0.0, "id": 2780414388, "level": 3}
+{"count": 65, "name": "Prince Creek Formation", "weight": 0.0, "id": 2775937451, "level": 3}
+{"count": 9, "name": "Cimolodonta", "weight": 0.0, "id": 2778791251, "level": 3}
+{"count": 42, "name": "Toolebuc Formation", "weight": 0.0, "id": 2781087239, "level": 3}
+{"count": 20, "name": "Meiolaniidae", "weight": 0.0, "id": 2779007259, "level": 3}
+{"count": 34, "name": "Pachyrhachis", "weight": 0.0, "id": 2778981140, "level": 3}
+{"count": 14, "name": "Protungulatum", "weight": 0.0, "id": 2781411528, "level": 3}
+{"count": 40, "name": "Parasaurolophus", "weight": 0.0, "id": 2778268246, "level": 3}
+{"count": 58, "name": "Pygostyle", "weight": 0.0, "id": 2775942290, "level": 3}
+{"count": 92, "name": "Micraster", "weight": 0.0, "id": 2776358772, "level": 3}
+{"count": 71, "name": "Kaiparowits Formation", "weight": 0.0, "id": 2779888964, "level": 3}
+{"count": 71, "name": "Milk River Formation", "weight": 0.0, "id": 2779437086, "level": 3}
+{"count": 29, "name": "Albanerpeton", "weight": 0.0, "id": 2777629050, "level": 3}
+{"count": 13, "name": "Trematochampsidae", "weight": 0.0, "id": 2780081520, "level": 3}
+{"count": 51, "name": "Ripley Formation", "weight": 0.0, "id": 2777833492, "level": 3}
+{"count": 39, "name": "Eutrephoceras", "weight": 0.0, "id": 2777839928, "level": 3}
+{"count": 14, "name": "Neithea", "weight": 0.0, "id": 2777033968, "level": 3}
+{"count": 11, "name": "Sauroposeidon", "weight": 0.0, "id": 2777675863, "level": 3}
+{"count": 16, "name": "Cymatoceras", "weight": 0.0, "id": 2777110050, "level": 3}
+{"count": 29, "name": "Goniopholis", "weight": 0.0, "id": 2777010295, "level": 3}
+{"count": 29, "name": "Csehb\u00e1nya Formation", "weight": 0.0, "id": 2775962985, "level": 3}
+{"count": 13, "name": "Edmontonia", "weight": 0.0, "id": 2780914840, "level": 3}
+{"count": 53, "name": "Protoceratops", "weight": 0.0, "id": 2778178242, "level": 3}
+{"count": 49, "name": "Maevarano Formation", "weight": 0.0, "id": 2781147249, "level": 3}
+{"count": 92, "name": "Two Medicine Formation", "weight": 0.0, "id": 2777569852, "level": 3}
+{"count": 6, "name": "Lecho Formation", "weight": 0.0, "id": 2778591438, "level": 3}
+{"count": 32, "name": "Torosaurus", "weight": 0.0, "id": 2777181908, "level": 3}
+{"count": 25, "name": "Sapeornis", "weight": 0.0, "id": 2781430849, "level": 3}
+{"count": 29, "name": "Baenidae", "weight": 0.0, "id": 2777129065, "level": 3}
+{"count": 165, "name": "Fruitland Formation", "weight": 0.0, "id": 2778107536, "level": 3}
+{"count": 42, "name": "Lakota Formation", "weight": 0.0, "id": 2778762990, "level": 3}
+{"count": 14, "name": "Hungarosaurus", "weight": 0.0, "id": 2781095844, "level": 3}
+{"count": 17, "name": "Scaphitidae", "weight": 0.0, "id": 2781084135, "level": 3}
+{"count": 73, "name": "Eutaw Formation", "weight": 0.0, "id": 2781189608, "level": 3}
+{"count": 58, "name": "Neuqu\u00e9n Group", "weight": 0.0, "id": 2780926606, "level": 3}
+{"count": 6, "name": "Zhelestidae", "weight": 0.0, "id": 2777094858, "level": 3}
+{"count": 11, "name": "Ornithocheiroidea", "weight": 0.0, "id": 2777268104, "level": 3}
+{"count": 43, "name": "Marsupites", "weight": 0.0, "id": 2776504338, "level": 3}
+{"count": 17, "name": "Tendaguru Formation", "weight": 0.0, "id": 2777722051, "level": 3}
+{"count": 12, "name": "Dinosaur Cove", "weight": 0.0, "id": 2780811263, "level": 3}
+{"count": 9, "name": "Eobaataridae", "weight": 0.0, "id": 2776587698, "level": 3}
+{"count": 43, "name": "Cretoxyrhina", "weight": 0.0, "id": 2778532340, "level": 3}
+{"count": 17, "name": "Deinosuchus", "weight": 0.0, "id": 2780712992, "level": 3}
+{"count": 6, "name": "Gargantuavis", "weight": 0.0, "id": 2779947106, "level": 3}
+{"count": 14, "name": "Gymnocodiaceae", "weight": 0.0, "id": 2781383371, "level": 3}
+{"count": 45, "name": "Saccocoma", "weight": 0.0, "id": 2781406464, "level": 3}
+{"count": 6, "name": "Stenophlebiidae", "weight": 0.0, "id": 2779007586, "level": 3}
+{"count": 34, "name": "Dinilysia", "weight": 0.0, "id": 2777162428, "level": 3}
+{"count": 23, "name": "Javelina Formation", "weight": 0.0, "id": 2777712742, "level": 3}
+{"count": 8, "name": "Vascoceratidae", "weight": 0.0, "id": 2776656728, "level": 3}
+{"count": 29, "name": "Rotularia", "weight": 0.0, "id": 2781359507, "level": 3}
+{"count": 10, "name": "Pteranodontidae", "weight": 0.0, "id": 2776937624, "level": 3}
+{"count": 21, "name": "Pterodaustro", "weight": 0.0, "id": 2780928972, "level": 3}
+{"count": 54, "name": "Ichthyolith", "weight": 0.0, "id": 2776603593, "level": 3}
+{"count": 108, "name": "Glen Rose Formation", "weight": 0.0, "id": 2779948493, "level": 3}
+{"count": 15, "name": "Stagodontidae", "weight": 0.0, "id": 2778861127, "level": 3}
+{"count": 8, "name": "Cymatoceratidae", "weight": 0.0, "id": 2780176398, "level": 3}
+{"count": 16, "name": "Heteroceras", "weight": 0.0, "id": 2777606692, "level": 3}
+{"count": 9, "name": "Nipponites", "weight": 0.0, "id": 2779650225, "level": 3}
+{"count": 6, "name": "Acynodon", "weight": 0.0, "id": 2779424579, "level": 3}
+{"count": 10, "name": "Cathayornis", "weight": 0.0, "id": 2779242969, "level": 3}
+{"count": 32, "name": "Wahweap Formation", "weight": 0.0, "id": 2779977034, "level": 3}
+{"count": 19, "name": "Belonostomus", "weight": 0.0, "id": 2779994960, "level": 3}
+{"count": 9, "name": "Zalambdalestes", "weight": 0.0, "id": 2775865816, "level": 3}
+{"count": 182, "name": "Rock Springs Uplift", "weight": 0.0, "id": 2775845466, "level": 3}
+{"count": 6, "name": "Collignoniceratidae", "weight": 0.0, "id": 2779108623, "level": 3}
+{"count": 7, "name": "Cardabiodon", "weight": 0.0, "id": 2780606688, "level": 3}
+{"count": 13, "name": "Magyarosaurus", "weight": 0.0, "id": 2781359739, "level": 3}
+{"count": 14, "name": "Triconodontidae", "weight": 0.0, "id": 2778788619, "level": 3}
+{"count": 28, "name": "Peedee Formation", "weight": 0.0, "id": 2777005436, "level": 3}
+{"count": 14, "name": "Ancyloceras", "weight": 0.0, "id": 2778292351, "level": 3}
+{"count": 17, "name": "Vincelestes", "weight": 0.0, "id": 2778999914, "level": 3}
+{"count": 16, "name": "Atelostomata", "weight": 0.0, "id": 2778982345, "level": 3}
+{"count": 73, "name": "Lancian", "weight": 0.0, "id": 2779148891, "level": 3}
+{"count": 37, "name": "Judithian", "weight": 0.0, "id": 2779133249, "level": 3}
+{"count": 14, "name": "Dsungaripterus", "weight": 0.0, "id": 2778862104, "level": 3}
+{"count": 10, "name": "Sepulcidae", "weight": 0.0, "id": 2778536780, "level": 3}
+{"count": 13, "name": "Cimolestes", "weight": 0.0, "id": 2777382003, "level": 3}
+{"count": 7, "name": "Valdosaurus", "weight": 0.0, "id": 2781344516, "level": 3}
+{"count": 14, "name": "Yabeinosaurus", "weight": 0.0, "id": 2777741344, "level": 3}
+{"count": 99, "name": "Pachydiscus", "weight": 0.0, "id": 2778220273, "level": 3}
+{"count": 10, "name": "Huajiying Formation", "weight": 0.0, "id": 2777150538, "level": 3}
+{"count": 39, "name": "Enchodus", "weight": 0.0, "id": 2775941223, "level": 3}
+{"count": 8, "name": "Naturita Formation", "weight": 0.0, "id": 2779543452, "level": 3}
+{"count": 104, "name": "Nevadan orogeny", "weight": 0.0, "id": 2776582448, "level": 3}
+{"count": 13, "name": "Didelphodon", "weight": 0.0, "id": 2779438211, "level": 3}
+{"count": 11, "name": "Edmontonian", "weight": 0.0, "id": 2777300889, "level": 3}

@@ -1,0 +1,5 @@
+{"count": 1775, "name": "Flyback diode", "weight": 2.0, "id": 166869088, "level": 5}
+{"count": 323, "name": "Push\u2013pull converter", "weight": 0.0, "id": 2777464802, "level": 5}
+{"count": 113, "name": "Single-ended primary-inductor converter", "weight": 0.0, "id": 2776384602, "level": 5}
+{"count": 6137, "name": "Integrating ADC", "weight": 10.0, "id": 140020054, "level": 5}
+{"count": 3980, "name": "SINADR", "weight": 6.0, "id": 111101631, "level": 5}

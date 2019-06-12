@@ -1,0 +1,19 @@
+{"count": 967, "name": "Sorting network", "weight": 10.0, "id": 64540648, "level": 4}
+{"count": 729, "name": "Quicksort", "weight": 7.0, "id": 2778937211, "level": 4}
+{"count": 325, "name": "Radix sort", "weight": 3.0, "id": 32041758, "level": 4}
+{"count": 721, "name": "Merge sort", "weight": 7.0, "id": 35555965, "level": 4}
+{"count": 270, "name": "Heapsort", "weight": 2.0, "id": 55201436, "level": 4}
+{"count": 403, "name": "Bubble sort", "weight": 4.0, "id": 104020303, "level": 4}
+{"count": 451, "name": "Bucket sort", "weight": 4.0, "id": 71779739, "level": 4}
+{"count": 201, "name": "Integer sorting", "weight": 2.0, "id": 120517111, "level": 4}
+{"count": 410, "name": "Insertion sort", "weight": 4.0, "id": 71317734, "level": 4}
+{"count": 621, "name": "External sorting", "weight": 6.0, "id": 147254959, "level": 4}
+{"count": 540, "name": "In-place algorithm", "weight": 5.0, "id": 112083208, "level": 4}
+{"count": 123, "name": "Shellsort", "weight": 1.0, "id": 105089967, "level": 4}
+{"count": 574, "name": "Counting sort", "weight": 5.0, "id": 79257129, "level": 4}
+{"count": 647, "name": "Merge algorithm", "weight": 6.0, "id": 140086265, "level": 4}
+{"count": 16, "name": "Samplesort", "weight": 0.0, "id": 2776755766, "level": 4}
+{"count": 9, "name": "Odd\u2013even sort", "weight": 0.0, "id": 136122759, "level": 4}
+{"count": 158, "name": "Sorted array", "weight": 1.0, "id": 155661952, "level": 4}
+{"count": 11, "name": "Burstsort", "weight": 0.0, "id": 2776393919, "level": 4}
+{"count": 636, "name": "Adaptive sort", "weight": 6.0, "id": 94514180, "level": 4}

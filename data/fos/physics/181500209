@@ -1,0 +1,35 @@
+{"count": 15372, "name": "Configuration interaction", "weight": 4.0, "id": 2777529809, "level": 3}
+{"count": 12465, "name": "Molecular electronic transition", "weight": 3.0, "id": 21074235, "level": 3}
+{"count": 16998, "name": "Triplet state", "weight": 5.0, "id": 76766466, "level": 3}
+{"count": 31572, "name": "Singlet state", "weight": 10.0, "id": 33062035, "level": 3}
+{"count": 6955, "name": "Time-dependent density functional theory", "weight": 2.0, "id": 20853536, "level": 3}
+{"count": 9258, "name": "Internal conversion", "weight": 2.0, "id": 116039458, "level": 3}
+{"count": 10631, "name": "Photoexcitation", "weight": 3.0, "id": 155220765, "level": 3}
+{"count": 4048, "name": "Vibronic spectroscopy", "weight": 1.0, "id": 182498248, "level": 3}
+{"count": 1093, "name": "Van der Waals molecule", "weight": 0.0, "id": 2781077158, "level": 3}
+{"count": 8409, "name": "Vibrational energy relaxation", "weight": 2.0, "id": 84662259, "level": 3}
+{"count": 3126, "name": "Coulomb excitation", "weight": 0.0, "id": 2776309369, "level": 3}
+{"count": 4059, "name": "Stokes shift", "weight": 1.0, "id": 80994870, "level": 3}
+{"count": 974, "name": "Franck\u2013Condon principle", "weight": 0.0, "id": 22837933, "level": 3}
+{"count": 541, "name": "Hydrogen deuteride", "weight": 0.0, "id": 2776094679, "level": 3}
+{"count": 1421, "name": "Vibrational temperature", "weight": 0.0, "id": 2776077392, "level": 3}
+{"count": 3510, "name": "Hot band", "weight": 1.0, "id": 57061188, "level": 3}
+{"count": 1253, "name": "Avoided crossing", "weight": 0.0, "id": 137186670, "level": 3}
+{"count": 1401, "name": "Quantum beats", "weight": 0.0, "id": 2778989422, "level": 3}
+{"count": 4089, "name": "Vibronic coupling", "weight": 1.0, "id": 160172526, "level": 3}
+{"count": 12432, "name": "Rydberg formula", "weight": 3.0, "id": 70747811, "level": 3}
+{"count": 2068, "name": "Conical intersection", "weight": 0.0, "id": 24857813, "level": 3}
+{"count": 1638, "name": "Collisional excitation", "weight": 0.0, "id": 2781219984, "level": 3}
+{"count": 2710, "name": "Electron excitation", "weight": 0.0, "id": 2778005398, "level": 3}
+{"count": 305, "name": "3-Hydroxyflavone", "weight": 0.0, "id": 2779108919, "level": 3}
+{"count": 878, "name": "Surface hopping", "weight": 0.0, "id": 2780242237, "level": 3}
+{"count": 264, "name": "Island of inversion", "weight": 0.0, "id": 2777155078, "level": 3}
+{"count": 189, "name": "Intruder state", "weight": 0.0, "id": 2776337150, "level": 3}
+{"count": 6724, "name": "Rotational\u2013vibrational spectroscopy", "weight": 2.0, "id": 167812310, "level": 3}
+{"count": 128, "name": "Surprisal analysis", "weight": 0.0, "id": 2781373507, "level": 3}
+{"count": 744, "name": "Gammasphere", "weight": 0.0, "id": 2777006617, "level": 3}
+{"count": 177, "name": "Repulsive state", "weight": 0.0, "id": 2778703894, "level": 3}
+{"count": 59, "name": "Jablonski diagram", "weight": 0.0, "id": 144717497, "level": 3}
+{"count": 18, "name": "Rovibronic coupling", "weight": 0.0, "id": 2775925030, "level": 3}
+{"count": 20, "name": "Isotopes of ytterbium", "weight": 0.0, "id": 2778168430, "level": 3}
+{"count": 23, "name": "Fluorine azide", "weight": 0.0, "id": 2776480605, "level": 3}

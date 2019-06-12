@@ -1,0 +1,6 @@
+{"count": 662, "name": "Fault Simulator", "weight": 10.0, "id": 2776365744, "level": 4}
+{"count": 284, "name": "Bridging fault", "weight": 4.0, "id": 2779941319, "level": 4}
+{"count": 113, "name": "Fault grading", "weight": 1.0, "id": 2777045768, "level": 4}
+{"count": 428, "name": "Segmentation fault", "weight": 6.0, "id": 6361074, "level": 4}
+{"count": 44, "name": "Transistor fault", "weight": 0.0, "id": 2779047155, "level": 4}
+{"count": 619, "name": "General protection fault", "weight": 9.0, "id": 18878609, "level": 4}

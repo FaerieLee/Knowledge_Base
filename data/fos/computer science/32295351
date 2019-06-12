@@ -1,0 +1,5 @@
+{"count": 7588, "name": "Unicast", "weight": 5.0, "id": 11704745, "level": 3}
+{"count": 5815, "name": "Multimedia Broadcast Multicast Service", "weight": 4.0, "id": 77757571, "level": 3}
+{"count": 12724, "name": "Protocol Independent Multicast", "weight": 8.0, "id": 44892269, "level": 3}
+{"count": 13459, "name": "Source-specific multicast", "weight": 9.0, "id": 18787934, "level": 3}
+{"count": 14370, "name": "Xcast", "weight": 10.0, "id": 192059732, "level": 3}

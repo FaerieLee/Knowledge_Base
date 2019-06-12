@@ -1,0 +1,26 @@
+{"count": 1157, "name": "Ellipsoid method", "weight": 2.0, "id": 205451395, "level": 5}
+{"count": 2121, "name": "Conic optimization", "weight": 5.0, "id": 79187972, "level": 5}
+{"count": 700, "name": "Convex conjugate", "weight": 1.0, "id": 115483411, "level": 5}
+{"count": 535, "name": "Frank\u2013Wolfe algorithm", "weight": 1.0, "id": 122268817, "level": 5}
+{"count": 947, "name": "Pseudoconvex function", "weight": 2.0, "id": 118888059, "level": 5}
+{"count": 1687, "name": "Krein\u2013Milman theorem", "weight": 4.0, "id": 173688413, "level": 5}
+{"count": 725, "name": "Effective domain", "weight": 1.0, "id": 58385900, "level": 5}
+{"count": 662, "name": "Logarithmically convex function", "weight": 1.0, "id": 136719777, "level": 5}
+{"count": 423, "name": "Tight span", "weight": 1.0, "id": 191947364, "level": 5}
+{"count": 2295, "name": "Choquet theory", "weight": 5.0, "id": 176684429, "level": 5}
+{"count": 399, "name": "Logarithmically concave function", "weight": 1.0, "id": 13965822, "level": 5}
+{"count": 41, "name": "Tverberg's theorem", "weight": 0.0, "id": 2778298151, "level": 5}
+{"count": 369, "name": "Gauss\u2013Lucas theorem", "weight": 0.0, "id": 22091088, "level": 5}
+{"count": 116, "name": "Convex hull algorithms", "weight": 0.0, "id": 2777841862, "level": 5}
+{"count": 511, "name": "LF-space", "weight": 1.0, "id": 85001848, "level": 5}
+{"count": 350, "name": "Radon's theorem", "weight": 0.0, "id": 190541053, "level": 5}
+{"count": 41, "name": "Graham scan", "weight": 0.0, "id": 2780353867, "level": 5}
+{"count": 103, "name": "Pseudotriangle", "weight": 0.0, "id": 161804572, "level": 5}
+{"count": 305, "name": "Gift wrapping algorithm", "weight": 0.0, "id": 162935947, "level": 5}
+{"count": 374, "name": "Random coordinate descent", "weight": 0.0, "id": 18142653, "level": 5}
+{"count": 3919, "name": "Absolutely convex set", "weight": 10.0, "id": 6018138, "level": 5}
+{"count": 2291, "name": "Orthogonal convex hull", "weight": 5.0, "id": 64051489, "level": 5}
+{"count": 196, "name": "Closed convex function", "weight": 0.0, "id": 197465916, "level": 5}
+{"count": 507, "name": "Drift plus penalty", "weight": 1.0, "id": 7815016, "level": 5}
+{"count": 1774, "name": "Convexity in economics", "weight": 4.0, "id": 190607053, "level": 5}
+{"count": 741, "name": "Proximal gradient methods for learning", "weight": 1.0, "id": 79248915, "level": 5}

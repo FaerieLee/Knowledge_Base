@@ -1,0 +1,200 @@
+{"count": 32983, "name": "Plant community", "weight": 10.0, "id": 53002841, "level": 3}
+{"count": 7636, "name": "Plant cover", "weight": 2.0, "id": 201401522, "level": 3}
+{"count": 16784, "name": "Herbaceous plant", "weight": 5.0, "id": 30820588, "level": 3}
+{"count": 19838, "name": "Normalized Difference Vegetation Index", "weight": 6.0, "id": 1549246, "level": 3}
+{"count": 8394, "name": "Primary production", "weight": 2.0, "id": 24717449, "level": 3}
+{"count": 8111, "name": "Vegetation type", "weight": 2.0, "id": 2778898053, "level": 3}
+{"count": 8213, "name": "Thematic Mapper", "weight": 2.0, "id": 2775938548, "level": 3}
+{"count": 10072, "name": "Tundra", "weight": 3.0, "id": 125069764, "level": 3}
+{"count": 5856, "name": "Fire regime", "weight": 1.0, "id": 89736061, "level": 3}
+{"count": 15302, "name": "Understory", "weight": 4.0, "id": 139669111, "level": 3}
+{"count": 5104, "name": "Riparian forest", "weight": 1.0, "id": 149712012, "level": 3}
+{"count": 6887, "name": "Revegetation", "weight": 2.0, "id": 2776278397, "level": 3}
+{"count": 3506, "name": "Fire ecology", "weight": 1.0, "id": 195330766, "level": 3}
+{"count": 5938, "name": "Ecotone", "weight": 1.0, "id": 199877563, "level": 3}
+{"count": 4272, "name": "Prescribed burn", "weight": 1.0, "id": 72286879, "level": 3}
+{"count": 24158, "name": "Shrub", "weight": 7.0, "id": 2778091200, "level": 3}
+{"count": 7649, "name": "Biome", "weight": 2.0, "id": 89920630, "level": 3}
+{"count": 3116, "name": "Grazing pressure", "weight": 0.0, "id": 2779081038, "level": 3}
+{"count": 1917, "name": "Secondary succession", "weight": 0.0, "id": 16884802, "level": 3}
+{"count": 6648, "name": "Shrubland", "weight": 2.0, "id": 59898753, "level": 3}
+{"count": 1005, "name": "Old field", "weight": 0.0, "id": 2778472138, "level": 3}
+{"count": 875, "name": "Plant functional type", "weight": 0.0, "id": 2780946806, "level": 3}
+{"count": 819, "name": "Alternative stable state", "weight": 0.0, "id": 12064787, "level": 3}
+{"count": 2610, "name": "Pioneer species", "weight": 0.0, "id": 197320908, "level": 3}
+{"count": 3214, "name": "Chronosequence", "weight": 0.0, "id": 2778948613, "level": 3}
+{"count": 1882, "name": "Ecohydrology", "weight": 0.0, "id": 69514717, "level": 3}
+{"count": 2822, "name": "Soil seed bank", "weight": 0.0, "id": 198815454, "level": 3}
+{"count": 1223, "name": "Primary succession", "weight": 0.0, "id": 96313414, "level": 3}
+{"count": 3374, "name": "Overgrazing", "weight": 1.0, "id": 91770344, "level": 3}
+{"count": 1378, "name": "Detrended correspondence analysis", "weight": 0.0, "id": 20450499, "level": 3}
+{"count": 2225, "name": "Chaparral", "weight": 0.0, "id": 2777707811, "level": 3}
+{"count": 5373, "name": "Forb", "weight": 1.0, "id": 150436541, "level": 3}
+{"count": 1941, "name": "Trampling", "weight": 0.0, "id": 2779673426, "level": 3}
+{"count": 10150, "name": "Floristics", "weight": 3.0, "id": 45152089, "level": 3}
+{"count": 1036, "name": "Gallery forest", "weight": 0.0, "id": 156858999, "level": 3}
+{"count": 1086, "name": "Seral community", "weight": 0.0, "id": 25382069, "level": 3}
+{"count": 1772, "name": "Moorland", "weight": 0.0, "id": 151788092, "level": 3}
+{"count": 906, "name": "Climax community", "weight": 0.0, "id": 118694661, "level": 3}
+{"count": 1932, "name": "Indicator value", "weight": 0.0, "id": 14898019, "level": 3}
+{"count": 327, "name": "Deschampsia flexuosa", "weight": 0.0, "id": 2781182717, "level": 3}
+{"count": 377, "name": "Molinia caerulea", "weight": 0.0, "id": 2778728749, "level": 3}
+{"count": 2739, "name": "Macrofossil", "weight": 0.0, "id": 25868968, "level": 3}
+{"count": 1370, "name": "Calluna", "weight": 0.0, "id": 2779869275, "level": 3}
+{"count": 536, "name": "Tropical and subtropical grasslands, savannas, and shrublands", "weight": 0.0, "id": 62569174, "level": 3}
+{"count": 1394, "name": "Vegetation classification", "weight": 0.0, "id": 2776054349, "level": 3}
+{"count": 909, "name": "Tropical savanna climate", "weight": 0.0, "id": 146188434, "level": 3}
+{"count": 3039, "name": "Mire", "weight": 0.0, "id": 2777634280, "level": 3}
+{"count": 433, "name": "Dynamic global vegetation model", "weight": 0.0, "id": 2778419289, "level": 3}
+{"count": 1054, "name": "Tree line", "weight": 0.0, "id": 71502557, "level": 3}
+{"count": 1836, "name": "Undergrowth", "weight": 0.0, "id": 39571515, "level": 3}
+{"count": 1884, "name": "Thicket", "weight": 0.0, "id": 192827858, "level": 3}
+{"count": 303, "name": "Stipa tenacissima", "weight": 0.0, "id": 2779381216, "level": 3}
+{"count": 377, "name": "Ammophila arenaria", "weight": 0.0, "id": 2776259809, "level": 3}
+{"count": 239, "name": "Anthracology", "weight": 0.0, "id": 2777189468, "level": 3}
+{"count": 540, "name": "Calcareous grassland", "weight": 0.0, "id": 74948603, "level": 3}
+{"count": 2987, "name": "Tussock", "weight": 0.0, "id": 88776829, "level": 3}
+{"count": 1543, "name": "Evergreen forest", "weight": 0.0, "id": 2776554196, "level": 3}
+{"count": 191, "name": "Juniperus monosperma", "weight": 0.0, "id": 2781292856, "level": 3}
+{"count": 1455, "name": "Red edge", "weight": 0.0, "id": 2776388979, "level": 3}
+{"count": 167, "name": "Brachypodium pinnatum", "weight": 0.0, "id": 2776687813, "level": 3}
+{"count": 1310, "name": "Sclerophyll", "weight": 0.0, "id": 139518226, "level": 3}
+{"count": 1065, "name": "Exclosure", "weight": 0.0, "id": 2777796192, "level": 3}
+{"count": 152, "name": "Bouteloua eriopoda", "weight": 0.0, "id": 2780363080, "level": 3}
+{"count": 5520, "name": "Quadrat", "weight": 1.0, "id": 107394435, "level": 3}
+{"count": 1065, "name": "Grassland degradation", "weight": 0.0, "id": 2779179000, "level": 3}
+{"count": 325, "name": "Mixed grass prairie", "weight": 0.0, "id": 2780671300, "level": 3}
+{"count": 221, "name": "Biogeomorphology", "weight": 0.0, "id": 198150046, "level": 3}
+{"count": 2715, "name": "Deserts and xeric shrublands", "weight": 0.0, "id": 30787403, "level": 3}
+{"count": 322, "name": "Empetrum nigrum", "weight": 0.0, "id": 2776503336, "level": 3}
+{"count": 198, "name": "Tsuga mertensiana", "weight": 0.0, "id": 2776813308, "level": 3}
+{"count": 736, "name": "Foredune", "weight": 0.0, "id": 2778986533, "level": 3}
+{"count": 301, "name": "Shrub-steppe", "weight": 0.0, "id": 125672730, "level": 3}
+{"count": 184, "name": "Eriophorum angustifolium", "weight": 0.0, "id": 2781111086, "level": 3}
+{"count": 256, "name": "Empetrum", "weight": 0.0, "id": 2779718032, "level": 3}
+{"count": 295, "name": "Soil bioengineering", "weight": 0.0, "id": 2778577444, "level": 3}
+{"count": 178, "name": "Deschampsia cespitosa", "weight": 0.0, "id": 2776929852, "level": 3}
+{"count": 473, "name": "Potential natural vegetation", "weight": 0.0, "id": 2776920098, "level": 3}
+{"count": 223, "name": "Life zone", "weight": 0.0, "id": 2778984478, "level": 3}
+{"count": 119, "name": "Succisa pratensis", "weight": 0.0, "id": 2780975602, "level": 3}
+{"count": 195, "name": "Calamagrostis epigejos", "weight": 0.0, "id": 2778869674, "level": 3}
+{"count": 152, "name": "Calamagrostis canadensis", "weight": 0.0, "id": 2777253480, "level": 3}
+{"count": 1877, "name": "Ruderal species", "weight": 0.0, "id": 173727605, "level": 3}
+{"count": 188, "name": "Eragrostis lehmanniana", "weight": 0.0, "id": 2777342931, "level": 3}
+{"count": 193, "name": "Allocasuarina", "weight": 0.0, "id": 2778307919, "level": 3}
+{"count": 316, "name": "Landscape maintenance", "weight": 0.0, "id": 2779335344, "level": 3}
+{"count": 6280, "name": "Edaphic", "weight": 1.0, "id": 71908930, "level": 3}
+{"count": 297, "name": "Altitudinal zonation", "weight": 0.0, "id": 52229693, "level": 3}
+{"count": 269, "name": "Molinia", "weight": 0.0, "id": 2781405713, "level": 3}
+{"count": 148, "name": "Puccinellia maritima", "weight": 0.0, "id": 2777352804, "level": 3}
+{"count": 481, "name": "Climax species", "weight": 0.0, "id": 87903579, "level": 3}
+{"count": 110, "name": "Panicum hemitomon", "weight": 0.0, "id": 2780164527, "level": 3}
+{"count": 223, "name": "Resprouter", "weight": 0.0, "id": 2778797671, "level": 3}
+{"count": 84, "name": "Racomitrium lanuginosum", "weight": 0.0, "id": 2776539084, "level": 3}
+{"count": 321, "name": "Wetland classification", "weight": 0.0, "id": 2778364754, "level": 3}
+{"count": 132, "name": "Kalmia angustifolia", "weight": 0.0, "id": 2779775096, "level": 3}
+{"count": 1077, "name": "Tropical vegetation", "weight": 0.0, "id": 91492127, "level": 3}
+{"count": 112, "name": "Corynephorus canescens", "weight": 0.0, "id": 2780934951, "level": 3}
+{"count": 156, "name": "Recreation ecology", "weight": 0.0, "id": 2777908580, "level": 3}
+{"count": 72, "name": "Galenia", "weight": 0.0, "id": 2780443709, "level": 3}
+{"count": 132, "name": "Ecological land classification", "weight": 0.0, "id": 2778369309, "level": 3}
+{"count": 124, "name": "Kunzea ericoides", "weight": 0.0, "id": 2780018802, "level": 3}
+{"count": 212, "name": "Alnus viridis", "weight": 0.0, "id": 2778103110, "level": 3}
+{"count": 109, "name": "Road verge", "weight": 0.0, "id": 2779951143, "level": 3}
+{"count": 110, "name": "Wood pasture", "weight": 0.0, "id": 2780799080, "level": 3}
+{"count": 116, "name": "Acacia harpophylla", "weight": 0.0, "id": 2780950844, "level": 3}
+{"count": 153, "name": "Cladium mariscus", "weight": 0.0, "id": 2777398439, "level": 3}
+{"count": 70, "name": "Anthyllis cytisoides", "weight": 0.0, "id": 2779185060, "level": 3}
+{"count": 158, "name": "Sporobolus virginicus", "weight": 0.0, "id": 2779131744, "level": 3}
+{"count": 96, "name": "Schoenus nigricans", "weight": 0.0, "id": 2780607659, "level": 3}
+{"count": 696, "name": "Kobresia", "weight": 0.0, "id": 2778525522, "level": 3}
+{"count": 149, "name": "Cryptogam", "weight": 0.0, "id": 2780094732, "level": 3}
+{"count": 507, "name": "Wet meadow", "weight": 0.0, "id": 2776817929, "level": 3}
+{"count": 79, "name": "Archaeophyte", "weight": 0.0, "id": 2778558465, "level": 3}
+{"count": 657, "name": "Mesophyte", "weight": 0.0, "id": 187258666, "level": 3}
+{"count": 142, "name": "Tiger bush", "weight": 0.0, "id": 2779596050, "level": 3}
+{"count": 35, "name": "Carex lacustris", "weight": 0.0, "id": 2779598245, "level": 3}
+{"count": 112, "name": "Quercus calliprinos", "weight": 0.0, "id": 2777673737, "level": 3}
+{"count": 39, "name": "Carex panicea", "weight": 0.0, "id": 2777899157, "level": 3}
+{"count": 54, "name": "Eucalyptus largiflorens", "weight": 0.0, "id": 2776803717, "level": 3}
+{"count": 78, "name": "Salix glauca", "weight": 0.0, "id": 2781343408, "level": 3}
+{"count": 720, "name": "Bushland", "weight": 0.0, "id": 2778723420, "level": 3}
+{"count": 66, "name": "Quercus marilandica", "weight": 0.0, "id": 2780451324, "level": 3}
+{"count": 243, "name": "Callitris", "weight": 0.0, "id": 2776909043, "level": 3}
+{"count": 138, "name": "Campylopus introflexus", "weight": 0.0, "id": 2777106899, "level": 3}
+{"count": 387, "name": "Alpine-steppe", "weight": 0.0, "id": 2776669934, "level": 3}
+{"count": 43, "name": "Pyrophyte", "weight": 0.0, "id": 2781015429, "level": 3}
+{"count": 119, "name": "Zannichellia palustris", "weight": 0.0, "id": 2778165808, "level": 3}
+{"count": 68, "name": "Carex acuta", "weight": 0.0, "id": 2780600047, "level": 3}
+{"count": 95, "name": "Eucalyptus populnea", "weight": 0.0, "id": 2778859563, "level": 3}
+{"count": 70, "name": "Hydrosere", "weight": 0.0, "id": 195205253, "level": 3}
+{"count": 92, "name": "Myriophyllum alterniflorum", "weight": 0.0, "id": 2779194366, "level": 3}
+{"count": 388, "name": "Subatlantic", "weight": 0.0, "id": 35497405, "level": 3}
+{"count": 138, "name": "Plant life-form", "weight": 0.0, "id": 25598563, "level": 3}
+{"count": 45, "name": "Schismus", "weight": 0.0, "id": 2778048285, "level": 3}
+{"count": 152, "name": "Emergent plant", "weight": 0.0, "id": 2776087698, "level": 3}
+{"count": 70, "name": "Eucalyptus wandoo", "weight": 0.0, "id": 2779911467, "level": 3}
+{"count": 51, "name": "Burned area emergency response", "weight": 0.0, "id": 2776745867, "level": 3}
+{"count": 70, "name": "Juncus gerardii", "weight": 0.0, "id": 2780266406, "level": 3}
+{"count": 110, "name": "Fen-meadow", "weight": 0.0, "id": 2777785554, "level": 3}
+{"count": 162, "name": "Haloxylon persicum", "weight": 0.0, "id": 2780503367, "level": 3}
+{"count": 659, "name": "Belt transect", "weight": 0.0, "id": 63445122, "level": 3}
+{"count": 388, "name": "Feis", "weight": 0.0, "id": 2777258469, "level": 3}
+{"count": 34, "name": "Gentianella campestris", "weight": 0.0, "id": 2777768462, "level": 3}
+{"count": 76, "name": "Ulex gallii", "weight": 0.0, "id": 2776058455, "level": 3}
+{"count": 138, "name": "Helophyte", "weight": 0.0, "id": 2776081518, "level": 3}
+{"count": 34, "name": "Juncus acutiflorus", "weight": 0.0, "id": 2777865815, "level": 3}
+{"count": 225, "name": "Hemiboreal", "weight": 0.0, "id": 2778372714, "level": 3}
+{"count": 28, "name": "Calamagrostis canescens", "weight": 0.0, "id": 2778056968, "level": 3}
+{"count": 100, "name": "Intertidal wetland", "weight": 0.0, "id": 2781252835, "level": 3}
+{"count": 74, "name": "Juncus balticus", "weight": 0.0, "id": 2776323930, "level": 3}
+{"count": 165, "name": "Stipagrostis", "weight": 0.0, "id": 2776521161, "level": 3}
+{"count": 79, "name": "Schoenoplectus americanus", "weight": 0.0, "id": 2780759332, "level": 3}
+{"count": 23, "name": "Danthonia decumbens", "weight": 0.0, "id": 2777280679, "level": 3}
+{"count": 104, "name": "Pocosin", "weight": 0.0, "id": 2777288325, "level": 3}
+{"count": 31, "name": "Salix lanata", "weight": 0.0, "id": 2777161303, "level": 3}
+{"count": 489, "name": "Ammodramus", "weight": 0.0, "id": 2779161095, "level": 3}
+{"count": 138, "name": "Temperate coniferous forest", "weight": 0.0, "id": 2780386923, "level": 3}
+{"count": 106, "name": "Autogenic succession", "weight": 0.0, "id": 89312913, "level": 3}
+{"count": 141, "name": "Isoetid", "weight": 0.0, "id": 2778066036, "level": 3}
+{"count": 35, "name": "Carex paniculata", "weight": 0.0, "id": 2778612302, "level": 3}
+{"count": 27, "name": "Metopium", "weight": 0.0, "id": 2779484710, "level": 3}
+{"count": 40, "name": "Luzula luzuloides", "weight": 0.0, "id": 2776943085, "level": 3}
+{"count": 53, "name": "Pinus occidentalis", "weight": 0.0, "id": 2779790624, "level": 3}
+{"count": 18, "name": "Massenerhebung effect", "weight": 0.0, "id": 2777228472, "level": 3}
+{"count": 37, "name": "Exposed riverine sediments", "weight": 0.0, "id": 2776493684, "level": 3}
+{"count": 41, "name": "Potamogeton alpinus", "weight": 0.0, "id": 2777455199, "level": 3}
+{"count": 17, "name": "Eucalyptus salubris", "weight": 0.0, "id": 2780846959, "level": 3}
+{"count": 73, "name": "Mima mounds", "weight": 0.0, "id": 2780712534, "level": 3}
+{"count": 79, "name": "Carex humilis", "weight": 0.0, "id": 2777313370, "level": 3}
+{"count": 86, "name": "Palustrine wetland", "weight": 0.0, "id": 2779352226, "level": 3}
+{"count": 22, "name": "Luzula sylvatica", "weight": 0.0, "id": 2776140267, "level": 3}
+{"count": 27, "name": "Sparganium angustifolium", "weight": 0.0, "id": 2781344087, "level": 3}
+{"count": 50, "name": "Juncus kraussii", "weight": 0.0, "id": 2780244284, "level": 3}
+{"count": 19, "name": "Luzula pilosa", "weight": 0.0, "id": 2776015381, "level": 3}
+{"count": 24, "name": "Phyllocladus alpinus", "weight": 0.0, "id": 2775942791, "level": 3}
+{"count": 47, "name": "Holdridge life zones", "weight": 0.0, "id": 2780254140, "level": 3}
+{"count": 42, "name": "Piptatherum miliaceum", "weight": 0.0, "id": 2777302651, "level": 3}
+{"count": 22, "name": "Luzula multiflora", "weight": 0.0, "id": 2780391079, "level": 3}
+{"count": 47, "name": "Flood-meadow", "weight": 0.0, "id": 2780058602, "level": 3}
+{"count": 18, "name": "Coprosma propinqua", "weight": 0.0, "id": 2777198098, "level": 3}
+{"count": 173, "name": "Sandplain", "weight": 0.0, "id": 2779422555, "level": 3}
+{"count": 57, "name": "Dracophyllum", "weight": 0.0, "id": 2780951586, "level": 3}
+{"count": 110, "name": "Herbfield", "weight": 0.0, "id": 2779049881, "level": 3}
+{"count": 144, "name": "Fellfield", "weight": 0.0, "id": 2778134781, "level": 3}
+{"count": 38, "name": "Rhanterium epapposum", "weight": 0.0, "id": 2776511251, "level": 3}
+{"count": 17, "name": "Carex canescens", "weight": 0.0, "id": 2780800871, "level": 3}
+{"count": 20, "name": "Eucalyptus coccifera", "weight": 0.0, "id": 2778732728, "level": 3}
+{"count": 54, "name": "Austrostipa", "weight": 0.0, "id": 2779117051, "level": 3}
+{"count": 28, "name": "Schoenoplectus pungens", "weight": 0.0, "id": 2777185751, "level": 3}
+{"count": 29, "name": "Juncus trifidus", "weight": 0.0, "id": 2777277467, "level": 3}
+{"count": 28, "name": "Grayia spinosa", "weight": 0.0, "id": 2779385958, "level": 3}
+{"count": 39, "name": "Boscia albitrunca", "weight": 0.0, "id": 2780830896, "level": 3}
+{"count": 148, "name": "Cover-abundance", "weight": 0.0, "id": 135959342, "level": 3}
+{"count": 1484, "name": "Conservation grazing", "weight": 0.0, "id": 186493943, "level": 3}
+{"count": 56, "name": "Salix gracilistyla", "weight": 0.0, "id": 2775887743, "level": 3}
+{"count": 29, "name": "Oasification", "weight": 0.0, "id": 2778801112, "level": 3}
+{"count": 34, "name": "Thalictrum alpinum", "weight": 0.0, "id": 2781467973, "level": 3}
+{"count": 41, "name": "Scirpus fluviatilis", "weight": 0.0, "id": 2779410286, "level": 3}
+{"count": 13, "name": "Acacia sophorae", "weight": 0.0, "id": 2780601506, "level": 3}
+{"count": 37, "name": "Senecio glaucus", "weight": 0.0, "id": 2777570682, "level": 3}

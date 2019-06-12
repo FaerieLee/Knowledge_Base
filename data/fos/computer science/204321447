@@ -1,0 +1,200 @@
+{"count": 181413, "name": "Text mining", "weight": 10.0, "id": 71472368, "level": 2}
+{"count": 53612, "name": "Natural language", "weight": 2.0, "id": 195324797, "level": 2}
+{"count": 102720, "name": "Syntax", "weight": 5.0, "id": 60048249, "level": 2}
+{"count": 74427, "name": "Grammar", "weight": 4.0, "id": 26022165, "level": 2}
+{"count": 12473, "name": "Computational linguistics", "weight": 0.0, "id": 155092808, "level": 2}
+{"count": 32414, "name": "Noun", "weight": 1.0, "id": 121934690, "level": 2}
+{"count": 19501, "name": "Speech synthesis", "weight": 1.0, "id": 14999030, "level": 2}
+{"count": 39762, "name": "Parsing", "weight": 2.0, "id": 186644900, "level": 2}
+{"count": 10399, "name": "Theoretical linguistics", "weight": 0.0, "id": 153578388, "level": 2}
+{"count": 23792, "name": "Second-language acquisition", "weight": 1.0, "id": 170350167, "level": 2}
+{"count": 21958, "name": "Applied linguistics", "weight": 1.0, "id": 167055898, "level": 2}
+{"count": 12486, "name": "Question answering", "weight": 0.0, "id": 44291984, "level": 2}
+{"count": 9683, "name": "Word lists by frequency", "weight": 0.0, "id": 175293574, "level": 2}
+{"count": 5553, "name": "Pattern language", "weight": 0.0, "id": 147666452, "level": 2}
+{"count": 20492, "name": "Machine translation", "weight": 1.0, "id": 203005215, "level": 2}
+{"count": 29549, "name": "Lexicon", "weight": 1.0, "id": 2778121359, "level": 2}
+{"count": 6208, "name": "Semantic network", "weight": 0.0, "id": 85407183, "level": 2}
+{"count": 5514, "name": "Information structure", "weight": 0.0, "id": 2779954242, "level": 2}
+{"count": 14606, "name": "Semantic similarity", "weight": 0.0, "id": 130318100, "level": 2}
+{"count": 15659, "name": "NIST", "weight": 0.0, "id": 111219384, "level": 2}
+{"count": 4918, "name": "Text processing", "weight": 0.0, "id": 2779500292, "level": 2}
+{"count": 4111, "name": "Context-free grammar", "weight": 0.0, "id": 97212296, "level": 2}
+{"count": 81300, "name": "Sentence", "weight": 4.0, "id": 2777530160, "level": 2}
+{"count": 22360, "name": "Rule-based machine translation", "weight": 1.0, "id": 53893814, "level": 2}
+{"count": 8619, "name": "Part of speech", "weight": 0.0, "id": 123406163, "level": 2}
+{"count": 37974, "name": "Verb", "weight": 2.0, "id": 2776397901, "level": 2}
+{"count": 3046, "name": "Latent semantic analysis", "weight": 0.0, "id": 170133592, "level": 2}
+{"count": 9183, "name": "Proper noun", "weight": 0.0, "id": 41417386, "level": 2}
+{"count": 5311, "name": "Text segmentation", "weight": 0.0, "id": 98501671, "level": 2}
+{"count": 3638, "name": "Lexical semantics", "weight": 0.0, "id": 98954769, "level": 2}
+{"count": 3355, "name": "Semantic interpretation", "weight": 0.0, "id": 193125573, "level": 2}
+{"count": 3692, "name": "Language production", "weight": 0.0, "id": 2776264592, "level": 2}
+{"count": 9304, "name": "Collocation", "weight": 0.0, "id": 2779879646, "level": 2}
+{"count": 9052, "name": "Lexicography", "weight": 0.0, "id": 80976798, "level": 2}
+{"count": 2781, "name": "Word-sense disambiguation", "weight": 0.0, "id": 51646954, "level": 2}
+{"count": 26208, "name": "Generative grammar", "weight": 1.0, "id": 39890363, "level": 2}
+{"count": 10734, "name": "Morpheme", "weight": 0.0, "id": 165297611, "level": 2}
+{"count": 1185, "name": "Part-of-speech tagging", "weight": 0.0, "id": 2780684714, "level": 2}
+{"count": 15686, "name": "ROUGE", "weight": 0.0, "id": 7888048, "level": 2}
+{"count": 2269, "name": "Named entity", "weight": 0.0, "id": 2777889803, "level": 2}
+{"count": 7092, "name": "Grammaticalization", "weight": 0.0, "id": 135756266, "level": 2}
+{"count": 9825, "name": "Corpus linguistics", "weight": 0.0, "id": 532629269, "level": 2}
+{"count": 1695, "name": "Linguistic universal", "weight": 0.0, "id": 79078291, "level": 2}
+{"count": 4785, "name": "Interlanguage", "weight": 0.0, "id": 207489910, "level": 2}
+{"count": 13303, "name": "Spoken language", "weight": 0.0, "id": 2776230583, "level": 2}
+{"count": 3654, "name": "Named-entity recognition", "weight": 0.0, "id": 2779135771, "level": 2}
+{"count": 1533, "name": "Commonsense reasoning", "weight": 0.0, "id": 193221554, "level": 2}
+{"count": 812, "name": "Content determination", "weight": 0.0, "id": 2778240358, "level": 2}
+{"count": 1289, "name": "Semantic mapping", "weight": 0.0, "id": 2775955345, "level": 2}
+{"count": 13182, "name": "Watson", "weight": 0.0, "id": 2776608531, "level": 2}
+{"count": 6825, "name": "Linguistic description", "weight": 0.0, "id": 172205122, "level": 2}
+{"count": 5142, "name": "Polysemy", "weight": 0.0, "id": 2780276568, "level": 2}
+{"count": 1859, "name": "Formal grammar", "weight": 0.0, "id": 171553443, "level": 2}
+{"count": 4240, "name": "Language change", "weight": 0.0, "id": 2776095024, "level": 2}
+{"count": 8038, "name": "Lexical item", "weight": 0.0, "id": 126706616, "level": 2}
+{"count": 6166, "name": "WordNet", "weight": 0.0, "id": 157659113, "level": 2}
+{"count": 19885, "name": "Predicate (grammar)", "weight": 1.0, "id": 40738166, "level": 2}
+{"count": 978, "name": "Componential analysis", "weight": 0.0, "id": 68274095, "level": 2}
+{"count": 1068, "name": "Linguistic performance", "weight": 0.0, "id": 2776346706, "level": 2}
+{"count": 4910, "name": "Contrastive analysis", "weight": 0.0, "id": 2777629044, "level": 2}
+{"count": 4735, "name": "Word formation", "weight": 0.0, "id": 2777509023, "level": 2}
+{"count": 6495, "name": "Constructed language", "weight": 0.0, "id": 94922259, "level": 2}
+{"count": 6335, "name": "Pronoun", "weight": 0.0, "id": 2778551981, "level": 2}
+{"count": 2109, "name": "Co-occurrence", "weight": 0.0, "id": 154290570, "level": 2}
+{"count": 4501, "name": "Machine-readable dictionary", "weight": 0.0, "id": 44779857, "level": 2}
+{"count": 2621, "name": "Chunking (psychology)", "weight": 0.0, "id": 203357204, "level": 2}
+{"count": 3424, "name": "Phraseology", "weight": 0.0, "id": 2780228044, "level": 2}
+{"count": 2917, "name": "Learnability", "weight": 0.0, "id": 2777723229, "level": 2}
+{"count": 4057, "name": "Transliteration", "weight": 0.0, "id": 520968082, "level": 2}
+{"count": 647, "name": "Action language", "weight": 0.0, "id": 99902209, "level": 2}
+{"count": 1956, "name": "Mental lexicon", "weight": 0.0, "id": 2776671715, "level": 2}
+{"count": 1190, "name": "Event structure", "weight": 0.0, "id": 2777810175, "level": 2}
+{"count": 2820, "name": "Semantic field", "weight": 0.0, "id": 24457497, "level": 2}
+{"count": 1736, "name": "Text linguistics", "weight": 0.0, "id": 64417998, "level": 2}
+{"count": 2714, "name": "Markedness", "weight": 0.0, "id": 2776134746, "level": 2}
+{"count": 2525, "name": "Compound", "weight": 0.0, "id": 2674912, "level": 2}
+{"count": 901, "name": "Lemmatisation", "weight": 0.0, "id": 161831844, "level": 2}
+{"count": 836, "name": "Language for specific purposes", "weight": 0.0, "id": 2780443449, "level": 2}
+{"count": 1783, "name": "Semantic feature", "weight": 0.0, "id": 2781122975, "level": 2}
+{"count": 637, "name": "Function word", "weight": 0.0, "id": 2781403456, "level": 2}
+{"count": 2447, "name": "PARRY", "weight": 0.0, "id": 2778975910, "level": 2}
+{"count": 5515, "name": "Lexis", "weight": 0.0, "id": 516687495, "level": 2}
+{"count": 1724, "name": "Lexicalization", "weight": 0.0, "id": 2777532361, "level": 2}
+{"count": 1963, "name": "Lexical definition", "weight": 0.0, "id": 206655939, "level": 2}
+{"count": 1633, "name": "Semantic change", "weight": 0.0, "id": 36391188, "level": 2}
+{"count": 982, "name": "Epistemic modality", "weight": 0.0, "id": 2776921798, "level": 2}
+{"count": 2188, "name": "Definiteness", "weight": 0.0, "id": 2779056149, "level": 2}
+{"count": 2254, "name": "Coreference", "weight": 0.0, "id": 28076734, "level": 2}
+{"count": 2015, "name": "Affix", "weight": 0.0, "id": 2778428490, "level": 2}
+{"count": 1995, "name": "Lexeme", "weight": 0.0, "id": 2775837122, "level": 2}
+{"count": 1616, "name": "Passive voice", "weight": 0.0, "id": 2779824158, "level": 2}
+{"count": 2623, "name": "Locative case", "weight": 0.0, "id": 197644857, "level": 2}
+{"count": 1983, "name": "Interrogative word", "weight": 0.0, "id": 59650362, "level": 2}
+{"count": 2013, "name": "Entity linking", "weight": 0.0, "id": 96711827, "level": 2}
+{"count": 7073, "name": "Speech corpus", "weight": 0.0, "id": 91863865, "level": 2}
+{"count": 971, "name": "Underspecification", "weight": 0.0, "id": 2779631151, "level": 2}
+{"count": 1481, "name": "Bilingual dictionary", "weight": 0.0, "id": 2779235283, "level": 2}
+{"count": 1577, "name": "Electronic dictionary", "weight": 0.0, "id": 2781156222, "level": 2}
+{"count": 5190, "name": "Text corpus", "weight": 0.0, "id": 2474386, "level": 2}
+{"count": 1855, "name": "Syntagmatic analysis", "weight": 0.0, "id": 29155451, "level": 2}
+{"count": 3774, "name": "Calais", "weight": 0.0, "id": 2776288485, "level": 2}
+{"count": 1521, "name": "Word embedding", "weight": 0.0, "id": 2777462759, "level": 2}
+{"count": 136, "name": "Propositional representation", "weight": 0.0, "id": 80344577, "level": 2}
+{"count": 1065, "name": "Word2vec", "weight": 0.0, "id": 2776461190, "level": 2}
+{"count": 128, "name": "Culturomics", "weight": 0.0, "id": 2775941730, "level": 2}
+{"count": 697, "name": "Distributional semantics", "weight": 0.0, "id": 2778828372, "level": 2}
+{"count": 642, "name": "Linguistic sequence complexity", "weight": 0.0, "id": 194926167, "level": 2}
+{"count": 1395, "name": "Stop words", "weight": 0.0, "id": 188338183, "level": 2}
+{"count": 552, "name": "Lexical approach", "weight": 0.0, "id": 2778167880, "level": 2}
+{"count": 385, "name": "Data-driven learning", "weight": 0.0, "id": 2777309497, "level": 2}
+{"count": 437, "name": "Neuro-linguistic programming", "weight": 0.0, "id": 2777226813, "level": 2}
+{"count": 877, "name": "Chatbot", "weight": 0.0, "id": 2779041454, "level": 2}
+{"count": 974, "name": "Tokenization (data security)", "weight": 0.0, "id": 2778755697, "level": 2}
+{"count": 2144, "name": "Deep linguistic processing", "weight": 0.0, "id": 64249296, "level": 2}
+{"count": 1476, "name": "Text types", "weight": 0.0, "id": 2778412125, "level": 2}
+{"count": 802, "name": "FrameNet", "weight": 0.0, "id": 185754541, "level": 2}
+{"count": 355, "name": "Automated essay scoring", "weight": 0.0, "id": 16182702, "level": 2}
+{"count": 364, "name": "Semantic translation", "weight": 0.0, "id": 2781338700, "level": 2}
+{"count": 316, "name": "Brown Corpus", "weight": 0.0, "id": 2777744975, "level": 2}
+{"count": 2014, "name": "Bigram", "weight": 0.0, "id": 108757681, "level": 2}
+{"count": 522, "name": "Retranslation", "weight": 0.0, "id": 2780400498, "level": 2}
+{"count": 665, "name": "Linguistic system", "weight": 0.0, "id": 2778713422, "level": 2}
+{"count": 13335, "name": "Semantic computing", "weight": 0.0, "id": 511149849, "level": 2}
+{"count": 57, "name": "Two-level grammar", "weight": 0.0, "id": 2779163943, "level": 2}
+{"count": 339, "name": "Input enhancement", "weight": 0.0, "id": 2776926597, "level": 2}
+{"count": 770, "name": "Sublanguage", "weight": 0.0, "id": 2776411971, "level": 2}
+{"count": 71, "name": "E language", "weight": 0.0, "id": 2777464261, "level": 2}
+{"count": 931, "name": "Present perfect", "weight": 0.0, "id": 2779582884, "level": 2}
+{"count": 167, "name": "Onomasiology", "weight": 0.0, "id": 205268084, "level": 2}
+{"count": 96, "name": "Meaning\u2013text theory", "weight": 0.0, "id": 2780484516, "level": 2}
+{"count": 397, "name": "Feature structure", "weight": 0.0, "id": 2779373567, "level": 2}
+{"count": 308, "name": "Sememe", "weight": 0.0, "id": 2777947260, "level": 2}
+{"count": 294, "name": "Functional sentence perspective", "weight": 0.0, "id": 2776879547, "level": 2}
+{"count": 507, "name": "Technical translation", "weight": 0.0, "id": 2780715294, "level": 2}
+{"count": 300, "name": "Discourse relation", "weight": 0.0, "id": 2778254521, "level": 2}
+{"count": 124, "name": "Type\u2013token distinction", "weight": 0.0, "id": 177413521, "level": 2}
+{"count": 465, "name": "Text simplification", "weight": 0.0, "id": 59415355, "level": 2}
+{"count": 246, "name": "Specialized translation", "weight": 0.0, "id": 2777350291, "level": 2}
+{"count": 180, "name": "Generative linguistics", "weight": 0.0, "id": 171833600, "level": 2}
+{"count": 915, "name": "Word usage", "weight": 0.0, "id": 2780997955, "level": 2}
+{"count": 112, "name": "Null Subject Parameter", "weight": 0.0, "id": 2776058422, "level": 2}
+{"count": 1129, "name": "Automatic speech", "weight": 0.0, "id": 2384229, "level": 2}
+{"count": 113, "name": "Chamorro language", "weight": 0.0, "id": 2777457170, "level": 2}
+{"count": 344, "name": "Lexical similarity", "weight": 0.0, "id": 2778256537, "level": 2}
+{"count": 647, "name": "Translation unit (programming)", "weight": 0.0, "id": 139243298, "level": 2}
+{"count": 3032, "name": "Clef", "weight": 0.0, "id": 107763842, "level": 2}
+{"count": 124, "name": "Tibeto-Burman languages", "weight": 0.0, "id": 2777649052, "level": 2}
+{"count": 278, "name": "Language complexity", "weight": 0.0, "id": 2780268315, "level": 2}
+{"count": 254, "name": "Concordancer", "weight": 0.0, "id": 2776364399, "level": 2}
+{"count": 277, "name": "AIML", "weight": 0.0, "id": 164233015, "level": 2}
+{"count": 326, "name": "Diacritic", "weight": 0.0, "id": 2781210924, "level": 2}
+{"count": 109, "name": "Cataphora", "weight": 0.0, "id": 2777819226, "level": 2}
+{"count": 469, "name": "Headword", "weight": 0.0, "id": 2777571490, "level": 2}
+{"count": 197, "name": "Noisy text", "weight": 0.0, "id": 2778252110, "level": 2}
+{"count": 179, "name": "Tag question", "weight": 0.0, "id": 2780219285, "level": 2}
+{"count": 635, "name": "English articles", "weight": 0.0, "id": 2775985010, "level": 2}
+{"count": 98, "name": "Semantic unification", "weight": 0.0, "id": 2778444269, "level": 2}
+{"count": 223, "name": "Lemma (morphology)", "weight": 0.0, "id": 49336041, "level": 2}
+{"count": 102, "name": "Lexical function", "weight": 0.0, "id": 2777809852, "level": 2}
+{"count": 86, "name": "Linguistic profiling", "weight": 0.0, "id": 2777104766, "level": 2}
+{"count": 229, "name": "Lexical Markup Framework", "weight": 0.0, "id": 126420284, "level": 2}
+{"count": 508, "name": "Phonetic form", "weight": 0.0, "id": 161687759, "level": 2}
+{"count": 52, "name": "Fijian language", "weight": 0.0, "id": 2780843457, "level": 2}
+{"count": 63, "name": "Semelfactive", "weight": 0.0, "id": 2779282376, "level": 2}
+{"count": 212, "name": "Russian grammar", "weight": 0.0, "id": 2777445446, "level": 2}
+{"count": 89, "name": "Set phrase", "weight": 0.0, "id": 2776169825, "level": 2}
+{"count": 144, "name": "Equative", "weight": 0.0, "id": 2778047618, "level": 2}
+{"count": 25, "name": "Carolinian language", "weight": 0.0, "id": 2776597576, "level": 2}
+{"count": 33, "name": "Evenki language", "weight": 0.0, "id": 2778201228, "level": 2}
+{"count": 35, "name": "Move \u03b1", "weight": 0.0, "id": 2779820166, "level": 2}
+{"count": 34, "name": "Elementary sentence", "weight": 0.0, "id": 2778011528, "level": 2}
+{"count": 125, "name": "Q-systems", "weight": 0.0, "id": 2779830692, "level": 2}
+{"count": 58, "name": "Google Ngram Viewer", "weight": 0.0, "id": 2777109357, "level": 2}
+{"count": 16, "name": "Pro-verb", "weight": 0.0, "id": 2777693936, "level": 2}
+{"count": 3070, "name": "SemEval", "weight": 0.0, "id": 44572571, "level": 2}
+{"count": 15, "name": "Phono-semantic matching", "weight": 0.0, "id": 2780906307, "level": 2}
+{"count": 192, "name": "Stemming", "weight": 0.0, "id": 92826697, "level": 2}
+{"count": 367, "name": "COMIT", "weight": 0.0, "id": 2778163235, "level": 2}
+{"count": 39, "name": "Grammeme", "weight": 0.0, "id": 2779695039, "level": 2}
+{"count": 49, "name": "Semantic structure analysis", "weight": 0.0, "id": 2776850143, "level": 2}
+{"count": 23, "name": "Meronomy", "weight": 0.0, "id": 12084979, "level": 2}
+{"count": 13, "name": "PATR-II", "weight": 0.0, "id": 2777272372, "level": 2}
+{"count": 662, "name": "Tense\u2013aspect\u2013mood", "weight": 0.0, "id": 187714233, "level": 2}
+{"count": 1801, "name": "Luminoso", "weight": 0.0, "id": 2780590741, "level": 2}
+{"count": 18, "name": "Hockett's design features", "weight": 0.0, "id": 38784014, "level": 2}
+{"count": 11, "name": "Collocational restriction", "weight": 0.0, "id": 2780982124, "level": 2}
+{"count": 44, "name": "Lexical correspondence", "weight": 0.0, "id": 2779693441, "level": 2}
+{"count": 66, "name": "Lexical set", "weight": 0.0, "id": 2780967089, "level": 2}
+{"count": 79, "name": "Japanese particles", "weight": 0.0, "id": 2780056224, "level": 2}
+{"count": 46, "name": "Case role", "weight": 0.0, "id": 2779298893, "level": 2}
+{"count": 17, "name": "Sino-Korean vocabulary", "weight": 0.0, "id": 2779443639, "level": 2}
+{"count": 21, "name": "Bilingual sign", "weight": 0.0, "id": 2779799767, "level": 2}
+{"count": 78, "name": "Reverse dictionary", "weight": 0.0, "id": 2780709138, "level": 2}
+{"count": 11, "name": "Run-on sentence", "weight": 0.0, "id": 2776735383, "level": 2}
+{"count": 258, "name": "Rules of language", "weight": 0.0, "id": 2779271146, "level": 2}
+{"count": 19, "name": "Wasei-eigo", "weight": 0.0, "id": 2779616765, "level": 2}
+{"count": 36, "name": "TalkBank", "weight": 0.0, "id": 2776767356, "level": 2}
+{"count": 16, "name": "Morphosyntactic alignment", "weight": 0.0, "id": 2777301032, "level": 2}
+{"count": 10, "name": "Truecasing", "weight": 0.0, "id": 2778981078, "level": 2}
+{"count": 33, "name": "Tenseless language", "weight": 0.0, "id": 2777616296, "level": 2}

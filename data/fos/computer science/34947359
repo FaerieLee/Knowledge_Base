@@ -1,0 +1,15 @@
+{"count": 6143, "name": "Degree distribution", "weight": 10.0, "id": 87414783, "level": 3}
+{"count": 3646, "name": "Scale-free network", "weight": 5.0, "id": 25580894, "level": 3}
+{"count": 2539, "name": "Small-world network", "weight": 4.0, "id": 183331307, "level": 3}
+{"count": 4942, "name": "Clustering coefficient", "weight": 8.0, "id": 22047676, "level": 3}
+{"count": 1603, "name": "Preferential attachment", "weight": 2.0, "id": 2780600066, "level": 3}
+{"count": 914, "name": "Network motif", "weight": 1.0, "id": 60723933, "level": 3}
+{"count": 4176, "name": "Network science", "weight": 6.0, "id": 137753397, "level": 3}
+{"count": 1243, "name": "Weighted network", "weight": 2.0, "id": 142323842, "level": 3}
+{"count": 769, "name": "Assortativity", "weight": 1.0, "id": 89694873, "level": 3}
+{"count": 1372, "name": "Interdependent networks", "weight": 2.0, "id": 101142422, "level": 3}
+{"count": 2640, "name": "Evolving networks", "weight": 4.0, "id": 36647736, "level": 3}
+{"count": 890, "name": "Geometric networks", "weight": 1.0, "id": 49777392, "level": 3}
+{"count": 2760, "name": "Hierarchical network model", "weight": 4.0, "id": 64900535, "level": 3}
+{"count": 341, "name": "Fitness model", "weight": 0.0, "id": 127571174, "level": 3}
+{"count": 144, "name": "Scientific collaboration network", "weight": 0.0, "id": 2781010802, "level": 3}

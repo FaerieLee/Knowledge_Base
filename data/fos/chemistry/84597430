@@ -1,0 +1,62 @@
+{"count": 33292, "name": "Gene mapping", "weight": 7.0, "id": 122735190, "level": 4}
+{"count": 24793, "name": "Genetic linkage", "weight": 5.0, "id": 142870003, "level": 4}
+{"count": 47358, "name": "Microsatellite", "weight": 10.0, "id": 61320498, "level": 4}
+{"count": 19950, "name": "Linkage disequilibrium", "weight": 4.0, "id": 35605836, "level": 4}
+{"count": 28168, "name": "Loss of heterozygosity", "weight": 5.0, "id": 143589142, "level": 4}
+{"count": 4614, "name": "Gene conversion", "weight": 0.0, "id": 112212490, "level": 4}
+{"count": 6600, "name": "Null allele", "weight": 1.0, "id": 57708383, "level": 4}
+{"count": 5556, "name": "Marker-assisted selection", "weight": 1.0, "id": 2779227213, "level": 4}
+{"count": 4149, "name": "Synteny", "weight": 0.0, "id": 53702515, "level": 4}
+{"count": 4345, "name": "Chromosome 3", "weight": 0.0, "id": 47924181, "level": 4}
+{"count": 3562, "name": "Variable number tandem repeat", "weight": 0.0, "id": 189036908, "level": 4}
+{"count": 3738, "name": "Major gene", "weight": 0.0, "id": 2776547343, "level": 4}
+{"count": 2100, "name": "Minisatellite", "weight": 0.0, "id": 93720030, "level": 4}
+{"count": 3462, "name": "Chromosome 4", "weight": 0.0, "id": 134068817, "level": 4}
+{"count": 1121, "name": "Selective sweep", "weight": 0.0, "id": 49735019, "level": 4}
+{"count": 1608, "name": "Balancing selection", "weight": 0.0, "id": 137848329, "level": 4}
+{"count": 123, "name": "Polymorphism (biology)", "weight": 0.0, "id": 51014378, "level": 4}
+{"count": 2809, "name": "Chromosome 9", "weight": 0.0, "id": 2780238508, "level": 4}
+{"count": 4275, "name": "Congenic", "weight": 0.0, "id": 84951073, "level": 4}
+{"count": 1966, "name": "Chromosome 13", "weight": 0.0, "id": 2780907584, "level": 4}
+{"count": 716, "name": "Meiotic drive", "weight": 0.0, "id": 54809848, "level": 4}
+{"count": 583, "name": "Recombination signal sequences", "weight": 0.0, "id": 157402786, "level": 4}
+{"count": 527, "name": "Flowering Locus C", "weight": 0.0, "id": 2780336964, "level": 4}
+{"count": 375, "name": "Genetic hitchhiking", "weight": 0.0, "id": 133672272, "level": 4}
+{"count": 974, "name": "Aegilops tauschii", "weight": 0.0, "id": 2778083003, "level": 4}
+{"count": 806, "name": "Chromosome 20", "weight": 0.0, "id": 157717039, "level": 4}
+{"count": 228, "name": "Recombinant inbred strain", "weight": 0.0, "id": 2780130101, "level": 4}
+{"count": 849, "name": "Pseudoautosomal region", "weight": 0.0, "id": 169836425, "level": 4}
+{"count": 669, "name": "Allelic exclusion", "weight": 0.0, "id": 2778794311, "level": 4}
+{"count": 1203, "name": "Deletion mapping", "weight": 0.0, "id": 150305515, "level": 4}
+{"count": 256, "name": "Recombinase-mediated cassette exchange", "weight": 0.0, "id": 43654488, "level": 4}
+{"count": 172, "name": "BCL3", "weight": 0.0, "id": 2777736749, "level": 4}
+{"count": 286, "name": "Paramutation", "weight": 0.0, "id": 50527525, "level": 4}
+{"count": 179, "name": "Analysis of molecular variance", "weight": 0.0, "id": 2778050382, "level": 4}
+{"count": 239, "name": "Transvection", "weight": 0.0, "id": 85240126, "level": 4}
+{"count": 403, "name": "Florigen", "weight": 0.0, "id": 2781295930, "level": 4}
+{"count": 502, "name": "Xq28", "weight": 0.0, "id": 2777082864, "level": 4}
+{"count": 883, "name": "Mating of yeast", "weight": 0.0, "id": 46909000, "level": 4}
+{"count": 187, "name": "White (mutation)", "weight": 0.0, "id": 56273599, "level": 4}
+{"count": 441, "name": "Unequal crossing over", "weight": 0.0, "id": 79334067, "level": 4}
+{"count": 411, "name": "Y linkage", "weight": 0.0, "id": 138532191, "level": 4}
+{"count": 437, "name": "PGM1", "weight": 0.0, "id": 2777955666, "level": 4}
+{"count": 82, "name": "Anisogramma anomala", "weight": 0.0, "id": 2779738931, "level": 4}
+{"count": 137, "name": "HBG2", "weight": 0.0, "id": 2779940082, "level": 4}
+{"count": 83, "name": "GABRA3", "weight": 0.0, "id": 2781401444, "level": 4}
+{"count": 100, "name": "Solanum chilense", "weight": 0.0, "id": 2781267212, "level": 4}
+{"count": 32, "name": "Vitis arizonica", "weight": 0.0, "id": 2776578823, "level": 4}
+{"count": 105, "name": "Mannose phosphate isomerase", "weight": 0.0, "id": 2780134119, "level": 4}
+{"count": 30, "name": "Septoria passerinii", "weight": 0.0, "id": 2777453371, "level": 4}
+{"count": 37, "name": "TOX2", "weight": 0.0, "id": 2781464470, "level": 4}
+{"count": 74, "name": "RBP3", "weight": 0.0, "id": 2781208801, "level": 4}
+{"count": 172, "name": "Dominant white", "weight": 0.0, "id": 2777964315, "level": 4}
+{"count": 54, "name": "Alloenzyme", "weight": 0.0, "id": 139992175, "level": 4}
+{"count": 50, "name": "X-linked congenital stationary night blindness", "weight": 0.0, "id": 2780096930, "level": 4}
+{"count": 2238, "name": "Chromosome regions", "weight": 0.0, "id": 182483264, "level": 4}
+{"count": 86, "name": "GOT2", "weight": 0.0, "id": 2780410167, "level": 4}
+{"count": 36, "name": "DEFA3", "weight": 0.0, "id": 2778535152, "level": 4}
+{"count": 31, "name": "Mating-type region", "weight": 0.0, "id": 2779096800, "level": 4}
+{"count": 28, "name": "Glabrousness", "weight": 0.0, "id": 2777236681, "level": 4}
+{"count": 16, "name": "Jumping library", "weight": 0.0, "id": 2776555706, "level": 4}
+{"count": 19, "name": "Three-point cross", "weight": 0.0, "id": 74798445, "level": 4}
+{"count": 23, "name": "LGTE", "weight": 0.0, "id": 2780323466, "level": 4}

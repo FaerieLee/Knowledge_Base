@@ -1,0 +1,4 @@
+{"count": 26, "name": "Degree-constrained spanning tree", "weight": 1.0, "id": 2777791419, "level": 5}
+{"count": 122, "name": "Edmonds' algorithm", "weight": 6.0, "id": 23935896, "level": 5}
+{"count": 32, "name": "Bor\u016fvka's algorithm", "weight": 1.0, "id": 116092978, "level": 5}
+{"count": 185, "name": "Expected linear time MST algorithm", "weight": 10.0, "id": 25481189, "level": 5}

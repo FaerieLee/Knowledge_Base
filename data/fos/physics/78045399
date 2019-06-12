@@ -1,0 +1,33 @@
+{"count": 40046, "name": "Ordinary differential equation", "weight": 10.0, "id": 51544822, "level": 3}
+{"count": 13493, "name": "Riccati equation", "weight": 3.0, "id": 45473103, "level": 3}
+{"count": 13640, "name": "Linear differential equation", "weight": 3.0, "id": 13982400, "level": 3}
+{"count": 6366, "name": "Integro-differential equation", "weight": 1.0, "id": 70985411, "level": 3}
+{"count": 6463, "name": "Characteristic equation", "weight": 1.0, "id": 53744967, "level": 3}
+{"count": 16774, "name": "Differential algebraic equation", "weight": 4.0, "id": 186219872, "level": 3}
+{"count": 2059, "name": "Functional differential equation", "weight": 0.0, "id": 2778025262, "level": 3}
+{"count": 15648, "name": "Method of characteristics", "weight": 3.0, "id": 33163149, "level": 3}
+{"count": 8027, "name": "Delay differential equation", "weight": 2.0, "id": 147504518, "level": 3}
+{"count": 25422, "name": "Stochastic partial differential equation", "weight": 6.0, "id": 84629840, "level": 3}
+{"count": 2972, "name": "Adomian decomposition method", "weight": 0.0, "id": 120317633, "level": 3}
+{"count": 911, "name": "Linear difference equation", "weight": 0.0, "id": 2776688452, "level": 3}
+{"count": 883, "name": "Exponential dichotomy", "weight": 0.0, "id": 2779844894, "level": 3}
+{"count": 1568, "name": "Stiff equation", "weight": 0.0, "id": 43012357, "level": 3}
+{"count": 258, "name": "Non-autonomous system", "weight": 0.0, "id": 2779083812, "level": 3}
+{"count": 471, "name": "Abel equation", "weight": 0.0, "id": 166867968, "level": 3}
+{"count": 3093, "name": "Matrix difference equation", "weight": 0.0, "id": 47285271, "level": 3}
+{"count": 13895, "name": "First-order partial differential equation", "weight": 3.0, "id": 64057670, "level": 3}
+{"count": 160, "name": "Frobenius method", "weight": 0.0, "id": 2778819438, "level": 3}
+{"count": 5188, "name": "Order of accuracy", "weight": 1.0, "id": 39177556, "level": 3}
+{"count": 297, "name": "Rough path", "weight": 0.0, "id": 2778312520, "level": 3}
+{"count": 26193, "name": "Numerical partial differential equations", "weight": 6.0, "id": 97826883, "level": 3}
+{"count": 133, "name": "Beverton\u2013Holt model", "weight": 0.0, "id": 64138494, "level": 3}
+{"count": 492, "name": "Complex differential equation", "weight": 0.0, "id": 195846947, "level": 3}
+{"count": 194, "name": "Sumudu transform", "weight": 0.0, "id": 64825560, "level": 3}
+{"count": 11378, "name": "Independent equation", "weight": 2.0, "id": 200602138, "level": 3}
+{"count": 64, "name": "Loewner differential equation", "weight": 0.0, "id": 2780541963, "level": 3}
+{"count": 6845, "name": "FTCS scheme", "weight": 1.0, "id": 74981072, "level": 3}
+{"count": 315, "name": "Heun function", "weight": 0.0, "id": 3299117, "level": 3}
+{"count": 9149, "name": "Summation equation", "weight": 2.0, "id": 143591791, "level": 3}
+{"count": 7602, "name": "Universal differential equation", "weight": 1.0, "id": 155237215, "level": 3}
+{"count": 17, "name": "Trichotomy (mathematics)", "weight": 0.0, "id": 108963864, "level": 3}
+{"count": 16, "name": "Fifth power (algebra)", "weight": 0.0, "id": 191760476, "level": 3}

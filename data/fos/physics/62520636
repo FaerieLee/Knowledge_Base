@@ -1,0 +1,200 @@
+{"count": 112419, "name": "Kinetics", "weight": 1.0, "id": 148898269, "level": 2}
+{"count": 553765, "name": "Thin film", "weight": 5.0, "id": 19067145, "level": 2}
+{"count": 450247, "name": "Magnetic field", "weight": 4.0, "id": 115260700, "level": 2}
+{"count": 362964, "name": "Nitrogen", "weight": 3.0, "id": 537208039, "level": 2}
+{"count": 317239, "name": "Oscillation", "weight": 3.0, "id": 26733877, "level": 2}
+{"count": 657283, "name": "Molecule", "weight": 6.0, "id": 32909587, "level": 2}
+{"count": 135324, "name": "Mathematical model", "weight": 1.0, "id": 76969082, "level": 2}
+{"count": 226461, "name": "Mass spectrometry", "weight": 2.0, "id": 162356407, "level": 2}
+{"count": 254379, "name": "Infrared", "weight": 2.0, "id": 158355884, "level": 2}
+{"count": 242167, "name": "Boundary value problem", "weight": 2.0, "id": 182310444, "level": 2}
+{"count": 259328, "name": "Electrical resistivity and conductivity", "weight": 2.0, "id": 69990965, "level": 2}
+{"count": 231726, "name": "Electric field", "weight": 2.0, "id": 60799052, "level": 2}
+{"count": 167558, "name": "Differential equation", "weight": 1.0, "id": 78045399, "level": 2}
+{"count": 454283, "name": "Plasma", "weight": 4.0, "id": 82706917, "level": 2}
+{"count": 121362, "name": "Steady state", "weight": 1.0, "id": 34560132, "level": 2}
+{"count": 88510, "name": "Electron microscope", "weight": 0.0, "id": 93877712, "level": 2}
+{"count": 532494, "name": "Carbon", "weight": 5.0, "id": 501529594, "level": 2}
+{"count": 163013, "name": "Transition metal", "weight": 1.0, "id": 106773901, "level": 2}
+{"count": 456654, "name": "Oxygen", "weight": 4.0, "id": 540031477, "level": 2}
+{"count": 652439, "name": "Nonlinear system", "weight": 6.0, "id": 158622935, "level": 2}
+{"count": 296611, "name": "Heat transfer", "weight": 3.0, "id": 50517652, "level": 2}
+{"count": 418255, "name": "Dielectric", "weight": 4.0, "id": 133386390, "level": 2}
+{"count": 119703, "name": "Electromagnetic radiation", "weight": 1.0, "id": 149773537, "level": 2}
+{"count": 125311, "name": "Fourier transform", "weight": 1.0, "id": 102519508, "level": 2}
+{"count": 868310, "name": "Laser", "weight": 8.0, "id": 520434653, "level": 2}
+{"count": 478807, "name": "Hydrogen", "weight": 4.0, "id": 512968161, "level": 2}
+{"count": 704540, "name": "Electrode", "weight": 7.0, "id": 17525397, "level": 2}
+{"count": 190197, "name": "Phase transition", "weight": 1.0, "id": 149288129, "level": 2}
+{"count": 145726, "name": "Fluid dynamics", "weight": 1.0, "id": 90278072, "level": 2}
+{"count": 362803, "name": "Scattering", "weight": 3.0, "id": 191486275, "level": 2}
+{"count": 862853, "name": "Ion", "weight": 8.0, "id": 145148216, "level": 2}
+{"count": 148410, "name": "Refractive index", "weight": 1.0, "id": 42067758, "level": 2}
+{"count": 492692, "name": "Electron", "weight": 5.0, "id": 147120987, "level": 2}
+{"count": 231199, "name": "Polarization (waves)", "weight": 2.0, "id": 103716073, "level": 2}
+{"count": 377716, "name": "Nanoparticle", "weight": 3.0, "id": 155672457, "level": 2}
+{"count": 158039, "name": "Band gap", "weight": 1.0, "id": 181966813, "level": 2}
+{"count": 242556, "name": "Superconductivity", "weight": 2.0, "id": 54101563, "level": 2}
+{"count": 89602, "name": "Isotope", "weight": 0.0, "id": 164304813, "level": 2}
+{"count": 114686, "name": "Wave propagation", "weight": 1.0, "id": 44886760, "level": 2}
+{"count": 400974, "name": "Spectral line", "weight": 4.0, "id": 4839761, "level": 2}
+{"count": 201692, "name": "Calibration", "weight": 2.0, "id": 165838908, "level": 2}
+{"count": 119227, "name": "Eigenvalues and eigenvectors", "weight": 1.0, "id": 158693339, "level": 2}
+{"count": 95351, "name": "Partial differential equation", "weight": 0.0, "id": 93779851, "level": 2}
+{"count": 100236, "name": "Nanostructure", "weight": 1.0, "id": 186187911, "level": 2}
+{"count": 136343, "name": "Ultraviolet", "weight": 1.0, "id": 2776798109, "level": 2}
+{"count": 293233, "name": "Resonance", "weight": 2.0, "id": 107406667, "level": 2}
+{"count": 80226, "name": "Charged particle", "weight": 0.0, "id": 35048267, "level": 2}
+{"count": 181310, "name": "Adhesion", "weight": 1.0, "id": 84416704, "level": 2}
+{"count": 256091, "name": "Excited state", "weight": 2.0, "id": 181500209, "level": 2}
+{"count": 59689, "name": "Perturbation theory", "weight": 0.0, "id": 49339012, "level": 2}
+{"count": 83483, "name": "Electromagnetic field", "weight": 0.0, "id": 28843909, "level": 2}
+{"count": 81427, "name": "Current density", "weight": 0.0, "id": 207740977, "level": 2}
+{"count": 431264, "name": "Vibration", "weight": 4.0, "id": 198394728, "level": 2}
+{"count": 107697, "name": "Density functional theory", "weight": 1.0, "id": 152365726, "level": 2}
+{"count": 119641, "name": "Molecular dynamics", "weight": 1.0, "id": 59593255, "level": 2}
+{"count": 135718, "name": "Thermal conductivity", "weight": 1.0, "id": 97346530, "level": 2}
+{"count": 676537, "name": "Voltage", "weight": 6.0, "id": 165801399, "level": 2}
+{"count": 255713, "name": "Viscosity", "weight": 2.0, "id": 127172972, "level": 2}
+{"count": 238281, "name": "Anisotropy", "weight": 2.0, "id": 85725439, "level": 2}
+{"count": 194945, "name": "Interference (wave propagation)", "weight": 1.0, "id": 163517525, "level": 2}
+{"count": 136132, "name": "Electrical impedance", "weight": 1.0, "id": 17829176, "level": 2}
+{"count": 59722, "name": "Distribution function", "weight": 0.0, "id": 186603090, "level": 2}
+{"count": 38316, "name": "Stable isotope ratio", "weight": 0.0, "id": 22117777, "level": 2}
+{"count": 378632, "name": "Atom", "weight": 3.0, "id": 181819025, "level": 2}
+{"count": 110128, "name": "Quantum dot", "weight": 1.0, "id": 124657808, "level": 2}
+{"count": 86623, "name": "Gamma ray", "weight": 0.0, "id": 7910260, "level": 2}
+{"count": 149950, "name": "Irradiation", "weight": 1.0, "id": 111337013, "level": 2}
+{"count": 62292, "name": "Black hole", "weight": 0.0, "id": 98851261, "level": 2}
+{"count": 129152, "name": "Volumetric flow rate", "weight": 1.0, "id": 172120300, "level": 2}
+{"count": 42771, "name": "Gauge theory", "weight": 0.0, "id": 181830111, "level": 2}
+{"count": 68601, "name": "Equations of motion", "weight": 0.0, "id": 14037181, "level": 2}
+{"count": 52351, "name": "Equation of state", "weight": 0.0, "id": 53810900, "level": 2}
+{"count": 281063, "name": "Electronic circuit", "weight": 2.0, "id": 134146338, "level": 2}
+{"count": 230137, "name": "Dispersion (optics)", "weight": 2.0, "id": 177562468, "level": 2}
+{"count": 47438, "name": "Phase (waves)", "weight": 0.0, "id": 120418882, "level": 2}
+{"count": 97002, "name": "Dissipation", "weight": 0.0, "id": 135402231, "level": 2}
+{"count": 14100, "name": "Chemical substance", "weight": 0.0, "id": 2776407913, "level": 2}
+{"count": 83682, "name": "Field-effect transistor", "weight": 0.0, "id": 145598152, "level": 2}
+{"count": 372379, "name": "Doping", "weight": 3.0, "id": 57863236, "level": 2}
+{"count": 150403, "name": "Photon", "weight": 1.0, "id": 159317903, "level": 2}
+{"count": 181671, "name": "Diffraction", "weight": 1.0, "id": 207114421, "level": 2}
+{"count": 58244, "name": "Binding energy", "weight": 0.0, "id": 93282013, "level": 2}
+{"count": 457629, "name": "Matrix (mathematics)", "weight": 4.0, "id": 137127113, "level": 2}
+{"count": 55457, "name": "Magnetic moment", "weight": 0.0, "id": 54553102, "level": 2}
+{"count": 69356, "name": "Critical point (thermodynamics)", "weight": 0.0, "id": 144461396, "level": 2}
+{"count": 218013, "name": "Semiconductor device", "weight": 2.0, "id": 79635011, "level": 2}
+{"count": 36853, "name": "Quantum field theory", "weight": 0.0, "id": 115047598, "level": 2}
+{"count": 58847, "name": "Photonic crystal", "weight": 0.0, "id": 75302062, "level": 2}
+{"count": 189114, "name": "Impurity", "weight": 1.0, "id": 71987851, "level": 2}
+{"count": 57961, "name": "Initial value problem", "weight": 0.0, "id": 26955809, "level": 2}
+{"count": 214044, "name": "Microwave", "weight": 2.0, "id": 44838205, "level": 2}
+{"count": 79389, "name": "Shear stress", "weight": 0.0, "id": 21141959, "level": 2}
+{"count": 71298, "name": "Helium", "weight": 0.0, "id": 546029482, "level": 2}
+{"count": 38732, "name": "Correlation function", "weight": 0.0, "id": 124897322, "level": 2}
+{"count": 163854, "name": "Alkali metal", "weight": 1.0, "id": 198091228, "level": 2}
+{"count": 150097, "name": "Magnetization", "weight": 1.0, "id": 32546565, "level": 2}
+{"count": 50763, "name": "Angular momentum", "weight": 0.0, "id": 155675718, "level": 2}
+{"count": 103252, "name": "Surface roughness", "weight": 1.0, "id": 107365816, "level": 2}
+{"count": 112862, "name": "Kinetic energy", "weight": 1.0, "id": 135889238, "level": 2}
+{"count": 48487, "name": "Material properties", "weight": 0.0, "id": 31555180, "level": 2}
+{"count": 28630, "name": "Cosmology", "weight": 0.0, "id": 26405456, "level": 2}
+{"count": 978922, "name": "Radiation", "weight": 10.0, "id": 153385146, "level": 2}
+{"count": 67222, "name": "Surface tension", "weight": 0.0, "id": 8892853, "level": 2}
+{"count": 70497, "name": "Magnetic susceptibility", "weight": 0.0, "id": 16889073, "level": 2}
+{"count": 56353, "name": "Scientific method", "weight": 0.0, "id": 63830546, "level": 2}
+{"count": 161681, "name": "Excitation", "weight": 1.0, "id": 83581075, "level": 2}
+{"count": 56757, "name": "Measuring instrument", "weight": 0.0, "id": 62646347, "level": 2}
+{"count": 354171, "name": "Instability", "weight": 3.0, "id": 207821765, "level": 2}
+{"count": 41012, "name": "Fermion", "weight": 0.0, "id": 52233224, "level": 2}
+{"count": 185074, "name": "Acceleration", "weight": 1.0, "id": 117896860, "level": 2}
+{"count": 220435, "name": "Capacitor", "weight": 2.0, "id": 52192207, "level": 2}
+{"count": 130478, "name": "Ferromagnetism", "weight": 1.0, "id": 82217956, "level": 2}
+{"count": 54490, "name": "Relaxation (NMR)", "weight": 0.0, "id": 45472611, "level": 2}
+{"count": 33856, "name": "Fluid mechanics", "weight": 0.0, "id": 43133876, "level": 2}
+{"count": 99238, "name": "Radiative transfer", "weight": 1.0, "id": 74902906, "level": 2}
+{"count": 31734, "name": "Energy transformation", "weight": 0.0, "id": 144822601, "level": 2}
+{"count": 101613, "name": "Heterojunction", "weight": 1.0, "id": 79794668, "level": 2}
+{"count": 130620, "name": "Capacitance", "weight": 1.0, "id": 30066665, "level": 2}
+{"count": 47263, "name": "Superlattice", "weight": 0.0, "id": 105382558, "level": 2}
+{"count": 126434, "name": "Galaxy", "weight": 1.0, "id": 98444146, "level": 2}
+{"count": 172273, "name": "Waveguide", "weight": 1.0, "id": 200687136, "level": 2}
+{"count": 37928, "name": "Supersymmetry", "weight": 0.0, "id": 116674579, "level": 2}
+{"count": 83737, "name": "Hysteresis", "weight": 0.0, "id": 123299182, "level": 2}
+{"count": 31857, "name": "Exact solutions in general relativity", "weight": 0.0, "id": 520416788, "level": 2}
+{"count": 42154, "name": "Wave equation", "weight": 0.0, "id": 59696629, "level": 2}
+{"count": 39071, "name": "Attenuation coefficient", "weight": 0.0, "id": 159774933, "level": 2}
+{"count": 40571, "name": "Recombination", "weight": 0.0, "id": 156695909, "level": 2}
+{"count": 23270, "name": "Hartree\u2013Fock method", "weight": 0.0, "id": 113630233, "level": 2}
+{"count": 45100, "name": "Charge density", "weight": 0.0, "id": 150708132, "level": 2}
+{"count": 34242, "name": "Mean field theory", "weight": 0.0, "id": 202213908, "level": 2}
+{"count": 28325, "name": "Statistical mechanics", "weight": 0.0, "id": 99874945, "level": 2}
+{"count": 333344, "name": "Spin-\u00bd", "weight": 3.0, "id": 8244735, "level": 2}
+{"count": 63331, "name": "Quantum chromodynamics", "weight": 0.0, "id": 117137515, "level": 2}
+{"count": 157273, "name": "Thermal conduction", "weight": 1.0, "id": 172100665, "level": 2}
+{"count": 40446, "name": "Electron diffraction", "weight": 0.0, "id": 77557913, "level": 2}
+{"count": 36877, "name": "Electric potential", "weight": 0.0, "id": 58570533, "level": 2}
+{"count": 27458, "name": "Network analysis", "weight": 0.0, "id": 32946077, "level": 2}
+{"count": 70781, "name": "Perturbation (astronomy)", "weight": 0.0, "id": 177918212, "level": 2}
+{"count": 123971, "name": "Interferometry", "weight": 1.0, "id": 166689943, "level": 2}
+{"count": 42468, "name": "Standard Model", "weight": 0.0, "id": 506670242, "level": 2}
+{"count": 45582, "name": "Visible spectrum", "weight": 0.0, "id": 104663316, "level": 2}
+{"count": 47511, "name": "Plane wave", "weight": 0.0, "id": 40308292, "level": 2}
+{"count": 482701, "name": "Semiconductor", "weight": 4.0, "id": 108225325, "level": 2}
+{"count": 38862, "name": "Synchrotron radiation", "weight": 0.0, "id": 16332341, "level": 2}
+{"count": 23916, "name": "Present day", "weight": 0.0, "id": 2779383114, "level": 2}
+{"count": 91941, "name": "Doppler effect", "weight": 0.0, "id": 142757262, "level": 2}
+{"count": 33726, "name": "Bound state", "weight": 0.0, "id": 174084160, "level": 2}
+{"count": 22441, "name": "Length scale", "weight": 0.0, "id": 11135259, "level": 2}
+{"count": 51205, "name": "Flow velocity", "weight": 0.0, "id": 166693061, "level": 2}
+{"count": 235685, "name": "Attenuation", "weight": 2.0, "id": 184652730, "level": 2}
+{"count": 35950, "name": "van der Waals force", "weight": 0.0, "id": 126061179, "level": 2}
+{"count": 40264, "name": "Temperature gradient", "weight": 0.0, "id": 137109543, "level": 2}
+{"count": 35172, "name": "Phase space", "weight": 0.0, "id": 151342819, "level": 2}
+{"count": 35130, "name": "Ab initio quantum chemistry methods", "weight": 0.0, "id": 183971685, "level": 2}
+{"count": 49083, "name": "Phase (matter)", "weight": 0.0, "id": 44280652, "level": 2}
+{"count": 30782, "name": "Interstellar medium", "weight": 0.0, "id": 196939603, "level": 2}
+{"count": 65101, "name": "Hadron", "weight": 0.0, "id": 19694890, "level": 2}
+{"count": 57223, "name": "Nanocrystal", "weight": 0.0, "id": 175854130, "level": 2}
+{"count": 65571, "name": "Chemical structure", "weight": 0.0, "id": 175528265, "level": 2}
+{"count": 37407, "name": "Scanning tunneling microscope", "weight": 0.0, "id": 6518042, "level": 2}
+{"count": 145394, "name": "X-ray", "weight": 1.0, "id": 2779328170, "level": 2}
+{"count": 49384, "name": "Electric current", "weight": 0.0, "id": 116468062, "level": 2}
+{"count": 30040, "name": "General relativity", "weight": 0.0, "id": 147452769, "level": 2}
+{"count": 31325, "name": "Brownian motion", "weight": 0.0, "id": 112401455, "level": 2}
+{"count": 33992, "name": "Neutron star", "weight": 0.0, "id": 192887742, "level": 2}
+{"count": 53699, "name": "Gravitation", "weight": 0.0, "id": 124017977, "level": 2}
+{"count": 209475, "name": "Transistor", "weight": 2.0, "id": 172385210, "level": 2}
+{"count": 21898, "name": "Maxwell's equations", "weight": 0.0, "id": 59282198, "level": 2}
+{"count": 212791, "name": "Torque", "weight": 2.0, "id": 144171764, "level": 2}
+{"count": 163264, "name": "Leakage (electronics)", "weight": 1.0, "id": 151763599, "level": 2}
+{"count": 61205, "name": "Wave function", "weight": 0.0, "id": 113603373, "level": 2}
+{"count": 109816, "name": "Trajectory", "weight": 1.0, "id": 13662910, "level": 2}
+{"count": 25539, "name": "Stellar evolution", "weight": 0.0, "id": 110472602, "level": 2}
+{"count": 26459, "name": "Symmetry breaking", "weight": 0.0, "id": 204795200, "level": 2}
+{"count": 43553, "name": "Corona", "weight": 0.0, "id": 186072955, "level": 2}
+{"count": 158785, "name": "Graphene", "weight": 1.0, "id": 30080830, "level": 2}
+{"count": 52071, "name": "Near and far field", "weight": 0.0, "id": 25227671, "level": 2}
+{"count": 28182, "name": "Shear flow", "weight": 0.0, "id": 135768490, "level": 2}
+{"count": 361294, "name": "Amplitude", "weight": 3.0, "id": 180205008, "level": 2}
+{"count": 21718, "name": "Quantum computer", "weight": 0.0, "id": 58053490, "level": 2}
+{"count": 28867, "name": "Green's function", "weight": 0.0, "id": 132312353, "level": 2}
+{"count": 158621, "name": "Conductivity", "weight": 1.0, "id": 131540310, "level": 2}
+{"count": 36209, "name": "Causality", "weight": 0.0, "id": 197589188, "level": 2}
+{"count": 46210, "name": "Asymmetry", "weight": 0.0, "id": 38976095, "level": 2}
+{"count": 23992, "name": "Atomic absorption spectroscopy", "weight": 0.0, "id": 33619061, "level": 2}
+{"count": 99214, "name": "Electricity", "weight": 1.0, "id": 206658404, "level": 2}
+{"count": 54255, "name": "MOSFET", "weight": 0.0, "id": 2778413303, "level": 2}
+{"count": 54434, "name": "Acoustic wave", "weight": 0.0, "id": 204723758, "level": 2}
+{"count": 61051, "name": "Thermal diffusivity", "weight": 0.0, "id": 37668627, "level": 2}
+{"count": 40624, "name": "Heat capacity", "weight": 0.0, "id": 60205243, "level": 2}
+{"count": 25361, "name": "Solar flare", "weight": 0.0, "id": 185001636, "level": 2}
+{"count": 56340, "name": "Dielectric spectroscopy", "weight": 0.0, "id": 7040849, "level": 2}
+{"count": 30856, "name": "Optical filter", "weight": 0.0, "id": 45613198, "level": 2}
+{"count": 319618, "name": "Wavelength", "weight": 3.0, "id": 6260449, "level": 2}
+{"count": 23496, "name": "Quantum Hall effect", "weight": 0.0, "id": 200369452, "level": 2}
+{"count": 24466, "name": "Renormalization group", "weight": 0.0, "id": 68532491, "level": 2}
+{"count": 47443, "name": "Enthalpy", "weight": 0.0, "id": 3288061, "level": 2}
+{"count": 27999, "name": "Baryon", "weight": 0.0, "id": 154153549, "level": 2}
+{"count": 75141, "name": "Holography", "weight": 0.0, "id": 187590223, "level": 2}
+{"count": 33399, "name": "Lepton", "weight": 0.0, "id": 179203047, "level": 2}

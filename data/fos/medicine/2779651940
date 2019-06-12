@@ -1,0 +1,29 @@
+{"count": 9149, "name": "Lumbar puncture", "weight": 10.0, "id": 2780066322, "level": 3}
+{"count": 3306, "name": "Normal pressure hydrocephalus", "weight": 3.0, "id": 2781389367, "level": 3}
+{"count": 1775, "name": "Ventriculostomy", "weight": 1.0, "id": 2778604727, "level": 3}
+{"count": 4441, "name": "Subarachnoid space", "weight": 4.0, "id": 2780813603, "level": 3}
+{"count": 1733, "name": "Cerebrospinal fluid leak", "weight": 1.0, "id": 2779115750, "level": 3}
+{"count": 4430, "name": "rhinorrhea", "weight": 4.0, "id": 2779699568, "level": 3}
+{"count": 859, "name": "Meningeal carcinomatosis", "weight": 0.0, "id": 2778277180, "level": 3}
+{"count": 1233, "name": "Epidural blood patch", "weight": 1.0, "id": 2778965110, "level": 3}
+{"count": 1942, "name": "Cisterna magna", "weight": 2.0, "id": 2778200158, "level": 3}
+{"count": 1457, "name": "Viral meningitis", "weight": 1.0, "id": 2777208983, "level": 3}
+{"count": 490, "name": "Cerebral aqueduct", "weight": 0.0, "id": 2776820357, "level": 3}
+{"count": 612, "name": "External ventricular drain", "weight": 0.0, "id": 2778863898, "level": 3}
+{"count": 2045, "name": "Ventricular system", "weight": 2.0, "id": 2781223406, "level": 3}
+{"count": 554, "name": "Pseudomeningocele", "weight": 0.0, "id": 2778420105, "level": 3}
+{"count": 379, "name": "Neoplastic meningitis", "weight": 0.0, "id": 2775971691, "level": 3}
+{"count": 2940, "name": "CSF albumin", "weight": 3.0, "id": 33619753, "level": 3}
+{"count": 158, "name": "Arachnoid granulation", "weight": 0.0, "id": 2778261495, "level": 3}
+{"count": 2324, "name": "Pleocytosis", "weight": 2.0, "id": 2777483564, "level": 3}
+{"count": 320, "name": "Glymphatic system", "weight": 0.0, "id": 101054994, "level": 3}
+{"count": 178, "name": "Oligoclonal band", "weight": 0.0, "id": 2778474656, "level": 3}
+{"count": 152, "name": "Mondini dysplasia", "weight": 0.0, "id": 2777624890, "level": 3}
+{"count": 276, "name": "Cerebrospinal fluid diversion", "weight": 0.0, "id": 2780460860, "level": 3}
+{"count": 77, "name": "Low pressure hydrocephalus", "weight": 0.0, "id": 2778311132, "level": 3}
+{"count": 109, "name": "Cerebrospinal fluid penetration", "weight": 0.0, "id": 2776164219, "level": 3}
+{"count": 464, "name": "Lymphocytic pleocytosis", "weight": 0.0, "id": 2780636500, "level": 3}
+{"count": 22, "name": "Leptomeningeal cancer", "weight": 0.0, "id": 2777589802, "level": 3}
+{"count": 26, "name": "Lumbar\u2013peritoneal shunt", "weight": 0.0, "id": 2778739850, "level": 3}
+{"count": 39, "name": "Pontine cistern", "weight": 0.0, "id": 2776341927, "level": 3}
+{"count": 21, "name": "Meningeal lymphatic vessels", "weight": 0.0, "id": 2779950889, "level": 3}

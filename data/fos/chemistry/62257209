@@ -1,0 +1,5 @@
+{"count": 986, "name": "Exon shuffling", "weight": 10.0, "id": 190017056, "level": 5}
+{"count": 753, "name": "Polypyrimidine tract", "weight": 7.0, "id": 72994624, "level": 5}
+{"count": 140, "name": "Exonic splicing silencer", "weight": 1.0, "id": 2776115073, "level": 5}
+{"count": 49, "name": "Splicing regulatory element", "weight": 0.0, "id": 2778654093, "level": 5}
+{"count": 217, "name": "Interrupted gene", "weight": 2.0, "id": 141344153, "level": 5}

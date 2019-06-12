@@ -1,0 +1,200 @@
+{"count": 160787, "name": "Wireless sensor network", "weight": 10.0, "id": 24590314, "level": 2}
+{"count": 54111, "name": "Wireless ad hoc network", "weight": 3.0, "id": 94523657, "level": 2}
+{"count": 136016, "name": "Wireless network", "weight": 8.0, "id": 108037233, "level": 2}
+{"count": 114982, "name": "Quality of service", "weight": 7.0, "id": 5119721, "level": 2}
+{"count": 55497, "name": "Fault tolerance", "weight": 3.0, "id": 63540848, "level": 2}
+{"count": 58719, "name": "Cryptography", "weight": 3.0, "id": 178489894, "level": 2}
+{"count": 69552, "name": "Mobile computing", "weight": 4.0, "id": 144543869, "level": 2}
+{"count": 75489, "name": "Network topology", "weight": 4.0, "id": 199845137, "level": 2}
+{"count": 36250, "name": "Routing protocol", "weight": 2.0, "id": 104954878, "level": 2}
+{"count": 44285, "name": "Multi-agent system", "weight": 2.0, "id": 41550386, "level": 2}
+{"count": 32369, "name": "Parallel algorithm", "weight": 2.0, "id": 120373497, "level": 2}
+{"count": 23298, "name": "Distributed algorithm", "weight": 1.0, "id": 130120984, "level": 2}
+{"count": 26303, "name": "Ubiquitous computing", "weight": 1.0, "id": 172195944, "level": 2}
+{"count": 39276, "name": "Queueing theory", "weight": 2.0, "id": 22684755, "level": 2}
+{"count": 32518, "name": "Petri net", "weight": 2.0, "id": 38677869, "level": 2}
+{"count": 37996, "name": "Load balancing (computing)", "weight": 2.0, "id": 139330139, "level": 2}
+{"count": 36940, "name": "Communications protocol", "weight": 2.0, "id": 12269588, "level": 2}
+{"count": 135344, "name": "Scalability", "weight": 8.0, "id": 48044578, "level": 2}
+{"count": 11862, "name": "Intelligent Network", "weight": 0.0, "id": 51675839, "level": 2}
+{"count": 15829, "name": "Message passing", "weight": 0.0, "id": 854659, "level": 2}
+{"count": 30135, "name": "Peer-to-peer", "weight": 1.0, "id": 534932454, "level": 2}
+{"count": 37747, "name": "Network architecture", "weight": 2.0, "id": 193415008, "level": 2}
+{"count": 34906, "name": "Middleware", "weight": 2.0, "id": 135802936, "level": 2}
+{"count": 19912, "name": "Shortest path problem", "weight": 1.0, "id": 22590252, "level": 2}
+{"count": 19675, "name": "Network congestion", "weight": 1.0, "id": 195563490, "level": 2}
+{"count": 14918, "name": "Distributed database", "weight": 0.0, "id": 70061542, "level": 2}
+{"count": 9228, "name": "Concurrent computing", "weight": 0.0, "id": 150495011, "level": 2}
+{"count": 14323, "name": "Asynchronous Transfer Mode", "weight": 0.0, "id": 194571728, "level": 2}
+{"count": 22473, "name": "Shared memory", "weight": 1.0, "id": 133875982, "level": 2}
+{"count": 14461, "name": "Cryptographic protocol", "weight": 0.0, "id": 33884865, "level": 2}
+{"count": 12427, "name": "Software agent", "weight": 0.0, "id": 5894958, "level": 2}
+{"count": 5899, "name": "Point-to-point", "weight": 0.0, "id": 174440990, "level": 2}
+{"count": 21241, "name": "Network performance", "weight": 1.0, "id": 203274722, "level": 2}
+{"count": 26182, "name": "Multiprocessing", "weight": 1.0, "id": 4822641, "level": 2}
+{"count": 18552, "name": "Concurrency", "weight": 1.0, "id": 193702766, "level": 2}
+{"count": 16784, "name": "Shared resource", "weight": 1.0, "id": 51332947, "level": 2}
+{"count": 17967, "name": "Client\u2013server model", "weight": 1.0, "id": 152880691, "level": 2}
+{"count": 22786, "name": "Supercomputer", "weight": 1.0, "id": 83283714, "level": 2}
+{"count": 44830, "name": "Multicast", "weight": 2.0, "id": 32295351, "level": 2}
+{"count": 23803, "name": "Network management", "weight": 1.0, "id": 129763632, "level": 2}
+{"count": 12343, "name": "Mobile agent", "weight": 0.0, "id": 84875433, "level": 2}
+{"count": 21753, "name": "Data center", "weight": 1.0, "id": 153740404, "level": 2}
+{"count": 6728, "name": "Concurrency control", "weight": 0.0, "id": 84511453, "level": 2}
+{"count": 4178, "name": "Data consistency", "weight": 0.0, "id": 93361087, "level": 2}
+{"count": 13525, "name": "Distributed memory", "weight": 0.0, "id": 91481028, "level": 2}
+{"count": 5278, "name": "Transport layer", "weight": 0.0, "id": 7345512, "level": 2}
+{"count": 10793, "name": "Mesh networking", "weight": 0.0, "id": 123691950, "level": 2}
+{"count": 24394, "name": "Network simulation", "weight": 1.0, "id": 139940560, "level": 2}
+{"count": 8609, "name": "Distributed Computing Environment", "weight": 0.0, "id": 3739613, "level": 2}
+{"count": 3511, "name": "Discrete logarithm", "weight": 0.0, "id": 173259116, "level": 2}
+{"count": 6746, "name": "Wide area network", "weight": 0.0, "id": 2776238582, "level": 2}
+{"count": 5764, "name": "Communication complexity", "weight": 0.0, "id": 179145077, "level": 2}
+{"count": 10409, "name": "Overlay network", "weight": 0.0, "id": 169851745, "level": 2}
+{"count": 10420, "name": "Next-generation network", "weight": 0.0, "id": 110994511, "level": 2}
+{"count": 4409, "name": "Internetworking", "weight": 0.0, "id": 2780405328, "level": 2}
+{"count": 5175, "name": "Active networking", "weight": 0.0, "id": 102665078, "level": 2}
+{"count": 8996, "name": "Computer cluster", "weight": 0.0, "id": 29140674, "level": 2}
+{"count": 2536, "name": "Adaptive routing", "weight": 0.0, "id": 24856439, "level": 2}
+{"count": 3340, "name": "Mutual exclusion", "weight": 0.0, "id": 56348326, "level": 2}
+{"count": 8711, "name": "Hypercube", "weight": 0.0, "id": 50820777, "level": 2}
+{"count": 4301, "name": "Link layer", "weight": 0.0, "id": 12570599, "level": 2}
+{"count": 9219, "name": "Secure communication", "weight": 0.0, "id": 510870077, "level": 2}
+{"count": 8117, "name": "Mobility model", "weight": 0.0, "id": 191485582, "level": 2}
+{"count": 5482, "name": "Online algorithm", "weight": 0.0, "id": 196921405, "level": 2}
+{"count": 4220, "name": "Communication in small groups", "weight": 0.0, "id": 44871818, "level": 2}
+{"count": 3337, "name": "Range query (data structures)", "weight": 0.0, "id": 110432227, "level": 2}
+{"count": 6859, "name": "Distributed object", "weight": 0.0, "id": 81192388, "level": 2}
+{"count": 6296, "name": "Dijkstra's algorithm", "weight": 0.0, "id": 173870130, "level": 2}
+{"count": 6616, "name": "High availability", "weight": 0.0, "id": 65813073, "level": 2}
+{"count": 5747, "name": "Secure multi-party computation", "weight": 0.0, "id": 18396474, "level": 2}
+{"count": 6996, "name": "Secret sharing", "weight": 0.0, "id": 3087436, "level": 2}
+{"count": 3089, "name": "Runtime system", "weight": 0.0, "id": 2780870223, "level": 2}
+{"count": 2654, "name": "Inter-process communication", "weight": 0.0, "id": 204156049, "level": 2}
+{"count": 2667, "name": "Remote procedure call", "weight": 0.0, "id": 172086080, "level": 2}
+{"count": 3373, "name": "Virtual organization", "weight": 0.0, "id": 2776272021, "level": 2}
+{"count": 8709, "name": "Common Object Request Broker Architecture", "weight": 0.0, "id": 49312422, "level": 2}
+{"count": 11143, "name": "Deadlock", "weight": 0.0, "id": 159023740, "level": 2}
+{"count": 5018, "name": "Distributed File System", "weight": 0.0, "id": 152043487, "level": 2}
+{"count": 8267, "name": "Reachability", "weight": 0.0, "id": 136643341, "level": 2}
+{"count": 2781, "name": "Buffer overflow", "weight": 0.0, "id": 40842320, "level": 2}
+{"count": 14281, "name": "Network layer", "weight": 0.0, "id": 117468950, "level": 2}
+{"count": 2468, "name": "Real-time communication", "weight": 0.0, "id": 2780626145, "level": 2}
+{"count": 4370, "name": "Key exchange", "weight": 0.0, "id": 99674996, "level": 2}
+{"count": 2691, "name": "Consistency model", "weight": 0.0, "id": 37279795, "level": 2}
+{"count": 35056, "name": "Dynamic Source Routing", "weight": 2.0, "id": 9659607, "level": 2}
+{"count": 4369, "name": "Symmetric multiprocessor system", "weight": 0.0, "id": 172430144, "level": 2}
+{"count": 4553, "name": "Virtual circuit", "weight": 0.0, "id": 22592002, "level": 2}
+{"count": 1676, "name": "Computer multitasking", "weight": 0.0, "id": 154556556, "level": 2}
+{"count": 3790, "name": "Reliability (computer networking)", "weight": 0.0, "id": 167677733, "level": 2}
+{"count": 7011, "name": "Network delay", "weight": 0.0, "id": 152623178, "level": 2}
+{"count": 3762, "name": "Stream processing", "weight": 0.0, "id": 107027933, "level": 2}
+{"count": 28591, "name": "Router", "weight": 1.0, "id": 2775896111, "level": 2}
+{"count": 1463, "name": "Critical section", "weight": 0.0, "id": 124343487, "level": 2}
+{"count": 5063, "name": "Autonomic computing", "weight": 0.0, "id": 558632462, "level": 2}
+{"count": 2609, "name": "Erasure code", "weight": 0.0, "id": 137529215, "level": 2}
+{"count": 6868, "name": "Distributed data store", "weight": 0.0, "id": 24885549, "level": 2}
+{"count": 5111, "name": "Replication (computing)", "weight": 0.0, "id": 70440993, "level": 2}
+{"count": 28483, "name": "Node (networking)", "weight": 1.0, "id": 46135064, "level": 2}
+{"count": 10431, "name": "Core network", "weight": 0.0, "id": 5038329, "level": 2}
+{"count": 7728, "name": "Media access control", "weight": 0.0, "id": 513196756, "level": 2}
+{"count": 3048, "name": "Trusted third party", "weight": 0.0, "id": 139089976, "level": 2}
+{"count": 3886, "name": "Trusted Computing", "weight": 0.0, "id": 2776831232, "level": 2}
+{"count": 9629, "name": "Overhead (business)", "weight": 0.0, "id": 140582190, "level": 2}
+{"count": 15031, "name": "Massively parallel", "weight": 0.0, "id": 190475519, "level": 2}
+{"count": 2660, "name": "Bloom filter", "weight": 0.0, "id": 147224247, "level": 2}
+{"count": 9145, "name": "Software-defined networking", "weight": 0.0, "id": 77270119, "level": 2}
+{"count": 2290, "name": "Separation of concerns", "weight": 0.0, "id": 76214141, "level": 2}
+{"count": 4080, "name": "IP forwarding", "weight": 0.0, "id": 174809319, "level": 2}
+{"count": 1758, "name": "Distributed management", "weight": 0.0, "id": 2776174695, "level": 2}
+{"count": 943, "name": "Distributed operating system", "weight": 0.0, "id": 2779783377, "level": 2}
+{"count": 1515, "name": "Nested loop join", "weight": 0.0, "id": 1306188, "level": 2}
+{"count": 1031, "name": "Call graph", "weight": 0.0, "id": 102379954, "level": 2}
+{"count": 1572, "name": "Tree network", "weight": 0.0, "id": 2781010653, "level": 2}
+{"count": 5936, "name": "Raft", "weight": 0.0, "id": 9132879, "level": 2}
+{"count": 816, "name": "Distributed collaboration", "weight": 0.0, "id": 2777298481, "level": 2}
+{"count": 4377, "name": "OpenFlow", "weight": 0.0, "id": 192697461, "level": 2}
+{"count": 4549, "name": "Network address translation", "weight": 0.0, "id": 147873670, "level": 2}
+{"count": 2768, "name": "Fault management", "weight": 0.0, "id": 108074857, "level": 2}
+{"count": 7864, "name": "Virtual network", "weight": 0.0, "id": 2776874963, "level": 2}
+{"count": 10780, "name": "Application layer", "weight": 0.0, "id": 190793597, "level": 2}
+{"count": 5856, "name": "Protocol stack", "weight": 0.0, "id": 38601921, "level": 2}
+{"count": 307, "name": "IP forwarding algorithm", "weight": 0.0, "id": 135666563, "level": 2}
+{"count": 4874, "name": "Liveness", "weight": 0.0, "id": 15569618, "level": 2}
+{"count": 824, "name": "Event correlation", "weight": 0.0, "id": 60801479, "level": 2}
+{"count": 4952, "name": "Autonomous system (Internet)", "weight": 0.0, "id": 5147268, "level": 2}
+{"count": 3758, "name": "Task parallelism", "weight": 0.0, "id": 42992933, "level": 2}
+{"count": 599, "name": "Network operating system", "weight": 0.0, "id": 2776810965, "level": 2}
+{"count": 31260, "name": "Hop (networking)", "weight": 1.0, "id": 29736862, "level": 2}
+{"count": 336, "name": "Operational transformation", "weight": 0.0, "id": 2779683485, "level": 2}
+{"count": 1241, "name": "Open Systems Interconnection", "weight": 0.0, "id": 147972487, "level": 2}
+{"count": 8042, "name": "Network service", "weight": 0.0, "id": 2779618445, "level": 2}
+{"count": 4785, "name": "Complex event processing", "weight": 0.0, "id": 123606473, "level": 2}
+{"count": 639, "name": "Race condition", "weight": 0.0, "id": 175333730, "level": 2}
+{"count": 4422, "name": "Data parallelism", "weight": 0.0, "id": 61483411, "level": 2}
+{"count": 1223, "name": "Distributed Interactive Simulation", "weight": 0.0, "id": 2780442957, "level": 2}
+{"count": 1099, "name": "Problem solving environment", "weight": 0.0, "id": 2780665868, "level": 2}
+{"count": 622, "name": "Message sequence chart", "weight": 0.0, "id": 82074703, "level": 2}
+{"count": 20441, "name": "Testbed", "weight": 1.0, "id": 31395832, "level": 2}
+{"count": 1851, "name": "Neighbor Discovery Protocol", "weight": 0.0, "id": 165932591, "level": 2}
+{"count": 678, "name": "Metacomputing", "weight": 0.0, "id": 2779120266, "level": 2}
+{"count": 1793, "name": "Burstiness", "weight": 0.0, "id": 2781023610, "level": 2}
+{"count": 26613, "name": "Provisioning", "weight": 1.0, "id": 172191483, "level": 2}
+{"count": 10022, "name": "Resource (disambiguation)", "weight": 0.0, "id": 206345919, "level": 2}
+{"count": 1480, "name": "Stream Control Transmission Protocol", "weight": 0.0, "id": 90377713, "level": 2}
+{"count": 9181, "name": "Broadcast communication network", "weight": 0.0, "id": 83529365, "level": 2}
+{"count": 500, "name": "Organic computing", "weight": 0.0, "id": 2780840187, "level": 2}
+{"count": 1956, "name": "Network Functions Virtualization", "weight": 0.0, "id": 200789330, "level": 2}
+{"count": 8202, "name": "Verifiable secret sharing", "weight": 0.0, "id": 85847156, "level": 2}
+{"count": 12518, "name": "Network element", "weight": 0.0, "id": 129119673, "level": 2}
+{"count": 984, "name": "Multiplayer game", "weight": 0.0, "id": 2779422791, "level": 2}
+{"count": 1110, "name": "Context management", "weight": 0.0, "id": 2776285913, "level": 2}
+{"count": 7043, "name": "Address space", "weight": 0.0, "id": 144240696, "level": 2}
+{"count": 2359, "name": "Semaphore", "weight": 0.0, "id": 95203288, "level": 2}
+{"count": 222, "name": "Supercomputer Education Research Centre", "weight": 0.0, "id": 2776941374, "level": 2}
+{"count": 1018, "name": "Communicating sequential processes", "weight": 0.0, "id": 155214134, "level": 2}
+{"count": 8479, "name": "Dynamic network analysis", "weight": 0.0, "id": 13540734, "level": 2}
+{"count": 6931, "name": "Orchestration (computing)", "weight": 0.0, "id": 2777103994, "level": 2}
+{"count": 7116, "name": "Discriminator", "weight": 0.0, "id": 2779803651, "level": 2}
+{"count": 1395, "name": "Self-organizing network", "weight": 0.0, "id": 179618828, "level": 2}
+{"count": 3279, "name": "Rollback", "weight": 0.0, "id": 174220543, "level": 2}
+{"count": 713, "name": "Application sharing", "weight": 0.0, "id": 2781322563, "level": 2}
+{"count": 2029, "name": "OSI model", "weight": 0.0, "id": 168535184, "level": 2}
+{"count": 4629, "name": "Virtual LAN", "weight": 0.0, "id": 206505811, "level": 2}
+{"count": 326, "name": "Single system image", "weight": 0.0, "id": 2777071140, "level": 2}
+{"count": 1628, "name": "Loose coupling", "weight": 0.0, "id": 164100034, "level": 2}
+{"count": 31851, "name": "Link-state routing protocol", "weight": 1.0, "id": 89305328, "level": 2}
+{"count": 2435, "name": "Execution model", "weight": 0.0, "id": 2776834041, "level": 2}
+{"count": 8062, "name": "End-to-end principle", "weight": 0.0, "id": 74296488, "level": 2}
+{"count": 665, "name": "Self-optimization", "weight": 0.0, "id": 2777087167, "level": 2}
+{"count": 1800, "name": "InfiniBand", "weight": 0.0, "id": 2781030343, "level": 2}
+{"count": 678, "name": "Stigmergy", "weight": 0.0, "id": 2776319702, "level": 2}
+{"count": 819, "name": "Collaborative editing", "weight": 0.0, "id": 2780967703, "level": 2}
+{"count": 1296, "name": "Remote direct memory access", "weight": 0.0, "id": 130795937, "level": 2}
+{"count": 165, "name": "Relative neighborhood graph", "weight": 0.0, "id": 2779836998, "level": 2}
+{"count": 3224, "name": "Routing control plane", "weight": 0.0, "id": 145595949, "level": 2}
+{"count": 1219, "name": "Anycast", "weight": 0.0, "id": 122005561, "level": 2}
+{"count": 1878, "name": "Live streaming", "weight": 0.0, "id": 2776741261, "level": 2}
+{"count": 3730, "name": "Backbone network", "weight": 0.0, "id": 88796919, "level": 2}
+{"count": 4216, "name": "Serialization", "weight": 0.0, "id": 52723943, "level": 2}
+{"count": 977, "name": "Composability", "weight": 0.0, "id": 2778814252, "level": 2}
+{"count": 3525, "name": "Pastry", "weight": 0.0, "id": 94240970, "level": 2}
+{"count": 1001, "name": "Active object", "weight": 0.0, "id": 47889514, "level": 2}
+{"count": 1323, "name": "SPMD", "weight": 0.0, "id": 7042729, "level": 2}
+{"count": 11, "name": "Associativity-based routing", "weight": 0.0, "id": 2777923180, "level": 2}
+{"count": 1602, "name": "Metrics", "weight": 0.0, "id": 195780805, "level": 2}
+{"count": 213, "name": "System area network", "weight": 0.0, "id": 2779537423, "level": 2}
+{"count": 1208, "name": "Automatically switched optical network", "weight": 0.0, "id": 149442271, "level": 2}
+{"count": 167, "name": "K-set", "weight": 0.0, "id": 2781011096, "level": 2}
+{"count": 1604, "name": "Attack model", "weight": 0.0, "id": 65856478, "level": 2}
+{"count": 900, "name": "Parallel database", "weight": 0.0, "id": 2777541480, "level": 2}
+{"count": 431, "name": "Dominator", "weight": 0.0, "id": 79179285, "level": 2}
+{"count": 494, "name": "Distributed constraint optimization", "weight": 0.0, "id": 2779976015, "level": 2}
+{"count": 635, "name": "Network partition", "weight": 0.0, "id": 2780860992, "level": 2}
+{"count": 1085, "name": "Persistent data structure", "weight": 0.0, "id": 888380, "level": 2}
+{"count": 1318, "name": "Signaling protocol", "weight": 0.0, "id": 2779681207, "level": 2}
+{"count": 128, "name": "Open implementation", "weight": 0.0, "id": 2781022897, "level": 2}
+{"count": 4181, "name": "Stateless protocol", "weight": 0.0, "id": 103613024, "level": 2}
+{"count": 560, "name": "Piggybacking (Internet access)", "weight": 0.0, "id": 204495120, "level": 2}
+{"count": 2432, "name": "Direct Anonymous Attestation", "weight": 0.0, "id": 169796023, "level": 2}
+{"count": 1984, "name": "Subnetwork", "weight": 0.0, "id": 2780186347, "level": 2}

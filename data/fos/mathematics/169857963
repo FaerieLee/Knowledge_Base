@@ -1,0 +1,11 @@
+{"count": 1662, "name": "Pearson's chi-squared test", "weight": 7.0, "id": 66924754, "level": 4}
+{"count": 2102, "name": "Null distribution", "weight": 10.0, "id": 120639, "level": 4}
+{"count": 387, "name": "Portmanteau test", "weight": 1.0, "id": 189827602, "level": 4}
+{"count": 1056, "name": "Ancillary statistic", "weight": 5.0, "id": 141286372, "level": 4}
+{"count": 1583, "name": "Z-test", "weight": 7.0, "id": 117661179, "level": 4}
+{"count": 687, "name": "Brown\u2013Forsythe test", "weight": 3.0, "id": 156873184, "level": 4}
+{"count": 742, "name": "PRESS statistic", "weight": 3.0, "id": 162511642, "level": 4}
+{"count": 649, "name": "Multinomial test", "weight": 3.0, "id": 107916281, "level": 4}
+{"count": 65, "name": "Durbin test", "weight": 0.0, "id": 193319976, "level": 4}
+{"count": 675, "name": "Goldfeld\u2013Quandt test", "weight": 3.0, "id": 122379554, "level": 4}
+{"count": 233, "name": "P-rep", "weight": 1.0, "id": 94320533, "level": 4}

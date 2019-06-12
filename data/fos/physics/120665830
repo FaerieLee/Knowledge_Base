@@ -1,0 +1,200 @@
+{"count": 254379, "name": "Infrared", "weight": 2.0, "id": 158355884, "level": 2}
+{"count": 88510, "name": "Electron microscope", "weight": 1.0, "id": 93877712, "level": 2}
+{"count": 115779, "name": "Transmission electron microscopy", "weight": 1.0, "id": 146088050, "level": 2}
+{"count": 254340, "name": "Optical fiber", "weight": 2.0, "id": 194232370, "level": 2}
+{"count": 119703, "name": "Electromagnetic radiation", "weight": 1.0, "id": 149773537, "level": 2}
+{"count": 868310, "name": "Laser", "weight": 10.0, "id": 520434653, "level": 2}
+{"count": 362803, "name": "Scattering", "weight": 4.0, "id": 191486275, "level": 2}
+{"count": 148410, "name": "Refractive index", "weight": 1.0, "id": 42067758, "level": 2}
+{"count": 231199, "name": "Polarization (waves)", "weight": 2.0, "id": 103716073, "level": 2}
+{"count": 99426, "name": "Image resolution", "weight": 1.0, "id": 205372480, "level": 2}
+{"count": 114686, "name": "Wave propagation", "weight": 1.0, "id": 44886760, "level": 2}
+{"count": 271553, "name": "Fluorescence", "weight": 3.0, "id": 91881484, "level": 2}
+{"count": 136343, "name": "Ultraviolet", "weight": 1.0, "id": 2776798109, "level": 2}
+{"count": 62584, "name": "Gallium arsenide", "weight": 0.0, "id": 510052550, "level": 2}
+{"count": 211971, "name": "Bandwidth (signal processing)", "weight": 2.0, "id": 74211669, "level": 2}
+{"count": 92916, "name": "Microscopy", "weight": 1.0, "id": 147080431, "level": 2}
+{"count": 238281, "name": "Anisotropy", "weight": 2.0, "id": 85725439, "level": 2}
+{"count": 194945, "name": "Interference (wave propagation)", "weight": 2.0, "id": 163517525, "level": 2}
+{"count": 94718, "name": "Reflectivity", "weight": 1.0, "id": 108597893, "level": 2}
+{"count": 173273, "name": "Liquid crystal", "weight": 1.0, "id": 13274807, "level": 2}
+{"count": 44041, "name": "Near-infrared spectroscopy", "weight": 0.0, "id": 43571822, "level": 2}
+{"count": 105146, "name": "Emission spectrum", "weight": 1.0, "id": 96141758, "level": 2}
+{"count": 72568, "name": "Tomography", "weight": 0.0, "id": 163716698, "level": 2}
+{"count": 230137, "name": "Dispersion (optics)", "weight": 2.0, "id": 177562468, "level": 2}
+{"count": 47438, "name": "Phase (waves)", "weight": 0.0, "id": 120418882, "level": 2}
+{"count": 83369, "name": "Retina", "weight": 0.0, "id": 2777093970, "level": 2}
+{"count": 79791, "name": "Quantum well", "weight": 0.0, "id": 29169072, "level": 2}
+{"count": 133178, "name": "Light-emitting diode", "weight": 1.0, "id": 176666156, "level": 2}
+{"count": 150403, "name": "Photon", "weight": 1.0, "id": 159317903, "level": 2}
+{"count": 181671, "name": "Diffraction", "weight": 2.0, "id": 207114421, "level": 2}
+{"count": 80756, "name": "Composition (visual arts)", "weight": 0.0, "id": 169260993, "level": 2}
+{"count": 472030, "name": "Detector", "weight": 5.0, "id": 94915269, "level": 2}
+{"count": 58847, "name": "Photonic crystal", "weight": 0.0, "id": 75302062, "level": 2}
+{"count": 35215, "name": "Optical communication", "weight": 0.0, "id": 129404179, "level": 2}
+{"count": 361177, "name": "Antenna (radio)", "weight": 4.0, "id": 21822782, "level": 2}
+{"count": 66067, "name": "Surface wave", "weight": 0.0, "id": 84174578, "level": 2}
+{"count": 40979, "name": "Band-pass filter", "weight": 0.0, "id": 147788027, "level": 2}
+{"count": 26797, "name": "Optical microscope", "weight": 0.0, "id": 77017923, "level": 2}
+{"count": 106549, "name": "Luminescence", "weight": 1.0, "id": 148869448, "level": 2}
+{"count": 99238, "name": "Radiative transfer", "weight": 1.0, "id": 74902906, "level": 2}
+{"count": 78471, "name": "Image quality", "weight": 0.0, "id": 55020928, "level": 2}
+{"count": 57365, "name": "Fourier transform infrared spectroscopy", "weight": 0.0, "id": 160892712, "level": 2}
+{"count": 172273, "name": "Waveguide", "weight": 1.0, "id": 200687136, "level": 2}
+{"count": 599594, "name": "Beam (structure)", "weight": 6.0, "id": 168834538, "level": 2}
+{"count": 39071, "name": "Attenuation coefficient", "weight": 0.0, "id": 159774933, "level": 2}
+{"count": 39630, "name": "Dispersion relation", "weight": 0.0, "id": 202579712, "level": 2}
+{"count": 123971, "name": "Interferometry", "weight": 1.0, "id": 166689943, "level": 2}
+{"count": 45582, "name": "Visible spectrum", "weight": 0.0, "id": 104663316, "level": 2}
+{"count": 47511, "name": "Plane wave", "weight": 0.0, "id": 40308292, "level": 2}
+{"count": 36545, "name": "Quantum efficiency", "weight": 0.0, "id": 205507967, "level": 2}
+{"count": 38862, "name": "Synchrotron radiation", "weight": 0.0, "id": 16332341, "level": 2}
+{"count": 235685, "name": "Attenuation", "weight": 2.0, "id": 184652730, "level": 2}
+{"count": 145394, "name": "X-ray", "weight": 1.0, "id": 2779328170, "level": 2}
+{"count": 46516, "name": "Wavelength-division multiplexing", "weight": 0.0, "id": 160724564, "level": 2}
+{"count": 24595, "name": "Spatial frequency", "weight": 0.0, "id": 100921725, "level": 2}
+{"count": 28621, "name": "Dynamic range", "weight": 0.0, "id": 87133666, "level": 2}
+{"count": 45908, "name": "Energy conversion efficiency", "weight": 0.0, "id": 206991015, "level": 2}
+{"count": 52071, "name": "Near and far field", "weight": 0.0, "id": 25227671, "level": 2}
+{"count": 361294, "name": "Amplitude", "weight": 4.0, "id": 180205008, "level": 2}
+{"count": 38102, "name": "Optical switch", "weight": 0.0, "id": 101336846, "level": 2}
+{"count": 29850, "name": "Extremely high frequency", "weight": 0.0, "id": 45764600, "level": 2}
+{"count": 54434, "name": "Acoustic wave", "weight": 0.0, "id": 204723758, "level": 2}
+{"count": 53186, "name": "Electroluminescence", "weight": 0.0, "id": 31625292, "level": 2}
+{"count": 23217, "name": "Optical imaging", "weight": 0.0, "id": 92630104, "level": 2}
+{"count": 58677, "name": "Photodetector", "weight": 0.0, "id": 23125352, "level": 2}
+{"count": 30856, "name": "Optical filter", "weight": 0.0, "id": 45613198, "level": 2}
+{"count": 64733, "name": "Image sensor", "weight": 0.0, "id": 76935873, "level": 2}
+{"count": 48457, "name": "Cornea", "weight": 0.0, "id": 2776882836, "level": 2}
+{"count": 319618, "name": "Wavelength", "weight": 3.0, "id": 6260449, "level": 2}
+{"count": 181037, "name": "Diode", "weight": 2.0, "id": 78434282, "level": 2}
+{"count": 75141, "name": "Holography", "weight": 0.0, "id": 187590223, "level": 2}
+{"count": 25709, "name": "Quantum optics", "weight": 0.0, "id": 68717125, "level": 2}
+{"count": 57711, "name": "Visual acuity", "weight": 0.0, "id": 2778257484, "level": 2}
+{"count": 41507, "name": "Field of view", "weight": 0.0, "id": 150627866, "level": 2}
+{"count": 48274, "name": "Photometry (optics)", "weight": 0.0, "id": 68271606, "level": 2}
+{"count": 112435, "name": "Lens (optics)", "weight": 1.0, "id": 198809072, "level": 2}
+{"count": 34832, "name": "Point source", "weight": 0.0, "id": 103783831, "level": 2}
+{"count": 44799, "name": "Lithography", "weight": 0.0, "id": 204223013, "level": 2}
+{"count": 113370, "name": "Spectrometer", "weight": 1.0, "id": 33390570, "level": 2}
+{"count": 11339, "name": "Radiometry", "weight": 0.0, "id": 87456703, "level": 2}
+{"count": 55509, "name": "Terahertz radiation", "weight": 0.0, "id": 107816215, "level": 2}
+{"count": 22736, "name": "Ray tracing (graphics)", "weight": 0.0, "id": 122263404, "level": 2}
+{"count": 60324, "name": "Plasmon", "weight": 0.0, "id": 110879396, "level": 2}
+{"count": 33472, "name": "Frequency modulation", "weight": 0.0, "id": 11930861, "level": 2}
+{"count": 70151, "name": "Brightness", "weight": 0.0, "id": 125245961, "level": 2}
+{"count": 21777, "name": "Surface micromachining", "weight": 0.0, "id": 145667562, "level": 2}
+{"count": 78552, "name": "Coherence (physics)", "weight": 0.0, "id": 91524940, "level": 2}
+{"count": 74591, "name": "Photonics", "weight": 0.0, "id": 20788544, "level": 2}
+{"count": 164707, "name": "Aperture", "weight": 1.0, "id": 188954035, "level": 2}
+{"count": 51224, "name": "Lidar", "weight": 0.0, "id": 51399673, "level": 2}
+{"count": 13893, "name": "Geometrical optics", "weight": 0.0, "id": 110277352, "level": 2}
+{"count": 25199, "name": "Temporal resolution", "weight": 0.0, "id": 119666444, "level": 2}
+{"count": 27887, "name": "Visual field", "weight": 0.0, "id": 2776058522, "level": 2}
+{"count": 21383, "name": "Phase velocity", "weight": 0.0, "id": 26682833, "level": 2}
+{"count": 43528, "name": "Photodiode", "weight": 0.0, "id": 751236, "level": 2}
+{"count": 117049, "name": "Resonator", "weight": 1.0, "id": 97126364, "level": 2}
+{"count": 22717, "name": "Reflection coefficient", "weight": 0.0, "id": 41700454, "level": 2}
+{"count": 14805, "name": "Figure of merit", "weight": 0.0, "id": 130277099, "level": 2}
+{"count": 34096, "name": "Photoconductivity", "weight": 0.0, "id": 201999631, "level": 2}
+{"count": 40235, "name": "Optical coherence tomography", "weight": 0.0, "id": 2778818243, "level": 2}
+{"count": 25039, "name": "Insertion loss", "weight": 0.0, "id": 90327742, "level": 2}
+{"count": 156, "name": "Gemology", "weight": 0.0, "id": 85909142, "level": 2}
+{"count": 26071, "name": "Finite-difference time-domain method", "weight": 0.0, "id": 184880428, "level": 2}
+{"count": 20951, "name": "Standing wave", "weight": 0.0, "id": 199956316, "level": 2}
+{"count": 67866, "name": "Phosphor", "weight": 0.0, "id": 124385694, "level": 2}
+{"count": 23694, "name": "Adaptive optics", "weight": 0.0, "id": 132771110, "level": 2}
+{"count": 32080, "name": "Photolithography", "weight": 0.0, "id": 105487726, "level": 2}
+{"count": 41731, "name": "Birefringence", "weight": 0.0, "id": 125743686, "level": 2}
+{"count": 19041, "name": "Penetration depth", "weight": 0.0, "id": 193493375, "level": 2}
+{"count": 35060, "name": "Metamaterial", "weight": 0.0, "id": 110367647, "level": 2}
+{"count": 14647, "name": "Stereopsis", "weight": 0.0, "id": 68537008, "level": 2}
+{"count": 17691, "name": "Dispersion (water waves)", "weight": 0.0, "id": 119134480, "level": 2}
+{"count": 18455, "name": "Full width at half maximum", "weight": 0.0, "id": 108649604, "level": 2}
+{"count": 14584, "name": "Charge-coupled device", "weight": 0.0, "id": 152213855, "level": 2}
+{"count": 26658, "name": "Eye tracking", "weight": 0.0, "id": 56461940, "level": 2}
+{"count": 12234, "name": "Spatial filter", "weight": 0.0, "id": 121475858, "level": 2}
+{"count": 10890, "name": "Colorimetry", "weight": 0.0, "id": 64299311, "level": 2}
+{"count": 22638, "name": "Total internal reflection", "weight": 0.0, "id": 170395517, "level": 2}
+{"count": 24576, "name": "Surface acoustic wave", "weight": 0.0, "id": 162954803, "level": 2}
+{"count": 11482, "name": "Diffuse reflection", "weight": 0.0, "id": 82261727, "level": 2}
+{"count": 22214, "name": "Deconvolution", "weight": 0.0, "id": 174576160, "level": 2}
+{"count": 15802, "name": "Bessel function", "weight": 0.0, "id": 107706756, "level": 2}
+{"count": 17278, "name": "Lithium niobate", "weight": 0.0, "id": 2777207636, "level": 2}
+{"count": 9771, "name": "Transmission loss", "weight": 0.0, "id": 2779753020, "level": 2}
+{"count": 79135, "name": "Wine", "weight": 0.0, "id": 55952523, "level": 2}
+{"count": 30327, "name": "Speckle pattern", "weight": 0.0, "id": 102290492, "level": 2}
+{"count": 14456, "name": "Point spread function", "weight": 0.0, "id": 69179731, "level": 2}
+{"count": 24743, "name": "Metrology", "weight": 0.0, "id": 195766429, "level": 2}
+{"count": 14903, "name": "Nanolithography", "weight": 0.0, "id": 162117346, "level": 2}
+{"count": 53477, "name": "Transmittance", "weight": 0.0, "id": 150493377, "level": 2}
+{"count": 11184, "name": "Color vision", "weight": 0.0, "id": 61674017, "level": 2}
+{"count": 38057, "name": "Wavefront", "weight": 0.0, "id": 165699331, "level": 2}
+{"count": 157163, "name": "Liquid-crystal display", "weight": 1.0, "id": 128019096, "level": 2}
+{"count": 38277, "name": "Opacity", "weight": 0.0, "id": 60056205, "level": 2}
+{"count": 19689, "name": "Brillouin zone", "weight": 0.0, "id": 16291881, "level": 2}
+{"count": 9161, "name": "Radiation pressure", "weight": 0.0, "id": 68337447, "level": 2}
+{"count": 11747, "name": "Phase contrast microscopy", "weight": 0.0, "id": 151193507, "level": 2}
+{"count": 15632, "name": "Sapphire", "weight": 0.0, "id": 2780064504, "level": 2}
+{"count": 12461, "name": "Physical optics", "weight": 0.0, "id": 154236941, "level": 2}
+{"count": 37440, "name": "Visibility", "weight": 0.0, "id": 123403432, "level": 2}
+{"count": 15220, "name": "Scanning probe microscopy", "weight": 0.0, "id": 36628996, "level": 2}
+{"count": 303380, "name": "Pulse (signal processing)", "weight": 3.0, "id": 7766398, "level": 2}
+{"count": 93744, "name": "Isotropy", "weight": 1.0, "id": 184050105, "level": 2}
+{"count": 20272, "name": "Radiometer", "weight": 0.0, "id": 120189094, "level": 2}
+{"count": 23902, "name": "Absorption (electromagnetic radiation)", "weight": 0.0, "id": 60787371, "level": 2}
+{"count": 57531, "name": "Refraction", "weight": 0.0, "id": 205318122, "level": 2}
+{"count": 20649, "name": "Irradiance", "weight": 0.0, "id": 46423501, "level": 2}
+{"count": 11894, "name": "Shot noise", "weight": 0.0, "id": 72659945, "level": 2}
+{"count": 31225, "name": "Masking (art)", "weight": 0.0, "id": 147548783, "level": 2}
+{"count": 13389, "name": "Internal wave", "weight": 0.0, "id": 146864707, "level": 2}
+{"count": 6260, "name": "Optical computing", "weight": 0.0, "id": 148204187, "level": 2}
+{"count": 70690, "name": "Microscope", "weight": 0.0, "id": 67649825, "level": 2}
+{"count": 12407, "name": "Optical transfer function", "weight": 0.0, "id": 175231954, "level": 2}
+{"count": 12098, "name": "Superresolution", "weight": 0.0, "id": 141239990, "level": 2}
+{"count": 6296, "name": "Densitometry", "weight": 0.0, "id": 136496925, "level": 2}
+{"count": 4177, "name": "Desensitization (telecommunications)", "weight": 0.0, "id": 100709749, "level": 2}
+{"count": 18797, "name": "Radiance", "weight": 0.0, "id": 23690007, "level": 2}
+{"count": 9068, "name": "Underwater acoustics", "weight": 0.0, "id": 67467970, "level": 2}
+{"count": 10514, "name": "Shear waves", "weight": 0.0, "id": 2779438780, "level": 2}
+{"count": 16550, "name": "Nanophotonics", "weight": 0.0, "id": 27289702, "level": 2}
+{"count": 10137, "name": "Transmission coefficient", "weight": 0.0, "id": 55310301, "level": 2}
+{"count": 15710, "name": "3D reconstruction", "weight": 0.0, "id": 109950114, "level": 2}
+{"count": 6222, "name": "Photosensitivity", "weight": 0.0, "id": 186807665, "level": 2}
+{"count": 15440, "name": "Phase shift module", "weight": 0.0, "id": 103864889, "level": 2}
+{"count": 23247, "name": "Reactive-ion etching", "weight": 0.0, "id": 130472188, "level": 2}
+{"count": 18140, "name": "Laser Doppler velocimetry", "weight": 0.0, "id": 52305850, "level": 2}
+{"count": 14081, "name": "Dark current", "weight": 0.0, "id": 180651308, "level": 2}
+{"count": 10015, "name": "Microparticle", "weight": 0.0, "id": 2777521759, "level": 2}
+{"count": 13841, "name": "Cutoff frequency", "weight": 0.0, "id": 6142545, "level": 2}
+{"count": 11820, "name": "Kerr effect", "weight": 0.0, "id": 176672485, "level": 2}
+{"count": 18122, "name": "Specular reflection", "weight": 0.0, "id": 118381688, "level": 2}
+{"count": 42976, "name": "Azimuth", "weight": 0.0, "id": 159737794, "level": 2}
+{"count": 23388, "name": "Angle of incidence", "weight": 0.0, "id": 113551521, "level": 2}
+{"count": 4560, "name": "Evanescent wave", "weight": 0.0, "id": 89953854, "level": 2}
+{"count": 11485, "name": "Motion detection", "weight": 0.0, "id": 2780624872, "level": 2}
+{"count": 28008, "name": "Reflection (physics)", "weight": 0.0, "id": 8903418, "level": 2}
+{"count": 8898, "name": "Scattering parameters", "weight": 0.0, "id": 195266298, "level": 2}
+{"count": 11780, "name": "Computational electromagnetics", "weight": 0.0, "id": 206844423, "level": 2}
+{"count": 17617, "name": "Pupil", "weight": 0.0, "id": 2777394604, "level": 2}
+{"count": 68250, "name": "Resist", "weight": 0.0, "id": 53524968, "level": 2}
+{"count": 6327, "name": "Bloom", "weight": 0.0, "id": 155567681, "level": 2}
+{"count": 11533, "name": "Cathodoluminescence", "weight": 0.0, "id": 139861200, "level": 2}
+{"count": 8540, "name": "X-ray astronomy", "weight": 0.0, "id": 55504214, "level": 2}
+{"count": 22037, "name": "Accommodation", "weight": 0.0, "id": 157660682, "level": 2}
+{"count": 5720, "name": "Spectral sensitivity", "weight": 0.0, "id": 60548495, "level": 2}
+{"count": 14925, "name": "Angular resolution", "weight": 0.0, "id": 13303506, "level": 2}
+{"count": 11046, "name": "3D optical data storage", "weight": 0.0, "id": 128717455, "level": 2}
+{"count": 16915, "name": "Speed of sound", "weight": 0.0, "id": 200351514, "level": 2}
+{"count": 24681, "name": "Sunlight", "weight": 0.0, "id": 170853661, "level": 2}
+{"count": 26321, "name": "Sound pressure", "weight": 0.0, "id": 68115822, "level": 2}
+{"count": 47184, "name": "Luminance", "weight": 0.0, "id": 73313986, "level": 2}
+{"count": 13191, "name": "Fluorescein", "weight": 0.0, "id": 2778015030, "level": 2}
+{"count": 21022, "name": "Intraocular lens", "weight": 0.0, "id": 2779567214, "level": 2}
+{"count": 20822, "name": "Digital camera", "weight": 0.0, "id": 2779705975, "level": 2}
+{"count": 19850, "name": "Chirp", "weight": 0.0, "id": 132794960, "level": 2}
+{"count": 12463, "name": "Radius of curvature", "weight": 0.0, "id": 182574964, "level": 2}
+{"count": 12614, "name": "Ytterbium", "weight": 0.0, "id": 545659032, "level": 2}
+{"count": 6234, "name": "Optical interconnect", "weight": 0.0, "id": 2777759342, "level": 2}
+{"count": 48915, "name": "Cladding (metalworking)", "weight": 0.0, "id": 36456112, "level": 2}
+{"count": 2936, "name": "Atmospheric optics", "weight": 0.0, "id": 54308172, "level": 2}

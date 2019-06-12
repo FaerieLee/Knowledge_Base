@@ -1,0 +1,9 @@
+{"count": 668, "name": "Reversible cellular automaton", "weight": 10.0, "id": 181266644, "level": 5}
+{"count": 514, "name": "Elementary cellular automaton", "weight": 7.0, "id": 193261270, "level": 5}
+{"count": 21, "name": "Permutation automaton", "weight": 0.0, "id": 2779107351, "level": 5}
+{"count": 65, "name": "Rule 110", "weight": 0.0, "id": 2777938813, "level": 5}
+{"count": 159, "name": "Rule 184", "weight": 2.0, "id": 175918799, "level": 5}
+{"count": 112, "name": "Levenshtein automaton", "weight": 1.0, "id": 82508861, "level": 5}
+{"count": 22, "name": "Wolfram code", "weight": 0.0, "id": 116030385, "level": 5}
+{"count": 299, "name": "Nested stack automaton", "weight": 4.0, "id": 204989122, "level": 5}
+{"count": 103, "name": "Life-like cellular automaton", "weight": 1.0, "id": 71766064, "level": 5}

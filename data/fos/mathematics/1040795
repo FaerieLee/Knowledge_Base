@@ -1,0 +1,4 @@
+{"count": 9653, "name": "Damping torque", "weight": 9.0, "id": 40226289, "level": 4}
+{"count": 9936, "name": "Stall torque", "weight": 10.0, "id": 17348537, "level": 4}
+{"count": 90, "name": "Torque amplifier", "weight": 0.0, "id": 2779473476, "level": 4}
+{"count": 84, "name": "Torque multiplier", "weight": 0.0, "id": 2779951848, "level": 4}

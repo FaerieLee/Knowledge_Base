@@ -1,0 +1,5 @@
+{"count": 1101, "name": "Radio Link Control", "weight": 10.0, "id": 2779224105, "level": 4}
+{"count": 362, "name": "Service data unit", "weight": 3.0, "id": 2777266690, "level": 4}
+{"count": 86, "name": "MAC service data unit", "weight": 0.0, "id": 2781463920, "level": 4}
+{"count": 10, "name": "Evolved High Speed Packet Access", "weight": 0.0, "id": 2779797808, "level": 4}
+{"count": 86, "name": "Channel service unit", "weight": 0.0, "id": 37417, "level": 4}

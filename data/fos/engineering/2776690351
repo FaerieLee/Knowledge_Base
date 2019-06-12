@@ -1,0 +1,6 @@
+{"count": 449, "name": "DeviceNet", "weight": 3.0, "id": 2777136888, "level": 4}
+{"count": 132, "name": "ControlNet", "weight": 1.0, "id": 2776368559, "level": 4}
+{"count": 1285, "name": "FOUNDATION fieldbus", "weight": 10.0, "id": 160814673, "level": 4}
+{"count": 363, "name": "Highway Addressable Remote Transducer Protocol", "weight": 2.0, "id": 9312422, "level": 4}
+{"count": 170, "name": "INTERBUS", "weight": 1.0, "id": 2776320618, "level": 4}
+{"count": 28, "name": "Factory Instrumentation Protocol", "weight": 0.0, "id": 2780606641, "level": 4}

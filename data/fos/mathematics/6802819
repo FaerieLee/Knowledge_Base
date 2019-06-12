@@ -1,0 +1,16 @@
+{"count": 10179, "name": "LTI system theory", "weight": 10.0, "id": 87698059, "level": 3}
+{"count": 6783, "name": "Linear dynamical system", "weight": 6.0, "id": 114275822, "level": 3}
+{"count": 3867, "name": "Krylov subspace", "weight": 3.0, "id": 147060835, "level": 3}
+{"count": 945, "name": "Minimal realization", "weight": 0.0, "id": 205609532, "level": 3}
+{"count": 3582, "name": "Generalized minimal residual method", "weight": 3.0, "id": 155332342, "level": 3}
+{"count": 850, "name": "Positive systems", "weight": 0.0, "id": 2778299942, "level": 3}
+{"count": 269, "name": "Minimum energy control", "weight": 0.0, "id": 2779030784, "level": 3}
+{"count": 870, "name": "Time-invariant system", "weight": 0.0, "id": 35324005, "level": 3}
+{"count": 111, "name": "Shift-invariant system", "weight": 0.0, "id": 42943693, "level": 3}
+{"count": 61, "name": "Sherman\u2013Morrison formula", "weight": 0.0, "id": 192900372, "level": 3}
+{"count": 52, "name": "Good regulator", "weight": 0.0, "id": 173417643, "level": 3}
+{"count": 765, "name": "Controllability Gramian", "weight": 0.0, "id": 143461762, "level": 3}
+{"count": 164, "name": "Kalman decomposition", "weight": 0.0, "id": 61846101, "level": 3}
+{"count": 116, "name": "Proper transfer function", "weight": 0.0, "id": 198142155, "level": 3}
+{"count": 621, "name": "Realization (systems)", "weight": 0.0, "id": 68173885, "level": 3}
+{"count": 19, "name": "Rosenbrock system matrix", "weight": 0.0, "id": 2777413576, "level": 3}

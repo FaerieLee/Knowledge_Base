@@ -1,0 +1,5 @@
+{"count": 7902, "name": "Clock gating", "weight": 9.0, "id": 22716491, "level": 4}
+{"count": 1534, "name": "Digital clock", "weight": 1.0, "id": 2778426721, "level": 4}
+{"count": 2669, "name": "Master clock", "weight": 3.0, "id": 65595194, "level": 4}
+{"count": 8712, "name": "CPU multiplier", "weight": 10.0, "id": 125576049, "level": 4}
+{"count": 1487, "name": "Word clock", "weight": 1.0, "id": 127988545, "level": 4}

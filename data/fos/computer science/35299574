@@ -1,0 +1,3 @@
+{"count": 247, "name": "Pointer aliasing", "weight": 9.0, "id": 164777428, "level": 4}
+{"count": 252, "name": "Dangling pointer", "weight": 10.0, "id": 61419568, "level": 4}
+{"count": 21, "name": "Reference", "weight": 0.0, "id": 46954877, "level": 4}

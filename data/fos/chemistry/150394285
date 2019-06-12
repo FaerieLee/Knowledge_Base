@@ -1,0 +1,85 @@
+{"count": 80789, "name": "Sorption", "weight": 8.0, "id": 58445606, "level": 3}
+{"count": 13222, "name": "Sorption isotherm", "weight": 1.0, "id": 54936624, "level": 3}
+{"count": 65788, "name": "Activated carbon", "weight": 6.0, "id": 2779647737, "level": 3}
+{"count": 34247, "name": "Molecular sieve", "weight": 3.0, "id": 105281773, "level": 3}
+{"count": 96554, "name": "Desorption", "weight": 10.0, "id": 162711632, "level": 3}
+{"count": 27888, "name": "Chemisorption", "weight": 2.0, "id": 33790079, "level": 3}
+{"count": 46985, "name": "Specific surface area", "weight": 4.0, "id": 150581940, "level": 3}
+{"count": 15398, "name": "Surface diffusion", "weight": 1.0, "id": 15696416, "level": 3}
+{"count": 24504, "name": "Langmuir adsorption model", "weight": 2.0, "id": 12143843, "level": 3}
+{"count": 10664, "name": "Biosorption", "weight": 1.0, "id": 2776812703, "level": 3}
+{"count": 61194, "name": "Mesoporous material", "weight": 6.0, "id": 82776694, "level": 3}
+{"count": 10522, "name": "Protein adsorption", "weight": 1.0, "id": 88001094, "level": 3}
+{"count": 29287, "name": "Freundlich equation", "weight": 3.0, "id": 112825004, "level": 3}
+{"count": 13002, "name": "Quartz crystal microbalance", "weight": 1.0, "id": 9996572, "level": 3}
+{"count": 20781, "name": "Metal-organic framework", "weight": 2.0, "id": 179366358, "level": 3}
+{"count": 2686, "name": "Breakthrough curve", "weight": 0.0, "id": 2779525144, "level": 3}
+{"count": 23416, "name": "Sorbent", "weight": 2.0, "id": 2777899863, "level": 3}
+{"count": 5356, "name": "Congo red", "weight": 0.0, "id": 2779155187, "level": 3}
+{"count": 4819, "name": "Malachite green", "weight": 0.0, "id": 2780704308, "level": 3}
+{"count": 2306, "name": "High resolution electron energy loss spectroscopy", "weight": 0.0, "id": 2779070497, "level": 3}
+{"count": 2271, "name": "Acid dye", "weight": 0.0, "id": 2778389360, "level": 3}
+{"count": 3412, "name": "Point of zero charge", "weight": 0.0, "id": 167080520, "level": 3}
+{"count": 3424, "name": "Ferrihydrite", "weight": 0.0, "id": 2780191927, "level": 3}
+{"count": 5104, "name": "Pressure swing adsorption", "weight": 0.0, "id": 201416721, "level": 3}
+{"count": 2296, "name": "Inverse gas chromatography", "weight": 0.0, "id": 6834376, "level": 3}
+{"count": 4407, "name": "Selective adsorption", "weight": 0.0, "id": 2777895876, "level": 3}
+{"count": 1945, "name": "Activated alumina", "weight": 0.0, "id": 34778079, "level": 3}
+{"count": 2290, "name": "Simulated moving bed", "weight": 0.0, "id": 2778088075, "level": 3}
+{"count": 1016, "name": "Surface forces apparatus", "weight": 0.0, "id": 9624258, "level": 3}
+{"count": 32990, "name": "Langmuir", "weight": 3.0, "id": 115958267, "level": 3}
+{"count": 2452, "name": "Capillary condensation", "weight": 0.0, "id": 84351421, "level": 3}
+{"count": 4105, "name": "Amberlite", "weight": 0.0, "id": 2778699723, "level": 3}
+{"count": 368, "name": "Random sequential adsorption", "weight": 0.0, "id": 2780157890, "level": 3}
+{"count": 11160, "name": "BET theory", "weight": 1.0, "id": 27923307, "level": 3}
+{"count": 1614, "name": "Double-layer capacitance", "weight": 0.0, "id": 2778026820, "level": 3}
+{"count": 1138, "name": "Methyl violet", "weight": 0.0, "id": 2776600588, "level": 3}
+{"count": 1433, "name": "Capacitive deionization", "weight": 0.0, "id": 2780987889, "level": 3}
+{"count": 1981, "name": "Polymer adsorption", "weight": 0.0, "id": 17104167, "level": 3}
+{"count": 324, "name": "Electrocapillarity", "weight": 0.0, "id": 2777927689, "level": 3}
+{"count": 4957, "name": "Dropping mercury electrode", "weight": 0.0, "id": 136774802, "level": 3}
+{"count": 1028, "name": "Hydrogen spillover", "weight": 0.0, "id": 2778647224, "level": 3}
+{"count": 2675, "name": "Bamboo charcoal", "weight": 0.0, "id": 164443322, "level": 3}
+{"count": 390, "name": "Surface rheology", "weight": 0.0, "id": 2776316066, "level": 3}
+{"count": 676, "name": "Wilhelmy plate", "weight": 0.0, "id": 2779150030, "level": 3}
+{"count": 386, "name": "Bone char", "weight": 0.0, "id": 56132521, "level": 3}
+{"count": 511, "name": "Adsorption refrigeration", "weight": 0.0, "id": 2777028372, "level": 3}
+{"count": 636, "name": "Kelvin equation", "weight": 0.0, "id": 185498141, "level": 3}
+{"count": 558, "name": "Reactions on surfaces", "weight": 0.0, "id": 85800342, "level": 3}
+{"count": 3855, "name": "Gibbs isotherm", "weight": 0.0, "id": 55352822, "level": 3}
+{"count": 280, "name": "Temporal analysis of products", "weight": 0.0, "id": 2777113289, "level": 3}
+{"count": 430, "name": "Conjugated microporous polymer", "weight": 0.0, "id": 39336286, "level": 3}
+{"count": 434, "name": "Electrochemical regeneration", "weight": 0.0, "id": 2781450322, "level": 3}
+{"count": 662, "name": "Dimethyl methylphosphonate", "weight": 0.0, "id": 2776470967, "level": 3}
+{"count": 2158, "name": "Incipient wetness impregnation", "weight": 0.0, "id": 2780091686, "level": 3}
+{"count": 9653, "name": "Overlayer", "weight": 0.0, "id": 2775913835, "level": 3}
+{"count": 874, "name": "Gibbs\u2013Helmholtz equation", "weight": 0.0, "id": 147684465, "level": 3}
+{"count": 219, "name": "Potassium ethyl xanthate", "weight": 0.0, "id": 2778411109, "level": 3}
+{"count": 166, "name": "Stone\u2013Wales defect", "weight": 0.0, "id": 108684189, "level": 3}
+{"count": 463, "name": "Helium atom scattering", "weight": 0.0, "id": 2776684446, "level": 3}
+{"count": 202, "name": "Kinetic diameter", "weight": 0.0, "id": 2778251931, "level": 3}
+{"count": 99, "name": "Inner sphere complex", "weight": 0.0, "id": 2778146549, "level": 3}
+{"count": 551, "name": "Spontaneous process", "weight": 0.0, "id": 145919990, "level": 3}
+{"count": 1108, "name": "Self-ionization of water", "weight": 0.0, "id": 52266145, "level": 3}
+{"count": 834, "name": "Exothermic process", "weight": 0.0, "id": 149472803, "level": 3}
+{"count": 96, "name": "Polyhydroxyethylmethacrylate", "weight": 0.0, "id": 2780786308, "level": 3}
+{"count": 165, "name": "Colloidal probe technique", "weight": 0.0, "id": 2778159270, "level": 3}
+{"count": 79, "name": "Rehbinder effect", "weight": 0.0, "id": 2779538594, "level": 3}
+{"count": 30, "name": "Potential Determining Ion", "weight": 0.0, "id": 2777024943, "level": 3}
+{"count": 34, "name": "Chalcogel", "weight": 0.0, "id": 2781021212, "level": 3}
+{"count": 239, "name": "Dixanthogen", "weight": 0.0, "id": 2777760869, "level": 3}
+{"count": 17, "name": "Bancroft rule", "weight": 0.0, "id": 2778335503, "level": 3}
+{"count": 48, "name": "Bismarck brown Y", "weight": 0.0, "id": 2780923601, "level": 3}
+{"count": 49, "name": "Synthetic magnesium silicate", "weight": 0.0, "id": 2776024356, "level": 3}
+{"count": 78, "name": "Lattice density functional theory", "weight": 0.0, "id": 2780477150, "level": 3}
+{"count": 760, "name": "Absorption (chemistry)", "weight": 0.0, "id": 71792504, "level": 3}
+{"count": 22, "name": "Cyclosorus interruptus", "weight": 0.0, "id": 2779776817, "level": 3}
+{"count": 25, "name": "Edwards equation", "weight": 0.0, "id": 2777356884, "level": 3}
+{"count": 247, "name": "Zeta potential titration", "weight": 0.0, "id": 113616178, "level": 3}
+{"count": 18, "name": "Naphthol Red", "weight": 0.0, "id": 2778696090, "level": 3}
+{"count": 24, "name": "1,2-Benzenedithiol", "weight": 0.0, "id": 2781267652, "level": 3}
+{"count": 28, "name": "Yellow 2G", "weight": 0.0, "id": 2776041727, "level": 3}
+{"count": 44, "name": "Akadama", "weight": 0.0, "id": 2775919224, "level": 3}
+{"count": 11, "name": "Iron oxide adsorption", "weight": 0.0, "id": 2776914107, "level": 3}
+{"count": 376, "name": "DNA separation by silica adsorption", "weight": 0.0, "id": 17421560, "level": 3}
+{"count": 14, "name": "Olympicene", "weight": 0.0, "id": 2778438040, "level": 3}

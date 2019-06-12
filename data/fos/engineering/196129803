@@ -1,0 +1,4 @@
+{"count": 7870, "name": "Optical Transport Network", "weight": 10.0, "id": 70979049, "level": 3}
+{"count": 6683, "name": "Optical add-drop multiplexer", "weight": 8.0, "id": 49113467, "level": 3}
+{"count": 3506, "name": "Optical line termination", "weight": 4.0, "id": 33346488, "level": 3}
+{"count": 511, "name": "Optical power budget", "weight": 0.0, "id": 82606012, "level": 3}

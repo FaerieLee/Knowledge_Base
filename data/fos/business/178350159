@@ -1,0 +1,10 @@
+{"count": 4603, "name": "Credit default swap", "weight": 9.0, "id": 30589699, "level": 3}
+{"count": 1747, "name": "Probability of default", "weight": 3.0, "id": 2779806880, "level": 3}
+{"count": 2835, "name": "Credit derivative", "weight": 6.0, "id": 44309892, "level": 3}
+{"count": 1091, "name": "Sovereign default", "weight": 2.0, "id": 2778782394, "level": 3}
+{"count": 928, "name": "Loss given default", "weight": 1.0, "id": 133930124, "level": 3}
+{"count": 4695, "name": "Credit valuation adjustment", "weight": 10.0, "id": 89997419, "level": 3}
+{"count": 308, "name": "Sovereign credit risk", "weight": 0.0, "id": 2779517524, "level": 3}
+{"count": 251, "name": "Reduced form", "weight": 0.0, "id": 77610667, "level": 3}
+{"count": 1373, "name": "Counterparty", "weight": 2.0, "id": 2779312582, "level": 3}
+{"count": 3918, "name": "Credit default swap index", "weight": 8.0, "id": 90992651, "level": 3}

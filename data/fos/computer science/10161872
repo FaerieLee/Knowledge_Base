@@ -1,0 +1,9 @@
+{"count": 14611, "name": "Motion vector", "weight": 10.0, "id": 2779020251, "level": 3}
+{"count": 7388, "name": "Structure from motion", "weight": 5.0, "id": 146159030, "level": 3}
+{"count": 11415, "name": "Block-matching algorithm", "weight": 7.0, "id": 167510206, "level": 3}
+{"count": 7951, "name": "Motion field", "weight": 5.0, "id": 124774092, "level": 3}
+{"count": 5742, "name": "Inter frame", "weight": 3.0, "id": 39394851, "level": 3}
+{"count": 33, "name": "Essential manifold", "weight": 0.0, "id": 2779558417, "level": 3}
+{"count": 240, "name": "High-motion", "weight": 0.0, "id": 2776253711, "level": 3}
+{"count": 25, "name": "Television standards conversion", "weight": 0.0, "id": 2776602698, "level": 3}
+{"count": 10257, "name": "Quarter-pixel motion", "weight": 7.0, "id": 174493125, "level": 3}

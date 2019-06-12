@@ -1,0 +1,4 @@
+{"count": 591, "name": "Pearson distribution", "weight": 10.0, "id": 27059816, "level": 3}
+{"count": 67, "name": "Kurtosis risk", "weight": 1.0, "id": 96274950, "level": 3}
+{"count": 375, "name": "Nonparametric skew", "weight": 6.0, "id": 158944566, "level": 3}
+{"count": 425, "name": "D'Agostino's K-squared test", "weight": 7.0, "id": 187623527, "level": 3}

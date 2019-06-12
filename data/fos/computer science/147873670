@@ -1,0 +1,6 @@
+{"count": 1528, "name": "NAT traversal", "weight": 9.0, "id": 113707754, "level": 3}
+{"count": 88, "name": "Application-level gateway", "weight": 0.0, "id": 2779336508, "level": 3}
+{"count": 1223, "name": "NAT Port Mapping Protocol", "weight": 7.0, "id": 112879614, "level": 3}
+{"count": 247, "name": "Address pool", "weight": 1.0, "id": 2780541401, "level": 3}
+{"count": 200, "name": "Virtual IP address", "weight": 1.0, "id": 2777928263, "level": 3}
+{"count": 1666, "name": "Bogon filtering", "weight": 10.0, "id": 4837202, "level": 3}

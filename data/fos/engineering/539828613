@@ -1,0 +1,28 @@
+{"count": 10569, "name": "Mode choice", "weight": 10.0, "id": 2776017872, "level": 3}
+{"count": 2584, "name": "Journey to work", "weight": 2.0, "id": 2780286027, "level": 3}
+{"count": 2180, "name": "Bus priority", "weight": 2.0, "id": 2780142462, "level": 3}
+{"count": 3140, "name": "Bus rapid transit", "weight": 2.0, "id": 2779697334, "level": 3}
+{"count": 1933, "name": "Transit-oriented development", "weight": 1.0, "id": 2778399496, "level": 3}
+{"count": 1857, "name": "Private transport", "weight": 1.0, "id": 2781075386, "level": 3}
+{"count": 1623, "name": "Park and ride", "weight": 1.0, "id": 2779299747, "level": 3}
+{"count": 1796, "name": "Mode of transport", "weight": 1.0, "id": 2779567914, "level": 3}
+{"count": 1297, "name": "Personal rapid transit", "weight": 1.0, "id": 105843165, "level": 3}
+{"count": 3243, "name": "Car ownership", "weight": 3.0, "id": 2781360296, "level": 3}
+{"count": 1580, "name": "Passenger information", "weight": 1.0, "id": 2778492718, "level": 3}
+{"count": 1738, "name": "Paratransit", "weight": 1.0, "id": 2777853934, "level": 3}
+{"count": 900, "name": "Bus lane", "weight": 0.0, "id": 2779341389, "level": 3}
+{"count": 155, "name": "Automobile dependency", "weight": 0.0, "id": 2776150259, "level": 3}
+{"count": 424, "name": "Season ticket", "weight": 0.0, "id": 2776592054, "level": 3}
+{"count": 159, "name": "Fare evasion", "weight": 0.0, "id": 2777400322, "level": 3}
+{"count": 413, "name": "Passenger information system", "weight": 0.0, "id": 2777405374, "level": 3}
+{"count": 163, "name": "Bus bunching", "weight": 0.0, "id": 2777027215, "level": 3}
+{"count": 150, "name": "Dual-mode vehicle", "weight": 0.0, "id": 2777718606, "level": 3}
+{"count": 186, "name": "Guided bus", "weight": 0.0, "id": 2780706137, "level": 3}
+{"count": 27, "name": "Mohring effect", "weight": 0.0, "id": 2779663813, "level": 3}
+{"count": 196, "name": "Generalised cost", "weight": 0.0, "id": 2779998766, "level": 3}
+{"count": 29, "name": "Downs\u2013Thomson paradox", "weight": 0.0, "id": 2780651862, "level": 3}
+{"count": 99, "name": "General Transit Feed Specification", "weight": 0.0, "id": 2780228639, "level": 3}
+{"count": 161, "name": "S-Bus", "weight": 0.0, "id": 2780301472, "level": 3}
+{"count": 78, "name": "MOST Bus", "weight": 0.0, "id": 2776705197, "level": 3}
+{"count": 15, "name": "Tram accident", "weight": 0.0, "id": 2777672125, "level": 3}
+{"count": 15, "name": "Remote infrared audible signage", "weight": 0.0, "id": 2781387851, "level": 3}

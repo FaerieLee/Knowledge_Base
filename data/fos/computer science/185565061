@@ -1,0 +1,24 @@
+{"count": 4108, "name": "Low probability of intercept radar", "weight": 4.0, "id": 147345108, "level": 5}
+{"count": 772, "name": "Multistatic radar", "weight": 0.0, "id": 2777585438, "level": 5}
+{"count": 7420, "name": "Fire-control radar", "weight": 8.0, "id": 84236424, "level": 5}
+{"count": 1125, "name": "Air traffic control radar beacon system", "weight": 1.0, "id": 143425610, "level": 5}
+{"count": 367, "name": "Electronic counter-countermeasures", "weight": 0.0, "id": 168905689, "level": 5}
+{"count": 877, "name": "Terminal Doppler Weather Radar", "weight": 1.0, "id": 180559567, "level": 5}
+{"count": 456, "name": "Procedural control", "weight": 0.0, "id": 113154577, "level": 5}
+{"count": 5339, "name": "3D radar", "weight": 6.0, "id": 81076408, "level": 5}
+{"count": 607, "name": "Radar warning receiver", "weight": 0.0, "id": 123263535, "level": 5}
+{"count": 2938, "name": "Low-frequency radar", "weight": 3.0, "id": 192314852, "level": 5}
+{"count": 177, "name": "Automatic radar plotting aid", "weight": 0.0, "id": 117353447, "level": 5}
+{"count": 128, "name": "Airport surveillance radar", "weight": 0.0, "id": 2778600920, "level": 5}
+{"count": 1175, "name": "Radar MASINT", "weight": 1.0, "id": 157511527, "level": 5}
+{"count": 46, "name": "Surface movement radar", "weight": 0.0, "id": 2779122953, "level": 5}
+{"count": 5640, "name": "Radar horizon", "weight": 6.0, "id": 131493965, "level": 5}
+{"count": 38, "name": "Phase-comparison monopulse", "weight": 0.0, "id": 2776844897, "level": 5}
+{"count": 112, "name": "Radar beacon", "weight": 0.0, "id": 2779843774, "level": 5}
+{"count": 8052, "name": "Radar configurations and types", "weight": 9.0, "id": 5249743, "level": 5}
+{"count": 8599, "name": "Man-portable radar", "weight": 10.0, "id": 161475128, "level": 5}
+{"count": 761, "name": "Semi-active radar homing", "weight": 0.0, "id": 131055897, "level": 5}
+{"count": 1226, "name": "Envelope (radar)", "weight": 1.0, "id": 65155139, "level": 5}
+{"count": 280, "name": "Semi-automatic command to line of sight", "weight": 0.0, "id": 20569546, "level": 5}
+{"count": 363, "name": "AN/APY-10", "weight": 0.0, "id": 9869773, "level": 5}
+{"count": 25, "name": "AN/ALQ-128", "weight": 0.0, "id": 194413377, "level": 5}

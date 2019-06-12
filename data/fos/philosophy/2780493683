@@ -1,0 +1,32 @@
+{"count": 13963, "name": "Sensorineural hearing loss", "weight": 10.0, "id": 2780607864, "level": 3}
+{"count": 10653, "name": "Audiometry", "weight": 7.0, "id": 2780554537, "level": 3}
+{"count": 3868, "name": "Otoacoustic emission", "weight": 2.0, "id": 2780941679, "level": 3}
+{"count": 5749, "name": "Auditory brainstem response", "weight": 4.0, "id": 43791021, "level": 3}
+{"count": 1760, "name": "Acoustic trauma", "weight": 1.0, "id": 2778006543, "level": 3}
+{"count": 2869, "name": "Noise-induced hearing loss", "weight": 2.0, "id": 2779356876, "level": 3}
+{"count": 4745, "name": "Pure tone", "weight": 3.0, "id": 2775976544, "level": 3}
+{"count": 1491, "name": "Presbycusis", "weight": 1.0, "id": 2779912225, "level": 3}
+{"count": 2416, "name": "Tympanometry", "weight": 1.0, "id": 2780283655, "level": 3}
+{"count": 2764, "name": "Conductive hearing loss", "weight": 1.0, "id": 2779260231, "level": 3}
+{"count": 1331, "name": "Auditory fatigue", "weight": 0.0, "id": 102793881, "level": 3}
+{"count": 923, "name": "Auditory neuropathy", "weight": 0.0, "id": 2777207601, "level": 3}
+{"count": 1621, "name": "Industrial noise", "weight": 1.0, "id": 32763512, "level": 3}
+{"count": 756, "name": "Hyperacusis", "weight": 0.0, "id": 2777939402, "level": 3}
+{"count": 4411, "name": "Audiogram", "weight": 3.0, "id": 17743292, "level": 3}
+{"count": 3476, "name": "Absolute threshold of hearing", "weight": 2.0, "id": 122247490, "level": 3}
+{"count": 343, "name": "Prelingual deafness", "weight": 0.0, "id": 2779529657, "level": 3}
+{"count": 455, "name": "Bone-anchored hearing aid", "weight": 0.0, "id": 2779025105, "level": 3}
+{"count": 816, "name": "Unilateral hearing loss", "weight": 0.0, "id": 2780386320, "level": 3}
+{"count": 736, "name": "Congenital hearing loss", "weight": 0.0, "id": 2781371907, "level": 3}
+{"count": 1556, "name": "Hearing level", "weight": 1.0, "id": 2777190179, "level": 3}
+{"count": 322, "name": "Auditory neuropathy spectrum disorder", "weight": 0.0, "id": 2776155558, "level": 3}
+{"count": 493, "name": "Aural rehabilitation", "weight": 0.0, "id": 2777944355, "level": 3}
+{"count": 354, "name": "Occupational hearing loss", "weight": 0.0, "id": 2781164595, "level": 3}
+{"count": 993, "name": "Hearing test", "weight": 0.0, "id": 2779647382, "level": 3}
+{"count": 104, "name": "Auditory-verbal therapy", "weight": 0.0, "id": 2779243875, "level": 3}
+{"count": 152, "name": "Mondini dysplasia", "weight": 0.0, "id": 2777624890, "level": 3}
+{"count": 311, "name": "Loud music", "weight": 0.0, "id": 127028365, "level": 3}
+{"count": 414, "name": "Hearing conservation program", "weight": 0.0, "id": 2781301813, "level": 3}
+{"count": 42, "name": "Language deprivation", "weight": 0.0, "id": 2780384159, "level": 3}
+{"count": 22, "name": "Otodental syndrome", "weight": 0.0, "id": 2776304521, "level": 3}
+{"count": 49, "name": "Assistive listening device", "weight": 0.0, "id": 2780537764, "level": 3}

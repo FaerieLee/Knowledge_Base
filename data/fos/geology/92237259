@@ -1,0 +1,6 @@
+{"count": 802, "name": "NEXRAD", "weight": 10.0, "id": 2780185475, "level": 4}
+{"count": 272, "name": "Bounded weak echo region", "weight": 3.0, "id": 166909865, "level": 4}
+{"count": 242, "name": "Hook echo", "weight": 3.0, "id": 103302344, "level": 4}
+{"count": 134, "name": "Vertically integrated liquid", "weight": 1.0, "id": 2778412712, "level": 4}
+{"count": 131, "name": "Hail spike", "weight": 1.0, "id": 22149885, "level": 4}
+{"count": 32, "name": "Constant altitude plan position indicator", "weight": 0.0, "id": 2777108090, "level": 4}

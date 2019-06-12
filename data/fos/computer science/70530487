@@ -1,0 +1,17 @@
+{"count": 336, "name": "Encrypted key exchange", "weight": 1.0, "id": 35923115, "level": 5}
+{"count": 847, "name": "Password cracking", "weight": 3.0, "id": 3847113, "level": 5}
+{"count": 609, "name": "Rainbow table", "weight": 2.0, "id": 48376961, "level": 5}
+{"count": 65, "name": "Password-authenticated key agreement", "weight": 0.0, "id": 2778801383, "level": 5}
+{"count": 361, "name": "Passphrase", "weight": 1.0, "id": 53374420, "level": 5}
+{"count": 98, "name": "PBKDF2", "weight": 0.0, "id": 114535881, "level": 5}
+{"count": 32, "name": "Password synchronization", "weight": 0.0, "id": 2778353334, "level": 5}
+{"count": 30, "name": "Default password", "weight": 0.0, "id": 2779617201, "level": 5}
+{"count": 391, "name": "Key stretching", "weight": 1.0, "id": 14980834, "level": 5}
+{"count": 1182, "name": "Salt (cryptography)", "weight": 5.0, "id": 96667901, "level": 5}
+{"count": 2181, "name": "Zero-knowledge password proof", "weight": 10.0, "id": 188615804, "level": 5}
+{"count": 343, "name": "HMAC-based One-time Password Algorithm", "weight": 1.0, "id": 145082925, "level": 5}
+{"count": 1073, "name": "Syskey", "weight": 4.0, "id": 140672380, "level": 5}
+{"count": 1796, "name": "Cognitive password", "weight": 8.0, "id": 23875713, "level": 5}
+{"count": 262, "name": "Microsoft Office password protection", "weight": 1.0, "id": 96736567, "level": 5}
+{"count": 7, "name": "Diceware", "weight": 0.0, "id": 143351968, "level": 5}
+{"count": 827, "name": "Password psychology", "weight": 3.0, "id": 108342627, "level": 5}

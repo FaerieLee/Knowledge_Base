@@ -1,0 +1,9 @@
+{"count": 88, "name": "Mersenne twister", "weight": 0.0, "id": 17339459, "level": 3}
+{"count": 175, "name": "Spectral test", "weight": 1.0, "id": 2777731390, "level": 3}
+{"count": 280, "name": "Randomness extractor", "weight": 2.0, "id": 148109522, "level": 3}
+{"count": 1070, "name": "Random seed", "weight": 10.0, "id": 26263659, "level": 3}
+{"count": 83, "name": "TestU01", "weight": 0.0, "id": 195079013, "level": 3}
+{"count": 74, "name": "Diehard tests", "weight": 0.0, "id": 31206226, "level": 3}
+{"count": 27, "name": "Xorshift", "weight": 0.0, "id": 2776034610, "level": 3}
+{"count": 20, "name": "Ziggurat algorithm", "weight": 0.0, "id": 10753446, "level": 3}
+{"count": 725, "name": "Lavarand", "weight": 6.0, "id": 96783440, "level": 3}

@@ -1,0 +1,41 @@
+{"count": 28310, "name": "Turbidity", "weight": 10.0, "id": 64016661, "level": 3}
+{"count": 11093, "name": "Nonpoint source pollution", "weight": 3.0, "id": 179006392, "level": 3}
+{"count": 11310, "name": "Fecal coliform", "weight": 3.0, "id": 124956284, "level": 3}
+{"count": 5572, "name": "Water Framework Directive", "weight": 1.0, "id": 2777610350, "level": 3}
+{"count": 14263, "name": "Total dissolved solids", "weight": 5.0, "id": 129360787, "level": 3}
+{"count": 3570, "name": "Clean Water Act", "weight": 1.0, "id": 2777875673, "level": 3}
+{"count": 969, "name": "Maximum Contaminant Level", "weight": 0.0, "id": 2776695260, "level": 3}
+{"count": 868, "name": "Index of biological integrity", "weight": 0.0, "id": 94042126, "level": 3}
+{"count": 1571, "name": "Sodium adsorption ratio", "weight": 0.0, "id": 2776332401, "level": 3}
+{"count": 2270, "name": "Total maximum daily load", "weight": 0.0, "id": 152232337, "level": 3}
+{"count": 777, "name": "Water quality modelling", "weight": 0.0, "id": 2776927374, "level": 3}
+{"count": 933, "name": "Safe Drinking Water Act", "weight": 0.0, "id": 2780998164, "level": 3}
+{"count": 2260, "name": "Nutrient pollution", "weight": 0.0, "id": 93419950, "level": 3}
+{"count": 1026, "name": "Biotic index", "weight": 0.0, "id": 56978610, "level": 3}
+{"count": 513, "name": "Assimilative capacity", "weight": 0.0, "id": 2777812597, "level": 3}
+{"count": 582, "name": "HSPF", "weight": 0.0, "id": 2775949774, "level": 3}
+{"count": 577, "name": "Destratification", "weight": 0.0, "id": 2779928684, "level": 3}
+{"count": 345, "name": "Source water protection", "weight": 0.0, "id": 2778722473, "level": 3}
+{"count": 135, "name": "Conservation Effects Assessment Project", "weight": 0.0, "id": 2780842215, "level": 3}
+{"count": 223, "name": "Water safety plan", "weight": 0.0, "id": 2776127334, "level": 3}
+{"count": 406, "name": "Permanganate index", "weight": 0.0, "id": 2781391618, "level": 3}
+{"count": 106, "name": "Phoslock", "weight": 0.0, "id": 2778424852, "level": 3}
+{"count": 103, "name": "Hypolimnetic aeration", "weight": 0.0, "id": 2779491705, "level": 3}
+{"count": 104, "name": "Lead and Copper Rule", "weight": 0.0, "id": 2776952799, "level": 3}
+{"count": 212, "name": "Drinking water directive", "weight": 0.0, "id": 2778553890, "level": 3}
+{"count": 110, "name": "Effluent limitation", "weight": 0.0, "id": 2777434392, "level": 3}
+{"count": 83, "name": "Water stagnation", "weight": 0.0, "id": 2777129128, "level": 3}
+{"count": 110, "name": "Passive treatment system", "weight": 0.0, "id": 2780440630, "level": 3}
+{"count": 287, "name": "Drinking water quality standards", "weight": 0.0, "id": 2779678948, "level": 3}
+{"count": 259, "name": "Water remote sensing", "weight": 0.0, "id": 42938798, "level": 3}
+{"count": 73, "name": "Abandoned mine drainage", "weight": 0.0, "id": 2779329898, "level": 3}
+{"count": 136, "name": "Biosurvey", "weight": 0.0, "id": 39077098, "level": 3}
+{"count": 232, "name": "Effluent guidelines", "weight": 0.0, "id": 150513403, "level": 3}
+{"count": 114, "name": "Carbonate hardness", "weight": 0.0, "id": 2777076574, "level": 3}
+{"count": 33, "name": "Shock chlorination", "weight": 0.0, "id": 2776938594, "level": 3}
+{"count": 19, "name": "Clean Water State Revolving Fund", "weight": 0.0, "id": 2776488569, "level": 3}
+{"count": 206, "name": "Biological monitoring working party", "weight": 0.0, "id": 72015896, "level": 3}
+{"count": 19, "name": "Water quality law", "weight": 0.0, "id": 2777774481, "level": 3}
+{"count": 13, "name": "Joint Monitoring Programme for Water Supply and Sanitation", "weight": 0.0, "id": 2780181497, "level": 3}
+{"count": 25, "name": "Water pollution in India", "weight": 0.0, "id": 2778888322, "level": 3}
+{"count": 2048, "name": "United States regulation of point source water pollution", "weight": 0.0, "id": 98208228, "level": 3}

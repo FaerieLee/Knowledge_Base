@@ -1,0 +1,10 @@
+{"count": 2188, "name": "Data curation", "weight": 5.0, "id": 91632574, "level": 3}
+{"count": 2552, "name": "Data management plan", "weight": 6.0, "id": 158746014, "level": 3}
+{"count": 3054, "name": "Data administration", "weight": 7.0, "id": 115842085, "level": 3}
+{"count": 3884, "name": "Enterprise data management", "weight": 10.0, "id": 136227091, "level": 3}
+{"count": 1481, "name": "Data governance", "weight": 3.0, "id": 196879817, "level": 3}
+{"count": 1315, "name": "RDM", "weight": 3.0, "id": 114965421, "level": 3}
+{"count": 425, "name": "Master data management", "weight": 1.0, "id": 2778759178, "level": 3}
+{"count": 310, "name": "Clinical data management", "weight": 0.0, "id": 2778369149, "level": 3}
+{"count": 81, "name": "SeaDataNet", "weight": 0.0, "id": 2781277034, "level": 3}
+{"count": 15, "name": "Research data archiving", "weight": 0.0, "id": 2776961115, "level": 3}

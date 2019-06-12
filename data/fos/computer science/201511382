@@ -1,0 +1,15 @@
+{"count": 163, "name": "Fibonacci heap", "weight": 1.0, "id": 122287242, "level": 5}
+{"count": 492, "name": "Run queue", "weight": 5.0, "id": 6659447, "level": 5}
+{"count": 608, "name": "Double-ended queue", "weight": 7.0, "id": 204870696, "level": 5}
+{"count": 655, "name": "Double-ended priority queue", "weight": 7.0, "id": 158682826, "level": 5}
+{"count": 320, "name": "Binomial heap", "weight": 3.0, "id": 176950129, "level": 5}
+{"count": 830, "name": "Multilevel feedback queue", "weight": 10.0, "id": 196593186, "level": 5}
+{"count": 587, "name": "Weighted random early detection", "weight": 7.0, "id": 140518850, "level": 5}
+{"count": 67, "name": "Pairing heap", "weight": 0.0, "id": 92036238, "level": 5}
+{"count": 7, "name": "Soft heap", "weight": 0.0, "id": 2777936874, "level": 5}
+{"count": 132, "name": "Min-max heap", "weight": 1.0, "id": 174263509, "level": 5}
+{"count": 134, "name": "Skew heap", "weight": 1.0, "id": 21168305, "level": 5}
+{"count": 387, "name": "FSCAN", "weight": 4.0, "id": 68275999, "level": 5}
+{"count": 7, "name": "Brodal queue", "weight": 0.0, "id": 163562431, "level": 5}
+{"count": 27, "name": "Collection", "weight": 0.0, "id": 103252375, "level": 5}
+{"count": 215, "name": "d-ary heap", "weight": 2.0, "id": 167394581, "level": 5}

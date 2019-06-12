@@ -1,0 +1,5 @@
+{"count": 3892, "name": "Dynamic Bayesian network", "weight": 5.0, "id": 82142266, "level": 3}
+{"count": 104, "name": "Junction tree algorithm", "weight": 0.0, "id": 2776196174, "level": 3}
+{"count": 67, "name": "Credal network", "weight": 0.0, "id": 2776594863, "level": 3}
+{"count": 115, "name": "Polytree", "weight": 0.0, "id": 2777781044, "level": 3}
+{"count": 7435, "name": "Variable-order Bayesian network", "weight": 10.0, "id": 71983512, "level": 3}

@@ -1,0 +1,8 @@
+{"count": 93, "name": "3SUM", "weight": 0.0, "id": 89224517, "level": 5}
+{"count": 1343, "name": "Primary clustering", "weight": 10.0, "id": 115214862, "level": 5}
+{"count": 419, "name": "Quadratic probing", "weight": 3.0, "id": 166464001, "level": 5}
+{"count": 1038, "name": "Hash filter", "weight": 7.0, "id": 141228474, "level": 5}
+{"count": 366, "name": "HAT-trie", "weight": 2.0, "id": 184483927, "level": 5}
+{"count": 310, "name": "Hash array mapped trie", "weight": 2.0, "id": 85447302, "level": 5}
+{"count": 64, "name": "CityHash", "weight": 0.0, "id": 174356067, "level": 5}
+{"count": 403, "name": "Fowler\u2013Noll\u2013Vo hash function", "weight": 3.0, "id": 90096123, "level": 5}

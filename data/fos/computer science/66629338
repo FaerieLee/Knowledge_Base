@@ -1,0 +1,9 @@
+{"count": 858, "name": "Molecular graphics", "weight": 3.0, "id": 126766683, "level": 4}
+{"count": 1682, "name": "2D computer graphics", "weight": 6.0, "id": 75453227, "level": 4}
+{"count": 2710, "name": "Graphics pipeline", "weight": 10.0, "id": 173552908, "level": 4}
+{"count": 424, "name": "Image tracing", "weight": 1.0, "id": 173958260, "level": 4}
+{"count": 1669, "name": "Computer Graphics Metafile", "weight": 6.0, "id": 106965311, "level": 4}
+{"count": 1878, "name": "Computer graphics lighting", "weight": 6.0, "id": 96599893, "level": 4}
+{"count": 1406, "name": "Texture mapping unit", "weight": 5.0, "id": 5928212, "level": 4}
+{"count": 105, "name": "Computer representation of surfaces", "weight": 0.0, "id": 23746596, "level": 4}
+{"count": 1278, "name": "Graphics address remapping table", "weight": 4.0, "id": 81639979, "level": 4}

@@ -1,0 +1,34 @@
+{"count": 554945, "name": "Algorithm", "weight": 1.0, "id": 11413529, "level": 1}
+{"count": 547452, "name": "Database", "weight": 1.0, "id": 77088390, "level": 1}
+{"count": 3967455, "name": "Artificial intelligence", "weight": 10.0, "id": 154945302, "level": 1}
+{"count": 826153, "name": "Distributed computing", "weight": 2.0, "id": 120314980, "level": 1}
+{"count": 847435, "name": "Pattern recognition", "weight": 2.0, "id": 178980831, "level": 1}
+{"count": 1857646, "name": "Computer vision", "weight": 4.0, "id": 31972630, "level": 1}
+{"count": 997520, "name": "Data mining", "weight": 2.0, "id": 124101348, "level": 1}
+{"count": 350991, "name": "Information retrieval", "weight": 0.0, "id": 23123220, "level": 1}
+{"count": 1422093, "name": "Real-time computing", "weight": 3.0, "id": 79403827, "level": 1}
+{"count": 1655946, "name": "Computer network", "weight": 4.0, "id": 31258907, "level": 1}
+{"count": 1069184, "name": "Machine learning", "weight": 2.0, "id": 119857082, "level": 1}
+{"count": 164508, "name": "Programming language", "weight": 0.0, "id": 199360897, "level": 1}
+{"count": 2998403, "name": "Computer hardware", "weight": 7.0, "id": 9390403, "level": 1}
+{"count": 115861, "name": "Computer architecture", "weight": 0.0, "id": 118524514, "level": 1}
+{"count": 211271, "name": "Software engineering", "weight": 0.0, "id": 115903868, "level": 1}
+{"count": 298852, "name": "Operating system", "weight": 0.0, "id": 111919701, "level": 1}
+{"count": 675839, "name": "World Wide Web", "weight": 1.0, "id": 136764020, "level": 1}
+{"count": 358753, "name": "Parallel computing", "weight": 0.0, "id": 173608175, "level": 1}
+{"count": 650385, "name": "Computer security", "weight": 1.0, "id": 38652104, "level": 1}
+{"count": 541268, "name": "Speech recognition", "weight": 1.0, "id": 28490314, "level": 1}
+{"count": 736803, "name": "Telecommunications", "weight": 1.0, "id": 76155785, "level": 1}
+{"count": 1056615, "name": "Embedded system", "weight": 2.0, "id": 149635348, "level": 1}
+{"count": 1087947, "name": "Knowledge management", "weight": 2.0, "id": 56739046, "level": 1}
+{"count": 306722, "name": "Human\u2013computer interaction", "weight": 0.0, "id": 107457646, "level": 1}
+{"count": 1085421, "name": "Multimedia", "weight": 2.0, "id": 49774154, "level": 1}
+{"count": 365069, "name": "Computer graphics (images)", "weight": 0.0, "id": 121684516, "level": 1}
+{"count": 424500, "name": "Natural language processing", "weight": 1.0, "id": 204321447, "level": 1}
+{"count": 92406, "name": "Computational science", "weight": 0.0, "id": 459310, "level": 1}
+{"count": 1046540, "name": "Library science", "weight": 2.0, "id": 161191863, "level": 1}
+{"count": 1089215, "name": "Simulation", "weight": 2.0, "id": 44154836, "level": 1}
+{"count": 242723, "name": "Computer engineering", "weight": 0.0, "id": 113775141, "level": 1}
+{"count": 679267, "name": "Theoretical computer science", "weight": 1.0, "id": 80444323, "level": 1}
+{"count": 361607, "name": "Data science", "weight": 0.0, "id": 2522767166, "level": 1}
+{"count": 308143, "name": "Internet privacy", "weight": 0.0, "id": 108827166, "level": 1}

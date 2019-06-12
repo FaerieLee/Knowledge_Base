@@ -1,0 +1,200 @@
+{"count": 18172, "name": "Sparse matrix", "weight": 7.0, "id": 56372850, "level": 3}
+{"count": 22974, "name": "Singular value decomposition", "weight": 10.0, "id": 22789450, "level": 3}
+{"count": 20168, "name": "Matrix decomposition", "weight": 8.0, "id": 42355184, "level": 3}
+{"count": 14033, "name": "Linear algebra", "weight": 6.0, "id": 139352143, "level": 3}
+{"count": 10461, "name": "Random matrix", "weight": 4.0, "id": 64812099, "level": 3}
+{"count": 13271, "name": "Symmetric matrix", "weight": 5.0, "id": 54848796, "level": 3}
+{"count": 22100, "name": "Linear matrix inequality", "weight": 9.0, "id": 201829737, "level": 3}
+{"count": 10224, "name": "Positive-definite matrix", "weight": 4.0, "id": 49712288, "level": 3}
+{"count": 10153, "name": "S-matrix", "weight": 4.0, "id": 161094330, "level": 3}
+{"count": 8019, "name": "Transfer matrix", "weight": 3.0, "id": 122890649, "level": 3}
+{"count": 8441, "name": "Singular value", "weight": 3.0, "id": 109282560, "level": 3}
+{"count": 10677, "name": "Matrix multiplication", "weight": 4.0, "id": 17349429, "level": 3}
+{"count": 7317, "name": "Matrix method", "weight": 3.0, "id": 86761442, "level": 3}
+{"count": 4439, "name": "Numerical linear algebra", "weight": 1.0, "id": 163834973, "level": 3}
+{"count": 7593, "name": "Stochastic matrix", "weight": 3.0, "id": 49555168, "level": 3}
+{"count": 6122, "name": "Condition number", "weight": 2.0, "id": 84545080, "level": 3}
+{"count": 11986, "name": "Hermitian matrix", "weight": 5.0, "id": 94940, "level": 3}
+{"count": 2024, "name": "Matrix calculus", "weight": 0.0, "id": 123282570, "level": 3}
+{"count": 3851, "name": "Generalized inverse", "weight": 1.0, "id": 76134657, "level": 3}
+{"count": 2187, "name": "Matrix similarity", "weight": 0.0, "id": 39739852, "level": 3}
+{"count": 6395, "name": "Eigendecomposition of a matrix", "weight": 2.0, "id": 169756996, "level": 3}
+{"count": 13177, "name": "Stiffness matrix", "weight": 5.0, "id": 14198674, "level": 3}
+{"count": 4344, "name": "Cholesky decomposition", "weight": 1.0, "id": 34727166, "level": 3}
+{"count": 2763, "name": "Matrix representation", "weight": 1.0, "id": 103275481, "level": 3}
+{"count": 5339, "name": "Characteristic polynomial", "weight": 2.0, "id": 42321380, "level": 3}
+{"count": 6411, "name": "Adjacency matrix", "weight": 2.0, "id": 180356752, "level": 3}
+{"count": 8897, "name": "Matrix analysis", "weight": 3.0, "id": 149488123, "level": 3}
+{"count": 6791, "name": "Estimation of covariance matrices", "weight": 2.0, "id": 180877172, "level": 3}
+{"count": 4074, "name": "QR decomposition", "weight": 1.0, "id": 188060507, "level": 3}
+{"count": 4029, "name": "Spectral radius", "weight": 1.0, "id": 140532419, "level": 3}
+{"count": 3894, "name": "Gaussian elimination", "weight": 1.0, "id": 126312332, "level": 3}
+{"count": 8329, "name": "Toeplitz matrix", "weight": 3.0, "id": 147710293, "level": 3}
+{"count": 4889, "name": "Matrix function", "weight": 2.0, "id": 4263655, "level": 3}
+{"count": 2722, "name": "Hamiltonian matrix", "weight": 1.0, "id": 135715101, "level": 3}
+{"count": 1290, "name": "R-matrix", "weight": 0.0, "id": 2778325938, "level": 3}
+{"count": 3867, "name": "Krylov subspace", "weight": 1.0, "id": 147060835, "level": 3}
+{"count": 2578, "name": "Hankel matrix", "weight": 1.0, "id": 25023664, "level": 3}
+{"count": 2633, "name": "Kronecker product", "weight": 1.0, "id": 46030957, "level": 3}
+{"count": 2709, "name": "Wishart distribution", "weight": 1.0, "id": 33962027, "level": 3}
+{"count": 2460, "name": "Linear complementarity problem", "weight": 1.0, "id": 34320192, "level": 3}
+{"count": 2926, "name": "Distance matrix", "weight": 1.0, "id": 111208986, "level": 3}
+{"count": 1353, "name": "Yang\u2013Baxter equation", "weight": 0.0, "id": 177858542, "level": 3}
+{"count": 4629, "name": "Circulant matrix", "weight": 2.0, "id": 115973184, "level": 3}
+{"count": 4244, "name": "Matrix norm", "weight": 1.0, "id": 92207270, "level": 3}
+{"count": 2613, "name": "Low-rank approximation", "weight": 1.0, "id": 90199385, "level": 3}
+{"count": 925, "name": "Matrix pencil", "weight": 0.0, "id": 1576492, "level": 3}
+{"count": 4233, "name": "Diagonal matrix", "weight": 1.0, "id": 113313756, "level": 3}
+{"count": 2655, "name": "Jacobi method", "weight": 1.0, "id": 67923128, "level": 3}
+{"count": 4127, "name": "Tridiagonal matrix", "weight": 1.0, "id": 51647924, "level": 3}
+{"count": 2544, "name": "Schur complement", "weight": 1.0, "id": 2731191, "level": 3}
+{"count": 3153, "name": "Moore\u2013Penrose pseudoinverse", "weight": 1.0, "id": 21556879, "level": 3}
+{"count": 1470, "name": "Matrix exponential", "weight": 0.0, "id": 195906000, "level": 3}
+{"count": 6894, "name": "Block matrix", "weight": 3.0, "id": 85817219, "level": 3}
+{"count": 2785, "name": "Incidence matrix", "weight": 1.0, "id": 85136909, "level": 3}
+{"count": 2404, "name": "Hadamard matrix", "weight": 1.0, "id": 30463267, "level": 3}
+{"count": 1903, "name": "Matrix completion", "weight": 0.0, "id": 2778459887, "level": 3}
+{"count": 4604, "name": "Nonnegative matrix", "weight": 2.0, "id": 139018669, "level": 3}
+{"count": 1149, "name": "Restricted isometry property", "weight": 0.0, "id": 17902559, "level": 3}
+{"count": 1684, "name": "Numerical range", "weight": 0.0, "id": 193060811, "level": 3}
+{"count": 1767, "name": "Hadamard product", "weight": 0.0, "id": 90230998, "level": 3}
+{"count": 928, "name": "Normal matrix", "weight": 0.0, "id": 175380299, "level": 3}
+{"count": 7503, "name": "Transformation matrix", "weight": 3.0, "id": 165443888, "level": 3}
+{"count": 3879, "name": "Mass matrix", "weight": 1.0, "id": 135585149, "level": 3}
+{"count": 5131, "name": "Square matrix", "weight": 2.0, "id": 69044650, "level": 3}
+{"count": 2380, "name": "Data Matrix", "weight": 1.0, "id": 2780985081, "level": 3}
+{"count": 948, "name": "Polar decomposition", "weight": 0.0, "id": 130956294, "level": 3}
+{"count": 1094, "name": "M-matrix", "weight": 0.0, "id": 61987429, "level": 3}
+{"count": 1692, "name": "Design structure matrix", "weight": 0.0, "id": 85308350, "level": 3}
+{"count": 3018, "name": "Rotation matrix", "weight": 1.0, "id": 83633838, "level": 3}
+{"count": 3582, "name": "Generalized minimal residual method", "weight": 1.0, "id": 155332342, "level": 3}
+{"count": 2284, "name": "Diagonalizable matrix", "weight": 0.0, "id": 30072841, "level": 3}
+{"count": 3672, "name": "Triangular matrix", "weight": 1.0, "id": 104528550, "level": 3}
+{"count": 2401, "name": "Unitary matrix", "weight": 1.0, "id": 96214315, "level": 3}
+{"count": 3110, "name": "Inverse iteration", "weight": 1.0, "id": 2505209, "level": 3}
+{"count": 7357, "name": "Preconditioner", "weight": 3.0, "id": 167431342, "level": 3}
+{"count": 1523, "name": "Vandermonde matrix", "weight": 0.0, "id": 55294529, "level": 3}
+{"count": 2468, "name": "Logical matrix", "weight": 1.0, "id": 163561899, "level": 3}
+{"count": 1925, "name": "Orthogonal matrix", "weight": 0.0, "id": 44292817, "level": 3}
+{"count": 883, "name": "Sylvester equation", "weight": 0.0, "id": 100468782, "level": 3}
+{"count": 1844, "name": "Permutation matrix", "weight": 0.0, "id": 84140500, "level": 3}
+{"count": 3065, "name": "Transpose", "weight": 1.0, "id": 200106649, "level": 3}
+{"count": 550, "name": "Sample matrix inversion", "weight": 0.0, "id": 62403268, "level": 3}
+{"count": 2884, "name": "Band matrix", "weight": 1.0, "id": 33343441, "level": 3}
+{"count": 720, "name": "Drazin inverse", "weight": 0.0, "id": 2777795832, "level": 3}
+{"count": 737, "name": "Gramian matrix", "weight": 0.0, "id": 77246614, "level": 3}
+{"count": 105, "name": "Zonal polynomial", "weight": 0.0, "id": 2779692549, "level": 3}
+{"count": 514, "name": "Stability radius", "weight": 0.0, "id": 2780069501, "level": 3}
+{"count": 402, "name": "Reflection formula", "weight": 0.0, "id": 15994720, "level": 3}
+{"count": 3400, "name": "Rank (linear algebra)", "weight": 1.0, "id": 1026927, "level": 3}
+{"count": 1100, "name": "Matrix group", "weight": 0.0, "id": 24276413, "level": 3}
+{"count": 646, "name": "Monodromy matrix", "weight": 0.0, "id": 2780311589, "level": 3}
+{"count": 343, "name": "Generalized Jacobian", "weight": 0.0, "id": 2780737113, "level": 3}
+{"count": 1592, "name": "Diagonally dominant matrix", "weight": 0.0, "id": 84507854, "level": 3}
+{"count": 12184, "name": "Invertible matrix", "weight": 5.0, "id": 96442724, "level": 3}
+{"count": 260, "name": "Pseudospectrum", "weight": 0.0, "id": 2776346200, "level": 3}
+{"count": 9490, "name": "Coefficient matrix", "weight": 4.0, "id": 60866291, "level": 3}
+{"count": 273, "name": "Smith normal form", "weight": 0.0, "id": 35441594, "level": 3}
+{"count": 3168, "name": "State-transition matrix", "weight": 1.0, "id": 22629506, "level": 3}
+{"count": 436, "name": "Substitution matrix", "weight": 0.0, "id": 71419964, "level": 3}
+{"count": 201, "name": "Perron\u2013Frobenius theorem", "weight": 0.0, "id": 2777521113, "level": 3}
+{"count": 376, "name": "Moment matrix", "weight": 0.0, "id": 2780630693, "level": 3}
+{"count": 2003, "name": "Generator matrix", "weight": 0.0, "id": 1842014, "level": 3}
+{"count": 1040, "name": "Main diagonal", "weight": 0.0, "id": 60761296, "level": 3}
+{"count": 768, "name": "Idempotent matrix", "weight": 0.0, "id": 33375987, "level": 3}
+{"count": 3222, "name": "Kronecker delta", "weight": 1.0, "id": 39482219, "level": 3}
+{"count": 126, "name": "Cayley\u2013Hamilton theorem", "weight": 0.0, "id": 2779061652, "level": 3}
+{"count": 1538, "name": "Identity matrix", "weight": 0.0, "id": 134567657, "level": 3}
+{"count": 2595, "name": "Unimodular matrix", "weight": 1.0, "id": 201958917, "level": 3}
+{"count": 1076, "name": "Flexibility method", "weight": 0.0, "id": 72249523, "level": 3}
+{"count": 839, "name": "Column vector", "weight": 0.0, "id": 21870002, "level": 3}
+{"count": 540, "name": "Elementary matrix", "weight": 0.0, "id": 96442811, "level": 3}
+{"count": 546, "name": "Transfer function matrix", "weight": 0.0, "id": 2777136036, "level": 3}
+{"count": 1384, "name": "Sylvester's law of inertia", "weight": 0.0, "id": 56828936, "level": 3}
+{"count": 470, "name": "Hessenberg matrix", "weight": 0.0, "id": 97769731, "level": 3}
+{"count": 874, "name": "Matrix ring", "weight": 0.0, "id": 56553554, "level": 3}
+{"count": 216, "name": "Cramer's rule", "weight": 0.0, "id": 134821808, "level": 3}
+{"count": 1118, "name": "Jordan matrix", "weight": 0.0, "id": 89890916, "level": 3}
+{"count": 98, "name": "Cross-covariance", "weight": 0.0, "id": 87253606, "level": 3}
+{"count": 2596, "name": "Matrix splitting", "weight": 1.0, "id": 133589720, "level": 3}
+{"count": 546, "name": "Trace (linear algebra)", "weight": 0.0, "id": 25830464, "level": 3}
+{"count": 270, "name": "P-matrix", "weight": 0.0, "id": 2780086464, "level": 3}
+{"count": 534, "name": "Pauli matrices", "weight": 0.0, "id": 180347388, "level": 3}
+{"count": 425, "name": "Outer product", "weight": 0.0, "id": 180623205, "level": 3}
+{"count": 280, "name": "Tucker decomposition", "weight": 0.0, "id": 42704193, "level": 3}
+{"count": 337, "name": "Q-matrix", "weight": 0.0, "id": 2777182126, "level": 3}
+{"count": 642, "name": "Nilpotent matrix", "weight": 0.0, "id": 27563320, "level": 3}
+{"count": 329, "name": "Adjugate matrix", "weight": 0.0, "id": 204532876, "level": 3}
+{"count": 582, "name": "Hurwitz matrix", "weight": 0.0, "id": 198931094, "level": 3}
+{"count": 131, "name": "Hierarchical matrix", "weight": 0.0, "id": 2777458939, "level": 3}
+{"count": 282, "name": "Matrix mechanics", "weight": 0.0, "id": 189660109, "level": 3}
+{"count": 2744, "name": "Eigenvalue perturbation", "weight": 1.0, "id": 46865736, "level": 3}
+{"count": 793, "name": "Sign function", "weight": 0.0, "id": 4250, "level": 3}
+{"count": 3093, "name": "Matrix difference equation", "weight": 1.0, "id": 47285271, "level": 3}
+{"count": 136, "name": "Community matrix", "weight": 0.0, "id": 88348033, "level": 3}
+{"count": 785, "name": "Sylvester matrix", "weight": 0.0, "id": 20160815, "level": 3}
+{"count": 703, "name": "Essential matrix", "weight": 0.0, "id": 49996920, "level": 3}
+{"count": 577, "name": "Rank condition", "weight": 0.0, "id": 2778095854, "level": 3}
+{"count": 1106, "name": "Generalized eigenvector", "weight": 0.0, "id": 147925508, "level": 3}
+{"count": 884, "name": "Eight-point algorithm", "weight": 0.0, "id": 56275529, "level": 3}
+{"count": 165, "name": "Interval vector", "weight": 0.0, "id": 2778590352, "level": 3}
+{"count": 189, "name": "Column space", "weight": 0.0, "id": 10688900, "level": 3}
+{"count": 554, "name": "Jones calculus", "weight": 0.0, "id": 31657872, "level": 3}
+{"count": 3940, "name": "Matrix differential equation", "weight": 1.0, "id": 105671362, "level": 3}
+{"count": 216, "name": "Row echelon form", "weight": 0.0, "id": 173210142, "level": 3}
+{"count": 113, "name": "Spectral abscissa", "weight": 0.0, "id": 2780606562, "level": 3}
+{"count": 682, "name": "Coordinate vector", "weight": 0.0, "id": 71509283, "level": 3}
+{"count": 291, "name": "Gershgorin circle theorem", "weight": 0.0, "id": 155542915, "level": 3}
+{"count": 90, "name": "Invariant factor", "weight": 0.0, "id": 2780128404, "level": 3}
+{"count": 317, "name": "Matrix coefficient", "weight": 0.0, "id": 173505992, "level": 3}
+{"count": 436, "name": "Diagonal form", "weight": 0.0, "id": 2780037008, "level": 3}
+{"count": 224, "name": "Trace identity", "weight": 0.0, "id": 2777196683, "level": 3}
+{"count": 106, "name": "Logarithmic norm", "weight": 0.0, "id": 2778753082, "level": 3}
+{"count": 111, "name": "Alternating sign matrix", "weight": 0.0, "id": 71556535, "level": 3}
+{"count": 55, "name": "Compound matrix", "weight": 0.0, "id": 2779918759, "level": 3}
+{"count": 439, "name": "Document-term matrix", "weight": 0.0, "id": 68841619, "level": 3}
+{"count": 459, "name": "Fuzzy sphere", "weight": 0.0, "id": 104682228, "level": 3}
+{"count": 191, "name": "Woodbury matrix identity", "weight": 0.0, "id": 82237967, "level": 3}
+{"count": 1144, "name": "Augmented matrix", "weight": 0.0, "id": 105129939, "level": 3}
+{"count": 61, "name": "Sherman\u2013Morrison formula", "weight": 0.0, "id": 192900372, "level": 3}
+{"count": 492, "name": "Zero matrix", "weight": 0.0, "id": 1432209, "level": 3}
+{"count": 85, "name": "Totally positive matrix", "weight": 0.0, "id": 2779582678, "level": 3}
+{"count": 555, "name": "Minor (linear algebra)", "weight": 0.0, "id": 121648289, "level": 3}
+{"count": 200, "name": "BLOSUM", "weight": 0.0, "id": 157732223, "level": 3}
+{"count": 83, "name": "Green's matrix", "weight": 0.0, "id": 2780990243, "level": 3}
+{"count": 218, "name": "Elementary divisors", "weight": 0.0, "id": 2779415804, "level": 3}
+{"count": 102, "name": "Aztec diamond", "weight": 0.0, "id": 2779832213, "level": 3}
+{"count": 402, "name": "Change of basis", "weight": 0.0, "id": 55185727, "level": 3}
+{"count": 262, "name": "Hamburger moment problem", "weight": 0.0, "id": 82448481, "level": 3}
+{"count": 100, "name": "Hyperdeterminant", "weight": 0.0, "id": 2779501479, "level": 3}
+{"count": 214, "name": "Polyphase matrix", "weight": 0.0, "id": 81962532, "level": 3}
+{"count": 197, "name": "Trace inequalities", "weight": 0.0, "id": 2780254976, "level": 3}
+{"count": 292, "name": "Exchange matrix", "weight": 0.0, "id": 2974864, "level": 3}
+{"count": 81, "name": "B\u00e9zout matrix", "weight": 0.0, "id": 59475485, "level": 3}
+{"count": 194, "name": "Higher-order factor analysis", "weight": 0.0, "id": 198667719, "level": 3}
+{"count": 66, "name": "Combinatorial data analysis", "weight": 0.0, "id": 2778465485, "level": 3}
+{"count": 178, "name": "Commuting matrices", "weight": 0.0, "id": 2779096471, "level": 3}
+{"count": 67, "name": "Frobenius matrix", "weight": 0.0, "id": 2776635205, "level": 3}
+{"count": 24, "name": "Arrowhead matrix", "weight": 0.0, "id": 2779931454, "level": 3}
+{"count": 169, "name": "Signature matrix", "weight": 0.0, "id": 2780733946, "level": 3}
+{"count": 374, "name": "Trix", "weight": 0.0, "id": 2780757539, "level": 3}
+{"count": 225, "name": "Row vector", "weight": 0.0, "id": 134281284, "level": 3}
+{"count": 76, "name": "Split-quaternion", "weight": 0.0, "id": 2779553486, "level": 3}
+{"count": 173, "name": "Wigner rotation", "weight": 0.0, "id": 2777898031, "level": 3}
+{"count": 51, "name": "Disjunct matrix", "weight": 0.0, "id": 2776883394, "level": 3}
+{"count": 67, "name": "Cochran's theorem", "weight": 0.0, "id": 63546030, "level": 3}
+{"count": 22, "name": "Dulmage\u2013Mendelsohn decomposition", "weight": 0.0, "id": 2778492195, "level": 3}
+{"count": 1674, "name": "Complex Hadamard matrix", "weight": 0.0, "id": 6497535, "level": 3}
+{"count": 193, "name": "Perron's formula", "weight": 0.0, "id": 131415978, "level": 3}
+{"count": 506, "name": "Hypercomplex analysis", "weight": 0.0, "id": 162618556, "level": 3}
+{"count": 40, "name": "Frobenius normal form", "weight": 0.0, "id": 2780304358, "level": 3}
+{"count": 378, "name": "Gell-Mann matrices", "weight": 0.0, "id": 98622093, "level": 3}
+{"count": 891, "name": "2 \u00d7 2 real matrices", "weight": 0.0, "id": 109575730, "level": 3}
+{"count": 63, "name": "Quasideterminant", "weight": 0.0, "id": 2780436240, "level": 3}
+{"count": 30, "name": "FK-space", "weight": 0.0, "id": 2779252812, "level": 3}
+{"count": 4967, "name": "Row and column spaces", "weight": 2.0, "id": 104140500, "level": 3}
+{"count": 27, "name": "Projective frame", "weight": 0.0, "id": 2780498705, "level": 3}
+{"count": 26, "name": "Self-similarity matrix", "weight": 0.0, "id": 2780359676, "level": 3}
+{"count": 88, "name": "Weighing matrix", "weight": 0.0, "id": 2778017474, "level": 3}
+{"count": 26, "name": "Schur test", "weight": 0.0, "id": 2778829648, "level": 3}
+{"count": 17, "name": "Sylvester's criterion", "weight": 0.0, "id": 2780608567, "level": 3}

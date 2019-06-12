@@ -1,0 +1,10 @@
+{"count": 2488, "name": "Shotgun sequencing", "weight": 5.0, "id": 101985253, "level": 4}
+{"count": 4289, "name": "Sanger sequencing", "weight": 10.0, "id": 76818968, "level": 4}
+{"count": 3256, "name": "Massive parallel sequencing", "weight": 7.0, "id": 192800701, "level": 4}
+{"count": 1107, "name": "DNA sequencer", "weight": 2.0, "id": 70712619, "level": 4}
+{"count": 2574, "name": "Illumina dye sequencing", "weight": 6.0, "id": 106337198, "level": 4}
+{"count": 831, "name": "Ion semiconductor sequencing", "weight": 1.0, "id": 164928082, "level": 4}
+{"count": 81, "name": "Sequence Read Archive", "weight": 0.0, "id": 21856720, "level": 4}
+{"count": 815, "name": "Nanopore sequencing", "weight": 1.0, "id": 126513998, "level": 4}
+{"count": 205, "name": "Base calling", "weight": 0.0, "id": 93664055, "level": 4}
+{"count": 401, "name": "FASTQ format", "weight": 0.0, "id": 30439317, "level": 4}

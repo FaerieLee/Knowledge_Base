@@ -1,0 +1,4 @@
+{"count": 501, "name": "Chebyshev distance", "weight": 9.0, "id": 68823483, "level": 5}
+{"count": 531, "name": "Metric k-center", "weight": 10.0, "id": 17387949, "level": 5}
+{"count": 534, "name": "Metric signature", "weight": 10.0, "id": 39514478, "level": 5}
+{"count": 291, "name": "BK tree", "weight": 5.0, "id": 171843572, "level": 5}

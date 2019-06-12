@@ -1,0 +1,7 @@
+{"count": 1147, "name": "Loop optimization", "weight": 10.0, "id": 29331672, "level": 4}
+{"count": 245, "name": "Partial redundancy elimination", "weight": 2.0, "id": 145272703, "level": 4}
+{"count": 645, "name": "Profile-guided optimization", "weight": 5.0, "id": 158527986, "level": 4}
+{"count": 51, "name": "Copy propagation", "weight": 0.0, "id": 194292328, "level": 4}
+{"count": 97, "name": "Constant folding", "weight": 0.0, "id": 58431001, "level": 4}
+{"count": 39, "name": "Reaching definition", "weight": 0.0, "id": 31972064, "level": 4}
+{"count": 29, "name": "MLton", "weight": 0.0, "id": 2776302601, "level": 4}

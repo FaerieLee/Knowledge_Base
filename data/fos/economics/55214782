@@ -1,0 +1,25 @@
+{"count": 8652, "name": "Tax rate", "weight": 4.0, "id": 2779755355, "level": 4}
+{"count": 1739, "name": "Tax incentive", "weight": 0.0, "id": 2777738643, "level": 4}
+{"count": 3164, "name": "Tax competition", "weight": 1.0, "id": 2776462828, "level": 4}
+{"count": 19071, "name": "Tax avoidance", "weight": 9.0, "id": 514942387, "level": 4}
+{"count": 2071, "name": "Consumption tax", "weight": 0.0, "id": 2776762034, "level": 4}
+{"count": 5187, "name": "Corporate tax", "weight": 2.0, "id": 2779836051, "level": 4}
+{"count": 923, "name": "Tax incidence", "weight": 0.0, "id": 2776181196, "level": 4}
+{"count": 1429, "name": "Capital gains tax", "weight": 0.0, "id": 2778631509, "level": 4}
+{"count": 20883, "name": "Direct tax", "weight": 10.0, "id": 193681711, "level": 4}
+{"count": 693, "name": "Flat tax", "weight": 0.0, "id": 2777802852, "level": 4}
+{"count": 3520, "name": "Deferred tax", "weight": 1.0, "id": 170802524, "level": 4}
+{"count": 651, "name": "Use tax", "weight": 0.0, "id": 2777255320, "level": 4}
+{"count": 787, "name": "Progressive tax", "weight": 0.0, "id": 2780846222, "level": 4}
+{"count": 356, "name": "Alternative minimum tax", "weight": 0.0, "id": 2779774685, "level": 4}
+{"count": 399, "name": "Transfer tax", "weight": 0.0, "id": 2779013012, "level": 4}
+{"count": 195, "name": "Proportional tax", "weight": 0.0, "id": 2776653640, "level": 4}
+{"count": 317, "name": "Financial transaction tax", "weight": 0.0, "id": 2780924533, "level": 4}
+{"count": 3065, "name": "Tax basis", "weight": 1.0, "id": 202253471, "level": 4}
+{"count": 122, "name": "Land value tax", "weight": 0.0, "id": 2776428489, "level": 4}
+{"count": 83, "name": "Securities Transaction Tax", "weight": 0.0, "id": 2779935661, "level": 4}
+{"count": 115, "name": "Tax uncertainty", "weight": 0.0, "id": 2778573839, "level": 4}
+{"count": 50, "name": "Currency transaction tax", "weight": 0.0, "id": 2779065923, "level": 4}
+{"count": 84, "name": "Tax consolidation", "weight": 0.0, "id": 2780824264, "level": 4}
+{"count": 46, "name": "Gross receipts tax", "weight": 0.0, "id": 2781138068, "level": 4}
+{"count": 24, "name": "Land and Buildings Transaction Tax", "weight": 0.0, "id": 2776820792, "level": 4}

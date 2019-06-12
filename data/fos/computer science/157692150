@@ -1,0 +1,6 @@
+{"count": 2063, "name": "Materialized view", "weight": 1.0, "id": 98199447, "level": 3}
+{"count": 13191, "name": "Web query classification", "weight": 10.0, "id": 118689300, "level": 3}
+{"count": 1017, "name": "Semantic query", "weight": 0.0, "id": 2778816267, "level": 3}
+{"count": 1025, "name": "Sort-merge join", "weight": 0.0, "id": 203570394, "level": 3}
+{"count": 22, "name": "Correlated subquery", "weight": 0.0, "id": 2780997903, "level": 3}
+{"count": 12522, "name": "Sargable", "weight": 9.0, "id": 192939062, "level": 3}

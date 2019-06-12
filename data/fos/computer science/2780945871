@@ -1,0 +1,6 @@
+{"count": 1120, "name": "Path protection", "weight": 5.0, "id": 2781040381, "level": 3}
+{"count": 126, "name": "RMAN", "weight": 0.0, "id": 2779331459, "level": 3}
+{"count": 758, "name": "Backup battery", "weight": 3.0, "id": 2779084766, "level": 3}
+{"count": 39, "name": "N+1 redundancy", "weight": 0.0, "id": 197233529, "level": 3}
+{"count": 2208, "name": "Backup software", "weight": 10.0, "id": 503016453, "level": 3}
+{"count": 67, "name": "Backup site", "weight": 0.0, "id": 2777915989, "level": 3}

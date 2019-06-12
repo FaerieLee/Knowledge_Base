@@ -1,0 +1,64 @@
+{"count": 2256, "name": "Coral bleaching", "weight": 8.0, "id": 103474955, "level": 3}
+{"count": 1793, "name": "Scleractinia", "weight": 6.0, "id": 2777299534, "level": 3}
+{"count": 2002, "name": "Zooxanthellae", "weight": 7.0, "id": 2777866282, "level": 3}
+{"count": 1812, "name": "Symbiodinium", "weight": 6.0, "id": 2776408758, "level": 3}
+{"count": 1812, "name": "Porites", "weight": 6.0, "id": 2780143158, "level": 3}
+{"count": 2700, "name": "Acropora", "weight": 10.0, "id": 2779590308, "level": 3}
+{"count": 470, "name": "Stylophora pistillata", "weight": 1.0, "id": 2780603171, "level": 3}
+{"count": 742, "name": "Pocillopora damicornis", "weight": 2.0, "id": 2780498771, "level": 3}
+{"count": 244, "name": "Black band disease", "weight": 0.0, "id": 2779737629, "level": 3}
+{"count": 1146, "name": "Hermatypic coral", "weight": 4.0, "id": 190157891, "level": 3}
+{"count": 240, "name": "Montastraea annularis", "weight": 0.0, "id": 2776406155, "level": 3}
+{"count": 302, "name": "Porites astreoides", "weight": 1.0, "id": 2778652414, "level": 3}
+{"count": 612, "name": "Holobiont", "weight": 2.0, "id": 2777289909, "level": 3}
+{"count": 232, "name": "Galaxea fascicularis", "weight": 0.0, "id": 2779678451, "level": 3}
+{"count": 133, "name": "Porites compressa", "weight": 0.0, "id": 2780898018, "level": 3}
+{"count": 221, "name": "Siderastrea siderea", "weight": 0.0, "id": 2779584478, "level": 3}
+{"count": 503, "name": "Lophelia", "weight": 1.0, "id": 2775880041, "level": 3}
+{"count": 629, "name": "Sinularia", "weight": 2.0, "id": 2776215684, "level": 3}
+{"count": 135, "name": "Diploria strigosa", "weight": 0.0, "id": 2776423792, "level": 3}
+{"count": 80, "name": "Sarcophyton glaucum", "weight": 0.0, "id": 2777166268, "level": 3}
+{"count": 244, "name": "Agaricia", "weight": 0.0, "id": 2779416031, "level": 3}
+{"count": 329, "name": "Montastraea", "weight": 1.0, "id": 2780776428, "level": 3}
+{"count": 77, "name": "Sinularia flexibilis", "weight": 0.0, "id": 2779028940, "level": 3}
+{"count": 53, "name": "Siderastrea radians", "weight": 0.0, "id": 2778347217, "level": 3}
+{"count": 193, "name": "Black coral", "weight": 0.0, "id": 2777837325, "level": 3}
+{"count": 70, "name": "Favia fragum", "weight": 0.0, "id": 2779242867, "level": 3}
+{"count": 59, "name": "Cladocora caespitosa", "weight": 0.0, "id": 2777627662, "level": 3}
+{"count": 151, "name": "Pocillopora verrucosa", "weight": 0.0, "id": 2776303903, "level": 3}
+{"count": 167, "name": "Deep-water coral", "weight": 0.0, "id": 2780853707, "level": 3}
+{"count": 68, "name": "Clavularia viridis", "weight": 0.0, "id": 2779735863, "level": 3}
+{"count": 185, "name": "Oculina", "weight": 0.0, "id": 2777518335, "level": 3}
+{"count": 278, "name": "Favia", "weight": 1.0, "id": 2781430392, "level": 3}
+{"count": 80, "name": "Precious coral", "weight": 0.0, "id": 2780663750, "level": 3}
+{"count": 15, "name": "Drupella cornus", "weight": 0.0, "id": 2780708237, "level": 3}
+{"count": 129, "name": "Dendronephthya", "weight": 0.0, "id": 2777951863, "level": 3}
+{"count": 24, "name": "Cliona delitrix", "weight": 0.0, "id": 2780042667, "level": 3}
+{"count": 41, "name": "Spirobranchus giganteus", "weight": 0.0, "id": 2777032481, "level": 3}
+{"count": 112, "name": "Cladiella", "weight": 0.0, "id": 2779110072, "level": 3}
+{"count": 188, "name": "Fungia", "weight": 0.0, "id": 2779025534, "level": 3}
+{"count": 35, "name": "Gorgonin", "weight": 0.0, "id": 2776403061, "level": 3}
+{"count": 58, "name": "Diploria", "weight": 0.0, "id": 2779991623, "level": 3}
+{"count": 56, "name": "Brain coral", "weight": 0.0, "id": 2780461029, "level": 3}
+{"count": 53, "name": "Diploria labyrinthiformis", "weight": 0.0, "id": 2778171711, "level": 3}
+{"count": 46, "name": "Cladocora", "weight": 0.0, "id": 2778311377, "level": 3}
+{"count": 57, "name": "Mussismilia", "weight": 0.0, "id": 2779045591, "level": 3}
+{"count": 253, "name": "Corallite", "weight": 0.0, "id": 2775972617, "level": 3}
+{"count": 32, "name": "Keratoisis", "weight": 0.0, "id": 2777395751, "level": 3}
+{"count": 48, "name": "Biorock", "weight": 0.0, "id": 2776847567, "level": 3}
+{"count": 7, "name": "Halofolliculina corallasia", "weight": 0.0, "id": 2776626741, "level": 3}
+{"count": 14, "name": "Orbicella franksi", "weight": 0.0, "id": 2775912842, "level": 3}
+{"count": 23, "name": "Euphyllia ancora", "weight": 0.0, "id": 2777891821, "level": 3}
+{"count": 23, "name": "Gersemia rubiformis", "weight": 0.0, "id": 2778761206, "level": 3}
+{"count": 31, "name": "Euphyllia", "weight": 0.0, "id": 2779783247, "level": 3}
+{"count": 20, "name": "Acanella", "weight": 0.0, "id": 2776351952, "level": 3}
+{"count": 14, "name": "Isastrea", "weight": 0.0, "id": 2780898755, "level": 3}
+{"count": 57, "name": "Capnella", "weight": 0.0, "id": 2777506749, "level": 3}
+{"count": 38, "name": "Ellisella", "weight": 0.0, "id": 2778391774, "level": 3}
+{"count": 84, "name": "Subergorgia", "weight": 0.0, "id": 2777359914, "level": 3}
+{"count": 61, "name": "Terpios", "weight": 0.0, "id": 2778050084, "level": 3}
+{"count": 53, "name": "Syringopora", "weight": 0.0, "id": 2777993949, "level": 3}
+{"count": 23, "name": "Hexagonaria", "weight": 0.0, "id": 2780946157, "level": 3}
+{"count": 13, "name": "Gersemia", "weight": 0.0, "id": 2775991939, "level": 3}
+{"count": 15, "name": "Pleurodictyum", "weight": 0.0, "id": 2781441361, "level": 3}
+{"count": 49, "name": "Fragum", "weight": 0.0, "id": 2777965775, "level": 3}

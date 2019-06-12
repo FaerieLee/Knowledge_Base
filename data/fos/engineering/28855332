@@ -1,0 +1,13 @@
+{"count": 13999, "name": "Vector quantization", "weight": 10.0, "id": 199833920, "level": 3}
+{"count": 3046, "name": "Rate\u2013distortion theory", "weight": 2.0, "id": 64185310, "level": 3}
+{"count": 3825, "name": "Noise shaping", "weight": 2.0, "id": 9083635, "level": 3}
+{"count": 2134, "name": "Geometric quantization", "weight": 1.0, "id": 143397304, "level": 3}
+{"count": 2610, "name": "Second quantization", "weight": 1.0, "id": 207060392, "level": 3}
+{"count": 3835, "name": "Canonical quantization", "weight": 2.0, "id": 158913796, "level": 3}
+{"count": 215, "name": "Signal-to-quantization-noise ratio", "weight": 0.0, "id": 34220939, "level": 3}
+{"count": 328, "name": "Adaptive differential pulse-code modulation", "weight": 0.0, "id": 2781071566, "level": 3}
+{"count": 527, "name": "Bit Rate Reduction", "weight": 0.0, "id": 2778763703, "level": 3}
+{"count": 699, "name": "Stochastic quantization", "weight": 0.0, "id": 2780288589, "level": 3}
+{"count": 107, "name": "Light front quantization", "weight": 0.0, "id": 2777745463, "level": 3}
+{"count": 69, "name": "RC algorithm", "weight": 0.0, "id": 180756699, "level": 3}
+{"count": 138, "name": "Quantization of the electromagnetic field", "weight": 0.0, "id": 2775982221, "level": 3}

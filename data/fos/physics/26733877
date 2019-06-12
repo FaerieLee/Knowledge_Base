@@ -1,0 +1,54 @@
+{"count": 18498, "name": "Harmonic oscillator", "weight": 10.0, "id": 40934718, "level": 3}
+{"count": 12508, "name": "Limit cycle", "weight": 6.0, "id": 93357160, "level": 3}
+{"count": 4201, "name": "Relaxation oscillator", "weight": 2.0, "id": 135854075, "level": 3}
+{"count": 4790, "name": "Phase synchronization", "weight": 2.0, "id": 194027367, "level": 3}
+{"count": 1984, "name": "Quasi-biennial oscillation", "weight": 1.0, "id": 207423496, "level": 3}
+{"count": 1820, "name": "Low-frequency oscillation", "weight": 0.0, "id": 17181845, "level": 3}
+{"count": 9089, "name": "Parametric oscillator", "weight": 4.0, "id": 164466805, "level": 3}
+{"count": 3122, "name": "Madden\u2013Julian oscillation", "weight": 1.0, "id": 117381296, "level": 3}
+{"count": 1873, "name": "Quasi-periodic oscillation", "weight": 1.0, "id": 2779700504, "level": 3}
+{"count": 4722, "name": "Nonlinear resonance", "weight": 2.0, "id": 167020490, "level": 3}
+{"count": 3917, "name": "Van der Pol oscillator", "weight": 2.0, "id": 98010927, "level": 3}
+{"count": 2156, "name": "Backward-wave oscillator", "weight": 1.0, "id": 153009121, "level": 3}
+{"count": 3694, "name": "Duffing equation", "weight": 1.0, "id": 132323500, "level": 3}
+{"count": 8270, "name": "Crystal oscillator", "weight": 4.0, "id": 172137495, "level": 3}
+{"count": 928, "name": "Briggs\u2013Rauscher reaction", "weight": 0.0, "id": 189935429, "level": 3}
+{"count": 1132, "name": "Nonlinear Oscillations", "weight": 0.0, "id": 2779437913, "level": 3}
+{"count": 3071, "name": "Gunn diode", "weight": 1.0, "id": 35020094, "level": 3}
+{"count": 1070, "name": "Stellar pulsation", "weight": 0.0, "id": 2778023049, "level": 3}
+{"count": 1002, "name": "Belousov\u2013Zhabotinsky reaction", "weight": 0.0, "id": 41971866, "level": 3}
+{"count": 823, "name": "Kuramoto model", "weight": 0.0, "id": 2780042749, "level": 3}
+{"count": 673, "name": "Self-oscillation", "weight": 0.0, "id": 166728923, "level": 3}
+{"count": 1429, "name": "Electronic oscillator", "weight": 0.0, "id": 184492301, "level": 3}
+{"count": 3002, "name": "Synchronization networks", "weight": 1.0, "id": 111097370, "level": 3}
+{"count": 1127, "name": "Bloch oscillations", "weight": 0.0, "id": 2778907946, "level": 3}
+{"count": 189, "name": "Pilot-induced oscillation", "weight": 0.0, "id": 2777497801, "level": 3}
+{"count": 201, "name": "Neural oscillation", "weight": 0.0, "id": 2778998792, "level": 3}
+{"count": 493, "name": "Brusselator", "weight": 0.0, "id": 14028793, "level": 3}
+{"count": 552, "name": "Theta model", "weight": 0.0, "id": 190249596, "level": 3}
+{"count": 337, "name": "Amplitude death", "weight": 0.0, "id": 2779135890, "level": 3}
+{"count": 397, "name": "Parasitic oscillation", "weight": 0.0, "id": 158857262, "level": 3}
+{"count": 282, "name": "Rijke tube", "weight": 0.0, "id": 139804672, "level": 3}
+{"count": 143, "name": "Mathematics of oscillation", "weight": 0.0, "id": 124390284, "level": 3}
+{"count": 129, "name": "Arnold tongue", "weight": 0.0, "id": 163764670, "level": 3}
+{"count": 172, "name": "Stochastic oscillator", "weight": 0.0, "id": 2778803747, "level": 3}
+{"count": 26, "name": "Neutron-star oscillation", "weight": 0.0, "id": 2776566929, "level": 3}
+{"count": 360, "name": "Pendulum clock", "weight": 0.0, "id": 49480350, "level": 3}
+{"count": 365, "name": "Antineutron", "weight": 0.0, "id": 143886310, "level": 3}
+{"count": 159, "name": "Nullcline", "weight": 0.0, "id": 145989805, "level": 3}
+{"count": 19, "name": "Squegging", "weight": 0.0, "id": 3791984, "level": 3}
+{"count": 457, "name": "Autodyne", "weight": 0.0, "id": 177443773, "level": 3}
+{"count": 405, "name": "Oregonator", "weight": 0.0, "id": 9383113, "level": 3}
+{"count": 93, "name": "Stokes boundary layer", "weight": 0.0, "id": 2779708983, "level": 3}
+{"count": 125, "name": "Epicyclic frequency", "weight": 0.0, "id": 202349221, "level": 3}
+{"count": 26, "name": "Toda oscillator", "weight": 0.0, "id": 2778299593, "level": 3}
+{"count": 21, "name": "Wilberforce pendulum", "weight": 0.0, "id": 22091407, "level": 3}
+{"count": 28, "name": "Pulse-coupled networks", "weight": 0.0, "id": 2779036390, "level": 3}
+{"count": 59, "name": "Electronic oscillation", "weight": 0.0, "id": 2778447109, "level": 3}
+{"count": 15, "name": "Robinson oscillator", "weight": 0.0, "id": 2780055286, "level": 3}
+{"count": 39, "name": "Oscillistor", "weight": 0.0, "id": 2777511342, "level": 3}
+{"count": 55, "name": "Oscillating U-tube", "weight": 0.0, "id": 45519348, "level": 3}
+{"count": 47, "name": "Birmingham Solar Oscillations Network", "weight": 0.0, "id": 2779510150, "level": 3}
+{"count": 105, "name": "Rapidly oscillating Ap star", "weight": 0.0, "id": 2780166401, "level": 3}
+{"count": 8058, "name": "Vack\u00e1\u0159 oscillator", "weight": 4.0, "id": 111657199, "level": 3}
+{"count": 15, "name": "Dynatron oscillator", "weight": 0.0, "id": 2778805708, "level": 3}

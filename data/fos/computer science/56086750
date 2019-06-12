@@ -1,0 +1,6 @@
+{"count": 2538, "name": "Cutting-plane method", "weight": 5.0, "id": 109839438, "level": 3}
+{"count": 2690, "name": "Linear programming relaxation", "weight": 6.0, "id": 25360446, "level": 3}
+{"count": 2892, "name": "Branch and cut", "weight": 6.0, "id": 50797617, "level": 3}
+{"count": 4458, "name": "Branch and price", "weight": 10.0, "id": 123558587, "level": 3}
+{"count": 122, "name": "Pohlig\u2013Hellman algorithm", "weight": 0.0, "id": 124493775, "level": 3}
+{"count": 44, "name": "p-cycle protection", "weight": 0.0, "id": 2776905044, "level": 3}

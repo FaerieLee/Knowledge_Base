@@ -1,0 +1,17 @@
+{"count": 6866, "name": "Trajectory optimization", "weight": 10.0, "id": 173246807, "level": 3}
+{"count": 1378, "name": "Trajectory of a projectile", "weight": 2.0, "id": 98943031, "level": 3}
+{"count": 235, "name": "Hyperbolic trajectory", "weight": 0.0, "id": 114177870, "level": 3}
+{"count": 209, "name": "Kinodynamic planning", "weight": 0.0, "id": 81641196, "level": 3}
+{"count": 538, "name": "Gravity assist", "weight": 0.0, "id": 144953966, "level": 3}
+{"count": 441, "name": "Parking orbit", "weight": 0.0, "id": 134240934, "level": 3}
+{"count": 165, "name": "Dynamic soaring", "weight": 0.0, "id": 2777228735, "level": 3}
+{"count": 92, "name": "Motion camouflage", "weight": 0.0, "id": 2778667214, "level": 3}
+{"count": 126, "name": "External ballistics", "weight": 0.0, "id": 2776269561, "level": 3}
+{"count": 99, "name": "Ballistic capture", "weight": 0.0, "id": 2780782035, "level": 3}
+{"count": 70, "name": "Lambert's problem", "weight": 0.0, "id": 2778865457, "level": 3}
+{"count": 66, "name": "Low-energy transfer", "weight": 0.0, "id": 2777078616, "level": 3}
+{"count": 74, "name": "Patched conic approximation", "weight": 0.0, "id": 100940109, "level": 3}
+{"count": 45, "name": "Unpowered flight", "weight": 0.0, "id": 542223264, "level": 3}
+{"count": 134, "name": "Pursuit guidance", "weight": 0.0, "id": 2780366299, "level": 3}
+{"count": 64, "name": "Gravity turn", "weight": 0.0, "id": 2781150552, "level": 3}
+{"count": 46, "name": "Aircraft specific energy", "weight": 0.0, "id": 54945215, "level": 3}

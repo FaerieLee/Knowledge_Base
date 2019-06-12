@@ -1,0 +1,22 @@
+{"count": 13725, "name": "Single antenna interference cancellation", "weight": 10.0, "id": 83204339, "level": 3}
+{"count": 5919, "name": "Co-channel interference", "weight": 4.0, "id": 6532628, "level": 3}
+{"count": 4204, "name": "Adjacent-channel interference", "weight": 3.0, "id": 134222854, "level": 3}
+{"count": 1402, "name": "Interference (communication)", "weight": 1.0, "id": 32022120, "level": 3}
+{"count": 2911, "name": "Interference filter", "weight": 2.0, "id": 2776663829, "level": 3}
+{"count": 244, "name": "Television interference", "weight": 0.0, "id": 2780202506, "level": 3}
+{"count": 1707, "name": "Interference lithography", "weight": 1.0, "id": 159395582, "level": 3}
+{"count": 675, "name": "Double-slit experiment", "weight": 0.0, "id": 55827270, "level": 3}
+{"count": 462, "name": "Newton's rings", "weight": 0.0, "id": 128117163, "level": 3}
+{"count": 340, "name": "Fringe shift", "weight": 0.0, "id": 53641464, "level": 3}
+{"count": 202, "name": "Delayed choice quantum eraser", "weight": 0.0, "id": 181631915, "level": 3}
+{"count": 453, "name": "Thin-film interference", "weight": 0.0, "id": 10248492, "level": 3}
+{"count": 235, "name": "Neutron interferometer", "weight": 0.0, "id": 2779450434, "level": 3}
+{"count": 110, "name": "Electron interferometer", "weight": 0.0, "id": 2780614803, "level": 3}
+{"count": 65, "name": "Young's interference experiment", "weight": 0.0, "id": 194769900, "level": 3}
+{"count": 109, "name": "Lloyd's mirror", "weight": 0.0, "id": 60965734, "level": 3}
+{"count": 154, "name": "Statistical interference", "weight": 0.0, "id": 52328163, "level": 3}
+{"count": 75, "name": "Jamin interferometer", "weight": 0.0, "id": 2777241263, "level": 3}
+{"count": 101, "name": "Conoscopic interference pattern", "weight": 0.0, "id": 75100901, "level": 3}
+{"count": 51, "name": "Rayleigh interferometer", "weight": 0.0, "id": 2780717710, "level": 3}
+{"count": 31, "name": "N-slit interferometric equation", "weight": 0.0, "id": 191436197, "level": 3}
+{"count": 11, "name": "Electron wave-packet interference", "weight": 0.0, "id": 2780237004, "level": 3}

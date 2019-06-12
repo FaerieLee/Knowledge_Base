@@ -1,0 +1,27 @@
+{"count": 17241, "name": "Genetic distance", "weight": 10.0, "id": 138592617, "level": 3}
+{"count": 7293, "name": "Genetic drift", "weight": 4.0, "id": 80990810, "level": 3}
+{"count": 5342, "name": "Effective population size", "weight": 3.0, "id": 3641667, "level": 3}
+{"count": 8191, "name": "Genetic divergence", "weight": 4.0, "id": 109186463, "level": 3}
+{"count": 4217, "name": "Conservation genetics", "weight": 2.0, "id": 51213014, "level": 3}
+{"count": 2707, "name": "Isolation by distance", "weight": 1.0, "id": 2777706067, "level": 3}
+{"count": 4898, "name": "Dendrogram", "weight": 2.0, "id": 172312944, "level": 3}
+{"count": 6999, "name": "Gene pool", "weight": 4.0, "id": 44671064, "level": 3}
+{"count": 2105, "name": "Population bottleneck", "weight": 1.0, "id": 105076106, "level": 3}
+{"count": 760, "name": "Mantel test", "weight": 0.0, "id": 19033989, "level": 3}
+{"count": 2040, "name": "In situ conservation", "weight": 1.0, "id": 2781168966, "level": 3}
+{"count": 1192, "name": "Genetic erosion", "weight": 0.0, "id": 194187813, "level": 3}
+{"count": 2100, "name": "Ex situ conservation", "weight": 1.0, "id": 2779867007, "level": 3}
+{"count": 5187, "name": "UPGMA", "weight": 3.0, "id": 194898557, "level": 3}
+{"count": 1200, "name": "Genetic isolate", "weight": 0.0, "id": 120941105, "level": 3}
+{"count": 664, "name": "Genetic monitoring", "weight": 0.0, "id": 57615671, "level": 3}
+{"count": 250, "name": "Wahlund effect", "weight": 0.0, "id": 1562730, "level": 3}
+{"count": 331, "name": "Center of origin", "weight": 0.0, "id": 2777639597, "level": 3}
+{"count": 135, "name": "Crop wild relative", "weight": 0.0, "id": 2777061799, "level": 3}
+{"count": 115, "name": "Simple matching coefficient", "weight": 0.0, "id": 2781029592, "level": 3}
+{"count": 16, "name": "Haliotis ovina", "weight": 0.0, "id": 2777553935, "level": 3}
+{"count": 26, "name": "Senecio cambrensis", "weight": 0.0, "id": 2777223507, "level": 3}
+{"count": 13, "name": "Abies ziyuanensis", "weight": 0.0, "id": 2779644297, "level": 3}
+{"count": 10, "name": "Dimocarpus confinis", "weight": 0.0, "id": 2776563554, "level": 3}
+{"count": 67, "name": "Genetic viability", "weight": 0.0, "id": 2781231790, "level": 3}
+{"count": 17, "name": "Pinus henryi", "weight": 0.0, "id": 2781168039, "level": 3}
+{"count": 31, "name": "Eastern chimpanzee", "weight": 0.0, "id": 2780157155, "level": 3}

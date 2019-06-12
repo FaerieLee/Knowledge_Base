@@ -1,0 +1,69 @@
+{"count": 35482, "name": "Cubic zirconia", "weight": 10.0, "id": 123609680, "level": 3}
+{"count": 15111, "name": "Thermal shock", "weight": 4.0, "id": 176177977, "level": 3}
+{"count": 3718, "name": "Electroceramics", "weight": 1.0, "id": 2776135264, "level": 3}
+{"count": 11865, "name": "Barium titanate", "weight": 3.0, "id": 2779159579, "level": 3}
+{"count": 13864, "name": "Thermal barrier coating", "weight": 3.0, "id": 176711861, "level": 3}
+{"count": 12218, "name": "Ceramic matrix composite", "weight": 3.0, "id": 47566043, "level": 3}
+{"count": 11347, "name": "Cermet", "weight": 3.0, "id": 134646822, "level": 3}
+{"count": 10712, "name": "Spark plasma sintering", "weight": 3.0, "id": 2776014600, "level": 3}
+{"count": 5284, "name": "Ceramic membrane", "weight": 1.0, "id": 2778551180, "level": 3}
+{"count": 9782, "name": "Mullite", "weight": 2.0, "id": 2781436864, "level": 3}
+{"count": 4647, "name": "Cordierite", "weight": 1.0, "id": 2776813687, "level": 3}
+{"count": 7083, "name": "Varistor", "weight": 1.0, "id": 58289394, "level": 3}
+{"count": 2944, "name": "Chemical vapor infiltration", "weight": 0.0, "id": 120024216, "level": 3}
+{"count": 4944, "name": "Sialon", "weight": 1.0, "id": 123135521, "level": 3}
+{"count": 11437, "name": "Glass-ceramic", "weight": 3.0, "id": 2776276667, "level": 3}
+{"count": 7642, "name": "Ceramic capacitor", "weight": 2.0, "id": 115974795, "level": 3}
+{"count": 2981, "name": "Tape casting", "weight": 0.0, "id": 2776381887, "level": 3}
+{"count": 3319, "name": "Zirconate", "weight": 0.0, "id": 2779956072, "level": 3}
+{"count": 1232, "name": "Calcium titanate", "weight": 0.0, "id": 2776930187, "level": 3}
+{"count": 1623, "name": "Transparent ceramics", "weight": 0.0, "id": 2777153885, "level": 3}
+{"count": 1341, "name": "Dental porcelain", "weight": 0.0, "id": 2779989610, "level": 3}
+{"count": 1869, "name": "Titanium diboride", "weight": 0.0, "id": 2778608814, "level": 3}
+{"count": 9164, "name": "Glaze", "weight": 2.0, "id": 2781217719, "level": 3}
+{"count": 780, "name": "Thick film technology", "weight": 0.0, "id": 2775962994, "level": 3}
+{"count": 8236, "name": "Piezoelectric coefficient", "weight": 2.0, "id": 135405054, "level": 3}
+{"count": 561, "name": "Zirconolite", "weight": 0.0, "id": 2778353377, "level": 3}
+{"count": 1062, "name": "Zirconium diboride", "weight": 0.0, "id": 2776853252, "level": 3}
+{"count": 522, "name": "Slip (ceramics)", "weight": 0.0, "id": 114585288, "level": 3}
+{"count": 348, "name": "Freeze-casting", "weight": 0.0, "id": 2778262522, "level": 3}
+{"count": 1349, "name": "Ceramic foam", "weight": 0.0, "id": 2776704549, "level": 3}
+{"count": 651, "name": "MAX phases", "weight": 0.0, "id": 2776106465, "level": 3}
+{"count": 470, "name": "Ultra-high-temperature ceramics", "weight": 0.0, "id": 2776008099, "level": 3}
+{"count": 3457, "name": "Green body", "weight": 0.0, "id": 2781007617, "level": 3}
+{"count": 677, "name": "Engineering ceramics", "weight": 0.0, "id": 2777742577, "level": 3}
+{"count": 1429, "name": "Polysilazane", "weight": 0.0, "id": 2780145811, "level": 3}
+{"count": 396, "name": "Synroc", "weight": 0.0, "id": 131652615, "level": 3}
+{"count": 717, "name": "Columbite", "weight": 0.0, "id": 2780861898, "level": 3}
+{"count": 441, "name": "Celsian", "weight": 0.0, "id": 2777757049, "level": 3}
+{"count": 811, "name": "CEREC", "weight": 0.0, "id": 2779890979, "level": 3}
+{"count": 407, "name": "Ball clay", "weight": 0.0, "id": 2777711580, "level": 3}
+{"count": 544, "name": "Nanoceramic", "weight": 0.0, "id": 2777486477, "level": 3}
+{"count": 125, "name": "Ceramography", "weight": 0.0, "id": 201536653, "level": 3}
+{"count": 111, "name": "Ceramic petrography", "weight": 0.0, "id": 2776021479, "level": 3}
+{"count": 57, "name": "Barium stannate", "weight": 0.0, "id": 2779382120, "level": 3}
+{"count": 284, "name": "Reaction bonded silicon carbide", "weight": 0.0, "id": 2781148867, "level": 3}
+{"count": 163, "name": "Aluminium oxynitride", "weight": 0.0, "id": 2779864855, "level": 3}
+{"count": 180, "name": "Macor", "weight": 0.0, "id": 2778675770, "level": 3}
+{"count": 1579, "name": "Ceramic heater", "weight": 0.0, "id": 2778980630, "level": 3}
+{"count": 168, "name": "Pyroceram", "weight": 0.0, "id": 2775960195, "level": 3}
+{"count": 50, "name": "Slipcasting", "weight": 0.0, "id": 2781177072, "level": 3}
+{"count": 585, "name": "Solid-state reaction route", "weight": 0.0, "id": 202954235, "level": 3}
+{"count": 113, "name": "Hertzian cone", "weight": 0.0, "id": 2777049959, "level": 3}
+{"count": 70, "name": "Ceramic water filter", "weight": 0.0, "id": 2777668513, "level": 3}
+{"count": 20, "name": "Zirconium disilicide", "weight": 0.0, "id": 2778635520, "level": 3}
+{"count": 69, "name": "Ceramic flux", "weight": 0.0, "id": 2778674800, "level": 3}
+{"count": 54, "name": "Protonic ceramic fuel cell", "weight": 0.0, "id": 2778063291, "level": 3}
+{"count": 64, "name": "Optical dilatometer", "weight": 0.0, "id": 2775842438, "level": 3}
+{"count": 25, "name": "Salt ceramic", "weight": 0.0, "id": 2781013842, "level": 3}
+{"count": 58, "name": "Through-hole technology", "weight": 0.0, "id": 2778475573, "level": 3}
+{"count": 705, "name": "Co-fired ceramic", "weight": 0.0, "id": 2780104751, "level": 3}
+{"count": 33, "name": "China stone", "weight": 0.0, "id": 2777215592, "level": 3}
+{"count": 18, "name": "Ceramic chemistry", "weight": 0.0, "id": 2776929833, "level": 3}
+{"count": 140, "name": "Ceramic knife", "weight": 0.0, "id": 2780629955, "level": 3}
+{"count": 85, "name": "Vitrified tile", "weight": 0.0, "id": 192541246, "level": 3}
+{"count": 7, "name": "Composite reaction texturing", "weight": 0.0, "id": 2781322932, "level": 3}
+{"count": 13, "name": "Ceramic colorants", "weight": 0.0, "id": 2777882603, "level": 3}
+{"count": 628, "name": "Ceramic forming techniques", "weight": 0.0, "id": 205294394, "level": 3}
+{"count": 22, "name": "Glass-ceramic-to-metal seals", "weight": 0.0, "id": 2780854628, "level": 3}
+{"count": 66, "name": "Movable cellular automaton", "weight": 0.0, "id": 2780415864, "level": 3}

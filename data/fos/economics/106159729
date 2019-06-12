@@ -1,0 +1,200 @@
+{"count": 53937, "name": "Stock market", "weight": 6.0, "id": 2780299701, "level": 2}
+{"count": 20024, "name": "Risk aversion", "weight": 2.0, "id": 67986102, "level": 2}
+{"count": 2739, "name": "Momentum (technical analysis)", "weight": 0.0, "id": 60718061, "level": 2}
+{"count": 20081, "name": "Derivative (finance)", "weight": 2.0, "id": 111771559, "level": 2}
+{"count": 18754, "name": "Capital asset pricing model", "weight": 2.0, "id": 181236170, "level": 2}
+{"count": 56398, "name": "Volatility (finance)", "weight": 6.0, "id": 91602232, "level": 2}
+{"count": 10907, "name": "Valuation of options", "weight": 1.0, "id": 194483076, "level": 2}
+{"count": 9243, "name": "Rational expectations", "weight": 1.0, "id": 96016098, "level": 2}
+{"count": 21985, "name": "Credit risk", "weight": 2.0, "id": 178350159, "level": 2}
+{"count": 10536, "name": "Expected utility hypothesis", "weight": 1.0, "id": 205706631, "level": 2}
+{"count": 9793, "name": "Risk premium", "weight": 1.0, "id": 151541453, "level": 2}
+{"count": 10283, "name": "Vector autoregression", "weight": 1.0, "id": 133029050, "level": 2}
+{"count": 10925, "name": "Heteroscedasticity", "weight": 1.0, "id": 101104100, "level": 2}
+{"count": 19706, "name": "Financial risk", "weight": 2.0, "id": 76073288, "level": 2}
+{"count": 9320, "name": "Price index", "weight": 1.0, "id": 178131030, "level": 2}
+{"count": 21307, "name": "Stock (geology)", "weight": 2.0, "id": 58341921, "level": 2}
+{"count": 7891, "name": "Mutual fund", "weight": 0.0, "id": 2777064782, "level": 2}
+{"count": 8238, "name": "Event study", "weight": 0.0, "id": 12958728, "level": 2}
+{"count": 18326, "name": "Convexity", "weight": 2.0, "id": 72134830, "level": 2}
+{"count": 7530, "name": "Security analysis", "weight": 0.0, "id": 38369872, "level": 2}
+{"count": 3726, "name": "Incomplete markets", "weight": 0.0, "id": 109354906, "level": 2}
+{"count": 42198, "name": "Futures contract", "weight": 5.0, "id": 106306483, "level": 2}
+{"count": 8076, "name": "Value at risk", "weight": 0.0, "id": 94128290, "level": 2}
+{"count": 83161, "name": "Portfolio", "weight": 10.0, "id": 2780821815, "level": 2}
+{"count": 6473, "name": "Systematic risk", "weight": 0.0, "id": 80212096, "level": 2}
+{"count": 6058, "name": "Market risk", "weight": 0.0, "id": 73858035, "level": 2}
+{"count": 19995, "name": "Hedge (finance)", "weight": 2.0, "id": 130005797, "level": 2}
+{"count": 7192, "name": "Hedge fund", "weight": 0.0, "id": 204434749, "level": 2}
+{"count": 5409, "name": "Conditional variance", "weight": 0.0, "id": 21430997, "level": 2}
+{"count": 14096, "name": "Investment strategy", "weight": 1.0, "id": 103144560, "level": 2}
+{"count": 5909, "name": "Abnormal return", "weight": 0.0, "id": 2777601474, "level": 2}
+{"count": 21855, "name": "Dividend", "weight": 2.0, "id": 116168712, "level": 2}
+{"count": 3632, "name": "Structural break", "weight": 0.0, "id": 186008389, "level": 2}
+{"count": 4087, "name": "Risk measure", "weight": 0.0, "id": 2781472820, "level": 2}
+{"count": 41239, "name": "Beta (finance)", "weight": 4.0, "id": 102289811, "level": 2}
+{"count": 7767, "name": "Expiration", "weight": 0.0, "id": 2776164194, "level": 2}
+{"count": 3949, "name": "Stochastic dominance", "weight": 0.0, "id": 33252445, "level": 2}
+{"count": 13049, "name": "Arbitrage", "weight": 1.0, "id": 160623529, "level": 2}
+{"count": 4565, "name": "L\u00e9vy process", "weight": 0.0, "id": 88757350, "level": 2}
+{"count": 3406, "name": "Mean reversion", "weight": 0.0, "id": 135205223, "level": 2}
+{"count": 7414, "name": "Trading strategy", "weight": 0.0, "id": 131562839, "level": 2}
+{"count": 5131, "name": "Black\u2013Scholes model", "weight": 0.0, "id": 163128081, "level": 2}
+{"count": 4256, "name": "Optimal stopping", "weight": 0.0, "id": 99414536, "level": 2}
+{"count": 2693, "name": "Time consistency", "weight": 0.0, "id": 11534374, "level": 2}
+{"count": 15619, "name": "Investment decisions", "weight": 1.0, "id": 2778865806, "level": 2}
+{"count": 12599, "name": "Market microstructure", "weight": 1.0, "id": 51926234, "level": 2}
+{"count": 3388, "name": "Loss aversion", "weight": 0.0, "id": 2778174566, "level": 2}
+{"count": 2453, "name": "Option value", "weight": 0.0, "id": 2780973918, "level": 2}
+{"count": 6338, "name": "Technical analysis", "weight": 0.0, "id": 117245426, "level": 2}
+{"count": 1658, "name": "Capital allocation line", "weight": 0.0, "id": 138142054, "level": 2}
+{"count": 2771, "name": "Jump diffusion", "weight": 0.0, "id": 2779664328, "level": 2}
+{"count": 3918, "name": "Mathematical finance", "weight": 0.0, "id": 93373587, "level": 2}
+{"count": 2352, "name": "Market timing", "weight": 0.0, "id": 118315980, "level": 2}
+{"count": 2958, "name": "Free cash flow", "weight": 0.0, "id": 2780334105, "level": 2}
+{"count": 2099, "name": "Financial asset", "weight": 0.0, "id": 2778705799, "level": 2}
+{"count": 1007, "name": "Complete market", "weight": 0.0, "id": 136969773, "level": 2}
+{"count": 2984, "name": "Financial engineering", "weight": 0.0, "id": 84749600, "level": 2}
+{"count": 10282, "name": "Butterfly", "weight": 1.0, "id": 2778605236, "level": 2}
+{"count": 1549, "name": "Econophysics", "weight": 0.0, "id": 29912722, "level": 2}
+{"count": 1070, "name": "Model risk", "weight": 0.0, "id": 2778414658, "level": 2}
+{"count": 3260, "name": "Economic bubble", "weight": 0.0, "id": 201543015, "level": 2}
+{"count": 5664, "name": "Slippage", "weight": 0.0, "id": 2776096238, "level": 2}
+{"count": 4200, "name": "Reinsurance", "weight": 0.0, "id": 166970017, "level": 2}
+{"count": 1547, "name": "Double auction", "weight": 0.0, "id": 2539976, "level": 2}
+{"count": 4156, "name": "Common stock", "weight": 0.0, "id": 35138590, "level": 2}
+{"count": 9139, "name": "Financial modeling", "weight": 1.0, "id": 23925645, "level": 2}
+{"count": 3537, "name": "Greeks", "weight": 0.0, "id": 182767506, "level": 2}
+{"count": 1268, "name": "Computational finance", "weight": 0.0, "id": 146880194, "level": 2}
+{"count": 648, "name": "Marginal rate of substitution", "weight": 0.0, "id": 165469386, "level": 2}
+{"count": 296, "name": "Method of simulated moments", "weight": 0.0, "id": 68541295, "level": 2}
+{"count": 652, "name": "Nonlinear pricing", "weight": 0.0, "id": 2777970221, "level": 2}
+{"count": 4244, "name": "Share price", "weight": 0.0, "id": 2779538965, "level": 2}
+{"count": 767, "name": "Prediction market", "weight": 0.0, "id": 2780021719, "level": 2}
+{"count": 6572, "name": "Debt-to-equity ratio", "weight": 0.0, "id": 74153512, "level": 2}
+{"count": 783, "name": "Disposition effect", "weight": 0.0, "id": 63134877, "level": 2}
+{"count": 1501, "name": "Single-index model", "weight": 0.0, "id": 174287018, "level": 2}
+{"count": 772, "name": "Exponential utility", "weight": 0.0, "id": 2778475510, "level": 2}
+{"count": 1056, "name": "Trend line", "weight": 0.0, "id": 72132477, "level": 2}
+{"count": 1586, "name": "Collateralized debt obligation", "weight": 0.0, "id": 86537402, "level": 2}
+{"count": 1438, "name": "Idiosyncrasy", "weight": 0.0, "id": 2779917138, "level": 2}
+{"count": 2828, "name": "Bid price", "weight": 0.0, "id": 76281924, "level": 2}
+{"count": 1492, "name": "Index fund", "weight": 0.0, "id": 6243943, "level": 2}
+{"count": 8745, "name": "Algorithmic trading", "weight": 1.0, "id": 78508483, "level": 2}
+{"count": 385, "name": "Comonotonicity", "weight": 0.0, "id": 2777877802, "level": 2}
+{"count": 3972, "name": "Current ratio", "weight": 0.0, "id": 52272595, "level": 2}
+{"count": 8008, "name": "Warrant", "weight": 0.0, "id": 2776916960, "level": 2}
+{"count": 293, "name": "Autoregressive conditional duration", "weight": 0.0, "id": 2775840139, "level": 2}
+{"count": 902, "name": "Tail risk", "weight": 0.0, "id": 2776734221, "level": 2}
+{"count": 773, "name": "Girsanov theorem", "weight": 0.0, "id": 104824951, "level": 2}
+{"count": 25339, "name": "Collar", "weight": 3.0, "id": 2781448223, "level": 2}
+{"count": 257, "name": "Rational inattention", "weight": 0.0, "id": 2781175674, "level": 2}
+{"count": 642, "name": "Expense ratio", "weight": 0.0, "id": 148809678, "level": 2}
+{"count": 858, "name": "Strike price", "weight": 0.0, "id": 2776607717, "level": 2}
+{"count": 351, "name": "Intertemporal consumption", "weight": 0.0, "id": 2777287079, "level": 2}
+{"count": 247, "name": "Frictionless market", "weight": 0.0, "id": 116993041, "level": 2}
+{"count": 265, "name": "Survivorship bias", "weight": 0.0, "id": 2779408593, "level": 2}
+{"count": 1311, "name": "Put option", "weight": 0.0, "id": 2778311368, "level": 2}
+{"count": 734, "name": "Market trend", "weight": 0.0, "id": 2777612732, "level": 2}
+{"count": 137, "name": "State prices", "weight": 0.0, "id": 2780143453, "level": 2}
+{"count": 2471, "name": "Relative strength", "weight": 0.0, "id": 2778428919, "level": 2}
+{"count": 2202, "name": "Ruin theory", "weight": 0.0, "id": 29859451, "level": 2}
+{"count": 3725, "name": "Consensus forecast", "weight": 0.0, "id": 120954023, "level": 2}
+{"count": 3662, "name": "Breakout", "weight": 0.0, "id": 2778091849, "level": 2}
+{"count": 6600, "name": "Limit price", "weight": 0.0, "id": 134864226, "level": 2}
+{"count": 986, "name": "Num\u00e9raire", "weight": 0.0, "id": 160921499, "level": 2}
+{"count": 1669, "name": "Contrarian", "weight": 0.0, "id": 2779652781, "level": 2}
+{"count": 1141, "name": "Representative agent", "weight": 0.0, "id": 173667970, "level": 2}
+{"count": 434, "name": "Value investing", "weight": 0.0, "id": 2780091716, "level": 2}
+{"count": 347, "name": "Actuarial present value", "weight": 0.0, "id": 83696554, "level": 2}
+{"count": 425, "name": "Trend following", "weight": 0.0, "id": 186797051, "level": 2}
+{"count": 810, "name": "Growth investing", "weight": 0.0, "id": 9835338, "level": 2}
+{"count": 521, "name": "Short interest ratio", "weight": 0.0, "id": 57696902, "level": 2}
+{"count": 197, "name": "Tax efficiency", "weight": 0.0, "id": 2780129338, "level": 2}
+{"count": 4747, "name": "Pivot point", "weight": 0.0, "id": 2776409763, "level": 2}
+{"count": 695, "name": "Market sentiment", "weight": 0.0, "id": 2781410264, "level": 2}
+{"count": 700, "name": "Buy and hold", "weight": 0.0, "id": 28381142, "level": 2}
+{"count": 1247, "name": "Forecast period", "weight": 0.0, "id": 112353543, "level": 2}
+{"count": 320, "name": "Exchange-traded fund", "weight": 0.0, "id": 2778116318, "level": 2}
+{"count": 2527, "name": "Intrinsic value (finance)", "weight": 0.0, "id": 1274191, "level": 2}
+{"count": 391, "name": "Multi-attribute utility", "weight": 0.0, "id": 2780750474, "level": 2}
+{"count": 1042, "name": "Style investing", "weight": 0.0, "id": 134534570, "level": 2}
+{"count": 1281, "name": "Forward price", "weight": 0.0, "id": 149315309, "level": 2}
+{"count": 3994, "name": "LEAPS", "weight": 0.0, "id": 2777705401, "level": 2}
+{"count": 2159, "name": "Moneyness", "weight": 0.0, "id": 173921975, "level": 2}
+{"count": 2931, "name": "Straddle", "weight": 0.0, "id": 2779117054, "level": 2}
+{"count": 72, "name": "T-model", "weight": 0.0, "id": 2778237116, "level": 2}
+{"count": 175, "name": "Fat-tailed distribution", "weight": 0.0, "id": 28515068, "level": 2}
+{"count": 3417, "name": "Specific risk", "weight": 0.0, "id": 2780689616, "level": 2}
+{"count": 274, "name": "Bonus-malus", "weight": 0.0, "id": 2776313976, "level": 2}
+{"count": 205, "name": "Asset location", "weight": 0.0, "id": 2780206446, "level": 2}
+{"count": 4697, "name": "Variable pricing", "weight": 0.0, "id": 180925905, "level": 2}
+{"count": 1081, "name": "Total return", "weight": 0.0, "id": 148704268, "level": 2}
+{"count": 732, "name": "Price variance", "weight": 0.0, "id": 47664361, "level": 2}
+{"count": 133, "name": "Fed model", "weight": 0.0, "id": 2777570792, "level": 2}
+{"count": 186, "name": "Dollar cost averaging", "weight": 0.0, "id": 114428461, "level": 2}
+{"count": 38, "name": "Energy derivative", "weight": 0.0, "id": 2778772634, "level": 2}
+{"count": 202, "name": "Structured product", "weight": 0.0, "id": 2777707626, "level": 2}
+{"count": 150, "name": "SICAV", "weight": 0.0, "id": 2779992492, "level": 2}
+{"count": 87, "name": "Uptick rule", "weight": 0.0, "id": 2780403557, "level": 2}
+{"count": 321, "name": "Strangle", "weight": 0.0, "id": 203615070, "level": 2}
+{"count": 130, "name": "Black model", "weight": 0.0, "id": 2779352374, "level": 2}
+{"count": 578, "name": "Reference rate", "weight": 0.0, "id": 127898587, "level": 2}
+{"count": 484, "name": "Delivery point", "weight": 0.0, "id": 2780935168, "level": 2}
+{"count": 103, "name": "TED spread", "weight": 0.0, "id": 2778621432, "level": 2}
+{"count": 2963, "name": "Quanto", "weight": 0.0, "id": 2781354390, "level": 2}
+{"count": 58, "name": "Vertical spread", "weight": 0.0, "id": 2778513445, "level": 2}
+{"count": 156, "name": "Smirk", "weight": 0.0, "id": 60066950, "level": 2}
+{"count": 11, "name": "Siegel's paradox", "weight": 0.0, "id": 2779662579, "level": 2}
+{"count": 254, "name": "Risk metric", "weight": 0.0, "id": 2775892784, "level": 2}
+{"count": 43, "name": "It\u014d diffusion", "weight": 0.0, "id": 7632584, "level": 2}
+{"count": 214, "name": "Stock fund", "weight": 0.0, "id": 2776802304, "level": 2}
+{"count": 377, "name": "Psychological level", "weight": 0.0, "id": 2777269066, "level": 2}
+{"count": 5739, "name": "Rational pricing", "weight": 0.0, "id": 159998540, "level": 2}
+{"count": 16, "name": "Z-spread", "weight": 0.0, "id": 2780298156, "level": 2}
+{"count": 20, "name": "Put/call ratio", "weight": 0.0, "id": 2777933842, "level": 2}
+{"count": 24, "name": "Aleatory contract", "weight": 0.0, "id": 2775968835, "level": 2}
+{"count": 5, "name": "Dol\u00e9ans-Dade exponential", "weight": 0.0, "id": 2779131329, "level": 2}
+{"count": 14, "name": "Forward start option", "weight": 0.0, "id": 2779194459, "level": 2}
+{"count": 1168, "name": "Investor profile", "weight": 0.0, "id": 48451196, "level": 2}
+{"count": 14, "name": "Relative utilitarianism", "weight": 0.0, "id": 2779112507, "level": 2}
+{"count": 38, "name": "Segregated fund", "weight": 0.0, "id": 2778449706, "level": 2}
+{"count": 6160, "name": "Fund administration", "weight": 0.0, "id": 55286048, "level": 2}
+{"count": 8, "name": "Momentum trader", "weight": 0.0, "id": 2780500095, "level": 2}
+{"count": 9, "name": "Risk return ratio", "weight": 0.0, "id": 2780680670, "level": 2}
+{"count": 98, "name": "Hard asset", "weight": 0.0, "id": 191603402, "level": 2}
+{"count": 68, "name": "Risk of ruin", "weight": 0.0, "id": 2781455106, "level": 2}
+{"count": 24, "name": "Dead cat bounce", "weight": 0.0, "id": 2779936652, "level": 2}
+{"count": 22, "name": "Parabolic SAR", "weight": 0.0, "id": 2779553848, "level": 2}
+{"count": 85, "name": "Adjusted basis", "weight": 0.0, "id": 2777157970, "level": 2}
+{"count": 7, "name": "Pin risk", "weight": 0.0, "id": 2780100230, "level": 2}
+{"count": 13, "name": "Iron condor", "weight": 0.0, "id": 2780323524, "level": 2}
+{"count": 11, "name": "Barbell strategy", "weight": 0.0, "id": 2777085499, "level": 2}
+{"count": 20, "name": "Convergence trade", "weight": 0.0, "id": 2776119429, "level": 2}
+{"count": 6, "name": "Maslowian portfolio theory", "weight": 0.0, "id": 2778337930, "level": 2}
+{"count": 6, "name": "Noisy market hypothesis", "weight": 0.0, "id": 2779516816, "level": 2}
+{"count": 8, "name": "Naked put", "weight": 0.0, "id": 2780848348, "level": 2}
+{"count": 13, "name": "Average true range", "weight": 0.0, "id": 2779019719, "level": 2}
+{"count": 115, "name": "Value date", "weight": 0.0, "id": 39229457, "level": 2}
+{"count": 30, "name": "Delta One", "weight": 0.0, "id": 2776352464, "level": 2}
+{"count": 4, "name": "Credit default option", "weight": 0.0, "id": 2779438601, "level": 2}
+{"count": 2, "name": "Inflation derivative", "weight": 0.0, "id": 2780029237, "level": 2}
+{"count": 12, "name": "Exchange-traded note", "weight": 0.0, "id": 2777848804, "level": 2}
+{"count": 20, "name": "Alpha Indexes", "weight": 0.0, "id": 2779275176, "level": 2}
+{"count": 6, "name": "Backspread", "weight": 0.0, "id": 2777243687, "level": 2}
+{"count": 7, "name": "Quantitative behavioral finance", "weight": 0.0, "id": 76975, "level": 2}
+{"count": 27, "name": "Iron butterfly", "weight": 0.0, "id": 2777568189, "level": 2}
+{"count": 14, "name": "Fixed-income attribution", "weight": 0.0, "id": 2777790140, "level": 2}
+{"count": 10, "name": "Diagonal spread", "weight": 0.0, "id": 2775839636, "level": 2}
+{"count": 31, "name": "CAN SLIM", "weight": 0.0, "id": 188132914, "level": 2}
+{"count": 10, "name": "Property derivative", "weight": 0.0, "id": 2780486253, "level": 2}
+{"count": 5, "name": "Solvency cone", "weight": 0.0, "id": 2780046163, "level": 2}
+{"count": 532, "name": "Natural borrowing limit", "weight": 0.0, "id": 199627807, "level": 2}
+{"count": 8, "name": "Turbo warrant", "weight": 0.0, "id": 2778605157, "level": 2}
+{"count": 9329, "name": "Mid price", "weight": 1.0, "id": 162889289, "level": 2}
+{"count": 5, "name": "Puttable bond", "weight": 0.0, "id": 2779992051, "level": 2}
+{"count": 3, "name": "Naked call", "weight": 0.0, "id": 2776408832, "level": 2}
+{"count": 2, "name": "Option time value", "weight": 0.0, "id": 2777327552, "level": 2}
+{"count": 17, "name": "Industry Classification Benchmark", "weight": 0.0, "id": 25473177, "level": 2}
+{"count": 81, "name": "Fugit", "weight": 0.0, "id": 174365491, "level": 2}
+{"count": 3, "name": "Financial betting", "weight": 0.0, "id": 2779631258, "level": 2}

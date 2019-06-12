@@ -1,0 +1,10 @@
+{"count": 7940, "name": "Linear predictive coding", "weight": 10.0, "id": 59883199, "level": 3}
+{"count": 4897, "name": "Sub-band coding", "weight": 6.0, "id": 98526533, "level": 3}
+{"count": 328, "name": "Adaptive differential pulse-code modulation", "weight": 0.0, "id": 2781071566, "level": 3}
+{"count": 1291, "name": "Full Rate", "weight": 1.0, "id": 197477341, "level": 3}
+{"count": 121, "name": "G.723.1", "weight": 0.0, "id": 2777873608, "level": 3}
+{"count": 116, "name": "Speex", "weight": 0.0, "id": 88561842, "level": 3}
+{"count": 2054, "name": "Adaptive Multi-Rate audio codec", "weight": 2.0, "id": 177067256, "level": 3}
+{"count": 4155, "name": "Harmonic Vector Excitation Coding", "weight": 5.0, "id": 80167644, "level": 3}
+{"count": 15, "name": "G.718", "weight": 0.0, "id": 2776056557, "level": 3}
+{"count": 9, "name": "G.722.1", "weight": 0.0, "id": 2777813863, "level": 3}

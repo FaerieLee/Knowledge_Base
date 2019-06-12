@@ -1,0 +1,30 @@
+{"count": 12344, "name": "Convolutional code", "weight": 5.0, "id": 157899210, "level": 3}
+{"count": 17131, "name": "Turbo code", "weight": 7.0, "id": 114504821, "level": 3}
+{"count": 21543, "name": "Low-density parity-check code", "weight": 10.0, "id": 67692717, "level": 3}
+{"count": 6820, "name": "Viterbi decoder", "weight": 3.0, "id": 117379686, "level": 3}
+{"count": 15719, "name": "Concatenated error correction code", "weight": 7.0, "id": 78944582, "level": 3}
+{"count": 5057, "name": "Belief propagation", "weight": 2.0, "id": 152948882, "level": 3}
+{"count": 6335, "name": "Coding gain", "weight": 2.0, "id": 76862118, "level": 3}
+{"count": 6628, "name": "Reed\u2013Solomon error correction", "weight": 3.0, "id": 78065487, "level": 3}
+{"count": 3759, "name": "BCH code", "weight": 1.0, "id": 42276685, "level": 3}
+{"count": 2308, "name": "Factor graph", "weight": 1.0, "id": 159246509, "level": 3}
+{"count": 7695, "name": "Variable-length code", "weight": 3.0, "id": 60603091, "level": 3}
+{"count": 11078, "name": "Code word", "weight": 5.0, "id": 153207627, "level": 3}
+{"count": 7576, "name": "List decoding", "weight": 3.0, "id": 204397858, "level": 3}
+{"count": 9622, "name": "Sequential decoding", "weight": 4.0, "id": 193969084, "level": 3}
+{"count": 553, "name": "Run-length limited", "weight": 0.0, "id": 2777376042, "level": 3}
+{"count": 1504, "name": "Differential coding", "weight": 0.0, "id": 79880414, "level": 3}
+{"count": 13315, "name": "Bitstream", "weight": 6.0, "id": 136695289, "level": 3}
+{"count": 3506, "name": "Video decoder", "weight": 1.0, "id": 2776580754, "level": 3}
+{"count": 707, "name": "Neural decoding", "weight": 0.0, "id": 40743351, "level": 3}
+{"count": 1485, "name": "Group of pictures", "weight": 0.0, "id": 196496179, "level": 3}
+{"count": 680, "name": "Polar code", "weight": 0.0, "id": 2778396592, "level": 3}
+{"count": 193, "name": "Channel reliability", "weight": 0.0, "id": 2779824847, "level": 3}
+{"count": 6910, "name": "Soft-decision decoder", "weight": 3.0, "id": 185588885, "level": 3}
+{"count": 12020, "name": "Serial concatenated convolutional codes", "weight": 5.0, "id": 33529081, "level": 3}
+{"count": 52, "name": "Pre-echo", "weight": 0.0, "id": 2777367964, "level": 3}
+{"count": 927, "name": "Decodes", "weight": 0.0, "id": 2778858076, "level": 3}
+{"count": 85, "name": "ANSI escape code", "weight": 0.0, "id": 113179709, "level": 3}
+{"count": 28, "name": "Delay encoding", "weight": 0.0, "id": 2781312885, "level": 3}
+{"count": 23, "name": "Channel noise level", "weight": 0.0, "id": 2780336413, "level": 3}
+{"count": 292, "name": "Truncated binary encoding", "weight": 0.0, "id": 5073859, "level": 3}

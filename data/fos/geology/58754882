@@ -1,0 +1,23 @@
+{"count": 945, "name": "Terrestrial reference frame", "weight": 7.0, "id": 2777212710, "level": 3}
+{"count": 1307, "name": "Geodetic network", "weight": 10.0, "id": 150753126, "level": 3}
+{"count": 1100, "name": "Undulation of the geoid", "weight": 8.0, "id": 180966878, "level": 3}
+{"count": 657, "name": "International Terrestrial Reference System", "weight": 5.0, "id": 176069352, "level": 3}
+{"count": 39, "name": "ED50", "weight": 0.0, "id": 42533223, "level": 3}
+{"count": 810, "name": "Orthometric height", "weight": 6.0, "id": 200418468, "level": 3}
+{"count": 469, "name": "Reference ellipsoid", "weight": 3.0, "id": 105024398, "level": 3}
+{"count": 183, "name": "Geodetic astronomy", "weight": 1.0, "id": 2780091748, "level": 3}
+{"count": 579, "name": "Normal height", "weight": 4.0, "id": 95077039, "level": 3}
+{"count": 286, "name": "Earth ellipsoid", "weight": 2.0, "id": 121365943, "level": 3}
+{"count": 268, "name": "Helmert transformation", "weight": 2.0, "id": 95655489, "level": 3}
+{"count": 287, "name": "World Geodetic System", "weight": 2.0, "id": 161681213, "level": 3}
+{"count": 730, "name": "Datum reference", "weight": 5.0, "id": 73301116, "level": 3}
+{"count": 67, "name": "Hull number", "weight": 0.0, "id": 2779593896, "level": 3}
+{"count": 316, "name": "GeoTIFF", "weight": 2.0, "id": 32111734, "level": 3}
+{"count": 212, "name": "Onsala Space Observatory", "weight": 1.0, "id": 2780440598, "level": 3}
+{"count": 538, "name": "North American Datum of 1927", "weight": 4.0, "id": 129725146, "level": 3}
+{"count": 23, "name": "Great ellipse", "weight": 0.0, "id": 2780353137, "level": 3}
+{"count": 40, "name": "Bessel ellipsoid of 1841", "weight": 0.0, "id": 129615877, "level": 3}
+{"count": 60, "name": "Survey marker", "weight": 0.0, "id": 118651642, "level": 3}
+{"count": 15, "name": "Global Relief Model", "weight": 0.0, "id": 2778199097, "level": 3}
+{"count": 123, "name": "Ordnance datum", "weight": 0.0, "id": 149039149, "level": 3}
+{"count": 770, "name": "European Combined Geodetic Network", "weight": 5.0, "id": 47033486, "level": 3}

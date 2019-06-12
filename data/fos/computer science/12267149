@@ -1,0 +1,28 @@
+{"count": 12990, "name": "Kernel method", "weight": 9.0, "id": 122280245, "level": 3}
+{"count": 13835, "name": "Kernel (statistics)", "weight": 10.0, "id": 98234853, "level": 3}
+{"count": 1939, "name": "Statistical learning theory", "weight": 1.0, "id": 2779915298, "level": 3}
+{"count": 3944, "name": "Multiclass classification", "weight": 2.0, "id": 123860398, "level": 3}
+{"count": 5084, "name": "Binary classification", "weight": 3.0, "id": 66905080, "level": 3}
+{"count": 6236, "name": "Least squares support vector machine", "weight": 4.0, "id": 145828037, "level": 3}
+{"count": 988, "name": "Structural risk minimization", "weight": 0.0, "id": 154507838, "level": 3}
+{"count": 6367, "name": "Relevance vector machine", "weight": 4.0, "id": 14948415, "level": 3}
+{"count": 3711, "name": "Quadratic classifier", "weight": 2.0, "id": 52620605, "level": 3}
+{"count": 3015, "name": "One-class classification", "weight": 2.0, "id": 34872919, "level": 3}
+{"count": 5786, "name": "Linear classifier", "weight": 4.0, "id": 139532973, "level": 3}
+{"count": 1253, "name": "Empirical risk minimization", "weight": 0.0, "id": 107321475, "level": 3}
+{"count": 1726, "name": "Decision boundary", "weight": 1.0, "id": 42023084, "level": 3}
+{"count": 1584, "name": "Transduction (machine learning)", "weight": 1.0, "id": 197963276, "level": 3}
+{"count": 423, "name": "Matthews correlation coefficient", "weight": 0.0, "id": 164085508, "level": 3}
+{"count": 1917, "name": "Hyperparameter optimization", "weight": 1.0, "id": 10485038, "level": 3}
+{"count": 1738, "name": "Histogram of oriented gradients", "weight": 1.0, "id": 17426736, "level": 3}
+{"count": 436, "name": "Hierarchical classifier", "weight": 0.0, "id": 2776017181, "level": 3}
+{"count": 3161, "name": "Ranking SVM", "weight": 2.0, "id": 124975894, "level": 3}
+{"count": 521, "name": "Hinge loss", "weight": 0.0, "id": 39891107, "level": 3}
+{"count": 26, "name": "Leave-one-out error", "weight": 0.0, "id": 2780338630, "level": 3}
+{"count": 7062, "name": "Structured support vector machine", "weight": 5.0, "id": 125168437, "level": 3}
+{"count": 382, "name": "Multicategory", "weight": 0.0, "id": 2777073553, "level": 3}
+{"count": 77, "name": "Hjorth parameters", "weight": 0.0, "id": 2776644985, "level": 3}
+{"count": 165, "name": "Multikernel", "weight": 0.0, "id": 2779167246, "level": 3}
+{"count": 38, "name": "Writeprint", "weight": 0.0, "id": 2778552140, "level": 3}
+{"count": 3742, "name": "Margin classifier", "weight": 2.0, "id": 173102733, "level": 3}
+{"count": 527, "name": "Method of support", "weight": 0.0, "id": 2776957009, "level": 3}

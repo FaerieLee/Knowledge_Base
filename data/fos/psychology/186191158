@@ -1,0 +1,10 @@
+{"count": 11628, "name": "Vulnerability assessment", "weight": 10.0, "id": 167063184, "level": 3}
+{"count": 5379, "name": "Adaptive capacity", "weight": 4.0, "id": 2777006462, "level": 3}
+{"count": 2913, "name": "Social vulnerability", "weight": 2.0, "id": 2779501324, "level": 3}
+{"count": 2193, "name": "Vulnerability (computing)", "weight": 1.0, "id": 95713431, "level": 3}
+{"count": 885, "name": "Cognitive vulnerability", "weight": 0.0, "id": 2778079588, "level": 3}
+{"count": 321, "name": "Sociotropy", "weight": 0.0, "id": 2777032822, "level": 3}
+{"count": 411, "name": "CVSS", "weight": 0.0, "id": 78323609, "level": 3}
+{"count": 32, "name": "EBIOS", "weight": 0.0, "id": 180428084, "level": 3}
+{"count": 93, "name": "Climate change in Bangladesh", "weight": 0.0, "id": 2777146898, "level": 3}
+{"count": 43, "name": "Climate change and gender", "weight": 0.0, "id": 2779662718, "level": 3}

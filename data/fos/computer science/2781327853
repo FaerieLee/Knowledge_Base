@@ -1,0 +1,4 @@
+{"count": 1860, "name": "Radio Resource Control", "weight": 10.0, "id": 2781028473, "level": 3}
+{"count": 36, "name": "QoS Class Identifier", "weight": 0.0, "id": 2776134089, "level": 3}
+{"count": 163, "name": "Home Node B", "weight": 0.0, "id": 113313435, "level": 3}
+{"count": 158, "name": "Non-access stratum", "weight": 0.0, "id": 2776191110, "level": 3}

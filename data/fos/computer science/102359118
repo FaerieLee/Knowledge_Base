@@ -1,0 +1,5 @@
+{"count": 795, "name": "DNS spoofing", "weight": 6.0, "id": 167114378, "level": 4}
+{"count": 734, "name": "Network Load Balancing", "weight": 6.0, "id": 11794279, "level": 4}
+{"count": 934, "name": "DNS hijacking", "weight": 7.0, "id": 3950186, "level": 4}
+{"count": 813, "name": "DNS zone transfer", "weight": 6.0, "id": 43393580, "level": 4}
+{"count": 1177, "name": "DNS zone", "weight": 10.0, "id": 57627455, "level": 4}

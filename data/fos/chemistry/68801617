@@ -1,0 +1,61 @@
+{"count": 31804, "name": "Ionic conductivity", "weight": 10.0, "id": 138679309, "level": 3}
+{"count": 23699, "name": "Electrochemical cell", "weight": 7.0, "id": 132543647, "level": 3}
+{"count": 19605, "name": "Lithium battery", "weight": 6.0, "id": 2779004117, "level": 3}
+{"count": 9643, "name": "Fast ion conductor", "weight": 3.0, "id": 109883240, "level": 3}
+{"count": 7367, "name": "Propylene carbonate", "weight": 2.0, "id": 2777983707, "level": 3}
+{"count": 2766, "name": "Lithium perchlorate", "weight": 0.0, "id": 2780624963, "level": 3}
+{"count": 15955, "name": "Electrolytic cell", "weight": 5.0, "id": 136674465, "level": 3}
+{"count": 4571, "name": "Ethylene carbonate", "weight": 1.0, "id": 2775991599, "level": 3}
+{"count": 2317, "name": "Isotachophoresis", "weight": 0.0, "id": 186293402, "level": 3}
+{"count": 4393, "name": "Electrowinning", "weight": 1.0, "id": 68047255, "level": 3}
+{"count": 1914, "name": "Plasma electrolytic oxidation", "weight": 0.0, "id": 2777578362, "level": 3}
+{"count": 2015, "name": "Proton conductor", "weight": 0.0, "id": 2776456419, "level": 3}
+{"count": 3139, "name": "Electric double-layer capacitor", "weight": 0.0, "id": 2779402669, "level": 3}
+{"count": 635, "name": "Self-discharge", "weight": 0.0, "id": 2776650655, "level": 3}
+{"count": 1999, "name": "Lithium\u2013sulfur battery", "weight": 0.0, "id": 2777464112, "level": 3}
+{"count": 2758, "name": "Faraday efficiency", "weight": 0.0, "id": 130349721, "level": 3}
+{"count": 1207, "name": "Primary cell", "weight": 0.0, "id": 147905033, "level": 3}
+{"count": 6757, "name": "Supporting electrolyte", "weight": 2.0, "id": 2779896888, "level": 3}
+{"count": 2070, "name": "Gas diffusion electrode", "weight": 0.0, "id": 2781203471, "level": 3}
+{"count": 3544, "name": "Alkaline battery", "weight": 1.0, "id": 164308340, "level": 3}
+{"count": 567, "name": "Liquid junction potential", "weight": 0.0, "id": 197883110, "level": 3}
+{"count": 889, "name": "Alkaline fuel cell", "weight": 0.0, "id": 2779710395, "level": 3}
+{"count": 617, "name": "Thin film rechargeable lithium battery", "weight": 0.0, "id": 40731752, "level": 3}
+{"count": 4397, "name": "Flow battery", "weight": 1.0, "id": 2777596839, "level": 3}
+{"count": 895, "name": "Lithium\u2013air battery", "weight": 0.0, "id": 2777602256, "level": 3}
+{"count": 645, "name": "Lithium polymer battery", "weight": 0.0, "id": 2775845653, "level": 3}
+{"count": 1382, "name": "Polarization (electrochemistry)", "weight": 0.0, "id": 205049153, "level": 3}
+{"count": 1157, "name": "Concentration cell", "weight": 0.0, "id": 102264631, "level": 3}
+{"count": 1137, "name": "Strong electrolyte", "weight": 0.0, "id": 198621165, "level": 3}
+{"count": 458, "name": "Lithium sulfide", "weight": 0.0, "id": 2779437378, "level": 3}
+{"count": 565, "name": "Donnan potential", "weight": 0.0, "id": 94421946, "level": 3}
+{"count": 753, "name": "Lithium iodide", "weight": 0.0, "id": 2776682256, "level": 3}
+{"count": 308, "name": "Vanadium redox battery", "weight": 0.0, "id": 2779562077, "level": 3}
+{"count": 908, "name": "Solid-state battery", "weight": 0.0, "id": 2778603015, "level": 3}
+{"count": 3867, "name": "Electrolytic process", "weight": 1.0, "id": 70635819, "level": 3}
+{"count": 98, "name": "Lithium chlorate", "weight": 0.0, "id": 2780477050, "level": 3}
+{"count": 687, "name": "Lithium-ion capacitor", "weight": 0.0, "id": 2776552312, "level": 3}
+{"count": 896, "name": "Organic radical battery", "weight": 0.0, "id": 190538518, "level": 3}
+{"count": 331, "name": "Lithium peroxide", "weight": 0.0, "id": 2776820912, "level": 3}
+{"count": 373, "name": "Magnesium battery", "weight": 0.0, "id": 2781335544, "level": 3}
+{"count": 3696, "name": "Separator (electricity)", "weight": 1.0, "id": 68591047, "level": 3}
+{"count": 175, "name": "Leclanch\u00e9 cell", "weight": 0.0, "id": 136971211, "level": 3}
+{"count": 8812, "name": "Lithium vanadium phosphate battery", "weight": 2.0, "id": 93078006, "level": 3}
+{"count": 130, "name": "Wien effect", "weight": 0.0, "id": 102849442, "level": 3}
+{"count": 164, "name": "Decomposition potential", "weight": 0.0, "id": 2780504676, "level": 3}
+{"count": 28, "name": "Sodium manganate", "weight": 0.0, "id": 2780261696, "level": 3}
+{"count": 30, "name": "Potential Determining Ion", "weight": 0.0, "id": 2777024943, "level": 3}
+{"count": 127, "name": "Nickel\u2013zinc battery", "weight": 0.0, "id": 2778858786, "level": 3}
+{"count": 121, "name": "Sodium superoxide", "weight": 0.0, "id": 2781317428, "level": 3}
+{"count": 182, "name": "Zinc\u2013bromine battery", "weight": 0.0, "id": 2776698672, "level": 3}
+{"count": 256, "name": "Reserve battery", "weight": 0.0, "id": 2778943143, "level": 3}
+{"count": 54, "name": "Protonic ceramic fuel cell", "weight": 0.0, "id": 2778063291, "level": 3}
+{"count": 148, "name": "Galvani potential", "weight": 0.0, "id": 157536035, "level": 3}
+{"count": 294, "name": "Solid-state lithium-ion battery", "weight": 0.0, "id": 60246724, "level": 3}
+{"count": 22, "name": "Mixed metal oxide electrode", "weight": 0.0, "id": 2780920646, "level": 3}
+{"count": 82, "name": "Beta-alumina solid electrolyte", "weight": 0.0, "id": 2776865235, "level": 3}
+{"count": 137, "name": "Difluorophosphate", "weight": 0.0, "id": 2781267611, "level": 3}
+{"count": 87, "name": "Dimethyl sulfite", "weight": 0.0, "id": 2778021933, "level": 3}
+{"count": 23, "name": "Zinc trifluoromethanesulfonate", "weight": 0.0, "id": 2778124193, "level": 3}
+{"count": 91, "name": "Water battery", "weight": 0.0, "id": 2777985195, "level": 3}
+{"count": 149, "name": "Galvanic bath", "weight": 0.0, "id": 2777198848, "level": 3}

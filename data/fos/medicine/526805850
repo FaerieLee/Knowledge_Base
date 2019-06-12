@@ -1,0 +1,58 @@
+{"count": 32564, "name": "Colonoscopy", "weight": 10.0, "id": 2778435480, "level": 4}
+{"count": 7660, "name": "Microsatellite instability", "weight": 2.0, "id": 2779767149, "level": 4}
+{"count": 6285, "name": "Familial adenomatous polyposis", "weight": 1.0, "id": 2780814781, "level": 4}
+{"count": 11564, "name": "Irinotecan", "weight": 3.0, "id": 2780259306, "level": 4}
+{"count": 4011, "name": "Adenomatous polyposis coli", "weight": 1.0, "id": 2778237340, "level": 4}
+{"count": 13425, "name": "Oxaliplatin", "weight": 4.0, "id": 2780962732, "level": 4}
+{"count": 9497, "name": "Cetuximab", "weight": 2.0, "id": 2779998722, "level": 4}
+{"count": 3769, "name": "Colorectal adenoma", "weight": 1.0, "id": 2776861080, "level": 4}
+{"count": 8573, "name": "Capecitabine", "weight": 2.0, "id": 2777909004, "level": 4}
+{"count": 7707, "name": "Colorectal surgery", "weight": 2.0, "id": 523026621, "level": 4}
+{"count": 4124, "name": "Lynch syndrome", "weight": 1.0, "id": 2776559941, "level": 4}
+{"count": 3949, "name": "Total mesorectal excision", "weight": 1.0, "id": 2777201421, "level": 4}
+{"count": 3345, "name": "Folinic acid", "weight": 1.0, "id": 2779804826, "level": 4}
+{"count": 15055, "name": "KRAS", "weight": 4.0, "id": 2781187634, "level": 4}
+{"count": 1908, "name": "Aberrant crypt foci", "weight": 0.0, "id": 2780669762, "level": 4}
+{"count": 1992, "name": "Azoxymethane", "weight": 0.0, "id": 2778452354, "level": 4}
+{"count": 552, "name": "Floxuridine", "weight": 0.0, "id": 2779598120, "level": 4}
+{"count": 2924, "name": "Abdominoperineal resection", "weight": 0.0, "id": 2781171867, "level": 4}
+{"count": 1883, "name": "Hepatic arterial infusion", "weight": 0.0, "id": 2778405590, "level": 4}
+{"count": 2264, "name": "Metastasectomy", "weight": 0.0, "id": 2778601017, "level": 4}
+{"count": 1013, "name": "Deleted in Colorectal Cancer", "weight": 0.0, "id": 129642508, "level": 4}
+{"count": 1113, "name": "1,2-Dimethylhydrazine", "weight": 0.0, "id": 2779932572, "level": 4}
+{"count": 1910, "name": "Hyperthermic intraperitoneal chemotherapy", "weight": 0.0, "id": 2779458272, "level": 4}
+{"count": 3395, "name": "Resection margin", "weight": 1.0, "id": 2778132481, "level": 4}
+{"count": 409, "name": "Muir\u2013Torre syndrome", "weight": 0.0, "id": 2780939029, "level": 4}
+{"count": 1303, "name": "Regorafenib", "weight": 0.0, "id": 2776248978, "level": 4}
+{"count": 785, "name": "Coloanal anastomosis", "weight": 0.0, "id": 2779862317, "level": 4}
+{"count": 829, "name": "Tubular adenoma", "weight": 0.0, "id": 2777936439, "level": 4}
+{"count": 105, "name": "Semustine", "weight": 0.0, "id": 2780595542, "level": 4}
+{"count": 209, "name": "Trifluridine", "weight": 0.0, "id": 2776167694, "level": 4}
+{"count": 577, "name": "Selective internal radiation therapy", "weight": 0.0, "id": 2779185275, "level": 4}
+{"count": 273, "name": "Juvenile polyposis syndrome", "weight": 0.0, "id": 2777126528, "level": 4}
+{"count": 290, "name": "Tegafur/uracil", "weight": 0.0, "id": 2778103771, "level": 4}
+{"count": 384, "name": "Tubulovillous adenoma", "weight": 0.0, "id": 2777043586, "level": 4}
+{"count": 64, "name": "Appendix cancer", "weight": 0.0, "id": 2779422439, "level": 4}
+{"count": 1385, "name": "Tumor M2-PK", "weight": 0.0, "id": 192638826, "level": 4}
+{"count": 161, "name": "Radioimmunoguided surgery", "weight": 0.0, "id": 2778752160, "level": 4}
+{"count": 222, "name": "Isolated hepatic perfusion", "weight": 0.0, "id": 2776462709, "level": 4}
+{"count": 64, "name": "Edrecolomab", "weight": 0.0, "id": 2776112062, "level": 4}
+{"count": 181, "name": "Left colic artery", "weight": 0.0, "id": 2777312077, "level": 4}
+{"count": 132, "name": "Molecular pathological epidemiology", "weight": 0.0, "id": 115855653, "level": 4}
+{"count": 70, "name": "Small intestine cancer", "weight": 0.0, "id": 2778615654, "level": 4}
+{"count": 374, "name": "Metastatic liver disease", "weight": 0.0, "id": 2777742982, "level": 4}
+{"count": 149, "name": "Polysaccharide-K", "weight": 0.0, "id": 2778820138, "level": 4}
+{"count": 61, "name": "Percutaneous hepatic perfusion", "weight": 0.0, "id": 2777727195, "level": 4}
+{"count": 71, "name": "CYP2W1", "weight": 0.0, "id": 2780348248, "level": 4}
+{"count": 40, "name": "GPA33", "weight": 0.0, "id": 2777585273, "level": 4}
+{"count": 49, "name": "Colon cancer staging", "weight": 0.0, "id": 2777742691, "level": 4}
+{"count": 86, "name": "Lower anterior resection", "weight": 0.0, "id": 2779438338, "level": 4}
+{"count": 22, "name": "Mothers against decapentaplegic homolog 7", "weight": 0.0, "id": 2777209476, "level": 4}
+{"count": 169, "name": "Tipiracil", "weight": 0.0, "id": 2780683422, "level": 4}
+{"count": 22, "name": "NOSH-aspirin", "weight": 0.0, "id": 2776424812, "level": 4}
+{"count": 12, "name": "Western pattern diet", "weight": 0.0, "id": 2780686379, "level": 4}
+{"count": 11, "name": "Oncotype DX Colon Cancer Assay", "weight": 0.0, "id": 2776610889, "level": 4}
+{"count": 18, "name": "COTL1", "weight": 0.0, "id": 2779828147, "level": 4}
+{"count": 37, "name": "Stool guaiac test", "weight": 0.0, "id": 2781259123, "level": 4}
+{"count": 15, "name": "B-staging", "weight": 0.0, "id": 2780692420, "level": 4}
+{"count": 1791, "name": "Mouse model of colorectal and intestinal cancer", "weight": 0.0, "id": 111669997, "level": 4}

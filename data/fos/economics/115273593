@@ -1,0 +1,5 @@
+{"count": 316, "name": "Forward exchange rate", "weight": 10.0, "id": 2779469669, "level": 5}
+{"count": 133, "name": "Forward premium anomaly", "weight": 4.0, "id": 2781139955, "level": 5}
+{"count": 65, "name": "Triangular arbitrage", "weight": 2.0, "id": 2777875337, "level": 5}
+{"count": 12, "name": "Uncovered interest arbitrage", "weight": 0.0, "id": 2777159228, "level": 5}
+{"count": 42, "name": "Power reverse dual-currency note", "weight": 1.0, "id": 5861761, "level": 5}

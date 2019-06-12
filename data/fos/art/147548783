@@ -1,0 +1,8 @@
+{"count": 1064, "name": "Visual masking", "weight": 5.0, "id": 2779200073, "level": 3}
+{"count": 1203, "name": "Backward masking", "weight": 6.0, "id": 2776817677, "level": 3}
+{"count": 1165, "name": "Critical band", "weight": 6.0, "id": 96390635, "level": 3}
+{"count": 1911, "name": "Auditory masking", "weight": 10.0, "id": 77801330, "level": 3}
+{"count": 430, "name": "Masking threshold", "weight": 2.0, "id": 2780171022, "level": 3}
+{"count": 167, "name": "Lateral masking", "weight": 0.0, "id": 2781336309, "level": 3}
+{"count": 302, "name": "Data masking", "weight": 1.0, "id": 2777421907, "level": 3}
+{"count": 306, "name": "Sound masking", "weight": 1.0, "id": 127543774, "level": 3}

@@ -1,0 +1,14 @@
+{"count": 3942, "name": "PageRank", "weight": 10.0, "id": 2779172887, "level": 3}
+{"count": 3194, "name": "Learning to rank", "weight": 8.0, "id": 86037889, "level": 3}
+{"count": 193, "name": "Bradley\u2013Terry model", "weight": 0.0, "id": 2780191792, "level": 3}
+{"count": 221, "name": "g-index", "weight": 0.0, "id": 2781181577, "level": 3}
+{"count": 539, "name": "Mean reciprocal rank", "weight": 1.0, "id": 44083865, "level": 3}
+{"count": 352, "name": "Rank reversals in decision-making", "weight": 0.0, "id": 37728301, "level": 3}
+{"count": 637, "name": "VIKOR method", "weight": 1.0, "id": 172438850, "level": 3}
+{"count": 3161, "name": "Ranking SVM", "weight": 8.0, "id": 124975894, "level": 3}
+{"count": 159, "name": "Optimal computing budget allocation", "weight": 0.0, "id": 2778881703, "level": 3}
+{"count": 192, "name": "Rankers", "weight": 0.0, "id": 2779308801, "level": 3}
+{"count": 83, "name": "Kendall tau distance", "weight": 0.0, "id": 100094368, "level": 3}
+{"count": 107, "name": "Thurstonian model", "weight": 0.0, "id": 127743181, "level": 3}
+{"count": 37, "name": "TrueSkill", "weight": 0.0, "id": 2781037238, "level": 3}
+{"count": 180, "name": "Potentially all pairwise rankings of all possible alternatives", "weight": 0.0, "id": 41228191, "level": 3}

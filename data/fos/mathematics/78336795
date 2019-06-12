@@ -1,0 +1,5 @@
+{"count": 19371, "name": "Flyback converter", "weight": 8.0, "id": 103303742, "level": 3}
+{"count": 23794, "name": "\u0106uk converter", "weight": 10.0, "id": 100329506, "level": 3}
+{"count": 10756, "name": "AC/AC converter", "weight": 4.0, "id": 150636421, "level": 3}
+{"count": 178, "name": "Cascade converter", "weight": 0.0, "id": 2780998737, "level": 3}
+{"count": 92, "name": "Boost controller", "weight": 0.0, "id": 2778581623, "level": 3}

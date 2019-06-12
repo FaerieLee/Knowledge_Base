@@ -1,0 +1,10 @@
+{"count": 2207, "name": "Integer matrix", "weight": 10.0, "id": 62555958, "level": 4}
+{"count": 23, "name": "Skew-Hamiltonian matrix", "weight": 0.0, "id": 2781134612, "level": 4}
+{"count": 393, "name": "EISPACK", "weight": 1.0, "id": 134935661, "level": 4}
+{"count": 585, "name": "Matrix unit", "weight": 2.0, "id": 96211746, "level": 4}
+{"count": 825, "name": "Matrix equivalence", "weight": 3.0, "id": 34459055, "level": 4}
+{"count": 114, "name": "Cauchy\u2013Binet formula", "weight": 0.0, "id": 20212142, "level": 4}
+{"count": 242, "name": "Matrix congruence", "weight": 1.0, "id": 181243695, "level": 4}
+{"count": 13, "name": "Spread of a matrix", "weight": 0.0, "id": 2779391320, "level": 4}
+{"count": 371, "name": "Weyl\u2013Brauer matrices", "weight": 1.0, "id": 104762748, "level": 4}
+{"count": 778, "name": "Higher-dimensional gamma matrices", "weight": 3.0, "id": 20836784, "level": 4}

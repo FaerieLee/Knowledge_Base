@@ -1,0 +1,38 @@
+{"count": 9827, "name": "Consonant", "weight": 10.0, "id": 2778203577, "level": 3}
+{"count": 1701, "name": "Voice-onset time", "weight": 1.0, "id": 89051679, "level": 3}
+{"count": 2247, "name": "Coarticulation", "weight": 2.0, "id": 130727458, "level": 3}
+{"count": 1993, "name": "Diphthong", "weight": 2.0, "id": 76978605, "level": 3}
+{"count": 945, "name": "Vowel harmony", "weight": 0.0, "id": 2781280609, "level": 3}
+{"count": 2093, "name": "Place of articulation", "weight": 2.0, "id": 36933642, "level": 3}
+{"count": 836, "name": "Epenthesis", "weight": 0.0, "id": 2779588740, "level": 3}
+{"count": 2103, "name": "Stress (linguistics)", "weight": 2.0, "id": 21036866, "level": 3}
+{"count": 915, "name": "Nasality", "weight": 0.0, "id": 2780256294, "level": 3}
+{"count": 963, "name": "Schwa", "weight": 0.0, "id": 2780580791, "level": 3}
+{"count": 827, "name": "Vowel length", "weight": 0.0, "id": 2780673583, "level": 3}
+{"count": 676, "name": "Nasalization", "weight": 0.0, "id": 516976414, "level": 3}
+{"count": 453, "name": "Vowel reduction", "weight": 0.0, "id": 2777061557, "level": 3}
+{"count": 1365, "name": "Obstruent", "weight": 1.0, "id": 3156200, "level": 3}
+{"count": 367, "name": "Glottalization", "weight": 0.0, "id": 5469714, "level": 3}
+{"count": 724, "name": "Sonorant", "weight": 0.0, "id": 74731656, "level": 3}
+{"count": 180, "name": "Compensatory lengthening", "weight": 0.0, "id": 2776450372, "level": 3}
+{"count": 353, "name": "Semivowel", "weight": 0.0, "id": 137683994, "level": 3}
+{"count": 115, "name": "Chain shift", "weight": 0.0, "id": 2779942049, "level": 3}
+{"count": 92, "name": "Labialization", "weight": 0.0, "id": 2779078659, "level": 3}
+{"count": 104, "name": "Metaphony", "weight": 0.0, "id": 2780254386, "level": 3}
+{"count": 242, "name": "Tenseness", "weight": 0.0, "id": 2778690056, "level": 3}
+{"count": 191, "name": "Vowel shift", "weight": 0.0, "id": 2778931113, "level": 3}
+{"count": 48, "name": "Denasalization", "weight": 0.0, "id": 2776502140, "level": 3}
+{"count": 2661, "name": "Mid vowel", "weight": 2.0, "id": 150321799, "level": 3}
+{"count": 515, "name": "Aspirated consonant", "weight": 0.0, "id": 33407051, "level": 3}
+{"count": 77, "name": "Buckeye Corpus", "weight": 0.0, "id": 2776950477, "level": 3}
+{"count": 111, "name": "Preaspiration", "weight": 0.0, "id": 2776092703, "level": 3}
+{"count": 162, "name": "Phonemic contrast", "weight": 0.0, "id": 2779072074, "level": 3}
+{"count": 22, "name": "Floating tone", "weight": 0.0, "id": 2775968134, "level": 3}
+{"count": 48, "name": "Roundedness", "weight": 0.0, "id": 2777854462, "level": 3}
+{"count": 25, "name": "Nasal release", "weight": 0.0, "id": 2780285414, "level": 3}
+{"count": 133, "name": "Phonetic environment", "weight": 0.0, "id": 2780682032, "level": 3}
+{"count": 85, "name": "Penult", "weight": 0.0, "id": 2775860164, "level": 3}
+{"count": 8, "name": "Vocal fry register", "weight": 0.0, "id": 2776032675, "level": 3}
+{"count": 60, "name": "Open vowel", "weight": 0.0, "id": 2775966685, "level": 3}
+{"count": 12, "name": "Emphatic consonant", "weight": 0.0, "id": 2780252168, "level": 3}
+{"count": 15, "name": "Front rounded vowel", "weight": 0.0, "id": 2780760573, "level": 3}

@@ -1,0 +1,7 @@
+{"count": 4549, "name": "Genetic operator", "weight": 10.0, "id": 9899798, "level": 4}
+{"count": 748, "name": "Tournament selection", "weight": 1.0, "id": 165661538, "level": 4}
+{"count": 417, "name": "Crossover effects", "weight": 0.0, "id": 8242336, "level": 4}
+{"count": 869, "name": "Fitness proportionate selection", "weight": 1.0, "id": 99701942, "level": 4}
+{"count": 143, "name": "EAX mode", "weight": 0.0, "id": 147883678, "level": 4}
+{"count": 78, "name": "Split cycle engine", "weight": 0.0, "id": 2778842338, "level": 4}
+{"count": 134, "name": "Defining length", "weight": 0.0, "id": 169268914, "level": 4}

@@ -1,0 +1,7 @@
+{"count": 6528, "name": "Ring current", "weight": 10.0, "id": 9844520, "level": 4}
+{"count": 918, "name": "Geomagnetically induced current", "weight": 1.0, "id": 7328023, "level": 4}
+{"count": 4921, "name": "Geomagnetic secular variation", "weight": 7.0, "id": 149951536, "level": 4}
+{"count": 479, "name": "Ionospheric storm", "weight": 0.0, "id": 2780128295, "level": 4}
+{"count": 271, "name": "K-index", "weight": 0.0, "id": 133910548, "level": 4}
+{"count": 747, "name": "Solar storm of 1859", "weight": 1.0, "id": 84571983, "level": 4}
+{"count": 711, "name": "Bastille Day event", "weight": 1.0, "id": 144242785, "level": 4}

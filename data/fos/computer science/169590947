@@ -1,0 +1,48 @@
+{"count": 4340, "name": "Optimizing compiler", "weight": 10.0, "id": 190902152, "level": 3}
+{"count": 1899, "name": "Register allocation", "weight": 4.0, "id": 128916667, "level": 3}
+{"count": 2337, "name": "Automatic parallelization", "weight": 5.0, "id": 164833996, "level": 3}
+{"count": 1112, "name": "Dynamic compilation", "weight": 2.0, "id": 8767382, "level": 3}
+{"count": 1064, "name": "Just-in-time compilation", "weight": 2.0, "id": 76782552, "level": 3}
+{"count": 598, "name": "High Performance Fortran", "weight": 1.0, "id": 2776044905, "level": 3}
+{"count": 422, "name": "Static single assignment form", "weight": 0.0, "id": 148490199, "level": 3}
+{"count": 1155, "name": "Ada", "weight": 2.0, "id": 515714638, "level": 3}
+{"count": 2835, "name": "Compiler construction", "weight": 6.0, "id": 9957790, "level": 3}
+{"count": 465, "name": "Silicon compiler", "weight": 1.0, "id": 2778935095, "level": 3}
+{"count": 138, "name": "Typed assembly language", "weight": 0.0, "id": 2775836774, "level": 3}
+{"count": 492, "name": "Runtime library", "weight": 1.0, "id": 2776492548, "level": 3}
+{"count": 657, "name": "Parallel language", "weight": 1.0, "id": 2779900883, "level": 3}
+{"count": 641, "name": "Symbol table", "weight": 1.0, "id": 86013566, "level": 3}
+{"count": 2466, "name": "Compile time", "weight": 5.0, "id": 200833197, "level": 3}
+{"count": 153, "name": "Induction variable", "weight": 0.0, "id": 92439413, "level": 3}
+{"count": 1101, "name": "Compiled language", "weight": 2.0, "id": 92966194, "level": 3}
+{"count": 57, "name": "Standard ML of New Jersey", "weight": 0.0, "id": 2779149820, "level": 3}
+{"count": 111, "name": "Metacompiler", "weight": 0.0, "id": 30193087, "level": 3}
+{"count": 24, "name": "Concurrent Euclid", "weight": 0.0, "id": 2780895774, "level": 3}
+{"count": 103, "name": "Inline function", "weight": 0.0, "id": 57422526, "level": 3}
+{"count": 171, "name": "Calling convention", "weight": 0.0, "id": 68648589, "level": 3}
+{"count": 122, "name": "Decompiler", "weight": 0.0, "id": 2781433556, "level": 3}
+{"count": 2690, "name": "Compiler correctness", "weight": 6.0, "id": 68366613, "level": 3}
+{"count": 125, "name": "Peephole optimization", "weight": 0.0, "id": 4970464, "level": 3}
+{"count": 65, "name": "Livermore loops", "weight": 0.0, "id": 2778928789, "level": 3}
+{"count": 16, "name": "Metacompilation", "weight": 0.0, "id": 2780230701, "level": 3}
+{"count": 110, "name": "Array programming", "weight": 0.0, "id": 167880892, "level": 3}
+{"count": 42, "name": "ALGOL W", "weight": 0.0, "id": 2778772404, "level": 3}
+{"count": 118, "name": "Cross compiler", "weight": 0.0, "id": 2776302345, "level": 3}
+{"count": 69, "name": "Foreign function interface", "weight": 0.0, "id": 2781196103, "level": 3}
+{"count": 75, "name": "Undefined behavior", "weight": 0.0, "id": 64156549, "level": 3}
+{"count": 42, "name": "Live variable analysis", "weight": 0.0, "id": 49816052, "level": 3}
+{"count": 37, "name": "Oberon-2", "weight": 0.0, "id": 114606832, "level": 3}
+{"count": 25, "name": "Coral 66", "weight": 0.0, "id": 130296093, "level": 3}
+{"count": 29, "name": "UNCOL", "weight": 0.0, "id": 2776585339, "level": 3}
+{"count": 168, "name": "Hand coding", "weight": 0.0, "id": 184633998, "level": 3}
+{"count": 32, "name": "Dynamic recompilation", "weight": 0.0, "id": 2776475523, "level": 3}
+{"count": 122, "name": "Compilation error", "weight": 0.0, "id": 38324569, "level": 3}
+{"count": 7, "name": "Coco/R", "weight": 0.0, "id": 2776581884, "level": 3}
+{"count": 28, "name": "Uninitialized variable", "weight": 0.0, "id": 183326972, "level": 3}
+{"count": 19, "name": "Literal pool", "weight": 0.0, "id": 81188586, "level": 3}
+{"count": 40, "name": "Variable-length array", "weight": 0.0, "id": 24443039, "level": 3}
+{"count": 154, "name": "Web IDL", "weight": 0.0, "id": 52499365, "level": 3}
+{"count": 17, "name": "PQCC", "weight": 0.0, "id": 2776990790, "level": 3}
+{"count": 30, "name": "Meta-circular evaluator", "weight": 0.0, "id": 107069224, "level": 3}
+{"count": 21, "name": "Bigloo", "weight": 0.0, "id": 2779315453, "level": 3}
+{"count": 7, "name": "Blocks", "weight": 0.0, "id": 142688372, "level": 3}

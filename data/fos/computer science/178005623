@@ -1,0 +1,8 @@
+{"count": 285, "name": "Mix network", "weight": 3.0, "id": 2776498084, "level": 3}
+{"count": 934, "name": "k-anonymity", "weight": 10.0, "id": 2777706471, "level": 3}
+{"count": 359, "name": "Pseudonymity", "weight": 3.0, "id": 151505593, "level": 3}
+{"count": 369, "name": "Onion routing", "weight": 3.0, "id": 2776204327, "level": 3}
+{"count": 12, "name": "Forward anonymity", "weight": 0.0, "id": 2780289768, "level": 3}
+{"count": 130, "name": "Dining cryptographers problem", "weight": 1.0, "id": 197487317, "level": 3}
+{"count": 14, "name": "Non-dictatorship", "weight": 0.0, "id": 2780928297, "level": 3}
+{"count": 41, "name": "Unmatched count", "weight": 0.0, "id": 2778751651, "level": 3}

@@ -1,0 +1,47 @@
+{"count": 33508, "name": "Embryogenesis", "weight": 10.0, "id": 87073359, "level": 3}
+{"count": 8194, "name": "Mesoderm", "weight": 2.0, "id": 2780915607, "level": 3}
+{"count": 9796, "name": "Embryo culture", "weight": 2.0, "id": 2779335785, "level": 3}
+{"count": 19371, "name": "Blastocyst", "weight": 5.0, "id": 2778177303, "level": 3}
+{"count": 18276, "name": "Embryo transfer", "weight": 5.0, "id": 160099875, "level": 3}
+{"count": 13204, "name": "Somatic embryogenesis", "weight": 3.0, "id": 201468095, "level": 3}
+{"count": 7972, "name": "Zygote", "weight": 2.0, "id": 28748434, "level": 3}
+{"count": 5131, "name": "Endoderm", "weight": 1.0, "id": 2777164004, "level": 3}
+{"count": 6137, "name": "Ectoderm", "weight": 1.0, "id": 2779329299, "level": 3}
+{"count": 3634, "name": "Chorioallantoic membrane", "weight": 1.0, "id": 97230052, "level": 3}
+{"count": 3560, "name": "Blastomere", "weight": 1.0, "id": 68760520, "level": 3}
+{"count": 3684, "name": "Preimplantation genetic diagnosis", "weight": 1.0, "id": 2778805741, "level": 3}
+{"count": 2733, "name": "Somite", "weight": 0.0, "id": 2779018604, "level": 3}
+{"count": 3640, "name": "Notochord", "weight": 1.0, "id": 2776133846, "level": 3}
+{"count": 1950, "name": "Neurulation", "weight": 0.0, "id": 102225024, "level": 3}
+{"count": 294, "name": "Days post coitum", "weight": 0.0, "id": 79701393, "level": 3}
+{"count": 3040, "name": "Pronucleus", "weight": 0.0, "id": 110758877, "level": 3}
+{"count": 560, "name": "Allantois", "weight": 0.0, "id": 2779207114, "level": 3}
+{"count": 1130, "name": "Embryo rescue", "weight": 0.0, "id": 2776927880, "level": 3}
+{"count": 929, "name": "Fate mapping", "weight": 0.0, "id": 63101894, "level": 3}
+{"count": 646, "name": "Chordin", "weight": 0.0, "id": 83484664, "level": 3}
+{"count": 442, "name": "Gonadal ridge", "weight": 0.0, "id": 148102462, "level": 3}
+{"count": 660, "name": "Embryo donation", "weight": 0.0, "id": 56181019, "level": 3}
+{"count": 2353, "name": "In ovo", "weight": 0.0, "id": 2778765379, "level": 3}
+{"count": 166, "name": "Cellularization", "weight": 0.0, "id": 2778003374, "level": 3}
+{"count": 404, "name": "Midblastula", "weight": 0.0, "id": 26838971, "level": 3}
+{"count": 424, "name": "Pluteus", "weight": 0.0, "id": 2778393845, "level": 3}
+{"count": 80, "name": "Fish development", "weight": 0.0, "id": 2778344033, "level": 3}
+{"count": 1959, "name": "Neural fold", "weight": 0.0, "id": 103607123, "level": 3}
+{"count": 208, "name": "Blood islands", "weight": 0.0, "id": 42868010, "level": 3}
+{"count": 202, "name": "Cytoplasmic determinant", "weight": 0.0, "id": 9695501, "level": 3}
+{"count": 147, "name": "Ilyanassa", "weight": 0.0, "id": 2780404209, "level": 3}
+{"count": 269, "name": "Germinal disc", "weight": 0.0, "id": 189735820, "level": 3}
+{"count": 87, "name": "Helobdella robusta", "weight": 0.0, "id": 2779808808, "level": 3}
+{"count": 26, "name": "Markuelia", "weight": 0.0, "id": 2778727413, "level": 3}
+{"count": 159, "name": "Carnegie stages", "weight": 0.0, "id": 182972259, "level": 3}
+{"count": 121, "name": "Dorsal mesentery", "weight": 0.0, "id": 2780766081, "level": 3}
+{"count": 15, "name": "Nothobranchius korthausae", "weight": 0.0, "id": 2776619289, "level": 3}
+{"count": 89, "name": "Vitelline circulation", "weight": 0.0, "id": 55945786, "level": 3}
+{"count": 145, "name": "Tubular heart", "weight": 0.0, "id": 2780739781, "level": 3}
+{"count": 93, "name": "Orphan virus", "weight": 0.0, "id": 2777403650, "level": 3}
+{"count": 56, "name": "Egg tooth", "weight": 0.0, "id": 138239020, "level": 3}
+{"count": 68, "name": "Austrofundulus", "weight": 0.0, "id": 2780787200, "level": 3}
+{"count": 261, "name": "Sea urchin skeletogenesis", "weight": 0.0, "id": 197488940, "level": 3}
+{"count": 24, "name": "Cephalic flexure", "weight": 0.0, "id": 194570595, "level": 3}
+{"count": 33, "name": "Leucopsarion petersii", "weight": 0.0, "id": 2776798578, "level": 3}
+{"count": 357, "name": "16-cell", "weight": 0.0, "id": 23712438, "level": 3}

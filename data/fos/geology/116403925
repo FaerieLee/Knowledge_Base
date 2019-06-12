@@ -1,0 +1,44 @@
+{"count": 18602, "name": "Geomagnetic storm", "weight": 10.0, "id": 170641098, "level": 3}
+{"count": 9620, "name": "Thermosphere", "weight": 5.0, "id": 131980223, "level": 3}
+{"count": 6557, "name": "Incoherent scatter", "weight": 3.0, "id": 35777598, "level": 3}
+{"count": 6039, "name": "Very low frequency", "weight": 3.0, "id": 139358767, "level": 3}
+{"count": 5308, "name": "Airglow", "weight": 2.0, "id": 156034889, "level": 3}
+{"count": 4853, "name": "F region", "weight": 2.0, "id": 58300830, "level": 3}
+{"count": 5576, "name": "Total electron content", "weight": 2.0, "id": 165391973, "level": 3}
+{"count": 3493, "name": "Radio occultation", "weight": 1.0, "id": 2777034083, "level": 3}
+{"count": 1215, "name": "Ionospheric sounding", "weight": 0.0, "id": 2779271181, "level": 3}
+{"count": 9021, "name": "TEC", "weight": 4.0, "id": 176379880, "level": 3}
+{"count": 578, "name": "Critical frequency", "weight": 0.0, "id": 87635042, "level": 3}
+{"count": 1351, "name": "Equatorial electrojet", "weight": 0.0, "id": 2780257235, "level": 3}
+{"count": 812, "name": "Schumann resonances", "weight": 0.0, "id": 77203916, "level": 3}
+{"count": 445, "name": "Field aligned irregularities", "weight": 0.0, "id": 2776083345, "level": 3}
+{"count": 1777, "name": "Sporadic E propagation", "weight": 0.0, "id": 78251058, "level": 3}
+{"count": 1419, "name": "Geomagnetic latitude", "weight": 0.0, "id": 2776718089, "level": 3}
+{"count": 988, "name": "Ionogram", "weight": 0.0, "id": 16269946, "level": 3}
+{"count": 1692, "name": "Ionosonde", "weight": 0.0, "id": 184850221, "level": 3}
+{"count": 3213, "name": "Ionospheric absorption", "weight": 1.0, "id": 17674307, "level": 3}
+{"count": 481, "name": "Terminator (solar)", "weight": 0.0, "id": 178046730, "level": 3}
+{"count": 736, "name": "Cosmic noise", "weight": 0.0, "id": 101649592, "level": 3}
+{"count": 2382, "name": "Electrojet", "weight": 1.0, "id": 35666279, "level": 3}
+{"count": 862, "name": "Riometer", "weight": 0.0, "id": 2777124426, "level": 3}
+{"count": 420, "name": "Maximum usable frequency", "weight": 0.0, "id": 60036623, "level": 3}
+{"count": 523, "name": "Radio atmospheric", "weight": 0.0, "id": 122622459, "level": 3}
+{"count": 960, "name": "Skywave", "weight": 0.0, "id": 45860500, "level": 3}
+{"count": 2193, "name": "High frequency", "weight": 1.0, "id": 49362268, "level": 3}
+{"count": 342, "name": "Arecibo Observatory", "weight": 0.0, "id": 2780631992, "level": 3}
+{"count": 157, "name": "Seismo-electromagnetics", "weight": 0.0, "id": 55164188, "level": 3}
+{"count": 70, "name": "Chapman function", "weight": 0.0, "id": 2778411669, "level": 3}
+{"count": 302, "name": "Radio star", "weight": 0.0, "id": 2781315632, "level": 3}
+{"count": 43, "name": "VOACAP", "weight": 0.0, "id": 2776858864, "level": 3}
+{"count": 125, "name": "High Frequency Active Auroral Research Program", "weight": 0.0, "id": 2780913849, "level": 3}
+{"count": 92, "name": "Skip distance", "weight": 0.0, "id": 2776713336, "level": 3}
+{"count": 32, "name": "Atmospheric waveguide", "weight": 0.0, "id": 2778500363, "level": 3}
+{"count": 4042, "name": "Ionospheric heater", "weight": 2.0, "id": 152821216, "level": 3}
+{"count": 18, "name": "Radio science subsystem", "weight": 0.0, "id": 2779692757, "level": 3}
+{"count": 118, "name": "Jicamarca Radio Observatory", "weight": 0.0, "id": 2780160818, "level": 3}
+{"count": 17, "name": "Long delayed echo", "weight": 0.0, "id": 11636886, "level": 3}
+{"count": 24, "name": "Multipoint ground", "weight": 0.0, "id": 2776454682, "level": 3}
+{"count": 158, "name": "Sunrise equation", "weight": 0.0, "id": 164605654, "level": 3}
+{"count": 8073, "name": "Ionospheric dynamo region", "weight": 4.0, "id": 193215396, "level": 3}
+{"count": 28, "name": "Sagamore Hill Radio Observatory", "weight": 0.0, "id": 2776763453, "level": 3}
+{"count": 202, "name": "Injun", "weight": 0.0, "id": 2778016407, "level": 3}

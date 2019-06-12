@@ -1,0 +1,200 @@
+{"count": 4140, "name": "Aculeata", "weight": 4.0, "id": 2780696480, "level": 3}
+{"count": 7808, "name": "Apidae", "weight": 9.0, "id": 2776159473, "level": 3}
+{"count": 8431, "name": "Braconidae", "weight": 10.0, "id": 2778923344, "level": 3}
+{"count": 2817, "name": "Hexapoda", "weight": 3.0, "id": 2780588435, "level": 3}
+{"count": 3236, "name": "Vespidae", "weight": 3.0, "id": 2780461565, "level": 3}
+{"count": 4619, "name": "Ichneumonidae", "weight": 5.0, "id": 2779873666, "level": 3}
+{"count": 1449, "name": "Parasitoid wasp", "weight": 1.0, "id": 2780541402, "level": 3}
+{"count": 1928, "name": "Myrmicinae", "weight": 2.0, "id": 2778961566, "level": 3}
+{"count": 2260, "name": "Pteromalidae", "weight": 2.0, "id": 2777380499, "level": 3}
+{"count": 1711, "name": "Aphelinidae", "weight": 2.0, "id": 2778652030, "level": 3}
+{"count": 962, "name": "Ponerinae", "weight": 1.0, "id": 2780425258, "level": 3}
+{"count": 2719, "name": "Eulophidae", "weight": 3.0, "id": 2775839202, "level": 3}
+{"count": 2052, "name": "Encyrtidae", "weight": 2.0, "id": 2780637138, "level": 3}
+{"count": 2297, "name": "Eusociality", "weight": 2.0, "id": 66956843, "level": 3}
+{"count": 1511, "name": "Tenthredinidae", "weight": 1.0, "id": 2780122709, "level": 3}
+{"count": 1165, "name": "Sphecidae", "weight": 1.0, "id": 2779705877, "level": 3}
+{"count": 1133, "name": "Scelionidae", "weight": 1.0, "id": 2781300066, "level": 3}
+{"count": 1919, "name": "Ovipositor", "weight": 2.0, "id": 171551076, "level": 3}
+{"count": 475, "name": "Trophallaxis", "weight": 0.0, "id": 125705542, "level": 3}
+{"count": 253, "name": "Worker policing", "weight": 0.0, "id": 72402990, "level": 3}
+{"count": 863, "name": "Pheidole", "weight": 1.0, "id": 2776077705, "level": 3}
+{"count": 415, "name": "Trail pheromone", "weight": 0.0, "id": 2780844596, "level": 3}
+{"count": 253, "name": "Monogyny", "weight": 0.0, "id": 2777750345, "level": 3}
+{"count": 386, "name": "Thelytoky", "weight": 0.0, "id": 50241389, "level": 3}
+{"count": 578, "name": "Haplodiploidy", "weight": 0.0, "id": 151719169, "level": 3}
+{"count": 656, "name": "Crematogaster", "weight": 0.0, "id": 2780488601, "level": 3}
+{"count": 634, "name": "Myrmica", "weight": 0.0, "id": 2777122650, "level": 3}
+{"count": 591, "name": "Bethylidae", "weight": 0.0, "id": 2776369738, "level": 3}
+{"count": 277, "name": "Atta cephalotes", "weight": 0.0, "id": 2781217236, "level": 3}
+{"count": 504, "name": "Eurytomidae", "weight": 0.0, "id": 2779834932, "level": 3}
+{"count": 412, "name": "Formica rufa", "weight": 0.0, "id": 2776794393, "level": 3}
+{"count": 402, "name": "Acromyrmex", "weight": 0.0, "id": 2778565514, "level": 3}
+{"count": 462, "name": "Chalcididae", "weight": 0.0, "id": 2776564568, "level": 3}
+{"count": 561, "name": "Torymidae", "weight": 0.0, "id": 2778201312, "level": 3}
+{"count": 411, "name": "Pogonomyrmex", "weight": 0.0, "id": 2778515947, "level": 3}
+{"count": 609, "name": "Symphyta", "weight": 0.0, "id": 2779647960, "level": 3}
+{"count": 2568, "name": "Sawfly", "weight": 3.0, "id": 2776405289, "level": 3}
+{"count": 291, "name": "Formica polyctena", "weight": 0.0, "id": 2779137308, "level": 3}
+{"count": 161, "name": "Dufour's gland", "weight": 0.0, "id": 2778474880, "level": 3}
+{"count": 436, "name": "Figitidae", "weight": 0.0, "id": 2779591983, "level": 3}
+{"count": 516, "name": "Atta sexdens", "weight": 0.0, "id": 2779673026, "level": 3}
+{"count": 991, "name": "Red imported fire ant", "weight": 1.0, "id": 2779162063, "level": 3}
+{"count": 198, "name": "Arrhenotoky", "weight": 0.0, "id": 2780987609, "level": 3}
+{"count": 227, "name": "Nuptial flight", "weight": 0.0, "id": 181301773, "level": 3}
+{"count": 319, "name": "Myrmica rubra", "weight": 0.0, "id": 2776111646, "level": 3}
+{"count": 412, "name": "Leptothorax", "weight": 0.0, "id": 2778225715, "level": 3}
+{"count": 323, "name": "Cynipoidea", "weight": 0.0, "id": 2780067432, "level": 3}
+{"count": 531, "name": "Cataglyphis", "weight": 0.0, "id": 2778086937, "level": 3}
+{"count": 448, "name": "Crabronidae", "weight": 0.0, "id": 2778424037, "level": 3}
+{"count": 454, "name": "Andrena", "weight": 0.0, "id": 2776688937, "level": 3}
+{"count": 397, "name": "Inquiline", "weight": 0.0, "id": 2777555581, "level": 3}
+{"count": 349, "name": "Malaise trap", "weight": 0.0, "id": 2776465441, "level": 3}
+{"count": 324, "name": "Iridomyrmex", "weight": 0.0, "id": 2776446032, "level": 3}
+{"count": 182, "name": "Fungus-growing ants", "weight": 0.0, "id": 2777935067, "level": 3}
+{"count": 149, "name": "Acromyrmex octospinosus", "weight": 0.0, "id": 2776233801, "level": 3}
+{"count": 162, "name": "Formica fusca", "weight": 0.0, "id": 2777136744, "level": 3}
+{"count": 85, "name": "Paraponera clavata", "weight": 0.0, "id": 2776726130, "level": 3}
+{"count": 308, "name": "Dryinidae", "weight": 0.0, "id": 2776595540, "level": 3}
+{"count": 108, "name": "Oophagy", "weight": 0.0, "id": 2778252716, "level": 3}
+{"count": 598, "name": "Monomorium", "weight": 0.0, "id": 2781205831, "level": 3}
+{"count": 107, "name": "Metapleural gland", "weight": 0.0, "id": 2780308993, "level": 3}
+{"count": 349, "name": "Mutillidae", "weight": 0.0, "id": 2781425356, "level": 3}
+{"count": 125, "name": "Formica exsecta", "weight": 0.0, "id": 2777511927, "level": 3}
+{"count": 583, "name": "Gall wasp", "weight": 0.0, "id": 2776502905, "level": 3}
+{"count": 154, "name": "Scoliidae", "weight": 0.0, "id": 2778547830, "level": 3}
+{"count": 224, "name": "Andricus", "weight": 0.0, "id": 2780643790, "level": 3}
+{"count": 157, "name": "Gamergate", "weight": 0.0, "id": 2776469687, "level": 3}
+{"count": 168, "name": "Tiphiidae", "weight": 0.0, "id": 2781381854, "level": 3}
+{"count": 41, "name": "Formica truncorum", "weight": 0.0, "id": 2777800195, "level": 3}
+{"count": 321, "name": "Messor", "weight": 0.0, "id": 2779509673, "level": 3}
+{"count": 230, "name": "Chrysidoidea", "weight": 0.0, "id": 2780603006, "level": 3}
+{"count": 103, "name": "Leptothorax acervorum", "weight": 0.0, "id": 2780951988, "level": 3}
+{"count": 90, "name": "Polyergus rufescens", "weight": 0.0, "id": 2778098524, "level": 3}
+{"count": 117, "name": "Tetraponera", "weight": 0.0, "id": 2781410722, "level": 3}
+{"count": 388, "name": "Tetramorium", "weight": 0.0, "id": 2779496994, "level": 3}
+{"count": 353, "name": "Aphaenogaster", "weight": 0.0, "id": 2777268134, "level": 3}
+{"count": 150, "name": "Apocrita", "weight": 0.0, "id": 2781074817, "level": 3}
+{"count": 156, "name": "Diacamma", "weight": 0.0, "id": 2776862486, "level": 3}
+{"count": 158, "name": "Dorylus", "weight": 0.0, "id": 2780957015, "level": 3}
+{"count": 220, "name": "Pseudomyrmex", "weight": 0.0, "id": 2776330112, "level": 3}
+{"count": 51, "name": "Camponotus vagus", "weight": 0.0, "id": 2780490976, "level": 3}
+{"count": 235, "name": "Temnothorax", "weight": 0.0, "id": 2780248508, "level": 3}
+{"count": 103, "name": "Myrmecology", "weight": 0.0, "id": 2776213976, "level": 3}
+{"count": 96, "name": "Lasius fuliginosus", "weight": 0.0, "id": 2777685564, "level": 3}
+{"count": 89, "name": "Formica sanguinea", "weight": 0.0, "id": 2780054363, "level": 3}
+{"count": 51, "name": "Harpagoxenus sublaevis", "weight": 0.0, "id": 2781012024, "level": 3}
+{"count": 48, "name": "Formica cinerea", "weight": 0.0, "id": 2778338611, "level": 3}
+{"count": 106, "name": "Tenthredinoidea", "weight": 0.0, "id": 2776793400, "level": 3}
+{"count": 96, "name": "Cyphomyrmex", "weight": 0.0, "id": 2777240472, "level": 3}
+{"count": 33, "name": "Formica subsericea", "weight": 0.0, "id": 2778757271, "level": 3}
+{"count": 447, "name": "Sirex", "weight": 0.0, "id": 2778695346, "level": 3}
+{"count": 141, "name": "Rhytidoponera", "weight": 0.0, "id": 2779754588, "level": 3}
+{"count": 548, "name": "Gaster", "weight": 0.0, "id": 2779314979, "level": 3}
+{"count": 156, "name": "Cynipini", "weight": 0.0, "id": 2778946932, "level": 3}
+{"count": 117, "name": "Eucharitidae", "weight": 0.0, "id": 2779541244, "level": 3}
+{"count": 176, "name": "Cardiocondyla", "weight": 0.0, "id": 2778420754, "level": 3}
+{"count": 73, "name": "Formica cunicularia", "weight": 0.0, "id": 2778016127, "level": 3}
+{"count": 139, "name": "Ectatomma", "weight": 0.0, "id": 2779825359, "level": 3}
+{"count": 108, "name": "Stephanidae", "weight": 0.0, "id": 2776942463, "level": 3}
+{"count": 115, "name": "Evanioidea", "weight": 0.0, "id": 2780956843, "level": 3}
+{"count": 186, "name": "Odontomachus", "weight": 0.0, "id": 2775841071, "level": 3}
+{"count": 15, "name": "Mycocepurus", "weight": 0.0, "id": 2780470277, "level": 3}
+{"count": 31, "name": "Formica yessensis", "weight": 0.0, "id": 2780967839, "level": 3}
+{"count": 258, "name": "Weaver ant", "weight": 0.0, "id": 2778591292, "level": 3}
+{"count": 120, "name": "Evaniidae", "weight": 0.0, "id": 2778328606, "level": 3}
+{"count": 297, "name": "Polyrhachis", "weight": 0.0, "id": 2777230551, "level": 3}
+{"count": 60, "name": "Ectatomma tuberculatum", "weight": 0.0, "id": 2778600750, "level": 3}
+{"count": 161, "name": "Solenopsis saevissima", "weight": 0.0, "id": 2776741659, "level": 3}
+{"count": 142, "name": "Tapinoma melanocephalum", "weight": 0.0, "id": 2777578625, "level": 3}
+{"count": 76, "name": "Formica japonica", "weight": 0.0, "id": 2780389664, "level": 3}
+{"count": 64, "name": "Formica obscuripes", "weight": 0.0, "id": 2775923733, "level": 3}
+{"count": 37, "name": "Formica rufibarbis", "weight": 0.0, "id": 2777855294, "level": 3}
+{"count": 166, "name": "Eumenes", "weight": 0.0, "id": 2780441979, "level": 3}
+{"count": 26, "name": "Acromyrmex versicolor", "weight": 0.0, "id": 2781051312, "level": 3}
+{"count": 89, "name": "Lasius neglectus", "weight": 0.0, "id": 2776665291, "level": 3}
+{"count": 80, "name": "Aulacidae", "weight": 0.0, "id": 2776362377, "level": 3}
+{"count": 333, "name": "Paratrechina", "weight": 0.0, "id": 2780168219, "level": 3}
+{"count": 67, "name": "Amblyopone", "weight": 0.0, "id": 2779163774, "level": 3}
+{"count": 76, "name": "Gasteruptiidae", "weight": 0.0, "id": 2776506432, "level": 3}
+{"count": 79, "name": "Crematogaster scutellaris", "weight": 0.0, "id": 2775905525, "level": 3}
+{"count": 57, "name": "Gnamptogenys", "weight": 0.0, "id": 2779474349, "level": 3}
+{"count": 118, "name": "Slave-making ant", "weight": 0.0, "id": 2777958761, "level": 3}
+{"count": 106, "name": "Hypoponera", "weight": 0.0, "id": 2778807644, "level": 3}
+{"count": 33, "name": "Myrmecia gulosa", "weight": 0.0, "id": 2780666042, "level": 3}
+{"count": 43, "name": "Atta capiguara", "weight": 0.0, "id": 2780365533, "level": 3}
+{"count": 61, "name": "Myrmecina", "weight": 0.0, "id": 2781086900, "level": 3}
+{"count": 169, "name": "Dolichoderus", "weight": 0.0, "id": 2776291145, "level": 3}
+{"count": 51, "name": "Forelius", "weight": 0.0, "id": 2781264686, "level": 3}
+{"count": 132, "name": "Trachymyrmex", "weight": 0.0, "id": 2779398751, "level": 3}
+{"count": 33, "name": "Mymarommatidae", "weight": 0.0, "id": 2781120826, "level": 3}
+{"count": 17, "name": "Camponotus festinatus", "weight": 0.0, "id": 2778058780, "level": 3}
+{"count": 310, "name": "Gyne", "weight": 0.0, "id": 111996318, "level": 3}
+{"count": 67, "name": "Myrmecocystus", "weight": 0.0, "id": 2781271652, "level": 3}
+{"count": 141, "name": "Mesosoma", "weight": 0.0, "id": 85157831, "level": 3}
+{"count": 34, "name": "Cerapachys", "weight": 0.0, "id": 2781155392, "level": 3}
+{"count": 47, "name": "Cynipinae", "weight": 0.0, "id": 2777834820, "level": 3}
+{"count": 59, "name": "Polyergus", "weight": 0.0, "id": 2776331218, "level": 3}
+{"count": 9, "name": "Pamphilioidea", "weight": 0.0, "id": 2776992507, "level": 3}
+{"count": 41, "name": "Atta bisphaerica", "weight": 0.0, "id": 2776167723, "level": 3}
+{"count": 134, "name": "Plagiolepis", "weight": 0.0, "id": 2777843941, "level": 3}
+{"count": 186, "name": "Carpenter ant", "weight": 0.0, "id": 2777698197, "level": 3}
+{"count": 48, "name": "Leucospidae", "weight": 0.0, "id": 2779927702, "level": 3}
+{"count": 36, "name": "Bradynobaenidae", "weight": 0.0, "id": 2778040031, "level": 3}
+{"count": 89, "name": "Spider wasp", "weight": 0.0, "id": 2778357765, "level": 3}
+{"count": 50, "name": "Beewolf", "weight": 0.0, "id": 2778537315, "level": 3}
+{"count": 17, "name": "Hemipepsis ustulata", "weight": 0.0, "id": 2776212886, "level": 3}
+{"count": 9, "name": "Cladomyrma", "weight": 0.0, "id": 2780499350, "level": 3}
+{"count": 12, "name": "Streblognathus", "weight": 0.0, "id": 2778553806, "level": 3}
+{"count": 52, "name": "Auplopus", "weight": 0.0, "id": 2777486614, "level": 3}
+{"count": 32, "name": "Pompilinae", "weight": 0.0, "id": 2780093553, "level": 3}
+{"count": 57, "name": "Pepsinae", "weight": 0.0, "id": 2779414222, "level": 3}
+{"count": 10, "name": "Chalcidinae", "weight": 0.0, "id": 2780313193, "level": 3}
+{"count": 77, "name": "Stylopidae", "weight": 0.0, "id": 2777333678, "level": 3}
+{"count": 43, "name": "Fairyfly", "weight": 0.0, "id": 2780941077, "level": 3}
+{"count": 28, "name": "Discothyrea", "weight": 0.0, "id": 2775936998, "level": 3}
+{"count": 28, "name": "Megaponera", "weight": 0.0, "id": 2778554643, "level": 3}
+{"count": 52, "name": "European beewolf", "weight": 0.0, "id": 2780515824, "level": 3}
+{"count": 29, "name": "Megalyridae", "weight": 0.0, "id": 2781161827, "level": 3}
+{"count": 33, "name": "Mass provisioning", "weight": 0.0, "id": 2778399672, "level": 3}
+{"count": 79, "name": "Neuroterus", "weight": 0.0, "id": 2781061898, "level": 3}
+{"count": 25, "name": "Cerapachys biroi", "weight": 0.0, "id": 2777682449, "level": 3}
+{"count": 705, "name": "Clypeus", "weight": 0.0, "id": 2780314596, "level": 3}
+{"count": 95, "name": "Leafcutter ant", "weight": 0.0, "id": 2781340165, "level": 3}
+{"count": 61, "name": "Astata", "weight": 0.0, "id": 2779711674, "level": 3}
+{"count": 16, "name": "Andrena vaga", "weight": 0.0, "id": 2778709848, "level": 3}
+{"count": 18, "name": "Myrmica kotokui", "weight": 0.0, "id": 2779162413, "level": 3}
+{"count": 48, "name": "Trigonalidae", "weight": 0.0, "id": 2776792625, "level": 3}
+{"count": 14, "name": "Chalepoxenus muellerianus", "weight": 0.0, "id": 2777110167, "level": 3}
+{"count": 16, "name": "Myrmica laevinodis", "weight": 0.0, "id": 2776898236, "level": 3}
+{"count": 44, "name": "Liometopum apiculatum", "weight": 0.0, "id": 2781087373, "level": 3}
+{"count": 116, "name": "Brachymyrmex", "weight": 0.0, "id": 2777164996, "level": 3}
+{"count": 431, "name": "Characteristics of common wasps and bees", "weight": 0.0, "id": 97019313, "level": 3}
+{"count": 7, "name": "Myrmica microrubra", "weight": 0.0, "id": 2776989591, "level": 3}
+{"count": 125, "name": "Pterostigma", "weight": 0.0, "id": 2780213698, "level": 3}
+{"count": 33, "name": "Pyramica", "weight": 0.0, "id": 2778091927, "level": 3}
+{"count": 26, "name": "Acanthomyops", "weight": 0.0, "id": 2779116985, "level": 3}
+{"count": 267, "name": "Propodeum", "weight": 0.0, "id": 2777385921, "level": 3}
+{"count": 95, "name": "Nylanderia", "weight": 0.0, "id": 2776675369, "level": 3}
+{"count": 18, "name": "Rossomyrmex minuchae", "weight": 0.0, "id": 2781226413, "level": 3}
+{"count": 28, "name": "Panurgus", "weight": 0.0, "id": 2776873486, "level": 3}
+{"count": 14, "name": "Monomorium antarcticum", "weight": 0.0, "id": 2779593519, "level": 3}
+{"count": 40, "name": "Atta mexicana", "weight": 0.0, "id": 2780659906, "level": 3}
+{"count": 44, "name": "Dipogon", "weight": 0.0, "id": 2775883319, "level": 3}
+{"count": 13, "name": "Chalepoxenus", "weight": 0.0, "id": 2776884606, "level": 3}
+{"count": 55, "name": "Chalcid wasp", "weight": 0.0, "id": 2778641887, "level": 3}
+{"count": 17, "name": "Solenopsis fugax", "weight": 0.0, "id": 2779701457, "level": 3}
+{"count": 12, "name": "Solenopsis daguerrei", "weight": 0.0, "id": 2776366829, "level": 3}
+{"count": 24, "name": "Lasius brunneus", "weight": 0.0, "id": 2776383935, "level": 3}
+{"count": 47, "name": "Proformica", "weight": 0.0, "id": 2779710072, "level": 3}
+{"count": 10, "name": "Mycetophylax", "weight": 0.0, "id": 2777242346, "level": 3}
+{"count": 20, "name": "Mycocepurus smithii", "weight": 0.0, "id": 2777854398, "level": 3}
+{"count": 8, "name": "Kikiki", "weight": 0.0, "id": 2776114022, "level": 3}
+{"count": 13, "name": "Heterogyna", "weight": 0.0, "id": 2780129007, "level": 3}
+{"count": 20, "name": "Tremex", "weight": 0.0, "id": 2779379297, "level": 3}
+{"count": 67, "name": "Ampulex", "weight": 0.0, "id": 2779228934, "level": 3}
+{"count": 10, "name": "Mycetarotes", "weight": 0.0, "id": 2780895404, "level": 3}
+{"count": 29, "name": "Lepisiota", "weight": 0.0, "id": 2780311286, "level": 3}
+{"count": 9, "name": "Colletes hederae", "weight": 0.0, "id": 2777660031, "level": 3}
+{"count": 65, "name": "Anoplius", "weight": 0.0, "id": 2775855642, "level": 3}
+{"count": 203, "name": "Metasoma", "weight": 0.0, "id": 2776132263, "level": 3}

@@ -1,0 +1,200 @@
+{"count": 302196, "name": "Mental health", "weight": 10.0, "id": 134362201, "level": 2}
+{"count": 87944, "name": "Substance abuse", "weight": 2.0, "id": 40010229, "level": 2}
+{"count": 18314, "name": "Operant conditioning", "weight": 0.0, "id": 163270606, "level": 2}
+{"count": 85657, "name": "Social support", "weight": 2.0, "id": 2778087770, "level": 2}
+{"count": 127988, "name": "Coping (psychology)", "weight": 4.0, "id": 73282008, "level": 2}
+{"count": 44899, "name": "Self-esteem", "weight": 1.0, "id": 2778319590, "level": 2}
+{"count": 49608, "name": "Self-efficacy", "weight": 1.0, "id": 110131835, "level": 2}
+{"count": 79685, "name": "Reinforcement", "weight": 2.0, "id": 67203356, "level": 2}
+{"count": 12207, "name": "Regression", "weight": 0.0, "id": 83546350, "level": 2}
+{"count": 36236, "name": "Flow (psychology)", "weight": 1.0, "id": 75673492, "level": 2}
+{"count": 52647, "name": "Well-being", "weight": 1.0, "id": 2776420229, "level": 2}
+{"count": 20991, "name": "Behavioural sciences", "weight": 0.0, "id": 5570062, "level": 2}
+{"count": 81306, "name": "Psychological resilience", "weight": 2.0, "id": 137176749, "level": 2}
+{"count": 12466, "name": "Self-control", "weight": 0.0, "id": 32362775, "level": 2}
+{"count": 10860, "name": "Psychological well-being", "weight": 0.0, "id": 197253505, "level": 2}
+{"count": 25741, "name": "Life satisfaction", "weight": 0.0, "id": 2780945536, "level": 2}
+{"count": 80162, "name": "Mood", "weight": 2.0, "id": 2780733359, "level": 2}
+{"count": 22266, "name": "Locus of control", "weight": 0.0, "id": 170798268, "level": 2}
+{"count": 13977, "name": "Social isolation", "weight": 0.0, "id": 2776893239, "level": 2}
+{"count": 47929, "name": "Happiness", "weight": 1.0, "id": 2778999518, "level": 2}
+{"count": 6181, "name": "Flooding (psychology)", "weight": 0.0, "id": 186594467, "level": 2}
+{"count": 16057, "name": "Psychological repression", "weight": 0.0, "id": 186310378, "level": 2}
+{"count": 14485, "name": "Alcohol dependence", "weight": 0.0, "id": 2779436514, "level": 2}
+{"count": 13465, "name": "Theory of planned behavior", "weight": 0.0, "id": 89785696, "level": 2}
+{"count": 18450, "name": "Family therapy", "weight": 0.0, "id": 66509814, "level": 2}
+{"count": 18691, "name": "Group psychotherapy", "weight": 0.0, "id": 501888929, "level": 2}
+{"count": 16193, "name": "Cannabis", "weight": 0.0, "id": 2777056318, "level": 2}
+{"count": 8346, "name": "Incubation", "weight": 0.0, "id": 25642318, "level": 2}
+{"count": 3177, "name": "Defence mechanisms", "weight": 0.0, "id": 7687120, "level": 2}
+{"count": 7855, "name": "Learned helplessness", "weight": 0.0, "id": 167305396, "level": 2}
+{"count": 79904, "name": "Distress", "weight": 2.0, "id": 139265228, "level": 2}
+{"count": 16537, "name": "Hostility", "weight": 0.0, "id": 2781214261, "level": 2}
+{"count": 19350, "name": "Mindfulness", "weight": 0.0, "id": 2780444219, "level": 2}
+{"count": 29694, "name": "Habit", "weight": 0.0, "id": 44670240, "level": 2}
+{"count": 10059, "name": "Social cognitive theory", "weight": 0.0, "id": 14564219, "level": 2}
+{"count": 5182, "name": "Self-disclosure", "weight": 0.0, "id": 175202939, "level": 2}
+{"count": 10625, "name": "Borderline personality disorder", "weight": 0.0, "id": 2780600973, "level": 2}
+{"count": 20577, "name": "Meditation", "weight": 0.0, "id": 521822307, "level": 2}
+{"count": 4431, "name": "Prospection", "weight": 0.0, "id": 2778426922, "level": 2}
+{"count": 18245, "name": "Loneliness", "weight": 0.0, "id": 2779998236, "level": 2}
+{"count": 15409, "name": "Anticipation", "weight": 0.0, "id": 69334644, "level": 2}
+{"count": 21455, "name": "Grief", "weight": 0.0, "id": 2780837026, "level": 2}
+{"count": 10721, "name": "Hypnosis", "weight": 0.0, "id": 514803892, "level": 2}
+{"count": 21444, "name": "Optimism", "weight": 0.0, "id": 204017024, "level": 2}
+{"count": 22010, "name": "Id, ego and super-ego", "weight": 0.0, "id": 9180747, "level": 2}
+{"count": 11921, "name": "Attachment theory", "weight": 0.0, "id": 119477188, "level": 2}
+{"count": 81065, "name": "Active listening", "weight": 2.0, "id": 177291462, "level": 2}
+{"count": 7592, "name": "At-risk students", "weight": 0.0, "id": 2779479571, "level": 2}
+{"count": 119931, "name": "Psychosocial", "weight": 3.0, "id": 150966472, "level": 2}
+{"count": 20504, "name": "Shame", "weight": 0.0, "id": 2781283010, "level": 2}
+{"count": 8653, "name": "Narcissism", "weight": 0.0, "id": 505070042, "level": 2}
+{"count": 38014, "name": "Pleasure", "weight": 1.0, "id": 2777113389, "level": 2}
+{"count": 9379, "name": "Counseling psychology", "weight": 0.0, "id": 16328936, "level": 2}
+{"count": 6531, "name": "Rumination", "weight": 0.0, "id": 2776060345, "level": 2}
+{"count": 3252, "name": "Theory of reasoned action", "weight": 0.0, "id": 123269153, "level": 2}
+{"count": 3730, "name": "Social learning theory", "weight": 0.0, "id": 15046100, "level": 2}
+{"count": 8512, "name": "Neurosis", "weight": 0.0, "id": 2780030894, "level": 2}
+{"count": 4044, "name": "Behaviorism", "weight": 0.0, "id": 79053195, "level": 2}
+{"count": 11213, "name": "Psychodynamics", "weight": 0.0, "id": 102655426, "level": 2}
+{"count": 6051, "name": "Cross-cultural psychology", "weight": 0.0, "id": 38733237, "level": 2}
+{"count": 3352, "name": "Self-image", "weight": 0.0, "id": 96024061, "level": 2}
+{"count": 11036, "name": "Music therapy", "weight": 0.0, "id": 2779284498, "level": 2}
+{"count": 4380, "name": "Systemic therapy", "weight": 0.0, "id": 185926286, "level": 2}
+{"count": 33506, "name": "Psychoanalytic theory", "weight": 1.0, "id": 43450049, "level": 2}
+{"count": 1586, "name": "Social rejection", "weight": 0.0, "id": 544768975, "level": 2}
+{"count": 50691, "name": "Dream", "weight": 1.0, "id": 2781095916, "level": 2}
+{"count": 10961, "name": "Assertiveness", "weight": 0.0, "id": 151799412, "level": 2}
+{"count": 13822, "name": "Social connectedness", "weight": 0.0, "id": 201943243, "level": 2}
+{"count": 1562, "name": "Psychology of learning", "weight": 0.0, "id": 58160517, "level": 2}
+{"count": 20073, "name": "Personal development", "weight": 0.0, "id": 56154687, "level": 2}
+{"count": 10878, "name": "Forgiveness", "weight": 0.0, "id": 2778731027, "level": 2}
+{"count": 21532, "name": "Denial", "weight": 0.0, "id": 2780900520, "level": 2}
+{"count": 5456, "name": "Crisis intervention", "weight": 0.0, "id": 2779615176, "level": 2}
+{"count": 7135, "name": "Art therapy", "weight": 0.0, "id": 2781249023, "level": 2}
+{"count": 2769, "name": "Self-medication", "weight": 0.0, "id": 142104173, "level": 2}
+{"count": 3535, "name": "Therapeutic community", "weight": 0.0, "id": 2777007179, "level": 2}
+{"count": 4464, "name": "Relapse prevention", "weight": 0.0, "id": 2781089641, "level": 2}
+{"count": 17789, "name": "Generality", "weight": 0.0, "id": 2780767217, "level": 2}
+{"count": 4031, "name": "Self-confidence", "weight": 0.0, "id": 48444904, "level": 2}
+{"count": 38016, "name": "Passion", "weight": 1.0, "id": 2780310893, "level": 2}
+{"count": 27905, "name": "The Imaginary", "weight": 0.0, "id": 135068731, "level": 2}
+{"count": 3196, "name": "Reactance", "weight": 0.0, "id": 176661527, "level": 2}
+{"count": 8520, "name": "Interpretative phenomenological analysis", "weight": 0.0, "id": 113470044, "level": 2}
+{"count": 22691, "name": "Worry", "weight": 0.0, "id": 2779978724, "level": 2}
+{"count": 1651, "name": "Individual psychology", "weight": 0.0, "id": 69181661, "level": 2}
+{"count": 3553, "name": "Acceptance and commitment therapy", "weight": 0.0, "id": 55759595, "level": 2}
+{"count": 6232, "name": "Individuation", "weight": 0.0, "id": 2779148493, "level": 2}
+{"count": 3955, "name": "Procrastination", "weight": 0.0, "id": 194279344, "level": 2}
+{"count": 5059, "name": "Jealousy", "weight": 0.0, "id": 2776033948, "level": 2}
+{"count": 3694, "name": "Mobbing", "weight": 0.0, "id": 2778249305, "level": 2}
+{"count": 2478, "name": "Bibliotherapy", "weight": 0.0, "id": 2780370499, "level": 2}
+{"count": 11559, "name": "Gratitude", "weight": 0.0, "id": 2779930795, "level": 2}
+{"count": 3709, "name": "Psychosomatic medicine", "weight": 0.0, "id": 2780414609, "level": 2}
+{"count": 5452, "name": "Annoyance", "weight": 0.0, "id": 178937217, "level": 2}
+{"count": 2653, "name": "Posttraumatic growth", "weight": 0.0, "id": 2779995187, "level": 2}
+{"count": 5578, "name": "Solitude", "weight": 0.0, "id": 2778665436, "level": 2}
+{"count": 6537, "name": "Boredom", "weight": 0.0, "id": 2777589236, "level": 2}
+{"count": 3245, "name": "Acting out", "weight": 0.0, "id": 118227804, "level": 2}
+{"count": 4485, "name": "Countertransference", "weight": 0.0, "id": 142110763, "level": 2}
+{"count": 1452, "name": "Projective identification", "weight": 0.0, "id": 38832240, "level": 2}
+{"count": 2289, "name": "Mentalization", "weight": 0.0, "id": 18591518, "level": 2}
+{"count": 3432, "name": "Play therapy", "weight": 0.0, "id": 2776159604, "level": 2}
+{"count": 5461, "name": "Paranoia", "weight": 0.0, "id": 2781105514, "level": 2}
+{"count": 1527, "name": "Interpersonal psychotherapy", "weight": 0.0, "id": 2777978298, "level": 2}
+{"count": 2108, "name": "Behavioral activation", "weight": 0.0, "id": 148374829, "level": 2}
+{"count": 1854, "name": "Body dysmorphic disorder", "weight": 0.0, "id": 2778455770, "level": 2}
+{"count": 5196, "name": "Meaning-making", "weight": 0.0, "id": 2781276458, "level": 2}
+{"count": 2141, "name": "Single person", "weight": 0.0, "id": 2778469515, "level": 2}
+{"count": 2819, "name": "Compassion fatigue", "weight": 0.0, "id": 11625366, "level": 2}
+{"count": 1168, "name": "Brief psychotherapy", "weight": 0.0, "id": 2779660192, "level": 2}
+{"count": 1117, "name": "Amobarbital", "weight": 0.0, "id": 2776918552, "level": 2}
+{"count": 5764, "name": "Therapeutic relationship", "weight": 0.0, "id": 2778633572, "level": 2}
+{"count": 5549, "name": "Nightmare", "weight": 0.0, "id": 2777992674, "level": 2}
+{"count": 2818, "name": "Transactional analysis", "weight": 0.0, "id": 96961170, "level": 2}
+{"count": 922, "name": "Personal construct theory", "weight": 0.0, "id": 2778566719, "level": 2}
+{"count": 20506, "name": "Praise", "weight": 0.0, "id": 2775868214, "level": 2}
+{"count": 1370, "name": "Child psychotherapy", "weight": 0.0, "id": 15471489, "level": 2}
+{"count": 1272, "name": "Post-traumatic stress disorder (PTSD)", "weight": 0.0, "id": 2778144968, "level": 2}
+{"count": 517, "name": "Emotional security", "weight": 0.0, "id": 2776914023, "level": 2}
+{"count": 2748, "name": "Psychodrama", "weight": 0.0, "id": 101181784, "level": 2}
+{"count": 3241, "name": "Humanistic psychology", "weight": 0.0, "id": 81314981, "level": 2}
+{"count": 10897, "name": "Distrust", "weight": 0.0, "id": 2778321746, "level": 2}
+{"count": 5211, "name": "Maslow's hierarchy of needs", "weight": 0.0, "id": 189465574, "level": 2}
+{"count": 5031, "name": "Psychodynamic psychotherapy", "weight": 0.0, "id": 5458421, "level": 2}
+{"count": 1043, "name": "Self-criticism", "weight": 0.0, "id": 2780918018, "level": 2}
+{"count": 1465, "name": "Social psychiatry", "weight": 0.0, "id": 2777251534, "level": 2}
+{"count": 8381, "name": "Optimal distinctiveness theory", "weight": 0.0, "id": 47385372, "level": 2}
+{"count": 3064, "name": "Person-centered therapy", "weight": 0.0, "id": 183839525, "level": 2}
+{"count": 3115, "name": "Psychological trauma", "weight": 0.0, "id": 2779936565, "level": 2}
+{"count": 1323, "name": "Free association (psychology)", "weight": 0.0, "id": 8795026, "level": 2}
+{"count": 4757, "name": "Single-subject design", "weight": 0.0, "id": 123780397, "level": 2}
+{"count": 6170, "name": "Embarrassment", "weight": 0.0, "id": 2776716606, "level": 2}
+{"count": 3013, "name": "Collective unconscious", "weight": 0.0, "id": 33234669, "level": 2}
+{"count": 19244, "name": "Dysfunctional family", "weight": 0.0, "id": 27502469, "level": 2}
+{"count": 1075, "name": "Eye movement desensitization and reprocessing", "weight": 0.0, "id": 2779788018, "level": 2}
+{"count": 510, "name": "Personal effectiveness", "weight": 0.0, "id": 82107236, "level": 2}
+{"count": 916, "name": "Obsessive-compulsive disorder (OCD)", "weight": 0.0, "id": 2781034310, "level": 2}
+{"count": 1776, "name": "Emotional well-being", "weight": 0.0, "id": 2779718618, "level": 2}
+{"count": 2691, "name": "Pastoral counseling", "weight": 0.0, "id": 42653909, "level": 2}
+{"count": 2438, "name": "Group analysis", "weight": 0.0, "id": 2778666404, "level": 2}
+{"count": 2587, "name": "Trance", "weight": 0.0, "id": 2776857291, "level": 2}
+{"count": 727, "name": "Reality testing", "weight": 0.0, "id": 2780408722, "level": 2}
+{"count": 2763, "name": "Solution focused brief therapy", "weight": 0.0, "id": 141480434, "level": 2}
+{"count": 844, "name": "Salutogenesis", "weight": 0.0, "id": 2778652608, "level": 2}
+{"count": 470, "name": "Latency stage", "weight": 0.0, "id": 143590678, "level": 2}
+{"count": 2791, "name": "Corrective feedback", "weight": 0.0, "id": 2779305910, "level": 2}
+{"count": 8966, "name": "Flourishing", "weight": 0.0, "id": 2781017355, "level": 2}
+{"count": 4119, "name": "Lucid dream", "weight": 0.0, "id": 139058780, "level": 2}
+{"count": 659, "name": "Self-affirmation", "weight": 0.0, "id": 2781358431, "level": 2}
+{"count": 1122, "name": "Transpersonal psychology", "weight": 0.0, "id": 18146895, "level": 2}
+{"count": 2709, "name": "Belongingness", "weight": 0.0, "id": 74177177, "level": 2}
+{"count": 1968, "name": "Supportive psychotherapy", "weight": 0.0, "id": 203987217, "level": 2}
+{"count": 1034, "name": "Self-acceptance", "weight": 0.0, "id": 2779674987, "level": 2}
+{"count": 4816, "name": "Fundamental human needs", "weight": 0.0, "id": 172966039, "level": 2}
+{"count": 1973, "name": "Traumatic memories", "weight": 0.0, "id": 123728058, "level": 2}
+{"count": 2954, "name": "Multimodal therapy", "weight": 0.0, "id": 4441509, "level": 2}
+{"count": 1025, "name": "Autogenic training", "weight": 0.0, "id": 2777868767, "level": 2}
+{"count": 3657, "name": "Chaining", "weight": 0.0, "id": 49020025, "level": 2}
+{"count": 869, "name": "Exhibitionism", "weight": 0.0, "id": 2778510506, "level": 2}
+{"count": 8029, "name": "Disappointment", "weight": 0.0, "id": 2779628136, "level": 2}
+{"count": 1865, "name": "Analytical psychology", "weight": 0.0, "id": 150338914, "level": 2}
+{"count": 1015, "name": "Fear appeal", "weight": 0.0, "id": 67677051, "level": 2}
+{"count": 873, "name": "Sociometric status", "weight": 0.0, "id": 2778337610, "level": 2}
+{"count": 460, "name": "Expectancy-value theory", "weight": 0.0, "id": 4884131, "level": 2}
+{"count": 2473, "name": "Sobriety", "weight": 0.0, "id": 2777006689, "level": 2}
+{"count": 12108, "name": "Cognitive reframing", "weight": 0.0, "id": 187029079, "level": 2}
+{"count": 959, "name": "Death drive", "weight": 0.0, "id": 2779834271, "level": 2}
+{"count": 675, "name": "Milieu therapy", "weight": 0.0, "id": 2780750145, "level": 2}
+{"count": 2488, "name": "Contentment", "weight": 0.0, "id": 2776243918, "level": 2}
+{"count": 551, "name": "Introjection", "weight": 0.0, "id": 43271070, "level": 2}
+{"count": 434, "name": "Parent\u2013child interaction therapy", "weight": 0.0, "id": 2776256158, "level": 2}
+{"count": 251, "name": "Eidetic imagery", "weight": 0.0, "id": 173349813, "level": 2}
+{"count": 9871, "name": "Amusement", "weight": 0.0, "id": 2779056813, "level": 2}
+{"count": 790, "name": "Ressentiment", "weight": 0.0, "id": 2781220732, "level": 2}
+{"count": 384, "name": "Cathexis", "weight": 0.0, "id": 158734997, "level": 2}
+{"count": 1603, "name": "Guided imagery", "weight": 0.0, "id": 2780579538, "level": 2}
+{"count": 4517, "name": "Gratification", "weight": 0.0, "id": 2778772087, "level": 2}
+{"count": 1830, "name": "Attunement", "weight": 0.0, "id": 2778409124, "level": 2}
+{"count": 354, "name": "Reality principle", "weight": 0.0, "id": 175670740, "level": 2}
+{"count": 1388, "name": "Time-out", "weight": 0.0, "id": 2780141013, "level": 2}
+{"count": 14324, "name": "Psychic", "weight": 0.0, "id": 2780456611, "level": 2}
+{"count": 475, "name": "Positive psychological capital", "weight": 0.0, "id": 2779077761, "level": 2}
+{"count": 8375, "name": "Thriving", "weight": 0.0, "id": 2776745293, "level": 2}
+{"count": 6243, "name": "Admiration", "weight": 0.0, "id": 2776678506, "level": 2}
+{"count": 330, "name": "Broaden-and-build", "weight": 0.0, "id": 90386246, "level": 2}
+{"count": 3025, "name": "Working through", "weight": 0.0, "id": 2777853643, "level": 2}
+{"count": 631, "name": "Single-subject research", "weight": 0.0, "id": 172071906, "level": 2}
+{"count": 707, "name": "Social disruption", "weight": 0.0, "id": 2777180030, "level": 2}
+{"count": 715, "name": "Rational emotive behavior therapy", "weight": 0.0, "id": 2778589756, "level": 2}
+{"count": 806, "name": "Historical trauma", "weight": 0.0, "id": 2779117399, "level": 2}
+{"count": 1800, "name": "Tact", "weight": 0.0, "id": 2778833722, "level": 2}
+{"count": 1027, "name": "Emotional dysregulation", "weight": 0.0, "id": 2778794976, "level": 2}
+{"count": 370, "name": "Commitment device", "weight": 0.0, "id": 2779415838, "level": 2}
+{"count": 1182, "name": "Hatha yoga", "weight": 0.0, "id": 5483306, "level": 2}
+{"count": 484, "name": "Integrative psychotherapy", "weight": 0.0, "id": 2780043985, "level": 2}
+{"count": 1410, "name": "Reality therapy", "weight": 0.0, "id": 174982496, "level": 2}
+{"count": 915, "name": "Mental toughness", "weight": 0.0, "id": 2777457970, "level": 2}
+{"count": 1003, "name": "Intellectualization", "weight": 0.0, "id": 130631938, "level": 2}
+{"count": 697, "name": "Blushing", "weight": 0.0, "id": 2776338928, "level": 2}
+{"count": 1943, "name": "Morita therapy", "weight": 0.0, "id": 85769624, "level": 2}

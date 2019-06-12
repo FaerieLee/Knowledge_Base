@@ -1,0 +1,7 @@
+{"count": 13403, "name": "Region growing", "weight": 10.0, "id": 206824153, "level": 4}
+{"count": 2279, "name": "Texture synthesis", "weight": 1.0, "id": 50494287, "level": 4}
+{"count": 1571, "name": "Co-occurrence matrix", "weight": 1.0, "id": 117479156, "level": 4}
+{"count": 8038, "name": "Image gradient", "weight": 5.0, "id": 182037307, "level": 4}
+{"count": 480, "name": "Texton", "weight": 0.0, "id": 2779934759, "level": 4}
+{"count": 5797, "name": "Texture compression", "weight": 4.0, "id": 54243161, "level": 4}
+{"count": 1976, "name": "U-matrix", "weight": 1.0, "id": 60350092, "level": 4}

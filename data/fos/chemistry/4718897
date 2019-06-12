@@ -1,0 +1,27 @@
+{"count": 32, "name": "Eukaryotic initiation factor 3", "weight": 0.0, "id": 2779687153, "level": 5}
+{"count": 195, "name": "Eukaryotic initiation factor 4F", "weight": 1.0, "id": 2778136753, "level": 5}
+{"count": 1049, "name": "eIF2", "weight": 7.0, "id": 93734116, "level": 5}
+{"count": 839, "name": "EIF4G", "weight": 5.0, "id": 2776054693, "level": 5}
+{"count": 348, "name": "Prokaryotic initiation factor-2", "weight": 2.0, "id": 102456905, "level": 5}
+{"count": 367, "name": "EIF5A", "weight": 2.0, "id": 2778402369, "level": 5}
+{"count": 53, "name": "Prokaryotic initiation factor-3", "weight": 0.0, "id": 2778560504, "level": 5}
+{"count": 287, "name": "eIF2B", "weight": 2.0, "id": 2777233825, "level": 5}
+{"count": 170, "name": "Leaky scanning", "weight": 1.0, "id": 2777653505, "level": 5}
+{"count": 279, "name": "EIF4B", "weight": 1.0, "id": 2778290761, "level": 5}
+{"count": 15, "name": "Prokaryotic initiation factors", "weight": 0.0, "id": 2778171438, "level": 5}
+{"count": 177, "name": "EIF1", "weight": 1.0, "id": 2778594853, "level": 5}
+{"count": 45, "name": "Prokaryotic initiation factor-1", "weight": 0.0, "id": 175664065, "level": 5}
+{"count": 379, "name": "Prokaryotic translation", "weight": 2.0, "id": 196360701, "level": 5}
+{"count": 51, "name": "Hippuristanol", "weight": 0.0, "id": 2778645100, "level": 5}
+{"count": 25, "name": "4EGI-1", "weight": 0.0, "id": 2776544962, "level": 5}
+{"count": 1402, "name": "EIF4A1", "weight": 10.0, "id": 142587794, "level": 5}
+{"count": 59, "name": "EIF4H", "weight": 0.0, "id": 2777722642, "level": 5}
+{"count": 43, "name": "Eukaryotic elongation factors", "weight": 0.0, "id": 197165946, "level": 5}
+{"count": 1283, "name": "Eukaryotic translation initiation factor 4 gamma", "weight": 9.0, "id": 33277056, "level": 5}
+{"count": 27, "name": "Eukaryotic release factors", "weight": 0.0, "id": 2778905737, "level": 5}
+{"count": 623, "name": "EIF4ENIF1", "weight": 4.0, "id": 103767974, "level": 5}
+{"count": 28, "name": "EIF4G3", "weight": 0.0, "id": 2776766446, "level": 5}
+{"count": 270, "name": "Rotavirus translation", "weight": 1.0, "id": 80501833, "level": 5}
+{"count": 57, "name": "Prokaryotic elongation factors", "weight": 0.0, "id": 70451916, "level": 5}
+{"count": 13, "name": "Cap-independent translation element", "weight": 0.0, "id": 2778501995, "level": 5}
+{"count": 297, "name": "Prokaryotic initiation factor", "weight": 2.0, "id": 187898055, "level": 5}

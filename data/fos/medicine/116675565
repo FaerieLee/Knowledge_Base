@@ -1,0 +1,25 @@
+{"count": 9110, "name": "Food poisoning", "weight": 10.0, "id": 2776876274, "level": 3}
+{"count": 6417, "name": "Foot-and-mouth disease", "weight": 7.0, "id": 2779070877, "level": 3}
+{"count": 6700, "name": "Norovirus", "weight": 7.0, "id": 2778750513, "level": 3}
+{"count": 6362, "name": "Ebola virus", "weight": 6.0, "id": 2777469322, "level": 3}
+{"count": 1828, "name": "Emerging infectious disease", "weight": 2.0, "id": 2779973787, "level": 3}
+{"count": 5485, "name": "Disease surveillance", "weight": 6.0, "id": 2776480101, "level": 3}
+{"count": 1738, "name": "Waterborne diseases", "weight": 1.0, "id": 2776114971, "level": 3}
+{"count": 747, "name": "Norwalk virus", "weight": 0.0, "id": 2779589740, "level": 3}
+{"count": 4312, "name": "Attack rate", "weight": 4.0, "id": 37701844, "level": 3}
+{"count": 423, "name": "Zika virus disease", "weight": 0.0, "id": 2778377490, "level": 3}
+{"count": 404, "name": "Fungal meningitis", "weight": 0.0, "id": 2778936387, "level": 3}
+{"count": 873, "name": "Notifiable disease", "weight": 0.0, "id": 2779373090, "level": 3}
+{"count": 112, "name": "Computational epidemiology", "weight": 0.0, "id": 2776446508, "level": 3}
+{"count": 132, "name": "Avian botulism", "weight": 0.0, "id": 2781149772, "level": 3}
+{"count": 127, "name": "Serial interval", "weight": 0.0, "id": 31567460, "level": 3}
+{"count": 131, "name": "Paederus dermatitis", "weight": 0.0, "id": 2778231510, "level": 3}
+{"count": 225, "name": "Epidemic dropsy", "weight": 0.0, "id": 2776713390, "level": 3}
+{"count": 135, "name": "Mass psychogenic illness", "weight": 0.0, "id": 2781409203, "level": 3}
+{"count": 131, "name": "Barrier nursing", "weight": 0.0, "id": 2779322175, "level": 3}
+{"count": 24, "name": "Reed\u2013Frost model", "weight": 0.0, "id": 193827174, "level": 3}
+{"count": 38, "name": "Super-spreader", "weight": 0.0, "id": 172256580, "level": 3}
+{"count": 41, "name": "ProMED-mail", "weight": 0.0, "id": 2779122709, "level": 3}
+{"count": 160, "name": "Epidemic Intelligence Service", "weight": 0.0, "id": 2776976097, "level": 3}
+{"count": 158, "name": "Bornholm disease", "weight": 0.0, "id": 2780264543, "level": 3}
+{"count": 24, "name": "Mud fever", "weight": 0.0, "id": 2779265266, "level": 3}

@@ -1,0 +1,35 @@
+{"count": 5248, "name": "Shareholder value", "weight": 10.0, "id": 2779093199, "level": 4}
+{"count": 577, "name": "Private benefits of control", "weight": 1.0, "id": 2777429365, "level": 4}
+{"count": 738, "name": "Share repurchase", "weight": 1.0, "id": 2780832612, "level": 4}
+{"count": 1449, "name": "Tender offer", "weight": 2.0, "id": 136221606, "level": 4}
+{"count": 805, "name": "Business judgment rule", "weight": 1.0, "id": 2779589421, "level": 4}
+{"count": 789, "name": "Shares outstanding", "weight": 1.0, "id": 101252448, "level": 4}
+{"count": 1113, "name": "Market for corporate control", "weight": 2.0, "id": 2776662940, "level": 4}
+{"count": 241, "name": "Cumulative voting", "weight": 0.0, "id": 2775975332, "level": 4}
+{"count": 1128, "name": "Corporate action", "weight": 2.0, "id": 56213336, "level": 4}
+{"count": 485, "name": "Shareholder primacy", "weight": 0.0, "id": 2778725519, "level": 4}
+{"count": 336, "name": "Say on pay", "weight": 0.0, "id": 2776266596, "level": 4}
+{"count": 244, "name": "Nexus of contracts", "weight": 0.0, "id": 2777176334, "level": 4}
+{"count": 395, "name": "Self-dealing", "weight": 0.0, "id": 99369119, "level": 4}
+{"count": 142, "name": "One share, one vote", "weight": 0.0, "id": 2778445587, "level": 4}
+{"count": 165, "name": "Squeeze-out", "weight": 0.0, "id": 2779148993, "level": 4}
+{"count": 183, "name": "Related party transaction", "weight": 0.0, "id": 2776711954, "level": 4}
+{"count": 486, "name": "Articles of association", "weight": 0.0, "id": 2777370315, "level": 4}
+{"count": 133, "name": "Control premium", "weight": 0.0, "id": 2781108611, "level": 4}
+{"count": 126, "name": "Proxy statement", "weight": 0.0, "id": 2777630581, "level": 4}
+{"count": 26, "name": "Leximetrics", "weight": 0.0, "id": 2775897361, "level": 4}
+{"count": 175, "name": "Takeover Directive", "weight": 0.0, "id": 2780170274, "level": 4}
+{"count": 1205, "name": "Shareholder resolution", "weight": 2.0, "id": 173397126, "level": 4}
+{"count": 100, "name": "Shareholders' agreement", "weight": 0.0, "id": 2779434336, "level": 4}
+{"count": 140, "name": "Cadbury Report", "weight": 0.0, "id": 2780789153, "level": 4}
+{"count": 91, "name": "Certificate of incorporation", "weight": 0.0, "id": 2779069464, "level": 4}
+{"count": 1678, "name": "Shareholder loan", "weight": 3.0, "id": 43546911, "level": 4}
+{"count": 109, "name": "Stewardship Code", "weight": 0.0, "id": 2778706162, "level": 4}
+{"count": 132, "name": "C corporation", "weight": 0.0, "id": 2780894974, "level": 4}
+{"count": 117, "name": "Management entrenchment", "weight": 0.0, "id": 2779901670, "level": 4}
+{"count": 104, "name": "Delaware General Corporation Law", "weight": 0.0, "id": 2776759438, "level": 4}
+{"count": 41, "name": "Shareholder oppression", "weight": 0.0, "id": 2780550584, "level": 4}
+{"count": 57, "name": "Fairness opinion", "weight": 0.0, "id": 2777254668, "level": 4}
+{"count": 26, "name": "Stock option expensing", "weight": 0.0, "id": 2780598053, "level": 4}
+{"count": 16, "name": "Watered stock", "weight": 0.0, "id": 2777440667, "level": 4}
+{"count": 104, "name": "Issued shares", "weight": 0.0, "id": 2779492575, "level": 4}

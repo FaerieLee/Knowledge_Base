@@ -1,0 +1,14 @@
+{"count": 130, "name": "Virtual Output Queues", "weight": 0.0, "id": 165715116, "level": 3}
+{"count": 652, "name": "Port security", "weight": 3.0, "id": 2778296103, "level": 3}
+{"count": 329, "name": "Dry port", "weight": 1.0, "id": 2780471128, "level": 3}
+{"count": 381, "name": "Inland port", "weight": 1.0, "id": 2777879367, "level": 3}
+{"count": 84, "name": "Port knocking", "weight": 0.0, "id": 2779599986, "level": 3}
+{"count": 1223, "name": "NAT Port Mapping Protocol", "weight": 5.0, "id": 112879614, "level": 3}
+{"count": 135, "name": "Port forwarding", "weight": 0.0, "id": 2781168330, "level": 3}
+{"count": 2087, "name": "Port mirroring", "weight": 10.0, "id": 135415073, "level": 3}
+{"count": 86, "name": "EtherChannel", "weight": 0.0, "id": 187802073, "level": 3}
+{"count": 329, "name": "Fibre Channel switch", "weight": 1.0, "id": 2780814591, "level": 3}
+{"count": 129, "name": "Global shipping network", "weight": 0.0, "id": 80502414, "level": 3}
+{"count": 46, "name": "Port expander", "weight": 0.0, "id": 190285050, "level": 3}
+{"count": 1898, "name": "Port triggering", "weight": 9.0, "id": 176431041, "level": 3}
+{"count": 34, "name": "Port multiplier", "weight": 0.0, "id": 2776515303, "level": 3}

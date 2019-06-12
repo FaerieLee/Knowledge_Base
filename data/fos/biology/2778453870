@@ -1,0 +1,41 @@
+{"count": 10235, "name": "Germinal center", "weight": 10.0, "id": 96926380, "level": 4}
+{"count": 4058, "name": "Marginal zone", "weight": 3.0, "id": 2779921676, "level": 4}
+{"count": 3138, "name": "Immunoglobulin class switching", "weight": 3.0, "id": 137756551, "level": 4}
+{"count": 3916, "name": "Somatic hypermutation", "weight": 3.0, "id": 128526571, "level": 4}
+{"count": 5905, "name": "B-cell receptor", "weight": 5.0, "id": 157695867, "level": 4}
+{"count": 3086, "name": "Lymphopoiesis", "weight": 3.0, "id": 79904392, "level": 4}
+{"count": 3809, "name": "Immunoglobulin D", "weight": 3.0, "id": 48010095, "level": 4}
+{"count": 6981, "name": "B-cell lymphoma", "weight": 6.0, "id": 2777257650, "level": 4}
+{"count": 3789, "name": "B-cell activating factor", "weight": 3.0, "id": 170286685, "level": 4}
+{"count": 2004, "name": "Affinity maturation", "weight": 1.0, "id": 2781377902, "level": 4}
+{"count": 3233, "name": "CD23", "weight": 3.0, "id": 34814297, "level": 4}
+{"count": 6393, "name": "CD5", "weight": 6.0, "id": 113067387, "level": 4}
+{"count": 8077, "name": "CD19", "weight": 7.0, "id": 2778957590, "level": 4}
+{"count": 1196, "name": "CXCL13", "weight": 1.0, "id": 75877943, "level": 4}
+{"count": 669, "name": "Allelic exclusion", "weight": 0.0, "id": 2778794311, "level": 4}
+{"count": 830, "name": "CD22", "weight": 0.0, "id": 111700020, "level": 4}
+{"count": 627, "name": "PAX5", "weight": 0.0, "id": 29447677, "level": 4}
+{"count": 911, "name": "Regulatory B cells", "weight": 0.0, "id": 2781438807, "level": 4}
+{"count": 429, "name": "Cutaneous B-cell lymphoma", "weight": 0.0, "id": 2781073017, "level": 4}
+{"count": 515, "name": "CXCR5", "weight": 0.0, "id": 2776708503, "level": 4}
+{"count": 4528, "name": "B-1 cell", "weight": 4.0, "id": 145558887, "level": 4}
+{"count": 277, "name": "Monoclonal B-cell lymphocytosis", "weight": 0.0, "id": 2776663405, "level": 4}
+{"count": 103, "name": "CD72", "weight": 0.0, "id": 2778499173, "level": 4}
+{"count": 194, "name": "Splenic lymphoma with villous lymphocytes", "weight": 0.0, "id": 2779497452, "level": 4}
+{"count": 166, "name": "CD79A", "weight": 0.0, "id": 2779585009, "level": 4}
+{"count": 358, "name": "PRDM1", "weight": 0.0, "id": 2777032671, "level": 4}
+{"count": 486, "name": "B-cell leukemia", "weight": 0.0, "id": 2779556721, "level": 4}
+{"count": 4350, "name": "Naive B cell", "weight": 4.0, "id": 200180986, "level": 4}
+{"count": 59, "name": "T independent antigen", "weight": 0.0, "id": 2780458712, "level": 4}
+{"count": 133, "name": "CD37", "weight": 0.0, "id": 2780790399, "level": 4}
+{"count": 87, "name": "Gray zone lymphoma", "weight": 0.0, "id": 2776819474, "level": 4}
+{"count": 242, "name": "Complement receptor 2", "weight": 0.0, "id": 2779683556, "level": 4}
+{"count": 79, "name": "B-cell prolymphocytic leukemia", "weight": 0.0, "id": 2781229039, "level": 4}
+{"count": 52, "name": "Prolymphocyte", "weight": 0.0, "id": 2776855314, "level": 4}
+{"count": 32, "name": "Dock10", "weight": 0.0, "id": 2780948847, "level": 4}
+{"count": 190, "name": "Follicular B cell", "weight": 0.0, "id": 2777213586, "level": 4}
+{"count": 63, "name": "Surface probability", "weight": 0.0, "id": 2778839274, "level": 4}
+{"count": 23, "name": "Precursor B-cell lymphoblastic leukemia", "weight": 0.0, "id": 2776860336, "level": 4}
+{"count": 35, "name": "Small modular immunopharmaceutical", "weight": 0.0, "id": 2776304769, "level": 4}
+{"count": 36, "name": "B-cell CLL/lymphoma", "weight": 0.0, "id": 2777032156, "level": 4}
+{"count": 50, "name": "Hydrophilicity plot", "weight": 0.0, "id": 2778335059, "level": 4}

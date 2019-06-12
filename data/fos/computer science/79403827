@@ -1,0 +1,200 @@
+{"count": 204096, "name": "Scheduling (computing)", "weight": 10.0, "id": 113200698, "level": 2}
+{"count": 66704, "name": "Error detection and correction", "weight": 3.0, "id": 103088060, "level": 2}
+{"count": 156165, "name": "Synchronization", "weight": 7.0, "id": 102602991, "level": 2}
+{"count": 114982, "name": "Quality of service", "weight": 5.0, "id": 5119721, "level": 2}
+{"count": 98873, "name": "Resource allocation", "weight": 4.0, "id": 29202148, "level": 2}
+{"count": 55497, "name": "Fault tolerance", "weight": 2.0, "id": 63540848, "level": 2}
+{"count": 92303, "name": "Field-programmable gate array", "weight": 4.0, "id": 42935608, "level": 2}
+{"count": 129166, "name": "Throughput", "weight": 6.0, "id": 157764524, "level": 2}
+{"count": 64618, "name": "Virtual machine", "weight": 3.0, "id": 25344961, "level": 2}
+{"count": 29217, "name": "Finite-state machine", "weight": 1.0, "id": 167822520, "level": 2}
+{"count": 23298, "name": "Distributed algorithm", "weight": 1.0, "id": 130120984, "level": 2}
+{"count": 25163, "name": "Integrated circuit design", "weight": 1.0, "id": 74524168, "level": 2}
+{"count": 24115, "name": "System on a chip", "weight": 1.0, "id": 118021083, "level": 2}
+{"count": 66250, "name": "Redundancy (engineering)", "weight": 3.0, "id": 152124472, "level": 2}
+{"count": 39276, "name": "Queueing theory", "weight": 1.0, "id": 22684755, "level": 2}
+{"count": 32518, "name": "Petri net", "weight": 1.0, "id": 38677869, "level": 2}
+{"count": 45120, "name": "Cellular network", "weight": 2.0, "id": 153646914, "level": 2}
+{"count": 37996, "name": "Load balancing (computing)", "weight": 1.0, "id": 139330139, "level": 2}
+{"count": 22847, "name": "Formal specification", "weight": 1.0, "id": 116253237, "level": 2}
+{"count": 36940, "name": "Communications protocol", "weight": 1.0, "id": 12269588, "level": 2}
+{"count": 18369, "name": "Logic synthesis", "weight": 0.0, "id": 157922185, "level": 2}
+{"count": 15829, "name": "Message passing", "weight": 0.0, "id": 854659, "level": 2}
+{"count": 20737, "name": "Application-specific integrated circuit", "weight": 1.0, "id": 77390884, "level": 2}
+{"count": 34906, "name": "Middleware", "weight": 1.0, "id": 135802936, "level": 2}
+{"count": 19675, "name": "Network congestion", "weight": 0.0, "id": 195563490, "level": 2}
+{"count": 21624, "name": "Model checking", "weight": 1.0, "id": 110251889, "level": 2}
+{"count": 11649, "name": "Real-time operating system", "weight": 0.0, "id": 28472234, "level": 2}
+{"count": 9228, "name": "Concurrent computing", "weight": 0.0, "id": 150495011, "level": 2}
+{"count": 20437, "name": "Data flow diagram", "weight": 1.0, "id": 489000, "level": 2}
+{"count": 18355, "name": "Formal verification", "weight": 0.0, "id": 111498074, "level": 2}
+{"count": 14323, "name": "Asynchronous Transfer Mode", "weight": 0.0, "id": 194571728, "level": 2}
+{"count": 22473, "name": "Shared memory", "weight": 1.0, "id": 133875982, "level": 2}
+{"count": 26345, "name": "Data stream", "weight": 1.0, "id": 2778484313, "level": 2}
+{"count": 68818, "name": "Workload", "weight": 3.0, "id": 2778476105, "level": 2}
+{"count": 54412, "name": "Queue", "weight": 2.0, "id": 160403385, "level": 2}
+{"count": 21241, "name": "Network performance", "weight": 1.0, "id": 203274722, "level": 2}
+{"count": 10768, "name": "Load management", "weight": 0.0, "id": 2779370713, "level": 2}
+{"count": 23477, "name": "Memory management", "weight": 1.0, "id": 176649486, "level": 2}
+{"count": 9704, "name": "Propagation delay", "weight": 0.0, "id": 90806461, "level": 2}
+{"count": 65973, "name": "Asynchronous communication", "weight": 3.0, "id": 151319957, "level": 2}
+{"count": 26182, "name": "Multiprocessing", "weight": 1.0, "id": 4822641, "level": 2}
+{"count": 34664, "name": "Jitter", "weight": 1.0, "id": 134652429, "level": 2}
+{"count": 11834, "name": "Software-defined radio", "weight": 0.0, "id": 171115542, "level": 2}
+{"count": 14825, "name": "File system", "weight": 0.0, "id": 2780940931, "level": 2}
+{"count": 18552, "name": "Concurrency", "weight": 0.0, "id": 193702766, "level": 2}
+{"count": 16784, "name": "Shared resource", "weight": 0.0, "id": 51332947, "level": 2}
+{"count": 38982, "name": "Compiler", "weight": 1.0, "id": 169590947, "level": 2}
+{"count": 12718, "name": "Discrete event simulation", "weight": 0.0, "id": 147203929, "level": 2}
+{"count": 11105, "name": "Batch processing", "weight": 0.0, "id": 172658912, "level": 2}
+{"count": 2513, "name": "Time constraint", "weight": 0.0, "id": 2775907273, "level": 2}
+{"count": 17881, "name": "Power management", "weight": 0.0, "id": 2778774385, "level": 2}
+{"count": 9124, "name": "Benchmark (computing)", "weight": 0.0, "id": 137955351, "level": 2}
+{"count": 22335, "name": "Voice over IP", "weight": 1.0, "id": 171246234, "level": 2}
+{"count": 30527, "name": "Response time", "weight": 1.0, "id": 19012869, "level": 2}
+{"count": 115344, "name": "Latency (engineering)", "weight": 5.0, "id": 98980195, "level": 2}
+{"count": 53933, "name": "Schedule", "weight": 2.0, "id": 68387754, "level": 2}
+{"count": 15512, "name": "Code generation", "weight": 0.0, "id": 133162039, "level": 2}
+{"count": 21753, "name": "Data center", "weight": 1.0, "id": 153740404, "level": 2}
+{"count": 32905, "name": "Multi-core processor", "weight": 1.0, "id": 78766204, "level": 2}
+{"count": 7925, "name": "Critical path method", "weight": 0.0, "id": 115874739, "level": 2}
+{"count": 15530, "name": "Codec", "weight": 0.0, "id": 161765866, "level": 2}
+{"count": 8440, "name": "Real-time data", "weight": 0.0, "id": 110593043, "level": 2}
+{"count": 7162, "name": "Performance metric", "weight": 0.0, "id": 2780898871, "level": 2}
+{"count": 4123, "name": "Time-sharing", "weight": 0.0, "id": 38725249, "level": 2}
+{"count": 10410, "name": "Multi-user", "weight": 0.0, "id": 2778002699, "level": 2}
+{"count": 6728, "name": "Concurrency control", "weight": 0.0, "id": 84511453, "level": 2}
+{"count": 4178, "name": "Data consistency", "weight": 0.0, "id": 93361087, "level": 2}
+{"count": 13685, "name": "Network interface", "weight": 0.0, "id": 103987645, "level": 2}
+{"count": 13525, "name": "Distributed memory", "weight": 0.0, "id": 91481028, "level": 2}
+{"count": 5278, "name": "Transport layer", "weight": 0.0, "id": 7345512, "level": 2}
+{"count": 24394, "name": "Network simulation", "weight": 1.0, "id": 139940560, "level": 2}
+{"count": 7271, "name": "Program analysis", "weight": 0.0, "id": 98183937, "level": 2}
+{"count": 8609, "name": "Distributed Computing Environment", "weight": 0.0, "id": 3739613, "level": 2}
+{"count": 6003, "name": "Control flow", "weight": 0.0, "id": 160191386, "level": 2}
+{"count": 8133, "name": "Flip-flop", "weight": 0.0, "id": 2781007278, "level": 2}
+{"count": 7326, "name": "Garbage collection", "weight": 0.0, "id": 105122174, "level": 2}
+{"count": 11671, "name": "Sequential logic", "weight": 0.0, "id": 187075797, "level": 2}
+{"count": 7913, "name": "Static timing analysis", "weight": 0.0, "id": 93682380, "level": 2}
+{"count": 36223, "name": "Debugging", "weight": 1.0, "id": 168065819, "level": 2}
+{"count": 6210, "name": "Built-in self-test", "weight": 0.0, "id": 2780980493, "level": 2}
+{"count": 8996, "name": "Computer cluster", "weight": 0.0, "id": 29140674, "level": 2}
+{"count": 6333, "name": "High-level synthesis", "weight": 0.0, "id": 58013763, "level": 2}
+{"count": 14983, "name": "WiMAX", "weight": 0.0, "id": 113950482, "level": 2}
+{"count": 3340, "name": "Mutual exclusion", "weight": 0.0, "id": 56348326, "level": 2}
+{"count": 3263, "name": "Traffic model", "weight": 0.0, "id": 2775847900, "level": 2}
+{"count": 4301, "name": "Link layer", "weight": 0.0, "id": 12570599, "level": 2}
+{"count": 3980, "name": "Program optimization", "weight": 0.0, "id": 139571649, "level": 2}
+{"count": 9880, "name": "Supervisory control", "weight": 0.0, "id": 92991967, "level": 2}
+{"count": 6115, "name": "Design for testing", "weight": 0.0, "id": 190874656, "level": 2}
+{"count": 10227, "name": "Fault model", "weight": 0.0, "id": 167391956, "level": 2}
+{"count": 11480, "name": "Sliding window protocol", "weight": 0.0, "id": 102392041, "level": 2}
+{"count": 4536, "name": "Aspect-oriented programming", "weight": 0.0, "id": 60051680, "level": 2}
+{"count": 33199, "name": "Control reconfiguration", "weight": 1.0, "id": 119701452, "level": 2}
+{"count": 5933, "name": "Virtual memory", "weight": 0.0, "id": 76399640, "level": 2}
+{"count": 16100, "name": "Internet protocol suite", "weight": 0.0, "id": 65567647, "level": 2}
+{"count": 12836, "name": "Video quality", "weight": 0.0, "id": 103910844, "level": 2}
+{"count": 37058, "name": "Central processing unit", "weight": 1.0, "id": 49154492, "level": 2}
+{"count": 20882, "name": "Static random-access memory", "weight": 1.0, "id": 68043766, "level": 2}
+{"count": 6305, "name": "Time of arrival", "weight": 0.0, "id": 163150518, "level": 2}
+{"count": 4402, "name": "Round-trip delay time", "weight": 0.0, "id": 73989555, "level": 2}
+{"count": 9427, "name": "Automatic test pattern generation", "weight": 0.0, "id": 17626397, "level": 2}
+{"count": 6859, "name": "Distributed object", "weight": 0.0, "id": 81192388, "level": 2}
+{"count": 6616, "name": "High availability", "weight": 0.0, "id": 65813073, "level": 2}
+{"count": 11936, "name": "Fault coverage", "weight": 0.0, "id": 126953365, "level": 2}
+{"count": 7371, "name": "Automatic test equipment", "weight": 0.0, "id": 141842801, "level": 2}
+{"count": 8107, "name": "Design flow", "weight": 0.0, "id": 37135326, "level": 2}
+{"count": 37631, "name": "Handover", "weight": 1.0, "id": 111852164, "level": 2}
+{"count": 3213, "name": "Out-of-order execution", "weight": 0.0, "id": 1793878, "level": 2}
+{"count": 3089, "name": "Runtime system", "weight": 0.0, "id": 2780870223, "level": 2}
+{"count": 30128, "name": "Ethernet", "weight": 1.0, "id": 172173386, "level": 2}
+{"count": 11410, "name": "Network monitoring", "weight": 0.0, "id": 81877898, "level": 2}
+{"count": 2654, "name": "Inter-process communication", "weight": 0.0, "id": 204156049, "level": 2}
+{"count": 2049, "name": "Random testing", "weight": 0.0, "id": 106159264, "level": 2}
+{"count": 2667, "name": "Remote procedure call", "weight": 0.0, "id": 172086080, "level": 2}
+{"count": 7767, "name": "Expiration", "weight": 0.0, "id": 2776164194, "level": 2}
+{"count": 4052, "name": "Variable bitrate", "weight": 0.0, "id": 57667952, "level": 2}
+{"count": 8709, "name": "Common Object Request Broker Architecture", "weight": 0.0, "id": 49312422, "level": 2}
+{"count": 11143, "name": "Deadlock", "weight": 0.0, "id": 159023740, "level": 2}
+{"count": 203175, "name": "Network packet", "weight": 9.0, "id": 158379750, "level": 2}
+{"count": 6634, "name": "Radio Link Protocol", "weight": 0.0, "id": 12430449, "level": 2}
+{"count": 5018, "name": "Distributed File System", "weight": 0.0, "id": 152043487, "level": 2}
+{"count": 5273, "name": "Power optimization", "weight": 0.0, "id": 168292644, "level": 2}
+{"count": 2781, "name": "Buffer overflow", "weight": 0.0, "id": 40842320, "level": 2}
+{"count": 4386, "name": "Soft error", "weight": 0.0, "id": 154474529, "level": 2}
+{"count": 2468, "name": "Real-time communication", "weight": 0.0, "id": 2780626145, "level": 2}
+{"count": 3137, "name": "Exception handling", "weight": 0.0, "id": 145428669, "level": 2}
+{"count": 15511, "name": "CAN bus", "weight": 0.0, "id": 201762086, "level": 2}
+{"count": 4135, "name": "Clock recovery", "weight": 0.0, "id": 2779835379, "level": 2}
+{"count": 2691, "name": "Consistency model", "weight": 0.0, "id": 37279795, "level": 2}
+{"count": 4369, "name": "Symmetric multiprocessor system", "weight": 0.0, "id": 172430144, "level": 2}
+{"count": 4553, "name": "Virtual circuit", "weight": 0.0, "id": 22592002, "level": 2}
+{"count": 1676, "name": "Computer multitasking", "weight": 0.0, "id": 154556556, "level": 2}
+{"count": 13637, "name": "Dependability", "weight": 0.0, "id": 77019957, "level": 2}
+{"count": 2651, "name": "Memory model", "weight": 0.0, "id": 12186640, "level": 2}
+{"count": 2602, "name": "Symbolic execution", "weight": 0.0, "id": 2779639559, "level": 2}
+{"count": 7011, "name": "Network delay", "weight": 0.0, "id": 152623178, "level": 2}
+{"count": 3762, "name": "Stream processing", "weight": 0.0, "id": 107027933, "level": 2}
+{"count": 4232, "name": "MPEG-4", "weight": 0.0, "id": 97501218, "level": 2}
+{"count": 1463, "name": "Critical section", "weight": 0.0, "id": 124343487, "level": 2}
+{"count": 4159, "name": "System monitoring", "weight": 0.0, "id": 200749887, "level": 2}
+{"count": 5063, "name": "Autonomic computing", "weight": 0.0, "id": 558632462, "level": 2}
+{"count": 8843, "name": "Cyber-physical system", "weight": 0.0, "id": 179768478, "level": 2}
+{"count": 5200, "name": "Integration testing", "weight": 0.0, "id": 107683887, "level": 2}
+{"count": 2886, "name": "Electronic system-level design and verification", "weight": 0.0, "id": 77495112, "level": 2}
+{"count": 2420, "name": "Branch predictor", "weight": 0.0, "id": 168522837, "level": 2}
+{"count": 2609, "name": "Erasure code", "weight": 0.0, "id": 137529215, "level": 2}
+{"count": 6989, "name": "Transcoding", "weight": 0.0, "id": 134535813, "level": 2}
+{"count": 6868, "name": "Distributed data store", "weight": 0.0, "id": 24885549, "level": 2}
+{"count": 5111, "name": "Replication (computing)", "weight": 0.0, "id": 70440993, "level": 2}
+{"count": 28483, "name": "Node (networking)", "weight": 1.0, "id": 46135064, "level": 2}
+{"count": 4592, "name": "Unit testing", "weight": 0.0, "id": 148027188, "level": 2}
+{"count": 3591, "name": "Register file", "weight": 0.0, "id": 117280010, "level": 2}
+{"count": 59499, "name": "Encoder", "weight": 2.0, "id": 118505674, "level": 2}
+{"count": 13705, "name": "Paging", "weight": 0.0, "id": 50954386, "level": 2}
+{"count": 7728, "name": "Media access control", "weight": 0.0, "id": 513196756, "level": 2}
+{"count": 3595, "name": "Microcode", "weight": 0.0, "id": 22174128, "level": 2}
+{"count": 9629, "name": "Overhead (business)", "weight": 0.0, "id": 140582190, "level": 2}
+{"count": 2886, "name": "Control flow graph", "weight": 0.0, "id": 27458966, "level": 2}
+{"count": 1315, "name": "Self-healing", "weight": 0.0, "id": 2778210392, "level": 2}
+{"count": 2660, "name": "Bloom filter", "weight": 0.0, "id": 147224247, "level": 2}
+{"count": 4267, "name": "Code coverage", "weight": 0.0, "id": 53942775, "level": 2}
+{"count": 3247, "name": "Conformance testing", "weight": 0.0, "id": 76844732, "level": 2}
+{"count": 9145, "name": "Software-defined networking", "weight": 0.0, "id": 77270119, "level": 2}
+{"count": 2290, "name": "Separation of concerns", "weight": 0.0, "id": 76214141, "level": 2}
+{"count": 11068, "name": "Frame (networking)", "weight": 0.0, "id": 126042441, "level": 2}
+{"count": 64335, "name": "Cache", "weight": 3.0, "id": 115537543, "level": 2}
+{"count": 6457, "name": "Register-transfer level", "weight": 0.0, "id": 34854456, "level": 2}
+{"count": 19472, "name": "Clock skew", "weight": 0.0, "id": 60501442, "level": 2}
+{"count": 4833, "name": "Disk array", "weight": 0.0, "id": 13021383, "level": 2}
+{"count": 1999, "name": "High-definition video", "weight": 0.0, "id": 2780236118, "level": 2}
+{"count": 3270, "name": "Logic simulation", "weight": 0.0, "id": 64859876, "level": 2}
+{"count": 3241, "name": "MPEG-2", "weight": 0.0, "id": 18446390, "level": 2}
+{"count": 3078, "name": "Instruction-level parallelism", "weight": 0.0, "id": 140763907, "level": 2}
+{"count": 943, "name": "Distributed operating system", "weight": 0.0, "id": 2779783377, "level": 2}
+{"count": 6717, "name": "Human multitasking", "weight": 0.0, "id": 107418235, "level": 2}
+{"count": 1515, "name": "Nested loop join", "weight": 0.0, "id": 1306188, "level": 2}
+{"count": 1031, "name": "Call graph", "weight": 0.0, "id": 102379954, "level": 2}
+{"count": 1307, "name": "Speculative execution", "weight": 0.0, "id": 141331961, "level": 2}
+{"count": 15544, "name": "Clock rate", "weight": 0.0, "id": 178693496, "level": 2}
+{"count": 4941, "name": "Access time", "weight": 0.0, "id": 194080101, "level": 2}
+{"count": 28757, "name": "Pointer (computer programming)", "weight": 1.0, "id": 161969638, "level": 2}
+{"count": 3308, "name": "Cyclic redundancy check", "weight": 0.0, "id": 137627569, "level": 2}
+{"count": 2141, "name": "CAS latency", "weight": 0.0, "id": 189930140, "level": 2}
+{"count": 4970, "name": "Cycles per instruction", "weight": 0.0, "id": 85204552, "level": 2}
+{"count": 4377, "name": "OpenFlow", "weight": 0.0, "id": 192697461, "level": 2}
+{"count": 2768, "name": "Fault management", "weight": 0.0, "id": 108074857, "level": 2}
+{"count": 7605, "name": "RAID", "weight": 0.0, "id": 133320665, "level": 2}
+{"count": 10780, "name": "Application layer", "weight": 0.0, "id": 190793597, "level": 2}
+{"count": 2717, "name": "Task management", "weight": 0.0, "id": 2780021488, "level": 2}
+{"count": 1957, "name": "Performance tuning", "weight": 0.0, "id": 2777138346, "level": 2}
+{"count": 5856, "name": "Protocol stack", "weight": 0.0, "id": 38601921, "level": 2}
+{"count": 35844, "name": "User equipment", "weight": 1.0, "id": 2781327853, "level": 2}
+{"count": 10718, "name": "Interleaving", "weight": 0.0, "id": 28034677, "level": 2}
+{"count": 4874, "name": "Liveness", "weight": 0.0, "id": 15569618, "level": 2}
+{"count": 824, "name": "Event correlation", "weight": 0.0, "id": 60801479, "level": 2}
+{"count": 5800, "name": "Testability", "weight": 0.0, "id": 51234621, "level": 2}
+{"count": 2391, "name": "Instructions per cycle", "weight": 0.0, "id": 156972235, "level": 2}
+{"count": 3758, "name": "Task parallelism", "weight": 0.0, "id": 42992933, "level": 2}
+{"count": 599, "name": "Network operating system", "weight": 0.0, "id": 2776810965, "level": 2}
+{"count": 5073, "name": "Block cipher mode of operation", "weight": 0.0, "id": 60448319, "level": 2}

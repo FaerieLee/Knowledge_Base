@@ -1,0 +1,12 @@
+{"count": 2038, "name": "Sequential algorithm", "weight": 10.0, "id": 2777493441, "level": 3}
+{"count": 638, "name": "Parallel random-access machine", "weight": 3.0, "id": 45831327, "level": 3}
+{"count": 926, "name": "Bulk synchronous parallel", "weight": 4.0, "id": 156891508, "level": 3}
+{"count": 245, "name": "List ranking", "weight": 1.0, "id": 2777925698, "level": 3}
+{"count": 179, "name": "Prefix sum", "weight": 0.0, "id": 111159189, "level": 3}
+{"count": 75, "name": "Pointer jumping", "weight": 0.0, "id": 2781001252, "level": 3}
+{"count": 65, "name": "Maximum subarray problem", "weight": 0.0, "id": 1634158, "level": 3}
+{"count": 15, "name": "Explicit multi-threading", "weight": 0.0, "id": 2778899400, "level": 3}
+{"count": 1501, "name": "Embarrassingly parallel", "weight": 7.0, "id": 126909462, "level": 3}
+{"count": 1418, "name": "Analysis of parallel algorithms", "weight": 6.0, "id": 538114610, "level": 3}
+{"count": 10, "name": "All nearest smaller values", "weight": 0.0, "id": 2776654370, "level": 3}
+{"count": 19, "name": "Heterogeneous Element Processor", "weight": 0.0, "id": 194616574, "level": 3}

@@ -1,0 +1,7 @@
+{"count": 2453, "name": "Structural alignment", "weight": 10.0, "id": 4668613, "level": 3}
+{"count": 1357, "name": "Smith\u2013Waterman algorithm", "weight": 5.0, "id": 72802188, "level": 3}
+{"count": 273, "name": "Conserved Domain Database", "weight": 1.0, "id": 128585997, "level": 3}
+{"count": 436, "name": "Substitution matrix", "weight": 1.0, "id": 71419964, "level": 3}
+{"count": 332, "name": "Needleman\u2013Wunsch algorithm", "weight": 1.0, "id": 133382986, "level": 3}
+{"count": 28, "name": "ModBase", "weight": 0.0, "id": 2780624882, "level": 3}
+{"count": 200, "name": "BLOSUM", "weight": 0.0, "id": 157732223, "level": 3}

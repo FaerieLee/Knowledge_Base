@@ -1,0 +1,4 @@
+{"count": 3171, "name": "Rate\u2013distortion optimization", "weight": 10.0, "id": 50056821, "level": 4}
+{"count": 1679, "name": "Motion interpolation", "weight": 5.0, "id": 72560505, "level": 4}
+{"count": 231, "name": "Global motion compensation", "weight": 0.0, "id": 113174904, "level": 4}
+{"count": 22, "name": "Micro stuttering", "weight": 0.0, "id": 3716183, "level": 4}

@@ -1,0 +1,11 @@
+{"count": 4446, "name": "Washout (aeronautics)", "weight": 10.0, "id": 111764370, "level": 3}
+{"count": 2512, "name": "Wing loading", "weight": 5.0, "id": 107779570, "level": 3}
+{"count": 1428, "name": "Relative wind", "weight": 3.0, "id": 111582010, "level": 3}
+{"count": 269, "name": "Static margin", "weight": 0.0, "id": 120255206, "level": 3}
+{"count": 1468, "name": "Vortex lift", "weight": 3.0, "id": 52226264, "level": 3}
+{"count": 3733, "name": "Wing twist", "weight": 8.0, "id": 137990359, "level": 3}
+{"count": 315, "name": "Shock stall", "weight": 0.0, "id": 142388331, "level": 3}
+{"count": 24, "name": "Departure resistance", "weight": 0.0, "id": 2777367169, "level": 3}
+{"count": 75, "name": "Clean configuration", "weight": 0.0, "id": 2776487565, "level": 3}
+{"count": 56, "name": "Stick pusher", "weight": 0.0, "id": 162131142, "level": 3}
+{"count": 67, "name": "Aeroprediction", "weight": 0.0, "id": 2776298355, "level": 3}

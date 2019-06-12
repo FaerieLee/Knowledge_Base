@@ -1,0 +1,14 @@
+{"count": 2533, "name": "Line search", "weight": 4.0, "id": 85522705, "level": 3}
+{"count": 5094, "name": "Premature convergence", "weight": 9.0, "id": 58758708, "level": 3}
+{"count": 974, "name": "Conditional convergence", "weight": 1.0, "id": 129703110, "level": 3}
+{"count": 2792, "name": "Trust region", "weight": 4.0, "id": 89109886, "level": 3}
+{"count": 933, "name": "Symbolic convergence theory", "weight": 1.0, "id": 64980692, "level": 3}
+{"count": 347, "name": "Fixed\u2013mobile convergence", "weight": 0.0, "id": 2778025062, "level": 3}
+{"count": 73, "name": "Epi-convergence", "weight": 0.0, "id": 2777319615, "level": 3}
+{"count": 452, "name": "Convergence clubs", "weight": 0.0, "id": 2777019961, "level": 3}
+{"count": 657, "name": "Convergence problem", "weight": 1.0, "id": 2777824901, "level": 3}
+{"count": 4192, "name": "Convergence tests", "weight": 7.0, "id": 538505008, "level": 3}
+{"count": 664, "name": "PDCP", "weight": 1.0, "id": 2779061185, "level": 3}
+{"count": 4758, "name": "Compact convergence", "weight": 8.0, "id": 5871375, "level": 3}
+{"count": 5643, "name": "Modes of convergence", "weight": 10.0, "id": 100087112, "level": 3}
+{"count": 93, "name": "Juniper E-Series", "weight": 0.0, "id": 3879287, "level": 3}

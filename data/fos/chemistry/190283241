@@ -1,0 +1,87 @@
+{"count": 118356, "name": "Programmed cell death", "weight": 10.0, "id": 31573885, "level": 3}
+{"count": 75172, "name": "Molecular medicine", "weight": 6.0, "id": 67082663, "level": 3}
+{"count": 53552, "name": "Oncogene", "weight": 4.0, "id": 2781018059, "level": 3}
+{"count": 35659, "name": "Cytochrome c", "weight": 3.0, "id": 29311851, "level": 3}
+{"count": 12306, "name": "Cell cycle checkpoint", "weight": 1.0, "id": 105696609, "level": 3}
+{"count": 38904, "name": "Autophagy", "weight": 3.0, "id": 203522944, "level": 3}
+{"count": 47651, "name": "Viability assay", "weight": 4.0, "id": 53227056, "level": 3}
+{"count": 15405, "name": "Caspase 3", "weight": 1.0, "id": 12519072, "level": 3}
+{"count": 17134, "name": "Unfolded protein response", "weight": 1.0, "id": 139447449, "level": 3}
+{"count": 10023, "name": "Poly ADP ribose polymerase", "weight": 0.0, "id": 182979987, "level": 3}
+{"count": 12134, "name": "Fas ligand", "weight": 1.0, "id": 66008609, "level": 3}
+{"count": 12675, "name": "Jurkat cells", "weight": 1.0, "id": 179464577, "level": 3}
+{"count": 13689, "name": "Annexin", "weight": 1.0, "id": 88634738, "level": 3}
+{"count": 20972, "name": "TUNEL assay", "weight": 1.0, "id": 196795494, "level": 3}
+{"count": 24979, "name": "MTT assay", "weight": 2.0, "id": 2780783641, "level": 3}
+{"count": 9313, "name": "Propidium iodide", "weight": 0.0, "id": 2775934118, "level": 3}
+{"count": 5979, "name": "Mitochondrial permeability transition pore", "weight": 0.0, "id": 13591479, "level": 3}
+{"count": 7829, "name": "Proteasome inhibitor", "weight": 0.0, "id": 2778367456, "level": 3}
+{"count": 9969, "name": "Phosphatidylserine", "weight": 0.0, "id": 2779637612, "level": 3}
+{"count": 4389, "name": "Staurosporine", "weight": 0.0, "id": 2779084600, "level": 3}
+{"count": 1315, "name": "Molecular oncology", "weight": 0.0, "id": 2777362581, "level": 3}
+{"count": 11286, "name": "K562 cells", "weight": 0.0, "id": 171122931, "level": 3}
+{"count": 12907, "name": "Survivin", "weight": 1.0, "id": 2775975398, "level": 3}
+{"count": 4034, "name": "Arsenic trioxide", "weight": 0.0, "id": 2780386689, "level": 3}
+{"count": 3630, "name": "U937 cell", "weight": 0.0, "id": 108634530, "level": 3}
+{"count": 1731, "name": "Voltage-dependent anion channel", "weight": 0.0, "id": 200784783, "level": 3}
+{"count": 5771, "name": "Mdm2", "weight": 0.0, "id": 2776192174, "level": 3}
+{"count": 2418, "name": "Cyclin B1", "weight": 0.0, "id": 2778437423, "level": 3}
+{"count": 629, "name": "Tumor necrosis factor receptor 1", "weight": 0.0, "id": 2779708716, "level": 3}
+{"count": 2021, "name": "Triptolide", "weight": 0.0, "id": 2781164371, "level": 3}
+{"count": 160, "name": "NS-398", "weight": 0.0, "id": 2780368850, "level": 3}
+{"count": 642, "name": "Aurintricarboxylic acid", "weight": 0.0, "id": 2779686868, "level": 3}
+{"count": 3053, "name": "SH-SY5Y", "weight": 0.0, "id": 2779083432, "level": 3}
+{"count": 192, "name": "TNFRSF10B", "weight": 0.0, "id": 176978288, "level": 3}
+{"count": 565, "name": "2-Methoxyestradiol", "weight": 0.0, "id": 2776260442, "level": 3}
+{"count": 578, "name": "Bufalin", "weight": 0.0, "id": 2777151579, "level": 3}
+{"count": 836, "name": "Gadd45", "weight": 0.0, "id": 2778021510, "level": 3}
+{"count": 489, "name": "Phenethyl isothiocyanate", "weight": 0.0, "id": 2780740852, "level": 3}
+{"count": 272, "name": "Edelfosine", "weight": 0.0, "id": 2776992349, "level": 3}
+{"count": 409, "name": "Gambogic acid", "weight": 0.0, "id": 2781360439, "level": 3}
+{"count": 732, "name": "Death-associated protein 6", "weight": 0.0, "id": 89380225, "level": 3}
+{"count": 726, "name": "Efferocytosis", "weight": 0.0, "id": 168261976, "level": 3}
+{"count": 2929, "name": "HL60", "weight": 0.0, "id": 2778903051, "level": 3}
+{"count": 533, "name": "Norcantharidin", "weight": 0.0, "id": 2777522256, "level": 3}
+{"count": 528, "name": "Diallyl trisulfide", "weight": 0.0, "id": 2781220098, "level": 3}
+{"count": 370, "name": "Humanin", "weight": 0.0, "id": 2779732356, "level": 3}
+{"count": 629, "name": "Rottlerin", "weight": 0.0, "id": 2778769476, "level": 3}
+{"count": 1996, "name": "Pyknosis", "weight": 0.0, "id": 29264880, "level": 3}
+{"count": 291, "name": "GADD45A", "weight": 0.0, "id": 2775908048, "level": 3}
+{"count": 521, "name": "MCL1", "weight": 0.0, "id": 2779176958, "level": 3}
+{"count": 624, "name": "Elemene", "weight": 0.0, "id": 2781340500, "level": 3}
+{"count": 188, "name": "Piperlongumine", "weight": 0.0, "id": 2779189339, "level": 3}
+{"count": 292, "name": "Deguelin", "weight": 0.0, "id": 2778958060, "level": 3}
+{"count": 450, "name": "Decoy receptors", "weight": 0.0, "id": 2777892063, "level": 3}
+{"count": 72, "name": "7-Aminoactinomycin D", "weight": 0.0, "id": 2780533148, "level": 3}
+{"count": 57, "name": "PAC-1", "weight": 0.0, "id": 2776360605, "level": 3}
+{"count": 115, "name": "Exisulind", "weight": 0.0, "id": 2777985340, "level": 3}
+{"count": 117, "name": "Safingol", "weight": 0.0, "id": 2776124480, "level": 3}
+{"count": 67, "name": "Cellular apoptosis susceptibility protein", "weight": 0.0, "id": 2777667717, "level": 3}
+{"count": 371, "name": "DiOC6", "weight": 0.0, "id": 2778670359, "level": 3}
+{"count": 173, "name": "Casticin", "weight": 0.0, "id": 2781233207, "level": 3}
+{"count": 217, "name": "SIAH1", "weight": 0.0, "id": 2778612137, "level": 3}
+{"count": 80, "name": "DAP3", "weight": 0.0, "id": 2777180081, "level": 3}
+{"count": 31, "name": "Hispolon", "weight": 0.0, "id": 2778761325, "level": 3}
+{"count": 76, "name": "Phenoptosis", "weight": 0.0, "id": 2777919221, "level": 3}
+{"count": 416, "name": "BCL2-related protein A1", "weight": 0.0, "id": 64140059, "level": 3}
+{"count": 172, "name": "Pifithrin", "weight": 0.0, "id": 2778248217, "level": 3}
+{"count": 83, "name": "Lexatumumab", "weight": 0.0, "id": 2777265559, "level": 3}
+{"count": 220, "name": "Navitoclax", "weight": 0.0, "id": 2776824915, "level": 3}
+{"count": 1047, "name": "G1 phase", "weight": 0.0, "id": 25311885, "level": 3}
+{"count": 211, "name": "BCL2L11", "weight": 0.0, "id": 2777809145, "level": 3}
+{"count": 34, "name": "Tabernaemontana elegans", "weight": 0.0, "id": 2777463980, "level": 3}
+{"count": 95, "name": "BCL2L2", "weight": 0.0, "id": 2776077568, "level": 3}
+{"count": 143, "name": "Death receptor 3", "weight": 0.0, "id": 2780204469, "level": 3}
+{"count": 162, "name": "CFLAR", "weight": 0.0, "id": 40958739, "level": 3}
+{"count": 45, "name": "OSU-03012", "weight": 0.0, "id": 2778318199, "level": 3}
+{"count": 43, "name": "Albatrellus confluens", "weight": 0.0, "id": 2777163207, "level": 3}
+{"count": 83, "name": "Hoechst stain", "weight": 0.0, "id": 2780434580, "level": 3}
+{"count": 26, "name": "13-Methyltetradecanoic acid", "weight": 0.0, "id": 2779397291, "level": 3}
+{"count": 35, "name": "BCL2L13", "weight": 0.0, "id": 2780075230, "level": 3}
+{"count": 86, "name": "AIFM1", "weight": 0.0, "id": 2780997785, "level": 3}
+{"count": 25, "name": "Goniothalamus cheliensis", "weight": 0.0, "id": 2780193893, "level": 3}
+{"count": 37, "name": "TP53BP2", "weight": 0.0, "id": 2778577854, "level": 3}
+{"count": 42, "name": "Muse cell", "weight": 0.0, "id": 2777730607, "level": 3}
+{"count": 18, "name": "AIFM2", "weight": 0.0, "id": 2777554393, "level": 3}
+{"count": 53, "name": "TNFSF12", "weight": 0.0, "id": 2777079760, "level": 3}
+{"count": 97, "name": "DFFA", "weight": 0.0, "id": 2776488037, "level": 3}

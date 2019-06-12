@@ -1,0 +1,14 @@
+{"count": 11431, "name": "Stochastic control", "weight": 7.0, "id": 170131372, "level": 3}
+{"count": 9605, "name": "Maximum principle", "weight": 6.0, "id": 31010330, "level": 3}
+{"count": 14647, "name": "Linear-quadratic-Gaussian control", "weight": 10.0, "id": 204495892, "level": 3}
+{"count": 6866, "name": "Trajectory optimization", "weight": 4.0, "id": 173246807, "level": 3}
+{"count": 8725, "name": "Linear-quadratic regulator", "weight": 5.0, "id": 98779006, "level": 3}
+{"count": 1860, "name": "Bang\u2013bang control", "weight": 1.0, "id": 175287345, "level": 3}
+{"count": 2959, "name": "Hamilton\u2013Jacobi\u2013Bellman equation", "weight": 2.0, "id": 196978813, "level": 3}
+{"count": 1006, "name": "Singular control", "weight": 0.0, "id": 2777984672, "level": 3}
+{"count": 633, "name": "Differential dynamic programming", "weight": 0.0, "id": 92292787, "level": 3}
+{"count": 269, "name": "Minimum energy control", "weight": 0.0, "id": 2779030784, "level": 3}
+{"count": 907, "name": "Pseudospectral optimal control", "weight": 0.0, "id": 154304650, "level": 3}
+{"count": 729, "name": "Optimal substructure", "weight": 0.0, "id": 60810621, "level": 3}
+{"count": 11, "name": "DNSS point", "weight": 0.0, "id": 179566792, "level": 3}
+{"count": 41, "name": "Hypograph", "weight": 0.0, "id": 2778640068, "level": 3}

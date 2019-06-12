@@ -1,0 +1,10 @@
+{"count": 1564, "name": "Heston model", "weight": 3.0, "id": 93045229, "level": 5}
+{"count": 4180, "name": "SABR volatility model", "weight": 10.0, "id": 187625094, "level": 5}
+{"count": 701, "name": "Local volatility", "weight": 1.0, "id": 2779834249, "level": 5}
+{"count": 1793, "name": "Variance swap", "weight": 4.0, "id": 165603445, "level": 5}
+{"count": 658, "name": "Volatility risk", "weight": 1.0, "id": 2777284652, "level": 5}
+{"count": 1189, "name": "Constant elasticity of variance model", "weight": 2.0, "id": 64133820, "level": 5}
+{"count": 79, "name": "Correlation swap", "weight": 0.0, "id": 139484474, "level": 5}
+{"count": 424, "name": "Conditional variance swap", "weight": 1.0, "id": 35917805, "level": 5}
+{"count": 61, "name": "Stochastic volatility jump", "weight": 0.0, "id": 2781302399, "level": 5}
+{"count": 1157, "name": "Financial models with long-tailed distributions and volatility clustering", "weight": 2.0, "id": 89218465, "level": 5}

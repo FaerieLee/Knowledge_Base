@@ -1,0 +1,50 @@
+{"count": 28038, "name": "Diffusion MRI", "weight": 10.0, "id": 149550507, "level": 3}
+{"count": 11893, "name": "Magnetic resonance angiography", "weight": 4.0, "id": 2778212899, "level": 3}
+{"count": 13683, "name": "Hyperintensity", "weight": 4.0, "id": 146638467, "level": 3}
+{"count": 5436, "name": "In vivo magnetic resonance spectroscopy", "weight": 1.0, "id": 103191249, "level": 3}
+{"count": 6166, "name": "Cardiac magnetic resonance imaging", "weight": 2.0, "id": 2776008845, "level": 3}
+{"count": 5619, "name": "Dynamic contrast-enhanced MRI", "weight": 2.0, "id": 41727105, "level": 3}
+{"count": 1306, "name": "Fluid-attenuated inversion recovery", "weight": 0.0, "id": 101070640, "level": 3}
+{"count": 1101, "name": "Whole body imaging", "weight": 0.0, "id": 2776410896, "level": 3}
+{"count": 3745, "name": "Magnetic resonance spectroscopic imaging", "weight": 1.0, "id": 96781048, "level": 3}
+{"count": 3308, "name": "Interventional magnetic resonance imaging", "weight": 1.0, "id": 186594802, "level": 3}
+{"count": 1582, "name": "Magnetic resonance neurography", "weight": 0.0, "id": 170958749, "level": 3}
+{"count": 1625, "name": "Susceptibility weighted imaging", "weight": 0.0, "id": 16246696, "level": 3}
+{"count": 2100, "name": "k-space", "weight": 0.0, "id": 197413143, "level": 3}
+{"count": 1606, "name": "Steady-state free precession imaging", "weight": 0.0, "id": 180400216, "level": 3}
+{"count": 3271, "name": "Radiofrequency coil", "weight": 1.0, "id": 206480500, "level": 3}
+{"count": 650, "name": "Gadodiamide", "weight": 0.0, "id": 2780026267, "level": 3}
+{"count": 1719, "name": "MRI contrast agent", "weight": 0.0, "id": 2778978742, "level": 3}
+{"count": 487, "name": "Claustrophobia", "weight": 0.0, "id": 2777029650, "level": 3}
+{"count": 650, "name": "Gadoxetic acid", "weight": 0.0, "id": 2778659479, "level": 3}
+{"count": 1529, "name": "Shim (magnetism)", "weight": 0.0, "id": 94589931, "level": 3}
+{"count": 1677, "name": "Real-time MRI", "weight": 0.0, "id": 157787499, "level": 3}
+{"count": 339, "name": "Phase contrast magnetic resonance imaging", "weight": 0.0, "id": 2778332749, "level": 3}
+{"count": 626, "name": "Quantitative susceptibility mapping", "weight": 0.0, "id": 29022207, "level": 3}
+{"count": 2192, "name": "Flip angle", "weight": 0.0, "id": 28396438, "level": 3}
+{"count": 411, "name": "Modic changes", "weight": 0.0, "id": 2776339750, "level": 3}
+{"count": 208, "name": "Mangafodipir", "weight": 0.0, "id": 2778575218, "level": 3}
+{"count": 478, "name": "Gadobutrol", "weight": 0.0, "id": 2776875665, "level": 3}
+{"count": 88, "name": "Gadopentetic acid", "weight": 0.0, "id": 2780145762, "level": 3}
+{"count": 278, "name": "Gadoteridol", "weight": 0.0, "id": 2777450217, "level": 3}
+{"count": 770, "name": "Centrum semiovale", "weight": 0.0, "id": 2779673634, "level": 3}
+{"count": 1679, "name": "Joint effusion", "weight": 0.0, "id": 2778573185, "level": 3}
+{"count": 261, "name": "Sodium MRI", "weight": 0.0, "id": 2778929721, "level": 3}
+{"count": 129, "name": "Alar ligament", "weight": 0.0, "id": 2778236442, "level": 3}
+{"count": 117, "name": "Electrically detected magnetic resonance", "weight": 0.0, "id": 2776081167, "level": 3}
+{"count": 215, "name": "Golden angle", "weight": 0.0, "id": 4268229, "level": 3}
+{"count": 732, "name": "Functional magnetic resonance spectroscopy of the brain", "weight": 0.0, "id": 136193539, "level": 3}
+{"count": 135, "name": "Tumefactive multiple sclerosis", "weight": 0.0, "id": 2781112628, "level": 3}
+{"count": 82, "name": "FLASH MRI", "weight": 0.0, "id": 183407279, "level": 3}
+{"count": 59, "name": "Gadoteric acid", "weight": 0.0, "id": 2776676662, "level": 3}
+{"count": 187, "name": "SPAIR", "weight": 0.0, "id": 2780352400, "level": 3}
+{"count": 708, "name": "Magnetic resonance imaging of the brain", "weight": 0.0, "id": 2776216825, "level": 3}
+{"count": 136, "name": "Positron emission tomography\u2013magnetic resonance imaging", "weight": 0.0, "id": 2775905939, "level": 3}
+{"count": 495, "name": "Delayed Gadolinium Enhanced Magnetic Resonance Imaging of Cartilage", "weight": 0.0, "id": 121403801, "level": 3}
+{"count": 30, "name": "Magnetic resonance therapy", "weight": 0.0, "id": 2777537605, "level": 3}
+{"count": 2737, "name": "Computed tomography laser mammography", "weight": 0.0, "id": 40706702, "level": 3}
+{"count": 39, "name": "Pontine cistern", "weight": 0.0, "id": 2776341927, "level": 3}
+{"count": 16, "name": "Sacrococcygeal membrane", "weight": 0.0, "id": 2780343155, "level": 3}
+{"count": 25, "name": "Berlin Method", "weight": 0.0, "id": 2780008630, "level": 3}
+{"count": 134, "name": "Supratentorial region", "weight": 0.0, "id": 2777561844, "level": 3}
+{"count": 22, "name": "Lateral condyle of femur", "weight": 0.0, "id": 2780403631, "level": 3}

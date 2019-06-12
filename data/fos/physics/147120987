@@ -1,0 +1,117 @@
+{"count": 69949, "name": "Electron density", "weight": 10.0, "id": 125485243, "level": 3}
+{"count": 60182, "name": "Cathode ray", "weight": 8.0, "id": 95312477, "level": 3}
+{"count": 33036, "name": "Positron", "weight": 4.0, "id": 202100949, "level": 3}
+{"count": 25916, "name": "Electron temperature", "weight": 3.0, "id": 22175881, "level": 3}
+{"count": 13483, "name": "Electron scattering", "weight": 1.0, "id": 146285849, "level": 3}
+{"count": 15881, "name": "Compton scattering", "weight": 2.0, "id": 61203554, "level": 3}
+{"count": 21500, "name": "Bremsstrahlung", "weight": 3.0, "id": 81302155, "level": 3}
+{"count": 21073, "name": "Fermi gas", "weight": 3.0, "id": 85867844, "level": 3}
+{"count": 11543, "name": "Cyclotron resonance", "weight": 1.0, "id": 132427895, "level": 3}
+{"count": 13952, "name": "Electron beam processing", "weight": 1.0, "id": 105163801, "level": 3}
+{"count": 13972, "name": "Free-electron laser", "weight": 1.0, "id": 2775876984, "level": 3}
+{"count": 2908, "name": "Atomic theory", "weight": 0.0, "id": 131707115, "level": 3}
+{"count": 7746, "name": "Conduction band", "weight": 1.0, "id": 27067764, "level": 3}
+{"count": 8186, "name": "Coulomb blockade", "weight": 1.0, "id": 117206207, "level": 3}
+{"count": 9304, "name": "Secondary emission", "weight": 1.0, "id": 13892213, "level": 3}
+{"count": 11535, "name": "Landau quantization", "weight": 1.0, "id": 50899005, "level": 3}
+{"count": 7229, "name": "Van Allen radiation belt", "weight": 1.0, "id": 54173289, "level": 3}
+{"count": 6481, "name": "Particle-in-cell", "weight": 0.0, "id": 8426674, "level": 3}
+{"count": 10743, "name": "Secondary electrons", "weight": 1.0, "id": 34667332, "level": 3}
+{"count": 10614, "name": "Electron cyclotron resonance", "weight": 1.0, "id": 175361016, "level": 3}
+{"count": 7897, "name": "Auger effect", "weight": 1.0, "id": 171627272, "level": 3}
+{"count": 5500, "name": "Ballistic conduction", "weight": 0.0, "id": 192683347, "level": 3}
+{"count": 4976, "name": "Landau damping", "weight": 0.0, "id": 73155160, "level": 3}
+{"count": 14428, "name": "Electron capture", "weight": 2.0, "id": 105066094, "level": 3}
+{"count": 5777, "name": "Thomson scattering", "weight": 0.0, "id": 2779146573, "level": 3}
+{"count": 7182, "name": "Dusty plasma", "weight": 1.0, "id": 4424474, "level": 3}
+{"count": 6505, "name": "Whistler", "weight": 0.0, "id": 185920578, "level": 3}
+{"count": 11388, "name": "Plasma oscillation", "weight": 1.0, "id": 60034648, "level": 3}
+{"count": 3624, "name": "Plasma acceleration", "weight": 0.0, "id": 198861627, "level": 3}
+{"count": 4611, "name": "Electron optics", "weight": 0.0, "id": 31885709, "level": 3}
+{"count": 4783, "name": "Electron localization function", "weight": 0.0, "id": 198179714, "level": 3}
+{"count": 7007, "name": "Electron hole", "weight": 1.0, "id": 88779282, "level": 3}
+{"count": 9258, "name": "Internal conversion", "weight": 1.0, "id": 116039458, "level": 3}
+{"count": 9668, "name": "Drift velocity", "weight": 1.0, "id": 131751877, "level": 3}
+{"count": 3937, "name": "Solvated electron", "weight": 0.0, "id": 42296456, "level": 3}
+{"count": 4315, "name": "Cyclotron radiation", "weight": 0.0, "id": 44128863, "level": 3}
+{"count": 2457, "name": "Relativistic plasma", "weight": 0.0, "id": 2779765048, "level": 3}
+{"count": 11419, "name": "Free electron model", "weight": 1.0, "id": 86453669, "level": 3}
+{"count": 2964, "name": "Highly charged ion", "weight": 0.0, "id": 2777392624, "level": 3}
+{"count": 4543, "name": "Transition radiation", "weight": 0.0, "id": 143715953, "level": 3}
+{"count": 3490, "name": "Gyroradius", "weight": 0.0, "id": 91571402, "level": 3}
+{"count": 4622, "name": "Electron pair", "weight": 0.0, "id": 196609583, "level": 3}
+{"count": 2390, "name": "Ponderomotive force", "weight": 0.0, "id": 2778175000, "level": 3}
+{"count": 16849, "name": "Electron gun", "weight": 2.0, "id": 179156687, "level": 3}
+{"count": 3387, "name": "Penning trap", "weight": 0.0, "id": 143873397, "level": 3}
+{"count": 1330, "name": "Gas electron multiplier", "weight": 0.0, "id": 126093786, "level": 3}
+{"count": 1930, "name": "Electron holography", "weight": 0.0, "id": 2776451378, "level": 3}
+{"count": 7458, "name": "Photocathode", "weight": 1.0, "id": 13115443, "level": 3}
+{"count": 2200, "name": "Dissociative recombination", "weight": 0.0, "id": 2781365560, "level": 3}
+{"count": 3081, "name": "Collision frequency", "weight": 0.0, "id": 112951337, "level": 3}
+{"count": 565, "name": "Ballistic electron emission microscopy", "weight": 0.0, "id": 2776356365, "level": 3}
+{"count": 999, "name": "Shape resonance", "weight": 0.0, "id": 2780467327, "level": 3}
+{"count": 3937, "name": "Core electron", "weight": 0.0, "id": 36678784, "level": 3}
+{"count": 912, "name": "Electron liquid", "weight": 0.0, "id": 2778675750, "level": 3}
+{"count": 453, "name": "Radiation length", "weight": 0.0, "id": 2776076439, "level": 3}
+{"count": 746, "name": "Exoelectron emission", "weight": 0.0, "id": 2780103441, "level": 3}
+{"count": 1161, "name": "Trion", "weight": 0.0, "id": 189148282, "level": 3}
+{"count": 1521, "name": "Microtron", "weight": 0.0, "id": 2779946633, "level": 3}
+{"count": 3069, "name": "Micrograph", "weight": 0.0, "id": 185891055, "level": 3}
+{"count": 5337, "name": "Betatron", "weight": 0.0, "id": 101819353, "level": 3}
+{"count": 281, "name": "Delta ray", "weight": 0.0, "id": 171802235, "level": 3}
+{"count": 542, "name": "Weibel instability", "weight": 0.0, "id": 2776183068, "level": 3}
+{"count": 811, "name": "Velocity overshoot", "weight": 0.0, "id": 2779364907, "level": 3}
+{"count": 1077, "name": "Wigner crystal", "weight": 0.0, "id": 2775862738, "level": 3}
+{"count": 1582, "name": "Magnetic mirror", "weight": 0.0, "id": 2778053152, "level": 3}
+{"count": 602, "name": "Zitterbewegung", "weight": 0.0, "id": 2779577033, "level": 3}
+{"count": 2187, "name": "Jellium", "weight": 0.0, "id": 14323908, "level": 3}
+{"count": 377, "name": "Electric form factor", "weight": 0.0, "id": 2778883298, "level": 3}
+{"count": 1332, "name": "Electronvolt", "weight": 0.0, "id": 180586651, "level": 3}
+{"count": 2701, "name": "Electron multiplier", "weight": 0.0, "id": 73963958, "level": 3}
+{"count": 3821, "name": "Acceleration voltage", "weight": 0.0, "id": 122802935, "level": 3}
+{"count": 2710, "name": "Electron excitation", "weight": 0.0, "id": 2778005398, "level": 3}
+{"count": 2489, "name": "Electron spectrometer", "weight": 0.0, "id": 136317731, "level": 3}
+{"count": 417, "name": "Wien filter", "weight": 0.0, "id": 156176656, "level": 3}
+{"count": 1137, "name": "Bohr radius", "weight": 0.0, "id": 37387333, "level": 3}
+{"count": 654, "name": "Electrostatic analyzer", "weight": 0.0, "id": 2777116965, "level": 3}
+{"count": 153, "name": "Q-machine", "weight": 0.0, "id": 2780252369, "level": 3}
+{"count": 104, "name": "Smith\u2013Purcell effect", "weight": 0.0, "id": 2779840958, "level": 3}
+{"count": 474, "name": "Electron counting", "weight": 0.0, "id": 2780740876, "level": 3}
+{"count": 350, "name": "Universal conductance fluctuations", "weight": 0.0, "id": 2776130209, "level": 3}
+{"count": 1927, "name": "Scattering rate", "weight": 0.0, "id": 2777913451, "level": 3}
+{"count": 2236, "name": "Bunches", "weight": 0.0, "id": 2777574091, "level": 3}
+{"count": 557, "name": "Friedel oscillations", "weight": 0.0, "id": 2779265359, "level": 3}
+{"count": 132, "name": "Runaway breakdown", "weight": 0.0, "id": 2781402187, "level": 3}
+{"count": 172, "name": "Diocotron instability", "weight": 0.0, "id": 2778932734, "level": 3}
+{"count": 141, "name": "Electron bubble", "weight": 0.0, "id": 2780666775, "level": 3}
+{"count": 272, "name": "Calorimeter (particle physics)", "weight": 0.0, "id": 18073261, "level": 3}
+{"count": 110, "name": "Electron interferometer", "weight": 0.0, "id": 2780614803, "level": 3}
+{"count": 428, "name": "Electron degeneracy pressure", "weight": 0.0, "id": 114147830, "level": 3}
+{"count": 156, "name": "Non-neutral plasmas", "weight": 0.0, "id": 2776282827, "level": 3}
+{"count": 85, "name": "Franck\u2013Hertz experiment", "weight": 0.0, "id": 2780344975, "level": 3}
+{"count": 189, "name": "Bethe formula", "weight": 0.0, "id": 98440294, "level": 3}
+{"count": 58, "name": "Ramsauer\u2013Townsend effect", "weight": 0.0, "id": 2777447315, "level": 3}
+{"count": 121, "name": "Multipactor effect", "weight": 0.0, "id": 2779623182, "level": 3}
+{"count": 150, "name": "M\u00f8ller scattering", "weight": 0.0, "id": 2779453955, "level": 3}
+{"count": 229, "name": "Energy analyser", "weight": 0.0, "id": 2780482813, "level": 3}
+{"count": 58, "name": "Hooke's atom", "weight": 0.0, "id": 60555311, "level": 3}
+{"count": 48, "name": "Central field approximation", "weight": 0.0, "id": 2776256699, "level": 3}
+{"count": 232, "name": "Deep-level trap", "weight": 0.0, "id": 86261062, "level": 3}
+{"count": 140, "name": "Schwinger variational principle", "weight": 0.0, "id": 2779147618, "level": 3}
+{"count": 51, "name": "Rutherford model", "weight": 0.0, "id": 191615282, "level": 3}
+{"count": 229, "name": "Mu2e", "weight": 0.0, "id": 2780669289, "level": 3}
+{"count": 9, "name": "Sokolov\u2013Ternov effect", "weight": 0.0, "id": 133748784, "level": 3}
+{"count": 81, "name": "Quantum tunnelling composite", "weight": 0.0, "id": 89311562, "level": 3}
+{"count": 43, "name": "3-Methylhexane", "weight": 0.0, "id": 2778272681, "level": 3}
+{"count": 177, "name": "Photoionisation cross section", "weight": 0.0, "id": 131876706, "level": 3}
+{"count": 26, "name": "Intersubband polariton", "weight": 0.0, "id": 2777814597, "level": 3}
+{"count": 7, "name": "Spherium", "weight": 0.0, "id": 2776271820, "level": 3}
+{"count": 18, "name": "Breit\u2013Wheeler process", "weight": 0.0, "id": 66431143, "level": 3}
+{"count": 41, "name": "Relativistic runaway electron avalanche", "weight": 0.0, "id": 2777997104, "level": 3}
+{"count": 435, "name": "Thermal effective mass", "weight": 0.0, "id": 38024188, "level": 3}
+{"count": 31, "name": "Photon surface", "weight": 0.0, "id": 2781253768, "level": 3}
+{"count": 155, "name": "Classical and quantum conductivity", "weight": 0.0, "id": 177838922, "level": 3}
+{"count": 11, "name": "Electron wave-packet interference", "weight": 0.0, "id": 2780237004, "level": 3}
+{"count": 188, "name": "Tandem Mirror Experiment", "weight": 0.0, "id": 2779209053, "level": 3}
+{"count": 27, "name": "CENBOL", "weight": 0.0, "id": 2780510496, "level": 3}
+{"count": 15835, "name": "Electromagnetic electron wave", "weight": 2.0, "id": 192304548, "level": 3}

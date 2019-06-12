@@ -1,0 +1,96 @@
+{"count": 18890, "name": "Decapoda", "weight": 10.0, "id": 2779770362, "level": 3}
+{"count": 2807, "name": "Branchiopoda", "weight": 1.0, "id": 2776987104, "level": 3}
+{"count": 4322, "name": "Cladocera", "weight": 2.0, "id": 2778208666, "level": 3}
+{"count": 6341, "name": "Amphipoda", "weight": 3.0, "id": 2778324211, "level": 3}
+{"count": 4775, "name": "Isopoda", "weight": 2.0, "id": 2779072645, "level": 3}
+{"count": 14, "name": "Charca", "weight": 0.0, "id": 2781386313, "level": 3}
+{"count": 907, "name": "Mysidacea", "weight": 0.0, "id": 2777721841, "level": 3}
+{"count": 6583, "name": "Carapace", "weight": 3.0, "id": 67206012, "level": 3}
+{"count": 883, "name": "Eyestalk", "weight": 0.0, "id": 149629667, "level": 3}
+{"count": 881, "name": "Malacostraca", "weight": 0.0, "id": 2776192033, "level": 3}
+{"count": 1555, "name": "Harpacticoida", "weight": 0.0, "id": 2778478787, "level": 3}
+{"count": 513, "name": "Homarus gammarus", "weight": 0.0, "id": 2777642049, "level": 3}
+{"count": 499, "name": "Siphonostomatoida", "weight": 0.0, "id": 2776011201, "level": 3}
+{"count": 416, "name": "Cancer pagurus", "weight": 0.0, "id": 2780815224, "level": 3}
+{"count": 1635, "name": "Calanoida", "weight": 0.0, "id": 2777036670, "level": 3}
+{"count": 495, "name": "Chionoecetes opilio", "weight": 0.0, "id": 2779278710, "level": 3}
+{"count": 504, "name": "Tanaidacea", "weight": 0.0, "id": 2778341724, "level": 3}
+{"count": 704, "name": "Peracarida", "weight": 0.0, "id": 2778932072, "level": 3}
+{"count": 1171, "name": "Cyclopoida", "weight": 0.0, "id": 2775865869, "level": 3}
+{"count": 466, "name": "Cumacea", "weight": 0.0, "id": 2778172513, "level": 3}
+{"count": 217, "name": "Stygofauna", "weight": 0.0, "id": 2776342442, "level": 3}
+{"count": 430, "name": "Brood pouch", "weight": 0.0, "id": 2776471501, "level": 3}
+{"count": 494, "name": "Branchiura", "weight": 0.0, "id": 2777200002, "level": 3}
+{"count": 279, "name": "Crustacean larvae", "weight": 0.0, "id": 2780369902, "level": 3}
+{"count": 585, "name": "Mesocyclops", "weight": 0.0, "id": 2776071164, "level": 3}
+{"count": 265, "name": "Rhizocephala", "weight": 0.0, "id": 2778317039, "level": 3}
+{"count": 492, "name": "Mantis shrimp", "weight": 0.0, "id": 2777339656, "level": 3}
+{"count": 111, "name": "Libinia emarginata", "weight": 0.0, "id": 2776943916, "level": 3}
+{"count": 346, "name": "Poecilostomatoida", "weight": 0.0, "id": 2777843136, "level": 3}
+{"count": 173, "name": "Pancrustacea", "weight": 0.0, "id": 2781452048, "level": 3}
+{"count": 225, "name": "Mysida", "weight": 0.0, "id": 2781304725, "level": 3}
+{"count": 164, "name": "Syncarida", "weight": 0.0, "id": 2779397937, "level": 3}
+{"count": 136, "name": "Pleuroncodes planipes", "weight": 0.0, "id": 2777890833, "level": 3}
+{"count": 772, "name": "Cephalothorax", "weight": 0.0, "id": 135238832, "level": 3}
+{"count": 23, "name": "Tigriopus brevicornis", "weight": 0.0, "id": 2781257241, "level": 3}
+{"count": 139, "name": "Bathynellacea", "weight": 0.0, "id": 2780200443, "level": 3}
+{"count": 124, "name": "Remipedia", "weight": 0.0, "id": 2776375690, "level": 3}
+{"count": 127, "name": "Squilla mantis", "weight": 0.0, "id": 2779583768, "level": 3}
+{"count": 174, "name": "Maxillopoda", "weight": 0.0, "id": 2775966113, "level": 3}
+{"count": 47, "name": "Upogebia africana", "weight": 0.0, "id": 2779243543, "level": 3}
+{"count": 115, "name": "Pennellidae", "weight": 0.0, "id": 2781000740, "level": 3}
+{"count": 46, "name": "Alpheus heterochaelis", "weight": 0.0, "id": 2776398207, "level": 3}
+{"count": 56, "name": "Tantulocarida", "weight": 0.0, "id": 2776132266, "level": 3}
+{"count": 155, "name": "Lernaeopodidae", "weight": 0.0, "id": 2776143950, "level": 3}
+{"count": 287, "name": "Squilla", "weight": 0.0, "id": 2780398361, "level": 3}
+{"count": 88, "name": "Neomysis americana", "weight": 0.0, "id": 2777949572, "level": 3}
+{"count": 66, "name": "Ascothoracida", "weight": 0.0, "id": 2778952078, "level": 3}
+{"count": 24, "name": "Pugettia producta", "weight": 0.0, "id": 2781418003, "level": 3}
+{"count": 176, "name": "Nyctiphanes", "weight": 0.0, "id": 2780561167, "level": 3}
+{"count": 294, "name": "Acanthocyclops", "weight": 0.0, "id": 2777112204, "level": 3}
+{"count": 71, "name": "Hoplocarida", "weight": 0.0, "id": 2776117663, "level": 3}
+{"count": 33, "name": "Libinia dubia", "weight": 0.0, "id": 2780332157, "level": 3}
+{"count": 88, "name": "Monstrilloida", "weight": 0.0, "id": 2779996968, "level": 3}
+{"count": 115, "name": "Northern krill", "weight": 0.0, "id": 2780717616, "level": 3}
+{"count": 75, "name": "Cephalocarida", "weight": 0.0, "id": 2777022141, "level": 3}
+{"count": 66, "name": "Bomolochidae", "weight": 0.0, "id": 2780539347, "level": 3}
+{"count": 27, "name": "Balanus trigonus", "weight": 0.0, "id": 2776272588, "level": 3}
+{"count": 98, "name": "Chondracanthidae", "weight": 0.0, "id": 2781416549, "level": 3}
+{"count": 76, "name": "Acrothoracica", "weight": 0.0, "id": 2779666529, "level": 3}
+{"count": 48, "name": "Mystacocarida", "weight": 0.0, "id": 2779985717, "level": 3}
+{"count": 206, "name": "Sacculina", "weight": 0.0, "id": 2781375279, "level": 3}
+{"count": 41, "name": "Gecarcinus", "weight": 0.0, "id": 2777921910, "level": 3}
+{"count": 93, "name": "Nebalia", "weight": 0.0, "id": 2780881861, "level": 3}
+{"count": 9, "name": "Phosphatocopida", "weight": 0.0, "id": 2777536450, "level": 3}
+{"count": 120, "name": "Oziotelphusa", "weight": 0.0, "id": 2779071053, "level": 3}
+{"count": 20, "name": "Lithodes maja", "weight": 0.0, "id": 2781254023, "level": 3}
+{"count": 98, "name": "Ovalipes", "weight": 0.0, "id": 2776046980, "level": 3}
+{"count": 74, "name": "Panulirus longipes", "weight": 0.0, "id": 2777163500, "level": 3}
+{"count": 26, "name": "Anchialine pool", "weight": 0.0, "id": 2779271682, "level": 3}
+{"count": 35, "name": "Lepadidae", "weight": 0.0, "id": 2777034808, "level": 3}
+{"count": 23, "name": "Cardisoma armatum", "weight": 0.0, "id": 2780500383, "level": 3}
+{"count": 97, "name": "Squillidae", "weight": 0.0, "id": 2779997427, "level": 3}
+{"count": 11, "name": "Tealliocaris", "weight": 0.0, "id": 2777242925, "level": 3}
+{"count": 17, "name": "Chamaesipho", "weight": 0.0, "id": 2781294840, "level": 3}
+{"count": 133, "name": "Hepatus", "weight": 0.0, "id": 2778998659, "level": 3}
+{"count": 91, "name": "Gonodactylus", "weight": 0.0, "id": 2777376618, "level": 3}
+{"count": 9, "name": "Petalophthalmidae", "weight": 0.0, "id": 2777659740, "level": 3}
+{"count": 8, "name": "Pygocephalomorpha", "weight": 0.0, "id": 2779697954, "level": 3}
+{"count": 87, "name": "Metanauplius", "weight": 0.0, "id": 2776202484, "level": 3}
+{"count": 56, "name": "Plagusia", "weight": 0.0, "id": 2778706238, "level": 3}
+{"count": 7, "name": "Latreilliidae", "weight": 0.0, "id": 2776952826, "level": 3}
+{"count": 18, "name": "Hyalophysa", "weight": 0.0, "id": 2778086066, "level": 3}
+{"count": 8, "name": "Bathysquillidae", "weight": 0.0, "id": 2779089082, "level": 3}
+{"count": 18, "name": "Eryon", "weight": 0.0, "id": 2778075583, "level": 3}
+{"count": 31, "name": "Archaeobalanidae", "weight": 0.0, "id": 2780835290, "level": 3}
+{"count": 91, "name": "Metacyclops", "weight": 0.0, "id": 2778873289, "level": 3}
+{"count": 16, "name": "Cambarellus patzcuarensis", "weight": 0.0, "id": 2779825107, "level": 3}
+{"count": 5, "name": "Gonodactylellus", "weight": 0.0, "id": 2776125566, "level": 3}
+{"count": 10, "name": "Nannosquillidae", "weight": 0.0, "id": 2775997254, "level": 3}
+{"count": 8, "name": "Lepidocaris", "weight": 0.0, "id": 2776118203, "level": 3}
+{"count": 9, "name": "Herbstia", "weight": 0.0, "id": 2778217725, "level": 3}
+{"count": 5, "name": "Garthiope", "weight": 0.0, "id": 2779303691, "level": 3}
+{"count": 38, "name": "Lysiosquilla", "weight": 0.0, "id": 2776802848, "level": 3}
+{"count": 21, "name": "Dosima", "weight": 0.0, "id": 2776038593, "level": 3}
+{"count": 5, "name": "Potamocypris variegata", "weight": 0.0, "id": 2777026757, "level": 3}
+{"count": 4, "name": "Pseudosquillidae", "weight": 0.0, "id": 2777378655, "level": 3}

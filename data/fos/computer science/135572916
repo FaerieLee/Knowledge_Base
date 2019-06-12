@@ -1,0 +1,10 @@
+{"count": 7677, "name": "Online analytical processing", "weight": 10.0, "id": 201932085, "level": 3}
+{"count": 2063, "name": "Materialized view", "weight": 2.0, "id": 98199447, "level": 3}
+{"count": 793, "name": "Data cleansing", "weight": 1.0, "id": 42199009, "level": 3}
+{"count": 889, "name": "Data mart", "weight": 1.0, "id": 2778834103, "level": 3}
+{"count": 231, "name": "Extract, transform, load", "weight": 0.0, "id": 2777362200, "level": 3}
+{"count": 191, "name": "Operational data store", "weight": 0.0, "id": 2776726251, "level": 3}
+{"count": 212, "name": "Operational database", "weight": 0.0, "id": 2776922689, "level": 3}
+{"count": 24, "name": "Anchor modeling", "weight": 0.0, "id": 2780033047, "level": 3}
+{"count": 15, "name": "Data warehouse appliance", "weight": 0.0, "id": 2779826570, "level": 3}
+{"count": 1607, "name": "Data transformation", "weight": 2.0, "id": 150670458, "level": 3}

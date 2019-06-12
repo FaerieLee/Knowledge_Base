@@ -1,0 +1,4 @@
+{"count": 3846, "name": "Best-first search", "weight": 10.0, "id": 46011968, "level": 4}
+{"count": 1702, "name": "Combinatorial search", "weight": 4.0, "id": 203208320, "level": 4}
+{"count": 597, "name": "State space search", "weight": 1.0, "id": 156942211, "level": 4}
+{"count": 3125, "name": "Incremental heuristic search", "weight": 8.0, "id": 139979381, "level": 4}

@@ -1,0 +1,7 @@
+{"count": 771, "name": "Wear leveling", "weight": 4.0, "id": 2778921463, "level": 5}
+{"count": 384, "name": "Flash memory controller", "weight": 2.0, "id": 2778096888, "level": 5}
+{"count": 587, "name": "Racetrack memory", "weight": 3.0, "id": 43363307, "level": 5}
+{"count": 106, "name": "YAFFS", "weight": 0.0, "id": 2776049367, "level": 5}
+{"count": 43, "name": "Execute in place", "weight": 0.0, "id": 2776176963, "level": 5}
+{"count": 91, "name": "Fusion Drive", "weight": 0.0, "id": 28764824, "level": 5}
+{"count": 1834, "name": "Flash memory emulator", "weight": 10.0, "id": 96535780, "level": 5}

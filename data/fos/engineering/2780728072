@@ -1,0 +1,10 @@
+{"count": 167, "name": "Intel 8080", "weight": 3.0, "id": 81851369, "level": 3}
+{"count": 219, "name": "Intel 8086", "weight": 4.0, "id": 71795488, "level": 3}
+{"count": 25, "name": "SuperSPARC", "weight": 0.0, "id": 2776578718, "level": 3}
+{"count": 167, "name": "In-circuit emulator", "weight": 3.0, "id": 153485870, "level": 3}
+{"count": 97, "name": "POWER6", "weight": 1.0, "id": 2780302106, "level": 3}
+{"count": 109, "name": "Intel 8085", "weight": 2.0, "id": 2780923251, "level": 3}
+{"count": 241, "name": "Industrial data processing", "weight": 4.0, "id": 194392938, "level": 3}
+{"count": 27, "name": "Peripheral Interface Adapter", "weight": 0.0, "id": 2776449945, "level": 3}
+{"count": 519, "name": "In-target probe", "weight": 10.0, "id": 84196652, "level": 3}
+{"count": 48, "name": "iAPX", "weight": 0.0, "id": 2775834723, "level": 3}

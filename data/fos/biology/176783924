@@ -1,0 +1,12 @@
+{"count": 6724, "name": "Lysimeter", "weight": 10.0, "id": 85871539, "level": 3}
+{"count": 1456, "name": "Penman\u2013Monteith equation", "weight": 2.0, "id": 60352421, "level": 3}
+{"count": 2706, "name": "Crop coefficient", "weight": 4.0, "id": 72551326, "level": 3}
+{"count": 571, "name": "FluxNet", "weight": 0.0, "id": 2780797852, "level": 3}
+{"count": 1536, "name": "Potential evaporation", "weight": 2.0, "id": 71941180, "level": 3}
+{"count": 1956, "name": "Pan evaporation", "weight": 2.0, "id": 23430798, "level": 3}
+{"count": 867, "name": "Aridity index", "weight": 1.0, "id": 164270790, "level": 3}
+{"count": 703, "name": "SEBAL", "weight": 1.0, "id": 2779836864, "level": 3}
+{"count": 386, "name": "Consumptive water use", "weight": 0.0, "id": 2775838554, "level": 3}
+{"count": 209, "name": "Crop factor", "weight": 0.0, "id": 181937468, "level": 3}
+{"count": 127, "name": "Atmometer", "weight": 0.0, "id": 2777110445, "level": 3}
+{"count": 625, "name": "Blaney\u2013Criddle equation", "weight": 0.0, "id": 129528870, "level": 3}

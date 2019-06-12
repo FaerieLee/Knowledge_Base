@@ -1,0 +1,23 @@
+{"count": 3559, "name": "Ground effect (aerodynamics)", "weight": 6.0, "id": 91850631, "level": 3}
+{"count": 5663, "name": "Lift-to-drag ratio", "weight": 10.0, "id": 107157880, "level": 3}
+{"count": 2280, "name": "Downwash", "weight": 4.0, "id": 202685678, "level": 3}
+{"count": 3870, "name": "Pitching moment", "weight": 6.0, "id": 46820840, "level": 3}
+{"count": 369, "name": "Lifting-line theory", "weight": 0.0, "id": 93187555, "level": 3}
+{"count": 384, "name": "Gurney flap", "weight": 0.0, "id": 2779943039, "level": 3}
+{"count": 998, "name": "Chord (aeronautics)", "weight": 1.0, "id": 50331138, "level": 3}
+{"count": 297, "name": "Lift (data mining)", "weight": 0.0, "id": 139002025, "level": 3}
+{"count": 486, "name": "Wing root", "weight": 0.0, "id": 2779895261, "level": 3}
+{"count": 169, "name": "Patient lift", "weight": 0.0, "id": 2777029378, "level": 3}
+{"count": 1468, "name": "Vortex lift", "weight": 2.0, "id": 52226264, "level": 3}
+{"count": 112, "name": "Trapezoidal wing", "weight": 0.0, "id": 2777745747, "level": 3}
+{"count": 47, "name": "Decambering", "weight": 0.0, "id": 2776767746, "level": 3}
+{"count": 20, "name": "Optical lift", "weight": 0.0, "id": 2776620811, "level": 3}
+{"count": 37, "name": "Minimal-access cranial suspension", "weight": 0.0, "id": 2777033413, "level": 3}
+{"count": 90, "name": "Circulation control wing", "weight": 0.0, "id": 2781215850, "level": 3}
+{"count": 35, "name": "Strand jack", "weight": 0.0, "id": 2777733200, "level": 3}
+{"count": 8, "name": "Turbosail", "weight": 0.0, "id": 2778911068, "level": 3}
+{"count": 42, "name": "Wing-shape optimization", "weight": 0.0, "id": 2778037175, "level": 3}
+{"count": 20, "name": "Cyclorotor", "weight": 0.0, "id": 2776370381, "level": 3}
+{"count": 75, "name": "Clean configuration", "weight": 0.0, "id": 2776487565, "level": 3}
+{"count": 7, "name": "Ridge lift", "weight": 0.0, "id": 2776591397, "level": 3}
+{"count": 26, "name": "Home lift", "weight": 0.0, "id": 2776009740, "level": 3}

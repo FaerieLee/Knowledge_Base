@@ -1,0 +1,150 @@
+{"count": 29851, "name": "Word error rate", "weight": 9.0, "id": 40969351, "level": 2}
+{"count": 31745, "name": "Speech processing", "weight": 10.0, "id": 61328038, "level": 2}
+{"count": 17763, "name": "Typing", "weight": 5.0, "id": 2781209916, "level": 2}
+{"count": 16981, "name": "Word recognition", "weight": 5.0, "id": 150856459, "level": 2}
+{"count": 19501, "name": "Speech synthesis", "weight": 6.0, "id": 14999030, "level": 2}
+{"count": 18363, "name": "Speech coding", "weight": 5.0, "id": 13895895, "level": 2}
+{"count": 13336, "name": "Language model", "weight": 4.0, "id": 137293760, "level": 2}
+{"count": 20455, "name": "Intelligibility (communication)", "weight": 6.0, "id": 15145288, "level": 2}
+{"count": 11796, "name": "Speech production", "weight": 3.0, "id": 43617652, "level": 2}
+{"count": 20492, "name": "Machine translation", "weight": 6.0, "id": 203005215, "level": 2}
+{"count": 19127, "name": "Speaker recognition", "weight": 6.0, "id": 133892786, "level": 2}
+{"count": 15659, "name": "NIST", "weight": 4.0, "id": 111219384, "level": 2}
+{"count": 13336, "name": "Prosody", "weight": 4.0, "id": 542774811, "level": 2}
+{"count": 8422, "name": "Linear prediction", "weight": 2.0, "id": 131109320, "level": 2}
+{"count": 27786, "name": "Pronunciation", "weight": 8.0, "id": 2780844864, "level": 2}
+{"count": 4702, "name": "Vocal tract", "weight": 1.0, "id": 47401133, "level": 2}
+{"count": 6601, "name": "Inkwell", "weight": 2.0, "id": 109693293, "level": 2}
+{"count": 16260, "name": "Mandarin Chinese", "weight": 5.0, "id": 138954614, "level": 2}
+{"count": 4643, "name": "Automatic identification and data capture", "weight": 1.0, "id": 104582849, "level": 2}
+{"count": 6493, "name": "Document processing", "weight": 2.0, "id": 67905146, "level": 2}
+{"count": 8829, "name": "Spectrogram", "weight": 2.0, "id": 45273575, "level": 2}
+{"count": 1185, "name": "Part-of-speech tagging", "weight": 0.0, "id": 2780684714, "level": 2}
+{"count": 23775, "name": "Vowel", "weight": 7.0, "id": 2779581591, "level": 2}
+{"count": 15686, "name": "ROUGE", "weight": 4.0, "id": 7888048, "level": 2}
+{"count": 6772, "name": "Cepstrum", "weight": 2.0, "id": 88485024, "level": 2}
+{"count": 2782, "name": "Music information retrieval", "weight": 0.0, "id": 2777946086, "level": 2}
+{"count": 14532, "name": "Formant", "weight": 4.0, "id": 158215666, "level": 2}
+{"count": 15490, "name": "Syllable", "weight": 4.0, "id": 109089402, "level": 2}
+{"count": 1903, "name": "Mean opinion score", "weight": 0.0, "id": 62897895, "level": 2}
+{"count": 6324, "name": "Timbre", "weight": 1.0, "id": 2776539107, "level": 2}
+{"count": 19891, "name": "Utterance", "weight": 6.0, "id": 2775852435, "level": 2}
+{"count": 1708, "name": "Manner of articulation", "weight": 0.0, "id": 66029223, "level": 2}
+{"count": 2067, "name": "Grapheme", "weight": 0.0, "id": 2776779415, "level": 2}
+{"count": 668, "name": "Words per minute", "weight": 0.0, "id": 2777970837, "level": 2}
+{"count": 1245, "name": "Phonetic transcription", "weight": 0.0, "id": 2777853878, "level": 2}
+{"count": 4095, "name": "Dictation", "weight": 1.0, "id": 2779077324, "level": 2}
+{"count": 1903, "name": "Marathi", "weight": 0.0, "id": 2776844415, "level": 2}
+{"count": 946, "name": "Sound recognition", "weight": 0.0, "id": 2778797345, "level": 2}
+{"count": 5768, "name": "Voice", "weight": 1.0, "id": 552089266, "level": 2}
+{"count": 1482, "name": "Malayalam", "weight": 0.0, "id": 2779662586, "level": 2}
+{"count": 2323, "name": "Human voice", "weight": 0.0, "id": 20766975, "level": 2}
+{"count": 1125, "name": "Pitch contour", "weight": 0.0, "id": 2777895490, "level": 2}
+{"count": 7073, "name": "Speech corpus", "weight": 2.0, "id": 91863865, "level": 2}
+{"count": 817, "name": "Private speech", "weight": 0.0, "id": 35992214, "level": 2}
+{"count": 936, "name": "Keyword spotting", "weight": 0.0, "id": 2781213101, "level": 2}
+{"count": 3411, "name": "Voice analysis", "weight": 1.0, "id": 182964821, "level": 2}
+{"count": 429, "name": "Cocktail party effect", "weight": 0.0, "id": 82385357, "level": 2}
+{"count": 637, "name": "VoiceXML", "weight": 0.0, "id": 2777228030, "level": 2}
+{"count": 616, "name": "Sibilant", "weight": 0.0, "id": 2777693933, "level": 2}
+{"count": 3020, "name": "Direct voice input", "weight": 0.0, "id": 141586517, "level": 2}
+{"count": 329, "name": "Lombard effect", "weight": 0.0, "id": 2776509809, "level": 2}
+{"count": 361, "name": "Minimal pair", "weight": 0.0, "id": 2776002388, "level": 2}
+{"count": 1240, "name": "Telugu", "weight": 0.0, "id": 2778756302, "level": 2}
+{"count": 6889, "name": "Transcription (linguistics)", "weight": 2.0, "id": 179926584, "level": 2}
+{"count": 552, "name": "Allophone", "weight": 0.0, "id": 2779556804, "level": 2}
+{"count": 1760, "name": "Hangul", "weight": 0.0, "id": 554519600, "level": 2}
+{"count": 136, "name": "Autocorrection", "weight": 0.0, "id": 2779753135, "level": 2}
+{"count": 1482, "name": "Connected speech", "weight": 0.0, "id": 2777003509, "level": 2}
+{"count": 2014, "name": "Bigram", "weight": 0.0, "id": 108757681, "level": 2}
+{"count": 523, "name": "Speech acquisition", "weight": 0.0, "id": 2780857552, "level": 2}
+{"count": 1513, "name": "Pinyin", "weight": 0.0, "id": 2781095461, "level": 2}
+{"count": 112, "name": "Tone contour", "weight": 0.0, "id": 2780581532, "level": 2}
+{"count": 439, "name": "Vocal effort", "weight": 0.0, "id": 2778686955, "level": 2}
+{"count": 728, "name": "Devanagari", "weight": 0.0, "id": 2780144916, "level": 2}
+{"count": 1133, "name": "Audio time-scale/pitch modification", "weight": 0.0, "id": 3719324, "level": 2}
+{"count": 628, "name": "Pitch class", "weight": 0.0, "id": 74511580, "level": 2}
+{"count": 858, "name": "Standard Chinese", "weight": 0.0, "id": 2776618157, "level": 2}
+{"count": 226, "name": "Downstep", "weight": 0.0, "id": 2779133954, "level": 2}
+{"count": 245, "name": "Phase vocoder", "weight": 0.0, "id": 2777911883, "level": 2}
+{"count": 110, "name": "Forms processing", "weight": 0.0, "id": 2776659600, "level": 2}
+{"count": 171, "name": "Sousveillance", "weight": 0.0, "id": 2780116518, "level": 2}
+{"count": 343, "name": "Voice search", "weight": 0.0, "id": 2780947055, "level": 2}
+{"count": 2633, "name": "Voice command device", "weight": 0.0, "id": 178718744, "level": 2}
+{"count": 284, "name": "Phonetic representation", "weight": 0.0, "id": 2776763217, "level": 2}
+{"count": 1129, "name": "Automatic speech", "weight": 0.0, "id": 2384229, "level": 2}
+{"count": 131, "name": "Score following", "weight": 0.0, "id": 2776416884, "level": 2}
+{"count": 99, "name": "Trinity Hymnal", "weight": 0.0, "id": 2776915856, "level": 2}
+{"count": 481, "name": "Directory assistance", "weight": 0.0, "id": 2780266953, "level": 2}
+{"count": 209, "name": "Digital paper", "weight": 0.0, "id": 2777029904, "level": 2}
+{"count": 242, "name": "Additive synthesis", "weight": 0.0, "id": 2776762180, "level": 2}
+{"count": 143, "name": "Orthographic transcription", "weight": 0.0, "id": 2778340584, "level": 2}
+{"count": 1005, "name": "Syllabary", "weight": 0.0, "id": 2778369366, "level": 2}
+{"count": 273, "name": "Speech science", "weight": 0.0, "id": 130276794, "level": 2}
+{"count": 174, "name": "Bark scale", "weight": 0.0, "id": 61505997, "level": 2}
+{"count": 260, "name": "Liquid consonant", "weight": 0.0, "id": 23506324, "level": 2}
+{"count": 234, "name": "Just intonation", "weight": 0.0, "id": 182530982, "level": 2}
+{"count": 104, "name": "Velarization", "weight": 0.0, "id": 2781244116, "level": 2}
+{"count": 66, "name": "Computer audition", "weight": 0.0, "id": 1235153, "level": 2}
+{"count": 120, "name": "Pitch space", "weight": 0.0, "id": 2777189309, "level": 2}
+{"count": 111, "name": "Machine listening", "weight": 0.0, "id": 2779454742, "level": 2}
+{"count": 78, "name": "Music informatics", "weight": 0.0, "id": 2778919014, "level": 2}
+{"count": 289, "name": "Optical mark recognition", "weight": 0.0, "id": 185445243, "level": 2}
+{"count": 695, "name": "Magnetic ink character recognition", "weight": 0.0, "id": 83045617, "level": 2}
+{"count": 120, "name": "Speech tempo", "weight": 0.0, "id": 2778002216, "level": 2}
+{"count": 5673, "name": "Intelligent character recognition", "weight": 1.0, "id": 44868376, "level": 2}
+{"count": 700, "name": "A-law algorithm", "weight": 0.0, "id": 107139520, "level": 2}
+{"count": 54, "name": "Speech verification", "weight": 0.0, "id": 2777138068, "level": 2}
+{"count": 276, "name": "Phoniatrics", "weight": 0.0, "id": 2777912949, "level": 2}
+{"count": 236, "name": "Predictive text", "weight": 0.0, "id": 51755988, "level": 2}
+{"count": 113, "name": "Vorbis", "weight": 0.0, "id": 94062416, "level": 2}
+{"count": 31, "name": "Bird vocalization", "weight": 0.0, "id": 2778313053, "level": 2}
+{"count": 58, "name": "Google Ngram Viewer", "weight": 0.0, "id": 2777109357, "level": 2}
+{"count": 68, "name": "Subtractive synthesis", "weight": 0.0, "id": 2778427431, "level": 2}
+{"count": 130, "name": "Optacon", "weight": 0.0, "id": 2776271870, "level": 2}
+{"count": 176, "name": "Pitch correction", "weight": 0.0, "id": 143041977, "level": 2}
+{"count": 63, "name": "People counter", "weight": 0.0, "id": 2780521339, "level": 2}
+{"count": 22, "name": "Optophone", "weight": 0.0, "id": 187819029, "level": 2}
+{"count": 7, "name": "Sinewave synthesis", "weight": 0.0, "id": 2781228805, "level": 2}
+{"count": 9, "name": "Dunstan Baby Language", "weight": 0.0, "id": 2777849587, "level": 2}
+{"count": 261, "name": "Enon", "weight": 0.0, "id": 191895308, "level": 2}
+{"count": 22, "name": "Parabolic SAR", "weight": 0.0, "id": 2779553848, "level": 2}
+{"count": 16, "name": "Tone name", "weight": 0.0, "id": 2776752900, "level": 2}
+{"count": 13, "name": "CarWings", "weight": 0.0, "id": 33398921, "level": 2}
+{"count": 12, "name": "Checked tone", "weight": 0.0, "id": 2778035285, "level": 2}
+{"count": 71, "name": "Articulation score", "weight": 0.0, "id": 2778986453, "level": 2}
+{"count": 2, "name": "Subvocal recognition", "weight": 0.0, "id": 2779978715, "level": 2}
+{"count": 9, "name": "Quantal theory of speech", "weight": 0.0, "id": 2781366626, "level": 2}
+{"count": 7, "name": "Arpabet", "weight": 0.0, "id": 2776827202, "level": 2}
+{"count": 2, "name": "Time-inhomogeneous hidden Bernoulli model", "weight": 0.0, "id": 2777503283, "level": 2}
+{"count": 46, "name": "Voice engine", "weight": 0.0, "id": 2777611841, "level": 2}
+{"count": 9, "name": "Accent kernel", "weight": 0.0, "id": 2779474053, "level": 2}
+{"count": 8, "name": "Hands-free computing", "weight": 0.0, "id": 2780569524, "level": 2}
+{"count": 5, "name": "FS-1015", "weight": 0.0, "id": 2776474196, "level": 2}
+{"count": 5, "name": "Wolfgang von Kempelen's Speaking Machine", "weight": 0.0, "id": 2778759611, "level": 2}
+{"count": 2, "name": "Switch access scanning", "weight": 0.0, "id": 2781174980, "level": 2}
+{"count": 1, "name": "Relaxed code-excited linear prediction", "weight": 0.0, "id": 2777663878, "level": 2}
+{"count": 4350, "name": "Voice Tag", "weight": 1.0, "id": 194186451, "level": 2}
+{"count": 15, "name": "Voder", "weight": 0.0, "id": 2778115199, "level": 2}
+{"count": 69, "name": "G-Book", "weight": 0.0, "id": 167166652, "level": 2}
+{"count": 96, "name": "Gregg shorthand", "weight": 0.0, "id": 2780480851, "level": 2}
+{"count": 2, "name": "Handwritten biometric recognition", "weight": 0.0, "id": 2776016506, "level": 2}
+{"count": 8, "name": "Golden-i", "weight": 0.0, "id": 124657260, "level": 2}
+{"count": 6, "name": "Turnaround document", "weight": 0.0, "id": 142365120, "level": 2}
+{"count": 12, "name": "Internavi", "weight": 0.0, "id": 125562420, "level": 2}
+{"count": 4, "name": "Non-native speech database", "weight": 0.0, "id": 2779589973, "level": 2}
+{"count": 1, "name": "Laster Technologies", "weight": 0.0, "id": 130220471, "level": 2}
+{"count": 1, "name": "Time-lapse phonography", "weight": 0.0, "id": 2777417651, "level": 2}
+{"count": 5, "name": "Crosswind stabilization", "weight": 0.0, "id": 2778555473, "level": 2}
+{"count": 4, "name": "Warped linear predictive coding", "weight": 0.0, "id": 2776195708, "level": 2}
+{"count": 4, "name": "Source\u2013filter model of speech production", "weight": 0.0, "id": 2776325113, "level": 2}
+{"count": 2, "name": "STU-II", "weight": 0.0, "id": 2779319053, "level": 2}
+{"count": 4, "name": "Q-Warrior", "weight": 0.0, "id": 155617331, "level": 2}
+{"count": 157, "name": "Active pen", "weight": 0.0, "id": 43566051, "level": 2}
+{"count": 8, "name": "Doxie", "weight": 0.0, "id": 164435856, "level": 2}
+{"count": 4, "name": "Toyota Entune", "weight": 0.0, "id": 119920044, "level": 2}
+{"count": 3, "name": "Texas Instruments LPC Speech Chips", "weight": 0.0, "id": 8072824, "level": 2}
+{"count": 1, "name": "Hyundai Blue Link", "weight": 0.0, "id": 107805704, "level": 2}
+{"count": 3, "name": "Focus stealing", "weight": 0.0, "id": 50553263, "level": 2}
+{"count": 1, "name": "Lexus Link", "weight": 0.0, "id": 178789514, "level": 2}
+{"count": 1, "name": "Pedestrian safety through vehicle design", "weight": 0.0, "id": 2777023223, "level": 2}

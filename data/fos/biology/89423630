@@ -1,0 +1,200 @@
+{"count": 396688, "name": "Bacteria", "weight": 10.0, "id": 523546767, "level": 2}
+{"count": 197099, "name": "Escherichia coli", "weight": 4.0, "id": 547475151, "level": 2}
+{"count": 285322, "name": "Antibiotics", "weight": 7.0, "id": 501593827, "level": 2}
+{"count": 19159, "name": "Protozoa", "weight": 0.0, "id": 2778566189, "level": 2}
+{"count": 9566, "name": "Fungi imperfecti", "weight": 0.0, "id": 2778394675, "level": 2}
+{"count": 106383, "name": "Staphylococcus aureus", "weight": 2.0, "id": 2779489039, "level": 2}
+{"count": 75941, "name": "Drug resistance", "weight": 1.0, "id": 114851261, "level": 2}
+{"count": 47624, "name": "Feces", "weight": 1.0, "id": 61716771, "level": 2}
+{"count": 93954, "name": "Virulence", "weight": 2.0, "id": 60987743, "level": 2}
+{"count": 167515, "name": "Antimicrobial", "weight": 4.0, "id": 4937899, "level": 2}
+{"count": 25534, "name": "Toxin", "weight": 0.0, "id": 2777367657, "level": 2}
+{"count": 56692, "name": "Pseudomonas aeruginosa", "weight": 1.0, "id": 2777637488, "level": 2}
+{"count": 45412, "name": "Pathogenicity", "weight": 1.0, "id": 64502627, "level": 2}
+{"count": 57205, "name": "Serotype", "weight": 1.0, "id": 10389963, "level": 2}
+{"count": 37358, "name": "Bacillus subtilis", "weight": 0.0, "id": 2777272437, "level": 2}
+{"count": 46199, "name": "Spore", "weight": 1.0, "id": 174618031, "level": 2}
+{"count": 1724, "name": "Neutrophile", "weight": 0.0, "id": 198677920, "level": 2}
+{"count": 34886, "name": "Multiple drug resistance", "weight": 0.0, "id": 133936738, "level": 2}
+{"count": 27554, "name": "Streptococcus pneumoniae", "weight": 0.0, "id": 2781253189, "level": 2}
+{"count": 37867, "name": "Candida albicans", "weight": 0.0, "id": 2780917455, "level": 2}
+{"count": 79207, "name": "Salmonella", "weight": 1.0, "id": 2781065037, "level": 2}
+{"count": 23673, "name": "Listeria monocytogenes", "weight": 0.0, "id": 2781350384, "level": 2}
+{"count": 12823, "name": "Antibacterial activity", "weight": 0.0, "id": 2780104969, "level": 2}
+{"count": 5198, "name": "Microbial toxins", "weight": 0.0, "id": 9043230, "level": 2}
+{"count": 1903, "name": "Phycomycetes", "weight": 0.0, "id": 2779310556, "level": 2}
+{"count": 11809, "name": "Bacteriology", "weight": 0.0, "id": 53162352, "level": 2}
+{"count": 17853, "name": "Amphotericin B", "weight": 0.0, "id": 2779629538, "level": 2}
+{"count": 22540, "name": "Klebsiella pneumoniae", "weight": 0.0, "id": 2777058267, "level": 2}
+{"count": 27148, "name": "Streptococcus", "weight": 0.0, "id": 2778276568, "level": 2}
+{"count": 11246, "name": "Enterotoxin", "weight": 0.0, "id": 66999527, "level": 2}
+{"count": 17455, "name": "Haemophilus influenzae", "weight": 0.0, "id": 2776925733, "level": 2}
+{"count": 8181, "name": "Microbial ecology", "weight": 0.0, "id": 69562835, "level": 2}
+{"count": 18988, "name": "Bacillus thuringiensis", "weight": 0.0, "id": 2779035793, "level": 2}
+{"count": 21844, "name": "Aspergillus", "weight": 0.0, "id": 2779175654, "level": 2}
+{"count": 4305, "name": "Mycology", "weight": 0.0, "id": 126116589, "level": 2}
+{"count": 70904, "name": "Pathogen", "weight": 1.0, "id": 2776460866, "level": 2}
+{"count": 21345, "name": "Aspergillus niger", "weight": 0.0, "id": 2775960407, "level": 2}
+{"count": 12060, "name": "Vibrio cholerae", "weight": 0.0, "id": 2778643871, "level": 2}
+{"count": 26363, "name": "Streptomyces", "weight": 0.0, "id": 2779920670, "level": 2}
+{"count": 15882, "name": "Rhizobium", "weight": 0.0, "id": 2780434414, "level": 2}
+{"count": 12899, "name": "Metagenomics", "weight": 0.0, "id": 15151743, "level": 2}
+{"count": 14820, "name": "Enterococcus faecalis", "weight": 0.0, "id": 2779895986, "level": 2}
+{"count": 9724, "name": "Streptococcus pyogenes", "weight": 0.0, "id": 2779306812, "level": 2}
+{"count": 9606, "name": "Neisseria meningitidis", "weight": 0.0, "id": 2778458888, "level": 2}
+{"count": 9927, "name": "Pseudomonas putida", "weight": 0.0, "id": 2780543182, "level": 2}
+{"count": 25278, "name": "Clostridium", "weight": 0.0, "id": 2781092032, "level": 2}
+{"count": 18289, "name": "Cholera", "weight": 0.0, "id": 2780722889, "level": 2}
+{"count": 12781, "name": "Fluconazole", "weight": 0.0, "id": 2780651595, "level": 2}
+{"count": 11317, "name": "Aspergillus fumigatus", "weight": 0.0, "id": 2779787849, "level": 2}
+{"count": 5890, "name": "Food microbiology", "weight": 0.0, "id": 58684123, "level": 2}
+{"count": 10885, "name": "Neisseria gonorrhoeae", "weight": 0.0, "id": 2779166590, "level": 2}
+{"count": 30673, "name": "Agar", "weight": 0.0, "id": 2778660310, "level": 2}
+{"count": 8889, "name": "Cryptococcus neoformans", "weight": 0.0, "id": 2777893358, "level": 2}
+{"count": 10380, "name": "Campylobacter jejuni", "weight": 0.0, "id": 2776957140, "level": 2}
+{"count": 7726, "name": "Pseudomonas syringae", "weight": 0.0, "id": 2780381237, "level": 2}
+{"count": 12512, "name": "Streptococcus mutans", "weight": 0.0, "id": 2778430296, "level": 2}
+{"count": 9580, "name": "Itraconazole", "weight": 0.0, "id": 2777071850, "level": 2}
+{"count": 56855, "name": "Fungus", "weight": 1.0, "id": 2779678110, "level": 2}
+{"count": 14292, "name": "Campylobacter", "weight": 0.0, "id": 2779910956, "level": 2}
+{"count": 15084, "name": "Fusarium oxysporum", "weight": 0.0, "id": 2779430813, "level": 2}
+{"count": 5284, "name": "Medical microbiology", "weight": 0.0, "id": 190139176, "level": 2}
+{"count": 11501, "name": "Peptidoglycan", "weight": 0.0, "id": 2776634448, "level": 2}
+{"count": 6553, "name": "Bacillus anthracis", "weight": 0.0, "id": 2780239966, "level": 2}
+{"count": 9489, "name": "Dental plaque", "weight": 0.0, "id": 2779914569, "level": 2}
+{"count": 35639, "name": "Mycelium", "weight": 0.0, "id": 133479454, "level": 2}
+{"count": 12427, "name": "Blood culture", "weight": 0.0, "id": 2779473907, "level": 2}
+{"count": 6532, "name": "Serratia marcescens", "weight": 0.0, "id": 2776309202, "level": 2}
+{"count": 9145, "name": "Clostridium perfringens", "weight": 0.0, "id": 2779116991, "level": 2}
+{"count": 9799, "name": "Acinetobacter", "weight": 0.0, "id": 2778523567, "level": 2}
+{"count": 15269, "name": "Mycoplasma", "weight": 0.0, "id": 2778838687, "level": 2}
+{"count": 8146, "name": "Hemolysin", "weight": 0.0, "id": 136139683, "level": 2}
+{"count": 18171, "name": "Hypha", "weight": 0.0, "id": 90080823, "level": 2}
+{"count": 8663, "name": "Porphyromonas gingivalis", "weight": 0.0, "id": 2780183776, "level": 2}
+{"count": 8500, "name": "Cryptosporidium", "weight": 0.0, "id": 2778877831, "level": 2}
+{"count": 6849, "name": "Yersinia enterocolitica", "weight": 0.0, "id": 2776234502, "level": 2}
+{"count": 7263, "name": "Multilocus sequence typing", "weight": 0.0, "id": 77434933, "level": 2}
+{"count": 12262, "name": "Penicillium", "weight": 0.0, "id": 2777484150, "level": 2}
+{"count": 10463, "name": "Rhizoctonia solani", "weight": 0.0, "id": 2780476228, "level": 2}
+{"count": 4677, "name": "Cryptosporidium parvum", "weight": 0.0, "id": 2777795018, "level": 2}
+{"count": 6542, "name": "Enterococcus faecium", "weight": 0.0, "id": 2777677444, "level": 2}
+{"count": 11853, "name": "Chlorhexidine", "weight": 0.0, "id": 2777084678, "level": 2}
+{"count": 8290, "name": "Entamoeba histolytica", "weight": 0.0, "id": 2776867272, "level": 2}
+{"count": 7461, "name": "Coliform bacteria", "weight": 0.0, "id": 2778788645, "level": 2}
+{"count": 6885, "name": "Legionella pneumophila", "weight": 0.0, "id": 2776118409, "level": 2}
+{"count": 5705, "name": "Clostridium botulinum", "weight": 0.0, "id": 2777010668, "level": 2}
+{"count": 4298, "name": "Yersinia pestis", "weight": 0.0, "id": 2778222588, "level": 2}
+{"count": 9586, "name": "Klebsiella", "weight": 0.0, "id": 2779116282, "level": 2}
+{"count": 10073, "name": "Raw milk", "weight": 0.0, "id": 2775992197, "level": 2}
+{"count": 7328, "name": "Lactobacillus casei", "weight": 0.0, "id": 2776662696, "level": 2}
+{"count": 11448, "name": "Trichoderma", "weight": 0.0, "id": 2780214302, "level": 2}
+{"count": 53595, "name": "Antifungal", "weight": 1.0, "id": 2779548794, "level": 2}
+{"count": 6850, "name": "Voriconazole", "weight": 0.0, "id": 2780690907, "level": 2}
+{"count": 5638, "name": "Streptococcus agalactiae", "weight": 0.0, "id": 2777860557, "level": 2}
+{"count": 6192, "name": "Aeromonas hydrophila", "weight": 0.0, "id": 2779441561, "level": 2}
+{"count": 4036, "name": "Giardia lamblia", "weight": 0.0, "id": 2780626423, "level": 2}
+{"count": 4413, "name": "Nisin", "weight": 0.0, "id": 2778457984, "level": 2}
+{"count": 4815, "name": "Shigella flexneri", "weight": 0.0, "id": 2781217973, "level": 2}
+{"count": 6029, "name": "Trichomonas vaginalis", "weight": 0.0, "id": 2781114625, "level": 2}
+{"count": 5748, "name": "Giardia", "weight": 0.0, "id": 2777271458, "level": 2}
+{"count": 6320, "name": "Legionella", "weight": 0.0, "id": 2779164008, "level": 2}
+{"count": 6323, "name": "Vibrio parahaemolyticus", "weight": 0.0, "id": 2776575720, "level": 2}
+{"count": 5426, "name": "Bacillus licheniformis", "weight": 0.0, "id": 2776527165, "level": 2}
+{"count": 8482, "name": "Corynebacterium", "weight": 0.0, "id": 2777911650, "level": 2}
+{"count": 9006, "name": "Brucella", "weight": 0.0, "id": 2780767784, "level": 2}
+{"count": 6016, "name": "Trichoderma harzianum", "weight": 0.0, "id": 2776511177, "level": 2}
+{"count": 4411, "name": "Acanthamoeba", "weight": 0.0, "id": 2778868110, "level": 2}
+{"count": 4929, "name": "Latex fixation test", "weight": 0.0, "id": 37977956, "level": 2}
+{"count": 5388, "name": "Enterobacter cloacae", "weight": 0.0, "id": 2777402170, "level": 2}
+{"count": 4363, "name": "Corynebacterium glutamicum", "weight": 0.0, "id": 2776260651, "level": 2}
+{"count": 4639, "name": "Yersinia", "weight": 0.0, "id": 2776255393, "level": 2}
+{"count": 5154, "name": "Chemostat", "weight": 0.0, "id": 125111812, "level": 2}
+{"count": 4950, "name": "Fusarium solani", "weight": 0.0, "id": 2778342517, "level": 2}
+{"count": 6875, "name": "Beauveria bassiana", "weight": 0.0, "id": 2781391353, "level": 2}
+{"count": 4696, "name": "Xanthomonas campestris", "weight": 0.0, "id": 2780679087, "level": 2}
+{"count": 1220, "name": "Amoeba (operating system)", "weight": 0.0, "id": 87847054, "level": 2}
+{"count": 3214, "name": "Crystal violet", "weight": 0.0, "id": 2776020440, "level": 2}
+{"count": 5935, "name": "Moxifloxacin", "weight": 0.0, "id": 2778836808, "level": 2}
+{"count": 4593, "name": "Haemophilus", "weight": 0.0, "id": 2776402342, "level": 2}
+{"count": 6157, "name": "Chemically defined medium", "weight": 0.0, "id": 98648569, "level": 2}
+{"count": 6210, "name": "Xanthomonas", "weight": 0.0, "id": 2780746887, "level": 2}
+{"count": 1006, "name": "Most probable number", "weight": 0.0, "id": 93692902, "level": 2}
+{"count": 3388, "name": "Antibiosis", "weight": 0.0, "id": 14225744, "level": 2}
+{"count": 3282, "name": "Francisella tularensis", "weight": 0.0, "id": 2780467176, "level": 2}
+{"count": 5900, "name": "Pasteurella multocida", "weight": 0.0, "id": 2776796551, "level": 2}
+{"count": 2972, "name": "Penicillium chrysogenum", "weight": 0.0, "id": 2777270571, "level": 2}
+{"count": 2819, "name": "Burkholderia pseudomallei", "weight": 0.0, "id": 2779110727, "level": 2}
+{"count": 2993, "name": "Melioidosis", "weight": 0.0, "id": 2779775996, "level": 2}
+{"count": 4286, "name": "Metarhizium anisopliae", "weight": 0.0, "id": 2781292303, "level": 2}
+{"count": 3823, "name": "Coxiella burnetii", "weight": 0.0, "id": 2776607032, "level": 2}
+{"count": 7590, "name": "Proteus", "weight": 0.0, "id": 2779464495, "level": 2}
+{"count": 5274, "name": "Bacillus megaterium", "weight": 0.0, "id": 2780989563, "level": 2}
+{"count": 3237, "name": "Lipopeptide", "weight": 0.0, "id": 2777425210, "level": 2}
+{"count": 3611, "name": "Stenotrophomonas maltophilia", "weight": 0.0, "id": 2776352461, "level": 2}
+{"count": 1156, "name": "Extremophile", "weight": 0.0, "id": 205458427, "level": 2}
+{"count": 5376, "name": "Rhizopus", "weight": 0.0, "id": 2778753027, "level": 2}
+{"count": 6467, "name": "Nocardia", "weight": 0.0, "id": 2779448432, "level": 2}
+{"count": 7903, "name": "Alternaria", "weight": 0.0, "id": 2779771029, "level": 2}
+{"count": 4861, "name": "Chemical warfare", "weight": 0.0, "id": 101216236, "level": 2}
+{"count": 2745, "name": "Galleria mellonella", "weight": 0.0, "id": 2779032433, "level": 2}
+{"count": 4382, "name": "Trichoderma viride", "weight": 0.0, "id": 2780052172, "level": 2}
+{"count": 2190, "name": "Ribotyping", "weight": 0.0, "id": 2777368272, "level": 2}
+{"count": 5947, "name": "Actinomyces", "weight": 0.0, "id": 2780940764, "level": 2}
+{"count": 3932, "name": "Dermatophyte", "weight": 0.0, "id": 2777220567, "level": 2}
+{"count": 3009, "name": "Benzalkonium chloride", "weight": 0.0, "id": 2775919038, "level": 2}
+{"count": 2552, "name": "Yersinia pseudotuberculosis", "weight": 0.0, "id": 2777353990, "level": 2}
+{"count": 682, "name": "Industrial microbiology", "weight": 0.0, "id": 2779039970, "level": 2}
+{"count": 2015, "name": "Acinetobacter calcoaceticus", "weight": 0.0, "id": 2775859738, "level": 2}
+{"count": 2948, "name": "Miconazole", "weight": 0.0, "id": 2777229883, "level": 2}
+{"count": 4743, "name": "Plant use of endophytic fungi in defense", "weight": 0.0, "id": 89638049, "level": 2}
+{"count": 3607, "name": "Ureaplasma urealyticum", "weight": 0.0, "id": 2776672898, "level": 2}
+{"count": 4939, "name": "Alternaria alternata", "weight": 0.0, "id": 2780720873, "level": 2}
+{"count": 2576, "name": "Aspergillus terreus", "weight": 0.0, "id": 2776781318, "level": 2}
+{"count": 4285, "name": "Neisseria", "weight": 0.0, "id": 2777954195, "level": 2}
+{"count": 2213, "name": "Clotrimazole", "weight": 0.0, "id": 2780628323, "level": 2}
+{"count": 4075, "name": "Ralstonia solanacearum", "weight": 0.0, "id": 2780675535, "level": 2}
+{"count": 2288, "name": "Gatifloxacin", "weight": 0.0, "id": 2777653605, "level": 2}
+{"count": 3247, "name": "Citrobacter", "weight": 0.0, "id": 2775945818, "level": 2}
+{"count": 3673, "name": "Mucor", "weight": 0.0, "id": 2776783722, "level": 2}
+{"count": 2143, "name": "Paracoccidioides brasiliensis", "weight": 0.0, "id": 2777681368, "level": 2}
+{"count": 3781, "name": "Bacillus amyloliquefaciens", "weight": 0.0, "id": 2777811704, "level": 2}
+{"count": 7724, "name": "Eimeria", "weight": 0.0, "id": 2777976947, "level": 2}
+{"count": 1969, "name": "Spheroplast", "weight": 0.0, "id": 99054511, "level": 2}
+{"count": 5929, "name": "Cladosporium", "weight": 0.0, "id": 2779756257, "level": 2}
+{"count": 832, "name": "Medicinal fungi", "weight": 0.0, "id": 2776695710, "level": 2}
+{"count": 5813, "name": "Aloe vera", "weight": 0.0, "id": 2779404486, "level": 2}
+{"count": 1990, "name": "Acremonium", "weight": 0.0, "id": 2779344128, "level": 2}
+{"count": 5087, "name": "Pasteurella", "weight": 0.0, "id": 2779923002, "level": 2}
+{"count": 4626, "name": "Trichophyton", "weight": 0.0, "id": 2775874440, "level": 2}
+{"count": 3843, "name": "Bacterial wilt", "weight": 0.0, "id": 2779002231, "level": 2}
+{"count": 1661, "name": "Sparfloxacin", "weight": 0.0, "id": 2780926990, "level": 2}
+{"count": 627, "name": "Diagnostic microbiology", "weight": 0.0, "id": 2781151031, "level": 2}
+{"count": 1958, "name": "Aureobasidium pullulans", "weight": 0.0, "id": 2779454560, "level": 2}
+{"count": 1926, "name": "Penicillium expansum", "weight": 0.0, "id": 2780630512, "level": 2}
+{"count": 2525, "name": "Zoospore", "weight": 0.0, "id": 113735248, "level": 2}
+{"count": 2891, "name": "Malassezia", "weight": 0.0, "id": 2777472678, "level": 2}
+{"count": 1753, "name": "Rhodococcus equi", "weight": 0.0, "id": 2777581609, "level": 2}
+{"count": 798, "name": "Haemophilus ducreyi", "weight": 0.0, "id": 2777587943, "level": 2}
+{"count": 1908, "name": "Furazolidone", "weight": 0.0, "id": 2778043744, "level": 2}
+{"count": 916, "name": "Penicillium marneffei", "weight": 0.0, "id": 2777788775, "level": 2}
+{"count": 3287, "name": "Actinobacillus", "weight": 0.0, "id": 2780728835, "level": 2}
+{"count": 2250, "name": "Cell counting", "weight": 0.0, "id": 2583947, "level": 2}
+{"count": 1648, "name": "Schizophyllum commune", "weight": 0.0, "id": 2776455164, "level": 2}
+{"count": 1897, "name": "Polyhydroxybutyrate", "weight": 0.0, "id": 2780849362, "level": 2}
+{"count": 3871, "name": "Verticillium", "weight": 0.0, "id": 2778365127, "level": 2}
+{"count": 3287, "name": "Trichophyton rubrum", "weight": 0.0, "id": 2776202428, "level": 2}
+{"count": 14588, "name": "Disinfectant", "weight": 0.0, "id": 2781221799, "level": 2}
+{"count": 1815, "name": "Bordetella bronchiseptica", "weight": 0.0, "id": 2777107318, "level": 2}
+{"count": 1187, "name": "Phaeohyphomycosis", "weight": 0.0, "id": 2780397583, "level": 2}
+{"count": 1549, "name": "Streptococcus bovis", "weight": 0.0, "id": 2778313199, "level": 2}
+{"count": 1196, "name": "Geobacter", "weight": 0.0, "id": 2776062086, "level": 2}
+{"count": 1885, "name": "Florfenicol", "weight": 0.0, "id": 2780663544, "level": 2}
+{"count": 1031, "name": "Oxolinic acid", "weight": 0.0, "id": 2779970341, "level": 2}
+{"count": 2143, "name": "Vibrio anguillarum", "weight": 0.0, "id": 2781348184, "level": 2}
+{"count": 1718, "name": "Indicator organism", "weight": 0.0, "id": 191839390, "level": 2}
+{"count": 458, "name": "Pseudomonas oleovorans", "weight": 0.0, "id": 2779546455, "level": 2}
+{"count": 2199, "name": "Rifamycin", "weight": 0.0, "id": 2776306059, "level": 2}
+{"count": 619, "name": "Microbial genetics", "weight": 0.0, "id": 103316784, "level": 2}
+{"count": 3796, "name": "Paecilomyces", "weight": 0.0, "id": 2780518787, "level": 2}
+{"count": 933, "name": "Mucorales", "weight": 0.0, "id": 2779696498, "level": 2}
+{"count": 727, "name": "Cupriavidus necator", "weight": 0.0, "id": 2780637011, "level": 2}

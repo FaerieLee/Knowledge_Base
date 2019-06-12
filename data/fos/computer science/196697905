@@ -1,0 +1,8 @@
+{"count": 1140, "name": "Parallel I/O", "weight": 10.0, "id": 2781057727, "level": 3}
+{"count": 149, "name": "Asynchronous I/O", "weight": 1.0, "id": 43397165, "level": 3}
+{"count": 320, "name": "Input/output completion port", "weight": 2.0, "id": 80989198, "level": 3}
+{"count": 1107, "name": "Input capture", "weight": 9.0, "id": 56311306, "level": 3}
+{"count": 29, "name": "Stub Series Terminated Logic", "weight": 0.0, "id": 2776339157, "level": 3}
+{"count": 24, "name": "Gunning transceiver logic", "weight": 0.0, "id": 2780569732, "level": 3}
+{"count": 16, "name": "Super I/O", "weight": 0.0, "id": 107723700, "level": 3}
+{"count": 24, "name": "T.O.T.E.", "weight": 0.0, "id": 2780888127, "level": 3}

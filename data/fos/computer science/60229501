@@ -1,0 +1,44 @@
+{"count": 15829, "name": "Inertial navigation system", "weight": 7.0, "id": 128651787, "level": 3}
+{"count": 4049, "name": "Radio navigation", "weight": 1.0, "id": 530343408, "level": 3}
+{"count": 14621, "name": "Satellite navigation", "weight": 6.0, "id": 36301306, "level": 3}
+{"count": 5576, "name": "Total electron content", "weight": 2.0, "id": 165391973, "level": 3}
+{"count": 6128, "name": "Dead reckoning", "weight": 2.0, "id": 106165642, "level": 3}
+{"count": 3493, "name": "Radio occultation", "weight": 1.0, "id": 2777034083, "level": 3}
+{"count": 22288, "name": "GNSS applications", "weight": 10.0, "id": 14279187, "level": 3}
+{"count": 2985, "name": "Ambiguity resolution", "weight": 1.0, "id": 2777559092, "level": 3}
+{"count": 3363, "name": "Automatic vehicle location", "weight": 1.0, "id": 202176563, "level": 3}
+{"count": 2156, "name": "Differential GPS", "weight": 0.0, "id": 2777928014, "level": 3}
+{"count": 2278, "name": "Map matching", "weight": 1.0, "id": 2778559875, "level": 3}
+{"count": 945, "name": "Terrestrial reference frame", "weight": 0.0, "id": 2777212710, "level": 3}
+{"count": 4379, "name": "Precise Point Positioning", "weight": 1.0, "id": 202511199, "level": 3}
+{"count": 1307, "name": "Geodetic network", "weight": 0.0, "id": 150753126, "level": 3}
+{"count": 1100, "name": "Undulation of the geoid", "weight": 0.0, "id": 180966878, "level": 3}
+{"count": 657, "name": "International Terrestrial Reference System", "weight": 0.0, "id": 176069352, "level": 3}
+{"count": 1971, "name": "Time transfer", "weight": 0.0, "id": 127568405, "level": 3}
+{"count": 6605, "name": "GPS signals", "weight": 2.0, "id": 12957241, "level": 3}
+{"count": 1094, "name": "Instrument approach", "weight": 0.0, "id": 163737643, "level": 3}
+{"count": 810, "name": "Orthometric height", "weight": 0.0, "id": 200418468, "level": 3}
+{"count": 2681, "name": "Pseudorange", "weight": 1.0, "id": 174201072, "level": 3}
+{"count": 19042, "name": "Assisted GPS", "weight": 8.0, "id": 198613851, "level": 3}
+{"count": 692, "name": "Pseudolite", "weight": 0.0, "id": 2778931255, "level": 3}
+{"count": 315, "name": "Land navigation", "weight": 0.0, "id": 2781437494, "level": 3}
+{"count": 579, "name": "Normal height", "weight": 0.0, "id": 95077039, "level": 3}
+{"count": 459, "name": "Coordinated Universal Time", "weight": 0.0, "id": 79279155, "level": 3}
+{"count": 2137, "name": "Positioning technology", "weight": 0.0, "id": 2778075934, "level": 3}
+{"count": 245, "name": "International Atomic Time", "weight": 0.0, "id": 105148271, "level": 3}
+{"count": 268, "name": "Helmert transformation", "weight": 0.0, "id": 95655489, "level": 3}
+{"count": 287, "name": "World Geodetic System", "weight": 0.0, "id": 161681213, "level": 3}
+{"count": 89, "name": "NMEA 0183", "weight": 0.0, "id": 2776271233, "level": 3}
+{"count": 202, "name": "ECEF", "weight": 0.0, "id": 2778789466, "level": 3}
+{"count": 498, "name": "EGM96", "weight": 0.0, "id": 29863660, "level": 3}
+{"count": 79, "name": "GPS enhancement", "weight": 0.0, "id": 145043497, "level": 3}
+{"count": 30, "name": "Wi-Fi positioning system", "weight": 0.0, "id": 2781468235, "level": 3}
+{"count": 3610, "name": "Hybrid positioning system", "weight": 1.0, "id": 187394410, "level": 3}
+{"count": 56, "name": "Macrometer", "weight": 0.0, "id": 57903980, "level": 3}
+{"count": 60, "name": "Survey marker", "weight": 0.0, "id": 118651642, "level": 3}
+{"count": 14, "name": "AN/URC-117 Ground Wave Emergency Network", "weight": 0.0, "id": 99788114, "level": 3}
+{"count": 231, "name": "Long baseline acoustic positioning system", "weight": 0.0, "id": 155185792, "level": 3}
+{"count": 26, "name": "Syledis", "weight": 0.0, "id": 2779485889, "level": 3}
+{"count": 20, "name": "Tracking collar", "weight": 0.0, "id": 2777610713, "level": 3}
+{"count": 64, "name": "Precise Time and Time Interval", "weight": 0.0, "id": 2779029889, "level": 3}
+{"count": 17, "name": "Pulse-per-second signal", "weight": 0.0, "id": 2780247242, "level": 3}

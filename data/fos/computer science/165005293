@@ -1,0 +1,25 @@
+{"count": 23442, "name": "Flip chip", "weight": 10.0, "id": 79072407, "level": 3}
+{"count": 8162, "name": "Network on a chip", "weight": 3.0, "id": 128519102, "level": 3}
+{"count": 5868, "name": "Chip-scale package", "weight": 2.0, "id": 126233035, "level": 3}
+{"count": 1621, "name": "Multi-chip module", "weight": 0.0, "id": 2779691516, "level": 3}
+{"count": 468, "name": "Vision chip", "weight": 0.0, "id": 2775908279, "level": 3}
+{"count": 287, "name": "Repeater insertion", "weight": 0.0, "id": 2778579527, "level": 3}
+{"count": 326, "name": "Dark silicon", "weight": 0.0, "id": 2778380858, "level": 3}
+{"count": 51, "name": "Chip-firing game", "weight": 0.0, "id": 2777031917, "level": 3}
+{"count": 262, "name": "Bus encoding", "weight": 0.0, "id": 2779737377, "level": 3}
+{"count": 2972, "name": "Chip carrier", "weight": 1.0, "id": 2775856422, "level": 3}
+{"count": 255, "name": "Proximity communication", "weight": 0.0, "id": 2779175625, "level": 3}
+{"count": 198, "name": "Chip and PIN", "weight": 0.0, "id": 191063077, "level": 3}
+{"count": 163, "name": "Photonic Chip", "weight": 0.0, "id": 58636561, "level": 3}
+{"count": 217, "name": "MAX232", "weight": 0.0, "id": 2779833363, "level": 3}
+{"count": 54, "name": "Analog chip", "weight": 0.0, "id": 18013511, "level": 3}
+{"count": 44, "name": "Quilt packaging", "weight": 0.0, "id": 2779511411, "level": 3}
+{"count": 340, "name": "Southbridge", "weight": 0.0, "id": 151490309, "level": 3}
+{"count": 23, "name": "Bit bucket", "weight": 0.0, "id": 2779203212, "level": 3}
+{"count": 335, "name": "Nixie tube", "weight": 0.0, "id": 15132053, "level": 3}
+{"count": 91, "name": "ROM image", "weight": 0.0, "id": 166263651, "level": 3}
+{"count": 96, "name": "mChip", "weight": 0.0, "id": 2780396891, "level": 3}
+{"count": 992, "name": "Computer-on-module", "weight": 0.0, "id": 2274777, "level": 3}
+{"count": 559, "name": "Chip select", "weight": 0.0, "id": 2776487286, "level": 3}
+{"count": 18, "name": "Ni1000", "weight": 0.0, "id": 2780267914, "level": 3}
+{"count": 93, "name": "CHIP-8", "weight": 0.0, "id": 2778611793, "level": 3}

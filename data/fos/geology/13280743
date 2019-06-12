@@ -1,0 +1,153 @@
+{"count": 10466, "name": "Gravity anomaly", "weight": 0.0, "id": 96342900, "level": 2}
+{"count": 220726, "name": "Grid", "weight": 3.0, "id": 187691185, "level": 2}
+{"count": 14243, "name": "Altimeter", "weight": 0.0, "id": 17534553, "level": 2}
+{"count": 19681, "name": "Ellipsoid", "weight": 0.0, "id": 57489055, "level": 2}
+{"count": 5585, "name": "Earth's rotation", "weight": 0.0, "id": 142670403, "level": 2}
+{"count": 9187, "name": "Location", "weight": 0.0, "id": 61980418, "level": 2}
+{"count": 10963, "name": "Very-long-baseline interferometry", "weight": 0.0, "id": 79896159, "level": 2}
+{"count": 3085, "name": "Gravimetry", "weight": 0.0, "id": 202453963, "level": 2}
+{"count": 5952, "name": "Multilateration", "weight": 0.0, "id": 104037064, "level": 2}
+{"count": 2970, "name": "Satellite geodesy", "weight": 0.0, "id": 154839486, "level": 2}
+{"count": 10510, "name": "Surveyor", "weight": 0.0, "id": 23588892, "level": 2}
+{"count": 5947, "name": "Geoid", "weight": 0.0, "id": 80989030, "level": 2}
+{"count": 1504, "name": "Universal Time", "weight": 0.0, "id": 84853838, "level": 2}
+{"count": 14761, "name": "Galileo (satellite navigation)", "weight": 0.0, "id": 177219330, "level": 2}
+{"count": 12501, "name": "Flattening", "weight": 0.0, "id": 19444555, "level": 2}
+{"count": 7231, "name": "Ephemeris", "weight": 0.0, "id": 64828349, "level": 2}
+{"count": 735, "name": "Benchmark (surveying)", "weight": 0.0, "id": 185798385, "level": 2}
+{"count": 651825, "name": "Ranging", "weight": 10.0, "id": 115051666, "level": 2}
+{"count": 3464, "name": "Geopotential", "weight": 0.0, "id": 160121416, "level": 2}
+{"count": 3650, "name": "Nutation", "weight": 0.0, "id": 37025601, "level": 2}
+{"count": 402, "name": "Dynamic height", "weight": 0.0, "id": 119016455, "level": 2}
+{"count": 4629, "name": "Inclinometer", "weight": 0.0, "id": 158105764, "level": 2}
+{"count": 26978, "name": "Geodetic datum", "weight": 0.0, "id": 58754882, "level": 2}
+{"count": 10672, "name": "Pace", "weight": 0.0, "id": 2777526511, "level": 2}
+{"count": 3512, "name": "Gravimeter", "weight": 0.0, "id": 139974479, "level": 2}
+{"count": 8472, "name": "Levelling", "weight": 0.0, "id": 100260852, "level": 2}
+{"count": 23909, "name": "Traverse", "weight": 0.0, "id": 176809094, "level": 2}
+{"count": 1241, "name": "Geographical distance", "weight": 0.0, "id": 79876807, "level": 2}
+{"count": 877, "name": "Linear scale", "weight": 0.0, "id": 170122806, "level": 2}
+{"count": 1665, "name": "Position fixing", "weight": 0.0, "id": 22927688, "level": 2}
+{"count": 2569, "name": "Theodolite", "weight": 0.0, "id": 46399941, "level": 2}
+{"count": 502, "name": "Space geodesy", "weight": 0.0, "id": 2776407548, "level": 2}
+{"count": 2534, "name": "Romer", "weight": 0.0, "id": 2777601356, "level": 2}
+{"count": 5888, "name": "Nadir", "weight": 0.0, "id": 88575799, "level": 2}
+{"count": 21287, "name": "Horizontal plane", "weight": 0.0, "id": 37222873, "level": 2}
+{"count": 4036, "name": "Total station", "weight": 0.0, "id": 168498295, "level": 2}
+{"count": 772, "name": "Earth tide", "weight": 0.0, "id": 2779471799, "level": 2}
+{"count": 41416, "name": "Vertical direction", "weight": 0.0, "id": 49661696, "level": 2}
+{"count": 5070, "name": "Geographic coordinate system", "weight": 0.0, "id": 123046963, "level": 2}
+{"count": 839, "name": "Celestial navigation", "weight": 0.0, "id": 144475974, "level": 2}
+{"count": 1473, "name": "Mercator projection", "weight": 0.0, "id": 36639349, "level": 2}
+{"count": 521, "name": "Geocentric coordinates", "weight": 0.0, "id": 8801270, "level": 2}
+{"count": 397, "name": "Universal Transverse Mercator coordinate system", "weight": 0.0, "id": 43823703, "level": 2}
+{"count": 151, "name": "Selenography", "weight": 0.0, "id": 39615477, "level": 2}
+{"count": 336, "name": "Celestial pole", "weight": 0.0, "id": 127770441, "level": 2}
+{"count": 1509, "name": "Lunar orbit", "weight": 0.0, "id": 155334826, "level": 2}
+{"count": 2183, "name": "Spatial reference system", "weight": 0.0, "id": 194226119, "level": 2}
+{"count": 362, "name": "Love number", "weight": 0.0, "id": 2776258656, "level": 2}
+{"count": 1226, "name": "Antipodes", "weight": 0.0, "id": 142163382, "level": 2}
+{"count": 341, "name": "Piper guineense", "weight": 0.0, "id": 2781351303, "level": 2}
+{"count": 9525, "name": "Horizontal position representation", "weight": 0.0, "id": 31310117, "level": 2}
+{"count": 882, "name": "Gyrocompass", "weight": 0.0, "id": 133440686, "level": 2}
+{"count": 360, "name": "Emergency response systems", "weight": 0.0, "id": 2778124577, "level": 2}
+{"count": 417, "name": "Kaguya", "weight": 0.0, "id": 2776083886, "level": 2}
+{"count": 12662, "name": "Mile", "weight": 0.0, "id": 186379835, "level": 2}
+{"count": 1023, "name": "Plumb bob", "weight": 0.0, "id": 165401729, "level": 2}
+{"count": 50431, "name": "Horizontal and vertical", "weight": 0.0, "id": 59218005, "level": 2}
+{"count": 169, "name": "Spherical Earth", "weight": 0.0, "id": 178869978, "level": 2}
+{"count": 728, "name": "Geocentric model", "weight": 0.0, "id": 19123756, "level": 2}
+{"count": 980, "name": "Figure of the Earth", "weight": 0.0, "id": 122224866, "level": 2}
+{"count": 209, "name": "Rhumb line", "weight": 0.0, "id": 117688341, "level": 2}
+{"count": 378, "name": "Ocean exploration", "weight": 0.0, "id": 144176703, "level": 2}
+{"count": 1230, "name": "World map", "weight": 0.0, "id": 2780632292, "level": 2}
+{"count": 135, "name": "Tacheometry", "weight": 0.0, "id": 14188793, "level": 2}
+{"count": 672, "name": "Coordinate time", "weight": 0.0, "id": 100185428, "level": 2}
+{"count": 194, "name": "Portolan chart", "weight": 0.0, "id": 144359658, "level": 2}
+{"count": 555, "name": "Map series", "weight": 0.0, "id": 52291969, "level": 2}
+{"count": 1126, "name": "Spirit level", "weight": 0.0, "id": 135505074, "level": 2}
+{"count": 138, "name": "Haversine formula", "weight": 0.0, "id": 35728795, "level": 2}
+{"count": 213, "name": "Beta angle", "weight": 0.0, "id": 68693881, "level": 2}
+{"count": 151, "name": "Great-circle distance", "weight": 0.0, "id": 128541587, "level": 2}
+{"count": 145, "name": "Prime meridian", "weight": 0.0, "id": 18321214, "level": 2}
+{"count": 227, "name": "Vertical circle", "weight": 0.0, "id": 170969544, "level": 2}
+{"count": 226, "name": "Intercept method", "weight": 0.0, "id": 3051879, "level": 2}
+{"count": 123, "name": "Alidade", "weight": 0.0, "id": 2224410, "level": 2}
+{"count": 124, "name": "Diurnal motion", "weight": 0.0, "id": 54792079, "level": 2}
+{"count": 386, "name": "Transit instrument", "weight": 0.0, "id": 130160567, "level": 2}
+{"count": 163, "name": "Tacheometry", "weight": 0.0, "id": 25337213, "level": 2}
+{"count": 181, "name": "Georef", "weight": 0.0, "id": 31299138, "level": 2}
+{"count": 185, "name": "Plane table", "weight": 0.0, "id": 167163294, "level": 2}
+{"count": 68, "name": "Lambert conformal conic projection", "weight": 0.0, "id": 50867193, "level": 2}
+{"count": 419, "name": "True north", "weight": 0.0, "id": 2778511622, "level": 2}
+{"count": 156, "name": "Lunar distance (navigation)", "weight": 0.0, "id": 58431541, "level": 2}
+{"count": 368, "name": "Celestial coordinate system", "weight": 0.0, "id": 106915046, "level": 2}
+{"count": 535, "name": "Lunar distance (astronomy)", "weight": 0.0, "id": 168089676, "level": 2}
+{"count": 193, "name": "Pous", "weight": 0.0, "id": 2776085534, "level": 2}
+{"count": 26, "name": "Clairaut's theorem", "weight": 0.0, "id": 82348467, "level": 2}
+{"count": 409, "name": "Orbit of the Moon", "weight": 0.0, "id": 68124633, "level": 2}
+{"count": 36, "name": "Easting and northing", "weight": 0.0, "id": 79108499, "level": 2}
+{"count": 322, "name": "Selenographic coordinates", "weight": 0.0, "id": 77286989, "level": 2}
+{"count": 92, "name": "Terrestrial Time", "weight": 0.0, "id": 91508313, "level": 2}
+{"count": 102, "name": "Tellurometer", "weight": 0.0, "id": 29358566, "level": 2}
+{"count": 13, "name": "Fraser Filter", "weight": 0.0, "id": 2778528993, "level": 2}
+{"count": 66, "name": "Ordnance Survey National Grid", "weight": 0.0, "id": 40804472, "level": 2}
+{"count": 268, "name": "Level staff", "weight": 0.0, "id": 85416773, "level": 2}
+{"count": 14, "name": "E\u00f6tv\u00f6s effect", "weight": 0.0, "id": 170873072, "level": 2}
+{"count": 80, "name": "DUT1", "weight": 0.0, "id": 129372148, "level": 2}
+{"count": 17, "name": "Prismatic compass", "weight": 0.0, "id": 2778987528, "level": 2}
+{"count": 28, "name": "Great Trigonometrical Survey", "weight": 0.0, "id": 40354913, "level": 2}
+{"count": 4, "name": "Rankine's method", "weight": 0.0, "id": 2780701940, "level": 2}
+{"count": 10, "name": "Bonne projection", "weight": 0.0, "id": 2777549933, "level": 2}
+{"count": 29, "name": "Survey camp", "weight": 0.0, "id": 2777230534, "level": 2}
+{"count": 46, "name": "Tide table", "weight": 0.0, "id": 2779761531, "level": 2}
+{"count": 2, "name": "IERS Reference Meridian", "weight": 0.0, "id": 2777865245, "level": 2}
+{"count": 67, "name": "Spot height", "weight": 0.0, "id": 2779390065, "level": 2}
+{"count": 2, "name": "Vincenty's formulae", "weight": 0.0, "id": 2777354547, "level": 2}
+{"count": 4, "name": "Sine quadrant", "weight": 0.0, "id": 2778717200, "level": 2}
+{"count": 3, "name": "Gall\u2013Peters projection", "weight": 0.0, "id": 2776678003, "level": 2}
+{"count": 14, "name": "Angular eccentricity", "weight": 0.0, "id": 2780942489, "level": 2}
+{"count": 8, "name": "Kater's pendulum", "weight": 0.0, "id": 115859443, "level": 2}
+{"count": 3, "name": "Eckert IV projection", "weight": 0.0, "id": 2776941419, "level": 2}
+{"count": 101, "name": "Set and drift", "weight": 0.0, "id": 104896880, "level": 2}
+{"count": 4, "name": "Homoeoid", "weight": 0.0, "id": 2779978663, "level": 2}
+{"count": 3, "name": "Extreme points of Earth", "weight": 0.0, "id": 524566012, "level": 2}
+{"count": 17, "name": "Graphometer", "weight": 0.0, "id": 91832632, "level": 2}
+{"count": 2, "name": "Bull's eye level", "weight": 0.0, "id": 152690822, "level": 2}
+{"count": 6, "name": "Aitoff projection", "weight": 0.0, "id": 2780302154, "level": 2}
+{"count": 47, "name": "Grade measurement", "weight": 0.0, "id": 2776200807, "level": 2}
+{"count": 1, "name": "Wagner VI projection", "weight": 0.0, "id": 2776301512, "level": 2}
+{"count": 1, "name": "Transverse Mercator: Redfearn series", "weight": 0.0, "id": 2777144994, "level": 2}
+{"count": 11, "name": "United States National Grid", "weight": 0.0, "id": 18478713, "level": 2}
+{"count": 6, "name": "Schisandra glabra", "weight": 0.0, "id": 2778445800, "level": 2}
+{"count": 5, "name": "Tissot's indicatrix", "weight": 0.0, "id": 165514305, "level": 2}
+{"count": 2, "name": "Natural Area Code", "weight": 0.0, "id": 172106356, "level": 2}
+{"count": 1, "name": "Asian predatory wasp", "weight": 0.0, "id": 2776094484, "level": 2}
+{"count": 12, "name": "Stellar triangulation", "weight": 0.0, "id": 2779329432, "level": 2}
+{"count": 2, "name": "Swiss coordinate system", "weight": 0.0, "id": 2778381528, "level": 2}
+{"count": 3, "name": "Irish Transverse Mercator", "weight": 0.0, "id": 2778544434, "level": 2}
+{"count": 7, "name": "North east down", "weight": 0.0, "id": 194412760, "level": 2}
+{"count": 1, "name": "Enhanced RADAR positioning", "weight": 0.0, "id": 2780396590, "level": 2}
+{"count": 12, "name": "Repeating circle", "weight": 0.0, "id": 2778159035, "level": 2}
+{"count": 10, "name": "Orbital state vectors", "weight": 0.0, "id": 2781155163, "level": 2}
+{"count": 4, "name": "South-up map orientation", "weight": 0.0, "id": 163499129, "level": 2}
+{"count": 1, "name": "Werner projection", "weight": 0.0, "id": 2777267355, "level": 2}
+{"count": 2, "name": "GNSS software-defined receiver", "weight": 0.0, "id": 2776341133, "level": 2}
+{"count": 1, "name": "Antichthones", "weight": 0.0, "id": 2781278610, "level": 2}
+{"count": 3, "name": "Retriangulation of Great Britain", "weight": 0.0, "id": 2776991025, "level": 2}
+{"count": 12, "name": "Amanatsu", "weight": 0.0, "id": 2780479994, "level": 2}
+{"count": 1, "name": "Darwin\u2013Radau equation", "weight": 0.0, "id": 2777484236, "level": 2}
+{"count": 1, "name": "ISO 6709", "weight": 0.0, "id": 2780141734, "level": 2}
+{"count": 1, "name": "Two-point equidistant projection", "weight": 0.0, "id": 2776262448, "level": 2}
+{"count": 8, "name": "Rope stretcher", "weight": 0.0, "id": 2779419452, "level": 2}
+{"count": 3, "name": "Land and water hemispheres", "weight": 0.0, "id": 2780958893, "level": 2}
+{"count": 1, "name": "Hammer retroazimuthal projection", "weight": 0.0, "id": 2781364452, "level": 2}
+{"count": 5, "name": "Central cylindrical projection", "weight": 0.0, "id": 2776867254, "level": 2}
+{"count": 1, "name": "Hobo\u2013Dyer projection", "weight": 0.0, "id": 2779454472, "level": 2}
+{"count": 22, "name": "Position circle", "weight": 0.0, "id": 2776512045, "level": 2}
+{"count": 204, "name": "Chalk line", "weight": 0.0, "id": 47611032, "level": 2}
+{"count": 1, "name": "Jordan Transverse Mercator", "weight": 0.0, "id": 2778301337, "level": 2}
+{"count": 1, "name": "Hayford ellipsoid", "weight": 0.0, "id": 2779988553, "level": 2}
+{"count": 8, "name": "Space-oblique Mercator projection", "weight": 0.0, "id": 2780491488, "level": 2}
+{"count": 1, "name": "Hellenic Geodetic Reference System 1987", "weight": 0.0, "id": 2779118416, "level": 2}
+{"count": 3, "name": "3D data acquisition and object reconstruction", "weight": 0.0, "id": 2779472664, "level": 2}

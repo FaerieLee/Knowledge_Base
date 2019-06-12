@@ -1,0 +1,51 @@
+{"count": 7085, "name": "Volume rendering", "weight": 10.0, "id": 30769735, "level": 3}
+{"count": 2951, "name": "Graphics hardware", "weight": 4.0, "id": 18945957, "level": 3}
+{"count": 4669, "name": "Image-based modeling and rendering", "weight": 6.0, "id": 44185422, "level": 3}
+{"count": 1380, "name": "Shadow mapping", "weight": 1.0, "id": 116544410, "level": 3}
+{"count": 2843, "name": "Global illumination", "weight": 4.0, "id": 89720835, "level": 3}
+{"count": 4243, "name": "Real-time rendering", "weight": 5.0, "id": 116921373, "level": 3}
+{"count": 1437, "name": "View synthesis", "weight": 2.0, "id": 2776449333, "level": 3}
+{"count": 2569, "name": "Parallel rendering", "weight": 3.0, "id": 186772499, "level": 3}
+{"count": 497, "name": "Subsurface scattering", "weight": 0.0, "id": 205443905, "level": 3}
+{"count": 1420, "name": "Isosurface", "weight": 2.0, "id": 45107383, "level": 3}
+{"count": 2962, "name": "Shader", "weight": 4.0, "id": 177681979, "level": 3}
+{"count": 1271, "name": "Terrain rendering", "weight": 1.0, "id": 118350294, "level": 3}
+{"count": 250, "name": "Procedural texture", "weight": 0.0, "id": 37402014, "level": 3}
+{"count": 939, "name": "Scene graph", "weight": 1.0, "id": 179372163, "level": 3}
+{"count": 360, "name": "Bump mapping", "weight": 0.0, "id": 87832715, "level": 3}
+{"count": 568, "name": "Normal mapping", "weight": 0.0, "id": 62204291, "level": 3}
+{"count": 85, "name": "Physically based rendering", "weight": 0.0, "id": 2780948146, "level": 3}
+{"count": 4175, "name": "3D rendering", "weight": 5.0, "id": 36816356, "level": 3}
+{"count": 133, "name": "Potentially visible set", "weight": 0.0, "id": 141267114, "level": 3}
+{"count": 231, "name": "Gouraud shading", "weight": 0.0, "id": 158459233, "level": 3}
+{"count": 1668, "name": "Image-based lighting", "weight": 2.0, "id": 204060014, "level": 3}
+{"count": 3556, "name": "Software rendering", "weight": 5.0, "id": 109772839, "level": 3}
+{"count": 198, "name": "Progressive meshes", "weight": 0.0, "id": 2778598102, "level": 3}
+{"count": 184, "name": "Metaballs", "weight": 0.0, "id": 88912253, "level": 3}
+{"count": 231, "name": "Phong shading", "weight": 0.0, "id": 63027371, "level": 3}
+{"count": 177, "name": "Perlin noise", "weight": 0.0, "id": 39818651, "level": 3}
+{"count": 91, "name": "Spectral rendering", "weight": 0.0, "id": 2778036227, "level": 3}
+{"count": 76, "name": "Order-independent transparency", "weight": 0.0, "id": 2779577208, "level": 3}
+{"count": 98, "name": "Depth peeling", "weight": 0.0, "id": 2780925446, "level": 3}
+{"count": 141, "name": "Artistic rendering", "weight": 0.0, "id": 2777452210, "level": 3}
+{"count": 232, "name": "Framebuffer", "weight": 0.0, "id": 101126769, "level": 3}
+{"count": 53, "name": "Texture advection", "weight": 0.0, "id": 2781018421, "level": 3}
+{"count": 65, "name": "Summed area table", "weight": 0.0, "id": 127663459, "level": 3}
+{"count": 104, "name": "Render farm", "weight": 0.0, "id": 20757801, "level": 3}
+{"count": 151, "name": "Phong reflection model", "weight": 0.0, "id": 75987615, "level": 3}
+{"count": 169, "name": "Cube mapping", "weight": 0.0, "id": 177200955, "level": 3}
+{"count": 220, "name": "Geometry instancing", "weight": 0.0, "id": 135350024, "level": 3}
+{"count": 536, "name": "Stencil buffer", "weight": 0.0, "id": 71655876, "level": 3}
+{"count": 355, "name": "Viewing frustum", "weight": 0.0, "id": 150247286, "level": 3}
+{"count": 123, "name": "Surfel", "weight": 0.0, "id": 107600983, "level": 3}
+{"count": 24, "name": "Chain-linked model", "weight": 0.0, "id": 2777475121, "level": 3}
+{"count": 395, "name": "Display list", "weight": 0.0, "id": 2781385297, "level": 3}
+{"count": 30, "name": "Display lag", "weight": 0.0, "id": 2780467574, "level": 3}
+{"count": 291, "name": "Sparse voxel octree", "weight": 0.0, "id": 203235853, "level": 3}
+{"count": 38, "name": "Silhouette edge", "weight": 0.0, "id": 2776478775, "level": 3}
+{"count": 16, "name": "Texture splatting", "weight": 0.0, "id": 2777683467, "level": 3}
+{"count": 21, "name": "Retained mode", "weight": 0.0, "id": 2775964467, "level": 3}
+{"count": 10, "name": "Portal rendering", "weight": 0.0, "id": 2779670247, "level": 3}
+{"count": 39, "name": "Distance fog", "weight": 0.0, "id": 176772479, "level": 3}
+{"count": 186, "name": "Clipping (computer graphics)", "weight": 0.0, "id": 24498928, "level": 3}
+{"count": 15, "name": "Reyes rendering", "weight": 0.0, "id": 3640455, "level": 3}

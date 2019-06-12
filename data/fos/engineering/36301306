@@ -1,0 +1,15 @@
+{"count": 3723, "name": "GNSS augmentation", "weight": 10.0, "id": 166212672, "level": 4}
+{"count": 1896, "name": "Dilution of precision", "weight": 5.0, "id": 200499919, "level": 4}
+{"count": 780, "name": "Local positioning system", "weight": 2.0, "id": 107316180, "level": 4}
+{"count": 1695, "name": "Receiver autonomous integrity monitoring", "weight": 4.0, "id": 94821174, "level": 4}
+{"count": 820, "name": "Wide Area Augmentation System", "weight": 2.0, "id": 45839699, "level": 4}
+{"count": 1070, "name": "Quasi-Zenith Satellite System", "weight": 2.0, "id": 68477667, "level": 4}
+{"count": 973, "name": "European Geostationary Navigation Overlay Service", "weight": 2.0, "id": 186834915, "level": 4}
+{"count": 235, "name": "Hyperbolic navigation", "weight": 0.0, "id": 16151778, "level": 4}
+{"count": 865, "name": "Virtual Reference Station", "weight": 2.0, "id": 72843123, "level": 4}
+{"count": 585, "name": "BeiDou Navigation Satellite System", "weight": 1.0, "id": 2777783341, "level": 4}
+{"count": 1008, "name": "RINEX", "weight": 2.0, "id": 134428707, "level": 4}
+{"count": 45, "name": "CHAYKA", "weight": 0.0, "id": 69689274, "level": 4}
+{"count": 163, "name": "Automatic-tracking satellite dish", "weight": 0.0, "id": 166556878, "level": 4}
+{"count": 266, "name": "DORIS (geodesy)", "weight": 0.0, "id": 148016477, "level": 4}
+{"count": 69, "name": "Universal Satellites Automatic Location System", "weight": 0.0, "id": 117892258, "level": 4}

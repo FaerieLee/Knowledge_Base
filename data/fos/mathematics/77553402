@@ -1,0 +1,26 @@
+{"count": 5298, "name": "Cram\u00e9r\u2013Rao bound", "weight": 10.0, "id": 4978587, "level": 3}
+{"count": 5154, "name": "Competitive analysis", "weight": 9.0, "id": 102408133, "level": 3}
+{"count": 4438, "name": "Limit analysis", "weight": 8.0, "id": 2779100365, "level": 3}
+{"count": 171, "name": "Spherical code", "weight": 0.0, "id": 2779369165, "level": 3}
+{"count": 277, "name": "State complexity", "weight": 0.0, "id": 2779418284, "level": 3}
+{"count": 167, "name": "Kissing number problem", "weight": 0.0, "id": 67297599, "level": 3}
+{"count": 71, "name": "Fano's inequality", "weight": 0.0, "id": 55634546, "level": 3}
+{"count": 388, "name": "Covering code", "weight": 0.0, "id": 111908495, "level": 3}
+{"count": 30, "name": "Space\u2013time tradeoff", "weight": 0.0, "id": 164652077, "level": 3}
+{"count": 26, "name": "Leave-one-out error", "weight": 0.0, "id": 2780338630, "level": 3}
+{"count": 365, "name": "Exponential time hypothesis", "weight": 0.0, "id": 71017364, "level": 3}
+{"count": 102, "name": "Cell-probe model", "weight": 0.0, "id": 2780953631, "level": 3}
+{"count": 2267, "name": "Log-log plot", "weight": 4.0, "id": 195292467, "level": 3}
+{"count": 75, "name": "Pointer jumping", "weight": 0.0, "id": 2781001252, "level": 3}
+{"count": 63, "name": "Slice genus", "weight": 0.0, "id": 2780121589, "level": 3}
+{"count": 46, "name": "Siegel's lemma", "weight": 0.0, "id": 2780162995, "level": 3}
+{"count": 80, "name": "Ropelength", "weight": 0.0, "id": 2779914886, "level": 3}
+{"count": 352, "name": "No-arbitrage bounds", "weight": 0.0, "id": 105052204, "level": 3}
+{"count": 32, "name": "Zarankiewicz problem", "weight": 0.0, "id": 2776104881, "level": 3}
+{"count": 20, "name": "De Bruijn\u2013Newman constant", "weight": 0.0, "id": 2775926314, "level": 3}
+{"count": 37, "name": "Implicit data structure", "weight": 0.0, "id": 189691356, "level": 3}
+{"count": 283, "name": "Chapman\u2013Robbins bound", "weight": 0.0, "id": 1910972, "level": 3}
+{"count": 30, "name": "Crossing sequence", "weight": 0.0, "id": 2777926192, "level": 3}
+{"count": 20, "name": "Pancake sorting", "weight": 0.0, "id": 201322929, "level": 3}
+{"count": 32, "name": "ACC0", "weight": 0.0, "id": 2780188414, "level": 3}
+{"count": 94, "name": "Space trade", "weight": 0.0, "id": 2780845544, "level": 3}

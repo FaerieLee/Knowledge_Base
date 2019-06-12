@@ -1,0 +1,15 @@
+{"count": 710, "name": "Diagnostic peritoneal lavage", "weight": 5.0, "id": 2781339890, "level": 3}
+{"count": 1259, "name": "Abdominal examination", "weight": 10.0, "id": 2778711424, "level": 3}
+{"count": 883, "name": "Epigastrium", "weight": 7.0, "id": 2781033598, "level": 3}
+{"count": 319, "name": "Abdominal decompression", "weight": 2.0, "id": 2780038992, "level": 3}
+{"count": 29, "name": "Visceral slide", "weight": 0.0, "id": 2777085430, "level": 3}
+{"count": 22, "name": "Fecolith", "weight": 0.0, "id": 2779201176, "level": 3}
+{"count": 313, "name": "Umbilical region", "weight": 2.0, "id": 2778567789, "level": 3}
+{"count": 846, "name": "Hypochondrium", "weight": 6.0, "id": 2776312018, "level": 3}
+{"count": 57, "name": "Paracolic gutters", "weight": 0.0, "id": 2776297952, "level": 3}
+{"count": 59, "name": "Abdominal guarding", "weight": 0.0, "id": 2777768330, "level": 3}
+{"count": 16, "name": "Pubic crest", "weight": 0.0, "id": 2779762632, "level": 3}
+{"count": 214, "name": "Hypogastrium", "weight": 1.0, "id": 2780804883, "level": 3}
+{"count": 19, "name": "Peritoneal recesses", "weight": 0.0, "id": 2777453593, "level": 3}
+{"count": 18, "name": "Blumberg sign", "weight": 0.0, "id": 2776079721, "level": 3}
+{"count": 72, "name": "Muscular defense", "weight": 0.0, "id": 2779497606, "level": 3}

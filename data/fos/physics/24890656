@@ -1,0 +1,200 @@
+{"count": 157396, "name": "Ultrasound", "weight": 3.0, "id": 143753070, "level": 2}
+{"count": 431264, "name": "Vibration", "weight": 10.0, "id": 198394728, "level": 2}
+{"count": 54434, "name": "Acoustic wave", "weight": 1.0, "id": 204723758, "level": 2}
+{"count": 32753, "name": "Noise measurement", "weight": 0.0, "id": 29265498, "level": 2}
+{"count": 212008, "name": "Ultrasonic sensor", "weight": 4.0, "id": 81288441, "level": 2}
+{"count": 8397, "name": "Basso continuo", "weight": 0.0, "id": 68101726, "level": 2}
+{"count": 28298, "name": "Acoustic emission", "weight": 0.0, "id": 174598085, "level": 2}
+{"count": 38081, "name": "Cavitation", "weight": 0.0, "id": 207057113, "level": 2}
+{"count": 9771, "name": "Transmission loss", "weight": 0.0, "id": 2779753020, "level": 2}
+{"count": 21599, "name": "Fundamental frequency", "weight": 0.0, "id": 10513763, "level": 2}
+{"count": 19922, "name": "Background noise", "weight": 0.0, "id": 100675267, "level": 2}
+{"count": 10907, "name": "Noise", "weight": 0.0, "id": 151405878, "level": 2}
+{"count": 44619, "name": "Rhythm", "weight": 1.0, "id": 135343436, "level": 2}
+{"count": 120288, "name": "Harmonic", "weight": 2.0, "id": 127934551, "level": 2}
+{"count": 9068, "name": "Underwater acoustics", "weight": 0.0, "id": 67467970, "level": 2}
+{"count": 10514, "name": "Shear waves", "weight": 0.0, "id": 2779438780, "level": 2}
+{"count": 26059, "name": "Sonar", "weight": 0.0, "id": 555745239, "level": 2}
+{"count": 53766, "name": "Weighting", "weight": 1.0, "id": 183115368, "level": 2}
+{"count": 20455, "name": "Intelligibility (communication)", "weight": 0.0, "id": 15145288, "level": 2}
+{"count": 41076, "name": "Music education", "weight": 0.0, "id": 13553968, "level": 2}
+{"count": 13680, "name": "Noise control", "weight": 0.0, "id": 116822448, "level": 2}
+{"count": 8417, "name": "Auditory system", "weight": 0.0, "id": 2777443451, "level": 2}
+{"count": 5858, "name": "Infrasound", "weight": 0.0, "id": 207240575, "level": 2}
+{"count": 16915, "name": "Speed of sound", "weight": 0.0, "id": 200351514, "level": 2}
+{"count": 26321, "name": "Sound pressure", "weight": 0.0, "id": 68115822, "level": 2}
+{"count": 2316, "name": "Diminution", "weight": 0.0, "id": 2779756265, "level": 2}
+{"count": 30053, "name": "Loudspeaker", "weight": 0.0, "id": 157138929, "level": 2}
+{"count": 13113, "name": "Transposition (music)", "weight": 0.0, "id": 48204334, "level": 2}
+{"count": 10164, "name": "Noise pollution", "weight": 0.0, "id": 130858481, "level": 2}
+{"count": 17085, "name": "Hearing aid", "weight": 0.0, "id": 2780801066, "level": 2}
+{"count": 4960, "name": "Aeroacoustics", "weight": 0.0, "id": 120763676, "level": 2}
+{"count": 6516, "name": "Sound localization", "weight": 0.0, "id": 68236139, "level": 2}
+{"count": 13341, "name": "Sound recording and reproduction", "weight": 0.0, "id": 128422554, "level": 2}
+{"count": 12958, "name": "Ambient noise level", "weight": 0.0, "id": 205312793, "level": 2}
+{"count": 3196, "name": "Bioacoustics", "weight": 0.0, "id": 34951282, "level": 2}
+{"count": 12700, "name": "Phacoemulsification", "weight": 0.0, "id": 2781104129, "level": 2}
+{"count": 48860, "name": "Audio signal", "weight": 1.0, "id": 64922751, "level": 2}
+{"count": 4702, "name": "Vocal tract", "weight": 0.0, "id": 47401133, "level": 2}
+{"count": 13964, "name": "Reverberation", "weight": 0.0, "id": 95851461, "level": 2}
+{"count": 2521, "name": "Optoacoustic imaging", "weight": 0.0, "id": 97337990, "level": 2}
+{"count": 7514, "name": "Phonation", "weight": 0.0, "id": 173988693, "level": 2}
+{"count": 49189, "name": "Groove (music)", "weight": 1.0, "id": 157332803, "level": 2}
+{"count": 15741, "name": "Flutter", "weight": 0.0, "id": 2777834885, "level": 2}
+{"count": 48127, "name": "Microphone", "weight": 1.0, "id": 2778263558, "level": 2}
+{"count": 8569, "name": "Traffic noise", "weight": 0.0, "id": 2781353297, "level": 2}
+{"count": 2301, "name": "Semiology", "weight": 0.0, "id": 198951751, "level": 2}
+{"count": 7863, "name": "Compact disc", "weight": 0.0, "id": 504131036, "level": 2}
+{"count": 1888, "name": "Harmonization", "weight": 0.0, "id": 2779962950, "level": 2}
+{"count": 26428, "name": "Popular music", "weight": 0.0, "id": 114611597, "level": 2}
+{"count": 50156, "name": "Opera", "weight": 1.0, "id": 530479602, "level": 2}
+{"count": 23201, "name": "Canon", "weight": 0.0, "id": 103785112, "level": 2}
+{"count": 2352, "name": "Phaser", "weight": 0.0, "id": 135393689, "level": 2}
+{"count": 197, "name": "Gigue", "weight": 0.0, "id": 2779042267, "level": 2}
+{"count": 7312, "name": "Sound transmission class", "weight": 0.0, "id": 152781226, "level": 2}
+{"count": 28628, "name": "Repertoire", "weight": 0.0, "id": 2778473898, "level": 2}
+{"count": 26298, "name": "Singing", "weight": 0.0, "id": 44819458, "level": 2}
+{"count": 5970, "name": "Aircraft noise", "weight": 0.0, "id": 116681429, "level": 2}
+{"count": 23775, "name": "Vowel", "weight": 0.0, "id": 2779581591, "level": 2}
+{"count": 38352, "name": "Silence", "weight": 0.0, "id": 2781115785, "level": 2}
+{"count": 22881, "name": "Motif (music)", "weight": 0.0, "id": 32276052, "level": 2}
+{"count": 22385, "name": "Jazz", "weight": 0.0, "id": 2980749, "level": 2}
+{"count": 4291, "name": "Dichotic listening", "weight": 0.0, "id": 111060362, "level": 2}
+{"count": 1223, "name": "Acoustical engineering", "weight": 0.0, "id": 146719601, "level": 2}
+{"count": 74539, "name": "Piano", "weight": 1.0, "id": 124086623, "level": 2}
+{"count": 12617, "name": "Loudness", "weight": 0.0, "id": 79018884, "level": 2}
+{"count": 7515, "name": "Anechoic chamber", "weight": 0.0, "id": 149712133, "level": 2}
+{"count": 3308, "name": "Room acoustics", "weight": 0.0, "id": 178432105, "level": 2}
+{"count": 7972, "name": "Sound intensity", "weight": 0.0, "id": 63981117, "level": 2}
+{"count": 3274, "name": "Acoustic microscopy", "weight": 0.0, "id": 2781117724, "level": 2}
+{"count": 2755, "name": "Acoustic Doppler current profiler", "weight": 0.0, "id": 2779365185, "level": 2}
+{"count": 11426, "name": "Improvisation", "weight": 0.0, "id": 125468537, "level": 2}
+{"count": 2295, "name": "Audio equipment", "weight": 0.0, "id": 2778488704, "level": 2}
+{"count": 8961, "name": "Sound quality", "weight": 0.0, "id": 167310288, "level": 2}
+{"count": 4440, "name": "Human echolocation", "weight": 0.0, "id": 167954536, "level": 2}
+{"count": 1830, "name": "Architectural acoustics", "weight": 0.0, "id": 2776009117, "level": 2}
+{"count": 2032, "name": "Musical acoustics", "weight": 0.0, "id": 178884764, "level": 2}
+{"count": 9131, "name": "Hydrophone", "weight": 0.0, "id": 2776328434, "level": 2}
+{"count": 302, "name": "Solid body", "weight": 0.0, "id": 2779612905, "level": 2}
+{"count": 14532, "name": "Formant", "weight": 0.0, "id": 158215666, "level": 2}
+{"count": 4562, "name": "Bone conduction", "weight": 0.0, "id": 97785308, "level": 2}
+{"count": 5979, "name": "Music theory", "weight": 0.0, "id": 143857728, "level": 2}
+{"count": 1827, "name": "Thermoacoustics", "weight": 0.0, "id": 137820387, "level": 2}
+{"count": 4497, "name": "Beat (acoustics)", "weight": 0.0, "id": 189809214, "level": 2}
+{"count": 18021, "name": "Beat (music)", "weight": 0.0, "id": 35550292, "level": 2}
+{"count": 6324, "name": "Timbre", "weight": 0.0, "id": 2776539107, "level": 2}
+{"count": 10887, "name": "MIDI", "weight": 0.0, "id": 8112396, "level": 2}
+{"count": 3257, "name": "Computer music", "weight": 0.0, "id": 34259666, "level": 2}
+{"count": 5452, "name": "Annoyance", "weight": 0.0, "id": 178937217, "level": 2}
+{"count": 16665, "name": "Violin", "weight": 0.0, "id": 129554576, "level": 2}
+{"count": 1855, "name": "Target strength", "weight": 0.0, "id": 2776479727, "level": 2}
+{"count": 10197, "name": "Tapping", "weight": 0.0, "id": 2777644245, "level": 2}
+{"count": 2867, "name": "Sound design", "weight": 0.0, "id": 499572226, "level": 2}
+{"count": 3732, "name": "Electronic music", "weight": 0.0, "id": 532620858, "level": 2}
+{"count": 4391, "name": "Chamber music", "weight": 0.0, "id": 106111739, "level": 2}
+{"count": 2357, "name": "Dynamic range compression", "weight": 0.0, "id": 150178126, "level": 2}
+{"count": 17351, "name": "Soundproofing", "weight": 0.0, "id": 142757542, "level": 2}
+{"count": 9006, "name": "Audio frequency", "weight": 0.0, "id": 107958047, "level": 2}
+{"count": 6802, "name": "Polyphony", "weight": 0.0, "id": 128979739, "level": 2}
+{"count": 1708, "name": "Manner of articulation", "weight": 0.0, "id": 66029223, "level": 2}
+{"count": 10026, "name": "Sound power", "weight": 0.0, "id": 67514181, "level": 2}
+{"count": 10106, "name": "Absorption (acoustics)", "weight": 0.0, "id": 125287762, "level": 2}
+{"count": 5005, "name": "Headphones", "weight": 0.0, "id": 2781258422, "level": 2}
+{"count": 3291, "name": "Second sound", "weight": 0.0, "id": 31686786, "level": 2}
+{"count": 5110, "name": "Soundscape", "weight": 0.0, "id": 142795923, "level": 2}
+{"count": 7834, "name": "Maxima", "weight": 0.0, "id": 91528185, "level": 2}
+{"count": 1961, "name": "Line source", "weight": 0.0, "id": 52119771, "level": 2}
+{"count": 650, "name": "Hydroacoustics", "weight": 0.0, "id": 2781102901, "level": 2}
+{"count": 6140, "name": "Ear canal", "weight": 0.0, "id": 2779812621, "level": 2}
+{"count": 890, "name": "Geometrical acoustics", "weight": 0.0, "id": 2776377536, "level": 2}
+{"count": 28633, "name": "Viewpoints", "weight": 0.0, "id": 2776035091, "level": 2}
+{"count": 4682, "name": "Environmental noise", "weight": 0.0, "id": 86781634, "level": 2}
+{"count": 11470, "name": "Guitar", "weight": 0.0, "id": 95543465, "level": 2}
+{"count": 14760, "name": "Lyrics", "weight": 0.0, "id": 2776436406, "level": 2}
+{"count": 397, "name": "Secondary development", "weight": 0.0, "id": 2776460390, "level": 2}
+{"count": 12080, "name": "Chord (music)", "weight": 0.0, "id": 175497961, "level": 2}
+{"count": 742, "name": "Pink noise", "weight": 0.0, "id": 42378288, "level": 2}
+{"count": 4747, "name": "Coda", "weight": 0.0, "id": 3962253, "level": 2}
+{"count": 13206, "name": "Flute", "weight": 0.0, "id": 4060165, "level": 2}
+{"count": 9379, "name": "Ballad", "weight": 0.0, "id": 27727207, "level": 2}
+{"count": 70760, "name": "Nut", "weight": 1.0, "id": 206391251, "level": 2}
+{"count": 37212, "name": "Swing", "weight": 0.0, "id": 65655974, "level": 2}
+{"count": 2493, "name": "Scratching", "weight": 0.0, "id": 2780196728, "level": 2}
+{"count": 2737, "name": "Dyad", "weight": 0.0, "id": 2777716012, "level": 2}
+{"count": 2288, "name": "Waltz", "weight": 0.0, "id": 2778360019, "level": 2}
+{"count": 12004, "name": "Blues", "weight": 0.0, "id": 139015958, "level": 2}
+{"count": 3425, "name": "Cadence", "weight": 0.0, "id": 2777125575, "level": 2}
+{"count": 16346, "name": "Symphony", "weight": 0.0, "id": 16277566, "level": 2}
+{"count": 1423, "name": "Prolongation", "weight": 0.0, "id": 2777672339, "level": 2}
+{"count": 2753, "name": "Foley", "weight": 0.0, "id": 110446960, "level": 2}
+{"count": 5768, "name": "Voice", "weight": 0.0, "id": 552089266, "level": 2}
+{"count": 1333, "name": "Bark (sound)", "weight": 0.0, "id": 133446333, "level": 2}
+{"count": 421, "name": "Bimodality", "weight": 0.0, "id": 2779287300, "level": 2}
+{"count": 8548, "name": "Binaural recording", "weight": 0.0, "id": 201247586, "level": 2}
+{"count": 2758, "name": "Decibel", "weight": 0.0, "id": 204358264, "level": 2}
+{"count": 2323, "name": "Human voice", "weight": 0.0, "id": 20766975, "level": 2}
+{"count": 2607, "name": "Country", "weight": 0.0, "id": 32270936, "level": 2}
+{"count": 7817, "name": "Octave", "weight": 0.0, "id": 167695071, "level": 2}
+{"count": 1355, "name": "Audio feedback", "weight": 0.0, "id": 38956757, "level": 2}
+{"count": 9829, "name": "Tape recorder", "weight": 0.0, "id": 2779444607, "level": 2}
+{"count": 9295, "name": "Tonic (music)", "weight": 0.0, "id": 2781347044, "level": 2}
+{"count": 813, "name": "Auralization", "weight": 0.0, "id": 2778806723, "level": 2}
+{"count": 2907, "name": "Carriageway", "weight": 0.0, "id": 2779184092, "level": 2}
+{"count": 9664, "name": "Accidental", "weight": 0.0, "id": 126965237, "level": 2}
+{"count": 4731, "name": "High fidelity", "weight": 0.0, "id": 113364801, "level": 2}
+{"count": 1377, "name": "Logarithmic scale", "weight": 0.0, "id": 139912040, "level": 2}
+{"count": 2418, "name": "Tonality", "weight": 0.0, "id": 2776275044, "level": 2}
+{"count": 6895, "name": "Reinterpretation", "weight": 0.0, "id": 2778734905, "level": 2}
+{"count": 2828, "name": "Funk", "weight": 0.0, "id": 147120446, "level": 2}
+{"count": 3706, "name": "Particle displacement", "weight": 0.0, "id": 86038547, "level": 2}
+{"count": 857, "name": "Sentry", "weight": 0.0, "id": 3193188, "level": 2}
+{"count": 2742, "name": "Oratorio", "weight": 0.0, "id": 11906714, "level": 2}
+{"count": 429, "name": "Cocktail party effect", "weight": 0.0, "id": 82385357, "level": 2}
+{"count": 1004, "name": "Sound art", "weight": 0.0, "id": 2778546925, "level": 2}
+{"count": 13229, "name": "Chromatic scale", "weight": 0.0, "id": 196956537, "level": 2}
+{"count": 1274, "name": "Modulation (music)", "weight": 0.0, "id": 123079801, "level": 2}
+{"count": 8566, "name": "Counterpoint", "weight": 0.0, "id": 12582419, "level": 2}
+{"count": 616, "name": "Sibilant", "weight": 0.0, "id": 2777693933, "level": 2}
+{"count": 1188, "name": "Sound level meter", "weight": 0.0, "id": 2778554111, "level": 2}
+{"count": 329, "name": "Lombard effect", "weight": 0.0, "id": 2776509809, "level": 2}
+{"count": 1524, "name": "Public address system", "weight": 0.0, "id": 153025619, "level": 2}
+{"count": 9656, "name": "Melody", "weight": 0.0, "id": 43803900, "level": 2}
+{"count": 1764, "name": "Mallet", "weight": 0.0, "id": 2778781484, "level": 2}
+{"count": 2780, "name": "Fade", "weight": 0.0, "id": 2778518048, "level": 2}
+{"count": 1109, "name": "Classical period", "weight": 0.0, "id": 112813540, "level": 2}
+{"count": 919, "name": "Electroacoustic music", "weight": 0.0, "id": 2779077932, "level": 2}
+{"count": 195, "name": "Electrical tuning", "weight": 0.0, "id": 2778233930, "level": 2}
+{"count": 1905, "name": "Leitmotif", "weight": 0.0, "id": 120599106, "level": 2}
+{"count": 502, "name": "Homophony", "weight": 0.0, "id": 175610750, "level": 2}
+{"count": 293, "name": "Terminalia superba", "weight": 0.0, "id": 2779753577, "level": 2}
+{"count": 559, "name": "Sound studies", "weight": 0.0, "id": 2778706821, "level": 2}
+{"count": 1965, "name": "Distortion (music)", "weight": 0.0, "id": 126780896, "level": 2}
+{"count": 960, "name": "Acoustic signature", "weight": 0.0, "id": 2776558392, "level": 2}
+{"count": 918, "name": "Sound barrier", "weight": 0.0, "id": 42622562, "level": 2}
+{"count": 3653, "name": "Phonograph", "weight": 0.0, "id": 2778892661, "level": 2}
+{"count": 1080, "name": "Sound exposure", "weight": 0.0, "id": 2776532659, "level": 2}
+{"count": 759, "name": "Music of India", "weight": 0.0, "id": 32063984, "level": 2}
+{"count": 665, "name": "Ear training", "weight": 0.0, "id": 175556022, "level": 2}
+{"count": 439, "name": "Vocal effort", "weight": 0.0, "id": 2778686955, "level": 2}
+{"count": 1133, "name": "Audio time-scale/pitch modification", "weight": 0.0, "id": 3719324, "level": 2}
+{"count": 1132, "name": "Lecture hall", "weight": 0.0, "id": 2776568719, "level": 2}
+{"count": 628, "name": "Pitch class", "weight": 0.0, "id": 74511580, "level": 2}
+{"count": 105, "name": "Double-time", "weight": 0.0, "id": 187062135, "level": 2}
+{"count": 596, "name": "Interval (music)", "weight": 0.0, "id": 43340233, "level": 2}
+{"count": 788, "name": "Natural sounds", "weight": 0.0, "id": 2780646970, "level": 2}
+{"count": 2266, "name": "Sound energy", "weight": 0.0, "id": 126272718, "level": 2}
+{"count": 1561, "name": "Metronome", "weight": 0.0, "id": 100533687, "level": 2}
+{"count": 175, "name": "Fisheries acoustics", "weight": 0.0, "id": 2779572008, "level": 2}
+{"count": 245, "name": "Phase vocoder", "weight": 0.0, "id": 2777911883, "level": 2}
+{"count": 516, "name": "Combination tone", "weight": 0.0, "id": 129287678, "level": 2}
+{"count": 1157, "name": "Rapping", "weight": 0.0, "id": 2776385101, "level": 2}
+{"count": 444, "name": "Ear protection", "weight": 0.0, "id": 2779866930, "level": 2}
+{"count": 500, "name": "Spectral centroid", "weight": 0.0, "id": 2568260, "level": 2}
+{"count": 95, "name": "Acoustic cleaning", "weight": 0.0, "id": 2780456261, "level": 2}
+{"count": 256, "name": "Pitch interval", "weight": 0.0, "id": 2779056857, "level": 2}
+{"count": 881, "name": "Master class", "weight": 0.0, "id": 2776911219, "level": 2}
+{"count": 282, "name": "Musique concr\u00e8te", "weight": 0.0, "id": 51003651, "level": 2}
+{"count": 256, "name": "Acoustic camera", "weight": 0.0, "id": 2776723401, "level": 2}
+{"count": 12253, "name": "Ninth", "weight": 0.0, "id": 2776244770, "level": 2}
+{"count": 2303, "name": "Unison", "weight": 0.0, "id": 2780304638, "level": 2}
+{"count": 417, "name": "Structural level", "weight": 0.0, "id": 2780730321, "level": 2}

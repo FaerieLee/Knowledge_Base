@@ -1,0 +1,5 @@
+{"count": 2794, "name": "Method of steepest descent", "weight": 7.0, "id": 158847443, "level": 3}
+{"count": 3253, "name": "Stochastic gradient descent", "weight": 8.0, "id": 206688291, "level": 3}
+{"count": 1017, "name": "Proximal Gradient Methods", "weight": 2.0, "id": 10494615, "level": 3}
+{"count": 3792, "name": "Nonlinear conjugate gradient method", "weight": 10.0, "id": 26362088, "level": 3}
+{"count": 2994, "name": "Conjugate residual method", "weight": 7.0, "id": 91394653, "level": 3}

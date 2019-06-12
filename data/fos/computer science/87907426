@@ -1,0 +1,8 @@
+{"count": 4056, "name": "Non-volatile random-access memory", "weight": 10.0, "id": 34172316, "level": 5}
+{"count": 2687, "name": "Bubble memory", "weight": 6.0, "id": 73186725, "level": 5}
+{"count": 147, "name": "nvSRAM", "weight": 0.0, "id": 200625268, "level": 5}
+{"count": 851, "name": "Memory scrubbing", "weight": 2.0, "id": 194454742, "level": 5}
+{"count": 342, "name": "Nonvolatile BIOS memory", "weight": 0.0, "id": 98314846, "level": 5}
+{"count": 303, "name": "Nano-RAM", "weight": 0.0, "id": 8907595, "level": 5}
+{"count": 1044, "name": "Redundant array of independent memory", "weight": 2.0, "id": 100799343, "level": 5}
+{"count": 1017, "name": "Reading (computer)", "weight": 2.0, "id": 185413407, "level": 5}

@@ -1,0 +1,200 @@
+{"count": 108158, "name": "Profitability index", "weight": 3.0, "id": 129361004, "level": 2}
+{"count": 275164, "name": "Corporate governance", "weight": 10.0, "id": 39389867, "level": 2}
+{"count": 110392, "name": "Risk management", "weight": 4.0, "id": 32896092, "level": 2}
+{"count": 65176, "name": "Interest rate", "weight": 2.0, "id": 175025494, "level": 2}
+{"count": 60623, "name": "Exchange rate", "weight": 2.0, "id": 2776988154, "level": 2}
+{"count": 49314, "name": "Risk analysis (business)", "weight": 1.0, "id": 177912463, "level": 2}
+{"count": 33139, "name": "Stochastic modelling", "weight": 1.0, "id": 127491075, "level": 2}
+{"count": 50107, "name": "Financial market", "weight": 1.0, "id": 19244329, "level": 2}
+{"count": 26112, "name": "Transaction cost", "weight": 0.0, "id": 98965940, "level": 2}
+{"count": 53937, "name": "Stock market", "weight": 1.0, "id": 2780299701, "level": 2}
+{"count": 45144, "name": "Emerging markets", "weight": 1.0, "id": 121087249, "level": 2}
+{"count": 40834, "name": "Capital market", "weight": 1.0, "id": 143910263, "level": 2}
+{"count": 102600, "name": "Entrepreneurship", "weight": 3.0, "id": 84309077, "level": 2}
+{"count": 23653, "name": "Information asymmetry", "weight": 0.0, "id": 137577040, "level": 2}
+{"count": 52970, "name": "Multinational corporation", "weight": 1.0, "id": 158016649, "level": 2}
+{"count": 68386, "name": "Financial crisis", "weight": 2.0, "id": 2778300220, "level": 2}
+{"count": 20024, "name": "Risk aversion", "weight": 0.0, "id": 67986102, "level": 2}
+{"count": 18000, "name": "Rate of return", "weight": 0.0, "id": 86637286, "level": 2}
+{"count": 2739, "name": "Momentum (technical analysis)", "weight": 0.0, "id": 60718061, "level": 2}
+{"count": 20081, "name": "Derivative (finance)", "weight": 0.0, "id": 111771559, "level": 2}
+{"count": 108179, "name": "Valuation (finance)", "weight": 3.0, "id": 186027771, "level": 2}
+{"count": 38345, "name": "Financial services", "weight": 1.0, "id": 139043278, "level": 2}
+{"count": 11884, "name": "Financial intermediary", "weight": 0.0, "id": 65146658, "level": 2}
+{"count": 78030, "name": "Debt", "weight": 2.0, "id": 120527767, "level": 2}
+{"count": 24176, "name": "Cash flow", "weight": 0.0, "id": 163428354, "level": 2}
+{"count": 101468, "name": "Equity (finance)", "weight": 3.0, "id": 2776597285, "level": 2}
+{"count": 18754, "name": "Capital asset pricing model", "weight": 0.0, "id": 181236170, "level": 2}
+{"count": 56398, "name": "Volatility (finance)", "weight": 2.0, "id": 91602232, "level": 2}
+{"count": 29313, "name": "Financial management", "weight": 1.0, "id": 506796395, "level": 2}
+{"count": 30910, "name": "Market share", "weight": 1.0, "id": 16051113, "level": 2}
+{"count": 10907, "name": "Valuation of options", "weight": 0.0, "id": 194483076, "level": 2}
+{"count": 31760, "name": "Small business", "weight": 1.0, "id": 2777973936, "level": 2}
+{"count": 58032, "name": "Real estate", "weight": 2.0, "id": 82279013, "level": 2}
+{"count": 14644, "name": "Bond market", "weight": 0.0, "id": 197142791, "level": 2}
+{"count": 43493, "name": "Market liquidity", "weight": 1.0, "id": 183582576, "level": 2}
+{"count": 19029, "name": "Venture capital", "weight": 0.0, "id": 21279758, "level": 2}
+{"count": 10063, "name": "Present value", "weight": 0.0, "id": 6927289, "level": 2}
+{"count": 15331, "name": "Capital structure", "weight": 0.0, "id": 149933338, "level": 2}
+{"count": 21985, "name": "Credit risk", "weight": 0.0, "id": 178350159, "level": 2}
+{"count": 9793, "name": "Risk premium", "weight": 0.0, "id": 151541453, "level": 2}
+{"count": 50253, "name": "Bond", "weight": 1.0, "id": 69738904, "level": 2}
+{"count": 16608, "name": "Cost of capital", "weight": 0.0, "id": 74734477, "level": 2}
+{"count": 15265, "name": "Market value", "weight": 0.0, "id": 202552767, "level": 2}
+{"count": 11279, "name": "Conflict of interest", "weight": 0.0, "id": 2777276634, "level": 2}
+{"count": 9712, "name": "Corporate finance", "weight": 0.0, "id": 80515813, "level": 2}
+{"count": 56466, "name": "Stock exchange", "weight": 2.0, "id": 200870193, "level": 2}
+{"count": 38468, "name": "Annual report", "weight": 1.0, "id": 2778253041, "level": 2}
+{"count": 7239, "name": "Adverse selection", "weight": 0.0, "id": 32252159, "level": 2}
+{"count": 10600, "name": "Behavioral economics", "weight": 0.0, "id": 109574028, "level": 2}
+{"count": 20766, "name": "Market price", "weight": 0.0, "id": 64112148, "level": 2}
+{"count": 2751, "name": "Doubling time", "weight": 0.0, "id": 48900799, "level": 2}
+{"count": 15053, "name": "PEG ratio", "weight": 0.0, "id": 54400483, "level": 2}
+{"count": 19706, "name": "Financial risk", "weight": 0.0, "id": 76073288, "level": 2}
+{"count": 12643, "name": "International finance", "weight": 0.0, "id": 35278167, "level": 2}
+{"count": 14286, "name": "Initial public offering", "weight": 0.0, "id": 12559387, "level": 2}
+{"count": 25792, "name": "Bankruptcy", "weight": 0.0, "id": 504631918, "level": 2}
+{"count": 21307, "name": "Stock (geology)", "weight": 0.0, "id": 58341921, "level": 2}
+{"count": 7891, "name": "Mutual fund", "weight": 0.0, "id": 2777064782, "level": 2}
+{"count": 96362, "name": "General partnership", "weight": 3.0, "id": 71750763, "level": 2}
+{"count": 24548, "name": "Return on investment", "weight": 0.0, "id": 169549615, "level": 2}
+{"count": 8238, "name": "Event study", "weight": 0.0, "id": 12958728, "level": 2}
+{"count": 8623, "name": "Capital requirement", "weight": 0.0, "id": 2864544, "level": 2}
+{"count": 14625, "name": "Intellectual capital", "weight": 0.0, "id": 2780838347, "level": 2}
+{"count": 15574, "name": "Asset management", "weight": 0.0, "id": 2776517139, "level": 2}
+{"count": 8790, "name": "Net present value", "weight": 0.0, "id": 181230689, "level": 2}
+{"count": 6272, "name": "Reference data (financial markets)", "weight": 0.0, "id": 2780642237, "level": 2}
+{"count": 34583, "name": "Accounting information system", "weight": 1.0, "id": 163867264, "level": 2}
+{"count": 21323, "name": "Accounting standard", "weight": 0.0, "id": 128769094, "level": 2}
+{"count": 17345, "name": "Physical capital", "weight": 0.0, "id": 9127897, "level": 2}
+{"count": 59482, "name": "Earnings", "weight": 2.0, "id": 2781426361, "level": 2}
+{"count": 10443, "name": "Public\u2013private partnership", "weight": 0.0, "id": 2776553905, "level": 2}
+{"count": 7530, "name": "Security analysis", "weight": 0.0, "id": 38369872, "level": 2}
+{"count": 21083, "name": "Small and medium-sized enterprises", "weight": 0.0, "id": 48879800, "level": 2}
+{"count": 5639, "name": "Prospect theory", "weight": 0.0, "id": 339426, "level": 2}
+{"count": 116008, "name": "Revenue", "weight": 4.0, "id": 195487862, "level": 2}
+{"count": 12719, "name": "Enterprise value", "weight": 0.0, "id": 23032112, "level": 2}
+{"count": 4103, "name": "Deposit insurance", "weight": 0.0, "id": 2777817046, "level": 2}
+{"count": 3726, "name": "Incomplete markets", "weight": 0.0, "id": 109354906, "level": 2}
+{"count": 42198, "name": "Futures contract", "weight": 1.0, "id": 106306483, "level": 2}
+{"count": 59368, "name": "Liability", "weight": 2.0, "id": 2777834853, "level": 2}
+{"count": 24451, "name": "Financial analysis", "weight": 0.0, "id": 130731218, "level": 2}
+{"count": 8076, "name": "Value at risk", "weight": 0.0, "id": 94128290, "level": 2}
+{"count": 108614, "name": "Payment", "weight": 3.0, "id": 145097563, "level": 2}
+{"count": 15885, "name": "Balance sheet", "weight": 0.0, "id": 183206440, "level": 2}
+{"count": 3908, "name": "Access to finance", "weight": 0.0, "id": 2780082420, "level": 2}
+{"count": 83161, "name": "Portfolio", "weight": 3.0, "id": 2780821815, "level": 2}
+{"count": 64627, "name": "Restructuring", "weight": 2.0, "id": 45237549, "level": 2}
+{"count": 6473, "name": "Systematic risk", "weight": 0.0, "id": 80212096, "level": 2}
+{"count": 9321, "name": "Credit rating", "weight": 0.0, "id": 205208723, "level": 2}
+{"count": 8705, "name": "Systemic risk", "weight": 0.0, "id": 144587487, "level": 2}
+{"count": 6058, "name": "Market risk", "weight": 0.0, "id": 73858035, "level": 2}
+{"count": 51762, "name": "Loan", "weight": 1.0, "id": 2777764128, "level": 2}
+{"count": 49519, "name": "Leverage (finance)", "weight": 1.0, "id": 81931697, "level": 2}
+{"count": 19995, "name": "Hedge (finance)", "weight": 0.0, "id": 130005797, "level": 2}
+{"count": 7192, "name": "Hedge fund", "weight": 0.0, "id": 204434749, "level": 2}
+{"count": 14096, "name": "Investment strategy", "weight": 0.0, "id": 103144560, "level": 2}
+{"count": 5909, "name": "Abnormal return", "weight": 0.0, "id": 2777601474, "level": 2}
+{"count": 21855, "name": "Dividend", "weight": 0.0, "id": 116168712, "level": 2}
+{"count": 8714, "name": "Investment banking", "weight": 0.0, "id": 15241564, "level": 2}
+{"count": 2742, "name": "Bank regulation", "weight": 0.0, "id": 2778660980, "level": 2}
+{"count": 7589, "name": "Capital budgeting", "weight": 0.0, "id": 57918260, "level": 2}
+{"count": 12251, "name": "Return on assets", "weight": 0.0, "id": 185669311, "level": 2}
+{"count": 6524, "name": "Scenario analysis", "weight": 0.0, "id": 18785705, "level": 2}
+{"count": 4087, "name": "Risk measure", "weight": 0.0, "id": 2781472820, "level": 2}
+{"count": 41239, "name": "Beta (finance)", "weight": 1.0, "id": 102289811, "level": 2}
+{"count": 6724, "name": "Capital expenditure", "weight": 0.0, "id": 172497479, "level": 2}
+{"count": 7767, "name": "Expiration", "weight": 0.0, "id": 2776164194, "level": 2}
+{"count": 24470, "name": "Beneficiary", "weight": 0.0, "id": 26869875, "level": 2}
+{"count": 13214, "name": "Financial regulation", "weight": 0.0, "id": 510755694, "level": 2}
+{"count": 1723, "name": "Over-the-counter", "weight": 0.0, "id": 2777988657, "level": 2}
+{"count": 17004, "name": "Collateral", "weight": 0.0, "id": 2777910564, "level": 2}
+{"count": 4589, "name": "Financial integration", "weight": 0.0, "id": 2780615719, "level": 2}
+{"count": 9065, "name": "Financial instrument", "weight": 0.0, "id": 191654821, "level": 2}
+{"count": 1772, "name": "Financial sector development", "weight": 0.0, "id": 2777747085, "level": 2}
+{"count": 13049, "name": "Arbitrage", "weight": 0.0, "id": 160623529, "level": 2}
+{"count": 43450, "name": "Pension", "weight": 1.0, "id": 2780899237, "level": 2}
+{"count": 8963, "name": "Working capital", "weight": 0.0, "id": 60679458, "level": 2}
+{"count": 3406, "name": "Mean reversion", "weight": 0.0, "id": 135205223, "level": 2}
+{"count": 13753, "name": "Creditor", "weight": 0.0, "id": 159091798, "level": 2}
+{"count": 12445, "name": "Capital adequacy ratio", "weight": 0.0, "id": 16969640, "level": 2}
+{"count": 60249, "name": "Commodity", "weight": 2.0, "id": 2779439359, "level": 2}
+{"count": 13986, "name": "Mergers and acquisitions", "weight": 0.0, "id": 548217281, "level": 2}
+{"count": 2957, "name": "Intangible asset", "weight": 0.0, "id": 2778380070, "level": 2}
+{"count": 2660, "name": "Time preference", "weight": 0.0, "id": 178562925, "level": 2}
+{"count": 7414, "name": "Trading strategy", "weight": 0.0, "id": 131562839, "level": 2}
+{"count": 2184, "name": "Wealth effect", "weight": 0.0, "id": 2776149234, "level": 2}
+{"count": 20897, "name": "Financial ratio", "weight": 0.0, "id": 98014903, "level": 2}
+{"count": 15330, "name": "Remuneration", "weight": 0.0, "id": 2777488495, "level": 2}
+{"count": 10368, "name": "Financial plan", "weight": 0.0, "id": 70179600, "level": 2}
+{"count": 5131, "name": "Black\u2013Scholes model", "weight": 0.0, "id": 163128081, "level": 2}
+{"count": 9130, "name": "Fixed asset", "weight": 0.0, "id": 30472729, "level": 2}
+{"count": 7349, "name": "Private equity", "weight": 0.0, "id": 71110296, "level": 2}
+{"count": 6231, "name": "Internal rate of return", "weight": 0.0, "id": 37917861, "level": 2}
+{"count": 10970, "name": "Discounting", "weight": 0.0, "id": 6177178, "level": 2}
+{"count": 6300, "name": "Limited liability", "weight": 0.0, "id": 141570072, "level": 2}
+{"count": 4569, "name": "Insider trading", "weight": 0.0, "id": 2781078320, "level": 2}
+{"count": 3795, "name": "Secondary market", "weight": 0.0, "id": 90994476, "level": 2}
+{"count": 2693, "name": "Time consistency", "weight": 0.0, "id": 11534374, "level": 2}
+{"count": 3645, "name": "Financial innovation", "weight": 0.0, "id": 2777064627, "level": 2}
+{"count": 1933, "name": "Capital gain", "weight": 0.0, "id": 2777782279, "level": 2}
+{"count": 2854, "name": "Trade credit", "weight": 0.0, "id": 2776825449, "level": 2}
+{"count": 2227, "name": "Country risk", "weight": 0.0, "id": 2775997200, "level": 2}
+{"count": 12849, "name": "Fiscal year", "weight": 0.0, "id": 2779999868, "level": 2}
+{"count": 15619, "name": "Investment decisions", "weight": 0.0, "id": 2778865806, "level": 2}
+{"count": 4582, "name": "Capital account", "weight": 0.0, "id": 32768728, "level": 2}
+{"count": 12599, "name": "Market microstructure", "weight": 0.0, "id": 51926234, "level": 2}
+{"count": 8027, "name": "Fair value", "weight": 0.0, "id": 63149375, "level": 2}
+{"count": 1708, "name": "Bank failure", "weight": 0.0, "id": 2776922315, "level": 2}
+{"count": 2453, "name": "Option value", "weight": 0.0, "id": 2780973918, "level": 2}
+{"count": 1498, "name": "Tobin's q", "weight": 0.0, "id": 8901936, "level": 2}
+{"count": 18341, "name": "Factor market", "weight": 0.0, "id": 195534400, "level": 2}
+{"count": 18661, "name": "Speculation", "weight": 0.0, "id": 47941915, "level": 2}
+{"count": 15121, "name": "Retail banking", "weight": 0.0, "id": 156152238, "level": 2}
+{"count": 4760, "name": "Self-help", "weight": 0.0, "id": 2781259832, "level": 2}
+{"count": 2737, "name": "External financing", "weight": 0.0, "id": 2778776786, "level": 2}
+{"count": 6338, "name": "Technical analysis", "weight": 0.0, "id": 117245426, "level": 2}
+{"count": 2862, "name": "Savings account", "weight": 0.0, "id": 103565092, "level": 2}
+{"count": 9791, "name": "Security management", "weight": 0.0, "id": 83163435, "level": 2}
+{"count": 11533, "name": "Return on equity", "weight": 0.0, "id": 155530773, "level": 2}
+{"count": 1894, "name": "Market discipline", "weight": 0.0, "id": 2781251770, "level": 2}
+{"count": 12373, "name": "Credit crunch", "weight": 0.0, "id": 180879305, "level": 2}
+{"count": 65310, "name": "Corporation", "weight": 2.0, "id": 2778348171, "level": 2}
+{"count": 21548, "name": "Insurance policy", "weight": 0.0, "id": 68799949, "level": 2}
+{"count": 3725, "name": "Project finance", "weight": 0.0, "id": 2780278329, "level": 2}
+{"count": 9629, "name": "Overhead (business)", "weight": 0.0, "id": 140582190, "level": 2}
+{"count": 8719, "name": "Financial institution", "weight": 0.0, "id": 2779601481, "level": 2}
+{"count": 3325, "name": "Capitalization", "weight": 0.0, "id": 2779137862, "level": 2}
+{"count": 13336, "name": "Depreciation", "weight": 0.0, "id": 86336370, "level": 2}
+{"count": 1658, "name": "Capital allocation line", "weight": 0.0, "id": 138142054, "level": 2}
+{"count": 3679, "name": "Reserve requirement", "weight": 0.0, "id": 150149615, "level": 2}
+{"count": 4381, "name": "Investment policy", "weight": 0.0, "id": 2779228913, "level": 2}
+{"count": 1880, "name": "Bank run", "weight": 0.0, "id": 94866938, "level": 2}
+{"count": 5889, "name": "Financial literacy", "weight": 0.0, "id": 2777941463, "level": 2}
+{"count": 3918, "name": "Mathematical finance", "weight": 0.0, "id": 93373587, "level": 2}
+{"count": 2407, "name": "Net worth", "weight": 0.0, "id": 2778770122, "level": 2}
+{"count": 13527, "name": "Lien", "weight": 0.0, "id": 198004926, "level": 2}
+{"count": 6815, "name": "Money laundering", "weight": 0.0, "id": 2780005421, "level": 2}
+{"count": 2352, "name": "Market timing", "weight": 0.0, "id": 118315980, "level": 2}
+{"count": 5011, "name": "Money market", "weight": 0.0, "id": 23952128, "level": 2}
+{"count": 8648, "name": "Investment management", "weight": 0.0, "id": 189188589, "level": 2}
+{"count": 6289, "name": "Securitization", "weight": 0.0, "id": 2780619108, "level": 2}
+{"count": 2958, "name": "Free cash flow", "weight": 0.0, "id": 2780334105, "level": 2}
+{"count": 11729, "name": "Insolvency", "weight": 0.0, "id": 4163816, "level": 2}
+{"count": 14971, "name": "Treasury", "weight": 0.0, "id": 2780889827, "level": 2}
+{"count": 3983, "name": "Transfer pricing", "weight": 0.0, "id": 2777203310, "level": 2}
+{"count": 9540, "name": "Intermediary", "weight": 0.0, "id": 139569457, "level": 2}
+{"count": 5598, "name": "Sustainable growth rate", "weight": 0.0, "id": 134632028, "level": 2}
+{"count": 1410, "name": "Financial fragility", "weight": 0.0, "id": 2781332510, "level": 2}
+{"count": 2099, "name": "Financial asset", "weight": 0.0, "id": 2778705799, "level": 2}
+{"count": 3396, "name": "Profit sharing", "weight": 0.0, "id": 2777661119, "level": 2}
+{"count": 8973, "name": "Default", "weight": 0.0, "id": 69637215, "level": 2}
+{"count": 1007, "name": "Complete market", "weight": 0.0, "id": 136969773, "level": 2}
+{"count": 2984, "name": "Financial engineering", "weight": 0.0, "id": 84749600, "level": 2}
+{"count": 7130, "name": "Solvency", "weight": 0.0, "id": 2778215004, "level": 2}
+{"count": 6267, "name": "Investment fund", "weight": 0.0, "id": 36588987, "level": 2}
+{"count": 4183, "name": "Overconfidence effect", "weight": 0.0, "id": 51110983, "level": 2}
+{"count": 30311, "name": "Added value", "weight": 1.0, "id": 78244369, "level": 2}
+{"count": 9666, "name": "Business plan", "weight": 0.0, "id": 2778320157, "level": 2}
+{"count": 4861, "name": "Factoring", "weight": 0.0, "id": 177225278, "level": 2}
+{"count": 10282, "name": "Butterfly", "weight": 0.0, "id": 2778605236, "level": 2}

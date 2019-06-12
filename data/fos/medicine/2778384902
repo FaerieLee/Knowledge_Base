@@ -1,0 +1,11 @@
+{"count": 26093, "name": "Septic shock", "weight": 10.0, "id": 2777628635, "level": 3}
+{"count": 7608, "name": "Systemic inflammatory response syndrome", "weight": 2.0, "id": 2781090800, "level": 3}
+{"count": 4099, "name": "Multiple organ dysfunction syndrome", "weight": 1.0, "id": 2780835948, "level": 3}
+{"count": 7066, "name": "Procalcitonin", "weight": 2.0, "id": 10936531, "level": 3}
+{"count": 5456, "name": "Neonatal sepsis", "weight": 2.0, "id": 2775953899, "level": 3}
+{"count": 7713, "name": "Organ dysfunction", "weight": 2.0, "id": 2778426790, "level": 3}
+{"count": 721, "name": "Drotrecogin alfa", "weight": 0.0, "id": 2778005785, "level": 3}
+{"count": 1355, "name": "SOFA score", "weight": 0.0, "id": 2777465075, "level": 3}
+{"count": 347, "name": "Capnocytophaga canimorsus", "weight": 0.0, "id": 2781458480, "level": 3}
+{"count": 9, "name": "Pagibaximab", "weight": 0.0, "id": 2779476972, "level": 3}
+{"count": 50, "name": "Sepsis Six", "weight": 0.0, "id": 2779977439, "level": 3}

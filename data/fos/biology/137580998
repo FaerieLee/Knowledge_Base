@@ -1,0 +1,52 @@
+{"count": 12996, "name": "Cropping system", "weight": 8.0, "id": 2776394811, "level": 3}
+{"count": 16188, "name": "Crop rotation", "weight": 10.0, "id": 175760724, "level": 3}
+{"count": 11442, "name": "Cover crop", "weight": 7.0, "id": 34070608, "level": 3}
+{"count": 9122, "name": "Green manure", "weight": 5.0, "id": 190638079, "level": 3}
+{"count": 15381, "name": "Intercropping", "weight": 9.0, "id": 2781208722, "level": 3}
+{"count": 4814, "name": "Cultural methods", "weight": 2.0, "id": 2776596991, "level": 3}
+{"count": 1077, "name": "Industrial crop", "weight": 0.0, "id": 2780601159, "level": 3}
+{"count": 4938, "name": "Tropical agriculture", "weight": 3.0, "id": 63651461, "level": 3}
+{"count": 5742, "name": "Cash crop", "weight": 3.0, "id": 129225989, "level": 3}
+{"count": 2614, "name": "Pome", "weight": 1.0, "id": 143108565, "level": 3}
+{"count": 3415, "name": "Multiple cropping", "weight": 2.0, "id": 93990901, "level": 3}
+{"count": 2706, "name": "Crop coefficient", "weight": 1.0, "id": 72551326, "level": 3}
+{"count": 709, "name": "Crop simulation model", "weight": 0.0, "id": 2777106113, "level": 3}
+{"count": 15943, "name": "Crop protection", "weight": 9.0, "id": 532801124, "level": 3}
+{"count": 4974, "name": "Staple food", "weight": 3.0, "id": 2779249804, "level": 3}
+{"count": 193, "name": "2,4-DB", "weight": 0.0, "id": 2780702041, "level": 3}
+{"count": 870, "name": "Camelina sativa", "weight": 0.0, "id": 2776333875, "level": 3}
+{"count": 417, "name": "Strip farming", "weight": 0.0, "id": 81374680, "level": 3}
+{"count": 758, "name": "DSSAT", "weight": 0.0, "id": 2777399377, "level": 3}
+{"count": 930, "name": "Ratooning", "weight": 0.0, "id": 2777549804, "level": 3}
+{"count": 917, "name": "Yield gap", "weight": 0.0, "id": 2778361644, "level": 3}
+{"count": 1068, "name": "Crop diversity", "weight": 0.0, "id": 1924315, "level": 3}
+{"count": 2643, "name": "Cultivated plant taxonomy", "weight": 1.0, "id": 201796137, "level": 3}
+{"count": 526, "name": "Ideotype", "weight": 0.0, "id": 2777350813, "level": 3}
+{"count": 503, "name": "Mechanical weed control", "weight": 0.0, "id": 2777042369, "level": 3}
+{"count": 324, "name": "Market garden", "weight": 0.0, "id": 2779721173, "level": 3}
+{"count": 444, "name": "Phalaris minor", "weight": 0.0, "id": 2775888576, "level": 3}
+{"count": 163, "name": "Chloroxuron", "weight": 0.0, "id": 2776272472, "level": 3}
+{"count": 634, "name": "Winter cereal", "weight": 0.0, "id": 2776404776, "level": 3}
+{"count": 6623, "name": "Kharif crop", "weight": 4.0, "id": 153136566, "level": 3}
+{"count": 220, "name": "Roguing", "weight": 0.0, "id": 29808227, "level": 3}
+{"count": 84, "name": "Methazole", "weight": 0.0, "id": 2779522515, "level": 3}
+{"count": 135, "name": "Crop wild relative", "weight": 0.0, "id": 2777061799, "level": 3}
+{"count": 51, "name": "Polyscytalum pustulans", "weight": 0.0, "id": 2776787485, "level": 3}
+{"count": 2474, "name": "Forage (honey bee)", "weight": 1.0, "id": 131343027, "level": 3}
+{"count": 234, "name": "Companion planting", "weight": 0.0, "id": 11049808, "level": 3}
+{"count": 49, "name": "Melanotus communis", "weight": 0.0, "id": 2780385750, "level": 3}
+{"count": 78, "name": "Perennial grain", "weight": 0.0, "id": 2777146703, "level": 3}
+{"count": 82, "name": "Protein crop", "weight": 0.0, "id": 2776417849, "level": 3}
+{"count": 77, "name": "Tropical horticulture", "weight": 0.0, "id": 29259725, "level": 3}
+{"count": 419, "name": "Crop weed", "weight": 0.0, "id": 2777944067, "level": 3}
+{"count": 28, "name": "Eddoe", "weight": 0.0, "id": 2781046904, "level": 3}
+{"count": 83, "name": "Serpentine leaf miner", "weight": 0.0, "id": 2779281095, "level": 3}
+{"count": 65, "name": "African nightshade", "weight": 0.0, "id": 2777647886, "level": 3}
+{"count": 44, "name": "Crop reports", "weight": 0.0, "id": 2776548381, "level": 3}
+{"count": 23, "name": "Alternaria japonica", "weight": 0.0, "id": 2776064525, "level": 3}
+{"count": 25, "name": "Azoth", "weight": 0.0, "id": 156048824, "level": 3}
+{"count": 42, "name": "Acephala group", "weight": 0.0, "id": 2776007749, "level": 3}
+{"count": 562, "name": "Bumper crop", "weight": 0.0, "id": 123917164, "level": 3}
+{"count": 30, "name": "Perennial vegetable", "weight": 0.0, "id": 2778161507, "level": 3}
+{"count": 24, "name": "Perennial sunflower", "weight": 0.0, "id": 2778819078, "level": 3}
+{"count": 213, "name": "Soybean management practices", "weight": 0.0, "id": 26785111, "level": 3}

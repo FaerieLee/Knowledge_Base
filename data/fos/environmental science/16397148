@@ -1,0 +1,9 @@
+{"count": 6397, "name": "Conventional tillage", "weight": 10.0, "id": 2780696901, "level": 3}
+{"count": 5360, "name": "Minimum tillage", "weight": 8.0, "id": 169684477, "level": 3}
+{"count": 538, "name": "Tilth", "weight": 0.0, "id": 2779004245, "level": 3}
+{"count": 823, "name": "Summer fallow", "weight": 1.0, "id": 108738950, "level": 3}
+{"count": 121, "name": "Stubble-mulching", "weight": 0.0, "id": 2780948830, "level": 3}
+{"count": 742, "name": "Subsoiler", "weight": 1.0, "id": 2780339060, "level": 3}
+{"count": 366, "name": "Disc harrow", "weight": 0.0, "id": 2780179066, "level": 3}
+{"count": 100, "name": "Tractor vaporising oil", "weight": 0.0, "id": 136859436, "level": 3}
+{"count": 213, "name": "Soybean management practices", "weight": 0.0, "id": 26785111, "level": 3}

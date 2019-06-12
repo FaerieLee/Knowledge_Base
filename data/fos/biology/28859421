@@ -1,0 +1,54 @@
+{"count": 7182, "name": "Cellular respiration", "weight": 6.0, "id": 66517615, "level": 3}
+{"count": 4199, "name": "Succinate dehydrogenase", "weight": 3.0, "id": 2781330172, "level": 3}
+{"count": 5979, "name": "Mitochondrial permeability transition pore", "weight": 5.0, "id": 13591479, "level": 3}
+{"count": 3729, "name": "Uncoupling protein", "weight": 3.0, "id": 2779406938, "level": 3}
+{"count": 5744, "name": "Bioenergetics", "weight": 5.0, "id": 100206155, "level": 3}
+{"count": 2081, "name": "NADH dehydrogenase", "weight": 1.0, "id": 2776319529, "level": 3}
+{"count": 1731, "name": "Voltage-dependent anion channel", "weight": 1.0, "id": 200784783, "level": 3}
+{"count": 1670, "name": "Alternative oxidase", "weight": 1.0, "id": 2778858093, "level": 3}
+{"count": 783, "name": "Adenine nucleotide translocator", "weight": 0.0, "id": 2776024035, "level": 3}
+{"count": 1280, "name": "Rhodamine 123", "weight": 1.0, "id": 2778589691, "level": 3}
+{"count": 5301, "name": "Mitochondrial biogenesis", "weight": 4.0, "id": 2777229759, "level": 3}
+{"count": 10919, "name": "Inner mitochondrial membrane", "weight": 10.0, "id": 75385678, "level": 3}
+{"count": 1291, "name": "Antimycin A", "weight": 1.0, "id": 2779965811, "level": 3}
+{"count": 137, "name": "Carbonyl cyanide-p-trifluoromethoxyphenylhydrazone", "weight": 0.0, "id": 2778257359, "level": 3}
+{"count": 1231, "name": "Frataxin", "weight": 1.0, "id": 2779314966, "level": 3}
+{"count": 1259, "name": "Mitochondrial toxicity", "weight": 1.0, "id": 2777071529, "level": 3}
+{"count": 2846, "name": "Mitochondrial fission", "weight": 2.0, "id": 17619807, "level": 3}
+{"count": 2248, "name": "Translocase", "weight": 2.0, "id": 113035283, "level": 3}
+{"count": 1182, "name": "SIRT3", "weight": 1.0, "id": 138488276, "level": 3}
+{"count": 319, "name": "MitoQ", "weight": 0.0, "id": 2778382254, "level": 3}
+{"count": 336, "name": "Outer mitochondrial membrane", "weight": 0.0, "id": 2777718158, "level": 3}
+{"count": 318, "name": "Mersalyl", "weight": 0.0, "id": 2779006622, "level": 3}
+{"count": 769, "name": "Protonophore", "weight": 0.0, "id": 2780397019, "level": 3}
+{"count": 2192, "name": "Mitochondrial matrix", "weight": 2.0, "id": 11701378, "level": 3}
+{"count": 266, "name": "Mitochondrial processing peptidase", "weight": 0.0, "id": 2778035894, "level": 3}
+{"count": 76, "name": "Archezoa", "weight": 0.0, "id": 2778887310, "level": 3}
+{"count": 737, "name": "Uniporter", "weight": 0.0, "id": 35341161, "level": 3}
+{"count": 230, "name": "RoGFP", "weight": 0.0, "id": 44953482, "level": 3}
+{"count": 2433, "name": "Mitochondrial ROS", "weight": 2.0, "id": 2778175917, "level": 3}
+{"count": 137, "name": "Mitochondrial calcium uniporter", "weight": 0.0, "id": 2779402996, "level": 3}
+{"count": 179, "name": "Megamitochondria", "weight": 0.0, "id": 2780567864, "level": 3}
+{"count": 167, "name": "Reverse electron flow", "weight": 0.0, "id": 197961591, "level": 3}
+{"count": 318, "name": "TRX2", "weight": 0.0, "id": 2779362410, "level": 3}
+{"count": 76, "name": "Phenoptosis", "weight": 0.0, "id": 2777919221, "level": 3}
+{"count": 160, "name": "NDUFS4", "weight": 0.0, "id": 2779553704, "level": 3}
+{"count": 155, "name": "COX17", "weight": 0.0, "id": 2780023372, "level": 3}
+{"count": 142, "name": "LETM1", "weight": 0.0, "id": 2778151529, "level": 3}
+{"count": 68, "name": "NDUFS2", "weight": 0.0, "id": 2778227544, "level": 3}
+{"count": 50, "name": "NDUFA9", "weight": 0.0, "id": 2780421132, "level": 3}
+{"count": 96, "name": "NDUFV1", "weight": 0.0, "id": 2779422512, "level": 3}
+{"count": 38, "name": "STARD7", "weight": 0.0, "id": 2779841300, "level": 3}
+{"count": 41, "name": "COX4I1", "weight": 0.0, "id": 2781274309, "level": 3}
+{"count": 14, "name": "NDUFB10", "weight": 0.0, "id": 2779029705, "level": 3}
+{"count": 34, "name": "COX4I2", "weight": 0.0, "id": 2780253871, "level": 3}
+{"count": 22, "name": "NDUFB6", "weight": 0.0, "id": 2778686509, "level": 3}
+{"count": 28, "name": "NDUFS7", "weight": 0.0, "id": 2778506014, "level": 3}
+{"count": 28, "name": "Hydrogen hypothesis", "weight": 0.0, "id": 2778364142, "level": 3}
+{"count": 35, "name": "NDUFA4", "weight": 0.0, "id": 2776671043, "level": 3}
+{"count": 18, "name": "AIFM2", "weight": 0.0, "id": 2777554393, "level": 3}
+{"count": 40, "name": "NDUFA10", "weight": 0.0, "id": 2778574900, "level": 3}
+{"count": 20, "name": "NDUFC2", "weight": 0.0, "id": 2777023082, "level": 3}
+{"count": 25, "name": "Ammonium malate", "weight": 0.0, "id": 2777645987, "level": 3}
+{"count": 88, "name": "COX5A", "weight": 0.0, "id": 2776718629, "level": 3}
+{"count": 31, "name": "SLC25A3", "weight": 0.0, "id": 2775989762, "level": 3}

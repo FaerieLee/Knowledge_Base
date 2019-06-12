@@ -1,0 +1,193 @@
+{"count": 30144, "name": "El Ni\u00f1o", "weight": 1.0, "id": 986699, "level": 2}
+{"count": 38487, "name": "Seasonality", "weight": 1.0, "id": 125403950, "level": 2}
+{"count": 204004, "name": "Precipitation", "weight": 10.0, "id": 107054158, "level": 2}
+{"count": 22636, "name": "Carbon cycle", "weight": 1.0, "id": 6939412, "level": 2}
+{"count": 25139, "name": "Atmospheric model", "weight": 1.0, "id": 118365302, "level": 2}
+{"count": 41828, "name": "Troposphere", "weight": 2.0, "id": 9075549, "level": 2}
+{"count": 41724, "name": "Sea level", "weight": 2.0, "id": 74501621, "level": 2}
+{"count": 23022, "name": "Northern Hemisphere", "weight": 1.0, "id": 2778835443, "level": 2}
+{"count": 19901, "name": "Atmospheric circulation", "weight": 0.0, "id": 150284090, "level": 2}
+{"count": 36034, "name": "Sea surface temperature", "weight": 1.0, "id": 134097258, "level": 2}
+{"count": 21534, "name": "Southern Hemisphere", "weight": 1.0, "id": 2777252438, "level": 2}
+{"count": 21270, "name": "Diurnal temperature variation", "weight": 1.0, "id": 167678106, "level": 2}
+{"count": 26960, "name": "Stratosphere", "weight": 1.0, "id": 163861444, "level": 2}
+{"count": 24200, "name": "Ocean current", "weight": 1.0, "id": 187599188, "level": 2}
+{"count": 33587, "name": "Sea ice", "weight": 1.0, "id": 136894858, "level": 2}
+{"count": 14463, "name": "Atmospheric temperature", "weight": 0.0, "id": 607359, "level": 2}
+{"count": 16275, "name": "Mixed layer", "weight": 0.0, "id": 122120755, "level": 2}
+{"count": 23343, "name": "Ice sheet", "weight": 1.0, "id": 123750103, "level": 2}
+{"count": 20353, "name": "Data assimilation", "weight": 0.0, "id": 24552861, "level": 2}
+{"count": 15298, "name": "Water mass", "weight": 0.0, "id": 140302290, "level": 2}
+{"count": 18955, "name": "Tropical cyclone", "weight": 0.0, "id": 29141058, "level": 2}
+{"count": 12306, "name": "Ice core", "weight": 0.0, "id": 205325660, "level": 2}
+{"count": 9679, "name": "Dendrochronology", "weight": 0.0, "id": 18678713, "level": 2}
+{"count": 19474, "name": "Upwelling", "weight": 0.0, "id": 149348798, "level": 2}
+{"count": 4415, "name": "Annual cycle", "weight": 0.0, "id": 114148465, "level": 2}
+{"count": 13367, "name": "Weather forecasting", "weight": 0.0, "id": 21001229, "level": 2}
+{"count": 25576, "name": "Mesoscale meteorology", "weight": 1.0, "id": 40382383, "level": 2}
+{"count": 7590, "name": "North Atlantic oscillation", "weight": 0.0, "id": 17093552, "level": 2}
+{"count": 13630, "name": "Thermohaline circulation", "weight": 0.0, "id": 78091846, "level": 2}
+{"count": 8423, "name": "Eddy covariance", "weight": 0.0, "id": 35187779, "level": 2}
+{"count": 14243, "name": "Altimeter", "weight": 0.0, "id": 17534553, "level": 2}
+{"count": 10673, "name": "Middle latitudes", "weight": 0.0, "id": 18101618, "level": 2}
+{"count": 4538, "name": "Tropical climate", "weight": 0.0, "id": 2776172968, "level": 2}
+{"count": 1913, "name": "Trend surface analysis", "weight": 0.0, "id": 2781067393, "level": 2}
+{"count": 9975, "name": "Urban heat island", "weight": 0.0, "id": 54005896, "level": 2}
+{"count": 5233, "name": "Diurnal cycle", "weight": 0.0, "id": 63991900, "level": 2}
+{"count": 3438, "name": "Empirical orthogonal functions", "weight": 0.0, "id": 13724139, "level": 2}
+{"count": 11604, "name": "Thunderstorm", "weight": 0.0, "id": 80316258, "level": 2}
+{"count": 9453, "name": "Thermocline", "weight": 0.0, "id": 105824904, "level": 2}
+{"count": 8454, "name": "Physical oceanography", "weight": 0.0, "id": 60500638, "level": 2}
+{"count": 5982, "name": "Rossby wave", "weight": 0.0, "id": 145151356, "level": 2}
+{"count": 12993, "name": "Hydrography", "weight": 0.0, "id": 76256466, "level": 2}
+{"count": 31215, "name": "Cyclone", "weight": 1.0, "id": 160565873, "level": 2}
+{"count": 9594, "name": "Numerical weather prediction", "weight": 0.0, "id": 147947694, "level": 2}
+{"count": 12674, "name": "Air mass", "weight": 0.0, "id": 142669682, "level": 2}
+{"count": 4370, "name": "Synoptic scale meteorology", "weight": 0.0, "id": 41524352, "level": 2}
+{"count": 3986, "name": "Ocean color", "weight": 0.0, "id": 2776939893, "level": 2}
+{"count": 15111, "name": "Boreal", "weight": 0.0, "id": 100537666, "level": 2}
+{"count": 17168, "name": "Proxy (climate)", "weight": 0.0, "id": 106166403, "level": 2}
+{"count": 2288, "name": "Regime shift", "weight": 0.0, "id": 2780893879, "level": 2}
+{"count": 4995, "name": "Forecast skill", "weight": 0.0, "id": 170061395, "level": 2}
+{"count": 6441, "name": "Return period", "weight": 0.0, "id": 75007070, "level": 2}
+{"count": 775, "name": "Biometeorology", "weight": 0.0, "id": 197534560, "level": 2}
+{"count": 6572, "name": "Gulf Stream", "weight": 0.0, "id": 120221134, "level": 2}
+{"count": 4631, "name": "Sea breeze", "weight": 0.0, "id": 63974104, "level": 2}
+{"count": 26337, "name": "Subtropics", "weight": 1.0, "id": 14168384, "level": 2}
+{"count": 2177, "name": "Arctic oscillation", "weight": 0.0, "id": 14932015, "level": 2}
+{"count": 2133, "name": "Potential temperature", "weight": 0.0, "id": 199641428, "level": 2}
+{"count": 684, "name": "Bioclimatology", "weight": 0.0, "id": 93707483, "level": 2}
+{"count": 1544, "name": "Polar front", "weight": 0.0, "id": 83133772, "level": 2}
+{"count": 13716, "name": "Typhoon", "weight": 0.0, "id": 181654704, "level": 2}
+{"count": 2723, "name": "Kelvin wave", "weight": 0.0, "id": 73421765, "level": 2}
+{"count": 2042, "name": "Geophysical fluid dynamics", "weight": 0.0, "id": 145290371, "level": 2}
+{"count": 5739, "name": "Oceanic basin", "weight": 0.0, "id": 20364790, "level": 2}
+{"count": 11576, "name": "Equator", "weight": 0.0, "id": 12980444, "level": 2}
+{"count": 11057, "name": "Baroclinity", "weight": 0.0, "id": 53631411, "level": 2}
+{"count": 8622, "name": "Radiosonde", "weight": 0.0, "id": 11999413, "level": 2}
+{"count": 2755, "name": "Acoustic Doppler current profiler", "weight": 0.0, "id": 2779365185, "level": 2}
+{"count": 4735, "name": "Ensemble forecasting", "weight": 0.0, "id": 119898033, "level": 2}
+{"count": 4423, "name": "Jet stream", "weight": 0.0, "id": 162164538, "level": 2}
+{"count": 7485, "name": "Geostrophic wind", "weight": 0.0, "id": 133877212, "level": 2}
+{"count": 1491, "name": "Oxygen minimum zone", "weight": 0.0, "id": 2780134711, "level": 2}
+{"count": 1377, "name": "Semi-arid climate", "weight": 0.0, "id": 117021838, "level": 2}
+{"count": 1880, "name": "Stratification (water)", "weight": 0.0, "id": 108835778, "level": 2}
+{"count": 9391, "name": "Wind stress", "weight": 0.0, "id": 100858432, "level": 2}
+{"count": 1307, "name": "Milankovitch cycles", "weight": 0.0, "id": 178100555, "level": 2}
+{"count": 9500, "name": "Weather Research and Forecasting Model", "weight": 0.0, "id": 133204551, "level": 2}
+{"count": 516, "name": "Sea air", "weight": 0.0, "id": 2777167357, "level": 2}
+{"count": 1464, "name": "Trade wind", "weight": 0.0, "id": 137462672, "level": 2}
+{"count": 2146, "name": "Pycnocline", "weight": 0.0, "id": 128963330, "level": 2}
+{"count": 2684, "name": "SeaWiFS", "weight": 0.0, "id": 117082904, "level": 2}
+{"count": 6116, "name": "Warm front", "weight": 0.0, "id": 83404686, "level": 2}
+{"count": 3464, "name": "Geopotential", "weight": 0.0, "id": 160121416, "level": 2}
+{"count": 1354, "name": "Automatic weather station", "weight": 0.0, "id": 2779395273, "level": 2}
+{"count": 402, "name": "Dynamic height", "weight": 0.0, "id": 119016455, "level": 2}
+{"count": 1140, "name": "Frontogenesis", "weight": 0.0, "id": 65739210, "level": 2}
+{"count": 1070, "name": "Katabatic wind", "weight": 0.0, "id": 188310180, "level": 2}
+{"count": 3663, "name": "Hindcast", "weight": 0.0, "id": 83002819, "level": 2}
+{"count": 9353, "name": "Ice age", "weight": 0.0, "id": 39996641, "level": 2}
+{"count": 1423, "name": "Oceanic climate", "weight": 0.0, "id": 139679275, "level": 2}
+{"count": 641, "name": "Tropical Eastern Pacific", "weight": 0.0, "id": 2778044802, "level": 2}
+{"count": 5921, "name": "Subarctic climate", "weight": 0.0, "id": 81447805, "level": 2}
+{"count": 3122, "name": "TRNSYS", "weight": 0.0, "id": 2778457487, "level": 2}
+{"count": 1089, "name": "Seiche", "weight": 0.0, "id": 156461218, "level": 2}
+{"count": 5735, "name": "\u03b418O", "weight": 0.0, "id": 69384203, "level": 2}
+{"count": 538, "name": "Eastern Hemisphere", "weight": 0.0, "id": 2775921472, "level": 2}
+{"count": 1919, "name": "Inertial wave", "weight": 0.0, "id": 43734619, "level": 2}
+{"count": 799, "name": "Princeton Ocean Model", "weight": 0.0, "id": 2778617809, "level": 2}
+{"count": 1828, "name": "Lapse rate", "weight": 0.0, "id": 186816422, "level": 2}
+{"count": 3187, "name": "Current meter", "weight": 0.0, "id": 52526452, "level": 2}
+{"count": 3309, "name": "Argo", "weight": 0.0, "id": 51614570, "level": 2}
+{"count": 6813, "name": "Ocean gyre", "weight": 0.0, "id": 30380174, "level": 2}
+{"count": 1040, "name": "Bathythermograph", "weight": 0.0, "id": 145453713, "level": 2}
+{"count": 4260, "name": "Weather station", "weight": 0.0, "id": 2777129202, "level": 2}
+{"count": 1778, "name": "Wave model", "weight": 0.0, "id": 35797730, "level": 2}
+{"count": 1946, "name": "Ensemble average", "weight": 0.0, "id": 51865526, "level": 2}
+{"count": 884, "name": "Continental climate", "weight": 0.0, "id": 153626717, "level": 2}
+{"count": 2009, "name": "Tipping point (climatology)", "weight": 0.0, "id": 64504775, "level": 2}
+{"count": 6042, "name": "Mean radiant temperature", "weight": 0.0, "id": 42683663, "level": 2}
+{"count": 568, "name": "Prognostic variable", "weight": 0.0, "id": 164465091, "level": 2}
+{"count": 328, "name": "Biogeosciences", "weight": 0.0, "id": 2776797426, "level": 2}
+{"count": 7570, "name": "Barotropic fluid", "weight": 0.0, "id": 29712183, "level": 2}
+{"count": 240, "name": "ERA-40", "weight": 0.0, "id": 2776256148, "level": 2}
+{"count": 44, "name": "Hawaii Ocean Time-series", "weight": 0.0, "id": 2777187626, "level": 2}
+{"count": 391, "name": "Potential density", "weight": 0.0, "id": 66093962, "level": 2}
+{"count": 93, "name": "Global and Planetary Change", "weight": 0.0, "id": 2780621122, "level": 2}
+{"count": 749, "name": "Secondary circulation", "weight": 0.0, "id": 2776206649, "level": 2}
+{"count": 1201, "name": "Alpine climate", "weight": 0.0, "id": 122628217, "level": 2}
+{"count": 791, "name": "Cold wave", "weight": 0.0, "id": 144189326, "level": 2}
+{"count": 4257, "name": "Weather and climate", "weight": 0.0, "id": 2779885379, "level": 2}
+{"count": 169, "name": "Dry line", "weight": 0.0, "id": 122679660, "level": 2}
+{"count": 237, "name": "Process study", "weight": 0.0, "id": 2775894850, "level": 2}
+{"count": 196, "name": "Niwot Ridge", "weight": 0.0, "id": 2777900123, "level": 2}
+{"count": 183, "name": "Global Ocean Observing System", "weight": 0.0, "id": 2780242764, "level": 2}
+{"count": 254, "name": "Tidal Model", "weight": 0.0, "id": 2780748239, "level": 2}
+{"count": 243, "name": "Gulf of Tehuantepec", "weight": 0.0, "id": 2780662424, "level": 2}
+{"count": 296, "name": "Pacific saury", "weight": 0.0, "id": 2776032721, "level": 2}
+{"count": 3035, "name": "Circumpolar star", "weight": 0.0, "id": 38935664, "level": 2}
+{"count": 506, "name": "Marine layer", "weight": 0.0, "id": 52727277, "level": 2}
+{"count": 356, "name": "NCEP/NCAR Reanalysis", "weight": 0.0, "id": 31344066, "level": 2}
+{"count": 427, "name": "Beta plane", "weight": 0.0, "id": 2780049209, "level": 2}
+{"count": 1737, "name": "Pressure system", "weight": 0.0, "id": 199149936, "level": 2}
+{"count": 12563, "name": "Zonal and meridional", "weight": 0.0, "id": 123010829, "level": 2}
+{"count": 1018, "name": "Global wind patterns", "weight": 0.0, "id": 156767477, "level": 2}
+{"count": 224, "name": "Central American Seaway", "weight": 0.0, "id": 2780664191, "level": 2}
+{"count": 791, "name": "Weather map", "weight": 0.0, "id": 137625088, "level": 2}
+{"count": 517, "name": "Ocean observations", "weight": 0.0, "id": 2776248883, "level": 2}
+{"count": 512, "name": "Regional Ocean Modeling System", "weight": 0.0, "id": 2778174066, "level": 2}
+{"count": 463, "name": "Tidal atlas", "weight": 0.0, "id": 110374627, "level": 2}
+{"count": 1279, "name": "Isopycnal", "weight": 0.0, "id": 108699882, "level": 2}
+{"count": 381, "name": "Freshet", "weight": 0.0, "id": 2777518382, "level": 2}
+{"count": 533, "name": "Isopycnic", "weight": 0.0, "id": 150867306, "level": 2}
+{"count": 236, "name": "SYNOP", "weight": 0.0, "id": 2778583615, "level": 2}
+{"count": 501, "name": "Mesonet", "weight": 0.0, "id": 2777620431, "level": 2}
+{"count": 255, "name": "Stationary front", "weight": 0.0, "id": 199006499, "level": 2}
+{"count": 89, "name": "Prognostic equation", "weight": 0.0, "id": 2776231916, "level": 2}
+{"count": 5, "name": "Filago vulgaris", "weight": 0.0, "id": 2779385644, "level": 2}
+{"count": 135, "name": "Shamal", "weight": 0.0, "id": 2780841032, "level": 2}
+{"count": 219, "name": "Rip tide", "weight": 0.0, "id": 185877923, "level": 2}
+{"count": 6, "name": "Temperature record of the past 1000 years", "weight": 0.0, "id": 30191810, "level": 2}
+{"count": 268, "name": "Wildfire modeling", "weight": 0.0, "id": 155396092, "level": 2}
+{"count": 1431, "name": "Tropical marine climate", "weight": 0.0, "id": 156602925, "level": 2}
+{"count": 64, "name": "Diagnostic equation", "weight": 0.0, "id": 2781102462, "level": 2}
+{"count": 175, "name": "Microthermal", "weight": 0.0, "id": 175796461, "level": 2}
+{"count": 26, "name": "Climate of Africa", "weight": 0.0, "id": 2779869176, "level": 2}
+{"count": 9, "name": "Halocarpus biformis", "weight": 0.0, "id": 2777906723, "level": 2}
+{"count": 24, "name": "Jianchang County", "weight": 0.0, "id": 2780488519, "level": 2}
+{"count": 8, "name": "Abies forrestii", "weight": 0.0, "id": 2777807184, "level": 2}
+{"count": 25, "name": "Hovm\u00f6ller diagram", "weight": 0.0, "id": 2779346056, "level": 2}
+{"count": 30, "name": "Heat burst", "weight": 0.0, "id": 175233579, "level": 2}
+{"count": 9, "name": "Hockey stick graph", "weight": 0.0, "id": 2776645558, "level": 2}
+{"count": 46, "name": "Tide table", "weight": 0.0, "id": 2779761531, "level": 2}
+{"count": 23, "name": "Alera", "weight": 0.0, "id": 2776003121, "level": 2}
+{"count": 28, "name": "Frontal scale", "weight": 0.0, "id": 2780858142, "level": 2}
+{"count": 7, "name": "Iron Age Cold Epoch", "weight": 0.0, "id": 163923545, "level": 2}
+{"count": 2, "name": "UAH satellite temperature dataset", "weight": 0.0, "id": 2779449538, "level": 2}
+{"count": 3, "name": "Long-term effects of global warming", "weight": 0.0, "id": 2780377114, "level": 2}
+{"count": 14, "name": "Global Ocean Data Analysis Project", "weight": 0.0, "id": 2780559278, "level": 2}
+{"count": 9, "name": "Climate inertia", "weight": 0.0, "id": 2776103243, "level": 2}
+{"count": 7, "name": "Cold blob", "weight": 0.0, "id": 2777509924, "level": 2}
+{"count": 54, "name": "MIT General Circulation Model", "weight": 0.0, "id": 2776261669, "level": 2}
+{"count": 5, "name": "Cool tropics paradox", "weight": 0.0, "id": 2781230354, "level": 2}
+{"count": 2, "name": "World Climate Report", "weight": 0.0, "id": 2777167785, "level": 2}
+{"count": 1, "name": "Piora Oscillation", "weight": 0.0, "id": 2779123541, "level": 2}
+{"count": 35, "name": "Climate of Antarctica", "weight": 0.0, "id": 2776307417, "level": 2}
+{"count": 4, "name": "Kanaloa kahoolawensis", "weight": 0.0, "id": 2779557245, "level": 2}
+{"count": 1, "name": "Older Peron", "weight": 0.0, "id": 2777954249, "level": 2}
+{"count": 5, "name": "Trewartha climate classification", "weight": 0.0, "id": 2780444295, "level": 2}
+{"count": 15, "name": "Intermediate General Circulation Model", "weight": 0.0, "id": 2779167689, "level": 2}
+{"count": 32, "name": "Tule fog", "weight": 0.0, "id": 63374392, "level": 2}
+{"count": 1, "name": "Climate change in popular culture", "weight": 0.0, "id": 2781253920, "level": 2}
+{"count": 1, "name": "Abbassia Pluvial", "weight": 0.0, "id": 2781314451, "level": 2}
+{"count": 10, "name": "Anthropogenic cloud", "weight": 0.0, "id": 2776825417, "level": 2}
+{"count": 4, "name": "Common modeling infrastructure", "weight": 0.0, "id": 2776471655, "level": 2}
+{"count": 13, "name": "Climate of Asia", "weight": 0.0, "id": 2780347886, "level": 2}
+{"count": 2, "name": "Historical impacts of climate change", "weight": 0.0, "id": 2777117948, "level": 2}
+{"count": 11, "name": "Alberta clipper", "weight": 0.0, "id": 73101811, "level": 2}
+{"count": 220, "name": "Halothermal circulation", "weight": 0.0, "id": 175194375, "level": 2}
+{"count": 10, "name": "Climate of the United Kingdom", "weight": 0.0, "id": 2780126795, "level": 2}
+{"count": 15, "name": "Droughts in the United States", "weight": 0.0, "id": 2776943721, "level": 2}
+{"count": 4, "name": "Paleoflooding", "weight": 0.0, "id": 2779781855, "level": 2}
+{"count": 40, "name": "Sound (geography)", "weight": 0.0, "id": 203718221, "level": 2}
+{"count": 23, "name": "Seasonal year", "weight": 0.0, "id": 2777026048, "level": 2}

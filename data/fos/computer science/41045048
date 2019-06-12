@@ -1,0 +1,14 @@
+{"count": 7455, "name": "Simplex algorithm", "weight": 10.0, "id": 144521790, "level": 3}
+{"count": 2690, "name": "Linear programming relaxation", "weight": 3.0, "id": 25360446, "level": 3}
+{"count": 3651, "name": "Second-order cone programming", "weight": 4.0, "id": 111397411, "level": 3}
+{"count": 596, "name": "Randomized rounding", "weight": 0.0, "id": 32029473, "level": 3}
+{"count": 276, "name": "Dantzig\u2013Wolfe decomposition", "weight": 0.0, "id": 29323230, "level": 3}
+{"count": 553, "name": "Linear programming formulation", "weight": 0.0, "id": 2781190519, "level": 3}
+{"count": 230, "name": "Successive linear programming", "weight": 0.0, "id": 2778130043, "level": 3}
+{"count": 176, "name": "Affine scaling", "weight": 0.0, "id": 2779356205, "level": 3}
+{"count": 116, "name": "Hirsch conjecture", "weight": 0.0, "id": 2777404096, "level": 3}
+{"count": 5065, "name": "Linear-fractional programming", "weight": 6.0, "id": 205658194, "level": 3}
+{"count": 77, "name": "Fourier\u2013Motzkin elimination", "weight": 0.0, "id": 2776188589, "level": 3}
+{"count": 20, "name": "Prune and search", "weight": 0.0, "id": 2781251248, "level": 3}
+{"count": 3205, "name": "Criss-cross algorithm", "weight": 4.0, "id": 52486349, "level": 3}
+{"count": 14, "name": "LP-type problem", "weight": 0.0, "id": 139303843, "level": 3}

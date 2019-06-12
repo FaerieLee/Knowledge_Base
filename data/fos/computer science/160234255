@@ -1,0 +1,4 @@
+{"count": 4817, "name": "Bayes factor", "weight": 6.0, "id": 142291917, "level": 3}
+{"count": 7718, "name": "Frequentist inference", "weight": 10.0, "id": 162376815, "level": 3}
+{"count": 402, "name": "Inductive probability", "weight": 0.0, "id": 166850553, "level": 3}
+{"count": 412, "name": "Variational message passing", "weight": 0.0, "id": 13778685, "level": 3}

@@ -1,0 +1,26 @@
+{"count": 221, "name": "Borel\u2013Cantelli lemma", "weight": 3.0, "id": 106220722, "level": 3}
+{"count": 62, "name": "Stein's lemma", "weight": 0.0, "id": 2780441171, "level": 3}
+{"count": 233, "name": "Lov\u00e1sz local lemma", "weight": 3.0, "id": 44151690, "level": 3}
+{"count": 79, "name": "Johnson\u2013Lindenstrauss lemma", "weight": 1.0, "id": 2776993754, "level": 3}
+{"count": 238, "name": "Farkas' lemma", "weight": 3.0, "id": 27155235, "level": 3}
+{"count": 490, "name": "Schwarz lemma", "weight": 7.0, "id": 184526619, "level": 3}
+{"count": 305, "name": "Fatou's lemma", "weight": 4.0, "id": 42457614, "level": 3}
+{"count": 258, "name": "Fundamental lemma", "weight": 3.0, "id": 2776110907, "level": 3}
+{"count": 109, "name": "Neyman\u2013Pearson lemma", "weight": 1.0, "id": 2779740131, "level": 3}
+{"count": 148, "name": "Covering lemma", "weight": 2.0, "id": 2776870612, "level": 3}
+{"count": 80, "name": "Hensel's lemma", "weight": 1.0, "id": 2781289566, "level": 3}
+{"count": 33, "name": "Szemer\u00e9di regularity lemma", "weight": 0.0, "id": 2779674601, "level": 3}
+{"count": 46, "name": "Siegel's lemma", "weight": 0.0, "id": 2780162995, "level": 3}
+{"count": 58, "name": "Shephard's lemma", "weight": 0.0, "id": 135672314, "level": 3}
+{"count": 317, "name": "Rational root theorem", "weight": 4.0, "id": 27166021, "level": 3}
+{"count": 28, "name": "Higman's lemma", "weight": 0.0, "id": 2778990919, "level": 3}
+{"count": 14, "name": "Dickson's lemma", "weight": 0.0, "id": 2775834791, "level": 3}
+{"count": 74, "name": "Splitting lemma", "weight": 1.0, "id": 2780664197, "level": 3}
+{"count": 255, "name": "Zorn's lemma", "weight": 3.0, "id": 78538056, "level": 3}
+{"count": 13, "name": "Schanuel's lemma", "weight": 0.0, "id": 2779330266, "level": 3}
+{"count": 660, "name": "C\u00e9a's lemma", "weight": 10.0, "id": 59564267, "level": 3}
+{"count": 17, "name": "Weyl's lemma", "weight": 0.0, "id": 2778387332, "level": 3}
+{"count": 8, "name": "Tucker's lemma", "weight": 0.0, "id": 2778717584, "level": 3}
+{"count": 13, "name": "Rising sun lemma", "weight": 0.0, "id": 2778957945, "level": 3}
+{"count": 114, "name": "Goursat's lemma", "weight": 1.0, "id": 160859079, "level": 3}
+{"count": 305, "name": "Pumping lemma for context-free languages", "weight": 4.0, "id": 84159103, "level": 3}

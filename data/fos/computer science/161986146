@@ -1,0 +1,4 @@
+{"count": 1057, "name": "Nearest neighbor graph", "weight": 10.0, "id": 90988772, "level": 5}
+{"count": 685, "name": "Cover tree", "weight": 6.0, "id": 53661774, "level": 5}
+{"count": 722, "name": "Fixed-radius near neighbors", "weight": 6.0, "id": 46264003, "level": 5}
+{"count": 675, "name": "Ball tree", "weight": 6.0, "id": 98501338, "level": 5}

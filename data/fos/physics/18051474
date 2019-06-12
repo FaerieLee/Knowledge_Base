@@ -1,0 +1,11 @@
+{"count": 1771, "name": "Threading (protein sequence)", "weight": 10.0, "id": 200307862, "level": 4}
+{"count": 1159, "name": "CASP", "weight": 6.0, "id": 66153294, "level": 4}
+{"count": 698, "name": "Statistical potential", "weight": 3.0, "id": 52856140, "level": 4}
+{"count": 660, "name": "Loop modeling", "weight": 3.0, "id": 45475804, "level": 4}
+{"count": 9, "name": "3D-Jury", "weight": 0.0, "id": 2778063144, "level": 4}
+{"count": 142, "name": "Chou\u2013Fasman method", "weight": 0.0, "id": 37334002, "level": 4}
+{"count": 73, "name": "Protein contact map", "weight": 0.0, "id": 2781247321, "level": 4}
+{"count": 109, "name": "De novo protein structure prediction", "weight": 0.0, "id": 99363163, "level": 4}
+{"count": 27, "name": "GOR method", "weight": 0.0, "id": 2778133719, "level": 4}
+{"count": 38, "name": "RaptorX", "weight": 0.0, "id": 2780146659, "level": 4}
+{"count": 200, "name": "Global distance test", "weight": 1.0, "id": 87616088, "level": 4}

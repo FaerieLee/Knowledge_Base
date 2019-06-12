@@ -1,0 +1,20 @@
+{"count": 12055, "name": "Antenna efficiency", "weight": 5.0, "id": 160844929, "level": 4}
+{"count": 12322, "name": "Loop antenna", "weight": 5.0, "id": 155711043, "level": 4}
+{"count": 2528, "name": "Fractal antenna", "weight": 1.0, "id": 14837719, "level": 4}
+{"count": 9734, "name": "Reconfigurable antenna", "weight": 4.0, "id": 131369404, "level": 4}
+{"count": 1004, "name": "Vivaldi antenna", "weight": 0.0, "id": 2778682799, "level": 4}
+{"count": 22435, "name": "Antenna factor", "weight": 10.0, "id": 196931383, "level": 4}
+{"count": 3577, "name": "Cassegrain antenna", "weight": 1.0, "id": 183006278, "level": 4}
+{"count": 114, "name": "Short backfire antenna", "weight": 0.0, "id": 2778863252, "level": 4}
+{"count": 206, "name": "Traveling-wave antenna", "weight": 0.0, "id": 2780128457, "level": 4}
+{"count": 3695, "name": "Turnstile antenna", "weight": 1.0, "id": 94318689, "level": 4}
+{"count": 76, "name": "Self-complementary antenna", "weight": 0.0, "id": 2776081846, "level": 4}
+{"count": 8303, "name": "Beam waveguide antenna", "weight": 3.0, "id": 66999923, "level": 4}
+{"count": 139, "name": "Rhombic antenna", "weight": 0.0, "id": 104673124, "level": 4}
+{"count": 11931, "name": "Folded inverted conformal antenna", "weight": 5.0, "id": 113943052, "level": 4}
+{"count": 8881, "name": "Antenna blind cone", "weight": 3.0, "id": 72965183, "level": 4}
+{"count": 14, "name": "Batwing antenna", "weight": 0.0, "id": 2781130518, "level": 4}
+{"count": 3428, "name": "Offset dish antenna", "weight": 1.0, "id": 33193783, "level": 4}
+{"count": 11043, "name": "J-pole antenna", "weight": 4.0, "id": 183066770, "level": 4}
+{"count": 9540, "name": "Reflective array antenna", "weight": 4.0, "id": 169466946, "level": 4}
+{"count": 1931, "name": "WokFi", "weight": 0.0, "id": 124946342, "level": 4}

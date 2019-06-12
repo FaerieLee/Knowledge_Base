@@ -1,0 +1,60 @@
+{"count": 12909, "name": "Molecular phylogenetics", "weight": 7.0, "id": 195239911, "level": 3}
+{"count": 5140, "name": "Cladistics", "weight": 2.0, "id": 20822588, "level": 3}
+{"count": 2967, "name": "Molecular clock", "weight": 1.0, "id": 196662502, "level": 3}
+{"count": 969, "name": "Neighbor joining", "weight": 0.0, "id": 108462613, "level": 3}
+{"count": 2766, "name": "Maximum parsimony", "weight": 1.0, "id": 22799545, "level": 3}
+{"count": 2081, "name": "Phylogenetic diversity", "weight": 1.0, "id": 98722961, "level": 3}
+{"count": 1110, "name": "Phylogenetic comparative methods", "weight": 0.0, "id": 176771619, "level": 3}
+{"count": 1475, "name": "Phylogenetic network", "weight": 0.0, "id": 26619641, "level": 3}
+{"count": 261, "name": "Long branch attraction", "weight": 0.0, "id": 65010060, "level": 3}
+{"count": 614, "name": "Reticulate evolution", "weight": 0.0, "id": 2778727739, "level": 3}
+{"count": 17857, "name": "Monophyly", "weight": 10.0, "id": 12326286, "level": 3}
+{"count": 731, "name": "Phylogenetic nomenclature", "weight": 0.0, "id": 198260499, "level": 3}
+{"count": 293, "name": "NdhF", "weight": 0.0, "id": 2779141871, "level": 3}
+{"count": 1982, "name": "Cladogram", "weight": 1.0, "id": 192219700, "level": 3}
+{"count": 175, "name": "Cospeciation", "weight": 0.0, "id": 2778958625, "level": 3}
+{"count": 6752, "name": "Sister group", "weight": 3.0, "id": 66582369, "level": 3}
+{"count": 546, "name": "Supertree", "weight": 0.0, "id": 55919133, "level": 3}
+{"count": 253, "name": "Ecdysozoa", "weight": 0.0, "id": 2776652190, "level": 3}
+{"count": 178, "name": "Diversification rates", "weight": 0.0, "id": 2780833981, "level": 3}
+{"count": 288, "name": "Lophotrochozoa", "weight": 0.0, "id": 2776977064, "level": 3}
+{"count": 187, "name": "Ancestral reconstruction", "weight": 0.0, "id": 2776944003, "level": 3}
+{"count": 648, "name": "Cladogenesis", "weight": 0.0, "id": 104343652, "level": 3}
+{"count": 297, "name": "Substitution model", "weight": 0.0, "id": 138378244, "level": 3}
+{"count": 168, "name": "Phylogenetic niche conservatism", "weight": 0.0, "id": 2778628627, "level": 3}
+{"count": 182, "name": "Phylogenetic inertia", "weight": 0.0, "id": 2777858036, "level": 3}
+{"count": 275, "name": "Evolutionary taxonomy", "weight": 0.0, "id": 162967589, "level": 3}
+{"count": 167, "name": "Laurasiatheria", "weight": 0.0, "id": 2778749224, "level": 3}
+{"count": 221, "name": "Recapitulation theory", "weight": 0.0, "id": 66628303, "level": 3}
+{"count": 132, "name": "Acanthomorpha", "weight": 0.0, "id": 2776688617, "level": 3}
+{"count": 154, "name": "Percomorpha", "weight": 0.0, "id": 2780334900, "level": 3}
+{"count": 109, "name": "Heterotachy", "weight": 0.0, "id": 2777652700, "level": 3}
+{"count": 103, "name": "Colubroidea", "weight": 0.0, "id": 2780425367, "level": 3}
+{"count": 81, "name": "Papionini", "weight": 0.0, "id": 2780607193, "level": 3}
+{"count": 44, "name": "Archamoebae", "weight": 0.0, "id": 2780555629, "level": 3}
+{"count": 118, "name": "Neoaves", "weight": 0.0, "id": 2780391279, "level": 3}
+{"count": 126, "name": "Chloroplast capture", "weight": 0.0, "id": 2781203195, "level": 3}
+{"count": 80, "name": "Xenoturbella", "weight": 0.0, "id": 2780098521, "level": 3}
+{"count": 73, "name": "Cervinae", "weight": 0.0, "id": 2781014673, "level": 3}
+{"count": 52, "name": "Nannomys", "weight": 0.0, "id": 2780821817, "level": 3}
+{"count": 57, "name": "Illiciales", "weight": 0.0, "id": 2779390463, "level": 3}
+{"count": 147, "name": "Litostomatea", "weight": 0.0, "id": 2776737126, "level": 3}
+{"count": 64, "name": "Neognathae", "weight": 0.0, "id": 2776037812, "level": 3}
+{"count": 25, "name": "Galeomorphii", "weight": 0.0, "id": 2778884765, "level": 3}
+{"count": 49, "name": "Calcinea", "weight": 0.0, "id": 2776541550, "level": 3}
+{"count": 66, "name": "Delphinoidea", "weight": 0.0, "id": 2777131101, "level": 3}
+{"count": 21, "name": "Eretmodini", "weight": 0.0, "id": 2775965219, "level": 3}
+{"count": 58, "name": "Karyorelictea", "weight": 0.0, "id": 2778915449, "level": 3}
+{"count": 28, "name": "Scutigeridae", "weight": 0.0, "id": 2780984461, "level": 3}
+{"count": 25, "name": "Nephilengys", "weight": 0.0, "id": 2777201858, "level": 3}
+{"count": 31, "name": "Lapeirousia", "weight": 0.0, "id": 2780100656, "level": 3}
+{"count": 20, "name": "Carnivoramorpha", "weight": 0.0, "id": 2779755933, "level": 3}
+{"count": 15, "name": "Thaumatomonadida", "weight": 0.0, "id": 2776406931, "level": 3}
+{"count": 45, "name": "Tubulinea", "weight": 0.0, "id": 2779501736, "level": 3}
+{"count": 24, "name": "Pantherinae", "weight": 0.0, "id": 2779724189, "level": 3}
+{"count": 13, "name": "Phylogenetic bracketing", "weight": 0.0, "id": 5568818, "level": 3}
+{"count": 1075, "name": "Tree rearrangement", "weight": 0.0, "id": 53208351, "level": 3}
+{"count": 14, "name": "Megadontomys", "weight": 0.0, "id": 2778310672, "level": 3}
+{"count": 15, "name": "Allonautilus", "weight": 0.0, "id": 2776999290, "level": 3}
+{"count": 21, "name": "Nexus file", "weight": 0.0, "id": 59361880, "level": 3}
+{"count": 24, "name": "Gnathostomulid", "weight": 0.0, "id": 2779277896, "level": 3}

@@ -1,0 +1,72 @@
+{"count": 14150, "name": "Physics education", "weight": 5.0, "id": 50773583, "level": 2}
+{"count": 20794, "name": "Achievement test", "weight": 7.0, "id": 81369262, "level": 2}
+{"count": 13553, "name": "Basic skills", "weight": 4.0, "id": 2780623789, "level": 2}
+{"count": 5319, "name": "Class size", "weight": 1.0, "id": 2776824051, "level": 2}
+{"count": 4815, "name": "Word problem (mathematics education)", "weight": 1.0, "id": 90988201, "level": 2}
+{"count": 4281, "name": "Mastery learning", "weight": 1.0, "id": 2776933062, "level": 2}
+{"count": 17703, "name": "College English", "weight": 6.0, "id": 2779264503, "level": 2}
+{"count": 3091, "name": "Criterion-referenced test", "weight": 1.0, "id": 64313355, "level": 2}
+{"count": 980, "name": "Cluster grouping", "weight": 0.0, "id": 2776987068, "level": 2}
+{"count": 3036, "name": "History of mathematics", "weight": 1.0, "id": 72074766, "level": 2}
+{"count": 2505, "name": "Recreational mathematics", "weight": 0.0, "id": 132478621, "level": 2}
+{"count": 2406, "name": "Inquiry-based learning", "weight": 0.0, "id": 2779532063, "level": 2}
+{"count": 5548, "name": "Statistics education", "weight": 2.0, "id": 182109673, "level": 2}
+{"count": 2378, "name": "Quasi-experiment", "weight": 0.0, "id": 73744397, "level": 2}
+{"count": 6736, "name": "Microscale chemistry", "weight": 2.0, "id": 179428855, "level": 2}
+{"count": 7827, "name": "Mathematical problem", "weight": 2.0, "id": 66783780, "level": 2}
+{"count": 839, "name": "Peer instruction", "weight": 0.0, "id": 2778714735, "level": 2}
+{"count": 3104, "name": "Lesson study", "weight": 1.0, "id": 2776089186, "level": 2}
+{"count": 988, "name": "Ethnomathematics", "weight": 0.0, "id": 2780120442, "level": 2}
+{"count": 6780, "name": "Lesson plan", "weight": 2.0, "id": 2776185021, "level": 2}
+{"count": 7834, "name": "Jigsaw", "weight": 2.0, "id": 2779405079, "level": 2}
+{"count": 1321, "name": "Number sense", "weight": 0.0, "id": 173600914, "level": 2}
+{"count": 3227, "name": "Learning cycle", "weight": 1.0, "id": 2777432860, "level": 2}
+{"count": 27719, "name": "Academic year", "weight": 10.0, "id": 2778498041, "level": 2}
+{"count": 811, "name": "Mathematical practice", "weight": 0.0, "id": 2780506305, "level": 2}
+{"count": 1277, "name": "Elementary algebra", "weight": 0.0, "id": 92087941, "level": 2}
+{"count": 681, "name": "Proportional reasoning", "weight": 0.0, "id": 2777034806, "level": 2}
+{"count": 2022, "name": "Elementary mathematics", "weight": 0.0, "id": 58801604, "level": 2}
+{"count": 1584, "name": "Language of mathematics", "weight": 0.0, "id": 172347087, "level": 2}
+{"count": 777, "name": "Statistical literacy", "weight": 0.0, "id": 2777130190, "level": 2}
+{"count": 634, "name": "Business mathematics", "weight": 0.0, "id": 55323653, "level": 2}
+{"count": 3897, "name": "Think-pair-share", "weight": 1.0, "id": 2780485574, "level": 2}
+{"count": 610, "name": "Trends in International Mathematics and Science Study", "weight": 0.0, "id": 2780668287, "level": 2}
+{"count": 1706, "name": "Foundations of mathematics", "weight": 0.0, "id": 183140480, "level": 2}
+{"count": 1070, "name": "Concept inventory", "weight": 0.0, "id": 59785418, "level": 2}
+{"count": 1105, "name": "Van Hiele model", "weight": 0.0, "id": 206688715, "level": 2}
+{"count": 906, "name": "Learning plan", "weight": 0.0, "id": 2780623401, "level": 2}
+{"count": 300, "name": "Experimental mathematics", "weight": 0.0, "id": 2780966395, "level": 2}
+{"count": 526, "name": "Concept testing", "weight": 0.0, "id": 164188168, "level": 2}
+{"count": 68, "name": "Class (biology)", "weight": 0.0, "id": 39431504, "level": 2}
+{"count": 403, "name": "New Math", "weight": 0.0, "id": 2781381691, "level": 2}
+{"count": 540, "name": "Algebra I", "weight": 0.0, "id": 2777371226, "level": 2}
+{"count": 328, "name": "Long division", "weight": 0.0, "id": 89186085, "level": 2}
+{"count": 161, "name": "Indian mathematics", "weight": 0.0, "id": 2780573417, "level": 2}
+{"count": 112, "name": "Babylonian mathematics", "weight": 0.0, "id": 2778742539, "level": 2}
+{"count": 192, "name": "General Certificate of Education", "weight": 0.0, "id": 193919354, "level": 2}
+{"count": 103, "name": "Equals sign", "weight": 0.0, "id": 2780282067, "level": 2}
+{"count": 38, "name": "Otis\u2013Lennon School Ability Test", "weight": 0.0, "id": 175705463, "level": 2}
+{"count": 77, "name": "Informal mathematics", "weight": 0.0, "id": 2781260717, "level": 2}
+{"count": 136, "name": "Music and mathematics", "weight": 0.0, "id": 2780195813, "level": 2}
+{"count": 109, "name": "Teyl", "weight": 0.0, "id": 2778292373, "level": 2}
+{"count": 180, "name": "Algebra II", "weight": 0.0, "id": 2777055727, "level": 2}
+{"count": 35, "name": "Thales' theorem", "weight": 0.0, "id": 32373669, "level": 2}
+{"count": 105, "name": "Number sentence", "weight": 0.0, "id": 46793730, "level": 2}
+{"count": 50, "name": "Procept", "weight": 0.0, "id": 2780792310, "level": 2}
+{"count": 67, "name": "Cuisenaire rods", "weight": 0.0, "id": 120348129, "level": 2}
+{"count": 140, "name": "Mathematics and art", "weight": 0.0, "id": 2780728221, "level": 2}
+{"count": 39, "name": "Intellectual need", "weight": 0.0, "id": 2777193708, "level": 2}
+{"count": 118, "name": "Stanine", "weight": 0.0, "id": 143525971, "level": 2}
+{"count": 169, "name": "Japanese mathematics", "weight": 0.0, "id": 2780421789, "level": 2}
+{"count": 27, "name": "Ancient Egyptian mathematics", "weight": 0.0, "id": 2778737971, "level": 2}
+{"count": 114, "name": "Geoboard", "weight": 0.0, "id": 34424749, "level": 2}
+{"count": 102, "name": "Additional Mathematics", "weight": 0.0, "id": 2781061265, "level": 2}
+{"count": 17, "name": "Computer-Based Math", "weight": 0.0, "id": 2779659249, "level": 2}
+{"count": 162, "name": "AP Physics", "weight": 0.0, "id": 15548797, "level": 2}
+{"count": 25600, "name": "Connected Mathematics", "weight": 9.0, "id": 118840557, "level": 2}
+{"count": 19, "name": "Symmetry in mathematics", "weight": 0.0, "id": 2776550838, "level": 2}
+{"count": 19, "name": "QuickSmart", "weight": 0.0, "id": 2776860065, "level": 2}
+{"count": 4, "name": "The Harmful Effects of Algorithms in Grades 1\u20134", "weight": 0.0, "id": 207605134, "level": 2}
+{"count": 14, "name": "Modern elementary mathematics", "weight": 0.0, "id": 2776531531, "level": 2}
+{"count": 126, "name": "Project NExT", "weight": 0.0, "id": 72678461, "level": 2}
+{"count": 17, "name": "Mathland", "weight": 0.0, "id": 21986511, "level": 2}

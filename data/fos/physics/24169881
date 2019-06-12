@@ -1,0 +1,11 @@
+{"count": 11591, "name": "Phonon scattering", "weight": 10.0, "id": 65053842, "level": 3}
+{"count": 2814, "name": "Surface phonon", "weight": 2.0, "id": 52687443, "level": 3}
+{"count": 406, "name": "Fracton", "weight": 0.0, "id": 2779830401, "level": 3}
+{"count": 1048, "name": "Heat current", "weight": 0.0, "id": 106925770, "level": 3}
+{"count": 463, "name": "Helium atom scattering", "weight": 0.0, "id": 2776684446, "level": 3}
+{"count": 97, "name": "Quasi-harmonic approximation", "weight": 0.0, "id": 2778632453, "level": 3}
+{"count": 287, "name": "Kohn anomaly", "weight": 0.0, "id": 2780297344, "level": 3}
+{"count": 138, "name": "Keating model", "weight": 0.0, "id": 2777361569, "level": 3}
+{"count": 280, "name": "Debye frequency", "weight": 0.0, "id": 2779761157, "level": 3}
+{"count": 50, "name": "Orbiton", "weight": 0.0, "id": 2776522838, "level": 3}
+{"count": 435, "name": "Thermal effective mass", "weight": 0.0, "id": 38024188, "level": 3}

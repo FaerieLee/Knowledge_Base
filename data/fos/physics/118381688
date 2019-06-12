@@ -1,0 +1,5 @@
+{"count": 714, "name": "Specularity", "weight": 9.0, "id": 2779456664, "level": 3}
+{"count": 769, "name": "Specular highlight", "weight": 10.0, "id": 50045419, "level": 3}
+{"count": 151, "name": "Phong reflection model", "weight": 1.0, "id": 75987615, "level": 3}
+{"count": 218, "name": "Gloss (optics)", "weight": 2.0, "id": 143025027, "level": 3}
+{"count": 36, "name": "Oren\u2013Nayar reflectance model", "weight": 0.0, "id": 8893842, "level": 3}

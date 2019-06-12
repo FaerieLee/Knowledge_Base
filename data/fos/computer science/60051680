@@ -1,0 +1,5 @@
+{"count": 1011, "name": "AspectJ", "weight": 10.0, "id": 2781009160, "level": 3}
+{"count": 402, "name": "Pointcut", "weight": 3.0, "id": 2776219908, "level": 3}
+{"count": 271, "name": "Join point", "weight": 2.0, "id": 2776915473, "level": 3}
+{"count": 29, "name": "Cross-cutting concern", "weight": 0.0, "id": 2781130156, "level": 3}
+{"count": 27, "name": "Subject-oriented programming", "weight": 0.0, "id": 163404594, "level": 3}

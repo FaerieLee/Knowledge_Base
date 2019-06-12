@@ -1,0 +1,9 @@
+{"count": 808, "name": "IP traceback", "weight": 4.0, "id": 2776059407, "level": 3}
+{"count": 1255, "name": "IP address spoofing", "weight": 6.0, "id": 111814575, "level": 3}
+{"count": 594, "name": "SYN flood", "weight": 2.0, "id": 143127707, "level": 3}
+{"count": 1997, "name": "Application layer DDoS attack", "weight": 10.0, "id": 120865594, "level": 3}
+{"count": 1017, "name": "Pre-play attack", "weight": 5.0, "id": 170130075, "level": 3}
+{"count": 25, "name": "Slowloris", "weight": 0.0, "id": 2781219676, "level": 3}
+{"count": 14, "name": "Resource exhaustion attack", "weight": 0.0, "id": 2778287275, "level": 3}
+{"count": 37, "name": "Website defacement", "weight": 0.0, "id": 96043870, "level": 3}
+{"count": 528, "name": "Robust random early detection", "weight": 2.0, "id": 134103291, "level": 3}

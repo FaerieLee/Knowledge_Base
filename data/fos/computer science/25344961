@@ -1,0 +1,12 @@
+{"count": 1261, "name": "Virtual machining", "weight": 3.0, "id": 2778352213, "level": 3}
+{"count": 1273, "name": "Collaborative virtual environment", "weight": 3.0, "id": 2778477957, "level": 3}
+{"count": 1064, "name": "Just-in-time compilation", "weight": 3.0, "id": 76782552, "level": 3}
+{"count": 1855, "name": "Bytecode", "weight": 5.0, "id": 2779818221, "level": 3}
+{"count": 469, "name": "Virtual Processor", "weight": 1.0, "id": 2779181736, "level": 3}
+{"count": 1049, "name": "CloudSim", "weight": 2.0, "id": 2779907789, "level": 3}
+{"count": 136, "name": "Redirected walking", "weight": 0.0, "id": 2777712392, "level": 3}
+{"count": 3511, "name": "Virtual finite-state machine", "weight": 10.0, "id": 207953454, "level": 3}
+{"count": 270, "name": "Virtual network interface", "weight": 0.0, "id": 2777411940, "level": 3}
+{"count": 1368, "name": "sysfs", "weight": 3.0, "id": 90307666, "level": 3}
+{"count": 56, "name": "Connection broker", "weight": 0.0, "id": 2779507736, "level": 3}
+{"count": 2087, "name": "Kernel virtual address space", "weight": 5.0, "id": 143309364, "level": 3}

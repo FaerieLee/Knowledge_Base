@@ -1,0 +1,6 @@
+{"count": 374, "name": "Constraint Handling Rules", "weight": 2.0, "id": 2779386614, "level": 4}
+{"count": 1516, "name": "Binary constraint", "weight": 8.0, "id": 79475747, "level": 4}
+{"count": 1821, "name": "Constraint learning", "weight": 10.0, "id": 29230964, "level": 4}
+{"count": 57, "name": "CLP(R)", "weight": 0.0, "id": 2779244241, "level": 4}
+{"count": 47, "name": "Regular constraint", "weight": 0.0, "id": 2775911353, "level": 4}
+{"count": 1308, "name": "Complexity of constraint satisfaction", "weight": 7.0, "id": 132180345, "level": 4}

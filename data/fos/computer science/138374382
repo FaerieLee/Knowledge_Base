@@ -1,0 +1,4 @@
+{"count": 853, "name": "Thread safety", "weight": 10.0, "id": 187159756, "level": 4}
+{"count": 612, "name": "Spinlock", "weight": 7.0, "id": 181791273, "level": 4}
+{"count": 48, "name": "Affinity mask", "weight": 0.0, "id": 5504405, "level": 4}
+{"count": 262, "name": "Super-threading", "weight": 3.0, "id": 172114534, "level": 4}

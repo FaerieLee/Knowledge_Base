@@ -1,0 +1,13 @@
+{"count": 5393, "name": "Digital radiography", "weight": 10.0, "id": 2781305912, "level": 3}
+{"count": 3323, "name": "Computed radiography", "weight": 6.0, "id": 134093067, "level": 3}
+{"count": 4483, "name": "Neutron imaging", "weight": 8.0, "id": 142923127, "level": 3}
+{"count": 1315, "name": "Industrial radiography", "weight": 2.0, "id": 26372392, "level": 3}
+{"count": 1290, "name": "Dental radiography", "weight": 2.0, "id": 2780203217, "level": 3}
+{"count": 1389, "name": "Radiographic testing", "weight": 2.0, "id": 102758585, "level": 3}
+{"count": 659, "name": "Projectional radiography", "weight": 1.0, "id": 536435272, "level": 3}
+{"count": 257, "name": "Medical radiography", "weight": 0.0, "id": 2780831734, "level": 3}
+{"count": 73, "name": "Muography", "weight": 0.0, "id": 2781146295, "level": 3}
+{"count": 287, "name": "Radiographic equipment", "weight": 0.0, "id": 48402862, "level": 3}
+{"count": 411, "name": "Unsharpness", "weight": 0.0, "id": 172034944, "level": 3}
+{"count": 23, "name": "Focus film distance", "weight": 0.0, "id": 93443463, "level": 3}
+{"count": 15, "name": "Source to image-receptor distance", "weight": 0.0, "id": 2779410146, "level": 3}

@@ -1,0 +1,8 @@
+{"count": 7952, "name": "Virtual screening", "weight": 8.0, "id": 103697762, "level": 2}
+{"count": 9866, "name": "Pharmacophore", "weight": 10.0, "id": 56173144, "level": 2}
+{"count": 2191, "name": "Chemical space", "weight": 2.0, "id": 99726746, "level": 2}
+{"count": 470, "name": "Dynamic combinatorial chemistry", "weight": 0.0, "id": 87512125, "level": 2}
+{"count": 683, "name": "Chemical library", "weight": 0.0, "id": 2779057010, "level": 2}
+{"count": 529, "name": "PubChem", "weight": 0.0, "id": 158180186, "level": 2}
+{"count": 206, "name": "Reaxys", "weight": 0.0, "id": 2776925088, "level": 2}
+{"count": 138, "name": "Druglikeness", "weight": 0.0, "id": 10524490, "level": 2}

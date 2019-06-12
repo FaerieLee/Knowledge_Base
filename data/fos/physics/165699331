@@ -1,0 +1,13 @@
+{"count": 6954, "name": "Deformable mirror", "weight": 10.0, "id": 136872047, "level": 3}
+{"count": 2664, "name": "Optical aberration", "weight": 3.0, "id": 2779132550, "level": 3}
+{"count": 6313, "name": "Wavefront sensor", "weight": 9.0, "id": 99407587, "level": 3}
+{"count": 6014, "name": "Zernike polynomials", "weight": 8.0, "id": 92423082, "level": 3}
+{"count": 1399, "name": "Shearing interferometer", "weight": 2.0, "id": 2780186746, "level": 3}
+{"count": 2042, "name": "Strehl ratio", "weight": 2.0, "id": 90416638, "level": 3}
+{"count": 1577, "name": "Aberrations of the eye", "weight": 2.0, "id": 165788157, "level": 3}
+{"count": 436, "name": "Wavefront coding", "weight": 0.0, "id": 2780822545, "level": 3}
+{"count": 1168, "name": "Guide star", "weight": 1.0, "id": 2780851263, "level": 3}
+{"count": 1224, "name": "Lenslet", "weight": 1.0, "id": 2778925058, "level": 3}
+{"count": 186, "name": "Fried parameter", "weight": 0.0, "id": 130137934, "level": 3}
+{"count": 100, "name": "Null corrector", "weight": 0.0, "id": 2776002752, "level": 3}
+{"count": 53, "name": "Greenwood frequency", "weight": 0.0, "id": 207139960, "level": 3}

@@ -1,0 +1,70 @@
+{"count": 7411, "name": "Palaeogeography", "weight": 5.0, "id": 179158327, "level": 3}
+{"count": 11393, "name": "Engineering geology", "weight": 8.0, "id": 159719176, "level": 3}
+{"count": 13120, "name": "Regional geology", "weight": 10.0, "id": 161028810, "level": 3}
+{"count": 4745, "name": "Economic geology", "weight": 3.0, "id": 125171110, "level": 3}
+{"count": 10119, "name": "Active fault", "weight": 7.0, "id": 26001220, "level": 3}
+{"count": 5561, "name": "Geodynamics", "weight": 4.0, "id": 136752280, "level": 3}
+{"count": 7753, "name": "Thrust fault", "weight": 5.0, "id": 110041135, "level": 3}
+{"count": 2763, "name": "D\u00e9collement", "weight": 2.0, "id": 80781247, "level": 3}
+{"count": 5358, "name": "Lineament", "weight": 4.0, "id": 92596616, "level": 3}
+{"count": 3619, "name": "Transform fault", "weight": 2.0, "id": 106973953, "level": 3}
+{"count": 2279, "name": "Neotectonics", "weight": 1.0, "id": 16670881, "level": 3}
+{"count": 2937, "name": "Pacific Plate", "weight": 2.0, "id": 2777994876, "level": 3}
+{"count": 1524, "name": "Eurasian Plate", "weight": 1.0, "id": 2778261408, "level": 3}
+{"count": 8593, "name": "Orogeny", "weight": 6.0, "id": 2777241186, "level": 3}
+{"count": 2146, "name": "Seismotectonics", "weight": 1.0, "id": 21089234, "level": 3}
+{"count": 5689, "name": "Passive margin", "weight": 4.0, "id": 201633675, "level": 3}
+{"count": 1754, "name": "Transpression", "weight": 1.0, "id": 128074901, "level": 3}
+{"count": 7030, "name": "Strike-slip tectonics", "weight": 5.0, "id": 169162353, "level": 3}
+{"count": 817, "name": "Main Central Thrust", "weight": 0.0, "id": 2777950383, "level": 3}
+{"count": 835, "name": "African Plate", "weight": 0.0, "id": 2779867292, "level": 3}
+{"count": 803, "name": "Alpine orogeny", "weight": 0.0, "id": 2778884543, "level": 3}
+{"count": 2228, "name": "Thermochronology", "weight": 1.0, "id": 195963834, "level": 3}
+{"count": 1328, "name": "Salt tectonics", "weight": 1.0, "id": 113007552, "level": 3}
+{"count": 3491, "name": "Accretionary wedge", "weight": 2.0, "id": 44140439, "level": 3}
+{"count": 2829, "name": "Continental collision", "weight": 2.0, "id": 75643213, "level": 3}
+{"count": 861, "name": "Transtension", "weight": 0.0, "id": 2777234146, "level": 3}
+{"count": 384, "name": "Tectonostratigraphy", "weight": 0.0, "id": 541376634, "level": 3}
+{"count": 1804, "name": "Extensional tectonics", "weight": 1.0, "id": 203457885, "level": 3}
+{"count": 818, "name": "Tectonophysics", "weight": 0.0, "id": 128954607, "level": 3}
+{"count": 484, "name": "South American Plate", "weight": 0.0, "id": 2781207809, "level": 3}
+{"count": 2613, "name": "Tectonic uplift", "weight": 1.0, "id": 139419234, "level": 3}
+{"count": 160, "name": "A-type granite", "weight": 0.0, "id": 2780959066, "level": 3}
+{"count": 5482, "name": "Intraplate earthquake", "weight": 4.0, "id": 84786313, "level": 3}
+{"count": 1347, "name": "Detachment fault", "weight": 1.0, "id": 185339796, "level": 3}
+{"count": 457, "name": "Paleostress", "weight": 0.0, "id": 2776057578, "level": 3}
+{"count": 1432, "name": "Mountain formation", "weight": 1.0, "id": 99092211, "level": 3}
+{"count": 318, "name": "Morphotectonics", "weight": 0.0, "id": 165969480, "level": 3}
+{"count": 735, "name": "Inversion (geology)", "weight": 0.0, "id": 1893757, "level": 3}
+{"count": 513, "name": "East European Craton", "weight": 0.0, "id": 2779121646, "level": 3}
+{"count": 519, "name": "Indian Shield", "weight": 0.0, "id": 2775973192, "level": 3}
+{"count": 410, "name": "Hellenic arc", "weight": 0.0, "id": 2777070611, "level": 3}
+{"count": 797, "name": "Thrust tectonics", "weight": 0.0, "id": 180362636, "level": 3}
+{"count": 362, "name": "Orocline", "weight": 0.0, "id": 2777542309, "level": 3}
+{"count": 454, "name": "Slickenside", "weight": 0.0, "id": 74745800, "level": 3}
+{"count": 79, "name": "Volcano tectonics", "weight": 0.0, "id": 2776675724, "level": 3}
+{"count": 438, "name": "M\u00e9lange", "weight": 0.0, "id": 190308179, "level": 3}
+{"count": 148, "name": "Seismite", "weight": 0.0, "id": 2781187581, "level": 3}
+{"count": 564, "name": "Epeirogenic movement", "weight": 0.0, "id": 82176513, "level": 3}
+{"count": 222, "name": "Plate reconstruction", "weight": 0.0, "id": 152972079, "level": 3}
+{"count": 37, "name": "Brasiliano orogeny", "weight": 0.0, "id": 2776843701, "level": 3}
+{"count": 247, "name": "Planation surface", "weight": 0.0, "id": 2779776539, "level": 3}
+{"count": 5299, "name": "Sinistral and dextral", "weight": 4.0, "id": 50047906, "level": 3}
+{"count": 290, "name": "Seismogenic layer", "weight": 0.0, "id": 2778800274, "level": 3}
+{"count": 559, "name": "Lile", "weight": 0.0, "id": 2780040746, "level": 3}
+{"count": 1146, "name": "Tectonic phase", "weight": 0.0, "id": 105492442, "level": 3}
+{"count": 263, "name": "Tension (geology)", "weight": 0.0, "id": 186068551, "level": 3}
+{"count": 264, "name": "Divergent boundary", "weight": 0.0, "id": 52278394, "level": 3}
+{"count": 478, "name": "Aulacogen", "weight": 0.0, "id": 2776725666, "level": 3}
+{"count": 76, "name": "Paired metamorphic belts", "weight": 0.0, "id": 2777866774, "level": 3}
+{"count": 583, "name": "Extensional fault", "weight": 0.0, "id": 2780043350, "level": 3}
+{"count": 784, "name": "Compression (geology)", "weight": 0.0, "id": 45871372, "level": 3}
+{"count": 434, "name": "Penninic", "weight": 0.0, "id": 2779788201, "level": 3}
+{"count": 110, "name": "Section restoration", "weight": 0.0, "id": 2776657771, "level": 3}
+{"count": 858, "name": "Depth of focus (tectonics)", "weight": 0.0, "id": 89002693, "level": 3}
+{"count": 33, "name": "Thin-skinned deformation", "weight": 0.0, "id": 2778571564, "level": 3}
+{"count": 174, "name": "Zagros fold and thrust belt", "weight": 0.0, "id": 2777421540, "level": 3}
+{"count": 171, "name": "Erosion and tectonics", "weight": 0.0, "id": 50169152, "level": 3}
+{"count": 16, "name": "Indenter tectonics", "weight": 0.0, "id": 2777673109, "level": 3}
+{"count": 36, "name": "Pullapart", "weight": 0.0, "id": 2776282101, "level": 3}
+{"count": 533, "name": "Tilted block faulting", "weight": 0.0, "id": 65576570, "level": 3}

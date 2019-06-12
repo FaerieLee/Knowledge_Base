@@ -1,0 +1,13 @@
+{"count": 1977, "name": "Formal equivalence checking", "weight": 9.0, "id": 96654402, "level": 3}
+{"count": 630, "name": "Partial order reduction", "weight": 2.0, "id": 94633896, "level": 3}
+{"count": 298, "name": "Duration calculus", "weight": 1.0, "id": 31956041, "level": 3}
+{"count": 158, "name": "Alternating-time Temporal Logic", "weight": 0.0, "id": 2777720936, "level": 3}
+{"count": 740, "name": "Promela", "weight": 3.0, "id": 2776329536, "level": 3}
+{"count": 2084, "name": "Symbolic trajectory evaluation", "weight": 9.0, "id": 23123167, "level": 3}
+{"count": 1212, "name": "Automated proof checking", "weight": 5.0, "id": 13766981, "level": 3}
+{"count": 204, "name": "Property Specification Language", "weight": 0.0, "id": 2779898345, "level": 3}
+{"count": 122, "name": "Uninterpreted function", "weight": 0.0, "id": 2781370028, "level": 3}
+{"count": 264, "name": "Craig interpolation", "weight": 1.0, "id": 2780242984, "level": 3}
+{"count": 154, "name": "Parity game", "weight": 0.0, "id": 2777110149, "level": 3}
+{"count": 131, "name": "PRISM model checker", "weight": 0.0, "id": 2781379262, "level": 3}
+{"count": 2156, "name": "Abstraction model checking", "weight": 10.0, "id": 30888246, "level": 3}

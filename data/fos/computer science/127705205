@@ -1,0 +1,6 @@
+{"count": 291, "name": "Recognition heuristic", "weight": 2.0, "id": 175285421, "level": 3}
+{"count": 107, "name": "Simulation heuristic", "weight": 0.0, "id": 132983000, "level": 3}
+{"count": 56, "name": "Very large-scale neighborhood search", "weight": 0.0, "id": 2780663532, "level": 3}
+{"count": 1183, "name": "Social heuristics", "weight": 10.0, "id": 139475501, "level": 3}
+{"count": 26, "name": "Take-the-best heuristic", "weight": 0.0, "id": 2775946569, "level": 3}
+{"count": 14, "name": "Gaze heuristic", "weight": 0.0, "id": 70115070, "level": 3}

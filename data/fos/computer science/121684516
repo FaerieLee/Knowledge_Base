@@ -1,0 +1,162 @@
+{"count": 41021, "name": "Computer graphics", "weight": 5.0, "id": 77660652, "level": 2}
+{"count": 22736, "name": "Ray tracing (graphics)", "weight": 3.0, "id": 122263404, "level": 2}
+{"count": 45204, "name": "Transparency (graphic)", "weight": 6.0, "id": 65697883, "level": 2}
+{"count": 30527, "name": "Response time", "weight": 4.0, "id": 19012869, "level": 2}
+{"count": 7303, "name": "Level of detail", "weight": 1.0, "id": 41365986, "level": 2}
+{"count": 6327, "name": "Bloom", "weight": 0.0, "id": 155567681, "level": 2}
+{"count": 24251, "name": "Shading", "weight": 3.0, "id": 177515723, "level": 2}
+{"count": 5143, "name": "Texture mapping", "weight": 0.0, "id": 200585589, "level": 2}
+{"count": 71733, "name": "Rendering (computer graphics)", "weight": 10.0, "id": 205711294, "level": 2}
+{"count": 7382, "name": "Depth map", "weight": 1.0, "id": 141268832, "level": 2}
+{"count": 5582, "name": "OpenGL", "weight": 0.0, "id": 2778305236, "level": 2}
+{"count": 8287, "name": "3D modeling", "weight": 1.0, "id": 2777897806, "level": 2}
+{"count": 13219, "name": "Flicker", "weight": 1.0, "id": 19743564, "level": 2}
+{"count": 3213, "name": "Cinematography", "weight": 0.0, "id": 100991257, "level": 2}
+{"count": 28309, "name": "Snap", "weight": 3.0, "id": 2779997099, "level": 2}
+{"count": 12769, "name": "Slicing", "weight": 1.0, "id": 2776190703, "level": 2}
+{"count": 5041, "name": "Morphing", "weight": 0.0, "id": 50637493, "level": 2}
+{"count": 15584, "name": "Raster graphics", "weight": 2.0, "id": 181844469, "level": 2}
+{"count": 524, "name": "Hidden surface determination", "weight": 0.0, "id": 111109318, "level": 2}
+{"count": 2345, "name": "Image editing", "weight": 0.0, "id": 2776674983, "level": 2}
+{"count": 27897, "name": "Polygon mesh", "weight": 3.0, "id": 31487907, "level": 2}
+{"count": 69527, "name": "Planar", "weight": 9.0, "id": 134786449, "level": 2}
+{"count": 1684, "name": "Radiosity (computer graphics)", "weight": 0.0, "id": 146168522, "level": 2}
+{"count": 3758, "name": "Compositing", "weight": 0.0, "id": 129315195, "level": 2}
+{"count": 7303, "name": "Adobe", "weight": 1.0, "id": 2777261232, "level": 2}
+{"count": 5535, "name": "Plotter", "weight": 0.0, "id": 124772163, "level": 2}
+{"count": 2426, "name": "Electronic paper", "weight": 0.0, "id": 2779628032, "level": 2}
+{"count": 842, "name": "DirectX", "weight": 0.0, "id": 544400634, "level": 2}
+{"count": 1451, "name": "Texel", "weight": 0.0, "id": 167759928, "level": 2}
+{"count": 838, "name": "CUTEr", "weight": 0.0, "id": 2776141612, "level": 2}
+{"count": 2354, "name": "Key frame", "weight": 0.0, "id": 2780139006, "level": 2}
+{"count": 339, "name": "Progressive refinement", "weight": 0.0, "id": 2780448388, "level": 2}
+{"count": 24625, "name": "Output device", "weight": 3.0, "id": 61851662, "level": 2}
+{"count": 1567, "name": "Storyboard", "weight": 0.0, "id": 2777080924, "level": 2}
+{"count": 5791, "name": "Scrolling", "weight": 0.0, "id": 59046462, "level": 2}
+{"count": 567, "name": "Projection mapping", "weight": 0.0, "id": 2777538892, "level": 2}
+{"count": 1276, "name": "Post-production", "weight": 0.0, "id": 87829876, "level": 2}
+{"count": 931, "name": "ICO", "weight": 0.0, "id": 203927944, "level": 2}
+{"count": 710, "name": "Computer-generated imagery", "weight": 0.0, "id": 138117177, "level": 2}
+{"count": 4135, "name": "Peta-", "weight": 0.0, "id": 2776128355, "level": 2}
+{"count": 120, "name": "Hidden line removal", "weight": 0.0, "id": 166175156, "level": 2}
+{"count": 1150, "name": "ActionScript", "weight": 0.0, "id": 111471085, "level": 2}
+{"count": 278, "name": "Stippling", "weight": 0.0, "id": 118010191, "level": 2}
+{"count": 276, "name": "Clip art", "weight": 0.0, "id": 2779175430, "level": 2}
+{"count": 338, "name": "Film editing", "weight": 0.0, "id": 122191670, "level": 2}
+{"count": 451, "name": "Multiple buffering", "weight": 0.0, "id": 162100846, "level": 2}
+{"count": 93, "name": "Architectural rendering", "weight": 0.0, "id": 2779433276, "level": 2}
+{"count": 212, "name": "Wire-frame model", "weight": 0.0, "id": 9189035, "level": 2}
+{"count": 3493, "name": "Dot matrix", "weight": 0.0, "id": 21119673, "level": 2}
+{"count": 73, "name": "Digital sculpting", "weight": 0.0, "id": 2778847677, "level": 2}
+{"count": 136, "name": "Euler operator", "weight": 0.0, "id": 2778503978, "level": 2}
+{"count": 310, "name": "Line art", "weight": 0.0, "id": 2777812574, "level": 2}
+{"count": 262, "name": "T-spline", "weight": 0.0, "id": 8928276, "level": 2}
+{"count": 675, "name": "DVD-Video", "weight": 0.0, "id": 168006643, "level": 2}
+{"count": 186, "name": "Diffusion curve", "weight": 0.0, "id": 2778070212, "level": 2}
+{"count": 1023, "name": "Viewport", "weight": 0.0, "id": 2778090530, "level": 2}
+{"count": 339, "name": "Windows Metafile", "weight": 0.0, "id": 134516912, "level": 2}
+{"count": 215, "name": "Text mode", "weight": 0.0, "id": 2780822518, "level": 2}
+{"count": 145, "name": "Digital illustration", "weight": 0.0, "id": 2776020175, "level": 2}
+{"count": 84, "name": "DirectDraw", "weight": 0.0, "id": 2777665543, "level": 2}
+{"count": 91, "name": "DVD-RW", "weight": 0.0, "id": 2780567261, "level": 2}
+{"count": 289, "name": "Spot color", "weight": 0.0, "id": 2779158536, "level": 2}
+{"count": 118, "name": "UV mapping", "weight": 0.0, "id": 122871186, "level": 2}
+{"count": 199, "name": "Color bleeding", "weight": 0.0, "id": 137428570, "level": 2}
+{"count": 64, "name": "OpenFlight", "weight": 0.0, "id": 2776358284, "level": 2}
+{"count": 141, "name": "Box modeling", "weight": 0.0, "id": 85333361, "level": 2}
+{"count": 118, "name": "Razer", "weight": 0.0, "id": 2779290202, "level": 2}
+{"count": 55, "name": "Art-Net", "weight": 0.0, "id": 2780581346, "level": 2}
+{"count": 492, "name": "Klip", "weight": 0.0, "id": 2779030688, "level": 2}
+{"count": 21, "name": "Bouquets to Art", "weight": 0.0, "id": 2776614505, "level": 2}
+{"count": 148, "name": "Low poly", "weight": 0.0, "id": 1832112, "level": 2}
+{"count": 89, "name": "HPGL", "weight": 0.0, "id": 82479966, "level": 2}
+{"count": 114, "name": "Light stage", "weight": 0.0, "id": 18310825, "level": 2}
+{"count": 111, "name": "Light painting", "weight": 0.0, "id": 2778689996, "level": 2}
+{"count": 92, "name": "Universal 3D", "weight": 0.0, "id": 2780183339, "level": 2}
+{"count": 68, "name": "Skybox", "weight": 0.0, "id": 2779076809, "level": 2}
+{"count": 82, "name": "Immediate mode", "weight": 0.0, "id": 2780837806, "level": 2}
+{"count": 6, "name": "Z-fighting", "weight": 0.0, "id": 2776719056, "level": 2}
+{"count": 38, "name": "HDCAM", "weight": 0.0, "id": 2776430768, "level": 2}
+{"count": 13, "name": "ChromaDepth", "weight": 0.0, "id": 2778344028, "level": 2}
+{"count": 16, "name": "Ostwald color system", "weight": 0.0, "id": 2778033327, "level": 2}
+{"count": 88, "name": "Graphics Device Interface", "weight": 0.0, "id": 2781061003, "level": 2}
+{"count": 160, "name": "Film format", "weight": 0.0, "id": 2778803325, "level": 2}
+{"count": 4, "name": "Cyrus\u2013Beck algorithm", "weight": 0.0, "id": 2778068750, "level": 2}
+{"count": 119, "name": "dPVS", "weight": 0.0, "id": 2776429975, "level": 2}
+{"count": 9, "name": "Phantogram", "weight": 0.0, "id": 2780427946, "level": 2}
+{"count": 16, "name": "Fog display", "weight": 0.0, "id": 2779110001, "level": 2}
+{"count": 40, "name": "Blend modes", "weight": 0.0, "id": 71517142, "level": 2}
+{"count": 37, "name": "Onion skinning", "weight": 0.0, "id": 2777663368, "level": 2}
+{"count": 6, "name": "Wiggle stereoscopy", "weight": 0.0, "id": 2777772002, "level": 2}
+{"count": 9, "name": "Screen-door effect", "weight": 0.0, "id": 2779659110, "level": 2}
+{"count": 4, "name": "Least squares conformal map", "weight": 0.0, "id": 2781090997, "level": 2}
+{"count": 21, "name": "Vexel", "weight": 0.0, "id": 2777302966, "level": 2}
+{"count": 2, "name": "Spinning mirror system", "weight": 0.0, "id": 2777970905, "level": 2}
+{"count": 35, "name": "UCLA Film and Television Archive", "weight": 0.0, "id": 507926335, "level": 2}
+{"count": 20, "name": "3D computer graphics software", "weight": 0.0, "id": 2776196303, "level": 2}
+{"count": 16, "name": "Dolly zoom", "weight": 0.0, "id": 2777350354, "level": 2}
+{"count": 2, "name": "Stanford dragon", "weight": 0.0, "id": 2776209396, "level": 2}
+{"count": 12, "name": "Virtual replay", "weight": 0.0, "id": 2778043332, "level": 2}
+{"count": 7, "name": "Image embossing", "weight": 0.0, "id": 2779770944, "level": 2}
+{"count": 8, "name": "OpenEV", "weight": 0.0, "id": 2777219241, "level": 2}
+{"count": 1, "name": "Multiscopy", "weight": 0.0, "id": 2778847905, "level": 2}
+{"count": 7, "name": "Screentone", "weight": 0.0, "id": 2776571772, "level": 2}
+{"count": 585, "name": "Lightning (connector)", "weight": 0.0, "id": 69398868, "level": 2}
+{"count": 29, "name": "Color print film", "weight": 0.0, "id": 2778410904, "level": 2}
+{"count": 6, "name": "Geomipmapping", "weight": 0.0, "id": 2779739914, "level": 2}
+{"count": 114, "name": "Splash screen", "weight": 0.0, "id": 2780618824, "level": 2}
+{"count": 2, "name": "Graphics display resolution", "weight": 0.0, "id": 2777658603, "level": 2}
+{"count": 1, "name": "False radiosity", "weight": 0.0, "id": 2780962077, "level": 2}
+{"count": 7, "name": "Hardware overlay", "weight": 0.0, "id": 2779347262, "level": 2}
+{"count": 8, "name": "Vector monitor", "weight": 0.0, "id": 2780770965, "level": 2}
+{"count": 5, "name": "Swap Chain", "weight": 0.0, "id": 2776089672, "level": 2}
+{"count": 15, "name": "Dodging and burning", "weight": 0.0, "id": 2777005588, "level": 2}
+{"count": 1, "name": "Warnock algorithm", "weight": 0.0, "id": 2776848005, "level": 2}
+{"count": 5, "name": "Morph target animation", "weight": 0.0, "id": 2778706851, "level": 2}
+{"count": 9, "name": "Parametric animation", "weight": 0.0, "id": 2780891565, "level": 2}
+{"count": 3, "name": "Polarized 3D system", "weight": 0.0, "id": 69879424, "level": 2}
+{"count": 1, "name": "Glaze3D", "weight": 0.0, "id": 91456993, "level": 2}
+{"count": 1, "name": "Volumetric printing", "weight": 0.0, "id": 2777366069, "level": 2}
+{"count": 18, "name": "Stereoscopic Displays and Applications", "weight": 0.0, "id": 2781063020, "level": 2}
+{"count": 1, "name": "Polarizing organic photovoltaics", "weight": 0.0, "id": 2781075441, "level": 2}
+{"count": 2, "name": "GraphiCon", "weight": 0.0, "id": 2780026319, "level": 2}
+{"count": 1, "name": "Open Shading Language", "weight": 0.0, "id": 2780187838, "level": 2}
+{"count": 2, "name": "Flat Display Mounting Interface", "weight": 0.0, "id": 2777720322, "level": 2}
+{"count": 1, "name": "Nicholl\u2013Lee\u2013Nicholl", "weight": 0.0, "id": 2780889548, "level": 2}
+{"count": 1, "name": "Microsoft Talisman", "weight": 0.0, "id": 2781246596, "level": 2}
+{"count": 1, "name": "Worley noise", "weight": 0.0, "id": 46610725, "level": 2}
+{"count": 3, "name": "Stock illustration", "weight": 0.0, "id": 2778243525, "level": 2}
+{"count": 4, "name": "Display motion blur", "weight": 0.0, "id": 2777235360, "level": 2}
+{"count": 3, "name": "RenderMan Interface Specification", "weight": 0.0, "id": 2780277438, "level": 2}
+{"count": 5, "name": "Screen tearing", "weight": 0.0, "id": 2776817546, "level": 2}
+{"count": 48, "name": "Monitor filter", "weight": 0.0, "id": 2777235101, "level": 2}
+{"count": 14, "name": "Polygonizer", "weight": 0.0, "id": 2776312641, "level": 2}
+{"count": 7, "name": "Font rasterization", "weight": 0.0, "id": 2778156605, "level": 2}
+{"count": 1, "name": "Shadeop", "weight": 0.0, "id": 2780741406, "level": 2}
+{"count": 2, "name": "Icosphere", "weight": 0.0, "id": 2778628023, "level": 2}
+{"count": 1, "name": "TCO Certification", "weight": 0.0, "id": 2776085798, "level": 2}
+{"count": 194, "name": "Lines per inch", "weight": 0.0, "id": 125134623, "level": 2}
+{"count": 2, "name": "Geometry pipelines", "weight": 0.0, "id": 2777952187, "level": 2}
+{"count": 1, "name": "Image and object order rendering", "weight": 0.0, "id": 2777956133, "level": 2}
+{"count": 6, "name": "Demo effect", "weight": 0.0, "id": 15904849, "level": 2}
+{"count": 10, "name": "Kai's Power Tools", "weight": 0.0, "id": 2780735438, "level": 2}
+{"count": 2, "name": "Photoshop plugin", "weight": 0.0, "id": 2780978808, "level": 2}
+{"count": 1, "name": "Photoshop contest", "weight": 0.0, "id": 2781170966, "level": 2}
+{"count": 2, "name": "S3 ViRGE", "weight": 0.0, "id": 39714245, "level": 2}
+{"count": 2, "name": "The Shapes Project", "weight": 0.0, "id": 2775854821, "level": 2}
+{"count": 2, "name": "Glu3d", "weight": 0.0, "id": 2779545863, "level": 2}
+{"count": 1, "name": "Antiportal", "weight": 0.0, "id": 2777568736, "level": 2}
+{"count": 8, "name": "Fixed pixel display", "weight": 0.0, "id": 2780842757, "level": 2}
+{"count": 3, "name": "TXGA", "weight": 0.0, "id": 2778627509, "level": 2}
+{"count": 3, "name": "Stereoautograph", "weight": 0.0, "id": 2779388224, "level": 2}
+{"count": 1, "name": "Vertical blank interrupt", "weight": 0.0, "id": 2777289224, "level": 2}
+{"count": 1, "name": "MotionParallax3D", "weight": 0.0, "id": 2779069251, "level": 2}
+{"count": 2, "name": "particleIllusion", "weight": 0.0, "id": 2779703987, "level": 2}
+{"count": 4, "name": "Alpha to coverage", "weight": 0.0, "id": 53225858, "level": 2}
+{"count": 2, "name": "Multisample anti-aliasing", "weight": 0.0, "id": 104051086, "level": 2}
+{"count": 2, "name": "Glossary of computer graphics", "weight": 0.0, "id": 2779338258, "level": 2}
+{"count": 3, "name": "Calligraphic projection", "weight": 0.0, "id": 2777703930, "level": 2}
+{"count": 2, "name": "Weiler\u2013Atherton clipping algorithm", "weight": 0.0, "id": 2779884477, "level": 2}
+{"count": 1, "name": "High-Performance Addressing", "weight": 0.0, "id": 2776551744, "level": 2}
+{"count": 4, "name": "NURMS", "weight": 0.0, "id": 2776070011, "level": 2}
+{"count": 2, "name": "Graphic art software", "weight": 0.0, "id": 2779112161, "level": 2}

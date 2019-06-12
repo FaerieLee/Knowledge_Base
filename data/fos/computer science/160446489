@@ -1,0 +1,5 @@
+{"count": 1671, "name": "String kernel", "weight": 6.0, "id": 55851704, "level": 5}
+{"count": 1264, "name": "Graph kernel", "weight": 4.0, "id": 100595998, "level": 5}
+{"count": 2726, "name": "Tree kernel", "weight": 10.0, "id": 140417398, "level": 5}
+{"count": 50, "name": "Kernel perceptron", "weight": 0.0, "id": 2777218236, "level": 5}
+{"count": 278, "name": "Geometric modeling kernel", "weight": 1.0, "id": 49450516, "level": 5}

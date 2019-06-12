@@ -1,0 +1,160 @@
+{"count": 133623, "name": "High voltage", "weight": 10.0, "id": 88182573, "level": 3}
+{"count": 63264, "name": "Low voltage", "weight": 4.0, "id": 128624480, "level": 3}
+{"count": 77367, "name": "AC power", "weight": 5.0, "id": 108755667, "level": 3}
+{"count": 47046, "name": "Threshold voltage", "weight": 3.0, "id": 195370968, "level": 3}
+{"count": 24269, "name": "Total harmonic distortion", "weight": 1.0, "id": 42156128, "level": 3}
+{"count": 61050, "name": "Direct current", "weight": 4.0, "id": 2776620479, "level": 3}
+{"count": 12685, "name": "Commutation", "weight": 0.0, "id": 2780147050, "level": 3}
+{"count": 98396, "name": "Resistor", "weight": 7.0, "id": 137488568, "level": 3}
+{"count": 19302, "name": "Open-circuit voltage", "weight": 1.0, "id": 57631264, "level": 3}
+{"count": 37385, "name": "Voltage regulator", "weight": 2.0, "id": 110706871, "level": 3}
+{"count": 26390, "name": "Breakdown voltage", "weight": 1.0, "id": 119321828, "level": 3}
+{"count": 15135, "name": "Power quality", "weight": 1.0, "id": 2779665505, "level": 3}
+{"count": 97756, "name": "Inverter", "weight": 7.0, "id": 11190779, "level": 3}
+{"count": 36229, "name": "Alternating current", "weight": 2.0, "id": 2779876028, "level": 3}
+{"count": 27206, "name": "Thyristor", "weight": 2.0, "id": 121922863, "level": 3}
+{"count": 6062, "name": "Switching frequency", "weight": 0.0, "id": 2777151078, "level": 3}
+{"count": 17980, "name": "Partial discharge", "weight": 1.0, "id": 130143024, "level": 3}
+{"count": 18697, "name": "Insulated-gate bipolar transistor", "weight": 1.0, "id": 28285623, "level": 3}
+{"count": 13237, "name": "Electrostatic discharge", "weight": 0.0, "id": 205483674, "level": 3}
+{"count": 11827, "name": "State of charge", "weight": 0.0, "id": 2776582896, "level": 3}
+{"count": 20765, "name": "Overvoltage", "weight": 1.0, "id": 15703209, "level": 3}
+{"count": 19170, "name": "Series and parallel circuits", "weight": 1.0, "id": 95023266, "level": 3}
+{"count": 35607, "name": "Voltage regulation", "weight": 2.0, "id": 196226539, "level": 3}
+{"count": 17577, "name": "Charge pump", "weight": 1.0, "id": 114825011, "level": 3}
+{"count": 48216, "name": "Rectifier", "weight": 3.0, "id": 2780157159, "level": 3}
+{"count": 8034, "name": "Arc flash", "weight": 0.0, "id": 200769187, "level": 3}
+{"count": 1047, "name": "Transient (oscillation)", "weight": 0.0, "id": 30379805, "level": 3}
+{"count": 5827, "name": "Voltage sag", "weight": 0.0, "id": 2781134633, "level": 3}
+{"count": 4139, "name": "Emtp", "weight": 0.0, "id": 2778363592, "level": 3}
+{"count": 18354, "name": "Voltage drop", "weight": 1.0, "id": 82178898, "level": 3}
+{"count": 39330, "name": "Comparator", "weight": 2.0, "id": 155745195, "level": 3}
+{"count": 5310, "name": "Snubber", "weight": 0.0, "id": 58018660, "level": 3}
+{"count": 1574, "name": "Adjustable-speed drive", "weight": 0.0, "id": 2778344601, "level": 3}
+{"count": 15795, "name": "Overcurrent", "weight": 1.0, "id": 47949032, "level": 3}
+{"count": 22397, "name": "Current source", "weight": 1.0, "id": 2781331714, "level": 3}
+{"count": 2533, "name": "Current conveyor", "weight": 0.0, "id": 110252649, "level": 3}
+{"count": 14366, "name": "Decoupling capacitor", "weight": 1.0, "id": 35196352, "level": 3}
+{"count": 51038, "name": "Voltage source", "weight": 3.0, "id": 144655898, "level": 3}
+{"count": 7083, "name": "Varistor", "weight": 0.0, "id": 58289394, "level": 3}
+{"count": 6607, "name": "Spark gap", "weight": 0.0, "id": 67737819, "level": 3}
+{"count": 11048, "name": "Current mirror", "weight": 0.0, "id": 173966970, "level": 3}
+{"count": 15312, "name": "Current sensor", "weight": 1.0, "id": 55000061, "level": 3}
+{"count": 4584, "name": "High-voltage direct current", "weight": 0.0, "id": 2781163877, "level": 3}
+{"count": 4225, "name": "Voltmeter", "weight": 0.0, "id": 165051773, "level": 3}
+{"count": 1942, "name": "Silicon-controlled rectifier", "weight": 0.0, "id": 79279894, "level": 3}
+{"count": 6674, "name": "Voltage converter", "weight": 0.0, "id": 2780053542, "level": 3}
+{"count": 30302, "name": "Voltage reference", "weight": 2.0, "id": 44351266, "level": 3}
+{"count": 5958, "name": "Electrical breakdown", "weight": 0.0, "id": 191695590, "level": 3}
+{"count": 767, "name": "Dielectric withstand test", "weight": 0.0, "id": 190540093, "level": 3}
+{"count": 37184, "name": "Voltage divider", "weight": 2.0, "id": 49324399, "level": 3}
+{"count": 5745, "name": "Zero crossing", "weight": 0.0, "id": 120415902, "level": 3}
+{"count": 933, "name": "Safe operating area", "weight": 0.0, "id": 186339688, "level": 3}
+{"count": 2555, "name": "Resonant converter", "weight": 0.0, "id": 2779502970, "level": 3}
+{"count": 7278, "name": "Internal resistance", "weight": 0.0, "id": 106945098, "level": 3}
+{"count": 1339, "name": "Ferroresonance in electricity networks", "weight": 0.0, "id": 101382669, "level": 3}
+{"count": 1010, "name": "Pulse forming network", "weight": 0.0, "id": 2780868961, "level": 3}
+{"count": 9977, "name": "Electrode array", "weight": 0.0, "id": 97562148, "level": 3}
+{"count": 5965, "name": "Bridge circuit", "weight": 0.0, "id": 2775982562, "level": 3}
+{"count": 661, "name": "Electrostatic generator", "weight": 0.0, "id": 149608117, "level": 3}
+{"count": 1242, "name": "Regulated power supply", "weight": 0.0, "id": 2779582625, "level": 3}
+{"count": 2793, "name": "Symmetrical components", "weight": 0.0, "id": 165296897, "level": 3}
+{"count": 3686, "name": "Ammeter", "weight": 0.0, "id": 17477027, "level": 3}
+{"count": 556, "name": "Envelope Tracking", "weight": 0.0, "id": 27030619, "level": 3}
+{"count": 14806, "name": "Power supply unit", "weight": 1.0, "id": 37454539, "level": 3}
+{"count": 4872, "name": "DC-BUS", "weight": 0.0, "id": 2780320074, "level": 3}
+{"count": 6626, "name": "Zener diode", "weight": 0.0, "id": 50566616, "level": 3}
+{"count": 2057, "name": "Voltage spike", "weight": 0.0, "id": 200980170, "level": 3}
+{"count": 1595, "name": "Charge sharing", "weight": 0.0, "id": 2781179661, "level": 3}
+{"count": 4631, "name": "Surge arrester", "weight": 0.0, "id": 179087008, "level": 3}
+{"count": 2631, "name": "Counter-electromotive force", "weight": 0.0, "id": 152565533, "level": 3}
+{"count": 10756, "name": "AC/AC converter", "weight": 0.0, "id": 150636421, "level": 3}
+{"count": 2133, "name": "Schmitt trigger", "weight": 0.0, "id": 90201813, "level": 3}
+{"count": 11207, "name": "Single-phase electric power", "weight": 0.0, "id": 50825304, "level": 3}
+{"count": 4449, "name": "Earthing system", "weight": 0.0, "id": 78779171, "level": 3}
+{"count": 7487, "name": "Logic level", "weight": 0.0, "id": 146569638, "level": 3}
+{"count": 2580, "name": "Transient recovery voltage", "weight": 0.0, "id": 72047438, "level": 3}
+{"count": 25100, "name": "Constant current", "weight": 1.0, "id": 53392680, "level": 3}
+{"count": 7762, "name": "Buffer amplifier", "weight": 0.0, "id": 127749002, "level": 3}
+{"count": 2252, "name": "Power (physics)", "weight": 0.0, "id": 163258240, "level": 3}
+{"count": 14146, "name": "Driver circuit", "weight": 1.0, "id": 183848499, "level": 3}
+{"count": 3210, "name": "Current loop", "weight": 0.0, "id": 123414225, "level": 3}
+{"count": 1542, "name": "Cycloconverter", "weight": 0.0, "id": 144494184, "level": 3}
+{"count": 3110, "name": "TRIAC", "weight": 0.0, "id": 174618433, "level": 3}
+{"count": 804, "name": "Electric power quality", "weight": 0.0, "id": 2778160759, "level": 3}
+{"count": 4733, "name": "Dimmer", "weight": 0.0, "id": 134534956, "level": 3}
+{"count": 1187, "name": "Noise margin", "weight": 0.0, "id": 179499742, "level": 3}
+{"count": 4029, "name": "Charge control", "weight": 0.0, "id": 2777681924, "level": 3}
+{"count": 9687, "name": "Volt", "weight": 0.0, "id": 157985801, "level": 3}
+{"count": 6552, "name": "Gate driver", "weight": 0.0, "id": 179141203, "level": 3}
+{"count": 840, "name": "Th\u00e9venin's theorem", "weight": 0.0, "id": 540940223, "level": 3}
+{"count": 946, "name": "Saturable reactor", "weight": 0.0, "id": 33867759, "level": 3}
+{"count": 5271, "name": "Clamper", "weight": 0.0, "id": 64881904, "level": 3}
+{"count": 2112, "name": "Traction substation", "weight": 0.0, "id": 145528699, "level": 3}
+{"count": 1789, "name": "Thyratron", "weight": 0.0, "id": 101946123, "level": 3}
+{"count": 1571, "name": "Polarity reversal", "weight": 0.0, "id": 55942622, "level": 3}
+{"count": 1763, "name": "Crowbar", "weight": 0.0, "id": 2780655974, "level": 3}
+{"count": 817, "name": "Streamer discharge", "weight": 0.0, "id": 2781036261, "level": 3}
+{"count": 4660, "name": "Solid-state relay", "weight": 0.0, "id": 79997944, "level": 3}
+{"count": 417, "name": "Shaft voltage", "weight": 0.0, "id": 2779325604, "level": 3}
+{"count": 4797, "name": "Filter capacitor", "weight": 0.0, "id": 157808515, "level": 3}
+{"count": 3117, "name": "Transient voltage suppressor", "weight": 0.0, "id": 14915586, "level": 3}
+{"count": 1800, "name": "Ground and neutral", "weight": 0.0, "id": 171166322, "level": 3}
+{"count": 2160, "name": "Polarity symbols", "weight": 0.0, "id": 109825930, "level": 3}
+{"count": 3507, "name": "Power-on reset", "weight": 0.0, "id": 126386889, "level": 3}
+{"count": 2028, "name": "Linear element", "weight": 0.0, "id": 131228792, "level": 3}
+{"count": 1790, "name": "Impulse generator", "weight": 0.0, "id": 93657659, "level": 3}
+{"count": 13192, "name": "Automotive battery", "weight": 0.0, "id": 45811908, "level": 3}
+{"count": 1399, "name": "Charge controller", "weight": 0.0, "id": 2776636718, "level": 3}
+{"count": 636, "name": "Digital potentiometer", "weight": 0.0, "id": 71950323, "level": 3}
+{"count": 5595, "name": "Electronic switch", "weight": 0.0, "id": 56016822, "level": 3}
+{"count": 735, "name": "Depth of discharge", "weight": 0.0, "id": 2780106510, "level": 3}
+{"count": 561, "name": "Ampere balance", "weight": 0.0, "id": 201436500, "level": 3}
+{"count": 1702, "name": "Virtual ground", "weight": 0.0, "id": 198273841, "level": 3}
+{"count": 1192, "name": "Antifuse", "weight": 0.0, "id": 2776310973, "level": 3}
+{"count": 1647, "name": "Voltage reduction", "weight": 0.0, "id": 2780745134, "level": 3}
+{"count": 310, "name": "Linear transformer driver", "weight": 0.0, "id": 2777062854, "level": 3}
+{"count": 887, "name": "Electric power conversion", "weight": 0.0, "id": 2778248986, "level": 3}
+{"count": 112, "name": "Adaptive voltage scaling", "weight": 0.0, "id": 2776842331, "level": 3}
+{"count": 3961, "name": "Line driver", "weight": 0.0, "id": 942694, "level": 3}
+{"count": 178, "name": "Cascade converter", "weight": 0.0, "id": 2780998737, "level": 3}
+{"count": 11721, "name": "Trickle charging", "weight": 0.0, "id": 31419778, "level": 3}
+{"count": 82, "name": "Paschen's law", "weight": 0.0, "id": 2776798080, "level": 3}
+{"count": 130, "name": "Three-phase electric power", "weight": 0.0, "id": 2781258170, "level": 3}
+{"count": 79, "name": "Scratch drive actuator", "weight": 0.0, "id": 2776935141, "level": 3}
+{"count": 196, "name": "Power management integrated circuit", "weight": 0.0, "id": 2778163588, "level": 3}
+{"count": 936, "name": "Center tap", "weight": 0.0, "id": 83514697, "level": 3}
+{"count": 39, "name": "IEC 61000-3-2", "weight": 0.0, "id": 2776911603, "level": 3}
+{"count": 412, "name": "Smart Battery", "weight": 0.0, "id": 2780830436, "level": 3}
+{"count": 154, "name": "Live-line working", "weight": 0.0, "id": 148942090, "level": 3}
+{"count": 1052, "name": "Arc suppression", "weight": 0.0, "id": 2779234724, "level": 3}
+{"count": 247, "name": "Valve hall", "weight": 0.0, "id": 2776736170, "level": 3}
+{"count": 758, "name": "Backup battery", "weight": 0.0, "id": 2779084766, "level": 3}
+{"count": 326, "name": "Ignitron", "weight": 0.0, "id": 196508298, "level": 3}
+{"count": 354, "name": "Foldback (sound engineering)", "weight": 0.0, "id": 54529747, "level": 3}
+{"count": 1344, "name": "Surge protector", "weight": 0.0, "id": 2780531657, "level": 3}
+{"count": 630, "name": "V curve", "weight": 0.0, "id": 2776542265, "level": 3}
+{"count": 32, "name": "Charge-transfer amplifier", "weight": 0.0, "id": 2780104801, "level": 3}
+{"count": 79, "name": "Inchworm motor", "weight": 0.0, "id": 2781185119, "level": 3}
+{"count": 2282, "name": "Test light", "weight": 0.0, "id": 123392854, "level": 3}
+{"count": 129, "name": "BCDMOS", "weight": 0.0, "id": 2777965145, "level": 3}
+{"count": 469, "name": "Electrical polarity", "weight": 0.0, "id": 127181054, "level": 3}
+{"count": 18, "name": "Electrostatic fluid accelerator", "weight": 0.0, "id": 2778792704, "level": 3}
+{"count": 271, "name": "Grid bias", "weight": 0.0, "id": 2776393602, "level": 3}
+{"count": 53, "name": "LM317", "weight": 0.0, "id": 2778925203, "level": 3}
+{"count": 219, "name": "Insulation monitoring device", "weight": 0.0, "id": 2777635065, "level": 3}
+{"count": 47, "name": "Weston cell", "weight": 0.0, "id": 113155762, "level": 3}
+{"count": 42, "name": "Water-activated battery", "weight": 0.0, "id": 2776694382, "level": 3}
+{"count": 21, "name": "Peak copper", "weight": 0.0, "id": 2776668680, "level": 3}
+{"count": 92, "name": "Boost controller", "weight": 0.0, "id": 2778581623, "level": 3}
+{"count": 203, "name": "Transverter", "weight": 0.0, "id": 2779111426, "level": 3}
+{"count": 243, "name": "Differential TTL", "weight": 0.0, "id": 28579321, "level": 3}
+{"count": 35, "name": "Transposition tower", "weight": 0.0, "id": 2778641142, "level": 3}
+{"count": 11, "name": "Earth battery", "weight": 0.0, "id": 2780954703, "level": 3}
+{"count": 23, "name": "Four-wire circuit", "weight": 0.0, "id": 2777779611, "level": 3}
+{"count": 60, "name": "Liquid resistor", "weight": 0.0, "id": 2780426835, "level": 3}
+{"count": 77, "name": "Cathode bias", "weight": 0.0, "id": 2776337730, "level": 3}
+{"count": 48, "name": "Wetting current", "weight": 0.0, "id": 64295470, "level": 3}
+{"count": 23, "name": "Statvolt", "weight": 0.0, "id": 107145526, "level": 3}
+{"count": 20, "name": "Inherent zero", "weight": 0.0, "id": 2776746551, "level": 3}
+{"count": 12, "name": "Voltage ladder", "weight": 0.0, "id": 2781227618, "level": 3}

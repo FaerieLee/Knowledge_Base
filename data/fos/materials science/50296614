@@ -1,0 +1,16 @@
+{"count": 23442, "name": "Flip chip", "weight": 10.0, "id": 79072407, "level": 3}
+{"count": 3732, "name": "Surface-mount technology", "weight": 1.0, "id": 2776584680, "level": 3}
+{"count": 11192, "name": "Ball grid array", "weight": 4.0, "id": 94709252, "level": 3}
+{"count": 4014, "name": "Reflow soldering", "weight": 1.0, "id": 2778413121, "level": 3}
+{"count": 2173, "name": "Solderability", "weight": 0.0, "id": 2778115343, "level": 3}
+{"count": 3455, "name": "Solder ball", "weight": 1.0, "id": 2778606475, "level": 3}
+{"count": 7747, "name": "Solder paste", "weight": 3.0, "id": 191281628, "level": 3}
+{"count": 4533, "name": "Wave soldering", "weight": 1.0, "id": 97850793, "level": 3}
+{"count": 2333, "name": "Bumping", "weight": 0.0, "id": 2776512755, "level": 3}
+{"count": 1728, "name": "Solder mask", "weight": 0.0, "id": 2776304140, "level": 3}
+{"count": 234, "name": "Ultrasonic soldering", "weight": 0.0, "id": 2777285977, "level": 3}
+{"count": 261, "name": "JEDEC memory standards", "weight": 0.0, "id": 124568556, "level": 3}
+{"count": 53, "name": "Tin pest", "weight": 0.0, "id": 158334679, "level": 3}
+{"count": 80, "name": "Hot air solder leveling", "weight": 0.0, "id": 2780904741, "level": 3}
+{"count": 58, "name": "Through-hole technology", "weight": 0.0, "id": 2778475573, "level": 3}
+{"count": 14, "name": "Implant bars", "weight": 0.0, "id": 2780001839, "level": 3}

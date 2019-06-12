@@ -1,0 +1,68 @@
+{"count": 75368, "name": "Ejection fraction", "weight": 10.0, "id": 78085059, "level": 4}
+{"count": 31606, "name": "Cardiac function curve", "weight": 4.0, "id": 111566952, "level": 4}
+{"count": 21799, "name": "Dilated cardiomyopathy", "weight": 2.0, "id": 2776383484, "level": 4}
+{"count": 11532, "name": "Brain natriuretic peptide", "weight": 1.0, "id": 2775846464, "level": 4}
+{"count": 12890, "name": "Natriuretic peptide", "weight": 1.0, "id": 2775915353, "level": 4}
+{"count": 10891, "name": "Cardiac resynchronization therapy", "weight": 1.0, "id": 2776034619, "level": 4}
+{"count": 11641, "name": "Digoxin", "weight": 1.0, "id": 2777707475, "level": 4}
+{"count": 6596, "name": "Spironolactone", "weight": 0.0, "id": 2776379505, "level": 4}
+{"count": 9899, "name": "Ventricular remodeling", "weight": 1.0, "id": 2779537366, "level": 4}
+{"count": 5596, "name": "Carvedilol", "weight": 0.0, "id": 2780591200, "level": 4}
+{"count": 12410, "name": "Ventricular assist device", "weight": 1.0, "id": 2778774980, "level": 4}
+{"count": 5513, "name": "Left bundle branch block", "weight": 0.0, "id": 2777473070, "level": 4}
+{"count": 5104, "name": "Beta blocker", "weight": 0.0, "id": 2778742482, "level": 4}
+{"count": 2289, "name": "Milrinone", "weight": 0.0, "id": 2776645727, "level": 4}
+{"count": 2276, "name": "Hypertensive heart disease", "weight": 0.0, "id": 2780045698, "level": 4}
+{"count": 2366, "name": "Levosimendan", "weight": 0.0, "id": 2777335384, "level": 4}
+{"count": 3035, "name": "Acute decompensated heart failure", "weight": 0.0, "id": 2779295919, "level": 4}
+{"count": 1677, "name": "Central sleep apnea", "weight": 0.0, "id": 2780168309, "level": 4}
+{"count": 2132, "name": "Bisoprolol", "weight": 0.0, "id": 2779670145, "level": 4}
+{"count": 818, "name": "Cheyne\u2013Stokes respiration", "weight": 0.0, "id": 2777150844, "level": 4}
+{"count": 1269, "name": "Periodic breathing", "weight": 0.0, "id": 2780595715, "level": 4}
+{"count": 5698, "name": "Pressure overload", "weight": 0.0, "id": 2778271984, "level": 4}
+{"count": 3643, "name": "Cardiac fibrosis", "weight": 0.0, "id": 2777420927, "level": 4}
+{"count": 1153, "name": "Amrinone", "weight": 0.0, "id": 2779739782, "level": 4}
+{"count": 2177, "name": "Cardiac amyloidosis", "weight": 0.0, "id": 2777607188, "level": 4}
+{"count": 1760, "name": "Peripartum cardiomyopathy", "weight": 0.0, "id": 2778490853, "level": 4}
+{"count": 1361, "name": "Tolvaptan", "weight": 0.0, "id": 2780615674, "level": 4}
+{"count": 1623, "name": "Restrictive cardiomyopathy", "weight": 0.0, "id": 2779962030, "level": 4}
+{"count": 856, "name": "Nesiritide", "weight": 0.0, "id": 2777386981, "level": 4}
+{"count": 1228, "name": "Cardiorenal syndrome", "weight": 0.0, "id": 2781309322, "level": 4}
+{"count": 3566, "name": "Volume overload", "weight": 0.0, "id": 24595384, "level": 4}
+{"count": 574, "name": "Enoximone", "weight": 0.0, "id": 2780529135, "level": 4}
+{"count": 2987, "name": "Exercise intolerance", "weight": 0.0, "id": 2777321227, "level": 4}
+{"count": 406, "name": "Ibopamine", "weight": 0.0, "id": 2776268178, "level": 4}
+{"count": 911, "name": "Cardiomyoplasty", "weight": 0.0, "id": 2777612989, "level": 4}
+{"count": 1198, "name": "Loop diuretic", "weight": 0.0, "id": 2781117629, "level": 4}
+{"count": 307, "name": "Tachycardia-induced cardiomyopathy", "weight": 0.0, "id": 2778613787, "level": 4}
+{"count": 233, "name": "Vesnarinone", "weight": 0.0, "id": 2777890048, "level": 4}
+{"count": 458, "name": "Vasopressin Antagonists", "weight": 0.0, "id": 2779881253, "level": 4}
+{"count": 158, "name": "Flosequinan", "weight": 0.0, "id": 2778509296, "level": 4}
+{"count": 541, "name": "Pimobendan", "weight": 0.0, "id": 2775848184, "level": 4}
+{"count": 362, "name": "Cellular cardiomyoplasty", "weight": 0.0, "id": 2780289084, "level": 4}
+{"count": 256, "name": "Torsemide", "weight": 0.0, "id": 2777422703, "level": 4}
+{"count": 586, "name": "Jugular venous pressure", "weight": 0.0, "id": 2777016511, "level": 4}
+{"count": 83, "name": "Candoxatril", "weight": 0.0, "id": 2777511694, "level": 4}
+{"count": 248, "name": "Serelaxin", "weight": 0.0, "id": 2776517137, "level": 4}
+{"count": 1001, "name": "Orthopnea", "weight": 0.0, "id": 2777150611, "level": 4}
+{"count": 600, "name": "Cardiac reserve", "weight": 0.0, "id": 7048679, "level": 4}
+{"count": 353, "name": "Noncompaction cardiomyopathy", "weight": 0.0, "id": 2778358503, "level": 4}
+{"count": 137, "name": "Omecamtiv mecarbil", "weight": 0.0, "id": 2778514115, "level": 4}
+{"count": 243, "name": "High-output heart failure", "weight": 0.0, "id": 2780271722, "level": 4}
+{"count": 161, "name": "Patiromer", "weight": 0.0, "id": 2778910263, "level": 4}
+{"count": 62, "name": "Istaroxime", "weight": 0.0, "id": 2780330370, "level": 4}
+{"count": 151, "name": "Pirbuterol", "weight": 0.0, "id": 2779169934, "level": 4}
+{"count": 119, "name": "Waon therapy", "weight": 0.0, "id": 2778586372, "level": 4}
+{"count": 33, "name": "Interleukin-1 receptor family", "weight": 0.0, "id": 2780260573, "level": 4}
+{"count": 125, "name": "Congestive hepatopathy", "weight": 0.0, "id": 2777051112, "level": 4}
+{"count": 32, "name": "Ecadotril", "weight": 0.0, "id": 2775876967, "level": 4}
+{"count": 69, "name": "Idiopathic giant-cell myocarditis", "weight": 0.0, "id": 2776951350, "level": 4}
+{"count": 31, "name": "Trepopnea", "weight": 0.0, "id": 2779382883, "level": 4}
+{"count": 350, "name": "Enlarged heart", "weight": 0.0, "id": 2777156760, "level": 4}
+{"count": 1632, "name": "Management of heart failure", "weight": 0.0, "id": 2781374807, "level": 4}
+{"count": 68, "name": "AbioCor", "weight": 0.0, "id": 2776227362, "level": 4}
+{"count": 61, "name": "Paroxysmal nocturnal dyspnoea", "weight": 0.0, "id": 2781434922, "level": 4}
+{"count": 67, "name": "Arteriolar vasodilator", "weight": 0.0, "id": 2779278435, "level": 4}
+{"count": 8, "name": "Celacade", "weight": 0.0, "id": 2779719431, "level": 4}
+{"count": 35, "name": "Bathmotropic", "weight": 0.0, "id": 154719756, "level": 4}
+{"count": 9, "name": "Mydicar", "weight": 0.0, "id": 2776627075, "level": 4}

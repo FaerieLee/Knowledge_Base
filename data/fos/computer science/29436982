@@ -1,0 +1,13 @@
+{"count": 8610, "name": "Geographic routing", "weight": 10.0, "id": 50558702, "level": 4}
+{"count": 3745, "name": "Distance-vector routing protocol", "weight": 4.0, "id": 202385902, "level": 4}
+{"count": 71, "name": "Fisheye State Routing", "weight": 0.0, "id": 2781013576, "level": 4}
+{"count": 483, "name": "Hybrid routing", "weight": 0.0, "id": 2776955676, "level": 4}
+{"count": 279, "name": "Deterministic routing", "weight": 0.0, "id": 2781003203, "level": 4}
+{"count": 2528, "name": "Routing Information Protocol", "weight": 2.0, "id": 7573999, "level": 4}
+{"count": 13, "name": "Hierarchical state routing", "weight": 0.0, "id": 2780139579, "level": 4}
+{"count": 532, "name": "Backpressure routing", "weight": 0.0, "id": 49605964, "level": 4}
+{"count": 190, "name": "Heuristic routing", "weight": 0.0, "id": 2777939325, "level": 4}
+{"count": 2509, "name": "Triangular routing", "weight": 2.0, "id": 22655229, "level": 4}
+{"count": 62, "name": "Fuzzy routing", "weight": 0.0, "id": 2776050578, "level": 4}
+{"count": 13, "name": "Routing loop problem", "weight": 0.0, "id": 2777477496, "level": 4}
+{"count": 5820, "name": "DSRFLOW", "weight": 6.0, "id": 193794138, "level": 4}

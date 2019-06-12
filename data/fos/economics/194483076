@@ -1,0 +1,11 @@
+{"count": 3474, "name": "Asian option", "weight": 10.0, "id": 1898038, "level": 3}
+{"count": 722, "name": "Barrier option", "weight": 2.0, "id": 2776631005, "level": 3}
+{"count": 2131, "name": "Call option", "weight": 6.0, "id": 2777600642, "level": 3}
+{"count": 2316, "name": "Binomial options pricing model", "weight": 6.0, "id": 105235620, "level": 3}
+{"count": 236, "name": "Esscher transform", "weight": 0.0, "id": 2777167254, "level": 3}
+{"count": 211, "name": "Basket option", "weight": 0.0, "id": 2780280162, "level": 3}
+{"count": 259, "name": "Compound option", "weight": 0.0, "id": 2778119015, "level": 3}
+{"count": 137, "name": "Spread option", "weight": 0.0, "id": 2781258388, "level": 3}
+{"count": 2144, "name": "Monte Carlo methods for option pricing", "weight": 6.0, "id": 101710237, "level": 3}
+{"count": 2262, "name": "Finite difference methods for option pricing", "weight": 6.0, "id": 104859751, "level": 3}
+{"count": 611, "name": "Datar\u2013Mathews method for real option valuation", "weight": 1.0, "id": 165807764, "level": 3}

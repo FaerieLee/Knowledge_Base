@@ -1,0 +1,10 @@
+{"count": 372, "name": "Related-key attack", "weight": 5.0, "id": 83975546, "level": 5}
+{"count": 612, "name": "Slide attack", "weight": 9.0, "id": 89694405, "level": 5}
+{"count": 45, "name": "SOSEMANUK", "weight": 0.0, "id": 2776414332, "level": 5}
+{"count": 53, "name": "SHACAL", "weight": 0.0, "id": 2779224948, "level": 5}
+{"count": 17, "name": "HC-256", "weight": 0.0, "id": 2780941983, "level": 5}
+{"count": 666, "name": "Fluhrer, Mantin and Shamir attack", "weight": 10.0, "id": 56906370, "level": 5}
+{"count": 90, "name": "Content Scramble System", "weight": 1.0, "id": 86645113, "level": 5}
+{"count": 311, "name": "Rail fence cipher", "weight": 4.0, "id": 90645967, "level": 5}
+{"count": 90, "name": "Kasiski examination", "weight": 1.0, "id": 111179778, "level": 5}
+{"count": 64, "name": "Rip van Winkle cipher", "weight": 0.0, "id": 199494038, "level": 5}

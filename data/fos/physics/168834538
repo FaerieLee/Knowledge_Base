@@ -1,0 +1,107 @@
+{"count": 60182, "name": "Cathode ray", "weight": 10.0, "id": 95312477, "level": 3}
+{"count": 44239, "name": "Particle accelerator", "weight": 7.0, "id": 189166818, "level": 3}
+{"count": 29196, "name": "Linear particle accelerator", "weight": 4.0, "id": 180048950, "level": 3}
+{"count": 29618, "name": "Storage ring", "weight": 4.0, "id": 2776595292, "level": 3}
+{"count": 55755, "name": "Light beam", "weight": 9.0, "id": 191463272, "level": 3}
+{"count": 7892, "name": "Beam steering", "weight": 1.0, "id": 143148639, "level": 3}
+{"count": 21689, "name": "Prestressed concrete", "weight": 3.0, "id": 2780886216, "level": 3}
+{"count": 10510, "name": "Gaussian beam", "weight": 1.0, "id": 2778315978, "level": 3}
+{"count": 22406, "name": "Bending moment", "weight": 3.0, "id": 70673446, "level": 3}
+{"count": 4718, "name": "Optical vortex", "weight": 0.0, "id": 130404759, "level": 3}
+{"count": 29718, "name": "Collimated light", "weight": 4.0, "id": 34445779, "level": 3}
+{"count": 11550, "name": "Timoshenko beam theory", "weight": 1.0, "id": 190699663, "level": 3}
+{"count": 4023, "name": "Self-focusing", "weight": 0.0, "id": 45290791, "level": 3}
+{"count": 4179, "name": "Laser beam machining", "weight": 0.0, "id": 2778386843, "level": 3}
+{"count": 3545, "name": "Composite construction", "weight": 0.0, "id": 2776445639, "level": 3}
+{"count": 2094, "name": "Interaction point", "weight": 0.0, "id": 2778453073, "level": 3}
+{"count": 3643, "name": "Moving load", "weight": 0.0, "id": 26016710, "level": 3}
+{"count": 2691, "name": "Proton Synchrotron", "weight": 0.0, "id": 2776691733, "level": 3}
+{"count": 12871, "name": "Thermal emittance", "weight": 2.0, "id": 92508244, "level": 3}
+{"count": 2154, "name": "Bessel beam", "weight": 0.0, "id": 2781389838, "level": 3}
+{"count": 6184, "name": "Ultimate load", "weight": 1.0, "id": 203373105, "level": 3}
+{"count": 8676, "name": "Particle beam", "weight": 1.0, "id": 31190367, "level": 3}
+{"count": 3974, "name": "Plastic hinge", "weight": 0.0, "id": 2778510302, "level": 3}
+{"count": 3493, "name": "Carbon fiber reinforced polymer", "weight": 0.0, "id": 2777178879, "level": 3}
+{"count": 2898, "name": "Electrostatic lens", "weight": 0.0, "id": 131397105, "level": 3}
+{"count": 16849, "name": "Electron gun", "weight": 2.0, "id": 179156687, "level": 3}
+{"count": 34842, "name": "Laser beam quality", "weight": 5.0, "id": 115171683, "level": 3}
+{"count": 15285, "name": "Beam splitter", "weight": 2.0, "id": 19819980, "level": 3}
+{"count": 5265, "name": "Three point flexural test", "weight": 0.0, "id": 86060186, "level": 3}
+{"count": 927, "name": "Constrained-layer damping", "weight": 0.0, "id": 2780435114, "level": 3}
+{"count": 2197, "name": "Portal frame", "weight": 0.0, "id": 195979141, "level": 3}
+{"count": 15709, "name": "Beamline", "weight": 2.0, "id": 136959337, "level": 3}
+{"count": 10141, "name": "Bending stiffness", "weight": 1.0, "id": 128172907, "level": 3}
+{"count": 5171, "name": "Reference beam", "weight": 0.0, "id": 2779892119, "level": 3}
+{"count": 1611, "name": "Axicon", "weight": 0.0, "id": 2776024604, "level": 3}
+{"count": 11700, "name": "Charged particle beam", "weight": 1.0, "id": 93215691, "level": 3}
+{"count": 2828, "name": "Bragg peak", "weight": 0.0, "id": 2780944729, "level": 3}
+{"count": 3038, "name": "Concrete cover", "weight": 0.0, "id": 2776136241, "level": 3}
+{"count": 1627, "name": "J-PARC", "weight": 0.0, "id": 2777047556, "level": 3}
+{"count": 6635, "name": "Paraxial approximation", "weight": 1.0, "id": 56034020, "level": 3}
+{"count": 3210, "name": "Quadrupole magnet", "weight": 0.0, "id": 176234127, "level": 3}
+{"count": 1076, "name": "Flexibility method", "weight": 0.0, "id": 72249523, "level": 3}
+{"count": 2300, "name": "Neutral axis", "weight": 0.0, "id": 66743075, "level": 3}
+{"count": 1280, "name": "I-beam", "weight": 0.0, "id": 2776311590, "level": 3}
+{"count": 5337, "name": "Betatron", "weight": 0.0, "id": 101819353, "level": 3}
+{"count": 157, "name": "Zero Gradient Synchrotron", "weight": 0.0, "id": 2778260053, "level": 3}
+{"count": 814, "name": "Corbel", "weight": 0.0, "id": 109865853, "level": 3}
+{"count": 2503, "name": "Pencil (optics)", "weight": 0.0, "id": 134949993, "level": 3}
+{"count": 279, "name": "Proton beam writing", "weight": 0.0, "id": 2779280270, "level": 3}
+{"count": 1104, "name": "Beam dump", "weight": 0.0, "id": 155774979, "level": 3}
+{"count": 5034, "name": "Plane mirror", "weight": 0.0, "id": 63655563, "level": 3}
+{"count": 1860, "name": "T-beam", "weight": 0.0, "id": 64004221, "level": 3}
+{"count": 1902, "name": "Signal beam", "weight": 0.0, "id": 2778062137, "level": 3}
+{"count": 3133, "name": "Rotary inertia", "weight": 0.0, "id": 146996283, "level": 3}
+{"count": 1795, "name": "Faraday cup", "weight": 0.0, "id": 180541544, "level": 3}
+{"count": 706, "name": "Influence line", "weight": 0.0, "id": 52626767, "level": 3}
+{"count": 1374, "name": "Steel plate shear wall", "weight": 0.0, "id": 139700937, "level": 3}
+{"count": 164, "name": "Goos\u2013H\u00e4nchen effect", "weight": 0.0, "id": 2778106545, "level": 3}
+{"count": 2380, "name": "Direct integration of a beam", "weight": 0.0, "id": 55684356, "level": 3}
+{"count": 186, "name": "Electron beam machining", "weight": 0.0, "id": 2778514358, "level": 3}
+{"count": 2081, "name": "Statically indeterminate", "weight": 0.0, "id": 55884918, "level": 3}
+{"count": 296, "name": "Voussoir", "weight": 0.0, "id": 2776712776, "level": 3}
+{"count": 655, "name": "Glued laminated timber", "weight": 0.0, "id": 2780544823, "level": 3}
+{"count": 461, "name": "Moment redistribution", "weight": 0.0, "id": 2778032525, "level": 3}
+{"count": 417, "name": "Wien filter", "weight": 0.0, "id": 156176656, "level": 3}
+{"count": 1076, "name": "Spandrel", "weight": 0.0, "id": 59024983, "level": 3}
+{"count": 677, "name": "Moment-resisting frame", "weight": 0.0, "id": 2779319121, "level": 3}
+{"count": 3192, "name": "Joist", "weight": 0.0, "id": 2775926657, "level": 3}
+{"count": 293, "name": "Modified Compression Field Theory", "weight": 0.0, "id": 2776300232, "level": 3}
+{"count": 2395, "name": "Condenser (optics)", "weight": 0.0, "id": 53551116, "level": 3}
+{"count": 5583, "name": "Beam bridge", "weight": 0.0, "id": 127416549, "level": 3}
+{"count": 551, "name": "Flattop", "weight": 0.0, "id": 2779438975, "level": 3}
+{"count": 469, "name": "Airy beam", "weight": 0.0, "id": 2778735019, "level": 3}
+{"count": 610, "name": "Crash box", "weight": 0.0, "id": 2781072362, "level": 3}
+{"count": 1910, "name": "Hanging basket", "weight": 0.0, "id": 2775932970, "level": 3}
+{"count": 243, "name": "Dove prism", "weight": 0.0, "id": 2777431957, "level": 3}
+{"count": 793, "name": "Synchrocyclotron", "weight": 0.0, "id": 140811162, "level": 3}
+{"count": 172, "name": "Diocotron instability", "weight": 0.0, "id": 2778932734, "level": 3}
+{"count": 213, "name": "Hogging", "weight": 0.0, "id": 2775920173, "level": 3}
+{"count": 229, "name": "Synchrophasotron", "weight": 0.0, "id": 2777139900, "level": 3}
+{"count": 126, "name": "Inductive output tube", "weight": 0.0, "id": 2779395395, "level": 3}
+{"count": 296, "name": "Beam crossing", "weight": 0.0, "id": 2777236017, "level": 3}
+{"count": 727, "name": "Strong focusing", "weight": 0.0, "id": 2778533554, "level": 3}
+{"count": 101, "name": "Sandwich theory", "weight": 0.0, "id": 2778815149, "level": 3}
+{"count": 119, "name": "Tractor beam", "weight": 0.0, "id": 2778205198, "level": 3}
+{"count": 87, "name": "Elastica theory", "weight": 0.0, "id": 2779615899, "level": 3}
+{"count": 99, "name": "Electron-beam additive manufacturing", "weight": 0.0, "id": 2778612266, "level": 3}
+{"count": 18, "name": "Beam lead technology", "weight": 0.0, "id": 2781069914, "level": 3}
+{"count": 135, "name": "Weak focusing", "weight": 0.0, "id": 2780007857, "level": 3}
+{"count": 395, "name": "Bond beam", "weight": 0.0, "id": 187956444, "level": 3}
+{"count": 530, "name": "Beam axle", "weight": 0.0, "id": 2776689096, "level": 3}
+{"count": 18, "name": "Staggered tuning", "weight": 0.0, "id": 2777693146, "level": 3}
+{"count": 247, "name": "Grade beam", "weight": 0.0, "id": 167443659, "level": 3}
+{"count": 74, "name": "Structural engineering theory", "weight": 0.0, "id": 24876551, "level": 3}
+{"count": 49, "name": "Beam engine", "weight": 0.0, "id": 170406152, "level": 3}
+{"count": 7, "name": "Macaulay's method", "weight": 0.0, "id": 22375264, "level": 3}
+{"count": 58, "name": "RTML", "weight": 0.0, "id": 2778542672, "level": 3}
+{"count": 49, "name": "Perry Robertson formula", "weight": 0.0, "id": 36490490, "level": 3}
+{"count": 44, "name": "Gas focusing", "weight": 0.0, "id": 2778725095, "level": 3}
+{"count": 5737, "name": "Reinforced solid", "weight": 0.0, "id": 118519418, "level": 3}
+{"count": 33, "name": "Suppressor grid", "weight": 0.0, "id": 2777501995, "level": 3}
+{"count": 67, "name": "Minimum total potential energy principle", "weight": 0.0, "id": 2778800587, "level": 3}
+{"count": 15, "name": "Twist-beam rear suspension", "weight": 0.0, "id": 2779274662, "level": 3}
+{"count": 15, "name": "Wood lagging", "weight": 0.0, "id": 149528890, "level": 3}
+{"count": 21, "name": "Beam deflection tube", "weight": 0.0, "id": 2779910867, "level": 3}
+{"count": 26, "name": "Electrostatic pickup", "weight": 0.0, "id": 2780024700, "level": 3}
+{"count": 12, "name": "Concrete fracture analysis", "weight": 0.0, "id": 2780530342, "level": 3}

@@ -1,0 +1,4 @@
+{"count": 1308, "name": "R-tree", "weight": 7.0, "id": 106278948, "level": 4}
+{"count": 1196, "name": "Large margin nearest neighbor", "weight": 6.0, "id": 94475309, "level": 4}
+{"count": 1788, "name": "Best bin first", "weight": 10.0, "id": 161986146, "level": 4}
+{"count": 78, "name": "iDistance", "weight": 0.0, "id": 2777717936, "level": 4}

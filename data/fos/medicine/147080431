@@ -1,0 +1,27 @@
+{"count": 11067, "name": "Confocal microscopy", "weight": 8.0, "id": 2779178360, "level": 3}
+{"count": 7194, "name": "Near-field scanning optical microscope", "weight": 5.0, "id": 21799368, "level": 3}
+{"count": 2393, "name": "Ptychography", "weight": 1.0, "id": 78153596, "level": 3}
+{"count": 1954, "name": "Intravital microscopy", "weight": 1.0, "id": 2859252, "level": 3}
+{"count": 2564, "name": "Multiphoton fluorescence microscope", "weight": 1.0, "id": 99288877, "level": 3}
+{"count": 2396, "name": "Interference microscopy", "weight": 1.0, "id": 152194808, "level": 3}
+{"count": 1747, "name": "Differential interference contrast microscopy", "weight": 1.0, "id": 109986877, "level": 3}
+{"count": 7043, "name": "Dark field microscopy", "weight": 5.0, "id": 53120450, "level": 3}
+{"count": 3893, "name": "Digital holographic microscopy", "weight": 2.0, "id": 59994255, "level": 3}
+{"count": 895, "name": "Bright-field microscopy", "weight": 0.0, "id": 14764753, "level": 3}
+{"count": 7091, "name": "Kelvin probe force microscope", "weight": 5.0, "id": 83898325, "level": 3}
+{"count": 372, "name": "Scanning transmission X-ray microscopy", "weight": 0.0, "id": 2778709404, "level": 3}
+{"count": 1854, "name": "Optical sectioning", "weight": 1.0, "id": 20446124, "level": 3}
+{"count": 221, "name": "Time-lapse microscopy", "weight": 0.0, "id": 182303636, "level": 3}
+{"count": 204, "name": "Soft x-ray microscopy", "weight": 0.0, "id": 2778434695, "level": 3}
+{"count": 684, "name": "Water window", "weight": 0.0, "id": 2780884700, "level": 3}
+{"count": 768, "name": "X-ray microscope", "weight": 0.0, "id": 35138650, "level": 3}
+{"count": 321, "name": "Total internal reflection microscopy", "weight": 0.0, "id": 2778827181, "level": 3}
+{"count": 163, "name": "Dronpa", "weight": 0.0, "id": 2777828398, "level": 3}
+{"count": 286, "name": "Interferometric microscopy", "weight": 0.0, "id": 2778906987, "level": 3}
+{"count": 64, "name": "GSD microscopy", "weight": 0.0, "id": 95462814, "level": 3}
+{"count": 644, "name": "Raman microscope", "weight": 0.0, "id": 2779971283, "level": 3}
+{"count": 221, "name": "Microscopy and Microanalysis", "weight": 0.0, "id": 2775999396, "level": 3}
+{"count": 27, "name": "Scanning joule expansion microscopy", "weight": 0.0, "id": 2778598369, "level": 3}
+{"count": 270, "name": "Photothermal microspectroscopy", "weight": 0.0, "id": 26081457, "level": 3}
+{"count": 13030, "name": "Scanning confocal electron microscopy", "weight": 10.0, "id": 187921700, "level": 3}
+{"count": 30, "name": "Lattice light-sheet microscopy", "weight": 0.0, "id": 2779130956, "level": 3}

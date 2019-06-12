@@ -1,0 +1,10 @@
+{"count": 1277, "name": "Reading frame", "weight": 10.0, "id": 166253671, "level": 5}
+{"count": 751, "name": "Release factor", "weight": 5.0, "id": 2779498050, "level": 5}
+{"count": 197, "name": "Pyrrolysine", "weight": 1.0, "id": 2777555519, "level": 5}
+{"count": 211, "name": "SECIS element", "weight": 1.0, "id": 2778913194, "level": 5}
+{"count": 175, "name": "Ataluren", "weight": 1.0, "id": 2781440207, "level": 5}
+{"count": 303, "name": "Codon degeneracy", "weight": 2.0, "id": 63429274, "level": 5}
+{"count": 353, "name": "DNA codon table", "weight": 2.0, "id": 860103, "level": 5}
+{"count": 16, "name": "Transterm", "weight": 0.0, "id": 2779885649, "level": 5}
+{"count": 27, "name": "Eukaryotic release factors", "weight": 0.0, "id": 2778905737, "level": 5}
+{"count": 20, "name": "Sup45p", "weight": 0.0, "id": 2778969452, "level": 5}

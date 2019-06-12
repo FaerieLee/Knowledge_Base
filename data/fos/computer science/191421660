@@ -1,0 +1,4 @@
+{"count": 103, "name": "Pseudoprime", "weight": 3.0, "id": 137433629, "level": 3}
+{"count": 305, "name": "Miller\u2013Rabin primality test", "weight": 10.0, "id": 154555751, "level": 3}
+{"count": 276, "name": "Primality certificate", "weight": 9.0, "id": 174543953, "level": 3}
+{"count": 248, "name": "Solovay\u2013Strassen primality test", "weight": 8.0, "id": 183314674, "level": 3}

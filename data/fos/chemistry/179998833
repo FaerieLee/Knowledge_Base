@@ -1,0 +1,80 @@
+{"count": 27536, "name": "Tandem mass spectrometry", "weight": 3.0, "id": 31827203, "level": 3}
+{"count": 32200, "name": "Solid phase extraction", "weight": 4.0, "id": 81426234, "level": 3}
+{"count": 21165, "name": "Reversed-phase chromatography", "weight": 2.0, "id": 45188465, "level": 3}
+{"count": 25510, "name": "Electrospray ionization", "weight": 3.0, "id": 40684141, "level": 3}
+{"count": 26089, "name": "Derivatization", "weight": 3.0, "id": 2776923573, "level": 3}
+{"count": 73462, "name": "Elution", "weight": 10.0, "id": 73826308, "level": 3}
+{"count": 40329, "name": "Column chromatography", "weight": 5.0, "id": 51724486, "level": 3}
+{"count": 13048, "name": "Selected reaction monitoring", "weight": 1.0, "id": 71043704, "level": 3}
+{"count": 10171, "name": "Hydrophilic interaction chromatography", "weight": 1.0, "id": 116817701, "level": 3}
+{"count": 10936, "name": "Standard curve", "weight": 1.0, "id": 70784841, "level": 3}
+{"count": 2846, "name": "Fast protein liquid chromatography", "weight": 0.0, "id": 195310446, "level": 3}
+{"count": 6870, "name": "Chromatography detector", "weight": 0.0, "id": 110084920, "level": 3}
+{"count": 1770, "name": "Two-dimensional chromatography", "weight": 0.0, "id": 137777109, "level": 3}
+{"count": 2738, "name": "Monolithic HPLC column", "weight": 0.0, "id": 134871310, "level": 3}
+{"count": 3963, "name": "Baicalin", "weight": 0.0, "id": 2780113650, "level": 3}
+{"count": 2541, "name": "Paeoniflorin", "weight": 0.0, "id": 2776918747, "level": 3}
+{"count": 10271, "name": "Ammonium acetate", "weight": 1.0, "id": 2780782300, "level": 3}
+{"count": 33913, "name": "Calibration curve", "weight": 4.0, "id": 23531484, "level": 3}
+{"count": 557, "name": "Chlorphenamine", "weight": 0.0, "id": 2777086215, "level": 3}
+{"count": 1534, "name": "Icariin", "weight": 0.0, "id": 2780685212, "level": 3}
+{"count": 2278, "name": "Protein precipitation", "weight": 0.0, "id": 74774607, "level": 3}
+{"count": 1274, "name": "Paeonol", "weight": 0.0, "id": 2778833331, "level": 3}
+{"count": 4765, "name": "Chiral column chromatography", "weight": 0.0, "id": 16838498, "level": 3}
+{"count": 1150, "name": "Palmatine", "weight": 0.0, "id": 2778439678, "level": 3}
+{"count": 877, "name": "Micellar liquid chromatography", "weight": 0.0, "id": 5342626, "level": 3}
+{"count": 774, "name": "Scutellarin", "weight": 0.0, "id": 2779942398, "level": 3}
+{"count": 988, "name": "Forced degradation", "weight": 0.0, "id": 2777682752, "level": 3}
+{"count": 798, "name": "Imperatorin", "weight": 0.0, "id": 2778692553, "level": 3}
+{"count": 783, "name": "Gastrodin", "weight": 0.0, "id": 2781248740, "level": 3}
+{"count": 1155, "name": "Hyperoside", "weight": 0.0, "id": 2776586676, "level": 3}
+{"count": 410, "name": "2,4-Dinitrophenylhydrazine", "weight": 0.0, "id": 2777465316, "level": 3}
+{"count": 1609, "name": "Astragaloside", "weight": 0.0, "id": 2777061170, "level": 3}
+{"count": 292, "name": "Dexamethasone acetate", "weight": 0.0, "id": 2777833989, "level": 3}
+{"count": 574, "name": "Tetrahydropalmatine", "weight": 0.0, "id": 2780946745, "level": 3}
+{"count": 459, "name": "Sudan I", "weight": 0.0, "id": 2780279838, "level": 3}
+{"count": 626, "name": "Liquiritin", "weight": 0.0, "id": 2780536827, "level": 3}
+{"count": 462, "name": "Syringin", "weight": 0.0, "id": 2780506021, "level": 3}
+{"count": 489, "name": "Protocatechuic aldehyde", "weight": 0.0, "id": 2779424369, "level": 3}
+{"count": 332, "name": "Arctiin", "weight": 0.0, "id": 2780777537, "level": 3}
+{"count": 228, "name": "Harpagoside", "weight": 0.0, "id": 2777757434, "level": 3}
+{"count": 486, "name": "Propylparaben", "weight": 0.0, "id": 2777415180, "level": 3}
+{"count": 310, "name": "Cinobufagin", "weight": 0.0, "id": 2776101857, "level": 3}
+{"count": 722, "name": "Schisandrin", "weight": 0.0, "id": 2778993745, "level": 3}
+{"count": 260, "name": "Phillyrin", "weight": 0.0, "id": 2778878269, "level": 3}
+{"count": 464, "name": "Neohesperidin", "weight": 0.0, "id": 2777501004, "level": 3}
+{"count": 241, "name": "Isofraxidin", "weight": 0.0, "id": 2779400443, "level": 3}
+{"count": 117, "name": "Fangchinoline", "weight": 0.0, "id": 2777925427, "level": 3}
+{"count": 765, "name": "Van Deemter equation", "weight": 0.0, "id": 168727773, "level": 3}
+{"count": 280, "name": "Deoxyschizandrin", "weight": 0.0, "id": 2780356555, "level": 3}
+{"count": 153, "name": "Methylephedrine", "weight": 0.0, "id": 2778117262, "level": 3}
+{"count": 119, "name": "Charged aerosol detector", "weight": 0.0, "id": 2776666619, "level": 3}
+{"count": 1112, "name": "Autosampler", "weight": 0.0, "id": 2778501678, "level": 3}
+{"count": 322, "name": "Neochlorogenic acid", "weight": 0.0, "id": 2777989345, "level": 3}
+{"count": 88, "name": "Pachymic acid", "weight": 0.0, "id": 2779139773, "level": 3}
+{"count": 250, "name": "Para Red", "weight": 0.0, "id": 2776531867, "level": 3}
+{"count": 2525, "name": "Chiral derivatizing agent", "weight": 0.0, "id": 47849319, "level": 3}
+{"count": 66, "name": "Promecarb", "weight": 0.0, "id": 2778947240, "level": 3}
+{"count": 95, "name": "Metacycline", "weight": 0.0, "id": 2778222829, "level": 3}
+{"count": 88, "name": "Sophoricoside", "weight": 0.0, "id": 2776024631, "level": 3}
+{"count": 88, "name": "Curculigoside", "weight": 0.0, "id": 2780460748, "level": 3}
+{"count": 41, "name": "Sulfabenzamide", "weight": 0.0, "id": 2777035404, "level": 3}
+{"count": 147, "name": "Dihydrotanshinone", "weight": 0.0, "id": 2776023578, "level": 3}
+{"count": 126, "name": "Dyclonine", "weight": 0.0, "id": 2778523069, "level": 3}
+{"count": 157, "name": "Triethylammonium acetate", "weight": 0.0, "id": 2776179943, "level": 3}
+{"count": 23, "name": "Sulfametoxydiazine", "weight": 0.0, "id": 2775853248, "level": 3}
+{"count": 24, "name": "Bamipine", "weight": 0.0, "id": 2781320070, "level": 3}
+{"count": 56, "name": "Tenuifolin", "weight": 0.0, "id": 2776622128, "level": 3}
+{"count": 15, "name": "Tipredane", "weight": 0.0, "id": 2779577609, "level": 3}
+{"count": 35, "name": "8-Chlorotheophylline", "weight": 0.0, "id": 2778345166, "level": 3}
+{"count": 41, "name": "Demoxepam", "weight": 0.0, "id": 2779121201, "level": 3}
+{"count": 47, "name": "Pamabrom", "weight": 0.0, "id": 2780514004, "level": 3}
+{"count": 56, "name": "Engeletin", "weight": 0.0, "id": 2778532156, "level": 3}
+{"count": 18, "name": "Malus doumeri", "weight": 0.0, "id": 2778835268, "level": 3}
+{"count": 65, "name": "Benproperine", "weight": 0.0, "id": 2776656008, "level": 3}
+{"count": 21, "name": "Berchemia lineata", "weight": 0.0, "id": 2781388207, "level": 3}
+{"count": 39, "name": "Rodgersia", "weight": 0.0, "id": 2779364220, "level": 3}
+{"count": 55, "name": "Sudan Red 7B", "weight": 0.0, "id": 2779188710, "level": 3}
+{"count": 15, "name": "Citrus Red 2", "weight": 0.0, "id": 2776273152, "level": 3}
+{"count": 18, "name": "Chromatography software", "weight": 0.0, "id": 2776082675, "level": 3}
+{"count": 31, "name": "Guaiacolsulfonate", "weight": 0.0, "id": 2780834038, "level": 3}

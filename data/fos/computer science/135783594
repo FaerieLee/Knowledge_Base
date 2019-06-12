@@ -1,0 +1,10 @@
+{"count": 878, "name": "Collision attack", "weight": 4.0, "id": 87538441, "level": 4}
+{"count": 799, "name": "Merkle tree", "weight": 3.0, "id": 205383636, "level": 4}
+{"count": 831, "name": "Collision resistance", "weight": 4.0, "id": 150909736, "level": 4}
+{"count": 1368, "name": "Hash tree", "weight": 6.0, "id": 27353603, "level": 4}
+{"count": 1858, "name": "MDC-2", "weight": 9.0, "id": 200086178, "level": 4}
+{"count": 1390, "name": "SHA-2", "weight": 6.0, "id": 190157925, "level": 4}
+{"count": 1180, "name": "Hash list", "weight": 5.0, "id": 159581917, "level": 4}
+{"count": 1503, "name": "Security of cryptographic hash functions", "weight": 7.0, "id": 165511393, "level": 4}
+{"count": 2058, "name": "Rolling hash", "weight": 10.0, "id": 108546238, "level": 4}
+{"count": 1666, "name": "Hash buster", "weight": 8.0, "id": 33802155, "level": 4}

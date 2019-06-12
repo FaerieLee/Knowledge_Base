@@ -1,0 +1,16 @@
+{"count": 22719, "name": "Interplanetary magnetic field", "weight": 10.0, "id": 102988692, "level": 3}
+{"count": 8862, "name": "Heliosphere", "weight": 3.0, "id": 54834619, "level": 3}
+{"count": 3248, "name": "Solar energetic particles", "weight": 1.0, "id": 13019657, "level": 3}
+{"count": 4636, "name": "Energetic neutral atom", "weight": 2.0, "id": 138560296, "level": 3}
+{"count": 11040, "name": "Coronal loop", "weight": 4.0, "id": 146138569, "level": 3}
+{"count": 2020, "name": "Exosphere", "weight": 0.0, "id": 99521031, "level": 3}
+{"count": 1313, "name": "Comet tail", "weight": 0.0, "id": 198738867, "level": 3}
+{"count": 228, "name": "Superposed epoch analysis", "weight": 0.0, "id": 2778038901, "level": 3}
+{"count": 1258, "name": "Solar radius", "weight": 0.0, "id": 95448815, "level": 3}
+{"count": 153, "name": "Solar equator", "weight": 0.0, "id": 2780466695, "level": 3}
+{"count": 13800, "name": "Nanoflares", "weight": 6.0, "id": 172600038, "level": 3}
+{"count": 6, "name": "Solar Wind Composition Experiment", "weight": 0.0, "id": 2780282292, "level": 3}
+{"count": 377, "name": "Magnetic field of the Moon", "weight": 0.0, "id": 14474903, "level": 3}
+{"count": 53, "name": "Lunar terminator", "weight": 0.0, "id": 2777168080, "level": 3}
+{"count": 21, "name": "Atmosphere of Pluto", "weight": 0.0, "id": 2780879142, "level": 3}
+{"count": 8073, "name": "Ionospheric dynamo region", "weight": 3.0, "id": 193215396, "level": 3}

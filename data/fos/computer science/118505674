@@ -1,0 +1,8 @@
+{"count": 8120, "name": "Rotary encoder", "weight": 10.0, "id": 37488316, "level": 3}
+{"count": 966, "name": "Linear encoder", "weight": 1.0, "id": 52949741, "level": 3}
+{"count": 153, "name": "Parametric Stereo", "weight": 0.0, "id": 2776016713, "level": 3}
+{"count": 136, "name": "Spectral band replication", "weight": 0.0, "id": 2777066854, "level": 3}
+{"count": 28, "name": "Delay encoding", "weight": 0.0, "id": 2781312885, "level": 3}
+{"count": 69, "name": "RC algorithm", "weight": 0.0, "id": 180756699, "level": 3}
+{"count": 48, "name": "Endec", "weight": 0.0, "id": 2777738501, "level": 3}
+{"count": 9, "name": "4320p", "weight": 0.0, "id": 2777052424, "level": 3}

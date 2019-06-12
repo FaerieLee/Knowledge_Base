@@ -1,0 +1,49 @@
+{"count": 10626, "name": "Brain\u2013computer interface", "weight": 8.0, "id": 173201364, "level": 3}
+{"count": 9068, "name": "Magnetoencephalography", "weight": 7.0, "id": 556910895, "level": 3}
+{"count": 5811, "name": "Epileptic seizure", "weight": 4.0, "id": 2779334592, "level": 3}
+{"count": 2450, "name": "Theta rhythm", "weight": 1.0, "id": 84644016, "level": 3}
+{"count": 5130, "name": "Motor imagery", "weight": 4.0, "id": 54808283, "level": 3}
+{"count": 1961, "name": "Electrooculography", "weight": 1.0, "id": 2778681526, "level": 3}
+{"count": 4036, "name": "Neurofeedback", "weight": 3.0, "id": 2434490, "level": 3}
+{"count": 1843, "name": "Contingent negative variation", "weight": 1.0, "id": 197951375, "level": 3}
+{"count": 2077, "name": "Electrocorticography", "weight": 1.0, "id": 2780117969, "level": 3}
+{"count": 2774, "name": "Sleep spindle", "weight": 2.0, "id": 143647101, "level": 3}
+{"count": 1821, "name": "Clinical neurophysiology", "weight": 1.0, "id": 129692064, "level": 3}
+{"count": 452, "name": "Bereitschaftspotential", "weight": 0.0, "id": 18659502, "level": 3}
+{"count": 2932, "name": "Oddball paradigm", "weight": 2.0, "id": 22334291, "level": 3}
+{"count": 680, "name": "Rolandic epilepsy", "weight": 0.0, "id": 2781471670, "level": 3}
+{"count": 525, "name": "Landau\u2013Kleffner syndrome", "weight": 0.0, "id": 2779656511, "level": 3}
+{"count": 12622, "name": "Ictal", "weight": 10.0, "id": 17755696, "level": 3}
+{"count": 1008, "name": "Burst suppression", "weight": 0.0, "id": 167639399, "level": 3}
+{"count": 2979, "name": "EEG-fMRI", "weight": 2.0, "id": 125990524, "level": 3}
+{"count": 494, "name": "Spectral edge frequency", "weight": 0.0, "id": 201000275, "level": 3}
+{"count": 425, "name": "Absence seizure", "weight": 0.0, "id": 2776309307, "level": 3}
+{"count": 586, "name": "Quantitative electroencephalography", "weight": 0.0, "id": 2781082017, "level": 3}
+{"count": 2050, "name": "K-complex", "weight": 1.0, "id": 112144039, "level": 3}
+{"count": 1031, "name": "Alpha wave", "weight": 0.0, "id": 163507328, "level": 3}
+{"count": 774, "name": "Hypsarrhythmia", "weight": 0.0, "id": 2779888125, "level": 3}
+{"count": 215, "name": "Dynamic causal modelling", "weight": 0.0, "id": 2777403156, "level": 3}
+{"count": 499, "name": "Neonatal seizure", "weight": 0.0, "id": 2780208886, "level": 3}
+{"count": 203, "name": "Lempel-Ziv complexity", "weight": 0.0, "id": 2781354480, "level": 3}
+{"count": 328, "name": "Photosensitive epilepsy", "weight": 0.0, "id": 2779080211, "level": 3}
+{"count": 201, "name": "Neural oscillation", "weight": 0.0, "id": 2778998792, "level": 3}
+{"count": 87, "name": "Neurometrics", "weight": 0.0, "id": 2780275334, "level": 3}
+{"count": 389, "name": "Intermittent photic stimulation", "weight": 0.0, "id": 2781447465, "level": 3}
+{"count": 894, "name": "Spike-and-wave", "weight": 0.0, "id": 73745247, "level": 3}
+{"count": 143, "name": "Cordance", "weight": 0.0, "id": 2780025653, "level": 3}
+{"count": 374, "name": "Beta wave", "weight": 0.0, "id": 134247398, "level": 3}
+{"count": 34, "name": "10-20 system", "weight": 0.0, "id": 186281816, "level": 3}
+{"count": 1751, "name": "Seizure types", "weight": 1.0, "id": 2780874087, "level": 3}
+{"count": 132, "name": "Hypnogram", "weight": 0.0, "id": 2780792919, "level": 3}
+{"count": 168, "name": "Gamma wave", "weight": 0.0, "id": 1234813, "level": 3}
+{"count": 23, "name": "Hypersonic effect", "weight": 0.0, "id": 2776294138, "level": 3}
+{"count": 115, "name": "EEG microstates", "weight": 0.0, "id": 2776767298, "level": 3}
+{"count": 208, "name": "EEGLAB", "weight": 0.0, "id": 30844329, "level": 3}
+{"count": 86, "name": "Imagined speech", "weight": 0.0, "id": 2779223928, "level": 3}
+{"count": 77, "name": "Hjorth parameters", "weight": 0.0, "id": 2776644985, "level": 3}
+{"count": 47, "name": "Atonic seizure", "weight": 0.0, "id": 2780178383, "level": 3}
+{"count": 24, "name": "Stationary subspace analysis", "weight": 0.0, "id": 184478733, "level": 3}
+{"count": 113, "name": "Intermittent rhythmic delta activity", "weight": 0.0, "id": 2776933241, "level": 3}
+{"count": 204, "name": "Epileptologist", "weight": 0.0, "id": 2776429724, "level": 3}
+{"count": 1062, "name": "N100", "weight": 0.0, "id": 107297811, "level": 3}
+{"count": 16, "name": "Large irregular activity", "weight": 0.0, "id": 2779351268, "level": 3}

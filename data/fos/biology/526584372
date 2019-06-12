@@ -1,0 +1,79 @@
+{"count": 15917, "name": "Endocrine gland", "weight": 6.0, "id": 182203180, "level": 4}
+{"count": 18899, "name": "Triiodothyronine", "weight": 7.0, "id": 2778288131, "level": 4}
+{"count": 24611, "name": "Thyroid cancer", "weight": 10.0, "id": 2779761222, "level": 4}
+{"count": 11964, "name": "Thyroid hormones", "weight": 4.0, "id": 2779571634, "level": 4}
+{"count": 11316, "name": "Graves' disease", "weight": 4.0, "id": 2776652619, "level": 4}
+{"count": 6883, "name": "Thyroid hormone receptor", "weight": 2.0, "id": 109115496, "level": 4}
+{"count": 8614, "name": "Thyroid-stimulating hormone", "weight": 3.0, "id": 2777886399, "level": 4}
+{"count": 20785, "name": "Thyroidectomy", "weight": 8.0, "id": 2777074255, "level": 4}
+{"count": 10819, "name": "Thyroglobulin", "weight": 4.0, "id": 2778835679, "level": 4}
+{"count": 17284, "name": "Goiter", "weight": 7.0, "id": 2776254400, "level": 4}
+{"count": 11688, "name": "Thyroid disease", "weight": 4.0, "id": 2780176905, "level": 4}
+{"count": 6413, "name": "Iodine deficiency", "weight": 2.0, "id": 2778660577, "level": 4}
+{"count": 12457, "name": "Thyroiditis", "weight": 5.0, "id": 2778696486, "level": 4}
+{"count": 4420, "name": "Thyroid function tests", "weight": 1.0, "id": 2778840127, "level": 4}
+{"count": 4948, "name": "Congenital hypothyroidism", "weight": 2.0, "id": 2779258352, "level": 4}
+{"count": 5847, "name": "Recurrent laryngeal nerve", "weight": 2.0, "id": 2776109941, "level": 4}
+{"count": 2770, "name": "Medullary carcinoma", "weight": 1.0, "id": 2776667971, "level": 4}
+{"count": 3723, "name": "Propylthiouracil", "weight": 1.0, "id": 2775960720, "level": 4}
+{"count": 1638, "name": "Follicular cell", "weight": 0.0, "id": 2778057883, "level": 4}
+{"count": 1928, "name": "Methimazole", "weight": 0.0, "id": 2776417830, "level": 4}
+{"count": 4053, "name": "Parathyroid gland", "weight": 1.0, "id": 2778248654, "level": 4}
+{"count": 1303, "name": "Sodium-iodide symporter", "weight": 0.0, "id": 2780616701, "level": 4}
+{"count": 1762, "name": "Thyrotropin receptor", "weight": 0.0, "id": 2777608072, "level": 4}
+{"count": 2361, "name": "Myxedema", "weight": 0.0, "id": 2780101021, "level": 4}
+{"count": 1774, "name": "Anaplastic carcinoma", "weight": 0.0, "id": 2778981773, "level": 4}
+{"count": 2391, "name": "Thiouracil", "weight": 0.0, "id": 2776501357, "level": 4}
+{"count": 821, "name": "Multiple endocrine neoplasia type 2", "weight": 0.0, "id": 2776512331, "level": 4}
+{"count": 1558, "name": "Superior laryngeal nerve", "weight": 0.0, "id": 2777935861, "level": 4}
+{"count": 413, "name": "Pendred syndrome", "weight": 0.0, "id": 2781419390, "level": 4}
+{"count": 9160, "name": "Thyroid nodules", "weight": 3.0, "id": 2779022025, "level": 4}
+{"count": 4158, "name": "Anti-thyroid autoantibodies", "weight": 1.0, "id": 50181227, "level": 4}
+{"count": 5142, "name": "Thyroid peroxidase", "weight": 2.0, "id": 180650514, "level": 4}
+{"count": 1933, "name": "Thyroid cartilage", "weight": 0.0, "id": 150684551, "level": 4}
+{"count": 4141, "name": "Levothyroxine", "weight": 1.0, "id": 2775883008, "level": 4}
+{"count": 154, "name": "Thyroxine-binding proteins", "weight": 0.0, "id": 2780974877, "level": 4}
+{"count": 321, "name": "Multiple endocrine neoplasia type 2b", "weight": 0.0, "id": 2779126167, "level": 4}
+{"count": 445, "name": "Goitrogen", "weight": 0.0, "id": 2781128561, "level": 4}
+{"count": 2645, "name": "Neck mass", "weight": 1.0, "id": 2779768787, "level": 4}
+{"count": 1637, "name": "Thyroglossal duct", "weight": 0.0, "id": 2778882627, "level": 4}
+{"count": 845, "name": "Psammoma body", "weight": 0.0, "id": 174865614, "level": 4}
+{"count": 237, "name": "Parafollicular cell", "weight": 0.0, "id": 2780768220, "level": 4}
+{"count": 938, "name": "Endocrine surgery", "weight": 0.0, "id": 2776787253, "level": 4}
+{"count": 842, "name": "Struma ovarii", "weight": 0.0, "id": 2776408163, "level": 4}
+{"count": 1087, "name": "PAX8", "weight": 0.0, "id": 124224327, "level": 4}
+{"count": 652, "name": "Diiodotyrosine", "weight": 0.0, "id": 2778340925, "level": 4}
+{"count": 380, "name": "Iopanoic acid", "weight": 0.0, "id": 2780971890, "level": 4}
+{"count": 653, "name": "Methylthiouracil", "weight": 0.0, "id": 2776830370, "level": 4}
+{"count": 530, "name": "Pendrin", "weight": 0.0, "id": 2777399954, "level": 4}
+{"count": 370, "name": "Ultimopharyngeal body", "weight": 0.0, "id": 134952449, "level": 4}
+{"count": 811, "name": "Thyroid storm", "weight": 0.0, "id": 2780101865, "level": 4}
+{"count": 1752, "name": "TRH stimulation test", "weight": 0.0, "id": 4134927, "level": 4}
+{"count": 146, "name": "Benign hereditary chorea", "weight": 0.0, "id": 2776527789, "level": 4}
+{"count": 505, "name": "Superior thyroid artery", "weight": 0.0, "id": 2778453392, "level": 4}
+{"count": 361, "name": "Maternal hypothyroidism", "weight": 0.0, "id": 2778275137, "level": 4}
+{"count": 957, "name": "Endemic goitre", "weight": 0.0, "id": 2776600448, "level": 4}
+{"count": 9919, "name": "Euthyroid", "weight": 4.0, "id": 2777195454, "level": 4}
+{"count": 170, "name": "Ectopic thymus", "weight": 0.0, "id": 2779674383, "level": 4}
+{"count": 69, "name": "Effective half-life", "weight": 0.0, "id": 96906663, "level": 4}
+{"count": 287, "name": "Myxedema coma", "weight": 0.0, "id": 2777508475, "level": 4}
+{"count": 242, "name": "Endostyle", "weight": 0.0, "id": 2778357643, "level": 4}
+{"count": 112, "name": "Hyalinizing trabecular adenoma", "weight": 0.0, "id": 2779821937, "level": 4}
+{"count": 116, "name": "Dextrothyroxine", "weight": 0.0, "id": 2779195277, "level": 4}
+{"count": 493, "name": "Parathyroid disease", "weight": 0.0, "id": 2779772844, "level": 4}
+{"count": 138, "name": "3-Iodothyronamine", "weight": 0.0, "id": 2780388266, "level": 4}
+{"count": 113, "name": "Allan\u2013Herndon\u2013Dudley syndrome", "weight": 0.0, "id": 2781437497, "level": 4}
+{"count": 1005, "name": "Wolff\u2013Chaikoff effect", "weight": 0.0, "id": 158479217, "level": 4}
+{"count": 118, "name": "Strumal carcinoid", "weight": 0.0, "id": 2778016808, "level": 4}
+{"count": 82, "name": "Sternothyroid muscle", "weight": 0.0, "id": 2779629798, "level": 4}
+{"count": 54, "name": "Killian\u2013Jamieson diverticulum", "weight": 0.0, "id": 2776687717, "level": 4}
+{"count": 144, "name": "Thyrotoxic myopathy", "weight": 0.0, "id": 2781411277, "level": 4}
+{"count": 15, "name": "Van Wyk and Grumbach syndrome", "weight": 0.0, "id": 2779711286, "level": 4}
+{"count": 117, "name": "Lid lag", "weight": 0.0, "id": 2780303657, "level": 4}
+{"count": 19, "name": "Lycopus virginicus", "weight": 0.0, "id": 2778750380, "level": 4}
+{"count": 9, "name": "Thyroid diverticulum", "weight": 0.0, "id": 2779510325, "level": 4}
+{"count": 10, "name": "Monocarboxylate transporter 10", "weight": 0.0, "id": 2779406289, "level": 4}
+{"count": 28, "name": "Pretracheal fascia", "weight": 0.0, "id": 2778676774, "level": 4}
+{"count": 8, "name": "Squamous-cell thyroid carcinoma", "weight": 0.0, "id": 2780155750, "level": 4}
+{"count": 30, "name": "Thyroidologist", "weight": 0.0, "id": 2778529336, "level": 4}
+{"count": 87, "name": "Isotopes of iodine", "weight": 0.0, "id": 2780829809, "level": 4}

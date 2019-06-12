@@ -1,0 +1,8 @@
+{"count": 1986, "name": "Digitally controlled oscillator", "weight": 10.0, "id": 167872736, "level": 5}
+{"count": 895, "name": "Clapp oscillator", "weight": 4.0, "id": 69205341, "level": 5}
+{"count": 1702, "name": "Hartley oscillator", "weight": 8.0, "id": 29772837, "level": 5}
+{"count": 655, "name": "Blocking oscillator", "weight": 3.0, "id": 190755449, "level": 5}
+{"count": 1086, "name": "Armstrong oscillator", "weight": 5.0, "id": 104935580, "level": 5}
+{"count": 921, "name": "Contamination delay", "weight": 4.0, "id": 136608164, "level": 5}
+{"count": 555, "name": "Oscillator sync", "weight": 2.0, "id": 97236680, "level": 5}
+{"count": 173, "name": "Bridged T delay equaliser", "weight": 0.0, "id": 167245024, "level": 5}

@@ -1,0 +1,15 @@
+{"count": 1930, "name": "Non-uniform memory access", "weight": 2.0, "id": 133371097, "level": 5}
+{"count": 3784, "name": "Cache-only memory architecture", "weight": 4.0, "id": 3720319, "level": 5}
+{"count": 128, "name": "Hybrid Memory Cube", "weight": 0.0, "id": 2778594728, "level": 5}
+{"count": 851, "name": "Memory scrubbing", "weight": 1.0, "id": 194454742, "level": 5}
+{"count": 60, "name": "Average memory access time", "weight": 0.0, "id": 2780938252, "level": 5}
+{"count": 4655, "name": "Memory segmentation", "weight": 6.0, "id": 116957924, "level": 5}
+{"count": 26, "name": "Fully Buffered DIMM", "weight": 0.0, "id": 2778275021, "level": 5}
+{"count": 244, "name": "Memory barrier", "weight": 0.0, "id": 111094320, "level": 5}
+{"count": 173, "name": "Slab allocation", "weight": 0.0, "id": 10145245, "level": 5}
+{"count": 2198, "name": "Memory rank", "weight": 2.0, "id": 158294801, "level": 5}
+{"count": 1044, "name": "Redundant array of independent memory", "weight": 1.0, "id": 100799343, "level": 5}
+{"count": 299, "name": "Memory geometry", "weight": 0.0, "id": 44877061, "level": 5}
+{"count": 102, "name": "DOS memory management", "weight": 0.0, "id": 74094525, "level": 5}
+{"count": 3057, "name": "Computing with Memory", "weight": 3.0, "id": 152890283, "level": 5}
+{"count": 7653, "name": "Conventional memory", "weight": 10.0, "id": 53838383, "level": 5}

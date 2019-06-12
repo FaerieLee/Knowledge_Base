@@ -1,0 +1,6 @@
+{"count": 753, "name": "Stochastic context-free grammar", "weight": 4.0, "id": 199624470, "level": 4}
+{"count": 1554, "name": "Phrase structure grammar", "weight": 8.0, "id": 29184939, "level": 4}
+{"count": 1872, "name": "Context-sensitive grammar", "weight": 10.0, "id": 125950753, "level": 4}
+{"count": 1419, "name": "Indexed grammar", "weight": 7.0, "id": 79243999, "level": 4}
+{"count": 1075, "name": "Embedded pushdown automaton", "weight": 5.0, "id": 27034413, "level": 4}
+{"count": 1031, "name": "Deterministic context-free grammar", "weight": 5.0, "id": 177638518, "level": 4}

@@ -1,0 +1,8 @@
+{"count": 269, "name": "Metamorphic testing", "weight": 1.0, "id": 2777332272, "level": 3}
+{"count": 1825, "name": "PL/SQL", "weight": 10.0, "id": 32145003, "level": 3}
+{"count": 126, "name": "RMAN", "weight": 0.0, "id": 2779331459, "level": 3}
+{"count": 117, "name": "Redo log", "weight": 0.0, "id": 2775865822, "level": 3}
+{"count": 105, "name": "Tablespace", "weight": 0.0, "id": 2775965276, "level": 3}
+{"count": 112, "name": "Solaris Cluster", "weight": 0.0, "id": 90202670, "level": 3}
+{"count": 33, "name": "Virtual private database", "weight": 0.0, "id": 2777770210, "level": 3}
+{"count": 11, "name": "SQL PL", "weight": 0.0, "id": 2776911284, "level": 3}

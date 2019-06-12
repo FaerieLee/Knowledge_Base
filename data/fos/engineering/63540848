@@ -1,0 +1,12 @@
+{"count": 6917, "name": "Software fault tolerance", "weight": 10.0, "id": 50712370, "level": 3}
+{"count": 4614, "name": "Fault injection", "weight": 6.0, "id": 2775928411, "level": 3}
+{"count": 1348, "name": "Byzantine fault tolerance", "weight": 1.0, "id": 168021876, "level": 3}
+{"count": 827, "name": "Self-stabilization", "weight": 1.0, "id": 71112949, "level": 3}
+{"count": 1930, "name": "Triple modular redundancy", "weight": 2.0, "id": 196371267, "level": 3}
+{"count": 149, "name": "Time-triggered architecture", "weight": 0.0, "id": 2780157993, "level": 3}
+{"count": 573, "name": "Stable storage", "weight": 0.0, "id": 2775845083, "level": 3}
+{"count": 432, "name": "State machine replication", "weight": 0.0, "id": 49265948, "level": 3}
+{"count": 133, "name": "System Fault Tolerance", "weight": 0.0, "id": 2780806072, "level": 3}
+{"count": 189, "name": "Fault-tolerant computer system", "weight": 0.0, "id": 2781406951, "level": 3}
+{"count": 22, "name": "Error-tolerant design", "weight": 0.0, "id": 2778026437, "level": 3}
+{"count": 894, "name": "Quantum Byzantine agreement", "weight": 1.0, "id": 17532199, "level": 3}

@@ -1,0 +1,8 @@
+{"count": 9235, "name": "Software security assurance", "weight": 10.0, "id": 62913178, "level": 3}
+{"count": 809, "name": "Multilevel security", "weight": 0.0, "id": 2780085538, "level": 3}
+{"count": 225, "name": "Language-based security", "weight": 0.0, "id": 2776612076, "level": 3}
+{"count": 1596, "name": "Application security", "weight": 1.0, "id": 77109596, "level": 3}
+{"count": 222, "name": "Security kernel", "weight": 0.0, "id": 2781138592, "level": 3}
+{"count": 45, "name": "Bell\u2013LaPadula model", "weight": 0.0, "id": 2778340491, "level": 3}
+{"count": 70, "name": "Biba Model", "weight": 0.0, "id": 2779073529, "level": 3}
+{"count": 15, "name": "Clark\u2013Wilson model", "weight": 0.0, "id": 2777271309, "level": 3}

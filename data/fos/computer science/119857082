@@ -1,0 +1,200 @@
+{"count": 373076, "name": "Artificial neural network", "weight": 10.0, "id": 50644808, "level": 2}
+{"count": 38487, "name": "Seasonality", "weight": 1.0, "id": 125403950, "level": 2}
+{"count": 144225, "name": "Regression analysis", "weight": 3.0, "id": 152877465, "level": 2}
+{"count": 158233, "name": "Genetic algorithm", "weight": 4.0, "id": 8880873, "level": 2}
+{"count": 43350, "name": "Multivariate analysis", "weight": 1.0, "id": 38180746, "level": 2}
+{"count": 90711, "name": "Least squares", "weight": 2.0, "id": 176012381, "level": 2}
+{"count": 81469, "name": "Principal component analysis", "weight": 2.0, "id": 27438332, "level": 2}
+{"count": 61223, "name": "Statistical model", "weight": 1.0, "id": 114289077, "level": 2}
+{"count": 149277, "name": "Feature extraction", "weight": 4.0, "id": 52622490, "level": 2}
+{"count": 97345, "name": "Linear regression", "weight": 2.0, "id": 48921125, "level": 2}
+{"count": 43837, "name": "Analysis of variance", "weight": 1.0, "id": 99476002, "level": 2}
+{"count": 123278, "name": "Support vector machine", "weight": 3.0, "id": 12267149, "level": 2}
+{"count": 63418, "name": "Logistic regression", "weight": 1.0, "id": 151956035, "level": 2}
+{"count": 43107, "name": "Linear model", "weight": 1.0, "id": 163175372, "level": 2}
+{"count": 206465, "name": "Cluster analysis", "weight": 5.0, "id": 73555534, "level": 2}
+{"count": 44325, "name": "Hidden Markov model", "weight": 1.0, "id": 23224414, "level": 2}
+{"count": 58962, "name": "Correlation coefficient", "weight": 1.0, "id": 2780092901, "level": 2}
+{"count": 77735, "name": "Markov chain", "weight": 2.0, "id": 98763669, "level": 2}
+{"count": 12020, "name": "Self-organization", "weight": 0.0, "id": 106960710, "level": 2}
+{"count": 28738, "name": "k-nearest neighbors algorithm", "weight": 0.0, "id": 113238511, "level": 2}
+{"count": 31343, "name": "Structural equation modeling", "weight": 0.0, "id": 71104824, "level": 2}
+{"count": 43119, "name": "Decision tree", "weight": 1.0, "id": 84525736, "level": 2}
+{"count": 41717, "name": "Facial recognition system", "weight": 1.0, "id": 31510193, "level": 2}
+{"count": 43804, "name": "Sensor fusion", "weight": 1.0, "id": 33954974, "level": 2}
+{"count": 44285, "name": "Multi-agent system", "weight": 1.0, "id": 41550386, "level": 2}
+{"count": 20764, "name": "Expectation\u2013maximization algorithm", "weight": 0.0, "id": 182081679, "level": 2}
+{"count": 48959, "name": "Feature selection", "weight": 1.0, "id": 148483581, "level": 2}
+{"count": 36599, "name": "Linear discriminant analysis", "weight": 0.0, "id": 69738355, "level": 2}
+{"count": 32691, "name": "Simulated annealing", "weight": 0.0, "id": 126980161, "level": 2}
+{"count": 4627, "name": "Predictive value of tests", "weight": 0.0, "id": 198433322, "level": 2}
+{"count": 30971, "name": "Hybrid system", "weight": 0.0, "id": 50897621, "level": 2}
+{"count": 39066, "name": "Evolutionary algorithm", "weight": 1.0, "id": 159149176, "level": 2}
+{"count": 25708, "name": "Trend analysis", "weight": 0.0, "id": 127142870, "level": 2}
+{"count": 23530, "name": "Concept learning", "weight": 0.0, "id": 48164120, "level": 2}
+{"count": 47230, "name": "Feature vector", "weight": 1.0, "id": 83665646, "level": 2}
+{"count": 29482, "name": "Knowledge representation and reasoning", "weight": 0.0, "id": 161301231, "level": 2}
+{"count": 19023, "name": "Goodness of fit", "weight": 0.0, "id": 132480984, "level": 2}
+{"count": 19110, "name": "Cross-validation", "weight": 0.0, "id": 27181475, "level": 2}
+{"count": 90112, "name": "Multivariate statistics", "weight": 2.0, "id": 161584116, "level": 2}
+{"count": 27811, "name": "Mixture model", "weight": 0.0, "id": 61224824, "level": 2}
+{"count": 33421, "name": "Search algorithm", "weight": 0.0, "id": 125583679, "level": 2}
+{"count": 25056, "name": "Curve fitting", "weight": 0.0, "id": 184389593, "level": 2}
+{"count": 22635, "name": "Rule-based system", "weight": 0.0, "id": 149271511, "level": 2}
+{"count": 23349, "name": "Econometric model", "weight": 0.0, "id": 180075932, "level": 2}
+{"count": 29220, "name": "Bayesian inference", "weight": 0.0, "id": 160234255, "level": 2}
+{"count": 27374, "name": "Sensor array", "weight": 0.0, "id": 66251956, "level": 2}
+{"count": 15556, "name": "Random effects model", "weight": 0.0, "id": 168743327, "level": 2}
+{"count": 28041, "name": "Receiver operating characteristic", "weight": 0.0, "id": 58471807, "level": 2}
+{"count": 24838, "name": "Bayesian network", "weight": 0.0, "id": 33724603, "level": 2}
+{"count": 7812, "name": "Interaction", "weight": 0.0, "id": 855514, "level": 2}
+{"count": 35151, "name": "Multi-objective optimization", "weight": 0.0, "id": 68781425, "level": 2}
+{"count": 63521, "name": "Particle swarm optimization", "weight": 1.0, "id": 85617194, "level": 2}
+{"count": 10964, "name": "Instrumental variable", "weight": 0.0, "id": 162144332, "level": 2}
+{"count": 11841, "name": "Analysis of covariance", "weight": 0.0, "id": 119340705, "level": 2}
+{"count": 11831, "name": "Mixed model", "weight": 0.0, "id": 16012445, "level": 2}
+{"count": 22804, "name": "Combinatorial optimization", "weight": 0.0, "id": 52692508, "level": 2}
+{"count": 93557, "name": "Inference", "weight": 2.0, "id": 2776214188, "level": 2}
+{"count": 21260, "name": "Association rule learning", "weight": 0.0, "id": 193524817, "level": 2}
+{"count": 18722, "name": "Mutual information", "weight": 0.0, "id": 152139883, "level": 2}
+{"count": 13484, "name": "Travelling salesman problem", "weight": 0.0, "id": 175859090, "level": 2}
+{"count": 20238, "name": "Unsupervised learning", "weight": 0.0, "id": 8038995, "level": 2}
+{"count": 23386, "name": "Multilevel model", "weight": 0.0, "id": 53059260, "level": 2}
+{"count": 16039, "name": "Similarity measure", "weight": 0.0, "id": 2776517306, "level": 2}
+{"count": 22566, "name": "Rough set", "weight": 0.0, "id": 111012933, "level": 2}
+{"count": 18768, "name": "Decision rule", "weight": 0.0, "id": 84839998, "level": 2}
+{"count": 16695, "name": "Greedy algorithm", "weight": 0.0, "id": 51823790, "level": 2}
+{"count": 16626, "name": "Independent component analysis", "weight": 0.0, "id": 51432778, "level": 2}
+{"count": 28729, "name": "Recommender system", "weight": 0.0, "id": 557471498, "level": 2}
+{"count": 27357, "name": "Reinforcement learning", "weight": 0.0, "id": 97541855, "level": 2}
+{"count": 25324, "name": "Local search (optimization)", "weight": 0.0, "id": 135320971, "level": 2}
+{"count": 15779, "name": "Gradient descent", "weight": 0.0, "id": 153258448, "level": 2}
+{"count": 18466, "name": "Supervised learning", "weight": 0.0, "id": 136389625, "level": 2}
+{"count": 54800, "name": "Watershed", "weight": 1.0, "id": 150547873, "level": 2}
+{"count": 46585, "name": "Shrinkage", "weight": 1.0, "id": 180145272, "level": 2}
+{"count": 26242, "name": "Confirmatory factor analysis", "weight": 0.0, "id": 40722632, "level": 2}
+{"count": 26770, "name": "Homogeneity (statistics)", "weight": 0.0, "id": 142259097, "level": 2}
+{"count": 27675, "name": "Knowledge extraction", "weight": 0.0, "id": 120567893, "level": 2}
+{"count": 14675, "name": "Factorial experiment", "weight": 0.0, "id": 169222746, "level": 2}
+{"count": 12083, "name": "Path analysis (statistics)", "weight": 0.0, "id": 82793941, "level": 2}
+{"count": 9389, "name": "Multidimensional scaling", "weight": 0.0, "id": 91682802, "level": 2}
+{"count": 63583, "name": "Variables", "weight": 1.0, "id": 27574286, "level": 2}
+{"count": 16732, "name": "Response surface methodology", "weight": 0.0, "id": 150077022, "level": 2}
+{"count": 16601, "name": "Intelligent agent", "weight": 0.0, "id": 74072328, "level": 2}
+{"count": 21759, "name": "Anomaly detection", "weight": 0.0, "id": 739882, "level": 2}
+{"count": 24479, "name": "Statistical classification", "weight": 0.0, "id": 110083411, "level": 2}
+{"count": 11963, "name": "Case-based reasoning", "weight": 0.0, "id": 20162079, "level": 2}
+{"count": 10784, "name": "Synthetic data", "weight": 0.0, "id": 160920958, "level": 2}
+{"count": 12105, "name": "Graphical model", "weight": 0.0, "id": 155846161, "level": 2}
+{"count": 6966, "name": "Contingency table", "weight": 0.0, "id": 91998498, "level": 2}
+{"count": 18193, "name": "Sparse approximation", "weight": 0.0, "id": 124066611, "level": 2}
+{"count": 3693, "name": "Specification", "weight": 0.0, "id": 117222624, "level": 2}
+{"count": 25038, "name": "Dimensionality reduction", "weight": 0.0, "id": 70518039, "level": 2}
+{"count": 9352, "name": "Chemometrics", "weight": 0.0, "id": 151304367, "level": 2}
+{"count": 7915, "name": "Errors-in-variables models", "weight": 0.0, "id": 179024874, "level": 2}
+{"count": 39133, "name": "Training set", "weight": 1.0, "id": 51632099, "level": 2}
+{"count": 7834, "name": "Generalized linear model", "weight": 0.0, "id": 41587187, "level": 2}
+{"count": 7280, "name": "Self-management", "weight": 0.0, "id": 2776933761, "level": 2}
+{"count": 18013, "name": "Naive Bayes classifier", "weight": 0.0, "id": 52001869, "level": 2}
+{"count": 12092, "name": "Tabu search", "weight": 0.0, "id": 123370116, "level": 2}
+{"count": 13336, "name": "Language model", "weight": 0.0, "id": 137293760, "level": 2}
+{"count": 31241, "name": "Curse of dimensionality", "weight": 0.0, "id": 111030470, "level": 2}
+{"count": 9070, "name": "Group method of data handling", "weight": 0.0, "id": 13926793, "level": 2}
+{"count": 23951, "name": "Qualitative property", "weight": 0.0, "id": 87156501, "level": 2}
+{"count": 15777, "name": "Intraclass correlation", "weight": 0.0, "id": 104709138, "level": 2}
+{"count": 41615, "name": "Video tracking", "weight": 1.0, "id": 202474056, "level": 2}
+{"count": 7834, "name": "Ordinary least squares", "weight": 0.0, "id": 99656134, "level": 2}
+{"count": 16587, "name": "Visual inspection", "weight": 0.0, "id": 168820333, "level": 2}
+{"count": 19245, "name": "Partial least squares regression", "weight": 0.0, "id": 22354355, "level": 2}
+{"count": 10658, "name": "Discrete choice", "weight": 0.0, "id": 190669063, "level": 2}
+{"count": 7363, "name": "Probit model", "weight": 0.0, "id": 67257552, "level": 2}
+{"count": 19492, "name": "Ant colony optimization algorithms", "weight": 0.0, "id": 40128228, "level": 2}
+{"count": 4362, "name": "Noisy data", "weight": 0.0, "id": 2781170535, "level": 2}
+{"count": 16611, "name": "Kriging", "weight": 0.0, "id": 81692654, "level": 2}
+{"count": 8076, "name": "Neural coding", "weight": 0.0, "id": 77637269, "level": 2}
+{"count": 13233, "name": "Biological neural network", "weight": 0.0, "id": 118403218, "level": 2}
+{"count": 6437, "name": "Source separation", "weight": 0.0, "id": 2776864781, "level": 2}
+{"count": 14122, "name": "Differential evolution", "weight": 0.0, "id": 74750220, "level": 2}
+{"count": 7435, "name": "Binary data", "weight": 0.0, "id": 2779190172, "level": 2}
+{"count": 15830, "name": "Granger causality", "weight": 0.0, "id": 129824826, "level": 2}
+{"count": 8459, "name": "Emotion recognition", "weight": 0.0, "id": 2777438025, "level": 2}
+{"count": 6070, "name": "Rule of inference", "weight": 0.0, "id": 3746660, "level": 2}
+{"count": 28270, "name": "Categorical variable", "weight": 0.0, "id": 5274069, "level": 2}
+{"count": 4971, "name": "Stochastic approximation", "weight": 0.0, "id": 55479107, "level": 2}
+{"count": 15493, "name": "Decision model", "weight": 0.0, "id": 59594135, "level": 2}
+{"count": 7109, "name": "Population model", "weight": 0.0, "id": 52079815, "level": 2}
+{"count": 91987, "name": "Ranking", "weight": 2.0, "id": 197927960, "level": 2}
+{"count": 6051, "name": "External Data Representation", "weight": 0.0, "id": 116409475, "level": 2}
+{"count": 4879, "name": "Rank correlation", "weight": 0.0, "id": 101601086, "level": 2}
+{"count": 19180, "name": "Boosting (machine learning)", "weight": 0.0, "id": 46686674, "level": 2}
+{"count": 15283, "name": "Taguchi methods", "weight": 0.0, "id": 83469408, "level": 2}
+{"count": 3975, "name": "Correspondence analysis", "weight": 0.0, "id": 148298330, "level": 2}
+{"count": 15058, "name": "Sentiment analysis", "weight": 0.0, "id": 66402592, "level": 2}
+{"count": 16303, "name": "Random forest", "weight": 0.0, "id": 169258074, "level": 2}
+{"count": 12493, "name": "Weighted arithmetic mean", "weight": 0.0, "id": 9490382, "level": 2}
+{"count": 4004, "name": "Component analysis", "weight": 0.0, "id": 2780692498, "level": 2}
+{"count": 4346, "name": "Artificial life", "weight": 0.0, "id": 19273510, "level": 2}
+{"count": 8775, "name": "Adaptive learning", "weight": 0.0, "id": 125014702, "level": 2}
+{"count": 7108, "name": "Dummy variable", "weight": 0.0, "id": 153056425, "level": 2}
+{"count": 27892, "name": "Classifier (linguistics)", "weight": 0.0, "id": 2781376004, "level": 2}
+{"count": 4144, "name": "Inductive reasoning", "weight": 0.0, "id": 21563000, "level": 2}
+{"count": 5993, "name": "Biological network", "weight": 0.0, "id": 28225019, "level": 2}
+{"count": 3254, "name": "Computational statistics", "weight": 0.0, "id": 176222170, "level": 2}
+{"count": 32727, "name": "Metaheuristic", "weight": 0.0, "id": 109718341, "level": 2}
+{"count": 7536, "name": "Latent class model", "weight": 0.0, "id": 70727504, "level": 2}
+{"count": 1968, "name": "Compositional data", "weight": 0.0, "id": 2781147490, "level": 2}
+{"count": 10446, "name": "Coefficient of determination", "weight": 0.0, "id": 128990827, "level": 2}
+{"count": 5010, "name": "Network dynamics", "weight": 0.0, "id": 123757187, "level": 2}
+{"count": 7053, "name": "Akaike information criterion", "weight": 0.0, "id": 126674687, "level": 2}
+{"count": 2736, "name": "Additive model", "weight": 0.0, "id": 203223496, "level": 2}
+{"count": 2872, "name": "Incremental learning", "weight": 0.0, "id": 2780735816, "level": 2}
+{"count": 7158, "name": "Transfer of learning", "weight": 0.0, "id": 150899416, "level": 2}
+{"count": 2860, "name": "Generalization error", "weight": 0.0, "id": 117765406, "level": 2}
+{"count": 4097, "name": "Random search", "weight": 0.0, "id": 126661757, "level": 2}
+{"count": 2237, "name": "Nuisance parameter", "weight": 0.0, "id": 194531419, "level": 2}
+{"count": 14727, "name": "Endogeneity", "weight": 0.0, "id": 610760, "level": 2}
+{"count": 1018, "name": "Systems neuroscience", "weight": 0.0, "id": 31288803, "level": 2}
+{"count": 3167, "name": "Generalized estimating equation", "weight": 0.0, "id": 27403532, "level": 2}
+{"count": 15438, "name": "Exploratory factor analysis", "weight": 0.0, "id": 165957694, "level": 2}
+{"count": 3469, "name": "Log-linear model", "weight": 0.0, "id": 70519679, "level": 2}
+{"count": 82168, "name": "Data set", "weight": 2.0, "id": 58489278, "level": 2}
+{"count": 5595, "name": "Root-mean-square deviation", "weight": 0.0, "id": 138369701, "level": 2}
+{"count": 22243, "name": "Covariate", "weight": 0.0, "id": 119043178, "level": 2}
+{"count": 2095, "name": "Generalized additive model", "weight": 0.0, "id": 194648359, "level": 2}
+{"count": 5452, "name": "Evaluation function", "weight": 0.0, "id": 131806220, "level": 2}
+{"count": 6510, "name": "Dynamic time warping", "weight": 0.0, "id": 88516994, "level": 2}
+{"count": 4313, "name": "Global optimum", "weight": 0.0, "id": 61656843, "level": 2}
+{"count": 5904, "name": "Conjoint analysis", "weight": 0.0, "id": 2778054375, "level": 2}
+{"count": 5824, "name": "Conditional random field", "weight": 0.0, "id": 152565575, "level": 2}
+{"count": 3670, "name": "Dempster\u2013Shafer theory", "weight": 0.0, "id": 178011137, "level": 2}
+{"count": 11350, "name": "Semi-supervised learning", "weight": 0.0, "id": 58973888, "level": 2}
+{"count": 5233, "name": "Artificial immune system", "weight": 0.0, "id": 93768804, "level": 2}
+{"count": 2243, "name": "Learning automata", "weight": 0.0, "id": 2776807809, "level": 2}
+{"count": 1369, "name": "k-d tree", "weight": 0.0, "id": 33721204, "level": 2}
+{"count": 2661, "name": "Minimum description length", "weight": 0.0, "id": 87465248, "level": 2}
+{"count": 7171, "name": "Activity recognition", "weight": 0.0, "id": 121687571, "level": 2}
+{"count": 7011, "name": "Mahalanobis distance", "weight": 0.0, "id": 1921717, "level": 2}
+{"count": 8455, "name": "Uncertainty quantification", "weight": 0.0, "id": 32230216, "level": 2}
+{"count": 2755, "name": "Threshold model", "weight": 0.0, "id": 202632270, "level": 2}
+{"count": 5437, "name": "Sequence learning", "weight": 0.0, "id": 40506919, "level": 2}
+{"count": 3046, "name": "Latent semantic analysis", "weight": 0.0, "id": 170133592, "level": 2}
+{"count": 4808, "name": "Intelligent tutoring system", "weight": 0.0, "id": 2779336797, "level": 2}
+{"count": 1959, "name": "Projection pursuit", "weight": 0.0, "id": 118038509, "level": 2}
+{"count": 3510, "name": "Edit distance", "weight": 0.0, "id": 44359876, "level": 2}
+{"count": 3983, "name": "Non-monotonic logic", "weight": 0.0, "id": 159032336, "level": 2}
+{"count": 5655, "name": "Data pre-processing", "weight": 0.0, "id": 10551718, "level": 2}
+{"count": 1974, "name": "Canonical correspondence analysis", "weight": 0.0, "id": 102720910, "level": 2}
+{"count": 7727, "name": "Lasso (statistics)", "weight": 0.0, "id": 2778060275, "level": 2}
+{"count": 5219, "name": "Logistic function", "weight": 0.0, "id": 180802074, "level": 2}
+{"count": 5726, "name": "Vector space model", "weight": 0.0, "id": 89686163, "level": 2}
+{"count": 11410, "name": "Negative relationship", "weight": 0.0, "id": 163997910, "level": 2}
+{"count": 7960, "name": "AdaBoost", "weight": 0.0, "id": 141404830, "level": 2}
+{"count": 3932, "name": "Fitness landscape", "weight": 0.0, "id": 91852762, "level": 2}
+{"count": 8467, "name": "Ensemble learning", "weight": 0.0, "id": 45942800, "level": 2}
+{"count": 13107, "name": "Predictive modelling", "weight": 0.0, "id": 45804977, "level": 2}
+{"count": 6935, "name": "Model-based reasoning", "weight": 0.0, "id": 37335422, "level": 2}
+{"count": 2488, "name": "Variance function", "weight": 0.0, "id": 120488996, "level": 2}
+{"count": 3504, "name": "Tobit model", "weight": 0.0, "id": 166866094, "level": 2}
+{"count": 2172, "name": "Wald test", "weight": 0.0, "id": 203274628, "level": 2}
+{"count": 2180, "name": "Rule induction", "weight": 0.0, "id": 2776780472, "level": 2}
+{"count": 5966, "name": "Qualitative reasoning", "weight": 0.0, "id": 83725634, "level": 2}

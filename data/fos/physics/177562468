@@ -1,0 +1,20 @@
+{"count": 18103, "name": "Group velocity", "weight": 10.0, "id": 181341577, "level": 3}
+{"count": 7762, "name": "Atmospheric dispersion modeling", "weight": 4.0, "id": 189764856, "level": 3}
+{"count": 6444, "name": "Polarization mode dispersion", "weight": 3.0, "id": 178557918, "level": 3}
+{"count": 2913, "name": "Dispersive partial differential equation", "weight": 1.0, "id": 108779253, "level": 3}
+{"count": 4944, "name": "Slow light", "weight": 2.0, "id": 151662813, "level": 3}
+{"count": 1628, "name": "Return-to-zero", "weight": 0.0, "id": 2776616227, "level": 3}
+{"count": 6637, "name": "Supercontinuum", "weight": 3.0, "id": 191154138, "level": 3}
+{"count": 687, "name": "Acoustic dispersion", "weight": 0.0, "id": 2781011175, "level": 3}
+{"count": 826, "name": "Numerical dispersion", "weight": 0.0, "id": 2780133323, "level": 3}
+{"count": 2416, "name": "Dispersion stability", "weight": 1.0, "id": 2776954664, "level": 3}
+{"count": 2144, "name": "Taylor dispersion", "weight": 1.0, "id": 126530081, "level": 3}
+{"count": 1055, "name": "Group delay dispersion", "weight": 0.0, "id": 23845534, "level": 3}
+{"count": 319, "name": "Superprism", "weight": 0.0, "id": 2776642940, "level": 3}
+{"count": 374, "name": "Sellmeier equation", "weight": 0.0, "id": 144956170, "level": 3}
+{"count": 1093, "name": "Abbe number", "weight": 0.0, "id": 6887064, "level": 3}
+{"count": 198, "name": "Scholte wave", "weight": 0.0, "id": 2780773427, "level": 3}
+{"count": 63, "name": "Christiansen effect", "weight": 0.0, "id": 2776643281, "level": 3}
+{"count": 75, "name": "Dispersion point", "weight": 0.0, "id": 2779318769, "level": 3}
+{"count": 28, "name": "Amici prism", "weight": 0.0, "id": 2778098642, "level": 3}
+{"count": 10, "name": "Low-dispersion glass", "weight": 0.0, "id": 2780844333, "level": 3}

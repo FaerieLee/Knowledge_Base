@@ -1,0 +1,21 @@
+{"count": 420, "name": "Web Services Discovery", "weight": 0.0, "id": 2777593547, "level": 5}
+{"count": 1571, "name": "Devices Profile for Web Services", "weight": 2.0, "id": 183979223, "level": 5}
+{"count": 174, "name": "WS-Security", "weight": 0.0, "id": 2779048042, "level": 5}
+{"count": 473, "name": "Web Feature Service", "weight": 0.0, "id": 19582250, "level": 5}
+{"count": 357, "name": "Web Processing Service", "weight": 0.0, "id": 204863399, "level": 5}
+{"count": 188, "name": "SAWSDL", "weight": 0.0, "id": 2776812691, "level": 5}
+{"count": 375, "name": "WSMO", "weight": 0.0, "id": 2777351641, "level": 5}
+{"count": 1360, "name": "Web Coverage Service", "weight": 2.0, "id": 168820927, "level": 5}
+{"count": 283, "name": "Web Services Description Language", "weight": 0.0, "id": 2778607256, "level": 5}
+{"count": 55, "name": "DAML-S", "weight": 0.0, "id": 2779651434, "level": 5}
+{"count": 22, "name": "WS-Trust", "weight": 0.0, "id": 2781210621, "level": 5}
+{"count": 4499, "name": "WS-Addressing", "weight": 7.0, "id": 135910124, "level": 5}
+{"count": 19, "name": "WS-SecurityPolicy", "weight": 0.0, "id": 2777578498, "level": 5}
+{"count": 5646, "name": "WS-I Basic Profile", "weight": 10.0, "id": 38434365, "level": 5}
+{"count": 19, "name": "Web Services Flow Language", "weight": 0.0, "id": 2780482651, "level": 5}
+{"count": 111, "name": "GeoPDF", "weight": 0.0, "id": 177090959, "level": 5}
+{"count": 19, "name": "Web Coverage Processing Service", "weight": 0.0, "id": 2777253679, "level": 5}
+{"count": 90, "name": "Geospatial content management system", "weight": 0.0, "id": 66427300, "level": 5}
+{"count": 322, "name": "Postback", "weight": 0.0, "id": 205912161, "level": 5}
+{"count": 104, "name": "Simple Soap Binding Profile", "weight": 0.0, "id": 30986885, "level": 5}
+{"count": 28, "name": "JSON-WSP", "weight": 0.0, "id": 102844936, "level": 5}

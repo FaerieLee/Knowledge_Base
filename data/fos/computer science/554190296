@@ -1,0 +1,53 @@
+{"count": 39255, "name": "Radar imaging", "weight": 10.0, "id": 10929652, "level": 3}
+{"count": 13032, "name": "Doppler radar", "weight": 3.0, "id": 2778559676, "level": 3}
+{"count": 18847, "name": "Ground-penetrating radar", "weight": 4.0, "id": 71813955, "level": 3}
+{"count": 23037, "name": "Clutter", "weight": 5.0, "id": 132094186, "level": 3}
+{"count": 9765, "name": "Radar tracker", "weight": 2.0, "id": 32283439, "level": 3}
+{"count": 9205, "name": "Radar cross-section", "weight": 2.0, "id": 101457746, "level": 3}
+{"count": 6557, "name": "Incoherent scatter", "weight": 1.0, "id": 35777598, "level": 3}
+{"count": 7794, "name": "Pulse repetition frequency", "weight": 1.0, "id": 182862853, "level": 3}
+{"count": 3056, "name": "Ambiguity function", "weight": 0.0, "id": 50878840, "level": 3}
+{"count": 6977, "name": "Weather radar", "weight": 1.0, "id": 92237259, "level": 3}
+{"count": 5615, "name": "Space-time adaptive processing", "weight": 1.0, "id": 190203512, "level": 3}
+{"count": 1160, "name": "Electronic countermeasure", "weight": 0.0, "id": 131426668, "level": 3}
+{"count": 2972, "name": "Electronic warfare", "weight": 0.0, "id": 133082901, "level": 3}
+{"count": 4861, "name": "Scatterometer", "weight": 1.0, "id": 2776212561, "level": 3}
+{"count": 981, "name": "Frequency agility", "weight": 0.0, "id": 178824520, "level": 3}
+{"count": 3744, "name": "Rain gauge", "weight": 0.0, "id": 120961793, "level": 3}
+{"count": 1229, "name": "Over-the-horizon radar", "weight": 0.0, "id": 183617614, "level": 3}
+{"count": 445, "name": "Field aligned irregularities", "weight": 0.0, "id": 2776083345, "level": 3}
+{"count": 4249, "name": "Monopulse radar", "weight": 1.0, "id": 186770734, "level": 3}
+{"count": 2035, "name": "Convective storm detection", "weight": 0.0, "id": 192932206, "level": 3}
+{"count": 932, "name": "Track-before-detect", "weight": 0.0, "id": 173028925, "level": 3}
+{"count": 2158, "name": "Secondary surveillance radar", "weight": 0.0, "id": 114445506, "level": 3}
+{"count": 1652, "name": "Radar jamming and deception", "weight": 0.0, "id": 176381164, "level": 3}
+{"count": 979, "name": "Disdrometer", "weight": 0.0, "id": 116810829, "level": 3}
+{"count": 2441, "name": "Radar altimeter", "weight": 0.0, "id": 26760657, "level": 3}
+{"count": 928, "name": "Global Precipitation Measurement", "weight": 0.0, "id": 29278236, "level": 3}
+{"count": 639, "name": "Conical scanning", "weight": 0.0, "id": 127310558, "level": 3}
+{"count": 1350, "name": "Wind profiler", "weight": 0.0, "id": 2778913063, "level": 3}
+{"count": 530, "name": "Stealth technology", "weight": 0.0, "id": 67158388, "level": 3}
+{"count": 255, "name": "Radar navigation", "weight": 0.0, "id": 2780284018, "level": 3}
+{"count": 1637, "name": "Quantitative precipitation estimation", "weight": 0.0, "id": 75398719, "level": 3}
+{"count": 391, "name": "Freezing level", "weight": 0.0, "id": 181741624, "level": 3}
+{"count": 174, "name": "Salisbury screen", "weight": 0.0, "id": 2778471829, "level": 3}
+{"count": 155, "name": "Anti-radiation missile", "weight": 0.0, "id": 2779894600, "level": 3}
+{"count": 1922, "name": "dBZ", "weight": 0.0, "id": 110231783, "level": 3}
+{"count": 480, "name": "Anomalous propagation", "weight": 0.0, "id": 39639997, "level": 3}
+{"count": 960, "name": "Skywave", "weight": 0.0, "id": 45860500, "level": 3}
+{"count": 342, "name": "Arecibo Observatory", "weight": 0.0, "id": 2780631992, "level": 3}
+{"count": 86, "name": "Sensitivity time control", "weight": 0.0, "id": 2776688269, "level": 3}
+{"count": 196, "name": "Identification friend or foe", "weight": 0.0, "id": 83109746, "level": 3}
+{"count": 64, "name": "ALE-50 Towed Decoy System", "weight": 0.0, "id": 91303045, "level": 3}
+{"count": 35, "name": "Slope stability radar", "weight": 0.0, "id": 1908536, "level": 3}
+{"count": 105, "name": "Storm cell", "weight": 0.0, "id": 2778323760, "level": 3}
+{"count": 43, "name": "Radar tower", "weight": 0.0, "id": 2776484437, "level": 3}
+{"count": 26, "name": "Coastal ocean dynamics applications radar", "weight": 0.0, "id": 2778079102, "level": 3}
+{"count": 19, "name": "ARMOR Doppler Weather Radar", "weight": 0.0, "id": 191068313, "level": 3}
+{"count": 22, "name": "Snow bridge", "weight": 0.0, "id": 74211385, "level": 3}
+{"count": 108, "name": "Antenna boresight", "weight": 0.0, "id": 2777105084, "level": 3}
+{"count": 12, "name": "Radar signal characteristics", "weight": 0.0, "id": 2780030661, "level": 3}
+{"count": 118, "name": "Jicamarca Radio Observatory", "weight": 0.0, "id": 2780160818, "level": 3}
+{"count": 48, "name": "Millimeter cloud radar", "weight": 0.0, "id": 2780904567, "level": 3}
+{"count": 54, "name": "Height finder", "weight": 0.0, "id": 2778752520, "level": 3}
+{"count": 10, "name": "Skin track", "weight": 0.0, "id": 2778282976, "level": 3}

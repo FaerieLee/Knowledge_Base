@@ -1,0 +1,23 @@
+{"count": 11403, "name": "Nucleosome", "weight": 9.0, "id": 84772758, "level": 3}
+{"count": 11995, "name": "Chromatin remodeling", "weight": 10.0, "id": 167227067, "level": 3}
+{"count": 10269, "name": "Heterochromatin", "weight": 8.0, "id": 103435993, "level": 3}
+{"count": 7854, "name": "Histone H3", "weight": 6.0, "id": 2776745794, "level": 3}
+{"count": 866, "name": "Polycomb-group proteins", "weight": 0.0, "id": 2777116130, "level": 3}
+{"count": 2311, "name": "Premature chromosome condensation", "weight": 1.0, "id": 178108356, "level": 3}
+{"count": 6706, "name": "Histone H1", "weight": 5.0, "id": 101152365, "level": 3}
+{"count": 2744, "name": "Histone H4", "weight": 2.0, "id": 2779085176, "level": 3}
+{"count": 2773, "name": "Nuclear lamina", "weight": 2.0, "id": 94912109, "level": 3}
+{"count": 7599, "name": "Histone code", "weight": 6.0, "id": 10058791, "level": 3}
+{"count": 7697, "name": "Histone H2A", "weight": 6.0, "id": 56428682, "level": 3}
+{"count": 443, "name": "Minichromosome", "weight": 0.0, "id": 2780091387, "level": 3}
+{"count": 1740, "name": "Non-histone protein", "weight": 1.0, "id": 87026931, "level": 3}
+{"count": 907, "name": "Condensin", "weight": 0.0, "id": 155790170, "level": 3}
+{"count": 181, "name": "Histone variants", "weight": 0.0, "id": 2776608422, "level": 3}
+{"count": 331, "name": "PRC1", "weight": 0.0, "id": 2776912346, "level": 3}
+{"count": 662, "name": "Chromodomain", "weight": 0.0, "id": 179138559, "level": 3}
+{"count": 313, "name": "HMGA", "weight": 0.0, "id": 2779887390, "level": 3}
+{"count": 82, "name": "CAF-1", "weight": 0.0, "id": 2780684434, "level": 3}
+{"count": 831, "name": "DNase I hypersensitive site", "weight": 0.0, "id": 182614070, "level": 3}
+{"count": 92, "name": "HMGN2", "weight": 0.0, "id": 2781335975, "level": 3}
+{"count": 93, "name": "HMGN1", "weight": 0.0, "id": 2778667291, "level": 3}
+{"count": 91, "name": "KAT5", "weight": 0.0, "id": 2780191745, "level": 3}

@@ -1,0 +1,5 @@
+{"count": 737, "name": "Auction sniping", "weight": 7.0, "id": 109967628, "level": 5}
+{"count": 74, "name": "First-price sealed-bid auction", "weight": 0.0, "id": 2778732377, "level": 5}
+{"count": 1020, "name": "Bid shading", "weight": 10.0, "id": 171749020, "level": 5}
+{"count": 375, "name": "Auto auction", "weight": 3.0, "id": 103853494, "level": 5}
+{"count": 137, "name": "Bid-to-cover ratio", "weight": 1.0, "id": 62486772, "level": 5}

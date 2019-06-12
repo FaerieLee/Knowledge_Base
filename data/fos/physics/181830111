@@ -1,0 +1,30 @@
+{"count": 9025, "name": "Yang\u2013Mills theory", "weight": 5.0, "id": 103766332, "level": 3}
+{"count": 5614, "name": "Yang\u2013Mills existence and mass gap", "weight": 3.0, "id": 27008004, "level": 3}
+{"count": 5454, "name": "Chern\u2013Simons theory", "weight": 3.0, "id": 15852256, "level": 3}
+{"count": 6909, "name": "Gauge symmetry", "weight": 4.0, "id": 147247565, "level": 3}
+{"count": 9903, "name": "Lattice gauge theory", "weight": 6.0, "id": 138817895, "level": 3}
+{"count": 11850, "name": "Supersymmetric gauge theory", "weight": 7.0, "id": 65266758, "level": 3}
+{"count": 3291, "name": "Wilson loop", "weight": 2.0, "id": 2776482091, "level": 3}
+{"count": 3616, "name": "Gauge group", "weight": 2.0, "id": 2779430453, "level": 3}
+{"count": 605, "name": "Light cone gauge", "weight": 0.0, "id": 2776651484, "level": 3}
+{"count": 1243, "name": "Asymptotic freedom", "weight": 0.0, "id": 149374227, "level": 3}
+{"count": 682, "name": "Conifold", "weight": 0.0, "id": 2780276040, "level": 3}
+{"count": 218, "name": "Ward\u2013Takahashi identity", "weight": 0.0, "id": 2776492292, "level": 3}
+{"count": 790, "name": "Antisymmetric tensor", "weight": 0.0, "id": 67503058, "level": 3}
+{"count": 182, "name": "Seiberg\u2013Witten theory", "weight": 0.0, "id": 2777508174, "level": 3}
+{"count": 98, "name": "Georgi\u2013Glashow model", "weight": 0.0, "id": 2779627875, "level": 3}
+{"count": 400, "name": "Spin connection", "weight": 0.0, "id": 2779728059, "level": 3}
+{"count": 251, "name": "Caloron", "weight": 0.0, "id": 59105281, "level": 3}
+{"count": 173, "name": "ADHM construction", "weight": 0.0, "id": 150982581, "level": 3}
+{"count": 2154, "name": "Stochastic electrodynamics", "weight": 1.0, "id": 199508470, "level": 3}
+{"count": 369, "name": "Background field method", "weight": 0.0, "id": 2776720137, "level": 3}
+{"count": 105, "name": "Vacuum angle", "weight": 0.0, "id": 2779859970, "level": 3}
+{"count": 275, "name": "Scalar electrodynamics", "weight": 0.0, "id": 2778385574, "level": 3}
+{"count": 75, "name": "Nahm equations", "weight": 0.0, "id": 2778715914, "level": 3}
+{"count": 19, "name": "Unitarity gauge", "weight": 0.0, "id": 2779108624, "level": 3}
+{"count": 15, "name": "Wu\u2013Yang monopole", "weight": 0.0, "id": 2779598991, "level": 3}
+{"count": 74, "name": "Bogomolny equations", "weight": 0.0, "id": 2781353154, "level": 3}
+{"count": 60, "name": "Causal perturbation theory", "weight": 0.0, "id": 2780381706, "level": 3}
+{"count": 15215, "name": "Introduction to gauge theory", "weight": 10.0, "id": 65211518, "level": 3}
+{"count": 27, "name": "Quiver diagram", "weight": 0.0, "id": 2778362257, "level": 3}
+{"count": 28, "name": "Anomaly matching condition", "weight": 0.0, "id": 2779733548, "level": 3}

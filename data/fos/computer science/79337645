@@ -1,0 +1,9 @@
+{"count": 239, "name": "Cook's distance", "weight": 4.0, "id": 91112807, "level": 3}
+{"count": 181, "name": "Influential observation", "weight": 3.0, "id": 69803279, "level": 3}
+{"count": 511, "name": "Local outlier factor", "weight": 10.0, "id": 169029474, "level": 3}
+{"count": 54, "name": "Winsorizing", "weight": 1.0, "id": 2776275884, "level": 3}
+{"count": 20, "name": "Bagplot", "weight": 0.0, "id": 2776810492, "level": 3}
+{"count": 15, "name": "Medcouple", "weight": 0.0, "id": 2776363294, "level": 3}
+{"count": 61, "name": "Dixon's Q test", "weight": 1.0, "id": 175421981, "level": 3}
+{"count": 42, "name": "Functional boxplot", "weight": 0.0, "id": 42232672, "level": 3}
+{"count": 91, "name": "Partial leverage", "weight": 1.0, "id": 100359635, "level": 3}

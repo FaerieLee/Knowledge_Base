@@ -1,0 +1,69 @@
+{"count": 46535, "name": "Polyunsaturated fatty acid", "weight": 10.0, "id": 19038510, "level": 3}
+{"count": 31979, "name": "Linoleic acid", "weight": 6.0, "id": 2780809830, "level": 3}
+{"count": 27950, "name": "Oleic acid", "weight": 6.0, "id": 2781403372, "level": 3}
+{"count": 14939, "name": "Fish oil", "weight": 3.0, "id": 2779946292, "level": 3}
+{"count": 15437, "name": "Palmitic acid", "weight": 3.0, "id": 2779936771, "level": 3}
+{"count": 16312, "name": "Stearic acid", "weight": 3.0, "id": 2779516699, "level": 3}
+{"count": 7498, "name": "Beta oxidation", "weight": 1.0, "id": 82714985, "level": 3}
+{"count": 9192, "name": "Glyceride", "weight": 1.0, "id": 200514077, "level": 3}
+{"count": 2785, "name": "Short-chain fatty acid", "weight": 0.0, "id": 2776229602, "level": 3}
+{"count": 6258, "name": "Fatty acid metabolism", "weight": 1.0, "id": 2776991927, "level": 3}
+{"count": 5006, "name": "Fatty acid synthase", "weight": 1.0, "id": 48289651, "level": 3}
+{"count": 3384, "name": "Fatty acid-binding protein", "weight": 0.0, "id": 2776834966, "level": 3}
+{"count": 5812, "name": "Fatty acid synthesis", "weight": 1.0, "id": 2776941171, "level": 3}
+{"count": 3005, "name": "Diglyceride", "weight": 0.0, "id": 2776387844, "level": 3}
+{"count": 6373, "name": "Peroxide value", "weight": 1.0, "id": 2781294611, "level": 3}
+{"count": 6081, "name": "Iodine value", "weight": 1.0, "id": 64012178, "level": 3}
+{"count": 2979, "name": "Monoglyceride", "weight": 0.0, "id": 2781290109, "level": 3}
+{"count": 755, "name": "Very long chain fatty acid", "weight": 0.0, "id": 2780419840, "level": 3}
+{"count": 5482, "name": "Fatty alcohol", "weight": 1.0, "id": 2779704304, "level": 3}
+{"count": 2905, "name": "Intramuscular fat", "weight": 0.0, "id": 2776635132, "level": 3}
+{"count": 3900, "name": "Lauric acid", "weight": 0.0, "id": 2781003072, "level": 3}
+{"count": 1475, "name": "Ricinoleic acid", "weight": 0.0, "id": 2779072430, "level": 3}
+{"count": 812, "name": "Phytanic acid", "weight": 0.0, "id": 2779611823, "level": 3}
+{"count": 363, "name": "Stearoyl-CoA desaturase-1", "weight": 0.0, "id": 2780593279, "level": 3}
+{"count": 6729, "name": "Fatty acid ester", "weight": 1.0, "id": 2780482525, "level": 3}
+{"count": 1927, "name": "Unsaponifiable", "weight": 0.0, "id": 130641587, "level": 3}
+{"count": 899, "name": "Cerulenin", "weight": 0.0, "id": 2780683386, "level": 3}
+{"count": 2261, "name": "Acyl-CoA", "weight": 0.0, "id": 2779685201, "level": 3}
+{"count": 1166, "name": "Decanoic acid", "weight": 0.0, "id": 2776950135, "level": 3}
+{"count": 1357, "name": "Caprylic acid", "weight": 0.0, "id": 2778397350, "level": 3}
+{"count": 751, "name": "Tripalmitin", "weight": 0.0, "id": 2780859203, "level": 3}
+{"count": 347, "name": "Oleamide", "weight": 0.0, "id": 2779196353, "level": 3}
+{"count": 573, "name": "Eicosatetraenoic acid", "weight": 0.0, "id": 2778951347, "level": 3}
+{"count": 134, "name": "Yellow grease", "weight": 0.0, "id": 2779084640, "level": 3}
+{"count": 847, "name": "Wax ester", "weight": 0.0, "id": 2776288157, "level": 3}
+{"count": 172, "name": "Vernolic acid", "weight": 0.0, "id": 2780233834, "level": 3}
+{"count": 659, "name": "Perilla oil", "weight": 0.0, "id": 2777602763, "level": 3}
+{"count": 212, "name": "3-MCPD", "weight": 0.0, "id": 2781428107, "level": 3}
+{"count": 183, "name": "Cryptococcus curvatus", "weight": 0.0, "id": 2777632979, "level": 3}
+{"count": 670, "name": "Glycerophospholipid", "weight": 0.0, "id": 2776952329, "level": 3}
+{"count": 698, "name": "Pentadecanoic acid", "weight": 0.0, "id": 2778084480, "level": 3}
+{"count": 178, "name": "Octadecatrienoic acid", "weight": 0.0, "id": 2775981433, "level": 3}
+{"count": 220, "name": "Cyclopropane fatty acid", "weight": 0.0, "id": 2776352945, "level": 3}
+{"count": 460, "name": "Heptadecanoic acid", "weight": 0.0, "id": 2776310371, "level": 3}
+{"count": 361, "name": "Fatty acid degradation", "weight": 0.0, "id": 2778896387, "level": 3}
+{"count": 97, "name": "Oleochemistry", "weight": 0.0, "id": 2777602627, "level": 3}
+{"count": 270, "name": "ACOX1", "weight": 0.0, "id": 2781419462, "level": 3}
+{"count": 1070, "name": "Fatty acid amide", "weight": 0.0, "id": 2777887945, "level": 3}
+{"count": 75, "name": "Cuphea lanceolata", "weight": 0.0, "id": 2778535695, "level": 3}
+{"count": 364, "name": "Ethyl palmitate", "weight": 0.0, "id": 2777690135, "level": 3}
+{"count": 206, "name": "Tuberculostearic acid", "weight": 0.0, "id": 2776791252, "level": 3}
+{"count": 71, "name": "Malvalic acid", "weight": 0.0, "id": 2776490417, "level": 3}
+{"count": 299, "name": "ACACA", "weight": 0.0, "id": 82231393, "level": 3}
+{"count": 542, "name": "Stearoyl-CoA", "weight": 0.0, "id": 2778286959, "level": 3}
+{"count": 98, "name": "Pine nut oil", "weight": 0.0, "id": 2777458209, "level": 3}
+{"count": 111, "name": "ACSL3", "weight": 0.0, "id": 2777130029, "level": 3}
+{"count": 43, "name": "Calendic acid", "weight": 0.0, "id": 2777233881, "level": 3}
+{"count": 32, "name": "Physaria fendleri", "weight": 0.0, "id": 2780378272, "level": 3}
+{"count": 345, "name": "Diethanolamide", "weight": 0.0, "id": 2779485765, "level": 3}
+{"count": 1396, "name": "adipocyte protein 2", "weight": 0.0, "id": 24972589, "level": 3}
+{"count": 491, "name": "Oleochemical", "weight": 0.0, "id": 2780014281, "level": 3}
+{"count": 60, "name": "Cerotic acid", "weight": 0.0, "id": 2779969044, "level": 3}
+{"count": 26, "name": "Octanoyl-CoA", "weight": 0.0, "id": 2775914801, "level": 3}
+{"count": 33, "name": "Saponifiable lipid", "weight": 0.0, "id": 2778364534, "level": 3}
+{"count": 15, "name": "SLC27A5", "weight": 0.0, "id": 2779730704, "level": 3}
+{"count": 22, "name": "Hydnocarpic acid", "weight": 0.0, "id": 2777610249, "level": 3}
+{"count": 38, "name": "SLC27A2", "weight": 0.0, "id": 2779243507, "level": 3}
+{"count": 13, "name": "Diasporangium", "weight": 0.0, "id": 2778907070, "level": 3}
+{"count": 5, "name": "Heneicosylic acid", "weight": 0.0, "id": 2775873242, "level": 3}

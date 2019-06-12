@@ -1,0 +1,15 @@
+{"count": 5468, "name": "General linear model", "weight": 7.0, "id": 188321436, "level": 3}
+{"count": 4853, "name": "Principal component regression", "weight": 6.0, "id": 74887250, "level": 3}
+{"count": 7441, "name": "Bayesian multivariate linear regression", "weight": 9.0, "id": 64946054, "level": 3}
+{"count": 7477, "name": "Simple linear regression", "weight": 10.0, "id": 149769383, "level": 3}
+{"count": 4850, "name": "Multicollinearity", "weight": 6.0, "id": 189285262, "level": 3}
+{"count": 4100, "name": "F-test", "weight": 5.0, "id": 110460608, "level": 3}
+{"count": 3514, "name": "Regression diagnostic", "weight": 4.0, "id": 57381214, "level": 3}
+{"count": 1901, "name": "Design matrix", "weight": 2.0, "id": 203233044, "level": 3}
+{"count": 239, "name": "Cook's distance", "weight": 0.0, "id": 91112807, "level": 3}
+{"count": 181, "name": "Influential observation", "weight": 0.0, "id": 69803279, "level": 3}
+{"count": 103, "name": "FMLLR", "weight": 0.0, "id": 2779301648, "level": 3}
+{"count": 124, "name": "Leverage (statistics)", "weight": 0.0, "id": 153083717, "level": 3}
+{"count": 91, "name": "Partial leverage", "weight": 0.0, "id": 100359635, "level": 3}
+{"count": 234, "name": "Park test", "weight": 0.0, "id": 195739231, "level": 3}
+{"count": 6178, "name": "Proper linear model", "weight": 8.0, "id": 32224588, "level": 3}

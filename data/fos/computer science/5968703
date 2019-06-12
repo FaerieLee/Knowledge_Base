@@ -1,0 +1,7 @@
+{"count": 1160, "name": "Object-relational impedance mismatch", "weight": 3.0, "id": 203790383, "level": 4}
+{"count": 305, "name": "Object-relational database", "weight": 0.0, "id": 2780434302, "level": 4}
+{"count": 1552, "name": "Spatiotemporal database", "weight": 4.0, "id": 98080885, "level": 4}
+{"count": 1181, "name": "Change data capture", "weight": 3.0, "id": 10384849, "level": 4}
+{"count": 1688, "name": "Physical data model", "weight": 5.0, "id": 187959359, "level": 4}
+{"count": 3237, "name": "Semi-structured model", "weight": 10.0, "id": 56310702, "level": 4}
+{"count": 1943, "name": "Component-oriented database", "weight": 6.0, "id": 200202201, "level": 4}

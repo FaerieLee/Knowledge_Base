@@ -1,0 +1,3 @@
+{"count": 99, "name": "Lamport's bakery algorithm", "weight": 1.0, "id": 6328786, "level": 3}
+{"count": 14, "name": "Dekker's algorithm", "weight": 0.0, "id": 130945885, "level": 3}
+{"count": 720, "name": "Suzuki-Kasami algorithm", "weight": 10.0, "id": 18664526, "level": 3}

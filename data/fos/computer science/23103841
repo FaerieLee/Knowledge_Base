@@ -1,0 +1,5 @@
+{"count": 235, "name": "Distributed firewall", "weight": 9.0, "id": 2776872909, "level": 5}
+{"count": 246, "name": "Bastion host", "weight": 9.0, "id": 114787942, "level": 5}
+{"count": 11, "name": "Screening router", "weight": 0.0, "id": 2779486342, "level": 5}
+{"count": 254, "name": "Check Point VPN-1", "weight": 10.0, "id": 199152627, "level": 5}
+{"count": 69, "name": "Jump server", "weight": 2.0, "id": 119723258, "level": 5}

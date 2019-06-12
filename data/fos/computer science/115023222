@@ -1,0 +1,4 @@
+{"count": 2804, "name": "Cut-through switching", "weight": 10.0, "id": 182437060, "level": 5}
+{"count": 330, "name": "5ESS switch", "weight": 1.0, "id": 128374816, "level": 5}
+{"count": 642, "name": "AX.25", "weight": 2.0, "id": 147621760, "level": 5}
+{"count": 96, "name": "Packet-switching node", "weight": 0.0, "id": 2776023280, "level": 5}

@@ -1,0 +1,36 @@
+{"count": 21518, "name": "Prostate-specific antigen", "weight": 10.0, "id": 2781406297, "level": 4}
+{"count": 4373, "name": "Antiandrogen", "weight": 2.0, "id": 2779322244, "level": 4}
+{"count": 6806, "name": "Seminal vesicle", "weight": 3.0, "id": 2781171107, "level": 4}
+{"count": 10417, "name": "Lower urinary tract symptoms", "weight": 4.0, "id": 2779478474, "level": 4}
+{"count": 9635, "name": "Prostatitis", "weight": 4.0, "id": 2780524745, "level": 4}
+{"count": 3391, "name": "Finasteride", "weight": 1.0, "id": 2775874879, "level": 4}
+{"count": 7772, "name": "Prostate biopsy", "weight": 3.0, "id": 2781217009, "level": 4}
+{"count": 4213, "name": "Bladder outlet obstruction", "weight": 1.0, "id": 2780070792, "level": 4}
+{"count": 745, "name": "High-grade prostatic intraepithelial neoplasia", "weight": 0.0, "id": 2776456063, "level": 4}
+{"count": 1390, "name": "Benign prostatic hyperplasia (BPH)", "weight": 0.0, "id": 2780435053, "level": 4}
+{"count": 1400, "name": "Dutasteride", "weight": 0.0, "id": 2778878792, "level": 4}
+{"count": 2308, "name": "Transrectal ultrasonography", "weight": 1.0, "id": 2780002838, "level": 4}
+{"count": 10827, "name": "PCA3", "weight": 5.0, "id": 87874733, "level": 4}
+{"count": 827, "name": "Androgen suppression", "weight": 0.0, "id": 2778559712, "level": 4}
+{"count": 353, "name": "Estramustine phosphate", "weight": 0.0, "id": 2777938613, "level": 4}
+{"count": 249, "name": "Prostasomes", "weight": 0.0, "id": 2777602854, "level": 4}
+{"count": 1036, "name": "TMPRSS2", "weight": 0.0, "id": 2778042024, "level": 4}
+{"count": 312, "name": "PI-RADS", "weight": 0.0, "id": 2780439657, "level": 4}
+{"count": 1353, "name": "Prostatic urethra", "weight": 0.0, "id": 2777957205, "level": 4}
+{"count": 424, "name": "Transurethral microwave thermotherapy", "weight": 0.0, "id": 2780616730, "level": 4}
+{"count": 247, "name": "Microwave thermotherapy", "weight": 0.0, "id": 2776089596, "level": 4}
+{"count": 105, "name": "Pendetide", "weight": 0.0, "id": 2779295105, "level": 4}
+{"count": 119, "name": "Polyestradiol phosphate", "weight": 0.0, "id": 2777542723, "level": 4}
+{"count": 119, "name": "Alpha-methylacyl-CoA racemase", "weight": 0.0, "id": 2780212268, "level": 4}
+{"count": 206, "name": "Prostatic utricle", "weight": 0.0, "id": 2778900601, "level": 4}
+{"count": 363, "name": "Membranous urethra", "weight": 0.0, "id": 2778491250, "level": 4}
+{"count": 186, "name": "MSMB", "weight": 0.0, "id": 2778745985, "level": 4}
+{"count": 77, "name": "HOLAP", "weight": 0.0, "id": 2780531629, "level": 4}
+{"count": 39, "name": "Skene's gland", "weight": 0.0, "id": 2776018911, "level": 4}
+{"count": 18, "name": "Urethral gland", "weight": 0.0, "id": 2780296077, "level": 4}
+{"count": 100, "name": "Prostatic stent", "weight": 0.0, "id": 2777307725, "level": 4}
+{"count": 127, "name": "Prostatomegaly", "weight": 0.0, "id": 2777087577, "level": 4}
+{"count": 25, "name": "Gestonorone caproate", "weight": 0.0, "id": 2780557405, "level": 4}
+{"count": 19, "name": "Seminal colliculus", "weight": 0.0, "id": 2777398711, "level": 4}
+{"count": 1311, "name": "Management of prostate cancer", "weight": 0.0, "id": 2781114028, "level": 4}
+{"count": 29, "name": "Diethylstilbestrol dipropionate", "weight": 0.0, "id": 2780626458, "level": 4}

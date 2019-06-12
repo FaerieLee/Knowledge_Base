@@ -1,0 +1,57 @@
+{"count": 25712, "name": "Silicon oxide", "weight": 6.0, "id": 2779105228, "level": 3}
+{"count": 41590, "name": "Silicon nitride", "weight": 10.0, "id": 2777431650, "level": 3}
+{"count": 34060, "name": "Amorphous silicon", "weight": 8.0, "id": 2776390347, "level": 3}
+{"count": 15526, "name": "Porous silicon", "weight": 3.0, "id": 2776685891, "level": 3}
+{"count": 19451, "name": "Polycrystalline silicon", "weight": 4.0, "id": 2780565262, "level": 3}
+{"count": 22882, "name": "Plasma-enhanced chemical vapor deposition", "weight": 5.0, "id": 38347018, "level": 3}
+{"count": 23734, "name": "Silicon dioxide", "weight": 5.0, "id": 2779089622, "level": 3}
+{"count": 9941, "name": "Carrier lifetime", "weight": 2.0, "id": 198865614, "level": 3}
+{"count": 7567, "name": "Silicon-germanium", "weight": 1.0, "id": 2780389399, "level": 3}
+{"count": 6387, "name": "Wafer bonding", "weight": 1.0, "id": 2779133538, "level": 3}
+{"count": 5888, "name": "Deep-level transient spectroscopy", "weight": 1.0, "id": 2780080961, "level": 3}
+{"count": 7531, "name": "Dangling bond", "weight": 1.0, "id": 32424582, "level": 3}
+{"count": 4377, "name": "Rapid thermal processing", "weight": 1.0, "id": 72832162, "level": 3}
+{"count": 22793, "name": "Etching (microfabrication)", "weight": 5.0, "id": 100460472, "level": 3}
+{"count": 1937, "name": "Silicon on sapphire", "weight": 0.0, "id": 172905872, "level": 3}
+{"count": 3883, "name": "Through-silicon via", "weight": 0.0, "id": 45632049, "level": 3}
+{"count": 3313, "name": "Deep reactive-ion etching", "weight": 0.0, "id": 124634506, "level": 3}
+{"count": 17306, "name": "Crystalline silicon", "weight": 4.0, "id": 2779667780, "level": 3}
+{"count": 20703, "name": "Silicide", "weight": 4.0, "id": 2780901251, "level": 3}
+{"count": 1802, "name": "Bulk micromachining", "weight": 0.0, "id": 41075158, "level": 3}
+{"count": 996, "name": "Silicon drift detector", "weight": 0.0, "id": 2777249081, "level": 3}
+{"count": 6345, "name": "Anodic bonding", "weight": 1.0, "id": 201414436, "level": 3}
+{"count": 24859, "name": "Monocrystalline silicon", "weight": 5.0, "id": 26953177, "level": 3}
+{"count": 1622, "name": "Disilane", "weight": 0.0, "id": 2776259327, "level": 3}
+{"count": 1841, "name": "Spreading resistance profiling", "weight": 0.0, "id": 207521374, "level": 3}
+{"count": 18098, "name": "Nanocrystalline silicon", "weight": 4.0, "id": 80086925, "level": 3}
+{"count": 10921, "name": "Microcrystalline", "weight": 2.0, "id": 201370411, "level": 3}
+{"count": 972, "name": "Black silicon", "weight": 0.0, "id": 2778166601, "level": 3}
+{"count": 494, "name": "Magnesium silicide", "weight": 0.0, "id": 2777724302, "level": 3}
+{"count": 1990, "name": "Ferrosilicon", "weight": 0.0, "id": 69232855, "level": 3}
+{"count": 1238, "name": "Silicon monoxide", "weight": 0.0, "id": 2778133012, "level": 3}
+{"count": 2202, "name": "Silicon tetrachloride", "weight": 0.0, "id": 2776412973, "level": 3}
+{"count": 734, "name": "Phosphosilicate glass", "weight": 0.0, "id": 2780431313, "level": 3}
+{"count": 2817, "name": "Trichlorosilane", "weight": 0.0, "id": 2779248272, "level": 3}
+{"count": 6812, "name": "LOCOS", "weight": 1.0, "id": 195114451, "level": 3}
+{"count": 704, "name": "Silicon tetrafluoride", "weight": 0.0, "id": 2778711780, "level": 3}
+{"count": 1202, "name": "Suboxide", "weight": 0.0, "id": 2780634616, "level": 3}
+{"count": 1186, "name": "Dichlorosilane", "weight": 0.0, "id": 2779523567, "level": 3}
+{"count": 435, "name": "Borophosphosilicate glass", "weight": 0.0, "id": 2780576252, "level": 3}
+{"count": 727, "name": "Silicon alkoxide", "weight": 0.0, "id": 2780468628, "level": 3}
+{"count": 387, "name": "Wafering", "weight": 0.0, "id": 2780008778, "level": 3}
+{"count": 190, "name": "Silanone", "weight": 0.0, "id": 2779396615, "level": 3}
+{"count": 284, "name": "Reaction bonded silicon carbide", "weight": 0.0, "id": 2781148867, "level": 3}
+{"count": 232, "name": "Copper silicide", "weight": 0.0, "id": 2780796466, "level": 3}
+{"count": 111, "name": "Calcium silicide", "weight": 0.0, "id": 2776239133, "level": 3}
+{"count": 230, "name": "Hexachlorodisilane", "weight": 0.0, "id": 2780232078, "level": 3}
+{"count": 126, "name": "RCA clean", "weight": 0.0, "id": 47752232, "level": 3}
+{"count": 10930, "name": "Hybrid silicon laser", "weight": 2.0, "id": 139159486, "level": 3}
+{"count": 145, "name": "Silicon-tin", "weight": 0.0, "id": 2780960300, "level": 3}
+{"count": 40, "name": "Hydrogen-terminated silicon surface", "weight": 0.0, "id": 2779477466, "level": 3}
+{"count": 9, "name": "Silicon\u2013air battery", "weight": 0.0, "id": 2775933760, "level": 3}
+{"count": 44, "name": "Silicon disulfide", "weight": 0.0, "id": 2780784275, "level": 3}
+{"count": 24, "name": "Conveyor belt furnace", "weight": 0.0, "id": 2780055456, "level": 3}
+{"count": 25, "name": "Wright etch", "weight": 0.0, "id": 2777072910, "level": 3}
+{"count": 33, "name": "Silicon tetrabromide", "weight": 0.0, "id": 2776582574, "level": 3}
+{"count": 35, "name": "Silicon tetraiodide", "weight": 0.0, "id": 2779670919, "level": 3}
+{"count": 10, "name": "Tribromosilane", "weight": 0.0, "id": 2779479374, "level": 3}

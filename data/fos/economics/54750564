@@ -1,0 +1,63 @@
+{"count": 15121, "name": "Retail banking", "weight": 10.0, "id": 156152238, "level": 2}
+{"count": 4282, "name": "Distribution center", "weight": 2.0, "id": 2781463594, "level": 2}
+{"count": 928, "name": "Information good", "weight": 0.0, "id": 26627612, "level": 2}
+{"count": 8745, "name": "Financial transaction", "weight": 5.0, "id": 164516710, "level": 2}
+{"count": 3208, "name": "Mobile banking", "weight": 2.0, "id": 2775930393, "level": 2}
+{"count": 2761, "name": "Cryptocurrency", "weight": 1.0, "id": 180706569, "level": 2}
+{"count": 1286, "name": "Fast-moving consumer goods", "weight": 0.0, "id": 2778738759, "level": 2}
+{"count": 1938, "name": "Private label", "weight": 1.0, "id": 2779084295, "level": 2}
+{"count": 8781, "name": "Humanitarian Logistics", "weight": 5.0, "id": 205548138, "level": 2}
+{"count": 424, "name": "Credence good", "weight": 0.0, "id": 101846000, "level": 2}
+{"count": 619, "name": "Digital goods", "weight": 0.0, "id": 2775906015, "level": 2}
+{"count": 1772, "name": "Hypermarket", "weight": 1.0, "id": 56084127, "level": 2}
+{"count": 867, "name": "Trading Standards", "weight": 0.0, "id": 2777566794, "level": 2}
+{"count": 575, "name": "Complementary assets", "weight": 0.0, "id": 2776598745, "level": 2}
+{"count": 1226, "name": "Intermediate good", "weight": 0.0, "id": 134415985, "level": 2}
+{"count": 1705, "name": "Consignment", "weight": 1.0, "id": 101516089, "level": 2}
+{"count": 952, "name": "Direct selling", "weight": 0.0, "id": 2776473512, "level": 2}
+{"count": 29, "name": "Requirements contract", "weight": 0.0, "id": 2780514251, "level": 2}
+{"count": 845, "name": "Group buying", "weight": 0.0, "id": 2776158436, "level": 2}
+{"count": 740, "name": "Incoterms", "weight": 0.0, "id": 2778424775, "level": 2}
+{"count": 2912, "name": "Purchase order", "weight": 1.0, "id": 134418285, "level": 2}
+{"count": 324, "name": "Public auction", "weight": 0.0, "id": 2780309578, "level": 2}
+{"count": 548, "name": "Price war", "weight": 0.0, "id": 2776475046, "level": 2}
+{"count": 530, "name": "Automated storage and retrieval system", "weight": 0.0, "id": 2779464149, "level": 2}
+{"count": 398, "name": "Hire purchase", "weight": 0.0, "id": 160762548, "level": 2}
+{"count": 428, "name": "Household goods", "weight": 0.0, "id": 2779216152, "level": 2}
+{"count": 294, "name": "Share of wallet", "weight": 0.0, "id": 120117941, "level": 2}
+{"count": 60, "name": "Commercial invoice", "weight": 0.0, "id": 2780900566, "level": 2}
+{"count": 368, "name": "Market entry strategy", "weight": 0.0, "id": 2779303836, "level": 2}
+{"count": 884, "name": "Apothecaries' system", "weight": 0.0, "id": 8293153, "level": 2}
+{"count": 856, "name": "Telecom infrastructure sharing", "weight": 0.0, "id": 131357253, "level": 2}
+{"count": 391, "name": "Contract of sale", "weight": 0.0, "id": 2777520321, "level": 2}
+{"count": 162, "name": "Security deposit", "weight": 0.0, "id": 2778067811, "level": 2}
+{"count": 478, "name": "Lifestyle management", "weight": 0.0, "id": 2776930981, "level": 2}
+{"count": 340, "name": "Best execution", "weight": 0.0, "id": 2781010542, "level": 2}
+{"count": 382, "name": "Countertrade", "weight": 0.0, "id": 2779735466, "level": 2}
+{"count": 401, "name": "Right to Buy", "weight": 0.0, "id": 2777798842, "level": 2}
+{"count": 783, "name": "Final good", "weight": 0.0, "id": 123538878, "level": 2}
+{"count": 83, "name": "Conditional sale", "weight": 0.0, "id": 2776964894, "level": 2}
+{"count": 133, "name": "Naked short selling", "weight": 0.0, "id": 177640984, "level": 2}
+{"count": 79, "name": "No deposit bonus", "weight": 0.0, "id": 2780393824, "level": 2}
+{"count": 348, "name": "Cost of goods sold", "weight": 0.0, "id": 2781444893, "level": 2}
+{"count": 112, "name": "Settlement date", "weight": 0.0, "id": 180185017, "level": 2}
+{"count": 104, "name": "Loss leader", "weight": 0.0, "id": 2780850279, "level": 2}
+{"count": 93, "name": "Earnest payment", "weight": 0.0, "id": 202194681, "level": 2}
+{"count": 51, "name": "Like-kind exchange", "weight": 0.0, "id": 2779888705, "level": 2}
+{"count": 47, "name": "Telegraphic transfer", "weight": 0.0, "id": 92746720, "level": 2}
+{"count": 232, "name": "Stored-value card", "weight": 0.0, "id": 2775968089, "level": 2}
+{"count": 186, "name": "Disembarkation", "weight": 0.0, "id": 4193087, "level": 2}
+{"count": 213, "name": "Buy side", "weight": 0.0, "id": 2779657444, "level": 2}
+{"count": 27, "name": "Bullionism", "weight": 0.0, "id": 89670471, "level": 2}
+{"count": 31, "name": "Car finance", "weight": 0.0, "id": 2778414806, "level": 2}
+{"count": 36, "name": "Seller financing", "weight": 0.0, "id": 2778230932, "level": 2}
+{"count": 67, "name": "Electronic communication network", "weight": 0.0, "id": 2779656606, "level": 2}
+{"count": 78, "name": "Premium segment", "weight": 0.0, "id": 2779989486, "level": 2}
+{"count": 23, "name": "Fair Packaging and Labeling Act", "weight": 0.0, "id": 2780112431, "level": 2}
+{"count": 410, "name": "Buyer's premium", "weight": 0.0, "id": 179683326, "level": 2}
+{"count": 51, "name": "Direct store delivery", "weight": 0.0, "id": 206859100, "level": 2}
+{"count": 18, "name": "Unbundled network element", "weight": 0.0, "id": 2777766246, "level": 2}
+{"count": 10, "name": "Pennyweight", "weight": 0.0, "id": 139898704, "level": 2}
+{"count": 19, "name": "Green trading", "weight": 0.0, "id": 2779901664, "level": 2}
+{"count": 41, "name": "Unique perceived benefit", "weight": 0.0, "id": 126567824, "level": 2}
+{"count": 28, "name": "Financial Information eXchange", "weight": 0.0, "id": 2779072932, "level": 2}

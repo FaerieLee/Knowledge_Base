@@ -1,0 +1,52 @@
+{"count": 14137, "name": "Wi-Fi", "weight": 3.0, "id": 508800617, "level": 3}
+{"count": 37763, "name": "Bluetooth", "weight": 8.0, "id": 546215728, "level": 3}
+{"count": 4030, "name": "Wireless Application Protocol", "weight": 0.0, "id": 52531181, "level": 3}
+{"count": 15708, "name": "General Packet Radio Service", "weight": 3.0, "id": 86338984, "level": 3}
+{"count": 4823, "name": "Body area network", "weight": 1.0, "id": 88737568, "level": 3}
+{"count": 6979, "name": "Wireless power transfer", "weight": 1.0, "id": 2779423816, "level": 3}
+{"count": 3033, "name": "Personal area network", "weight": 0.0, "id": 123813714, "level": 3}
+{"count": 1534, "name": "Wireless security", "weight": 0.0, "id": 2776946656, "level": 3}
+{"count": 2240, "name": "ISM band", "weight": 0.0, "id": 2780652538, "level": 3}
+{"count": 2633, "name": "Radio access technology", "weight": 0.0, "id": 2780137118, "level": 3}
+{"count": 1921, "name": "Digital Enhanced Cordless Telecommunications", "weight": 0.0, "id": 150432741, "level": 3}
+{"count": 6387, "name": "Backhaul (telecommunications)", "weight": 1.0, "id": 103760667, "level": 3}
+{"count": 3762, "name": "Wireless network interface controller", "weight": 0.0, "id": 38436196, "level": 3}
+{"count": 1115, "name": "Inductive charging", "weight": 0.0, "id": 2776199953, "level": 3}
+{"count": 511, "name": "WirelessHART", "weight": 0.0, "id": 77286137, "level": 3}
+{"count": 1144, "name": "Received signal strength indication", "weight": 0.0, "id": 2778913798, "level": 3}
+{"count": 2297, "name": "Point-to-multipoint communication", "weight": 0.0, "id": 208089892, "level": 3}
+{"count": 1860, "name": "Radio Resource Control", "weight": 0.0, "id": 2781028473, "level": 3}
+{"count": 109, "name": "In-band signaling", "weight": 0.0, "id": 2777127043, "level": 3}
+{"count": 1579, "name": "RF module", "weight": 0.0, "id": 2777650915, "level": 3}
+{"count": 313, "name": "Wi-Fi Direct", "weight": 0.0, "id": 2777234602, "level": 3}
+{"count": 1619, "name": "Superframe", "weight": 0.0, "id": 137607620, "level": 3}
+{"count": 76, "name": "WaveLAN", "weight": 0.0, "id": 197361508, "level": 3}
+{"count": 222, "name": "Remote base station", "weight": 0.0, "id": 2777210368, "level": 3}
+{"count": 1247, "name": "Wireless microphone", "weight": 0.0, "id": 2780642455, "level": 3}
+{"count": 1450, "name": "Mobile broadband modem", "weight": 0.0, "id": 177308538, "level": 3}
+{"count": 94, "name": "Wardriving", "weight": 0.0, "id": 48422248, "level": 3}
+{"count": 707, "name": "Beacon frame", "weight": 0.0, "id": 2777451380, "level": 3}
+{"count": 120, "name": "Mobile server", "weight": 0.0, "id": 2781236435, "level": 3}
+{"count": 48, "name": "IQRF", "weight": 0.0, "id": 2776729202, "level": 3}
+{"count": 91, "name": "Mobitex", "weight": 0.0, "id": 2779026758, "level": 3}
+{"count": 53, "name": "DASH7", "weight": 0.0, "id": 2776820105, "level": 3}
+{"count": 34, "name": "Carterfone", "weight": 0.0, "id": 2776511222, "level": 3}
+{"count": 43, "name": "Smartdust", "weight": 0.0, "id": 3021726, "level": 3}
+{"count": 29, "name": "TransferJet", "weight": 0.0, "id": 2779063894, "level": 3}
+{"count": 163, "name": "Home Node B", "weight": 0.0, "id": 113313435, "level": 3}
+{"count": 34, "name": "RuBee", "weight": 0.0, "id": 2777898000, "level": 3}
+{"count": 55, "name": "Intelligent street lighting", "weight": 0.0, "id": 2779538081, "level": 3}
+{"count": 11, "name": "Enhanced 9-1-1", "weight": 0.0, "id": 2778036489, "level": 3}
+{"count": 41, "name": "U-NII", "weight": 0.0, "id": 2779304290, "level": 3}
+{"count": 3610, "name": "Hybrid positioning system", "weight": 0.0, "id": 187394410, "level": 3}
+{"count": 158, "name": "Non-access stratum", "weight": 0.0, "id": 2776191110, "level": 3}
+{"count": 209, "name": "Packet data serving node", "weight": 0.0, "id": 2777327500, "level": 3}
+{"count": 9, "name": "Gi-Fi", "weight": 0.0, "id": 2776693792, "level": 3}
+{"count": 30, "name": "Invention of radio", "weight": 0.0, "id": 2781191120, "level": 3}
+{"count": 68, "name": "Wireless engineering", "weight": 0.0, "id": 187197815, "level": 3}
+{"count": 19, "name": "TOSLINK", "weight": 0.0, "id": 2778318435, "level": 3}
+{"count": 62, "name": "Wireless remote-control switch", "weight": 0.0, "id": 2778325707, "level": 3}
+{"count": 43, "name": "Wireless lock", "weight": 0.0, "id": 2777582245, "level": 3}
+{"count": 45921, "name": "Wi-Fi array", "weight": 10.0, "id": 152153834, "level": 3}
+{"count": 5, "name": "Wireless electronic devices and health", "weight": 0.0, "id": 49308367, "level": 3}
+{"count": 120, "name": "Preferred Roaming List", "weight": 0.0, "id": 2780846064, "level": 3}

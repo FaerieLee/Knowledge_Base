@@ -1,0 +1,60 @@
+{"count": 10536, "name": "Expected utility hypothesis", "weight": 9.0, "id": 205706631, "level": 2}
+{"count": 5525, "name": "Quality-adjusted life year", "weight": 4.0, "id": 64332521, "level": 2}
+{"count": 6107, "name": "Social choice theory", "weight": 5.0, "id": 189352744, "level": 2}
+{"count": 5639, "name": "Prospect theory", "weight": 4.0, "id": 339426, "level": 2}
+{"count": 11297, "name": "Repeated game", "weight": 10.0, "id": 202556891, "level": 2}
+{"count": 4296, "name": "Comparative statics", "weight": 3.0, "id": 48875124, "level": 2}
+{"count": 4508, "name": "Social preferences", "weight": 3.0, "id": 52820260, "level": 2}
+{"count": 3949, "name": "Stochastic dominance", "weight": 3.0, "id": 33252445, "level": 2}
+{"count": 2660, "name": "Time preference", "weight": 2.0, "id": 178562925, "level": 2}
+{"count": 2693, "name": "Time consistency", "weight": 2.0, "id": 11534374, "level": 2}
+{"count": 1282, "name": "Indifference curve", "weight": 1.0, "id": 180715834, "level": 2}
+{"count": 3388, "name": "Loss aversion", "weight": 3.0, "id": 2778174566, "level": 2}
+{"count": 3044, "name": "Marginal utility", "weight": 2.0, "id": 138551086, "level": 2}
+{"count": 3294, "name": "Revealed preference", "weight": 2.0, "id": 2779110102, "level": 2}
+{"count": 1927, "name": "Dynamic inconsistency", "weight": 1.0, "id": 127729010, "level": 2}
+{"count": 2709, "name": "Dictator game", "weight": 2.0, "id": 63477270, "level": 2}
+{"count": 3580, "name": "Bargaining problem", "weight": 3.0, "id": 90376892, "level": 2}
+{"count": 1953, "name": "Ultimatum game", "weight": 1.0, "id": 59482028, "level": 2}
+{"count": 1272, "name": "Inequity aversion", "weight": 1.0, "id": 194959371, "level": 2}
+{"count": 1286, "name": "Exchange economy", "weight": 1.0, "id": 2775962089, "level": 2}
+{"count": 548, "name": "Preference theory", "weight": 0.0, "id": 2781043087, "level": 2}
+{"count": 1433, "name": "Cheap talk", "weight": 1.0, "id": 106485872, "level": 2}
+{"count": 1230, "name": "Choice function", "weight": 1.0, "id": 20656852, "level": 2}
+{"count": 837, "name": "Endowment effect", "weight": 0.0, "id": 119996468, "level": 2}
+{"count": 648, "name": "Marginal rate of substitution", "weight": 0.0, "id": 165469386, "level": 2}
+{"count": 361, "name": "Indirect utility function", "weight": 0.0, "id": 2779795751, "level": 2}
+{"count": 1118, "name": "Transferable utility", "weight": 0.0, "id": 81302675, "level": 2}
+{"count": 1282, "name": "Social planner", "weight": 1.0, "id": 2777706055, "level": 2}
+{"count": 843, "name": "Fair division", "weight": 0.0, "id": 184659173, "level": 2}
+{"count": 269, "name": "Expenditure function", "weight": 0.0, "id": 2778224381, "level": 2}
+{"count": 736, "name": "Veil of ignorance", "weight": 0.0, "id": 175737817, "level": 2}
+{"count": 1178, "name": "Aggregation problem", "weight": 1.0, "id": 32172795, "level": 2}
+{"count": 1461, "name": "Strategic dominance", "weight": 1.0, "id": 123650614, "level": 2}
+{"count": 725, "name": "Welfarism", "weight": 0.0, "id": 2778719785, "level": 2}
+{"count": 257, "name": "Rational inattention", "weight": 0.0, "id": 2781175674, "level": 2}
+{"count": 264, "name": "Endogenous preferences", "weight": 0.0, "id": 2777655335, "level": 2}
+{"count": 191, "name": "Single peaked preferences", "weight": 0.0, "id": 2777683476, "level": 2}
+{"count": 3036, "name": "Choice set", "weight": 2.0, "id": 163839840, "level": 2}
+{"count": 193, "name": "Envy-free", "weight": 0.0, "id": 99242135, "level": 2}
+{"count": 47, "name": "Rotten kid theorem", "weight": 0.0, "id": 2779387773, "level": 2}
+{"count": 98, "name": "Slutsky equation", "weight": 0.0, "id": 2776698858, "level": 2}
+{"count": 80, "name": "Value restriction", "weight": 0.0, "id": 2776003806, "level": 2}
+{"count": 235, "name": "Strategyproof", "weight": 0.0, "id": 168223540, "level": 2}
+{"count": 45, "name": "Hotelling's rule", "weight": 0.0, "id": 2777264725, "level": 2}
+{"count": 78, "name": "Money burning", "weight": 0.0, "id": 2777714776, "level": 2}
+{"count": 65, "name": "Disturbance theory", "weight": 0.0, "id": 201809070, "level": 2}
+{"count": 183, "name": "Homothetic preferences", "weight": 0.0, "id": 2778462684, "level": 2}
+{"count": 216, "name": "Budget set", "weight": 0.0, "id": 2780244646, "level": 2}
+{"count": 101, "name": "Convex preferences", "weight": 0.0, "id": 2776731496, "level": 2}
+{"count": 31, "name": "Gorman polar form", "weight": 0.0, "id": 2779185485, "level": 2}
+{"count": 37, "name": "Inada conditions", "weight": 0.0, "id": 2775867111, "level": 2}
+{"count": 62, "name": "Bliss point", "weight": 0.0, "id": 2777733055, "level": 2}
+{"count": 53, "name": "Quasilinear utility", "weight": 0.0, "id": 2778753714, "level": 2}
+{"count": 14, "name": "Relative utilitarianism", "weight": 0.0, "id": 2779112507, "level": 2}
+{"count": 38, "name": "Reversal symmetry", "weight": 0.0, "id": 2780000307, "level": 2}
+{"count": 35, "name": "Qualitative economics", "weight": 0.0, "id": 150655782, "level": 2}
+{"count": 25, "name": "Majority criterion", "weight": 0.0, "id": 2776483356, "level": 2}
+{"count": 7, "name": "Scitovsky paradox", "weight": 0.0, "id": 2779401237, "level": 2}
+{"count": 12, "name": "Modifier letter apostrophe", "weight": 0.0, "id": 2776244116, "level": 2}
+{"count": 8, "name": "Surplus procedure", "weight": 0.0, "id": 197528124, "level": 2}

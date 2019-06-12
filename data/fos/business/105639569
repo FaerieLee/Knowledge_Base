@@ -1,0 +1,72 @@
+{"count": 66750, "name": "Monetary policy", "weight": 10.0, "id": 126285488, "level": 2}
+{"count": 11772, "name": "Current account", "weight": 1.0, "id": 52092804, "level": 2}
+{"count": 11000, "name": "Balance of payments", "weight": 1.0, "id": 109948328, "level": 2}
+{"count": 16879, "name": "Income tax", "weight": 2.0, "id": 165786947, "level": 2}
+{"count": 8560, "name": "Tax policy", "weight": 1.0, "id": 2776805697, "level": 2}
+{"count": 12643, "name": "International finance", "weight": 1.0, "id": 35278167, "level": 2}
+{"count": 46111, "name": "Tax reform", "weight": 6.0, "id": 551662922, "level": 2}
+{"count": 4103, "name": "Deposit insurance", "weight": 0.0, "id": 2777817046, "level": 2}
+{"count": 5967, "name": "Crowding out", "weight": 0.0, "id": 8031360, "level": 2}
+{"count": 2742, "name": "Bank regulation", "weight": 0.0, "id": 2778660980, "level": 2}
+{"count": 5426, "name": "Small open economy", "weight": 0.0, "id": 2777883944, "level": 2}
+{"count": 13214, "name": "Financial regulation", "weight": 1.0, "id": 510755694, "level": 2}
+{"count": 4589, "name": "Financial integration", "weight": 0.0, "id": 2780615719, "level": 2}
+{"count": 1772, "name": "Financial sector development", "weight": 0.0, "id": 2777747085, "level": 2}
+{"count": 43756, "name": "Value-added tax", "weight": 6.0, "id": 111326686, "level": 2}
+{"count": 4582, "name": "Capital account", "weight": 0.0, "id": 32768728, "level": 2}
+{"count": 1708, "name": "Bank failure", "weight": 0.0, "id": 2776922315, "level": 2}
+{"count": 1492, "name": "Capital flight", "weight": 0.0, "id": 2777657794, "level": 2}
+{"count": 1666, "name": "Public capital", "weight": 0.0, "id": 2776675903, "level": 2}
+{"count": 3679, "name": "Reserve requirement", "weight": 0.0, "id": 150149615, "level": 2}
+{"count": 1880, "name": "Bank run", "weight": 0.0, "id": 94866938, "level": 2}
+{"count": 6815, "name": "Money laundering", "weight": 1.0, "id": 2780005421, "level": 2}
+{"count": 5011, "name": "Money market", "weight": 0.0, "id": 23952128, "level": 2}
+{"count": 693, "name": "Prudential regulation", "weight": 0.0, "id": 2776681735, "level": 2}
+{"count": 3869, "name": "Economic and monetary union", "weight": 0.0, "id": 2776109892, "level": 2}
+{"count": 4370, "name": "Price controls", "weight": 0.0, "id": 160909455, "level": 2}
+{"count": 1330, "name": "Financial deepening", "weight": 0.0, "id": 2776076839, "level": 2}
+{"count": 1544, "name": "Tax exemption", "weight": 0.0, "id": 2779732188, "level": 2}
+{"count": 4437, "name": "Sovereign wealth fund", "weight": 0.0, "id": 124932975, "level": 2}
+{"count": 1246, "name": "Fiscal capacity", "weight": 0.0, "id": 2780209513, "level": 2}
+{"count": 9205, "name": "Economic expansion", "weight": 1.0, "id": 49135098, "level": 2}
+{"count": 1120, "name": "Recapitalization", "weight": 0.0, "id": 166357818, "level": 2}
+{"count": 532, "name": "Net capital rule", "weight": 0.0, "id": 161782682, "level": 2}
+{"count": 192, "name": "Incremental capital-output ratio", "weight": 0.0, "id": 2781435717, "level": 2}
+{"count": 34515, "name": "Double taxation", "weight": 5.0, "id": 51303962, "level": 2}
+{"count": 713, "name": "Windfall gain", "weight": 0.0, "id": 629919, "level": 2}
+{"count": 5101, "name": "Taxable income", "weight": 0.0, "id": 157263771, "level": 2}
+{"count": 992, "name": "Budgetary policy", "weight": 0.0, "id": 2777473121, "level": 2}
+{"count": 580, "name": "Hard currency", "weight": 0.0, "id": 2777649786, "level": 2}
+{"count": 3948, "name": "National bank", "weight": 0.0, "id": 2779467348, "level": 2}
+{"count": 886, "name": "Flow of funds", "weight": 0.0, "id": 2778540153, "level": 2}
+{"count": 405, "name": "Tobin tax", "weight": 0.0, "id": 2776502694, "level": 2}
+{"count": 7071, "name": "Bank rate", "weight": 1.0, "id": 38070178, "level": 2}
+{"count": 432, "name": "Stamp duty", "weight": 0.0, "id": 2776422240, "level": 2}
+{"count": 186, "name": "Primary deficit", "weight": 0.0, "id": 2779054365, "level": 2}
+{"count": 1684, "name": "Policy mix", "weight": 0.0, "id": 2779962586, "level": 2}
+{"count": 631, "name": "National savings", "weight": 0.0, "id": 2779860848, "level": 2}
+{"count": 782, "name": "Housing Benefit", "weight": 0.0, "id": 2777055400, "level": 2}
+{"count": 652, "name": "Inheritance tax", "weight": 0.0, "id": 2777983025, "level": 2}
+{"count": 337, "name": "Tax increment financing", "weight": 0.0, "id": 2776670216, "level": 2}
+{"count": 508, "name": "Compliance cost", "weight": 0.0, "id": 2781070176, "level": 2}
+{"count": 3311, "name": "Federal funds", "weight": 0.0, "id": 2778333325, "level": 2}
+{"count": 323, "name": "Bank secrecy", "weight": 0.0, "id": 2779817080, "level": 2}
+{"count": 4034, "name": "Excise", "weight": 0.0, "id": 2778302417, "level": 2}
+{"count": 171, "name": "Road tax", "weight": 0.0, "id": 2777708215, "level": 2}
+{"count": 1085, "name": "Gold as an investment", "weight": 0.0, "id": 11039479, "level": 2}
+{"count": 197, "name": "Tax efficiency", "weight": 0.0, "id": 2780129338, "level": 2}
+{"count": 103, "name": "Capital levy", "weight": 0.0, "id": 2778957972, "level": 2}
+{"count": 212, "name": "Export\u2013Import Bank", "weight": 0.0, "id": 2777680206, "level": 2}
+{"count": 402, "name": "Core countries", "weight": 0.0, "id": 2780265367, "level": 2}
+{"count": 157, "name": "Beggar thy neighbour", "weight": 0.0, "id": 21980080, "level": 2}
+{"count": 732, "name": "External sector", "weight": 0.0, "id": 2777243954, "level": 2}
+{"count": 373, "name": "Discretionary spending", "weight": 0.0, "id": 2776807994, "level": 2}
+{"count": 91, "name": "Soda Tax", "weight": 0.0, "id": 2778800060, "level": 2}
+{"count": 56, "name": "Marginal propensity to import", "weight": 0.0, "id": 2780332213, "level": 2}
+{"count": 186, "name": "Surtax", "weight": 0.0, "id": 2776512959, "level": 2}
+{"count": 83, "name": "National Bank Act", "weight": 0.0, "id": 2781333323, "level": 2}
+{"count": 125, "name": "Income trust", "weight": 0.0, "id": 81934813, "level": 2}
+{"count": 100, "name": "Participation exemption", "weight": 0.0, "id": 2780660336, "level": 2}
+{"count": 249, "name": "Periphery countries", "weight": 0.0, "id": 2775863360, "level": 2}
+{"count": 9, "name": "Money market in India", "weight": 0.0, "id": 2776121235, "level": 2}
+{"count": 5, "name": "Federal Reserve Deposits", "weight": 0.0, "id": 2777187537, "level": 2}

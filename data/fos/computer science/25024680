@@ -1,0 +1,8 @@
+{"count": 44, "name": "Storm botnet", "weight": 1.0, "id": 75280413, "level": 5}
+{"count": 181, "name": "ZeroAccess botnet", "weight": 5.0, "id": 10559827, "level": 5}
+{"count": 22, "name": "DNSBL", "weight": 0.0, "id": 2777345673, "level": 5}
+{"count": 314, "name": "Asprox botnet", "weight": 9.0, "id": 15758519, "level": 5}
+{"count": 90, "name": "Bot herder", "weight": 2.0, "id": 75974156, "level": 5}
+{"count": 190, "name": "Mariposa botnet", "weight": 5.0, "id": 12761453, "level": 5}
+{"count": 329, "name": "Rustock botnet", "weight": 10.0, "id": 13415368, "level": 5}
+{"count": 314, "name": "Cutwail botnet", "weight": 9.0, "id": 185029255, "level": 5}

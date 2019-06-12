@@ -1,0 +1,10 @@
+{"count": 4256, "name": "Horn clause", "weight": 10.0, "id": 189790780, "level": 3}
+{"count": 2039, "name": "Answer set programming", "weight": 4.0, "id": 182620335, "level": 3}
+{"count": 524, "name": "Negation as failure", "weight": 1.0, "id": 194146651, "level": 3}
+{"count": 176, "name": "Warren Abstract Machine", "weight": 0.0, "id": 2779334681, "level": 3}
+{"count": 149, "name": "Parlog", "weight": 0.0, "id": 2777584704, "level": 3}
+{"count": 25, "name": "Occurs check", "weight": 0.0, "id": 2777077501, "level": 3}
+{"count": 11, "name": "miniKanren", "weight": 0.0, "id": 2778445726, "level": 3}
+{"count": 53, "name": "HiLog", "weight": 0.0, "id": 2779321044, "level": 3}
+{"count": 3453, "name": "Concurrent constraint logic programming", "weight": 8.0, "id": 204306468, "level": 3}
+{"count": 15, "name": "Logtalk", "weight": 0.0, "id": 2778460848, "level": 3}

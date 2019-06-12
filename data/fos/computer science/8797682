@@ -1,0 +1,41 @@
+{"count": 5613, "name": "XML schema", "weight": 10.0, "id": 139899295, "level": 3}
+{"count": 1048, "name": "Path expression", "weight": 1.0, "id": 61114434, "level": 3}
+{"count": 4614, "name": "XML database", "weight": 8.0, "id": 183068750, "level": 3}
+{"count": 2258, "name": "Document type definition", "weight": 4.0, "id": 84314905, "level": 3}
+{"count": 2409, "name": "SGML", "weight": 4.0, "id": 62701983, "level": 3}
+{"count": 2455, "name": "XPath", "weight": 4.0, "id": 2780213375, "level": 3}
+{"count": 1667, "name": "XSLT", "weight": 2.0, "id": 150569060, "level": 3}
+{"count": 1854, "name": "XQuery", "weight": 3.0, "id": 2780512708, "level": 3}
+{"count": 239, "name": "Lowest common ancestor", "weight": 0.0, "id": 160819766, "level": 3}
+{"count": 271, "name": "XML retrieval", "weight": 0.0, "id": 2780918891, "level": 3}
+{"count": 2201, "name": "XHTML", "weight": 3.0, "id": 189139006, "level": 3}
+{"count": 840, "name": "XSL", "weight": 1.0, "id": 114507355, "level": 3}
+{"count": 1467, "name": "Style sheet", "weight": 2.0, "id": 89159866, "level": 3}
+{"count": 525, "name": "Geography Markup Language", "weight": 0.0, "id": 72230791, "level": 3}
+{"count": 331, "name": "Clinical Document Architecture", "weight": 0.0, "id": 2776835645, "level": 3}
+{"count": 776, "name": "ebXML", "weight": 1.0, "id": 164102674, "level": 3}
+{"count": 152, "name": "ATML", "weight": 0.0, "id": 2778133435, "level": 3}
+{"count": 277, "name": "XLink", "weight": 0.0, "id": 2777203476, "level": 3}
+{"count": 175, "name": "Root element", "weight": 0.0, "id": 19780602, "level": 3}
+{"count": 3345, "name": "Simple API for XML", "weight": 5.0, "id": 8595896, "level": 3}
+{"count": 183, "name": "DocBook", "weight": 0.0, "id": 129316332, "level": 3}
+{"count": 271, "name": "JSON-LD", "weight": 0.0, "id": 82045404, "level": 3}
+{"count": 53, "name": "Darwin Information Typing Architecture", "weight": 0.0, "id": 2778399605, "level": 3}
+{"count": 19, "name": "CDuce", "weight": 0.0, "id": 2778180079, "level": 3}
+{"count": 31, "name": "Atom (standard)", "weight": 0.0, "id": 181625191, "level": 3}
+{"count": 173, "name": "OpenDocument", "weight": 0.0, "id": 70988538, "level": 3}
+{"count": 31, "name": "XML Configuration Access Protocol", "weight": 0.0, "id": 2781297125, "level": 3}
+{"count": 61, "name": "SCXML", "weight": 0.0, "id": 2779262563, "level": 3}
+{"count": 18, "name": "SXML", "weight": 0.0, "id": 2780863129, "level": 3}
+{"count": 24, "name": "railML", "weight": 0.0, "id": 2779393289, "level": 3}
+{"count": 23, "name": "GRDDL", "weight": 0.0, "id": 2777439831, "level": 3}
+{"count": 15, "name": "WBXML", "weight": 0.0, "id": 2778697120, "level": 3}
+{"count": 35, "name": "Journal Article Tag Suite", "weight": 0.0, "id": 2780315257, "level": 3}
+{"count": 22, "name": "FpML", "weight": 0.0, "id": 2780541821, "level": 3}
+{"count": 13, "name": "XML pipeline", "weight": 0.0, "id": 2779763417, "level": 3}
+{"count": 23, "name": "Music Encoding Initiative", "weight": 0.0, "id": 2776789618, "level": 3}
+{"count": 17, "name": "XInclude", "weight": 0.0, "id": 2777150282, "level": 3}
+{"count": 22, "name": "National Information Exchange Model", "weight": 0.0, "id": 2777407568, "level": 3}
+{"count": 46, "name": "Metadata Encoding and Transmission Standard", "weight": 0.0, "id": 2778139395, "level": 3}
+{"count": 490, "name": "Service Interface for Real Time Information", "weight": 0.0, "id": 48216945, "level": 3}
+{"count": 1350, "name": "PCDATA", "weight": 2.0, "id": 167387906, "level": 3}

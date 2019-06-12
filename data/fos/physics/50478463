@@ -1,0 +1,7 @@
+{"count": 3785, "name": "Unstructured grid", "weight": 10.0, "id": 134620963, "level": 3}
+{"count": 2664, "name": "Riemann solver", "weight": 7.0, "id": 120796332, "level": 3}
+{"count": 375, "name": "MUSCL scheme", "weight": 0.0, "id": 38982235, "level": 3}
+{"count": 611, "name": "SIMPLEC algorithm", "weight": 1.0, "id": 2777365879, "level": 3}
+{"count": 250, "name": "PISO algorithm", "weight": 0.0, "id": 2779957580, "level": 3}
+{"count": 167, "name": "Compact stencil", "weight": 0.0, "id": 2778437084, "level": 3}
+{"count": 68, "name": "Power law scheme", "weight": 0.0, "id": 2778692089, "level": 3}

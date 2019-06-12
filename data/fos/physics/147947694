@@ -1,0 +1,6 @@
+{"count": 1696, "name": "Model output statistics", "weight": 8.0, "id": 37505551, "level": 3}
+{"count": 1943, "name": "Global Forecast System", "weight": 10.0, "id": 163109420, "level": 3}
+{"count": 501, "name": "Navy Operational Global Atmospheric Prediction System", "weight": 2.0, "id": 130516228, "level": 3}
+{"count": 428, "name": "HIRLAM", "weight": 2.0, "id": 2776971113, "level": 3}
+{"count": 27, "name": "Aircraft Meteorological Data Relay", "weight": 0.0, "id": 2779455919, "level": 3}
+{"count": 1009, "name": "North American Mesoscale Model", "weight": 5.0, "id": 197661373, "level": 3}

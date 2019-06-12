@@ -1,0 +1,44 @@
+{"count": 29555, "name": "Laser beam welding", "weight": 8.0, "id": 89344249, "level": 3}
+{"count": 11206, "name": "Friction stir welding", "weight": 3.0, "id": 40367268, "level": 3}
+{"count": 31326, "name": "Heat-affected zone", "weight": 9.0, "id": 146868986, "level": 3}
+{"count": 17375, "name": "Spot welding", "weight": 5.0, "id": 110209231, "level": 3}
+{"count": 34054, "name": "Arc welding", "weight": 10.0, "id": 20480867, "level": 3}
+{"count": 10978, "name": "Plasma arc welding", "weight": 3.0, "id": 206615322, "level": 3}
+{"count": 10469, "name": "Weldability", "weight": 3.0, "id": 88504338, "level": 3}
+{"count": 8169, "name": "Butt joint", "weight": 2.0, "id": 94870803, "level": 3}
+{"count": 2237, "name": "Diffusion welding", "weight": 0.0, "id": 2781455452, "level": 3}
+{"count": 25190, "name": "Electric resistance welding", "weight": 7.0, "id": 44273521, "level": 3}
+{"count": 1248, "name": "Heat fusion", "weight": 0.0, "id": 140052944, "level": 3}
+{"count": 4241, "name": "Keyhole", "weight": 1.0, "id": 2776139624, "level": 3}
+{"count": 4727, "name": "Ultrasonic welding", "weight": 1.0, "id": 2778922904, "level": 3}
+{"count": 2040, "name": "Hardfacing", "weight": 0.0, "id": 2777240487, "level": 3}
+{"count": 9429, "name": "Robot welding", "weight": 2.0, "id": 118198166, "level": 3}
+{"count": 2148, "name": "Fillet weld", "weight": 0.0, "id": 120816423, "level": 3}
+{"count": 2269, "name": "Weld line", "weight": 0.0, "id": 2779890359, "level": 3}
+{"count": 827, "name": "High-strength low-alloy steel", "weight": 0.0, "id": 2777457650, "level": 3}
+{"count": 696, "name": "Electroslag welding", "weight": 0.0, "id": 2777496075, "level": 3}
+{"count": 368, "name": "Ultrasonic impact treatment", "weight": 0.0, "id": 2780769866, "level": 3}
+{"count": 170, "name": "Ultrasonic consolidation", "weight": 0.0, "id": 2776976625, "level": 3}
+{"count": 481, "name": "Welding defect", "weight": 0.0, "id": 2776931302, "level": 3}
+{"count": 218, "name": "Vibratory stress relief", "weight": 0.0, "id": 2777768457, "level": 3}
+{"count": 1377, "name": "Stud welding", "weight": 0.0, "id": 2779243372, "level": 3}
+{"count": 596, "name": "Liquation", "weight": 0.0, "id": 180938184, "level": 3}
+{"count": 276, "name": "Orbital welding", "weight": 0.0, "id": 2780198619, "level": 3}
+{"count": 1639, "name": "Sonotrode", "weight": 0.0, "id": 2780750399, "level": 3}
+{"count": 396, "name": "Faying surface", "weight": 0.0, "id": 2779245414, "level": 3}
+{"count": 184, "name": "Forge welding", "weight": 0.0, "id": 2779375441, "level": 3}
+{"count": 285, "name": "Metal fabrication", "weight": 0.0, "id": 2778452465, "level": 3}
+{"count": 70, "name": "Plastic joining", "weight": 0.0, "id": 2776804299, "level": 3}
+{"count": 87, "name": "HY-80", "weight": 0.0, "id": 2779699238, "level": 3}
+{"count": 69, "name": "Ceramic flux", "weight": 0.0, "id": 2778674800, "level": 3}
+{"count": 109, "name": "Exothermic welding", "weight": 0.0, "id": 2778522400, "level": 3}
+{"count": 34, "name": "Cellulose electrode", "weight": 0.0, "id": 2778558985, "level": 3}
+{"count": 31, "name": "Pattern welding", "weight": 0.0, "id": 2780395759, "level": 3}
+{"count": 216, "name": "Skelp", "weight": 0.0, "id": 2779478037, "level": 3}
+{"count": 228, "name": "Spin welding", "weight": 0.0, "id": 2778302343, "level": 3}
+{"count": 49, "name": "A514 steel", "weight": 0.0, "id": 2776264082, "level": 3}
+{"count": 278, "name": "Welding helmet", "weight": 0.0, "id": 2780005510, "level": 3}
+{"count": 15, "name": "Weld quality assurance", "weight": 0.0, "id": 2779771547, "level": 3}
+{"count": 35, "name": "Welding goggles", "weight": 0.0, "id": 2778578963, "level": 3}
+{"count": 6, "name": "Welder certification", "weight": 0.0, "id": 2777947244, "level": 3}
+{"count": 14, "name": "X-ray welding", "weight": 0.0, "id": 2781119543, "level": 3}

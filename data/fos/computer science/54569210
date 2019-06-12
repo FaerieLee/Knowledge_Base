@@ -1,0 +1,6 @@
+{"count": 4424, "name": "Multiple encryption", "weight": 10.0, "id": 184685986, "level": 4}
+{"count": 353, "name": "Functional encryption", "weight": 0.0, "id": 2780746774, "level": 4}
+{"count": 3338, "name": "Deterministic encryption", "weight": 7.0, "id": 57795399, "level": 4}
+{"count": 1650, "name": "Watermarking attack", "weight": 3.0, "id": 122760801, "level": 4}
+{"count": 289, "name": "Confusion and diffusion", "weight": 0.0, "id": 121691759, "level": 4}
+{"count": 2687, "name": "Plaintext-aware encryption", "weight": 6.0, "id": 119133118, "level": 4}

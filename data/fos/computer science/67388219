@@ -1,0 +1,5 @@
+{"count": 354, "name": "Content addressable network", "weight": 2.0, "id": 43995721, "level": 4}
+{"count": 1239, "name": "Universal hashing", "weight": 7.0, "id": 116058348, "level": 4}
+{"count": 1655, "name": "Dynamic perfect hashing", "weight": 10.0, "id": 122907437, "level": 4}
+{"count": 90, "name": "Linear probing", "weight": 0.0, "id": 199246997, "level": 4}
+{"count": 1268, "name": "Feature hashing", "weight": 7.0, "id": 133667856, "level": 4}

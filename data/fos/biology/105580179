@@ -1,0 +1,48 @@
+{"count": 13501, "name": "RNA-binding protein", "weight": 8.0, "id": 41282012, "level": 4}
+{"count": 15109, "name": "Untranslated region", "weight": 10.0, "id": 89604277, "level": 4}
+{"count": 6599, "name": "Eukaryotic translation", "weight": 4.0, "id": 4718897, "level": 4}
+{"count": 8007, "name": "Polyadenylation", "weight": 5.0, "id": 142575336, "level": 4}
+{"count": 4134, "name": "Differential display", "weight": 2.0, "id": 2776657240, "level": 4}
+{"count": 6713, "name": "Polysome", "weight": 4.0, "id": 65666806, "level": 4}
+{"count": 4177, "name": "Internal ribosome entry site", "weight": 2.0, "id": 77430603, "level": 4}
+{"count": 1635, "name": "Ribosomal binding site", "weight": 1.0, "id": 114847915, "level": 4}
+{"count": 1493, "name": "Nonsense-mediated decay", "weight": 0.0, "id": 70219777, "level": 4}
+{"count": 658, "name": "Poly(A)-binding protein", "weight": 0.0, "id": 2780887552, "level": 4}
+{"count": 2558, "name": "Precursor mRNA", "weight": 1.0, "id": 102063271, "level": 4}
+{"count": 3833, "name": "Translational regulation", "weight": 2.0, "id": 39685955, "level": 4}
+{"count": 2548, "name": "EIF4E", "weight": 1.0, "id": 161295673, "level": 4}
+{"count": 659, "name": "Trans-splicing", "weight": 0.0, "id": 47124935, "level": 4}
+{"count": 3246, "name": "Translation (biology)", "weight": 2.0, "id": 149364088, "level": 4}
+{"count": 4956, "name": "Start codon", "weight": 3.0, "id": 176990463, "level": 4}
+{"count": 1358, "name": "Stress granule", "weight": 0.0, "id": 117838200, "level": 4}
+{"count": 1652, "name": "Post-transcriptional modification", "weight": 1.0, "id": 22232683, "level": 4}
+{"count": 1741, "name": "P-bodies", "weight": 1.0, "id": 162419368, "level": 4}
+{"count": 583, "name": "Exoribonuclease", "weight": 0.0, "id": 2775990537, "level": 4}
+{"count": 204, "name": "Ribosome Recycling Factor", "weight": 0.0, "id": 2779553529, "level": 4}
+{"count": 1173, "name": "Endoribonuclease", "weight": 0.0, "id": 2780102198, "level": 4}
+{"count": 385, "name": "Decapping", "weight": 0.0, "id": 2778585814, "level": 4}
+{"count": 298, "name": "Preprotachykinin", "weight": 0.0, "id": 2778914685, "level": 4}
+{"count": 1257, "name": "Translational efficiency", "weight": 0.0, "id": 2775992057, "level": 4}
+{"count": 862, "name": "Ribosome profiling", "weight": 0.0, "id": 182325514, "level": 4}
+{"count": 508, "name": "mRNA display", "weight": 0.0, "id": 68541483, "level": 4}
+{"count": 1036, "name": "Primary transcript", "weight": 0.0, "id": 67585878, "level": 4}
+{"count": 181, "name": "RyhB", "weight": 0.0, "id": 2777017938, "level": 4}
+{"count": 235, "name": "N6-Methyladenosine", "weight": 0.0, "id": 2775963939, "level": 4}
+{"count": 367, "name": "Guanylyltransferase", "weight": 0.0, "id": 2780857609, "level": 4}
+{"count": 203, "name": "SLBP", "weight": 0.0, "id": 2777617099, "level": 4}
+{"count": 97, "name": "Nuclear run-on", "weight": 0.0, "id": 2780520864, "level": 4}
+{"count": 95, "name": "Iron response element", "weight": 0.0, "id": 2777270972, "level": 4}
+{"count": 26, "name": "Multicistronic message", "weight": 0.0, "id": 146710398, "level": 4}
+{"count": 172, "name": "ZBP1", "weight": 0.0, "id": 2779008534, "level": 4}
+{"count": 190, "name": "Hfq protein", "weight": 0.0, "id": 2779556579, "level": 4}
+{"count": 164, "name": "Epitranscriptomics", "weight": 0.0, "id": 2777847897, "level": 4}
+{"count": 88, "name": "7-Methylguanosine", "weight": 0.0, "id": 2780393432, "level": 4}
+{"count": 180, "name": "Smaug", "weight": 0.0, "id": 2778890973, "level": 4}
+{"count": 156, "name": "PABPC1", "weight": 0.0, "id": 2778269829, "level": 4}
+{"count": 1566, "name": "Mature messenger RNA", "weight": 1.0, "id": 137404119, "level": 4}
+{"count": 123, "name": "Transfer-messenger RNA", "weight": 0.0, "id": 2778209457, "level": 4}
+{"count": 22, "name": "Inositol monophosphatase 1", "weight": 0.0, "id": 2777264011, "level": 4}
+{"count": 13, "name": "Polyuridylation", "weight": 0.0, "id": 2781097108, "level": 4}
+{"count": 27, "name": "ZCCHC6", "weight": 0.0, "id": 2781276767, "level": 4}
+{"count": 33, "name": "Bacterial small RNA", "weight": 0.0, "id": 2778483469, "level": 4}
+{"count": 9, "name": "Messenger RNA decapping", "weight": 0.0, "id": 2779690605, "level": 4}

@@ -1,0 +1,200 @@
+{"count": 72606, "name": "Geographic information system", "weight": 2.0, "id": 41856607, "level": 2}
+{"count": 125401, "name": "Drainage basin", "weight": 4.0, "id": 126645576, "level": 2}
+{"count": 80726, "name": "Altitude", "weight": 2.0, "id": 29403383, "level": 2}
+{"count": 26957, "name": "Dry season", "weight": 0.0, "id": 9777977, "level": 2}
+{"count": 45803, "name": "Water level", "weight": 1.0, "id": 1284942, "level": 2}
+{"count": 24465, "name": "Air traffic control", "weight": 0.0, "id": 166961238, "level": 2}
+{"count": 41644, "name": "Atlas (anatomy)", "weight": 1.0, "id": 2776673561, "level": 2}
+{"count": 26423, "name": "Wet season", "weight": 0.0, "id": 52322663, "level": 2}
+{"count": 23995, "name": "Riparian zone", "weight": 0.0, "id": 11731853, "level": 2}
+{"count": 31002, "name": "Topographic map", "weight": 1.0, "id": 55555194, "level": 2}
+{"count": 72305, "name": "Terrain", "weight": 2.0, "id": 161840515, "level": 2}
+{"count": 21227, "name": "Thematic map", "weight": 0.0, "id": 93692415, "level": 2}
+{"count": 12993, "name": "Hydrography", "weight": 0.0, "id": 76256466, "level": 2}
+{"count": 290708, "name": "Elevation", "weight": 10.0, "id": 142816520, "level": 2}
+{"count": 16453, "name": "Landform", "weight": 0.0, "id": 108497213, "level": 2}
+{"count": 16105, "name": "Zona", "weight": 0.0, "id": 2780188749, "level": 2}
+{"count": 23699, "name": "Geospatial analysis", "weight": 0.0, "id": 9770341, "level": 2}
+{"count": 13380, "name": "Meander", "weight": 0.0, "id": 102950494, "level": 2}
+{"count": 66868, "name": "Plateau", "weight": 2.0, "id": 82507290, "level": 2}
+{"count": 5729, "name": "Earthworks", "weight": 0.0, "id": 156945495, "level": 2}
+{"count": 11248, "name": "Contour line", "weight": 0.0, "id": 86069527, "level": 2}
+{"count": 10510, "name": "Surveyor", "weight": 0.0, "id": 23588892, "level": 2}
+{"count": 5947, "name": "Geoid", "weight": 0.0, "id": 80989030, "level": 2}
+{"count": 16407, "name": "Depth sounding", "weight": 0.0, "id": 55510283, "level": 2}
+{"count": 14568, "name": "Runway", "weight": 0.0, "id": 81155309, "level": 2}
+{"count": 17916, "name": "Firefighting", "weight": 0.0, "id": 557531904, "level": 2}
+{"count": 22630, "name": "Canyon", "weight": 0.0, "id": 84859931, "level": 2}
+{"count": 30976, "name": "Train", "weight": 1.0, "id": 190839683, "level": 2}
+{"count": 19125, "name": "Geologic map", "weight": 0.0, "id": 82586738, "level": 2}
+{"count": 947, "name": "Navigational aid", "weight": 0.0, "id": 2778761605, "level": 2}
+{"count": 64005, "name": "Ridge", "weight": 2.0, "id": 32277403, "level": 2}
+{"count": 8484, "name": "Cadastre", "weight": 0.0, "id": 134207755, "level": 2}
+{"count": 3761, "name": "Coulee", "weight": 0.0, "id": 161189057, "level": 2}
+{"count": 847, "name": "Photomapping", "weight": 0.0, "id": 120881857, "level": 2}
+{"count": 4058, "name": "Alluvial plain", "weight": 0.0, "id": 47568318, "level": 2}
+{"count": 15996, "name": "Compass", "weight": 0.0, "id": 2778361833, "level": 2}
+{"count": 9419, "name": "Weir", "weight": 0.0, "id": 2779276979, "level": 2}
+{"count": 735, "name": "Benchmark (surveying)", "weight": 0.0, "id": 185798385, "level": 2}
+{"count": 2895, "name": "Land administration", "weight": 0.0, "id": 2777893444, "level": 2}
+{"count": 15831, "name": "Tierra", "weight": 0.0, "id": 129833234, "level": 2}
+{"count": 4782, "name": "Air navigation", "weight": 0.0, "id": 504623915, "level": 2}
+{"count": 12882, "name": "Mesa", "weight": 0.0, "id": 2780940541, "level": 2}
+{"count": 5957, "name": "Fire control", "weight": 0.0, "id": 81545478, "level": 2}
+{"count": 4034, "name": "Echo sounding", "weight": 0.0, "id": 50254455, "level": 2}
+{"count": 402, "name": "Dynamic height", "weight": 0.0, "id": 119016455, "level": 2}
+{"count": 3181, "name": "Geomatics", "weight": 0.0, "id": 12780434, "level": 2}
+{"count": 4629, "name": "Inclinometer", "weight": 0.0, "id": 158105764, "level": 2}
+{"count": 26978, "name": "Geodetic datum", "weight": 0.0, "id": 58754882, "level": 2}
+{"count": 2719, "name": "Geocoding", "weight": 0.0, "id": 42629822, "level": 2}
+{"count": 1817, "name": "Piscina", "weight": 0.0, "id": 2779461648, "level": 2}
+{"count": 1595, "name": "Volunteered geographic information", "weight": 0.0, "id": 57380593, "level": 2}
+{"count": 13106, "name": "Landmark", "weight": 0.0, "id": 2780297707, "level": 2}
+{"count": 7335, "name": "Road map", "weight": 0.0, "id": 188048851, "level": 2}
+{"count": 23215, "name": "Panorama", "weight": 0.0, "id": 2780580889, "level": 2}
+{"count": 1320, "name": "Navigational instrument", "weight": 0.0, "id": 10245270, "level": 2}
+{"count": 1568, "name": "Combat support", "weight": 0.0, "id": 111611456, "level": 2}
+{"count": 8472, "name": "Levelling", "weight": 0.0, "id": 100260852, "level": 2}
+{"count": 555, "name": "Rutter", "weight": 0.0, "id": 2778373884, "level": 2}
+{"count": 2149, "name": "Ravine", "weight": 0.0, "id": 65340099, "level": 2}
+{"count": 23909, "name": "Traverse", "weight": 0.0, "id": 176809094, "level": 2}
+{"count": 877, "name": "Linear scale", "weight": 0.0, "id": 170122806, "level": 2}
+{"count": 2779, "name": "Equipotential", "weight": 0.0, "id": 84130051, "level": 2}
+{"count": 1057, "name": "Digital Earth", "weight": 0.0, "id": 120938966, "level": 2}
+{"count": 782, "name": "Distance measuring equipment", "weight": 0.0, "id": 185897851, "level": 2}
+{"count": 1683, "name": "Riprap", "weight": 0.0, "id": 2777610993, "level": 2}
+{"count": 6858, "name": "City centre", "weight": 0.0, "id": 2779201158, "level": 2}
+{"count": 97, "name": "Ar\u00eate", "weight": 0.0, "id": 2780418663, "level": 2}
+{"count": 1930, "name": "Map projection", "weight": 0.0, "id": 176250725, "level": 2}
+{"count": 1665, "name": "Position fixing", "weight": 0.0, "id": 22927688, "level": 2}
+{"count": 2534, "name": "Romer", "weight": 0.0, "id": 2777601356, "level": 2}
+{"count": 1427, "name": "Harbour", "weight": 0.0, "id": 2777318892, "level": 2}
+{"count": 1378, "name": "Cartographic generalization", "weight": 0.0, "id": 196031653, "level": 2}
+{"count": 4036, "name": "Total station", "weight": 0.0, "id": 168498295, "level": 2}
+{"count": 8876, "name": "Mountain range", "weight": 0.0, "id": 115131309, "level": 2}
+{"count": 9722, "name": "Superimposition", "weight": 0.0, "id": 143874112, "level": 2}
+{"count": 2171, "name": "Waterfall", "weight": 0.0, "id": 121012721, "level": 2}
+{"count": 1373, "name": "Geoinformatics", "weight": 0.0, "id": 109364679, "level": 2}
+{"count": 4758, "name": "Almeria", "weight": 0.0, "id": 2780781906, "level": 2}
+{"count": 10346, "name": "International airport", "weight": 0.0, "id": 2779679337, "level": 2}
+{"count": 5070, "name": "Geographic coordinate system", "weight": 0.0, "id": 123046963, "level": 2}
+{"count": 839, "name": "Celestial navigation", "weight": 0.0, "id": 144475974, "level": 2}
+{"count": 1544, "name": "Orienteering", "weight": 0.0, "id": 513932644, "level": 2}
+{"count": 1490, "name": "Geoprocessing", "weight": 0.0, "id": 195740040, "level": 2}
+{"count": 1276, "name": "City block", "weight": 0.0, "id": 8364947, "level": 2}
+{"count": 1473, "name": "Mercator projection", "weight": 0.0, "id": 36639349, "level": 2}
+{"count": 16106, "name": "Summit", "weight": 0.0, "id": 2778848561, "level": 2}
+{"count": 560, "name": "Loo", "weight": 0.0, "id": 125453309, "level": 2}
+{"count": 570, "name": "Library of Congress of Chile", "weight": 0.0, "id": 2777372435, "level": 2}
+{"count": 16933, "name": "Dirt", "weight": 0.0, "id": 2778582501, "level": 2}
+{"count": 696, "name": "History of cartography", "weight": 0.0, "id": 2776862503, "level": 2}
+{"count": 968, "name": "Location-allocation", "weight": 0.0, "id": 2778212267, "level": 2}
+{"count": 2241, "name": "Piste", "weight": 0.0, "id": 93785673, "level": 2}
+{"count": 955, "name": "Aerodrome", "weight": 0.0, "id": 2780783325, "level": 2}
+{"count": 22622, "name": "Massif", "weight": 0.0, "id": 160776313, "level": 2}
+{"count": 8229, "name": "Superficies", "weight": 0.0, "id": 2776337611, "level": 2}
+{"count": 948, "name": "Mountain pass", "weight": 0.0, "id": 50128577, "level": 2}
+{"count": 25535, "name": "Saddle", "weight": 0.0, "id": 2777127463, "level": 2}
+{"count": 1306, "name": "Projectile point", "weight": 0.0, "id": 93953391, "level": 2}
+{"count": 677, "name": "Hillock", "weight": 0.0, "id": 6322943, "level": 2}
+{"count": 907, "name": "Sextant", "weight": 0.0, "id": 157083588, "level": 2}
+{"count": 447, "name": "Urban archaeology", "weight": 0.0, "id": 2775867646, "level": 2}
+{"count": 397, "name": "Universal Transverse Mercator coordinate system", "weight": 0.0, "id": 43823703, "level": 2}
+{"count": 308, "name": "e-Navigation", "weight": 0.0, "id": 2781445653, "level": 2}
+{"count": 1574, "name": "Terraced house", "weight": 0.0, "id": 83874454, "level": 2}
+{"count": 4437, "name": "Quadrant (instrument)", "weight": 0.0, "id": 54159787, "level": 2}
+{"count": 1738, "name": "Historic site", "weight": 0.0, "id": 2777413173, "level": 2}
+{"count": 902, "name": "Global Map", "weight": 0.0, "id": 2779188883, "level": 2}
+{"count": 560, "name": "Choropleth map", "weight": 0.0, "id": 111349238, "level": 2}
+{"count": 379, "name": "Geoweb", "weight": 0.0, "id": 2776306415, "level": 2}
+{"count": 506, "name": "Cartogram", "weight": 0.0, "id": 140991214, "level": 2}
+{"count": 451, "name": "Crime mapping", "weight": 0.0, "id": 2778122203, "level": 2}
+{"count": 2103, "name": "Riviera", "weight": 0.0, "id": 2777631549, "level": 2}
+{"count": 599, "name": "Navigability", "weight": 0.0, "id": 2778972660, "level": 2}
+{"count": 3725, "name": "Vernier scale", "weight": 0.0, "id": 69710193, "level": 2}
+{"count": 676, "name": "Flow map", "weight": 0.0, "id": 25902001, "level": 2}
+{"count": 4135, "name": "Peta-", "weight": 0.0, "id": 2776128355, "level": 2}
+{"count": 644, "name": "Electronic navigation", "weight": 0.0, "id": 2778717691, "level": 2}
+{"count": 4154, "name": "Patio", "weight": 0.0, "id": 2778096637, "level": 2}
+{"count": 1245, "name": "Gabion", "weight": 0.0, "id": 2779742380, "level": 2}
+{"count": 971, "name": "Sundial", "weight": 0.0, "id": 130716518, "level": 2}
+{"count": 3698, "name": "PERMIS", "weight": 0.0, "id": 2779313700, "level": 2}
+{"count": 1666, "name": "Nightlife", "weight": 0.0, "id": 2775973094, "level": 2}
+{"count": 14911, "name": "Quadrangle", "weight": 0.0, "id": 27258493, "level": 2}
+{"count": 369, "name": "Sankey diagram", "weight": 0.0, "id": 51820909, "level": 2}
+{"count": 10350, "name": "Fell", "weight": 0.0, "id": 109167261, "level": 2}
+{"count": 126, "name": "Stream capture", "weight": 0.0, "id": 2777245861, "level": 2}
+{"count": 1002, "name": "Table (landform)", "weight": 0.0, "id": 179016614, "level": 2}
+{"count": 3021, "name": "Old town", "weight": 0.0, "id": 2779635184, "level": 2}
+{"count": 3504, "name": "Milagro", "weight": 0.0, "id": 2778682006, "level": 2}
+{"count": 4021, "name": "Nave", "weight": 0.0, "id": 192343975, "level": 2}
+{"count": 783, "name": "Salt pan", "weight": 0.0, "id": 107888415, "level": 2}
+{"count": 1020, "name": "Scale (map)", "weight": 0.0, "id": 47696151, "level": 2}
+{"count": 193, "name": "Critical cartography", "weight": 0.0, "id": 2779143537, "level": 2}
+{"count": 1186, "name": "Morelia", "weight": 0.0, "id": 2780702188, "level": 2}
+{"count": 382, "name": "HAZUS", "weight": 0.0, "id": 2775947516, "level": 2}
+{"count": 2236, "name": "Terra incognita", "weight": 0.0, "id": 120804375, "level": 2}
+{"count": 1349, "name": "Bungalow", "weight": 0.0, "id": 141179319, "level": 2}
+{"count": 189, "name": "Minnesota Geological Survey", "weight": 0.0, "id": 2778143190, "level": 2}
+{"count": 1271, "name": "Feathering", "weight": 0.0, "id": 56000321, "level": 2}
+{"count": 432, "name": "Firebreak", "weight": 0.0, "id": 114422330, "level": 2}
+{"count": 947, "name": "Shapefile", "weight": 0.0, "id": 116394254, "level": 2}
+{"count": 233, "name": "CompStat", "weight": 0.0, "id": 2776970489, "level": 2}
+{"count": 1023, "name": "Plumb bob", "weight": 0.0, "id": 165401729, "level": 2}
+{"count": 501, "name": "Gnomon", "weight": 0.0, "id": 93977446, "level": 2}
+{"count": 157, "name": "Geographical feature", "weight": 0.0, "id": 2778149433, "level": 2}
+{"count": 8416, "name": "Combing", "weight": 0.0, "id": 2778952367, "level": 2}
+{"count": 281, "name": "Chorography", "weight": 0.0, "id": 73659462, "level": 2}
+{"count": 925, "name": "Kamal", "weight": 0.0, "id": 2777989952, "level": 2}
+{"count": 178, "name": "Geoethics", "weight": 0.0, "id": 2781314827, "level": 2}
+{"count": 1132, "name": "Flagging", "weight": 0.0, "id": 2777548347, "level": 2}
+{"count": 503, "name": "City map", "weight": 0.0, "id": 134639627, "level": 2}
+{"count": 329, "name": "MIKE 21", "weight": 0.0, "id": 2777992978, "level": 2}
+{"count": 6122, "name": "Foothills", "weight": 0.0, "id": 129536444, "level": 2}
+{"count": 256, "name": "Abies religiosa", "weight": 0.0, "id": 2777875228, "level": 2}
+{"count": 773, "name": "Transept", "weight": 0.0, "id": 63024430, "level": 2}
+{"count": 102, "name": "Geoparsing", "weight": 0.0, "id": 2781447726, "level": 2}
+{"count": 1465, "name": "Promontory", "weight": 0.0, "id": 1343632, "level": 2}
+{"count": 156, "name": "Latrodectus hesperus", "weight": 0.0, "id": 2780791699, "level": 2}
+{"count": 321, "name": "Collaborative mapping", "weight": 0.0, "id": 501522555, "level": 2}
+{"count": 99, "name": "Spoil bank", "weight": 0.0, "id": 2778935218, "level": 2}
+{"count": 528, "name": "Cut and fill", "weight": 0.0, "id": 26144545, "level": 2}
+{"count": 980, "name": "Figure of the Earth", "weight": 0.0, "id": 122224866, "level": 2}
+{"count": 209, "name": "Rhumb line", "weight": 0.0, "id": 117688341, "level": 2}
+{"count": 3535, "name": "Geographer", "weight": 0.0, "id": 2779708316, "level": 2}
+{"count": 27, "name": "Romeria", "weight": 0.0, "id": 2779382337, "level": 2}
+{"count": 105, "name": "Kalathos", "weight": 0.0, "id": 2776856203, "level": 2}
+{"count": 1230, "name": "World map", "weight": 0.0, "id": 2780632292, "level": 2}
+{"count": 412, "name": "Kobus", "weight": 0.0, "id": 2778045350, "level": 2}
+{"count": 102, "name": "Lambert azimuthal equal-area projection", "weight": 0.0, "id": 135098276, "level": 2}
+{"count": 668, "name": "Blaster", "weight": 0.0, "id": 91891505, "level": 2}
+{"count": 8, "name": "Silene regia", "weight": 0.0, "id": 2775869770, "level": 2}
+{"count": 63, "name": "Pyrola rotundifolia", "weight": 0.0, "id": 2780389014, "level": 2}
+{"count": 320, "name": "Early world maps", "weight": 0.0, "id": 46669857, "level": 2}
+{"count": 1338, "name": "Floodgate", "weight": 0.0, "id": 2779252748, "level": 2}
+{"count": 135, "name": "Tacheometry", "weight": 0.0, "id": 14188793, "level": 2}
+{"count": 177, "name": "Passage planning", "weight": 0.0, "id": 195080919, "level": 2}
+{"count": 463, "name": "Tidal atlas", "weight": 0.0, "id": 110374627, "level": 2}
+{"count": 140, "name": "Tram-train", "weight": 0.0, "id": 2780893696, "level": 2}
+{"count": 214, "name": "Gnomonic projection", "weight": 0.0, "id": 207904118, "level": 2}
+{"count": 194, "name": "Portolan chart", "weight": 0.0, "id": 144359658, "level": 2}
+{"count": 270, "name": "Diversion dam", "weight": 0.0, "id": 2779531882, "level": 2}
+{"count": 84, "name": "Rat running", "weight": 0.0, "id": 2778191139, "level": 2}
+{"count": 555, "name": "Map series", "weight": 0.0, "id": 52291969, "level": 2}
+{"count": 275, "name": "Course catalog", "weight": 0.0, "id": 2776186891, "level": 2}
+{"count": 582, "name": "Continental divide", "weight": 0.0, "id": 166716992, "level": 2}
+{"count": 1126, "name": "Spirit level", "weight": 0.0, "id": 135505074, "level": 2}
+{"count": 98, "name": "Farang", "weight": 0.0, "id": 2777534467, "level": 2}
+{"count": 859, "name": "Water gap", "weight": 0.0, "id": 143310116, "level": 2}
+{"count": 2258, "name": "TIRA", "weight": 0.0, "id": 2776370202, "level": 2}
+{"count": 36, "name": "Digital Folklore Project", "weight": 0.0, "id": 2780033316, "level": 2}
+{"count": 127, "name": "Fall line", "weight": 0.0, "id": 27177524, "level": 2}
+{"count": 767, "name": "Casa Grande", "weight": 0.0, "id": 2777881786, "level": 2}
+{"count": 54, "name": "Euphorbia dendroides", "weight": 0.0, "id": 2777067747, "level": 2}
+{"count": 145, "name": "Prime meridian", "weight": 0.0, "id": 18321214, "level": 2}
+{"count": 155, "name": "Topographic profile", "weight": 0.0, "id": 161920539, "level": 2}
+{"count": 353, "name": "Navia", "weight": 0.0, "id": 2780637190, "level": 2}
+{"count": 101, "name": "Land agent", "weight": 0.0, "id": 2778730019, "level": 2}
+{"count": 363, "name": "Archive file", "weight": 0.0, "id": 2778317086, "level": 2}
+{"count": 192, "name": "Patak\u00ed", "weight": 0.0, "id": 2779491984, "level": 2}
+{"count": 47, "name": "r.sun", "weight": 0.0, "id": 2776618873, "level": 2}

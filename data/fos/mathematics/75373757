@@ -1,0 +1,8 @@
+{"count": 241, "name": "Horvitz\u2013Thompson estimator", "weight": 1.0, "id": 2776833093, "level": 4}
+{"count": 217, "name": "Balanced repeated replication", "weight": 0.0, "id": 166156827, "level": 4}
+{"count": 868, "name": "Lot quality assurance sampling", "weight": 3.0, "id": 195454712, "level": 4}
+{"count": 2268, "name": "Slice sampling", "weight": 10.0, "id": 170593435, "level": 4}
+{"count": 752, "name": "Poisson sampling", "weight": 3.0, "id": 82152865, "level": 4}
+{"count": 272, "name": "Sampling risk", "weight": 1.0, "id": 151685090, "level": 4}
+{"count": 578, "name": "Sampling fraction", "weight": 2.0, "id": 76686956, "level": 4}
+{"count": 36, "name": "Variables sampling plan", "weight": 0.0, "id": 2777355301, "level": 4}

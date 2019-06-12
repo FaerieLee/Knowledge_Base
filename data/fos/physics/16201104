@@ -1,0 +1,6 @@
+{"count": 7301, "name": "Aerodynamic drag", "weight": 10.0, "id": 145244895, "level": 4}
+{"count": 3496, "name": "Lift-induced drag", "weight": 4.0, "id": 195637266, "level": 4}
+{"count": 137, "name": "Drag crisis", "weight": 0.0, "id": 2779719152, "level": 4}
+{"count": 494, "name": "Skin friction drag", "weight": 0.0, "id": 2777377915, "level": 4}
+{"count": 840, "name": "Skin friction line", "weight": 1.0, "id": 109090143, "level": 4}
+{"count": 3624, "name": "Drag divergence Mach number", "weight": 4.0, "id": 120338312, "level": 4}

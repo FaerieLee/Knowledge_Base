@@ -1,0 +1,5 @@
+{"count": 8276, "name": "Discriminant function analysis", "weight": 10.0, "id": 41771347, "level": 3}
+{"count": 2462, "name": "Kernel Fisher discriminant analysis", "weight": 2.0, "id": 181367576, "level": 3}
+{"count": 2431, "name": "Multiple discriminant analysis", "weight": 2.0, "id": 58596280, "level": 3}
+{"count": 2725, "name": "Optimal discriminant analysis", "weight": 3.0, "id": 104500394, "level": 3}
+{"count": 32, "name": "Nearest centroid classifier", "weight": 0.0, "id": 2778296824, "level": 3}

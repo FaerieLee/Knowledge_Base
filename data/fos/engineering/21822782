@@ -1,0 +1,103 @@
+{"count": 32988, "name": "Antenna array", "weight": 6.0, "id": 62191587, "level": 3}
+{"count": 36923, "name": "Radiation pattern", "weight": 7.0, "id": 151764478, "level": 3}
+{"count": 44340, "name": "Microstrip antenna", "weight": 9.0, "id": 170349913, "level": 3}
+{"count": 47343, "name": "Microstrip", "weight": 10.0, "id": 123657345, "level": 3}
+{"count": 25930, "name": "Phased array", "weight": 5.0, "id": 55494473, "level": 3}
+{"count": 31958, "name": "Dipole antenna", "weight": 6.0, "id": 113145756, "level": 3}
+{"count": 18994, "name": "Slot antenna", "weight": 4.0, "id": 109026120, "level": 3}
+{"count": 34651, "name": "Patch antenna", "weight": 7.0, "id": 159238334, "level": 3}
+{"count": 29307, "name": "Directional antenna", "weight": 6.0, "id": 64671776, "level": 3}
+{"count": 7892, "name": "Beam steering", "weight": 1.0, "id": 143148639, "level": 3}
+{"count": 17869, "name": "Ultra high frequency", "weight": 3.0, "id": 96122199, "level": 3}
+{"count": 5744, "name": "Direction finding", "weight": 1.0, "id": 2780382809, "level": 3}
+{"count": 4050, "name": "Axial ratio", "weight": 0.0, "id": 2779763010, "level": 3}
+{"count": 5191, "name": "Angle of arrival", "weight": 1.0, "id": 13545353, "level": 3}
+{"count": 38257, "name": "Antenna measurement", "weight": 8.0, "id": 158616128, "level": 3}
+{"count": 8085, "name": "Multi-band device", "weight": 1.0, "id": 134546842, "level": 3}
+{"count": 9947, "name": "Return loss", "weight": 2.0, "id": 196901423, "level": 3}
+{"count": 4190, "name": "Specific absorption rate", "weight": 0.0, "id": 84237751, "level": 3}
+{"count": 5205, "name": "Balun", "weight": 1.0, "id": 114489654, "level": 3}
+{"count": 5030, "name": "Parabolic antenna", "weight": 1.0, "id": 43117628, "level": 3}
+{"count": 7793, "name": "Standing wave ratio", "weight": 1.0, "id": 163985990, "level": 3}
+{"count": 25917, "name": "Monopole antenna", "weight": 5.0, "id": 95496425, "level": 3}
+{"count": 16666, "name": "Directivity", "weight": 3.0, "id": 189039984, "level": 3}
+{"count": 8985, "name": "Dielectric resonator antenna", "weight": 1.0, "id": 127820260, "level": 3}
+{"count": 19273, "name": "Ground plane", "weight": 4.0, "id": 88764893, "level": 3}
+{"count": 11643, "name": "Antenna aperture", "weight": 2.0, "id": 137705275, "level": 3}
+{"count": 4466, "name": "Radome", "weight": 0.0, "id": 153159894, "level": 3}
+{"count": 3760, "name": "Effective radiated power", "weight": 0.0, "id": 34556337, "level": 3}
+{"count": 2240, "name": "ISM band", "weight": 0.0, "id": 2780652538, "level": 3}
+{"count": 25255, "name": "Omnidirectional antenna", "weight": 5.0, "id": 24027999, "level": 3}
+{"count": 2503, "name": "Electromagnetic reverberation chamber", "weight": 0.0, "id": 137472016, "level": 3}
+{"count": 2328, "name": "Active antenna", "weight": 0.0, "id": 2777562361, "level": 3}
+{"count": 1669, "name": "Distributed antenna system", "weight": 0.0, "id": 2775957982, "level": 3}
+{"count": 1783, "name": "Dual-polarization interferometry", "weight": 0.0, "id": 161926555, "level": 3}
+{"count": 4249, "name": "Monopulse radar", "weight": 0.0, "id": 186770734, "level": 3}
+{"count": 5080, "name": "RF front end", "weight": 1.0, "id": 53071545, "level": 3}
+{"count": 2527, "name": "Diplexer", "weight": 0.0, "id": 81774821, "level": 3}
+{"count": 4042, "name": "Beamwidth", "weight": 0.0, "id": 190060920, "level": 3}
+{"count": 1979, "name": "Rectenna", "weight": 0.0, "id": 46526593, "level": 3}
+{"count": 4807, "name": "HFSS", "weight": 1.0, "id": 2776844852, "level": 3}
+{"count": 1621, "name": "Spiral antenna", "weight": 0.0, "id": 2780911057, "level": 3}
+{"count": 1737, "name": "Link budget", "weight": 0.0, "id": 94137725, "level": 3}
+{"count": 1349, "name": "Leaky wave antenna", "weight": 0.0, "id": 2778112244, "level": 3}
+{"count": 3771, "name": "Planar array", "weight": 0.0, "id": 2775980084, "level": 3}
+{"count": 4080, "name": "Duplexer", "weight": 0.0, "id": 47104104, "level": 3}
+{"count": 5001, "name": "Side lobe", "weight": 1.0, "id": 181856588, "level": 3}
+{"count": 8362, "name": "Feed line", "weight": 1.0, "id": 133599803, "level": 3}
+{"count": 992, "name": "Archimedean spiral", "weight": 0.0, "id": 1174398, "level": 3}
+{"count": 691, "name": "Antenna height considerations", "weight": 0.0, "id": 155050386, "level": 3}
+{"count": 612, "name": "Koch snowflake", "weight": 0.0, "id": 134236712, "level": 3}
+{"count": 1366, "name": "Phase center", "weight": 0.0, "id": 7615733, "level": 3}
+{"count": 335, "name": "Front-to-back ratio", "weight": 0.0, "id": 41680699, "level": 3}
+{"count": 639, "name": "Conical scanning", "weight": 0.0, "id": 127310558, "level": 3}
+{"count": 2295, "name": "Main lobe", "weight": 0.0, "id": 166923610, "level": 3}
+{"count": 313, "name": "Antenna effect", "weight": 0.0, "id": 2780480224, "level": 3}
+{"count": 1095, "name": "Bow tie", "weight": 0.0, "id": 2777652565, "level": 3}
+{"count": 657, "name": "Chipless RFID", "weight": 0.0, "id": 2775974325, "level": 3}
+{"count": 605, "name": "GSM frequency bands", "weight": 0.0, "id": 95057307, "level": 3}
+{"count": 1280, "name": "Feeder line", "weight": 0.0, "id": 120352889, "level": 3}
+{"count": 472, "name": "Luneburg lens", "weight": 0.0, "id": 2780081114, "level": 3}
+{"count": 782, "name": "Band rejection", "weight": 0.0, "id": 2780209434, "level": 3}
+{"count": 551, "name": "FEKO", "weight": 0.0, "id": 2776024132, "level": 3}
+{"count": 26629, "name": "Coaxial antenna", "weight": 5.0, "id": 93130614, "level": 3}
+{"count": 590, "name": "Ground dipole", "weight": 0.0, "id": 34232782, "level": 3}
+{"count": 620, "name": "Counterpoise", "weight": 0.0, "id": 92664086, "level": 3}
+{"count": 154, "name": "Friis transmission equation", "weight": 0.0, "id": 207410670, "level": 3}
+{"count": 484, "name": "Orthomode transducer", "weight": 0.0, "id": 37027561, "level": 3}
+{"count": 60, "name": "Near-field scanner", "weight": 0.0, "id": 2777872294, "level": 3}
+{"count": 183, "name": "Indoor antenna", "weight": 0.0, "id": 2780854737, "level": 3}
+{"count": 198, "name": "Isotropic radiator", "weight": 0.0, "id": 77535687, "level": 3}
+{"count": 165, "name": "Characteristic mode analysis", "weight": 0.0, "id": 2780523761, "level": 3}
+{"count": 154, "name": "Leaky feeder", "weight": 0.0, "id": 141108527, "level": 3}
+{"count": 81, "name": "Equivalent isotropically radiated power", "weight": 0.0, "id": 2779429852, "level": 3}
+{"count": 374, "name": "RF connector", "weight": 0.0, "id": 2779441441, "level": 3}
+{"count": 89, "name": "Antenna tracking system", "weight": 0.0, "id": 2777773454, "level": 3}
+{"count": 16, "name": "Low-gain antenna", "weight": 0.0, "id": 103260314, "level": 3}
+{"count": 706, "name": "Cellular repeater", "weight": 0.0, "id": 111207892, "level": 3}
+{"count": 63, "name": "Parasitic structure", "weight": 0.0, "id": 2780082966, "level": 3}
+{"count": 69, "name": "Passive repeater", "weight": 0.0, "id": 2779596561, "level": 3}
+{"count": 20, "name": "X Band Satellite Communication", "weight": 0.0, "id": 2778695568, "level": 3}
+{"count": 41, "name": "U-NII", "weight": 0.0, "id": 2779304290, "level": 3}
+{"count": 150, "name": "Bicone", "weight": 0.0, "id": 45594117, "level": 3}
+{"count": 235, "name": "Radio direction finder", "weight": 0.0, "id": 2777940567, "level": 3}
+{"count": 12, "name": "T-Antenna", "weight": 0.0, "id": 23740419, "level": 3}
+{"count": 315, "name": "Defogger", "weight": 0.0, "id": 2776623234, "level": 3}
+{"count": 51, "name": "Wullenweber", "weight": 0.0, "id": 33063844, "level": 3}
+{"count": 28637, "name": "Antenna rotator", "weight": 6.0, "id": 107328001, "level": 3}
+{"count": 26, "name": "Curtain array", "weight": 0.0, "id": 2779746629, "level": 3}
+{"count": 204, "name": "Electrically short", "weight": 0.0, "id": 2776787435, "level": 3}
+{"count": 55, "name": "Hook nail", "weight": 0.0, "id": 2777466410, "level": 3}
+{"count": 32, "name": "Polar mount", "weight": 0.0, "id": 2778877876, "level": 3}
+{"count": 479, "name": "Block upconverter", "weight": 0.0, "id": 67704426, "level": 3}
+{"count": 39, "name": "Ground constants", "weight": 0.0, "id": 2780280967, "level": 3}
+{"count": 108, "name": "Antenna boresight", "weight": 0.0, "id": 2777105084, "level": 3}
+{"count": 21, "name": "Medical Device Radiocommunications Service", "weight": 0.0, "id": 2778242385, "level": 3}
+{"count": 65, "name": "Marker beacon", "weight": 0.0, "id": 2778268908, "level": 3}
+{"count": 227, "name": "Broadcast band", "weight": 0.0, "id": 2777514068, "level": 3}
+{"count": 15, "name": "Toroidal reflector", "weight": 0.0, "id": 2776196394, "level": 3}
+{"count": 22673, "name": "Random wire antenna", "weight": 4.0, "id": 9172910, "level": 3}
+{"count": 26, "name": "Personal RF safety monitors", "weight": 0.0, "id": 32751979, "level": 3}
+{"count": 18, "name": "Image antenna", "weight": 0.0, "id": 2777711271, "level": 3}
+{"count": 29, "name": "Goldstone Deep Space Communications Complex", "weight": 0.0, "id": 2778633199, "level": 3}
+{"count": 33818, "name": "Periscope antenna", "weight": 7.0, "id": 138949660, "level": 3}

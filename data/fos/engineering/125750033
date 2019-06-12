@@ -1,0 +1,3 @@
+{"count": 1333, "name": "Control moment gyroscope", "weight": 10.0, "id": 134425645, "level": 3}
+{"count": 370, "name": "Steering law", "weight": 2.0, "id": 176544364, "level": 3}
+{"count": 186, "name": "Gimbal lock", "weight": 1.0, "id": 147314128, "level": 3}

@@ -1,0 +1,3 @@
+{"count": 94, "name": "Linear octree", "weight": 3.0, "id": 2779167985, "level": 3}
+{"count": 165, "name": "Barnes\u2013Hut simulation", "weight": 5.0, "id": 129949001, "level": 3}
+{"count": 291, "name": "Sparse voxel octree", "weight": 10.0, "id": 203235853, "level": 3}

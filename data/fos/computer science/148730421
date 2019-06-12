@@ -1,0 +1,72 @@
+{"count": 28730, "name": "Public-key cryptography", "weight": 10.0, "id": 203062551, "level": 3}
+{"count": 6824, "name": "Block cipher", "weight": 2.0, "id": 106544461, "level": 3}
+{"count": 10348, "name": "Key management", "weight": 3.0, "id": 17886624, "level": 3}
+{"count": 8523, "name": "Key distribution", "weight": 2.0, "id": 160333310, "level": 3}
+{"count": 4113, "name": "Advanced Encryption Standard", "weight": 1.0, "id": 94520183, "level": 3}
+{"count": 3820, "name": "Homomorphic encryption", "weight": 1.0, "id": 158338273, "level": 3}
+{"count": 5388, "name": "Symmetric-key algorithm", "weight": 1.0, "id": 65302260, "level": 3}
+{"count": 932, "name": "Security parameter", "weight": 0.0, "id": 2776711565, "level": 3}
+{"count": 1114, "name": "Broadcast encryption", "weight": 0.0, "id": 2778281673, "level": 3}
+{"count": 1757, "name": "Visual cryptography", "weight": 0.0, "id": 2779072331, "level": 3}
+{"count": 6459, "name": "Ciphertext", "weight": 2.0, "id": 93974786, "level": 3}
+{"count": 593, "name": "Traitor tracing", "weight": 0.0, "id": 2781411299, "level": 3}
+{"count": 1015, "name": "Authenticated encryption", "weight": 0.0, "id": 128619300, "level": 3}
+{"count": 513, "name": "One-time pad", "weight": 0.0, "id": 140969109, "level": 3}
+{"count": 378, "name": "Initialization vector", "weight": 0.0, "id": 2778721049, "level": 3}
+{"count": 10859, "name": "Key (cryptography)", "weight": 3.0, "id": 200632571, "level": 3}
+{"count": 1227, "name": "Secure channel", "weight": 0.0, "id": 180073179, "level": 3}
+{"count": 5662, "name": "Key generation", "weight": 1.0, "id": 163173736, "level": 3}
+{"count": 6974, "name": "Probabilistic encryption", "weight": 2.0, "id": 54569210, "level": 3}
+{"count": 2055, "name": "Conditional access", "weight": 0.0, "id": 2778749970, "level": 3}
+{"count": 885, "name": "Brute-force attack", "weight": 0.0, "id": 207468940, "level": 3}
+{"count": 515, "name": "Avalanche effect", "weight": 0.0, "id": 186843804, "level": 3}
+{"count": 9915, "name": "Cipher", "weight": 3.0, "id": 2780221543, "level": 3}
+{"count": 2550, "name": "Secure transmission", "weight": 0.0, "id": 2779814227, "level": 3}
+{"count": 1873, "name": "Plain text", "weight": 0.0, "id": 46503548, "level": 3}
+{"count": 332, "name": "Learning with errors", "weight": 0.0, "id": 2779014939, "level": 3}
+{"count": 4297, "name": "Plaintext", "weight": 1.0, "id": 92717368, "level": 3}
+{"count": 727, "name": "Blowfish", "weight": 0.0, "id": 2777464982, "level": 3}
+{"count": 292, "name": "CCMP", "weight": 0.0, "id": 161613764, "level": 3}
+{"count": 238, "name": "Oblivious ram", "weight": 0.0, "id": 2781432888, "level": 3}
+{"count": 169, "name": "End-to-end encryption", "weight": 0.0, "id": 203431018, "level": 3}
+{"count": 751, "name": "Key derivation function", "weight": 0.0, "id": 124560556, "level": 3}
+{"count": 2161, "name": "Key space", "weight": 0.0, "id": 105322999, "level": 3}
+{"count": 113, "name": "Cold boot attack", "weight": 0.0, "id": 37059184, "level": 3}
+{"count": 7690, "name": "On-the-fly encryption", "weight": 2.0, "id": 147977885, "level": 3}
+{"count": 351, "name": "Secure cryptoprocessor", "weight": 0.0, "id": 139304539, "level": 3}
+{"count": 565, "name": "Cryptogram", "weight": 0.0, "id": 128486233, "level": 3}
+{"count": 40, "name": "All-or-nothing transform", "weight": 0.0, "id": 2780776600, "level": 3}
+{"count": 155, "name": "Data at Rest", "weight": 0.0, "id": 44572762, "level": 3}
+{"count": 640, "name": "Unique key", "weight": 0.0, "id": 12765203, "level": 3}
+{"count": 1303, "name": "Neural cryptography", "weight": 0.0, "id": 126954023, "level": 3}
+{"count": 11, "name": "Entropic security", "weight": 0.0, "id": 2776044807, "level": 3}
+{"count": 21, "name": "Opportunistic encryption", "weight": 0.0, "id": 2777924256, "level": 3}
+{"count": 602, "name": "Key generator", "weight": 0.0, "id": 2779253092, "level": 3}
+{"count": 38, "name": "Honey Encryption", "weight": 0.0, "id": 2779993733, "level": 3}
+{"count": 84, "name": "Keyspace", "weight": 0.0, "id": 2777559537, "level": 3}
+{"count": 2739, "name": "Steganography tools", "weight": 0.0, "id": 13179402, "level": 3}
+{"count": 66, "name": "NSA cryptography", "weight": 0.0, "id": 11199118, "level": 3}
+{"count": 5777, "name": "Client-side encryption", "weight": 2.0, "id": 166501710, "level": 3}
+{"count": 224, "name": "Secure voice", "weight": 0.0, "id": 2776585411, "level": 3}
+{"count": 175, "name": "Rolling code", "weight": 0.0, "id": 2776865216, "level": 3}
+{"count": 35, "name": "JSON Web Token", "weight": 0.0, "id": 2779232881, "level": 3}
+{"count": 18, "name": "Pre-boot authentication", "weight": 0.0, "id": 2778261225, "level": 3}
+{"count": 21, "name": "Duffing map", "weight": 0.0, "id": 2780441422, "level": 3}
+{"count": 74, "name": "Keystore", "weight": 0.0, "id": 2777850304, "level": 3}
+{"count": 90, "name": "Data in transit", "weight": 0.0, "id": 2776758724, "level": 3}
+{"count": 24, "name": "Chaffing and winnowing", "weight": 0.0, "id": 91828121, "level": 3}
+{"count": 20, "name": "XXTEA", "weight": 0.0, "id": 2779045891, "level": 3}
+{"count": 22, "name": "Crypto Wars", "weight": 0.0, "id": 2780647801, "level": 3}
+{"count": 32, "name": "Java Cryptography Extension", "weight": 0.0, "id": 2780879383, "level": 3}
+{"count": 39, "name": "Message forgery", "weight": 0.0, "id": 2777553924, "level": 3}
+{"count": 130, "name": "SSL acceleration", "weight": 0.0, "id": 195067202, "level": 3}
+{"count": 75, "name": "Strong key", "weight": 0.0, "id": 2778256286, "level": 3}
+{"count": 10, "name": "XOR cipher", "weight": 0.0, "id": 2780027704, "level": 3}
+{"count": 113, "name": "Off-the-Record Messaging", "weight": 0.0, "id": 68675126, "level": 3}
+{"count": 16, "name": "Encrypting PIN Pad", "weight": 0.0, "id": 2779074879, "level": 3}
+{"count": 24, "name": "Encrypted function", "weight": 0.0, "id": 2777408376, "level": 3}
+{"count": 15, "name": "Microsoft CryptoAPI", "weight": 0.0, "id": 2777299951, "level": 3}
+{"count": 18, "name": "Bitmessage", "weight": 0.0, "id": 168354785, "level": 3}
+{"count": 7, "name": "AirSnort", "weight": 0.0, "id": 2776126192, "level": 3}
+{"count": 44, "name": "Secure access module", "weight": 0.0, "id": 2776401910, "level": 3}
+{"count": 7614, "name": "40-bit encryption", "weight": 2.0, "id": 158215988, "level": 3}

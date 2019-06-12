@@ -1,0 +1,200 @@
+{"count": 39776, "name": "Viral disease", "weight": 4.0, "id": 2780727368, "level": 3}
+{"count": 15646, "name": "Lentivirus", "weight": 1.0, "id": 2779690655, "level": 3}
+{"count": 17662, "name": "Herpesviridae", "weight": 1.0, "id": 2776409557, "level": 3}
+{"count": 36190, "name": "Viral replication", "weight": 3.0, "id": 140704245, "level": 3}
+{"count": 31553, "name": "Reverse transcriptase", "weight": 3.0, "id": 156719811, "level": 3}
+{"count": 23713, "name": "Epstein\u2013Barr virus", "weight": 2.0, "id": 2781375147, "level": 3}
+{"count": 36659, "name": "Viral load", "weight": 3.0, "id": 142462285, "level": 3}
+{"count": 4974, "name": "Flaviviridae", "weight": 0.0, "id": 2777510210, "level": 3}
+{"count": 28280, "name": "Plant virus", "weight": 3.0, "id": 109110057, "level": 3}
+{"count": 2969, "name": "Hepacivirus", "weight": 0.0, "id": 2781463415, "level": 3}
+{"count": 7015, "name": "Adenoviridae", "weight": 0.0, "id": 2776954459, "level": 3}
+{"count": 8211, "name": "Orthomyxoviridae", "weight": 0.0, "id": 2781416681, "level": 3}
+{"count": 22740, "name": "Infectivity", "weight": 2.0, "id": 106358424, "level": 3}
+{"count": 11592, "name": "Capsid", "weight": 1.0, "id": 202878990, "level": 3}
+{"count": 15066, "name": "Influenza A virus", "weight": 1.0, "id": 2777546802, "level": 3}
+{"count": 36283, "name": "Encephalitis", "weight": 3.0, "id": 83455156, "level": 3}
+{"count": 32412, "name": "Herpes simplex virus", "weight": 3.0, "id": 2781196997, "level": 3}
+{"count": 11692, "name": "Human cytomegalovirus", "weight": 1.0, "id": 2779820661, "level": 3}
+{"count": 4437, "name": "Paramyxoviridae", "weight": 0.0, "id": 2780813555, "level": 3}
+{"count": 9636, "name": "Enterovirus", "weight": 1.0, "id": 2777888124, "level": 3}
+{"count": 9039, "name": "Rickettsia", "weight": 0.0, "id": 2780414542, "level": 3}
+{"count": 22572, "name": "Influenza A virus subtype H5N1", "weight": 2.0, "id": 519248777, "level": 3}
+{"count": 8584, "name": "Viral envelope", "weight": 0.0, "id": 97380033, "level": 3}
+{"count": 17942, "name": "Hemagglutination", "weight": 1.0, "id": 34343649, "level": 3}
+{"count": 8923, "name": "Tobacco mosaic virus", "weight": 0.0, "id": 144707691, "level": 3}
+{"count": 8805, "name": "Flavivirus", "weight": 0.0, "id": 2780568436, "level": 3}
+{"count": 12415, "name": "Dengue virus", "weight": 1.0, "id": 2779635636, "level": 3}
+{"count": 2946, "name": "Reoviridae", "weight": 0.0, "id": 2779416561, "level": 3}
+{"count": 6311, "name": "Vero cell", "weight": 0.0, "id": 89138240, "level": 3}
+{"count": 9495, "name": "Viremia", "weight": 1.0, "id": 2776185481, "level": 3}
+{"count": 6838, "name": "Nucleoprotein", "weight": 0.0, "id": 60325843, "level": 3}
+{"count": 5434, "name": "Long terminal repeat", "weight": 0.0, "id": 199491388, "level": 3}
+{"count": 4607, "name": "Antigenic variation", "weight": 0.0, "id": 191942190, "level": 3}
+{"count": 1116, "name": "Baculoviridae", "weight": 0.0, "id": 2777212814, "level": 3}
+{"count": 14337, "name": "Hemagglutinin (influenza)", "weight": 1.0, "id": 2778692840, "level": 3}
+{"count": 12656, "name": "Influenza vaccine", "weight": 1.0, "id": 2780689484, "level": 3}
+{"count": 6033, "name": "West Nile virus", "weight": 0.0, "id": 2776866189, "level": 3}
+{"count": 6138, "name": "Vesicular stomatitis virus", "weight": 0.0, "id": 2779057330, "level": 3}
+{"count": 12923, "name": "Neuraminidase", "weight": 1.0, "id": 134164806, "level": 3}
+{"count": 9107, "name": "Poliovirus", "weight": 0.0, "id": 2779631682, "level": 3}
+{"count": 6100, "name": "Murine leukemia virus", "weight": 0.0, "id": 2779562191, "level": 3}
+{"count": 8894, "name": "Yellow fever", "weight": 0.0, "id": 2779131611, "level": 3}
+{"count": 5827, "name": "RNA virus", "weight": 0.0, "id": 2779174946, "level": 3}
+{"count": 7696, "name": "Varicella zoster virus", "weight": 0.0, "id": 2776159415, "level": 3}
+{"count": 14507, "name": "Seroconversion", "weight": 1.0, "id": 2777451964, "level": 3}
+{"count": 3705, "name": "Virus-like particle", "weight": 0.0, "id": 2776387124, "level": 3}
+{"count": 5065, "name": "Oncovirus", "weight": 0.0, "id": 16184334, "level": 3}
+{"count": 9060, "name": "Coronavirus", "weight": 0.0, "id": 2777648638, "level": 3}
+{"count": 26069, "name": "Pandemic", "weight": 2.0, "id": 89623803, "level": 3}
+{"count": 4189, "name": "Rous sarcoma virus", "weight": 0.0, "id": 2777441520, "level": 3}
+{"count": 5706, "name": "Tropism", "weight": 0.0, "id": 35693153, "level": 3}
+{"count": 6417, "name": "Foot-and-mouth disease", "weight": 0.0, "id": 2779070877, "level": 3}
+{"count": 7252, "name": "Rabies virus", "weight": 0.0, "id": 2777961786, "level": 3}
+{"count": 5199, "name": "Rhinovirus", "weight": 0.0, "id": 2779278377, "level": 3}
+{"count": 13848, "name": "Papilloma", "weight": 1.0, "id": 2776350393, "level": 3}
+{"count": 4834, "name": "Cytopathic effect", "weight": 0.0, "id": 2775996393, "level": 3}
+{"count": 10355, "name": "Coinfection", "weight": 1.0, "id": 2777813720, "level": 3}
+{"count": 5541, "name": "Adeno-associated virus", "weight": 0.0, "id": 2778107364, "level": 3}
+{"count": 2510, "name": "Mouse mammary tumor virus", "weight": 0.0, "id": 2779777497, "level": 3}
+{"count": 4356, "name": "Foot-and-mouth disease virus", "weight": 0.0, "id": 2776151397, "level": 3}
+{"count": 4406, "name": "Provirus", "weight": 0.0, "id": 102906071, "level": 3}
+{"count": 3478, "name": "Alphavirus", "weight": 0.0, "id": 2777474056, "level": 3}
+{"count": 2600, "name": "Bunyaviridae", "weight": 0.0, "id": 2779271554, "level": 3}
+{"count": 4496, "name": "Superinfection", "weight": 0.0, "id": 2779617845, "level": 3}
+{"count": 8840, "name": "Parvovirus", "weight": 0.0, "id": 2779630601, "level": 3}
+{"count": 3771, "name": "Sendai virus", "weight": 0.0, "id": 2780127873, "level": 3}
+{"count": 92243, "name": "Immunodeficiency", "weight": 10.0, "id": 2777607303, "level": 3}
+{"count": 6700, "name": "Norovirus", "weight": 0.0, "id": 2778750513, "level": 3}
+{"count": 1784, "name": "Semliki Forest virus", "weight": 0.0, "id": 2780963514, "level": 3}
+{"count": 1903, "name": "Virus latency", "weight": 0.0, "id": 2778852064, "level": 3}
+{"count": 1984, "name": "Sindbis virus", "weight": 0.0, "id": 2777343345, "level": 3}
+{"count": 2542, "name": "Nuclear Polyhedrosis Virus", "weight": 0.0, "id": 2779665282, "level": 3}
+{"count": 2221, "name": "Virus quantification", "weight": 0.0, "id": 70913881, "level": 3}
+{"count": 2565, "name": "Nicotiana benthamiana", "weight": 0.0, "id": 2780562374, "level": 3}
+{"count": 4221, "name": "Oseltamivir", "weight": 0.0, "id": 2780374985, "level": 3}
+{"count": 6755, "name": "Viral protein", "weight": 0.0, "id": 2780879997, "level": 3}
+{"count": 4394, "name": "Arbovirus", "weight": 0.0, "id": 2778116200, "level": 3}
+{"count": 12844, "name": "Retrovirus", "weight": 1.0, "id": 2778431562, "level": 3}
+{"count": 3610, "name": "Hantavirus", "weight": 0.0, "id": 2775992772, "level": 3}
+{"count": 997, "name": "Human T-lymphotropic virus 1", "weight": 0.0, "id": 2776238826, "level": 3}
+{"count": 1134, "name": "Specific-pathogen-free", "weight": 0.0, "id": 2779600528, "level": 3}
+{"count": 1900, "name": "Pestivirus", "weight": 0.0, "id": 2778400998, "level": 3}
+{"count": 1660, "name": "Human T-lymphotropic virus", "weight": 0.0, "id": 2776368728, "level": 3}
+{"count": 238, "name": "Deltaretrovirus", "weight": 0.0, "id": 2775864491, "level": 3}
+{"count": 7113, "name": "Oncolytic virus", "weight": 0.0, "id": 82210918, "level": 3}
+{"count": 6362, "name": "Ebola virus", "weight": 0.0, "id": 2777469322, "level": 3}
+{"count": 2069, "name": "Multiplicity of infection", "weight": 0.0, "id": 203233990, "level": 3}
+{"count": 2475, "name": "JC virus", "weight": 0.0, "id": 2779150272, "level": 3}
+{"count": 10086, "name": "Newcastle disease", "weight": 1.0, "id": 2778116459, "level": 3}
+{"count": 10737, "name": "Vaccinia", "weight": 1.0, "id": 2781356689, "level": 3}
+{"count": 2627, "name": "Helper virus", "weight": 0.0, "id": 144001008, "level": 3}
+{"count": 1171, "name": "Horizontal transmission", "weight": 0.0, "id": 2780263730, "level": 3}
+{"count": 747, "name": "Norwalk virus", "weight": 0.0, "id": 2779589740, "level": 3}
+{"count": 3988, "name": "Syncytium", "weight": 0.0, "id": 40479148, "level": 3}
+{"count": 2486, "name": "Feline immunodeficiency virus", "weight": 0.0, "id": 2777841672, "level": 3}
+{"count": 2068, "name": "Lymphocytic choriomeningitis", "weight": 0.0, "id": 2780190958, "level": 3}
+{"count": 3907, "name": "Viral shedding", "weight": 0.0, "id": 12914427, "level": 3}
+{"count": 3839, "name": "Chickenpox", "weight": 0.0, "id": 2776334287, "level": 3}
+{"count": 4421, "name": "Porcine reproductive and respiratory syndrome virus", "weight": 0.0, "id": 2779819720, "level": 3}
+{"count": 5600, "name": "Hemagglutination assay", "weight": 0.0, "id": 182072434, "level": 3}
+{"count": 2342, "name": "Baby hamster kidney cell", "weight": 0.0, "id": 33263850, "level": 3}
+{"count": 9861, "name": "Neutralizing antibody", "weight": 1.0, "id": 2779261636, "level": 3}
+{"count": 1382, "name": "Arenavirus", "weight": 0.0, "id": 2779574689, "level": 3}
+{"count": 1163, "name": "Slow virus", "weight": 0.0, "id": 148632171, "level": 3}
+{"count": 2383, "name": "Rift Valley fever", "weight": 0.0, "id": 2778960357, "level": 3}
+{"count": 646, "name": "Plaque-forming unit", "weight": 0.0, "id": 56684591, "level": 3}
+{"count": 1216, "name": "Serial passage", "weight": 0.0, "id": 132351222, "level": 3}
+{"count": 3695, "name": "Viral evolution", "weight": 0.0, "id": 8769409, "level": 3}
+{"count": 1944, "name": "Cidofovir", "weight": 0.0, "id": 2776824251, "level": 3}
+{"count": 4172, "name": "Endogenous retrovirus", "weight": 0.0, "id": 121346293, "level": 3}
+{"count": 2096, "name": "DNA virus", "weight": 0.0, "id": 2779758228, "level": 3}
+{"count": 1542, "name": "Influenza-like illness", "weight": 0.0, "id": 2779954635, "level": 3}
+{"count": 1296, "name": "Primary effusion lymphoma", "weight": 0.0, "id": 2779594685, "level": 3}
+{"count": 1840, "name": "Foscarnet", "weight": 0.0, "id": 2776724271, "level": 3}
+{"count": 2472, "name": "Shingles", "weight": 0.0, "id": 2779001537, "level": 3}
+{"count": 1097, "name": "African swine fever virus", "weight": 0.0, "id": 2778359420, "level": 3}
+{"count": 2629, "name": "Classical swine fever", "weight": 0.0, "id": 2779005923, "level": 3}
+{"count": 2030, "name": "Bovine leukemia virus", "weight": 0.0, "id": 2778645089, "level": 3}
+{"count": 8665, "name": "Viral entry", "weight": 0.0, "id": 58475186, "level": 3}
+{"count": 590, "name": "Borna disease virus", "weight": 0.0, "id": 2776444615, "level": 3}
+{"count": 6183, "name": "Chikungunya", "weight": 0.0, "id": 2781273456, "level": 3}
+{"count": 2082, "name": "Mumps virus", "weight": 0.0, "id": 2778538096, "level": 3}
+{"count": 1101, "name": "Lassa fever", "weight": 0.0, "id": 2780023225, "level": 3}
+{"count": 778, "name": "Bovine papillomavirus", "weight": 0.0, "id": 2776781592, "level": 3}
+{"count": 323, "name": "Cardiovirus", "weight": 0.0, "id": 2778514195, "level": 3}
+{"count": 541, "name": "Iridoviridae", "weight": 0.0, "id": 2777472096, "level": 3}
+{"count": 7706, "name": "Attenuated vaccine", "weight": 0.0, "id": 54602769, "level": 3}
+{"count": 1012, "name": "Epidermodysplasia verruciformis", "weight": 0.0, "id": 2780265533, "level": 3}
+{"count": 2607, "name": "Viral quasispecies", "weight": 0.0, "id": 14500911, "level": 3}
+{"count": 2137, "name": "Viral matrix protein", "weight": 0.0, "id": 68434959, "level": 3}
+{"count": 2101, "name": "Picornavirus", "weight": 0.0, "id": 2778009244, "level": 3}
+{"count": 2317, "name": "Tissue tropism", "weight": 0.0, "id": 33602714, "level": 3}
+{"count": 2028, "name": "Human metapneumovirus", "weight": 0.0, "id": 2780475896, "level": 3}
+{"count": 850, "name": "Duck hepatitis B virus", "weight": 0.0, "id": 2777666129, "level": 3}
+{"count": 828, "name": "Rimantadine", "weight": 0.0, "id": 2780391423, "level": 3}
+{"count": 1335, "name": "Citrus tristeza virus", "weight": 0.0, "id": 2780619479, "level": 3}
+{"count": 1053, "name": "Friend virus", "weight": 0.0, "id": 2779682186, "level": 3}
+{"count": 594, "name": "Ross River virus", "weight": 0.0, "id": 2781352674, "level": 3}
+{"count": 3489, "name": "Porcine circovirus", "weight": 0.0, "id": 2781045504, "level": 3}
+{"count": 1822, "name": "Rinderpest", "weight": 0.0, "id": 2780866625, "level": 3}
+{"count": 772, "name": "Lassa virus", "weight": 0.0, "id": 2777427142, "level": 3}
+{"count": 609, "name": "Myxoma virus", "weight": 0.0, "id": 2779745803, "level": 3}
+{"count": 514, "name": "Turnip yellow mosaic virus", "weight": 0.0, "id": 2780531757, "level": 3}
+{"count": 834, "name": "Transovarial transmission", "weight": 0.0, "id": 135710506, "level": 3}
+{"count": 1263, "name": "Palivizumab", "weight": 0.0, "id": 2778644256, "level": 3}
+{"count": 68, "name": "Leviviridae", "weight": 0.0, "id": 2779296227, "level": 3}
+{"count": 469, "name": "Borna disease", "weight": 0.0, "id": 2779648807, "level": 3}
+{"count": 625, "name": "Infectious hematopoietic necrosis virus", "weight": 0.0, "id": 2778966499, "level": 3}
+{"count": 3742, "name": "Infectious bursal disease", "weight": 0.0, "id": 2777810641, "level": 3}
+{"count": 571, "name": "Ectromelia virus", "weight": 0.0, "id": 2780487699, "level": 3}
+{"count": 1533, "name": "Feline leukemia virus", "weight": 0.0, "id": 2779692357, "level": 3}
+{"count": 811, "name": "Enfuvirtide", "weight": 0.0, "id": 2778037500, "level": 3}
+{"count": 4209, "name": "Viral culture", "weight": 0.0, "id": 156725737, "level": 3}
+{"count": 1150, "name": "Crimean\u2013Congo hemorrhagic fever", "weight": 0.0, "id": 2778748088, "level": 3}
+{"count": 982, "name": "Feline calicivirus", "weight": 0.0, "id": 2780980013, "level": 3}
+{"count": 919, "name": "Human bocavirus", "weight": 0.0, "id": 2777719358, "level": 3}
+{"count": 2034, "name": "Hemagglutinin", "weight": 0.0, "id": 99330779, "level": 3}
+{"count": 493, "name": "Duck hepatitis virus", "weight": 0.0, "id": 2776933666, "level": 3}
+{"count": 3189, "name": "Marek's disease", "weight": 0.0, "id": 2777852405, "level": 3}
+{"count": 565, "name": "Ranavirus", "weight": 0.0, "id": 2780929364, "level": 3}
+{"count": 2863, "name": "Canine distemper", "weight": 0.0, "id": 2776040883, "level": 3}
+{"count": 2394, "name": "Group-specific antigen", "weight": 0.0, "id": 6881719, "level": 3}
+{"count": 2636, "name": "Pseudorabies", "weight": 0.0, "id": 2781092067, "level": 3}
+{"count": 4401, "name": "Epizootic", "weight": 0.0, "id": 2778511750, "level": 3}
+{"count": 1287, "name": "Viral pneumonia", "weight": 0.0, "id": 2778158872, "level": 3}
+{"count": 222, "name": "Lactate dehydrogenase elevating virus", "weight": 0.0, "id": 2779531368, "level": 3}
+{"count": 1235, "name": "Virus classification", "weight": 0.0, "id": 20850961, "level": 3}
+{"count": 3170, "name": "Inactivated vaccine", "weight": 0.0, "id": 2776872762, "level": 3}
+{"count": 295, "name": "Molluscum contagiosum virus", "weight": 0.0, "id": 2778871781, "level": 3}
+{"count": 748, "name": "African horse sickness", "weight": 0.0, "id": 2776796636, "level": 3}
+{"count": 524, "name": "Parapoxvirus", "weight": 0.0, "id": 2776360742, "level": 3}
+{"count": 612, "name": "Junin virus", "weight": 0.0, "id": 2775955205, "level": 3}
+{"count": 1201, "name": "Porcine parvovirus", "weight": 0.0, "id": 2778951572, "level": 3}
+{"count": 1650, "name": "Varicella vaccine", "weight": 0.0, "id": 2780473352, "level": 3}
+{"count": 3415, "name": "HIV vaccine", "weight": 0.0, "id": 2780195530, "level": 3}
+{"count": 1154, "name": "Equine infectious anemia", "weight": 0.0, "id": 2781053568, "level": 3}
+{"count": 217, "name": "Bovine virus diarrhea", "weight": 0.0, "id": 2780854826, "level": 3}
+{"count": 414, "name": "Ectromelia", "weight": 0.0, "id": 2777178376, "level": 3}
+{"count": 1094, "name": "Equine influenza", "weight": 0.0, "id": 2778022620, "level": 3}
+{"count": 697, "name": "Reticuloendotheliosis virus", "weight": 0.0, "id": 2777633396, "level": 3}
+{"count": 555, "name": "Rice stripe virus", "weight": 0.0, "id": 2778545329, "level": 3}
+{"count": 648, "name": "Myxomatosis", "weight": 0.0, "id": 2780623931, "level": 3}
+{"count": 3075, "name": "Antiviral drug", "weight": 0.0, "id": 2779756493, "level": 3}
+{"count": 1060, "name": "Respiratory syncytial virus (RSV)", "weight": 0.0, "id": 2780477606, "level": 3}
+{"count": 307, "name": "Rice dwarf virus", "weight": 0.0, "id": 2781195076, "level": 3}
+{"count": 2310, "name": "Veterinary virology", "weight": 0.0, "id": 57066541, "level": 3}
+{"count": 998, "name": "Infectious dose", "weight": 0.0, "id": 134040284, "level": 3}
+{"count": 7452, "name": "Mononucleosis", "weight": 0.0, "id": 2776129502, "level": 3}
+{"count": 223, "name": "Human foamy virus", "weight": 0.0, "id": 2778356198, "level": 3}
+{"count": 951, "name": "APOBEC3G", "weight": 0.0, "id": 2781310106, "level": 3}
+{"count": 212, "name": "Cross-species transmission", "weight": 0.0, "id": 2779150593, "level": 3}
+{"count": 1041, "name": "Infectious pancreatic necrosis", "weight": 0.0, "id": 2778909644, "level": 3}
+{"count": 310, "name": "Capripoxvirus", "weight": 0.0, "id": 2776453653, "level": 3}
+{"count": 272, "name": "Polyomaviridae", "weight": 0.0, "id": 2777793692, "level": 3}
+{"count": 542, "name": "Rabbit haemorrhagic disease", "weight": 0.0, "id": 2775946567, "level": 3}
+{"count": 569, "name": "Viral hemorrhagic fever", "weight": 0.0, "id": 2776430180, "level": 3}
+{"count": 524, "name": "Schmallenberg virus", "weight": 0.0, "id": 2778316813, "level": 3}
+{"count": 680, "name": "Potato leafroll virus", "weight": 0.0, "id": 2778580959, "level": 3}
+{"count": 4653, "name": "T-cell leukemia", "weight": 0.0, "id": 2776913467, "level": 3}
+{"count": 508, "name": "Entry inhibitor", "weight": 0.0, "id": 2776997796, "level": 3}

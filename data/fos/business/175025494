@@ -1,0 +1,52 @@
+{"count": 14471, "name": "Real interest rate", "weight": 10.0, "id": 154815372, "level": 3}
+{"count": 6341, "name": "Yield curve", "weight": 4.0, "id": 176230804, "level": 3}
+{"count": 1556, "name": "Forward rate", "weight": 1.0, "id": 128263813, "level": 3}
+{"count": 2605, "name": "Bond valuation", "weight": 1.0, "id": 32959826, "level": 3}
+{"count": 2779, "name": "Interest rate risk", "weight": 1.0, "id": 29944286, "level": 3}
+{"count": 8078, "name": "Interest rate parity", "weight": 5.0, "id": 82843974, "level": 3}
+{"count": 2154, "name": "Net interest income", "weight": 1.0, "id": 129489539, "level": 3}
+{"count": 1610, "name": "Net interest margin", "weight": 1.0, "id": 6175523, "level": 3}
+{"count": 1086, "name": "Yield spread", "weight": 0.0, "id": 149528551, "level": 3}
+{"count": 1679, "name": "Government bond", "weight": 1.0, "id": 2780389337, "level": 3}
+{"count": 2246, "name": "Interbank lending market", "weight": 1.0, "id": 174106034, "level": 3}
+{"count": 1764, "name": "Maturity (finance)", "weight": 1.0, "id": 30634857, "level": 3}
+{"count": 2106, "name": "Fixed interest rate loan", "weight": 1.0, "id": 99098479, "level": 3}
+{"count": 10046, "name": "Credit channel", "weight": 6.0, "id": 88583849, "level": 3}
+{"count": 1174, "name": "Zero lower bound", "weight": 0.0, "id": 2778078003, "level": 3}
+{"count": 1711, "name": "Risk-free interest rate", "weight": 1.0, "id": 9596563, "level": 3}
+{"count": 1136, "name": "Basis point", "weight": 0.0, "id": 144929662, "level": 3}
+{"count": 521, "name": "Heath\u2013Jarrow\u2013Morton framework", "weight": 0.0, "id": 187614132, "level": 3}
+{"count": 1200, "name": "Interest rate derivative", "weight": 0.0, "id": 128029710, "level": 3}
+{"count": 619, "name": "Cox\u2013Ingersoll\u2013Ross model", "weight": 0.0, "id": 151205565, "level": 3}
+{"count": 1913, "name": "Future value", "weight": 1.0, "id": 194872599, "level": 3}
+{"count": 389, "name": "Friedman rule", "weight": 0.0, "id": 2775891139, "level": 3}
+{"count": 1032, "name": "Interest rate swap", "weight": 0.0, "id": 99560960, "level": 3}
+{"count": 1097, "name": "Floating interest rate", "weight": 0.0, "id": 30087350, "level": 3}
+{"count": 898, "name": "LIBOR market model", "weight": 0.0, "id": 19736811, "level": 3}
+{"count": 1197, "name": "Libor", "weight": 0.0, "id": 153364924, "level": 3}
+{"count": 481, "name": "Loanable funds", "weight": 0.0, "id": 2395362, "level": 3}
+{"count": 1146, "name": "Cost of funds index", "weight": 0.0, "id": 98937230, "level": 3}
+{"count": 209, "name": "Moneylender", "weight": 0.0, "id": 2780294334, "level": 3}
+{"count": 738, "name": "Liquidity preference", "weight": 0.0, "id": 2777894049, "level": 3}
+{"count": 1553, "name": "Vasicek model", "weight": 1.0, "id": 201608381, "level": 3}
+{"count": 160, "name": "Prime rate", "weight": 0.0, "id": 2777748592, "level": 3}
+{"count": 330, "name": "Floating rate note", "weight": 0.0, "id": 91421501, "level": 3}
+{"count": 288, "name": "Hull\u2013White model", "weight": 0.0, "id": 69075527, "level": 3}
+{"count": 112, "name": "Call money", "weight": 0.0, "id": 2777849942, "level": 3}
+{"count": 206, "name": "Austrian business cycle theory", "weight": 0.0, "id": 2781207574, "level": 3}
+{"count": 278, "name": "Euribor", "weight": 0.0, "id": 2781223440, "level": 3}
+{"count": 44, "name": "Reinvestment risk", "weight": 0.0, "id": 2780424272, "level": 3}
+{"count": 429, "name": "Eurodollar", "weight": 0.0, "id": 2778108091, "level": 3}
+{"count": 15, "name": "Interest rate future", "weight": 0.0, "id": 2780114766, "level": 3}
+{"count": 99, "name": "Eonia", "weight": 0.0, "id": 2778055008, "level": 3}
+{"count": 133, "name": "Quantum finance", "weight": 0.0, "id": 18327375, "level": 3}
+{"count": 114, "name": "Regulation Q", "weight": 0.0, "id": 2775848949, "level": 3}
+{"count": 136, "name": "Net interest spread", "weight": 0.0, "id": 84886770, "level": 3}
+{"count": 274, "name": "SELIC", "weight": 0.0, "id": 2778373144, "level": 3}
+{"count": 166, "name": "Rate risk", "weight": 0.0, "id": 2781405239, "level": 3}
+{"count": 313, "name": "Future interest", "weight": 0.0, "id": 2776942845, "level": 3}
+{"count": 118, "name": "Rediscount", "weight": 0.0, "id": 2780408383, "level": 3}
+{"count": 37, "name": "Malinvestment", "weight": 0.0, "id": 2777146659, "level": 3}
+{"count": 40, "name": "Interest rate guarantee", "weight": 0.0, "id": 2780766029, "level": 3}
+{"count": 50, "name": "SIBOR", "weight": 0.0, "id": 2776559029, "level": 3}
+{"count": 2282, "name": "Rendleman\u2013Bartter model", "weight": 1.0, "id": 108018779, "level": 3}

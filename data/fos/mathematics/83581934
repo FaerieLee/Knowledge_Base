@@ -1,0 +1,6 @@
+{"count": 711, "name": "Machine epsilon", "weight": 3.0, "id": 203739276, "level": 3}
+{"count": 1865, "name": "Saturation arithmetic", "weight": 10.0, "id": 182775192, "level": 3}
+{"count": 690, "name": "Elementary arithmetic", "weight": 3.0, "id": 21262494, "level": 3}
+{"count": 813, "name": "Arithmetic circuit complexity", "weight": 4.0, "id": 155920423, "level": 3}
+{"count": 25, "name": "Significance arithmetic", "weight": 0.0, "id": 81375429, "level": 3}
+{"count": 102, "name": "Computer for operations with functions", "weight": 0.0, "id": 140129339, "level": 3}

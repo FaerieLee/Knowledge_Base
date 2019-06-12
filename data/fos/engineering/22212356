@@ -1,0 +1,103 @@
+{"count": 68378, "name": "Public transport", "weight": 10.0, "id": 539828613, "level": 2}
+{"count": 47958, "name": "Traffic flow", "weight": 7.0, "id": 13951911, "level": 2}
+{"count": 28458, "name": "Traffic congestion", "weight": 4.0, "id": 2779888511, "level": 2}
+{"count": 35365, "name": "Transportation planning", "weight": 5.0, "id": 39118121, "level": 2}
+{"count": 33523, "name": "Intelligent transportation system", "weight": 4.0, "id": 47796450, "level": 2}
+{"count": 16915, "name": "Travel behavior", "weight": 2.0, "id": 144072006, "level": 2}
+{"count": 15000, "name": "Level of service", "weight": 2.0, "id": 58037377, "level": 2}
+{"count": 32002, "name": "Pedestrian", "weight": 4.0, "id": 2777113093, "level": 2}
+{"count": 15921, "name": "Traffic engineering", "weight": 2.0, "id": 16160715, "level": 2}
+{"count": 12275, "name": "Traffic volume", "weight": 1.0, "id": 168443057, "level": 2}
+{"count": 22455, "name": "TRIPS architecture", "weight": 3.0, "id": 157085824, "level": 2}
+{"count": 5690, "name": "Accident analysis", "weight": 0.0, "id": 2780591428, "level": 2}
+{"count": 8603, "name": "Highway engineering", "weight": 1.0, "id": 160487506, "level": 2}
+{"count": 3562, "name": "Transport economics", "weight": 0.0, "id": 168500671, "level": 2}
+{"count": 3643, "name": "Trip generation", "weight": 0.0, "id": 2778226110, "level": 2}
+{"count": 2168, "name": "Vehicle miles of travel", "weight": 0.0, "id": 2778207038, "level": 2}
+{"count": 4765, "name": "Fleet management", "weight": 0.0, "id": 2777305159, "level": 2}
+{"count": 5663, "name": "Microsimulation", "weight": 0.0, "id": 2780015235, "level": 2}
+{"count": 8400, "name": "Speed limit", "weight": 1.0, "id": 2780210587, "level": 2}
+{"count": 3694, "name": "Level crossing", "weight": 0.0, "id": 1975866, "level": 2}
+{"count": 2214, "name": "Right of way", "weight": 0.0, "id": 2781283787, "level": 2}
+{"count": 3878, "name": "Air cargo", "weight": 0.0, "id": 2778788726, "level": 2}
+{"count": 7018, "name": "Transport network", "weight": 1.0, "id": 2778711553, "level": 2}
+{"count": 4486, "name": "Construction site safety", "weight": 0.0, "id": 86804380, "level": 2}
+{"count": 2472, "name": "Toll road", "weight": 0.0, "id": 2778636371, "level": 2}
+{"count": 2330, "name": "Telecommuting", "weight": 0.0, "id": 2777061679, "level": 2}
+{"count": 4304, "name": "Incident management (ITSM)", "weight": 0.0, "id": 54810324, "level": 2}
+{"count": 2470, "name": "Bridge maintenance", "weight": 0.0, "id": 2777188360, "level": 2}
+{"count": 2290, "name": "Land transport", "weight": 0.0, "id": 2780934355, "level": 2}
+{"count": 2255, "name": "Traffic calming", "weight": 0.0, "id": 2777773042, "level": 2}
+{"count": 3202, "name": "Transshipment", "weight": 0.0, "id": 87296916, "level": 2}
+{"count": 1862, "name": "Ground transportation", "weight": 0.0, "id": 2779306647, "level": 2}
+{"count": 812, "name": "Road traffic control", "weight": 0.0, "id": 2775905063, "level": 2}
+{"count": 4531, "name": "Pavement management", "weight": 0.0, "id": 2780996376, "level": 2}
+{"count": 3681, "name": "Overtaking", "weight": 0.0, "id": 2778448659, "level": 2}
+{"count": 1868, "name": "Design speed", "weight": 0.0, "id": 2779593531, "level": 2}
+{"count": 3117, "name": "Urban rail transit", "weight": 0.0, "id": 2780434240, "level": 2}
+{"count": 1318, "name": "Multimodal transport", "weight": 0.0, "id": 2777974031, "level": 2}
+{"count": 1142, "name": "Inland navigation", "weight": 0.0, "id": 2776308984, "level": 2}
+{"count": 1600, "name": "Vehicle inspection", "weight": 0.0, "id": 2776019820, "level": 2}
+{"count": 1379, "name": "Ring road", "weight": 0.0, "id": 2778360411, "level": 2}
+{"count": 988, "name": "Travel time reliability", "weight": 0.0, "id": 2776023418, "level": 2}
+{"count": 1098, "name": "Rush hour", "weight": 0.0, "id": 2777579922, "level": 2}
+{"count": 395, "name": "Air Transport Network", "weight": 0.0, "id": 2780124536, "level": 2}
+{"count": 854, "name": "Types of road", "weight": 0.0, "id": 2776058402, "level": 2}
+{"count": 1854, "name": "Road traffic safety", "weight": 0.0, "id": 2777636896, "level": 2}
+{"count": 565, "name": "Freight forwarder", "weight": 0.0, "id": 2776141452, "level": 2}
+{"count": 1952, "name": "Ministry of Transport", "weight": 0.0, "id": 2781398798, "level": 2}
+{"count": 459, "name": "On-time performance", "weight": 0.0, "id": 2780836475, "level": 2}
+{"count": 956, "name": "National Cooperative Highway Research Program", "weight": 0.0, "id": 2777770772, "level": 2}
+{"count": 589, "name": "Gravel road", "weight": 0.0, "id": 2777891025, "level": 2}
+{"count": 2907, "name": "Carriageway", "weight": 0.0, "id": 2779184092, "level": 2}
+{"count": 738, "name": "Alternative fuel vehicle", "weight": 0.0, "id": 13763315, "level": 2}
+{"count": 678, "name": "Short sea shipping", "weight": 0.0, "id": 2779279276, "level": 2}
+{"count": 369, "name": "Induced demand", "weight": 0.0, "id": 2779577822, "level": 2}
+{"count": 1510, "name": "Railway signalling", "weight": 0.0, "id": 558252296, "level": 2}
+{"count": 2137, "name": "Punctuality", "weight": 0.0, "id": 2779548549, "level": 2}
+{"count": 1156, "name": "Motor transport", "weight": 0.0, "id": 2781262955, "level": 2}
+{"count": 1435, "name": "Gridlock", "weight": 0.0, "id": 2778558725, "level": 2}
+{"count": 2569, "name": "Access management", "weight": 0.0, "id": 2778002324, "level": 2}
+{"count": 820, "name": "Transport corridor", "weight": 0.0, "id": 2779599594, "level": 2}
+{"count": 1841, "name": "Street network", "weight": 0.0, "id": 2778625738, "level": 2}
+{"count": 730, "name": "Stop sign", "weight": 0.0, "id": 2779311274, "level": 2}
+{"count": 1052, "name": "Interurban", "weight": 0.0, "id": 2779671548, "level": 2}
+{"count": 4588, "name": "State highway", "weight": 0.0, "id": 2780521143, "level": 2}
+{"count": 295, "name": "Intermodal freight transport", "weight": 0.0, "id": 2779819975, "level": 2}
+{"count": 737, "name": "Utility tunnel", "weight": 0.0, "id": 2775932835, "level": 2}
+{"count": 257, "name": "Freight terminal", "weight": 0.0, "id": 2778290582, "level": 2}
+{"count": 244, "name": "National Bridge Inventory", "weight": 0.0, "id": 2778218595, "level": 2}
+{"count": 892, "name": "Carpool", "weight": 0.0, "id": 2780427980, "level": 2}
+{"count": 1644, "name": "Driveway", "weight": 0.0, "id": 2779434045, "level": 2}
+{"count": 870, "name": "Transit bus", "weight": 0.0, "id": 2779205984, "level": 2}
+{"count": 170, "name": "Aerotropolis", "weight": 0.0, "id": 2781360730, "level": 2}
+{"count": 192, "name": "Vehicle category", "weight": 0.0, "id": 2777173067, "level": 2}
+{"count": 1044, "name": "Trunk road", "weight": 0.0, "id": 2780906298, "level": 2}
+{"count": 433, "name": "Traffic mix", "weight": 0.0, "id": 13351851, "level": 2}
+{"count": 249, "name": "Route assignment", "weight": 0.0, "id": 2776407761, "level": 2}
+{"count": 154, "name": "Airport city", "weight": 0.0, "id": 2777747429, "level": 2}
+{"count": 140, "name": "Tram-train", "weight": 0.0, "id": 2780893696, "level": 2}
+{"count": 83, "name": "Local technical assistance program", "weight": 0.0, "id": 2775996962, "level": 2}
+{"count": 110, "name": "Transportation geography", "weight": 0.0, "id": 120177712, "level": 2}
+{"count": 84, "name": "Rat running", "weight": 0.0, "id": 2778191139, "level": 2}
+{"count": 106, "name": "Sealed road", "weight": 0.0, "id": 2776160789, "level": 2}
+{"count": 140, "name": "Bidirectional traffic", "weight": 0.0, "id": 2776399433, "level": 2}
+{"count": 82, "name": "Subsurface utility engineering", "weight": 0.0, "id": 2778851255, "level": 2}
+{"count": 569, "name": "Passenger car equivalent", "weight": 0.0, "id": 143053726, "level": 2}
+{"count": 11, "name": "Disappearing traffic", "weight": 0.0, "id": 2780977180, "level": 2}
+{"count": 219, "name": "Impact fee", "weight": 0.0, "id": 2776961845, "level": 2}
+{"count": 1315, "name": "Frontage", "weight": 0.0, "id": 2777239787, "level": 2}
+{"count": 200, "name": "Hubbing", "weight": 0.0, "id": 2776526335, "level": 2}
+{"count": 90, "name": "Curb cut", "weight": 0.0, "id": 179662660, "level": 2}
+{"count": 70, "name": "Utility location", "weight": 0.0, "id": 2777204808, "level": 2}
+{"count": 96, "name": "Raised pavement marker", "weight": 0.0, "id": 2778616421, "level": 2}
+{"count": 12, "name": "Fused grid", "weight": 0.0, "id": 2776326189, "level": 2}
+{"count": 5870, "name": "Parking guidance and information", "weight": 0.0, "id": 14353550, "level": 2}
+{"count": 14, "name": "Bicycle City", "weight": 0.0, "id": 2781298527, "level": 2}
+{"count": 8, "name": "GEH statistic", "weight": 0.0, "id": 2778464216, "level": 2}
+{"count": 311, "name": "National Roads Telecommunications Services", "weight": 0.0, "id": 72827, "level": 2}
+{"count": 595, "name": "Route planning software", "weight": 0.0, "id": 6405874, "level": 2}
+{"count": 10, "name": "SmartWay Transport Partnership", "weight": 0.0, "id": 2781120777, "level": 2}
+{"count": 8, "name": "Scalable Urban Traffic Control", "weight": 0.0, "id": 2780460861, "level": 2}
+{"count": 6134, "name": "Traffic management", "weight": 0.0, "id": 532444271, "level": 2}
+{"count": 11, "name": "Diamond lane", "weight": 0.0, "id": 2780281117, "level": 2}

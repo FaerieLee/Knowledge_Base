@@ -1,0 +1,17 @@
+{"count": 5948, "name": "JPEG 2000", "weight": 7.0, "id": 69216139, "level": 4}
+{"count": 2713, "name": "Set partitioning in hierarchical trees", "weight": 3.0, "id": 136968285, "level": 4}
+{"count": 2379, "name": "Fractal compression", "weight": 2.0, "id": 109116516, "level": 4}
+{"count": 8434, "name": "Data compression ratio", "weight": 10.0, "id": 94835093, "level": 4}
+{"count": 538, "name": "Compression artifact", "weight": 0.0, "id": 57654395, "level": 4}
+{"count": 3651, "name": "Quantization (image processing)", "weight": 4.0, "id": 199681165, "level": 4}
+{"count": 5797, "name": "Texture compression", "weight": 6.0, "id": 54243161, "level": 4}
+{"count": 224, "name": "Bandelet", "weight": 0.0, "id": 45865881, "level": 4}
+{"count": 386, "name": "Prediction by partial matching", "weight": 0.0, "id": 113081429, "level": 4}
+{"count": 291, "name": "JBIG", "weight": 0.0, "id": 2776885320, "level": 4}
+{"count": 103, "name": "Mixed raster content", "weight": 0.0, "id": 2779262472, "level": 4}
+{"count": 2876, "name": "Fractal transform", "weight": 3.0, "id": 144112376, "level": 4}
+{"count": 3241, "name": "Lossless JPEG", "weight": 3.0, "id": 8384606, "level": 4}
+{"count": 66, "name": "WebP", "weight": 0.0, "id": 89649870, "level": 4}
+{"count": 2489, "name": "Color Cell Compression", "weight": 2.0, "id": 82804729, "level": 4}
+{"count": 8, "name": "Set redundancy compression", "weight": 0.0, "id": 2779415903, "level": 4}
+{"count": 10, "name": "Better Portable Graphics", "weight": 0.0, "id": 2781100977, "level": 4}

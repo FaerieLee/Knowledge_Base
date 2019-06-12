@@ -1,0 +1,200 @@
+{"count": 28070, "name": "Periodontitis", "weight": 3.0, "id": 2780385504, "level": 2}
+{"count": 22463, "name": "Swallowing", "weight": 2.0, "id": 112497637, "level": 2}
+{"count": 12512, "name": "Streptococcus mutans", "weight": 1.0, "id": 2778430296, "level": 2}
+{"count": 20796, "name": "Temporomandibular joint", "weight": 2.0, "id": 2780202543, "level": 2}
+{"count": 34990, "name": "Osteotomy", "weight": 4.0, "id": 2776389721, "level": 2}
+{"count": 7125, "name": "Oral and maxillofacial pathology", "weight": 0.0, "id": 54510867, "level": 2}
+{"count": 9489, "name": "Dental plaque", "weight": 1.0, "id": 2779914569, "level": 2}
+{"count": 25516, "name": "Dentin", "weight": 3.0, "id": 2779263046, "level": 2}
+{"count": 11853, "name": "Chlorhexidine", "weight": 1.0, "id": 2777084678, "level": 2}
+{"count": 22419, "name": "Root canal", "weight": 2.0, "id": 2779747767, "level": 2}
+{"count": 40342, "name": "Molar", "weight": 5.0, "id": 202271784, "level": 2}
+{"count": 8223, "name": "Attrition", "weight": 1.0, "id": 2780553607, "level": 2}
+{"count": 34148, "name": "Enamel paint", "weight": 4.0, "id": 156887251, "level": 2}
+{"count": 11163, "name": "Pulp (tooth)", "weight": 1.0, "id": 188442228, "level": 2}
+{"count": 16883, "name": "Oral hygiene", "weight": 2.0, "id": 515851188, "level": 2}
+{"count": 6481, "name": "Mastication", "weight": 0.0, "id": 154758884, "level": 2}
+{"count": 5298, "name": "Bioactive glass", "weight": 0.0, "id": 2778519171, "level": 2}
+{"count": 8504, "name": "Periodontal fiber", "weight": 1.0, "id": 41868710, "level": 2}
+{"count": 14896, "name": "Dental care", "weight": 1.0, "id": 2776693998, "level": 2}
+{"count": 11282, "name": "Gingivitis", "weight": 1.0, "id": 2780791200, "level": 2}
+{"count": 9620, "name": "Maxilla", "weight": 1.0, "id": 122246415, "level": 2}
+{"count": 15057, "name": "Malocclusion", "weight": 1.0, "id": 2780109367, "level": 2}
+{"count": 650, "name": "Craniometry", "weight": 0.0, "id": 177432677, "level": 2}
+{"count": 18303, "name": "Dentition", "weight": 2.0, "id": 188126409, "level": 2}
+{"count": 7530, "name": "Glass ionomer cement", "weight": 0.0, "id": 51936186, "level": 2}
+{"count": 5761, "name": "Endodontics", "weight": 0.0, "id": 2779847468, "level": 2}
+{"count": 7698, "name": "Oral and maxillofacial surgery", "weight": 0.0, "id": 2778636310, "level": 2}
+{"count": 4539, "name": "Tooth loss", "weight": 0.0, "id": 2778401919, "level": 2}
+{"count": 10394, "name": "Incisor", "weight": 1.0, "id": 2778812414, "level": 2}
+{"count": 18751, "name": "Tears", "weight": 2.0, "id": 2778275304, "level": 2}
+{"count": 12586, "name": "Dental alveolus", "weight": 1.0, "id": 151279780, "level": 2}
+{"count": 2935, "name": "Mineral trioxide aggregate", "weight": 0.0, "id": 2777090975, "level": 2}
+{"count": 4263, "name": "Masseter muscle", "weight": 0.0, "id": 2780880470, "level": 2}
+{"count": 2244, "name": "Tooth eruption", "weight": 0.0, "id": 2775832897, "level": 2}
+{"count": 4374, "name": "Periodontium", "weight": 0.0, "id": 2778380114, "level": 2}
+{"count": 2421, "name": "Tooth wear", "weight": 0.0, "id": 2779598878, "level": 2}
+{"count": 5006, "name": "Ameloblastoma", "weight": 0.0, "id": 2775876115, "level": 2}
+{"count": 4662, "name": "Periodontology", "weight": 0.0, "id": 144374066, "level": 2}
+{"count": 4133, "name": "Root resorption", "weight": 0.0, "id": 2778703501, "level": 2}
+{"count": 2346, "name": "Dental restoration", "weight": 0.0, "id": 2781431781, "level": 2}
+{"count": 3252, "name": "Gingival recession", "weight": 0.0, "id": 2777077232, "level": 2}
+{"count": 10039, "name": "Toothpaste", "weight": 1.0, "id": 2776866151, "level": 2}
+{"count": 4568, "name": "Cementum", "weight": 0.0, "id": 2777894202, "level": 2}
+{"count": 80669, "name": "Hook", "weight": 10.0, "id": 2777586403, "level": 2}
+{"count": 3815, "name": "Prosthodontics", "weight": 0.0, "id": 2777634892, "level": 2}
+{"count": 17291, "name": "Dentures", "weight": 2.0, "id": 2780062004, "level": 2}
+{"count": 11199, "name": "Amalgam (dentistry)", "weight": 1.0, "id": 2777740196, "level": 2}
+{"count": 1457, "name": "Temporal muscle", "weight": 0.0, "id": 2780101333, "level": 2}
+{"count": 2104, "name": "Early childhood caries", "weight": 0.0, "id": 2780739003, "level": 2}
+{"count": 3287, "name": "Betel", "weight": 0.0, "id": 2777417228, "level": 2}
+{"count": 2227, "name": "Dental trauma", "weight": 0.0, "id": 2779010427, "level": 2}
+{"count": 1352, "name": "Burning mouth syndrome", "weight": 0.0, "id": 2776172268, "level": 2}
+{"count": 1967, "name": "Alveolar process", "weight": 0.0, "id": 2779306806, "level": 2}
+{"count": 1764, "name": "Oral submucous fibrosis", "weight": 0.0, "id": 2780672762, "level": 2}
+{"count": 1887, "name": "Hypodontia", "weight": 0.0, "id": 2779385247, "level": 2}
+{"count": 1417, "name": "Oral microbiology", "weight": 0.0, "id": 158689903, "level": 2}
+{"count": 14248, "name": "Veneer", "weight": 1.0, "id": 2779225514, "level": 2}
+{"count": 1023, "name": "Anodontia", "weight": 0.0, "id": 2779121489, "level": 2}
+{"count": 3363, "name": "Oral medicine", "weight": 0.0, "id": 2778942190, "level": 2}
+{"count": 781, "name": "Enamel matrix derivative", "weight": 0.0, "id": 2778185831, "level": 2}
+{"count": 2362, "name": "Pulpitis", "weight": 0.0, "id": 2779700951, "level": 2}
+{"count": 4059, "name": "Supernumerary", "weight": 0.0, "id": 2780610479, "level": 2}
+{"count": 970, "name": "Evidence-based dentistry", "weight": 0.0, "id": 2777614013, "level": 2}
+{"count": 1898, "name": "Toothache", "weight": 0.0, "id": 2777165788, "level": 2}
+{"count": 2772, "name": "Dental surgery", "weight": 0.0, "id": 16328479, "level": 2}
+{"count": 5929, "name": "Inlay", "weight": 0.0, "id": 190719290, "level": 2}
+{"count": 1195, "name": "Dental instruments", "weight": 0.0, "id": 2780965210, "level": 2}
+{"count": 3801, "name": "Deciduous teeth", "weight": 0.0, "id": 2776981409, "level": 2}
+{"count": 4198, "name": "Dry mouth", "weight": 0.0, "id": 2776076399, "level": 2}
+{"count": 907, "name": "Cosmetic dentistry", "weight": 0.0, "id": 558898480, "level": 2}
+{"count": 1815, "name": "Odontoma", "weight": 0.0, "id": 2777419892, "level": 2}
+{"count": 2602, "name": "Restorative dentistry", "weight": 0.0, "id": 2777594839, "level": 2}
+{"count": 1460, "name": "Ophthalmia", "weight": 0.0, "id": 2777374769, "level": 2}
+{"count": 2055, "name": "Pacifier", "weight": 0.0, "id": 202712171, "level": 2}
+{"count": 2808, "name": "Parotitis", "weight": 0.0, "id": 2776023103, "level": 2}
+{"count": 1188, "name": "Diastema", "weight": 0.0, "id": 89045157, "level": 2}
+{"count": 7581, "name": "Permanent teeth", "weight": 0.0, "id": 2776594236, "level": 2}
+{"count": 1961, "name": "Panoramic radiograph", "weight": 0.0, "id": 100548800, "level": 2}
+{"count": 642, "name": "Geriatric dentistry", "weight": 0.0, "id": 2779097381, "level": 2}
+{"count": 10029, "name": "Premolar", "weight": 1.0, "id": 2780641865, "level": 2}
+{"count": 2436, "name": "Cephalometric analysis", "weight": 0.0, "id": 2779333352, "level": 2}
+{"count": 16631, "name": "Toothbrush", "weight": 2.0, "id": 2777892068, "level": 2}
+{"count": 831, "name": "Dental follicle", "weight": 0.0, "id": 2776211174, "level": 2}
+{"count": 1349, "name": "Tooth mobility", "weight": 0.0, "id": 177129845, "level": 2}
+{"count": 493, "name": "Tooth discoloration", "weight": 0.0, "id": 2780088626, "level": 2}
+{"count": 1148, "name": "Mental foramen", "weight": 0.0, "id": 2780157959, "level": 2}
+{"count": 5864, "name": "Hard tissue", "weight": 0.0, "id": 2780954041, "level": 2}
+{"count": 527, "name": "Neutral zone", "weight": 0.0, "id": 2780438623, "level": 2}
+{"count": 1372, "name": "Palatoplasty", "weight": 0.0, "id": 2779964219, "level": 2}
+{"count": 1166, "name": "Stomatognathic system", "weight": 0.0, "id": 2781220982, "level": 2}
+{"count": 348, "name": "M\u00f6bius syndrome", "weight": 0.0, "id": 2780409274, "level": 2}
+{"count": 1318, "name": "Tooth whitening", "weight": 0.0, "id": 2780262163, "level": 2}
+{"count": 1064, "name": "Dental anatomy", "weight": 0.0, "id": 108737030, "level": 2}
+{"count": 9517, "name": "Maxillary central incisor", "weight": 1.0, "id": 159824338, "level": 2}
+{"count": 781, "name": "Gingivectomy", "weight": 0.0, "id": 2778370285, "level": 2}
+{"count": 9183, "name": "Anterior teeth", "weight": 1.0, "id": 53940066, "level": 2}
+{"count": 680, "name": "Apicoectomy", "weight": 0.0, "id": 2778199621, "level": 2}
+{"count": 1329, "name": "Dental extraction", "weight": 0.0, "id": 2779360543, "level": 2}
+{"count": 565, "name": "Microstomia", "weight": 0.0, "id": 2778013446, "level": 2}
+{"count": 25386, "name": "Retainer", "weight": 3.0, "id": 2779372575, "level": 2}
+{"count": 552, "name": "Salvadora persica", "weight": 0.0, "id": 2777771639, "level": 2}
+{"count": 1114, "name": "Post and core", "weight": 0.0, "id": 2777143679, "level": 2}
+{"count": 192, "name": "Porotic hyperostosis", "weight": 0.0, "id": 2778774775, "level": 2}
+{"count": 830, "name": "Corticotomy", "weight": 0.0, "id": 2778007845, "level": 2}
+{"count": 919, "name": "Bad breath", "weight": 0.0, "id": 2777801847, "level": 2}
+{"count": 2645, "name": "Articulator", "weight": 0.0, "id": 2778415344, "level": 2}
+{"count": 339, "name": "Lip augmentation", "weight": 0.0, "id": 2777309969, "level": 2}
+{"count": 304, "name": "Periodontal abscess", "weight": 0.0, "id": 2776503003, "level": 2}
+{"count": 748, "name": "Hydrodynamic theory", "weight": 0.0, "id": 2780236201, "level": 2}
+{"count": 843, "name": "Gingival enlargement", "weight": 0.0, "id": 2780090536, "level": 2}
+{"count": 5218, "name": "Posterior teeth", "weight": 0.0, "id": 130907195, "level": 2}
+{"count": 406, "name": "Nail biting", "weight": 0.0, "id": 2779048665, "level": 2}
+{"count": 674, "name": "Crown lengthening", "weight": 0.0, "id": 2776181972, "level": 2}
+{"count": 481, "name": "Dental anesthesia", "weight": 0.0, "id": 2778804939, "level": 2}
+{"count": 235, "name": "Digital dentistry", "weight": 0.0, "id": 2777216951, "level": 2}
+{"count": 1504, "name": "Maxillary canine", "weight": 0.0, "id": 2780950006, "level": 2}
+{"count": 716, "name": "Fixed prosthodontics", "weight": 0.0, "id": 2776510725, "level": 2}
+{"count": 629, "name": "Canine tooth", "weight": 0.0, "id": 2777560895, "level": 2}
+{"count": 2481, "name": "Dental floss", "weight": 0.0, "id": 2780287645, "level": 2}
+{"count": 7962, "name": "Mouthpiece", "weight": 0.0, "id": 2780955776, "level": 2}
+{"count": 927, "name": "Cephalogram", "weight": 0.0, "id": 2779465792, "level": 2}
+{"count": 156, "name": "Alveoloplasty", "weight": 0.0, "id": 2776207659, "level": 2}
+{"count": 474, "name": "Hyrax", "weight": 0.0, "id": 2780070761, "level": 2}
+{"count": 982, "name": "Teething", "weight": 0.0, "id": 2777711198, "level": 2}
+{"count": 404, "name": "Angular cheilitis", "weight": 0.0, "id": 2780333765, "level": 2}
+{"count": 168, "name": "Rothia dentocariosa", "weight": 0.0, "id": 2779672596, "level": 2}
+{"count": 278, "name": "Enameloid", "weight": 0.0, "id": 2776923939, "level": 2}
+{"count": 1664, "name": "Toothpick", "weight": 0.0, "id": 2780657994, "level": 2}
+{"count": 10410, "name": "Masticatory force", "weight": 1.0, "id": 193206974, "level": 2}
+{"count": 1004, "name": "Spitting", "weight": 0.0, "id": 57725782, "level": 2}
+{"count": 329, "name": "Veillonella parvula", "weight": 0.0, "id": 2777153255, "level": 2}
+{"count": 423, "name": "Oral thrush", "weight": 0.0, "id": 2778698291, "level": 2}
+{"count": 173, "name": "Serial extraction", "weight": 0.0, "id": 2776761802, "level": 2}
+{"count": 595, "name": "Periodontosis", "weight": 0.0, "id": 2778568479, "level": 2}
+{"count": 498, "name": "Periodontal probe", "weight": 0.0, "id": 2779762769, "level": 2}
+{"count": 144, "name": "Streblus asper", "weight": 0.0, "id": 2781409442, "level": 2}
+{"count": 18, "name": "Infant oral mutilation", "weight": 0.0, "id": 2779238428, "level": 2}
+{"count": 237, "name": "Dens evaginatus", "weight": 0.0, "id": 2778953873, "level": 2}
+{"count": 752, "name": "Mandibular canine", "weight": 0.0, "id": 2777089686, "level": 2}
+{"count": 414, "name": "Cleidocranial dysostosis", "weight": 0.0, "id": 2775848487, "level": 2}
+{"count": 111, "name": "Equine dentistry", "weight": 0.0, "id": 2777711542, "level": 2}
+{"count": 836, "name": "Ostectomy", "weight": 0.0, "id": 2778237697, "level": 2}
+{"count": 197, "name": "Hexetidine", "weight": 0.0, "id": 2777419626, "level": 2}
+{"count": 450, "name": "Cheiloplasty", "weight": 0.0, "id": 2780088856, "level": 2}
+{"count": 3126, "name": "Chewiness", "weight": 0.0, "id": 2780477921, "level": 2}
+{"count": 148, "name": "Cracked tooth syndrome", "weight": 0.0, "id": 2779906353, "level": 2}
+{"count": 234, "name": "AMBN", "weight": 0.0, "id": 2780423034, "level": 2}
+{"count": 159, "name": "Buccinator muscle", "weight": 0.0, "id": 2779701560, "level": 2}
+{"count": 1134, "name": "Dental laboratory", "weight": 0.0, "id": 2777534685, "level": 2}
+{"count": 215, "name": "Halimeter", "weight": 0.0, "id": 2779113534, "level": 2}
+{"count": 78, "name": "Macelignan", "weight": 0.0, "id": 2780355256, "level": 2}
+{"count": 282, "name": "Cementoblastoma", "weight": 0.0, "id": 2779632909, "level": 2}
+{"count": 1531, "name": "Gingival margin", "weight": 0.0, "id": 2780074967, "level": 2}
+{"count": 160, "name": "Quad helix", "weight": 0.0, "id": 2781015031, "level": 2}
+{"count": 703, "name": "ENAM", "weight": 0.0, "id": 2779674534, "level": 2}
+{"count": 79, "name": "Holistic dentistry", "weight": 0.0, "id": 2778142961, "level": 2}
+{"count": 326, "name": "Concrescence", "weight": 0.0, "id": 2779124796, "level": 2}
+{"count": 433, "name": "Alveolar mucosa", "weight": 0.0, "id": 2780301011, "level": 2}
+{"count": 289, "name": "Open flap debridement", "weight": 0.0, "id": 2781429950, "level": 2}
+{"count": 837, "name": "Cementoenamel junction", "weight": 0.0, "id": 79584836, "level": 2}
+{"count": 84, "name": "Archosargus probatocephalus", "weight": 0.0, "id": 2780708137, "level": 2}
+{"count": 104, "name": "Dysgnathia", "weight": 0.0, "id": 2778884683, "level": 2}
+{"count": 2354, "name": "Interdental consonant", "weight": 0.0, "id": 64136018, "level": 2}
+{"count": 93, "name": "BANA test", "weight": 0.0, "id": 2779916192, "level": 2}
+{"count": 154, "name": "Intraoral camera", "weight": 0.0, "id": 2777889482, "level": 2}
+{"count": 354, "name": "Gargling", "weight": 0.0, "id": 2781079812, "level": 2}
+{"count": 721, "name": "Rugae", "weight": 0.0, "id": 20512503, "level": 2}
+{"count": 227, "name": "Incisive papilla", "weight": 0.0, "id": 2781329711, "level": 2}
+{"count": 151, "name": "Pterygomandibular space", "weight": 0.0, "id": 99629823, "level": 2}
+{"count": 78, "name": "Oil pulling", "weight": 0.0, "id": 2777544442, "level": 2}
+{"count": 48, "name": "CAD/CAM dentistry", "weight": 0.0, "id": 2780086659, "level": 2}
+{"count": 256, "name": "Dental emergency", "weight": 0.0, "id": 2781038870, "level": 2}
+{"count": 215, "name": "Temporary crown", "weight": 0.0, "id": 2775845044, "level": 2}
+{"count": 125, "name": "Minimal intervention dentistry", "weight": 0.0, "id": 2780203712, "level": 2}
+{"count": 186, "name": "Neonatal teeth", "weight": 0.0, "id": 2779929054, "level": 2}
+{"count": 250, "name": "Temporary restoration", "weight": 0.0, "id": 2781162734, "level": 2}
+{"count": 174, "name": "Incisive foramen", "weight": 0.0, "id": 2779264774, "level": 2}
+{"count": 143, "name": "Hall Technique", "weight": 0.0, "id": 2777290991, "level": 2}
+{"count": 245, "name": "Human mouth", "weight": 0.0, "id": 2779407129, "level": 2}
+{"count": 448, "name": "Oral irrigator", "weight": 0.0, "id": 2779639201, "level": 2}
+{"count": 234, "name": "Embrasure", "weight": 0.0, "id": 6498766, "level": 2}
+{"count": 4, "name": "Heliopithecus", "weight": 0.0, "id": 2777621920, "level": 2}
+{"count": 260, "name": "Mucogingival junction", "weight": 0.0, "id": 54927615, "level": 2}
+{"count": 756, "name": "Coping (architecture)", "weight": 0.0, "id": 88743660, "level": 2}
+{"count": 111, "name": "Acmella oleracea", "weight": 0.0, "id": 2779571047, "level": 2}
+{"count": 437, "name": "Gingival graft", "weight": 0.0, "id": 2780719575, "level": 2}
+{"count": 197, "name": "Open contact", "weight": 0.0, "id": 2778976975, "level": 2}
+{"count": 146, "name": "Gnathology", "weight": 0.0, "id": 2779528223, "level": 2}
+{"count": 481, "name": "Teeth cleaning", "weight": 0.0, "id": 2778376390, "level": 2}
+{"count": 5, "name": "Asioryctitheria", "weight": 0.0, "id": 2778195541, "level": 2}
+{"count": 30, "name": "Tooth pathology", "weight": 0.0, "id": 2778296881, "level": 2}
+{"count": 77, "name": "Barodontalgia", "weight": 0.0, "id": 2778485120, "level": 2}
+{"count": 67, "name": "Fiberotomy", "weight": 0.0, "id": 2780362837, "level": 2}
+{"count": 31, "name": "HP-35", "weight": 0.0, "id": 2778482591, "level": 2}
+{"count": 34, "name": "Anaplastology", "weight": 0.0, "id": 2779144143, "level": 2}
+{"count": 185, "name": "Gutta", "weight": 0.0, "id": 2051122, "level": 2}
+{"count": 280, "name": "Typodont", "weight": 0.0, "id": 2776582434, "level": 2}
+{"count": 51, "name": "Oral galvanism", "weight": 0.0, "id": 2777785862, "level": 2}
+{"count": 54, "name": "Deer fly", "weight": 0.0, "id": 2776652352, "level": 2}
+{"count": 34, "name": "Crown-to-root ratio", "weight": 0.0, "id": 2780602934, "level": 2}

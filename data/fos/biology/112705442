@@ -1,0 +1,35 @@
+{"count": 17834, "name": "Drug interaction", "weight": 5.0, "id": 97320921, "level": 3}
+{"count": 11600, "name": "Area under the curve", "weight": 3.0, "id": 76318530, "level": 3}
+{"count": 30694, "name": "Pharmacodynamics", "weight": 10.0, "id": 111113717, "level": 3}
+{"count": 3729, "name": "Toxicokinetics", "weight": 1.0, "id": 195289149, "level": 3}
+{"count": 12290, "name": "Volume of distribution", "weight": 4.0, "id": 139254425, "level": 3}
+{"count": 7529, "name": "Therapeutic drug monitoring", "weight": 2.0, "id": 2780272996, "level": 3}
+{"count": 9468, "name": "Bioequivalence", "weight": 3.0, "id": 42404028, "level": 3}
+{"count": 1611, "name": "Biological half-life", "weight": 0.0, "id": 192421092, "level": 3}
+{"count": 2180, "name": "First pass effect", "weight": 0.0, "id": 201253974, "level": 3}
+{"count": 13469, "name": "Cmax", "weight": 4.0, "id": 22979827, "level": 3}
+{"count": 3042, "name": "ADME", "weight": 0.0, "id": 69366308, "level": 3}
+{"count": 991, "name": "NONMEM", "weight": 0.0, "id": 2776239304, "level": 3}
+{"count": 965, "name": "Distribution (pharmacology)", "weight": 0.0, "id": 9912157, "level": 3}
+{"count": 482, "name": "Herb-drug interactions", "weight": 0.0, "id": 2778482236, "level": 3}
+{"count": 2434, "name": "Physiologically based pharmacokinetic modelling", "weight": 0.0, "id": 185867374, "level": 3}
+{"count": 7098, "name": "Active metabolite", "weight": 2.0, "id": 149151106, "level": 3}
+{"count": 187, "name": "Talinolol", "weight": 0.0, "id": 2778953367, "level": 3}
+{"count": 522, "name": "Marbofloxacin", "weight": 0.0, "id": 2780601227, "level": 3}
+{"count": 244, "name": "Norverapamil", "weight": 0.0, "id": 2778284417, "level": 3}
+{"count": 75, "name": "Deramciclane", "weight": 0.0, "id": 2778742530, "level": 3}
+{"count": 27, "name": "Pafenolol", "weight": 0.0, "id": 2781197461, "level": 3}
+{"count": 40, "name": "Tilisolol", "weight": 0.0, "id": 2777752265, "level": 3}
+{"count": 85, "name": "Bioenhancer", "weight": 0.0, "id": 2779011045, "level": 3}
+{"count": 49, "name": "Plitidepsin", "weight": 0.0, "id": 2776448197, "level": 3}
+{"count": 39, "name": "Doxacurium chloride", "weight": 0.0, "id": 2781381275, "level": 3}
+{"count": 106, "name": "Cefovecin", "weight": 0.0, "id": 2776204526, "level": 3}
+{"count": 64, "name": "Nanoart", "weight": 0.0, "id": 2775994776, "level": 3}
+{"count": 29, "name": "Mofebutazone", "weight": 0.0, "id": 2779327968, "level": 3}
+{"count": 109, "name": "Cerebrospinal fluid penetration", "weight": 0.0, "id": 2776164219, "level": 3}
+{"count": 7, "name": "Flip-flop kinetics", "weight": 0.0, "id": 2778585028, "level": 3}
+{"count": 19, "name": "Ibafloxacin", "weight": 0.0, "id": 2776391295, "level": 3}
+{"count": 18, "name": "Modafinil acid", "weight": 0.0, "id": 2781420388, "level": 3}
+{"count": 24, "name": "Mavacoxib", "weight": 0.0, "id": 2777639022, "level": 3}
+{"count": 25, "name": "Deuterated drug", "weight": 0.0, "id": 2780653462, "level": 3}
+{"count": 11, "name": "Gitoformate", "weight": 0.0, "id": 2777974902, "level": 3}

@@ -1,0 +1,200 @@
+{"count": 293530, "name": "Democracy", "weight": 10.0, "id": 555826173, "level": 3}
+{"count": 92544, "name": "International relations", "weight": 3.0, "id": 34355311, "level": 3}
+{"count": 56003, "name": "Public opinion", "weight": 1.0, "id": 134698397, "level": 3}
+{"count": 58994, "name": "Civil society", "weight": 2.0, "id": 513891491, "level": 3}
+{"count": 260763, "name": "Ideology", "weight": 8.0, "id": 158071213, "level": 3}
+{"count": 87290, "name": "Foreign policy", "weight": 2.0, "id": 93377909, "level": 3}
+{"count": 37612, "name": "Social movement", "weight": 1.0, "id": 123108692, "level": 3}
+{"count": 80404, "name": "Nationalism", "weight": 2.0, "id": 521449643, "level": 3}
+{"count": 38681, "name": "Political philosophy", "weight": 1.0, "id": 79841651, "level": 3}
+{"count": 53148, "name": "Voting", "weight": 1.0, "id": 520049643, "level": 3}
+{"count": 42795, "name": "Neoliberalism", "weight": 1.0, "id": 121658072, "level": 3}
+{"count": 66058, "name": "Legitimacy", "weight": 2.0, "id": 46295352, "level": 3}
+{"count": 36803, "name": "National identity", "weight": 1.0, "id": 2778407155, "level": 3}
+{"count": 101196, "name": "Liberalism", "weight": 3.0, "id": 547727832, "level": 3}
+{"count": 11891, "name": "Comparative politics", "weight": 0.0, "id": 82834280, "level": 3}
+{"count": 38178, "name": "Bureaucracy", "weight": 1.0, "id": 51575053, "level": 3}
+{"count": 103226, "name": "Legislature", "weight": 3.0, "id": 83009810, "level": 3}
+{"count": 108172, "name": "Socialism", "weight": 3.0, "id": 501299471, "level": 3}
+{"count": 22995, "name": "Public sphere", "weight": 0.0, "id": 2779610281, "level": 3}
+{"count": 75883, "name": "Communism", "weight": 2.0, "id": 542948173, "level": 3}
+{"count": 58466, "name": "Sovereignty", "weight": 1.0, "id": 186229450, "level": 3}
+{"count": 6911, "name": "Public choice", "weight": 0.0, "id": 20429076, "level": 3}
+{"count": 19413, "name": "Federalism", "weight": 0.0, "id": 533735693, "level": 3}
+{"count": 27451, "name": "Political culture", "weight": 0.0, "id": 81307892, "level": 3}
+{"count": 29772, "name": "Pluralism (political theory)", "weight": 1.0, "id": 23381644, "level": 3}
+{"count": 35033, "name": "Hegemony", "weight": 1.0, "id": 135121143, "level": 3}
+{"count": 8810, "name": "Social contract", "weight": 0.0, "id": 54726253, "level": 3}
+{"count": 15416, "name": "Political sociology", "weight": 0.0, "id": 26834231, "level": 3}
+{"count": 4053, "name": "Political risk", "weight": 0.0, "id": 63143784, "level": 3}
+{"count": 8658, "name": "Political violence", "weight": 0.0, "id": 2777162435, "level": 3}
+{"count": 16359, "name": "Political communication", "weight": 0.0, "id": 90508534, "level": 3}
+{"count": 48398, "name": "Parliament", "weight": 1.0, "id": 2781440851, "level": 3}
+{"count": 8608, "name": "Civil liberties", "weight": 0.0, "id": 2775923278, "level": 3}
+{"count": 6125, "name": "Ethnic conflict", "weight": 0.0, "id": 2777593458, "level": 3}
+{"count": 10014, "name": "Separation of powers", "weight": 0.0, "id": 126053111, "level": 3}
+{"count": 4562, "name": "Electoral system", "weight": 0.0, "id": 2778737903, "level": 3}
+{"count": 23670, "name": "Geopolitics", "weight": 0.0, "id": 201960208, "level": 3}
+{"count": 70127, "name": "Elite", "weight": 2.0, "id": 2775987171, "level": 3}
+{"count": 9737, "name": "Nation state", "weight": 0.0, "id": 2775910013, "level": 3}
+{"count": 1528, "name": "Mass movement", "weight": 0.0, "id": 2779343108, "level": 3}
+{"count": 6301, "name": "Governmentality", "weight": 0.0, "id": 2777408017, "level": 3}
+{"count": 4788, "name": "Political ecology", "weight": 0.0, "id": 59785166, "level": 3}
+{"count": 21649, "name": "Monarchy", "weight": 0.0, "id": 203458295, "level": 3}
+{"count": 14090, "name": "Patriotism", "weight": 0.0, "id": 2776786559, "level": 3}
+{"count": 1497, "name": "Civil Conflict", "weight": 0.0, "id": 2776594853, "level": 3}
+{"count": 6184, "name": "Political socialization", "weight": 0.0, "id": 186449174, "level": 3}
+{"count": 6413, "name": "Biopower", "weight": 0.0, "id": 91724965, "level": 3}
+{"count": 8201, "name": "Populism", "weight": 0.0, "id": 526877150, "level": 3}
+{"count": 8961, "name": "Devolution", "weight": 0.0, "id": 19185018, "level": 3}
+{"count": 6983, "name": "Class conflict", "weight": 0.0, "id": 160159729, "level": 3}
+{"count": 11464, "name": "Constitutionalism", "weight": 0.0, "id": 70999106, "level": 3}
+{"count": 8961, "name": "Secularism", "weight": 0.0, "id": 11293438, "level": 3}
+{"count": 9811, "name": "Insurgency", "weight": 0.0, "id": 510578393, "level": 3}
+{"count": 2847, "name": "Proportional representation", "weight": 0.0, "id": 119588120, "level": 3}
+{"count": 5187, "name": "Conditionality", "weight": 0.0, "id": 2781205572, "level": 3}
+{"count": 13660, "name": "Referendum", "weight": 0.0, "id": 2781462389, "level": 3}
+{"count": 6084, "name": "Transitional justice", "weight": 0.0, "id": 2779621654, "level": 3}
+{"count": 16913, "name": "International political economy", "weight": 0.0, "id": 31168002, "level": 3}
+{"count": 7682, "name": "Nation-building", "weight": 0.0, "id": 32558149, "level": 3}
+{"count": 23361, "name": "Political history", "weight": 0.0, "id": 152192407, "level": 3}
+{"count": 2482, "name": "Political psychology", "weight": 0.0, "id": 2779636406, "level": 3}
+{"count": 11176, "name": "Political radicalism", "weight": 0.0, "id": 190475667, "level": 3}
+{"count": 3597, "name": "Political structure", "weight": 0.0, "id": 2777482191, "level": 3}
+{"count": 6592, "name": "Identity politics", "weight": 0.0, "id": 2778348292, "level": 3}
+{"count": 5652, "name": "National interest", "weight": 0.0, "id": 2780932887, "level": 3}
+{"count": 4924, "name": "Political corruption", "weight": 0.0, "id": 508889258, "level": 3}
+{"count": 2898, "name": "Elitism", "weight": 0.0, "id": 2780688418, "level": 3}
+{"count": 10542, "name": "Public debate", "weight": 0.0, "id": 2780400262, "level": 3}
+{"count": 14073, "name": "Dissent", "weight": 0.0, "id": 523173360, "level": 3}
+{"count": 14052, "name": "Aristocracy", "weight": 0.0, "id": 5455396, "level": 3}
+{"count": 5207, "name": "Economic power", "weight": 0.0, "id": 49493942, "level": 3}
+{"count": 4978, "name": "Secession", "weight": 0.0, "id": 2780857596, "level": 3}
+{"count": 3488, "name": "Corporatism", "weight": 0.0, "id": 2777941829, "level": 3}
+{"count": 7394, "name": "Internationalism (politics)", "weight": 0.0, "id": 122972321, "level": 3}
+{"count": 1895, "name": "Economic interdependence", "weight": 0.0, "id": 150885934, "level": 3}
+{"count": 4441, "name": "State-building", "weight": 0.0, "id": 2779175671, "level": 3}
+{"count": 2574, "name": "East-Central Europe", "weight": 0.0, "id": 2777606202, "level": 3}
+{"count": 19039, "name": "General election", "weight": 0.0, "id": 59742305, "level": 3}
+{"count": 5137, "name": "Zionism", "weight": 0.0, "id": 58041660, "level": 3}
+{"count": 19498, "name": "Presidency", "weight": 0.0, "id": 2781243023, "level": 3}
+{"count": 45840, "name": "Presidential system", "weight": 1.0, "id": 197487636, "level": 3}
+{"count": 4881, "name": "Contemporary history", "weight": 0.0, "id": 156804271, "level": 3}
+{"count": 2982, "name": "Civil disobedience", "weight": 0.0, "id": 2779533911, "level": 3}
+{"count": 4224, "name": "Internal conflict", "weight": 0.0, "id": 13367683, "level": 3}
+{"count": 5365, "name": "Militarism", "weight": 0.0, "id": 117731710, "level": 3}
+{"count": 3552, "name": "National consciousness", "weight": 0.0, "id": 2779547678, "level": 3}
+{"count": 2881, "name": "Political strategy", "weight": 0.0, "id": 103511597, "level": 3}
+{"count": 2379, "name": "Political authority", "weight": 0.0, "id": 2779713811, "level": 3}
+{"count": 5117, "name": "Cynicism", "weight": 0.0, "id": 2779114464, "level": 3}
+{"count": 4168, "name": "Absolute monarchy", "weight": 0.0, "id": 143081792, "level": 3}
+{"count": 5928, "name": "State formation", "weight": 0.0, "id": 74242886, "level": 3}
+{"count": 2158, "name": "Military government", "weight": 0.0, "id": 2779274809, "level": 3}
+{"count": 4455, "name": "Toleration", "weight": 0.0, "id": 2778197078, "level": 3}
+{"count": 3997, "name": "Political geography", "weight": 0.0, "id": 92723977, "level": 3}
+{"count": 7043, "name": "Proletariat", "weight": 0.0, "id": 15553842, "level": 3}
+{"count": 400, "name": "State capture", "weight": 0.0, "id": 2776155077, "level": 3}
+{"count": 28, "name": "Solution process", "weight": 0.0, "id": 2778357024, "level": 3}
+{"count": 5916, "name": "Suffrage", "weight": 0.0, "id": 2781067243, "level": 3}
+{"count": 1757, "name": "New institutionalism", "weight": 0.0, "id": 2778847159, "level": 3}
+{"count": 1290, "name": "Local election", "weight": 0.0, "id": 2781276832, "level": 3}
+{"count": 3902, "name": "Weimar Republic", "weight": 0.0, "id": 7516956, "level": 3}
+{"count": 2398, "name": "Islamophobia", "weight": 0.0, "id": 2776364013, "level": 3}
+{"count": 2484, "name": "Political movement", "weight": 0.0, "id": 2777199996, "level": 3}
+{"count": 1685, "name": "Guerrilla warfare", "weight": 0.0, "id": 2778920187, "level": 3}
+{"count": 17035, "name": "Political science of religion", "weight": 0.0, "id": 96756911, "level": 3}
+{"count": 6243, "name": "Technocracy", "weight": 0.0, "id": 185656870, "level": 3}
+{"count": 1234, "name": "Political repression", "weight": 0.0, "id": 2781062241, "level": 3}
+{"count": 3271, "name": "Localism", "weight": 0.0, "id": 532482828, "level": 3}
+{"count": 3389, "name": "Europeanisation", "weight": 0.0, "id": 2780153333, "level": 3}
+{"count": 2366, "name": "Civil\u2013military relations", "weight": 0.0, "id": 2781145704, "level": 3}
+{"count": 9215, "name": "Politics of the United States", "weight": 0.0, "id": 522562087, "level": 3}
+{"count": 2427, "name": "Developmental state", "weight": 0.0, "id": 2777821299, "level": 3}
+{"count": 3227, "name": "Minority rights", "weight": 0.0, "id": 2776427498, "level": 3}
+{"count": 6037, "name": "Veto", "weight": 0.0, "id": 2776331573, "level": 3}
+{"count": 1016, "name": "Media bias", "weight": 0.0, "id": 538316197, "level": 3}
+{"count": 2650, "name": "Black Power", "weight": 0.0, "id": 2778379311, "level": 3}
+{"count": 1232, "name": "Historical institutionalism", "weight": 0.0, "id": 86060140, "level": 3}
+{"count": 2294, "name": "Constitutional amendment", "weight": 0.0, "id": 2776942308, "level": 3}
+{"count": 1756, "name": "State of emergency", "weight": 0.0, "id": 2779288016, "level": 3}
+{"count": 2625, "name": "Environmental movement", "weight": 0.0, "id": 2776171531, "level": 3}
+{"count": 2683, "name": "Political theology", "weight": 0.0, "id": 2776128617, "level": 3}
+{"count": 2647, "name": "Indigenous rights", "weight": 0.0, "id": 2776001114, "level": 3}
+{"count": 4162, "name": "Environmental politics", "weight": 0.0, "id": 170659323, "level": 3}
+{"count": 1595, "name": "Biology and political orientation", "weight": 0.0, "id": 193521449, "level": 3}
+{"count": 4944, "name": "Great power", "weight": 0.0, "id": 2778676447, "level": 3}
+{"count": 1446, "name": "Political revolution", "weight": 0.0, "id": 43783602, "level": 3}
+{"count": 1426, "name": "European Neighbourhood Policy", "weight": 0.0, "id": 2780545837, "level": 3}
+{"count": 2621, "name": "National Unity", "weight": 0.0, "id": 2776865395, "level": 3}
+{"count": 1297, "name": "Election law", "weight": 0.0, "id": 2781381931, "level": 3}
+{"count": 2813, "name": "White supremacy", "weight": 0.0, "id": 2778325511, "level": 3}
+{"count": 2627, "name": "Campaign finance", "weight": 0.0, "id": 2780883770, "level": 3}
+{"count": 2061, "name": "Demobilization", "weight": 0.0, "id": 27462124, "level": 3}
+{"count": 3175, "name": "Militarization", "weight": 0.0, "id": 2778227311, "level": 3}
+{"count": 682, "name": "Motivated reasoning", "weight": 0.0, "id": 2776325391, "level": 3}
+{"count": 1004, "name": "Corrupt practices", "weight": 0.0, "id": 2780208563, "level": 3}
+{"count": 1276, "name": "Political ethics", "weight": 0.0, "id": 2780990093, "level": 3}
+{"count": 2261, "name": "Urban politics", "weight": 0.0, "id": 2777874013, "level": 3}
+{"count": 5262, "name": "Intelligentsia", "weight": 0.0, "id": 2776129495, "level": 3}
+{"count": 4711, "name": "Muslim world", "weight": 0.0, "id": 2780844005, "level": 3}
+{"count": 3648, "name": "Domestic policy", "weight": 0.0, "id": 2779063981, "level": 3}
+{"count": 2905, "name": "Centralized government", "weight": 0.0, "id": 120144228, "level": 3}
+{"count": 607, "name": "Sectarian violence", "weight": 0.0, "id": 2780397349, "level": 3}
+{"count": 2442, "name": "State of nature", "weight": 0.0, "id": 194939201, "level": 3}
+{"count": 2060, "name": "Sphere of influence", "weight": 0.0, "id": 117981818, "level": 3}
+{"count": 1959, "name": "Civic virtue", "weight": 0.0, "id": 113160883, "level": 3}
+{"count": 2024, "name": "Constitutional theory", "weight": 0.0, "id": 2780946765, "level": 3}
+{"count": 1414, "name": "Political capital", "weight": 0.0, "id": 2778833592, "level": 3}
+{"count": 1552, "name": "Social injustice", "weight": 0.0, "id": 2778733213, "level": 3}
+{"count": 2286, "name": "Sectarianism", "weight": 0.0, "id": 2776518542, "level": 3}
+{"count": 2245, "name": "Islamization", "weight": 0.0, "id": 2777407363, "level": 3}
+{"count": 725, "name": "Political anthropology", "weight": 0.0, "id": 56670217, "level": 3}
+{"count": 3793, "name": "Coalition government", "weight": 0.0, "id": 2776568539, "level": 3}
+{"count": 6010, "name": "Political agenda", "weight": 0.0, "id": 2780765026, "level": 3}
+{"count": 3729, "name": "Radicalization", "weight": 0.0, "id": 2777113924, "level": 3}
+{"count": 1500, "name": "Political Islam", "weight": 0.0, "id": 2777969575, "level": 3}
+{"count": 2087, "name": "Peace treaty", "weight": 0.0, "id": 2780322207, "level": 3}
+{"count": 1033, "name": "Agonism", "weight": 0.0, "id": 14527384, "level": 3}
+{"count": 5086, "name": "Subaltern", "weight": 0.0, "id": 2781208120, "level": 3}
+{"count": 1667, "name": "Political mobilization", "weight": 0.0, "id": 2779772725, "level": 3}
+{"count": 2958, "name": "Feminist movement", "weight": 0.0, "id": 2779563681, "level": 3}
+{"count": 3268, "name": "Ruling class", "weight": 0.0, "id": 2775876396, "level": 3}
+{"count": 1759, "name": "Peace movement", "weight": 0.0, "id": 2778299913, "level": 3}
+{"count": 629, "name": "Fragile state", "weight": 0.0, "id": 2777822600, "level": 3}
+{"count": 270, "name": "Comparative European Politics", "weight": 0.0, "id": 2780729036, "level": 3}
+{"count": 1210, "name": "Mass society", "weight": 0.0, "id": 2780324008, "level": 3}
+{"count": 1232, "name": "Symbolic power", "weight": 0.0, "id": 2779626591, "level": 3}
+{"count": 1505, "name": "Open society", "weight": 0.0, "id": 2775858926, "level": 3}
+{"count": 2593, "name": "New Left", "weight": 0.0, "id": 2777733916, "level": 3}
+{"count": 2785, "name": "Declaration of independence", "weight": 0.0, "id": 2778607876, "level": 3}
+{"count": 1802, "name": "Class formation", "weight": 0.0, "id": 77986797, "level": 3}
+{"count": 2474, "name": "Impeachment", "weight": 0.0, "id": 2779572086, "level": 3}
+{"count": 20134, "name": "Grassroots", "weight": 0.0, "id": 2781188222, "level": 3}
+{"count": 2178, "name": "Cultural relations", "weight": 0.0, "id": 2776311744, "level": 3}
+{"count": 540, "name": "Pork barrel", "weight": 0.0, "id": 80799919, "level": 3}
+{"count": 1083, "name": "Neocolonialism", "weight": 0.0, "id": 2777301445, "level": 3}
+{"count": 1663, "name": "Chiefdom", "weight": 0.0, "id": 205285802, "level": 3}
+{"count": 1768, "name": "Britishness", "weight": 0.0, "id": 2776642725, "level": 3}
+{"count": 3282, "name": "Power politics", "weight": 0.0, "id": 2779655753, "level": 3}
+{"count": 1537, "name": "Political efficacy", "weight": 0.0, "id": 2777897704, "level": 3}
+{"count": 2338, "name": "Home rule", "weight": 0.0, "id": 67860675, "level": 3}
+{"count": 1398, "name": "Communalism", "weight": 0.0, "id": 2777609129, "level": 3}
+{"count": 2435, "name": "Progressivism", "weight": 0.0, "id": 2777533384, "level": 3}
+{"count": 516, "name": "Crony capitalism", "weight": 0.0, "id": 2778217378, "level": 3}
+{"count": 5019, "name": "Allegiance", "weight": 0.0, "id": 2776351663, "level": 3}
+{"count": 1730, "name": "Abolitionism", "weight": 0.0, "id": 2777385265, "level": 3}
+{"count": 4245, "name": "Impunity", "weight": 0.0, "id": 2780224667, "level": 3}
+{"count": 3429, "name": "Political climate", "weight": 0.0, "id": 197957934, "level": 3}
+{"count": 1272, "name": "Developmentalism", "weight": 0.0, "id": 2779802117, "level": 3}
+{"count": 3422, "name": "Exceptionalism", "weight": 0.0, "id": 2777995107, "level": 3}
+{"count": 2191, "name": "Direct action", "weight": 0.0, "id": 2779204367, "level": 3}
+{"count": 876, "name": "Culturalism", "weight": 0.0, "id": 2781398598, "level": 3}
+{"count": 1577, "name": "American exceptionalism", "weight": 0.0, "id": 2778755977, "level": 3}
+{"count": 1500, "name": "Tribalism", "weight": 0.0, "id": 2776662845, "level": 3}
+{"count": 707, "name": "Intergovernmentalism", "weight": 0.0, "id": 2776824162, "level": 3}
+{"count": 2165, "name": "Internal security", "weight": 0.0, "id": 2779948991, "level": 3}
+{"count": 953, "name": "Indirect rule", "weight": 0.0, "id": 2779101304, "level": 3}
+{"count": 3349, "name": "Body politic", "weight": 0.0, "id": 2780230221, "level": 3}
+{"count": 1984, "name": "Political status", "weight": 0.0, "id": 2779327062, "level": 3}
+{"count": 1503, "name": "Martial law", "weight": 0.0, "id": 2777452007, "level": 3}
+{"count": 15876, "name": "Polity", "weight": 0.0, "id": 2779707719, "level": 3}

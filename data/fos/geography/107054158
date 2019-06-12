@@ -1,0 +1,95 @@
+{"count": 31959, "name": "Monsoon", "weight": 10.0, "id": 136996986, "level": 3}
+{"count": 12582, "name": "El Ni\u00f1o Southern Oscillation", "weight": 3.0, "id": 507956050, "level": 3}
+{"count": 16381, "name": "Water cycle", "weight": 5.0, "id": 133830359, "level": 3}
+{"count": 1819, "name": "Atmospheric convection", "weight": 0.0, "id": 200711233, "level": 3}
+{"count": 5166, "name": "Teleconnection", "weight": 1.0, "id": 123576220, "level": 3}
+{"count": 3617, "name": "Geopotential height", "weight": 1.0, "id": 192901106, "level": 3}
+{"count": 3383, "name": "Precipitable water", "weight": 1.0, "id": 156008332, "level": 3}
+{"count": 3356, "name": "Intertropical Convergence Zone", "weight": 1.0, "id": 127889277, "level": 3}
+{"count": 3122, "name": "Madden\u2013Julian oscillation", "weight": 0.0, "id": 117381296, "level": 3}
+{"count": 6977, "name": "Weather radar", "weight": 2.0, "id": 92237259, "level": 3}
+{"count": 6166, "name": "La Ni\u00f1a", "weight": 1.0, "id": 51040755, "level": 3}
+{"count": 2060, "name": "Mesoscale convective system", "weight": 0.0, "id": 153981231, "level": 3}
+{"count": 3141, "name": "Orography", "weight": 0.0, "id": 194507410, "level": 3}
+{"count": 3739, "name": "Hydrometeorology", "weight": 1.0, "id": 100725284, "level": 3}
+{"count": 3251, "name": "Throughfall", "weight": 1.0, "id": 2779705648, "level": 3}
+{"count": 1678, "name": "Hadley cell", "weight": 0.0, "id": 18629457, "level": 3}
+{"count": 3142, "name": "Cold front", "weight": 0.0, "id": 92624490, "level": 3}
+{"count": 1257, "name": "Dendroclimatology", "weight": 0.0, "id": 68753075, "level": 3}
+{"count": 1506, "name": "Squall line", "weight": 0.0, "id": 36699445, "level": 3}
+{"count": 4421, "name": "Sunshine duration", "weight": 1.0, "id": 197529216, "level": 3}
+{"count": 1267, "name": "Convective available potential energy", "weight": 0.0, "id": 61939431, "level": 3}
+{"count": 3744, "name": "Rain gauge", "weight": 1.0, "id": 120961793, "level": 3}
+{"count": 1756, "name": "Stalagmite", "weight": 0.0, "id": 156579228, "level": 3}
+{"count": 5623, "name": "Runoff curve number", "weight": 1.0, "id": 124203675, "level": 3}
+{"count": 4594, "name": "Flash flood", "weight": 1.0, "id": 120417685, "level": 3}
+{"count": 2452, "name": "Indian Ocean Dipole", "weight": 0.0, "id": 62897925, "level": 3}
+{"count": 1266, "name": "Weather modification", "weight": 0.0, "id": 550656013, "level": 3}
+{"count": 3381, "name": "Quantitative precipitation forecast", "weight": 1.0, "id": 140178040, "level": 3}
+{"count": 3896, "name": "Microphysics", "weight": 1.0, "id": 545622115, "level": 3}
+{"count": 1380, "name": "Tropical wave", "weight": 0.0, "id": 158984102, "level": 3}
+{"count": 563, "name": "Urban Hydrology", "weight": 0.0, "id": 2778399019, "level": 3}
+{"count": 1173, "name": "Drizzle", "weight": 0.0, "id": 63984324, "level": 3}
+{"count": 2035, "name": "Convective storm detection", "weight": 0.0, "id": 192932206, "level": 3}
+{"count": 1412, "name": "Convergence zone", "weight": 0.0, "id": 144329363, "level": 3}
+{"count": 1536, "name": "Potential evaporation", "weight": 0.0, "id": 71941180, "level": 3}
+{"count": 2500, "name": "MM5", "weight": 0.0, "id": 188052254, "level": 3}
+{"count": 334, "name": "South Atlantic Convergence Zone", "weight": 0.0, "id": 2776222278, "level": 3}
+{"count": 1018, "name": "Graupel", "weight": 0.0, "id": 94121128, "level": 3}
+{"count": 1192, "name": "Cloud seeding", "weight": 0.0, "id": 178983516, "level": 3}
+{"count": 979, "name": "Disdrometer", "weight": 0.0, "id": 116810829, "level": 3}
+{"count": 304, "name": "Lifted condensation level", "weight": 0.0, "id": 3335917, "level": 3}
+{"count": 867, "name": "Aridity index", "weight": 0.0, "id": 164270790, "level": 3}
+{"count": 823, "name": "Climate Forecast System", "weight": 0.0, "id": 2780161134, "level": 3}
+{"count": 928, "name": "Global Precipitation Measurement", "weight": 0.0, "id": 29278236, "level": 3}
+{"count": 1435, "name": "Snow line", "weight": 0.0, "id": 42832001, "level": 3}
+{"count": 741, "name": "Freezing rain", "weight": 0.0, "id": 169721403, "level": 3}
+{"count": 4088, "name": "Westerlies", "weight": 1.0, "id": 142756592, "level": 3}
+{"count": 3357, "name": "Orographic lift", "weight": 1.0, "id": 134295995, "level": 3}
+{"count": 373, "name": "Historical climatology", "weight": 0.0, "id": 18870495, "level": 3}
+{"count": 464, "name": "Climate classification", "weight": 0.0, "id": 205251833, "level": 3}
+{"count": 110, "name": "Level of free convection", "weight": 0.0, "id": 113887283, "level": 3}
+{"count": 1143, "name": "Climate pattern", "weight": 0.0, "id": 39820584, "level": 3}
+{"count": 1637, "name": "Quantitative precipitation estimation", "weight": 0.0, "id": 75398719, "level": 3}
+{"count": 6334, "name": "Runoff model", "weight": 1.0, "id": 24749216, "level": 3}
+{"count": 933, "name": "Low-pressure area", "weight": 0.0, "id": 174711106, "level": 3}
+{"count": 619, "name": "Humid continental climate", "weight": 0.0, "id": 3544514, "level": 3}
+{"count": 274, "name": "Rain shadow", "weight": 0.0, "id": 20004210, "level": 3}
+{"count": 404, "name": "Moist static energy", "weight": 0.0, "id": 99143079, "level": 3}
+{"count": 391, "name": "Freezing level", "weight": 0.0, "id": 181741624, "level": 3}
+{"count": 501, "name": "Rainout", "weight": 0.0, "id": 2780766518, "level": 3}
+{"count": 483, "name": "Equivalent potential temperature", "weight": 0.0, "id": 184792800, "level": 3}
+{"count": 1922, "name": "dBZ", "weight": 0.0, "id": 110231783, "level": 3}
+{"count": 527, "name": "Block (meteorology)", "weight": 0.0, "id": 47950019, "level": 3}
+{"count": 52, "name": "Climate of Europe", "weight": 0.0, "id": 2780168942, "level": 3}
+{"count": 93, "name": "Palmer drought index", "weight": 0.0, "id": 2778848498, "level": 3}
+{"count": 1111, "name": "Rainband", "weight": 0.0, "id": 165479943, "level": 3}
+{"count": 287, "name": "Atmospheric river", "weight": 0.0, "id": 2780521556, "level": 3}
+{"count": 140, "name": "Megadrought", "weight": 0.0, "id": 2777679823, "level": 3}
+{"count": 254, "name": "PERSIANN", "weight": 0.0, "id": 2781357674, "level": 3}
+{"count": 118, "name": "Fog drip", "weight": 0.0, "id": 151156465, "level": 3}
+{"count": 186, "name": "Cloudburst", "weight": 0.0, "id": 37739895, "level": 3}
+{"count": 148, "name": "Gprof", "weight": 0.0, "id": 2781168135, "level": 3}
+{"count": 135, "name": "Double mass analysis", "weight": 0.0, "id": 72918418, "level": 3}
+{"count": 163, "name": "Basic precipitation", "weight": 0.0, "id": 96452783, "level": 3}
+{"count": 570, "name": "Moisture advection", "weight": 0.0, "id": 199553029, "level": 3}
+{"count": 100, "name": "Virga", "weight": 0.0, "id": 40900762, "level": 3}
+{"count": 1256, "name": "Rain and snow mixed", "weight": 0.0, "id": 9021358, "level": 3}
+{"count": 924, "name": "Precipitation types", "weight": 0.0, "id": 186293655, "level": 3}
+{"count": 12, "name": "Dasylirion leiophyllum", "weight": 0.0, "id": 2778986269, "level": 3}
+{"count": 25, "name": "ECMWF re-analysis", "weight": 0.0, "id": 2779310046, "level": 3}
+{"count": 164, "name": "Nested Grid Model", "weight": 0.0, "id": 202654566, "level": 3}
+{"count": 85, "name": "Cold-air damming", "weight": 0.0, "id": 126377977, "level": 3}
+{"count": 74, "name": "Automated Meteorological Data Acquisition System", "weight": 0.0, "id": 2776470495, "level": 3}
+{"count": 105, "name": "Storm cell", "weight": 0.0, "id": 2778323760, "level": 3}
+{"count": 96, "name": "Pyrocumulonimbus cloud", "weight": 0.0, "id": 197894281, "level": 3}
+{"count": 54, "name": "Snow gauge", "weight": 0.0, "id": 2778432724, "level": 3}
+{"count": 30, "name": "Seasonal lag", "weight": 0.0, "id": 116160580, "level": 3}
+{"count": 131, "name": "Tropical rain belt", "weight": 0.0, "id": 90226458, "level": 3}
+{"count": 41, "name": "South Atlantic High", "weight": 0.0, "id": 2779824725, "level": 3}
+{"count": 13, "name": "Upper tropospheric cyclonic vortex", "weight": 0.0, "id": 2777705742, "level": 3}
+{"count": 48, "name": "Millimeter cloud radar", "weight": 0.0, "id": 2780904567, "level": 3}
+{"count": 1675, "name": "Vegetation and slope stability", "weight": 0.0, "id": 31600081, "level": 3}
+{"count": 23, "name": "European Climate Assessment and Dataset", "weight": 0.0, "id": 2779955653, "level": 3}
+{"count": 1646, "name": "Tropical cyclone rainfall forecasting", "weight": 0.0, "id": 11472968, "level": 3}
+{"count": 12, "name": "Precipitation shaft", "weight": 0.0, "id": 2776692824, "level": 3}

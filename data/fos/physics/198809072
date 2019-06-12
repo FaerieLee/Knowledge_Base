@@ -1,0 +1,52 @@
+{"count": 7420, "name": "Spherical aberration", "weight": 2.0, "id": 70638346, "level": 3}
+{"count": 6515, "name": "Chromatic aberration", "weight": 2.0, "id": 87367554, "level": 3}
+{"count": 2664, "name": "Optical aberration", "weight": 1.0, "id": 2779132550, "level": 3}
+{"count": 26643, "name": "Focal length", "weight": 10.0, "id": 82552819, "level": 3}
+{"count": 3372, "name": "Presbyopia", "weight": 1.0, "id": 2779909278, "level": 3}
+{"count": 4801, "name": "Fresnel lens", "weight": 1.0, "id": 2781358867, "level": 3}
+{"count": 2898, "name": "Electrostatic lens", "weight": 1.0, "id": 131397105, "level": 3}
+{"count": 975, "name": "Solid immersion lens", "weight": 0.0, "id": 2777813137, "level": 3}
+{"count": 2473, "name": "Aphakia", "weight": 0.0, "id": 2777345934, "level": 3}
+{"count": 18662, "name": "Cylindrical lens", "weight": 7.0, "id": 129089522, "level": 3}
+{"count": 1411, "name": "Zemax", "weight": 0.0, "id": 2778646699, "level": 3}
+{"count": 976, "name": "Orthokeratology", "weight": 0.0, "id": 2779333404, "level": 3}
+{"count": 392, "name": "Toric lens", "weight": 0.0, "id": 2778122548, "level": 3}
+{"count": 959, "name": "Thin lens", "weight": 0.0, "id": 2776955271, "level": 3}
+{"count": 613, "name": "Kinoform", "weight": 0.0, "id": 2777963419, "level": 3}
+{"count": 1337, "name": "Magnetic lens", "weight": 0.0, "id": 106718926, "level": 3}
+{"count": 699, "name": "Multifocal intraocular lens", "weight": 0.0, "id": 2777582095, "level": 3}
+{"count": 1052, "name": "Aspheric lens", "weight": 0.0, "id": 2777197603, "level": 3}
+{"count": 776, "name": "Fisheye lens", "weight": 0.0, "id": 2778057358, "level": 3}
+{"count": 2001, "name": "Gradient-index optics", "weight": 0.0, "id": 83934398, "level": 3}
+{"count": 446, "name": "Athermalization", "weight": 0.0, "id": 2780466359, "level": 3}
+{"count": 472, "name": "Luneburg lens", "weight": 0.0, "id": 2780081114, "level": 3}
+{"count": 517, "name": "Flat lens", "weight": 0.0, "id": 2779860386, "level": 3}
+{"count": 699, "name": "Petzval field curvature", "weight": 0.0, "id": 134316261, "level": 3}
+{"count": 1518, "name": "Lenticular lens", "weight": 0.0, "id": 2776449797, "level": 3}
+{"count": 2273, "name": "Angular aperture", "weight": 0.0, "id": 107707858, "level": 3}
+{"count": 1093, "name": "Abbe number", "weight": 0.0, "id": 6887064, "level": 3}
+{"count": 312, "name": "Scleral lens", "weight": 0.0, "id": 2777528082, "level": 3}
+{"count": 427, "name": "Telecentric lens", "weight": 0.0, "id": 2776843645, "level": 3}
+{"count": 957, "name": "Relay lens", "weight": 0.0, "id": 2776368750, "level": 3}
+{"count": 295, "name": "Normal lens", "weight": 0.0, "id": 2780326055, "level": 3}
+{"count": 154, "name": "Photochromic lens", "weight": 0.0, "id": 2777853498, "level": 3}
+{"count": 1025, "name": "Afocal photography", "weight": 0.0, "id": 166579181, "level": 3}
+{"count": 185, "name": "Vertex distance", "weight": 0.0, "id": 118182725, "level": 3}
+{"count": 105, "name": "Rigid gas permeable lens", "weight": 0.0, "id": 2777312474, "level": 3}
+{"count": 100, "name": "Null corrector", "weight": 0.0, "id": 2776002752, "level": 3}
+{"count": 71, "name": "Optical lens design", "weight": 0.0, "id": 2778156285, "level": 3}
+{"count": 99, "name": "Polymacon", "weight": 0.0, "id": 2778164300, "level": 3}
+{"count": 69, "name": "Cooke triplet", "weight": 0.0, "id": 2779977640, "level": 3}
+{"count": 10, "name": "Circle contact lens", "weight": 0.0, "id": 2781172351, "level": 3}
+{"count": 222, "name": "Corrective lens", "weight": 0.0, "id": 2779998637, "level": 3}
+{"count": 31, "name": "Base curve radius", "weight": 0.0, "id": 2780732681, "level": 3}
+{"count": 18, "name": "Precision glass moulding", "weight": 0.0, "id": 2779044958, "level": 3}
+{"count": 22, "name": "Ophiocoma wendtii", "weight": 0.0, "id": 2780213665, "level": 3}
+{"count": 46, "name": "Gauss lens", "weight": 0.0, "id": 2777354822, "level": 3}
+{"count": 140, "name": "Lens (geometry)", "weight": 0.0, "id": 70617726, "level": 3}
+{"count": 245, "name": "Lenticular printing", "weight": 0.0, "id": 23347336, "level": 3}
+{"count": 25, "name": "Trifocal lenses", "weight": 0.0, "id": 2776569707, "level": 3}
+{"count": 46, "name": "Limbal ring", "weight": 0.0, "id": 31869335, "level": 3}
+{"count": 719, "name": "Effects of long-term contact lens wear on the cornea", "weight": 0.0, "id": 159859350, "level": 3}
+{"count": 95, "name": "Glass code", "weight": 0.0, "id": 78180279, "level": 3}
+{"count": 49, "name": "Dioptric correction", "weight": 0.0, "id": 4812305, "level": 3}

@@ -1,0 +1,19 @@
+{"count": 15599, "name": "Pulverized coal-fired boiler", "weight": 10.0, "id": 41888846, "level": 3}
+{"count": 13426, "name": "Heat recovery steam generator", "weight": 8.0, "id": 37810040, "level": 3}
+{"count": 6869, "name": "Boiler feedwater", "weight": 4.0, "id": 46136384, "level": 3}
+{"count": 5976, "name": "Superheater", "weight": 3.0, "id": 47561241, "level": 3}
+{"count": 14511, "name": "Superheated steam", "weight": 9.0, "id": 192811776, "level": 3}
+{"count": 5587, "name": "Boiler blowdown", "weight": 3.0, "id": 118978325, "level": 3}
+{"count": 8249, "name": "Economizer", "weight": 5.0, "id": 41004858, "level": 3}
+{"count": 558, "name": "Condensing boiler", "weight": 0.0, "id": 2778285128, "level": 3}
+{"count": 12400, "name": "Steam-electric power station", "weight": 7.0, "id": 73673526, "level": 3}
+{"count": 1763, "name": "Deaerator", "weight": 1.0, "id": 27399474, "level": 3}
+{"count": 3029, "name": "Boiler water", "weight": 1.0, "id": 128015530, "level": 3}
+{"count": 643, "name": "Boiler design", "weight": 0.0, "id": 2781323112, "level": 3}
+{"count": 170, "name": "Grate firing", "weight": 0.0, "id": 2778204871, "level": 3}
+{"count": 37, "name": "Corner tube boiler", "weight": 0.0, "id": 2777474102, "level": 3}
+{"count": 1190, "name": "Compound engine", "weight": 0.0, "id": 89905698, "level": 3}
+{"count": 87, "name": "Boiler explosion", "weight": 0.0, "id": 2778071415, "level": 3}
+{"count": 27, "name": "AD700", "weight": 0.0, "id": 2780356749, "level": 3}
+{"count": 46, "name": "Minimum design metal temperature", "weight": 0.0, "id": 72472464, "level": 3}
+{"count": 36, "name": "Tube tool", "weight": 0.0, "id": 2776216617, "level": 3}

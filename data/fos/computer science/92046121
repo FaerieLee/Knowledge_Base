@@ -1,0 +1,4 @@
+{"count": 968, "name": "STD Bus", "weight": 10.0, "id": 149616953, "level": 5}
+{"count": 810, "name": "Bus encryption", "weight": 8.0, "id": 156905785, "level": 5}
+{"count": 48, "name": "Bus analyzer", "weight": 0.0, "id": 2778698293, "level": 5}
+{"count": 42, "name": "Multi-master bus", "weight": 0.0, "id": 2778444880, "level": 5}

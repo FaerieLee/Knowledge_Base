@@ -1,0 +1,26 @@
+{"count": 10074, "name": "Virulence factor", "weight": 10.0, "id": 2781090273, "level": 3}
+{"count": 2947, "name": "Pathogenicity island", "weight": 2.0, "id": 62130838, "level": 3}
+{"count": 3129, "name": "Type three secretion system", "weight": 3.0, "id": 130211564, "level": 3}
+{"count": 1025, "name": "Francisella", "weight": 1.0, "id": 2780796267, "level": 3}
+{"count": 154, "name": "Gene-for-gene relationship", "weight": 0.0, "id": 177242865, "level": 3}
+{"count": 349, "name": "Dichelobacter nodosus", "weight": 0.0, "id": 2776992882, "level": 3}
+{"count": 728, "name": "Host adaptation", "weight": 0.0, "id": 2776914050, "level": 3}
+{"count": 421, "name": "Phenotypic switching", "weight": 0.0, "id": 2781011225, "level": 3}
+{"count": 344, "name": "Autoagglutination", "weight": 0.0, "id": 2779701928, "level": 3}
+{"count": 221, "name": "RTX toxin", "weight": 0.0, "id": 2777109231, "level": 3}
+{"count": 306, "name": "Hypovirus", "weight": 0.0, "id": 2780215644, "level": 3}
+{"count": 91, "name": "Brazilian purpuric fever", "weight": 0.0, "id": 2777590468, "level": 3}
+{"count": 2248, "name": "Pathogenic Escherichia coli", "weight": 2.0, "id": 2779616913, "level": 3}
+{"count": 166, "name": "Antivirulence", "weight": 0.0, "id": 2780356495, "level": 3}
+{"count": 636, "name": "Type VI secretion system", "weight": 0.0, "id": 2778827730, "level": 3}
+{"count": 311, "name": "LcrV", "weight": 0.0, "id": 2777951791, "level": 3}
+{"count": 155, "name": "C5a peptidase", "weight": 0.0, "id": 2781099360, "level": 3}
+{"count": 342, "name": "RNAIII", "weight": 0.0, "id": 2778876919, "level": 3}
+{"count": 98, "name": "Staphyloxanthin", "weight": 0.0, "id": 2780043111, "level": 3}
+{"count": 221, "name": "Dickeya dadantii", "weight": 0.0, "id": 2779431165, "level": 3}
+{"count": 54, "name": "Gallid herpesvirus 1", "weight": 0.0, "id": 2778592855, "level": 3}
+{"count": 102, "name": "Host-pathogen interface", "weight": 0.0, "id": 2776183937, "level": 3}
+{"count": 41, "name": "Optimal virulence", "weight": 0.0, "id": 2776352576, "level": 3}
+{"count": 20, "name": "Super race", "weight": 0.0, "id": 2779868314, "level": 3}
+{"count": 27, "name": "Ice-minus bacteria", "weight": 0.0, "id": 70540268, "level": 3}
+{"count": 11, "name": "PHI-base", "weight": 0.0, "id": 2777191717, "level": 3}

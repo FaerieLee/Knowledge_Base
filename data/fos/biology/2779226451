@@ -1,0 +1,20 @@
+{"count": 2579, "name": "Blood-oxygen-level dependent", "weight": 4.0, "id": 2780238834, "level": 3}
+{"count": 5605, "name": "Default mode network", "weight": 10.0, "id": 141516989, "level": 3}
+{"count": 1879, "name": "Intraparietal sulcus", "weight": 3.0, "id": 2778233910, "level": 3}
+{"count": 555, "name": "Event-related functional magnetic resonance imaging", "weight": 0.0, "id": 2776910971, "level": 3}
+{"count": 1067, "name": "Superior parietal lobule", "weight": 1.0, "id": 2778386660, "level": 3}
+{"count": 2109, "name": "Middle frontal gyrus", "weight": 3.0, "id": 2779991468, "level": 3}
+{"count": 1010, "name": "Ventrolateral prefrontal cortex", "weight": 1.0, "id": 2776587650, "level": 3}
+{"count": 385, "name": "Psychophysiological Interaction", "weight": 0.0, "id": 2778390456, "level": 3}
+{"count": 257, "name": "Dorsomedial prefrontal cortex", "weight": 0.0, "id": 2778260919, "level": 3}
+{"count": 269, "name": "fMRI adaptation", "weight": 0.0, "id": 2777837933, "level": 3}
+{"count": 340, "name": "Dynamic functional connectivity", "weight": 0.0, "id": 2781312939, "level": 3}
+{"count": 814, "name": "Lingual gyrus", "weight": 1.0, "id": 2775971261, "level": 3}
+{"count": 716, "name": "Medial frontal gyrus", "weight": 1.0, "id": 2781449700, "level": 3}
+{"count": 732, "name": "Functional magnetic resonance spectroscopy of the brain", "weight": 1.0, "id": 136193539, "level": 3}
+{"count": 21, "name": "Posterior lobe of cerebellum", "weight": 0.0, "id": 2777046098, "level": 3}
+{"count": 199, "name": "Amplitude of low frequency fluctuations", "weight": 0.0, "id": 2780122705, "level": 3}
+{"count": 99, "name": "Spinal fMRI", "weight": 0.0, "id": 2780250810, "level": 3}
+{"count": 18, "name": "Parieto-occipital sulcus", "weight": 0.0, "id": 2780854982, "level": 3}
+{"count": 88, "name": "Transverse occipital sulcus", "weight": 0.0, "id": 2777391741, "level": 3}
+{"count": 10, "name": "Signal enhancement by extravascular water protons", "weight": 0.0, "id": 2777150337, "level": 3}

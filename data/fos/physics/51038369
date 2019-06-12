@@ -1,0 +1,9 @@
+{"count": 12321, "name": "Mass transfer coefficient", "weight": 10.0, "id": 101555633, "level": 3}
+{"count": 916, "name": "Plate column", "weight": 0.0, "id": 2779291680, "level": 3}
+{"count": 1319, "name": "Structured packing", "weight": 1.0, "id": 2776501888, "level": 3}
+{"count": 632, "name": "Raschig ring", "weight": 0.0, "id": 70031370, "level": 3}
+{"count": 622, "name": "Thiele modulus", "weight": 0.0, "id": 81631365, "level": 3}
+{"count": 160, "name": "Gas\u2013liquid contactor", "weight": 0.0, "id": 2779322409, "level": 3}
+{"count": 154, "name": "Stefan flow", "weight": 0.0, "id": 2780576571, "level": 3}
+{"count": 60, "name": "Thermal time scale", "weight": 0.0, "id": 2778330586, "level": 3}
+{"count": 12, "name": "Dispersive mass transfer", "weight": 0.0, "id": 2780695358, "level": 3}

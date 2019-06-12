@@ -1,0 +1,4 @@
+{"count": 999, "name": "Network controllability", "weight": 10.0, "id": 41982775, "level": 4}
+{"count": 621, "name": "Katz centrality", "weight": 6.0, "id": 131349576, "level": 4}
+{"count": 171, "name": "Girvan\u2013Newman algorithm", "weight": 1.0, "id": 180029405, "level": 4}
+{"count": 626, "name": "Random walk closeness centrality", "weight": 6.0, "id": 130199350, "level": 4}

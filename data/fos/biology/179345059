@@ -1,0 +1,85 @@
+{"count": 9751, "name": "IUCN Red List", "weight": 10.0, "id": 43827410, "level": 3}
+{"count": 2722, "name": "Captive breeding", "weight": 2.0, "id": 2777636277, "level": 3}
+{"count": 1271, "name": "Population viability analysis", "weight": 1.0, "id": 116607704, "level": 3}
+{"count": 1224, "name": "Umbrella species", "weight": 1.0, "id": 126589399, "level": 3}
+{"count": 1186, "name": "Critical habitat", "weight": 1.0, "id": 2776677640, "level": 3}
+{"count": 5181, "name": "Critically endangered", "weight": 5.0, "id": 155461473, "level": 3}
+{"count": 218, "name": "Marine Mammal Protection Act", "weight": 0.0, "id": 2776215634, "level": 3}
+{"count": 1066, "name": "Vulnerable species", "weight": 1.0, "id": 8298632, "level": 3}
+{"count": 117, "name": "Species reintroduction", "weight": 0.0, "id": 2781163291, "level": 3}
+{"count": 252, "name": "Shortnose sturgeon", "weight": 0.0, "id": 2777904766, "level": 3}
+{"count": 165, "name": "Species at Risk Act", "weight": 0.0, "id": 2776142123, "level": 3}
+{"count": 229, "name": "Sawfish", "weight": 0.0, "id": 2779777495, "level": 3}
+{"count": 352, "name": "Sodalis", "weight": 0.0, "id": 2781181917, "level": 3}
+{"count": 131, "name": "Distinct population segment", "weight": 0.0, "id": 2780397596, "level": 3}
+{"count": 99, "name": "Key deer", "weight": 0.0, "id": 2776637122, "level": 3}
+{"count": 98, "name": "Rio Grande silvery minnow", "weight": 0.0, "id": 2777131669, "level": 3}
+{"count": 32, "name": "Anaecypris hispanica", "weight": 0.0, "id": 2776421074, "level": 3}
+{"count": 18, "name": "Nesoenas", "weight": 0.0, "id": 2776625610, "level": 3}
+{"count": 164, "name": "Cyclura", "weight": 0.0, "id": 2779900760, "level": 3}
+{"count": 85, "name": "Mexican wolf", "weight": 0.0, "id": 2775952598, "level": 3}
+{"count": 95, "name": "Hybognathus", "weight": 0.0, "id": 2775981289, "level": 3}
+{"count": 86, "name": "Hawaiian honeycreeper", "weight": 0.0, "id": 2776469166, "level": 3}
+{"count": 21, "name": "Solidago shortii", "weight": 0.0, "id": 2779463132, "level": 3}
+{"count": 85, "name": "Hawksbill sea turtle", "weight": 0.0, "id": 2776579938, "level": 3}
+{"count": 40, "name": "Sonoran pronghorn", "weight": 0.0, "id": 2780905322, "level": 3}
+{"count": 69, "name": "Persian leopard", "weight": 0.0, "id": 2776125320, "level": 3}
+{"count": 55, "name": "Isoetes sinensis", "weight": 0.0, "id": 2780708069, "level": 3}
+{"count": 26, "name": "Zizania texana", "weight": 0.0, "id": 2779789031, "level": 3}
+{"count": 170, "name": "Calyptorhynchus", "weight": 0.0, "id": 2780040413, "level": 3}
+{"count": 16, "name": "Apodemia mormo", "weight": 0.0, "id": 2780233114, "level": 3}
+{"count": 48, "name": "Gomortega", "weight": 0.0, "id": 2780458468, "level": 3}
+{"count": 52, "name": "Topeka shiner", "weight": 0.0, "id": 2781442352, "level": 3}
+{"count": 21, "name": "Ossicone", "weight": 0.0, "id": 2781110062, "level": 3}
+{"count": 21, "name": "Conradina", "weight": 0.0, "id": 2776791328, "level": 3}
+{"count": 27, "name": "Arctomecon", "weight": 0.0, "id": 2779412395, "level": 3}
+{"count": 11, "name": "Spotfin chub", "weight": 0.0, "id": 2776885435, "level": 3}
+{"count": 58, "name": "Disanthus", "weight": 0.0, "id": 2780000616, "level": 3}
+{"count": 9, "name": "Grevillea caleyi", "weight": 0.0, "id": 2776273375, "level": 3}
+{"count": 24, "name": "Dicerandra", "weight": 0.0, "id": 2780301984, "level": 3}
+{"count": 15, "name": "Rhus michauxii", "weight": 0.0, "id": 2778876655, "level": 3}
+{"count": 136, "name": "Large blue", "weight": 0.0, "id": 2781031389, "level": 3}
+{"count": 52, "name": "Dactylorhiza hatagirea", "weight": 0.0, "id": 2777269140, "level": 3}
+{"count": 20, "name": "Amargosa vole", "weight": 0.0, "id": 2779887827, "level": 3}
+{"count": 48, "name": "Nilgiri tahr", "weight": 0.0, "id": 2777613413, "level": 3}
+{"count": 23, "name": "Laelia speciosa", "weight": 0.0, "id": 2780951600, "level": 3}
+{"count": 62, "name": "Gambelia", "weight": 0.0, "id": 2779336973, "level": 3}
+{"count": 14, "name": "Pomarea", "weight": 0.0, "id": 2776824279, "level": 3}
+{"count": 19, "name": "Hopea chinensis", "weight": 0.0, "id": 2780854432, "level": 3}
+{"count": 96, "name": "Chasmistes", "weight": 0.0, "id": 2780128158, "level": 3}
+{"count": 298, "name": "Extinct in the wild", "weight": 0.0, "id": 96896920, "level": 3}
+{"count": 13, "name": "Hawaiian stilt", "weight": 0.0, "id": 2778826748, "level": 3}
+{"count": 10, "name": "Atelognathus patagonicus", "weight": 0.0, "id": 2778946295, "level": 3}
+{"count": 95, "name": "Hoplocephalus", "weight": 0.0, "id": 2777719061, "level": 3}
+{"count": 23, "name": "Artocarpus hypargyreus", "weight": 0.0, "id": 2779664901, "level": 3}
+{"count": 63, "name": "Bretschneidera", "weight": 0.0, "id": 2781148115, "level": 3}
+{"count": 18, "name": "Woundfin", "weight": 0.0, "id": 2780846562, "level": 3}
+{"count": 148, "name": "Hippocamelus", "weight": 0.0, "id": 2776283892, "level": 3}
+{"count": 24, "name": "Oregon chub", "weight": 0.0, "id": 2781090107, "level": 3}
+{"count": 15, "name": "Picconia azorica", "weight": 0.0, "id": 2779967500, "level": 3}
+{"count": 24, "name": "Astrophytum asterias", "weight": 0.0, "id": 2779441655, "level": 3}
+{"count": 12, "name": "Carpinus putoensis", "weight": 0.0, "id": 2781113892, "level": 3}
+{"count": 38, "name": "Loxioides", "weight": 0.0, "id": 2780111068, "level": 3}
+{"count": 34, "name": "Corroboree frog", "weight": 0.0, "id": 2780568429, "level": 3}
+{"count": 9, "name": "Pittosporum eriocarpum", "weight": 0.0, "id": 2776866615, "level": 3}
+{"count": 23, "name": "Rosalia longicorn", "weight": 0.0, "id": 2780705986, "level": 3}
+{"count": 8, "name": "Erigeron decumbens", "weight": 0.0, "id": 2776240436, "level": 3}
+{"count": 42, "name": "Hanabusaya", "weight": 0.0, "id": 2781155914, "level": 3}
+{"count": 14, "name": "Triunia", "weight": 0.0, "id": 2777915306, "level": 3}
+{"count": 5, "name": "Eucalyptus morrisbyi", "weight": 0.0, "id": 2778359268, "level": 3}
+{"count": 25, "name": "European mudminnow", "weight": 0.0, "id": 2778912381, "level": 3}
+{"count": 16, "name": "Schwalbea americana", "weight": 0.0, "id": 2781279923, "level": 3}
+{"count": 13, "name": "Heteromirafra", "weight": 0.0, "id": 2780179919, "level": 3}
+{"count": 30, "name": "Probarbus", "weight": 0.0, "id": 2777890922, "level": 3}
+{"count": 20, "name": "Neonympha mitchellii", "weight": 0.0, "id": 2780364065, "level": 3}
+{"count": 11, "name": "Platymantis vitianus", "weight": 0.0, "id": 2780648128, "level": 3}
+{"count": 16, "name": "Monarch flycatcher", "weight": 0.0, "id": 2777096087, "level": 3}
+{"count": 9, "name": "Clematis socialis", "weight": 0.0, "id": 2781374872, "level": 3}
+{"count": 28, "name": "Harpyhaliaetus", "weight": 0.0, "id": 2780540124, "level": 3}
+{"count": 51, "name": "Loxops", "weight": 0.0, "id": 2778771148, "level": 3}
+{"count": 9, "name": "Frithia humilis", "weight": 0.0, "id": 2778880522, "level": 3}
+{"count": 18, "name": "Berchemiella", "weight": 0.0, "id": 2780673883, "level": 3}
+{"count": 8, "name": "Bluemask darter", "weight": 0.0, "id": 2780971767, "level": 3}
+{"count": 18, "name": "Oregonichthys", "weight": 0.0, "id": 2777095442, "level": 3}
+{"count": 29, "name": "Rafetus", "weight": 0.0, "id": 2775972982, "level": 3}
+{"count": 14, "name": "Shijimiaeoides", "weight": 0.0, "id": 2776139710, "level": 3}

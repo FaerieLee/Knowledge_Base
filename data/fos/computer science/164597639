@@ -1,0 +1,20 @@
+{"count": 4757, "name": "Display size", "weight": 10.0, "id": 170003942, "level": 3}
+{"count": 1103, "name": "Volumetric display", "weight": 2.0, "id": 107750057, "level": 3}
+{"count": 2768, "name": "Display resolution", "weight": 5.0, "id": 71597744, "level": 3}
+{"count": 1568, "name": "Parallax barrier", "weight": 3.0, "id": 157321605, "level": 3}
+{"count": 167, "name": "See-through display", "weight": 0.0, "id": 2779156231, "level": 3}
+{"count": 2083, "name": "Display driver", "weight": 4.0, "id": 2778274126, "level": 3}
+{"count": 1185, "name": "On-screen display", "weight": 2.0, "id": 2775922648, "level": 3}
+{"count": 332, "name": "Display contrast", "weight": 0.0, "id": 2777317865, "level": 3}
+{"count": 523, "name": "Dot-matrix display", "weight": 1.0, "id": 2778529750, "level": 3}
+{"count": 2336, "name": "Digital Visual Interface", "weight": 4.0, "id": 89747013, "level": 3}
+{"count": 437, "name": "Surface-conduction electron-emitter display", "weight": 0.0, "id": 37546764, "level": 3}
+{"count": 1091, "name": "ANTIC", "weight": 2.0, "id": 153538746, "level": 3}
+{"count": 73, "name": "Video display controller", "weight": 0.0, "id": 2777316912, "level": 3}
+{"count": 4736, "name": "Multi-function display", "weight": 9.0, "id": 180356839, "level": 3}
+{"count": 42, "name": "Ambilight", "weight": 0.0, "id": 2780231031, "level": 3}
+{"count": 1522, "name": "Native resolution", "weight": 3.0, "id": 65152814, "level": 3}
+{"count": 1862, "name": "Computer display standard", "weight": 3.0, "id": 9445161, "level": 3}
+{"count": 146, "name": "Extended Display Identification Data", "weight": 0.0, "id": 2781370203, "level": 3}
+{"count": 37, "name": "Display aspect ratio", "weight": 0.0, "id": 65791603, "level": 3}
+{"count": 110, "name": "Next generation of display technology", "weight": 0.0, "id": 63135405, "level": 3}

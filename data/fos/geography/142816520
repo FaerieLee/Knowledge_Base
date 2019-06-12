@@ -1,0 +1,31 @@
+{"count": 3467, "name": "Shuttle Radar Topography Mission", "weight": 10.0, "id": 184149073, "level": 3}
+{"count": 624, "name": "Elevational Diversity Gradient", "weight": 1.0, "id": 124934852, "level": 3}
+{"count": 1430, "name": "Benign early repolarization", "weight": 4.0, "id": 14865658, "level": 3}
+{"count": 651, "name": "Topographic Wetness Index", "weight": 1.0, "id": 2776898743, "level": 3}
+{"count": 624, "name": "J wave", "weight": 1.0, "id": 2777800915, "level": 3}
+{"count": 1013, "name": "Sinus lift", "weight": 2.0, "id": 2779127617, "level": 3}
+{"count": 539, "name": "High marsh", "weight": 1.0, "id": 2779763278, "level": 3}
+{"count": 160, "name": "Rapoport's rule", "weight": 0.0, "id": 22058558, "level": 3}
+{"count": 198, "name": "Tsuga mertensiana", "weight": 0.0, "id": 2776813308, "level": 3}
+{"count": 378, "name": "DTED", "weight": 1.0, "id": 131908665, "level": 3}
+{"count": 397, "name": "Hypsometry", "weight": 1.0, "id": 135792833, "level": 3}
+{"count": 938, "name": "Osteotome", "weight": 2.0, "id": 2779137508, "level": 3}
+{"count": 105, "name": "Pinus balfouriana", "weight": 0.0, "id": 2779008105, "level": 3}
+{"count": 128, "name": "Pinus strobiformis", "weight": 0.0, "id": 2780441502, "level": 3}
+{"count": 86, "name": "Lancet window", "weight": 0.0, "id": 2780676724, "level": 3}
+{"count": 174, "name": "Hypsometric curve", "weight": 0.0, "id": 150600104, "level": 3}
+{"count": 143, "name": "Sprengel's deformity", "weight": 0.0, "id": 2779992168, "level": 3}
+{"count": 129, "name": "Altitudinal migration", "weight": 0.0, "id": 2780206633, "level": 3}
+{"count": 184, "name": "GTOPO30", "weight": 0.0, "id": 191479756, "level": 3}
+{"count": 156, "name": "Spruce-fir forests", "weight": 0.0, "id": 2778423169, "level": 3}
+{"count": 53, "name": "Pinus occidentalis", "weight": 0.0, "id": 2779790624, "level": 3}
+{"count": 18, "name": "Massenerhebung effect", "weight": 0.0, "id": 2777228472, "level": 3}
+{"count": 30, "name": "Prestoea montana", "weight": 0.0, "id": 2779477592, "level": 3}
+{"count": 315, "name": "Local Elevation", "weight": 0.0, "id": 94925055, "level": 3}
+{"count": 17, "name": "Compound pier", "weight": 0.0, "id": 2780361930, "level": 3}
+{"count": 26, "name": "Lachemilla", "weight": 0.0, "id": 2779492333, "level": 3}
+{"count": 14, "name": "Scapulohumeral muscles", "weight": 0.0, "id": 2776662253, "level": 3}
+{"count": 15, "name": "Global Relief Model", "weight": 0.0, "id": 2778199097, "level": 3}
+{"count": 178, "name": "Scapular line", "weight": 0.0, "id": 64962169, "level": 3}
+{"count": 54, "name": "Height finder", "weight": 0.0, "id": 2778752520, "level": 3}
+{"count": 23, "name": "Apomys", "weight": 0.0, "id": 2779825806, "level": 3}

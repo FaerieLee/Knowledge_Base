@@ -1,0 +1,16 @@
+{"count": 6358, "name": "Transimpedance amplifier", "weight": 3.0, "id": 92631468, "level": 4}
+{"count": 15733, "name": "Operational transconductance amplifier", "weight": 8.0, "id": 58117264, "level": 4}
+{"count": 10858, "name": "Instrumentation amplifier", "weight": 6.0, "id": 89123640, "level": 4}
+{"count": 1372, "name": "Common-mode rejection ratio", "weight": 0.0, "id": 102309569, "level": 4}
+{"count": 17506, "name": "Input offset voltage", "weight": 10.0, "id": 63651839, "level": 4}
+{"count": 1599, "name": "Magnetic amplifier", "weight": 0.0, "id": 72804095, "level": 4}
+{"count": 16864, "name": "Linear amplifier", "weight": 9.0, "id": 71041172, "level": 4}
+{"count": 5577, "name": "Common source", "weight": 3.0, "id": 46917211, "level": 4}
+{"count": 260, "name": "Nullor", "weight": 0.0, "id": 2777569423, "level": 4}
+{"count": 717, "name": "Isolation amplifier", "weight": 0.0, "id": 75875137, "level": 4}
+{"count": 12954, "name": "Fully differential amplifier", "weight": 7.0, "id": 189184530, "level": 4}
+{"count": 1439, "name": "Phase-shift oscillator", "weight": 0.0, "id": 142458302, "level": 4}
+{"count": 4198, "name": "Common base", "weight": 2.0, "id": 9001241, "level": 4}
+{"count": 188, "name": "Pole splitting", "weight": 0.0, "id": 128423734, "level": 4}
+{"count": 10, "name": "Slew-induced distortion", "weight": 0.0, "id": 2778187878, "level": 4}
+{"count": 345, "name": "Miller effect", "weight": 0.0, "id": 98843965, "level": 4}

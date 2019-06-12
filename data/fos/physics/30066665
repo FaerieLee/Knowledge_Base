@@ -1,0 +1,17 @@
+{"count": 35939, "name": "Supercapacitor", "weight": 10.0, "id": 6585489, "level": 3}
+{"count": 11638, "name": "Parasitic capacitance", "weight": 3.0, "id": 154318817, "level": 3}
+{"count": 2001, "name": "Electrical capacitance tomography", "weight": 0.0, "id": 2777418626, "level": 3}
+{"count": 7168, "name": "Varicap", "weight": 1.0, "id": 15485314, "level": 3}
+{"count": 3139, "name": "Electric double-layer capacitor", "weight": 0.0, "id": 2779402669, "level": 3}
+{"count": 939, "name": "Quantum capacitance", "weight": 0.0, "id": 2780101641, "level": 3}
+{"count": 1614, "name": "Double-layer capacitance", "weight": 0.0, "id": 2778026820, "level": 3}
+{"count": 2563, "name": "Diffusion capacitance", "weight": 0.0, "id": 67337642, "level": 3}
+{"count": 4262, "name": "Differential capacitance", "weight": 1.0, "id": 150072415, "level": 3}
+{"count": 5451, "name": "Capacitance probe", "weight": 1.0, "id": 203455917, "level": 3}
+{"count": 309, "name": "Capacitance meter", "weight": 0.0, "id": 2775973703, "level": 3}
+{"count": 371, "name": "MIS capacitor", "weight": 0.0, "id": 2779200529, "level": 3}
+{"count": 37, "name": "Mott-Schottky plot", "weight": 0.0, "id": 2779121697, "level": 3}
+{"count": 414, "name": "Farad", "weight": 0.0, "id": 29683548, "level": 3}
+{"count": 1662, "name": "LCR meter", "weight": 0.0, "id": 55592779, "level": 3}
+{"count": 667, "name": "Capacitive displacement sensor", "weight": 0.0, "id": 119794635, "level": 3}
+{"count": 135, "name": "Body capacitance", "weight": 0.0, "id": 163872427, "level": 3}

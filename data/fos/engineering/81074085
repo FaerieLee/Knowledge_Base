@@ -1,0 +1,13 @@
+{"count": 1289, "name": "Random tree", "weight": 3.0, "id": 2776839635, "level": 3}
+{"count": 277, "name": "Rapidly exploring random tree", "weight": 0.0, "id": 35709220, "level": 3}
+{"count": 1013, "name": "Visibility graph", "weight": 2.0, "id": 173362246, "level": 3}
+{"count": 468, "name": "Probabilistic roadmap", "weight": 1.0, "id": 2778803389, "level": 3}
+{"count": 155, "name": "Real-time path planning", "weight": 0.0, "id": 2775920481, "level": 3}
+{"count": 1949, "name": "Fast path", "weight": 5.0, "id": 32638748, "level": 3}
+{"count": 209, "name": "Kinodynamic planning", "weight": 0.0, "id": 81641196, "level": 3}
+{"count": 132, "name": "Boustrophedon", "weight": 0.0, "id": 121726456, "level": 3}
+{"count": 113, "name": "Dubins path", "weight": 0.0, "id": 2781252070, "level": 3}
+{"count": 18, "name": "Maze solving algorithm", "weight": 0.0, "id": 2777514010, "level": 3}
+{"count": 3792, "name": "Any-angle path planning", "weight": 10.0, "id": 158485040, "level": 3}
+{"count": 18, "name": "Sphere-world", "weight": 0.0, "id": 2779316337, "level": 3}
+{"count": 19, "name": "Parallel parking problem", "weight": 0.0, "id": 2779171716, "level": 3}

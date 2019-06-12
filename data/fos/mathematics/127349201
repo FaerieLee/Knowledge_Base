@@ -1,0 +1,6 @@
+{"count": 4288, "name": "Gaussian quadrature", "weight": 10.0, "id": 167196314, "level": 3}
+{"count": 1878, "name": "Trapezoidal rule", "weight": 4.0, "id": 78727, "level": 3}
+{"count": 3156, "name": "Gauss\u2013Kronrod quadrature formula", "weight": 7.0, "id": 14103991, "level": 3}
+{"count": 270, "name": "Romberg's method", "weight": 0.0, "id": 126976006, "level": 3}
+{"count": 2682, "name": "Clenshaw\u2013Curtis quadrature", "weight": 6.0, "id": 172657837, "level": 3}
+{"count": 2613, "name": "Tanh-sinh quadrature", "weight": 6.0, "id": 162046254, "level": 3}

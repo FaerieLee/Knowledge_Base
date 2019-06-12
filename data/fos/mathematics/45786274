@@ -1,0 +1,5 @@
+{"count": 4463, "name": "Quasi-Monte Carlo method", "weight": 10.0, "id": 63320529, "level": 5}
+{"count": 1821, "name": "Parallel tempering", "weight": 4.0, "id": 187653413, "level": 5}
+{"count": 732, "name": "Stochastic tunneling", "weight": 1.0, "id": 132150799, "level": 5}
+{"count": 3858, "name": "Monte Carlo method for photon transport", "weight": 8.0, "id": 98125479, "level": 5}
+{"count": 114, "name": "Wang and Landau algorithm", "weight": 0.0, "id": 64968022, "level": 5}

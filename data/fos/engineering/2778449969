@@ -1,0 +1,51 @@
+{"count": 20570, "name": "Turbomachinery", "weight": 5.0, "id": 200398353, "level": 3}
+{"count": 36464, "name": "Turbine blade", "weight": 10.0, "id": 20381859, "level": 3}
+{"count": 25415, "name": "Combined cycle", "weight": 6.0, "id": 110910425, "level": 3}
+{"count": 32286, "name": "Steam turbine", "weight": 8.0, "id": 14794904, "level": 3}
+{"count": 24891, "name": "Turbocharger", "weight": 6.0, "id": 21541133, "level": 3}
+{"count": 17875, "name": "Offshore wind power", "weight": 4.0, "id": 8735168, "level": 3}
+{"count": 3583, "name": "Vertical axis wind turbine", "weight": 0.0, "id": 2777596722, "level": 3}
+{"count": 7699, "name": "Overall pressure ratio", "weight": 2.0, "id": 96261405, "level": 3}
+{"count": 3074, "name": "Draft tube", "weight": 0.0, "id": 62420388, "level": 3}
+{"count": 7594, "name": "Nacelle", "weight": 2.0, "id": 34329639, "level": 3}
+{"count": 3374, "name": "Pitch control", "weight": 0.0, "id": 2778330180, "level": 3}
+{"count": 615, "name": "Momentum theory", "weight": 0.0, "id": 165819098, "level": 3}
+{"count": 1163, "name": "Oscillating Water Column", "weight": 0.0, "id": 2777155145, "level": 3}
+{"count": 1574, "name": "Francis turbine", "weight": 0.0, "id": 2778705046, "level": 3}
+{"count": 876, "name": "Axial turbine", "weight": 0.0, "id": 2780747060, "level": 3}
+{"count": 2840, "name": "Ram air turbine", "weight": 0.0, "id": 64298129, "level": 3}
+{"count": 4800, "name": "Water turbine", "weight": 1.0, "id": 2780778756, "level": 3}
+{"count": 3244, "name": "Tip clearance", "weight": 0.0, "id": 2779285531, "level": 3}
+{"count": 1038, "name": "Micro hydro", "weight": 0.0, "id": 2780106156, "level": 3}
+{"count": 624, "name": "Kaplan turbine", "weight": 0.0, "id": 2777147275, "level": 3}
+{"count": 1362, "name": "Bypass ratio", "weight": 0.0, "id": 111374284, "level": 3}
+{"count": 1237, "name": "Small wind turbine", "weight": 0.0, "id": 2779862270, "level": 3}
+{"count": 249, "name": "Wind-turbine aerodynamics", "weight": 0.0, "id": 2777751561, "level": 3}
+{"count": 1374, "name": "Tip-speed ratio", "weight": 0.0, "id": 2777512574, "level": 3}
+{"count": 829, "name": "Load rejection", "weight": 0.0, "id": 2780486990, "level": 3}
+{"count": 1082, "name": "Radial turbine", "weight": 0.0, "id": 2781171283, "level": 3}
+{"count": 632, "name": "Wind turbine design", "weight": 0.0, "id": 2777052346, "level": 3}
+{"count": 413, "name": "Inertial response", "weight": 0.0, "id": 2777563595, "level": 3}
+{"count": 316, "name": "Cross-flow turbine", "weight": 0.0, "id": 2776877397, "level": 3}
+{"count": 1934, "name": "Blade element theory", "weight": 0.0, "id": 55589367, "level": 3}
+{"count": 1077, "name": "Turboshaft", "weight": 0.0, "id": 195196853, "level": 3}
+{"count": 927, "name": "Degree of reaction", "weight": 0.0, "id": 188952714, "level": 3}
+{"count": 349, "name": "FADEC", "weight": 0.0, "id": 187791179, "level": 3}
+{"count": 3143, "name": "Propelling nozzle", "weight": 0.0, "id": 118143372, "level": 3}
+{"count": 195, "name": "Pico hydro", "weight": 0.0, "id": 2776208950, "level": 3}
+{"count": 123, "name": "Tesla turbine", "weight": 0.0, "id": 2777213798, "level": 3}
+{"count": 363, "name": "XFOIL", "weight": 0.0, "id": 2778597625, "level": 3}
+{"count": 6156, "name": "Blade pitch", "weight": 1.0, "id": 97683284, "level": 3}
+{"count": 1281, "name": "Bleed air", "weight": 0.0, "id": 2780387067, "level": 3}
+{"count": 192, "name": "Pelton wheel", "weight": 0.0, "id": 2778859251, "level": 3}
+{"count": 121, "name": "Fuel control unit", "weight": 0.0, "id": 2779514309, "level": 3}
+{"count": 216, "name": "Air cycle machine", "weight": 0.0, "id": 2780842476, "level": 3}
+{"count": 25, "name": "Wind turbine syndrome", "weight": 0.0, "id": 2777956064, "level": 3}
+{"count": 63, "name": "Gas turbine modular helium reactor", "weight": 0.0, "id": 2776663240, "level": 3}
+{"count": 15, "name": "Gorlov helical turbine", "weight": 0.0, "id": 2777758878, "level": 3}
+{"count": 45, "name": "Screw turbine", "weight": 0.0, "id": 2781328277, "level": 3}
+{"count": 70, "name": "Marine current power", "weight": 0.0, "id": 2777939980, "level": 3}
+{"count": 36, "name": "Kiel probe", "weight": 0.0, "id": 2779762467, "level": 3}
+{"count": 162, "name": "Critical engine", "weight": 0.0, "id": 2778345969, "level": 3}
+{"count": 52, "name": "Blade solidity", "weight": 0.0, "id": 2776624010, "level": 3}
+{"count": 1440, "name": "Cheng rotation vane", "weight": 0.0, "id": 35157781, "level": 3}

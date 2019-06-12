@@ -1,0 +1,9 @@
+{"count": 678, "name": "Bidirectional search", "weight": 6.0, "id": 831591, "level": 5}
+{"count": 1077, "name": "Iterative deepening depth-first search", "weight": 10.0, "id": 14362708, "level": 5}
+{"count": 763, "name": "Interpolation search", "weight": 7.0, "id": 102315692, "level": 5}
+{"count": 764, "name": "Jump search", "weight": 7.0, "id": 155484110, "level": 5}
+{"count": 371, "name": "Dichotomic search", "weight": 3.0, "id": 160884268, "level": 5}
+{"count": 851, "name": "Fringe search", "weight": 7.0, "id": 86155562, "level": 5}
+{"count": 203, "name": "Exponential search", "weight": 1.0, "id": 50774994, "level": 5}
+{"count": 1037, "name": "Beam stack search", "weight": 9.0, "id": 194036150, "level": 5}
+{"count": 840, "name": "Min-conflicts algorithm", "weight": 7.0, "id": 123996832, "level": 5}

@@ -1,0 +1,14 @@
+{"count": 8217, "name": "Groundwater model", "weight": 10.0, "id": 176650113, "level": 5}
+{"count": 6233, "name": "Groundwater discharge", "weight": 7.0, "id": 12129029, "level": 5}
+{"count": 419, "name": "Aquifer storage and recovery", "weight": 0.0, "id": 2778474753, "level": 5}
+{"count": 565, "name": "Karst spring", "weight": 0.0, "id": 2778110159, "level": 5}
+{"count": 709, "name": "Infiltration basin", "weight": 0.0, "id": 96124884, "level": 5}
+{"count": 349, "name": "Overdrafting", "weight": 0.0, "id": 157174567, "level": 5}
+{"count": 477, "name": "Phreatic zone", "weight": 0.0, "id": 84858952, "level": 5}
+{"count": 136, "name": "Netpath", "weight": 0.0, "id": 2780012196, "level": 5}
+{"count": 745, "name": "Cone of depression", "weight": 0.0, "id": 162663994, "level": 5}
+{"count": 278, "name": "Global meteoric water line", "weight": 0.0, "id": 71802535, "level": 5}
+{"count": 3636, "name": "Depression-focused recharge", "weight": 4.0, "id": 187606762, "level": 5}
+{"count": 134, "name": "Fossil water", "weight": 0.0, "id": 107836204, "level": 5}
+{"count": 147, "name": "Lens (hydrology)", "weight": 0.0, "id": 95060880, "level": 5}
+{"count": 414, "name": "Dupuit\u2013Forchheimer assumption", "weight": 0.0, "id": 127110704, "level": 5}

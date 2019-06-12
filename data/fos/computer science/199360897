@@ -1,0 +1,200 @@
+{"count": 48628, "name": "Satisfiability", "weight": 0.0, "id": 168773769, "level": 2}
+{"count": 11896, "name": "Polymorphism (computer science)", "weight": 0.0, "id": 149737253, "level": 2}
+{"count": 679542, "name": "Software", "weight": 10.0, "id": 2777904410, "level": 2}
+{"count": 2265, "name": "Oxygene", "weight": 0.0, "id": 2778210615, "level": 2}
+{"count": 133790, "name": "Computer program", "weight": 1.0, "id": 2777362769, "level": 2}
+{"count": 69792, "name": "Data structure", "weight": 1.0, "id": 162319229, "level": 2}
+{"count": 104346, "name": "Data acquisition", "weight": 1.0, "id": 163985040, "level": 2}
+{"count": 136749, "name": "User interface", "weight": 2.0, "id": 89505385, "level": 2}
+{"count": 46581, "name": "Object-oriented programming", "weight": 0.0, "id": 73752529, "level": 2}
+{"count": 13598, "name": "Top-down and bottom-up design", "weight": 0.0, "id": 135798126, "level": 2}
+{"count": 75655, "name": "Web service", "weight": 1.0, "id": 35578498, "level": 2}
+{"count": 216600, "name": "Computation", "weight": 3.0, "id": 45374587, "level": 2}
+{"count": 88678, "name": "Java", "weight": 1.0, "id": 548217200, "level": 2}
+{"count": 47177, "name": "Source code", "weight": 0.0, "id": 43126263, "level": 2}
+{"count": 64618, "name": "Virtual machine", "weight": 0.0, "id": 25344961, "level": 2}
+{"count": 33195, "name": "Fragmentation (computing)", "weight": 0.0, "id": 191015642, "level": 2}
+{"count": 10784, "name": "Mathematical logic", "weight": 0.0, "id": 47884741, "level": 2}
+{"count": 21043, "name": "Persistence (computer science)", "weight": 0.0, "id": 39520812, "level": 2}
+{"count": 46184, "name": "Graphical user interface", "weight": 0.0, "id": 37789001, "level": 2}
+{"count": 23298, "name": "Distributed algorithm", "weight": 0.0, "id": 130120984, "level": 2}
+{"count": 25651, "name": "Fortran", "weight": 0.0, "id": 2778241615, "level": 2}
+{"count": 22360, "name": "Computer programming", "weight": 0.0, "id": 33857546, "level": 2}
+{"count": 28830, "name": "Durability", "weight": 0.0, "id": 104304963, "level": 2}
+{"count": 18438, "name": "System testing", "weight": 0.0, "id": 7166840, "level": 2}
+{"count": 78017, "name": "Comprehension", "weight": 1.0, "id": 511192102, "level": 2}
+{"count": 14364, "name": "Performance prediction", "weight": 0.0, "id": 2777115002, "level": 2}
+{"count": 24928, "name": "Skeleton (computer programming)", "weight": 0.0, "id": 18969341, "level": 2}
+{"count": 8067, "name": "Minification", "weight": 0.0, "id": 147764199, "level": 2}
+{"count": 16238, "name": "Pattern matching", "weight": 0.0, "id": 68859911, "level": 2}
+{"count": 74050, "name": "Sorting", "weight": 1.0, "id": 111696304, "level": 2}
+{"count": 12695, "name": "Program Design Language", "weight": 0.0, "id": 206674616, "level": 2}
+{"count": 24411, "name": "Unified Modeling Language", "weight": 0.0, "id": 145644426, "level": 2}
+{"count": 208455, "name": "Documentation", "weight": 3.0, "id": 56666940, "level": 2}
+{"count": 13049, "name": "Information flow (information theory)", "weight": 0.0, "id": 107054480, "level": 2}
+{"count": 29928, "name": "Hash function", "weight": 0.0, "id": 99138194, "level": 2}
+{"count": 12493, "name": "Floating point", "weight": 0.0, "id": 84211073, "level": 2}
+{"count": 14468, "name": "Tree structure", "weight": 0.0, "id": 163797641, "level": 2}
+{"count": 9233, "name": "Functional programming", "weight": 0.0, "id": 42383842, "level": 2}
+{"count": 20887, "name": "Formal methods", "weight": 0.0, "id": 75606506, "level": 2}
+{"count": 9382, "name": "clone (Java method)", "weight": 0.0, "id": 81089528, "level": 2}
+{"count": 45932, "name": "MATLAB", "weight": 0.0, "id": 2780365114, "level": 2}
+{"count": 6303, "name": "Table (information)", "weight": 0.0, "id": 182716506, "level": 2}
+{"count": 54412, "name": "Queue", "weight": 0.0, "id": 160403385, "level": 2}
+{"count": 19870, "name": "Data type", "weight": 0.0, "id": 138958017, "level": 2}
+{"count": 10318, "name": "Indentation", "weight": 0.0, "id": 2780902562, "level": 2}
+{"count": 24608, "name": "Programming paradigm", "weight": 0.0, "id": 34165917, "level": 2}
+{"count": 12376, "name": "Reverse engineering", "weight": 0.0, "id": 207850805, "level": 2}
+{"count": 38982, "name": "Compiler", "weight": 0.0, "id": 169590947, "level": 2}
+{"count": 4790, "name": "Dynamic loading", "weight": 0.0, "id": 2776639496, "level": 2}
+{"count": 15710, "name": "Lookup table", "weight": 0.0, "id": 134835016, "level": 2}
+{"count": 11105, "name": "Batch processing", "weight": 0.0, "id": 172658912, "level": 2}
+{"count": 11990, "name": "Object model", "weight": 0.0, "id": 20894473, "level": 2}
+{"count": 15331, "name": "Continuum (design consultancy)", "weight": 0.0, "id": 112234599, "level": 2}
+{"count": 8487, "name": "High-level programming language", "weight": 0.0, "id": 19024347, "level": 2}
+{"count": 11709, "name": "Specification language", "weight": 0.0, "id": 201677973, "level": 2}
+{"count": 39762, "name": "Parsing", "weight": 0.0, "id": 186644900, "level": 2}
+{"count": 308969, "name": "Operator (computer programming)", "weight": 4.0, "id": 76449508, "level": 2}
+{"count": 15512, "name": "Code generation", "weight": 0.0, "id": 133162039, "level": 2}
+{"count": 48741, "name": "Ambiguity", "weight": 0.0, "id": 2780522230, "level": 2}
+{"count": 12343, "name": "Mobile agent", "weight": 0.0, "id": 84875433, "level": 2}
+{"count": 7050, "name": "Computer-aided software engineering", "weight": 0.0, "id": 50369083, "level": 2}
+{"count": 3044, "name": "Arbol", "weight": 0.0, "id": 2776163345, "level": 2}
+{"count": 77089, "name": "Collision", "weight": 1.0, "id": 121704057, "level": 2}
+{"count": 26935, "name": "Scaffold", "weight": 0.0, "id": 89429830, "level": 2}
+{"count": 8185, "name": "Tree (data structure)", "weight": 0.0, "id": 101056560, "level": 2}
+{"count": 6827, "name": "Complex data type", "weight": 0.0, "id": 35288925, "level": 2}
+{"count": 13156, "name": "Logic programming", "weight": 0.0, "id": 128838566, "level": 2}
+{"count": 21028, "name": "Data access", "weight": 0.0, "id": 47487241, "level": 2}
+{"count": 7271, "name": "Program analysis", "weight": 0.0, "id": 98183937, "level": 2}
+{"count": 5681, "name": "Regular expression", "weight": 0.0, "id": 121329065, "level": 2}
+{"count": 9478, "name": "Lexico", "weight": 0.0, "id": 2777776507, "level": 2}
+{"count": 6003, "name": "Control flow", "weight": 0.0, "id": 160191386, "level": 2}
+{"count": 7326, "name": "Garbage collection", "weight": 0.0, "id": 105122174, "level": 2}
+{"count": 4442, "name": "Functional testing", "weight": 0.0, "id": 80823478, "level": 2}
+{"count": 36223, "name": "Debugging", "weight": 0.0, "id": 168065819, "level": 2}
+{"count": 6215, "name": "First-order logic", "weight": 0.0, "id": 100481476, "level": 2}
+{"count": 11173, "name": "Metamodeling", "weight": 0.0, "id": 86610423, "level": 2}
+{"count": 6581, "name": "Process calculus", "weight": 0.0, "id": 161771561, "level": 2}
+{"count": 3539, "name": "Abstract data type", "weight": 0.0, "id": 175971053, "level": 2}
+{"count": 3839, "name": "Program transformation", "weight": 0.0, "id": 2778361913, "level": 2}
+{"count": 3792, "name": "Look-ahead", "weight": 0.0, "id": 147297375, "level": 2}
+{"count": 3710, "name": "Rule of thumb", "weight": 0.0, "id": 89246107, "level": 2}
+{"count": 152176, "name": "Modular design", "weight": 2.0, "id": 101468663, "level": 2}
+{"count": 3361, "name": "Automatic programming", "weight": 0.0, "id": 2777394884, "level": 2}
+{"count": 5707, "name": "Visual programming language", "weight": 0.0, "id": 128644962, "level": 2}
+{"count": 4088, "name": "Type theory", "weight": 0.0, "id": 93682546, "level": 2}
+{"count": 85223, "name": "Database transaction", "weight": 1.0, "id": 75949130, "level": 2}
+{"count": 4536, "name": "Aspect-oriented programming", "weight": 0.0, "id": 60051680, "level": 2}
+{"count": 4918, "name": "Text processing", "weight": 0.0, "id": 2779500292, "level": 2}
+{"count": 3731, "name": "State diagram", "weight": 0.0, "id": 16671368, "level": 2}
+{"count": 8456, "name": "Markup language", "weight": 0.0, "id": 45874996, "level": 2}
+{"count": 23365, "name": "Scripting language", "weight": 0.0, "id": 61423126, "level": 2}
+{"count": 10575, "name": "Dynamic testing", "weight": 0.0, "id": 198824145, "level": 2}
+{"count": 3620, "name": "Abstract interpretation", "weight": 0.0, "id": 2780654840, "level": 2}
+{"count": 10733, "name": "Application programming interface", "weight": 0.0, "id": 99613125, "level": 2}
+{"count": 25478, "name": "SQL", "weight": 0.0, "id": 510870499, "level": 2}
+{"count": 3402, "name": "Time to market", "weight": 0.0, "id": 2779229675, "level": 2}
+{"count": 2977, "name": "Lambda calculus", "weight": 0.0, "id": 135790938, "level": 2}
+{"count": 16374, "name": "Oracle", "weight": 0.0, "id": 55166926, "level": 2}
+{"count": 2141, "name": "Critical mass (software engineering)", "weight": 0.0, "id": 2780988752, "level": 2}
+{"count": 19286, "name": "Software portability", "weight": 0.0, "id": 63000827, "level": 2}
+{"count": 11295, "name": "Subroutine", "weight": 0.0, "id": 96147967, "level": 2}
+{"count": 6827, "name": "Legacy system", "weight": 0.0, "id": 105446022, "level": 2}
+{"count": 8156, "name": "Dynamic data", "weight": 0.0, "id": 197298091, "level": 2}
+{"count": 18763, "name": "Preprocessor", "weight": 0.0, "id": 34736171, "level": 2}
+{"count": 4996, "name": "Model transformation", "weight": 0.0, "id": 2779791154, "level": 2}
+{"count": 1817, "name": "Generic programming", "weight": 0.0, "id": 7051814, "level": 2}
+{"count": 3999, "name": "Domain-specific language", "weight": 0.0, "id": 135257023, "level": 2}
+{"count": 35195, "name": "Overlay", "weight": 0.0, "id": 136085584, "level": 2}
+{"count": 11143, "name": "Deadlock", "weight": 0.0, "id": 159023740, "level": 2}
+{"count": 16673, "name": "Rewriting", "weight": 0.0, "id": 154690210, "level": 2}
+{"count": 6398, "name": "Flowchart", "weight": 0.0, "id": 72041958, "level": 2}
+{"count": 8738, "name": "Constraint programming", "weight": 0.0, "id": 173404611, "level": 2}
+{"count": 26867, "name": "Profiling (computer programming)", "weight": 0.0, "id": 187191949, "level": 2}
+{"count": 2835, "name": "Abstract machine", "weight": 0.0, "id": 88977235, "level": 2}
+{"count": 3137, "name": "Exception handling", "weight": 0.0, "id": 145428669, "level": 2}
+{"count": 98513, "name": "Thread (computing)", "weight": 1.0, "id": 138101251, "level": 2}
+{"count": 3109, "name": "Closure (computer programming)", "weight": 0.0, "id": 138763399, "level": 2}
+{"count": 11463, "name": "Prolog", "weight": 0.0, "id": 81721847, "level": 2}
+{"count": 7153, "name": "Bootstrapping", "weight": 0.0, "id": 78258543, "level": 2}
+{"count": 2009, "name": "Intermediate language", "weight": 0.0, "id": 77660490, "level": 2}
+{"count": 33655, "name": "Initialization", "weight": 0.0, "id": 114466953, "level": 2}
+{"count": 14282, "name": "Python (programming language)", "weight": 0.0, "id": 519991488, "level": 2}
+{"count": 2651, "name": "Memory model", "weight": 0.0, "id": 12186640, "level": 2}
+{"count": 2602, "name": "Symbolic execution", "weight": 0.0, "id": 2779639559, "level": 2}
+{"count": 12014, "name": "Readability", "weight": 0.0, "id": 2778143727, "level": 2}
+{"count": 1304, "name": "Coupling (computer programming)", "weight": 0.0, "id": 52584623, "level": 2}
+{"count": 18362, "name": "Unification", "weight": 0.0, "id": 96146094, "level": 2}
+{"count": 9413, "name": "String (computer science)", "weight": 0.0, "id": 1462715, "level": 2}
+{"count": 15180, "name": "Negation", "weight": 0.0, "id": 2185349, "level": 2}
+{"count": 2062, "name": "Type inference", "weight": 0.0, "id": 198370458, "level": 2}
+{"count": 10132, "name": "Point of delivery", "weight": 0.0, "id": 137776501, "level": 2}
+{"count": 4280, "name": "Data validation", "weight": 0.0, "id": 92446256, "level": 2}
+{"count": 16125, "name": "Interpreter", "weight": 0.0, "id": 122783720, "level": 2}
+{"count": 2438, "name": "Dependence analysis", "weight": 0.0, "id": 27390822, "level": 2}
+{"count": 5200, "name": "Integration testing", "weight": 0.0, "id": 107683887, "level": 2}
+{"count": 7713, "name": "Delphi", "weight": 0.0, "id": 2779495148, "level": 2}
+{"count": 4592, "name": "Unit testing", "weight": 0.0, "id": 148027188, "level": 2}
+{"count": 3030, "name": "Intuitionistic logic", "weight": 0.0, "id": 178421362, "level": 2}
+{"count": 1790, "name": "Partial evaluation", "weight": 0.0, "id": 195701839, "level": 2}
+{"count": 5051, "name": "Lisp", "weight": 0.0, "id": 190883126, "level": 2}
+{"count": 13875, "name": "Relocation", "weight": 0.0, "id": 2779019381, "level": 2}
+{"count": 2886, "name": "Control flow graph", "weight": 0.0, "id": 27458966, "level": 2}
+{"count": 7899, "name": "Software design pattern", "weight": 0.0, "id": 146054899, "level": 2}
+{"count": 28653, "name": "Extensibility", "weight": 0.0, "id": 32833848, "level": 2}
+{"count": 4267, "name": "Code coverage", "weight": 0.0, "id": 53942775, "level": 2}
+{"count": 7718, "name": "Heap (data structure)", "weight": 0.0, "id": 134757568, "level": 2}
+{"count": 2628, "name": "Logical framework", "weight": 0.0, "id": 20693621, "level": 2}
+{"count": 6454, "name": "Modular programming", "weight": 0.0, "id": 88482812, "level": 2}
+{"count": 38455, "name": "Tracing", "weight": 0.0, "id": 138673069, "level": 2}
+{"count": 6802, "name": "GiST", "weight": 0.0, "id": 2775922572, "level": 2}
+{"count": 4045, "name": "Model-driven architecture", "weight": 0.0, "id": 509989072, "level": 2}
+{"count": 18707, "name": "Wright", "weight": 0.0, "id": 2777667586, "level": 2}
+{"count": 2964, "name": "P system", "weight": 0.0, "id": 70641290, "level": 2}
+{"count": 11594, "name": "JavaScript", "weight": 0.0, "id": 544833334, "level": 2}
+{"count": 1546, "name": "Structured programming", "weight": 0.0, "id": 77781355, "level": 2}
+{"count": 28757, "name": "Pointer (computer programming)", "weight": 0.0, "id": 161969638, "level": 2}
+{"count": 18713, "name": "Granularity", "weight": 0.0, "id": 177774035, "level": 2}
+{"count": 10446, "name": "Test data generation", "weight": 0.0, "id": 47980962, "level": 2}
+{"count": 14535, "name": "Workspace", "weight": 0.0, "id": 58581272, "level": 2}
+{"count": 59407, "name": "Correctness", "weight": 0.0, "id": 55439883, "level": 2}
+{"count": 33304, "name": "Raw data", "weight": 0.0, "id": 132964779, "level": 2}
+{"count": 1561, "name": "Canonical model", "weight": 0.0, "id": 183064784, "level": 2}
+{"count": 16476, "name": "Toolbox", "weight": 0.0, "id": 2777655017, "level": 2}
+{"count": 11662, "name": "Reusability", "weight": 0.0, "id": 137981799, "level": 2}
+{"count": 4865, "name": "Assembly language", "weight": 0.0, "id": 50831359, "level": 2}
+{"count": 5627, "name": "Empirical modelling", "weight": 0.0, "id": 133199616, "level": 2}
+{"count": 1129, "name": "Metaprogramming", "weight": 0.0, "id": 35390924, "level": 2}
+{"count": 47678, "name": "Macro", "weight": 0.0, "id": 166955791, "level": 2}
+{"count": 2975, "name": "Natural deduction", "weight": 0.0, "id": 62073222, "level": 2}
+{"count": 11655, "name": "Concatenation", "weight": 0.0, "id": 11866591, "level": 2}
+{"count": 1422, "name": "Command language", "weight": 0.0, "id": 2776778970, "level": 2}
+{"count": 3893, "name": "Quine", "weight": 0.0, "id": 9270016, "level": 2}
+{"count": 603, "name": "Standard ML", "weight": 0.0, "id": 2777758133, "level": 2}
+{"count": 114236, "name": "Offset (computer science)", "weight": 1.0, "id": 175291020, "level": 2}
+{"count": 17242, "name": "volatile", "weight": 0.0, "id": 64928576, "level": 2}
+{"count": 47386, "name": "Crash", "weight": 0.0, "id": 183469790, "level": 2}
+{"count": 2262, "name": "COBOL", "weight": 0.0, "id": 128595289, "level": 2}
+{"count": 7929, "name": "Erasure", "weight": 0.0, "id": 2778790127, "level": 2}
+{"count": 1502, "name": "Program synthesis", "weight": 0.0, "id": 2776937632, "level": 2}
+{"count": 9192, "name": "File format", "weight": 0.0, "id": 97250363, "level": 2}
+{"count": 12766, "name": "Stack (abstract data type)", "weight": 0.0, "id": 9395851, "level": 2}
+{"count": 574, "name": "Resource Acquisition Is Initialization", "weight": 0.0, "id": 18708760, "level": 2}
+{"count": 41313, "name": "GRASP", "weight": 0.0, "id": 171268870, "level": 2}
+{"count": 7885, "name": "Behavioral pattern", "weight": 0.0, "id": 83804111, "level": 2}
+{"count": 9577, "name": "Locale (computer software)", "weight": 0.0, "id": 2776049293, "level": 2}
+{"count": 1779, "name": "Authoring system", "weight": 0.0, "id": 2776803701, "level": 2}
+{"count": 69056, "name": "Identifier", "weight": 1.0, "id": 154504017, "level": 2}
+{"count": 4368, "name": "Peek", "weight": 0.0, "id": 7660682, "level": 2}
+{"count": 2593, "name": "Metalanguage", "weight": 0.0, "id": 142998047, "level": 2}
+{"count": 6881, "name": "Confluence", "weight": 0.0, "id": 77906462, "level": 2}
+{"count": 4955, "name": "Fluent", "weight": 0.0, "id": 2780411076, "level": 2}
+{"count": 90404, "name": "Continuation", "weight": 1.0, "id": 88626702, "level": 2}
+{"count": 6862, "name": "Arrow", "weight": 0.0, "id": 2780339515, "level": 2}
+{"count": 336, "name": "Operational transformation", "weight": 0.0, "id": 2779683485, "level": 2}
+{"count": 270, "name": "OpenAccess", "weight": 0.0, "id": 2778280450, "level": 2}
+{"count": 327, "name": "Coroutine", "weight": 0.0, "id": 100602654, "level": 2}
+{"count": 3175, "name": "Type safety", "weight": 0.0, "id": 44779574, "level": 2}
+{"count": 97353, "name": "Expression (mathematics)", "weight": 1.0, "id": 76482347, "level": 2}
+{"count": 639, "name": "Race condition", "weight": 0.0, "id": 175333730, "level": 2}

@@ -1,0 +1,4 @@
+{"count": 212, "name": "Hazard pointer", "weight": 6.0, "id": 60536322, "level": 4}
+{"count": 342, "name": "Garbage in, garbage out", "weight": 10.0, "id": 120109908, "level": 4}
+{"count": 131, "name": "Ephemeron", "weight": 3.0, "id": 48342957, "level": 4}
+{"count": 240, "name": "Mark-compact algorithm", "weight": 7.0, "id": 105203168, "level": 4}

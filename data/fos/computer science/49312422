@@ -1,0 +1,5 @@
+{"count": 1252, "name": "Object request broker", "weight": 10.0, "id": 48914193, "level": 3}
+{"count": 19, "name": "Portable Object Adapter", "weight": 0.0, "id": 63882951, "level": 3}
+{"count": 19, "name": "RMI-IIOP", "weight": 0.0, "id": 2778755451, "level": 3}
+{"count": 1015, "name": "Interoperable Object Reference", "weight": 8.0, "id": 204671669, "level": 3}
+{"count": 154, "name": "Web IDL", "weight": 1.0, "id": 52499365, "level": 3}

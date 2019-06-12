@@ -1,0 +1,47 @@
+{"count": 71015, "name": "Psychosis", "weight": 10.0, "id": 2779727114, "level": 3}
+{"count": 13066, "name": "Clozapine", "weight": 1.0, "id": 2780864610, "level": 3}
+{"count": 26988, "name": "Antipsychotic", "weight": 3.0, "id": 2780494398, "level": 3}
+{"count": 12098, "name": "Risperidone", "weight": 1.0, "id": 2780057945, "level": 3}
+{"count": 10798, "name": "Olanzapine", "weight": 1.0, "id": 2776619155, "level": 3}
+{"count": 3445, "name": "Prepulse inhibition", "weight": 0.0, "id": 141421786, "level": 3}
+{"count": 2953, "name": "Expressed emotion", "weight": 0.0, "id": 2778143943, "level": 3}
+{"count": 2550, "name": "Wisconsin Card Sorting Test", "weight": 0.0, "id": 2778420670, "level": 3}
+{"count": 5580, "name": "Tardive dyskinesia", "weight": 0.0, "id": 2779158372, "level": 3}
+{"count": 4516, "name": "Endophenotype", "weight": 0.0, "id": 187869287, "level": 3}
+{"count": 6547, "name": "Quetiapine", "weight": 0.0, "id": 2780634440, "level": 3}
+{"count": 3819, "name": "Anhedonia", "weight": 0.0, "id": 2778941446, "level": 3}
+{"count": 5651, "name": "Aripiprazole", "weight": 0.0, "id": 2780211496, "level": 3}
+{"count": 1282, "name": "Neuregulin 1", "weight": 0.0, "id": 2778560701, "level": 3}
+{"count": 1426, "name": "Sensory gating", "weight": 0.0, "id": 2779705967, "level": 3}
+{"count": 1543, "name": "Global Assessment of Functioning", "weight": 0.0, "id": 2780200951, "level": 3}
+{"count": 3877, "name": "Cognitive remediation therapy", "weight": 0.0, "id": 63529061, "level": 3}
+{"count": 884, "name": "DISC1", "weight": 0.0, "id": 2777568134, "level": 3}
+{"count": 1345, "name": "Psychiatric genetics", "weight": 0.0, "id": 84201533, "level": 3}
+{"count": 114, "name": "Premorbidity", "weight": 0.0, "id": 2780148517, "level": 3}
+{"count": 350, "name": "Dysbindin", "weight": 0.0, "id": 2779709589, "level": 3}
+{"count": 524, "name": "Childhood schizophrenia", "weight": 0.0, "id": 2776298325, "level": 3}
+{"count": 1144, "name": "Drug-na\u00efve", "weight": 0.0, "id": 2777090001, "level": 3}
+{"count": 683, "name": "Asenapine", "weight": 0.0, "id": 2779626651, "level": 3}
+{"count": 1444, "name": "Dementia praecox", "weight": 0.0, "id": 43791586, "level": 3}
+{"count": 667, "name": "Lurasidone", "weight": 0.0, "id": 2776701107, "level": 3}
+{"count": 482, "name": "Organic mental disorders", "weight": 0.0, "id": 2776973423, "level": 3}
+{"count": 441, "name": "Repeatable Battery for the Assessment of Neuropsychological Status", "weight": 0.0, "id": 2776464990, "level": 3}
+{"count": 68, "name": "Texas Medication Algorithm Project", "weight": 0.0, "id": 2775941451, "level": 3}
+{"count": 48, "name": "Self-disorder", "weight": 0.0, "id": 2779025956, "level": 3}
+{"count": 136, "name": "Modified Overt Aggression Scale", "weight": 0.0, "id": 2776317391, "level": 3}
+{"count": 95, "name": "Soft sign", "weight": 0.0, "id": 2777693075, "level": 3}
+{"count": 151, "name": "Animal models of schizophrenia", "weight": 0.0, "id": 97856137, "level": 3}
+{"count": 64, "name": "Bitopertin", "weight": 0.0, "id": 2779270938, "level": 3}
+{"count": 37, "name": "Schizophasia", "weight": 0.0, "id": 2776539291, "level": 3}
+{"count": 41, "name": "Pseudoneurotic schizophrenia", "weight": 0.0, "id": 2777650828, "level": 3}
+{"count": 278, "name": "Diagnostic Interview for Genetic Studies", "weight": 0.0, "id": 33459144, "level": 3}
+{"count": 50, "name": "gamma-Endorphin", "weight": 0.0, "id": 2777813122, "level": 3}
+{"count": 77, "name": "Feighner Criteria", "weight": 0.0, "id": 108898314, "level": 3}
+{"count": 34, "name": "Chronic hallucinatory psychosis", "weight": 0.0, "id": 2776733896, "level": 3}
+{"count": 27, "name": "Orthomolecular psychiatry", "weight": 0.0, "id": 2778377918, "level": 3}
+{"count": 8, "name": "MIN-101", "weight": 0.0, "id": 2778000940, "level": 3}
+{"count": 17, "name": "Physical health in schizophrenia", "weight": 0.0, "id": 2780764285, "level": 3}
+{"count": 14, "name": "Basic symptoms of schizophrenia", "weight": 0.0, "id": 2777319285, "level": 3}
+{"count": 43, "name": "Evolution of schizophrenia", "weight": 0.0, "id": 2779904474, "level": 3}
+{"count": 10, "name": "Chakragati mouse", "weight": 0.0, "id": 2779617668, "level": 3}
+{"count": 108, "name": "Mechanisms of schizophrenia", "weight": 0.0, "id": 2781287372, "level": 3}

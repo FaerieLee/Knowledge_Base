@@ -1,0 +1,21 @@
+{"count": 19972, "name": "Groundwater flow", "weight": 6.0, "id": 131227075, "level": 4}
+{"count": 32304, "name": "Groundwater recharge", "weight": 10.0, "id": 174091901, "level": 4}
+{"count": 7341, "name": "Groundwater pollution", "weight": 2.0, "id": 2778192778, "level": 4}
+{"count": 10557, "name": "Water well", "weight": 3.0, "id": 118416809, "level": 4}
+{"count": 3617, "name": "Saltwater intrusion", "weight": 1.0, "id": 132594454, "level": 4}
+{"count": 2452, "name": "Piezometer", "weight": 0.0, "id": 49057587, "level": 4}
+{"count": 3966, "name": "Artesian aquifer", "weight": 1.0, "id": 44259058, "level": 4}
+{"count": 1391, "name": "Vertical electrical sounding", "weight": 0.0, "id": 80656479, "level": 4}
+{"count": 350, "name": "Hydrogeophysics", "weight": 0.0, "id": 2778720231, "level": 4}
+{"count": 1081, "name": "Slug test", "weight": 0.0, "id": 47291792, "level": 4}
+{"count": 603, "name": "Capillary fringe", "weight": 0.0, "id": 81446008, "level": 4}
+{"count": 459, "name": "Hydraulic tomography", "weight": 0.0, "id": 107708555, "level": 4}
+{"count": 2442, "name": "Phreatic", "weight": 0.0, "id": 180087314, "level": 4}
+{"count": 610, "name": "Potentiometric surface", "weight": 0.0, "id": 2780165224, "level": 4}
+{"count": 929, "name": "Surficial aquifer", "weight": 0.0, "id": 26568496, "level": 4}
+{"count": 464, "name": "Aquifer thermal energy storage", "weight": 0.0, "id": 2778844797, "level": 4}
+{"count": 214, "name": "Groundwater-dependent ecosystems", "weight": 0.0, "id": 2776991799, "level": 4}
+{"count": 289, "name": "Piper diagram", "weight": 0.0, "id": 140188727, "level": 4}
+{"count": 673, "name": "Aquifer properties", "weight": 0.0, "id": 2780103101, "level": 4}
+{"count": 106, "name": "Infiltration gallery", "weight": 0.0, "id": 2781036520, "level": 4}
+{"count": 83, "name": "Losing stream", "weight": 0.0, "id": 2780072265, "level": 4}

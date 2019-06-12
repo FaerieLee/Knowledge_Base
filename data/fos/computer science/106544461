@@ -1,0 +1,22 @@
+{"count": 2053, "name": "Differential cryptanalysis", "weight": 10.0, "id": 36123800, "level": 4}
+{"count": 1881, "name": "Linear cryptanalysis", "weight": 9.0, "id": 82424418, "level": 4}
+{"count": 155, "name": "Round function", "weight": 0.0, "id": 2777300057, "level": 4}
+{"count": 407, "name": "Differential fault analysis", "weight": 1.0, "id": 153428954, "level": 4}
+{"count": 191, "name": "Meet-in-the-middle attack", "weight": 0.0, "id": 6005810, "level": 4}
+{"count": 2054, "name": "CBC-MAC", "weight": 10.0, "id": 156529985, "level": 4}
+{"count": 43, "name": "CRYPTREC", "weight": 0.0, "id": 2778827471, "level": 4}
+{"count": 128, "name": "CLEFIA", "weight": 0.0, "id": 2777879403, "level": 4}
+{"count": 2028, "name": "Triple DES", "weight": 9.0, "id": 90897222, "level": 4}
+{"count": 191, "name": "Twofish", "weight": 0.0, "id": 2776209103, "level": 4}
+{"count": 228, "name": "KASUMI", "weight": 1.0, "id": 2776065243, "level": 4}
+{"count": 85, "name": "XTEA", "weight": 0.0, "id": 2777698160, "level": 4}
+{"count": 77, "name": "KeeLoq", "weight": 0.0, "id": 2779637929, "level": 4}
+{"count": 93, "name": "MISTY1", "weight": 0.0, "id": 2780422253, "level": 4}
+{"count": 100, "name": "Cube attack", "weight": 0.0, "id": 2780686431, "level": 4}
+{"count": 80, "name": "MDS matrix", "weight": 0.0, "id": 2776281070, "level": 4}
+{"count": 412, "name": "Weak key", "weight": 2.0, "id": 192467528, "level": 4}
+{"count": 18, "name": "NOEKEON", "weight": 0.0, "id": 2777135736, "level": 4}
+{"count": 39, "name": "KHAZAD", "weight": 0.0, "id": 2776755626, "level": 4}
+{"count": 21, "name": "CAST-128", "weight": 0.0, "id": 2776530263, "level": 4}
+{"count": 27, "name": "Threefish", "weight": 0.0, "id": 2779151094, "level": 4}
+{"count": 1495, "name": "Two-square cipher", "weight": 7.0, "id": 60153865, "level": 4}

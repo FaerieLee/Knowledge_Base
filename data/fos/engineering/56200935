@@ -1,0 +1,26 @@
+{"count": 6036, "name": "Discharge coefficient", "weight": 3.0, "id": 170028559, "level": 3}
+{"count": 4441, "name": "Jet (fluid)", "weight": 2.0, "id": 119947313, "level": 3}
+{"count": 1054, "name": "Coand\u0103 effect", "weight": 0.0, "id": 169426311, "level": 3}
+{"count": 425, "name": "Abrasive jet machining", "weight": 0.0, "id": 2776645054, "level": 3}
+{"count": 3294, "name": "Jet noise", "weight": 2.0, "id": 2778940620, "level": 3}
+{"count": 15191, "name": "Spray nozzle", "weight": 10.0, "id": 116705413, "level": 3}
+{"count": 3308, "name": "Rocket engine nozzle", "weight": 2.0, "id": 176840316, "level": 3}
+{"count": 1462, "name": "Air-jet loom", "weight": 0.0, "id": 2781301465, "level": 3}
+{"count": 1203, "name": "Thrust vectoring", "weight": 0.0, "id": 2775879734, "level": 3}
+{"count": 2788, "name": "Hot runner", "weight": 1.0, "id": 2779282880, "level": 3}
+{"count": 278, "name": "Gas dynamic laser", "weight": 0.0, "id": 2779380293, "level": 3}
+{"count": 4659, "name": "Plug nozzle", "weight": 3.0, "id": 11555568, "level": 3}
+{"count": 3143, "name": "Propelling nozzle", "weight": 2.0, "id": 118143372, "level": 3}
+{"count": 220, "name": "SERN", "weight": 0.0, "id": 24300590, "level": 3}
+{"count": 2258, "name": "Bidet", "weight": 1.0, "id": 2780043152, "level": 3}
+{"count": 108, "name": "Patternation", "weight": 0.0, "id": 2781316595, "level": 3}
+{"count": 183, "name": "Impact sprinkler", "weight": 0.0, "id": 21884096, "level": 3}
+{"count": 155, "name": "Bell nozzle", "weight": 0.0, "id": 2777504538, "level": 3}
+{"count": 13, "name": "Altitude compensating nozzle", "weight": 0.0, "id": 2778823112, "level": 3}
+{"count": 89, "name": "Hydro massage", "weight": 0.0, "id": 2780938428, "level": 3}
+{"count": 11, "name": "Isentropic nozzle flow", "weight": 0.0, "id": 2780411821, "level": 3}
+{"count": 75, "name": "Shut-off nozzle", "weight": 0.0, "id": 2780507023, "level": 3}
+{"count": 308, "name": "K-factor", "weight": 0.0, "id": 199726164, "level": 3}
+{"count": 50, "name": "Air pressurized water", "weight": 0.0, "id": 130448587, "level": 3}
+{"count": 34, "name": "Onboard refueling vapor recovery", "weight": 0.0, "id": 2778230219, "level": 3}
+{"count": 13, "name": "Stepped nozzle", "weight": 0.0, "id": 2779222833, "level": 3}

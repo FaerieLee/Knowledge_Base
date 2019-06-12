@@ -1,0 +1,8 @@
+{"count": 3395, "name": "Journaling file system", "weight": 3.0, "id": 2225880, "level": 4}
+{"count": 3744, "name": "Indexed file", "weight": 4.0, "id": 56317617, "level": 4}
+{"count": 4522, "name": "Device file", "weight": 5.0, "id": 193769178, "level": 4}
+{"count": 7901, "name": "Versioning file system", "weight": 8.0, "id": 166807848, "level": 4}
+{"count": 91, "name": "File copying", "weight": 0.0, "id": 2778381016, "level": 4}
+{"count": 8119, "name": "File Control Block", "weight": 9.0, "id": 180500224, "level": 4}
+{"count": 8767, "name": "Self-certifying File System", "weight": 9.0, "id": 82820731, "level": 4}
+{"count": 8998, "name": "Unix file types", "weight": 10.0, "id": 21729314, "level": 4}

@@ -1,0 +1,14 @@
+{"count": 6584, "name": "Femtocell", "weight": 4.0, "id": 152504517, "level": 3}
+{"count": 5540, "name": "Soft handover", "weight": 4.0, "id": 125450847, "level": 3}
+{"count": 3697, "name": "Macrocell", "weight": 2.0, "id": 2778291847, "level": 3}
+{"count": 6387, "name": "Backhaul (telecommunications)", "weight": 4.0, "id": 103760667, "level": 3}
+{"count": 799, "name": "Hand-off", "weight": 0.0, "id": 2781135683, "level": 3}
+{"count": 1860, "name": "Radio Resource Control", "weight": 1.0, "id": 2781028473, "level": 3}
+{"count": 285, "name": "Personal Handy-phone System", "weight": 0.0, "id": 39823553, "level": 3}
+{"count": 865, "name": "Cell ID", "weight": 0.0, "id": 2776168123, "level": 3}
+{"count": 222, "name": "Remote base station", "weight": 0.0, "id": 2777210368, "level": 3}
+{"count": 4360, "name": "Radio Base Station", "weight": 3.0, "id": 2781306414, "level": 3}
+{"count": 190, "name": "OTDOA", "weight": 0.0, "id": 2781365734, "level": 3}
+{"count": 744, "name": "Synchronization Channel", "weight": 0.0, "id": 2780659626, "level": 3}
+{"count": 101, "name": "Received signal code power", "weight": 0.0, "id": 2781437045, "level": 3}
+{"count": 13684, "name": "Base station identity code", "weight": 10.0, "id": 190679881, "level": 3}

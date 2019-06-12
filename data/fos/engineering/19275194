@@ -1,0 +1,17 @@
+{"count": 7034, "name": "Frequency-division multiplexing", "weight": 8.0, "id": 89061704, "level": 4}
+{"count": 8382, "name": "Time-division multiplexing", "weight": 9.0, "id": 50661577, "level": 4}
+{"count": 8630, "name": "Spatial multiplexing", "weight": 10.0, "id": 85884896, "level": 4}
+{"count": 4477, "name": "Statistical time division multiplexing", "weight": 5.0, "id": 173512123, "level": 4}
+{"count": 6085, "name": "Demultiplexer", "weight": 7.0, "id": 74819829, "level": 4}
+{"count": 845, "name": "Add-drop multiplexer", "weight": 0.0, "id": 2780290920, "level": 4}
+{"count": 694, "name": "Polarization-division multiplexing", "weight": 0.0, "id": 2780894989, "level": 4}
+{"count": 47, "name": "ATM Adaptation Layer 2", "weight": 0.0, "id": 2779118023, "level": 4}
+{"count": 433, "name": "Elementary stream", "weight": 0.0, "id": 2776564724, "level": 4}
+{"count": 45, "name": "Multiplexed display", "weight": 0.0, "id": 2779520490, "level": 4}
+{"count": 59, "name": "G.709", "weight": 0.0, "id": 2780828218, "level": 4}
+{"count": 143, "name": "Packetized elementary stream", "weight": 0.0, "id": 2777157062, "level": 4}
+{"count": 15, "name": "Inverse Multiplexing for ATM", "weight": 0.0, "id": 2781457079, "level": 4}
+{"count": 27, "name": "Digroup", "weight": 0.0, "id": 2778549459, "level": 4}
+{"count": 55, "name": "Inverse multiplexer", "weight": 0.0, "id": 2779780745, "level": 4}
+{"count": 5, "name": "AN/UCC-4", "weight": 0.0, "id": 2775957939, "level": 4}
+{"count": 48, "name": "Drop and insert", "weight": 0.0, "id": 2780609579, "level": 4}

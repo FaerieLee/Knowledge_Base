@@ -1,0 +1,95 @@
+{"count": 124341, "name": "Search engine", "weight": 10.0, "id": 97854310, "level": 2}
+{"count": 29621, "name": "Semantic Web", "weight": 2.0, "id": 2129575, "level": 2}
+{"count": 22189, "name": "Information extraction", "weight": 1.0, "id": 195807954, "level": 2}
+{"count": 50754, "name": "Search engine indexing", "weight": 4.0, "id": 75165309, "level": 2}
+{"count": 19490, "name": "Query language", "weight": 1.0, "id": 192028432, "level": 2}
+{"count": 12665, "name": "Information seeking", "weight": 1.0, "id": 2776636917, "level": 2}
+{"count": 9202, "name": "Document retrieval", "weight": 0.0, "id": 161156560, "level": 2}
+{"count": 12486, "name": "Question answering", "weight": 1.0, "id": 44291984, "level": 2}
+{"count": 20444, "name": "Query optimization", "weight": 1.0, "id": 157692150, "level": 2}
+{"count": 14606, "name": "Semantic similarity", "weight": 1.0, "id": 130318100, "level": 2}
+{"count": 10254, "name": "Data retrieval", "weight": 0.0, "id": 551230270, "level": 2}
+{"count": 19774, "name": "Query expansion", "weight": 1.0, "id": 99016210, "level": 2}
+{"count": 12276, "name": "Cataloging", "weight": 0.0, "id": 2777922441, "level": 2}
+{"count": 18598, "name": "Automatic summarization", "weight": 1.0, "id": 170858558, "level": 2}
+{"count": 6493, "name": "Document processing", "weight": 0.0, "id": 67905146, "level": 2}
+{"count": 1052, "name": "Latent semantic indexing", "weight": 0.0, "id": 146172628, "level": 2}
+{"count": 5726, "name": "Vector space model", "weight": 0.0, "id": 89686163, "level": 2}
+{"count": 1937, "name": "Link analysis", "weight": 0.0, "id": 1173588, "level": 2}
+{"count": 2637, "name": "Multimedia database", "weight": 0.0, "id": 2779061030, "level": 2}
+{"count": 8869, "name": "Electronic document", "weight": 0.0, "id": 2778315425, "level": 2}
+{"count": 2987, "name": "Controlled vocabulary", "weight": 0.0, "id": 110615152, "level": 2}
+{"count": 2421, "name": "Bibliographic database", "weight": 0.0, "id": 2779980791, "level": 2}
+{"count": 14540, "name": "Web crawler", "weight": 1.0, "id": 13743948, "level": 2}
+{"count": 2666, "name": "Unified Medical Language System", "weight": 0.0, "id": 69505689, "level": 2}
+{"count": 6166, "name": "WordNet", "weight": 0.0, "id": 157659113, "level": 2}
+{"count": 1066, "name": "Semantic matching", "weight": 0.0, "id": 2778493491, "level": 2}
+{"count": 2372, "name": "tf\u2013idf", "weight": 0.0, "id": 81758059, "level": 2}
+{"count": 1213, "name": "Information discovery", "weight": 0.0, "id": 2778522275, "level": 2}
+{"count": 1503, "name": "Keyword extraction", "weight": 0.0, "id": 2780288562, "level": 2}
+{"count": 1429, "name": "Folksonomy", "weight": 0.0, "id": 2778431730, "level": 2}
+{"count": 1190, "name": "Topic Maps", "weight": 0.0, "id": 55177894, "level": 2}
+{"count": 1775, "name": "Plagiarism detection", "weight": 0.0, "id": 2780907237, "level": 2}
+{"count": 1616, "name": "Index term", "weight": 0.0, "id": 5085185, "level": 2}
+{"count": 1179, "name": "Subject access", "weight": 0.0, "id": 2778756484, "level": 2}
+{"count": 481, "name": "Inspec", "weight": 0.0, "id": 2776187960, "level": 2}
+{"count": 517, "name": "Geographic information retrieval", "weight": 0.0, "id": 2775947874, "level": 2}
+{"count": 493, "name": "Faceted classification", "weight": 0.0, "id": 2778728365, "level": 2}
+{"count": 797, "name": "Geotagging", "weight": 0.0, "id": 53605480, "level": 2}
+{"count": 513, "name": "Faceted search", "weight": 0.0, "id": 2781446125, "level": 2}
+{"count": 6053, "name": "Information filtering system", "weight": 0.0, "id": 178674793, "level": 2}
+{"count": 646, "name": "Knowledge retrieval", "weight": 0.0, "id": 2780613888, "level": 2}
+{"count": 1568, "name": "TRECVID", "weight": 0.0, "id": 2777346527, "level": 2}
+{"count": 470, "name": "Online public access catalog", "weight": 0.0, "id": 2777911374, "level": 2}
+{"count": 1545, "name": "Document layout analysis", "weight": 0.0, "id": 72773152, "level": 2}
+{"count": 1395, "name": "Stop words", "weight": 0.0, "id": 188338183, "level": 2}
+{"count": 1618, "name": "Structured document", "weight": 0.0, "id": 2779000725, "level": 2}
+{"count": 705, "name": "Query string", "weight": 0.0, "id": 146658014, "level": 2}
+{"count": 6731, "name": "Precision and recall", "weight": 0.0, "id": 81669768, "level": 2}
+{"count": 525, "name": "Semantic HTML", "weight": 0.0, "id": 57298352, "level": 2}
+{"count": 943, "name": "Web document", "weight": 0.0, "id": 2776145802, "level": 2}
+{"count": 540, "name": "Structured text", "weight": 0.0, "id": 2778720807, "level": 2}
+{"count": 493, "name": "Aboutness", "weight": 0.0, "id": 2780200193, "level": 2}
+{"count": 13335, "name": "Semantic computing", "weight": 1.0, "id": 511149849, "level": 2}
+{"count": 420, "name": "Patent classification", "weight": 0.0, "id": 2781205746, "level": 2}
+{"count": 175, "name": "Multimodal search", "weight": 0.0, "id": 2781106253, "level": 2}
+{"count": 219, "name": "Random indexing", "weight": 0.0, "id": 2780291827, "level": 2}
+{"count": 224, "name": "IR evaluation", "weight": 0.0, "id": 2776561884, "level": 2}
+{"count": 315, "name": "Proximity search", "weight": 0.0, "id": 170390413, "level": 2}
+{"count": 424, "name": "Findability", "weight": 0.0, "id": 16976872, "level": 2}
+{"count": 3032, "name": "Clef", "weight": 0.0, "id": 107763842, "level": 2}
+{"count": 102, "name": "Geoparsing", "weight": 0.0, "id": 2781447726, "level": 2}
+{"count": 1041, "name": "Snippet", "weight": 0.0, "id": 2777822670, "level": 2}
+{"count": 751, "name": "Patent visualisation", "weight": 0.0, "id": 114419676, "level": 2}
+{"count": 401, "name": "Text Retrieval Conference", "weight": 0.0, "id": 2778444624, "level": 2}
+{"count": 148, "name": "Legal information retrieval", "weight": 0.0, "id": 2780695235, "level": 2}
+{"count": 123, "name": "Medical literature retrieval", "weight": 0.0, "id": 2778556988, "level": 2}
+{"count": 207, "name": "ClinicalKey", "weight": 0.0, "id": 2777797680, "level": 2}
+{"count": 1029, "name": "Source document", "weight": 0.0, "id": 105888452, "level": 2}
+{"count": 203, "name": "Infobox", "weight": 0.0, "id": 86047523, "level": 2}
+{"count": 130, "name": "Link relation", "weight": 0.0, "id": 2780315113, "level": 2}
+{"count": 136, "name": "Multisearch", "weight": 0.0, "id": 2777487095, "level": 2}
+{"count": 146, "name": "Layout engine", "weight": 0.0, "id": 2779168227, "level": 2}
+{"count": 192, "name": "Stemming", "weight": 0.0, "id": 92826697, "level": 2}
+{"count": 644, "name": "Search box", "weight": 0.0, "id": 2781330656, "level": 2}
+{"count": 1698, "name": "Result set", "weight": 0.0, "id": 4969071, "level": 2}
+{"count": 827, "name": "Text box", "weight": 0.0, "id": 97121614, "level": 2}
+{"count": 10273, "name": "Human\u2013computer information retrieval", "weight": 0.0, "id": 90288658, "level": 2}
+{"count": 262, "name": "Body text", "weight": 0.0, "id": 2776373490, "level": 2}
+{"count": 164, "name": "Intelligent document", "weight": 0.0, "id": 2777601251, "level": 2}
+{"count": 111, "name": "Duplicate content", "weight": 0.0, "id": 2780965657, "level": 2}
+{"count": 20623, "name": "Semantic Web Stack", "weight": 1.0, "id": 167379230, "level": 2}
+{"count": 315, "name": "Information retrieval applications", "weight": 0.0, "id": 2776844744, "level": 2}
+{"count": 34, "name": "Presentation semantics", "weight": 0.0, "id": 2777377292, "level": 2}
+{"count": 132, "name": "Title search", "weight": 0.0, "id": 2779504359, "level": 2}
+{"count": 16, "name": "Automatic taxonomy induction", "weight": 0.0, "id": 18135639, "level": 2}
+{"count": 6, "name": "Information retrieval query language", "weight": 0.0, "id": 2779872545, "level": 2}
+{"count": 12, "name": "Growbag", "weight": 0.0, "id": 2780483194, "level": 2}
+{"count": 3, "name": "Search/Retrieve via URL", "weight": 0.0, "id": 2777682965, "level": 2}
+{"count": 7, "name": "Cranfield experiments", "weight": 0.0, "id": 2780127065, "level": 2}
+{"count": 11, "name": "SMART Information Retrieval System", "weight": 0.0, "id": 2777088711, "level": 2}
+{"count": 4, "name": "Contextual Query Language", "weight": 0.0, "id": 2781212148, "level": 2}
+{"count": 9, "name": "Art & Architecture Thesaurus", "weight": 0.0, "id": 2776802379, "level": 2}
+{"count": 80, "name": "Relative Record Data Set", "weight": 0.0, "id": 4314685, "level": 2}
+{"count": 1, "name": "Google Scholar and academic libraries", "weight": 0.0, "id": 2776132930, "level": 2}
+{"count": 3, "name": "Image meta search", "weight": 0.0, "id": 2777626293, "level": 2}

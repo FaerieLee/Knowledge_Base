@@ -1,0 +1,36 @@
+{"count": 63954, "name": "Transmission system", "weight": 5.0, "id": 113608303, "level": 3}
+{"count": 8569, "name": "Transmission time", "weight": 0.0, "id": 153710370, "level": 3}
+{"count": 110739, "name": "Clutch", "weight": 10.0, "id": 30358287, "level": 3}
+{"count": 12979, "name": "Continuously variable transmission", "weight": 1.0, "id": 193235527, "level": 3}
+{"count": 27271, "name": "Automatic transmission", "weight": 2.0, "id": 164195044, "level": 3}
+{"count": 19648, "name": "Powertrain", "weight": 1.0, "id": 76047896, "level": 3}
+{"count": 18493, "name": "Gear ratio", "weight": 1.0, "id": 60349201, "level": 3}
+{"count": 13554, "name": "Differential (mechanical device)", "weight": 1.0, "id": 93226319, "level": 3}
+{"count": 18928, "name": "Spiral bevel gear", "weight": 1.0, "id": 136905703, "level": 3}
+{"count": 13163, "name": "Drivetrain", "weight": 1.0, "id": 105637607, "level": 3}
+{"count": 4711, "name": "Four-wheel drive", "weight": 0.0, "id": 2780454888, "level": 3}
+{"count": 2210, "name": "Transmission tower", "weight": 0.0, "id": 2778134400, "level": 3}
+{"count": 988, "name": "Magnetic gear", "weight": 0.0, "id": 2775996065, "level": 3}
+{"count": 1329, "name": "Harmonic drive", "weight": 0.0, "id": 2777105549, "level": 3}
+{"count": 4286, "name": "Transmission medium", "weight": 0.0, "id": 75072805, "level": 3}
+{"count": 9863, "name": "Gear train", "weight": 0.0, "id": 22486285, "level": 3}
+{"count": 1180, "name": "Transmission belt", "weight": 0.0, "id": 2780180281, "level": 3}
+{"count": 3426, "name": "Hybrid drive", "weight": 0.0, "id": 2780270850, "level": 3}
+{"count": 299, "name": "Asymmetric price transmission", "weight": 0.0, "id": 2776319785, "level": 3}
+{"count": 821, "name": "Discontinuous transmission", "weight": 0.0, "id": 2776451079, "level": 3}
+{"count": 331, "name": "Downshifting", "weight": 0.0, "id": 2776819454, "level": 3}
+{"count": 13862, "name": "Non-circular gear", "weight": 1.0, "id": 120308773, "level": 3}
+{"count": 152, "name": "Western Interconnection", "weight": 0.0, "id": 2777213303, "level": 3}
+{"count": 769, "name": "All-wheel drive", "weight": 0.0, "id": 2776736370, "level": 3}
+{"count": 2980, "name": "Variator", "weight": 0.0, "id": 2781230519, "level": 3}
+{"count": 293, "name": "Open Access Same-Time Information System", "weight": 0.0, "id": 138352572, "level": 3}
+{"count": 948, "name": "Transaxle", "weight": 0.0, "id": 164701551, "level": 3}
+{"count": 1065, "name": "Transmission control unit", "weight": 0.0, "id": 2780682211, "level": 3}
+{"count": 183, "name": "Error correction mode", "weight": 0.0, "id": 99398414, "level": 3}
+{"count": 56, "name": "Ratio spread", "weight": 0.0, "id": 2777823759, "level": 3}
+{"count": 301, "name": "Transmitter station", "weight": 0.0, "id": 2777796589, "level": 3}
+{"count": 55, "name": "Acoustic telegraphy", "weight": 0.0, "id": 138869749, "level": 3}
+{"count": 139, "name": "Transverse engine", "weight": 0.0, "id": 51673359, "level": 3}
+{"count": 325, "name": "Data signaling rate", "weight": 0.0, "id": 24555108, "level": 3}
+{"count": 436, "name": "Data transmission circuit", "weight": 0.0, "id": 2779743683, "level": 3}
+{"count": 24, "name": "Received noise power", "weight": 0.0, "id": 2780860092, "level": 3}

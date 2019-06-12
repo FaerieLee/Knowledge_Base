@@ -1,0 +1,8 @@
+{"count": 2038, "name": "Forward kinematics", "weight": 2.0, "id": 160970401, "level": 4}
+{"count": 8481, "name": "Robot calibration", "weight": 10.0, "id": 192299074, "level": 4}
+{"count": 653, "name": "Spherical robot", "weight": 0.0, "id": 2778688727, "level": 4}
+{"count": 2454, "name": "Kinematics equations", "weight": 2.0, "id": 204172952, "level": 4}
+{"count": 220, "name": "Denavit\u2013Hartenberg parameters", "weight": 0.0, "id": 2439996, "level": 4}
+{"count": 56, "name": "Pfaffian constraint", "weight": 0.0, "id": 138261627, "level": 4}
+{"count": 5622, "name": "Arm solution", "weight": 6.0, "id": 25592040, "level": 4}
+{"count": 2770, "name": "Bang-bang robot", "weight": 3.0, "id": 584957, "level": 4}

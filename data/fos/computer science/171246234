@@ -1,0 +1,17 @@
+{"count": 56, "name": "Call-Processing Language", "weight": 0.0, "id": 2779527699, "level": 3}
+{"count": 324, "name": "IP PBX", "weight": 2.0, "id": 2776675975, "level": 3}
+{"count": 42, "name": "Secure Real-time Transport Protocol", "weight": 0.0, "id": 2776661176, "level": 3}
+{"count": 114, "name": "Silence suppression", "weight": 0.0, "id": 2778376838, "level": 3}
+{"count": 218, "name": "Softphone", "weight": 1.0, "id": 2778018196, "level": 3}
+{"count": 116, "name": "Speex", "weight": 0.0, "id": 88561842, "level": 3}
+{"count": 71, "name": "ZRTP", "weight": 0.0, "id": 124936743, "level": 3}
+{"count": 307, "name": "VoIP gateway", "weight": 2.0, "id": 2778894717, "level": 3}
+{"count": 58, "name": "VoATM", "weight": 0.0, "id": 2781038914, "level": 3}
+{"count": 1419, "name": "SIP trunking", "weight": 10.0, "id": 174255183, "level": 3}
+{"count": 99, "name": "Packet telephony", "weight": 0.0, "id": 2779616436, "level": 3}
+{"count": 39, "name": "IMS security", "weight": 0.0, "id": 2778453115, "level": 3}
+{"count": 17, "name": "Internet telephony service provider", "weight": 0.0, "id": 2776643224, "level": 3}
+{"count": 15, "name": "Inter-Asterisk eXchange", "weight": 0.0, "id": 2779079362, "level": 3}
+{"count": 9, "name": "Skype protocol", "weight": 0.0, "id": 2778223013, "level": 3}
+{"count": 25, "name": "Analog telephone adapter", "weight": 0.0, "id": 2780680593, "level": 3}
+{"count": 12, "name": "VoIP recording", "weight": 0.0, "id": 2780290362, "level": 3}

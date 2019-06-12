@@ -1,0 +1,12 @@
+{"count": 310, "name": "Diffie\u2013Hellman problem", "weight": 9.0, "id": 2777570545, "level": 5}
+{"count": 192, "name": "Strong RSA assumption", "weight": 5.0, "id": 2781279103, "level": 5}
+{"count": 307, "name": "Certificateless cryptography", "weight": 9.0, "id": 2778049999, "level": 5}
+{"count": 47, "name": "Forking lemma", "weight": 1.0, "id": 2781241969, "level": 5}
+{"count": 330, "name": "Designated verifier signature", "weight": 10.0, "id": 2777839903, "level": 5}
+{"count": 164, "name": "Adaptive chosen-ciphertext attack", "weight": 4.0, "id": 130853099, "level": 5}
+{"count": 49, "name": "Computational Diffie\u2013Hellman assumption", "weight": 1.0, "id": 2777469930, "level": 5}
+{"count": 131, "name": "Generic group model", "weight": 3.0, "id": 2778269025, "level": 5}
+{"count": 69, "name": "Non-interactive zero-knowledge proof", "weight": 2.0, "id": 112293400, "level": 5}
+{"count": 35, "name": "Decision Linear assumption", "weight": 1.0, "id": 2778308963, "level": 5}
+{"count": 39, "name": "Full Domain Hash", "weight": 1.0, "id": 2779723619, "level": 5}
+{"count": 36, "name": "Standard model (cryptography)", "weight": 1.0, "id": 82910684, "level": 5}

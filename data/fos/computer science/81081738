@@ -1,0 +1,11 @@
+{"count": 2952, "name": "Adaptive coding", "weight": 3.0, "id": 57890076, "level": 4}
+{"count": 485, "name": "Burrows\u2013Wheeler transform", "weight": 0.0, "id": 151353873, "level": 4}
+{"count": 8434, "name": "Data compression ratio", "weight": 10.0, "id": 94835093, "level": 4}
+{"count": 386, "name": "Prediction by partial matching", "weight": 0.0, "id": 113081429, "level": 4}
+{"count": 291, "name": "JBIG", "weight": 0.0, "id": 2776885320, "level": 4}
+{"count": 58, "name": "Calgary corpus", "weight": 0.0, "id": 2776284002, "level": 4}
+{"count": 702, "name": "Dictionary coder", "weight": 0.0, "id": 55652533, "level": 4}
+{"count": 125, "name": "Lempel\u2013Ziv\u2013Welch", "weight": 0.0, "id": 2779804932, "level": 4}
+{"count": 3241, "name": "Lossless JPEG", "weight": 3.0, "id": 8384606, "level": 4}
+{"count": 14, "name": "Context mixing", "weight": 0.0, "id": 2779430832, "level": 4}
+{"count": 2489, "name": "Color Cell Compression", "weight": 2.0, "id": 82804729, "level": 4}

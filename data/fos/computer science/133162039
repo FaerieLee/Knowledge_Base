@@ -1,0 +1,7 @@
+{"count": 3143, "name": "Object code", "weight": 7.0, "id": 154526789, "level": 3}
+{"count": 75, "name": "Multi-stage programming", "weight": 0.0, "id": 2776122641, "level": 3}
+{"count": 3965, "name": "Redundant code", "weight": 10.0, "id": 151578736, "level": 3}
+{"count": 125, "name": "Peephole optimization", "weight": 0.0, "id": 4970464, "level": 3}
+{"count": 58, "name": "Umple", "weight": 0.0, "id": 2779962295, "level": 3}
+{"count": 168, "name": "Hand coding", "weight": 0.0, "id": 184633998, "level": 3}
+{"count": 17, "name": "PQCC", "weight": 0.0, "id": 2776990790, "level": 3}

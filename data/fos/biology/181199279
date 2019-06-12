@@ -1,0 +1,200 @@
+{"count": 40489, "name": "Enzyme inhibitor", "weight": 3.0, "id": 2776980637, "level": 3}
+{"count": 111957, "name": "Biosynthesis", "weight": 10.0, "id": 553450214, "level": 3}
+{"count": 80779, "name": "Enzyme assay", "weight": 7.0, "id": 28212737, "level": 3}
+{"count": 44357, "name": "Peroxidase", "weight": 3.0, "id": 162008176, "level": 3}
+{"count": 47096, "name": "Isozyme", "weight": 4.0, "id": 119795356, "level": 3}
+{"count": 55403, "name": "Active site", "weight": 4.0, "id": 41183919, "level": 3}
+{"count": 7839, "name": "Enzyme activator", "weight": 0.0, "id": 125209161, "level": 3}
+{"count": 36264, "name": "Cytochrome P450", "weight": 3.0, "id": 526171541, "level": 3}
+{"count": 42838, "name": "Catalase", "weight": 3.0, "id": 2778979269, "level": 3}
+{"count": 10115, "name": "Site-directed mutagenesis", "weight": 0.0, "id": 103408237, "level": 3}
+{"count": 60556, "name": "Specific activity", "weight": 5.0, "id": 198684833, "level": 3}
+{"count": 24093, "name": "Metabolic pathway", "weight": 2.0, "id": 192989942, "level": 3}
+{"count": 31277, "name": "Proteolysis", "weight": 2.0, "id": 2781307694, "level": 3}
+{"count": 40755, "name": "Microsome", "weight": 3.0, "id": 87644729, "level": 3}
+{"count": 46460, "name": "Trypsin", "weight": 4.0, "id": 2780340462, "level": 3}
+{"count": 30537, "name": "Cellulase", "weight": 2.0, "id": 141603559, "level": 3}
+{"count": 13820, "name": "Biocatalysis", "weight": 1.0, "id": 191503008, "level": 3}
+{"count": 35197, "name": "Phosphatase", "weight": 3.0, "id": 178666793, "level": 3}
+{"count": 8359, "name": "Enzyme inducer", "weight": 0.0, "id": 132154277, "level": 3}
+{"count": 18492, "name": "Immobilized enzyme", "weight": 1.0, "id": 33633552, "level": 3}
+{"count": 7263, "name": "Glycosyltransferase", "weight": 0.0, "id": 161019410, "level": 3}
+{"count": 36922, "name": "Cofactor", "weight": 3.0, "id": 197957613, "level": 3}
+{"count": 24106, "name": "Acid phosphatase", "weight": 2.0, "id": 21547065, "level": 3}
+{"count": 49121, "name": "ATPase", "weight": 4.0, "id": 23265538, "level": 3}
+{"count": 19511, "name": "Hydrolase", "weight": 1.0, "id": 2780120296, "level": 3}
+{"count": 21638, "name": "Enzymatic hydrolysis", "weight": 1.0, "id": 53270655, "level": 3}
+{"count": 14755, "name": "Oxidoreductase", "weight": 1.0, "id": 2779268744, "level": 3}
+{"count": 13343, "name": "Alcohol dehydrogenase", "weight": 1.0, "id": 2777344606, "level": 3}
+{"count": 41821, "name": "Lipase", "weight": 3.0, "id": 2779697368, "level": 3}
+{"count": 2421, "name": "Beta-galactosidase", "weight": 0.0, "id": 43053761, "level": 3}
+{"count": 25337, "name": "Transferase", "weight": 2.0, "id": 2776376580, "level": 3}
+{"count": 25407, "name": "ATP synthase", "weight": 2.0, "id": 112243037, "level": 3}
+{"count": 12497, "name": "Glucose oxidase", "weight": 1.0, "id": 2777197210, "level": 3}
+{"count": 973, "name": "Carboxy-lyases", "weight": 0.0, "id": 2780627266, "level": 3}
+{"count": 12016, "name": "Carbonic anhydrase", "weight": 1.0, "id": 2775914622, "level": 3}
+{"count": 7515, "name": "Glycoside hydrolase", "weight": 0.0, "id": 196032511, "level": 3}
+{"count": 37153, "name": "Amylase", "weight": 3.0, "id": 170835558, "level": 3}
+{"count": 7530, "name": "Dithiothreitol", "weight": 0.0, "id": 2777824588, "level": 3}
+{"count": 11318, "name": "Enzyme catalysis", "weight": 1.0, "id": 69118441, "level": 3}
+{"count": 48751, "name": "NAD+ kinase", "weight": 4.0, "id": 75520062, "level": 3}
+{"count": 23118, "name": "Allosteric regulation", "weight": 2.0, "id": 166342909, "level": 3}
+{"count": 9751, "name": "Lipoxygenase", "weight": 0.0, "id": 2780857362, "level": 3}
+{"count": 6202, "name": "Thymidylate synthase", "weight": 0.0, "id": 123321153, "level": 3}
+{"count": 6778, "name": "Oxygenase", "weight": 0.0, "id": 165474305, "level": 3}
+{"count": 83790, "name": "Protease", "weight": 7.0, "id": 2776714187, "level": 3}
+{"count": 27379, "name": "Oxidase test", "weight": 2.0, "id": 38485361, "level": 3}
+{"count": 11434, "name": "Laccase", "weight": 1.0, "id": 76935637, "level": 3}
+{"count": 13149, "name": "Enzyme kinetics", "weight": 1.0, "id": 56856141, "level": 3}
+{"count": 6872, "name": "Dihydrofolate reductase", "weight": 0.0, "id": 2781320022, "level": 3}
+{"count": 8224, "name": "Chitinase", "weight": 0.0, "id": 2780778831, "level": 3}
+{"count": 6592, "name": "Aldehyde dehydrogenase", "weight": 0.0, "id": 25747580, "level": 3}
+{"count": 7440, "name": "Phospholipase A", "weight": 0.0, "id": 2776888444, "level": 3}
+{"count": 9775, "name": "Urease", "weight": 0.0, "id": 2779521917, "level": 3}
+{"count": 4199, "name": "Succinate dehydrogenase", "weight": 0.0, "id": 2781330172, "level": 3}
+{"count": 7776, "name": "Pyruvate kinase", "weight": 0.0, "id": 2780854706, "level": 3}
+{"count": 7465, "name": "Malate dehydrogenase", "weight": 0.0, "id": 132901563, "level": 3}
+{"count": 7660, "name": "Glutamate dehydrogenase", "weight": 0.0, "id": 2777202666, "level": 3}
+{"count": 147, "name": "dGTPase", "weight": 0.0, "id": 2779640796, "level": 3}
+{"count": 3770, "name": "Enzyme inhibition", "weight": 0.0, "id": 2779715943, "level": 3}
+{"count": 35660, "name": "Reductase", "weight": 3.0, "id": 134651460, "level": 3}
+{"count": 6794, "name": "Pentose phosphate pathway", "weight": 0.0, "id": 3409486, "level": 3}
+{"count": 10747, "name": "Phospholipase", "weight": 0.0, "id": 12927208, "level": 3}
+{"count": 21020, "name": "Esterase", "weight": 1.0, "id": 2777261171, "level": 3}
+{"count": 7222, "name": "Hydrogenase", "weight": 0.0, "id": 79115784, "level": 3}
+{"count": 9167, "name": "Pectinase", "weight": 0.0, "id": 172854840, "level": 3}
+{"count": 41841, "name": "Dehydrogenase", "weight": 3.0, "id": 2776317432, "level": 3}
+{"count": 4223, "name": "Ribonucleotide reductase", "weight": 0.0, "id": 4710235, "level": 3}
+{"count": 2915, "name": "Glucose 6-phosphate", "weight": 0.0, "id": 2777790778, "level": 3}
+{"count": 4997, "name": "Aldose reductase", "weight": 0.0, "id": 2776439734, "level": 3}
+{"count": 5404, "name": "Directed evolution", "weight": 0.0, "id": 9418097, "level": 3}
+{"count": 2868, "name": "Glucuronidase", "weight": 0.0, "id": 2779181561, "level": 3}
+{"count": 3899, "name": "Phosphoenolpyruvate carboxylase", "weight": 0.0, "id": 111341932, "level": 3}
+{"count": 10949, "name": "Glycogen phosphorylase", "weight": 0.0, "id": 204779464, "level": 3}
+{"count": 11383, "name": "Coenzyme A", "weight": 1.0, "id": 2779123261, "level": 3}
+{"count": 7991, "name": "Lyase", "weight": 0.0, "id": 2777269803, "level": 3}
+{"count": 8229, "name": "Hexokinase", "weight": 0.0, "id": 2779826832, "level": 3}
+{"count": 4647, "name": "Catabolite repression", "weight": 0.0, "id": 83941689, "level": 3}
+{"count": 4113, "name": "Nicotinamide adenine dinucleotide phosphate", "weight": 0.0, "id": 2777989768, "level": 3}
+{"count": 4694, "name": "Autolysis (biology)", "weight": 0.0, "id": 104810894, "level": 3}
+{"count": 11266, "name": "Xylanase", "weight": 1.0, "id": 2775859485, "level": 3}
+{"count": 9679, "name": "Ribonuclease", "weight": 0.0, "id": 2778976237, "level": 3}
+{"count": 6127, "name": "Carboxypeptidase", "weight": 0.0, "id": 108477463, "level": 3}
+{"count": 6702, "name": "Citrate synthase", "weight": 0.0, "id": 111133373, "level": 3}
+{"count": 9301, "name": "Papain", "weight": 0.0, "id": 2779832904, "level": 3}
+{"count": 12442, "name": "Sepharose", "weight": 1.0, "id": 2779881004, "level": 3}
+{"count": 9086, "name": "Non-competitive inhibition", "weight": 0.0, "id": 150757390, "level": 3}
+{"count": 10216, "name": "Pyruvate carboxylase", "weight": 0.0, "id": 140137476, "level": 3}
+{"count": 2984, "name": "Thioredoxin reductase", "weight": 0.0, "id": 2777737464, "level": 3}
+{"count": 2081, "name": "NADH dehydrogenase", "weight": 0.0, "id": 2776319529, "level": 3}
+{"count": 2775, "name": "Epoxide hydrolase", "weight": 0.0, "id": 101819947, "level": 3}
+{"count": 2569, "name": "Malic enzyme", "weight": 0.0, "id": 2778957662, "level": 3}
+{"count": 9585, "name": "Flavin group", "weight": 0.0, "id": 33093398, "level": 3}
+{"count": 9256, "name": "Thermostability", "weight": 0.0, "id": 2781216036, "level": 3}
+{"count": 1567, "name": "Beta-glucuronidase", "weight": 0.0, "id": 2777322866, "level": 3}
+{"count": 4131, "name": "Isocitrate dehydrogenase", "weight": 0.0, "id": 2777150147, "level": 3}
+{"count": 6719, "name": "Isomerase", "weight": 0.0, "id": 2781264208, "level": 3}
+{"count": 4622, "name": "Protein quaternary structure", "weight": 0.0, "id": 7927669, "level": 3}
+{"count": 1294, "name": "Microbody", "weight": 0.0, "id": 12296475, "level": 3}
+{"count": 2644, "name": "Thermus thermophilus", "weight": 0.0, "id": 2780883830, "level": 3}
+{"count": 3196, "name": "Endopeptidase", "weight": 0.0, "id": 2777774944, "level": 3}
+{"count": 1062, "name": "DTNB", "weight": 0.0, "id": 2777426643, "level": 3}
+{"count": 4085, "name": "Pyridoxal phosphate", "weight": 0.0, "id": 2776834122, "level": 3}
+{"count": 7116, "name": "Phosphoenolpyruvate carboxykinase", "weight": 0.0, "id": 143937172, "level": 3}
+{"count": 2110, "name": "Glucose 6-phosphatase", "weight": 0.0, "id": 2779202576, "level": 3}
+{"count": 366, "name": "Stromelysin 1", "weight": 0.0, "id": 2778767966, "level": 3}
+{"count": 6336, "name": "Polyphenol oxidase", "weight": 0.0, "id": 2776338311, "level": 3}
+{"count": 2485, "name": "Phosphoglycerate kinase", "weight": 0.0, "id": 155911427, "level": 3}
+{"count": 5155, "name": "Glucuronidation", "weight": 0.0, "id": 2779907587, "level": 3}
+{"count": 4021, "name": "Glucanase", "weight": 0.0, "id": 2779530776, "level": 3}
+{"count": 2995, "name": "5'-nucleotidase", "weight": 0.0, "id": 2777913276, "level": 3}
+{"count": 4208, "name": "Michaelis\u2013Menten kinetics", "weight": 0.0, "id": 64915919, "level": 3}
+{"count": 2131, "name": "Aconitase", "weight": 0.0, "id": 200886947, "level": 3}
+{"count": 4676, "name": "Butyrylcholinesterase", "weight": 0.0, "id": 2779101902, "level": 3}
+{"count": 3011, "name": "Purine nucleoside phosphorylase", "weight": 0.0, "id": 71615608, "level": 3}
+{"count": 9227, "name": "Aminopeptidase", "weight": 0.0, "id": 2780985610, "level": 3}
+{"count": 3051, "name": "Sialidase", "weight": 0.0, "id": 73695083, "level": 3}
+{"count": 4714, "name": "Asparaginase", "weight": 0.0, "id": 2778904437, "level": 3}
+{"count": 2626, "name": "Aromatic L-amino acid decarboxylase", "weight": 0.0, "id": 58824617, "level": 3}
+{"count": 1531, "name": "Mannose 6-phosphate receptor", "weight": 0.0, "id": 120694314, "level": 3}
+{"count": 756, "name": "Galactosidases", "weight": 0.0, "id": 2777249184, "level": 3}
+{"count": 1101, "name": "Alcohol oxidase", "weight": 0.0, "id": 2779732469, "level": 3}
+{"count": 1533, "name": "Alpha-glucosidase", "weight": 0.0, "id": 2777832050, "level": 3}
+{"count": 1277, "name": "Triosephosphate isomerase", "weight": 0.0, "id": 2778727959, "level": 3}
+{"count": 622, "name": "Metabolic intermediate", "weight": 0.0, "id": 2781113356, "level": 3}
+{"count": 1621, "name": "Acetolactate synthase", "weight": 0.0, "id": 2780785311, "level": 3}
+{"count": 640, "name": "Fructose 6-phosphate", "weight": 0.0, "id": 2776478669, "level": 3}
+{"count": 302, "name": "Phosphodiesterase I", "weight": 0.0, "id": 2778218695, "level": 3}
+{"count": 505, "name": "Arylamine N-acetyltransferase", "weight": 0.0, "id": 2778328694, "level": 3}
+{"count": 7320, "name": "Invertase", "weight": 0.0, "id": 2778252681, "level": 3}
+{"count": 1517, "name": "Nucleoside-diphosphate kinase", "weight": 0.0, "id": 151903565, "level": 3}
+{"count": 2166, "name": "Phosphoglucomutase", "weight": 0.0, "id": 2776165552, "level": 3}
+{"count": 2982, "name": "Amidase", "weight": 0.0, "id": 65588867, "level": 3}
+{"count": 1373, "name": "Glucosidases", "weight": 0.0, "id": 2776584326, "level": 3}
+{"count": 2039, "name": "Chymosin", "weight": 0.0, "id": 2777548131, "level": 3}
+{"count": 1534, "name": "Pyrococcus furiosus", "weight": 0.0, "id": 2776943354, "level": 3}
+{"count": 3771, "name": "Acetyltransferase", "weight": 0.0, "id": 2779649592, "level": 3}
+{"count": 1975, "name": "Fructose 1,6-bisphosphatase", "weight": 0.0, "id": 189909181, "level": 3}
+{"count": 2263, "name": "Xanthine dehydrogenase", "weight": 0.0, "id": 151400659, "level": 3}
+{"count": 1337, "name": "Thermotoga maritima", "weight": 0.0, "id": 2777002520, "level": 3}
+{"count": 313, "name": "Procollagen-proline dioxygenase", "weight": 0.0, "id": 2780270011, "level": 3}
+{"count": 2850, "name": "Phosphotransferase", "weight": 0.0, "id": 2777504003, "level": 3}
+{"count": 415, "name": "Cinnamyl-alcohol dehydrogenase", "weight": 0.0, "id": 2780186017, "level": 3}
+{"count": 1402, "name": "Apyrase", "weight": 0.0, "id": 2779508331, "level": 3}
+{"count": 1165, "name": "IMP dehydrogenase", "weight": 0.0, "id": 38596361, "level": 3}
+{"count": 4046, "name": "Zymogen", "weight": 0.0, "id": 2778775115, "level": 3}
+{"count": 384, "name": "Guanylate kinase", "weight": 0.0, "id": 172078151, "level": 3}
+{"count": 1903, "name": "Transketolase", "weight": 0.0, "id": 103432212, "level": 3}
+{"count": 1607, "name": "Fumarase", "weight": 0.0, "id": 106302636, "level": 3}
+{"count": 1121, "name": "Arylsulfatase", "weight": 0.0, "id": 2778040462, "level": 3}
+{"count": 2815, "name": "Product inhibition", "weight": 0.0, "id": 2780434155, "level": 3}
+{"count": 1516, "name": "Methane monooxygenase", "weight": 0.0, "id": 23296010, "level": 3}
+{"count": 2674, "name": "Glucosyltransferase", "weight": 0.0, "id": 2777858569, "level": 3}
+{"count": 1977, "name": "Cyclic nucleotide phosphodiesterase", "weight": 0.0, "id": 2780215583, "level": 3}
+{"count": 3256, "name": "Ribonucleotide", "weight": 0.0, "id": 98892162, "level": 3}
+{"count": 1729, "name": "Formate dehydrogenase", "weight": 0.0, "id": 2778428456, "level": 3}
+{"count": 2510, "name": "Thermolysin", "weight": 0.0, "id": 185020521, "level": 3}
+{"count": 4472, "name": "Glyoxylate cycle", "weight": 0.0, "id": 165267168, "level": 3}
+{"count": 1315, "name": "Pectate lyase", "weight": 0.0, "id": 2776681119, "level": 3}
+{"count": 2374, "name": "Deoxyribonuclease", "weight": 0.0, "id": 2778659741, "level": 3}
+{"count": 916, "name": "Glycerol kinase", "weight": 0.0, "id": 2780282346, "level": 3}
+{"count": 2596, "name": "Sulfotransferase", "weight": 0.0, "id": 2775904581, "level": 3}
+{"count": 6663, "name": "Aldolase A", "weight": 0.0, "id": 28165981, "level": 3}
+{"count": 1571, "name": "Sulfolobus solfataricus", "weight": 0.0, "id": 2780631447, "level": 3}
+{"count": 4995, "name": "Pyridoxal", "weight": 0.0, "id": 2780859938, "level": 3}
+{"count": 4871, "name": "Dioxygenase", "weight": 0.0, "id": 2776834422, "level": 3}
+{"count": 1271, "name": "Dipeptidase", "weight": 0.0, "id": 80458899, "level": 3}
+{"count": 1894, "name": "Pyrophosphatase", "weight": 0.0, "id": 2780091537, "level": 3}
+{"count": 1159, "name": "Aspartate protease", "weight": 0.0, "id": 194761305, "level": 3}
+{"count": 883, "name": "Galactokinase", "weight": 0.0, "id": 196493046, "level": 3}
+{"count": 1720, "name": "Tyrosine aminotransferase", "weight": 0.0, "id": 2776491826, "level": 3}
+{"count": 857, "name": "Autolysin", "weight": 0.0, "id": 2776809874, "level": 3}
+{"count": 973, "name": "Xylose isomerase", "weight": 0.0, "id": 2779277513, "level": 3}
+{"count": 1124, "name": "Lactoylglutathione lyase", "weight": 0.0, "id": 129070979, "level": 3}
+{"count": 1236, "name": "Aldehyde oxidase", "weight": 0.0, "id": 2779840689, "level": 3}
+{"count": 87, "name": "Pyruvate formate lyase", "weight": 0.0, "id": 116476212, "level": 3}
+{"count": 947, "name": "N-acetyltransferase", "weight": 0.0, "id": 2778340702, "level": 3}
+{"count": 1249, "name": "Bacillus circulans", "weight": 0.0, "id": 2776295094, "level": 3}
+{"count": 183, "name": "Heparin lyase", "weight": 0.0, "id": 2781181889, "level": 3}
+{"count": 1607, "name": "Pullulanase", "weight": 0.0, "id": 2779423947, "level": 3}
+{"count": 1056, "name": "Nitrilase", "weight": 0.0, "id": 2780296214, "level": 3}
+{"count": 1196, "name": "Nitrile hydratase", "weight": 0.0, "id": 2779122190, "level": 3}
+{"count": 976, "name": "Cutinase", "weight": 0.0, "id": 2777613533, "level": 3}
+{"count": 1708, "name": "Trehalase", "weight": 0.0, "id": 2779315325, "level": 3}
+{"count": 1040, "name": "Inulinase", "weight": 0.0, "id": 2780236525, "level": 3}
+{"count": 378, "name": "Acetyl\u2014CoA synthetase", "weight": 0.0, "id": 2779479371, "level": 3}
+{"count": 2287, "name": "Glyceraldehyde", "weight": 0.0, "id": 2781272698, "level": 3}
+{"count": 494, "name": "Sucrase-isomaltase", "weight": 0.0, "id": 2777697372, "level": 3}
+{"count": 1203, "name": "Ferrochelatase", "weight": 0.0, "id": 2781149050, "level": 3}
+{"count": 2310, "name": "Amine oxidase", "weight": 0.0, "id": 117001961, "level": 3}
+{"count": 2168, "name": "Glucose-6-phosphate isomerase", "weight": 0.0, "id": 88189869, "level": 3}
+{"count": 2025, "name": "Iodoacetamide", "weight": 0.0, "id": 2776515853, "level": 3}
+{"count": 120, "name": "Nucleoside-triphosphatase", "weight": 0.0, "id": 2779278673, "level": 3}
+{"count": 1563, "name": "N-Acetylglucosamine", "weight": 0.0, "id": 2778815778, "level": 3}
+{"count": 2040, "name": "Sialyltransferase", "weight": 0.0, "id": 2778322149, "level": 3}
+{"count": 1909, "name": "Hexosaminidase", "weight": 0.0, "id": 111204789, "level": 3}
+{"count": 1117, "name": "Galactose oxidase", "weight": 0.0, "id": 2777438722, "level": 3}
+{"count": 3007, "name": "Transamination", "weight": 0.0, "id": 68793091, "level": 3}
+{"count": 317, "name": "Enoyl-CoA hydratase", "weight": 0.0, "id": 2777795737, "level": 3}
+{"count": 1268, "name": "Chromatofocusing", "weight": 0.0, "id": 2776829962, "level": 3}
+{"count": 529, "name": "Thermoplasma acidophilum", "weight": 0.0, "id": 2779198424, "level": 3}

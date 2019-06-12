@@ -1,0 +1,10 @@
+{"count": 15838, "name": "Radio access network", "weight": 9.0, "id": 106365562, "level": 3}
+{"count": 17093, "name": "Mobile Web", "weight": 10.0, "id": 516764902, "level": 3}
+{"count": 13960, "name": "Mobile database", "weight": 8.0, "id": 127353759, "level": 3}
+{"count": 7105, "name": "Public land mobile network", "weight": 4.0, "id": 36800599, "level": 3}
+{"count": 9273, "name": "GSM services", "weight": 5.0, "id": 205789325, "level": 3}
+{"count": 433, "name": "Dual mode mobile", "weight": 0.0, "id": 2778062476, "level": 3}
+{"count": 2315, "name": "Terminal adapter", "weight": 1.0, "id": 137921213, "level": 3}
+{"count": 13684, "name": "Base station identity code", "weight": 8.0, "id": 190679881, "level": 3}
+{"count": 209, "name": "Packet data serving node", "weight": 0.0, "id": 2777327500, "level": 3}
+{"count": 818, "name": "MSISDN", "weight": 0.0, "id": 62663425, "level": 3}

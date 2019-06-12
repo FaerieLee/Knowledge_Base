@@ -1,0 +1,6 @@
+{"count": 1196, "name": "Blob detection", "weight": 1.0, "id": 29168087, "level": 4}
+{"count": 4777, "name": "Sobel operator", "weight": 7.0, "id": 30703548, "level": 4}
+{"count": 6037, "name": "Canny edge detector", "weight": 10.0, "id": 14705441, "level": 4}
+{"count": 597, "name": "Interest point detection", "weight": 0.0, "id": 38785706, "level": 4}
+{"count": 3022, "name": "Morphological gradient", "weight": 5.0, "id": 96133863, "level": 4}
+{"count": 18, "name": "Hat operator", "weight": 0.0, "id": 52082742, "level": 4}

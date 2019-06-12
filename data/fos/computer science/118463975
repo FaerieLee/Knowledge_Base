@@ -1,0 +1,6 @@
+{"count": 1656, "name": "Group signature", "weight": 6.0, "id": 148408913, "level": 3}
+{"count": 131, "name": "Code signing", "weight": 0.0, "id": 2778697416, "level": 3}
+{"count": 2729, "name": "Schnorr signature", "weight": 10.0, "id": 124968333, "level": 3}
+{"count": 15, "name": "Time stamp protocol", "weight": 0.0, "id": 2779692023, "level": 3}
+{"count": 10, "name": "Signature Record Type Definition", "weight": 0.0, "id": 2780867729, "level": 3}
+{"count": 11, "name": "Detached signature", "weight": 0.0, "id": 39140955, "level": 3}

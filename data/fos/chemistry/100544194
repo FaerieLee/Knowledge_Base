@@ -1,0 +1,95 @@
+{"count": 9664, "name": "Saccharomyces", "weight": 9.0, "id": 2778447961, "level": 3}
+{"count": 8968, "name": "Bioconversion", "weight": 8.0, "id": 2780074830, "level": 3}
+{"count": 9984, "name": "Ethanol fermentation", "weight": 10.0, "id": 98861065, "level": 3}
+{"count": 9595, "name": "Yeast extract", "weight": 9.0, "id": 145890019, "level": 3}
+{"count": 6146, "name": "Volatile fatty acids", "weight": 6.0, "id": 2777954923, "level": 3}
+{"count": 7308, "name": "Solid-state fermentation", "weight": 7.0, "id": 2779942233, "level": 3}
+{"count": 5889, "name": "Aspergillus oryzae", "weight": 5.0, "id": 2781204770, "level": 3}
+{"count": 1896, "name": "Clostridium acetobutylicum", "weight": 1.0, "id": 2776928978, "level": 3}
+{"count": 3131, "name": "Yeast in winemaking", "weight": 3.0, "id": 36442339, "level": 3}
+{"count": 1292, "name": "Single-cell protein", "weight": 1.0, "id": 42566525, "level": 3}
+{"count": 6877, "name": "Industrial fermentation", "weight": 6.0, "id": 73401843, "level": 3}
+{"count": 2089, "name": "Rhizopus oryzae", "weight": 2.0, "id": 2778541762, "level": 3}
+{"count": 2081, "name": "Kluyveromyces marxianus", "weight": 2.0, "id": 2776917750, "level": 3}
+{"count": 4252, "name": "Winemaking", "weight": 4.0, "id": 2779737534, "level": 3}
+{"count": 3403, "name": "Acetobacter", "weight": 3.0, "id": 2779982601, "level": 3}
+{"count": 2740, "name": "Malolactic fermentation", "weight": 2.0, "id": 78945660, "level": 3}
+{"count": 1577, "name": "Acetic acid bacteria", "weight": 1.0, "id": 2777858148, "level": 3}
+{"count": 1454, "name": "Clostridium butyricum", "weight": 1.0, "id": 2777261523, "level": 3}
+{"count": 1602, "name": "Corn steep liquor", "weight": 1.0, "id": 2779078344, "level": 3}
+{"count": 2043, "name": "Kefir", "weight": 2.0, "id": 2778072784, "level": 3}
+{"count": 973, "name": "Xylose isomerase", "weight": 0.0, "id": 2779277513, "level": 3}
+{"count": 1730, "name": "Fed-batch culture", "weight": 1.0, "id": 167431671, "level": 3}
+{"count": 2069, "name": "Acetoin", "weight": 2.0, "id": 2777937268, "level": 3}
+{"count": 1040, "name": "Inulinase", "weight": 1.0, "id": 2780236525, "level": 3}
+{"count": 2489, "name": "Monascus", "weight": 2.0, "id": 2776534934, "level": 3}
+{"count": 659, "name": "Clostridium beijerinckii", "weight": 0.0, "id": 2776645570, "level": 3}
+{"count": 166, "name": "Pachysolen tannophilus", "weight": 0.0, "id": 2780058812, "level": 3}
+{"count": 748, "name": "Propionibacterium freudenreichii", "weight": 0.0, "id": 2781445088, "level": 3}
+{"count": 578, "name": "Fibrobacter succinogenes", "weight": 0.0, "id": 2776549489, "level": 3}
+{"count": 1064, "name": "2,3-Butanediol", "weight": 1.0, "id": 2775991252, "level": 3}
+{"count": 648, "name": "Acetate kinase", "weight": 0.0, "id": 2779826215, "level": 3}
+{"count": 797, "name": "Staphylococcus xylosus", "weight": 0.0, "id": 2779230927, "level": 3}
+{"count": 754, "name": "Rhizopus oligosporus", "weight": 0.0, "id": 2779516289, "level": 3}
+{"count": 469, "name": "Staphylococcus carnosus", "weight": 0.0, "id": 2779145239, "level": 3}
+{"count": 1822, "name": "Mashing", "weight": 1.0, "id": 2780985968, "level": 3}
+{"count": 340, "name": "Actinobacillus succinogenes", "weight": 0.0, "id": 2778444272, "level": 3}
+{"count": 2554, "name": "Fruit wine", "weight": 2.0, "id": 2781363790, "level": 3}
+{"count": 724, "name": "Nattokinase", "weight": 0.0, "id": 2778568395, "level": 3}
+{"count": 927, "name": "Zygosaccharomyces", "weight": 0.0, "id": 2776138541, "level": 3}
+{"count": 438, "name": "Clostridium tyrobutyricum", "weight": 0.0, "id": 2778563668, "level": 3}
+{"count": 924, "name": "Fusel alcohol", "weight": 0.0, "id": 13984183, "level": 3}
+{"count": 2636, "name": "Fermentation in winemaking", "weight": 2.0, "id": 21913473, "level": 3}
+{"count": 902, "name": "Free amino nitrogen", "weight": 0.0, "id": 29815224, "level": 3}
+{"count": 239, "name": "Co-fermentation", "weight": 0.0, "id": 2777589964, "level": 3}
+{"count": 1000, "name": "Stillage", "weight": 1.0, "id": 2776724825, "level": 3}
+{"count": 114, "name": "Streptomyces platensis", "weight": 0.0, "id": 2777668860, "level": 3}
+{"count": 756, "name": "Kombucha", "weight": 0.0, "id": 2779606406, "level": 3}
+{"count": 328, "name": "Glycerol dehydratase", "weight": 0.0, "id": 2779534793, "level": 3}
+{"count": 255, "name": "Overflow metabolism", "weight": 0.0, "id": 2779232346, "level": 3}
+{"count": 119, "name": "Clostridium thermosaccharolyticum", "weight": 0.0, "id": 2777553633, "level": 3}
+{"count": 205, "name": "Aspergillus foetidus", "weight": 0.0, "id": 2776604089, "level": 3}
+{"count": 779, "name": "Fermented fish", "weight": 0.0, "id": 2780794410, "level": 3}
+{"count": 177, "name": "Saccharopolyspora spinosa", "weight": 0.0, "id": 2776158169, "level": 3}
+{"count": 262, "name": "Acetogen", "weight": 0.0, "id": 2777212225, "level": 3}
+{"count": 260, "name": "Metschnikowia pulcherrima", "weight": 0.0, "id": 2776884089, "level": 3}
+{"count": 175, "name": "Clostridium kluyveri", "weight": 0.0, "id": 2781360175, "level": 3}
+{"count": 183, "name": "Cryptococcus curvatus", "weight": 0.0, "id": 2777632979, "level": 3}
+{"count": 367, "name": "Xylose metabolism", "weight": 0.0, "id": 2781135521, "level": 3}
+{"count": 483, "name": "Meju", "weight": 0.0, "id": 2779430438, "level": 3}
+{"count": 216, "name": "Killer yeast", "weight": 0.0, "id": 2777009279, "level": 3}
+{"count": 196, "name": "Clostridium saccharoperbutylacetonicum", "weight": 0.0, "id": 2776175495, "level": 3}
+{"count": 290, "name": "Saccharomycetes", "weight": 0.0, "id": 2780834129, "level": 3}
+{"count": 118, "name": "Streptomyces lydicus", "weight": 0.0, "id": 2776751759, "level": 3}
+{"count": 110, "name": "Aspergillus alliaceus", "weight": 0.0, "id": 2779235215, "level": 3}
+{"count": 734, "name": "Fermented tea", "weight": 0.0, "id": 2777668177, "level": 3}
+{"count": 258, "name": "Yeast flocculation", "weight": 0.0, "id": 2777387827, "level": 3}
+{"count": 1442, "name": "Erlenmeyer flask", "weight": 1.0, "id": 61460702, "level": 3}
+{"count": 138, "name": "Shiraia bambusicola", "weight": 0.0, "id": 2776469333, "level": 3}
+{"count": 1994, "name": "Tryptone", "weight": 1.0, "id": 2777342055, "level": 3}
+{"count": 111, "name": "Xylonic acid", "weight": 0.0, "id": 2776957394, "level": 3}
+{"count": 240, "name": "Hindgut fermentation", "weight": 0.0, "id": 80477878, "level": 3}
+{"count": 277, "name": "Peanut milk", "weight": 0.0, "id": 2780413352, "level": 3}
+{"count": 58, "name": "Viili", "weight": 0.0, "id": 2777799579, "level": 3}
+{"count": 91, "name": "Clostridium phytofermentans", "weight": 0.0, "id": 2776939882, "level": 3}
+{"count": 86, "name": "Soy molasses", "weight": 0.0, "id": 2776817586, "level": 3}
+{"count": 228, "name": "Starmerella", "weight": 0.0, "id": 2780409618, "level": 3}
+{"count": 68, "name": "Durham tube", "weight": 0.0, "id": 59958947, "level": 3}
+{"count": 18, "name": "Clostridium saccharobutylicum", "weight": 0.0, "id": 2779808809, "level": 3}
+{"count": 189, "name": "Saturnus", "weight": 0.0, "id": 2779224189, "level": 3}
+{"count": 9, "name": "Butyryl phosphate", "weight": 0.0, "id": 2776243961, "level": 3}
+{"count": 47, "name": "Acetolactic acid", "weight": 0.0, "id": 2780998350, "level": 3}
+{"count": 21, "name": "Tibicos", "weight": 0.0, "id": 2779285293, "level": 3}
+{"count": 24, "name": "Butanediol fermentation", "weight": 0.0, "id": 2778286383, "level": 3}
+{"count": 17, "name": "Acidaminobacter", "weight": 0.0, "id": 2781062042, "level": 3}
+{"count": 39, "name": "Interdelta", "weight": 0.0, "id": 2779077763, "level": 3}
+{"count": 18, "name": "Sour mash", "weight": 0.0, "id": 156755057, "level": 3}
+{"count": 18, "name": "Gloeoporus dichrous", "weight": 0.0, "id": 2777073346, "level": 3}
+{"count": 15, "name": "Hansenula subpelliculosa", "weight": 0.0, "id": 2779167481, "level": 3}
+{"count": 56, "name": "Gloeostereum", "weight": 0.0, "id": 2779888937, "level": 3}
+{"count": 71, "name": "Ketogulonicigenium", "weight": 0.0, "id": 2778764775, "level": 3}
+{"count": 76, "name": "Soured milk", "weight": 0.0, "id": 2777484550, "level": 3}
+{"count": 16, "name": "Acetanaerobacterium", "weight": 0.0, "id": 2780777891, "level": 3}
+{"count": 14, "name": "Fermentation theory", "weight": 0.0, "id": 2780749778, "level": 3}
+{"count": 17, "name": "Alkaliflexus", "weight": 0.0, "id": 2781094086, "level": 3}
+{"count": 56, "name": "Zymology", "weight": 0.0, "id": 152713613, "level": 3}

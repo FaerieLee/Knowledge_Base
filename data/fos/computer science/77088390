@@ -1,0 +1,200 @@
+{"count": 100235, "name": "Data processing", "weight": 7.0, "id": 138827492, "level": 2}
+{"count": 75655, "name": "Web service", "weight": 5.0, "id": 35578498, "level": 2}
+{"count": 35083, "name": "Data model", "weight": 2.0, "id": 9476365, "level": 2}
+{"count": 18276, "name": "Business intelligence", "weight": 1.0, "id": 2767350, "level": 2}
+{"count": 28628, "name": "Relational database", "weight": 2.0, "id": 5655090, "level": 2}
+{"count": 40061, "name": "Conceptual model", "weight": 2.0, "id": 13606891, "level": 2}
+{"count": 64098, "name": "Information management", "weight": 4.0, "id": 128487930, "level": 2}
+{"count": 47638, "name": "Data modeling", "weight": 3.0, "id": 67186912, "level": 2}
+{"count": 46135, "name": "XML", "weight": 3.0, "id": 8797682, "level": 2}
+{"count": 28830, "name": "Durability", "weight": 2.0, "id": 104304963, "level": 2}
+{"count": 135344, "name": "Scalability", "weight": 10.0, "id": 48044578, "level": 2}
+{"count": 63142, "name": "Data management", "weight": 4.0, "id": 1668388, "level": 2}
+{"count": 23104, "name": "System integration", "weight": 1.0, "id": 19527686, "level": 2}
+{"count": 34906, "name": "Middleware", "weight": 2.0, "id": 135802936, "level": 2}
+{"count": 26506, "name": "Network model", "weight": 1.0, "id": 104122410, "level": 2}
+{"count": 19490, "name": "Query language", "weight": 1.0, "id": 192028432, "level": 2}
+{"count": 15547, "name": "Data integrity", "weight": 1.0, "id": 33762810, "level": 2}
+{"count": 46218, "name": "Business process", "weight": 3.0, "id": 85345410, "level": 2}
+{"count": 14918, "name": "Distributed database", "weight": 1.0, "id": 70061542, "level": 2}
+{"count": 20437, "name": "Data flow diagram", "weight": 1.0, "id": 489000, "level": 2}
+{"count": 28008, "name": "Data quality", "weight": 2.0, "id": 24756922, "level": 2}
+{"count": 6303, "name": "Table (information)", "weight": 0.0, "id": 182716506, "level": 2}
+{"count": 64470, "name": "Metadata", "weight": 4.0, "id": 93518851, "level": 2}
+{"count": 23765, "name": "Data warehouse", "weight": 1.0, "id": 135572916, "level": 2}
+{"count": 9259, "name": "Hierarchical database model", "weight": 0.0, "id": 144986985, "level": 2}
+{"count": 14825, "name": "File system", "weight": 1.0, "id": 2780940931, "level": 2}
+{"count": 62429, "name": "Workflow", "weight": 4.0, "id": 177212765, "level": 2}
+{"count": 17967, "name": "Client\u2013server model", "weight": 1.0, "id": 152880691, "level": 2}
+{"count": 23341, "name": "Customer relationship management", "weight": 1.0, "id": 98825075, "level": 2}
+{"count": 11190, "name": "Information integration", "weight": 0.0, "id": 33326189, "level": 2}
+{"count": 6728, "name": "Concurrency control", "weight": 0.0, "id": 84511453, "level": 2}
+{"count": 4178, "name": "Data consistency", "weight": 0.0, "id": 93361087, "level": 2}
+{"count": 26935, "name": "Scaffold", "weight": 1.0, "id": 89429830, "level": 2}
+{"count": 21028, "name": "Data access", "weight": 1.0, "id": 47487241, "level": 2}
+{"count": 6388, "name": "Data extraction", "weight": 0.0, "id": 2777466982, "level": 2}
+{"count": 12123, "name": "RDF", "weight": 0.0, "id": 147497476, "level": 2}
+{"count": 10409, "name": "Overlay network", "weight": 0.0, "id": 169851745, "level": 2}
+{"count": 29944, "name": "Web server", "weight": 2.0, "id": 11392498, "level": 2}
+{"count": 20444, "name": "Query optimization", "weight": 1.0, "id": 157692150, "level": 2}
+{"count": 15986, "name": "Data integration", "weight": 1.0, "id": 72634772, "level": 2}
+{"count": 7180, "name": "Temporal database", "weight": 0.0, "id": 77277458, "level": 2}
+{"count": 16642, "name": "Data exchange", "weight": 1.0, "id": 15845906, "level": 2}
+{"count": 8985, "name": "Access method", "weight": 0.0, "id": 70000936, "level": 2}
+{"count": 22917, "name": "Database design", "weight": 1.0, "id": 148840519, "level": 2}
+{"count": 85223, "name": "Database transaction", "weight": 6.0, "id": 75949130, "level": 2}
+{"count": 11244, "name": "Linked data", "weight": 0.0, "id": 69075417, "level": 2}
+{"count": 5217, "name": "Electronic data interchange", "weight": 0.0, "id": 41525213, "level": 2}
+{"count": 8456, "name": "Markup language", "weight": 0.0, "id": 45874996, "level": 2}
+{"count": 10733, "name": "Application programming interface", "weight": 0.0, "id": 99613125, "level": 2}
+{"count": 25478, "name": "SQL", "weight": 1.0, "id": 510870499, "level": 2}
+{"count": 16374, "name": "Oracle", "weight": 1.0, "id": 55166926, "level": 2}
+{"count": 5832, "name": "Domain model", "weight": 0.0, "id": 92548554, "level": 2}
+{"count": 10254, "name": "Data retrieval", "weight": 0.0, "id": 551230270, "level": 2}
+{"count": 10036, "name": "Information model", "weight": 0.0, "id": 21338462, "level": 2}
+{"count": 3337, "name": "Range query (data structures)", "weight": 0.0, "id": 110432227, "level": 2}
+{"count": 12803, "name": "Content management", "weight": 0.0, "id": 33039251, "level": 2}
+{"count": 6859, "name": "Distributed object", "weight": 0.0, "id": 81192388, "level": 2}
+{"count": 6267, "name": "Semantic data model", "weight": 0.0, "id": 90312973, "level": 2}
+{"count": 8156, "name": "Dynamic data", "weight": 0.0, "id": 197298091, "level": 2}
+{"count": 3838, "name": "Entity\u2013relationship model", "weight": 0.0, "id": 103593891, "level": 2}
+{"count": 7491, "name": "Enterprise system", "weight": 0.0, "id": 67571701, "level": 2}
+{"count": 8709, "name": "Common Object Request Broker Architecture", "weight": 0.0, "id": 49312422, "level": 2}
+{"count": 2824, "name": "Record linkage", "weight": 0.0, "id": 142210648, "level": 2}
+{"count": 19774, "name": "Query expansion", "weight": 1.0, "id": 99016210, "level": 2}
+{"count": 11361, "name": "Document management system", "weight": 0.0, "id": 2278759, "level": 2}
+{"count": 5018, "name": "Distributed File System", "weight": 0.0, "id": 152043487, "level": 2}
+{"count": 3519, "name": "Data cube", "weight": 0.0, "id": 78168278, "level": 2}
+{"count": 4252, "name": "Data system", "weight": 0.0, "id": 203481301, "level": 2}
+{"count": 2637, "name": "Multimedia database", "weight": 0.0, "id": 2779061030, "level": 2}
+{"count": 6446, "name": "Enterprise information security architecture", "weight": 0.0, "id": 31139447, "level": 2}
+{"count": 4280, "name": "Data validation", "weight": 0.0, "id": 92446256, "level": 2}
+{"count": 8869, "name": "Electronic document", "weight": 0.0, "id": 2778315425, "level": 2}
+{"count": 6868, "name": "Distributed data store", "weight": 0.0, "id": 24885549, "level": 2}
+{"count": 34466, "name": "Diagram", "weight": 2.0, "id": 186399060, "level": 2}
+{"count": 5111, "name": "Replication (computing)", "weight": 0.0, "id": 70440993, "level": 2}
+{"count": 829, "name": "Very large database", "weight": 0.0, "id": 23549232, "level": 2}
+{"count": 6802, "name": "GiST", "weight": 0.0, "id": 2775922572, "level": 2}
+{"count": 11594, "name": "JavaScript", "weight": 0.0, "id": 544833334, "level": 2}
+{"count": 18006, "name": "Application server", "weight": 1.0, "id": 164554305, "level": 2}
+{"count": 21912, "name": "Computer file", "weight": 1.0, "id": 95637964, "level": 2}
+{"count": 4290, "name": "First class", "weight": 0.0, "id": 2779849256, "level": 2}
+{"count": 1561, "name": "Canonical model", "weight": 0.0, "id": 183064784, "level": 2}
+{"count": 3260, "name": "Scalable Vector Graphics", "weight": 0.0, "id": 202629362, "level": 2}
+{"count": 29806, "name": "Analytics", "weight": 2.0, "id": 79158427, "level": 2}
+{"count": 2717, "name": "Task management", "weight": 0.0, "id": 2780021488, "level": 2}
+{"count": 1143, "name": "Active database", "weight": 0.0, "id": 2778744189, "level": 2}
+{"count": 3767, "name": "Data manipulation language", "weight": 0.0, "id": 56288433, "level": 2}
+{"count": 2262, "name": "COBOL", "weight": 0.0, "id": 128595289, "level": 2}
+{"count": 1286, "name": "Biological database", "weight": 0.0, "id": 20901353, "level": 2}
+{"count": 9192, "name": "File format", "weight": 0.0, "id": 97250363, "level": 2}
+{"count": 2864, "name": "Composite index", "weight": 0.0, "id": 2778098375, "level": 2}
+{"count": 1361, "name": "Deductive database", "weight": 0.0, "id": 2777502361, "level": 2}
+{"count": 13847, "name": "Data as a service", "weight": 1.0, "id": 97300177, "level": 2}
+{"count": 336, "name": "Operational transformation", "weight": 0.0, "id": 2779683485, "level": 2}
+{"count": 24236, "name": "Data file", "weight": 1.0, "id": 171730128, "level": 2}
+{"count": 1834, "name": "Database security", "weight": 0.0, "id": 2778553114, "level": 2}
+{"count": 3480, "name": "ASP.NET", "weight": 0.0, "id": 2780554980, "level": 2}
+{"count": 3679, "name": "Metis", "weight": 0.0, "id": 2780705272, "level": 2}
+{"count": 5453, "name": "Cost database", "weight": 0.0, "id": 15716912, "level": 2}
+{"count": 2314, "name": "Datalog", "weight": 0.0, "id": 148230440, "level": 2}
+{"count": 3072, "name": "Data migration", "weight": 0.0, "id": 146152329, "level": 2}
+{"count": 3356, "name": "Fact sheet", "weight": 0.0, "id": 2776343770, "level": 2}
+{"count": 4419, "name": "Leech", "weight": 0.0, "id": 180746962, "level": 2}
+{"count": 2568, "name": ".NET Framework", "weight": 0.0, "id": 523747234, "level": 2}
+{"count": 6792, "name": "Data-driven", "weight": 0.0, "id": 2780440489, "level": 2}
+{"count": 2483, "name": "Center of excellence", "weight": 0.0, "id": 2778760837, "level": 2}
+{"count": 826, "name": "B-tree", "weight": 0.0, "id": 78669399, "level": 2}
+{"count": 40265, "name": "Backup", "weight": 2.0, "id": 2780945871, "level": 2}
+{"count": 3685, "name": "Data deduplication", "weight": 0.0, "id": 32587265, "level": 2}
+{"count": 2251, "name": "Uniform resource locator", "weight": 0.0, "id": 27738892, "level": 2}
+{"count": 15248, "name": "Snapshot (computer storage)", "weight": 1.0, "id": 55282118, "level": 2}
+{"count": 6931, "name": "Orchestration (computing)", "weight": 0.0, "id": 2777103994, "level": 2}
+{"count": 1616, "name": "Index term", "weight": 0.0, "id": 5085185, "level": 2}
+{"count": 1268, "name": "Interface description language", "weight": 0.0, "id": 177216440, "level": 2}
+{"count": 752, "name": "Uniform resource identifier", "weight": 0.0, "id": 27802493, "level": 2}
+{"count": 573, "name": "Associative array", "weight": 0.0, "id": 168781493, "level": 2}
+{"count": 4492, "name": "Business logic", "weight": 0.0, "id": 146222976, "level": 2}
+{"count": 3279, "name": "Rollback", "weight": 0.0, "id": 174220543, "level": 2}
+{"count": 41189, "name": "Data processing system", "weight": 3.0, "id": 112118009, "level": 2}
+{"count": 604, "name": "Minimum bounding rectangle", "weight": 0.0, "id": 150817132, "level": 2}
+{"count": 302, "name": "Event condition action", "weight": 0.0, "id": 2780647141, "level": 2}
+{"count": 6023, "name": "Data mapping", "weight": 0.0, "id": 137314826, "level": 2}
+{"count": 4126, "name": "Perl", "weight": 0.0, "id": 2777002779, "level": 2}
+{"count": 5509, "name": "Data field", "weight": 0.0, "id": 194207283, "level": 2}
+{"count": 3981, "name": "Hard copy", "weight": 0.0, "id": 2776304547, "level": 2}
+{"count": 1237, "name": "Storage efficiency", "weight": 0.0, "id": 121838778, "level": 2}
+{"count": 10131, "name": "Database server", "weight": 0.0, "id": 205295232, "level": 2}
+{"count": 1166, "name": "Hibernation (computing)", "weight": 0.0, "id": 119865680, "level": 2}
+{"count": 9974, "name": "Dimensional modeling", "weight": 0.0, "id": 143008350, "level": 2}
+{"count": 2035, "name": "JSON", "weight": 0.0, "id": 2780416260, "level": 2}
+{"count": 4216, "name": "Serialization", "weight": 0.0, "id": 52723943, "level": 2}
+{"count": 1042, "name": "Real-time database", "weight": 0.0, "id": 2776675167, "level": 2}
+{"count": 394, "name": "Aggregate function", "weight": 0.0, "id": 2778861586, "level": 2}
+{"count": 626, "name": "Statistical database", "weight": 0.0, "id": 2779287364, "level": 2}
+{"count": 16381, "name": "Services computing", "weight": 1.0, "id": 542858634, "level": 2}
+{"count": 1782, "name": "Business object", "weight": 0.0, "id": 20151700, "level": 2}
+{"count": 9679, "name": "Tuple", "weight": 0.0, "id": 118930307, "level": 2}
+{"count": 5550, "name": "Data loss", "weight": 0.0, "id": 193519340, "level": 2}
+{"count": 900, "name": "Parallel database", "weight": 0.0, "id": 2777541480, "level": 2}
+{"count": 1439, "name": "Mind map", "weight": 0.0, "id": 2779808312, "level": 2}
+{"count": 925, "name": "Effective date", "weight": 0.0, "id": 34756918, "level": 2}
+{"count": 2143, "name": "Database application", "weight": 0.0, "id": 2778625365, "level": 2}
+{"count": 635, "name": "Network partition", "weight": 0.0, "id": 2780860992, "level": 2}
+{"count": 716, "name": "CityGML", "weight": 0.0, "id": 2776744651, "level": 2}
+{"count": 1884, "name": "Identification scheme", "weight": 0.0, "id": 2778922385, "level": 2}
+{"count": 1085, "name": "Persistent data structure", "weight": 0.0, "id": 888380, "level": 2}
+{"count": 784, "name": "Completion rate", "weight": 0.0, "id": 2778461770, "level": 2}
+{"count": 435, "name": "Z39.50", "weight": 0.0, "id": 2779695773, "level": 2}
+{"count": 1245, "name": "Database administrator", "weight": 0.0, "id": 70236469, "level": 2}
+{"count": 538, "name": "Data independence", "weight": 0.0, "id": 153455498, "level": 2}
+{"count": 539, "name": "Hierarchical Data Format", "weight": 0.0, "id": 172444134, "level": 2}
+{"count": 136, "name": "Persistent object store", "weight": 0.0, "id": 2777486838, "level": 2}
+{"count": 353, "name": "Federated Architecture", "weight": 0.0, "id": 132474827, "level": 2}
+{"count": 927, "name": "Synchronized Multimedia Integration Language", "weight": 0.0, "id": 185628590, "level": 2}
+{"count": 1273, "name": "Data verification", "weight": 0.0, "id": 49895821, "level": 2}
+{"count": 2421, "name": "Online database", "weight": 0.0, "id": 2777715827, "level": 2}
+{"count": 4931, "name": "Alias", "weight": 0.0, "id": 46681722, "level": 2}
+{"count": 884, "name": "Data discovery", "weight": 0.0, "id": 2777516300, "level": 2}
+{"count": 329, "name": "ABAP", "weight": 0.0, "id": 2780864719, "level": 2}
+{"count": 35070, "name": "Row", "weight": 2.0, "id": 135598885, "level": 2}
+{"count": 6824, "name": "Spanner", "weight": 0.0, "id": 2779585601, "level": 2}
+{"count": 6929, "name": "Client-side", "weight": 0.0, "id": 202477664, "level": 2}
+{"count": 1618, "name": "Structured document", "weight": 0.0, "id": 2779000725, "level": 2}
+{"count": 705, "name": "Query string", "weight": 0.0, "id": 146658014, "level": 2}
+{"count": 399, "name": "Data binding", "weight": 0.0, "id": 104257957, "level": 2}
+{"count": 583, "name": "Tropicos", "weight": 0.0, "id": 2780539277, "level": 2}
+{"count": 6698, "name": "Server-side", "weight": 0.0, "id": 14414571, "level": 2}
+{"count": 2220, "name": "One-to-one", "weight": 0.0, "id": 2777756166, "level": 2}
+{"count": 1311, "name": "Storage model", "weight": 0.0, "id": 2779659223, "level": 2}
+{"count": 1638, "name": "Integration platform", "weight": 0.0, "id": 2777024059, "level": 2}
+{"count": 363, "name": "Electronically stored information", "weight": 0.0, "id": 178768807, "level": 2}
+{"count": 815, "name": "ArcGIS Server", "weight": 0.0, "id": 164833729, "level": 2}
+{"count": 219, "name": "Qubes", "weight": 0.0, "id": 2778096823, "level": 2}
+{"count": 213, "name": "Data lineage", "weight": 0.0, "id": 2776071633, "level": 2}
+{"count": 1517, "name": "Master data", "weight": 0.0, "id": 61871575, "level": 2}
+{"count": 2435, "name": "Operational system", "weight": 0.0, "id": 2779716392, "level": 2}
+{"count": 688, "name": "Capacity optimization", "weight": 0.0, "id": 2776469763, "level": 2}
+{"count": 564, "name": "Mallet finger", "weight": 0.0, "id": 2777135737, "level": 2}
+{"count": 121, "name": "File comparison", "weight": 0.0, "id": 2776047175, "level": 2}
+{"count": 651, "name": "NetCDF", "weight": 0.0, "id": 11090531, "level": 2}
+{"count": 322, "name": "WebDAV", "weight": 0.0, "id": 2776015121, "level": 2}
+{"count": 1149, "name": "Tombstone (data store)", "weight": 0.0, "id": 2777061860, "level": 2}
+{"count": 309, "name": "Virtual Storage Access Method", "weight": 0.0, "id": 67299102, "level": 2}
+{"count": 920, "name": "Enterprise portal", "weight": 0.0, "id": 17160998, "level": 2}
+{"count": 1655, "name": "Data domain", "weight": 0.0, "id": 84270502, "level": 2}
+{"count": 2572, "name": "Data access layer", "weight": 0.0, "id": 20277647, "level": 2}
+{"count": 873, "name": "Processing Instruction", "weight": 0.0, "id": 1279868, "level": 2}
+{"count": 1121, "name": "Visual FoxPro", "weight": 0.0, "id": 2779878460, "level": 2}
+{"count": 683, "name": "Portlet", "weight": 0.0, "id": 2777114346, "level": 2}
+{"count": 22052, "name": "Commit", "weight": 1.0, "id": 153180980, "level": 2}
+{"count": 1412, "name": "CICS", "weight": 0.0, "id": 45177590, "level": 2}
+{"count": 2100, "name": "Table (database)", "weight": 0.0, "id": 45235069, "level": 2}
+{"count": 391, "name": "IETM", "weight": 0.0, "id": 2776077067, "level": 2}
+{"count": 229, "name": "U-form", "weight": 0.0, "id": 6292241, "level": 2}
+{"count": 918, "name": "Database engine", "weight": 0.0, "id": 2779177007, "level": 2}
+{"count": 6998, "name": "Remote evaluation", "weight": 0.0, "id": 102063265, "level": 2}
+{"count": 148, "name": "Data, context and interaction", "weight": 0.0, "id": 198320079, "level": 2}
+{"count": 291, "name": "CODASYL", "weight": 0.0, "id": 2779681417, "level": 2}
+{"count": 49, "name": "Storage resource management", "weight": 0.0, "id": 2777336905, "level": 2}
+{"count": 165, "name": "Decentralized computing", "weight": 0.0, "id": 2778589768, "level": 2}

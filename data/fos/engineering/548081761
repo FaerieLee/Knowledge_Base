@@ -1,0 +1,200 @@
+{"count": 206370, "name": "Biomass", "weight": 5.0, "id": 2779371384, "level": 2}
+{"count": 122070, "name": "Fossil fuel", "weight": 3.0, "id": 68189081, "level": 2}
+{"count": 187729, "name": "Wastewater", "weight": 5.0, "id": 94061648, "level": 2}
+{"count": 362085, "name": "Combustion", "weight": 10.0, "id": 105923489, "level": 2}
+{"count": 72896, "name": "Radioactive waste", "weight": 2.0, "id": 89690796, "level": 2}
+{"count": 98054, "name": "Natural gas", "weight": 2.0, "id": 59427239, "level": 2}
+{"count": 114292, "name": "Sewage treatment", "weight": 3.0, "id": 57442070, "level": 2}
+{"count": 128300, "name": "Power station", "weight": 3.0, "id": 4311470, "level": 2}
+{"count": 81674, "name": "Pyrolysis", "weight": 2.0, "id": 36759035, "level": 2}
+{"count": 70042, "name": "Water treatment", "weight": 1.0, "id": 190960625, "level": 2}
+{"count": 250190, "name": "Coal", "weight": 6.0, "id": 518851703, "level": 2}
+{"count": 43787, "name": "Bioreactor", "weight": 1.0, "id": 168170006, "level": 2}
+{"count": 68378, "name": "Public transport", "weight": 1.0, "id": 539828613, "level": 2}
+{"count": 58737, "name": "Municipal solid waste", "weight": 1.0, "id": 75779659, "level": 2}
+{"count": 122527, "name": "Sludge", "weight": 3.0, "id": 59856384, "level": 2}
+{"count": 21544, "name": "Human decontamination", "weight": 0.0, "id": 107211472, "level": 2}
+{"count": 65525, "name": "Fly ash", "weight": 1.0, "id": 87343466, "level": 2}
+{"count": 107374, "name": "Diesel fuel", "weight": 2.0, "id": 138171918, "level": 2}
+{"count": 31381, "name": "Waste treatment", "weight": 0.0, "id": 65545243, "level": 2}
+{"count": 50950, "name": "Thermal power station", "weight": 1.0, "id": 2039551, "level": 2}
+{"count": 41600, "name": "Biodiesel", "weight": 1.0, "id": 52896960, "level": 2}
+{"count": 56046, "name": "Fluidized bed", "weight": 1.0, "id": 2084832, "level": 2}
+{"count": 79889, "name": "Diesel engine", "weight": 2.0, "id": 2780804531, "level": 2}
+{"count": 39521, "name": "Energy policy", "weight": 1.0, "id": 131046424, "level": 2}
+{"count": 35961, "name": "Flocculation", "weight": 0.0, "id": 148815931, "level": 2}
+{"count": 47780, "name": "Fuel efficiency", "weight": 1.0, "id": 45882903, "level": 2}
+{"count": 77837, "name": "Sewage", "weight": 2.0, "id": 58790150, "level": 2}
+{"count": 66065, "name": "Hazardous waste", "weight": 1.0, "id": 22507642, "level": 2}
+{"count": 20865, "name": "Industrial waste", "weight": 0.0, "id": 2781224309, "level": 2}
+{"count": 17817, "name": "Thermal treatment", "weight": 0.0, "id": 95311098, "level": 2}
+{"count": 44120, "name": "Biogas", "weight": 1.0, "id": 75212476, "level": 2}
+{"count": 13197, "name": "Litter", "weight": 0.0, "id": 2779429622, "level": 2}
+{"count": 95267, "name": "Effluent", "weight": 2.0, "id": 147455438, "level": 2}
+{"count": 55315, "name": "Gasoline", "weight": 1.0, "id": 103697071, "level": 2}
+{"count": 136063, "name": "Boiler (power generation)", "weight": 3.0, "id": 150048076, "level": 2}
+{"count": 22481, "name": "Life-cycle assessment", "weight": 0.0, "id": 2778706760, "level": 2}
+{"count": 24624, "name": "Leachate", "weight": 0.0, "id": 16925390, "level": 2}
+{"count": 35184, "name": "Thermal energy storage", "weight": 0.0, "id": 183287310, "level": 2}
+{"count": 25513, "name": "Charcoal", "weight": 0.0, "id": 526406351, "level": 2}
+{"count": 13854, "name": "Pilot plant", "weight": 0.0, "id": 2780956279, "level": 2}
+{"count": 51377, "name": "Heat pump", "weight": 1.0, "id": 2776461528, "level": 2}
+{"count": 70534, "name": "Reuse", "weight": 1.0, "id": 206588197, "level": 2}
+{"count": 50807, "name": "Oil shale", "weight": 1.0, "id": 153127940, "level": 2}
+{"count": 6840, "name": "Valorisation", "weight": 0.0, "id": 2779972723, "level": 2}
+{"count": 17578, "name": "Energy recovery", "weight": 0.0, "id": 141675481, "level": 2}
+{"count": 34453, "name": "Fuel gas", "weight": 0.0, "id": 26625249, "level": 2}
+{"count": 86638, "name": "Exhaust gas", "weight": 2.0, "id": 2779139147, "level": 2}
+{"count": 26602, "name": "Thermal efficiency", "weight": 0.0, "id": 50406533, "level": 2}
+{"count": 44417, "name": "Environmental remediation", "weight": 1.0, "id": 522964758, "level": 2}
+{"count": 229, "name": "Transfer technique", "weight": 0.0, "id": 2778180606, "level": 2}
+{"count": 17215, "name": "Petrochemical", "weight": 0.0, "id": 170573351, "level": 2}
+{"count": 51218, "name": "Aeration", "weight": 1.0, "id": 86922832, "level": 2}
+{"count": 13697, "name": "Exergy", "weight": 0.0, "id": 113146524, "level": 2}
+{"count": 31954, "name": "Compost", "weight": 0.0, "id": 2780739461, "level": 2}
+{"count": 42531, "name": "Incineration", "weight": 1.0, "id": 130751788, "level": 2}
+{"count": 23860, "name": "Desalination", "weight": 0.0, "id": 2776870568, "level": 2}
+{"count": 22134, "name": "Biodegradable waste", "weight": 0.0, "id": 13080248, "level": 2}
+{"count": 54996, "name": "Anaerobic exercise", "weight": 1.0, "id": 5140985, "level": 2}
+{"count": 14044, "name": "Suspended solids", "weight": 0.0, "id": 19570952, "level": 2}
+{"count": 30025, "name": "Fuel oil", "weight": 0.0, "id": 82576440, "level": 2}
+{"count": 13354, "name": "Bagasse", "weight": 0.0, "id": 134643618, "level": 2}
+{"count": 16755, "name": "Portable water purification", "weight": 0.0, "id": 92376884, "level": 2}
+{"count": 52638, "name": "Coke", "weight": 1.0, "id": 2780385392, "level": 2}
+{"count": 20739, "name": "Tar", "weight": 0.0, "id": 108966523, "level": 2}
+{"count": 8766, "name": "Biofilter", "weight": 0.0, "id": 49671963, "level": 2}
+{"count": 8423, "name": "Carbon capture and storage", "weight": 0.0, "id": 24592720, "level": 2}
+{"count": 10793, "name": "Sawdust", "weight": 0.0, "id": 2780308376, "level": 2}
+{"count": 9810, "name": "Kerosene", "weight": 0.0, "id": 2778192735, "level": 2}
+{"count": 38351, "name": "Human settlement", "weight": 1.0, "id": 16678853, "level": 2}
+{"count": 36771, "name": "Storage tank", "weight": 1.0, "id": 16629374, "level": 2}
+{"count": 10284, "name": "Enhanced oil recovery", "weight": 0.0, "id": 2779681308, "level": 2}
+{"count": 8588, "name": "Tonne", "weight": 0.0, "id": 76758496, "level": 2}
+{"count": 11658, "name": "Capital cost", "weight": 0.0, "id": 157062255, "level": 2}
+{"count": 7417, "name": "Electrostatic precipitator", "weight": 0.0, "id": 2776327988, "level": 2}
+{"count": 13853, "name": "Cooling tower", "weight": 0.0, "id": 2778547687, "level": 2}
+{"count": 30366, "name": "Waste heat", "weight": 0.0, "id": 184235594, "level": 2}
+{"count": 7714, "name": "Sewerage", "weight": 0.0, "id": 165895018, "level": 2}
+{"count": 9711, "name": "Food waste", "weight": 0.0, "id": 2777499484, "level": 2}
+{"count": 14739, "name": "Refinery", "weight": 0.0, "id": 105168734, "level": 2}
+{"count": 26281, "name": "Blast furnace", "weight": 0.0, "id": 2780269488, "level": 2}
+{"count": 6454, "name": "Liquefied petroleum gas", "weight": 0.0, "id": 1787132, "level": 2}
+{"count": 7378, "name": "Rankine cycle", "weight": 0.0, "id": 161911898, "level": 2}
+{"count": 5817, "name": "Organic Rankine cycle", "weight": 0.0, "id": 101519877, "level": 2}
+{"count": 16192, "name": "Waste heat recovery unit", "weight": 0.0, "id": 105994980, "level": 2}
+{"count": 6533, "name": "Steam injection", "weight": 0.0, "id": 175234220, "level": 2}
+{"count": 15502, "name": "Oil refinery", "weight": 0.0, "id": 20309002, "level": 2}
+{"count": 23870, "name": "Dewatering", "weight": 0.0, "id": 85296223, "level": 2}
+{"count": 6348, "name": "Sanitary sewer", "weight": 0.0, "id": 190714865, "level": 2}
+{"count": 11525, "name": "Scrubber", "weight": 0.0, "id": 107053047, "level": 2}
+{"count": 5078, "name": "Red mud", "weight": 0.0, "id": 2781289256, "level": 2}
+{"count": 6573, "name": "Absorption refrigerator", "weight": 0.0, "id": 30487094, "level": 2}
+{"count": 6118, "name": "Data scrubbing", "weight": 0.0, "id": 89529581, "level": 2}
+{"count": 5137, "name": "Jet fuel", "weight": 0.0, "id": 180511626, "level": 2}
+{"count": 2972, "name": "Zero emission", "weight": 0.0, "id": 118334743, "level": 2}
+{"count": 7699, "name": "Desiccant", "weight": 0.0, "id": 37819138, "level": 2}
+{"count": 10617, "name": "Chiller", "weight": 0.0, "id": 4638862, "level": 2}
+{"count": 1354, "name": "Creosote", "weight": 0.0, "id": 2776392049, "level": 2}
+{"count": 854, "name": "Beneficial use", "weight": 0.0, "id": 2776490458, "level": 2}
+{"count": 16775, "name": "Husk", "weight": 0.0, "id": 75296557, "level": 2}
+{"count": 679, "name": "Market participant", "weight": 0.0, "id": 2778927675, "level": 2}
+{"count": 5893, "name": "Gas engine", "weight": 0.0, "id": 2780611706, "level": 2}
+{"count": 2614, "name": "Steam explosion", "weight": 0.0, "id": 138875322, "level": 2}
+{"count": 1710, "name": "Thermal pollution", "weight": 0.0, "id": 167290972, "level": 2}
+{"count": 1025, "name": "Loss on ignition", "weight": 0.0, "id": 2779712921, "level": 2}
+{"count": 2307, "name": "Material flow analysis", "weight": 0.0, "id": 116399919, "level": 2}
+{"count": 5778, "name": "Payback period", "weight": 0.0, "id": 144553756, "level": 2}
+{"count": 44427, "name": "Stove", "weight": 1.0, "id": 161189084, "level": 2}
+{"count": 27524, "name": "Kiln", "weight": 0.0, "id": 19229882, "level": 2}
+{"count": 16727, "name": "Chimney", "weight": 0.0, "id": 12994181, "level": 2}
+{"count": 22433, "name": "Scrap", "weight": 0.0, "id": 192097918, "level": 2}
+{"count": 3332, "name": "Phosphogypsum", "weight": 0.0, "id": 34671766, "level": 2}
+{"count": 1661, "name": "Sanitary engineering", "weight": 0.0, "id": 63809698, "level": 2}
+{"count": 2647, "name": "Environmental technology", "weight": 0.0, "id": 2777963174, "level": 2}
+{"count": 3278, "name": "Decantation", "weight": 0.0, "id": 156458928, "level": 2}
+{"count": 10959, "name": "Dumping", "weight": 0.0, "id": 2779202806, "level": 2}
+{"count": 5647, "name": "Produced water", "weight": 0.0, "id": 2775865663, "level": 2}
+{"count": 2487, "name": "Electronic waste", "weight": 0.0, "id": 2775930972, "level": 2}
+{"count": 2298, "name": "Indoor bioaerosol", "weight": 0.0, "id": 83230799, "level": 2}
+{"count": 37212, "name": "Ton", "weight": 1.0, "id": 161542896, "level": 2}
+{"count": 3015, "name": "Cinder", "weight": 0.0, "id": 84948697, "level": 2}
+{"count": 4625, "name": "Cold start (automotive)", "weight": 0.0, "id": 2778956030, "level": 2}
+{"count": 38838, "name": "Garbage", "weight": 1.0, "id": 75403996, "level": 2}
+{"count": 2203, "name": "Vinasse", "weight": 0.0, "id": 2777533868, "level": 2}
+{"count": 6016, "name": "Headway", "weight": 0.0, "id": 2779240695, "level": 2}
+{"count": 10544, "name": "Paperboard", "weight": 0.0, "id": 193987312, "level": 2}
+{"count": 1478, "name": "Wood ash", "weight": 0.0, "id": 22787170, "level": 2}
+{"count": 31735, "name": "Heating system", "weight": 0.0, "id": 2777154459, "level": 2}
+{"count": 2906, "name": "Flash point", "weight": 0.0, "id": 162015975, "level": 2}
+{"count": 5280, "name": "Firewood", "weight": 0.0, "id": 91726260, "level": 2}
+{"count": 2118, "name": "Newsprint", "weight": 0.0, "id": 157714500, "level": 2}
+{"count": 2380, "name": "Bioplastic", "weight": 0.0, "id": 43719734, "level": 2}
+{"count": 30057, "name": "Carton", "weight": 0.0, "id": 155908867, "level": 2}
+{"count": 3309, "name": "Construction waste", "weight": 0.0, "id": 2776253312, "level": 2}
+{"count": 3512, "name": "Flash evaporation", "weight": 0.0, "id": 137076967, "level": 2}
+{"count": 1097, "name": "Human waste", "weight": 0.0, "id": 2781143366, "level": 2}
+{"count": 22304, "name": "Laundry", "weight": 0.0, "id": 2778585658, "level": 2}
+{"count": 1298, "name": "Extended producer responsibility", "weight": 0.0, "id": 133517878, "level": 2}
+{"count": 1967, "name": "Dust explosion", "weight": 0.0, "id": 49901644, "level": 2}
+{"count": 11362, "name": "Corrugated fiberboard", "weight": 0.0, "id": 115333844, "level": 2}
+{"count": 3117, "name": "Urban rail transit", "weight": 0.0, "id": 2780434240, "level": 2}
+{"count": 871, "name": "Hybrid reactor", "weight": 0.0, "id": 2776568956, "level": 2}
+{"count": 2329, "name": "Glass recycling", "weight": 0.0, "id": 185903656, "level": 2}
+{"count": 555, "name": "Best available technology", "weight": 0.0, "id": 2779732133, "level": 2}
+{"count": 11823, "name": "Liquid gas", "weight": 0.0, "id": 19177301, "level": 2}
+{"count": 4150, "name": "Waste oil", "weight": 0.0, "id": 2780841394, "level": 2}
+{"count": 10194, "name": "Flammable liquid", "weight": 0.0, "id": 31892906, "level": 2}
+{"count": 26654, "name": "Fuel tank", "weight": 0.0, "id": 38673314, "level": 2}
+{"count": 2206, "name": "HEPA", "weight": 0.0, "id": 26140837, "level": 2}
+{"count": 3843, "name": "Vaporizer", "weight": 0.0, "id": 2781208240, "level": 2}
+{"count": 867, "name": "Trading Standards", "weight": 0.0, "id": 2777566794, "level": 2}
+{"count": 731, "name": "District cooling", "weight": 0.0, "id": 2777319469, "level": 2}
+{"count": 194, "name": "Briquetage", "weight": 0.0, "id": 2777331198, "level": 2}
+{"count": 528, "name": "Slugging", "weight": 0.0, "id": 2780934780, "level": 2}
+{"count": 4339, "name": "Fireplace", "weight": 0.0, "id": 2780178555, "level": 2}
+{"count": 1922, "name": "Water softening", "weight": 0.0, "id": 2777626593, "level": 2}
+{"count": 1188, "name": "Source reduction", "weight": 0.0, "id": 25454317, "level": 2}
+{"count": 48313, "name": "Toilet", "weight": 1.0, "id": 2778357586, "level": 2}
+{"count": 16646, "name": "cardboard", "weight": 0.0, "id": 187767449, "level": 2}
+{"count": 2604, "name": "Oil mist", "weight": 0.0, "id": 2776727694, "level": 2}
+{"count": 2230, "name": "Hot water extraction", "weight": 0.0, "id": 121539078, "level": 2}
+{"count": 583, "name": "Waste minimisation", "weight": 0.0, "id": 2776092195, "level": 2}
+{"count": 1829, "name": "Dry gas", "weight": 0.0, "id": 2780298149, "level": 2}
+{"count": 2567, "name": "Transfer station", "weight": 0.0, "id": 2775936651, "level": 2}
+{"count": 381, "name": "Jacketed vessel", "weight": 0.0, "id": 58137535, "level": 2}
+{"count": 947, "name": "Demonstration Plant", "weight": 0.0, "id": 2778134449, "level": 2}
+{"count": 5895, "name": "Fuel filter", "weight": 0.0, "id": 179975769, "level": 2}
+{"count": 1238, "name": "Aviation fuel", "weight": 0.0, "id": 2776776657, "level": 2}
+{"count": 9103, "name": "Plastic bag", "weight": 0.0, "id": 193258505, "level": 2}
+{"count": 2208, "name": "Repurposing", "weight": 0.0, "id": 519536355, "level": 2}
+{"count": 15253, "name": "Flue", "weight": 0.0, "id": 169924432, "level": 2}
+{"count": 12239, "name": "Sump", "weight": 0.0, "id": 17097170, "level": 2}
+{"count": 533, "name": "Plumbing fixture", "weight": 0.0, "id": 2776326004, "level": 2}
+{"count": 883, "name": "Spray tower", "weight": 0.0, "id": 2777307076, "level": 2}
+{"count": 1094, "name": "Zero waste", "weight": 0.0, "id": 2777495674, "level": 2}
+{"count": 4069, "name": "Circulating pump", "weight": 0.0, "id": 2778488722, "level": 2}
+{"count": 681, "name": "Plastic recycling", "weight": 0.0, "id": 2778153913, "level": 2}
+{"count": 3528, "name": "Spillage", "weight": 0.0, "id": 2779640004, "level": 2}
+{"count": 28086, "name": "Shower", "weight": 0.0, "id": 2776732256, "level": 2}
+{"count": 1395, "name": "Fume hood", "weight": 0.0, "id": 110383551, "level": 2}
+{"count": 790, "name": "Process flow diagram", "weight": 0.0, "id": 190426654, "level": 2}
+{"count": 975, "name": "Local education authority", "weight": 0.0, "id": 55087221, "level": 2}
+{"count": 2042, "name": "Gallon (US)", "weight": 0.0, "id": 21339974, "level": 2}
+{"count": 8737, "name": "Water cooler", "weight": 0.0, "id": 199306537, "level": 2}
+{"count": 2904, "name": "Skimmer (machine)", "weight": 0.0, "id": 21844886, "level": 2}
+{"count": 1198, "name": "Idaho National Laboratory", "weight": 0.0, "id": 2781208552, "level": 2}
+{"count": 622, "name": "Evaporation pond", "weight": 0.0, "id": 11538654, "level": 2}
+{"count": 235, "name": "Energy products", "weight": 0.0, "id": 2780239395, "level": 2}
+{"count": 17953, "name": "Dust collector", "weight": 0.0, "id": 2778918656, "level": 2}
+{"count": 1169, "name": "Energy recycling", "weight": 0.0, "id": 2777323119, "level": 2}
+{"count": 400, "name": "Product stewardship", "weight": 0.0, "id": 2776381622, "level": 2}
+{"count": 6362, "name": "Purified water", "weight": 0.0, "id": 118733760, "level": 2}
+{"count": 1366, "name": "Extinguishment", "weight": 0.0, "id": 2781318363, "level": 2}
+{"count": 3084, "name": "Shipping container", "weight": 0.0, "id": 2776967357, "level": 2}
+{"count": 592, "name": "Airlift pump", "weight": 0.0, "id": 198694888, "level": 2}
+{"count": 1383, "name": "Steam trap", "weight": 0.0, "id": 2780694765, "level": 2}
+{"count": 67, "name": "Waste exchange", "weight": 0.0, "id": 2777180071, "level": 2}
+{"count": 322, "name": "Gasworks", "weight": 0.0, "id": 104404889, "level": 2}
+{"count": 173, "name": "Clean-in-place", "weight": 0.0, "id": 115755474, "level": 2}
+{"count": 870, "name": "Transit bus", "weight": 0.0, "id": 2779205984, "level": 2}
+{"count": 363, "name": "Effective microorganism", "weight": 0.0, "id": 2778972723, "level": 2}

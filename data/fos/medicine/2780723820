@@ -1,0 +1,86 @@
+{"count": 7705, "name": "Medulla oblongata", "weight": 10.0, "id": 2778110749, "level": 3}
+{"count": 6752, "name": "Reticular formation", "weight": 8.0, "id": 2778655484, "level": 3}
+{"count": 6885, "name": "Preoptic area", "weight": 8.0, "id": 2776451244, "level": 3}
+{"count": 5339, "name": "Dorsal raphe nucleus", "weight": 6.0, "id": 32610206, "level": 3}
+{"count": 5297, "name": "Inferior colliculus", "weight": 6.0, "id": 2775980177, "level": 3}
+{"count": 3793, "name": "Supraoptic nucleus", "weight": 4.0, "id": 2777687476, "level": 3}
+{"count": 3515, "name": "Cochlear nucleus", "weight": 4.0, "id": 2777662796, "level": 3}
+{"count": 2121, "name": "Solitary nucleus", "weight": 2.0, "id": 2779929655, "level": 3}
+{"count": 3514, "name": "Raphe nuclei", "weight": 4.0, "id": 2777865548, "level": 3}
+{"count": 2391, "name": "Area postrema", "weight": 3.0, "id": 2776459250, "level": 3}
+{"count": 3287, "name": "Tegmentum", "weight": 4.0, "id": 24566897, "level": 3}
+{"count": 2013, "name": "Red nucleus", "weight": 2.0, "id": 2779384463, "level": 3}
+{"count": 1802, "name": "Habenula", "weight": 2.0, "id": 2780374578, "level": 3}
+{"count": 938, "name": "Retrograde tracing", "weight": 1.0, "id": 2776378061, "level": 3}
+{"count": 861, "name": "Septal nuclei", "weight": 1.0, "id": 2780148200, "level": 3}
+{"count": 812, "name": "Thalamic reticular nucleus", "weight": 1.0, "id": 2778135649, "level": 3}
+{"count": 531, "name": "Biotinylated dextran amine", "weight": 0.0, "id": 2777368234, "level": 3}
+{"count": 1250, "name": "Nucleus ambiguus", "weight": 1.0, "id": 2780866171, "level": 3}
+{"count": 3608, "name": "Stria terminalis", "weight": 4.0, "id": 2778652331, "level": 3}
+{"count": 737, "name": "Posterior commissure", "weight": 0.0, "id": 2778092261, "level": 3}
+{"count": 2187, "name": "Vestibular nuclei", "weight": 2.0, "id": 2778421575, "level": 3}
+{"count": 1290, "name": "Zona incerta", "weight": 1.0, "id": 2778474254, "level": 3}
+{"count": 1005, "name": "Hypoglossal nucleus", "weight": 1.0, "id": 2781333164, "level": 3}
+{"count": 1183, "name": "Spinal trigeminal nucleus", "weight": 1.0, "id": 2776700747, "level": 3}
+{"count": 1476, "name": "Pretectal area", "weight": 1.0, "id": 192351223, "level": 3}
+{"count": 791, "name": "Inferior olivary nucleus", "weight": 1.0, "id": 2779321154, "level": 3}
+{"count": 668, "name": "Anterograde tracing", "weight": 0.0, "id": 2779089633, "level": 3}
+{"count": 806, "name": "Fastigial nucleus", "weight": 1.0, "id": 2776139471, "level": 3}
+{"count": 445, "name": "Mammillary body", "weight": 0.0, "id": 2777507194, "level": 3}
+{"count": 667, "name": "Oculomotor nucleus", "weight": 0.0, "id": 2781203944, "level": 3}
+{"count": 429, "name": "Dorsomedial hypothalamic nucleus", "weight": 0.0, "id": 2778790126, "level": 3}
+{"count": 2411, "name": "Parvocellular cell", "weight": 3.0, "id": 121731113, "level": 3}
+{"count": 799, "name": "Cuneate nucleus", "weight": 1.0, "id": 2776559050, "level": 3}
+{"count": 560, "name": "Lateral reticular nucleus", "weight": 0.0, "id": 2776956477, "level": 3}
+{"count": 213, "name": "Edinger\u2013Westphal nucleus", "weight": 0.0, "id": 2779987434, "level": 3}
+{"count": 1546, "name": "Central nucleus of the amygdala", "weight": 2.0, "id": 2777426569, "level": 3}
+{"count": 499, "name": "Abducens nucleus", "weight": 0.0, "id": 2779845715, "level": 3}
+{"count": 797, "name": "Interpeduncular nucleus", "weight": 1.0, "id": 44107871, "level": 3}
+{"count": 767, "name": "Medial longitudinal fasciculus", "weight": 0.0, "id": 2776351355, "level": 3}
+{"count": 578, "name": "Periventricular nucleus", "weight": 0.0, "id": 2776553819, "level": 3}
+{"count": 741, "name": "Pontine nuclei", "weight": 0.0, "id": 2781304537, "level": 3}
+{"count": 280, "name": "Intermediolateral nucleus", "weight": 0.0, "id": 2776227383, "level": 3}
+{"count": 652, "name": "Dorsal column nuclei", "weight": 0.0, "id": 2777786120, "level": 3}
+{"count": 518, "name": "Medial lemniscus", "weight": 0.0, "id": 2776932261, "level": 3}
+{"count": 2350, "name": "Solitary tract", "weight": 3.0, "id": 2780838160, "level": 3}
+{"count": 133, "name": "Onuf's nucleus", "weight": 0.0, "id": 2777076897, "level": 3}
+{"count": 213, "name": "Nucleus reuniens", "weight": 0.0, "id": 98871467, "level": 3}
+{"count": 495, "name": "Lateral parabrachial nucleus", "weight": 0.0, "id": 2777820223, "level": 3}
+{"count": 390, "name": "Trigeminal motor nucleus", "weight": 0.0, "id": 2776802765, "level": 3}
+{"count": 283, "name": "Gracile nucleus", "weight": 0.0, "id": 2781234324, "level": 3}
+{"count": 271, "name": "Song control system", "weight": 0.0, "id": 2778464471, "level": 3}
+{"count": 171, "name": "Anterior hypothalamic nucleus", "weight": 0.0, "id": 2778953071, "level": 3}
+{"count": 271, "name": "Facial motor nucleus", "weight": 0.0, "id": 2780941530, "level": 3}
+{"count": 568, "name": "Ventromedial nucleus of the hypothalamus", "weight": 0.0, "id": 2776046087, "level": 3}
+{"count": 122, "name": "Ventral anterior nucleus", "weight": 0.0, "id": 2779849565, "level": 3}
+{"count": 182, "name": "Paraventricular nucleus of hypothalamus", "weight": 0.0, "id": 2779526966, "level": 3}
+{"count": 147, "name": "Lemniscus", "weight": 0.0, "id": 2780703490, "level": 3}
+{"count": 71, "name": "Multipolar neuron", "weight": 0.0, "id": 2778009436, "level": 3}
+{"count": 99, "name": "Ventral posterolateral nucleus", "weight": 0.0, "id": 2779707144, "level": 3}
+{"count": 111, "name": "Pneumotaxic center", "weight": 0.0, "id": 2781323254, "level": 3}
+{"count": 130, "name": "Superior salivatory nucleus", "weight": 0.0, "id": 2779280235, "level": 3}
+{"count": 448, "name": "Lateral funiculus", "weight": 0.0, "id": 2777905999, "level": 3}
+{"count": 98, "name": "Medial dorsal nucleus", "weight": 0.0, "id": 2776892242, "level": 3}
+{"count": 140, "name": "Spinocerebellar tract", "weight": 0.0, "id": 2777128545, "level": 3}
+{"count": 281, "name": "Alar plate", "weight": 0.0, "id": 114505331, "level": 3}
+{"count": 370, "name": "Nidopallium", "weight": 0.0, "id": 2780018806, "level": 3}
+{"count": 145, "name": "Ventral lateral nucleus", "weight": 0.0, "id": 2777058798, "level": 3}
+{"count": 229, "name": "Arcopallium", "weight": 0.0, "id": 2779282537, "level": 3}
+{"count": 18, "name": "Paratenial nucleus", "weight": 0.0, "id": 2780945463, "level": 3}
+{"count": 116, "name": "Karyosome", "weight": 0.0, "id": 154067649, "level": 3}
+{"count": 31, "name": "Cranial nerve nucleus", "weight": 0.0, "id": 2780724000, "level": 3}
+{"count": 8, "name": "Pre-locus coeruleus", "weight": 0.0, "id": 2780611361, "level": 3}
+{"count": 105, "name": "Noradrenergic cell groups", "weight": 0.0, "id": 2780548568, "level": 3}
+{"count": 23, "name": "Knollenorgan", "weight": 0.0, "id": 101196300, "level": 3}
+{"count": 41, "name": "Granular insular cortex", "weight": 0.0, "id": 2781369281, "level": 3}
+{"count": 26, "name": "Spinal accessory nucleus", "weight": 0.0, "id": 2780641760, "level": 3}
+{"count": 12, "name": "Dorsal nucleus of vagus nerve", "weight": 0.0, "id": 2775909786, "level": 3}
+{"count": 62, "name": "Periamygdaloid cortex", "weight": 0.0, "id": 2779437036, "level": 3}
+{"count": 52, "name": "Intercalated nucleus", "weight": 0.0, "id": 2778112775, "level": 3}
+{"count": 119, "name": "Parafacial", "weight": 0.0, "id": 2778448598, "level": 3}
+{"count": 98, "name": "Pulvinar nuclei", "weight": 0.0, "id": 2781243934, "level": 3}
+{"count": 38, "name": "Monoaminergic cell groups", "weight": 0.0, "id": 2779463859, "level": 3}
+{"count": 10, "name": "Ventral supraoptic decussation", "weight": 0.0, "id": 2780388767, "level": 3}
+{"count": 7, "name": "Midline nuclear group", "weight": 0.0, "id": 2776380637, "level": 3}
+{"count": 6, "name": "Dorsal trigeminal tract", "weight": 0.0, "id": 2780573922, "level": 3}
+{"count": 74, "name": "Gray commissure", "weight": 0.0, "id": 2779611783, "level": 3}

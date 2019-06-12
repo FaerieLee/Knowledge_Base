@@ -1,0 +1,13 @@
+{"count": 1358, "name": "Instant-runoff voting", "weight": 8.0, "id": 60454596, "level": 5}
+{"count": 1240, "name": "Single-member district", "weight": 7.0, "id": 48487596, "level": 5}
+{"count": 230, "name": "Early voting", "weight": 1.0, "id": 2780273880, "level": 5}
+{"count": 153, "name": "Help America Vote Act", "weight": 0.0, "id": 2781008272, "level": 5}
+{"count": 111, "name": "Tactical voting", "weight": 0.0, "id": 2779267529, "level": 5}
+{"count": 1077, "name": "Parallel voting", "weight": 6.0, "id": 49230009, "level": 5}
+{"count": 825, "name": "Two-round system", "weight": 5.0, "id": 164575281, "level": 5}
+{"count": 498, "name": "Election threshold", "weight": 3.0, "id": 3640955, "level": 5}
+{"count": 1653, "name": "Straight-ticket voting", "weight": 10.0, "id": 11027740, "level": 5}
+{"count": 124, "name": "Coombs' method", "weight": 0.0, "id": 99029307, "level": 5}
+{"count": 116, "name": "Split vote", "weight": 0.0, "id": 149467695, "level": 5}
+{"count": 1513, "name": "Contingent vote", "weight": 9.0, "id": 61267812, "level": 5}
+{"count": 220, "name": "Exhaustive ballot", "weight": 1.0, "id": 188968914, "level": 5}

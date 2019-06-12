@@ -1,0 +1,9 @@
+{"count": 8217, "name": "Groundwater model", "weight": 10.0, "id": 176650113, "level": 5}
+{"count": 1407, "name": "Submarine groundwater discharge", "weight": 1.0, "id": 2777493711, "level": 5}
+{"count": 2074, "name": "MODFLOW", "weight": 2.0, "id": 78302586, "level": 5}
+{"count": 6233, "name": "Groundwater discharge", "weight": 7.0, "id": 12129029, "level": 5}
+{"count": 1949, "name": "Aquifer test", "weight": 2.0, "id": 97512367, "level": 5}
+{"count": 1973, "name": "Specific storage", "weight": 2.0, "id": 195729132, "level": 5}
+{"count": 952, "name": "Groundwater flow equation", "weight": 1.0, "id": 2122615, "level": 5}
+{"count": 414, "name": "Dupuit\u2013Forchheimer assumption", "weight": 0.0, "id": 127110704, "level": 5}
+{"count": 14, "name": "ZOOMQ3D", "weight": 0.0, "id": 2778134546, "level": 5}

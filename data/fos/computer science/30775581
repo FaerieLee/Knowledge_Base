@@ -1,0 +1,12 @@
+{"count": 1160, "name": "Object-relational impedance mismatch", "weight": 3.0, "id": 203790383, "level": 4}
+{"count": 1674, "name": "Star schema", "weight": 5.0, "id": 190703929, "level": 4}
+{"count": 627, "name": "Logical schema", "weight": 1.0, "id": 103500101, "level": 4}
+{"count": 1552, "name": "Spatiotemporal database", "weight": 4.0, "id": 98080885, "level": 4}
+{"count": 66, "name": "Database forensics", "weight": 0.0, "id": 2779447223, "level": 4}
+{"count": 2693, "name": "Intelligent database", "weight": 8.0, "id": 162189203, "level": 4}
+{"count": 1688, "name": "Physical data model", "weight": 5.0, "id": 187959359, "level": 4}
+{"count": 98, "name": "Physical schema", "weight": 0.0, "id": 2777481106, "level": 4}
+{"count": 28, "name": "Database refactoring", "weight": 0.0, "id": 2778591257, "level": 4}
+{"count": 3237, "name": "Semi-structured model", "weight": 10.0, "id": 56310702, "level": 4}
+{"count": 409, "name": "Three schema approach", "weight": 1.0, "id": 194166415, "level": 4}
+{"count": 1943, "name": "Component-oriented database", "weight": 6.0, "id": 200202201, "level": 4}

@@ -1,0 +1,9 @@
+{"count": 364, "name": "Database encryption", "weight": 1.0, "id": 2777133466, "level": 5}
+{"count": 1751, "name": "Disk encryption", "weight": 7.0, "id": 9368797, "level": 5}
+{"count": 184, "name": "Sponge function", "weight": 0.0, "id": 123845886, "level": 5}
+{"count": 810, "name": "Bus encryption", "weight": 3.0, "id": 156905785, "level": 5}
+{"count": 45, "name": "Transparent Data Encryption", "weight": 0.0, "id": 2779895904, "level": 5}
+{"count": 296, "name": "Three-pass protocol", "weight": 1.0, "id": 152885571, "level": 5}
+{"count": 41, "name": "FileVault", "weight": 0.0, "id": 29814102, "level": 5}
+{"count": 1767, "name": "Keyfile", "weight": 7.0, "id": 19529311, "level": 5}
+{"count": 2363, "name": "Disk encryption hardware", "weight": 10.0, "id": 61719626, "level": 5}

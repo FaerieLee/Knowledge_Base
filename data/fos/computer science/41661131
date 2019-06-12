@@ -1,0 +1,5 @@
+{"count": 2986, "name": "Interrupt handler", "weight": 10.0, "id": 28533478, "level": 3}
+{"count": 2524, "name": "Programmable Interrupt Controller", "weight": 8.0, "id": 109472376, "level": 3}
+{"count": 2655, "name": "Interrupt latency", "weight": 8.0, "id": 58209613, "level": 3}
+{"count": 14, "name": "Inter-processor interrupt", "weight": 0.0, "id": 2777209291, "level": 3}
+{"count": 30, "name": "Interrupt flag", "weight": 0.0, "id": 2779858580, "level": 3}

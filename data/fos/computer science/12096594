@@ -1,0 +1,4 @@
+{"count": 273, "name": "Readers\u2013writer lock", "weight": 9.0, "id": 187022350, "level": 4}
+{"count": 285, "name": "Ticket lock", "weight": 10.0, "id": 91820712, "level": 4}
+{"count": 284, "name": "Double-checked locking", "weight": 10.0, "id": 19791308, "level": 4}
+{"count": 249, "name": "Giant lock", "weight": 8.0, "id": 39435735, "level": 4}

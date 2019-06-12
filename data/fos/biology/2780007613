@@ -1,0 +1,51 @@
+{"count": 12351, "name": "Chimera (genetics)", "weight": 4.0, "id": 30278631, "level": 3}
+{"count": 4296, "name": "Colony-stimulating factor", "weight": 1.0, "id": 880424, "level": 3}
+{"count": 15726, "name": "Hematopoietic stem cell", "weight": 5.0, "id": 2778086970, "level": 3}
+{"count": 10779, "name": "Immunophenotyping", "weight": 3.0, "id": 196166836, "level": 3}
+{"count": 18768, "name": "Graft-versus-host disease", "weight": 6.0, "id": 2779972918, "level": 3}
+{"count": 12343, "name": "Aplastic anemia", "weight": 4.0, "id": 2781440808, "level": 3}
+{"count": 9540, "name": "Minimal residual disease", "weight": 3.0, "id": 2779823535, "level": 3}
+{"count": 8091, "name": "Total body irradiation", "weight": 2.0, "id": 2778880498, "level": 3}
+{"count": 11177, "name": "Myelodysplastic syndromes", "weight": 3.0, "id": 2780817109, "level": 3}
+{"count": 28489, "name": "CD34", "weight": 10.0, "id": 10205521, "level": 3}
+{"count": 5446, "name": "Megakaryocyte", "weight": 1.0, "id": 2779705218, "level": 3}
+{"count": 8292, "name": "Myelofibrosis", "weight": 2.0, "id": 2780076729, "level": 3}
+{"count": 7380, "name": "Pancytopenia", "weight": 2.0, "id": 2779382419, "level": 3}
+{"count": 2594, "name": "Myelopoiesis", "weight": 0.0, "id": 95862172, "level": 3}
+{"count": 2359, "name": "Monoclonal gammopathy of undetermined significance", "weight": 0.0, "id": 2777250017, "level": 3}
+{"count": 2063, "name": "Systemic mastocytosis", "weight": 0.0, "id": 2780581156, "level": 3}
+{"count": 1583, "name": "Donor lymphocyte infusion", "weight": 0.0, "id": 2779695342, "level": 3}
+{"count": 1675, "name": "Granulopoiesis", "weight": 0.0, "id": 2779452902, "level": 3}
+{"count": 2488, "name": "Bone marrow examination", "weight": 0.0, "id": 2778219007, "level": 3}
+{"count": 305, "name": "Leukopoiesis", "weight": 0.0, "id": 2781187608, "level": 3}
+{"count": 2244, "name": "Cytopenia", "weight": 0.0, "id": 2780366003, "level": 3}
+{"count": 351, "name": "Promyelocyte", "weight": 0.0, "id": 119157973, "level": 3}
+{"count": 914, "name": "Plasmacytosis", "weight": 0.0, "id": 2778709411, "level": 3}
+{"count": 286, "name": "Myelocyte", "weight": 0.0, "id": 2779063516, "level": 3}
+{"count": 516, "name": "Myeloblast", "weight": 0.0, "id": 2779953772, "level": 3}
+{"count": 865, "name": "Myeloid sarcoma", "weight": 0.0, "id": 2778613593, "level": 3}
+{"count": 764, "name": "Hematopoietic growth factor", "weight": 0.0, "id": 2779958370, "level": 3}
+{"count": 268, "name": "Idiopathic pneumonia syndrome", "weight": 0.0, "id": 2777263979, "level": 3}
+{"count": 420, "name": "Monoblast", "weight": 0.0, "id": 86527937, "level": 3}
+{"count": 1062, "name": "Peripheral blood cell", "weight": 0.0, "id": 2779813244, "level": 3}
+{"count": 540, "name": "Leukemia cutis", "weight": 0.0, "id": 2776976509, "level": 3}
+{"count": 820, "name": "Acute myelomonocytic leukemia", "weight": 0.0, "id": 2778608605, "level": 3}
+{"count": 247, "name": "Hepatosplenic T-cell lymphoma", "weight": 0.0, "id": 2778929622, "level": 3}
+{"count": 2134, "name": "Trephine", "weight": 0.0, "id": 2776232749, "level": 3}
+{"count": 118, "name": "Bone marrow-derived macrophage", "weight": 0.0, "id": 2776086810, "level": 3}
+{"count": 408, "name": "Peripheral stem cell transplantation", "weight": 0.0, "id": 2776356865, "level": 3}
+{"count": 434, "name": "Endosteum", "weight": 0.0, "id": 2779436037, "level": 3}
+{"count": 257, "name": "Thymus transplantation", "weight": 0.0, "id": 2780935858, "level": 3}
+{"count": 445, "name": "Auer rod", "weight": 0.0, "id": 43018099, "level": 3}
+{"count": 122, "name": "Acute erythroid leukemia", "weight": 0.0, "id": 2779457125, "level": 3}
+{"count": 87, "name": "Reticular dysgenesis", "weight": 0.0, "id": 2776976932, "level": 3}
+{"count": 72, "name": "Sea-blue histiocytosis", "weight": 0.0, "id": 2779795834, "level": 3}
+{"count": 27, "name": "Hematon", "weight": 0.0, "id": 2778915898, "level": 3}
+{"count": 22, "name": "Congenital dyserythropoietic anemia type III", "weight": 0.0, "id": 2779667437, "level": 3}
+{"count": 294, "name": "Normoblast", "weight": 0.0, "id": 170652403, "level": 3}
+{"count": 139, "name": "Myeloid tissue", "weight": 0.0, "id": 2777527517, "level": 3}
+{"count": 42, "name": "Muse cell", "weight": 0.0, "id": 2777730607, "level": 3}
+{"count": 20, "name": "Syngeneic stem cell transplantation", "weight": 0.0, "id": 2779792870, "level": 3}
+{"count": 24, "name": "Acute eosinophilic leukemia", "weight": 0.0, "id": 2778835948, "level": 3}
+{"count": 26, "name": "Immunoproliferative disorder", "weight": 0.0, "id": 2777666775, "level": 3}
+{"count": 36, "name": "Osteoporotic bone marrow defect", "weight": 0.0, "id": 2779241652, "level": 3}

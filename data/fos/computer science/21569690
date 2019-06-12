@@ -1,0 +1,4 @@
+{"count": 793, "name": "Cold start", "weight": 6.0, "id": 44263959, "level": 4}
+{"count": 1259, "name": "MovieLens", "weight": 10.0, "id": 2776156558, "level": 4}
+{"count": 169, "name": "Slope One", "weight": 1.0, "id": 2780213525, "level": 4}
+{"count": 6, "name": "Item-item collaborative filtering", "weight": 0.0, "id": 2778208678, "level": 4}

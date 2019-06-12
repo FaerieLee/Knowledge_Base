@@ -1,0 +1,8 @@
+{"count": 7407, "name": "Artificial ventilation", "weight": 10.0, "id": 2777387402, "level": 3}
+{"count": 4876, "name": "Pleural disease", "weight": 6.0, "id": 2776517811, "level": 3}
+{"count": 2713, "name": "Pulmonary alveolus", "weight": 3.0, "id": 2778543330, "level": 3}
+{"count": 1558, "name": "Eosinophilic pneumonia", "weight": 2.0, "id": 2780942278, "level": 3}
+{"count": 214, "name": "Ventilation/perfusion scan", "weight": 0.0, "id": 2776794118, "level": 3}
+{"count": 105, "name": "Cavitary pneumonia", "weight": 0.0, "id": 2780862736, "level": 3}
+{"count": 29, "name": "Acute inhalation injury", "weight": 0.0, "id": 2778773909, "level": 3}
+{"count": 37, "name": "Epidemiology of pneumonia", "weight": 0.0, "id": 2779406051, "level": 3}

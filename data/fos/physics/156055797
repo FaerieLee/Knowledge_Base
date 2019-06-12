@@ -1,0 +1,22 @@
+{"count": 3498, "name": "Cooling flow", "weight": 2.0, "id": 12241035, "level": 4}
+{"count": 5832, "name": "Galaxy groups and clusters", "weight": 4.0, "id": 83160514, "level": 4}
+{"count": 10946, "name": "Galaxy group", "weight": 8.0, "id": 160147972, "level": 4}
+{"count": 12189, "name": "Brightest cluster galaxy", "weight": 10.0, "id": 152268414, "level": 4}
+{"count": 1202, "name": "Virial mass", "weight": 0.0, "id": 202607331, "level": 4}
+{"count": 2577, "name": "Supercluster", "weight": 2.0, "id": 11429943, "level": 4}
+{"count": 198, "name": "Atacama Cosmology Telescope", "weight": 0.0, "id": 2778777608, "level": 4}
+{"count": 391, "name": "South Pole Telescope", "weight": 0.0, "id": 2779770503, "level": 4}
+{"count": 550, "name": "Sunyaev\u2013Zel'dovich effect", "weight": 0.0, "id": 2780740289, "level": 4}
+{"count": 1803, "name": "Intracluster medium", "weight": 1.0, "id": 100893083, "level": 4}
+{"count": 162, "name": "Perseus Cluster", "weight": 0.0, "id": 2780186936, "level": 4}
+{"count": 81, "name": "Ursa Major Cluster", "weight": 0.0, "id": 2777868553, "level": 4}
+{"count": 85, "name": "Arcminute Microkelvin Imager", "weight": 0.0, "id": 2778806349, "level": 4}
+{"count": 377, "name": "Halo mass function", "weight": 0.0, "id": 2778106948, "level": 4}
+{"count": 14, "name": "Abell 222", "weight": 0.0, "id": 2778919521, "level": 4}
+{"count": 55, "name": "Millennium Run", "weight": 0.0, "id": 172059444, "level": 4}
+{"count": 23, "name": "Abell catalogue", "weight": 0.0, "id": 2777251828, "level": 4}
+{"count": 77, "name": "El Gordo", "weight": 0.0, "id": 2780199766, "level": 4}
+{"count": 15, "name": "Sunyaev\u2013Zel'dovich Array", "weight": 0.0, "id": 2776794778, "level": 4}
+{"count": 12, "name": "Virgocentric flow", "weight": 0.0, "id": 2778731348, "level": 4}
+{"count": 25, "name": "Viper telescope", "weight": 0.0, "id": 2776263121, "level": 4}
+{"count": 30, "name": "Arcminute Cosmology Bolometer Array Receiver", "weight": 0.0, "id": 2780286302, "level": 4}

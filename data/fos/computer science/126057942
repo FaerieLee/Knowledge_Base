@@ -1,0 +1,6 @@
+{"count": 2886, "name": "Binocular disparity", "weight": 9.0, "id": 90790637, "level": 3}
+{"count": 3158, "name": "Autostereoscopy", "weight": 10.0, "id": 39303567, "level": 3}
+{"count": 523, "name": "Anaglyph 3D", "weight": 1.0, "id": 34629796, "level": 3}
+{"count": 495, "name": "Random dot stereogram", "weight": 1.0, "id": 179768578, "level": 3}
+{"count": 1568, "name": "Parallax barrier", "weight": 4.0, "id": 157321605, "level": 3}
+{"count": 883, "name": "Stereoscope", "weight": 2.0, "id": 182616374, "level": 3}

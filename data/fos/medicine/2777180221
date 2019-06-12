@@ -1,0 +1,45 @@
+{"count": 26745, "name": "Metformin", "weight": 8.0, "id": 2780323712, "level": 4}
+{"count": 4942, "name": "Glucagon-like peptide-1", "weight": 1.0, "id": 2776398474, "level": 4}
+{"count": 6153, "name": "Rosiglitazone", "weight": 1.0, "id": 2780152017, "level": 4}
+{"count": 7384, "name": "Pioglitazone", "weight": 2.0, "id": 2778384471, "level": 4}
+{"count": 2854, "name": "Dipeptidyl peptidase-4", "weight": 0.0, "id": 156490143, "level": 4}
+{"count": 4732, "name": "Incretin", "weight": 1.0, "id": 2778881409, "level": 4}
+{"count": 3160, "name": "Thiazolidinedione", "weight": 0.0, "id": 2776923340, "level": 4}
+{"count": 3284, "name": "Acarbose", "weight": 1.0, "id": 2776617576, "level": 4}
+{"count": 2778, "name": "Exenatide", "weight": 0.0, "id": 2780533449, "level": 4}
+{"count": 5973, "name": "Prediabetes", "weight": 1.0, "id": 2779668308, "level": 4}
+{"count": 6277, "name": "Sulfonylurea", "weight": 1.0, "id": 2778854520, "level": 4}
+{"count": 8083, "name": "Glycated hemoglobin", "weight": 2.0, "id": 2777538456, "level": 4}
+{"count": 2140, "name": "Gliclazide", "weight": 0.0, "id": 2777448766, "level": 4}
+{"count": 3143, "name": "Liraglutide", "weight": 0.0, "id": 2781308992, "level": 4}
+{"count": 576, "name": "United Kingdom Prospective Diabetes Study", "weight": 0.0, "id": 2780920962, "level": 4}
+{"count": 1439, "name": "Insulin aspart", "weight": 0.0, "id": 2779908123, "level": 4}
+{"count": 5991, "name": "Diabetes management", "weight": 1.0, "id": 2776217022, "level": 4}
+{"count": 905, "name": "Nateglinide", "weight": 0.0, "id": 2779463123, "level": 4}
+{"count": 1201, "name": "Dapagliflozin", "weight": 0.0, "id": 2777422806, "level": 4}
+{"count": 1475, "name": "Macrovascular disease", "weight": 0.0, "id": 2778848681, "level": 4}
+{"count": 1839, "name": "TCF7L2", "weight": 0.0, "id": 39263347, "level": 4}
+{"count": 1071, "name": "Canagliflozin", "weight": 0.0, "id": 2777451236, "level": 4}
+{"count": 1082, "name": "Empagliflozin", "weight": 0.0, "id": 2775887513, "level": 4}
+{"count": 935, "name": "Maturity onset diabetes of the young", "weight": 0.0, "id": 2780203522, "level": 4}
+{"count": 360, "name": "Colesevelam", "weight": 0.0, "id": 2778733726, "level": 4}
+{"count": 530, "name": "Voglibose", "weight": 0.0, "id": 2777842550, "level": 4}
+{"count": 513, "name": "HNF1A", "weight": 0.0, "id": 161600633, "level": 4}
+{"count": 32366, "name": "Glycemic", "weight": 10.0, "id": 2780473172, "level": 4}
+{"count": 831, "name": "Insulin analog", "weight": 0.0, "id": 2776664568, "level": 4}
+{"count": 231, "name": "ABCC8", "weight": 0.0, "id": 2778537969, "level": 4}
+{"count": 284, "name": "Mitiglinide", "weight": 0.0, "id": 2776930691, "level": 4}
+{"count": 177, "name": "Ipragliflozin", "weight": 0.0, "id": 2779965557, "level": 4}
+{"count": 829, "name": "Renal glucose reabsorption", "weight": 0.0, "id": 90466245, "level": 4}
+{"count": 206, "name": "Teneligliptin", "weight": 0.0, "id": 2778824895, "level": 4}
+{"count": 152, "name": "Bardoxolone methyl", "weight": 0.0, "id": 2780939180, "level": 4}
+{"count": 122, "name": "Tofogliflozin", "weight": 0.0, "id": 2776604577, "level": 4}
+{"count": 124, "name": "Anagliptin", "weight": 0.0, "id": 2777795309, "level": 4}
+{"count": 84, "name": "Melatonin receptor 1B", "weight": 0.0, "id": 2777471605, "level": 4}
+{"count": 95, "name": "Trelagliptin", "weight": 0.0, "id": 2776121210, "level": 4}
+{"count": 124, "name": "Certified diabetes educator", "weight": 0.0, "id": 2778238589, "level": 4}
+{"count": 46, "name": "Anti-diabetic medication", "weight": 0.0, "id": 2777334876, "level": 4}
+{"count": 105, "name": "KLF14", "weight": 0.0, "id": 2777812601, "level": 4}
+{"count": 47, "name": "Thrifty gene hypothesis", "weight": 0.0, "id": 2780765376, "level": 4}
+{"count": 21, "name": "Remogliflozin etabonate", "weight": 0.0, "id": 2776531488, "level": 4}
+{"count": 22, "name": "Imeglimin", "weight": 0.0, "id": 2780756205, "level": 4}

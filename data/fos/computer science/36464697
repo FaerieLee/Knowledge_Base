@@ -1,0 +1,29 @@
+{"count": 25327, "name": "Data visualization", "weight": 10.0, "id": 172367668, "level": 3}
+{"count": 14090, "name": "Information visualization", "weight": 5.0, "id": 185578843, "level": 3}
+{"count": 7085, "name": "Volume rendering", "weight": 2.0, "id": 30769735, "level": 3}
+{"count": 5428, "name": "Scientific visualization", "weight": 2.0, "id": 59740354, "level": 3}
+{"count": 6181, "name": "Interactive visualization", "weight": 2.0, "id": 64073096, "level": 3}
+{"count": 3879, "name": "Graph drawing", "weight": 1.0, "id": 112953755, "level": 3}
+{"count": 1961, "name": "Data exploration", "weight": 0.0, "id": 2780977526, "level": 3}
+{"count": 3848, "name": "Software visualization", "weight": 1.0, "id": 4379982, "level": 3}
+{"count": 2569, "name": "Parallel rendering", "weight": 1.0, "id": 186772499, "level": 3}
+{"count": 1304, "name": "Tag cloud", "weight": 0.0, "id": 26983874, "level": 3}
+{"count": 435, "name": "Computational steering", "weight": 0.0, "id": 2775966267, "level": 3}
+{"count": 312, "name": "Line integral convolution", "weight": 0.0, "id": 146914847, "level": 3}
+{"count": 1420, "name": "Isosurface", "weight": 0.0, "id": 45107383, "level": 3}
+{"count": 1271, "name": "Terrain rendering", "weight": 0.0, "id": 118350294, "level": 3}
+{"count": 92, "name": "Social Visualization", "weight": 0.0, "id": 2779302811, "level": 3}
+{"count": 725, "name": "3D city models", "weight": 0.0, "id": 2778597888, "level": 3}
+{"count": 209, "name": "Keyhole Markup Language", "weight": 0.0, "id": 2781247821, "level": 3}
+{"count": 53, "name": "Texture advection", "weight": 0.0, "id": 2781018421, "level": 3}
+{"count": 10, "name": "VxInsight", "weight": 0.0, "id": 2780099388, "level": 3}
+{"count": 19, "name": "Arc diagram", "weight": 0.0, "id": 2779442664, "level": 3}
+{"count": 97, "name": "Circular layout", "weight": 0.0, "id": 2777453646, "level": 3}
+{"count": 27, "name": "Architectural endoscopy", "weight": 0.0, "id": 2778514176, "level": 3}
+{"count": 35, "name": "t-distributed stochastic neighbor embedding", "weight": 0.0, "id": 2778344778, "level": 3}
+{"count": 109, "name": "ggplot2", "weight": 0.0, "id": 2883164, "level": 3}
+{"count": 35, "name": "BioJS", "weight": 0.0, "id": 2776917887, "level": 3}
+{"count": 51, "name": "Polynomiography", "weight": 0.0, "id": 2780695988, "level": 3}
+{"count": 51, "name": "VisAD", "weight": 0.0, "id": 168324905, "level": 3}
+{"count": 27, "name": "Earth sciences graphics software", "weight": 0.0, "id": 542509406, "level": 3}
+{"count": 17, "name": "Treemapping", "weight": 0.0, "id": 110189826, "level": 3}

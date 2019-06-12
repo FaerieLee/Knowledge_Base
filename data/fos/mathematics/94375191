@@ -1,0 +1,154 @@
+{"count": 36165, "name": "Parity (mathematics)", "weight": 3.0, "id": 154751237, "level": 2}
+{"count": 35189, "name": "Multiplication", "weight": 3.0, "id": 156493562, "level": 2}
+{"count": 11965, "name": "Truncation", "weight": 1.0, "id": 37814816, "level": 2}
+{"count": 86880, "name": "Binary number", "weight": 8.0, "id": 48372109, "level": 2}
+{"count": 13553, "name": "Basic skills", "weight": 1.0, "id": 2780623789, "level": 2}
+{"count": 19104, "name": "Subtraction", "weight": 1.0, "id": 68060419, "level": 2}
+{"count": 26982, "name": "Notation", "weight": 2.0, "id": 45357846, "level": 2}
+{"count": 10203, "name": "Numeral system", "weight": 1.0, "id": 204160518, "level": 2}
+{"count": 12944, "name": "Rubric", "weight": 1.0, "id": 111640148, "level": 2}
+{"count": 1152, "name": "Mersenne prime", "weight": 0.0, "id": 29641680, "level": 2}
+{"count": 2891, "name": "Arbitrary-precision arithmetic", "weight": 0.0, "id": 83581934, "level": 2}
+{"count": 9714, "name": "Multiple", "weight": 0.0, "id": 164680029, "level": 2}
+{"count": 7206, "name": "Decimal", "weight": 0.0, "id": 65045869, "level": 2}
+{"count": 14030, "name": "Numerical digit", "weight": 1.0, "id": 94957134, "level": 2}
+{"count": 99372, "name": "Remainder", "weight": 10.0, "id": 39613435, "level": 2}
+{"count": 2702, "name": "Higher-order thinking", "weight": 0.0, "id": 2777004525, "level": 2}
+{"count": 15419, "name": "Radix", "weight": 1.0, "id": 204248692, "level": 2}
+{"count": 955, "name": "Division algorithm", "weight": 0.0, "id": 190715199, "level": 2}
+{"count": 1708, "name": "Abacus", "weight": 0.0, "id": 2775835377, "level": 2}
+{"count": 1210, "name": "Affine arithmetic", "weight": 0.0, "id": 167315692, "level": 2}
+{"count": 21113, "name": "Division (mathematics)", "weight": 2.0, "id": 60798267, "level": 2}
+{"count": 328, "name": "Roman numerals", "weight": 0.0, "id": 51210885, "level": 2}
+{"count": 304, "name": "Quipu", "weight": 0.0, "id": 34122027, "level": 2}
+{"count": 562, "name": "Octal", "weight": 0.0, "id": 985788, "level": 2}
+{"count": 26502, "name": "One half", "weight": 2.0, "id": 135616667, "level": 2}
+{"count": 11467, "name": "Dozen", "weight": 1.0, "id": 185181809, "level": 2}
+{"count": 620, "name": "Second-order arithmetic", "weight": 0.0, "id": 65148605, "level": 2}
+{"count": 981, "name": "Adding machine", "weight": 0.0, "id": 114912173, "level": 2}
+{"count": 259, "name": "Tonal system", "weight": 0.0, "id": 2777611950, "level": 2}
+{"count": 87, "name": "Massachusetts Comprehensive Assessment System", "weight": 0.0, "id": 2779163105, "level": 2}
+{"count": 186, "name": "Scientific notation", "weight": 0.0, "id": 80823169, "level": 2}
+{"count": 172, "name": "Positional notation", "weight": 0.0, "id": 160059671, "level": 2}
+{"count": 88, "name": "Abundant number", "weight": 0.0, "id": 64144142, "level": 2}
+{"count": 475, "name": "Primitive recursive arithmetic", "weight": 0.0, "id": 140775578, "level": 2}
+{"count": 672, "name": "True arithmetic", "weight": 0.0, "id": 159410598, "level": 2}
+{"count": 328, "name": "Long division", "weight": 0.0, "id": 89186085, "level": 2}
+{"count": 90, "name": "Negative base", "weight": 0.0, "id": 195913543, "level": 2}
+{"count": 1193, "name": "Power of two", "weight": 0.0, "id": 7720571, "level": 2}
+{"count": 794, "name": "Algorism", "weight": 0.0, "id": 20692236, "level": 2}
+{"count": 244, "name": "Lowest common denominator", "weight": 0.0, "id": 5356273, "level": 2}
+{"count": 112, "name": "Babylonian mathematics", "weight": 0.0, "id": 2778742539, "level": 2}
+{"count": 402, "name": "Quinary", "weight": 0.0, "id": 2781139463, "level": 2}
+{"count": 335, "name": "Primary School Evaluation Test", "weight": 0.0, "id": 71402175, "level": 2}
+{"count": 114, "name": "Trailing zero", "weight": 0.0, "id": 9588867, "level": 2}
+{"count": 45, "name": "Happy number", "weight": 0.0, "id": 99064304, "level": 2}
+{"count": 227, "name": "Lucky number", "weight": 0.0, "id": 163642277, "level": 2}
+{"count": 168, "name": "Sexagesimal", "weight": 0.0, "id": 64411161, "level": 2}
+{"count": 896, "name": "Curta", "weight": 0.0, "id": 2776614546, "level": 2}
+{"count": 2, "name": "Chen\u2013Ho encoding", "weight": 0.0, "id": 2776550542, "level": 2}
+{"count": 50, "name": "Procept", "weight": 0.0, "id": 2780792310, "level": 2}
+{"count": 67, "name": "Cuisenaire rods", "weight": 0.0, "id": 120348129, "level": 2}
+{"count": 43, "name": "Yupana", "weight": 0.0, "id": 2778321905, "level": 2}
+{"count": 201, "name": "Leading zero", "weight": 0.0, "id": 187071995, "level": 2}
+{"count": 1507, "name": "Hundredth", "weight": 0.0, "id": 203895544, "level": 2}
+{"count": 122, "name": "Vinculum (symbol)", "weight": 0.0, "id": 46441347, "level": 2}
+{"count": 95, "name": "Cyclic number", "weight": 0.0, "id": 16855291, "level": 2}
+{"count": 90, "name": "Duodecimal", "weight": 0.0, "id": 131164534, "level": 2}
+{"count": 65, "name": "Harshad number", "weight": 0.0, "id": 182818171, "level": 2}
+{"count": 16, "name": "Casting out nines", "weight": 0.0, "id": 195363071, "level": 2}
+{"count": 188, "name": "Power of 10", "weight": 0.0, "id": 31570935, "level": 2}
+{"count": 41, "name": "Arithmometer", "weight": 0.0, "id": 5790069, "level": 2}
+{"count": 25, "name": "Tally stick", "weight": 0.0, "id": 5599576, "level": 2}
+{"count": 5, "name": "Sylvester's sequence", "weight": 0.0, "id": 2776557679, "level": 2}
+{"count": 38, "name": "Metric prefix", "weight": 0.0, "id": 118514812, "level": 2}
+{"count": 10, "name": "Ishango bone", "weight": 0.0, "id": 2778325223, "level": 2}
+{"count": 1117, "name": "Large numbers", "weight": 0.0, "id": 153951460, "level": 2}
+{"count": 25, "name": "Unusual number", "weight": 0.0, "id": 2778964065, "level": 2}
+{"count": 57, "name": "Digital root", "weight": 0.0, "id": 139403706, "level": 2}
+{"count": 45, "name": "24-hour clock", "weight": 0.0, "id": 2779699153, "level": 2}
+{"count": 139, "name": "Nominal number", "weight": 0.0, "id": 176042996, "level": 2}
+{"count": 6, "name": "Base32", "weight": 0.0, "id": 2777009122, "level": 2}
+{"count": 13, "name": "Self number", "weight": 0.0, "id": 2781102975, "level": 2}
+{"count": 527, "name": "Practical number", "weight": 0.0, "id": 3141499, "level": 2}
+{"count": 3, "name": "Armenian numerals", "weight": 0.0, "id": 2778997643, "level": 2}
+{"count": 15, "name": "Napier's bones", "weight": 0.0, "id": 80094069, "level": 2}
+{"count": 234, "name": "PART1", "weight": 0.0, "id": 2780601333, "level": 2}
+{"count": 2, "name": "Untouchable number", "weight": 0.0, "id": 2777748429, "level": 2}
+{"count": 2, "name": "Friedman number", "weight": 0.0, "id": 2778879142, "level": 2}
+{"count": 1, "name": "Aliquot sum", "weight": 0.0, "id": 2778381193, "level": 2}
+{"count": 2, "name": "Superabundant number", "weight": 0.0, "id": 2778088975, "level": 2}
+{"count": 30, "name": "Persistence of a number", "weight": 0.0, "id": 170094583, "level": 2}
+{"count": 2, "name": "Sign-value notation", "weight": 0.0, "id": 2779640933, "level": 2}
+{"count": 3, "name": "Japanese numerals", "weight": 0.0, "id": 2778902156, "level": 2}
+{"count": 2, "name": "Khmer numerals", "weight": 0.0, "id": 2776338354, "level": 2}
+{"count": 1, "name": "Sum-product number", "weight": 0.0, "id": 2780216784, "level": 2}
+{"count": 1, "name": "Weakly prime number", "weight": 0.0, "id": 2778696260, "level": 2}
+{"count": 5, "name": "Maya numerals", "weight": 0.0, "id": 206865784, "level": 2}
+{"count": 16, "name": "Tally marks", "weight": 0.0, "id": 79675675, "level": 2}
+{"count": 1, "name": "Non-standard positional numeral systems", "weight": 0.0, "id": 2776782875, "level": 2}
+{"count": 2, "name": "Rod calculus", "weight": 0.0, "id": 2780482486, "level": 2}
+{"count": 355, "name": "Plus and minus signs", "weight": 0.0, "id": 116772114, "level": 2}
+{"count": 1, "name": "Balinese numerals", "weight": 0.0, "id": 2778571471, "level": 2}
+{"count": 2, "name": "Salamis Tablet", "weight": 0.0, "id": 189099435, "level": 2}
+{"count": 95, "name": "Senary", "weight": 0.0, "id": 2776432702, "level": 2}
+{"count": 5, "name": "Certificate of Initial Mastery", "weight": 0.0, "id": 2776517421, "level": 2}
+{"count": 4, "name": "Smith number", "weight": 0.0, "id": 2776517471, "level": 2}
+{"count": 224, "name": "Normalized number", "weight": 0.0, "id": 113494792, "level": 2}
+{"count": 12, "name": "Four fours", "weight": 0.0, "id": 110664731, "level": 2}
+{"count": 7, "name": "Gurmukhi numerals", "weight": 0.0, "id": 2776492881, "level": 2}
+{"count": 2, "name": "Keith number", "weight": 0.0, "id": 55187693, "level": 2}
+{"count": 11, "name": "Super-prime", "weight": 0.0, "id": 2776294414, "level": 2}
+{"count": 1, "name": "Attic numerals", "weight": 0.0, "id": 2776697674, "level": 2}
+{"count": 6, "name": "Eastern Arabic numerals", "weight": 0.0, "id": 2780283726, "level": 2}
+{"count": 2, "name": "Brahmi numerals", "weight": 0.0, "id": 2778563141, "level": 2}
+{"count": 95, "name": "Gross", "weight": 0.0, "id": 46118375, "level": 2}
+{"count": 33, "name": "Arithmetic number", "weight": 0.0, "id": 2776565508, "level": 2}
+{"count": 1, "name": "Superior highly composite number", "weight": 0.0, "id": 203679091, "level": 2}
+{"count": 1, "name": "Galley division", "weight": 0.0, "id": 194669547, "level": 2}
+{"count": 1, "name": "Math Arrow", "weight": 0.0, "id": 42191529, "level": 2}
+{"count": 5, "name": "Parity of zero", "weight": 0.0, "id": 25092130, "level": 2}
+{"count": 3, "name": "Mongolian numerals", "weight": 0.0, "id": 2776301355, "level": 2}
+{"count": 1, "name": "Unicode compatibility characters", "weight": 0.0, "id": 2776474158, "level": 2}
+{"count": 2, "name": "Frugal number", "weight": 0.0, "id": 2779104820, "level": 2}
+{"count": 5, "name": "Illegal number", "weight": 0.0, "id": 2779626585, "level": 2}
+{"count": 14, "name": "Subscript and superscript", "weight": 0.0, "id": 2780208788, "level": 2}
+{"count": 2, "name": "Cuban prime", "weight": 0.0, "id": 2777250245, "level": 2}
+{"count": 215, "name": "Millionth", "weight": 0.0, "id": 2777255220, "level": 2}
+{"count": 1, "name": "Babylonian numerals", "weight": 0.0, "id": 104912751, "level": 2}
+{"count": 11, "name": "Long and short scales", "weight": 0.0, "id": 142524301, "level": 2}
+{"count": 1, "name": "Quater-imaginary base", "weight": 0.0, "id": 2781045307, "level": 2}
+{"count": 4, "name": "Extravagant number", "weight": 0.0, "id": 2780145495, "level": 2}
+{"count": 1, "name": "Chinese number gestures", "weight": 0.0, "id": 2776826090, "level": 2}
+{"count": 2, "name": "Zenzizenzizenzic", "weight": 0.0, "id": 96820408, "level": 2}
+{"count": 4, "name": "Decimal mark", "weight": 0.0, "id": 2780188068, "level": 2}
+{"count": 3, "name": "Balanced prime", "weight": 0.0, "id": 2778351621, "level": 2}
+{"count": 6, "name": "Thai numerals", "weight": 0.0, "id": 2780390016, "level": 2}
+{"count": 7, "name": "Subtractive notation", "weight": 0.0, "id": 151054983, "level": 2}
+{"count": 29, "name": "Alligation", "weight": 0.0, "id": 68545100, "level": 2}
+{"count": 10, "name": "Number bond", "weight": 0.0, "id": 202668113, "level": 2}
+{"count": 2, "name": "Lychrel number", "weight": 0.0, "id": 178412546, "level": 2}
+{"count": 4, "name": "Shifting nth root algorithm", "weight": 0.0, "id": 9531256, "level": 2}
+{"count": 1, "name": "Descartes number", "weight": 0.0, "id": 2780584951, "level": 2}
+{"count": 2, "name": "Pentation", "weight": 0.0, "id": 2777084721, "level": 2}
+{"count": 1, "name": "Kynea number", "weight": 0.0, "id": 2777144117, "level": 2}
+{"count": 1, "name": "Carol number", "weight": 0.0, "id": 2779506566, "level": 2}
+{"count": 126, "name": "Project NExT", "weight": 0.0, "id": 72678461, "level": 2}
+{"count": 2, "name": "Table of bases", "weight": 0.0, "id": 129118115, "level": 2}
+{"count": 1, "name": "Suzhou numerals", "weight": 0.0, "id": 2778044945, "level": 2}
+{"count": 2, "name": "Pascal's calculator", "weight": 0.0, "id": 13864015, "level": 2}
+{"count": 6, "name": "Suanpan", "weight": 0.0, "id": 2780889865, "level": 2}
+{"count": 7, "name": "Parasitic number", "weight": 0.0, "id": 2781290905, "level": 2}
+{"count": 1, "name": "Radix economy", "weight": 0.0, "id": 2779909680, "level": 2}
+{"count": 1, "name": "Roman abacus", "weight": 0.0, "id": 2776671782, "level": 2}
+{"count": 2, "name": "Chen prime", "weight": 0.0, "id": 2776918624, "level": 2}
+{"count": 3, "name": "Ancient Egyptian multiplication", "weight": 0.0, "id": 192058787, "level": 2}
+{"count": 1, "name": "Leibniz wheel", "weight": 0.0, "id": 112045386, "level": 2}
+{"count": 2, "name": "Isopsephy", "weight": 0.0, "id": 2780564157, "level": 2}
+{"count": 4, "name": "Long hundred", "weight": 0.0, "id": 2779750938, "level": 2}
+{"count": 7, "name": "Factorion", "weight": 0.0, "id": 4465137, "level": 2}
+{"count": 3, "name": "Concatenation (mathematics)", "weight": 0.0, "id": 87619178, "level": 2}
+{"count": 6, "name": "Bi-quinary coded decimal", "weight": 0.0, "id": 178753187, "level": 2}
+{"count": 3, "name": "Mediant (mathematics)", "weight": 0.0, "id": 28498557, "level": 2}
+{"count": 12, "name": "Genealogical numbering systems", "weight": 0.0, "id": 152204776, "level": 2}
+{"count": 81, "name": "Division by two", "weight": 0.0, "id": 152701802, "level": 2}

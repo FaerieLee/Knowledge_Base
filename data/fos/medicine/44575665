@@ -1,0 +1,67 @@
+{"count": 23053, "name": "Vertebra", "weight": 10.0, "id": 2776412215, "level": 3}
+{"count": 17569, "name": "Intervertebral disc", "weight": 7.0, "id": 2777755357, "level": 3}
+{"count": 10180, "name": "Lumbar vertebrae", "weight": 4.0, "id": 2779835254, "level": 3}
+{"count": 11473, "name": "Spinal fusion", "weight": 4.0, "id": 2780375110, "level": 3}
+{"count": 9533, "name": "Laminectomy", "weight": 4.0, "id": 2780091945, "level": 3}
+{"count": 5488, "name": "Spinal stenosis", "weight": 2.0, "id": 2780175798, "level": 3}
+{"count": 6195, "name": "Sciatica", "weight": 2.0, "id": 2776698514, "level": 3}
+{"count": 5902, "name": "Lordosis", "weight": 2.0, "id": 2780901121, "level": 3}
+{"count": 7584, "name": "Spondylolisthesis", "weight": 3.0, "id": 2776623965, "level": 3}
+{"count": 6312, "name": "Myelography", "weight": 2.0, "id": 2777905831, "level": 3}
+{"count": 11913, "name": "Nerve root", "weight": 5.0, "id": 178409289, "level": 3}
+{"count": 3025, "name": "Spinal nerve", "weight": 1.0, "id": 2780999072, "level": 3}
+{"count": 2700, "name": "Degenerative disc disease", "weight": 1.0, "id": 2778051963, "level": 3}
+{"count": 6736, "name": "Discectomy", "weight": 2.0, "id": 2776008035, "level": 3}
+{"count": 4262, "name": "Cauda equina", "weight": 1.0, "id": 2781300204, "level": 3}
+{"count": 9681, "name": "Spinal canal", "weight": 4.0, "id": 2779326565, "level": 3}
+{"count": 3613, "name": "Lumbar spinal stenosis", "weight": 1.0, "id": 2779631646, "level": 3}
+{"count": 4408, "name": "Oswestry Disability Index", "weight": 1.0, "id": 2775998654, "level": 3}
+{"count": 10504, "name": "Lumbosacral joint", "weight": 4.0, "id": 7146039, "level": 3}
+{"count": 2065, "name": "Cauda equina syndrome", "weight": 0.0, "id": 2780536975, "level": 3}
+{"count": 1250, "name": "Epidural steroid injection", "weight": 0.0, "id": 2777761098, "level": 3}
+{"count": 3766, "name": "Facet joint", "weight": 1.0, "id": 2775871850, "level": 3}
+{"count": 1361, "name": "Discitis", "weight": 0.0, "id": 2781312948, "level": 3}
+{"count": 1729, "name": "Burst fracture", "weight": 0.0, "id": 2777663397, "level": 3}
+{"count": 2343, "name": "Spinous process", "weight": 1.0, "id": 2777767108, "level": 3}
+{"count": 1825, "name": "Pelvic tilt", "weight": 0.0, "id": 2780329765, "level": 3}
+{"count": 2726, "name": "Radicular pain", "weight": 1.0, "id": 2779978343, "level": 3}
+{"count": 622, "name": "Minimally invasive spine surgery", "weight": 0.0, "id": 2779354323, "level": 3}
+{"count": 720, "name": "Chymopapain", "weight": 0.0, "id": 2780605044, "level": 3}
+{"count": 554, "name": "Pseudomeningocele", "weight": 0.0, "id": 2778420105, "level": 3}
+{"count": 937, "name": "Lumbar plexus", "weight": 0.0, "id": 2776699164, "level": 3}
+{"count": 411, "name": "Modic changes", "weight": 0.0, "id": 2776339750, "level": 3}
+{"count": 544, "name": "Multifidus muscle", "weight": 0.0, "id": 2778286254, "level": 3}
+{"count": 637, "name": "Lumbar disc disease", "weight": 0.0, "id": 2779806092, "level": 3}
+{"count": 541, "name": "Anterior longitudinal ligament", "weight": 0.0, "id": 2779157695, "level": 3}
+{"count": 836, "name": "Lateral recess", "weight": 0.0, "id": 2776683126, "level": 3}
+{"count": 769, "name": "Spinal decompression", "weight": 0.0, "id": 2777096672, "level": 3}
+{"count": 224, "name": "Interspinous ligament", "weight": 0.0, "id": 2776584105, "level": 3}
+{"count": 962, "name": "Spinal disease", "weight": 0.0, "id": 2781438226, "level": 3}
+{"count": 229, "name": "Failed back syndrome", "weight": 0.0, "id": 2778173237, "level": 3}
+{"count": 169, "name": "Cotrel\u2013Dubousset instrumentation", "weight": 0.0, "id": 2778928441, "level": 3}
+{"count": 179, "name": "Thoracolumbar fascia", "weight": 0.0, "id": 2777478851, "level": 3}
+{"count": 788, "name": "Disc protrusion", "weight": 0.0, "id": 2778782708, "level": 3}
+{"count": 165, "name": "Chance fracture", "weight": 0.0, "id": 2780256933, "level": 3}
+{"count": 457, "name": "Erector spinae muscles", "weight": 0.0, "id": 2779151272, "level": 3}
+{"count": 498, "name": "Herniated disk", "weight": 0.0, "id": 2778200873, "level": 3}
+{"count": 305, "name": "Facet syndrome", "weight": 0.0, "id": 2777791965, "level": 3}
+{"count": 116, "name": "Schmorl's nodes", "weight": 0.0, "id": 2779296365, "level": 3}
+{"count": 254, "name": "Psoas major muscle", "weight": 0.0, "id": 2778523074, "level": 3}
+{"count": 382, "name": "Lumbar arteries", "weight": 0.0, "id": 2778784962, "level": 3}
+{"count": 244, "name": "Superior cluneal nerves", "weight": 0.0, "id": 166050326, "level": 3}
+{"count": 85, "name": "Lumbar triangle", "weight": 0.0, "id": 2776259960, "level": 3}
+{"count": 314, "name": "Lumbar enlargement", "weight": 0.0, "id": 2776251775, "level": 3}
+{"count": 569, "name": "Thecal sac", "weight": 0.0, "id": 2777195788, "level": 3}
+{"count": 237, "name": "Iliocostalis", "weight": 0.0, "id": 2776517339, "level": 3}
+{"count": 59, "name": "Lumbar fascia", "weight": 0.0, "id": 2778981410, "level": 3}
+{"count": 88, "name": "Quadratus lumborum muscle", "weight": 0.0, "id": 2781359432, "level": 3}
+{"count": 357, "name": "Neutral spine", "weight": 0.0, "id": 129621854, "level": 3}
+{"count": 36, "name": "Rexed laminae", "weight": 0.0, "id": 2777474233, "level": 3}
+{"count": 16, "name": "Petit's hernia", "weight": 0.0, "id": 2778058770, "level": 3}
+{"count": 4, "name": "Sacral spinal nerve 1", "weight": 0.0, "id": 2780722576, "level": 3}
+{"count": 26, "name": "Lumbar\u2013peritoneal shunt", "weight": 0.0, "id": 2778739850, "level": 3}
+{"count": 43, "name": "Gibbus deformity", "weight": 0.0, "id": 2776626855, "level": 3}
+{"count": 41, "name": "Roman chair", "weight": 0.0, "id": 2780878538, "level": 3}
+{"count": 17, "name": "Posterior median line", "weight": 0.0, "id": 2776251494, "level": 3}
+{"count": 11, "name": "Jaseng Hospital of Oriental Medicine", "weight": 0.0, "id": 2778740682, "level": 3}
+{"count": 62, "name": "Neural substrate of locomotor central pattern generators in mammals", "weight": 0.0, "id": 17423870, "level": 3}

@@ -1,0 +1,19 @@
+{"count": 31332, "name": "Activated sludge", "weight": 10.0, "id": 2777730692, "level": 3}
+{"count": 6984, "name": "Hydraulic retention time", "weight": 2.0, "id": 84250820, "level": 3}
+{"count": 8752, "name": "Membrane bioreactor", "weight": 2.0, "id": 2776266027, "level": 3}
+{"count": 4736, "name": "Biosolids", "weight": 1.0, "id": 2777654200, "level": 3}
+{"count": 11005, "name": "Sewage sludge treatment", "weight": 3.0, "id": 107446159, "level": 3}
+{"count": 1468, "name": "Oil sludge", "weight": 0.0, "id": 2780806765, "level": 3}
+{"count": 1034, "name": "Night soil", "weight": 0.0, "id": 2779352010, "level": 3}
+{"count": 4156, "name": "Clarifier", "weight": 1.0, "id": 2777428582, "level": 3}
+{"count": 739, "name": "Belt filter", "weight": 0.0, "id": 2781470988, "level": 3}
+{"count": 185, "name": "Biodrying", "weight": 0.0, "id": 2777826014, "level": 3}
+{"count": 330, "name": "Septage", "weight": 0.0, "id": 2780797762, "level": 3}
+{"count": 878, "name": "Facultative lagoon", "weight": 0.0, "id": 139925424, "level": 3}
+{"count": 630, "name": "In-vessel composting", "weight": 0.0, "id": 69029970, "level": 3}
+{"count": 483, "name": "Aerobic treatment system", "weight": 0.0, "id": 97920779, "level": 3}
+{"count": 66, "name": "Internal circulation reactor", "weight": 0.0, "id": 2779638610, "level": 3}
+{"count": 179, "name": "Population equivalent", "weight": 0.0, "id": 2781128188, "level": 3}
+{"count": 26, "name": "Aerated static pile composting", "weight": 0.0, "id": 2778403063, "level": 3}
+{"count": 18, "name": "Peroxide fusion", "weight": 0.0, "id": 2777134576, "level": 3}
+{"count": 35, "name": "Dewatering screw press", "weight": 0.0, "id": 26365718, "level": 3}

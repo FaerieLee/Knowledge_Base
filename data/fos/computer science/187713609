@@ -1,0 +1,9 @@
+{"count": 5828, "name": "Residential gateway", "weight": 10.0, "id": 179703994, "level": 3}
+{"count": 4052, "name": "H.248", "weight": 6.0, "id": 136923852, "level": 3}
+{"count": 706, "name": "Unified threat management", "weight": 1.0, "id": 29795917, "level": 3}
+{"count": 88, "name": "Application-level gateway", "weight": 0.0, "id": 2779336508, "level": 3}
+{"count": 307, "name": "VoIP gateway", "weight": 0.0, "id": 2778894717, "level": 3}
+{"count": 163, "name": "Home Node B", "weight": 0.0, "id": 113313435, "level": 3}
+{"count": 58, "name": "VoATM", "weight": 0.0, "id": 2781038914, "level": 3}
+{"count": 4780, "name": "Gateway address", "weight": 8.0, "id": 126608188, "level": 3}
+{"count": 544, "name": "Policy and charging rules function", "weight": 0.0, "id": 69357408, "level": 3}

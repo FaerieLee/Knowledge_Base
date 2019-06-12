@@ -1,0 +1,5 @@
+{"count": 106, "name": "Boyce\u2013Codd normal form", "weight": 0.0, "id": 60593393, "level": 3}
+{"count": 147, "name": "Third normal form", "weight": 1.0, "id": 75828265, "level": 3}
+{"count": 39, "name": "Lossless-Join Decomposition", "weight": 0.0, "id": 5198476, "level": 3}
+{"count": 19, "name": "Universal relation assumption", "weight": 0.0, "id": 2780731884, "level": 3}
+{"count": 1102, "name": "Dependency theory (database theory)", "weight": 10.0, "id": 40683218, "level": 3}

@@ -1,0 +1,32 @@
+{"count": 3179, "name": "Object-oriented modeling", "weight": 4.0, "id": 2780966626, "level": 3}
+{"count": 7388, "name": "Object-oriented design", "weight": 10.0, "id": 53073257, "level": 3}
+{"count": 1896, "name": "Smalltalk", "weight": 2.0, "id": 2777293101, "level": 3}
+{"count": 1406, "name": "Object-oriented analysis and design", "weight": 1.0, "id": 184667871, "level": 3}
+{"count": 1985, "name": "Object-orientation", "weight": 2.0, "id": 120968358, "level": 3}
+{"count": 979, "name": "Multiple inheritance", "weight": 1.0, "id": 200568363, "level": 3}
+{"count": 1265, "name": "Class hierarchy", "weight": 1.0, "id": 2781289151, "level": 3}
+{"count": 454, "name": "Instance variable", "weight": 0.0, "id": 99180448, "level": 3}
+{"count": 66, "name": "Real-Time Object-Oriented Modeling", "weight": 0.0, "id": 2781354122, "level": 3}
+{"count": 390, "name": "Object-modeling technique", "weight": 0.0, "id": 42421042, "level": 3}
+{"count": 219, "name": "Object-Z", "weight": 0.0, "id": 2778489170, "level": 3}
+{"count": 193, "name": "Multiple dispatch", "weight": 0.0, "id": 125120195, "level": 3}
+{"count": 933, "name": "Object-relational mapping", "weight": 1.0, "id": 72615636, "level": 3}
+{"count": 129, "name": "Common Lisp Object System", "weight": 0.0, "id": 2775879068, "level": 3}
+{"count": 115, "name": "Metaclass", "weight": 0.0, "id": 2776378555, "level": 3}
+{"count": 238, "name": "Mixin", "weight": 0.0, "id": 2781359708, "level": 3}
+{"count": 217, "name": "Object composition", "weight": 0.0, "id": 56353759, "level": 3}
+{"count": 27, "name": "Law of Demeter", "weight": 0.0, "id": 101585813, "level": 3}
+{"count": 182, "name": "Metaobject", "weight": 0.0, "id": 2778335927, "level": 3}
+{"count": 77, "name": "Access modifiers", "weight": 0.0, "id": 104188567, "level": 3}
+{"count": 143, "name": "Run-time type information", "weight": 0.0, "id": 114822604, "level": 3}
+{"count": 284, "name": "Policy-based design", "weight": 0.0, "id": 171850540, "level": 3}
+{"count": 64, "name": "Class-responsibility-collaboration card", "weight": 0.0, "id": 196565672, "level": 3}
+{"count": 39, "name": "Method overriding", "weight": 0.0, "id": 2778267733, "level": 3}
+{"count": 137, "name": "Double dispatch", "weight": 0.0, "id": 187626780, "level": 3}
+{"count": 17, "name": "EuLisp", "weight": 0.0, "id": 2781318339, "level": 3}
+{"count": 149, "name": "Decomposition (computer science)", "weight": 0.0, "id": 88330836, "level": 3}
+{"count": 210, "name": "Class-based programming", "weight": 0.0, "id": 69164191, "level": 3}
+{"count": 15, "name": "Logtalk", "weight": 0.0, "id": 2778460848, "level": 3}
+{"count": 19, "name": "Deductive language", "weight": 0.0, "id": 2776704282, "level": 3}
+{"count": 20, "name": "Virtual inheritance", "weight": 0.0, "id": 2778799505, "level": 3}
+{"count": 15, "name": "ObjVlisp", "weight": 0.0, "id": 2780929599, "level": 3}

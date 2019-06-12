@@ -1,0 +1,119 @@
+{"count": 19859, "name": "Mesh generation", "weight": 6.0, "id": 181145010, "level": 3}
+{"count": 30203, "name": "Boundary element method", "weight": 10.0, "id": 63632240, "level": 3}
+{"count": 29950, "name": "Galerkin method", "weight": 9.0, "id": 186899397, "level": 3}
+{"count": 28654, "name": "Modal analysis", "weight": 9.0, "id": 104286136, "level": 3}
+{"count": 21422, "name": "Linear elasticity", "weight": 7.0, "id": 3161131, "level": 3}
+{"count": 13094, "name": "Static analysis", "weight": 4.0, "id": 97686452, "level": 3}
+{"count": 11559, "name": "Fluid\u2013structure interaction", "weight": 3.0, "id": 2779126057, "level": 3}
+{"count": 12524, "name": "Domain decomposition methods", "weight": 4.0, "id": 198880260, "level": 3}
+{"count": 20561, "name": "Plane stress", "weight": 6.0, "id": 29320194, "level": 3}
+{"count": 6537, "name": "Finite strain theory", "weight": 2.0, "id": 163892269, "level": 3}
+{"count": 11445, "name": "Viscoplasticity", "weight": 3.0, "id": 55359492, "level": 3}
+{"count": 11730, "name": "Discontinuous Galerkin method", "weight": 3.0, "id": 92244383, "level": 3}
+{"count": 11781, "name": "Topology optimization", "weight": 3.0, "id": 189216461, "level": 3}
+{"count": 6877, "name": "Soil structure interaction", "weight": 2.0, "id": 2779622475, "level": 3}
+{"count": 7466, "name": "Structural mechanics", "weight": 2.0, "id": 126298732, "level": 3}
+{"count": 13177, "name": "Stiffness matrix", "weight": 4.0, "id": 14198674, "level": 3}
+{"count": 4657, "name": "Adaptive mesh refinement", "weight": 1.0, "id": 131053463, "level": 3}
+{"count": 5363, "name": "Computational mechanics", "weight": 1.0, "id": 72514878, "level": 3}
+{"count": 17400, "name": "Orthotropic material", "weight": 5.0, "id": 131336679, "level": 3}
+{"count": 4719, "name": "Representative elementary volume", "weight": 1.0, "id": 160635147, "level": 3}
+{"count": 11550, "name": "Timoshenko beam theory", "weight": 3.0, "id": 190699663, "level": 3}
+{"count": 4438, "name": "Limit analysis", "weight": 1.0, "id": 2779100365, "level": 3}
+{"count": 3034, "name": "J integral", "weight": 1.0, "id": 110411163, "level": 3}
+{"count": 4915, "name": "Solid mechanics", "weight": 1.0, "id": 500666722, "level": 3}
+{"count": 1200, "name": "Stokes problem", "weight": 0.0, "id": 2780355006, "level": 3}
+{"count": 24264, "name": "Forming processes", "weight": 8.0, "id": 139321929, "level": 3}
+{"count": 5728, "name": "Bolted joint", "weight": 1.0, "id": 155723203, "level": 3}
+{"count": 6363, "name": "Crashworthiness", "weight": 2.0, "id": 2779240047, "level": 3}
+{"count": 2950, "name": "Compliant mechanism", "weight": 0.0, "id": 79772673, "level": 3}
+{"count": 6225, "name": "Hyperelastic material", "weight": 2.0, "id": 147370603, "level": 3}
+{"count": 9316, "name": "Plate theory", "weight": 3.0, "id": 16826683, "level": 3}
+{"count": 9785, "name": "Displacement field", "weight": 3.0, "id": 29660869, "level": 3}
+{"count": 9477, "name": "Bending of plates", "weight": 3.0, "id": 108489624, "level": 3}
+{"count": 29458, "name": "Mixed finite element method", "weight": 9.0, "id": 144468803, "level": 3}
+{"count": 1844, "name": "Rayleigh\u2013Ritz method", "weight": 0.0, "id": 70940138, "level": 3}
+{"count": 3643, "name": "Moving load", "weight": 1.0, "id": 26016710, "level": 3}
+{"count": 1305, "name": "Hydroelasticity", "weight": 0.0, "id": 137919232, "level": 3}
+{"count": 28083, "name": "Extended finite element method", "weight": 9.0, "id": 24810621, "level": 3}
+{"count": 2607, "name": "Patch test", "weight": 0.0, "id": 140764562, "level": 3}
+{"count": 1296, "name": "Partition of unity", "weight": 0.0, "id": 102205669, "level": 3}
+{"count": 3122, "name": "Cohesive zone model", "weight": 1.0, "id": 55688453, "level": 3}
+{"count": 7580, "name": "Composite plate", "weight": 2.0, "id": 2778378087, "level": 3}
+{"count": 2051, "name": "Isogeometric analysis", "weight": 0.0, "id": 2780737243, "level": 3}
+{"count": 2709, "name": "Meshfree methods", "weight": 0.0, "id": 162835735, "level": 3}
+{"count": 3879, "name": "Mass matrix", "weight": 1.0, "id": 135585149, "level": 3}
+{"count": 606, "name": "F\u00f6ppl\u2013von K\u00e1rm\u00e1n equations", "weight": 0.0, "id": 55510962, "level": 3}
+{"count": 1497, "name": "Forming limit diagram", "weight": 0.0, "id": 2777959984, "level": 3}
+{"count": 2941, "name": "Superconvergence", "weight": 0.0, "id": 83295009, "level": 3}
+{"count": 1331, "name": "Unilateral contact", "weight": 0.0, "id": 2777229905, "level": 3}
+{"count": 8221, "name": "von Mises yield criterion", "weight": 2.0, "id": 155165730, "level": 3}
+{"count": 4638, "name": "Virtual work", "weight": 1.0, "id": 136560751, "level": 3}
+{"count": 3895, "name": "Hydroforming", "weight": 1.0, "id": 2779751499, "level": 3}
+{"count": 2532, "name": "Shakedown", "weight": 0.0, "id": 2779421047, "level": 3}
+{"count": 1245, "name": "LS-DYNA", "weight": 0.0, "id": 10592887, "level": 3}
+{"count": 1956, "name": "Statistical energy analysis", "weight": 0.0, "id": 155560232, "level": 3}
+{"count": 1837, "name": "Fictitious domain method", "weight": 0.0, "id": 119741493, "level": 3}
+{"count": 927, "name": "Constrained-layer damping", "weight": 0.0, "id": 2780435114, "level": 3}
+{"count": 8169, "name": "Multiphysics", "weight": 2.0, "id": 46435376, "level": 3}
+{"count": 1899, "name": "Contact analysis", "weight": 0.0, "id": 141903097, "level": 3}
+{"count": 2650, "name": "Limit load", "weight": 0.0, "id": 2781192867, "level": 3}
+{"count": 2885, "name": "Arch dam", "weight": 0.0, "id": 2776423418, "level": 3}
+{"count": 941, "name": "Material point method", "weight": 0.0, "id": 20138086, "level": 3}
+{"count": 890, "name": "Autofrettage", "weight": 0.0, "id": 2778775876, "level": 3}
+{"count": 512, "name": "Trefftz method", "weight": 0.0, "id": 2777361521, "level": 3}
+{"count": 1660, "name": "Newmark-beta method", "weight": 0.0, "id": 124982011, "level": 3}
+{"count": 804, "name": "Discontinuous Deformation Analysis", "weight": 0.0, "id": 175221391, "level": 3}
+{"count": 1564, "name": "Strength reduction", "weight": 0.0, "id": 123453687, "level": 3}
+{"count": 1071, "name": "Finite strip method", "weight": 0.0, "id": 2780018685, "level": 3}
+{"count": 8961, "name": "Quadrilateral", "weight": 2.0, "id": 151756577, "level": 3}
+{"count": 362, "name": "Signorini problem", "weight": 0.0, "id": 2781467578, "level": 3}
+{"count": 2115, "name": "Gravity dam", "weight": 0.0, "id": 2779318173, "level": 3}
+{"count": 1076, "name": "Flexibility method", "weight": 0.0, "id": 72249523, "level": 3}
+{"count": 5723, "name": "Pressure-correction method", "weight": 1.0, "id": 21018558, "level": 3}
+{"count": 2032, "name": "Hexahedron", "weight": 0.0, "id": 22411076, "level": 3}
+{"count": 1899, "name": "Weak formulation", "weight": 0.0, "id": 153919410, "level": 3}
+{"count": 909, "name": "Dynamic relaxation", "weight": 0.0, "id": 2776479032, "level": 3}
+{"count": 959, "name": "OpenSees", "weight": 0.0, "id": 140590641, "level": 3}
+{"count": 533, "name": "Stress\u2013strain analysis", "weight": 0.0, "id": 57577195, "level": 3}
+{"count": 590, "name": "Virtual displacement", "weight": 0.0, "id": 19252792, "level": 3}
+{"count": 1576, "name": "Structural dynamics", "weight": 0.0, "id": 142102732, "level": 3}
+{"count": 917, "name": "Crash simulation", "weight": 0.0, "id": 2777202219, "level": 3}
+{"count": 607, "name": "Asymptotic homogenization", "weight": 0.0, "id": 2777581374, "level": 3}
+{"count": 325, "name": "Dynamic substructuring", "weight": 0.0, "id": 2779468608, "level": 3}
+{"count": 16243, "name": "Boundary knot method", "weight": 5.0, "id": 52890695, "level": 3}
+{"count": 315, "name": "MSC Marc", "weight": 0.0, "id": 2780713472, "level": 3}
+{"count": 279, "name": "Streamline diffusion", "weight": 0.0, "id": 2778958889, "level": 3}
+{"count": 453, "name": "Generalized Maxwell model", "weight": 0.0, "id": 2777363203, "level": 3}
+{"count": 1241, "name": "Temporal discretization", "weight": 0.0, "id": 2778327290, "level": 3}
+{"count": 226, "name": "Reflective crack", "weight": 0.0, "id": 2780203174, "level": 3}
+{"count": 1595, "name": "Method of mean weighted residuals", "weight": 0.0, "id": 159674985, "level": 3}
+{"count": 463, "name": "Castigliano's method", "weight": 0.0, "id": 432320, "level": 3}
+{"count": 356, "name": "Applied element method", "weight": 0.0, "id": 38195518, "level": 3}
+{"count": 202, "name": "Angle condition", "weight": 0.0, "id": 36199033, "level": 3}
+{"count": 1197, "name": "Stress resultants", "weight": 0.0, "id": 130713241, "level": 3}
+{"count": 399, "name": "Reduction (mathematics)", "weight": 0.0, "id": 111335779, "level": 3}
+{"count": 160, "name": "Hollow structural section", "weight": 0.0, "id": 2780980577, "level": 3}
+{"count": 47, "name": "Nonlinear eigenproblem", "weight": 0.0, "id": 2777188943, "level": 3}
+{"count": 44, "name": "Tsai\u2013Wu failure criterion", "weight": 0.0, "id": 2777823650, "level": 3}
+{"count": 104, "name": "Tubular linear motor", "weight": 0.0, "id": 2776442434, "level": 3}
+{"count": 40, "name": "Global element", "weight": 0.0, "id": 2776223980, "level": 3}
+{"count": 119, "name": "Thin-shell structure", "weight": 0.0, "id": 2779488908, "level": 3}
+{"count": 150, "name": "Hyperboloid structure", "weight": 0.0, "id": 57855409, "level": 3}
+{"count": 72, "name": "Finite element updating", "weight": 0.0, "id": 2781370427, "level": 3}
+{"count": 101, "name": "Sandwich theory", "weight": 0.0, "id": 2778815149, "level": 3}
+{"count": 108, "name": "Frontal solver", "weight": 0.0, "id": 2776143387, "level": 3}
+{"count": 51, "name": "Circle grid analysis", "weight": 0.0, "id": 2779420016, "level": 3}
+{"count": 22, "name": "Piola transformation", "weight": 0.0, "id": 2779100704, "level": 3}
+{"count": 95, "name": "Reinforced thermoplastic pipe", "weight": 0.0, "id": 2776984808, "level": 3}
+{"count": 24, "name": "Chain-linked model", "weight": 0.0, "id": 2777475121, "level": 3}
+{"count": 18, "name": "Uzawa iteration", "weight": 0.0, "id": 2776129096, "level": 3}
+{"count": 155, "name": "Composite propeller", "weight": 0.0, "id": 2780452421, "level": 3}
+{"count": 69, "name": "Quickfield", "weight": 0.0, "id": 2778094662, "level": 3}
+{"count": 24, "name": "Ground\u2013structure interaction", "weight": 0.0, "id": 2778433422, "level": 3}
+{"count": 90, "name": "Sheet metal forming analysis", "weight": 0.0, "id": 2777379650, "level": 3}
+{"count": 47, "name": "Soft body dynamics", "weight": 0.0, "id": 158351645, "level": 3}
+{"count": 308, "name": "Frictional contact mechanics", "weight": 0.0, "id": 158716464, "level": 3}
+{"count": 16, "name": "StressCheck", "weight": 0.0, "id": 2777544497, "level": 3}
+{"count": 49, "name": "Perry Robertson formula", "weight": 0.0, "id": 36490490, "level": 3}
+{"count": 46, "name": "Minimum design metal temperature", "weight": 0.0, "id": 72472464, "level": 3}

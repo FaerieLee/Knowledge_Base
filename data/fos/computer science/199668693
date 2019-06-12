@@ -1,0 +1,5 @@
+{"count": 740, "name": "Collision response", "weight": 8.0, "id": 177299277, "level": 4}
+{"count": 786, "name": "Bounding volume hierarchy", "weight": 9.0, "id": 124966946, "level": 4}
+{"count": 64, "name": "Carrier-sense multiple access with collision detection", "weight": 0.0, "id": 2780201365, "level": 4}
+{"count": 857, "name": "Bounding volume", "weight": 10.0, "id": 184585634, "level": 4}
+{"count": 42, "name": "Sweep and prune", "weight": 0.0, "id": 24499278, "level": 4}

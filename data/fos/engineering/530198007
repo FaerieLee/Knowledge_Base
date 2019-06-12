@@ -1,0 +1,24 @@
+{"count": 12588, "name": "Integrated circuit packaging", "weight": 9.0, "id": 186260285, "level": 3}
+{"count": 7059, "name": "Integrated circuit layout", "weight": 5.0, "id": 2765594, "level": 3}
+{"count": 13587, "name": "Mixed-signal integrated circuit", "weight": 10.0, "id": 62907940, "level": 3}
+{"count": 2227, "name": "Hybrid integrated circuit", "weight": 1.0, "id": 2780948607, "level": 3}
+{"count": 2791, "name": "Three-dimensional integrated circuit", "weight": 2.0, "id": 59088047, "level": 3}
+{"count": 1769, "name": "Substrate coupling", "weight": 1.0, "id": 51674796, "level": 3}
+{"count": 3078, "name": "Boundary scan", "weight": 2.0, "id": 992767, "level": 3}
+{"count": 812, "name": "Hardware Trojan", "weight": 0.0, "id": 2780873074, "level": 3}
+{"count": 11025, "name": "Discrete circuit", "weight": 8.0, "id": 188058453, "level": 3}
+{"count": 4876, "name": "Quad Flat No-leads package", "weight": 3.0, "id": 162877825, "level": 3}
+{"count": 4847, "name": "Integrated injection logic", "weight": 3.0, "id": 159903706, "level": 3}
+{"count": 1650, "name": "Redistribution layer", "weight": 1.0, "id": 182537816, "level": 3}
+{"count": 66, "name": "Field-programmability", "weight": 0.0, "id": 2776035428, "level": 3}
+{"count": 743, "name": "Readout integrated circuit", "weight": 0.0, "id": 2776603980, "level": 3}
+{"count": 112, "name": "Adaptive voltage scaling", "weight": 0.0, "id": 2776842331, "level": 3}
+{"count": 936, "name": "Process corners", "weight": 0.0, "id": 192615534, "level": 3}
+{"count": 196, "name": "Power management integrated circuit", "weight": 0.0, "id": 2778163588, "level": 3}
+{"count": 18, "name": "Application-specific standard product", "weight": 0.0, "id": 41323478, "level": 3}
+{"count": 546, "name": "Tape-out", "weight": 0.0, "id": 186247356, "level": 3}
+{"count": 18, "name": "Beam lead technology", "weight": 0.0, "id": 2781069914, "level": 3}
+{"count": 376, "name": "Interconnect bottleneck", "weight": 0.0, "id": 70030591, "level": 3}
+{"count": 25, "name": "DigRF", "weight": 0.0, "id": 2776558578, "level": 3}
+{"count": 47, "name": "Invention of the integrated circuit", "weight": 0.0, "id": 160418067, "level": 3}
+{"count": 23, "name": "Bus-holder", "weight": 0.0, "id": 2776282346, "level": 3}

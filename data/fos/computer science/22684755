@@ -1,0 +1,20 @@
+{"count": 7870, "name": "Queue management system", "weight": 10.0, "id": 128220111, "level": 3}
+{"count": 1033, "name": "Processor sharing", "weight": 1.0, "id": 2779084733, "level": 3}
+{"count": 3703, "name": "M/G/1 queue", "weight": 4.0, "id": 128368944, "level": 3}
+{"count": 1422, "name": "Weighted fair queueing", "weight": 1.0, "id": 102486512, "level": 3}
+{"count": 1248, "name": "Polling system", "weight": 1.0, "id": 87190583, "level": 3}
+{"count": 482, "name": "Fluid limit", "weight": 0.0, "id": 2778306792, "level": 3}
+{"count": 944, "name": "Fluid queue", "weight": 1.0, "id": 2962069, "level": 3}
+{"count": 1247, "name": "Markovian arrival process", "weight": 1.0, "id": 192163390, "level": 3}
+{"count": 689, "name": "Retrial queue", "weight": 0.0, "id": 2779307879, "level": 3}
+{"count": 160, "name": "Little's law", "weight": 0.0, "id": 61455307, "level": 3}
+{"count": 127, "name": "Matrix geometric method", "weight": 0.0, "id": 2781242206, "level": 3}
+{"count": 4928, "name": "Layered queueing network", "weight": 6.0, "id": 33891772, "level": 3}
+{"count": 341, "name": "First-come, first-served", "weight": 0.0, "id": 2777938562, "level": 3}
+{"count": 236, "name": "Product-form solution", "weight": 0.0, "id": 2775972375, "level": 3}
+{"count": 89, "name": "Hyperexponential distribution", "weight": 0.0, "id": 2778863417, "level": 3}
+{"count": 228, "name": "Mean sojourn time", "weight": 0.0, "id": 2778245465, "level": 3}
+{"count": 21, "name": "Lindley equation", "weight": 0.0, "id": 2778870774, "level": 3}
+{"count": 3636, "name": "Bulk queue", "weight": 4.0, "id": 87950461, "level": 3}
+{"count": 29, "name": "Reversed compound agent theorem", "weight": 0.0, "id": 2780199071, "level": 3}
+{"count": 145, "name": "Cumulative flow diagram", "weight": 0.0, "id": 33330822, "level": 3}

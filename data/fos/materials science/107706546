@@ -1,0 +1,27 @@
+{"count": 21900, "name": "Heat recovery ventilation", "weight": 9.0, "id": 127145964, "level": 3}
+{"count": 23348, "name": "Plate heat exchanger", "weight": 10.0, "id": 32375409, "level": 3}
+{"count": 15517, "name": "Regenerative heat exchanger", "weight": 6.0, "id": 63257944, "level": 3}
+{"count": 1503, "name": "Pinch analysis", "weight": 0.0, "id": 178650521, "level": 3}
+{"count": 10727, "name": "Air source heat pumps", "weight": 4.0, "id": 187949908, "level": 3}
+{"count": 758, "name": "Ground heat exchanger", "weight": 0.0, "id": 2776741288, "level": 3}
+{"count": 16840, "name": "Shell and tube heat exchanger", "weight": 7.0, "id": 205318045, "level": 3}
+{"count": 9679, "name": "Thermal expansion valve", "weight": 4.0, "id": 184593036, "level": 3}
+{"count": 8249, "name": "Economizer", "weight": 3.0, "id": 41004858, "level": 3}
+{"count": 7259, "name": "Recuperator", "weight": 3.0, "id": 1715860, "level": 3}
+{"count": 558, "name": "Condensing boiler", "weight": 0.0, "id": 2778285128, "level": 3}
+{"count": 16714, "name": "Plate fin heat exchanger", "weight": 7.0, "id": 39420092, "level": 3}
+{"count": 3994, "name": "Intercooler", "weight": 1.0, "id": 158139659, "level": 3}
+{"count": 4479, "name": "Water chiller", "weight": 1.0, "id": 182254935, "level": 3}
+{"count": 4094, "name": "Fan coil unit", "weight": 1.0, "id": 164134686, "level": 3}
+{"count": 3799, "name": "Variable refrigerant flow", "weight": 1.0, "id": 124907940, "level": 3}
+{"count": 1216, "name": "Hot water storage tank", "weight": 0.0, "id": 2780813333, "level": 3}
+{"count": 5708, "name": "Reversing valve", "weight": 2.0, "id": 16119255, "level": 3}
+{"count": 4026, "name": "Heater core", "weight": 1.0, "id": 144729044, "level": 3}
+{"count": 100, "name": "Dracs", "weight": 0.0, "id": 2777815825, "level": 3}
+{"count": 65, "name": "Goodness factor", "weight": 0.0, "id": 2776993660, "level": 3}
+{"count": 47, "name": "Ground-coupled heat exchanger", "weight": 0.0, "id": 2777790030, "level": 3}
+{"count": 216, "name": "Air cycle machine", "weight": 0.0, "id": 2780842476, "level": 3}
+{"count": 521, "name": "Grate heater", "weight": 0.0, "id": 185668508, "level": 3}
+{"count": 19, "name": "CuproBraze", "weight": 0.0, "id": 177611337, "level": 3}
+{"count": 429, "name": "Pumpable ice technology", "weight": 0.0, "id": 49376097, "level": 3}
+{"count": 11, "name": "Marine heat exchangers", "weight": 0.0, "id": 2775865676, "level": 3}

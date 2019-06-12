@@ -1,0 +1,85 @@
+{"count": 103428, "name": "Sputtering", "weight": 10.0, "id": 22423302, "level": 3}
+{"count": 67598, "name": "Sputter deposition", "weight": 6.0, "id": 61427134, "level": 3}
+{"count": 41111, "name": "Pulsed laser deposition", "weight": 3.0, "id": 37982897, "level": 3}
+{"count": 21781, "name": "Indium tin oxide", "weight": 2.0, "id": 32737372, "level": 3}
+{"count": 16153, "name": "Physical vapor deposition", "weight": 1.0, "id": 51576277, "level": 3}
+{"count": 30627, "name": "Metalorganic vapour phase epitaxy", "weight": 2.0, "id": 175665537, "level": 3}
+{"count": 15401, "name": "Tin oxide", "weight": 1.0, "id": 2780924660, "level": 3}
+{"count": 18436, "name": "Layer by layer", "weight": 1.0, "id": 62960913, "level": 3}
+{"count": 21987, "name": "Ellipsometry", "weight": 2.0, "id": 18293161, "level": 3}
+{"count": 18143, "name": "Cadmium telluride photovoltaics", "weight": 1.0, "id": 6110044, "level": 3}
+{"count": 22882, "name": "Plasma-enhanced chemical vapor deposition", "weight": 2.0, "id": 38347018, "level": 3}
+{"count": 21871, "name": "Sheet resistance", "weight": 2.0, "id": 66825105, "level": 3}
+{"count": 9252, "name": "Optical coating", "weight": 0.0, "id": 71597924, "level": 3}
+{"count": 9313, "name": "Thin film solar cell", "weight": 0.0, "id": 112183419, "level": 3}
+{"count": 20427, "name": "Atomic layer deposition", "weight": 1.0, "id": 69544855, "level": 3}
+{"count": 8749, "name": "Vacuum deposition", "weight": 0.0, "id": 2776873873, "level": 3}
+{"count": 14983, "name": "Electrochromism", "weight": 1.0, "id": 101643646, "level": 3}
+{"count": 4627, "name": "X-ray reflectivity", "weight": 0.0, "id": 55148256, "level": 3}
+{"count": 7342, "name": "Strontium titanate", "weight": 0.0, "id": 2781063764, "level": 3}
+{"count": 4914, "name": "Rutherford backscattering spectrometry", "weight": 0.0, "id": 2780547777, "level": 3}
+{"count": 4116, "name": "Synthetic diamond", "weight": 0.0, "id": 2778583532, "level": 3}
+{"count": 15226, "name": "Spin coating", "weight": 1.0, "id": 115196108, "level": 3}
+{"count": 9305, "name": "Dip-coating", "weight": 0.0, "id": 49241924, "level": 3}
+{"count": 5227, "name": "Vacuum evaporation", "weight": 0.0, "id": 2779192298, "level": 3}
+{"count": 5723, "name": "Chemical bath deposition", "weight": 0.0, "id": 2780228366, "level": 3}
+{"count": 9423, "name": "Electron beam physical vapor deposition", "weight": 0.0, "id": 7770020, "level": 3}
+{"count": 4855, "name": "Carbon nitride", "weight": 0.0, "id": 2777492770, "level": 3}
+{"count": 554, "name": "Poole\u2013Frenkel effect", "weight": 0.0, "id": 127396331, "level": 3}
+{"count": 7999, "name": "Transparent conducting film", "weight": 0.0, "id": 17470697, "level": 3}
+{"count": 9240, "name": "Copper indium gallium selenide solar cells", "weight": 0.0, "id": 191716631, "level": 3}
+{"count": 2321, "name": "Elastic recoil detection", "weight": 0.0, "id": 2776523803, "level": 3}
+{"count": 4217, "name": "Dewetting", "weight": 0.0, "id": 87525152, "level": 3}
+{"count": 8143, "name": "Evaporation (deposition)", "weight": 0.0, "id": 144631304, "level": 3}
+{"count": 34617, "name": "Carbon film", "weight": 3.0, "id": 75937256, "level": 3}
+{"count": 2710, "name": "CZTS", "weight": 0.0, "id": 2779728058, "level": 3}
+{"count": 1610, "name": "Tantalum nitride", "weight": 0.0, "id": 2778112282, "level": 3}
+{"count": 985, "name": "Zirconium nitride", "weight": 0.0, "id": 2778303786, "level": 3}
+{"count": 1679, "name": "Cadmium oxide", "weight": 0.0, "id": 2776569586, "level": 3}
+{"count": 1401, "name": "Disjoining pressure", "weight": 0.0, "id": 2778626634, "level": 3}
+{"count": 910, "name": "Niobium nitride", "weight": 0.0, "id": 2777769847, "level": 3}
+{"count": 617, "name": "Thin film rechargeable lithium battery", "weight": 0.0, "id": 40731752, "level": 3}
+{"count": 799, "name": "Tungsten nitride", "weight": 0.0, "id": 2780865700, "level": 3}
+{"count": 1721, "name": "Cathodic arc deposition", "weight": 0.0, "id": 67009288, "level": 3}
+{"count": 235, "name": "Thin-film memory", "weight": 0.0, "id": 2777168714, "level": 3}
+{"count": 2701, "name": "Fused quartz", "weight": 0.0, "id": 2779441425, "level": 3}
+{"count": 1079, "name": "Tantalum pentoxide", "weight": 0.0, "id": 2776948285, "level": 3}
+{"count": 572, "name": "Lanthanum aluminate", "weight": 0.0, "id": 2780713004, "level": 3}
+{"count": 512, "name": "GeSbTe", "weight": 0.0, "id": 2777071705, "level": 3}
+{"count": 752, "name": "Lanio", "weight": 0.0, "id": 2779614792, "level": 3}
+{"count": 233, "name": "Copper selenide", "weight": 0.0, "id": 2776556739, "level": 3}
+{"count": 363, "name": "Bismuth selenide", "weight": 0.0, "id": 2780303388, "level": 3}
+{"count": 1837, "name": "Island growth", "weight": 0.0, "id": 2776256949, "level": 3}
+{"count": 142, "name": "Bead test", "weight": 0.0, "id": 80164806, "level": 3}
+{"count": 89, "name": "Burstein\u2013Moss effect", "weight": 0.0, "id": 2778647466, "level": 3}
+{"count": 609, "name": "Zinc telluride", "weight": 0.0, "id": 2779085966, "level": 3}
+{"count": 1733, "name": "Van der Pauw method", "weight": 0.0, "id": 85443114, "level": 3}
+{"count": 148, "name": "Strontium sulfide", "weight": 0.0, "id": 2778966441, "level": 3}
+{"count": 1078, "name": "Conversion electron m\u00f6ssbauer spectroscopy", "weight": 0.0, "id": 2777396822, "level": 3}
+{"count": 485, "name": "LSAT", "weight": 0.0, "id": 2779127532, "level": 3}
+{"count": 354, "name": "Thin-film optics", "weight": 0.0, "id": 555048382, "level": 3}
+{"count": 1826, "name": "Film plane", "weight": 0.0, "id": 2781454913, "level": 3}
+{"count": 342, "name": "Tin selenide", "weight": 0.0, "id": 2778018862, "level": 3}
+{"count": 180, "name": "Thin-film equation", "weight": 0.0, "id": 2779724421, "level": 3}
+{"count": 170, "name": "Time-domain thermoreflectance", "weight": 0.0, "id": 2776389303, "level": 3}
+{"count": 190, "name": "Sculptured thin film", "weight": 0.0, "id": 2777630397, "level": 3}
+{"count": 364, "name": "Tauc plot", "weight": 0.0, "id": 123327771, "level": 3}
+{"count": 453, "name": "Thin-film interference", "weight": 0.0, "id": 10248492, "level": 3}
+{"count": 182, "name": "Strontium ruthenate", "weight": 0.0, "id": 2779731042, "level": 3}
+{"count": 153, "name": "AgInSbTe", "weight": 0.0, "id": 2780494709, "level": 3}
+{"count": 254, "name": "Thin-film bulk acoustic resonator", "weight": 0.0, "id": 2777880760, "level": 3}
+{"count": 143, "name": "Silver telluride", "weight": 0.0, "id": 2778237561, "level": 3}
+{"count": 60, "name": "Beryllium nitride", "weight": 0.0, "id": 2777900704, "level": 3}
+{"count": 178, "name": "Perylenetetracarboxylic dianhydride", "weight": 0.0, "id": 2779544780, "level": 3}
+{"count": 137, "name": "Diindenoperylene", "weight": 0.0, "id": 2779831428, "level": 3}
+{"count": 148, "name": "Deposition (chemistry)", "weight": 0.0, "id": 72735139, "level": 3}
+{"count": 240, "name": "Thin-film diode", "weight": 0.0, "id": 2777968703, "level": 3}
+{"count": 130, "name": "Germanium nitride", "weight": 0.0, "id": 2779521331, "level": 3}
+{"count": 17, "name": "Indium(III) sulfide", "weight": 0.0, "id": 2778262378, "level": 3}
+{"count": 40, "name": "Gallium acetylacetonate", "weight": 0.0, "id": 2775888879, "level": 3}
+{"count": 18, "name": "Antimony triselenide", "weight": 0.0, "id": 2779899129, "level": 3}
+{"count": 52, "name": "Tin(II) sulfide", "weight": 0.0, "id": 2779502456, "level": 3}
+{"count": 36, "name": "Fluorine deficiency", "weight": 0.0, "id": 2780478547, "level": 3}
+{"count": 18, "name": "Thin-film thickness monitor", "weight": 0.0, "id": 2778479301, "level": 3}
+{"count": 32, "name": "Hot-point probe", "weight": 0.0, "id": 2777753429, "level": 3}
+{"count": 23, "name": "Thin-film drug delivery", "weight": 0.0, "id": 16781607, "level": 3}

@@ -1,0 +1,44 @@
+{"count": 11459, "name": "Refractive error", "weight": 9.0, "id": 2781135284, "level": 3}
+{"count": 9660, "name": "Fluorescein angiography", "weight": 8.0, "id": 2780248432, "level": 3}
+{"count": 5626, "name": "Keratomileusis", "weight": 4.0, "id": 2778609529, "level": 3}
+{"count": 3906, "name": "Photorefractive keratectomy", "weight": 3.0, "id": 2780603455, "level": 3}
+{"count": 4515, "name": "Macular hole", "weight": 3.0, "id": 2777344775, "level": 3}
+{"count": 11894, "name": "Macular edema", "weight": 10.0, "id": 2780347916, "level": 3}
+{"count": 2569, "name": "Epiretinal membrane", "weight": 2.0, "id": 2781325737, "level": 3}
+{"count": 6183, "name": "Pars plana", "weight": 5.0, "id": 2777063560, "level": 3}
+{"count": 3591, "name": "Corneal topography", "weight": 3.0, "id": 2781053140, "level": 3}
+{"count": 2904, "name": "Vitreous hemorrhage", "weight": 2.0, "id": 2777104736, "level": 3}
+{"count": 1164, "name": "Vernier acuity", "weight": 0.0, "id": 134786416, "level": 3}
+{"count": 2473, "name": "Aphakia", "weight": 2.0, "id": 2777345934, "level": 3}
+{"count": 5323, "name": "Dioptre", "weight": 4.0, "id": 259533, "level": 3}
+{"count": 1528, "name": "Mesopic vision", "weight": 1.0, "id": 90171120, "level": 3}
+{"count": 6975, "name": "Foveal", "weight": 5.0, "id": 30181142, "level": 3}
+{"count": 317, "name": "Epikeratophakia", "weight": 0.0, "id": 2780514923, "level": 3}
+{"count": 1419, "name": "Stereoscopic acuity", "weight": 1.0, "id": 168260308, "level": 3}
+{"count": 1075, "name": "Microperimetry", "weight": 0.0, "id": 2779100554, "level": 3}
+{"count": 699, "name": "Multifocal intraocular lens", "weight": 0.0, "id": 2777582095, "level": 3}
+{"count": 656, "name": "Metamorphopsia", "weight": 0.0, "id": 2778348428, "level": 3}
+{"count": 2480, "name": "Eye examination", "weight": 2.0, "id": 2777155141, "level": 3}
+{"count": 800, "name": "Phakic intraocular lens", "weight": 0.0, "id": 2776660847, "level": 3}
+{"count": 285, "name": "Amsler grid", "weight": 0.0, "id": 2779084038, "level": 3}
+{"count": 366, "name": "Implantable collamer lens", "weight": 0.0, "id": 2778768880, "level": 3}
+{"count": 609, "name": "Snellen chart", "weight": 0.0, "id": 2776599710, "level": 3}
+{"count": 40, "name": "Marcus Gunn pupil", "weight": 0.0, "id": 2780090929, "level": 3}
+{"count": 490, "name": "Cover test", "weight": 0.0, "id": 2780338342, "level": 3}
+{"count": 218, "name": "Nuclear sclerosis", "weight": 0.0, "id": 2780846586, "level": 3}
+{"count": 231, "name": "Landolt C", "weight": 0.0, "id": 2777651767, "level": 3}
+{"count": 20, "name": "Infant visual development", "weight": 0.0, "id": 2776679965, "level": 3}
+{"count": 57, "name": "Terrien's marginal degeneration", "weight": 0.0, "id": 2777335012, "level": 3}
+{"count": 110, "name": "Ametropic amblyopia", "weight": 0.0, "id": 2778670631, "level": 3}
+{"count": 46, "name": "Macular hypoplasia", "weight": 0.0, "id": 2778786939, "level": 3}
+{"count": 108, "name": "Limbal relaxing incisions", "weight": 0.0, "id": 2777618320, "level": 3}
+{"count": 31, "name": "Base curve radius", "weight": 0.0, "id": 2780732681, "level": 3}
+{"count": 57, "name": "Sloan letters", "weight": 0.0, "id": 2777989362, "level": 3}
+{"count": 70, "name": "Phacodonesis", "weight": 0.0, "id": 2778082788, "level": 3}
+{"count": 168, "name": "Eye chart", "weight": 0.0, "id": 2780956510, "level": 3}
+{"count": 18, "name": "Recovery from blindness", "weight": 0.0, "id": 2775978889, "level": 3}
+{"count": 145, "name": "LogMAR chart", "weight": 0.0, "id": 2776289223, "level": 3}
+{"count": 343, "name": "Dilated fundus examination", "weight": 0.0, "id": 2779684820, "level": 3}
+{"count": 31, "name": "Capsule of lens", "weight": 0.0, "id": 2776598383, "level": 3}
+{"count": 76, "name": "Distorted vision", "weight": 0.0, "id": 2777496656, "level": 3}
+{"count": 49, "name": "Dioptric correction", "weight": 0.0, "id": 4812305, "level": 3}

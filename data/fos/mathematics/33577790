@@ -1,0 +1,171 @@
+{"count": 45899, "name": "Rate of convergence", "weight": 3.0, "id": 57869625, "level": 2}
+{"count": 38820, "name": "Finite difference", "weight": 3.0, "id": 181330731, "level": 2}
+{"count": 25992, "name": "Numerical integration", "weight": 2.0, "id": 127349201, "level": 2}
+{"count": 15764, "name": "Asymptotic expansion", "weight": 1.0, "id": 11683690, "level": 2}
+{"count": 10344, "name": "Runge\u2013Kutta methods", "weight": 0.0, "id": 181582579, "level": 2}
+{"count": 13806, "name": "Taylor series", "weight": 1.0, "id": 158946198, "level": 2}
+{"count": 30990, "name": "Maxima and minima", "weight": 2.0, "id": 186633575, "level": 2}
+{"count": 11367, "name": "Saddle point", "weight": 0.0, "id": 2681867, "level": 2}
+{"count": 8944, "name": "Linear approximation", "weight": 0.0, "id": 160824197, "level": 2}
+{"count": 1989, "name": "Quasi-Newton method", "weight": 0.0, "id": 114954040, "level": 2}
+{"count": 2012, "name": "Numerical differentiation", "weight": 0.0, "id": 154181440, "level": 2}
+{"count": 1033, "name": "Operational calculus", "weight": 0.0, "id": 2779991855, "level": 2}
+{"count": 2674, "name": "Differential calculus", "weight": 0.0, "id": 56802139, "level": 2}
+{"count": 2499, "name": "Methods of contour integration", "weight": 0.0, "id": 113285462, "level": 2}
+{"count": 1635, "name": "Limit of a function", "weight": 0.0, "id": 19448537, "level": 2}
+{"count": 8181, "name": "Hessian matrix", "weight": 0.0, "id": 203616005, "level": 2}
+{"count": 9538, "name": "Partial derivative", "weight": 0.0, "id": 53846429, "level": 2}
+{"count": 4962, "name": "Multiple integral", "weight": 0.0, "id": 54865166, "level": 2}
+{"count": 9228, "name": "Second derivative", "weight": 0.0, "id": 33257320, "level": 2}
+{"count": 1917, "name": "Concave function", "weight": 0.0, "id": 66690126, "level": 2}
+{"count": 1289, "name": "Integration by parts", "weight": 0.0, "id": 118365987, "level": 2}
+{"count": 901, "name": "Sparse grid", "weight": 0.0, "id": 156439662, "level": 2}
+{"count": 4207, "name": "Stationary point", "weight": 0.0, "id": 189237950, "level": 2}
+{"count": 6606, "name": "Inflection point", "weight": 0.0, "id": 74545648, "level": 2}
+{"count": 2812, "name": "Implicit function", "weight": 0.0, "id": 39641988, "level": 2}
+{"count": 401, "name": "Feynman\u2013Kac formula", "weight": 0.0, "id": 2779407975, "level": 2}
+{"count": 2886, "name": "Fermat's Last Theorem", "weight": 0.0, "id": 87670640, "level": 2}
+{"count": 454, "name": "It\u014d's lemma", "weight": 0.0, "id": 200249960, "level": 2}
+{"count": 2169, "name": "Adjoint equation", "weight": 0.0, "id": 165551260, "level": 2}
+{"count": 1388, "name": "Courant\u2013Friedrichs\u2013Lewy condition", "weight": 0.0, "id": 30295242, "level": 2}
+{"count": 649, "name": "Midpoint method", "weight": 0.0, "id": 85807060, "level": 2}
+{"count": 3381, "name": "Riemann\u2013Stieltjes integral", "weight": 0.0, "id": 167211080, "level": 2}
+{"count": 1032, "name": "Principal part", "weight": 0.0, "id": 194053038, "level": 2}
+{"count": 7917, "name": "Infinitesimal", "weight": 0.0, "id": 91229774, "level": 2}
+{"count": 260, "name": "It\u014d calculus", "weight": 0.0, "id": 91866312, "level": 2}
+{"count": 30729, "name": "Piecewise", "weight": 2.0, "id": 164660894, "level": 2}
+{"count": 610, "name": "Product rule", "weight": 0.0, "id": 1675596, "level": 2}
+{"count": 41089, "name": "Instant", "weight": 3.0, "id": 2779432360, "level": 2}
+{"count": 1377, "name": "Logarithmic scale", "weight": 0.0, "id": 139912040, "level": 2}
+{"count": 278, "name": "Cavalieri's principle", "weight": 0.0, "id": 31725081, "level": 2}
+{"count": 838, "name": "Fubini's theorem", "weight": 0.0, "id": 55526981, "level": 2}
+{"count": 2095, "name": "Convergent series", "weight": 0.0, "id": 1115519, "level": 2}
+{"count": 636, "name": "Harmonic series (mathematics)", "weight": 0.0, "id": 68199440, "level": 2}
+{"count": 3923, "name": "Derivative", "weight": 0.0, "id": 103572491, "level": 2}
+{"count": 1094, "name": "Logarithmic derivative", "weight": 0.0, "id": 36649600, "level": 2}
+{"count": 1057, "name": "Divergent series", "weight": 0.0, "id": 120293249, "level": 2}
+{"count": 583, "name": "Stationary phase approximation", "weight": 0.0, "id": 47138680, "level": 2}
+{"count": 881, "name": "Antiderivative", "weight": 0.0, "id": 111468, "level": 2}
+{"count": 362, "name": "Leibniz integral rule", "weight": 0.0, "id": 183218574, "level": 2}
+{"count": 148, "name": "Saint-Venant's Principle", "weight": 0.0, "id": 2777933603, "level": 2}
+{"count": 377, "name": "Stirling's approximation", "weight": 0.0, "id": 13438193, "level": 2}
+{"count": 979, "name": "Exponential integral", "weight": 0.0, "id": 53819440, "level": 2}
+{"count": 229, "name": "Euler\u2013Mascheroni constant", "weight": 0.0, "id": 126710722, "level": 2}
+{"count": 588, "name": "Logarithmic mean", "weight": 0.0, "id": 116119841, "level": 2}
+{"count": 475, "name": "Differential coefficient", "weight": 0.0, "id": 23679010, "level": 2}
+{"count": 278, "name": "Transfer principle", "weight": 0.0, "id": 73616251, "level": 2}
+{"count": 214, "name": "Law of Continuity", "weight": 0.0, "id": 2158817, "level": 2}
+{"count": 476, "name": "Difference quotient", "weight": 0.0, "id": 182727616, "level": 2}
+{"count": 233, "name": "Degasperis\u2013Procesi equation", "weight": 0.0, "id": 2776039962, "level": 2}
+{"count": 1894, "name": "Change of variables", "weight": 0.0, "id": 54890261, "level": 2}
+{"count": 243, "name": "Dini derivative", "weight": 0.0, "id": 177170507, "level": 2}
+{"count": 136, "name": "Product integral", "weight": 0.0, "id": 2778936145, "level": 2}
+{"count": 120, "name": "Tellegen's theorem", "weight": 0.0, "id": 59684204, "level": 2}
+{"count": 474, "name": "Integration by reduction formulae", "weight": 0.0, "id": 146421981, "level": 2}
+{"count": 7451, "name": "Satz", "weight": 0.0, "id": 2777895489, "level": 2}
+{"count": 140, "name": "L'H\u00f4pital's rule", "weight": 0.0, "id": 106488066, "level": 2}
+{"count": 249, "name": "De Moivre's formula", "weight": 0.0, "id": 193137326, "level": 2}
+{"count": 170, "name": "Localization theorem", "weight": 0.0, "id": 2779768138, "level": 2}
+{"count": 108, "name": "Power rule", "weight": 0.0, "id": 196125116, "level": 2}
+{"count": 100, "name": "Catalan's constant", "weight": 0.0, "id": 21069238, "level": 2}
+{"count": 107, "name": "Lagrange's identity", "weight": 0.0, "id": 24688599, "level": 2}
+{"count": 100, "name": "Ces\u00e0ro mean", "weight": 0.0, "id": 555530752, "level": 2}
+{"count": 214, "name": "Painlev\u00e9 transcendents", "weight": 0.0, "id": 2776843300, "level": 2}
+{"count": 302, "name": "Constant of integration", "weight": 0.0, "id": 25495311, "level": 2}
+{"count": 194, "name": "Linearity of integration", "weight": 0.0, "id": 162379089, "level": 2}
+{"count": 99, "name": "Fisher\u2013Kolmogorov equation", "weight": 0.0, "id": 2781093488, "level": 2}
+{"count": 62, "name": "Lambda-mu calculus", "weight": 0.0, "id": 2779530514, "level": 2}
+{"count": 174, "name": "Leibniz formula for \u03c0", "weight": 0.0, "id": 10225806, "level": 2}
+{"count": 121, "name": "Van der Corput sequence", "weight": 0.0, "id": 110440624, "level": 2}
+{"count": 78, "name": "Brent's method", "weight": 0.0, "id": 50944082, "level": 2}
+{"count": 239, "name": "Indeterminate form", "weight": 0.0, "id": 4025829, "level": 2}
+{"count": 436, "name": "Planimeter", "weight": 0.0, "id": 174416752, "level": 2}
+{"count": 5, "name": "Hasse derivative", "weight": 0.0, "id": 2776253494, "level": 2}
+{"count": 207, "name": "Overspill", "weight": 0.0, "id": 156166181, "level": 2}
+{"count": 85, "name": "Hunter\u2013Saxton equation", "weight": 0.0, "id": 2781170563, "level": 2}
+{"count": 35, "name": "Clausen function", "weight": 0.0, "id": 2781252391, "level": 2}
+{"count": 47, "name": "Duhamel's principle", "weight": 0.0, "id": 2777791178, "level": 2}
+{"count": 208, "name": "Exact differential", "weight": 0.0, "id": 126056733, "level": 2}
+{"count": 39, "name": "Runge's theorem", "weight": 0.0, "id": 2777084547, "level": 2}
+{"count": 19, "name": "Fox\u2013Wright function", "weight": 0.0, "id": 2778480849, "level": 2}
+{"count": 493, "name": "Vertical translation", "weight": 0.0, "id": 199708406, "level": 2}
+{"count": 108, "name": "Method of exhaustion", "weight": 0.0, "id": 23150047, "level": 2}
+{"count": 156, "name": "Principal branch", "weight": 0.0, "id": 65901226, "level": 2}
+{"count": 4160, "name": "Riemann Xi function", "weight": 0.0, "id": 48902493, "level": 2}
+{"count": 23, "name": "M\u00fcntz\u2013Sz\u00e1sz theorem", "weight": 0.0, "id": 2779662299, "level": 2}
+{"count": 122824, "name": "Small number", "weight": 10.0, "id": 107073345, "level": 2}
+{"count": 2740, "name": "Order of integration (calculus)", "weight": 0.0, "id": 38582570, "level": 2}
+{"count": 54, "name": "Ptolemy's theorem", "weight": 0.0, "id": 82738788, "level": 2}
+{"count": 10, "name": "Cauchy\u2013Kovalevskaya theorem", "weight": 0.0, "id": 45207846, "level": 2}
+{"count": 5588, "name": "Ordinate", "weight": 0.0, "id": 148405484, "level": 2}
+{"count": 65, "name": "Ungula", "weight": 0.0, "id": 2779804699, "level": 2}
+{"count": 152, "name": "Differential (infinitesimal)", "weight": 0.0, "id": 78278912, "level": 2}
+{"count": 1389, "name": "Darboux integral", "weight": 0.0, "id": 133389509, "level": 2}
+{"count": 33, "name": "Killed process", "weight": 0.0, "id": 102887613, "level": 2}
+{"count": 17, "name": "Torricelli's law", "weight": 0.0, "id": 115325647, "level": 2}
+{"count": 16, "name": "Clapeyron's theorem", "weight": 0.0, "id": 2780643744, "level": 2}
+{"count": 26, "name": "Dawson function", "weight": 0.0, "id": 137114960, "level": 2}
+{"count": 8, "name": "Fox derivative", "weight": 0.0, "id": 2777294200, "level": 2}
+{"count": 124, "name": "Conjectura", "weight": 0.0, "id": 2781239180, "level": 2}
+{"count": 137, "name": "Shell integration", "weight": 0.0, "id": 47028792, "level": 2}
+{"count": 1168, "name": "Term test", "weight": 0.0, "id": 35889534, "level": 2}
+{"count": 142, "name": "Cours d'Analyse", "weight": 0.0, "id": 2781122702, "level": 2}
+{"count": 45, "name": "Simson line", "weight": 0.0, "id": 41979459, "level": 2}
+{"count": 35, "name": "Qualitative economics", "weight": 0.0, "id": 150655782, "level": 2}
+{"count": 69, "name": "(\u03b5, \u03b4)-definition of limit", "weight": 0.0, "id": 182215282, "level": 2}
+{"count": 116, "name": "Related rates", "weight": 0.0, "id": 166738365, "level": 2}
+{"count": 107, "name": "Scientific priority", "weight": 0.0, "id": 2779437103, "level": 2}
+{"count": 24, "name": "Wallis product", "weight": 0.0, "id": 2779491319, "level": 2}
+{"count": 4, "name": "Abel's summation formula", "weight": 0.0, "id": 2779650677, "level": 2}
+{"count": 10, "name": "Limit comparison test", "weight": 0.0, "id": 2778377407, "level": 2}
+{"count": 14, "name": "Hilbert's seventeenth problem", "weight": 0.0, "id": 2778782728, "level": 2}
+{"count": 4, "name": "Dirichlet's test", "weight": 0.0, "id": 2776542364, "level": 2}
+{"count": 2, "name": "Standardized Kt/V", "weight": 0.0, "id": 2780819826, "level": 2}
+{"count": 17, "name": "Craig's theorem", "weight": 0.0, "id": 2781384814, "level": 2}
+{"count": 9, "name": "Generality of algebra", "weight": 0.0, "id": 121133974, "level": 2}
+{"count": 11, "name": "Brocard's problem", "weight": 0.0, "id": 2777059811, "level": 2}
+{"count": 7, "name": "Discrete spline interpolation", "weight": 0.0, "id": 2779728079, "level": 2}
+{"count": 10, "name": "Gregory's series", "weight": 0.0, "id": 35865330, "level": 2}
+{"count": 8, "name": "Gabriel's Horn", "weight": 0.0, "id": 188461311, "level": 2}
+{"count": 63, "name": "Integraph", "weight": 0.0, "id": 2780779447, "level": 2}
+{"count": 16, "name": "Hilbert's sixth problem", "weight": 0.0, "id": 2777295933, "level": 2}
+{"count": 8, "name": "Microcontinuity", "weight": 0.0, "id": 2779343160, "level": 2}
+{"count": 1, "name": "Kunita\u2013Watanabe theorem", "weight": 0.0, "id": 2776830066, "level": 2}
+{"count": 6, "name": "Visual calculus", "weight": 0.0, "id": 2780796949, "level": 2}
+{"count": 462, "name": "Limit (mathematics)", "weight": 0.0, "id": 151201525, "level": 2}
+{"count": 3, "name": "Carath\u00e9odory's existence theorem", "weight": 0.0, "id": 2781044032, "level": 2}
+{"count": 629, "name": "For All Practical Purposes", "weight": 0.0, "id": 2781415537, "level": 2}
+{"count": 2, "name": "Gradient-related", "weight": 0.0, "id": 2778818136, "level": 2}
+{"count": 3, "name": "Hardy\u2013Littlewood tauberian theorem", "weight": 0.0, "id": 2776685869, "level": 2}
+{"count": 8, "name": "Left and right derivative", "weight": 0.0, "id": 2778621691, "level": 2}
+{"count": 10, "name": "Malgrange\u2013Ehrenpreis theorem", "weight": 0.0, "id": 2779725920, "level": 2}
+{"count": 10, "name": "Parker\u2013Sochacki method", "weight": 0.0, "id": 2777338112, "level": 2}
+{"count": 8, "name": "Gradient conjecture", "weight": 0.0, "id": 2781427892, "level": 2}
+{"count": 5, "name": "Higher-order compact finite difference scheme", "weight": 0.0, "id": 2779943850, "level": 2}
+{"count": 9, "name": "Beam and Warming scheme", "weight": 0.0, "id": 2779168634, "level": 2}
+{"count": 4, "name": "Gradient-domain image processing", "weight": 0.0, "id": 2781104096, "level": 2}
+{"count": 1, "name": "Darboux's formula", "weight": 0.0, "id": 2778271505, "level": 2}
+{"count": 1, "name": "Fatou\u2013Lebesgue theorem", "weight": 0.0, "id": 2778749285, "level": 2}
+{"count": 12, "name": "Lewy's example", "weight": 0.0, "id": 73050504, "level": 2}
+{"count": 17, "name": "Integral symbol", "weight": 0.0, "id": 2781471258, "level": 2}
+{"count": 1, "name": "Wallis' integrals", "weight": 0.0, "id": 2778187462, "level": 2}
+{"count": 4, "name": "Non-classical analysis", "weight": 0.0, "id": 2779059754, "level": 2}
+{"count": 5, "name": "Maplets for Calculus", "weight": 0.0, "id": 2778051485, "level": 2}
+{"count": 3, "name": "Sophomore's dream", "weight": 0.0, "id": 2778512640, "level": 2}
+{"count": 4, "name": "Constant strain triangle element", "weight": 0.0, "id": 2778749574, "level": 2}
+{"count": 5, "name": "Interchange of limiting operations", "weight": 0.0, "id": 25276474, "level": 2}
+{"count": 2, "name": "Van Wijngaarden transformation", "weight": 0.0, "id": 2776026764, "level": 2}
+{"count": 22, "name": "Mean of a function", "weight": 0.0, "id": 2779760745, "level": 2}
+{"count": 4, "name": "Beeman's algorithm", "weight": 0.0, "id": 110899067, "level": 2}
+{"count": 1, "name": "Racetrack principle", "weight": 0.0, "id": 2779353075, "level": 2}
+{"count": 7, "name": "FCurve", "weight": 0.0, "id": 2779832058, "level": 2}
+{"count": 1, "name": "Method of normals", "weight": 0.0, "id": 2780406475, "level": 2}
+{"count": 11, "name": "Increment theorem", "weight": 0.0, "id": 2776801738, "level": 2}
+{"count": 1, "name": "Smoothstep", "weight": 0.0, "id": 72991990, "level": 2}
+{"count": 1, "name": "Cauchy formula for repeated integration", "weight": 0.0, "id": 2778132441, "level": 2}
+{"count": 1, "name": "Symmetry of second derivatives", "weight": 0.0, "id": 2780778300, "level": 2}
+{"count": 21, "name": "Natura non facit saltus", "weight": 0.0, "id": 2781094930, "level": 2}
+{"count": 2, "name": "Integral of the secant function", "weight": 0.0, "id": 46597931, "level": 2}
+{"count": 2, "name": "Weierstrass\u2013Erdmann condition", "weight": 0.0, "id": 2780426045, "level": 2}
+{"count": 2, "name": "Khinchin integral", "weight": 0.0, "id": 2777342291, "level": 2}
+{"count": 1, "name": "Riemann series theorem", "weight": 0.0, "id": 2779222127, "level": 2}

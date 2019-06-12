@@ -1,0 +1,8 @@
+{"count": 322, "name": "Scalable TCP", "weight": 3.0, "id": 105030818, "level": 4}
+{"count": 866, "name": "TCP pacing", "weight": 10.0, "id": 44677139, "level": 4}
+{"count": 97, "name": "SYN cookies", "weight": 1.0, "id": 74756720, "level": 4}
+{"count": 694, "name": "TCP offload engine", "weight": 8.0, "id": 64706798, "level": 4}
+{"count": 330, "name": "UDP flood attack", "weight": 3.0, "id": 46582686, "level": 4}
+{"count": 532, "name": "Maximum segment size", "weight": 6.0, "id": 39842978, "level": 4}
+{"count": 824, "name": "Serial Line Internet Protocol", "weight": 9.0, "id": 132275175, "level": 4}
+{"count": 540, "name": "Windows Vista networking technologies", "weight": 6.0, "id": 115753304, "level": 4}

@@ -1,0 +1,75 @@
+{"count": 52680, "name": "Normal mode", "weight": 7.0, "id": 32758168, "level": 3}
+{"count": 28468, "name": "Natural frequency", "weight": 4.0, "id": 78736273, "level": 3}
+{"count": 24292, "name": "Vibration control", "weight": 3.0, "id": 49240428, "level": 3}
+{"count": 28654, "name": "Modal analysis", "weight": 4.0, "id": 104286136, "level": 3}
+{"count": 15921, "name": "Vibration isolation", "weight": 2.0, "id": 45799244, "level": 3}
+{"count": 7510, "name": "Random vibration", "weight": 1.0, "id": 130076159, "level": 3}
+{"count": 70667, "name": "Damper", "weight": 10.0, "id": 140096630, "level": 3}
+{"count": 2535, "name": "Structural acoustics", "weight": 0.0, "id": 60015446, "level": 3}
+{"count": 11550, "name": "Timoshenko beam theory", "weight": 1.0, "id": 190699663, "level": 3}
+{"count": 891, "name": "Effective mass (spring\u2013mass system)", "weight": 0.0, "id": 179764930, "level": 3}
+{"count": 11050, "name": "Torsional vibration", "weight": 1.0, "id": 87744240, "level": 3}
+{"count": 4386, "name": "Added mass", "weight": 0.0, "id": 122312997, "level": 3}
+{"count": 5520, "name": "Vortex-induced vibration", "weight": 0.0, "id": 10599892, "level": 3}
+{"count": 9316, "name": "Plate theory", "weight": 1.0, "id": 16826683, "level": 3}
+{"count": 9054, "name": "Active vibration control", "weight": 1.0, "id": 165165292, "level": 3}
+{"count": 5241, "name": "Critical speed", "weight": 0.0, "id": 179093217, "level": 3}
+{"count": 1844, "name": "Rayleigh\u2013Ritz method", "weight": 0.0, "id": 70940138, "level": 3}
+{"count": 3643, "name": "Moving load", "weight": 0.0, "id": 26016710, "level": 3}
+{"count": 3912, "name": "Whole body vibration", "weight": 0.0, "id": 2776870768, "level": 3}
+{"count": 1305, "name": "Hydroelasticity", "weight": 0.0, "id": 137919232, "level": 3}
+{"count": 2380, "name": "Ritz method", "weight": 0.0, "id": 21575042, "level": 3}
+{"count": 926, "name": "Vibrating string", "weight": 0.0, "id": 57195183, "level": 3}
+{"count": 1383, "name": "Input shaping", "weight": 0.0, "id": 2778512855, "level": 3}
+{"count": 8273, "name": "Damping ratio", "weight": 1.0, "id": 124139854, "level": 3}
+{"count": 1956, "name": "Statistical energy analysis", "weight": 0.0, "id": 155560232, "level": 3}
+{"count": 1186, "name": "Rotordynamics", "weight": 0.0, "id": 2780581274, "level": 3}
+{"count": 4561, "name": "Tuning fork", "weight": 0.0, "id": 107677527, "level": 3}
+{"count": 4374, "name": "Transmissibility (vibration)", "weight": 0.0, "id": 180581071, "level": 3}
+{"count": 927, "name": "Constrained-layer damping", "weight": 0.0, "id": 2780435114, "level": 3}
+{"count": 2830, "name": "Damping capacity", "weight": 0.0, "id": 2781058295, "level": 3}
+{"count": 5907, "name": "Dynamic Vibration Absorber", "weight": 0.0, "id": 57918735, "level": 3}
+{"count": 488, "name": "Eigensystem realization algorithm", "weight": 0.0, "id": 2777541149, "level": 3}
+{"count": 1710, "name": "Rolling-element bearing", "weight": 0.0, "id": 2780155820, "level": 3}
+{"count": 1566, "name": "Mechanical resonance", "weight": 0.0, "id": 196348190, "level": 3}
+{"count": 1917, "name": "Multiple-scale analysis", "weight": 0.0, "id": 40678858, "level": 3}
+{"count": 2981, "name": "Noise, vibration, and harshness", "weight": 0.0, "id": 109400559, "level": 3}
+{"count": 997, "name": "Logarithmic decrement", "weight": 0.0, "id": 123987485, "level": 3}
+{"count": 4261, "name": "Piezoelectric motor", "weight": 0.0, "id": 149878695, "level": 3}
+{"count": 1787, "name": "Turbo generator", "weight": 0.0, "id": 2779826791, "level": 3}
+{"count": 3133, "name": "Rotary inertia", "weight": 0.0, "id": 146996283, "level": 3}
+{"count": 8029, "name": "Exciter", "weight": 1.0, "id": 2777149130, "level": 3}
+{"count": 577, "name": "Order tracking", "weight": 0.0, "id": 2777695827, "level": 3}
+{"count": 1576, "name": "Structural dynamics", "weight": 0.0, "id": 142102732, "level": 3}
+{"count": 1160, "name": "Mistuning", "weight": 0.0, "id": 2780744928, "level": 3}
+{"count": 1390, "name": "Ground vibrations", "weight": 0.0, "id": 3899301, "level": 3}
+{"count": 246, "name": "Tonic vibration reflex", "weight": 0.0, "id": 2777316670, "level": 3}
+{"count": 4194, "name": "Magnetic damping", "weight": 0.0, "id": 17819343, "level": 3}
+{"count": 160, "name": "Frobenius method", "weight": 0.0, "id": 2778819438, "level": 3}
+{"count": 589, "name": "Metal rubber", "weight": 0.0, "id": 2781449726, "level": 3}
+{"count": 4652, "name": "Vibration fatigue", "weight": 0.0, "id": 57341113, "level": 3}
+{"count": 218, "name": "Vibratory stress relief", "weight": 0.0, "id": 2777768457, "level": 3}
+{"count": 251, "name": "Atom vibrations", "weight": 0.0, "id": 52906813, "level": 3}
+{"count": 149, "name": "Vibration white finger", "weight": 0.0, "id": 2778102611, "level": 3}
+{"count": 1207, "name": "Node (physics)", "weight": 0.0, "id": 62611344, "level": 3}
+{"count": 1930, "name": "Vibration-powered generator", "weight": 0.0, "id": 39927494, "level": 3}
+{"count": 257, "name": "Coulomb damping", "weight": 0.0, "id": 2775895872, "level": 3}
+{"count": 226, "name": "Granular convection", "weight": 0.0, "id": 37054187, "level": 3}
+{"count": 214, "name": "Chatter mark", "weight": 0.0, "id": 122875749, "level": 3}
+{"count": 2386, "name": "Vibration of plates", "weight": 0.0, "id": 37572431, "level": 3}
+{"count": 88, "name": "Spectral correlation density", "weight": 0.0, "id": 2778114280, "level": 3}
+{"count": 128, "name": "Regenerative shock absorber", "weight": 0.0, "id": 2777835823, "level": 3}
+{"count": 92, "name": "Waterfall plot", "weight": 0.0, "id": 185743815, "level": 3}
+{"count": 43, "name": "Machining vibrations", "weight": 0.0, "id": 2780781055, "level": 3}
+{"count": 111, "name": "Time-varying mesh", "weight": 0.0, "id": 2779729902, "level": 3}
+{"count": 35, "name": "False brinelling", "weight": 0.0, "id": 203419942, "level": 3}
+{"count": 55, "name": "Weighting curve", "weight": 0.0, "id": 2780824078, "level": 3}
+{"count": 939, "name": "Rotating unbalance", "weight": 0.0, "id": 56894122, "level": 3}
+{"count": 13, "name": "MIL-STD-810", "weight": 0.0, "id": 2778977368, "level": 3}
+{"count": 18, "name": "Melde's experiment", "weight": 0.0, "id": 188903781, "level": 3}
+{"count": 66, "name": "Piano acoustics", "weight": 0.0, "id": 165601484, "level": 3}
+{"count": 8, "name": "Walter Lewin Lectures on Physics", "weight": 0.0, "id": 75318006, "level": 3}
+{"count": 27, "name": "Shock and vibration data logger", "weight": 0.0, "id": 71618829, "level": 3}
+{"count": 97, "name": "Basic physics of the violin", "weight": 0.0, "id": 196379540, "level": 3}
+{"count": 112, "name": "Aperture grille", "weight": 0.0, "id": 2776984717, "level": 3}
+{"count": 193, "name": "Bridge (instrument)", "weight": 0.0, "id": 70490866, "level": 3}

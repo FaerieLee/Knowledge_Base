@@ -1,0 +1,200 @@
+{"count": 328136, "name": "Stroke", "weight": 10.0, "id": 518460624, "level": 2}
+{"count": 186169, "name": "Clinical trial", "weight": 5.0, "id": 535046627, "level": 2}
+{"count": 281977, "name": "Randomized controlled trial", "weight": 8.0, "id": 168563851, "level": 2}
+{"count": 134585, "name": "Cohort study", "weight": 4.0, "id": 201903717, "level": 2}
+{"count": 193631, "name": "Prospective cohort study", "weight": 5.0, "id": 188816634, "level": 2}
+{"count": 193788, "name": "Quality of life", "weight": 5.0, "id": 1039755, "level": 2}
+{"count": 55104, "name": "Case-control study", "weight": 1.0, "id": 146304588, "level": 2}
+{"count": 93313, "name": "Cross-sectional study", "weight": 2.0, "id": 142052008, "level": 2}
+{"count": 182617, "name": "Asthma", "weight": 5.0, "id": 2776042228, "level": 2}
+{"count": 92086, "name": "Orthopedic surgery", "weight": 2.0, "id": 68312169, "level": 2}
+{"count": 25079, "name": "Neurological disorder", "weight": 0.0, "id": 2780317758, "level": 2}
+{"count": 218172, "name": "Rehabilitation", "weight": 6.0, "id": 2778818304, "level": 2}
+{"count": 87917, "name": "Multiple sclerosis", "weight": 2.0, "id": 2780640218, "level": 2}
+{"count": 28236, "name": "Insomnia", "weight": 0.0, "id": 2781210498, "level": 2}
+{"count": 135179, "name": "Dementia", "weight": 4.0, "id": 2779483572, "level": 2}
+{"count": 94529, "name": "Osteoporosis", "weight": 2.0, "id": 2776541429, "level": 2}
+{"count": 59190, "name": "Relative risk", "weight": 1.0, "id": 82789193, "level": 2}
+{"count": 125813, "name": "Odds ratio", "weight": 3.0, "id": 156957248, "level": 2}
+{"count": 84425, "name": "Osteoarthritis", "weight": 2.0, "id": 2776164576, "level": 2}
+{"count": 35515, "name": "Evidence-based medicine", "weight": 1.0, "id": 19648533, "level": 2}
+{"count": 24105, "name": "Severity of illness", "weight": 0.0, "id": 30036603, "level": 2}
+{"count": 41685, "name": "Electromyography", "weight": 1.0, "id": 2777515770, "level": 2}
+{"count": 28670, "name": "Upper limb", "weight": 0.0, "id": 2776660947, "level": 2}
+{"count": 61558, "name": "Comorbidity", "weight": 1.0, "id": 2779159551, "level": 2}
+{"count": 4627, "name": "Predictive value of tests", "weight": 0.0, "id": 198433322, "level": 2}
+{"count": 104586, "name": "Observational study", "weight": 3.0, "id": 23131810, "level": 2}
+{"count": 52490, "name": "Activities of daily living", "weight": 1.0, "id": 79544238, "level": 2}
+{"count": 18642, "name": "Anthropometry", "weight": 0.0, "id": 61427482, "level": 2}
+{"count": 95845, "name": "Arthritis", "weight": 2.0, "id": 2777077863, "level": 2}
+{"count": 53342, "name": "Neurology", "weight": 1.0, "id": 16568411, "level": 2}
+{"count": 48403, "name": "Spinal cord injury", "weight": 1.0, "id": 2778334475, "level": 2}
+{"count": 27593, "name": "Sleep disorder", "weight": 0.0, "id": 1513209611, "level": 2}
+{"count": 127341, "name": "Placebo", "weight": 3.0, "id": 27081682, "level": 2}
+{"count": 15830, "name": "Ambulatory", "weight": 0.0, "id": 35785553, "level": 2}
+{"count": 39173, "name": "Patient satisfaction", "weight": 1.0, "id": 2775944032, "level": 2}
+{"count": 41132, "name": "Low back pain", "weight": 1.0, "id": 2780907711, "level": 2}
+{"count": 33361, "name": "Smoking cessation", "weight": 1.0, "id": 2777843972, "level": 2}
+{"count": 35663, "name": "Physical fitness", "weight": 1.0, "id": 171687745, "level": 2}
+{"count": 47781, "name": "Chronic pain", "weight": 1.0, "id": 2781118164, "level": 2}
+{"count": 47075, "name": "Traumatic brain injury", "weight": 1.0, "id": 2781017439, "level": 2}
+{"count": 22906, "name": "Amyotrophic lateral sclerosis", "weight": 0.0, "id": 2780596555, "level": 2}
+{"count": 24722, "name": "Geriatrics", "weight": 0.0, "id": 54183767, "level": 2}
+{"count": 23268, "name": "Repeated measures design", "weight": 0.0, "id": 102959455, "level": 2}
+{"count": 79201, "name": "Physical examination", "weight": 2.0, "id": 527108885, "level": 2}
+{"count": 17467, "name": "Motor skill", "weight": 0.0, "id": 169976356, "level": 2}
+{"count": 36721, "name": "Cerebral palsy", "weight": 1.0, "id": 2779421357, "level": 2}
+{"count": 42219, "name": "Migraine", "weight": 1.0, "id": 2778541695, "level": 2}
+{"count": 49235, "name": "Gait", "weight": 1.0, "id": 151800584, "level": 2}
+{"count": 23208, "name": "Anterior cruciate ligament", "weight": 0.0, "id": 2778434673, "level": 2}
+{"count": 25202, "name": "Neuropathic pain", "weight": 0.0, "id": 2777107010, "level": 2}
+{"count": 44240, "name": "Population study", "weight": 1.0, "id": 61470247, "level": 2}
+{"count": 16653, "name": "Sports medicine", "weight": 0.0, "id": 43893838, "level": 2}
+{"count": 60447, "name": "Athletes", "weight": 1.0, "id": 2781054738, "level": 2}
+{"count": 21838, "name": "Visual analogue scale", "weight": 0.0, "id": 14184104, "level": 2}
+{"count": 23573, "name": "Arthroscopy", "weight": 0.0, "id": 2779162959, "level": 2}
+{"count": 30023, "name": "Back pain", "weight": 0.0, "id": 2776501849, "level": 2}
+{"count": 11750, "name": "Middle age", "weight": 0.0, "id": 2779758577, "level": 2}
+{"count": 10969, "name": "Inter-rater reliability", "weight": 0.0, "id": 61863361, "level": 2}
+{"count": 44305, "name": "Wrist", "weight": 1.0, "id": 2778216619, "level": 2}
+{"count": 15716, "name": "Cost-effectiveness analysis", "weight": 0.0, "id": 515549039, "level": 2}
+{"count": 40798, "name": "Systematic review", "weight": 1.0, "id": 189708586, "level": 2}
+{"count": 13663, "name": "Range of motion", "weight": 0.0, "id": 60465272, "level": 2}
+{"count": 8033, "name": "Occupational disease", "weight": 0.0, "id": 2780638295, "level": 2}
+{"count": 18038, "name": "Polysomnography", "weight": 0.0, "id": 2778205975, "level": 2}
+{"count": 15777, "name": "Intraclass correlation", "weight": 0.0, "id": 104709138, "level": 2}
+{"count": 21906, "name": "Patient education", "weight": 0.0, "id": 2777929519, "level": 2}
+{"count": 20632, "name": "Femoral neck", "weight": 0.0, "id": 2775854910, "level": 2}
+{"count": 12886, "name": "Duchenne muscular dystrophy", "weight": 0.0, "id": 2778943923, "level": 2}
+{"count": 74913, "name": "Ankle", "weight": 2.0, "id": 2778640784, "level": 2}
+{"count": 13711, "name": "Visual impairment", "weight": 0.0, "id": 2781372952, "level": 2}
+{"count": 17716, "name": "Ankylosing spondylitis", "weight": 0.0, "id": 2777402515, "level": 2}
+{"count": 13409, "name": "Lean body mass", "weight": 0.0, "id": 120863210, "level": 2}
+{"count": 50769, "name": "Acupuncture", "weight": 1.0, "id": 56837625, "level": 2}
+{"count": 54996, "name": "Anaerobic exercise", "weight": 1.0, "id": 5140985, "level": 2}
+{"count": 15427, "name": "VO2 max", "weight": 0.0, "id": 196310339, "level": 2}
+{"count": 5525, "name": "Quality-adjusted life year", "weight": 0.0, "id": 64332521, "level": 2}
+{"count": 45891, "name": "Elbow", "weight": 1.0, "id": 2781184374, "level": 2}
+{"count": 16961, "name": "Botulinum toxin", "weight": 0.0, "id": 2777478456, "level": 2}
+{"count": 22463, "name": "Swallowing", "weight": 0.0, "id": 112497637, "level": 2}
+{"count": 16301, "name": "Rotator cuff", "weight": 0.0, "id": 2776511800, "level": 2}
+{"count": 29008, "name": "Occupational therapy", "weight": 0.0, "id": 102190203, "level": 2}
+{"count": 8259, "name": "Exercise therapy", "weight": 0.0, "id": 2777771302, "level": 2}
+{"count": 27814, "name": "Scoliosis", "weight": 0.0, "id": 2780955175, "level": 2}
+{"count": 34325, "name": "MEDLINE", "weight": 1.0, "id": 2779473830, "level": 2}
+{"count": 13155, "name": "Carpal tunnel syndrome", "weight": 0.0, "id": 2779746960, "level": 2}
+{"count": 15301, "name": "Fibromyalgia", "weight": 0.0, "id": 2777831278, "level": 2}
+{"count": 5338, "name": "Passive smoking", "weight": 0.0, "id": 2776281542, "level": 2}
+{"count": 14851, "name": "Dystonia", "weight": 0.0, "id": 2778559928, "level": 2}
+{"count": 7124, "name": "Rate ratio", "weight": 0.0, "id": 167704817, "level": 2}
+{"count": 15801, "name": "Arthrodesis", "weight": 0.0, "id": 2781298600, "level": 2}
+{"count": 36371, "name": "Amputation", "weight": 1.0, "id": 2776204877, "level": 2}
+{"count": 12309, "name": "Proprioception", "weight": 0.0, "id": 171790689, "level": 2}
+{"count": 29755, "name": "Dysphagia", "weight": 0.0, "id": 2780596822, "level": 2}
+{"count": 31267, "name": "Isometric exercise", "weight": 0.0, "id": 103486182, "level": 2}
+{"count": 6878, "name": "Threshold of pain", "weight": 0.0, "id": 3673659, "level": 2}
+{"count": 207407, "name": "Cohort", "weight": 6.0, "id": 72563966, "level": 2}
+{"count": 9393, "name": "Chronic fatigue syndrome", "weight": 0.0, "id": 2779566273, "level": 2}
+{"count": 6980, "name": "Physical activity level", "weight": 0.0, "id": 2780250136, "level": 2}
+{"count": 16989, "name": "Parkinsonism", "weight": 0.0, "id": 2776525014, "level": 2}
+{"count": 14166, "name": "Paraplegia", "weight": 0.0, "id": 2777597760, "level": 2}
+{"count": 82341, "name": "Arthroplasty", "weight": 2.0, "id": 2778336525, "level": 2}
+{"count": 13254, "name": "Strength training", "weight": 0.0, "id": 123550912, "level": 2}
+{"count": 13996, "name": "Spasticity", "weight": 0.0, "id": 2779012798, "level": 2}
+{"count": 4694, "name": "Self-rated health", "weight": 0.0, "id": 2781164080, "level": 2}
+{"count": 13858, "name": "Family support", "weight": 0.0, "id": 2779017400, "level": 2}
+{"count": 7490, "name": "Physical disability", "weight": 0.0, "id": 2779625216, "level": 2}
+{"count": 12255, "name": "Neck pain", "weight": 0.0, "id": 2781038967, "level": 2}
+{"count": 11638, "name": "Movement disorders", "weight": 0.0, "id": 2778261627, "level": 2}
+{"count": 7630, "name": "Food frequency questionnaire", "weight": 0.0, "id": 2780662849, "level": 2}
+{"count": 4776, "name": "Neuromuscular disease", "weight": 0.0, "id": 2776356578, "level": 2}
+{"count": 12611, "name": "Endurance training", "weight": 0.0, "id": 99830354, "level": 2}
+{"count": 26404, "name": "Headaches", "weight": 0.0, "id": 2780966972, "level": 2}
+{"count": 3863, "name": "Musculoskeletal disorder", "weight": 0.0, "id": 2777414892, "level": 2}
+{"count": 9138, "name": "Shoulder joint", "weight": 0.0, "id": 2780457017, "level": 2}
+{"count": 5984, "name": "Shift work", "weight": 0.0, "id": 2776176791, "level": 2}
+{"count": 13077, "name": "Biofeedback", "weight": 0.0, "id": 2776377089, "level": 2}
+{"count": 5915, "name": "Vertigo", "weight": 0.0, "id": 2779135839, "level": 2}
+{"count": 4909, "name": "Progressive supranuclear palsy", "weight": 0.0, "id": 2776477761, "level": 2}
+{"count": 7341, "name": "Muscle fatigue", "weight": 0.0, "id": 2776874296, "level": 2}
+{"count": 8343, "name": "Grip strength", "weight": 0.0, "id": 2777433710, "level": 2}
+{"count": 4848, "name": "Sick leave", "weight": 0.0, "id": 2776737852, "level": 2}
+{"count": 119931, "name": "Psychosocial", "weight": 3.0, "id": 150966472, "level": 2}
+{"count": 4381, "name": "Exercise physiology", "weight": 0.0, "id": 133165541, "level": 2}
+{"count": 7017, "name": "Gabapentin", "weight": 0.0, "id": 2776608144, "level": 2}
+{"count": 13737, "name": "Exertion", "weight": 0.0, "id": 2778310968, "level": 2}
+{"count": 5415, "name": "Baclofen", "weight": 0.0, "id": 2781201050, "level": 2}
+{"count": 12157, "name": "Pelvic pain", "weight": 0.0, "id": 2780136519, "level": 2}
+{"count": 8113, "name": "Weight-bearing", "weight": 0.0, "id": 2780204347, "level": 2}
+{"count": 45084, "name": "Massage", "weight": 1.0, "id": 175259745, "level": 2}
+{"count": 7785, "name": "Clinical nutrition", "weight": 0.0, "id": 148257392, "level": 2}
+{"count": 10343, "name": "Interquartile range", "weight": 0.0, "id": 119060515, "level": 2}
+{"count": 7051, "name": "myalgia", "weight": 0.0, "id": 2778616394, "level": 2}
+{"count": 13364, "name": "Absolute risk reduction", "weight": 0.0, "id": 120195587, "level": 2}
+{"count": 4750, "name": "Essential tremor", "weight": 0.0, "id": 2780112193, "level": 2}
+{"count": 17134, "name": "Tenderness", "weight": 0.0, "id": 2780003869, "level": 2}
+{"count": 97584, "name": "Lumbar", "weight": 2.0, "id": 44575665, "level": 2}
+{"count": 11036, "name": "Music therapy", "weight": 0.0, "id": 2779284498, "level": 2}
+{"count": 1869, "name": "Women's Health Initiative", "weight": 0.0, "id": 2780733421, "level": 2}
+{"count": 13009, "name": "Pelvic floor", "weight": 0.0, "id": 2781244320, "level": 2}
+{"count": 3498, "name": "Kinesitherapy", "weight": 0.0, "id": 2776713663, "level": 2}
+{"count": 3782, "name": "Somnolence", "weight": 0.0, "id": 2779034229, "level": 2}
+{"count": 13520, "name": "Contracture", "weight": 0.0, "id": 2776937108, "level": 2}
+{"count": 4621, "name": "Goniometer", "weight": 0.0, "id": 48806519, "level": 2}
+{"count": 7740, "name": "Kinesiology", "weight": 0.0, "id": 73248790, "level": 2}
+{"count": 12111, "name": "Muscle weakness", "weight": 0.0, "id": 2776418732, "level": 2}
+{"count": 9793, "name": "Kyphosis", "weight": 0.0, "id": 2779418094, "level": 2}
+{"count": 3140, "name": "Behavioral Risk Factor Surveillance System", "weight": 0.0, "id": 2777126965, "level": 2}
+{"count": 4258, "name": "Actigraphy", "weight": 0.0, "id": 2778996325, "level": 2}
+{"count": 3745, "name": "Center of pressure (fluid mechanics)", "weight": 0.0, "id": 76542214, "level": 2}
+{"count": 6992, "name": "Haemophilia", "weight": 0.0, "id": 2778385053, "level": 2}
+{"count": 3319, "name": "Tendinitis", "weight": 0.0, "id": 2776497992, "level": 2}
+{"count": 5757, "name": "Bed rest", "weight": 0.0, "id": 2777854218, "level": 2}
+{"count": 4801, "name": "Patient-reported outcome", "weight": 0.0, "id": 2779517570, "level": 2}
+{"count": 5516, "name": "Spondylitis", "weight": 0.0, "id": 2779650986, "level": 2}
+{"count": 15496, "name": "Cardiorespiratory fitness", "weight": 0.0, "id": 117437137, "level": 2}
+{"count": 4609, "name": "Complex regional pain syndrome", "weight": 0.0, "id": 2780226346, "level": 2}
+{"count": 16998, "name": "Treadmill", "weight": 0.0, "id": 2781464450, "level": 2}
+{"count": 5281, "name": "Dysarthria", "weight": 0.0, "id": 2777639682, "level": 2}
+{"count": 3266, "name": "Balance (ability)", "weight": 0.0, "id": 168031717, "level": 2}
+{"count": 7135, "name": "Art therapy", "weight": 0.0, "id": 2781249023, "level": 2}
+{"count": 8813, "name": "Biopsychosocial model", "weight": 0.0, "id": 137886200, "level": 2}
+{"count": 2403, "name": "Nerve conduction study", "weight": 0.0, "id": 2779658331, "level": 2}
+{"count": 8136, "name": "Chiropractic", "weight": 0.0, "id": 516994506, "level": 2}
+{"count": 4114, "name": "Sacroiliac joint", "weight": 0.0, "id": 2778614933, "level": 2}
+{"count": 2135, "name": "McGill Pain Questionnaire", "weight": 0.0, "id": 2776432500, "level": 2}
+{"count": 4405, "name": "Heterotopic ossification", "weight": 0.0, "id": 2780650075, "level": 2}
+{"count": 2735, "name": "Orthotics", "weight": 0.0, "id": 2776462017, "level": 2}
+{"count": 4129, "name": "Geriatric Depression Scale", "weight": 0.0, "id": 2776760841, "level": 2}
+{"count": 3196, "name": "Polymyalgia rheumatica", "weight": 0.0, "id": 2780079024, "level": 2}
+{"count": 6583, "name": "Pain assessment", "weight": 0.0, "id": 2778282284, "level": 2}
+{"count": 4278, "name": "Vertical jump", "weight": 0.0, "id": 2777456745, "level": 2}
+{"count": 3323, "name": "Intractable pain", "weight": 0.0, "id": 2776429440, "level": 2}
+{"count": 3772, "name": "Clinical pathway", "weight": 0.0, "id": 2778373050, "level": 2}
+{"count": 7489, "name": "Physical strength", "weight": 0.0, "id": 153396756, "level": 2}
+{"count": 2784, "name": "Nursing assessment", "weight": 0.0, "id": 2780813765, "level": 2}
+{"count": 4576, "name": "Manual therapy", "weight": 0.0, "id": 514863369, "level": 2}
+{"count": 5312, "name": "Whiplash", "weight": 0.0, "id": 2780098137, "level": 2}
+{"count": 27188, "name": "Wheelchair", "weight": 0.0, "id": 2781042323, "level": 2}
+{"count": 1718, "name": "Disability pension", "weight": 0.0, "id": 2780289447, "level": 2}
+{"count": 3381, "name": "Duloxetine", "weight": 0.0, "id": 2780764818, "level": 2}
+{"count": 3578, "name": "Tenosynovitis", "weight": 0.0, "id": 2776751720, "level": 2}
+{"count": 3949, "name": "Torticollis", "weight": 0.0, "id": 2781313278, "level": 2}
+{"count": 2878, "name": "Low level laser therapy", "weight": 0.0, "id": 2778023920, "level": 2}
+{"count": 1801, "name": "Minimum Data Set", "weight": 0.0, "id": 2779028819, "level": 2}
+{"count": 1486, "name": "Research Diagnostic Criteria", "weight": 0.0, "id": 2778990124, "level": 2}
+{"count": 9934, "name": "Concurrent validity", "weight": 0.0, "id": 198999979, "level": 2}
+{"count": 2935, "name": "Electrotherapy", "weight": 0.0, "id": 536681454, "level": 2}
+{"count": 2032, "name": "Team sport", "weight": 0.0, "id": 2780082397, "level": 2}
+{"count": 1992, "name": "Cost\u2013utility analysis", "weight": 0.0, "id": 184834754, "level": 2}
+{"count": 3122, "name": "Bursitis", "weight": 0.0, "id": 2780062341, "level": 2}
+{"count": 2978, "name": "Postherpetic neuralgia", "weight": 0.0, "id": 2778866549, "level": 2}
+{"count": 1956, "name": "Anakinra", "weight": 0.0, "id": 2781228260, "level": 2}
+{"count": 2027, "name": "Lactate threshold", "weight": 0.0, "id": 2776294035, "level": 2}
+{"count": 3106, "name": "Aromatherapy", "weight": 0.0, "id": 2780993443, "level": 2}
+{"count": 2184, "name": "Pulmonology", "weight": 0.0, "id": 179585855, "level": 2}
+{"count": 19337, "name": "Wilcoxon signed-rank test", "weight": 0.0, "id": 206041023, "level": 2}
+{"count": 2300, "name": "Pedometer", "weight": 0.0, "id": 2779070388, "level": 2}
+{"count": 1857, "name": "Amyotrophy", "weight": 0.0, "id": 2779155698, "level": 2}
+{"count": 2464, "name": "Eccentric exercise", "weight": 0.0, "id": 2778470209, "level": 2}
+{"count": 6423, "name": "Interim analysis", "weight": 0.0, "id": 61943457, "level": 2}

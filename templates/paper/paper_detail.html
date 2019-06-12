@@ -1,0 +1,269 @@
+{% load staticfiles %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>paper_detail</title>
+    <script src="{% static "/css/../../static/js/jquery-3.4.1.min.js" %}"></script>
+    <script src="{% static "/css/../../static/js/ph.js" %}"></script>
+    <link rel="stylesheet" href="{% static "/css/message_5d7c4a8a.css" %}" type="text/css" id="messagelink">
+    <link rel="stylesheet" href="{% static "/css/page_8d4e4a3.css" %}" type="text/css">
+    <link rel="stylesheet" href="{% static "/css/bulma.css" %}" type="text/css">
+    <link rel="stylesheet" href="{% static "/css/paper.css" %}" type="text/css">
+    <link rel="stylesheet" href="{% static "/css/fontawesome-free-5.8.1-web/css/all.css" %}" type="text/css">
+    <style type="text/css">
+      html,body{margin:0;padding: 0;}
+      /* 动态为footer添加类fixed-bottom */
+      .fixed-bottom {position: fixed;bottom: 0;width:100%;}
+    </style>
+    <script type="text/javascript">
+      $(function(){
+          function footerPosition(){
+              $("footer").removeClass("fixed-bottom");
+              var contentHeight = document.body.scrollHeight,//网页正文全文高度
+                  winHeight = window.innerHeight;//可视窗口高度，不包括浏览器顶部工具栏
+              if(!(contentHeight > winHeight)){
+                  //当网页正文高度小于可视窗口高度时，为footer添加类fixed-bottom
+                  $("footer").addClass("fixed-bottom");
+              } else {
+                  $("footer").removeClass("fixed-bottom");
+              }
+          }
+          footerPosition();
+          $(window).resize(footerPosition);
+      });
+    </script>
+
+
+</head>
+<body>
+<div>
+    <div class="container">
+        <div id="head_wr" class="gj ">
+        <div id="head" class="LOG_WR gj " data-log="{&#39;actblock&#39;: &#39;head&#39;}">
+                <div class="headCont ">
+                    <div id="u" class="gj ">
+                    </div>
+                    <a href="/" class="s_logo">
+                        <div class="s_logo_img" alt="到学术首页" title="到学术首页"></div>
+                    </a>
+
+                    <div class="s_form_wr">
+                        <form class="fm" id="form" action="search_general" method="post">
+                            <input type="text" style="display: none" id="aggregation" name="aggregation" value="True">
+                            <div class="s_ipt_wr">
+                                <input name="search_content" style="width: 450px" autocomplete="off" id="kw" value="{{ search_content }}" maxlength="256">
+                                <i class="s_ipt_search_icon">
+                                    <img src= '{% static '/png/search.png' %}' width="40px" height="45px">
+                                </i>
+                            </div>
+                            <input type="submit" value="sub" style="display: none">
+                        </form>
+
+                        <div class="sc_adv_triangle_down gj" id="test">
+                            <span><strong>Advanced</strong></span><i class="sc_adv_icon"></i>
+                        </div>
+                        <input id="search_type" style="display: none" value="{{ search_type }}">
+
+                        <div id="sc_adv">
+                            <form action="search_advanced" id="sc_adv_frm" method="post">
+                                {% csrf_token %}
+                                <input type="text" style="display: none" id="aggregation" name="aggregation" value="True">
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">title</span>
+                                    <span><input type="text" id="title" name="title" placeholder=""  data-type="all" data-name="" class="sc_adv_keyword_ipt sc-input sc_adv_keyword1" maxlength="100" value="{{ items.title }}"></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">author name</span>
+                                    <span><input type="text" id="author_name" name="author_name" placeholder="" data-type="precise" data-name="" class="sc_adv_keyword_ipt sc-input sc_adv_keyword2" maxlength="100" value="{{ items.author_name }}"></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">author organization</span>
+                                    <span><input type="text" id="author_org" name="author_org" placeholder="" data-type="or" data-name="" class="sc_adv_keyword_ipt sc-input" maxlength="100" value="{{ items.author_org }}"></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">vneue</span>
+                                    <span><input type="text" id="vneue" name="vneue" placeholder="" data-type="not" data-name="" class="sc_adv_keyword_ipt sc-input" maxlength="100" value="{{ items.vneue }}"></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">keyword</span>
+                                    <span><input type="text" id="keywords" name="keywords" placeholder="" data-type="not" data-name="" class="sc_adv_keyword_ipt sc-input" maxlength="100" value="{{ items.keywords }}"></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">fos</span>
+                                    <span><input type="text" id="fos" name="fos" placeholder="" data-name="author" class="sc_adv_txin sc-input sc_adv_author" maxlength="50" value="{{ items.fos }}"></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">publisher</span>
+                                    <span class="sc_adv_jour_conf">
+                                        <span>
+                                            <input type="text" id="publisher" name="publisher" placeholder="" data-name="journal" class="sc-input sc_adv_txin sc_adv_pubipt" maxlength="100" value="{{ items.publisher }}">
+                                        </span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">issn</span>
+                                    <span><input type="text" id="issn" name="issn" placeholder="" data-name="author" class="sc_adv_txin sc-input sc_adv_author" maxlength="50" value="{{ items.issn }}"></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">doi</span>{{ items.title }}
+                                    <span><input type="text" id="doi" name="doi" placeholder="" data-name="author" class="sc_adv_txin sc-input sc_adv_author" maxlength="50" value="{{ items.doi }}"></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">url</span>
+                                    <span><input type="text" id="url" name="url" placeholder="" data-name="author" class="sc_adv_txin sc-input sc_adv_author" maxlength="50" value="{{ items.url }}"></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">abstract</span>
+                                    <span><input type="text" id="abstract" name="abstract" placeholder="" data-name="author" class="sc_adv_txin sc-input sc_adv_author" maxlength="50" value="{{ items.abstract }}"></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">year</span>
+                                    <span><input type="text" id="year" name="year" data-nolog="1" pattern="[0-9]*" size="4"  maxlength="4" class="sc-input sc-input-xmini sc_adv_input_ylo" value="{{ items.year }}">
+                                    </span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">language</span>
+                                    <span><input type="text" id="language" name="language" placeholder="" data-name="author" class="sc-input sc-input-xmini sc_adv_lang_sel" maxlength="50" value="{{ items.lang }}"></span>
+                                </div>
+                                <span class="sc_adv_wd_hidden"></span>
+                                <span class="sc_adv_sub s_btn_wr">
+                                    <input id="advance_submit" type="submit" value="Search" class="sc_adv_sub_btn s_btn" >
+                                </span>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+    </div>
+
+    <div class="container">
+        <div class="tile is-ancestor">
+
+
+           <div class="tile is-vertical is-9">
+               <div>
+                   <br>
+                   <br>
+                   <p style="font-size: 24px"><b>{{ paper.title }}</b></p>
+                   <hr style="margin-top: 20px; margin-bottom: 25px">
+                   <div>
+                       <a href="/paper/download?format=json&paper_id={{ paper.id }}" style="font-size: 15px"><i class="fas fa-download" style="color: #0a0a0a"></i> &nbsp;Export(Json)</a>&nbsp;&nbsp;&nbsp;
+                       <a href="/paper/download?format=xml&paper_id={{ paper.id }}" style="font-size: 15px"><i class="fas fa-download" style="color: #0a0a0a"></i> &nbsp;Export(Xml)</a>
+                   </div>
+                   <br>
+               </div>
+               <div class="box">
+                   <div>
+                       <b>Information</b>
+                       <hr style="margin-top: 20px; margin-bottom: 20px">
+                   </div>
+
+                   <div class="columns">
+                       <div class="column is-one-fifth">
+                           <b>Author</b>
+                       </div>
+                       <div class="column">
+                           {{ paper.name }}
+                       </div>
+                   </div>
+
+                   <div class="columns">
+                       <div class="column is-one-fifth">
+                           <b>Org</b>
+                       </div>
+                       <div class="column">
+                           {{ paper.org}}
+                       </div>
+                   </div>
+
+                   <div class="columns">
+                       <div class="column is-one-fifth">
+                           <b>Year</b>
+                       </div>
+                       <div class="column">
+                           {{ paper.year }}
+                       </div>
+                   </div>
+
+                   <div class="columns">
+                       <div class="column is-one-fifth">
+                           <b>Publisher</b>
+                       </div>
+                       <div class="column">
+                           {{ paper.publisher }}
+                       </div>
+                   </div>
+
+                   <div class="columns">
+                       <div class="column is-one-fifth">
+                           <b>Volume</b>
+                       </div>
+                       <div class="column">
+                           {{ paper.volume }}
+                       </div>
+                   </div>
+
+                   <div class="columns">
+                       <div class="column is-one-fifth">
+                           <b>DOI</b>
+                       </div>
+                       <div class="column">
+                           {{ paper.doi }}
+                       </div>
+                   </div>
+
+
+               </div>
+
+               <div class="box">
+                   <b>Abstract</b>
+                   <hr style="margin-top: 15px; margin-bottom: 30px">
+                   {{ paper.abstract }}
+               </div>
+               <div class="box">
+                   <b>Reference</b>
+                   <hr style="margin-top: 15px; margin-bottom: 20px">
+                    {% if data_set == "solr" %}
+                        {% for reference in paper.references %}
+                            <p><font size="2">{{ reference }}</font></p>
+                        {% endfor %}
+                    {% else %}
+                        {% for reference in paper.references %}
+                            <p><a href="/paper/get_paper_by_id?paper_id={{ reference.id }}" target="_blank" style="color: #0a0a0a"><font size="2">{{ forloop.counter }}. {{ reference.title }}</font></a></p>
+                        {% endfor %}
+                    {% endif %}
+               </div>
+
+
+           </div>
+
+           <div class="tile is-vertical is-2">
+               <div class="tile">
+                   <div class="tile is-parent is-vertical">
+                       <article class="tile is-child">
+                       </article>
+                   </div>
+               </div>
+           </div>
+        </div>
+
+        <footer>
+            <hr>
+            <div class="content">
+                <p style="font-size: 0.8em">
+                    2018 - 2018 ©  Team. All Rights Reserved. 关于我们<br>&nbsp;
+                </p>
+            </div>
+        </footer>
+    </div>
+
+
+
+
+
+
+</div>
+
+</body>
+</html>

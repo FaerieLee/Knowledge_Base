@@ -1,0 +1,129 @@
+{"count": 24681, "name": "Inorganic compound", "weight": 4.0, "id": 2778279818, "level": 3}
+{"count": 6020, "name": "Crystal chemistry", "weight": 1.0, "id": 76362724, "level": 3}
+{"count": 41702, "name": "Powder diffraction", "weight": 8.0, "id": 185039092, "level": 3}
+{"count": 15555, "name": "Coordination polymer", "weight": 3.0, "id": 2781432337, "level": 3}
+{"count": 5170, "name": "Space group", "weight": 1.0, "id": 176932811, "level": 3}
+{"count": 12464, "name": "Rietveld refinement", "weight": 2.0, "id": 115645028, "level": 3}
+{"count": 1505, "name": "Molecular replacement", "weight": 0.0, "id": 2777166331, "level": 3}
+{"count": 3722, "name": "Lattice energy", "weight": 0.0, "id": 131468747, "level": 3}
+{"count": 484, "name": "Multiple isomorphous replacement", "weight": 0.0, "id": 112247285, "level": 3}
+{"count": 1375, "name": "Tridentate ligand", "weight": 0.0, "id": 2780753689, "level": 3}
+{"count": 44693, "name": "Tetragonal crystal system", "weight": 8.0, "id": 170751736, "level": 3}
+{"count": 3710, "name": "Direct methods", "weight": 0.0, "id": 2776544107, "level": 3}
+{"count": 904, "name": "Tetradentate ligand", "weight": 0.0, "id": 2778656347, "level": 3}
+{"count": 22009, "name": "Tetrahedron", "weight": 4.0, "id": 105239961, "level": 3}
+{"count": 2637, "name": "Crystal system", "weight": 0.0, "id": 64270004, "level": 3}
+{"count": 11683, "name": "Octahedron", "weight": 2.0, "id": 198819137, "level": 3}
+{"count": 921, "name": "Primitive cell", "weight": 0.0, "id": 79725697, "level": 3}
+{"count": 50838, "name": "Monoclinic crystal system", "weight": 10.0, "id": 61276311, "level": 3}
+{"count": 372, "name": "Patterson function", "weight": 0.0, "id": 89034284, "level": 3}
+{"count": 225, "name": "Yttrium borides", "weight": 0.0, "id": 2776852670, "level": 3}
+{"count": 824, "name": "Crystal structure prediction", "weight": 0.0, "id": 84947059, "level": 3}
+{"count": 930, "name": "Bravais lattice", "weight": 0.0, "id": 203833618, "level": 3}
+{"count": 42158, "name": "Orthorhombic crystal system", "weight": 8.0, "id": 37243968, "level": 3}
+{"count": 376, "name": "Gallium phosphate", "weight": 0.0, "id": 2779477938, "level": 3}
+{"count": 230, "name": "Hexadentate ligand", "weight": 0.0, "id": 2779530586, "level": 3}
+{"count": 637, "name": "Pearson symbol", "weight": 0.0, "id": 5207923, "level": 3}
+{"count": 173, "name": "Ruddlesden-Popper phase", "weight": 0.0, "id": 2780030821, "level": 3}
+{"count": 133, "name": "Bond valence method", "weight": 0.0, "id": 2779665271, "level": 3}
+{"count": 523, "name": "Zintl phase", "weight": 0.0, "id": 2776845273, "level": 3}
+{"count": 66, "name": "Born\u2013Mayer equation", "weight": 0.0, "id": 2779292865, "level": 3}
+{"count": 6120, "name": "Trigonal bipyramidal molecular geometry", "weight": 1.0, "id": 111592845, "level": 3}
+{"count": 6101, "name": "Octahedral molecular geometry", "weight": 1.0, "id": 39297587, "level": 3}
+{"count": 126, "name": "Nickel(II) nitrate", "weight": 0.0, "id": 2777006094, "level": 3}
+{"count": 2863, "name": "Tetrahedral molecular geometry", "weight": 0.0, "id": 127709339, "level": 3}
+{"count": 18895, "name": "Triclinic crystal system", "weight": 3.0, "id": 42228675, "level": 3}
+{"count": 232, "name": "R-factor (crystallography)", "weight": 0.0, "id": 208021042, "level": 3}
+{"count": 555, "name": "Lanthanide contraction", "weight": 0.0, "id": 207991674, "level": 3}
+{"count": 1649, "name": "Pentagonal bipyramidal molecular geometry", "weight": 0.0, "id": 158842870, "level": 3}
+{"count": 665, "name": "Bipyramid", "weight": 0.0, "id": 7167053, "level": 3}
+{"count": 2462, "name": "Formula unit", "weight": 0.0, "id": 88260341, "level": 3}
+{"count": 3122, "name": "Tetrahydrate", "weight": 0.0, "id": 124392266, "level": 3}
+{"count": 403, "name": "Wyckoff positions", "weight": 0.0, "id": 103678177, "level": 3}
+{"count": 347, "name": "Centrosymmetry", "weight": 0.0, "id": 45261917, "level": 3}
+{"count": 193, "name": "Ludwigite", "weight": 0.0, "id": 2779193552, "level": 3}
+{"count": 286, "name": "Octahedral cluster", "weight": 0.0, "id": 2780753763, "level": 3}
+{"count": 323, "name": "Stannide", "weight": 0.0, "id": 2778603918, "level": 3}
+{"count": 168, "name": "Inorganic Crystal Structure Database", "weight": 0.0, "id": 70448876, "level": 3}
+{"count": 13009, "name": "Isostructural", "weight": 2.0, "id": 205188671, "level": 3}
+{"count": 876, "name": "Crystallographic point group", "weight": 0.0, "id": 203992732, "level": 3}
+{"count": 50, "name": "Hume-Rothery rules", "weight": 0.0, "id": 63676945, "level": 3}
+{"count": 118, "name": "3,5-Dinitrobenzoic acid", "weight": 0.0, "id": 2776021223, "level": 3}
+{"count": 4311, "name": "Square pyramidal molecular geometry", "weight": 0.0, "id": 92840921, "level": 3}
+{"count": 29, "name": "X-PLOR", "weight": 0.0, "id": 2779368838, "level": 3}
+{"count": 124, "name": "Argyrodite", "weight": 0.0, "id": 2780641626, "level": 3}
+{"count": 62, "name": "Thermal ellipsoid", "weight": 0.0, "id": 2779794855, "level": 3}
+{"count": 103, "name": "Pharmacosiderite", "weight": 0.0, "id": 2777226301, "level": 3}
+{"count": 60, "name": "Frank Kasper phases", "weight": 0.0, "id": 2779895353, "level": 3}
+{"count": 114, "name": "Icosane", "weight": 0.0, "id": 2778183139, "level": 3}
+{"count": 590, "name": "Square pyramid", "weight": 0.0, "id": 200119971, "level": 3}
+{"count": 321, "name": "Copper(II) nitrate", "weight": 0.0, "id": 2779206161, "level": 3}
+{"count": 24, "name": "Scandium sulfate", "weight": 0.0, "id": 2781065226, "level": 3}
+{"count": 69, "name": "Goldschmidt tolerance factor", "weight": 0.0, "id": 2776954299, "level": 3}
+{"count": 91, "name": "Edingtonite", "weight": 0.0, "id": 2777626809, "level": 3}
+{"count": 32, "name": "Nitridoborate", "weight": 0.0, "id": 2781144760, "level": 3}
+{"count": 1615, "name": "Trigonal prismatic molecular geometry", "weight": 0.0, "id": 61126556, "level": 3}
+{"count": 125, "name": "Hexagonal bipyramid", "weight": 0.0, "id": 2777336839, "level": 3}
+{"count": 76, "name": "Benitoite", "weight": 0.0, "id": 2777340128, "level": 3}
+{"count": 73, "name": "Oxohalide", "weight": 0.0, "id": 2780250936, "level": 3}
+{"count": 99, "name": "Astrophyllite", "weight": 0.0, "id": 2778501638, "level": 3}
+{"count": 734, "name": "Square antiprism", "weight": 0.0, "id": 2776525051, "level": 3}
+{"count": 467, "name": "Staggered conformation", "weight": 0.0, "id": 131028705, "level": 3}
+{"count": 396, "name": "Dimethylphenylphosphine", "weight": 0.0, "id": 2775874298, "level": 3}
+{"count": 26, "name": "Murdochite", "weight": 0.0, "id": 2779845394, "level": 3}
+{"count": 40, "name": "Copper(II) azide", "weight": 0.0, "id": 2780937170, "level": 3}
+{"count": 16, "name": "Manganese(II) phosphate", "weight": 0.0, "id": 2778405557, "level": 3}
+{"count": 200, "name": "Antiprism", "weight": 0.0, "id": 2779568082, "level": 3}
+{"count": 155, "name": "Rhombohedron", "weight": 0.0, "id": 2778097341, "level": 3}
+{"count": 92, "name": "Thortveitite", "weight": 0.0, "id": 2780268566, "level": 3}
+{"count": 1099, "name": "Trigonal planar molecular geometry", "weight": 0.0, "id": 193515253, "level": 3}
+{"count": 24, "name": "Tris(ethylenediamine)cobalt(III) chloride", "weight": 0.0, "id": 2777583952, "level": 3}
+{"count": 45, "name": "Hilgardite", "weight": 0.0, "id": 2779389539, "level": 3}
+{"count": 827, "name": "Trigonal pyramidal molecular geometry", "weight": 0.0, "id": 81289067, "level": 3}
+{"count": 31, "name": "Cavansite", "weight": 0.0, "id": 2778629693, "level": 3}
+{"count": 93, "name": "1,3-Bis(diphenylphosphino)propane", "weight": 0.0, "id": 2781469148, "level": 3}
+{"count": 18, "name": "Vlasovite", "weight": 0.0, "id": 2776831556, "level": 3}
+{"count": 50, "name": "Lyonsite", "weight": 0.0, "id": 2779756634, "level": 3}
+{"count": 26, "name": "Lead(II) fluoride", "weight": 0.0, "id": 2778114826, "level": 3}
+{"count": 21, "name": "Leucophanite", "weight": 0.0, "id": 2777315046, "level": 3}
+{"count": 533, "name": "Eclipsed conformation", "weight": 0.0, "id": 123026534, "level": 3}
+{"count": 23, "name": "Sodium hyponitrite", "weight": 0.0, "id": 2780366874, "level": 3}
+{"count": 34, "name": "Carboximidate", "weight": 0.0, "id": 2778002967, "level": 3}
+{"count": 505, "name": "Square antiprismatic molecular geometry", "weight": 0.0, "id": 94804456, "level": 3}
+{"count": 24, "name": "2-Cyanoguanidine", "weight": 0.0, "id": 2777342534, "level": 3}
+{"count": 120, "name": "Pentagonal pyramid", "weight": 0.0, "id": 145064022, "level": 3}
+{"count": 18, "name": "Strontium nitride", "weight": 0.0, "id": 2776565880, "level": 3}
+{"count": 16, "name": "Metal dithiolene complex", "weight": 0.0, "id": 2777439047, "level": 3}
+{"count": 81, "name": "Cobalt(III) nitrate", "weight": 0.0, "id": 2777496076, "level": 3}
+{"count": 20, "name": "Jeremejevite", "weight": 0.0, "id": 2779018093, "level": 3}
+{"count": 14, "name": "Tantalum telluride", "weight": 0.0, "id": 2778926697, "level": 3}
+{"count": 13, "name": "Parth\u00e9ite", "weight": 0.0, "id": 2777329448, "level": 3}
+{"count": 49, "name": "Triangular bipyramid", "weight": 0.0, "id": 177138050, "level": 3}
+{"count": 31, "name": "Arsenic triiodide", "weight": 0.0, "id": 2776713282, "level": 3}
+{"count": 42, "name": "Ullmannite", "weight": 0.0, "id": 2776847092, "level": 3}
+{"count": 26, "name": "Iron(II) phosphate", "weight": 0.0, "id": 2781237143, "level": 3}
+{"count": 17, "name": "Simpsonite", "weight": 0.0, "id": 2779577471, "level": 3}
+{"count": 37, "name": "Sugilite", "weight": 0.0, "id": 2777843916, "level": 3}
+{"count": 31, "name": "Tetrafluoroberyllate", "weight": 0.0, "id": 2776952195, "level": 3}
+{"count": 30, "name": "Copper(II) fluoride", "weight": 0.0, "id": 2777941604, "level": 3}
+{"count": 15, "name": "Pentagonal antiprism", "weight": 0.0, "id": 2776963933, "level": 3}
+{"count": 344, "name": "Copper(II) perchlorate", "weight": 0.0, "id": 2781218748, "level": 3}
+{"count": 34, "name": "Plumbide", "weight": 0.0, "id": 2779650698, "level": 3}
+{"count": 20, "name": "Octadecahedron", "weight": 0.0, "id": 2780150715, "level": 3}
+{"count": 24, "name": "Tin(II) bromide", "weight": 0.0, "id": 2780707857, "level": 3}
+{"count": 129, "name": "1,2-Bis(dimethylphosphino)ethane", "weight": 0.0, "id": 2779211972, "level": 3}
+{"count": 11, "name": "Ziesite", "weight": 0.0, "id": 2779505801, "level": 3}
+{"count": 18, "name": "Nickel(III) oxide", "weight": 0.0, "id": 2780299038, "level": 3}
+{"count": 125, "name": "Fractional coordinates", "weight": 0.0, "id": 47554276, "level": 3}
+{"count": 6, "name": "Ruizite", "weight": 0.0, "id": 2775973832, "level": 3}
+{"count": 37, "name": "cis-Inositol", "weight": 0.0, "id": 2780786102, "level": 3}
+{"count": 10, "name": "Lithium molybdenum purple bronze", "weight": 0.0, "id": 2779460353, "level": 3}
+{"count": 9, "name": "Icosahedral twins", "weight": 0.0, "id": 2780218629, "level": 3}
+{"count": 6, "name": "Marrite", "weight": 0.0, "id": 2776215596, "level": 3}
+{"count": 18, "name": "Chromium(III) iodide", "weight": 0.0, "id": 2776473871, "level": 3}
+{"count": 345, "name": "Crystal structure of boron-rich metal borides", "weight": 0.0, "id": 117198864, "level": 3}
+{"count": 16, "name": "Hexagonal antiprism", "weight": 0.0, "id": 2779482503, "level": 3}
+{"count": 30, "name": "Nickel(II) iodide", "weight": 0.0, "id": 2777299487, "level": 3}
+{"count": 21, "name": "Basic beryllium acetate", "weight": 0.0, "id": 2780848519, "level": 3}
+{"count": 18, "name": "Lead tetrachloride", "weight": 0.0, "id": 2779049631, "level": 3}
+{"count": 17, "name": "Allotropes of phosphorus", "weight": 0.0, "id": 2777921440, "level": 3}

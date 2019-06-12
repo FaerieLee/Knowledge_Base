@@ -1,0 +1,7 @@
+{"count": 584, "name": "Identity provider", "weight": 10.0, "id": 2779881993, "level": 4}
+{"count": 390, "name": "Identity management system", "weight": 6.0, "id": 2778290591, "level": 4}
+{"count": 483, "name": "Federated identity", "weight": 8.0, "id": 2777490532, "level": 4}
+{"count": 88, "name": "OpenID Connect", "weight": 1.0, "id": 2780631406, "level": 4}
+{"count": 34, "name": "Mobile identity management", "weight": 0.0, "id": 2780069556, "level": 4}
+{"count": 51, "name": "Online identity management", "weight": 0.0, "id": 2777667211, "level": 4}
+{"count": 28, "name": "Identity-based security", "weight": 0.0, "id": 2779846673, "level": 4}

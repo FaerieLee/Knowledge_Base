@@ -1,0 +1,15 @@
+{"count": 15099, "name": "Neutron detection", "weight": 10.0, "id": 89136471, "level": 4}
+{"count": 3452, "name": "Neutron generator", "weight": 2.0, "id": 184186437, "level": 4}
+{"count": 225, "name": "Wigner effect", "weight": 0.0, "id": 28316944, "level": 4}
+{"count": 12246, "name": "Neutron cross section", "weight": 8.0, "id": 5688416, "level": 4}
+{"count": 335, "name": "Prompt gamma neutron activation analysis", "weight": 0.0, "id": 2778102561, "level": 4}
+{"count": 3720, "name": "Fast fission", "weight": 2.0, "id": 196449825, "level": 4}
+{"count": 1934, "name": "Neutron poison", "weight": 1.0, "id": 21991021, "level": 4}
+{"count": 671, "name": "Geometric and material buckling", "weight": 0.0, "id": 116266778, "level": 4}
+{"count": 376, "name": "Fast neutron therapy", "weight": 0.0, "id": 2779874292, "level": 4}
+{"count": 40, "name": "GLEEP", "weight": 0.0, "id": 2777063591, "level": 4}
+{"count": 48, "name": "Neutron-velocity selector", "weight": 0.0, "id": 2776845032, "level": 4}
+{"count": 167, "name": "(n-p) reaction", "weight": 0.0, "id": 2778345957, "level": 4}
+{"count": 50, "name": "Thermal-neutron reactor", "weight": 0.0, "id": 2780827424, "level": 4}
+{"count": 26, "name": "Dynamic Albedo of Neutrons", "weight": 0.0, "id": 2780692664, "level": 4}
+{"count": 147, "name": "Neutron research facility", "weight": 0.0, "id": 2778530028, "level": 4}

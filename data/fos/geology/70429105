@@ -1,0 +1,16 @@
+{"count": 3940, "name": "Data grid", "weight": 3.0, "id": 147639290, "level": 4}
+{"count": 527, "name": "High-throughput computing", "weight": 0.0, "id": 2777342687, "level": 4}
+{"count": 2842, "name": "Data-intensive computing", "weight": 2.0, "id": 76831024, "level": 4}
+{"count": 10283, "name": "Semantic grid", "weight": 10.0, "id": 103692084, "level": 4}
+{"count": 349, "name": "Access Grid", "weight": 0.0, "id": 2776665134, "level": 4}
+{"count": 405, "name": "GridFTP", "weight": 0.0, "id": 2778425280, "level": 4}
+{"count": 421, "name": "Storage Resource Broker", "weight": 0.0, "id": 127836192, "level": 4}
+{"count": 278, "name": "TeraGrid", "weight": 0.0, "id": 2781364296, "level": 4}
+{"count": 1677, "name": "Grid file", "weight": 1.0, "id": 197148329, "level": 4}
+{"count": 1949, "name": "Unconventional computing", "weight": 1.0, "id": 23375383, "level": 4}
+{"count": 117, "name": "Meta-scheduling", "weight": 0.0, "id": 2779709462, "level": 4}
+{"count": 115, "name": "GridRPC", "weight": 0.0, "id": 2777118314, "level": 4}
+{"count": 155, "name": "Wireless grid", "weight": 0.0, "id": 2780427151, "level": 4}
+{"count": 48, "name": "OurGrid", "weight": 0.0, "id": 2780960125, "level": 4}
+{"count": 33, "name": "Neurogrid", "weight": 0.0, "id": 2780795014, "level": 4}
+{"count": 121, "name": "Worldwide LHC Computing Grid", "weight": 0.0, "id": 2779265903, "level": 4}

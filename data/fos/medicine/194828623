@@ -1,0 +1,36 @@
+{"count": 91251, "name": "Emergency department", "weight": 10.0, "id": 2780724011, "level": 2}
+{"count": 19880, "name": "Triage", "weight": 2.0, "id": 2777120189, "level": 2}
+{"count": 18469, "name": "Emergency medical services", "weight": 2.0, "id": 545288138, "level": 2}
+{"count": 19606, "name": "Fire protection", "weight": 2.0, "id": 122156500, "level": 2}
+{"count": 13960, "name": "First aid", "weight": 1.0, "id": 2778897197, "level": 2}
+{"count": 6469, "name": "Medical malpractice", "weight": 0.0, "id": 514090530, "level": 2}
+{"count": 1923, "name": "First responder", "weight": 0.0, "id": 2776987312, "level": 2}
+{"count": 4513, "name": "Polytrauma", "weight": 0.0, "id": 2776692886, "level": 2}
+{"count": 4662, "name": "Major trauma", "weight": 0.0, "id": 2777914111, "level": 2}
+{"count": 3243, "name": "Hospital readmission", "weight": 0.0, "id": 2776644030, "level": 2}
+{"count": 9354, "name": "Community hospital", "weight": 1.0, "id": 2779861157, "level": 2}
+{"count": 2252, "name": "Hospital medicine", "weight": 0.0, "id": 2780358146, "level": 2}
+{"count": 1377, "name": "Chest injury", "weight": 0.0, "id": 2779890223, "level": 2}
+{"count": 429, "name": "Rapid response system", "weight": 0.0, "id": 2779719885, "level": 2}
+{"count": 532, "name": "Mass gathering", "weight": 0.0, "id": 2780356881, "level": 2}
+{"count": 4876, "name": "Dispensary", "weight": 0.0, "id": 2775959389, "level": 2}
+{"count": 959, "name": "Trauma team", "weight": 0.0, "id": 2776275425, "level": 2}
+{"count": 306, "name": "General Hospital Psychiatry", "weight": 0.0, "id": 2777964078, "level": 2}
+{"count": 718, "name": "Operating room management", "weight": 0.0, "id": 117751175, "level": 2}
+{"count": 401, "name": "Medical toxicology", "weight": 0.0, "id": 2780985462, "level": 2}
+{"count": 153, "name": "International emergency medicine", "weight": 0.0, "id": 2778025750, "level": 2}
+{"count": 171, "name": "Mass casualty event", "weight": 0.0, "id": 2779447095, "level": 2}
+{"count": 353, "name": "House call", "weight": 0.0, "id": 2780344846, "level": 2}
+{"count": 256, "name": "Dental emergency", "weight": 0.0, "id": 2781038870, "level": 2}
+{"count": 310, "name": "Doctor's office", "weight": 0.0, "id": 2776570324, "level": 2}
+{"count": 80, "name": "Crash cart", "weight": 0.0, "id": 2780052777, "level": 2}
+{"count": 167, "name": "Walk-in clinic", "weight": 0.0, "id": 2776504955, "level": 2}
+{"count": 24, "name": "Newborn transport", "weight": 0.0, "id": 2776536122, "level": 2}
+{"count": 20, "name": "Medical Orders for Life-Sustaining Treatment", "weight": 0.0, "id": 2780259122, "level": 2}
+{"count": 7, "name": "Outdoor Emergency Care", "weight": 0.0, "id": 2779704930, "level": 2}
+{"count": 2, "name": "Blind insertion airway device", "weight": 0.0, "id": 2780903954, "level": 2}
+{"count": 2, "name": "Paramedics in Germany", "weight": 0.0, "id": 2781250104, "level": 2}
+{"count": 3, "name": "Casualty movement", "weight": 0.0, "id": 2777581310, "level": 2}
+{"count": 11, "name": "Flight medic", "weight": 0.0, "id": 2777819146, "level": 2}
+{"count": 18, "name": "FP-C", "weight": 0.0, "id": 2777391377, "level": 2}
+{"count": 12, "name": "Paramedics in the United States", "weight": 0.0, "id": 2779542436, "level": 2}

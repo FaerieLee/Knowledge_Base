@@ -1,0 +1,97 @@
+{"count": 7239, "name": "Adverse selection", "weight": 1.0, "id": 32252159, "level": 2}
+{"count": 25792, "name": "Bankruptcy", "weight": 4.0, "id": 504631918, "level": 2}
+{"count": 4103, "name": "Deposit insurance", "weight": 0.0, "id": 2777817046, "level": 2}
+{"count": 59368, "name": "Liability", "weight": 10.0, "id": 2777834853, "level": 2}
+{"count": 9108, "name": "Social insurance", "weight": 1.0, "id": 2779282124, "level": 2}
+{"count": 43450, "name": "Pension", "weight": 7.0, "id": 2780899237, "level": 2}
+{"count": 13753, "name": "Creditor", "weight": 2.0, "id": 159091798, "level": 2}
+{"count": 10368, "name": "Financial plan", "weight": 1.0, "id": 70179600, "level": 2}
+{"count": 6300, "name": "Limited liability", "weight": 1.0, "id": 141570072, "level": 2}
+{"count": 21548, "name": "Insurance policy", "weight": 3.0, "id": 68799949, "level": 2}
+{"count": 11729, "name": "Insolvency", "weight": 1.0, "id": 4163816, "level": 2}
+{"count": 18512, "name": "Tort", "weight": 3.0, "id": 200635333, "level": 2}
+{"count": 3918, "name": "Personal injury", "weight": 0.0, "id": 2779412353, "level": 2}
+{"count": 7130, "name": "Solvency", "weight": 1.0, "id": 2778215004, "level": 2}
+{"count": 123, "name": "Chain-ladder method", "weight": 0.0, "id": 2776480423, "level": 2}
+{"count": 3497, "name": "Indemnity", "weight": 0.0, "id": 2779785115, "level": 2}
+{"count": 4497, "name": "Annuity (American)", "weight": 0.0, "id": 189039164, "level": 2}
+{"count": 2386, "name": "Letter of credit", "weight": 0.0, "id": 2780232260, "level": 2}
+{"count": 4200, "name": "Reinsurance", "weight": 0.0, "id": 166970017, "level": 2}
+{"count": 2352, "name": "Retirement planning", "weight": 0.0, "id": 2778002999, "level": 2}
+{"count": 1499, "name": "Life table", "weight": 0.0, "id": 56479603, "level": 2}
+{"count": 493, "name": "CRESTA", "weight": 0.0, "id": 2781186623, "level": 2}
+{"count": 6939, "name": "Underwriting", "weight": 1.0, "id": 26503482, "level": 2}
+{"count": 1890, "name": "Lump sum", "weight": 0.0, "id": 2778054917, "level": 2}
+{"count": 1057, "name": "Survey of Income and Program Participation", "weight": 0.0, "id": 2776099370, "level": 2}
+{"count": 1835, "name": "Uniform Commercial Code", "weight": 0.0, "id": 2776893234, "level": 2}
+{"count": 3778, "name": "Accounts payable", "weight": 0.0, "id": 162078301, "level": 2}
+{"count": 2322, "name": "Estate planning", "weight": 0.0, "id": 2778920669, "level": 2}
+{"count": 1686, "name": "National Insurance", "weight": 0.0, "id": 2776868930, "level": 2}
+{"count": 1534, "name": "Disability benefits", "weight": 0.0, "id": 2779183276, "level": 2}
+{"count": 953, "name": "Reverse mortgage", "weight": 0.0, "id": 2779967097, "level": 2}
+{"count": 1106, "name": "Securities fraud", "weight": 0.0, "id": 2776801101, "level": 2}
+{"count": 921, "name": "Mandatory retirement", "weight": 0.0, "id": 2781096511, "level": 2}
+{"count": 205, "name": "Weather insurance", "weight": 0.0, "id": 2776687869, "level": 2}
+{"count": 2546, "name": "Surety", "weight": 0.0, "id": 112951243, "level": 2}
+{"count": 506, "name": "Deferred compensation", "weight": 0.0, "id": 2780875065, "level": 2}
+{"count": 16515, "name": "General insurance", "weight": 2.0, "id": 14293393, "level": 2}
+{"count": 1058, "name": "Subrogation", "weight": 0.0, "id": 121062744, "level": 2}
+{"count": 708, "name": "Unit trust", "weight": 0.0, "id": 80099950, "level": 2}
+{"count": 521, "name": "Rate making", "weight": 0.0, "id": 2780592368, "level": 2}
+{"count": 1826, "name": "Deductible", "weight": 0.0, "id": 2776829726, "level": 2}
+{"count": 1509, "name": "Settlor", "weight": 0.0, "id": 53858194, "level": 2}
+{"count": 866, "name": "Trust law", "weight": 0.0, "id": 2777480472, "level": 2}
+{"count": 4250, "name": "Mortgage insurance", "weight": 0.0, "id": 97330809, "level": 2}
+{"count": 347, "name": "Actuarial present value", "weight": 0.0, "id": 83696554, "level": 2}
+{"count": 585, "name": "Constructive trust", "weight": 0.0, "id": 151232837, "level": 2}
+{"count": 585, "name": "Asset protection", "weight": 0.0, "id": 2780525449, "level": 2}
+{"count": 731, "name": "Rescission", "weight": 0.0, "id": 2780720752, "level": 2}
+{"count": 210, "name": "Chattel mortgage", "weight": 0.0, "id": 130983068, "level": 2}
+{"count": 467, "name": "National Compensation Survey", "weight": 0.0, "id": 158107759, "level": 2}
+{"count": 202, "name": "Insurable risk", "weight": 0.0, "id": 52197146, "level": 2}
+{"count": 775, "name": "Actuary", "weight": 0.0, "id": 2777014519, "level": 2}
+{"count": 280, "name": "Community rating", "weight": 0.0, "id": 2778820307, "level": 2}
+{"count": 353, "name": "Future interests", "weight": 0.0, "id": 2781133593, "level": 2}
+{"count": 601, "name": "American rule", "weight": 0.0, "id": 80964368, "level": 2}
+{"count": 274, "name": "Bonus-malus", "weight": 0.0, "id": 2776313976, "level": 2}
+{"count": 238, "name": "Court costs", "weight": 0.0, "id": 2776731814, "level": 2}
+{"count": 312, "name": "Recoupment", "weight": 0.0, "id": 2779699254, "level": 2}
+{"count": 180, "name": "Risk retention group", "weight": 0.0, "id": 28888115, "level": 2}
+{"count": 329, "name": "Expense account", "weight": 0.0, "id": 95987869, "level": 2}
+{"count": 216, "name": "Medicare fraud", "weight": 0.0, "id": 2779973942, "level": 2}
+{"count": 84, "name": "Co-insurance", "weight": 0.0, "id": 2775843471, "level": 2}
+{"count": 74, "name": "Restatement (Second) of Contracts", "weight": 0.0, "id": 2780702748, "level": 2}
+{"count": 172, "name": "IAS 19", "weight": 0.0, "id": 2777209669, "level": 2}
+{"count": 72, "name": "Tequesta", "weight": 0.0, "id": 2780818112, "level": 2}
+{"count": 156, "name": "Disability Living Allowance", "weight": 0.0, "id": 2776478984, "level": 2}
+{"count": 99, "name": "Attendance Allowance", "weight": 0.0, "id": 2777205846, "level": 2}
+{"count": 67, "name": "McCarran\u2013Ferguson Act", "weight": 0.0, "id": 2780138845, "level": 2}
+{"count": 14471, "name": "Key person insurance", "weight": 2.0, "id": 29513703, "level": 2}
+{"count": 77, "name": "Quasi-contract", "weight": 0.0, "id": 2779423855, "level": 2}
+{"count": 129, "name": "Mortgage law", "weight": 0.0, "id": 2779036012, "level": 2}
+{"count": 93, "name": "Deed of trust", "weight": 0.0, "id": 2779979418, "level": 2}
+{"count": 53, "name": "Equity of redemption", "weight": 0.0, "id": 2780308368, "level": 2}
+{"count": 38, "name": "Bridge bank", "weight": 0.0, "id": 2777812465, "level": 2}
+{"count": 28, "name": "Participation certificate", "weight": 0.0, "id": 2781214586, "level": 2}
+{"count": 30, "name": "Retained interest", "weight": 0.0, "id": 2778859363, "level": 2}
+{"count": 195, "name": "Extended coverage", "weight": 0.0, "id": 2777093088, "level": 2}
+{"count": 24, "name": "Aleatory contract", "weight": 0.0, "id": 2775968835, "level": 2}
+{"count": 40, "name": "War risk insurance", "weight": 0.0, "id": 2776950883, "level": 2}
+{"count": 76, "name": "Finance charge", "weight": 0.0, "id": 2775937846, "level": 2}
+{"count": 38, "name": "Segregated fund", "weight": 0.0, "id": 2778449706, "level": 2}
+{"count": 735, "name": "Constructive fraud", "weight": 0.0, "id": 92956704, "level": 2}
+{"count": 68, "name": "Risk of ruin", "weight": 0.0, "id": 2781455106, "level": 2}
+{"count": 85, "name": "Adjusted basis", "weight": 0.0, "id": 2777157970, "level": 2}
+{"count": 23, "name": "Attorney's fee", "weight": 0.0, "id": 2778737534, "level": 2}
+{"count": 12, "name": "Asset retirement obligation", "weight": 0.0, "id": 2780966278, "level": 2}
+{"count": 9, "name": "Actuarial control cycle", "weight": 0.0, "id": 2778752870, "level": 2}
+{"count": 10, "name": "Net premium valuation", "weight": 0.0, "id": 2775840738, "level": 2}
+{"count": 16, "name": "Utility ratemaking", "weight": 0.0, "id": 2780117310, "level": 2}
+{"count": 1, "name": "Hattendorf's theorem", "weight": 0.0, "id": 2777276354, "level": 2}
+{"count": 5, "name": "de Moivre's law", "weight": 0.0, "id": 169649730, "level": 2}
+{"count": 40, "name": "Cost of raising a child", "weight": 0.0, "id": 2780834584, "level": 2}
+{"count": 13, "name": "Installment note", "weight": 0.0, "id": 2777739716, "level": 2}
+{"count": 12, "name": "Asset/liability modeling", "weight": 0.0, "id": 2776294559, "level": 2}
+{"count": 12, "name": "SIMPLE IRA", "weight": 0.0, "id": 2780378763, "level": 2}
+{"count": 2, "name": "Accidental death and dismemberment insurance", "weight": 0.0, "id": 2776065647, "level": 2}
+{"count": 18, "name": "Keogh Plan", "weight": 0.0, "id": 2777351553, "level": 2}

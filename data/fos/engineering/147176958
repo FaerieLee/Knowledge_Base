@@ -1,0 +1,200 @@
+{"count": 158871, "name": "Land use", "weight": 2.0, "id": 4792198, "level": 2}
+{"count": 599594, "name": "Beam (structure)", "weight": 10.0, "id": 168834538, "level": 2}
+{"count": 54612, "name": "Economic impact analysis", "weight": 0.0, "id": 188897, "level": 2}
+{"count": 106244, "name": "Urban planning", "weight": 1.0, "id": 49545453, "level": 2}
+{"count": 47958, "name": "Traffic flow", "weight": 0.0, "id": 13951911, "level": 2}
+{"count": 28458, "name": "Traffic congestion", "weight": 0.0, "id": 2779888511, "level": 2}
+{"count": 59675, "name": "Penetration (firestop)", "weight": 0.0, "id": 104493866, "level": 2}
+{"count": 35365, "name": "Transportation planning", "weight": 0.0, "id": 39118121, "level": 2}
+{"count": 33523, "name": "Intelligent transportation system", "weight": 0.0, "id": 47796450, "level": 2}
+{"count": 32968, "name": "Construction management", "weight": 0.0, "id": 117110933, "level": 2}
+{"count": 22977, "name": "Induced seismicity", "weight": 0.0, "id": 83176761, "level": 2}
+{"count": 16915, "name": "Travel behavior", "weight": 0.0, "id": 144072006, "level": 2}
+{"count": 16904, "name": "Building material", "weight": 0.0, "id": 2780028911, "level": 2}
+{"count": 18131, "name": "Slope stability", "weight": 0.0, "id": 110069353, "level": 2}
+{"count": 25306, "name": "Built environment", "weight": 0.0, "id": 148803439, "level": 2}
+{"count": 20505, "name": "Seismic analysis", "weight": 0.0, "id": 182358397, "level": 2}
+{"count": 9971, "name": "Hydraulic engineering", "weight": 0.0, "id": 7879346, "level": 2}
+{"count": 15000, "name": "Level of service", "weight": 0.0, "id": 58037377, "level": 2}
+{"count": 17796, "name": "Dynamic load testing", "weight": 0.0, "id": 12839126, "level": 2}
+{"count": 15288, "name": "Building design", "weight": 0.0, "id": 190831278, "level": 2}
+{"count": 30611, "name": "Framing (construction)", "weight": 0.0, "id": 169087156, "level": 2}
+{"count": 32002, "name": "Pedestrian", "weight": 0.0, "id": 2777113093, "level": 2}
+{"count": 15921, "name": "Traffic engineering", "weight": 0.0, "id": 16160715, "level": 2}
+{"count": 8742, "name": "Integrated design", "weight": 0.0, "id": 2778588580, "level": 2}
+{"count": 16168, "name": "Public housing", "weight": 0.0, "id": 533584247, "level": 2}
+{"count": 6350, "name": "Urban economics", "weight": 0.0, "id": 145940883, "level": 2}
+{"count": 19606, "name": "Fire protection", "weight": 0.0, "id": 122156500, "level": 2}
+{"count": 51850, "name": "Arch", "weight": 0.0, "id": 11312509, "level": 2}
+{"count": 8213, "name": "Annulus (firestop)", "weight": 0.0, "id": 71952513, "level": 2}
+{"count": 18734, "name": "Zoning", "weight": 0.0, "id": 520944541, "level": 2}
+{"count": 13091, "name": "Landscape architecture", "weight": 0.0, "id": 205845201, "level": 2}
+{"count": 13053, "name": "Seismic hazard", "weight": 0.0, "id": 69361100, "level": 2}
+{"count": 11623, "name": "Spatial planning", "weight": 0.0, "id": 2776873942, "level": 2}
+{"count": 93515, "name": "Bay", "weight": 1.0, "id": 115880899, "level": 2}
+{"count": 23009, "name": "Pier", "weight": 0.0, "id": 157892014, "level": 2}
+{"count": 8480, "name": "Seismogram", "weight": 0.0, "id": 169744125, "level": 2}
+{"count": 13629, "name": "Structural load", "weight": 0.0, "id": 126950237, "level": 2}
+{"count": 21419, "name": "Rock mass classification", "weight": 0.0, "id": 41242791, "level": 2}
+{"count": 7805, "name": "Epicenter", "weight": 0.0, "id": 60859754, "level": 2}
+{"count": 17784, "name": "Subdivision", "weight": 0.0, "id": 143392562, "level": 2}
+{"count": 10726, "name": "Aftershock", "weight": 0.0, "id": 156801008, "level": 2}
+{"count": 65833, "name": "Brick", "weight": 1.0, "id": 154226666, "level": 2}
+{"count": 32346, "name": "Truss", "weight": 0.0, "id": 173534245, "level": 2}
+{"count": 8603, "name": "Highway engineering", "weight": 0.0, "id": 160487506, "level": 2}
+{"count": 5815, "name": "Air entrainment", "weight": 0.0, "id": 8038842, "level": 2}
+{"count": 6306, "name": "Earthquake prediction", "weight": 0.0, "id": 11097651, "level": 2}
+{"count": 11143, "name": "Basement", "weight": 0.0, "id": 2781297371, "level": 2}
+{"count": 4541, "name": "Site analysis", "weight": 0.0, "id": 86085837, "level": 2}
+{"count": 5729, "name": "Earthworks", "weight": 0.0, "id": 156945495, "level": 2}
+{"count": 7312, "name": "Sound transmission class", "weight": 0.0, "id": 152781226, "level": 2}
+{"count": 10665, "name": "Interior design", "weight": 0.0, "id": 173560066, "level": 2}
+{"count": 3277, "name": "Hypocenter", "weight": 0.0, "id": 111357193, "level": 2}
+{"count": 9747, "name": "Seismometer", "weight": 0.0, "id": 119217923, "level": 2}
+{"count": 3562, "name": "Transport economics", "weight": 0.0, "id": 168500671, "level": 2}
+{"count": 7782, "name": "Landscaping", "weight": 0.0, "id": 174801256, "level": 2}
+{"count": 13794, "name": "Retaining wall", "weight": 0.0, "id": 2780933643, "level": 2}
+{"count": 3643, "name": "Trip generation", "weight": 0.0, "id": 2778226110, "level": 2}
+{"count": 5509, "name": "Environmental design", "weight": 0.0, "id": 83854009, "level": 2}
+{"count": 10510, "name": "Surveyor", "weight": 0.0, "id": 23588892, "level": 2}
+{"count": 4575, "name": "Geosynthetics", "weight": 0.0, "id": 2778491893, "level": 2}
+{"count": 9304, "name": "Wind engineering", "weight": 0.0, "id": 145690102, "level": 2}
+{"count": 113810, "name": "Roof", "weight": 1.0, "id": 2776748203, "level": 2}
+{"count": 6305, "name": "Building envelope", "weight": 0.0, "id": 196803488, "level": 2}
+{"count": 9602, "name": "Residential area", "weight": 0.0, "id": 2776825979, "level": 2}
+{"count": 5663, "name": "Microsimulation", "weight": 0.0, "id": 2780015235, "level": 2}
+{"count": 2227, "name": "Location theory", "weight": 0.0, "id": 75586009, "level": 2}
+{"count": 8986, "name": "Seismic loading", "weight": 0.0, "id": 123060433, "level": 2}
+{"count": 12607, "name": "Duplex (building)", "weight": 0.0, "id": 99611785, "level": 2}
+{"count": 8400, "name": "Speed limit", "weight": 0.0, "id": 2780210587, "level": 2}
+{"count": 16630, "name": "Glazing", "weight": 0.0, "id": 53559285, "level": 2}
+{"count": 1771, "name": "Vestibule", "weight": 0.0, "id": 452148, "level": 2}
+{"count": 1572, "name": "Earthquake location", "weight": 0.0, "id": 2780937219, "level": 2}
+{"count": 2454, "name": "Geotechnics", "weight": 0.0, "id": 93907247, "level": 2}
+{"count": 13392, "name": "Landscape design", "weight": 0.0, "id": 108865711, "level": 2}
+{"count": 24064, "name": "Apartment", "weight": 0.0, "id": 2779265402, "level": 2}
+{"count": 3806, "name": "Public consultation", "weight": 0.0, "id": 2780402928, "level": 2}
+{"count": 37171, "name": "Abutment", "weight": 0.0, "id": 48777230, "level": 2}
+{"count": 7065, "name": "Affordable housing", "weight": 0.0, "id": 2777663346, "level": 2}
+{"count": 11917, "name": "Demolition", "weight": 0.0, "id": 2781469121, "level": 2}
+{"count": 17796, "name": "Facade", "weight": 0.0, "id": 2780113678, "level": 2}
+{"count": 6321, "name": "Gentrification", "weight": 0.0, "id": 2777554338, "level": 2}
+{"count": 27832, "name": "Barn", "weight": 0.0, "id": 2780883654, "level": 2}
+{"count": 16051, "name": "Structural system", "weight": 0.0, "id": 88282795, "level": 2}
+{"count": 4588, "name": "Prefabrication", "weight": 0.0, "id": 40011592, "level": 2}
+{"count": 11707, "name": "Serviceability (structure)", "weight": 0.0, "id": 110245778, "level": 2}
+{"count": 7810, "name": "Railway engineering", "weight": 0.0, "id": 139450603, "level": 2}
+{"count": 7018, "name": "Transport network", "weight": 0.0, "id": 2778711553, "level": 2}
+{"count": 1580, "name": "Project engineering", "weight": 0.0, "id": 2777719784, "level": 2}
+{"count": 2472, "name": "Toll road", "weight": 0.0, "id": 2778636371, "level": 2}
+{"count": 19038, "name": "Occupancy", "weight": 0.0, "id": 160331591, "level": 2}
+{"count": 12422, "name": "Waterproofing", "weight": 0.0, "id": 2777589630, "level": 2}
+{"count": 3641, "name": "Building code", "weight": 0.0, "id": 2777212017, "level": 2}
+{"count": 16727, "name": "Chimney", "weight": 0.0, "id": 12994181, "level": 2}
+{"count": 2633, "name": "Progressive collapse", "weight": 0.0, "id": 2780185282, "level": 2}
+{"count": 1661, "name": "Sanitary engineering", "weight": 0.0, "id": 63809698, "level": 2}
+{"count": 2290, "name": "Land transport", "weight": 0.0, "id": 2780934355, "level": 2}
+{"count": 16116, "name": "Formwork", "weight": 0.0, "id": 2778684775, "level": 2}
+{"count": 8900, "name": "Caisson", "weight": 0.0, "id": 153457625, "level": 2}
+{"count": 1018, "name": "Shared space", "weight": 0.0, "id": 2777311342, "level": 2}
+{"count": 21450, "name": "Excavator", "weight": 0.0, "id": 141392084, "level": 2}
+{"count": 2727, "name": "Space syntax", "weight": 0.0, "id": 2777103068, "level": 2}
+{"count": 3032, "name": "Urban culture", "weight": 0.0, "id": 2778985780, "level": 2}
+{"count": 9070, "name": "Earthquake shaking table", "weight": 0.0, "id": 149007308, "level": 2}
+{"count": 12921, "name": "Redevelopment", "weight": 0.0, "id": 2780155792, "level": 2}
+{"count": 24614, "name": "Renting", "weight": 0.0, "id": 85502023, "level": 2}
+{"count": 2388, "name": "Participatory planning", "weight": 0.0, "id": 2780915742, "level": 2}
+{"count": 2255, "name": "Traffic calming", "weight": 0.0, "id": 2777773042, "level": 2}
+{"count": 8802, "name": "Stairs", "weight": 0.0, "id": 2777295749, "level": 2}
+{"count": 4556, "name": "Fiberboard", "weight": 0.0, "id": 2776177134, "level": 2}
+{"count": 6604, "name": "Operating speed", "weight": 0.0, "id": 2778491610, "level": 2}
+{"count": 9810, "name": "Expansion joint", "weight": 0.0, "id": 113024971, "level": 2}
+{"count": 2188, "name": "Design\u2013build", "weight": 0.0, "id": 2778201535, "level": 2}
+{"count": 3982, "name": "Seismic noise", "weight": 0.0, "id": 30947920, "level": 2}
+{"count": 78284, "name": "Tower", "weight": 1.0, "id": 2777831296, "level": 2}
+{"count": 6016, "name": "Headway", "weight": 0.0, "id": 2779240695, "level": 2}
+{"count": 8278, "name": "Air permeability specific surface", "weight": 0.0, "id": 114932410, "level": 2}
+{"count": 7884, "name": "Limit state design", "weight": 0.0, "id": 16995789, "level": 2}
+{"count": 3309, "name": "Construction waste", "weight": 0.0, "id": 2776253312, "level": 2}
+{"count": 4531, "name": "Pavement management", "weight": 0.0, "id": 2780996376, "level": 2}
+{"count": 3681, "name": "Overtaking", "weight": 0.0, "id": 2778448659, "level": 2}
+{"count": 3657, "name": "Cofferdam", "weight": 0.0, "id": 198519607, "level": 2}
+{"count": 9789, "name": "Parking lot", "weight": 0.0, "id": 2777427512, "level": 2}
+{"count": 2692, "name": "Soil nailing", "weight": 0.0, "id": 201878434, "level": 2}
+{"count": 1297, "name": "Moment distribution method", "weight": 0.0, "id": 156262857, "level": 2}
+{"count": 2477, "name": "Trenchless technology", "weight": 0.0, "id": 532881642, "level": 2}
+{"count": 7303, "name": "Adobe", "weight": 0.0, "id": 2777261232, "level": 2}
+{"count": 1868, "name": "Design speed", "weight": 0.0, "id": 2779593531, "level": 2}
+{"count": 900, "name": "Tremie", "weight": 0.0, "id": 168552380, "level": 2}
+{"count": 6858, "name": "City centre", "weight": 0.0, "id": 2779201158, "level": 2}
+{"count": 3117, "name": "Urban rail transit", "weight": 0.0, "id": 2780434240, "level": 2}
+{"count": 5311, "name": "Control room", "weight": 0.0, "id": 2779697362, "level": 2}
+{"count": 1463, "name": "Ferrocement", "weight": 0.0, "id": 2778630250, "level": 2}
+{"count": 1558, "name": "Portico", "weight": 0.0, "id": 109902967, "level": 2}
+{"count": 1143, "name": "NIMBY", "weight": 0.0, "id": 2780574316, "level": 2}
+{"count": 17181, "name": "Road surface", "weight": 0.0, "id": 2780042925, "level": 2}
+{"count": 3994, "name": "Skyline", "weight": 0.0, "id": 2780757406, "level": 2}
+{"count": 2396, "name": "Design load", "weight": 0.0, "id": 191339014, "level": 2}
+{"count": 3561, "name": "Base course", "weight": 0.0, "id": 578319, "level": 2}
+{"count": 3377, "name": "Fireproofing", "weight": 0.0, "id": 94422084, "level": 2}
+{"count": 1379, "name": "Ring road", "weight": 0.0, "id": 2778360411, "level": 2}
+{"count": 3802, "name": "Mineral wool", "weight": 0.0, "id": 2777800518, "level": 2}
+{"count": 2048, "name": "Urbanity", "weight": 0.0, "id": 2778451013, "level": 2}
+{"count": 7339, "name": "Tunnel construction", "weight": 0.0, "id": 2778906150, "level": 2}
+{"count": 2831, "name": "Crushed stone", "weight": 0.0, "id": 2778568124, "level": 2}
+{"count": 5778, "name": "Unit (housing)", "weight": 0.0, "id": 4159476, "level": 2}
+{"count": 1098, "name": "Rush hour", "weight": 0.0, "id": 2777579922, "level": 2}
+{"count": 2510, "name": "Particle board", "weight": 0.0, "id": 64469212, "level": 2}
+{"count": 9386, "name": "Development plan", "weight": 0.0, "id": 2776774022, "level": 2}
+{"count": 1084, "name": "Oriented strand board", "weight": 0.0, "id": 64287253, "level": 2}
+{"count": 4971, "name": "Attic", "weight": 0.0, "id": 203115093, "level": 2}
+{"count": 1585, "name": "New Austrian Tunnelling method", "weight": 0.0, "id": 178595277, "level": 2}
+{"count": 17665, "name": "Underpinning", "weight": 0.0, "id": 2780871342, "level": 2}
+{"count": 1854, "name": "Road traffic safety", "weight": 0.0, "id": 2777636896, "level": 2}
+{"count": 921, "name": "Sector model", "weight": 0.0, "id": 136710728, "level": 2}
+{"count": 1729, "name": "Microtremor", "weight": 0.0, "id": 122205909, "level": 2}
+{"count": 1944, "name": "Parapet", "weight": 0.0, "id": 54087482, "level": 2}
+{"count": 1276, "name": "City block", "weight": 0.0, "id": 8364947, "level": 2}
+{"count": 1485, "name": "Autoclaved aerated concrete", "weight": 0.0, "id": 2781052401, "level": 2}
+{"count": 459, "name": "On-time performance", "weight": 0.0, "id": 2780836475, "level": 2}
+{"count": 3366, "name": "Derailment", "weight": 0.0, "id": 197090313, "level": 2}
+{"count": 9304, "name": "Backflow", "weight": 0.0, "id": 120168410, "level": 2}
+{"count": 1154, "name": "Adaptive reuse", "weight": 0.0, "id": 2776809989, "level": 2}
+{"count": 1654, "name": "Municipal or urban engineering", "weight": 0.0, "id": 171834893, "level": 2}
+{"count": 1708, "name": "Ponding", "weight": 0.0, "id": 55399452, "level": 2}
+{"count": 956, "name": "National Cooperative Highway Research Program", "weight": 0.0, "id": 2777770772, "level": 2}
+{"count": 3279, "name": "Rational planning model", "weight": 0.0, "id": 36375443, "level": 2}
+{"count": 25200, "name": "Reducer", "weight": 0.0, "id": 2776985865, "level": 2}
+{"count": 528, "name": "Slugging", "weight": 0.0, "id": 2780934780, "level": 2}
+{"count": 589, "name": "Gravel road", "weight": 0.0, "id": 2777891025, "level": 2}
+{"count": 2613, "name": "Rock bolt", "weight": 0.0, "id": 179974421, "level": 2}
+{"count": 2741, "name": "Geotechnical investigation", "weight": 0.0, "id": 93011207, "level": 2}
+{"count": 2075, "name": "Wood-plastic composite", "weight": 0.0, "id": 2781441102, "level": 2}
+{"count": 2907, "name": "Carriageway", "weight": 0.0, "id": 2779184092, "level": 2}
+{"count": 693, "name": "Geomatics engineering", "weight": 0.0, "id": 1511901, "level": 2}
+{"count": 1243, "name": "Penetrant (mechanical, electrical, or structural)", "weight": 0.0, "id": 173215773, "level": 2}
+{"count": 5726, "name": "Rubble", "weight": 0.0, "id": 2777929537, "level": 2}
+{"count": 3792, "name": "Cavity wall", "weight": 0.0, "id": 85582831, "level": 2}
+{"count": 1617, "name": "Housing estate", "weight": 0.0, "id": 2778647717, "level": 2}
+{"count": 369, "name": "Induced demand", "weight": 0.0, "id": 2779577822, "level": 2}
+{"count": 1809, "name": "Beautification", "weight": 0.0, "id": 2777972131, "level": 2}
+{"count": 628, "name": "Earth structure", "weight": 0.0, "id": 2777084502, "level": 2}
+{"count": 1044, "name": "Rammed earth", "weight": 0.0, "id": 2781315196, "level": 2}
+{"count": 4413, "name": "Wharf", "weight": 0.0, "id": 2780410566, "level": 2}
+{"count": 992, "name": "AASHO Road Test", "weight": 0.0, "id": 203312195, "level": 2}
+{"count": 4385, "name": "Infill", "weight": 0.0, "id": 2781219549, "level": 2}
+{"count": 2338, "name": "Carpentry", "weight": 0.0, "id": 526757652, "level": 2}
+{"count": 1582, "name": "City region", "weight": 0.0, "id": 2778603423, "level": 2}
+{"count": 777, "name": "Floor area ratio", "weight": 0.0, "id": 45840461, "level": 2}
+{"count": 6712, "name": "Jacking", "weight": 0.0, "id": 2780673593, "level": 2}
+{"count": 919, "name": "Urban theory", "weight": 0.0, "id": 2776034424, "level": 2}
+{"count": 2748, "name": "Severance", "weight": 0.0, "id": 2781039245, "level": 2}
+{"count": 1327, "name": "Schulze method", "weight": 0.0, "id": 178350558, "level": 2}
+{"count": 533, "name": "Planned community", "weight": 0.0, "id": 116250567, "level": 2}
+{"count": 869, "name": "Street furniture", "weight": 0.0, "id": 2778448628, "level": 2}
+{"count": 1093, "name": "Roadheader", "weight": 0.0, "id": 2777114184, "level": 2}
+{"count": 1549, "name": "Immersed tube", "weight": 0.0, "id": 191106390, "level": 2}
+{"count": 1435, "name": "Gridlock", "weight": 0.0, "id": 2778558725, "level": 2}
+{"count": 2569, "name": "Access management", "weight": 0.0, "id": 2778002324, "level": 2}
+{"count": 1574, "name": "Terraced house", "weight": 0.0, "id": 83874454, "level": 2}
+{"count": 4004, "name": "Monorail", "weight": 0.0, "id": 180806031, "level": 2}

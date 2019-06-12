@@ -1,0 +1,8 @@
+{"count": 2081, "name": "Connected dominating set", "weight": 8.0, "id": 37810922, "level": 3}
+{"count": 1802, "name": "Shortest-path tree", "weight": 7.0, "id": 23394520, "level": 3}
+{"count": 1972, "name": "Kruskal's algorithm", "weight": 7.0, "id": 63645285, "level": 3}
+{"count": 268, "name": "Rectilinear Steiner tree", "weight": 1.0, "id": 2777484885, "level": 3}
+{"count": 1057, "name": "Gomory\u2013Hu tree", "weight": 4.0, "id": 147517495, "level": 3}
+{"count": 1787, "name": "Minimum degree spanning tree", "weight": 7.0, "id": 64271015, "level": 3}
+{"count": 2490, "name": "Distributed minimum spanning tree", "weight": 10.0, "id": 65949645, "level": 3}
+{"count": 938, "name": "Tr\u00e9maux tree", "weight": 3.0, "id": 124302570, "level": 3}

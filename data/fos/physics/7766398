@@ -1,0 +1,20 @@
+{"count": 12662, "name": "Pulse shaping", "weight": 4.0, "id": 102755159, "level": 3}
+{"count": 10598, "name": "Pulse compression", "weight": 3.0, "id": 145995521, "level": 3}
+{"count": 22898, "name": "Pulse generator", "weight": 8.0, "id": 51319974, "level": 3}
+{"count": 12626, "name": "Pulse sequence", "weight": 4.0, "id": 182155053, "level": 3}
+{"count": 10391, "name": "Q-switching", "weight": 3.0, "id": 118742737, "level": 3}
+{"count": 7794, "name": "Pulse repetition frequency", "weight": 2.0, "id": 182862853, "level": 3}
+{"count": 28251, "name": "Pulse duration", "weight": 10.0, "id": 169150495, "level": 3}
+{"count": 891, "name": "Regenerative amplification", "weight": 0.0, "id": 2778727045, "level": 3}
+{"count": 16143, "name": "Pulse wave", "weight": 5.0, "id": 172321821, "level": 3}
+{"count": 1010, "name": "Pulse forming network", "weight": 0.0, "id": 2780868961, "level": 3}
+{"count": 648, "name": "Slowly varying envelope approximation", "weight": 0.0, "id": 97287314, "level": 3}
+{"count": 1296, "name": "Fall time", "weight": 0.0, "id": 174805032, "level": 3}
+{"count": 683, "name": "Pulse height analyzer", "weight": 0.0, "id": 2777872403, "level": 3}
+{"count": 2192, "name": "Flip angle", "weight": 0.0, "id": 28396438, "level": 3}
+{"count": 598, "name": "Pulse diagnosis", "weight": 0.0, "id": 2779591309, "level": 3}
+{"count": 155, "name": "Area theorem", "weight": 0.0, "id": 2780641402, "level": 3}
+{"count": 738, "name": "Autocorrelator", "weight": 0.0, "id": 96717886, "level": 3}
+{"count": 466, "name": "Constant fraction discriminator", "weight": 0.0, "id": 177765686, "level": 3}
+{"count": 169, "name": "Cable fault location", "weight": 0.0, "id": 2780282999, "level": 3}
+{"count": 24, "name": "Microwave auditory effect", "weight": 0.0, "id": 119455331, "level": 3}

@@ -1,0 +1,4 @@
+{"count": 44, "name": "Simple public-key infrastructure", "weight": 0.0, "id": 2780716583, "level": 5}
+{"count": 87, "name": "XKMS", "weight": 1.0, "id": 2779312905, "level": 5}
+{"count": 844, "name": "Certificate policy", "weight": 10.0, "id": 177250674, "level": 5}
+{"count": 28, "name": "Certificate transparency", "weight": 0.0, "id": 180799027, "level": 5}

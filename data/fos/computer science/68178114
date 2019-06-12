@@ -1,0 +1,8 @@
+{"count": 966, "name": "Jumbo frame", "weight": 7.0, "id": 80343307, "level": 5}
+{"count": 532, "name": "Ethernet frame", "weight": 3.0, "id": 2777935590, "level": 5}
+{"count": 21, "name": "Digital Signal 1", "weight": 0.0, "id": 106205252, "level": 5}
+{"count": 11, "name": "Digital Signal 3", "weight": 0.0, "id": 2778098640, "level": 5}
+{"count": 401, "name": "Autonegotiation", "weight": 2.0, "id": 108164733, "level": 5}
+{"count": 392, "name": "Ethernet crossover cable", "weight": 2.0, "id": 193397440, "level": 5}
+{"count": 195, "name": "Local Area Transport", "weight": 1.0, "id": 30395434, "level": 5}
+{"count": 1359, "name": "Ethernet Global Data Protocol", "weight": 10.0, "id": 92529311, "level": 5}

@@ -1,0 +1,9 @@
+{"count": 3775, "name": "One-way analysis of variance", "weight": 10.0, "id": 152587130, "level": 3}
+{"count": 816, "name": "Kruskal\u2013Wallis one-way analysis of variance", "weight": 2.0, "id": 97600891, "level": 3}
+{"count": 676, "name": "Two-way analysis of variance", "weight": 1.0, "id": 178969170, "level": 3}
+{"count": 210, "name": "MINQUE", "weight": 0.0, "id": 2779483292, "level": 3}
+{"count": 1051, "name": "Scheff\u00e9's method", "weight": 2.0, "id": 40486484, "level": 3}
+{"count": 1020, "name": "Mixed-design analysis of variance", "weight": 2.0, "id": 11545786, "level": 3}
+{"count": 24, "name": "ANOVA\u2013simultaneous component analysis", "weight": 0.0, "id": 2780858684, "level": 3}
+{"count": 529, "name": "ANOVA on ranks", "weight": 1.0, "id": 108155402, "level": 3}
+{"count": 73, "name": "Tukey's test of additivity", "weight": 0.0, "id": 86610783, "level": 3}

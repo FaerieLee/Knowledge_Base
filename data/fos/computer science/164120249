@@ -1,0 +1,5 @@
+{"count": 2291, "name": "Online aggregation", "weight": 2.0, "id": 24028149, "level": 4}
+{"count": 8842, "name": "RDF query language", "weight": 10.0, "id": 96956885, "level": 4}
+{"count": 1854, "name": "Phrase search", "weight": 2.0, "id": 37202355, "level": 4}
+{"count": 6476, "name": "Ranking (information retrieval)", "weight": 7.0, "id": 189430467, "level": 4}
+{"count": 418, "name": "Queries per second", "weight": 0.0, "id": 93540628, "level": 4}

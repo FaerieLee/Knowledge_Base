@@ -1,0 +1,4 @@
+{"count": 11438, "name": "Stuck-at fault", "weight": 9.0, "id": 13625343, "level": 3}
+{"count": 299, "name": "Intermittent fault", "weight": 0.0, "id": 2781223839, "level": 3}
+{"count": 12516, "name": "Fault indicator", "weight": 10.0, "id": 21267803, "level": 3}
+{"count": 169, "name": "Signature matrix", "weight": 0.0, "id": 2780733946, "level": 3}

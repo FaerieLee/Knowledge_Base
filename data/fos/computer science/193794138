@@ -1,0 +1,6 @@
+{"count": 2320, "name": "Source routing", "weight": 10.0, "id": 44010500, "level": 5}
+{"count": 25, "name": "Scalable Source Routing", "weight": 0.0, "id": 2778488914, "level": 5}
+{"count": 525, "name": "Split horizon route advertisement", "weight": 2.0, "id": 14390630, "level": 5}
+{"count": 477, "name": "Default route", "weight": 2.0, "id": 144002488, "level": 5}
+{"count": 1271, "name": "Route poisoning", "weight": 5.0, "id": 68224556, "level": 5}
+{"count": 227, "name": "Null route", "weight": 0.0, "id": 132850243, "level": 5}

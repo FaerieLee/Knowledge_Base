@@ -1,0 +1,37 @@
+{"count": 33945, "name": "Vorticity", "weight": 10.0, "id": 200114574, "level": 3}
+{"count": 611, "name": "Tourbillon", "weight": 0.0, "id": 3802936, "level": 3}
+{"count": 12814, "name": "Vortex shedding", "weight": 3.0, "id": 178760647, "level": 3}
+{"count": 7298, "name": "Type-II superconductor", "weight": 2.0, "id": 124932887, "level": 3}
+{"count": 9647, "name": "Vortex ring", "weight": 2.0, "id": 168475990, "level": 3}
+{"count": 4718, "name": "Optical vortex", "weight": 1.0, "id": 130404759, "level": 3}
+{"count": 3558, "name": "Delta wing", "weight": 1.0, "id": 94531399, "level": 3}
+{"count": 5520, "name": "Vortex-induced vibration", "weight": 1.0, "id": 10599892, "level": 3}
+{"count": 5516, "name": "Strouhal number", "weight": 1.0, "id": 143575951, "level": 3}
+{"count": 4403, "name": "Vortex generator", "weight": 1.0, "id": 140369647, "level": 3}
+{"count": 3521, "name": "Polar vortex", "weight": 1.0, "id": 125405218, "level": 3}
+{"count": 2441, "name": "Vortex tube", "weight": 0.0, "id": 200902532, "level": 3}
+{"count": 2166, "name": "Wake turbulence", "weight": 0.0, "id": 201923624, "level": 3}
+{"count": 691, "name": "Dust devil", "weight": 0.0, "id": 135004450, "level": 3}
+{"count": 951, "name": "Splitter plate", "weight": 0.0, "id": 2778920262, "level": 3}
+{"count": 2041, "name": "Vortex state", "weight": 0.0, "id": 2780360823, "level": 3}
+{"count": 978, "name": "Strake", "weight": 0.0, "id": 189661366, "level": 3}
+{"count": 723, "name": "Vortex lattice method", "weight": 0.0, "id": 2778715912, "level": 3}
+{"count": 135, "name": "Joukowsky transform", "weight": 0.0, "id": 78533743, "level": 3}
+{"count": 369, "name": "Lifting-line theory", "weight": 0.0, "id": 93187555, "level": 3}
+{"count": 544, "name": "Quantum turbulence", "weight": 0.0, "id": 2778577988, "level": 3}
+{"count": 509, "name": "Kutta condition", "weight": 0.0, "id": 182709274, "level": 3}
+{"count": 304, "name": "Rankine vortex", "weight": 0.0, "id": 2776208260, "level": 3}
+{"count": 372, "name": "G\u00f6rtler vortices", "weight": 0.0, "id": 2778497495, "level": 3}
+{"count": 234, "name": "F-plane", "weight": 0.0, "id": 2778677582, "level": 3}
+{"count": 88, "name": "Batchelor vortex", "weight": 0.0, "id": 2779875210, "level": 3}
+{"count": 6514, "name": "Starting vortex", "weight": 1.0, "id": 141069875, "level": 3}
+{"count": 290, "name": "GRIB", "weight": 0.0, "id": 146294872, "level": 3}
+{"count": 1468, "name": "Vortex lift", "weight": 0.0, "id": 52226264, "level": 3}
+{"count": 60, "name": "Vortex engine", "weight": 0.0, "id": 2779687364, "level": 3}
+{"count": 315, "name": "Shock stall", "weight": 0.0, "id": 142388331, "level": 3}
+{"count": 36, "name": "Kiel probe", "weight": 0.0, "id": 2779762467, "level": 3}
+{"count": 102, "name": "Absolute angular momentum", "weight": 0.0, "id": 2778225338, "level": 3}
+{"count": 47, "name": "Aeroacoustic analogy", "weight": 0.0, "id": 2780570235, "level": 3}
+{"count": 28, "name": "Kalliroscope", "weight": 0.0, "id": 2777566367, "level": 3}
+{"count": 11, "name": "Nielsen\u2013Olesen vortex", "weight": 0.0, "id": 2778703146, "level": 3}
+{"count": 32, "name": "Polariton superfluid", "weight": 0.0, "id": 2777035243, "level": 3}

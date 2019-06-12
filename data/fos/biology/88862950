@@ -1,0 +1,28 @@
+{"count": 19780, "name": "Water-use efficiency", "weight": 7.0, "id": 2776325102, "level": 3}
+{"count": 26604, "name": "Water conservation", "weight": 10.0, "id": 110158866, "level": 3}
+{"count": 16448, "name": "Drip irrigation", "weight": 6.0, "id": 152453397, "level": 3}
+{"count": 5071, "name": "Irrigation scheduling", "weight": 1.0, "id": 2777589951, "level": 3}
+{"count": 12516, "name": "Irrigation management", "weight": 4.0, "id": 112077630, "level": 3}
+{"count": 6718, "name": "Surface irrigation", "weight": 2.0, "id": 41478065, "level": 3}
+{"count": 1684, "name": "Rainfed agriculture", "weight": 0.0, "id": 2777380357, "level": 3}
+{"count": 4909, "name": "Fertigation", "weight": 1.0, "id": 167296696, "level": 3}
+{"count": 2706, "name": "Crop coefficient", "weight": 1.0, "id": 72551326, "level": 3}
+{"count": 1571, "name": "Sodium adsorption ratio", "weight": 0.0, "id": 2776332401, "level": 3}
+{"count": 3805, "name": "Reclaimed water", "weight": 1.0, "id": 2777493420, "level": 3}
+{"count": 1290, "name": "Distribution uniformity", "weight": 0.0, "id": 2779693302, "level": 3}
+{"count": 1956, "name": "Pan evaporation", "weight": 0.0, "id": 23430798, "level": 3}
+{"count": 1153, "name": "Conjunctive use", "weight": 0.0, "id": 2778247438, "level": 3}
+{"count": 1458, "name": "Water efficiency", "weight": 0.0, "id": 2776799952, "level": 3}
+{"count": 2488, "name": "Irrigation district", "weight": 0.0, "id": 2778093299, "level": 3}
+{"count": 1396, "name": "Center pivot irrigation", "weight": 0.0, "id": 201201562, "level": 3}
+{"count": 256, "name": "Qanat", "weight": 0.0, "id": 2778654236, "level": 3}
+{"count": 701, "name": "Soil moisture sensor", "weight": 0.0, "id": 2776544661, "level": 3}
+{"count": 386, "name": "Consumptive water use", "weight": 0.0, "id": 2775838554, "level": 3}
+{"count": 296, "name": "Alternate wetting and drying", "weight": 0.0, "id": 2776710514, "level": 3}
+{"count": 691, "name": "Tube well", "weight": 0.0, "id": 2778211487, "level": 3}
+{"count": 65, "name": "Treadle pump", "weight": 0.0, "id": 24114359, "level": 3}
+{"count": 804, "name": "Controller (irrigation)", "weight": 0.0, "id": 203479927, "level": 3}
+{"count": 183, "name": "Impact sprinkler", "weight": 0.0, "id": 21884096, "level": 3}
+{"count": 42, "name": "Solar-powered pump", "weight": 0.0, "id": 2776773097, "level": 3}
+{"count": 60, "name": "Acre-foot", "weight": 0.0, "id": 108013601, "level": 3}
+{"count": 9, "name": "Irrigation in Iran", "weight": 0.0, "id": 2779702995, "level": 3}

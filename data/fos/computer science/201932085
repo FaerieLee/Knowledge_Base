@@ -1,0 +1,9 @@
+{"count": 444, "name": "Fact table", "weight": 10.0, "id": 2776136876, "level": 4}
+{"count": 246, "name": "MOLAP", "weight": 5.0, "id": 2780075982, "level": 4}
+{"count": 235, "name": "ROLAP", "weight": 5.0, "id": 2777032813, "level": 4}
+{"count": 211, "name": "OLAP cube", "weight": 4.0, "id": 2780512336, "level": 4}
+{"count": 77, "name": "HOLAP", "weight": 1.0, "id": 2780531629, "level": 4}
+{"count": 26, "name": "UB-tree", "weight": 0.0, "id": 171568172, "level": 4}
+{"count": 23, "name": "Slowly changing dimension", "weight": 0.0, "id": 2778756626, "level": 4}
+{"count": 41, "name": "MultiDimensional eXpressions", "weight": 0.0, "id": 2776673625, "level": 4}
+{"count": 19, "name": "Fact constellation", "weight": 0.0, "id": 2778049122, "level": 4}

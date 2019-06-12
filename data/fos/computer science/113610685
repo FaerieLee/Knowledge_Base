@@ -1,0 +1,7 @@
+{"count": 478, "name": "Parity drive", "weight": 10.0, "id": 172271849, "level": 5}
+{"count": 318, "name": "Nested RAID levels", "weight": 6.0, "id": 140994810, "level": 5}
+{"count": 442, "name": "Disk Data Format", "weight": 9.0, "id": 59098270, "level": 5}
+{"count": 395, "name": "RAID processing unit", "weight": 8.0, "id": 70608904, "level": 5}
+{"count": 464, "name": "Non-standard RAID levels", "weight": 9.0, "id": 89004602, "level": 5}
+{"count": 318, "name": "Non-RAID drive architectures", "weight": 6.0, "id": 203422237, "level": 5}
+{"count": 192, "name": "Intel Matrix RAID", "weight": 4.0, "id": 115454934, "level": 5}

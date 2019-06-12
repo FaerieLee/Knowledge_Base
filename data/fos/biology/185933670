@@ -1,0 +1,200 @@
+{"count": 12333, "name": "Habitat destruction", "weight": 10.0, "id": 64229544, "level": 3}
+{"count": 11031, "name": "Home range", "weight": 8.0, "id": 201920390, "level": 3}
+{"count": 7470, "name": "Habitat fragmentation", "weight": 6.0, "id": 124886560, "level": 3}
+{"count": 6207, "name": "Metapopulation", "weight": 5.0, "id": 189569837, "level": 3}
+{"count": 6735, "name": "Rare species", "weight": 5.0, "id": 180395843, "level": 3}
+{"count": 1528, "name": "Local extinction", "weight": 1.0, "id": 38838508, "level": 3}
+{"count": 10346, "name": "Seagrass", "weight": 8.0, "id": 2777400808, "level": 3}
+{"count": 3508, "name": "Rocky shore", "weight": 2.0, "id": 54840010, "level": 3}
+{"count": 2925, "name": "Niche differentiation", "weight": 2.0, "id": 78991832, "level": 3}
+{"count": 1849, "name": "Ecosystem engineer", "weight": 1.0, "id": 32120771, "level": 3}
+{"count": 6567, "name": "River ecosystem", "weight": 5.0, "id": 129934472, "level": 3}
+{"count": 1418, "name": "Ground beetle", "weight": 1.0, "id": 2777512611, "level": 3}
+{"count": 1311, "name": "Landscape connectivity", "weight": 1.0, "id": 2778068638, "level": 3}
+{"count": 12080, "name": "Generalist and specialist species", "weight": 9.0, "id": 45371612, "level": 3}
+{"count": 868, "name": "Index of biological integrity", "weight": 0.0, "id": 94042126, "level": 3}
+{"count": 684, "name": "Ideal free distribution", "weight": 0.0, "id": 2777859753, "level": 3}
+{"count": 827, "name": "Large woody debris", "weight": 0.0, "id": 2781018910, "level": 3}
+{"count": 2068, "name": "Snag", "weight": 1.0, "id": 192158950, "level": 3}
+{"count": 1381, "name": "Metacommunity", "weight": 1.0, "id": 2778899818, "level": 3}
+{"count": 693, "name": "Breeding bird survey", "weight": 0.0, "id": 2776509573, "level": 3}
+{"count": 2350, "name": "Habitat conservation", "weight": 1.0, "id": 6330744, "level": 3}
+{"count": 443, "name": "Source\u2013sink dynamics", "weight": 0.0, "id": 132112856, "level": 3}
+{"count": 1434, "name": "Kelp forest", "weight": 1.0, "id": 153274386, "level": 3}
+{"count": 691, "name": "Minimum viable population", "weight": 0.0, "id": 135965604, "level": 3}
+{"count": 383, "name": "Northern spotted owl", "weight": 0.0, "id": 2777783528, "level": 3}
+{"count": 579, "name": "Species pool", "weight": 0.0, "id": 2777197057, "level": 3}
+{"count": 2639, "name": "Marine habitats", "weight": 2.0, "id": 134037308, "level": 3}
+{"count": 1327, "name": "Wildlife corridor", "weight": 1.0, "id": 24784978, "level": 3}
+{"count": 469, "name": "Road ecology", "weight": 0.0, "id": 2781364120, "level": 3}
+{"count": 1224, "name": "Umbrella species", "weight": 0.0, "id": 126589399, "level": 3}
+{"count": 413, "name": "Vernal pool", "weight": 0.0, "id": 2779880136, "level": 3}
+{"count": 930, "name": "Habitats Directive", "weight": 0.0, "id": 2777961954, "level": 3}
+{"count": 479, "name": "Ecological trap", "weight": 0.0, "id": 202220414, "level": 3}
+{"count": 3817, "name": "Grouse", "weight": 3.0, "id": 2779097721, "level": 3}
+{"count": 540, "name": "Calcareous grassland", "weight": 0.0, "id": 74948603, "level": 3}
+{"count": 886, "name": "Nekton", "weight": 0.0, "id": 62147785, "level": 3}
+{"count": 453, "name": "Essential fish habitat", "weight": 0.0, "id": 2776362581, "level": 3}
+{"count": 364, "name": "Realized niche width", "weight": 0.0, "id": 181634566, "level": 3}
+{"count": 1186, "name": "Critical habitat", "weight": 0.0, "id": 2776677640, "level": 3}
+{"count": 226, "name": "Ecklonia radiata", "weight": 0.0, "id": 2777900000, "level": 3}
+{"count": 1080, "name": "Bird conservation", "weight": 0.0, "id": 2780638564, "level": 3}
+{"count": 706, "name": "Nursery habitat", "weight": 0.0, "id": 2775851391, "level": 3}
+{"count": 1161, "name": "Tide pool", "weight": 0.0, "id": 86376954, "level": 3}
+{"count": 1800, "name": "Riffle", "weight": 1.0, "id": 2777947409, "level": 3}
+{"count": 1395, "name": "Intertidal ecology", "weight": 1.0, "id": 172992050, "level": 3}
+{"count": 2459, "name": "Woodpecker", "weight": 1.0, "id": 2776190662, "level": 3}
+{"count": 2715, "name": "Deserts and xeric shrublands", "weight": 2.0, "id": 30787403, "level": 3}
+{"count": 483, "name": "Foundation species", "weight": 0.0, "id": 31262351, "level": 3}
+{"count": 301, "name": "Shrub-steppe", "weight": 0.0, "id": 125672730, "level": 3}
+{"count": 282, "name": "Maerl", "weight": 0.0, "id": 2780374541, "level": 3}
+{"count": 1877, "name": "Ruderal species", "weight": 1.0, "id": 173727605, "level": 3}
+{"count": 264, "name": "Ovenbird", "weight": 0.0, "id": 2777521251, "level": 3}
+{"count": 924, "name": "Niche segregation", "weight": 0.0, "id": 40141808, "level": 3}
+{"count": 115, "name": "Centrostephanus rodgersii", "weight": 0.0, "id": 2781284990, "level": 3}
+{"count": 436, "name": "Tiger beetle", "weight": 0.0, "id": 2779451382, "level": 3}
+{"count": 117, "name": "Species reintroduction", "weight": 0.0, "id": 2781163291, "level": 3}
+{"count": 109, "name": "Road verge", "weight": 0.0, "id": 2779951143, "level": 3}
+{"count": 386, "name": "Florida scrub", "weight": 0.0, "id": 2780868424, "level": 3}
+{"count": 125, "name": "Panopeus herbstii", "weight": 0.0, "id": 2777829079, "level": 3}
+{"count": 507, "name": "Wet meadow", "weight": 0.0, "id": 2776817929, "level": 3}
+{"count": 79, "name": "Archaeophyte", "weight": 0.0, "id": 2778558465, "level": 3}
+{"count": 643, "name": "Ecological release", "weight": 0.0, "id": 13112181, "level": 3}
+{"count": 1325, "name": "Coastal fish", "weight": 1.0, "id": 91674387, "level": 3}
+{"count": 45, "name": "Abax parallelepipedus", "weight": 0.0, "id": 2781305313, "level": 3}
+{"count": 124, "name": "Isodar", "weight": 0.0, "id": 2776451862, "level": 3}
+{"count": 263, "name": "Water bird", "weight": 0.0, "id": 2777317525, "level": 3}
+{"count": 160, "name": "Farfantepenaeus aztecus", "weight": 0.0, "id": 2780268878, "level": 3}
+{"count": 371, "name": "Scaphirhynchus", "weight": 0.0, "id": 2778291590, "level": 3}
+{"count": 165, "name": "Species at Risk Act", "weight": 0.0, "id": 2776142123, "level": 3}
+{"count": 649, "name": "Flying squirrel", "weight": 0.0, "id": 2780142132, "level": 3}
+{"count": 101, "name": "Brachyptery", "weight": 0.0, "id": 2781191672, "level": 3}
+{"count": 1245, "name": "Charadrius", "weight": 1.0, "id": 2780911997, "level": 3}
+{"count": 356, "name": "Cicindela", "weight": 0.0, "id": 2777316917, "level": 3}
+{"count": 160, "name": "Corn bunting", "weight": 0.0, "id": 2778841934, "level": 3}
+{"count": 136, "name": "Bat detector", "weight": 0.0, "id": 2779796978, "level": 3}
+{"count": 112, "name": "EDGE species", "weight": 0.0, "id": 189518720, "level": 3}
+{"count": 22, "name": "Bembicium auratum", "weight": 0.0, "id": 2780901094, "level": 3}
+{"count": 129, "name": "Altitudinal migration", "weight": 0.0, "id": 2780206633, "level": 3}
+{"count": 38, "name": "Xylophagy", "weight": 0.0, "id": 2779357766, "level": 3}
+{"count": 33, "name": "Boloria aquilonaris", "weight": 0.0, "id": 2779462506, "level": 3}
+{"count": 100, "name": "Intertidal wetland", "weight": 0.0, "id": 2781252835, "level": 3}
+{"count": 22, "name": "Parnassius smintheus", "weight": 0.0, "id": 2776166770, "level": 3}
+{"count": 53, "name": "Catostomus latipinnis", "weight": 0.0, "id": 2777050735, "level": 3}
+{"count": 29, "name": "Oedipoda caerulescens", "weight": 0.0, "id": 2777029129, "level": 3}
+{"count": 21, "name": "Annulatascaceae", "weight": 0.0, "id": 2776155638, "level": 3}
+{"count": 290, "name": "Wildlife crossing", "weight": 0.0, "id": 2781218492, "level": 3}
+{"count": 52, "name": "Salix lapponum", "weight": 0.0, "id": 2777028528, "level": 3}
+{"count": 129, "name": "Meadow pipit", "weight": 0.0, "id": 2776423884, "level": 3}
+{"count": 185, "name": "Hellbender", "weight": 0.0, "id": 2780722305, "level": 3}
+{"count": 118, "name": "Gulf sturgeon", "weight": 0.0, "id": 2780797455, "level": 3}
+{"count": 489, "name": "Ammodramus", "weight": 0.0, "id": 2779161095, "level": 3}
+{"count": 316, "name": "Pseudomys", "weight": 0.0, "id": 2779194146, "level": 3}
+{"count": 308, "name": "Cerulean", "weight": 0.0, "id": 2776853610, "level": 3}
+{"count": 141, "name": "Treecreeper", "weight": 0.0, "id": 2777062306, "level": 3}
+{"count": 38, "name": "Hippocrepis comosa", "weight": 0.0, "id": 2777752201, "level": 3}
+{"count": 47, "name": "Phyllospora comosa", "weight": 0.0, "id": 2776871196, "level": 3}
+{"count": 44, "name": "Sediment Profile Imagery", "weight": 0.0, "id": 2776876841, "level": 3}
+{"count": 418, "name": "Catharus", "weight": 0.0, "id": 2781413900, "level": 3}
+{"count": 37, "name": "Exposed riverine sediments", "weight": 0.0, "id": 2776493684, "level": 3}
+{"count": 102, "name": "Tailed frog", "weight": 0.0, "id": 2777240778, "level": 3}
+{"count": 124, "name": "Roosevelt elk", "weight": 0.0, "id": 2779114090, "level": 3}
+{"count": 123, "name": "Hypseleotris", "weight": 0.0, "id": 2779524188, "level": 3}
+{"count": 57, "name": "Neotrypaea californiensis", "weight": 0.0, "id": 2777528671, "level": 3}
+{"count": 25, "name": "Giant kokopu", "weight": 0.0, "id": 2777594166, "level": 3}
+{"count": 149, "name": "Fire salamander", "weight": 0.0, "id": 2781076587, "level": 3}
+{"count": 28, "name": "Gloger's rule", "weight": 0.0, "id": 197761453, "level": 3}
+{"count": 33, "name": "Elimia livescens", "weight": 0.0, "id": 2781281525, "level": 3}
+{"count": 36, "name": "Coenonympha tullia", "weight": 0.0, "id": 2780348599, "level": 3}
+{"count": 157, "name": "Chalinolobus", "weight": 0.0, "id": 2778723280, "level": 3}
+{"count": 55, "name": "Mole salamander", "weight": 0.0, "id": 2778081656, "level": 3}
+{"count": 21, "name": "Boltonia decurrens", "weight": 0.0, "id": 2781135501, "level": 3}
+{"count": 412, "name": "Empidonax", "weight": 0.0, "id": 2779414922, "level": 3}
+{"count": 144, "name": "Fellfield", "weight": 0.0, "id": 2778134781, "level": 3}
+{"count": 21, "name": "Solidago shortii", "weight": 0.0, "id": 2779463132, "level": 3}
+{"count": 121, "name": "Substrate (marine biology)", "weight": 0.0, "id": 82282831, "level": 3}
+{"count": 229, "name": "Humpback dolphin", "weight": 0.0, "id": 2780039614, "level": 3}
+{"count": 47, "name": "Catostomus discobolus", "weight": 0.0, "id": 2777981656, "level": 3}
+{"count": 319, "name": "Animal migration", "weight": 0.0, "id": 66444400, "level": 3}
+{"count": 59, "name": "Banded kokopu", "weight": 0.0, "id": 2780148617, "level": 3}
+{"count": 43, "name": "Cicada orni", "weight": 0.0, "id": 2780938166, "level": 3}
+{"count": 60, "name": "Nannoperca", "weight": 0.0, "id": 2775979103, "level": 3}
+{"count": 53, "name": "Nepenthes ampullaria", "weight": 0.0, "id": 2776015746, "level": 3}
+{"count": 234, "name": "Anaxyrus", "weight": 0.0, "id": 2776856164, "level": 3}
+{"count": 40, "name": "Sonoran pronghorn", "weight": 0.0, "id": 2780905322, "level": 3}
+{"count": 35, "name": "Stream pool", "weight": 0.0, "id": 2778115654, "level": 3}
+{"count": 140, "name": "Melomys", "weight": 0.0, "id": 2776887127, "level": 3}
+{"count": 126, "name": "Oyster reef restoration", "weight": 0.0, "id": 2780896622, "level": 3}
+{"count": 55, "name": "Eurasian spoonbill", "weight": 0.0, "id": 2779305763, "level": 3}
+{"count": 376, "name": "Rallus", "weight": 0.0, "id": 2775905748, "level": 3}
+{"count": 38, "name": "Sabellaria spinulosa", "weight": 0.0, "id": 2778453121, "level": 3}
+{"count": 461, "name": "Suitability model", "weight": 0.0, "id": 2779051397, "level": 3}
+{"count": 478, "name": "Species of concern", "weight": 0.0, "id": 2781101760, "level": 3}
+{"count": 12, "name": "Hamearis lucina", "weight": 0.0, "id": 2781434551, "level": 3}
+{"count": 12, "name": "Cyclamen balearicum", "weight": 0.0, "id": 2778533690, "level": 3}
+{"count": 24, "name": "Dwarf blue sheep", "weight": 0.0, "id": 2777566515, "level": 3}
+{"count": 13, "name": "Beetle bank", "weight": 0.0, "id": 50078380, "level": 3}
+{"count": 50, "name": "Blue sucker", "weight": 0.0, "id": 2777886004, "level": 3}
+{"count": 30, "name": "Trogloxene", "weight": 0.0, "id": 2776082493, "level": 3}
+{"count": 30, "name": "Myotis alcathoe", "weight": 0.0, "id": 2780247014, "level": 3}
+{"count": 13, "name": "Trollius laxus", "weight": 0.0, "id": 2779458244, "level": 3}
+{"count": 52, "name": "Topeka shiner", "weight": 0.0, "id": 2781442352, "level": 3}
+{"count": 313, "name": "Brachyramphus", "weight": 0.0, "id": 2779193470, "level": 3}
+{"count": 23, "name": "Rhinella ornata", "weight": 0.0, "id": 2780599699, "level": 3}
+{"count": 64, "name": "Iberian barbel", "weight": 0.0, "id": 2778125599, "level": 3}
+{"count": 72, "name": "Sagebrush lizard", "weight": 0.0, "id": 2778382091, "level": 3}
+{"count": 32, "name": "Contia", "weight": 0.0, "id": 2779669194, "level": 3}
+{"count": 26, "name": "Pulsatilla vernalis", "weight": 0.0, "id": 2779695356, "level": 3}
+{"count": 34, "name": "Neotamias", "weight": 0.0, "id": 2777810592, "level": 3}
+{"count": 42, "name": "Liolaemus lutzae", "weight": 0.0, "id": 2776275171, "level": 3}
+{"count": 35, "name": "Blackside dace", "weight": 0.0, "id": 2778337372, "level": 3}
+{"count": 42, "name": "Iberolacerta cyreni", "weight": 0.0, "id": 2778527343, "level": 3}
+{"count": 21, "name": "Mecistogaster", "weight": 0.0, "id": 2779094434, "level": 3}
+{"count": 58, "name": "Courser", "weight": 0.0, "id": 2777557147, "level": 3}
+{"count": 320, "name": "Polyhaline", "weight": 0.0, "id": 51901199, "level": 3}
+{"count": 24, "name": "Vertigo geyeri", "weight": 0.0, "id": 2779213341, "level": 3}
+{"count": 19, "name": "Viola blanda", "weight": 0.0, "id": 2778232730, "level": 3}
+{"count": 33, "name": "Meta menardi", "weight": 0.0, "id": 2775976765, "level": 3}
+{"count": 27, "name": "Arctomecon", "weight": 0.0, "id": 2779412395, "level": 3}
+{"count": 15, "name": "Carabus hortensis", "weight": 0.0, "id": 2779420169, "level": 3}
+{"count": 212, "name": "Meadowlark", "weight": 0.0, "id": 2778405321, "level": 3}
+{"count": 24, "name": "Hydrophis elegans", "weight": 0.0, "id": 2778208247, "level": 3}
+{"count": 26, "name": "Anchialine pool", "weight": 0.0, "id": 2779271682, "level": 3}
+{"count": 17, "name": "Longjaw mudsucker", "weight": 0.0, "id": 2781266209, "level": 3}
+{"count": 22, "name": "Salix myrtilloides", "weight": 0.0, "id": 2775846711, "level": 3}
+{"count": 527, "name": "Setophaga", "weight": 0.0, "id": 2779817723, "level": 3}
+{"count": 16, "name": "Myotis macropus", "weight": 0.0, "id": 2778947167, "level": 3}
+{"count": 29, "name": "Centrostephanus coronatus", "weight": 0.0, "id": 2779875989, "level": 3}
+{"count": 23, "name": "Vermetus", "weight": 0.0, "id": 2780916879, "level": 3}
+{"count": 48, "name": "Nilgiri tahr", "weight": 0.0, "id": 2777613413, "level": 3}
+{"count": 62, "name": "Gambelia", "weight": 0.0, "id": 2779336973, "level": 3}
+{"count": 23, "name": "Phytotelma", "weight": 0.0, "id": 2779685608, "level": 3}
+{"count": 55, "name": "Gadopsis", "weight": 0.0, "id": 2777539933, "level": 3}
+{"count": 21, "name": "Melierax", "weight": 0.0, "id": 2781189673, "level": 3}
+{"count": 31, "name": "Nyctibatrachus", "weight": 0.0, "id": 2777327660, "level": 3}
+{"count": 21, "name": "Rafflesia patma", "weight": 0.0, "id": 2778366669, "level": 3}
+{"count": 16, "name": "Rhinoclavis", "weight": 0.0, "id": 2778567697, "level": 3}
+{"count": 141, "name": "Crossoptilon", "weight": 0.0, "id": 2776584285, "level": 3}
+{"count": 35, "name": "Barred warbler", "weight": 0.0, "id": 2776036766, "level": 3}
+{"count": 29, "name": "Rhinella spinulosa", "weight": 0.0, "id": 2779706175, "level": 3}
+{"count": 95, "name": "Hoplocephalus", "weight": 0.0, "id": 2777719061, "level": 3}
+{"count": 42, "name": "Geographic range limit", "weight": 0.0, "id": 52454276, "level": 3}
+{"count": 30, "name": "Platygobio gracilis", "weight": 0.0, "id": 2780074888, "level": 3}
+{"count": 23, "name": "Mankyua", "weight": 0.0, "id": 2777601328, "level": 3}
+{"count": 29, "name": "Javan slow loris", "weight": 0.0, "id": 2779465013, "level": 3}
+{"count": 21, "name": "Troides aeacus", "weight": 0.0, "id": 2780983777, "level": 3}
+{"count": 21, "name": "Themeda quadrivalvis", "weight": 0.0, "id": 2775963031, "level": 3}
+{"count": 27, "name": "Serpulorbis", "weight": 0.0, "id": 2779316714, "level": 3}
+{"count": 20, "name": "Megabalanus tintinnabulum", "weight": 0.0, "id": 2777978468, "level": 3}
+{"count": 24, "name": "Oregon chub", "weight": 0.0, "id": 2781090107, "level": 3}
+{"count": 20, "name": "Carabus coriaceus", "weight": 0.0, "id": 2781339474, "level": 3}
+{"count": 13, "name": "Cychrus caraboides", "weight": 0.0, "id": 2779914274, "level": 3}
+{"count": 19, "name": "Aniptodera", "weight": 0.0, "id": 2779706915, "level": 3}
+{"count": 40, "name": "Woodland salamander", "weight": 0.0, "id": 2780802702, "level": 3}
+{"count": 99, "name": "Pseudotriton", "weight": 0.0, "id": 2778232835, "level": 3}
+{"count": 15, "name": "Mecodema", "weight": 0.0, "id": 2776254695, "level": 3}
+{"count": 29, "name": "Surili", "weight": 0.0, "id": 2778699634, "level": 3}
+{"count": 20, "name": "Maoricolpus roseus", "weight": 0.0, "id": 2776389794, "level": 3}
+{"count": 19, "name": "Mictyris brevidactylus", "weight": 0.0, "id": 2779278497, "level": 3}
+{"count": 8, "name": "Kirengeshoma koreana", "weight": 0.0, "id": 2781166557, "level": 3}
+{"count": 151, "name": "Syrmaticus", "weight": 0.0, "id": 2779433321, "level": 3}

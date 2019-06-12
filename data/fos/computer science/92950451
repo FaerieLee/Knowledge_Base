@@ -1,0 +1,18 @@
+{"count": 893, "name": "Correlation attack", "weight": 5.0, "id": 120226833, "level": 4}
+{"count": 673, "name": "RC4", "weight": 4.0, "id": 109154458, "level": 4}
+{"count": 231, "name": "Distinguishing attack", "weight": 1.0, "id": 2777727247, "level": 4}
+{"count": 1548, "name": "Transposition cipher", "weight": 10.0, "id": 71247151, "level": 4}
+{"count": 278, "name": "Key-recovery attack", "weight": 1.0, "id": 2778186200, "level": 4}
+{"count": 355, "name": "eSTREAM", "weight": 2.0, "id": 2779966745, "level": 4}
+{"count": 887, "name": "Keystream", "weight": 5.0, "id": 2776132008, "level": 4}
+{"count": 1393, "name": "Running key cipher", "weight": 9.0, "id": 64119674, "level": 4}
+{"count": 103, "name": "Nonlinear feedback shift register", "weight": 0.0, "id": 2780795964, "level": 4}
+{"count": 100, "name": "Cube attack", "weight": 0.0, "id": 2780686431, "level": 4}
+{"count": 412, "name": "Weak key", "weight": 2.0, "id": 192467528, "level": 4}
+{"count": 61, "name": "SFINKS", "weight": 0.0, "id": 16939745, "level": 4}
+{"count": 73, "name": "Achterbahn", "weight": 0.0, "id": 2779661140, "level": 4}
+{"count": 10, "name": "SOBER-128", "weight": 0.0, "id": 2780496685, "level": 4}
+{"count": 1495, "name": "Two-square cipher", "weight": 9.0, "id": 60153865, "level": 4}
+{"count": 1389, "name": "Stream cipher attack", "weight": 9.0, "id": 96675983, "level": 4}
+{"count": 42, "name": "Cycles per byte", "weight": 0.0, "id": 2777258992, "level": 4}
+{"count": 6, "name": "ISAAC", "weight": 0.0, "id": 134995996, "level": 4}

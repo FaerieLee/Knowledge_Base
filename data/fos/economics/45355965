@@ -1,0 +1,74 @@
+{"count": 49900, "name": "Social capital", "weight": 8.0, "id": 68062652, "level": 2}
+{"count": 58326, "name": "Social policy", "weight": 10.0, "id": 19159745, "level": 2}
+{"count": 31830, "name": "Social status", "weight": 5.0, "id": 142806620, "level": 2}
+{"count": 23473, "name": "Social inequality", "weight": 4.0, "id": 165148211, "level": 2}
+{"count": 32361, "name": "Social engagement", "weight": 5.0, "id": 9701087, "level": 2}
+{"count": 25508, "name": "Social mobility", "weight": 4.0, "id": 37129596, "level": 2}
+{"count": 14009, "name": "Social protection", "weight": 2.0, "id": 2777433830, "level": 2}
+{"count": 13873, "name": "Social stratification", "weight": 2.0, "id": 48158472, "level": 2}
+{"count": 9759, "name": "Cultural capital", "weight": 1.0, "id": 2778930550, "level": 2}
+{"count": 9350, "name": "Civic engagement", "weight": 1.0, "id": 2776431611, "level": 2}
+{"count": 11205, "name": "Socioeconomic development", "weight": 1.0, "id": 42298096, "level": 2}
+{"count": 2448, "name": "Relative deprivation", "weight": 0.0, "id": 2778516963, "level": 2}
+{"count": 6877, "name": "Human security", "weight": 1.0, "id": 2779449393, "level": 2}
+{"count": 3251, "name": "Capability approach", "weight": 0.0, "id": 2781118332, "level": 2}
+{"count": 7966, "name": "Social equality", "weight": 1.0, "id": 25287524, "level": 2}
+{"count": 3211, "name": "Cultural economics", "weight": 0.0, "id": 36200757, "level": 2}
+{"count": 13379, "name": "Social economy", "weight": 2.0, "id": 542628504, "level": 2}
+{"count": 2524, "name": "World Values Survey", "weight": 0.0, "id": 184048983, "level": 2}
+{"count": 3786, "name": "Gender mainstreaming", "weight": 0.0, "id": 2780765865, "level": 2}
+{"count": 2083, "name": "Environmental sociology", "weight": 0.0, "id": 81556363, "level": 2}
+{"count": 5353, "name": "Social progress", "weight": 0.0, "id": 2779905815, "level": 2}
+{"count": 1887, "name": "Educational inequality", "weight": 0.0, "id": 2778783286, "level": 2}
+{"count": 2866, "name": "Risk society", "weight": 0.0, "id": 2781098421, "level": 2}
+{"count": 2229, "name": "European Social Survey", "weight": 0.0, "id": 117347162, "level": 2}
+{"count": 3266, "name": "Global justice", "weight": 0.0, "id": 2776934989, "level": 2}
+{"count": 1397, "name": "Child marriage", "weight": 0.0, "id": 2780673001, "level": 2}
+{"count": 3182, "name": "Social deprivation", "weight": 0.0, "id": 13543017, "level": 2}
+{"count": 951, "name": "Economic mobility", "weight": 0.0, "id": 2779566690, "level": 2}
+{"count": 1922, "name": "Structural violence", "weight": 0.0, "id": 2776857772, "level": 2}
+{"count": 2663, "name": "Ecological crisis", "weight": 0.0, "id": 2778054127, "level": 2}
+{"count": 1506, "name": "Basic income", "weight": 0.0, "id": 2779264144, "level": 2}
+{"count": 1054, "name": "Irregular migration", "weight": 0.0, "id": 2780031633, "level": 2}
+{"count": 463, "name": "Marital separation", "weight": 0.0, "id": 2777195229, "level": 2}
+{"count": 1947, "name": "Precarity", "weight": 0.0, "id": 2778071103, "level": 2}
+{"count": 602, "name": "Social polarization", "weight": 0.0, "id": 2779462066, "level": 2}
+{"count": 305, "name": "Economics of science", "weight": 0.0, "id": 2779643920, "level": 2}
+{"count": 1511, "name": "Community cohesion", "weight": 0.0, "id": 2777585279, "level": 2}
+{"count": 1014, "name": "Human Development Report", "weight": 0.0, "id": 2776369677, "level": 2}
+{"count": 153, "name": "Equality of outcome", "weight": 0.0, "id": 2778008703, "level": 2}
+{"count": 2241, "name": "Economic Justice", "weight": 0.0, "id": 139621336, "level": 2}
+{"count": 568, "name": "International Social Survey Programme", "weight": 0.0, "id": 126076107, "level": 2}
+{"count": 945, "name": "Precarious work", "weight": 0.0, "id": 2775906418, "level": 2}
+{"count": 569, "name": "Structural inequality", "weight": 0.0, "id": 2780886532, "level": 2}
+{"count": 543, "name": "Social disintegration", "weight": 0.0, "id": 2778968930, "level": 2}
+{"count": 602, "name": "Spatial justice", "weight": 0.0, "id": 2776605223, "level": 2}
+{"count": 245, "name": "Forced prostitution", "weight": 0.0, "id": 2780303468, "level": 2}
+{"count": 465, "name": "Social disorganization theory", "weight": 0.0, "id": 2779203709, "level": 2}
+{"count": 736, "name": "Social quality", "weight": 0.0, "id": 2780561795, "level": 2}
+{"count": 268, "name": "Child abandonment", "weight": 0.0, "id": 2778279454, "level": 2}
+{"count": 5622, "name": "Youth studies", "weight": 0.0, "id": 30642904, "level": 2}
+{"count": 202, "name": "Economics of religion", "weight": 0.0, "id": 2776700917, "level": 2}
+{"count": 296, "name": "Development ethics", "weight": 0.0, "id": 2776697088, "level": 2}
+{"count": 277, "name": "Cultural lag", "weight": 0.0, "id": 2779334331, "level": 2}
+{"count": 128, "name": "Ecological debt", "weight": 0.0, "id": 2781216606, "level": 2}
+{"count": 169, "name": "Feminization of migration", "weight": 0.0, "id": 2780559486, "level": 2}
+{"count": 545, "name": "Migrant domestic workers", "weight": 0.0, "id": 2777858767, "level": 2}
+{"count": 127, "name": "Gender sensitization", "weight": 0.0, "id": 2778919917, "level": 2}
+{"count": 205, "name": "Gender-blind", "weight": 0.0, "id": 2780227697, "level": 2}
+{"count": 112, "name": "Positional good", "weight": 0.0, "id": 2781115087, "level": 2}
+{"count": 101, "name": "Post-growth", "weight": 0.0, "id": 2780899920, "level": 2}
+{"count": 170, "name": "Development-induced displacement", "weight": 0.0, "id": 72911578, "level": 2}
+{"count": 57, "name": "Anti-consumerism", "weight": 0.0, "id": 2776530957, "level": 2}
+{"count": 51, "name": "Civic intelligence", "weight": 0.0, "id": 2775870058, "level": 2}
+{"count": 109, "name": "Youth rights", "weight": 0.0, "id": 2776794408, "level": 2}
+{"count": 161, "name": "Gender Inequality Index", "weight": 0.0, "id": 2775904457, "level": 2}
+{"count": 72, "name": "People-centered development", "weight": 0.0, "id": 2779233623, "level": 2}
+{"count": 150, "name": "Simple living", "weight": 0.0, "id": 2776331690, "level": 2}
+{"count": 32, "name": "Netocracy", "weight": 0.0, "id": 2779911186, "level": 2}
+{"count": 219, "name": "Breadwinner model", "weight": 0.0, "id": 2779368217, "level": 2}
+{"count": 26, "name": "Planetary management", "weight": 0.0, "id": 2780349784, "level": 2}
+{"count": 11, "name": "Global civics", "weight": 0.0, "id": 2777456531, "level": 2}
+{"count": 31, "name": "Mothers' rights", "weight": 0.0, "id": 2777288222, "level": 2}
+{"count": 13, "name": "Malthusian catastrophe", "weight": 0.0, "id": 2779396209, "level": 2}
+{"count": 35, "name": "The rich get richer and the poor get poorer", "weight": 0.0, "id": 2776085410, "level": 2}

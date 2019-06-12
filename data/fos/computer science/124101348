@@ -1,0 +1,200 @@
+{"count": 181413, "name": "Text mining", "weight": 10.0, "id": 71472368, "level": 2}
+{"count": 158728, "name": "Visualization", "weight": 8.0, "id": 36464697, "level": 2}
+{"count": 63780, "name": "Expert system", "weight": 3.0, "id": 58328972, "level": 2}
+{"count": 93333, "name": "Decision support system", "weight": 5.0, "id": 107327155, "level": 2}
+{"count": 62604, "name": "Knowledge base", "weight": 3.0, "id": 4554734, "level": 2}
+{"count": 43119, "name": "Decision tree", "weight": 2.0, "id": 84525736, "level": 2}
+{"count": 35083, "name": "Data model", "weight": 1.0, "id": 9476365, "level": 2}
+{"count": 18276, "name": "Business intelligence", "weight": 1.0, "id": 2767350, "level": 2}
+{"count": 28628, "name": "Relational database", "weight": 1.0, "id": 5655090, "level": 2}
+{"count": 50999, "name": "Spatial analysis", "weight": 2.0, "id": 159620131, "level": 2}
+{"count": 29482, "name": "Knowledge representation and reasoning", "weight": 1.0, "id": 161301231, "level": 2}
+{"count": 31653, "name": "Knowledge-based systems", "weight": 1.0, "id": 115925183, "level": 2}
+{"count": 47638, "name": "Data modeling", "weight": 2.0, "id": 67186912, "level": 2}
+{"count": 46135, "name": "XML", "weight": 2.0, "id": 8797682, "level": 2}
+{"count": 22635, "name": "Rule-based system", "weight": 1.0, "id": 149271511, "level": 2}
+{"count": 37688, "name": "Data reduction", "weight": 2.0, "id": 153914771, "level": 2}
+{"count": 63142, "name": "Data management", "weight": 3.0, "id": 1668388, "level": 2}
+{"count": 29621, "name": "Semantic Web", "weight": 1.0, "id": 2129575, "level": 2}
+{"count": 21260, "name": "Association rule learning", "weight": 1.0, "id": 193524817, "level": 2}
+{"count": 20948, "name": "Knowledge acquisition", "weight": 1.0, "id": 2777220311, "level": 2}
+{"count": 22189, "name": "Information extraction", "weight": 1.0, "id": 195807954, "level": 2}
+{"count": 50754, "name": "Search engine indexing", "weight": 2.0, "id": 75165309, "level": 2}
+{"count": 26506, "name": "Network model", "weight": 1.0, "id": 104122410, "level": 2}
+{"count": 50518, "name": "Arboriculture", "weight": 2.0, "id": 67961754, "level": 2}
+{"count": 19490, "name": "Query language", "weight": 1.0, "id": 192028432, "level": 2}
+{"count": 15547, "name": "Data integrity", "weight": 0.0, "id": 33762810, "level": 2}
+{"count": 48989, "name": "Arborist", "weight": 2.0, "id": 2779543577, "level": 2}
+{"count": 14918, "name": "Distributed database", "weight": 0.0, "id": 70061542, "level": 2}
+{"count": 28729, "name": "Recommender system", "weight": 1.0, "id": 557471498, "level": 2}
+{"count": 28008, "name": "Data quality", "weight": 1.0, "id": 24756922, "level": 2}
+{"count": 6303, "name": "Table (information)", "weight": 0.0, "id": 182716506, "level": 2}
+{"count": 27675, "name": "Knowledge extraction", "weight": 1.0, "id": 120567893, "level": 2}
+{"count": 19870, "name": "Data type", "weight": 1.0, "id": 138958017, "level": 2}
+{"count": 64470, "name": "Metadata", "weight": 3.0, "id": 93518851, "level": 2}
+{"count": 23765, "name": "Data warehouse", "weight": 1.0, "id": 135572916, "level": 2}
+{"count": 3696, "name": "Functional dependency", "weight": 0.0, "id": 26320393, "level": 2}
+{"count": 9259, "name": "Hierarchical database model", "weight": 0.0, "id": 144986985, "level": 2}
+{"count": 11963, "name": "Case-based reasoning", "weight": 0.0, "id": 20162079, "level": 2}
+{"count": 62726, "name": "Big data", "weight": 3.0, "id": 75684735, "level": 2}
+{"count": 44822, "name": "Ontology (information science)", "weight": 2.0, "id": 166724064, "level": 2}
+{"count": 11190, "name": "Information integration", "weight": 0.0, "id": 33326189, "level": 2}
+{"count": 9202, "name": "Document retrieval", "weight": 0.0, "id": 161156560, "level": 2}
+{"count": 6827, "name": "Complex data type", "weight": 0.0, "id": 35288925, "level": 2}
+{"count": 23232, "name": "Domain knowledge", "weight": 1.0, "id": 207685749, "level": 2}
+{"count": 21028, "name": "Data access", "weight": 1.0, "id": 47487241, "level": 2}
+{"count": 32629, "name": "Data analysis", "weight": 1.0, "id": 175801342, "level": 2}
+{"count": 11291, "name": "Bibliometrics", "weight": 0.0, "id": 178315738, "level": 2}
+{"count": 6388, "name": "Data extraction", "weight": 0.0, "id": 2777466982, "level": 2}
+{"count": 3642, "name": "Microdata (HTML)", "weight": 0.0, "id": 43232521, "level": 2}
+{"count": 12123, "name": "RDF", "weight": 0.0, "id": 147497476, "level": 2}
+{"count": 9736, "name": "Open data", "weight": 0.0, "id": 2780535194, "level": 2}
+{"count": 20444, "name": "Query optimization", "weight": 1.0, "id": 157692150, "level": 2}
+{"count": 15986, "name": "Data integration", "weight": 0.0, "id": 72634772, "level": 2}
+{"count": 7180, "name": "Temporal database", "weight": 0.0, "id": 77277458, "level": 2}
+{"count": 6208, "name": "Semantic network", "weight": 0.0, "id": 85407183, "level": 2}
+{"count": 91987, "name": "Ranking", "weight": 5.0, "id": 197927960, "level": 2}
+{"count": 6051, "name": "External Data Representation", "weight": 0.0, "id": 116409475, "level": 2}
+{"count": 14310, "name": "Data sharing", "weight": 0.0, "id": 2779965156, "level": 2}
+{"count": 15058, "name": "Sentiment analysis", "weight": 0.0, "id": 66402592, "level": 2}
+{"count": 22917, "name": "Database design", "weight": 1.0, "id": 148840519, "level": 2}
+{"count": 10488, "name": "Web mining", "weight": 0.0, "id": 197046077, "level": 2}
+{"count": 11244, "name": "Linked data", "weight": 0.0, "id": 69075417, "level": 2}
+{"count": 10615, "name": "User profile", "weight": 0.0, "id": 2780150774, "level": 2}
+{"count": 25478, "name": "SQL", "weight": 1.0, "id": 510870499, "level": 2}
+{"count": 10254, "name": "Data retrieval", "weight": 0.0, "id": 551230270, "level": 2}
+{"count": 10036, "name": "Information model", "weight": 0.0, "id": 21338462, "level": 2}
+{"count": 3337, "name": "Range query (data structures)", "weight": 0.0, "id": 110432227, "level": 2}
+{"count": 4322, "name": "Exploratory data analysis", "weight": 0.0, "id": 120894424, "level": 2}
+{"count": 5790, "name": "Formal concept analysis", "weight": 0.0, "id": 76363472, "level": 2}
+{"count": 14619, "name": "Crowdsourcing", "weight": 0.0, "id": 62230096, "level": 2}
+{"count": 6267, "name": "Semantic data model", "weight": 0.0, "id": 90312973, "level": 2}
+{"count": 3838, "name": "Entity\u2013relationship model", "weight": 0.0, "id": 103593891, "level": 2}
+{"count": 2824, "name": "Record linkage", "weight": 0.0, "id": 142210648, "level": 2}
+{"count": 19774, "name": "Query expansion", "weight": 1.0, "id": 99016210, "level": 2}
+{"count": 4649, "name": "Information overload", "weight": 0.0, "id": 186625053, "level": 2}
+{"count": 18598, "name": "Automatic summarization", "weight": 1.0, "id": 170858558, "level": 2}
+{"count": 5655, "name": "Data pre-processing", "weight": 0.0, "id": 10551718, "level": 2}
+{"count": 4416, "name": "Scientometrics", "weight": 0.0, "id": 525823164, "level": 2}
+{"count": 3519, "name": "Data cube", "weight": 0.0, "id": 78168278, "level": 2}
+{"count": 23699, "name": "Geospatial analysis", "weight": 1.0, "id": 9770341, "level": 2}
+{"count": 4252, "name": "Data system", "weight": 0.0, "id": 203481301, "level": 2}
+{"count": 2387, "name": "Multidimensional analysis", "weight": 0.0, "id": 169191187, "level": 2}
+{"count": 1937, "name": "Link analysis", "weight": 0.0, "id": 1173588, "level": 2}
+{"count": 4280, "name": "Data validation", "weight": 0.0, "id": 92446256, "level": 2}
+{"count": 2987, "name": "Controlled vocabulary", "weight": 0.0, "id": 110615152, "level": 2}
+{"count": 6935, "name": "Model-based reasoning", "weight": 0.0, "id": 37335422, "level": 2}
+{"count": 2180, "name": "Rule induction", "weight": 0.0, "id": 2776780472, "level": 2}
+{"count": 23717, "name": "Data stream mining", "weight": 1.0, "id": 89198739, "level": 2}
+{"count": 6218, "name": "Data classification", "weight": 0.0, "id": 2780724565, "level": 2}
+{"count": 829, "name": "Very large database", "weight": 0.0, "id": 23549232, "level": 2}
+{"count": 2269, "name": "Named entity", "weight": 0.0, "id": 2777889803, "level": 2}
+{"count": 8299, "name": "Topic model", "weight": 0.0, "id": 171686336, "level": 2}
+{"count": 2082, "name": "Knowledge modeling", "weight": 0.0, "id": 2775966667, "level": 2}
+{"count": 14540, "name": "Web crawler", "weight": 0.0, "id": 13743948, "level": 2}
+{"count": 3152, "name": "Uncertain data", "weight": 0.0, "id": 2778865114, "level": 2}
+{"count": 2666, "name": "Unified Medical Language System", "weight": 0.0, "id": 69505689, "level": 2}
+{"count": 2959, "name": "Document classification", "weight": 0.0, "id": 2780479914, "level": 2}
+{"count": 2021, "name": "Sequential Pattern Mining", "weight": 0.0, "id": 149490388, "level": 2}
+{"count": 4965, "name": "Prognostics", "weight": 0.0, "id": 129364497, "level": 2}
+{"count": 1289, "name": "Semantic mapping", "weight": 0.0, "id": 2775955345, "level": 2}
+{"count": 4290, "name": "First class", "weight": 0.0, "id": 2779849256, "level": 2}
+{"count": 29806, "name": "Analytics", "weight": 1.0, "id": 79158427, "level": 2}
+{"count": 1143, "name": "Active database", "weight": 0.0, "id": 2778744189, "level": 2}
+{"count": 3767, "name": "Data manipulation language", "weight": 0.0, "id": 56288433, "level": 2}
+{"count": 1286, "name": "Biological database", "weight": 0.0, "id": 20901353, "level": 2}
+{"count": 824, "name": "Event correlation", "weight": 0.0, "id": 60801479, "level": 2}
+{"count": 1361, "name": "Deductive database", "weight": 0.0, "id": 2777502361, "level": 2}
+{"count": 1066, "name": "Semantic matching", "weight": 0.0, "id": 2778493491, "level": 2}
+{"count": 1940, "name": "Deep Web", "weight": 0.0, "id": 46721378, "level": 2}
+{"count": 4785, "name": "Complex event processing", "weight": 0.0, "id": 123606473, "level": 2}
+{"count": 1213, "name": "Information discovery", "weight": 0.0, "id": 2778522275, "level": 2}
+{"count": 1834, "name": "Database security", "weight": 0.0, "id": 2778553114, "level": 2}
+{"count": 1099, "name": "Problem solving environment", "weight": 0.0, "id": 2780665868, "level": 2}
+{"count": 1190, "name": "Webometrics", "weight": 0.0, "id": 521491914, "level": 2}
+{"count": 3072, "name": "Data migration", "weight": 0.0, "id": 146152329, "level": 2}
+{"count": 1089, "name": "Preference elicitation", "weight": 0.0, "id": 2777868144, "level": 2}
+{"count": 2719, "name": "Geocoding", "weight": 0.0, "id": 42629822, "level": 2}
+{"count": 1503, "name": "Keyword extraction", "weight": 0.0, "id": 2780288562, "level": 2}
+{"count": 1363, "name": "Name resolution", "weight": 0.0, "id": 29023113, "level": 2}
+{"count": 1429, "name": "Folksonomy", "weight": 0.0, "id": 2778431730, "level": 2}
+{"count": 2479, "name": "Industry 4.0", "weight": 0.0, "id": 2777986313, "level": 2}
+{"count": 826, "name": "B-tree", "weight": 0.0, "id": 78669399, "level": 2}
+{"count": 6628, "name": "Disbursement", "weight": 0.0, "id": 2778101114, "level": 2}
+{"count": 1190, "name": "Topic Maps", "weight": 0.0, "id": 55177894, "level": 2}
+{"count": 3075, "name": "Data preparation", "weight": 0.0, "id": 2779638752, "level": 2}
+{"count": 1589, "name": "Educational data mining", "weight": 0.0, "id": 2777598771, "level": 2}
+{"count": 1595, "name": "Volunteered geographic information", "weight": 0.0, "id": 57380593, "level": 2}
+{"count": 1775, "name": "Plagiarism detection", "weight": 0.0, "id": 2780907237, "level": 2}
+{"count": 1844, "name": "Patent analysis", "weight": 0.0, "id": 2778029865, "level": 2}
+{"count": 1593, "name": "Market intelligence", "weight": 0.0, "id": 2778137712, "level": 2}
+{"count": 1137, "name": "Participatory sensing", "weight": 0.0, "id": 2779208394, "level": 2}
+{"count": 302, "name": "Event condition action", "weight": 0.0, "id": 2780647141, "level": 2}
+{"count": 6023, "name": "Data mapping", "weight": 0.0, "id": 137314826, "level": 2}
+{"count": 7479, "name": "Information sensitivity", "weight": 0.0, "id": 137822555, "level": 2}
+{"count": 568, "name": "Urban computing", "weight": 0.0, "id": 2778459138, "level": 2}
+{"count": 3994, "name": "Skyline", "weight": 0.0, "id": 2780757406, "level": 2}
+{"count": 405, "name": "Information foraging", "weight": 0.0, "id": 2776496588, "level": 2}
+{"count": 2512, "name": "Infographic", "weight": 0.0, "id": 156365220, "level": 2}
+{"count": 481, "name": "Inspec", "weight": 0.0, "id": 2776187960, "level": 2}
+{"count": 517, "name": "Geographic information retrieval", "weight": 0.0, "id": 2775947874, "level": 2}
+{"count": 1378, "name": "Cartographic generalization", "weight": 0.0, "id": 196031653, "level": 2}
+{"count": 9974, "name": "Dimensional modeling", "weight": 0.0, "id": 143008350, "level": 2}
+{"count": 493, "name": "Faceted classification", "weight": 0.0, "id": 2778728365, "level": 2}
+{"count": 2696, "name": "Streaming data", "weight": 0.0, "id": 2777611316, "level": 2}
+{"count": 2966, "name": "Item bank", "weight": 0.0, "id": 156639949, "level": 2}
+{"count": 797, "name": "Geotagging", "weight": 0.0, "id": 53605480, "level": 2}
+{"count": 1437, "name": "Expert elicitation", "weight": 0.0, "id": 72161134, "level": 2}
+{"count": 1042, "name": "Real-time database", "weight": 0.0, "id": 2776675167, "level": 2}
+{"count": 1490, "name": "Geoprocessing", "weight": 0.0, "id": 195740040, "level": 2}
+{"count": 896, "name": "Medical classification", "weight": 0.0, "id": 154874363, "level": 2}
+{"count": 394, "name": "Aggregate function", "weight": 0.0, "id": 2778861586, "level": 2}
+{"count": 626, "name": "Statistical database", "weight": 0.0, "id": 2779287364, "level": 2}
+{"count": 665, "name": "User intent", "weight": 0.0, "id": 2780531969, "level": 2}
+{"count": 527, "name": "Product classification", "weight": 0.0, "id": 47375454, "level": 2}
+{"count": 1782, "name": "Business object", "weight": 0.0, "id": 20151700, "level": 2}
+{"count": 9679, "name": "Tuple", "weight": 0.0, "id": 118930307, "level": 2}
+{"count": 513, "name": "Faceted search", "weight": 0.0, "id": 2781446125, "level": 2}
+{"count": 2013, "name": "Entity linking", "weight": 0.0, "id": 96711827, "level": 2}
+{"count": 6053, "name": "Information filtering system", "weight": 0.0, "id": 178674793, "level": 2}
+{"count": 2143, "name": "Database application", "weight": 0.0, "id": 2778625365, "level": 2}
+{"count": 1952, "name": "Classified information", "weight": 0.0, "id": 124181835, "level": 2}
+{"count": 211, "name": "Open-world assumption", "weight": 0.0, "id": 40744484, "level": 2}
+{"count": 646, "name": "Knowledge retrieval", "weight": 0.0, "id": 2780613888, "level": 2}
+{"count": 785, "name": "Biosurveillance", "weight": 0.0, "id": 2777891822, "level": 2}
+{"count": 716, "name": "CityGML", "weight": 0.0, "id": 2776744651, "level": 2}
+{"count": 495, "name": "International Patent Classification", "weight": 0.0, "id": 2779579772, "level": 2}
+{"count": 589, "name": "Market basket", "weight": 0.0, "id": 2779008359, "level": 2}
+{"count": 3871, "name": "Semantic reasoner", "weight": 0.0, "id": 9616225, "level": 2}
+{"count": 1245, "name": "Database administrator", "weight": 0.0, "id": 70236469, "level": 2}
+{"count": 538, "name": "Data independence", "weight": 0.0, "id": 153455498, "level": 2}
+{"count": 1524, "name": "Preference learning", "weight": 0.0, "id": 181204326, "level": 2}
+{"count": 819, "name": "Crime analysis", "weight": 0.0, "id": 2776876444, "level": 2}
+{"count": 539, "name": "Hierarchical Data Format", "weight": 0.0, "id": 172444134, "level": 2}
+{"count": 353, "name": "Federated Architecture", "weight": 0.0, "id": 132474827, "level": 2}
+{"count": 1273, "name": "Data verification", "weight": 0.0, "id": 49895821, "level": 2}
+{"count": 172, "name": "Cross-reference", "weight": 0.0, "id": 2779382497, "level": 2}
+{"count": 428, "name": "De-identification", "weight": 0.0, "id": 2781351580, "level": 2}
+{"count": 4931, "name": "Alias", "weight": 0.0, "id": 46681722, "level": 2}
+{"count": 884, "name": "Data discovery", "weight": 0.0, "id": 2777516300, "level": 2}
+{"count": 137, "name": "Social data analysis", "weight": 0.0, "id": 2775994463, "level": 2}
+{"count": 1618, "name": "Structured document", "weight": 0.0, "id": 2779000725, "level": 2}
+{"count": 477, "name": "ArcGIS Engine", "weight": 0.0, "id": 2778086514, "level": 2}
+{"count": 560, "name": "Choropleth map", "weight": 0.0, "id": 111349238, "level": 2}
+{"count": 547, "name": "Stack overflow", "weight": 0.0, "id": 125903421, "level": 2}
+{"count": 974, "name": "Tokenization (data security)", "weight": 0.0, "id": 2778755697, "level": 2}
+{"count": 2962, "name": "Multi-source", "weight": 0.0, "id": 2780665216, "level": 2}
+{"count": 815, "name": "ArcGIS Server", "weight": 0.0, "id": 164833729, "level": 2}
+{"count": 525, "name": "Semantic HTML", "weight": 0.0, "id": 57298352, "level": 2}
+{"count": 940, "name": "Credit card fraud", "weight": 0.0, "id": 2780747020, "level": 2}
+{"count": 213, "name": "Data lineage", "weight": 0.0, "id": 2776071633, "level": 2}
+{"count": 1394, "name": "Distributed knowledge", "weight": 0.0, "id": 2779086853, "level": 2}
+{"count": 1517, "name": "Master data", "weight": 0.0, "id": 61871575, "level": 2}
+{"count": 2435, "name": "Operational system", "weight": 0.0, "id": 2779716392, "level": 2}
+{"count": 832, "name": "Set operations", "weight": 0.0, "id": 2777168461, "level": 2}
+{"count": 182, "name": "A/B testing", "weight": 0.0, "id": 2780016347, "level": 2}
+{"count": 651, "name": "NetCDF", "weight": 0.0, "id": 11090531, "level": 2}
+{"count": 1377, "name": "Feature engineering", "weight": 0.0, "id": 2778827112, "level": 2}
+{"count": 1655, "name": "Data domain", "weight": 0.0, "id": 84270502, "level": 2}
+{"count": 359, "name": "Paradata", "weight": 0.0, "id": 2776363604, "level": 2}
+{"count": 943, "name": "Web document", "weight": 0.0, "id": 2776145802, "level": 2}

@@ -1,0 +1,9 @@
+{"count": 4231, "name": "Logical data model", "weight": 10.0, "id": 203702819, "level": 3}
+{"count": 3054, "name": "Data administration", "weight": 7.0, "id": 115842085, "level": 3}
+{"count": 162, "name": "Object-role modeling", "weight": 0.0, "id": 131972374, "level": 3}
+{"count": 111, "name": "Standard data model", "weight": 0.0, "id": 2778810964, "level": 3}
+{"count": 24, "name": "Anchor modeling", "weight": 0.0, "id": 2780033047, "level": 3}
+{"count": 16, "name": "FCO-IM", "weight": 0.0, "id": 2777263012, "level": 3}
+{"count": 11, "name": "Enterprise Data Modeling", "weight": 0.0, "id": 2776087975, "level": 3}
+{"count": 9, "name": "Data vault modeling", "weight": 0.0, "id": 2778258921, "level": 3}
+{"count": 1607, "name": "Data transformation", "weight": 3.0, "id": 150670458, "level": 3}

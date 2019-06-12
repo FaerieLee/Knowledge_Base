@@ -1,0 +1,14 @@
+{"count": 255, "name": "Generic Framing Procedure", "weight": 1.0, "id": 146194531, "level": 5}
+{"count": 94, "name": "100 Gigabit Ethernet", "weight": 0.0, "id": 2777278337, "level": 5}
+{"count": 966, "name": "Jumbo frame", "weight": 6.0, "id": 80343307, "level": 5}
+{"count": 1510, "name": "Ethernet Powerlink", "weight": 10.0, "id": 70205395, "level": 5}
+{"count": 29, "name": "Ethernet Ring Protection Switching", "weight": 0.0, "id": 2780101886, "level": 5}
+{"count": 309, "name": "Media Redundancy Protocol", "weight": 2.0, "id": 1082259, "level": 5}
+{"count": 104, "name": "Digital Signal 0", "weight": 0.0, "id": 28215071, "level": 5}
+{"count": 11, "name": "Digital Signal 3", "weight": 0.0, "id": 2778098640, "level": 5}
+{"count": 1491, "name": "RDMA over Converged Ethernet", "weight": 9.0, "id": 67860999, "level": 5}
+{"count": 52, "name": "Long Reach Ethernet", "weight": 0.0, "id": 6962282, "level": 5}
+{"count": 401, "name": "Autonegotiation", "weight": 2.0, "id": 108164733, "level": 5}
+{"count": 195, "name": "Local Area Transport", "weight": 1.0, "id": 30395434, "level": 5}
+{"count": 13, "name": "C Form-factor Pluggable", "weight": 0.0, "id": 141101579, "level": 5}
+{"count": 1359, "name": "Ethernet Global Data Protocol", "weight": 9.0, "id": 92529311, "level": 5}

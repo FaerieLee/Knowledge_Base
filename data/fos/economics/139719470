@@ -1,0 +1,200 @@
+{"count": 248334, "name": "Indexation", "weight": 10.0, "id": 186311912, "level": 2}
+{"count": 65176, "name": "Interest rate", "weight": 2.0, "id": 175025494, "level": 2}
+{"count": 69344, "name": "Structural change", "weight": 2.0, "id": 49271019, "level": 2}
+{"count": 60623, "name": "Exchange rate", "weight": 2.0, "id": 2776988154, "level": 2}
+{"count": 66750, "name": "Monetary policy", "weight": 2.0, "id": 126285488, "level": 2}
+{"count": 23612, "name": "Economic model", "weight": 0.0, "id": 119693030, "level": 2}
+{"count": 92080, "name": "Inflation", "weight": 3.0, "id": 75218677, "level": 2}
+{"count": 103965, "name": "Unemployment", "weight": 4.0, "id": 2778126366, "level": 2}
+{"count": 41540, "name": "Technological change", "weight": 1.0, "id": 137996800, "level": 2}
+{"count": 30600, "name": "Business cycle", "weight": 1.0, "id": 83873408, "level": 2}
+{"count": 45144, "name": "Emerging markets", "weight": 1.0, "id": 121087249, "level": 2}
+{"count": 31061, "name": "Income distribution", "weight": 1.0, "id": 519300510, "level": 2}
+{"count": 21597, "name": "General equilibrium theory", "weight": 0.0, "id": 103382277, "level": 2}
+{"count": 68386, "name": "Financial crisis", "weight": 2.0, "id": 2778300220, "level": 2}
+{"count": 45203, "name": "Supply and demand", "weight": 1.0, "id": 120330832, "level": 2}
+{"count": 3858, "name": "Gold standard", "weight": 0.0, "id": 2780692465, "level": 2}
+{"count": 11884, "name": "Financial intermediary", "weight": 0.0, "id": 65146658, "level": 2}
+{"count": 27743, "name": "Gross domestic product", "weight": 1.0, "id": 114350782, "level": 2}
+{"count": 78030, "name": "Debt", "weight": 3.0, "id": 120527767, "level": 2}
+{"count": 14363, "name": "Productivity", "weight": 0.0, "id": 204983608, "level": 2}
+{"count": 21887, "name": "Industrial production", "weight": 0.0, "id": 82753439, "level": 2}
+{"count": 11772, "name": "Current account", "weight": 0.0, "id": 52092804, "level": 2}
+{"count": 21888, "name": "Willingness to pay", "weight": 0.0, "id": 2777364431, "level": 2}
+{"count": 14644, "name": "Bond market", "weight": 0.0, "id": 197142791, "level": 2}
+{"count": 43493, "name": "Market liquidity", "weight": 1.0, "id": 183582576, "level": 2}
+{"count": 8974, "name": "Unit root", "weight": 0.0, "id": 195561663, "level": 2}
+{"count": 13610, "name": "Technical progress", "weight": 0.0, "id": 2779578543, "level": 2}
+{"count": 14042, "name": "Capital accumulation", "weight": 0.0, "id": 81751973, "level": 2}
+{"count": 17122, "name": "Economic indicator", "weight": 0.0, "id": 202353208, "level": 2}
+{"count": 11000, "name": "Balance of payments", "weight": 0.0, "id": 109948328, "level": 2}
+{"count": 9243, "name": "Rational expectations", "weight": 0.0, "id": 96016098, "level": 2}
+{"count": 8809, "name": "Endogenous growth theory", "weight": 0.0, "id": 190430219, "level": 2}
+{"count": 6840, "name": "Valorisation", "weight": 0.0, "id": 2779972723, "level": 2}
+{"count": 22501, "name": "Cointegration", "weight": 0.0, "id": 145162277, "level": 2}
+{"count": 10283, "name": "Vector autoregression", "weight": 0.0, "id": 133029050, "level": 2}
+{"count": 24393, "name": "Deregulation", "weight": 0.0, "id": 78780426, "level": 2}
+{"count": 8622, "name": "National accounts", "weight": 0.0, "id": 32235935, "level": 2}
+{"count": 7564, "name": "Open economy", "weight": 0.0, "id": 2778135664, "level": 2}
+{"count": 14197, "name": "Price level", "weight": 0.0, "id": 34881761, "level": 2}
+{"count": 4947, "name": "Input\u2013output model", "weight": 0.0, "id": 91435432, "level": 2}
+{"count": 8560, "name": "Tax policy", "weight": 0.0, "id": 2776805697, "level": 2}
+{"count": 9583, "name": "Measures of national income and output", "weight": 0.0, "id": 50091055, "level": 2}
+{"count": 15830, "name": "Granger causality", "weight": 0.0, "id": 129824826, "level": 2}
+{"count": 47205, "name": "Recession", "weight": 1.0, "id": 195742910, "level": 2}
+{"count": 16013, "name": "Spillover effect", "weight": 0.0, "id": 55527203, "level": 2}
+{"count": 10267, "name": "Balance of trade", "weight": 0.0, "id": 22674136, "level": 2}
+{"count": 9320, "name": "Price index", "weight": 0.0, "id": 178131030, "level": 2}
+{"count": 8942, "name": "Aggregate demand", "weight": 0.0, "id": 203379541, "level": 2}
+{"count": 10727, "name": "Stylized fact", "weight": 0.0, "id": 38935604, "level": 2}
+{"count": 8623, "name": "Capital requirement", "weight": 0.0, "id": 2864544, "level": 2}
+{"count": 8183, "name": "Computable general equilibrium", "weight": 0.0, "id": 20522121, "level": 2}
+{"count": 5213, "name": "Gross national product", "weight": 0.0, "id": 3769998, "level": 2}
+{"count": 9452, "name": "Real gross domestic product", "weight": 0.0, "id": 181683161, "level": 2}
+{"count": 12695, "name": "Product innovation", "weight": 0.0, "id": 75434695, "level": 2}
+{"count": 5552, "name": "Overlapping generations model", "weight": 0.0, "id": 7386506, "level": 2}
+{"count": 5669, "name": "Personal income", "weight": 0.0, "id": 2778566306, "level": 2}
+{"count": 5967, "name": "Crowding out", "weight": 0.0, "id": 8031360, "level": 2}
+{"count": 6491, "name": "Purchasing power", "weight": 0.0, "id": 2776542561, "level": 2}
+{"count": 2624, "name": "Permanent income hypothesis", "weight": 0.0, "id": 194425066, "level": 2}
+{"count": 4296, "name": "Comparative statics", "weight": 0.0, "id": 48875124, "level": 2}
+{"count": 9321, "name": "Credit rating", "weight": 0.0, "id": 205208723, "level": 2}
+{"count": 15839, "name": "Multiplier (economics)", "weight": 0.0, "id": 124584101, "level": 2}
+{"count": 3110, "name": "Durable good", "weight": 0.0, "id": 61933577, "level": 2}
+{"count": 8705, "name": "Systemic risk", "weight": 0.0, "id": 144587487, "level": 2}
+{"count": 51762, "name": "Loan", "weight": 2.0, "id": 2777764128, "level": 2}
+{"count": 49519, "name": "Leverage (finance)", "weight": 1.0, "id": 81931697, "level": 2}
+{"count": 50542, "name": "Currency", "weight": 2.0, "id": 141121606, "level": 2}
+{"count": 4079, "name": "Real income", "weight": 0.0, "id": 59680979, "level": 2}
+{"count": 5913, "name": "Market integration", "weight": 0.0, "id": 2781051278, "level": 2}
+{"count": 6794, "name": "Economic data", "weight": 0.0, "id": 27591710, "level": 2}
+{"count": 5426, "name": "Small open economy", "weight": 0.0, "id": 2777883944, "level": 2}
+{"count": 3632, "name": "Structural break", "weight": 0.0, "id": 186008389, "level": 2}
+{"count": 2581, "name": "Knowledge spillover", "weight": 0.0, "id": 2776936074, "level": 2}
+{"count": 5413, "name": "Capacity utilization", "weight": 0.0, "id": 13166094, "level": 2}
+{"count": 3406, "name": "Mean reversion", "weight": 0.0, "id": 135205223, "level": 2}
+{"count": 1230, "name": "Consumption smoothing", "weight": 0.0, "id": 2778762746, "level": 2}
+{"count": 2184, "name": "Wealth effect", "weight": 0.0, "id": 2776149234, "level": 2}
+{"count": 12240, "name": "Demand management", "weight": 0.0, "id": 179366874, "level": 2}
+{"count": 8044, "name": "New economy", "weight": 0.0, "id": 2778859120, "level": 2}
+{"count": 43756, "name": "Value-added tax", "weight": 1.0, "id": 111326686, "level": 2}
+{"count": 2227, "name": "Country risk", "weight": 0.0, "id": 2775997200, "level": 2}
+{"count": 4582, "name": "Capital account", "weight": 0.0, "id": 32768728, "level": 2}
+{"count": 3389, "name": "Cost of living", "weight": 0.0, "id": 2777645362, "level": 2}
+{"count": 1498, "name": "Tobin's q", "weight": 0.0, "id": 8901936, "level": 2}
+{"count": 18661, "name": "Speculation", "weight": 0.0, "id": 47941915, "level": 2}
+{"count": 2862, "name": "Savings account", "weight": 0.0, "id": 103565092, "level": 2}
+{"count": 2085, "name": "Economic equilibrium", "weight": 0.0, "id": 2776303733, "level": 2}
+{"count": 12373, "name": "Credit crunch", "weight": 0.0, "id": 180879305, "level": 2}
+{"count": 8719, "name": "Financial institution", "weight": 0.0, "id": 2779601481, "level": 2}
+{"count": 3679, "name": "Reserve requirement", "weight": 0.0, "id": 150149615, "level": 2}
+{"count": 5012, "name": "Macroeconomic model", "weight": 0.0, "id": 55986821, "level": 2}
+{"count": 5011, "name": "Money market", "weight": 0.0, "id": 23952128, "level": 2}
+{"count": 998, "name": "Search theory", "weight": 0.0, "id": 98306058, "level": 2}
+{"count": 5556, "name": "Economic recovery", "weight": 0.0, "id": 2777461252, "level": 2}
+{"count": 1410, "name": "Financial fragility", "weight": 0.0, "id": 2781332510, "level": 2}
+{"count": 7130, "name": "Solvency", "weight": 0.0, "id": 2778215004, "level": 2}
+{"count": 1392, "name": "Marginal propensity to consume", "weight": 0.0, "id": 161629241, "level": 2}
+{"count": 30311, "name": "Added value", "weight": 1.0, "id": 78244369, "level": 2}
+{"count": 1556, "name": "Consumption function", "weight": 0.0, "id": 169488363, "level": 2}
+{"count": 3314, "name": "Post-Keynesian economics", "weight": 0.0, "id": 56777670, "level": 2}
+{"count": 909, "name": "Coordination failure", "weight": 0.0, "id": 2780917649, "level": 2}
+{"count": 1789, "name": "Stock and flow", "weight": 0.0, "id": 86161862, "level": 2}
+{"count": 10818, "name": "Austerity", "weight": 0.0, "id": 69828861, "level": 2}
+{"count": 4370, "name": "Price controls", "weight": 0.0, "id": 160909455, "level": 2}
+{"count": 2888, "name": "Consumption (economics)", "weight": 0.0, "id": 1374810, "level": 2}
+{"count": 895, "name": "Shock (economics)", "weight": 0.0, "id": 49034341, "level": 2}
+{"count": 3260, "name": "Economic bubble", "weight": 0.0, "id": 201543015, "level": 2}
+{"count": 27573, "name": "Financial capital", "weight": 1.0, "id": 44750222, "level": 2}
+{"count": 3109, "name": "Productive capacity", "weight": 0.0, "id": 85541252, "level": 2}
+{"count": 280, "name": "Consumption distribution", "weight": 0.0, "id": 2778099575, "level": 2}
+{"count": 433, "name": "Experience good", "weight": 0.0, "id": 2776677068, "level": 2}
+{"count": 5436, "name": "Intermediation", "weight": 0.0, "id": 2779143981, "level": 2}
+{"count": 2328, "name": "Effective demand", "weight": 0.0, "id": 2776290994, "level": 2}
+{"count": 1473, "name": "Gross fixed capital formation", "weight": 0.0, "id": 115781380, "level": 2}
+{"count": 925, "name": "Gross output", "weight": 0.0, "id": 50880648, "level": 2}
+{"count": 2768, "name": "Unit price", "weight": 0.0, "id": 8326231, "level": 2}
+{"count": 4437, "name": "Sovereign wealth fund", "weight": 0.0, "id": 124932975, "level": 2}
+{"count": 1143, "name": "Buffer stock scheme", "weight": 0.0, "id": 146109937, "level": 2}
+{"count": 3462, "name": "Relative value", "weight": 0.0, "id": 201236551, "level": 2}
+{"count": 38783, "name": "Cash", "weight": 1.0, "id": 2778083465, "level": 2}
+{"count": 2657, "name": "Market clearing", "weight": 0.0, "id": 14981831, "level": 2}
+{"count": 3272, "name": "Demand shock", "weight": 0.0, "id": 150566966, "level": 2}
+{"count": 3444, "name": "Consumer confidence index", "weight": 0.0, "id": 96405632, "level": 2}
+{"count": 2522, "name": "Annual percentage rate", "weight": 0.0, "id": 143707976, "level": 2}
+{"count": 12263, "name": "Rivalry", "weight": 0.0, "id": 2779602485, "level": 2}
+{"count": 990, "name": "Sectoral analysis", "weight": 0.0, "id": 2779716410, "level": 2}
+{"count": 830, "name": "Trade regulation", "weight": 0.0, "id": 2776701442, "level": 2}
+{"count": 2183, "name": "Quantity theory of money", "weight": 0.0, "id": 63999242, "level": 2}
+{"count": 1600, "name": "Compensation of employees", "weight": 0.0, "id": 172123218, "level": 2}
+{"count": 808, "name": "Computational economics", "weight": 0.0, "id": 2776142066, "level": 2}
+{"count": 1708, "name": "Economic stagnation", "weight": 0.0, "id": 181370504, "level": 2}
+{"count": 883, "name": "Hedonic regression", "weight": 0.0, "id": 2778479189, "level": 2}
+{"count": 7198, "name": "Overheating (economics)", "weight": 0.0, "id": 117785501, "level": 2}
+{"count": 1072, "name": "Kondratiev wave", "weight": 0.0, "id": 171555571, "level": 2}
+{"count": 9205, "name": "Economic expansion", "weight": 0.0, "id": 49135098, "level": 2}
+{"count": 1104, "name": "Dynamic efficiency", "weight": 0.0, "id": 2780695930, "level": 2}
+{"count": 532, "name": "Net capital rule", "weight": 0.0, "id": 161782682, "level": 2}
+{"count": 192, "name": "Incremental capital-output ratio", "weight": 0.0, "id": 2781435717, "level": 2}
+{"count": 3197, "name": "Barter", "weight": 0.0, "id": 207556602, "level": 2}
+{"count": 412, "name": "Merit good", "weight": 0.0, "id": 203648153, "level": 2}
+{"count": 1222, "name": "Business failure", "weight": 0.0, "id": 2781317483, "level": 2}
+{"count": 992, "name": "Budgetary policy", "weight": 0.0, "id": 2777473121, "level": 2}
+{"count": 4311, "name": "Virtuous circle and vicious circle", "weight": 0.0, "id": 23979983, "level": 2}
+{"count": 760, "name": "Original sin", "weight": 0.0, "id": 2775842373, "level": 2}
+{"count": 3589, "name": "Consumer spending", "weight": 0.0, "id": 177033891, "level": 2}
+{"count": 774, "name": "Commercial paper", "weight": 0.0, "id": 84341087, "level": 2}
+{"count": 1686, "name": "National Insurance", "weight": 0.0, "id": 2776868930, "level": 2}
+{"count": 388, "name": "Agent-based computational economics", "weight": 0.0, "id": 2777618053, "level": 2}
+{"count": 3948, "name": "National bank", "weight": 0.0, "id": 2779467348, "level": 2}
+{"count": 907, "name": "Oil boom", "weight": 0.0, "id": 2778843516, "level": 2}
+{"count": 1178, "name": "Aggregation problem", "weight": 0.0, "id": 32172795, "level": 2}
+{"count": 408, "name": "Net investment", "weight": 0.0, "id": 2781336724, "level": 2}
+{"count": 494, "name": "Fungibility", "weight": 0.0, "id": 101754097, "level": 2}
+{"count": 483, "name": "Factor shares", "weight": 0.0, "id": 2776490952, "level": 2}
+{"count": 2564, "name": "Guardian", "weight": 0.0, "id": 2776680780, "level": 2}
+{"count": 1114, "name": "Pigou effect", "weight": 0.0, "id": 79108098, "level": 2}
+{"count": 5535, "name": "Innovation economics", "weight": 0.0, "id": 110599986, "level": 2}
+{"count": 886, "name": "Flow of funds", "weight": 0.0, "id": 2778540153, "level": 2}
+{"count": 443, "name": "Replacement value", "weight": 0.0, "id": 2780724120, "level": 2}
+{"count": 534, "name": "Investment function", "weight": 0.0, "id": 2780447953, "level": 2}
+{"count": 405, "name": "Tobin tax", "weight": 0.0, "id": 2776502694, "level": 2}
+{"count": 438, "name": "Circular flow of income", "weight": 0.0, "id": 55968005, "level": 2}
+{"count": 8372, "name": "Taxpayer", "weight": 0.0, "id": 2776360696, "level": 2}
+{"count": 969, "name": "Value capture", "weight": 0.0, "id": 2777569040, "level": 2}
+{"count": 581, "name": "Community Reinvestment Act", "weight": 0.0, "id": 2779055911, "level": 2}
+{"count": 841, "name": "Life-cycle hypothesis", "weight": 0.0, "id": 61570092, "level": 2}
+{"count": 1527, "name": "Value added", "weight": 0.0, "id": 80323366, "level": 2}
+{"count": 1422, "name": "Microfoundations", "weight": 0.0, "id": 2776589375, "level": 2}
+{"count": 5456, "name": "Shift-share analysis", "weight": 0.0, "id": 40605704, "level": 2}
+{"count": 816, "name": "Laddering", "weight": 0.0, "id": 2775976724, "level": 2}
+{"count": 1123, "name": "Personal consumption expenditures price index", "weight": 0.0, "id": 100735349, "level": 2}
+{"count": 1316, "name": "Soft landing", "weight": 0.0, "id": 65424074, "level": 2}
+{"count": 3333, "name": "Ex-ante", "weight": 0.0, "id": 122251271, "level": 2}
+{"count": 1615, "name": "Surplus value", "weight": 0.0, "id": 2781211949, "level": 2}
+{"count": 1684, "name": "Policy mix", "weight": 0.0, "id": 2779962586, "level": 2}
+{"count": 631, "name": "National savings", "weight": 0.0, "id": 2779860848, "level": 2}
+{"count": 3321, "name": "Factor cost", "weight": 0.0, "id": 100709819, "level": 2}
+{"count": 449, "name": "Average propensity to save", "weight": 0.0, "id": 153975975, "level": 2}
+{"count": 16573, "name": "Short run", "weight": 0.0, "id": 204208750, "level": 2}
+{"count": 1226, "name": "Intermediate good", "weight": 0.0, "id": 134415985, "level": 2}
+{"count": 659, "name": "Consumer Expenditure Survey", "weight": 0.0, "id": 2777256093, "level": 2}
+{"count": 894, "name": "Gross value added", "weight": 0.0, "id": 2779872728, "level": 2}
+{"count": 351, "name": "Intertemporal consumption", "weight": 0.0, "id": 2777287079, "level": 2}
+{"count": 1127, "name": "Equity (economics)", "weight": 0.0, "id": 5148918, "level": 2}
+{"count": 185, "name": "Moral suasion", "weight": 0.0, "id": 2778993185, "level": 2}
+{"count": 1099, "name": "Industrial production index", "weight": 0.0, "id": 174634509, "level": 2}
+{"count": 1901, "name": "Monetization", "weight": 0.0, "id": 2780602052, "level": 2}
+{"count": 393, "name": "Net output", "weight": 0.0, "id": 10809508, "level": 2}
+{"count": 214, "name": "Supply-side economics", "weight": 0.0, "id": 2779356393, "level": 2}
+{"count": 1141, "name": "Representative agent", "weight": 0.0, "id": 173667970, "level": 2}
+{"count": 195, "name": "Penn World Table", "weight": 0.0, "id": 2776209492, "level": 2}
+{"count": 508, "name": "Compliance cost", "weight": 0.0, "id": 2781070176, "level": 2}
+{"count": 446, "name": "Transfer problem", "weight": 0.0, "id": 2779066501, "level": 2}
+{"count": 3311, "name": "Federal funds", "weight": 0.0, "id": 2778333325, "level": 2}
+{"count": 621, "name": "Double counting (accounting)", "weight": 0.0, "id": 36639067, "level": 2}
+{"count": 4034, "name": "Excise", "weight": 0.0, "id": 2778302417, "level": 2}
+{"count": 136, "name": "Gresham's law", "weight": 0.0, "id": 170120187, "level": 2}
+{"count": 240, "name": "IS\u2013LM model", "weight": 0.0, "id": 2778156722, "level": 2}
+{"count": 364, "name": "Say's law", "weight": 0.0, "id": 53162308, "level": 2}
+{"count": 179, "name": "Administered prices", "weight": 0.0, "id": 2775977816, "level": 2}

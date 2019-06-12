@@ -1,0 +1,5 @@
+{"count": 121, "name": "Triplestore", "weight": 10.0, "id": 2779868404, "level": 4}
+{"count": 83, "name": "GeoSPARQL", "weight": 6.0, "id": 2776073906, "level": 4}
+{"count": 51, "name": "Bio2RDF", "weight": 4.0, "id": 2780293869, "level": 4}
+{"count": 6, "name": "SPARUL", "weight": 0.0, "id": 2776142415, "level": 4}
+{"count": 9, "name": "Stardog", "weight": 0.0, "id": 2778216863, "level": 4}

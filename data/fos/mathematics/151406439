@@ -1,0 +1,7 @@
+{"count": 12297, "name": "Autoregressive integrated moving average", "weight": 10.0, "id": 24338571, "level": 3}
+{"count": 512, "name": "Decomposition of time series", "weight": 0.0, "id": 69615038, "level": 3}
+{"count": 247, "name": "Time series database", "weight": 0.0, "id": 2778618084, "level": 3}
+{"count": 243, "name": "Time-series segmentation", "weight": 0.0, "id": 2780608686, "level": 3}
+{"count": 1480, "name": "Order of integration", "weight": 1.0, "id": 18820702, "level": 3}
+{"count": 252, "name": "Satellite Image Time Series", "weight": 0.0, "id": 2775889553, "level": 3}
+{"count": 28, "name": "Unevenly spaced time series", "weight": 0.0, "id": 2776119509, "level": 3}

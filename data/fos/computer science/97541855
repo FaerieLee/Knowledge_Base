@@ -1,0 +1,8 @@
+{"count": 2405, "name": "Temporal difference learning", "weight": 4.0, "id": 196340769, "level": 3}
+{"count": 3610, "name": "Q-learning", "weight": 6.0, "id": 188116033, "level": 3}
+{"count": 5558, "name": "Learning classifier system", "weight": 10.0, "id": 199190896, "level": 3}
+{"count": 5172, "name": "Error-driven learning", "weight": 9.0, "id": 47932503, "level": 3}
+{"count": 244, "name": "Apprenticeship learning", "weight": 0.0, "id": 2780254194, "level": 3}
+{"count": 10, "name": "Proto-value functions", "weight": 0.0, "id": 2777965961, "level": 3}
+{"count": 426, "name": "Reward-based selection", "weight": 0.0, "id": 9515004, "level": 3}
+{"count": 20, "name": "Kuhn poker", "weight": 0.0, "id": 2778399548, "level": 3}

@@ -1,0 +1,6 @@
+{"count": 14525, "name": "Flow stress", "weight": 10.0, "id": 162611839, "level": 3}
+{"count": 5191, "name": "Split-Hopkinson pressure bar", "weight": 3.0, "id": 77301326, "level": 3}
+{"count": 2551, "name": "Dynamic strain aging", "weight": 1.0, "id": 117087868, "level": 3}
+{"count": 864, "name": "Portevin\u2013Le Chatelier effect", "weight": 0.0, "id": 193733630, "level": 3}
+{"count": 1073, "name": "Strain rate tensor", "weight": 0.0, "id": 74691360, "level": 3}
+{"count": 46, "name": "D-DIA", "weight": 0.0, "id": 2779551338, "level": 3}

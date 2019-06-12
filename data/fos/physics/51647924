@@ -1,0 +1,6 @@
+{"count": 428, "name": "Cyclic reduction", "weight": 2.0, "id": 2777459586, "level": 4}
+{"count": 1453, "name": "Tridiagonal matrix algorithm", "weight": 10.0, "id": 176603272, "level": 4}
+{"count": 104, "name": "Bidiagonal matrix", "weight": 0.0, "id": 73864959, "level": 4}
+{"count": 309, "name": "Pentadiagonal matrix", "weight": 2.0, "id": 105407012, "level": 4}
+{"count": 393, "name": "EISPACK", "weight": 2.0, "id": 134935661, "level": 4}
+{"count": 37, "name": "SPIKE algorithm", "weight": 0.0, "id": 2777711143, "level": 4}

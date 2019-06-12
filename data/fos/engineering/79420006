@@ -1,0 +1,22 @@
+{"count": 4934, "name": "Specific impulse", "weight": 10.0, "id": 15046436, "level": 3}
+{"count": 1764, "name": "Propulsive efficiency", "weight": 3.0, "id": 42021957, "level": 3}
+{"count": 2825, "name": "Propulsor", "weight": 5.0, "id": 151174772, "level": 3}
+{"count": 1100, "name": "Pulse detonation engine", "weight": 2.0, "id": 2780087032, "level": 3}
+{"count": 623, "name": "Pulsed plasma thruster", "weight": 1.0, "id": 2779573106, "level": 3}
+{"count": 797, "name": "Thrust tectonics", "weight": 1.0, "id": 180362636, "level": 3}
+{"count": 1203, "name": "Thrust vectoring", "weight": 2.0, "id": 2775879734, "level": 3}
+{"count": 94, "name": "Pound (force)", "weight": 0.0, "id": 65083552, "level": 3}
+{"count": 472, "name": "Ducted propeller", "weight": 0.0, "id": 2779715735, "level": 3}
+{"count": 104, "name": "Tubular linear motor", "weight": 0.0, "id": 2776442434, "level": 3}
+{"count": 145, "name": "Bollard pull", "weight": 0.0, "id": 83415686, "level": 3}
+{"count": 220, "name": "SERN", "weight": 0.0, "id": 24300590, "level": 3}
+{"count": 314, "name": "Thrust-to-weight ratio", "weight": 0.0, "id": 92025527, "level": 3}
+{"count": 106, "name": "EPNdB", "weight": 0.0, "id": 2777287992, "level": 3}
+{"count": 155, "name": "Bell nozzle", "weight": 0.0, "id": 2777504538, "level": 3}
+{"count": 131, "name": "Dual-thrust", "weight": 0.0, "id": 2778606499, "level": 3}
+{"count": 53, "name": "Thrust curve", "weight": 0.0, "id": 2780859814, "level": 3}
+{"count": 64, "name": "Gravity turn", "weight": 0.0, "id": 2781150552, "level": 3}
+{"count": 69, "name": "Thrust lever", "weight": 0.0, "id": 2778459650, "level": 3}
+{"count": 20, "name": "Cyclorotor", "weight": 0.0, "id": 2776370381, "level": 3}
+{"count": 10, "name": "Center of lateral resistance", "weight": 0.0, "id": 2777257858, "level": 3}
+{"count": 35, "name": "Propulsive Wing", "weight": 0.0, "id": 2780323088, "level": 3}

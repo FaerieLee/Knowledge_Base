@@ -1,0 +1,14 @@
+{"count": 1300, "name": "Cross-site scripting", "weight": 10.0, "id": 39569185, "level": 5}
+{"count": 174, "name": "WS-Security", "weight": 1.0, "id": 2779048042, "level": 5}
+{"count": 267, "name": "Cross-site request forgery", "weight": 2.0, "id": 81351633, "level": 5}
+{"count": 547, "name": "Web threat", "weight": 4.0, "id": 75773760, "level": 5}
+{"count": 22, "name": "WS-Trust", "weight": 0.0, "id": 2781210621, "level": 5}
+{"count": 626, "name": "Content Security Policy", "weight": 4.0, "id": 166003498, "level": 5}
+{"count": 19, "name": "WS-SecurityPolicy", "weight": 0.0, "id": 2777578498, "level": 5}
+{"count": 11, "name": "Content sniffing", "weight": 0.0, "id": 2777508652, "level": 5}
+{"count": 27, "name": "Burp suite", "weight": 0.0, "id": 2776148146, "level": 5}
+{"count": 31, "name": "JSONP", "weight": 0.0, "id": 34661495, "level": 5}
+{"count": 12, "name": "HTTP response splitting", "weight": 0.0, "id": 190081164, "level": 5}
+{"count": 13, "name": "Web Services Enhancements", "weight": 0.0, "id": 2780605379, "level": 5}
+{"count": 21, "name": "Mass assignment vulnerability", "weight": 0.0, "id": 149061698, "level": 5}
+{"count": 27, "name": "Cross-zone scripting", "weight": 0.0, "id": 176281812, "level": 5}

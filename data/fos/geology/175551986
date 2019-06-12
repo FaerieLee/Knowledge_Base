@@ -1,0 +1,36 @@
+{"count": 10119, "name": "Active fault", "weight": 10.0, "id": 26001220, "level": 3}
+{"count": 5518, "name": "Focal mechanism", "weight": 5.0, "id": 97490223, "level": 3}
+{"count": 7753, "name": "Thrust fault", "weight": 7.0, "id": 110041135, "level": 3}
+{"count": 2731, "name": "Basin and range topography", "weight": 2.0, "id": 155627805, "level": 3}
+{"count": 3619, "name": "Transform fault", "weight": 3.0, "id": 106973953, "level": 3}
+{"count": 2146, "name": "Seismotectonics", "weight": 2.0, "id": 21089234, "level": 3}
+{"count": 1623, "name": "North Anatolian Fault", "weight": 1.0, "id": 2778958684, "level": 3}
+{"count": 1754, "name": "Transpression", "weight": 1.0, "id": 128074901, "level": 3}
+{"count": 7030, "name": "Strike-slip tectonics", "weight": 6.0, "id": 169162353, "level": 3}
+{"count": 6187, "name": "Fault scarp", "weight": 6.0, "id": 114679195, "level": 3}
+{"count": 1241, "name": "Fault gouge", "weight": 1.0, "id": 192194790, "level": 3}
+{"count": 861, "name": "Transtension", "weight": 0.0, "id": 2777234146, "level": 3}
+{"count": 3475, "name": "Seismic gap", "weight": 3.0, "id": 27242684, "level": 3}
+{"count": 1764, "name": "Cataclastic rock", "weight": 1.0, "id": 164421858, "level": 3}
+{"count": 1352, "name": "Growth fault", "weight": 1.0, "id": 57803568, "level": 3}
+{"count": 1347, "name": "Detachment fault", "weight": 1.0, "id": 185339796, "level": 3}
+{"count": 251, "name": "Fault mechanics", "weight": 0.0, "id": 2777423641, "level": 3}
+{"count": 267, "name": "San Andreas Fault Observatory at Depth", "weight": 0.0, "id": 2778262010, "level": 3}
+{"count": 1513, "name": "Earthquake rupture", "weight": 1.0, "id": 2780490779, "level": 3}
+{"count": 735, "name": "Inversion (geology)", "weight": 0.0, "id": 1893757, "level": 3}
+{"count": 460, "name": "Fault breccia", "weight": 0.0, "id": 207299376, "level": 3}
+{"count": 454, "name": "Slickenside", "weight": 0.0, "id": 74745800, "level": 3}
+{"count": 234, "name": "Fault friction", "weight": 0.0, "id": 2780244538, "level": 3}
+{"count": 5299, "name": "Sinistral and dextral", "weight": 5.0, "id": 50047906, "level": 3}
+{"count": 290, "name": "Seismogenic layer", "weight": 0.0, "id": 2778800274, "level": 3}
+{"count": 732, "name": "Echelon formation", "weight": 0.0, "id": 52678131, "level": 3}
+{"count": 583, "name": "Extensional fault", "weight": 0.0, "id": 2780043350, "level": 3}
+{"count": 784, "name": "Compression (geology)", "weight": 0.0, "id": 45871372, "level": 3}
+{"count": 710, "name": "Fault trace", "weight": 0.0, "id": 2776545315, "level": 3}
+{"count": 111, "name": "Shale Gouge Ratio", "weight": 0.0, "id": 2781354511, "level": 3}
+{"count": 404, "name": "Aseismic creep", "weight": 0.0, "id": 50997350, "level": 3}
+{"count": 92, "name": "Creepmeter", "weight": 0.0, "id": 177165082, "level": 3}
+{"count": 16, "name": "Indenter tectonics", "weight": 0.0, "id": 2777673109, "level": 3}
+{"count": 11, "name": "Straight Creek Fault", "weight": 0.0, "id": 2780987970, "level": 3}
+{"count": 36, "name": "Pullapart", "weight": 0.0, "id": 2776282101, "level": 3}
+{"count": 533, "name": "Tilted block faulting", "weight": 0.0, "id": 65576570, "level": 3}

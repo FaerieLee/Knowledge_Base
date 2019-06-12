@@ -1,0 +1,102 @@
+{"count": 10579, "name": "Penetrance", "weight": 10.0, "id": 200544954, "level": 5}
+{"count": 1228, "name": "X-linked recessive inheritance", "weight": 1.0, "id": 62564794, "level": 5}
+{"count": 1598, "name": "Hereditary spastic paraplegia", "weight": 1.0, "id": 2780395223, "level": 5}
+{"count": 8430, "name": "Compound heterozygosity", "weight": 7.0, "id": 12125453, "level": 5}
+{"count": 893, "name": "Hypotrichosis", "weight": 0.0, "id": 2778102086, "level": 5}
+{"count": 1526, "name": "Disease gene identification", "weight": 1.0, "id": 130895681, "level": 5}
+{"count": 626, "name": "Overdominance", "weight": 0.0, "id": 37233692, "level": 5}
+{"count": 411, "name": "Lethal allele", "weight": 0.0, "id": 43934763, "level": 5}
+{"count": 214, "name": "Branchio-oto-renal syndrome", "weight": 0.0, "id": 2781423213, "level": 5}
+{"count": 380, "name": "Spastin", "weight": 0.0, "id": 2781097707, "level": 5}
+{"count": 857, "name": "Allelic heterogeneity", "weight": 0.0, "id": 97603047, "level": 5}
+{"count": 190, "name": "Spondylocostal dysostosis", "weight": 0.0, "id": 2776991630, "level": 5}
+{"count": 422, "name": "Complex segregation analysis", "weight": 0.0, "id": 69681374, "level": 5}
+{"count": 210, "name": "Triple-A syndrome", "weight": 0.0, "id": 2780259769, "level": 5}
+{"count": 168, "name": "Robinow syndrome", "weight": 0.0, "id": 2778451638, "level": 5}
+{"count": 363, "name": "Autosomal dominant cerebellar ataxia", "weight": 0.0, "id": 2778837933, "level": 5}
+{"count": 91, "name": "Wolcott\u2013Rallison syndrome", "weight": 0.0, "id": 2777254461, "level": 5}
+{"count": 308, "name": "GJB6", "weight": 0.0, "id": 2779007002, "level": 5}
+{"count": 189, "name": "Alacrima", "weight": 0.0, "id": 2777531345, "level": 5}
+{"count": 169, "name": "Dyschromatosis symmetrica hereditaria", "weight": 0.0, "id": 2778457590, "level": 5}
+{"count": 296, "name": "X-linked ichthyosis", "weight": 0.0, "id": 2780740392, "level": 5}
+{"count": 137, "name": "Erythrokeratodermia variabilis", "weight": 0.0, "id": 2778198833, "level": 5}
+{"count": 26, "name": "Jackson\u2013Weiss syndrome", "weight": 0.0, "id": 2778500621, "level": 5}
+{"count": 912, "name": "Locus heterogeneity", "weight": 0.0, "id": 63971535, "level": 5}
+{"count": 243, "name": "Hereditary inclusion body myopathy", "weight": 0.0, "id": 2776823398, "level": 5}
+{"count": 154, "name": "Fibrocystin", "weight": 0.0, "id": 2777789954, "level": 5}
+{"count": 324, "name": "CLCN1", "weight": 0.0, "id": 60385514, "level": 5}
+{"count": 279, "name": "Nonsyndromic deafness", "weight": 0.0, "id": 2779163945, "level": 5}
+{"count": 297, "name": "MYO7A", "weight": 0.0, "id": 75423638, "level": 5}
+{"count": 85, "name": "Bruck syndrome", "weight": 0.0, "id": 2779886930, "level": 5}
+{"count": 114, "name": "Hereditary neuralgic amyotrophy", "weight": 0.0, "id": 2775989402, "level": 5}
+{"count": 186, "name": "OTOF", "weight": 0.0, "id": 2778505004, "level": 5}
+{"count": 142, "name": "Paraplegin", "weight": 0.0, "id": 2780431612, "level": 5}
+{"count": 165, "name": "Atlastin", "weight": 0.0, "id": 2778864525, "level": 5}
+{"count": 132, "name": "EDARADD", "weight": 0.0, "id": 2776228473, "level": 5}
+{"count": 120, "name": "Complex vertebral malformation", "weight": 0.0, "id": 2781462295, "level": 5}
+{"count": 88, "name": "Autosomal recessive polycystic kidney disease (ARPKD)", "weight": 0.0, "id": 2779005352, "level": 5}
+{"count": 167, "name": "CDK5RAP2", "weight": 0.0, "id": 2777628746, "level": 5}
+{"count": 177, "name": "PDE6B", "weight": 0.0, "id": 2780014082, "level": 5}
+{"count": 177, "name": "CLCN7", "weight": 0.0, "id": 2776107619, "level": 5}
+{"count": 151, "name": "Medullary cystic kidney disease", "weight": 0.0, "id": 2777958354, "level": 5}
+{"count": 59, "name": "X-linked dominant inheritance", "weight": 0.0, "id": 2776031903, "level": 5}
+{"count": 155, "name": "Autosomal dominant hypophosphatemic rickets", "weight": 0.0, "id": 2780749908, "level": 5}
+{"count": 79, "name": "Peters-plus syndrome", "weight": 0.0, "id": 2776262069, "level": 5}
+{"count": 186, "name": "PRPF31", "weight": 0.0, "id": 2776707178, "level": 5}
+{"count": 122, "name": "Spondyloepimetaphyseal dysplasia", "weight": 0.0, "id": 2777110174, "level": 5}
+{"count": 35, "name": "Setleis syndrome", "weight": 0.0, "id": 2779820227, "level": 5}
+{"count": 49, "name": "De Barsy syndrome", "weight": 0.0, "id": 2779443233, "level": 5}
+{"count": 26, "name": "Naegeli\u2013Franceschetti\u2013Jadassohn syndrome", "weight": 0.0, "id": 2781115779, "level": 5}
+{"count": 38, "name": "Woodhouse\u2013Sakati syndrome", "weight": 0.0, "id": 2779845353, "level": 5}
+{"count": 38, "name": "Sensenbrenner syndrome", "weight": 0.0, "id": 2778160400, "level": 5}
+{"count": 56, "name": "Urofacial syndrome", "weight": 0.0, "id": 2776167750, "level": 5}
+{"count": 100, "name": "MYO15A", "weight": 0.0, "id": 2779549247, "level": 5}
+{"count": 38, "name": "Gillespie syndrome", "weight": 0.0, "id": 2776416165, "level": 5}
+{"count": 28, "name": "Acheiropodia", "weight": 0.0, "id": 2779082981, "level": 5}
+{"count": 143, "name": "Autosomal recessive cerebellar ataxia", "weight": 0.0, "id": 2778863065, "level": 5}
+{"count": 90, "name": "SH3TC2", "weight": 0.0, "id": 2779348347, "level": 5}
+{"count": 62, "name": "3-M syndrome", "weight": 0.0, "id": 2778298270, "level": 5}
+{"count": 34, "name": "Bazex\u2013Dupr\u00e9\u2013Christol syndrome", "weight": 0.0, "id": 2776551110, "level": 5}
+{"count": 71, "name": "BCKDHB", "weight": 0.0, "id": 2780429028, "level": 5}
+{"count": 90, "name": "Atrichia with papular lesions", "weight": 0.0, "id": 2779798597, "level": 5}
+{"count": 78, "name": "Multiple familial trichoepithelioma", "weight": 0.0, "id": 2779906317, "level": 5}
+{"count": 45, "name": "3C syndrome", "weight": 0.0, "id": 2779020067, "level": 5}
+{"count": 23, "name": "Arylsulfatase E", "weight": 0.0, "id": 2776120156, "level": 5}
+{"count": 34, "name": "Elejalde syndrome", "weight": 0.0, "id": 2780565392, "level": 5}
+{"count": 29, "name": "Yunis\u2013Varon syndrome", "weight": 0.0, "id": 2779949634, "level": 5}
+{"count": 63, "name": "CYP2U1", "weight": 0.0, "id": 2779069939, "level": 5}
+{"count": 74, "name": "ALOXE3", "weight": 0.0, "id": 2780869599, "level": 5}
+{"count": 23, "name": "Behr syndrome", "weight": 0.0, "id": 2777295517, "level": 5}
+{"count": 21, "name": "Sch\u00f6pf\u2013Schulz\u2013Passarge syndrome", "weight": 0.0, "id": 2779686507, "level": 5}
+{"count": 37, "name": "BRAT1", "weight": 0.0, "id": 2779765624, "level": 5}
+{"count": 32, "name": "Acromicric dysplasia", "weight": 0.0, "id": 2778630990, "level": 5}
+{"count": 98, "name": "GJC2", "weight": 0.0, "id": 2778164047, "level": 5}
+{"count": 97, "name": "ALOX12B", "weight": 0.0, "id": 2777195898, "level": 5}
+{"count": 59, "name": "VPS13B", "weight": 0.0, "id": 2777412323, "level": 5}
+{"count": 26, "name": "Malonyl-CoA decarboxylase deficiency", "weight": 0.0, "id": 2778840833, "level": 5}
+{"count": 29, "name": "KIAA0196", "weight": 0.0, "id": 2776013994, "level": 5}
+{"count": 122, "name": "Dihybrid cross", "weight": 0.0, "id": 137904757, "level": 5}
+{"count": 35, "name": "Pseudodominance", "weight": 0.0, "id": 2780946275, "level": 5}
+{"count": 50, "name": "Follicular atrophoderma", "weight": 0.0, "id": 2778785803, "level": 5}
+{"count": 43, "name": "Marie Unna hereditary hypotrichosis", "weight": 0.0, "id": 2777991020, "level": 5}
+{"count": 26, "name": "Bj\u00f6rnstad syndrome", "weight": 0.0, "id": 2776552850, "level": 5}
+{"count": 224, "name": "Genetic carrier", "weight": 0.0, "id": 145723505, "level": 5}
+{"count": 16, "name": "Otospondylomegaepiphyseal dysplasia", "weight": 0.0, "id": 2777500591, "level": 5}
+{"count": 83, "name": "ADCK3", "weight": 0.0, "id": 2778687233, "level": 5}
+{"count": 23, "name": "Kohlsch\u00fctter-T\u00f6nz syndrome", "weight": 0.0, "id": 2780140205, "level": 5}
+{"count": 25, "name": "Focal facial dermal dysplasia", "weight": 0.0, "id": 2779437415, "level": 5}
+{"count": 13, "name": "X-linked recessive chondrodysplasia punctata", "weight": 0.0, "id": 2780756727, "level": 5}
+{"count": 68, "name": "Distal muscular dystrophy", "weight": 0.0, "id": 2780101339, "level": 5}
+{"count": 23, "name": "Adermatoglyphia", "weight": 0.0, "id": 2777611208, "level": 5}
+{"count": 32, "name": "Jalili syndrome", "weight": 0.0, "id": 2780692604, "level": 5}
+{"count": 31, "name": "Ichthyosis prematurity syndrome", "weight": 0.0, "id": 2780131597, "level": 5}
+{"count": 63, "name": "CYB5R3", "weight": 0.0, "id": 2779770998, "level": 5}
+{"count": 39, "name": "CYP4F22", "weight": 0.0, "id": 2777268411, "level": 5}
+{"count": 72, "name": "LPAR6", "weight": 0.0, "id": 2777744307, "level": 5}
+{"count": 38, "name": "BFSP2", "weight": 0.0, "id": 2780596291, "level": 5}
+{"count": 22, "name": "Atelosteogenesis, type II", "weight": 0.0, "id": 2779290207, "level": 5}
+{"count": 111, "name": "Monohybrid cross", "weight": 0.0, "id": 13196592, "level": 5}
+{"count": 16, "name": "Anterior segment mesenchymal dysgenesis", "weight": 0.0, "id": 2776987757, "level": 5}
+{"count": 100, "name": "STX16", "weight": 0.0, "id": 2779043395, "level": 5}
+{"count": 18, "name": "Juvenile primary lateral sclerosis", "weight": 0.0, "id": 2781433982, "level": 5}
+{"count": 6, "name": "Hypostatic gene", "weight": 0.0, "id": 73736785, "level": 5}

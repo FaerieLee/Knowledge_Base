@@ -1,0 +1,22 @@
+{"count": 7059, "name": "Active layer", "weight": 1.0, "id": 2776026197, "level": 3}
+{"count": 12862, "name": "Depletion region", "weight": 2.0, "id": 98446981, "level": 3}
+{"count": 3508, "name": "Photoelectrochemistry", "weight": 0.0, "id": 2777959998, "level": 3}
+{"count": 10839, "name": "p\u2013n junction", "weight": 1.0, "id": 62628764, "level": 3}
+{"count": 2563, "name": "Extrinsic semiconductor", "weight": 0.0, "id": 35381626, "level": 3}
+{"count": 13501, "name": "Compound semiconductor", "weight": 2.0, "id": 86537342, "level": 3}
+{"count": 1844, "name": "MISFET", "weight": 0.0, "id": 2778673556, "level": 3}
+{"count": 59297, "name": "Substrate (electronics)", "weight": 10.0, "id": 42338107, "level": 3}
+{"count": 565, "name": "Ballistic electron emission microscopy", "weight": 0.0, "id": 2776356365, "level": 3}
+{"count": 526, "name": "Degenerate semiconductor", "weight": 0.0, "id": 40417578, "level": 3}
+{"count": 987, "name": "Narrow-gap semiconductor", "weight": 0.0, "id": 96485317, "level": 3}
+{"count": 196, "name": "Dember effect", "weight": 0.0, "id": 2779370197, "level": 3}
+{"count": 2820, "name": "Intrinsic semiconductor", "weight": 0.0, "id": 110023515, "level": 3}
+{"count": 11508, "name": "Direct and indirect band gaps", "weight": 1.0, "id": 193154288, "level": 3}
+{"count": 18181, "name": "Lead frame", "weight": 3.0, "id": 121598971, "level": 3}
+{"count": 371, "name": "MIS capacitor", "weight": 0.0, "id": 2779200529, "level": 3}
+{"count": 15346, "name": "Semiconductor package", "weight": 2.0, "id": 2777269693, "level": 3}
+{"count": 104, "name": "Negative luminescence", "weight": 0.0, "id": 2775913940, "level": 3}
+{"count": 316, "name": "Semiconductor Bloch equations", "weight": 0.0, "id": 2781130694, "level": 3}
+{"count": 240, "name": "Thin-film diode", "weight": 0.0, "id": 2777968703, "level": 3}
+{"count": 47, "name": "Invention of the integrated circuit", "weight": 0.0, "id": 160418067, "level": 3}
+{"count": 93, "name": "CHIP-8", "weight": 0.0, "id": 2778611793, "level": 3}

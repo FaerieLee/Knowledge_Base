@@ -1,0 +1,3 @@
+{"count": 6440, "name": "UMTS Terrestrial Radio Access Network", "weight": 10.0, "id": 31304418, "level": 4}
+{"count": 456, "name": "C-RAN", "weight": 0.0, "id": 2779765720, "level": 4}
+{"count": 1705, "name": "Access network discovery and selection function", "weight": 2.0, "id": 38639735, "level": 4}

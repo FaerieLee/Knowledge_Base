@@ -1,0 +1,8 @@
+{"count": 1696, "name": "Model output statistics", "weight": 7.0, "id": 37505551, "level": 3}
+{"count": 501, "name": "Navy Operational Global Atmospheric Prediction System", "weight": 2.0, "id": 130516228, "level": 3}
+{"count": 392, "name": "METAR", "weight": 1.0, "id": 116939711, "level": 3}
+{"count": 2174, "name": "Tropical cyclone forecast model", "weight": 10.0, "id": 102561126, "level": 3}
+{"count": 1651, "name": "Surface weather observation", "weight": 7.0, "id": 138410489, "level": 3}
+{"count": 58, "name": "Terminal aerodrome forecast", "weight": 0.0, "id": 45846537, "level": 3}
+{"count": 45, "name": "Weather reconnaissance", "weight": 0.0, "id": 2777029918, "level": 3}
+{"count": 1009, "name": "North American Mesoscale Model", "weight": 4.0, "id": 197661373, "level": 3}

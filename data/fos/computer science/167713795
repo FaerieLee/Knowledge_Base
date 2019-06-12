@@ -1,0 +1,16 @@
+{"count": 37, "name": "Internet Cache Protocol", "weight": 0.0, "id": 2780034251, "level": 5}
+{"count": 631, "name": "Web cache", "weight": 1.0, "id": 2775834730, "level": 5}
+{"count": 2111, "name": "Cache-oblivious algorithm", "weight": 3.0, "id": 59687516, "level": 5}
+{"count": 1181, "name": "False sharing", "weight": 2.0, "id": 5165142, "level": 5}
+{"count": 611, "name": "Distributed cache", "weight": 1.0, "id": 2778142848, "level": 5}
+{"count": 17, "name": "Negative cache", "weight": 0.0, "id": 2776861477, "level": 5}
+{"count": 87, "name": "Database caching", "weight": 0.0, "id": 2781461675, "level": 5}
+{"count": 2218, "name": "MESI protocol", "weight": 3.0, "id": 120936851, "level": 5}
+{"count": 4462, "name": "Snoopy cache", "weight": 7.0, "id": 59689275, "level": 5}
+{"count": 207, "name": "Inline caching", "weight": 0.0, "id": 127431555, "level": 5}
+{"count": 5853, "name": "Bus sniffing", "weight": 10.0, "id": 51185590, "level": 5}
+{"count": 47, "name": "Global Assembly Cache", "weight": 0.0, "id": 19572077, "level": 5}
+{"count": 829, "name": "Adaptive replacement cache", "weight": 1.0, "id": 120348434, "level": 5}
+{"count": 249, "name": "Cache stampede", "weight": 0.0, "id": 119022675, "level": 5}
+{"count": 2123, "name": "MESIF protocol", "weight": 3.0, "id": 199979278, "level": 5}
+{"count": 3521, "name": "Pipeline burst cache", "weight": 6.0, "id": 157547923, "level": 5}

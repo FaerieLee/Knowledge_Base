@@ -1,0 +1,9 @@
+{"count": 4211, "name": "Intrusion prevention system", "weight": 8.0, "id": 27061796, "level": 3}
+{"count": 774, "name": "Intrusion tolerance", "weight": 1.0, "id": 196903269, "level": 3}
+{"count": 399, "name": "Alert correlation", "weight": 0.0, "id": 2777431907, "level": 3}
+{"count": 175, "name": "Zero-day attack", "weight": 0.0, "id": 195534492, "level": 3}
+{"count": 3408, "name": "Host-based intrusion detection system", "weight": 6.0, "id": 90936777, "level": 3}
+{"count": 579, "name": "Attack patterns", "weight": 1.0, "id": 2780741293, "level": 3}
+{"count": 5097, "name": "Anomaly-based intrusion detection system", "weight": 10.0, "id": 137524506, "level": 3}
+{"count": 528, "name": "Robust random early detection", "weight": 1.0, "id": 134103291, "level": 3}
+{"count": 169, "name": "Pseudoserver", "weight": 0.0, "id": 161847132, "level": 3}

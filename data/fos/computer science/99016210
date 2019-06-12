@@ -1,0 +1,8 @@
+{"count": 1015, "name": "Cross-language information retrieval", "weight": 0.0, "id": 2778842860, "level": 3}
+{"count": 13191, "name": "Web query classification", "weight": 10.0, "id": 118689300, "level": 3}
+{"count": 1017, "name": "Semantic query", "weight": 0.0, "id": 2778816267, "level": 3}
+{"count": 5590, "name": "Concept search", "weight": 4.0, "id": 182861755, "level": 3}
+{"count": 107, "name": "TREC Genomics", "weight": 0.0, "id": 2777879726, "level": 3}
+{"count": 25, "name": "Query likelihood model", "weight": 0.0, "id": 2781111757, "level": 3}
+{"count": 127, "name": "Vocabulary mismatch", "weight": 0.0, "id": 2778576665, "level": 3}
+{"count": 12522, "name": "Sargable", "weight": 9.0, "id": 192939062, "level": 3}

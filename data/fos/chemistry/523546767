@@ -1,0 +1,200 @@
+{"count": 29973, "name": "Enterobacteriaceae", "weight": 3.0, "id": 2778910516, "level": 3}
+{"count": 86455, "name": "Microorganism", "weight": 10.0, "id": 175605896, "level": 3}
+{"count": 3985, "name": "Streptococcaceae", "weight": 0.0, "id": 2778663903, "level": 3}
+{"count": 2694, "name": "Micrococcaceae", "weight": 0.0, "id": 2775965595, "level": 3}
+{"count": 55233, "name": "Biofilm", "weight": 6.0, "id": 58123911, "level": 3}
+{"count": 18515, "name": "Gram-negative bacteria", "weight": 2.0, "id": 2776051709, "level": 3}
+{"count": 3288, "name": "Bacillaceae", "weight": 0.0, "id": 2777932965, "level": 3}
+{"count": 2662, "name": "Bacillales", "weight": 0.0, "id": 2778039104, "level": 3}
+{"count": 71137, "name": "Lactic acid", "weight": 8.0, "id": 2775920511, "level": 3}
+{"count": 10249, "name": "Gram-positive bacteria", "weight": 1.0, "id": 2779518903, "level": 3}
+{"count": 22897, "name": "16S ribosomal RNA", "weight": 2.0, "id": 42062724, "level": 3}
+{"count": 9, "name": "Spirillaceae", "weight": 0.0, "id": 2779137044, "level": 3}
+{"count": 35705, "name": "Pseudomonas", "weight": 4.0, "id": 2781463711, "level": 3}
+{"count": 2914, "name": "Rhizobiaceae", "weight": 0.0, "id": 2779856404, "level": 3}
+{"count": 3234, "name": "Actinomycetales", "weight": 0.0, "id": 2776060363, "level": 3}
+{"count": 1660, "name": "Clostridiaceae", "weight": 0.0, "id": 2776607351, "level": 3}
+{"count": 4924, "name": "Vibrionaceae", "weight": 0.0, "id": 2776422119, "level": 3}
+{"count": 32941, "name": "Lactobacillus", "weight": 3.0, "id": 2780206646, "level": 3}
+{"count": 1847, "name": "Neisseriaceae", "weight": 0.0, "id": 2776983828, "level": 3}
+{"count": 9244, "name": "Bacterial growth", "weight": 1.0, "id": 17741926, "level": 3}
+{"count": 4406, "name": "Soil microbiology", "weight": 0.0, "id": 172365310, "level": 3}
+{"count": 10252, "name": "Bacteriocin", "weight": 1.0, "id": 115574571, "level": 3}
+{"count": 11333, "name": "Archaea", "weight": 1.0, "id": 550995028, "level": 3}
+{"count": 27754, "name": "Probiotic", "weight": 3.0, "id": 2780255968, "level": 3}
+{"count": 1716, "name": "Pasteurellaceae", "weight": 0.0, "id": 2777154767, "level": 3}
+{"count": 2085, "name": "Streptomycetaceae", "weight": 0.0, "id": 2777915650, "level": 3}
+{"count": 11213, "name": "Pseudomonas fluorescens", "weight": 1.0, "id": 2776835041, "level": 3}
+{"count": 6993, "name": "Sulfate-reducing bacteria", "weight": 0.0, "id": 194356953, "level": 3}
+{"count": 4332, "name": "Colony-forming unit", "weight": 0.0, "id": 192285135, "level": 3}
+{"count": 15463, "name": "Bacillus cereus", "weight": 1.0, "id": 2777118263, "level": 3}
+{"count": 5794, "name": "Temperature gradient gel electrophoresis", "weight": 0.0, "id": 198549448, "level": 3}
+{"count": 18294, "name": "Pathogenic bacteria", "weight": 2.0, "id": 2778883795, "level": 3}
+{"count": 8362, "name": "Lactococcus lactis", "weight": 0.0, "id": 2780011460, "level": 3}
+{"count": 2027, "name": "Mollicutes", "weight": 0.0, "id": 2775881110, "level": 3}
+{"count": 7421, "name": "Siderophore", "weight": 0.0, "id": 108319773, "level": 3}
+{"count": 13530, "name": "Vibrio", "weight": 1.0, "id": 2776154503, "level": 3}
+{"count": 1003, "name": "Rickettsiales", "weight": 0.0, "id": 2776732713, "level": 3}
+{"count": 7851, "name": "Rhizobacteria", "weight": 0.0, "id": 1422475, "level": 3}
+{"count": 1337, "name": "Mycoplasmataceae", "weight": 0.0, "id": 2777233064, "level": 3}
+{"count": 8324, "name": "Bacteroides", "weight": 0.0, "id": 2778168646, "level": 3}
+{"count": 469, "name": "Rhodospirillales", "weight": 0.0, "id": 2776964511, "level": 3}
+{"count": 592, "name": "Rhodospirillaceae", "weight": 0.0, "id": 2779291864, "level": 3}
+{"count": 8133, "name": "Lactobacillus acidophilus", "weight": 0.0, "id": 2777221637, "level": 3}
+{"count": 6336, "name": "Heterotroph", "weight": 0.0, "id": 35195898, "level": 3}
+{"count": 11883, "name": "Thermophile", "weight": 1.0, "id": 27911776, "level": 3}
+{"count": 3597, "name": "Marine bacteriophage", "weight": 0.0, "id": 153568844, "level": 3}
+{"count": 9061, "name": "Enterobacter", "weight": 1.0, "id": 2778983983, "level": 3}
+{"count": 7603, "name": "Proteobacteria", "weight": 0.0, "id": 2779676784, "level": 3}
+{"count": 6095, "name": "Aeromonas", "weight": 0.0, "id": 2780313371, "level": 3}
+{"count": 13112, "name": "Food spoilage", "weight": 1.0, "id": 147490202, "level": 3}
+{"count": 4485, "name": "Actinobacteria", "weight": 0.0, "id": 2778169975, "level": 3}
+{"count": 4624, "name": "Bacteroides fragilis", "weight": 0.0, "id": 2780246119, "level": 3}
+{"count": 5964, "name": "Rhodococcus", "weight": 0.0, "id": 2779952263, "level": 3}
+{"count": 3441, "name": "Alcaligenes", "weight": 0.0, "id": 2780199933, "level": 3}
+{"count": 967, "name": "Bacterial capsule", "weight": 0.0, "id": 155292618, "level": 3}
+{"count": 5740, "name": "Escherichia", "weight": 0.0, "id": 2776985332, "level": 3}
+{"count": 2344, "name": "Halotolerance", "weight": 0.0, "id": 30992042, "level": 3}
+{"count": 6348, "name": "Micrococcus", "weight": 0.0, "id": 2781291461, "level": 3}
+{"count": 4129, "name": "Flavobacterium", "weight": 0.0, "id": 2778106697, "level": 3}
+{"count": 3534, "name": "Fimbria", "weight": 0.0, "id": 39103817, "level": 3}
+{"count": 2710, "name": "Azospirillum brasilense", "weight": 0.0, "id": 2781040669, "level": 3}
+{"count": 2209, "name": "Shewanella", "weight": 0.0, "id": 2778824058, "level": 3}
+{"count": 4326, "name": "Burkholderia", "weight": 0.0, "id": 2780855054, "level": 3}
+{"count": 4675, "name": "Serratia", "weight": 0.0, "id": 2776450100, "level": 3}
+{"count": 4303, "name": "Arthrobacter", "weight": 0.0, "id": 2775976474, "level": 3}
+{"count": 6952, "name": "Erwinia", "weight": 0.0, "id": 2778495000, "level": 3}
+{"count": 3046, "name": "Thiobacillus", "weight": 0.0, "id": 2781266534, "level": 3}
+{"count": 6589, "name": "Halophile", "weight": 0.0, "id": 80642116, "level": 3}
+{"count": 1314, "name": "Eubacterium", "weight": 0.0, "id": 2780092757, "level": 3}
+{"count": 2405, "name": "Sphingomonas", "weight": 0.0, "id": 2777401336, "level": 3}
+{"count": 4158, "name": "Endospore", "weight": 0.0, "id": 65764964, "level": 3}
+{"count": 2771, "name": "Micrococcus luteus", "weight": 0.0, "id": 2776683811, "level": 3}
+{"count": 1476, "name": "Magnetotactic bacteria", "weight": 0.0, "id": 2777149353, "level": 3}
+{"count": 2086, "name": "Gammaproteobacteria", "weight": 0.0, "id": 2776989901, "level": 3}
+{"count": 2139, "name": "Fusobacterium", "weight": 0.0, "id": 2780960513, "level": 3}
+{"count": 976, "name": "Shewanella putrefaciens", "weight": 0.0, "id": 2777217690, "level": 3}
+{"count": 1909, "name": "Brain heart infusion", "weight": 0.0, "id": 2779050283, "level": 3}
+{"count": 1639, "name": "Moraxella", "weight": 0.0, "id": 2776209642, "level": 3}
+{"count": 890, "name": "Cytophaga", "weight": 0.0, "id": 2778098358, "level": 3}
+{"count": 1771, "name": "Pseudomonas stutzeri", "weight": 0.0, "id": 2776786877, "level": 3}
+{"count": 552, "name": "Desulfovibrio desulfuricans", "weight": 0.0, "id": 2776993493, "level": 3}
+{"count": 6172, "name": "Intracellular parasite", "weight": 0.0, "id": 153726182, "level": 3}
+{"count": 1733, "name": "Bacillus sphaericus", "weight": 0.0, "id": 2779016684, "level": 3}
+{"count": 2368, "name": "Phyllosphere", "weight": 0.0, "id": 205626393, "level": 3}
+{"count": 1927, "name": "Prevotella", "weight": 0.0, "id": 2780423288, "level": 3}
+{"count": 897, "name": "Methanobacterium", "weight": 0.0, "id": 2779824996, "level": 3}
+{"count": 112, "name": "Peptococcaceae", "weight": 0.0, "id": 2778389798, "level": 3}
+{"count": 679, "name": "Bacterial genetics", "weight": 0.0, "id": 180223184, "level": 3}
+{"count": 2130, "name": "Aeromonas salmonicida", "weight": 0.0, "id": 2779729001, "level": 3}
+{"count": 2062, "name": "Propionibacterium", "weight": 0.0, "id": 2779129764, "level": 3}
+{"count": 1670, "name": "Peptostreptococcus", "weight": 0.0, "id": 2779930906, "level": 3}
+{"count": 2851, "name": "Microbial metabolism", "weight": 0.0, "id": 101014631, "level": 3}
+{"count": 4499, "name": "Mesophile", "weight": 0.0, "id": 63223902, "level": 3}
+{"count": 4248, "name": "Gram staining", "weight": 0.0, "id": 205501099, "level": 3}
+{"count": 2412, "name": "Psychrophile", "weight": 0.0, "id": 22802001, "level": 3}
+{"count": 1577, "name": "Acetic acid bacteria", "weight": 0.0, "id": 2777858148, "level": 3}
+{"count": 594, "name": "Bacterivore", "weight": 0.0, "id": 118493204, "level": 3}
+{"count": 2736, "name": "Bacillus pumilus", "weight": 0.0, "id": 2778187402, "level": 3}
+{"count": 4671, "name": "Firmicutes", "weight": 0.0, "id": 2777695942, "level": 3}
+{"count": 382, "name": "Chromatiaceae", "weight": 0.0, "id": 2779686340, "level": 3}
+{"count": 285, "name": "Comamonadaceae", "weight": 0.0, "id": 2776070991, "level": 3}
+{"count": 3106, "name": "Proteus vulgaris", "weight": 0.0, "id": 2780662933, "level": 3}
+{"count": 3863, "name": "Paenibacillus", "weight": 0.0, "id": 2780696792, "level": 3}
+{"count": 522, "name": "Amplified Ribosomal DNA Restriction Analysis", "weight": 0.0, "id": 2778813235, "level": 3}
+{"count": 194, "name": "Parasporal body", "weight": 0.0, "id": 2778279389, "level": 3}
+{"count": 136, "name": "Gnotobiotic animal", "weight": 0.0, "id": 2778393739, "level": 3}
+{"count": 8845, "name": "Bacterial cell structure", "weight": 1.0, "id": 19655278, "level": 3}
+{"count": 806, "name": "Photobacterium phosphoreum", "weight": 0.0, "id": 2779925203, "level": 3}
+{"count": 778, "name": "Stable-isotope probing", "weight": 0.0, "id": 2777624702, "level": 3}
+{"count": 2600, "name": "Brevibacterium", "weight": 0.0, "id": 2778386651, "level": 3}
+{"count": 1924, "name": "Enrichment culture", "weight": 0.0, "id": 153613900, "level": 3}
+{"count": 911, "name": "Methylobacterium", "weight": 0.0, "id": 2780382130, "level": 3}
+{"count": 1314, "name": "Rhodopseudomonas palustris", "weight": 0.0, "id": 2778418169, "level": 3}
+{"count": 1086, "name": "Pantoea agglomerans", "weight": 0.0, "id": 2780284704, "level": 3}
+{"count": 1194, "name": "Alcaligenes faecalis", "weight": 0.0, "id": 2777074443, "level": 3}
+{"count": 792, "name": "Alteromonas", "weight": 0.0, "id": 2778926719, "level": 3}
+{"count": 194, "name": "Syntrophy", "weight": 0.0, "id": 2779465019, "level": 3}
+{"count": 7182, "name": "Microbiological culture", "weight": 0.0, "id": 189539697, "level": 3}
+{"count": 1295, "name": "Tryptic soy broth", "weight": 0.0, "id": 2777399836, "level": 3}
+{"count": 971, "name": "Veillonella", "weight": 0.0, "id": 2778753313, "level": 3}
+{"count": 84, "name": "Germ-free animal", "weight": 0.0, "id": 2780815636, "level": 3}
+{"count": 1150, "name": "Pseudoalteromonas", "weight": 0.0, "id": 2777478838, "level": 3}
+{"count": 1314, "name": "Ruminococcus", "weight": 0.0, "id": 2780027724, "level": 3}
+{"count": 695, "name": "Photorhabdus", "weight": 0.0, "id": 2776074613, "level": 3}
+{"count": 1371, "name": "Streptococcus salivarius", "weight": 0.0, "id": 2776244449, "level": 3}
+{"count": 1204, "name": "Human feces", "weight": 0.0, "id": 2777392542, "level": 3}
+{"count": 818, "name": "Prodigiosin", "weight": 0.0, "id": 2779337610, "level": 3}
+{"count": 14880, "name": "Agar plate", "weight": 1.0, "id": 62643968, "level": 3}
+{"count": 1340, "name": "Iron bacteria", "weight": 0.0, "id": 142520446, "level": 3}
+{"count": 2061, "name": "Clostridia", "weight": 0.0, "id": 2778312467, "level": 3}
+{"count": 2948, "name": "Phototroph", "weight": 0.0, "id": 197322856, "level": 3}
+{"count": 1043, "name": "Paenibacillus polymyxa", "weight": 0.0, "id": 2779134421, "level": 3}
+{"count": 1162, "name": "Xenorhabdus", "weight": 0.0, "id": 2776213388, "level": 3}
+{"count": 599, "name": "Sphingomonas paucimobilis", "weight": 0.0, "id": 2781169881, "level": 3}
+{"count": 748, "name": "Propionibacterium freudenreichii", "weight": 0.0, "id": 2781445088, "level": 3}
+{"count": 578, "name": "Fibrobacter succinogenes", "weight": 0.0, "id": 2776549489, "level": 3}
+{"count": 343, "name": "Azoarcus", "weight": 0.0, "id": 2778899186, "level": 3}
+{"count": 592, "name": "Chromobacterium", "weight": 0.0, "id": 2777907514, "level": 3}
+{"count": 1107, "name": "Chromatium", "weight": 0.0, "id": 2777444609, "level": 3}
+{"count": 1674, "name": "Pantoea", "weight": 0.0, "id": 2779246796, "level": 3}
+{"count": 810, "name": "Chlorobium", "weight": 0.0, "id": 2775992220, "level": 3}
+{"count": 588, "name": "Acidophile", "weight": 0.0, "id": 110645774, "level": 3}
+{"count": 733, "name": "Roseobacter", "weight": 0.0, "id": 2777693772, "level": 3}
+{"count": 1184, "name": "Achromobacter", "weight": 0.0, "id": 2779657461, "level": 3}
+{"count": 351, "name": "Beggiatoa", "weight": 0.0, "id": 2779982333, "level": 3}
+{"count": 909, "name": "Sarcina", "weight": 0.0, "id": 2776156320, "level": 3}
+{"count": 6604, "name": "Agar diffusion test", "weight": 0.0, "id": 11636898, "level": 3}
+{"count": 244, "name": "Black band disease", "weight": 0.0, "id": 2779737629, "level": 3}
+{"count": 633, "name": "Actinomyces viscosus", "weight": 0.0, "id": 2780569239, "level": 3}
+{"count": 736, "name": "Paracoccus", "weight": 0.0, "id": 2777134253, "level": 3}
+{"count": 367, "name": "Cellular microbiology", "weight": 0.0, "id": 119738077, "level": 3}
+{"count": 415, "name": "Herbaspirillum", "weight": 0.0, "id": 2779794828, "level": 3}
+{"count": 611, "name": "Comamonas", "weight": 0.0, "id": 2780698062, "level": 3}
+{"count": 1096, "name": "Myxobacteria", "weight": 0.0, "id": 2777905271, "level": 3}
+{"count": 1673, "name": "Microbacterium", "weight": 0.0, "id": 2777174450, "level": 3}
+{"count": 460, "name": "Spirillum", "weight": 0.0, "id": 2776891598, "level": 3}
+{"count": 1027, "name": "Psychrotrophic bacteria", "weight": 0.0, "id": 2780075651, "level": 3}
+{"count": 300, "name": "Rhizobiales", "weight": 0.0, "id": 2777542022, "level": 3}
+{"count": 1049, "name": "Clavibacter michiganensis", "weight": 0.0, "id": 2776811049, "level": 3}
+{"count": 996, "name": "Bdellovibrio", "weight": 0.0, "id": 2778702687, "level": 3}
+{"count": 713, "name": "Actinomyces naeslundii", "weight": 0.0, "id": 2778206844, "level": 3}
+{"count": 513, "name": "Ochrobactrum anthropi", "weight": 0.0, "id": 2777530437, "level": 3}
+{"count": 732, "name": "Clostridium sporogenes", "weight": 0.0, "id": 2777706322, "level": 3}
+{"count": 657, "name": "Agarase", "weight": 0.0, "id": 2777235453, "level": 3}
+{"count": 450, "name": "Methylomonas", "weight": 0.0, "id": 2779686300, "level": 3}
+{"count": 705, "name": "Photorhabdus luminescens", "weight": 0.0, "id": 2778758119, "level": 3}
+{"count": 489, "name": "Flexibacter", "weight": 0.0, "id": 2775884053, "level": 3}
+{"count": 2306, "name": "Coccus", "weight": 0.0, "id": 82794421, "level": 3}
+{"count": 281, "name": "Alkaliphile", "weight": 0.0, "id": 2777952399, "level": 3}
+{"count": 400, "name": "Bacterial taxonomy", "weight": 0.0, "id": 124104306, "level": 3}
+{"count": 306, "name": "Leptothrix", "weight": 0.0, "id": 2778432764, "level": 3}
+{"count": 485, "name": "Trypticase soy agar", "weight": 0.0, "id": 2779635668, "level": 3}
+{"count": 771, "name": "Colonisation resistance", "weight": 0.0, "id": 189506811, "level": 3}
+{"count": 188, "name": "Comamonas acidovorans", "weight": 0.0, "id": 2777733064, "level": 3}
+{"count": 430, "name": "Herbaspirillum seropedicae", "weight": 0.0, "id": 2776352319, "level": 3}
+{"count": 1539, "name": "Symbiotic bacteria", "weight": 0.0, "id": 2778172128, "level": 3}
+{"count": 345, "name": "Aesculin", "weight": 0.0, "id": 2780543950, "level": 3}
+{"count": 882, "name": "Viable count", "weight": 0.0, "id": 2785061, "level": 3}
+{"count": 572, "name": "Bacillus firmus", "weight": 0.0, "id": 2777017818, "level": 3}
+{"count": 165, "name": "Methanospirillum", "weight": 0.0, "id": 2777559911, "level": 3}
+{"count": 1259, "name": "Chryseobacterium", "weight": 0.0, "id": 2778923907, "level": 3}
+{"count": 1377, "name": "Anoxygenic photosynthesis", "weight": 0.0, "id": 98614847, "level": 3}
+{"count": 67, "name": "Xanthobacter autotrophicus", "weight": 0.0, "id": 2777314888, "level": 3}
+{"count": 373, "name": "Fusobacteria", "weight": 0.0, "id": 2776202939, "level": 3}
+{"count": 560, "name": "Pectobacterium", "weight": 0.0, "id": 2780237616, "level": 3}
+{"count": 832, "name": "Gordonia", "weight": 0.0, "id": 2778529398, "level": 3}
+{"count": 460, "name": "Mycorrhizosphere", "weight": 0.0, "id": 101410826, "level": 3}
+{"count": 900, "name": "Alicyclobacillus", "weight": 0.0, "id": 2776621368, "level": 3}
+{"count": 478, "name": "Aerococcus", "weight": 0.0, "id": 2779976447, "level": 3}
+{"count": 441, "name": "Propidium monoazide", "weight": 0.0, "id": 2776958425, "level": 3}
+{"count": 839, "name": "Brevibacillus", "weight": 0.0, "id": 2777241491, "level": 3}
+{"count": 677, "name": "Butyrivibrio", "weight": 0.0, "id": 2780898466, "level": 3}
+{"count": 335, "name": "Acetobacterium", "weight": 0.0, "id": 2778568402, "level": 3}
+{"count": 477, "name": "Psychrobacter", "weight": 0.0, "id": 2777220843, "level": 3}
+{"count": 651, "name": "Marinobacter", "weight": 0.0, "id": 2779860705, "level": 3}
+{"count": 463, "name": "Faecalibacterium prausnitzii", "weight": 0.0, "id": 2780675110, "level": 3}
+{"count": 819, "name": "Microbial enhanced oil recovery", "weight": 0.0, "id": 2780700458, "level": 3}
+{"count": 115, "name": "Planococcaceae", "weight": 0.0, "id": 2778737462, "level": 3}
+{"count": 482, "name": "Pseudonocardia", "weight": 0.0, "id": 2777137875, "level": 3}
+{"count": 842, "name": "Obligate anaerobe", "weight": 0.0, "id": 13918539, "level": 3}

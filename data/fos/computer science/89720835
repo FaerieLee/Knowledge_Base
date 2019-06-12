@@ -1,0 +1,6 @@
+{"count": 594, "name": "Photon mapping", "weight": 7.0, "id": 73510573, "level": 4}
+{"count": 141, "name": "Precomputed Radiance Transfer", "weight": 1.0, "id": 2780477985, "level": 4}
+{"count": 819, "name": "Path tracing", "weight": 10.0, "id": 110541219, "level": 4}
+{"count": 331, "name": "Ambient occlusion", "weight": 4.0, "id": 46359721, "level": 4}
+{"count": 29, "name": "Lightmap", "weight": 0.0, "id": 2777320178, "level": 4}
+{"count": 31, "name": "Hemicube", "weight": 0.0, "id": 2779471922, "level": 4}

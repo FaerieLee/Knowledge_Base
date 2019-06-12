@@ -1,0 +1,139 @@
+{"count": 114060, "name": "Electronic structure", "weight": 9.0, "id": 86025842, "level": 2}
+{"count": 107697, "name": "Density functional theory", "weight": 9.0, "id": 152365726, "level": 2}
+{"count": 119641, "name": "Molecular dynamics", "weight": 10.0, "id": 59593255, "level": 2}
+{"count": 23270, "name": "Hartree\u2013Fock method", "weight": 1.0, "id": 113630233, "level": 2}
+{"count": 40196, "name": "Potential energy", "weight": 3.0, "id": 84551667, "level": 2}
+{"count": 35950, "name": "van der Waals force", "weight": 3.0, "id": 126061179, "level": 2}
+{"count": 35130, "name": "Ab initio quantum chemistry methods", "weight": 2.0, "id": 183971685, "level": 2}
+{"count": 61205, "name": "Wave function", "weight": 5.0, "id": 113603373, "level": 2}
+{"count": 30358, "name": "Chemical bond", "weight": 2.0, "id": 178213299, "level": 2}
+{"count": 18300, "name": "Electronic correlation", "weight": 1.0, "id": 35052450, "level": 2}
+{"count": 17340, "name": "Tight binding", "weight": 1.0, "id": 182063899, "level": 2}
+{"count": 23970, "name": "Potential energy surface", "weight": 2.0, "id": 125277925, "level": 2}
+{"count": 8404, "name": "Quantum chemistry", "weight": 0.0, "id": 22994065, "level": 2}
+{"count": 11830, "name": "Force field (physics)", "weight": 0.0, "id": 139535489, "level": 2}
+{"count": 13662, "name": "Structure factor", "weight": 1.0, "id": 26065003, "level": 2}
+{"count": 16577, "name": "Variational method", "weight": 1.0, "id": 64618476, "level": 2}
+{"count": 13145, "name": "Energy minimization", "weight": 1.0, "id": 14961307, "level": 2}
+{"count": 12185, "name": "Radial distribution function", "weight": 1.0, "id": 135508586, "level": 2}
+{"count": 9829, "name": "Relativistic quantum chemistry", "weight": 0.0, "id": 81263218, "level": 2}
+{"count": 8170, "name": "Coupled cluster", "weight": 0.0, "id": 19637589, "level": 2}
+{"count": 23692, "name": "Polarizability", "weight": 1.0, "id": 139287275, "level": 2}
+{"count": 66191, "name": "Ab initio", "weight": 5.0, "id": 2781442258, "level": 2}
+{"count": 5459, "name": "Canonical ensemble", "weight": 0.0, "id": 28556851, "level": 2}
+{"count": 3493, "name": "Born\u2013Oppenheimer approximation", "weight": 0.0, "id": 36556920, "level": 2}
+{"count": 7487, "name": "Virial coefficient", "weight": 0.0, "id": 93218973, "level": 2}
+{"count": 10981, "name": "Pseudopotential", "weight": 0.0, "id": 132378524, "level": 2}
+{"count": 2936, "name": "Poisson\u2013Boltzmann equation", "weight": 0.0, "id": 109757611, "level": 2}
+{"count": 5482, "name": "Valence bond theory", "weight": 0.0, "id": 178429038, "level": 2}
+{"count": 3764, "name": "Mean squared displacement", "weight": 0.0, "id": 187128312, "level": 2}
+{"count": 7236, "name": "Energy landscape", "weight": 0.0, "id": 119621388, "level": 2}
+{"count": 19923, "name": "Anharmonicity", "weight": 1.0, "id": 147724859, "level": 2}
+{"count": 9382, "name": "Electronegativity", "weight": 0.0, "id": 177293861, "level": 2}
+{"count": 10740, "name": "Interaction energy", "weight": 0.0, "id": 22499117, "level": 2}
+{"count": 7448, "name": "Hard spheres", "weight": 0.0, "id": 99987037, "level": 2}
+{"count": 4527, "name": "Multiscale modeling", "weight": 0.0, "id": 141123601, "level": 2}
+{"count": 2619, "name": "Cluster expansion", "weight": 0.0, "id": 2778999785, "level": 2}
+{"count": 2249, "name": "Theoretical chemistry", "weight": 0.0, "id": 16653646, "level": 2}
+{"count": 3116, "name": "Morse potential", "weight": 0.0, "id": 2775961149, "level": 2}
+{"count": 5629, "name": "Virial theorem", "weight": 0.0, "id": 189549420, "level": 2}
+{"count": 1675, "name": "Smoluchowski coagulation equation", "weight": 0.0, "id": 143002175, "level": 2}
+{"count": 27826, "name": "Atomic orbital", "weight": 2.0, "id": 189394030, "level": 2}
+{"count": 1126, "name": "Accessible surface area", "weight": 0.0, "id": 11072593, "level": 2}
+{"count": 2445, "name": "Dissipative particle dynamics", "weight": 0.0, "id": 45594756, "level": 2}
+{"count": 63829, "name": "Gaussian", "weight": 5.0, "id": 163716315, "level": 2}
+{"count": 3202, "name": "Pair potential", "weight": 0.0, "id": 2777692963, "level": 2}
+{"count": 1969, "name": "Langevin dynamics", "weight": 0.0, "id": 2780004032, "level": 2}
+{"count": 2818, "name": "Topological index", "weight": 0.0, "id": 159867001, "level": 2}
+{"count": 3339, "name": "Rotational temperature", "weight": 0.0, "id": 16951817, "level": 2}
+{"count": 1321, "name": "Population balance equation", "weight": 0.0, "id": 2780041671, "level": 2}
+{"count": 2205, "name": "Cheminformatics", "weight": 0.0, "id": 68762167, "level": 2}
+{"count": 6354, "name": "Electron configuration", "weight": 0.0, "id": 27799899, "level": 2}
+{"count": 10380, "name": "Transition state", "weight": 0.0, "id": 89031862, "level": 2}
+{"count": 605, "name": "Mathematical chemistry", "weight": 0.0, "id": 158808287, "level": 2}
+{"count": 4330, "name": "Reaction coordinate", "weight": 0.0, "id": 18553476, "level": 2}
+{"count": 246, "name": "Hellmann\u2013Feynman theorem", "weight": 0.0, "id": 163386847, "level": 2}
+{"count": 7688, "name": "Bond energy", "weight": 0.0, "id": 122032599, "level": 2}
+{"count": 657, "name": "Einstein coefficients", "weight": 0.0, "id": 182805472, "level": 2}
+{"count": 21074, "name": "Basis set", "weight": 1.0, "id": 65956243, "level": 2}
+{"count": 4210, "name": "Antibonding molecular orbital", "weight": 0.0, "id": 95269574, "level": 2}
+{"count": 1459, "name": "Wannier function", "weight": 0.0, "id": 14022793, "level": 2}
+{"count": 5577, "name": "Rotational energy", "weight": 0.0, "id": 169146920, "level": 2}
+{"count": 4897, "name": "Open shell", "weight": 0.0, "id": 37649677, "level": 2}
+{"count": 3633, "name": "Reaction dynamics", "weight": 0.0, "id": 37798101, "level": 2}
+{"count": 3755, "name": "Rotational diffusion", "weight": 0.0, "id": 2776294167, "level": 2}
+{"count": 21693, "name": "Delocalized electron", "weight": 1.0, "id": 70050531, "level": 2}
+{"count": 854, "name": "Debye\u2013H\u00fcckel equation", "weight": 0.0, "id": 153864244, "level": 2}
+{"count": 676, "name": "Homogentisic acid", "weight": 0.0, "id": 2776255415, "level": 2}
+{"count": 1249, "name": "Conformational entropy", "weight": 0.0, "id": 69308434, "level": 2}
+{"count": 2191, "name": "Chemical space", "weight": 0.0, "id": 99726746, "level": 2}
+{"count": 1059, "name": "Specific orbital energy", "weight": 0.0, "id": 109139448, "level": 2}
+{"count": 1462, "name": "Z-matrix (chemistry)", "weight": 0.0, "id": 167910258, "level": 2}
+{"count": 2461, "name": "Energy profile", "weight": 0.0, "id": 82160515, "level": 2}
+{"count": 2609, "name": "Elementary charge", "weight": 0.0, "id": 101879516, "level": 2}
+{"count": 3106, "name": "Partial charge", "weight": 0.0, "id": 12892243, "level": 2}
+{"count": 1013, "name": "Collision theory", "weight": 0.0, "id": 74134386, "level": 2}
+{"count": 385, "name": "MOPAC", "weight": 0.0, "id": 2779213000, "level": 2}
+{"count": 1699, "name": "Orbital overlap", "weight": 0.0, "id": 7878110, "level": 2}
+{"count": 527, "name": "Chemical similarity", "weight": 0.0, "id": 24259465, "level": 2}
+{"count": 1937, "name": "Slater integrals", "weight": 0.0, "id": 193265801, "level": 2}
+{"count": 1158, "name": "Spartan", "weight": 0.0, "id": 10689553, "level": 2}
+{"count": 3612, "name": "Hartree", "weight": 0.0, "id": 145196801, "level": 2}
+{"count": 313, "name": "Microscopic reversibility", "weight": 0.0, "id": 179228596, "level": 2}
+{"count": 4758, "name": "Homonuclear molecule", "weight": 0.0, "id": 40447573, "level": 2}
+{"count": 151, "name": "Coarse-grained modeling", "weight": 0.0, "id": 2776225496, "level": 2}
+{"count": 951, "name": "Normal coordinates", "weight": 0.0, "id": 163464917, "level": 2}
+{"count": 372, "name": "Rotational\u2013vibrational coupling", "weight": 0.0, "id": 71515424, "level": 2}
+{"count": 314, "name": "Linear response function", "weight": 0.0, "id": 2781074026, "level": 2}
+{"count": 393, "name": "Superoperator", "weight": 0.0, "id": 9762887, "level": 2}
+{"count": 64, "name": "Wigner\u2013Seitz cell", "weight": 0.0, "id": 29259863, "level": 2}
+{"count": 713, "name": "Isobenzofuran", "weight": 0.0, "id": 2777828636, "level": 2}
+{"count": 38, "name": "Energy derivative", "weight": 0.0, "id": 2778772634, "level": 2}
+{"count": 285, "name": "Excess chemical potential", "weight": 0.0, "id": 2777977341, "level": 2}
+{"count": 719, "name": "Tetrahedral symmetry", "weight": 0.0, "id": 3168419, "level": 2}
+{"count": 523, "name": "Classical fluids", "weight": 0.0, "id": 2781467210, "level": 2}
+{"count": 401, "name": "Grand potential", "weight": 0.0, "id": 2780025317, "level": 2}
+{"count": 874, "name": "Ice Ih", "weight": 0.0, "id": 2779529193, "level": 2}
+{"count": 217, "name": "DIIS", "weight": 0.0, "id": 2776401120, "level": 2}
+{"count": 114, "name": "Coulomb operator", "weight": 0.0, "id": 2775864061, "level": 2}
+{"count": 56, "name": "Newman projection", "weight": 0.0, "id": 131217032, "level": 2}
+{"count": 179, "name": "SAM1", "weight": 0.0, "id": 2778440426, "level": 2}
+{"count": 139, "name": "AMPAC", "weight": 0.0, "id": 2776513075, "level": 2}
+{"count": 168, "name": "Ethynyl radical", "weight": 0.0, "id": 2780749648, "level": 2}
+{"count": 42, "name": "Thioacetone", "weight": 0.0, "id": 2778894510, "level": 2}
+{"count": 306, "name": "Jacobi coordinates", "weight": 0.0, "id": 2780864316, "level": 2}
+{"count": 15, "name": "Molecule editor", "weight": 0.0, "id": 2780436028, "level": 2}
+{"count": 33, "name": "Spectroscopic notation", "weight": 0.0, "id": 2779160154, "level": 2}
+{"count": 652, "name": "Conrotatory and disrotatory", "weight": 0.0, "id": 157103358, "level": 2}
+{"count": 45, "name": "Kato theorem", "weight": 0.0, "id": 2776522361, "level": 2}
+{"count": 115, "name": "XMD", "weight": 0.0, "id": 203320724, "level": 2}
+{"count": 116, "name": "SINDO", "weight": 0.0, "id": 2777540052, "level": 2}
+{"count": 505, "name": "Percus", "weight": 0.0, "id": 2775879169, "level": 2}
+{"count": 25, "name": "3-Oxetanone", "weight": 0.0, "id": 2778992475, "level": 2}
+{"count": 30, "name": "Difluoroacetylene", "weight": 0.0, "id": 2776317969, "level": 2}
+{"count": 3, "name": "Randi\u0107's molecular connectivity index", "weight": 0.0, "id": 2780418839, "level": 2}
+{"count": 5, "name": "Molecular design software", "weight": 0.0, "id": 2780100183, "level": 2}
+{"count": 21, "name": "Hole formalism", "weight": 0.0, "id": 2779498796, "level": 2}
+{"count": 4, "name": "Fumarylacetoacetic acid", "weight": 0.0, "id": 2775978809, "level": 2}
+{"count": 14, "name": "OpenAtom", "weight": 0.0, "id": 2778937615, "level": 2}
+{"count": 16, "name": "Discrete optimized protein energy", "weight": 0.0, "id": 2776726432, "level": 2}
+{"count": 7, "name": "Hexatriynyl radical", "weight": 0.0, "id": 2779275241, "level": 2}
+{"count": 12, "name": "Kilocalorie per mole", "weight": 0.0, "id": 2778946039, "level": 2}
+{"count": 4, "name": "Potential energy of protein", "weight": 0.0, "id": 2781207157, "level": 2}
+{"count": 4, "name": "Crucible (geodemography)", "weight": 0.0, "id": 120500152, "level": 2}
+{"count": 41, "name": "Reciprocal length", "weight": 0.0, "id": 2780339700, "level": 2}
+{"count": 23, "name": "Atomic Data and Nuclear Data Tables", "weight": 0.0, "id": 2776612361, "level": 2}
+{"count": 75, "name": "GF method", "weight": 0.0, "id": 2777038796, "level": 2}
+{"count": 7, "name": "Morse/Long-range potential", "weight": 0.0, "id": 2779951153, "level": 2}
+{"count": 4, "name": "Direct quantum chemistry", "weight": 0.0, "id": 2776027947, "level": 2}
+{"count": 1, "name": "D. E. Shaw Research", "weight": 0.0, "id": 153678942, "level": 2}
+{"count": 2, "name": "Dyall Hamiltonian", "weight": 0.0, "id": 2776141341, "level": 2}
+{"count": 9, "name": "VALBOND", "weight": 0.0, "id": 2780887906, "level": 2}
+{"count": 3, "name": "Computational Chemistry List", "weight": 0.0, "id": 2776979841, "level": 2}
+{"count": 4, "name": "Reversible reference system propagation algorithm", "weight": 0.0, "id": 2777644263, "level": 2}
+{"count": 4, "name": "Pentacarbonylhydridomanganese", "weight": 0.0, "id": 2779384161, "level": 2}
+{"count": 4, "name": "Stilbene photocyclization", "weight": 0.0, "id": 2778797440, "level": 2}
+{"count": 4, "name": "PySCF", "weight": 0.0, "id": 2778989681, "level": 2}
+{"count": 5, "name": "Computational Chemistry Grid", "weight": 0.0, "id": 2780733323, "level": 2}
+{"count": 3, "name": "Molecular Query Language", "weight": 0.0, "id": 2778546837, "level": 2}
+{"count": 18, "name": "Hexasulfur", "weight": 0.0, "id": 2778759276, "level": 2}

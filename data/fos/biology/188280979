@@ -1,0 +1,19 @@
+{"count": 12206, "name": "Histocompatibility", "weight": 10.0, "id": 202965653, "level": 3}
+{"count": 5021, "name": "HLA-DR", "weight": 4.0, "id": 2779067128, "level": 3}
+{"count": 2136, "name": "HLA-G", "weight": 1.0, "id": 2780027760, "level": 3}
+{"count": 606, "name": "Killer-cell immunoglobulin-like receptor", "weight": 0.0, "id": 2779701145, "level": 3}
+{"count": 544, "name": "HLA-E", "weight": 0.0, "id": 2777980482, "level": 3}
+{"count": 964, "name": "Tissue typing", "weight": 0.0, "id": 2776706491, "level": 3}
+{"count": 352, "name": "HLA-DR3", "weight": 0.0, "id": 2780479836, "level": 3}
+{"count": 131, "name": "HLA-DR1", "weight": 0.0, "id": 2776736642, "level": 3}
+{"count": 283, "name": "KIR2DL4", "weight": 0.0, "id": 2781443696, "level": 3}
+{"count": 113, "name": "HLA-DRA", "weight": 0.0, "id": 2781100733, "level": 3}
+{"count": 258, "name": "KIR3DL2", "weight": 0.0, "id": 2778801410, "level": 3}
+{"count": 134, "name": "HLA-A3", "weight": 0.0, "id": 2778006745, "level": 3}
+{"count": 442, "name": "KIR2DL1", "weight": 0.0, "id": 2776841233, "level": 3}
+{"count": 145, "name": "LILRB1", "weight": 0.0, "id": 2779231258, "level": 3}
+{"count": 30, "name": "HLA-DQ7", "weight": 0.0, "id": 2776998147, "level": 3}
+{"count": 116, "name": "LILRB2", "weight": 0.0, "id": 2777849916, "level": 3}
+{"count": 47, "name": "LILRA3", "weight": 0.0, "id": 2780519134, "level": 3}
+{"count": 14, "name": "HLA-DQ1", "weight": 0.0, "id": 2776580135, "level": 3}
+{"count": 63, "name": "HLA-DR5", "weight": 0.0, "id": 2777344595, "level": 3}

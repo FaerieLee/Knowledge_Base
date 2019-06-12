@@ -1,0 +1,27 @@
+{"count": 10852, "name": "Nonlinear regression", "weight": 10.0, "id": 46889948, "level": 3}
+{"count": 8565, "name": "Nonparametric regression", "weight": 7.0, "id": 74127309, "level": 3}
+{"count": 9911, "name": "Stepwise regression", "weight": 9.0, "id": 170964787, "level": 3}
+{"count": 10667, "name": "Polynomial regression", "weight": 9.0, "id": 120068334, "level": 3}
+{"count": 3166, "name": "Robust regression", "weight": 2.0, "id": 70259352, "level": 3}
+{"count": 7441, "name": "Bayesian multivariate linear regression", "weight": 6.0, "id": 64946054, "level": 3}
+{"count": 7477, "name": "Simple linear regression", "weight": 6.0, "id": 149769383, "level": 3}
+{"count": 3728, "name": "Semiparametric regression", "weight": 3.0, "id": 19539793, "level": 3}
+{"count": 4850, "name": "Multicollinearity", "weight": 4.0, "id": 189285262, "level": 3}
+{"count": 1252, "name": "Marginal model", "weight": 1.0, "id": 197656967, "level": 3}
+{"count": 413, "name": "Projection pursuit regression", "weight": 0.0, "id": 130288989, "level": 3}
+{"count": 3514, "name": "Regression diagnostic", "weight": 3.0, "id": 57381214, "level": 3}
+{"count": 4271, "name": "Cross-sectional regression", "weight": 3.0, "id": 90157343, "level": 3}
+{"count": 516, "name": "Sliced inverse regression", "weight": 0.0, "id": 41341539, "level": 3}
+{"count": 2196, "name": "Unit-weighted regression", "weight": 2.0, "id": 5292614, "level": 3}
+{"count": 1901, "name": "Design matrix", "weight": 1.0, "id": 203233044, "level": 3}
+{"count": 256, "name": "Partial residual plot", "weight": 0.0, "id": 22980124, "level": 3}
+{"count": 628, "name": "Truncated regression model", "weight": 0.0, "id": 80447681, "level": 3}
+{"count": 239, "name": "Cook's distance", "weight": 0.0, "id": 91112807, "level": 3}
+{"count": 1561, "name": "Binomial regression", "weight": 1.0, "id": 114494560, "level": 3}
+{"count": 181, "name": "Influential observation", "weight": 0.0, "id": 69803279, "level": 3}
+{"count": 64, "name": "Breusch\u2013Godfrey test", "weight": 0.0, "id": 82863444, "level": 3}
+{"count": 17, "name": "Preference regression", "weight": 0.0, "id": 2777371296, "level": 3}
+{"count": 124, "name": "Leverage (statistics)", "weight": 0.0, "id": 153083717, "level": 3}
+{"count": 91, "name": "Partial leverage", "weight": 0.0, "id": 100359635, "level": 3}
+{"count": 234, "name": "Park test", "weight": 0.0, "id": 195739231, "level": 3}
+{"count": 6178, "name": "Proper linear model", "weight": 5.0, "id": 32224588, "level": 3}

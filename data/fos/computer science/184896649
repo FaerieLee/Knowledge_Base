@@ -1,0 +1,6 @@
+{"count": 654, "name": "Longest prefix match", "weight": 2.0, "id": 50363770, "level": 4}
+{"count": 1000, "name": "Forwarding information base", "weight": 3.0, "id": 20995872, "level": 4}
+{"count": 432, "name": "Key-based routing", "weight": 1.0, "id": 2148693, "level": 4}
+{"count": 390, "name": "Administrative distance", "weight": 1.0, "id": 183283035, "level": 4}
+{"count": 611, "name": "Topology table", "weight": 1.0, "id": 119159993, "level": 4}
+{"count": 3086, "name": "Virtual routing and forwarding", "weight": 10.0, "id": 157626507, "level": 4}

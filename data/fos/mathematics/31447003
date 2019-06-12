@@ -1,0 +1,6 @@
+{"count": 4646, "name": "Smoothing spline", "weight": 9.0, "id": 107457265, "level": 4}
+{"count": 5005, "name": "Thin plate spline", "weight": 10.0, "id": 93132110, "level": 4}
+{"count": 1868, "name": "Box spline", "weight": 3.0, "id": 78383375, "level": 4}
+{"count": 1741, "name": "Trigonometric interpolation", "weight": 3.0, "id": 28537468, "level": 4}
+{"count": 1361, "name": "Birkhoff interpolation", "weight": 2.0, "id": 205280321, "level": 4}
+{"count": 263, "name": "Runge's phenomenon", "weight": 0.0, "id": 149590908, "level": 4}

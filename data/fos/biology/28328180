@@ -1,0 +1,50 @@
+{"count": 70112, "name": "Progenitor cell", "weight": 10.0, "id": 201750760, "level": 3}
+{"count": 22269, "name": "Neural stem cell", "weight": 3.0, "id": 136834591, "level": 3}
+{"count": 27376, "name": "Induced pluripotent stem cell", "weight": 3.0, "id": 107459253, "level": 3}
+{"count": 15726, "name": "Hematopoietic stem cell", "weight": 2.0, "id": 2778086970, "level": 3}
+{"count": 16780, "name": "Cell therapy", "weight": 2.0, "id": 10882517, "level": 3}
+{"count": 27716, "name": "Cancer stem cell", "weight": 3.0, "id": 55427017, "level": 3}
+{"count": 13872, "name": "Regenerative medicine", "weight": 1.0, "id": 10854531, "level": 3}
+{"count": 8919, "name": "Stem cell factor", "weight": 1.0, "id": 2022786, "level": 3}
+{"count": 2799, "name": "Organoid", "weight": 0.0, "id": 31695470, "level": 3}
+{"count": 24245, "name": "Adult stem cell", "weight": 3.0, "id": 20875687, "level": 3}
+{"count": 1192, "name": "Stem cell niche", "weight": 0.0, "id": 164794517, "level": 3}
+{"count": 28489, "name": "CD34", "weight": 4.0, "id": 10205521, "level": 3}
+{"count": 6017, "name": "Autologous stem-cell transplantation", "weight": 0.0, "id": 2779050716, "level": 3}
+{"count": 5019, "name": "Transdifferentiation", "weight": 0.0, "id": 60870556, "level": 3}
+{"count": 7065, "name": "Stem-cell therapy", "weight": 1.0, "id": 2779389132, "level": 3}
+{"count": 15497, "name": "Reprogramming", "weight": 2.0, "id": 77255625, "level": 3}
+{"count": 8144, "name": "Neuroepithelial cell", "weight": 1.0, "id": 200707615, "level": 3}
+{"count": 2396, "name": "Leukapheresis", "weight": 0.0, "id": 2777371436, "level": 3}
+{"count": 1583, "name": "Donor lymphocyte infusion", "weight": 0.0, "id": 2779695342, "level": 3}
+{"count": 6258, "name": "Homeobox protein NANOG", "weight": 0.0, "id": 207701140, "level": 3}
+{"count": 6911, "name": "Stem cell marker", "weight": 0.0, "id": 136302470, "level": 3}
+{"count": 1268, "name": "Stromal vascular fraction", "weight": 0.0, "id": 2780745355, "level": 3}
+{"count": 976, "name": "Spermatogonial stem cells", "weight": 0.0, "id": 2780945937, "level": 3}
+{"count": 1767, "name": "Dental pulp stem cells", "weight": 0.0, "id": 2777400515, "level": 3}
+{"count": 896, "name": "BMI1", "weight": 0.0, "id": 2778987575, "level": 3}
+{"count": 1046, "name": "LGR5", "weight": 0.0, "id": 10116572, "level": 3}
+{"count": 1026, "name": "Plerixafor", "weight": 0.0, "id": 2778828106, "level": 3}
+{"count": 825, "name": "CD146", "weight": 0.0, "id": 2779093498, "level": 3}
+{"count": 500, "name": "Stem cell line", "weight": 0.0, "id": 47836895, "level": 3}
+{"count": 358, "name": "Regenerative endodontics", "weight": 0.0, "id": 2778658934, "level": 3}
+{"count": 652, "name": "Periodontal ligament stem cells", "weight": 0.0, "id": 2779886569, "level": 3}
+{"count": 308, "name": "Tooth regeneration", "weight": 0.0, "id": 2781370110, "level": 3}
+{"count": 1490, "name": "Limbal stem cell", "weight": 0.0, "id": 2778155685, "level": 3}
+{"count": 240, "name": "Schmidtea mediterranea", "weight": 0.0, "id": 2777668192, "level": 3}
+{"count": 408, "name": "Peripheral stem cell transplantation", "weight": 0.0, "id": 2776356865, "level": 3}
+{"count": 418, "name": "Corneal limbus", "weight": 0.0, "id": 2776290947, "level": 3}
+{"count": 790, "name": "Lineage markers", "weight": 0.0, "id": 2779310769, "level": 3}
+{"count": 118, "name": "Mesoangioblast", "weight": 0.0, "id": 63277231, "level": 3}
+{"count": 95, "name": "Tuft cell", "weight": 0.0, "id": 2776208970, "level": 3}
+{"count": 158, "name": "Macrostomum lignano", "weight": 0.0, "id": 2781123310, "level": 3}
+{"count": 623, "name": "Plant stem cell", "weight": 0.0, "id": 53006731, "level": 3}
+{"count": 27, "name": "Hematon", "weight": 0.0, "id": 2778915898, "level": 3}
+{"count": 13, "name": "Stage specific embryonic antigen 3", "weight": 0.0, "id": 2777496969, "level": 3}
+{"count": 15, "name": "Mechanome", "weight": 0.0, "id": 2777759754, "level": 3}
+{"count": 20, "name": "Syngeneic stem cell transplantation", "weight": 0.0, "id": 2779792870, "level": 3}
+{"count": 26, "name": "Good tissue practice", "weight": 0.0, "id": 2775926197, "level": 3}
+{"count": 42, "name": "Stem cell controversy", "weight": 0.0, "id": 2778957696, "level": 3}
+{"count": 68, "name": "Derived stem", "weight": 0.0, "id": 2776808757, "level": 3}
+{"count": 26, "name": "Clonal colony", "weight": 0.0, "id": 2780808898, "level": 3}
+{"count": 7, "name": "Epiblast-derived stem cells", "weight": 0.0, "id": 2776634586, "level": 3}

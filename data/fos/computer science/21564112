@@ -1,0 +1,10 @@
+{"count": 4490, "name": "Mutual authentication", "weight": 7.0, "id": 2781221063, "level": 4}
+{"count": 507, "name": "Extensible Authentication Protocol", "weight": 0.0, "id": 87951092, "level": 4}
+{"count": 4492, "name": "Multi-factor authentication", "weight": 7.0, "id": 194699767, "level": 4}
+{"count": 228, "name": "Deniable encryption", "weight": 0.0, "id": 139350028, "level": 4}
+{"count": 6170, "name": "Challenge\u2013response authentication", "weight": 10.0, "id": 131129157, "level": 4}
+{"count": 19, "name": "Secure Remote Password protocol", "weight": 0.0, "id": 2780464219, "level": 4}
+{"count": 5080, "name": "Data Authentication Algorithm", "weight": 8.0, "id": 168970074, "level": 4}
+{"count": 3298, "name": "Email authentication", "weight": 5.0, "id": 550791530, "level": 4}
+{"count": 5993, "name": "Challenge-Handshake Authentication Protocol", "weight": 9.0, "id": 207828512, "level": 4}
+{"count": 5867, "name": "Lightweight Extensible Authentication Protocol", "weight": 9.0, "id": 167169670, "level": 4}

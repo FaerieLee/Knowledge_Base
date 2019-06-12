@@ -1,0 +1,82 @@
+{"count": 29289, "name": "Temporal lobe", "weight": 10.0, "id": 2781099131, "level": 3}
+{"count": 23937, "name": "Anticonvulsant", "weight": 8.0, "id": 2775858608, "level": 3}
+{"count": 10258, "name": "Convulsion", "weight": 3.0, "id": 2777010014, "level": 3}
+{"count": 14457, "name": "Carbamazepine", "weight": 4.0, "id": 2779253243, "level": 3}
+{"count": 14311, "name": "Status epilepticus", "weight": 4.0, "id": 2777341932, "level": 3}
+{"count": 9020, "name": "Valproic Acid", "weight": 3.0, "id": 2777172819, "level": 3}
+{"count": 5811, "name": "Epileptic seizure", "weight": 1.0, "id": 2779334592, "level": 3}
+{"count": 6562, "name": "Lamotrigine", "weight": 2.0, "id": 2778802184, "level": 3}
+{"count": 7037, "name": "Epilepsy surgery", "weight": 2.0, "id": 2780803581, "level": 3}
+{"count": 6094, "name": "Kindling", "weight": 2.0, "id": 100691959, "level": 3}
+{"count": 5569, "name": "Topiramate", "weight": 1.0, "id": 2777683783, "level": 3}
+{"count": 3226, "name": "Ketogenic diet", "weight": 1.0, "id": 2778587478, "level": 3}
+{"count": 3230, "name": "Vagus nerve stimulation", "weight": 1.0, "id": 2780087125, "level": 3}
+{"count": 4611, "name": "Levetiracetam", "weight": 1.0, "id": 2777332695, "level": 3}
+{"count": 2077, "name": "Electrocorticography", "weight": 0.0, "id": 2780117969, "level": 3}
+{"count": 2011, "name": "Febrile seizure", "weight": 0.0, "id": 2780760677, "level": 3}
+{"count": 2158, "name": "Vigabatrin", "weight": 0.0, "id": 2780837902, "level": 3}
+{"count": 5158, "name": "Epileptogenesis", "weight": 1.0, "id": 57236427, "level": 3}
+{"count": 2863, "name": "Cortical dysplasia", "weight": 0.0, "id": 2777060296, "level": 3}
+{"count": 1500, "name": "Juvenile myoclonic epilepsy", "weight": 0.0, "id": 2779814861, "level": 3}
+{"count": 1321, "name": "Idiopathic generalized epilepsy", "weight": 0.0, "id": 2777295592, "level": 3}
+{"count": 1375, "name": "Zonisamide", "weight": 0.0, "id": 2777138316, "level": 3}
+{"count": 3988, "name": "partial seizures", "weight": 1.0, "id": 2777803345, "level": 3}
+{"count": 1320, "name": "Hemispherectomy", "weight": 0.0, "id": 2780806746, "level": 3}
+{"count": 629, "name": "Progressive myoclonus epilepsy", "weight": 0.0, "id": 2781467325, "level": 3}
+{"count": 1134, "name": "Polymicrogyria", "weight": 0.0, "id": 2778596996, "level": 3}
+{"count": 890, "name": "Lennox\u2013Gastaut syndrome", "weight": 0.0, "id": 2779307984, "level": 3}
+{"count": 680, "name": "Rolandic epilepsy", "weight": 0.0, "id": 2781471670, "level": 3}
+{"count": 1120, "name": "Lacosamide", "weight": 0.0, "id": 2778139780, "level": 3}
+{"count": 946, "name": "Clobazam", "weight": 0.0, "id": 2777907850, "level": 3}
+{"count": 525, "name": "Landau\u2013Kleffner syndrome", "weight": 0.0, "id": 2779656511, "level": 3}
+{"count": 1011, "name": "Dravet syndrome", "weight": 0.0, "id": 2780623815, "level": 3}
+{"count": 12622, "name": "Ictal", "weight": 4.0, "id": 17755696, "level": 3}
+{"count": 1979, "name": "Generalized epilepsy", "weight": 0.0, "id": 2779979230, "level": 3}
+{"count": 2979, "name": "EEG-fMRI", "weight": 1.0, "id": 125990524, "level": 3}
+{"count": 476, "name": "Retigabine", "weight": 0.0, "id": 2778994288, "level": 3}
+{"count": 483, "name": "Lafora disease", "weight": 0.0, "id": 2777280662, "level": 3}
+{"count": 1503, "name": "Myoclonic epilepsy", "weight": 0.0, "id": 2775859823, "level": 3}
+{"count": 425, "name": "Absence seizure", "weight": 0.0, "id": 2776309307, "level": 3}
+{"count": 597, "name": "Schizencephaly", "weight": 0.0, "id": 2781121353, "level": 3}
+{"count": 664, "name": "Childhood absence epilepsy", "weight": 0.0, "id": 2778566530, "level": 3}
+{"count": 774, "name": "Hypsarrhythmia", "weight": 0.0, "id": 2779888125, "level": 3}
+{"count": 253, "name": "Flurothyl", "weight": 0.0, "id": 2775975147, "level": 3}
+{"count": 499, "name": "Neonatal seizure", "weight": 0.0, "id": 2780208886, "level": 3}
+{"count": 340, "name": "Rufinamide", "weight": 0.0, "id": 2777164370, "level": 3}
+{"count": 246, "name": "Valproate Sodium", "weight": 0.0, "id": 2781267640, "level": 3}
+{"count": 516, "name": "Perampanel", "weight": 0.0, "id": 2780836401, "level": 3}
+{"count": 465, "name": "Pachygyria", "weight": 0.0, "id": 2781152150, "level": 3}
+{"count": 246, "name": "Neuronal migration disorder", "weight": 0.0, "id": 2776664904, "level": 3}
+{"count": 328, "name": "Photosensitive epilepsy", "weight": 0.0, "id": 2779080211, "level": 3}
+{"count": 373, "name": "Psychogenic non-epileptic seizures", "weight": 0.0, "id": 2780309463, "level": 3}
+{"count": 1236, "name": "Epilepsy syndromes", "weight": 0.0, "id": 2778734009, "level": 3}
+{"count": 407, "name": "Post-traumatic epilepsy", "weight": 0.0, "id": 2776765208, "level": 3}
+{"count": 124, "name": "Drop attack", "weight": 0.0, "id": 2776020453, "level": 3}
+{"count": 389, "name": "Intermittent photic stimulation", "weight": 0.0, "id": 2781447465, "level": 3}
+{"count": 315, "name": "Adenoma sebaceum", "weight": 0.0, "id": 2778937490, "level": 3}
+{"count": 125, "name": "Myoclonic astatic epilepsy", "weight": 0.0, "id": 2777874987, "level": 3}
+{"count": 894, "name": "Spike-and-wave", "weight": 0.0, "id": 73745247, "level": 3}
+{"count": 146, "name": "Alternating hemiplegia", "weight": 0.0, "id": 2776289281, "level": 3}
+{"count": 1751, "name": "Seizure types", "weight": 0.0, "id": 2780874087, "level": 3}
+{"count": 1629, "name": "Epilepsy in children", "weight": 0.0, "id": 2780145166, "level": 3}
+{"count": 53, "name": "Post-traumatic seizure", "weight": 0.0, "id": 2779469266, "level": 3}
+{"count": 250, "name": "Grand mal seizure", "weight": 0.0, "id": 2777208201, "level": 3}
+{"count": 114, "name": "Cortical stimulation mapping", "weight": 0.0, "id": 2781365221, "level": 3}
+{"count": 47, "name": "Atonic seizure", "weight": 0.0, "id": 2780178383, "level": 3}
+{"count": 110, "name": "Gray matter heterotopia", "weight": 0.0, "id": 2778769157, "level": 3}
+{"count": 190, "name": "CACNA1H", "weight": 0.0, "id": 177759554, "level": 3}
+{"count": 58, "name": "Jeavons syndrome", "weight": 0.0, "id": 2780325231, "level": 3}
+{"count": 124, "name": "Abdominal epilepsy", "weight": 0.0, "id": 2777733252, "level": 3}
+{"count": 120, "name": "CLCN2", "weight": 0.0, "id": 76765561, "level": 3}
+{"count": 71, "name": "Nocturnal epilepsy", "weight": 0.0, "id": 2777048910, "level": 3}
+{"count": 23, "name": "Episodic dyscontrol syndrome", "weight": 0.0, "id": 2778449976, "level": 3}
+{"count": 113, "name": "Intermittent rhythmic delta activity", "weight": 0.0, "id": 2776933241, "level": 3}
+{"count": 31, "name": "Rud syndrome", "weight": 0.0, "id": 2780795102, "level": 3}
+{"count": 11, "name": "Epilepsy Phenome/Genome Project", "weight": 0.0, "id": 2776598017, "level": 3}
+{"count": 35, "name": "Pheneturide", "weight": 0.0, "id": 2781224874, "level": 3}
+{"count": 204, "name": "Epileptologist", "weight": 0.0, "id": 2776429724, "level": 3}
+{"count": 136, "name": "Causes of seizures", "weight": 0.0, "id": 2777512223, "level": 3}
+{"count": 41, "name": "Bilateral synchronization", "weight": 0.0, "id": 2779703732, "level": 3}
+{"count": 11, "name": "Gene therapy for epilepsy", "weight": 0.0, "id": 2777839319, "level": 3}
+{"count": 22, "name": "Epilepsy in animals", "weight": 0.0, "id": 2776354013, "level": 3}
+{"count": 19, "name": "Epilepsy and employment", "weight": 0.0, "id": 2778525109, "level": 3}

@@ -1,0 +1,15 @@
+{"count": 2452, "name": "Uranium-233", "weight": 5.0, "id": 122173349, "level": 4}
+{"count": 4462, "name": "Fuel element failure", "weight": 10.0, "id": 77136645, "level": 4}
+{"count": 279, "name": "Graphite-moderated reactor", "weight": 0.0, "id": 2777737034, "level": 4}
+{"count": 3411, "name": "Thorium fuel cycle", "weight": 7.0, "id": 19994219, "level": 4}
+{"count": 332, "name": "Pool-type reactor", "weight": 0.0, "id": 2777578159, "level": 4}
+{"count": 726, "name": "Void coefficient", "weight": 1.0, "id": 12890039, "level": 4}
+{"count": 1934, "name": "Neutron poison", "weight": 4.0, "id": 21991021, "level": 4}
+{"count": 3030, "name": "Liquid fluoride thorium reactor", "weight": 6.0, "id": 30972296, "level": 4}
+{"count": 28, "name": "SL-1", "weight": 0.0, "id": 2781022820, "level": 4}
+{"count": 37, "name": "UHTREX", "weight": 0.0, "id": 2781382858, "level": 4}
+{"count": 1975, "name": "Nuclear meltdown", "weight": 4.0, "id": 86759815, "level": 4}
+{"count": 247, "name": "Fertile material", "weight": 0.0, "id": 2776059158, "level": 4}
+{"count": 183, "name": "Neutron reflector", "weight": 0.0, "id": 150084911, "level": 4}
+{"count": 3195, "name": "Nuclear reactor safety systems", "weight": 7.0, "id": 70784383, "level": 4}
+{"count": 20, "name": "Fuel temperature coefficient of reactivity", "weight": 0.0, "id": 2777302794, "level": 4}

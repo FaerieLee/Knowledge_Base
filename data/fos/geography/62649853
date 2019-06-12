@@ -1,0 +1,192 @@
+{"count": 50182, "name": "Spatial distribution", "weight": 3.0, "id": 2777016058, "level": 2}
+{"count": 163134, "name": "Satellite", "weight": 10.0, "id": 19269812, "level": 2}
+{"count": 72606, "name": "Geographic information system", "weight": 4.0, "id": 41856607, "level": 2}
+{"count": 50871, "name": "Synthetic aperture radar", "weight": 3.0, "id": 87360688, "level": 2}
+{"count": 11339, "name": "Radiometry", "weight": 0.0, "id": 87456703, "level": 2}
+{"count": 51224, "name": "Lidar", "weight": 3.0, "id": 51399673, "level": 2}
+{"count": 18713, "name": "Satellite imagery", "weight": 1.0, "id": 2778102629, "level": 2}
+{"count": 10049, "name": "Space technology", "weight": 0.0, "id": 77304879, "level": 2}
+{"count": 22073, "name": "Space exploration", "weight": 1.0, "id": 104060986, "level": 2}
+{"count": 10598, "name": "Aerial photography", "weight": 0.0, "id": 133214962, "level": 2}
+{"count": 19680, "name": "Digital elevation model", "weight": 1.0, "id": 181843262, "level": 2}
+{"count": 12008, "name": "Brightness temperature", "weight": 0.0, "id": 53802167, "level": 2}
+{"count": 18050, "name": "Ground truth", "weight": 1.0, "id": 146849305, "level": 2}
+{"count": 31099, "name": "Hyperspectral imaging", "weight": 1.0, "id": 159078339, "level": 2}
+{"count": 16422, "name": "Change detection", "weight": 1.0, "id": 203595873, "level": 2}
+{"count": 20272, "name": "Radiometer", "weight": 1.0, "id": 120189094, "level": 2}
+{"count": 23718, "name": "Multispectral image", "weight": 1.0, "id": 173163844, "level": 2}
+{"count": 18797, "name": "Radiance", "weight": 1.0, "id": 23690007, "level": 2}
+{"count": 23208, "name": "Photogrammetry", "weight": 1.0, "id": 117455697, "level": 2}
+{"count": 4253, "name": "Advanced very-high-resolution radiometer", "weight": 0.0, "id": 2777480484, "level": 2}
+{"count": 31002, "name": "Topographic map", "weight": 1.0, "id": 55555194, "level": 2}
+{"count": 14243, "name": "Altimeter", "weight": 0.0, "id": 17534553, "level": 2}
+{"count": 5676, "name": "Atmospheric correction", "weight": 0.0, "id": 2778329001, "level": 2}
+{"count": 17988, "name": "Bathymetry", "weight": 1.0, "id": 174943157, "level": 2}
+{"count": 2936, "name": "Atmospheric optics", "weight": 0.0, "id": 54308172, "level": 2}
+{"count": 6008, "name": "Spatial relation", "weight": 0.0, "id": 27511587, "level": 2}
+{"count": 20121, "name": "Point cloud", "weight": 1.0, "id": 131979681, "level": 2}
+{"count": 4845, "name": "Aerial survey", "weight": 0.0, "id": 176262533, "level": 2}
+{"count": 4174, "name": "Atmospheric sounding", "weight": 0.0, "id": 64396926, "level": 2}
+{"count": 3528, "name": "L band", "weight": 0.0, "id": 133969743, "level": 2}
+{"count": 10688, "name": "Spectral bands", "weight": 0.0, "id": 114700698, "level": 2}
+{"count": 22369, "name": "Positioning system", "weight": 1.0, "id": 2778603505, "level": 2}
+{"count": 6806, "name": "X band", "weight": 0.0, "id": 99936299, "level": 2}
+{"count": 3986, "name": "Ocean color", "weight": 0.0, "id": 2776939893, "level": 2}
+{"count": 6266, "name": "Digital mapping", "weight": 0.0, "id": 181672929, "level": 2}
+{"count": 6239, "name": "Spectral signature", "weight": 0.0, "id": 176641082, "level": 2}
+{"count": 4553, "name": "Aerial image", "weight": 0.0, "id": 2776429412, "level": 2}
+{"count": 9620, "name": "NASA Deep Space Network", "weight": 0.0, "id": 187107819, "level": 2}
+{"count": 2970, "name": "Data archive", "weight": 0.0, "id": 2778315783, "level": 2}
+{"count": 23699, "name": "Geospatial analysis", "weight": 1.0, "id": 9770341, "level": 2}
+{"count": 6290, "name": "Point of interest", "weight": 0.0, "id": 150140777, "level": 2}
+{"count": 3761, "name": "C band", "weight": 0.0, "id": 63944557, "level": 2}
+{"count": 4171, "name": "Spatial contextual awareness", "weight": 0.0, "id": 64754055, "level": 2}
+{"count": 2970, "name": "Satellite geodesy", "weight": 0.0, "id": 154839486, "level": 2}
+{"count": 4765, "name": "Fleet management", "weight": 0.0, "id": 2777305159, "level": 2}
+{"count": 14761, "name": "Galileo (satellite navigation)", "weight": 0.0, "id": 177219330, "level": 2}
+{"count": 5407, "name": "Aster (genus)", "weight": 0.0, "id": 2779188070, "level": 2}
+{"count": 1527, "name": "Multispectral Scanner", "weight": 0.0, "id": 2777205146, "level": 2}
+{"count": 947, "name": "Navigational aid", "weight": 0.0, "id": 2778761605, "level": 2}
+{"count": 4474, "name": "Spectroradiometer", "weight": 0.0, "id": 130066347, "level": 2}
+{"count": 847, "name": "Photomapping", "weight": 0.0, "id": 120881857, "level": 2}
+{"count": 4273, "name": "Sea state", "weight": 0.0, "id": 2781147146, "level": 2}
+{"count": 6910, "name": "Moderate-resolution imaging spectroradiometer", "weight": 0.0, "id": 2777007095, "level": 2}
+{"count": 1876, "name": "Virtual observatory", "weight": 0.0, "id": 2781109611, "level": 2}
+{"count": 5091, "name": "Fire detection", "weight": 0.0, "id": 2780836893, "level": 2}
+{"count": 2684, "name": "SeaWiFS", "weight": 0.0, "id": 117082904, "level": 2}
+{"count": 787, "name": "Aerial reconnaissance", "weight": 0.0, "id": 185154738, "level": 2}
+{"count": 1354, "name": "Automatic weather station", "weight": 0.0, "id": 2779395273, "level": 2}
+{"count": 4782, "name": "Air navigation", "weight": 0.0, "id": 504623915, "level": 2}
+{"count": 4034, "name": "Echo sounding", "weight": 0.0, "id": 50254455, "level": 2}
+{"count": 3181, "name": "Geomatics", "weight": 0.0, "id": 12780434, "level": 2}
+{"count": 2719, "name": "Geocoding", "weight": 0.0, "id": 42629822, "level": 2}
+{"count": 973, "name": "Sense of direction", "weight": 0.0, "id": 2776947765, "level": 2}
+{"count": 1595, "name": "Volunteered geographic information", "weight": 0.0, "id": 57380593, "level": 2}
+{"count": 1320, "name": "Navigational instrument", "weight": 0.0, "id": 10245270, "level": 2}
+{"count": 2762, "name": "Nowcasting", "weight": 0.0, "id": 2781013037, "level": 2}
+{"count": 4517, "name": "Georeference", "weight": 0.0, "id": 75145180, "level": 2}
+{"count": 550, "name": "Unattended ground sensor", "weight": 0.0, "id": 84247811, "level": 2}
+{"count": 1057, "name": "Digital Earth", "weight": 0.0, "id": 120938966, "level": 2}
+{"count": 1665, "name": "Position fixing", "weight": 0.0, "id": 22927688, "level": 2}
+{"count": 502, "name": "Space geodesy", "weight": 0.0, "id": 2776407548, "level": 2}
+{"count": 251, "name": "Distributed Active Archive Center", "weight": 0.0, "id": 2781224774, "level": 2}
+{"count": 5888, "name": "Nadir", "weight": 0.0, "id": 88575799, "level": 2}
+{"count": 1420, "name": "Mobile mapping", "weight": 0.0, "id": 2776821279, "level": 2}
+{"count": 4036, "name": "Total station", "weight": 0.0, "id": 168498295, "level": 2}
+{"count": 1373, "name": "Geoinformatics", "weight": 0.0, "id": 109364679, "level": 2}
+{"count": 1717, "name": "SCIAMACHY", "weight": 0.0, "id": 2777812092, "level": 2}
+{"count": 300, "name": "National Geophysical Data Center", "weight": 0.0, "id": 2776295494, "level": 2}
+{"count": 839, "name": "Celestial navigation", "weight": 0.0, "id": 144475974, "level": 2}
+{"count": 400, "name": "Crown closure", "weight": 0.0, "id": 2775900385, "level": 2}
+{"count": 1490, "name": "Geoprocessing", "weight": 0.0, "id": 195740040, "level": 2}
+{"count": 521, "name": "Geocentric coordinates", "weight": 0.0, "id": 8801270, "level": 2}
+{"count": 4182, "name": "Remote sensing application", "weight": 0.0, "id": 183365957, "level": 2}
+{"count": 988, "name": "Loran-C", "weight": 0.0, "id": 2780554791, "level": 2}
+{"count": 1170, "name": "Real-time locating system", "weight": 0.0, "id": 21552470, "level": 2}
+{"count": 310, "name": "Planetary Data System", "weight": 0.0, "id": 2777339832, "level": 2}
+{"count": 716, "name": "CityGML", "weight": 0.0, "id": 2776744651, "level": 2}
+{"count": 2755, "name": "Spectral envelope", "weight": 0.0, "id": 54926389, "level": 2}
+{"count": 397, "name": "Universal Transverse Mercator coordinate system", "weight": 0.0, "id": 43823703, "level": 2}
+{"count": 231, "name": "Apollo Telescope Mount", "weight": 0.0, "id": 2778278775, "level": 2}
+{"count": 334, "name": "Astronomical survey", "weight": 0.0, "id": 29552662, "level": 2}
+{"count": 151, "name": "Selenography", "weight": 0.0, "id": 39615477, "level": 2}
+{"count": 1509, "name": "Lunar orbit", "weight": 0.0, "id": 155334826, "level": 2}
+{"count": 216, "name": "Geographical cluster", "weight": 0.0, "id": 18050146, "level": 2}
+{"count": 1156, "name": "Ancillary data", "weight": 0.0, "id": 2780408538, "level": 2}
+{"count": 379, "name": "Geoweb", "weight": 0.0, "id": 2776306415, "level": 2}
+{"count": 451, "name": "Crime mapping", "weight": 0.0, "id": 2778122203, "level": 2}
+{"count": 1135, "name": "Vector map", "weight": 0.0, "id": 177292542, "level": 2}
+{"count": 676, "name": "Flow map", "weight": 0.0, "id": 25902001, "level": 2}
+{"count": 287, "name": "Integrated Ocean Observing System", "weight": 0.0, "id": 2776582039, "level": 2}
+{"count": 183, "name": "Global Ocean Observing System", "weight": 0.0, "id": 2780242764, "level": 2}
+{"count": 160, "name": "Solar observation", "weight": 0.0, "id": 2779824425, "level": 2}
+{"count": 422, "name": "ECognition", "weight": 0.0, "id": 2777272493, "level": 2}
+{"count": 695, "name": "Lunar lander", "weight": 0.0, "id": 2778109100, "level": 2}
+{"count": 8572, "name": "Orbiter", "weight": 0.0, "id": 2776481522, "level": 2}
+{"count": 417, "name": "Kaguya", "weight": 0.0, "id": 2776083886, "level": 2}
+{"count": 703, "name": "Distress signal", "weight": 0.0, "id": 141054130, "level": 2}
+{"count": 947, "name": "Shapefile", "weight": 0.0, "id": 116394254, "level": 2}
+{"count": 503, "name": "Aerial video", "weight": 0.0, "id": 2780373723, "level": 2}
+{"count": 340, "name": "Vessel traffic service", "weight": 0.0, "id": 2776979032, "level": 2}
+{"count": 129, "name": "Ocean Observatories Initiative", "weight": 0.0, "id": 2777587947, "level": 2}
+{"count": 432, "name": "Heliophysics", "weight": 0.0, "id": 81646568, "level": 2}
+{"count": 348, "name": "Racing slick", "weight": 0.0, "id": 50251070, "level": 2}
+{"count": 378, "name": "Ocean exploration", "weight": 0.0, "id": 144176703, "level": 2}
+{"count": 517, "name": "Ocean observations", "weight": 0.0, "id": 2776248883, "level": 2}
+{"count": 50, "name": "French space program", "weight": 0.0, "id": 2778318897, "level": 2}
+{"count": 135, "name": "Tacheometry", "weight": 0.0, "id": 14188793, "level": 2}
+{"count": 192, "name": "MapBasic", "weight": 0.0, "id": 2781383865, "level": 2}
+{"count": 214, "name": "Sunglint", "weight": 0.0, "id": 189817097, "level": 2}
+{"count": 379, "name": "Cosmic Vision", "weight": 0.0, "id": 2779559523, "level": 2}
+{"count": 98, "name": "Location intelligence", "weight": 0.0, "id": 2778444140, "level": 2}
+{"count": 2258, "name": "TIRA", "weight": 0.0, "id": 2776370202, "level": 2}
+{"count": 145, "name": "LORAN", "weight": 0.0, "id": 74146387, "level": 2}
+{"count": 182, "name": "Imagery analysis", "weight": 0.0, "id": 140217830, "level": 2}
+{"count": 7, "name": "Manilkara chicle", "weight": 0.0, "id": 2779756825, "level": 2}
+{"count": 386, "name": "Transit instrument", "weight": 0.0, "id": 130160567, "level": 2}
+{"count": 128, "name": "Space habitat", "weight": 0.0, "id": 2778123317, "level": 2}
+{"count": 110, "name": "Low light level television", "weight": 0.0, "id": 2779949479, "level": 2}
+{"count": 6, "name": "Phytogeomorphology", "weight": 0.0, "id": 510318464, "level": 2}
+{"count": 34, "name": "Geomorphometrics", "weight": 0.0, "id": 2779940297, "level": 2}
+{"count": 156, "name": "Lunar distance (navigation)", "weight": 0.0, "id": 58431541, "level": 2}
+{"count": 25, "name": "Cognition Network Technology", "weight": 0.0, "id": 2777646944, "level": 2}
+{"count": 368, "name": "Coverage data", "weight": 0.0, "id": 2780805480, "level": 2}
+{"count": 70, "name": "Audio tour", "weight": 0.0, "id": 2778292169, "level": 2}
+{"count": 20, "name": "Analog observation", "weight": 0.0, "id": 2780340411, "level": 2}
+{"count": 9, "name": "Aerodrome mapping database", "weight": 0.0, "id": 2778296501, "level": 2}
+{"count": 154, "name": "Timation", "weight": 0.0, "id": 2777183427, "level": 2}
+{"count": 69, "name": "Rockworks", "weight": 0.0, "id": 2779758453, "level": 2}
+{"count": 182, "name": "Earth exploration", "weight": 0.0, "id": 109473280, "level": 2}
+{"count": 22, "name": "Jenks natural breaks optimization", "weight": 0.0, "id": 109922023, "level": 2}
+{"count": 72, "name": "Steam shovel", "weight": 0.0, "id": 193605714, "level": 2}
+{"count": 102, "name": "Tellurometer", "weight": 0.0, "id": 29358566, "level": 2}
+{"count": 106, "name": "GADM", "weight": 0.0, "id": 2778521038, "level": 2}
+{"count": 44, "name": "Historical geographic information system", "weight": 0.0, "id": 2778783470, "level": 2}
+{"count": 44, "name": "BUFR", "weight": 0.0, "id": 2776487148, "level": 2}
+{"count": 97, "name": "Natural Earth", "weight": 0.0, "id": 2777745988, "level": 2}
+{"count": 11, "name": "TOXMAP", "weight": 0.0, "id": 2777775103, "level": 2}
+{"count": 27, "name": "International Map of the World", "weight": 0.0, "id": 2780877451, "level": 2}
+{"count": 4, "name": "Varignon frame", "weight": 0.0, "id": 139144569, "level": 2}
+{"count": 23, "name": "Project Daedalus", "weight": 0.0, "id": 2779040759, "level": 2}
+{"count": 24, "name": "Project Icarus", "weight": 0.0, "id": 2779424974, "level": 2}
+{"count": 67, "name": "Spot height", "weight": 0.0, "id": 2779390065, "level": 2}
+{"count": 59, "name": "Thematic image", "weight": 0.0, "id": 192124089, "level": 2}
+{"count": 7, "name": "Infra-red search and track", "weight": 0.0, "id": 2779430886, "level": 2}
+{"count": 1, "name": "GIS and aquatic science", "weight": 0.0, "id": 2777424172, "level": 2}
+{"count": 6, "name": "Aerial Common Sensor", "weight": 0.0, "id": 44196487, "level": 2}
+{"count": 8, "name": "OpenEV", "weight": 0.0, "id": 2777219241, "level": 2}
+{"count": 6, "name": "Pattern-of-life analysis", "weight": 0.0, "id": 2780908785, "level": 2}
+{"count": 8, "name": "Zone of Visual Influence", "weight": 0.0, "id": 2777415808, "level": 2}
+{"count": 595, "name": "Route planning software", "weight": 0.0, "id": 6405874, "level": 2}
+{"count": 1, "name": "GNSS positioning calculation", "weight": 0.0, "id": 2779636814, "level": 2}
+{"count": 1, "name": "Cartographic censorship", "weight": 0.0, "id": 2779729060, "level": 2}
+{"count": 4, "name": "GeoSUR", "weight": 0.0, "id": 2777547413, "level": 2}
+{"count": 2, "name": "Forest informatics", "weight": 0.0, "id": 2780439888, "level": 2}
+{"count": 3, "name": "GIS and environmental governance", "weight": 0.0, "id": 145045334, "level": 2}
+{"count": 2, "name": "C-squares", "weight": 0.0, "id": 2777569833, "level": 2}
+{"count": 2, "name": "STARLite Radar", "weight": 0.0, "id": 166185888, "level": 2}
+{"count": 2, "name": "Canadian weather radar network", "weight": 0.0, "id": 2778674216, "level": 2}
+{"count": 4, "name": "Hachure map", "weight": 0.0, "id": 120679218, "level": 2}
+{"count": 1, "name": "National lidar dataset", "weight": 0.0, "id": 2780070734, "level": 2}
+{"count": 12, "name": "Stellar triangulation", "weight": 0.0, "id": 2779329432, "level": 2}
+{"count": 7, "name": "Buffer (GIS)", "weight": 0.0, "id": 5241252, "level": 2}
+{"count": 3, "name": "Hydnora triceps", "weight": 0.0, "id": 2777655775, "level": 2}
+{"count": 16, "name": "National Imagery Transmission Format", "weight": 0.0, "id": 2777909505, "level": 2}
+{"count": 2, "name": "TransducerML", "weight": 0.0, "id": 2778889048, "level": 2}
+{"count": 4, "name": "South African Spatial Data Infrastructure", "weight": 0.0, "id": 2780672024, "level": 2}
+{"count": 1, "name": "International distress frequency", "weight": 0.0, "id": 2778175844, "level": 2}
+{"count": 1, "name": "Map surround", "weight": 0.0, "id": 2776758138, "level": 2}
+{"count": 2, "name": "GNSS software-defined receiver", "weight": 0.0, "id": 2776341133, "level": 2}
+{"count": 11, "name": "Geo-content", "weight": 0.0, "id": 2777959331, "level": 2}
+{"count": 11, "name": "Nimbus Data", "weight": 0.0, "id": 2780526067, "level": 2}
+{"count": 1, "name": "ISO/TC 211 Geographic information/Geomatics", "weight": 0.0, "id": 2781248660, "level": 2}
+{"count": 1, "name": "Geo-enable", "weight": 0.0, "id": 2780091817, "level": 2}
+{"count": 7, "name": "Indices of deprivation 2004", "weight": 0.0, "id": 2777801254, "level": 2}
+{"count": 1, "name": "ISO 6709", "weight": 0.0, "id": 2780141734, "level": 2}
+{"count": 21, "name": "Geology of Venus", "weight": 0.0, "id": 2777157855, "level": 2}
+{"count": 3, "name": "Stereoautograph", "weight": 0.0, "id": 2779388224, "level": 2}
+{"count": 4, "name": "Dam safety system", "weight": 0.0, "id": 2777507208, "level": 2}
+{"count": 6, "name": "Advanced Inertial Reference Sphere", "weight": 0.0, "id": 2780261949, "level": 2}
+{"count": 1, "name": "Semi-synchronous orbit", "weight": 0.0, "id": 2777065640, "level": 2}
+{"count": 28, "name": "World file", "weight": 0.0, "id": 2780232172, "level": 2}
+{"count": 53, "name": "Exelis", "weight": 0.0, "id": 2779311055, "level": 2}

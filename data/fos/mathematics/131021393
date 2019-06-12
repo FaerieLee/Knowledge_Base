@@ -1,0 +1,7 @@
+{"count": 6451, "name": "Multiplicative noise", "weight": 5.0, "id": 18015164, "level": 4}
+{"count": 3824, "name": "Discrete-time signal", "weight": 3.0, "id": 146749787, "level": 4}
+{"count": 4702, "name": "Signal averaging", "weight": 3.0, "id": 97855336, "level": 4}
+{"count": 8280, "name": "Signal edge", "weight": 6.0, "id": 117525741, "level": 4}
+{"count": 12462, "name": "Signal transition", "weight": 10.0, "id": 45370561, "level": 4}
+{"count": 4134, "name": "Signal chain", "weight": 3.0, "id": 25433285, "level": 4}
+{"count": 376, "name": "Clipping (signal processing)", "weight": 0.0, "id": 165536730, "level": 4}

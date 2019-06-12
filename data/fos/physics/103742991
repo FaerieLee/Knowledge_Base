@@ -1,0 +1,13 @@
+{"count": 7294, "name": "Room air distribution", "weight": 7.0, "id": 20564796, "level": 3}
+{"count": 5405, "name": "Cooling load", "weight": 5.0, "id": 2781099182, "level": 3}
+{"count": 1715, "name": "Variable air volume", "weight": 1.0, "id": 51176869, "level": 3}
+{"count": 9679, "name": "Thermal expansion valve", "weight": 10.0, "id": 184593036, "level": 3}
+{"count": 3427, "name": "Chilled water", "weight": 3.0, "id": 123516432, "level": 3}
+{"count": 93, "name": "R-410A", "weight": 0.0, "id": 2776724085, "level": 3}
+{"count": 784, "name": "Seasonal energy efficiency ratio", "weight": 0.0, "id": 182501304, "level": 3}
+{"count": 2113, "name": "Constant air volume", "weight": 2.0, "id": 53689896, "level": 3}
+{"count": 3799, "name": "Variable refrigerant flow", "weight": 3.0, "id": 124907940, "level": 3}
+{"count": 1282, "name": "Automobile air conditioning", "weight": 1.0, "id": 2780092168, "level": 3}
+{"count": 1192, "name": "Ice storage air conditioning", "weight": 1.0, "id": 87443093, "level": 3}
+{"count": 426, "name": "Air handler", "weight": 0.0, "id": 2779149726, "level": 3}
+{"count": 1047, "name": "Outside air temperature", "weight": 1.0, "id": 2780498470, "level": 3}

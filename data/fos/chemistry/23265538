@@ -1,0 +1,24 @@
+{"count": 5588, "name": "Calcium ATPase", "weight": 6.0, "id": 101571972, "level": 4}
+{"count": 1511, "name": "Proton pump", "weight": 1.0, "id": 128892225, "level": 4}
+{"count": 361, "name": "Dynein ATPase", "weight": 0.0, "id": 2780301495, "level": 4}
+{"count": 8250, "name": "ATP hydrolysis", "weight": 10.0, "id": 141315368, "level": 4}
+{"count": 1500, "name": "V-ATPase", "weight": 1.0, "id": 191678065, "level": 4}
+{"count": 2928, "name": "ATP synthase alpha/beta subunits", "weight": 3.0, "id": 183913107, "level": 4}
+{"count": 1500, "name": "Myosin ATPase", "weight": 1.0, "id": 2778021804, "level": 4}
+{"count": 645, "name": "P-type ATPase", "weight": 0.0, "id": 87746105, "level": 4}
+{"count": 893, "name": "AAA proteins", "weight": 1.0, "id": 101635128, "level": 4}
+{"count": 3205, "name": "Oligomycin", "weight": 3.0, "id": 2779134199, "level": 4}
+{"count": 298, "name": "Submitochondrial particle", "weight": 0.0, "id": 60538801, "level": 4}
+{"count": 4298, "name": "Triphosphatase", "weight": 5.0, "id": 2779340330, "level": 4}
+{"count": 742, "name": "Bafilomycin", "weight": 0.0, "id": 2777722557, "level": 4}
+{"count": 1675, "name": "Plasma membrane Ca2+ ATPase", "weight": 2.0, "id": 51705589, "level": 4}
+{"count": 796, "name": "Inhibitor protein", "weight": 0.0, "id": 2781142959, "level": 4}
+{"count": 697, "name": "F-ATPase", "weight": 0.0, "id": 686708, "level": 4}
+{"count": 171, "name": "N,N-Dicyclohexylcarbodiimide", "weight": 0.0, "id": 2779060888, "level": 4}
+{"count": 27, "name": "Propionigenium modestum", "weight": 0.0, "id": 2777571829, "level": 4}
+{"count": 226, "name": "Proton ATPase", "weight": 0.0, "id": 2779882569, "level": 4}
+{"count": 566, "name": "Walker motifs", "weight": 0.0, "id": 75578959, "level": 4}
+{"count": 97, "name": "HslVU", "weight": 0.0, "id": 2776219138, "level": 4}
+{"count": 146, "name": "Wilson disease protein", "weight": 0.0, "id": 2777614572, "level": 4}
+{"count": 58, "name": "Lauryldimethylamine oxide", "weight": 0.0, "id": 2775960882, "level": 4}
+{"count": 33, "name": "Cruentaren", "weight": 0.0, "id": 2779711375, "level": 4}

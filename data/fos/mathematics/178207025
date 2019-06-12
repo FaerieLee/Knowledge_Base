@@ -1,0 +1,162 @@
+{"count": 3731, "name": "Calabi\u2013Yau manifold", "weight": 4.0, "id": 158260368, "level": 3}
+{"count": 8608, "name": "Riemannian manifold", "weight": 10.0, "id": 2779593128, "level": 3}
+{"count": 6447, "name": "Riemannian geometry", "weight": 7.0, "id": 181104567, "level": 3}
+{"count": 4823, "name": "Nonlinear dimensionality reduction", "weight": 5.0, "id": 151876577, "level": 3}
+{"count": 5234, "name": "Fundamental group", "weight": 6.0, "id": 159876591, "level": 3}
+{"count": 4760, "name": "Invariant manifold", "weight": 5.0, "id": 20483540, "level": 3}
+{"count": 3119, "name": "Harmonic map", "weight": 3.0, "id": 6270764, "level": 3}
+{"count": 4919, "name": "Diffeomorphism", "weight": 5.0, "id": 47556283, "level": 3}
+{"count": 3265, "name": "Complex manifold", "weight": 3.0, "id": 27602778, "level": 3}
+{"count": 1488, "name": "Submersion (mathematics)", "weight": 1.0, "id": 153667321, "level": 3}
+{"count": 1343, "name": "Atiyah\u2013Singer index theorem", "weight": 1.0, "id": 197617374, "level": 3}
+{"count": 2510, "name": "Tangent bundle", "weight": 2.0, "id": 28903235, "level": 3}
+{"count": 2330, "name": "K\u00e4hler manifold", "weight": 2.0, "id": 157135747, "level": 3}
+{"count": 1518, "name": "Characteristic class", "weight": 1.0, "id": 44594293, "level": 3}
+{"count": 1882, "name": "Covering space", "weight": 2.0, "id": 162329640, "level": 3}
+{"count": 3324, "name": "Holonomy", "weight": 3.0, "id": 32518243, "level": 3}
+{"count": 1060, "name": "Twistor space", "weight": 1.0, "id": 15349852, "level": 3}
+{"count": 4001, "name": "Hyperbolic manifold", "weight": 4.0, "id": 70984080, "level": 3}
+{"count": 767, "name": "Lens space", "weight": 0.0, "id": 99460904, "level": 3}
+{"count": 1058, "name": "Generalized flag variety", "weight": 1.0, "id": 115491206, "level": 3}
+{"count": 573, "name": "Stiefel manifold", "weight": 0.0, "id": 612670, "level": 3}
+{"count": 732, "name": "Closed geodesic", "weight": 0.0, "id": 2777328354, "level": 3}
+{"count": 4841, "name": "Submanifold", "weight": 5.0, "id": 151300846, "level": 3}
+{"count": 262, "name": "Inertial manifold", "weight": 0.0, "id": 2779932132, "level": 3}
+{"count": 591, "name": "Branched covering", "weight": 0.0, "id": 2778665394, "level": 3}
+{"count": 1235, "name": "Finsler manifold", "weight": 1.0, "id": 169316501, "level": 3}
+{"count": 624, "name": "Spectral geometry", "weight": 0.0, "id": 51364350, "level": 3}
+{"count": 615, "name": "Heegaard splitting", "weight": 0.0, "id": 76956144, "level": 3}
+{"count": 710, "name": "Dehn surgery", "weight": 0.0, "id": 69330547, "level": 3}
+{"count": 450, "name": "Euler class", "weight": 0.0, "id": 2780859293, "level": 3}
+{"count": 524, "name": "CR manifold", "weight": 0.0, "id": 2779852602, "level": 3}
+{"count": 633, "name": "Sasakian manifold", "weight": 0.0, "id": 2781046128, "level": 3}
+{"count": 270, "name": "Frobenius manifold", "weight": 0.0, "id": 2776654769, "level": 3}
+{"count": 213, "name": "Seiberg\u2013Witten invariant", "weight": 0.0, "id": 2778703940, "level": 3}
+{"count": 289, "name": "Eta invariant", "weight": 0.0, "id": 2780625808, "level": 3}
+{"count": 662, "name": "3-manifold", "weight": 0.0, "id": 191403955, "level": 3}
+{"count": 200, "name": "Lie group action", "weight": 0.0, "id": 2777231576, "level": 3}
+{"count": 1420, "name": "Cobordism", "weight": 1.0, "id": 56213913, "level": 3}
+{"count": 255, "name": "Jacobi field", "weight": 0.0, "id": 2781034760, "level": 3}
+{"count": 594, "name": "Slow manifold", "weight": 0.0, "id": 2778671503, "level": 3}
+{"count": 160, "name": "Donaldson theory", "weight": 0.0, "id": 136235225, "level": 3}
+{"count": 2908, "name": "Hermitian manifold", "weight": 3.0, "id": 1432948, "level": 3}
+{"count": 29, "name": "Intrinsic low-dimensional manifold", "weight": 0.0, "id": 2777330475, "level": 3}
+{"count": 233, "name": "Algebraic manifold", "weight": 0.0, "id": 2780988237, "level": 3}
+{"count": 164, "name": "Casson invariant", "weight": 0.0, "id": 2780946891, "level": 3}
+{"count": 171, "name": "Manifold regularization", "weight": 0.0, "id": 2779303584, "level": 3}
+{"count": 395, "name": "Solid torus", "weight": 0.0, "id": 2776264548, "level": 3}
+{"count": 1492, "name": "Statistical manifold", "weight": 1.0, "id": 169391604, "level": 3}
+{"count": 83, "name": "Harmonic morphism", "weight": 0.0, "id": 2777590083, "level": 3}
+{"count": 475, "name": "Frobenius theorem (differential topology)", "weight": 0.0, "id": 86177461, "level": 3}
+{"count": 595, "name": "Volume form", "weight": 0.0, "id": 91586840, "level": 3}
+{"count": 612, "name": "Hyperbolic set", "weight": 0.0, "id": 117855890, "level": 3}
+{"count": 302, "name": "Analytic torsion", "weight": 0.0, "id": 2775853559, "level": 3}
+{"count": 155, "name": "Open book decomposition", "weight": 0.0, "id": 2779557598, "level": 3}
+{"count": 339, "name": "Homology sphere", "weight": 0.0, "id": 104011308, "level": 3}
+{"count": 71, "name": "Thurston norm", "weight": 0.0, "id": 2777848636, "level": 3}
+{"count": 1890, "name": "Fibered knot", "weight": 2.0, "id": 133776654, "level": 3}
+{"count": 182, "name": "Novikov conjecture", "weight": 0.0, "id": 2776460163, "level": 3}
+{"count": 417, "name": "Axiom A", "weight": 0.0, "id": 2780376454, "level": 3}
+{"count": 242, "name": "Cut locus", "weight": 0.0, "id": 2776599654, "level": 3}
+{"count": 171, "name": "Reeb vector field", "weight": 0.0, "id": 2777192224, "level": 3}
+{"count": 315, "name": "4-manifold", "weight": 0.0, "id": 67743446, "level": 3}
+{"count": 308, "name": "Fundamental class", "weight": 0.0, "id": 90015351, "level": 3}
+{"count": 133, "name": "Incompressible surface", "weight": 0.0, "id": 2780327003, "level": 3}
+{"count": 262, "name": "Analytic manifold", "weight": 0.0, "id": 2778080613, "level": 3}
+{"count": 71, "name": "K\u00e4hler\u2013Einstein metric", "weight": 0.0, "id": 2780981436, "level": 3}
+{"count": 307, "name": "Splitting theorem", "weight": 0.0, "id": 2778654573, "level": 3}
+{"count": 188, "name": "Flat manifold", "weight": 0.0, "id": 2780285469, "level": 3}
+{"count": 131, "name": "Transversality theorem", "weight": 0.0, "id": 2778935071, "level": 3}
+{"count": 419, "name": "Anosov diffeomorphism", "weight": 0.0, "id": 46054800, "level": 3}
+{"count": 825, "name": "Harmonic coordinates", "weight": 0.0, "id": 86108249, "level": 3}
+{"count": 79, "name": "Busemann function", "weight": 0.0, "id": 2779270323, "level": 3}
+{"count": 143, "name": "Complex vector bundle", "weight": 0.0, "id": 2778592143, "level": 3}
+{"count": 375, "name": "Canonical bundle", "weight": 0.0, "id": 2780399754, "level": 3}
+{"count": 136, "name": "Homeomorphism group", "weight": 0.0, "id": 2781071786, "level": 3}
+{"count": 1172, "name": "Complex dimension", "weight": 1.0, "id": 168185519, "level": 3}
+{"count": 105, "name": "Weil algebra", "weight": 0.0, "id": 2776017000, "level": 3}
+{"count": 136, "name": "Mapping torus", "weight": 0.0, "id": 2778420773, "level": 3}
+{"count": 228, "name": "Intersection form", "weight": 0.0, "id": 2780395417, "level": 3}
+{"count": 430, "name": "Handlebody", "weight": 0.0, "id": 548009, "level": 3}
+{"count": 223, "name": "Weinstein conjecture", "weight": 0.0, "id": 194762903, "level": 3}
+{"count": 86, "name": "Mapping cylinder", "weight": 0.0, "id": 2778236299, "level": 3}
+{"count": 664, "name": "Complex torus", "weight": 0.0, "id": 28890030, "level": 3}
+{"count": 131, "name": "Canonical connection", "weight": 0.0, "id": 2777969890, "level": 3}
+{"count": 1716, "name": "Geodesic map", "weight": 1.0, "id": 162269530, "level": 3}
+{"count": 96, "name": "Affine manifold", "weight": 0.0, "id": 2781218937, "level": 3}
+{"count": 559, "name": "Smooth structure", "weight": 0.0, "id": 30315566, "level": 3}
+{"count": 197, "name": "Circle bundle", "weight": 0.0, "id": 2778657477, "level": 3}
+{"count": 137, "name": "Surgery obstruction", "weight": 0.0, "id": 2780590598, "level": 3}
+{"count": 151, "name": "Exotic sphere", "weight": 0.0, "id": 116730138, "level": 3}
+{"count": 244, "name": "Surgery theory", "weight": 0.0, "id": 513952185, "level": 3}
+{"count": 62, "name": "JSJ decomposition", "weight": 0.0, "id": 2777992290, "level": 3}
+{"count": 115, "name": "Signature operator", "weight": 0.0, "id": 2779131876, "level": 3}
+{"count": 61, "name": "Calibrated geometry", "weight": 0.0, "id": 2778717138, "level": 3}
+{"count": 44, "name": "Cayley plane", "weight": 0.0, "id": 2780894718, "level": 3}
+{"count": 61, "name": "Borel conjecture", "weight": 0.0, "id": 2776210658, "level": 3}
+{"count": 32, "name": "Natural bundle", "weight": 0.0, "id": 2780592716, "level": 3}
+{"count": 117, "name": "Volume entropy", "weight": 0.0, "id": 2777647537, "level": 3}
+{"count": 96, "name": "Hyperbolization theorem", "weight": 0.0, "id": 123656818, "level": 3}
+{"count": 80, "name": "Surface bundle", "weight": 0.0, "id": 2778070034, "level": 3}
+{"count": 229, "name": "Pontryagin class", "weight": 0.0, "id": 156840345, "level": 3}
+{"count": 46, "name": "Hopf surface", "weight": 0.0, "id": 2780215791, "level": 3}
+{"count": 11, "name": "Moishezon manifold", "weight": 0.0, "id": 2779278869, "level": 3}
+{"count": 25, "name": "Hopfian group", "weight": 0.0, "id": 2777778865, "level": 3}
+{"count": 33, "name": "Essential manifold", "weight": 0.0, "id": 2779558417, "level": 3}
+{"count": 83, "name": "Branched surface", "weight": 0.0, "id": 2778932244, "level": 3}
+{"count": 59, "name": "Ehresmann connection", "weight": 0.0, "id": 137838787, "level": 3}
+{"count": 85, "name": "Whitehead link", "weight": 0.0, "id": 2780137797, "level": 3}
+{"count": 33, "name": "Diffeology", "weight": 0.0, "id": 2779476174, "level": 3}
+{"count": 29, "name": "Fr\u00e9chet manifold", "weight": 0.0, "id": 2777982931, "level": 3}
+{"count": 45, "name": "Lefschetz pencil", "weight": 0.0, "id": 2781084864, "level": 3}
+{"count": 276, "name": "Hilbert's fifth problem", "weight": 0.0, "id": 119255190, "level": 3}
+{"count": 25, "name": "Pachner moves", "weight": 0.0, "id": 198623130, "level": 3}
+{"count": 55, "name": "G2-structure", "weight": 0.0, "id": 2781470407, "level": 3}
+{"count": 31, "name": "Gromov norm", "weight": 0.0, "id": 2778016204, "level": 3}
+{"count": 59, "name": "Bloch group", "weight": 0.0, "id": 2777123469, "level": 3}
+{"count": 255, "name": "Causality conditions", "weight": 0.0, "id": 85066328, "level": 3}
+{"count": 26, "name": "Projective vector field", "weight": 0.0, "id": 2778492037, "level": 3}
+{"count": 17, "name": "Hopf\u2013Rinow theorem", "weight": 0.0, "id": 2780813270, "level": 3}
+{"count": 289, "name": "Subbundle", "weight": 0.0, "id": 2777225126, "level": 3}
+{"count": 59, "name": "Kirby calculus", "weight": 0.0, "id": 2777960886, "level": 3}
+{"count": 26, "name": "Gysin homomorphism", "weight": 0.0, "id": 2779993956, "level": 3}
+{"count": 46, "name": "Nash functions", "weight": 0.0, "id": 2781397010, "level": 3}
+{"count": 12, "name": "Quaternion-K\u00e4hler manifold", "weight": 0.0, "id": 2781202461, "level": 3}
+{"count": 107, "name": "Kervaire invariant", "weight": 0.0, "id": 2781255759, "level": 3}
+{"count": 19, "name": "SnapPea", "weight": 0.0, "id": 2776944011, "level": 3}
+{"count": 25, "name": "Inoue surface", "weight": 0.0, "id": 2777966585, "level": 3}
+{"count": 17, "name": "Fr\u00f6licher space", "weight": 0.0, "id": 2780346508, "level": 3}
+{"count": 57, "name": "Loop theorem", "weight": 0.0, "id": 2777307966, "level": 3}
+{"count": 20, "name": "Whitehead manifold", "weight": 0.0, "id": 2777611984, "level": 3}
+{"count": 19, "name": "Digital manifold", "weight": 0.0, "id": 2779089346, "level": 3}
+{"count": 80, "name": "Elastic map", "weight": 0.0, "id": 127246644, "level": 3}
+{"count": 808, "name": "Block and bleed manifold", "weight": 0.0, "id": 125138975, "level": 3}
+{"count": 554, "name": "Grassmann number", "weight": 0.0, "id": 33491552, "level": 3}
+{"count": 16, "name": "Serre\u2013Swan theorem", "weight": 0.0, "id": 2780901653, "level": 3}
+{"count": 20, "name": "5-manifold", "weight": 0.0, "id": 2777566242, "level": 3}
+{"count": 30, "name": "Microbundle", "weight": 0.0, "id": 2776028713, "level": 3}
+{"count": 23, "name": "Thom conjecture", "weight": 0.0, "id": 2781351095, "level": 3}
+{"count": 32, "name": "Branched manifold", "weight": 0.0, "id": 2779280452, "level": 3}
+{"count": 18, "name": "Kodaira embedding theorem", "weight": 0.0, "id": 2776615535, "level": 3}
+{"count": 84, "name": "Whitney embedding theorem", "weight": 0.0, "id": 22730148, "level": 3}
+{"count": 59, "name": "Hauptvermutung", "weight": 0.0, "id": 2779787920, "level": 3}
+{"count": 28, "name": "Subtangent", "weight": 0.0, "id": 7354611, "level": 3}
+{"count": 6389, "name": "Ricci-flat manifold", "weight": 7.0, "id": 203934109, "level": 3}
+{"count": 10, "name": "Generalized Poincar\u00e9 conjecture", "weight": 0.0, "id": 2775999824, "level": 3}
+{"count": 503, "name": "Warped geometry", "weight": 0.0, "id": 50551124, "level": 3}
+{"count": 113, "name": "Projectivization", "weight": 0.0, "id": 2779341499, "level": 3}
+{"count": 342, "name": "Geometrization conjecture", "weight": 0.0, "id": 142408134, "level": 3}
+{"count": 105, "name": "Atoroidal", "weight": 0.0, "id": 2777190342, "level": 3}
+{"count": 10, "name": "Almost flat manifold", "weight": 0.0, "id": 2781220996, "level": 3}
+{"count": 44, "name": "Systolic geometry", "weight": 0.0, "id": 169753374, "level": 3}
+{"count": 8, "name": "Systolic category", "weight": 0.0, "id": 2781075809, "level": 3}
+{"count": 22, "name": "Presymplectic form", "weight": 0.0, "id": 2780035579, "level": 3}
+{"count": 30, "name": "Lefschetz hyperplane theorem", "weight": 0.0, "id": 2776598730, "level": 3}
+{"count": 33, "name": "Reeb foliation", "weight": 0.0, "id": 2779673400, "level": 3}
+{"count": 758, "name": "Circle-valued Morse theory", "weight": 0.0, "id": 24296071, "level": 3}
+{"count": 13, "name": "Alexander horned sphere", "weight": 0.0, "id": 9211678, "level": 3}
+{"count": 129, "name": "Simply connected at infinity", "weight": 0.0, "id": 206521455, "level": 3}
+{"count": 33, "name": "Category of manifolds", "weight": 0.0, "id": 2776071709, "level": 3}
+{"count": 39, "name": "Homeotopy", "weight": 0.0, "id": 2781247269, "level": 3}
+{"count": 9, "name": "Schoenflies problem", "weight": 0.0, "id": 2776655138, "level": 3}
+{"count": 17, "name": "Holomorphically separable", "weight": 0.0, "id": 2779121838, "level": 3}

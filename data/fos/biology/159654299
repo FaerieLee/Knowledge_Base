@@ -1,0 +1,177 @@
+{"count": 172784, "name": "Monoclonal antibody", "weight": 10.0, "id": 542903549, "level": 3}
+{"count": 77506, "name": "B cell", "weight": 4.0, "id": 2778453870, "level": 3}
+{"count": 60174, "name": "Immunoglobulin E", "weight": 3.0, "id": 141105273, "level": 3}
+{"count": 89848, "name": "Epitope", "weight": 5.0, "id": 195616568, "level": 3}
+{"count": 41013, "name": "Western blot", "weight": 2.0, "id": 2776415932, "level": 3}
+{"count": 33241, "name": "Radioimmunoassay", "weight": 1.0, "id": 176685330, "level": 3}
+{"count": 29113, "name": "Immunoglobulin G", "weight": 1.0, "id": 2780898057, "level": 3}
+{"count": 52920, "name": "Autoantibody", "weight": 3.0, "id": 163764329, "level": 3}
+{"count": 28668, "name": "Immunofluorescence", "weight": 1.0, "id": 2778236600, "level": 3}
+{"count": 17191, "name": "Humoral immunity", "weight": 0.0, "id": 2776548049, "level": 3}
+{"count": 12423, "name": "Immunoprecipitation", "weight": 0.0, "id": 71829478, "level": 3}
+{"count": 34990, "name": "Immunogenicity", "weight": 2.0, "id": 2780868878, "level": 3}
+{"count": 49494, "name": "Immunoassay", "weight": 2.0, "id": 2780420688, "level": 3}
+{"count": 18885, "name": "Immunoglobulin light chain", "weight": 1.0, "id": 36394416, "level": 3}
+{"count": 9839, "name": "Immunoglobulin A", "weight": 0.0, "id": 2779102806, "level": 3}
+{"count": 11689, "name": "Immune complex", "weight": 0.0, "id": 2778474638, "level": 3}
+{"count": 12885, "name": "Plasma cell", "weight": 0.0, "id": 2776396001, "level": 3}
+{"count": 17942, "name": "Hemagglutination", "weight": 1.0, "id": 34343649, "level": 3}
+{"count": 10215, "name": "Antigenicity", "weight": 0.0, "id": 2779026604, "level": 3}
+{"count": 19405, "name": "Antibody titer", "weight": 1.0, "id": 22889606, "level": 3}
+{"count": 10881, "name": "Phage display", "weight": 0.0, "id": 186268636, "level": 3}
+{"count": 2428, "name": "Immunochemistry", "weight": 0.0, "id": 2780659158, "level": 3}
+{"count": 14337, "name": "Hemagglutinin (influenza)", "weight": 0.0, "id": 2778692840, "level": 3}
+{"count": 6084, "name": "Fc receptor", "weight": 0.0, "id": 2779931124, "level": 3}
+{"count": 4218, "name": "Immunodiffusion", "weight": 0.0, "id": 196955773, "level": 3}
+{"count": 8169, "name": "Immunoelectrophoresis", "weight": 0.0, "id": 2779390175, "level": 3}
+{"count": 3565, "name": "Immunoglobulin heavy chain", "weight": 0.0, "id": 96007430, "level": 3}
+{"count": 31580, "name": "Antiserum", "weight": 1.0, "id": 91523082, "level": 3}
+{"count": 10764, "name": "Hapten", "weight": 0.0, "id": 29144244, "level": 3}
+{"count": 6351, "name": "Isotype", "weight": 0.0, "id": 2777991845, "level": 3}
+{"count": 11347, "name": "Protein A", "weight": 0.0, "id": 2779000548, "level": 3}
+{"count": 3142, "name": "Molecular mimicry", "weight": 0.0, "id": 2777119779, "level": 3}
+{"count": 9520, "name": "Gamma globulin", "weight": 0.0, "id": 79162176, "level": 3}
+{"count": 14883, "name": "Agglutination (biology)", "weight": 0.0, "id": 143508840, "level": 3}
+{"count": 6039, "name": "Immunogold labelling", "weight": 0.0, "id": 30030713, "level": 3}
+{"count": 8922, "name": "Complement fixation test", "weight": 0.0, "id": 152669594, "level": 3}
+{"count": 30423, "name": "Blot", "weight": 1.0, "id": 85265743, "level": 3}
+{"count": 5617, "name": "Cross-reactivity", "weight": 0.0, "id": 2779142602, "level": 3}
+{"count": 2700, "name": "Macrophage-1 antigen", "weight": 0.0, "id": 179159245, "level": 3}
+{"count": 4023, "name": "Active immunization", "weight": 0.0, "id": 2778943623, "level": 3}
+{"count": 5039, "name": "Complement receptor", "weight": 0.0, "id": 175773311, "level": 3}
+{"count": 2690, "name": "Antibody opsonization", "weight": 0.0, "id": 168507396, "level": 3}
+{"count": 1868, "name": "Keyhole limpet hemocyanin", "weight": 0.0, "id": 2776727803, "level": 3}
+{"count": 5600, "name": "Hemagglutination assay", "weight": 0.0, "id": 182072434, "level": 3}
+{"count": 9861, "name": "Neutralizing antibody", "weight": 0.0, "id": 2779261636, "level": 3}
+{"count": 4764, "name": "Classical complement pathway", "weight": 0.0, "id": 171279029, "level": 3}
+{"count": 1860, "name": "Secretory component", "weight": 0.0, "id": 2777068557, "level": 3}
+{"count": 26181, "name": "Titer", "weight": 1.0, "id": 32611913, "level": 3}
+{"count": 794, "name": "Isoantibodies", "weight": 0.0, "id": 2778430493, "level": 3}
+{"count": 6651, "name": "Direct agglutination test", "weight": 0.0, "id": 73878171, "level": 3}
+{"count": 4279, "name": "Rh blood group system", "weight": 0.0, "id": 121857725, "level": 3}
+{"count": 7173, "name": "Toxoid", "weight": 0.0, "id": 2777351567, "level": 3}
+{"count": 5275, "name": "ELISPOT", "weight": 0.0, "id": 2779053233, "level": 3}
+{"count": 2255, "name": "Immunoadsorption", "weight": 0.0, "id": 2779839709, "level": 3}
+{"count": 916, "name": "Antigen retrieval", "weight": 0.0, "id": 2779484032, "level": 3}
+{"count": 8540, "name": "Immunoperoxidase", "weight": 0.0, "id": 128102431, "level": 3}
+{"count": 4661, "name": "Opsonin", "weight": 0.0, "id": 89372155, "level": 3}
+{"count": 5611, "name": "Avidity", "weight": 0.0, "id": 179223381, "level": 3}
+{"count": 2030, "name": "Bovine leukemia virus", "weight": 0.0, "id": 2778645089, "level": 3}
+{"count": 4363, "name": "Direct fluorescent antibody", "weight": 0.0, "id": 98246554, "level": 3}
+{"count": 1991, "name": "Nephelometry", "weight": 0.0, "id": 164585084, "level": 3}
+{"count": 1191, "name": "Counterimmunoelectrophoresis", "weight": 0.0, "id": 37177560, "level": 3}
+{"count": 2370, "name": "Allotype", "weight": 0.0, "id": 2780889450, "level": 3}
+{"count": 2734, "name": "Immunoglobulin superfamily", "weight": 0.0, "id": 91682701, "level": 3}
+{"count": 1548, "name": "Hypergammaglobulinemia", "weight": 0.0, "id": 2780514984, "level": 3}
+{"count": 3827, "name": "Blocking antibody", "weight": 0.0, "id": 45121317, "level": 3}
+{"count": 48, "name": "TBST", "weight": 0.0, "id": 2779521061, "level": 3}
+{"count": 4271, "name": "Myeloma protein", "weight": 0.0, "id": 188758523, "level": 3}
+{"count": 3030, "name": "Pokeweed mitogen", "weight": 0.0, "id": 2781005381, "level": 3}
+{"count": 592, "name": "Endomysium", "weight": 0.0, "id": 2780717491, "level": 3}
+{"count": 3742, "name": "Infectious bursal disease", "weight": 0.0, "id": 2777810641, "level": 3}
+{"count": 1344, "name": "Coombs test", "weight": 0.0, "id": 2778986270, "level": 3}
+{"count": 5627, "name": "Precipitin", "weight": 0.0, "id": 133229898, "level": 3}
+{"count": 1850, "name": "Radial immunodiffusion", "weight": 0.0, "id": 49651878, "level": 3}
+{"count": 2034, "name": "Hemagglutinin", "weight": 0.0, "id": 99330779, "level": 3}
+{"count": 4800, "name": "Protein G", "weight": 0.0, "id": 135604509, "level": 3}
+{"count": 338, "name": "Anthrax vaccines", "weight": 0.0, "id": 2777289321, "level": 3}
+{"count": 3243, "name": "Raji cell", "weight": 0.0, "id": 16232356, "level": 3}
+{"count": 222, "name": "Lactate dehydrogenase elevating virus", "weight": 0.0, "id": 2779531368, "level": 3}
+{"count": 682, "name": "Arthus reaction", "weight": 0.0, "id": 2779142470, "level": 3}
+{"count": 3170, "name": "Inactivated vaccine", "weight": 0.0, "id": 2776872762, "level": 3}
+{"count": 1280, "name": "Antibody-drug conjugate", "weight": 0.0, "id": 2777325958, "level": 3}
+{"count": 1219, "name": "Epithelial cell adhesion molecule", "weight": 0.0, "id": 2776677690, "level": 3}
+{"count": 697, "name": "Reticuloendotheliosis virus", "weight": 0.0, "id": 2777633396, "level": 3}
+{"count": 1133, "name": "H antigen", "weight": 0.0, "id": 27396008, "level": 3}
+{"count": 380, "name": "Immunoproteomics", "weight": 0.0, "id": 2779369144, "level": 3}
+{"count": 187, "name": "D-segment", "weight": 0.0, "id": 2776107173, "level": 3}
+{"count": 1167, "name": "Immunoglobulin domain", "weight": 0.0, "id": 149774189, "level": 3}
+{"count": 638, "name": "Paraneoplastic cerebellar degeneration", "weight": 0.0, "id": 2778005360, "level": 3}
+{"count": 7326, "name": "Immunogen", "weight": 0.0, "id": 2779909307, "level": 3}
+{"count": 608, "name": "Single-domain antibody", "weight": 0.0, "id": 2777820669, "level": 3}
+{"count": 258, "name": "Apolipoprotein H", "weight": 0.0, "id": 2780611866, "level": 3}
+{"count": 278, "name": "Forssman antigen", "weight": 0.0, "id": 2777333780, "level": 3}
+{"count": 825, "name": "SIGLEC", "weight": 0.0, "id": 2778017598, "level": 3}
+{"count": 445, "name": "CD64", "weight": 0.0, "id": 2776447464, "level": 3}
+{"count": 291, "name": "Pretargeting", "weight": 0.0, "id": 2777836882, "level": 3}
+{"count": 282, "name": "CD70", "weight": 0.0, "id": 2776520947, "level": 3}
+{"count": 2178, "name": "Dinitrophenyl", "weight": 0.0, "id": 2778177356, "level": 3}
+{"count": 858, "name": "Neonatal alloimmune thrombocytopenia", "weight": 0.0, "id": 2779989375, "level": 3}
+{"count": 856, "name": "CD137", "weight": 0.0, "id": 2780249625, "level": 3}
+{"count": 2995, "name": "Booster dose", "weight": 0.0, "id": 12590561, "level": 3}
+{"count": 158, "name": "Rho(D) immune globulin", "weight": 0.0, "id": 2777115595, "level": 3}
+{"count": 519, "name": "Tn antigen", "weight": 0.0, "id": 2776033309, "level": 3}
+{"count": 460, "name": "Intrabody", "weight": 0.0, "id": 2777494059, "level": 3}
+{"count": 54, "name": "Immunoglobulin-binding protein", "weight": 0.0, "id": 2778128118, "level": 3}
+{"count": 271, "name": "Yeast display", "weight": 0.0, "id": 2781408774, "level": 3}
+{"count": 809, "name": "Selective IgA deficiency", "weight": 0.0, "id": 2777166712, "level": 3}
+{"count": 358, "name": "Conglutinin", "weight": 0.0, "id": 2778213927, "level": 3}
+{"count": 2474, "name": "Ouchterlony double immunodiffusion", "weight": 0.0, "id": 80020023, "level": 3}
+{"count": 505, "name": "Protein L", "weight": 0.0, "id": 2781134285, "level": 3}
+{"count": 248, "name": "Alpha-enolase", "weight": 0.0, "id": 2781260927, "level": 3}
+{"count": 754, "name": "Immune adherence", "weight": 0.0, "id": 2778212101, "level": 3}
+{"count": 212, "name": "Antigen-antibody interaction", "weight": 0.0, "id": 2781107593, "level": 3}
+{"count": 464, "name": "CD32", "weight": 0.0, "id": 2781050680, "level": 3}
+{"count": 391, "name": "Immunodiagnostics", "weight": 0.0, "id": 2776159398, "level": 3}
+{"count": 358, "name": "Dynabeads", "weight": 0.0, "id": 2778607071, "level": 3}
+{"count": 940, "name": "Somatic antigen", "weight": 0.0, "id": 14909468, "level": 3}
+{"count": 618, "name": "J chain", "weight": 0.0, "id": 97615245, "level": 3}
+{"count": 393, "name": "Aleutian disease", "weight": 0.0, "id": 2775864189, "level": 3}
+{"count": 435, "name": "Blinatumomab", "weight": 0.0, "id": 2778020697, "level": 3}
+{"count": 541, "name": "Lymphoproliferative response", "weight": 0.0, "id": 2776969849, "level": 3}
+{"count": 353, "name": "Immunoglobulin Y", "weight": 0.0, "id": 2777967805, "level": 3}
+{"count": 1076, "name": "IGHV@", "weight": 0.0, "id": 2777609679, "level": 3}
+{"count": 247, "name": "DARPin", "weight": 0.0, "id": 2777280315, "level": 3}
+{"count": 151, "name": "Pseudovirion", "weight": 0.0, "id": 2778240575, "level": 3}
+{"count": 225, "name": "Catumaxomab", "weight": 0.0, "id": 2777222422, "level": 3}
+{"count": 24, "name": "5-Bromo-4-chloro-3-indolyl phosphate", "weight": 0.0, "id": 2780800836, "level": 3}
+{"count": 136, "name": "Bacterial display", "weight": 0.0, "id": 2776710002, "level": 3}
+{"count": 516, "name": "Envelope glycoprotein GP120", "weight": 0.0, "id": 2778700165, "level": 3}
+{"count": 151, "name": "Post-transfusion purpura", "weight": 0.0, "id": 2776137380, "level": 3}
+{"count": 118, "name": "Variable surface glycoprotein", "weight": 0.0, "id": 2776536145, "level": 3}
+{"count": 381, "name": "Monospecific antibody", "weight": 0.0, "id": 2779501041, "level": 3}
+{"count": 465, "name": "Framework region", "weight": 0.0, "id": 18033762, "level": 3}
+{"count": 209, "name": "Delayed hemolytic transfusion reaction", "weight": 0.0, "id": 2781210160, "level": 3}
+{"count": 311, "name": "LcrV", "weight": 0.0, "id": 2777951791, "level": 3}
+{"count": 102, "name": "CD79B", "weight": 0.0, "id": 2781095127, "level": 3}
+{"count": 149, "name": "Anthrax Vaccine Adsorbed", "weight": 0.0, "id": 2779202972, "level": 3}
+{"count": 335, "name": "TIGIT", "weight": 0.0, "id": 2779118045, "level": 3}
+{"count": 138, "name": "Primary isolate", "weight": 0.0, "id": 2778791150, "level": 3}
+{"count": 293, "name": "Hyperimmune globulin", "weight": 0.0, "id": 2776660894, "level": 3}
+{"count": 399, "name": "Kell antigen system", "weight": 0.0, "id": 168806230, "level": 3}
+{"count": 39, "name": "Conatumumab", "weight": 0.0, "id": 2780122724, "level": 3}
+{"count": 2288, "name": "Fragment crystallizable region", "weight": 0.0, "id": 125823703, "level": 3}
+{"count": 353, "name": "Bethesda unit", "weight": 0.0, "id": 143671760, "level": 3}
+{"count": 368, "name": "Canarypox", "weight": 0.0, "id": 2777516842, "level": 3}
+{"count": 123, "name": "HA-tag", "weight": 0.0, "id": 2777882942, "level": 3}
+{"count": 193, "name": "MNS antigen system", "weight": 0.0, "id": 198450523, "level": 3}
+{"count": 333, "name": "Maytansinoid", "weight": 0.0, "id": 2779199151, "level": 3}
+{"count": 370, "name": "Cap formation", "weight": 0.0, "id": 83457963, "level": 3}
+{"count": 42, "name": "Volociximab", "weight": 0.0, "id": 2779806798, "level": 3}
+{"count": 214, "name": "Hexon protein", "weight": 0.0, "id": 2777608556, "level": 3}
+{"count": 267, "name": "Adenovirus vaccine", "weight": 0.0, "id": 2775943909, "level": 3}
+{"count": 39, "name": "Bio-layer interferometry", "weight": 0.0, "id": 2779010658, "level": 3}
+{"count": 87, "name": "Sabin\u2013Feldman dye test", "weight": 0.0, "id": 58021980, "level": 3}
+{"count": 65, "name": "Antibody mimetic", "weight": 0.0, "id": 2780393226, "level": 3}
+{"count": 13, "name": "Kodecyte", "weight": 0.0, "id": 2779085413, "level": 3}
+{"count": 98, "name": "Heterologous vaccine", "weight": 0.0, "id": 2778925809, "level": 3}
+{"count": 118, "name": "Protein replacement therapy", "weight": 0.0, "id": 2777494434, "level": 3}
+{"count": 23, "name": "Blood\u2013thymus barrier", "weight": 0.0, "id": 2776563528, "level": 3}
+{"count": 86, "name": "Erythrocyte rosetting", "weight": 0.0, "id": 2779326982, "level": 3}
+{"count": 79, "name": "Avian immune system", "weight": 0.0, "id": 2777366921, "level": 3}
+{"count": 21, "name": "Monospecificity", "weight": 0.0, "id": 2778415250, "level": 3}
+{"count": 26, "name": "Type II hypersensitivity", "weight": 0.0, "id": 2779428516, "level": 3}
+{"count": 76, "name": "Humoral immune deficiency", "weight": 0.0, "id": 2780038583, "level": 3}
+{"count": 3615, "name": "Pan-T antigens", "weight": 0.0, "id": 153968139, "level": 3}
+{"count": 87, "name": "Caries vaccine", "weight": 0.0, "id": 2779959876, "level": 3}
+{"count": 39, "name": "Affimer", "weight": 0.0, "id": 2778143393, "level": 3}
+{"count": 39, "name": "LAIR1", "weight": 0.0, "id": 2778878142, "level": 3}
+{"count": 81, "name": "Patching and Capping", "weight": 0.0, "id": 2777045749, "level": 3}
+{"count": 87, "name": "Chlamydia antibodies", "weight": 0.0, "id": 2778073766, "level": 3}
+{"count": 57, "name": "Universal flu vaccine", "weight": 0.0, "id": 2776009817, "level": 3}
+{"count": 11, "name": "Pritumumab", "weight": 0.0, "id": 2777471908, "level": 3}
+{"count": 84, "name": "Staphylococcus aureus alpha toxin", "weight": 0.0, "id": 2780091474, "level": 3}
+{"count": 20, "name": "CD4 immunoadhesin", "weight": 0.0, "id": 86441458, "level": 3}
+{"count": 10, "name": "Solitomab", "weight": 0.0, "id": 2780402645, "level": 3}
+{"count": 17, "name": "Varlilumab", "weight": 0.0, "id": 2777591794, "level": 3}
+{"count": 36, "name": "Dimethyl pimelimidate", "weight": 0.0, "id": 2781411549, "level": 3}

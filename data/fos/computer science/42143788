@@ -1,0 +1,10 @@
+{"count": 757, "name": "VHDL-AMS", "weight": 9.0, "id": 2776513426, "level": 4}
+{"count": 205, "name": "Verilog-A", "weight": 2.0, "id": 2781381157, "level": 4}
+{"count": 474, "name": "SystemVerilog", "weight": 6.0, "id": 2778681875, "level": 4}
+{"count": 772, "name": "VHSIC", "weight": 10.0, "id": 2776284886, "level": 4}
+{"count": 113, "name": "Verilog-AMS", "weight": 1.0, "id": 2777363502, "level": 4}
+{"count": 39, "name": "JHDL", "weight": 0.0, "id": 2776261990, "level": 4}
+{"count": 16, "name": "Verilog Procedural Interface", "weight": 0.0, "id": 2779454308, "level": 4}
+{"count": 16, "name": "Altera Hardware Description Language", "weight": 0.0, "id": 2780066851, "level": 4}
+{"count": 65, "name": "AHPL", "weight": 0.0, "id": 2775949605, "level": 4}
+{"count": 457, "name": "FpgaC", "weight": 5.0, "id": 152500336, "level": 4}

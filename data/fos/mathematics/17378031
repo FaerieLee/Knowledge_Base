@@ -1,0 +1,25 @@
+{"count": 10343, "name": "Linear interpolation", "weight": 4.0, "id": 171836373, "level": 3}
+{"count": 11358, "name": "Spline interpolation", "weight": 4.0, "id": 31447003, "level": 3}
+{"count": 4757, "name": "Polynomial interpolation", "weight": 2.0, "id": 88080468, "level": 3}
+{"count": 2860, "name": "Lagrange polynomial", "weight": 1.0, "id": 64208722, "level": 3}
+{"count": 2443, "name": "Hermite interpolation", "weight": 1.0, "id": 186429297, "level": 3}
+{"count": 22746, "name": "Bilinear interpolation", "weight": 10.0, "id": 205203396, "level": 3}
+{"count": 158, "name": "Nevanlinna\u2013Pick interpolation", "weight": 0.0, "id": 2775960979, "level": 3}
+{"count": 859, "name": "Deinterlacing", "weight": 0.0, "id": 159299435, "level": 3}
+{"count": 103, "name": "Interpolation theory", "weight": 0.0, "id": 128545854, "level": 3}
+{"count": 305, "name": "Dasymetric map", "weight": 0.0, "id": 147132968, "level": 3}
+{"count": 204, "name": "Interpolation inequality", "weight": 0.0, "id": 2777675177, "level": 3}
+{"count": 264, "name": "Craig interpolation", "weight": 0.0, "id": 2780242984, "level": 3}
+{"count": 62, "name": "Natural neighbor interpolation", "weight": 0.0, "id": 2775852981, "level": 3}
+{"count": 178, "name": "Whittaker\u2013Shannon interpolation formula", "weight": 0.0, "id": 35810842, "level": 3}
+{"count": 241, "name": "Successive parabolic interpolation", "weight": 0.0, "id": 35894925, "level": 3}
+{"count": 177, "name": "Biarc", "weight": 0.0, "id": 2776539571, "level": 3}
+{"count": 149, "name": "Coons patch", "weight": 0.0, "id": 116332503, "level": 3}
+{"count": 145, "name": "Rational motion", "weight": 0.0, "id": 100412989, "level": 3}
+{"count": 72, "name": "Hann function", "weight": 0.0, "id": 137571268, "level": 3}
+{"count": 54, "name": "Newton polynomial", "weight": 0.0, "id": 2778229268, "level": 3}
+{"count": 144, "name": "Commutant lifting theorem", "weight": 0.0, "id": 2778179210, "level": 3}
+{"count": 39, "name": "Beth definability", "weight": 0.0, "id": 2776375331, "level": 3}
+{"count": 12, "name": "Neville's algorithm", "weight": 0.0, "id": 204235973, "level": 3}
+{"count": 101, "name": "Jaggies", "weight": 0.0, "id": 84196779, "level": 3}
+{"count": 25, "name": "Television standards conversion", "weight": 0.0, "id": 2776602698, "level": 3}

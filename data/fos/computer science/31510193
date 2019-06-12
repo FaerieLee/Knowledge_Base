@@ -1,0 +1,11 @@
+{"count": 16021, "name": "Face detection", "weight": 10.0, "id": 4641261, "level": 3}
+{"count": 3268, "name": "Facial motion capture", "weight": 2.0, "id": 98907195, "level": 3}
+{"count": 2463, "name": "Eigenface", "weight": 1.0, "id": 104906051, "level": 3}
+{"count": 352, "name": "Face space", "weight": 0.0, "id": 2780187858, "level": 3}
+{"count": 553, "name": "FERET database", "weight": 0.0, "id": 137087632, "level": 3}
+{"count": 1191, "name": "FERET", "weight": 0.0, "id": 113501766, "level": 3}
+{"count": 8448, "name": "Three-dimensional face recognition", "weight": 5.0, "id": 88799230, "level": 3}
+{"count": 219, "name": "Age progression", "weight": 0.0, "id": 2781403704, "level": 3}
+{"count": 51, "name": "Dynamic link matching", "weight": 0.0, "id": 2777947043, "level": 3}
+{"count": 139, "name": "Cross-race effect", "weight": 0.0, "id": 2779266156, "level": 3}
+{"count": 114, "name": "Illumination problem", "weight": 0.0, "id": 2777180750, "level": 3}

@@ -1,0 +1,105 @@
+{"count": 67709, "name": "Uterus", "weight": 10.0, "id": 2779066055, "level": 2}
+{"count": 35598, "name": "Endometrium", "weight": 5.0, "id": 2779742232, "level": 2}
+{"count": 29231, "name": "Vagina", "weight": 4.0, "id": 2777744392, "level": 2}
+{"count": 42393, "name": "Hysterectomy", "weight": 6.0, "id": 2779494336, "level": 2}
+{"count": 16998, "name": "Artificial insemination", "weight": 2.0, "id": 2778610407, "level": 2}
+{"count": 10810, "name": "Fallopian tube", "weight": 1.0, "id": 2775883341, "level": 2}
+{"count": 8850, "name": "Neonatology", "weight": 1.0, "id": 536800656, "level": 2}
+{"count": 7416, "name": "Vaginitis", "weight": 1.0, "id": 2777617518, "level": 2}
+{"count": 26701, "name": "Obstetrics and gynaecology", "weight": 3.0, "id": 10885799, "level": 2}
+{"count": 6296, "name": "Bacterial vaginosis", "weight": 0.0, "id": 2779952448, "level": 2}
+{"count": 8325, "name": "Hysteroscopy", "weight": 1.0, "id": 2775963564, "level": 2}
+{"count": 6285, "name": "Endometritis", "weight": 0.0, "id": 2775846227, "level": 2}
+{"count": 10504, "name": "Curettage", "weight": 1.0, "id": 2779904257, "level": 2}
+{"count": 783, "name": "Intravaginal administration", "weight": 0.0, "id": 2778723060, "level": 2}
+{"count": 2512, "name": "Salpingitis", "weight": 0.0, "id": 2781149074, "level": 2}
+{"count": 5109, "name": "Uterine fibroids", "weight": 0.0, "id": 2780566971, "level": 2}
+{"count": 3438, "name": "Episiotomy", "weight": 0.0, "id": 2777362633, "level": 2}
+{"count": 4421, "name": "Vaginal discharge", "weight": 0.0, "id": 2776393945, "level": 2}
+{"count": 2099, "name": "Neonatal infection", "weight": 0.0, "id": 2781452722, "level": 2}
+{"count": 1555, "name": "Birth trauma", "weight": 0.0, "id": 2779373520, "level": 2}
+{"count": 2070, "name": "Adnexal mass", "weight": 0.0, "id": 2778177532, "level": 2}
+{"count": 1130, "name": "Sex selection", "weight": 0.0, "id": 2776832483, "level": 2}
+{"count": 1673, "name": "Conjoined twins", "weight": 0.0, "id": 2779391871, "level": 2}
+{"count": 1094, "name": "Vaginal infections", "weight": 0.0, "id": 2777454759, "level": 2}
+{"count": 687, "name": "Ergometrine", "weight": 0.0, "id": 2777512643, "level": 2}
+{"count": 1671, "name": "Pessary", "weight": 0.0, "id": 2776443887, "level": 2}
+{"count": 866, "name": "Pelvimetry", "weight": 0.0, "id": 2779293866, "level": 2}
+{"count": 616, "name": "Essure", "weight": 0.0, "id": 2779619083, "level": 2}
+{"count": 304, "name": "Menstrual cramps", "weight": 0.0, "id": 2777113115, "level": 2}
+{"count": 1162, "name": "Vaginal cytology", "weight": 0.0, "id": 2776937690, "level": 2}
+{"count": 2114, "name": "Pelvic examination", "weight": 0.0, "id": 2781369713, "level": 2}
+{"count": 466, "name": "Sirenomelia", "weight": 0.0, "id": 2778229688, "level": 2}
+{"count": 192, "name": "Cephalohematoma", "weight": 0.0, "id": 2776916775, "level": 2}
+{"count": 701, "name": "Balloon tamponade", "weight": 0.0, "id": 2778757567, "level": 2}
+{"count": 537, "name": "Paracervical block", "weight": 0.0, "id": 2777921265, "level": 2}
+{"count": 438, "name": "Genu recurvatum", "weight": 0.0, "id": 2780646061, "level": 2}
+{"count": 319, "name": "Colpocleisis", "weight": 0.0, "id": 2776371951, "level": 2}
+{"count": 2081, "name": "Limp", "weight": 0.0, "id": 2776778332, "level": 2}
+{"count": 240, "name": "Water birth", "weight": 0.0, "id": 2780459661, "level": 2}
+{"count": 260, "name": "Symphysiotomy", "weight": 0.0, "id": 2780343117, "level": 2}
+{"count": 132, "name": "Allylestrenol", "weight": 0.0, "id": 2779811065, "level": 2}
+{"count": 141, "name": "Parametritis", "weight": 0.0, "id": 2778343550, "level": 2}
+{"count": 72, "name": "Superfecundation", "weight": 0.0, "id": 207982410, "level": 2}
+{"count": 421, "name": "Lochia", "weight": 0.0, "id": 105064666, "level": 2}
+{"count": 279, "name": "Tuboplasty", "weight": 0.0, "id": 2781118634, "level": 2}
+{"count": 67, "name": "Perinate", "weight": 0.0, "id": 2779407526, "level": 2}
+{"count": 51, "name": "Non-pneumatic anti-shock garment", "weight": 0.0, "id": 2776416910, "level": 2}
+{"count": 143, "name": "Memory box", "weight": 0.0, "id": 2779079919, "level": 2}
+{"count": 57, "name": "Locked twins", "weight": 0.0, "id": 2778316035, "level": 2}
+{"count": 8, "name": "Chorionic hematoma", "weight": 0.0, "id": 2781293727, "level": 2}
+{"count": 68, "name": "Fern test", "weight": 0.0, "id": 2776457491, "level": 2}
+{"count": 294, "name": "Tubaria", "weight": 0.0, "id": 2778526398, "level": 2}
+{"count": 178, "name": "High vaginal swab", "weight": 0.0, "id": 2777416862, "level": 2}
+{"count": 14, "name": "Odon device", "weight": 0.0, "id": 2779944064, "level": 2}
+{"count": 114, "name": "Kraurosis vulvae", "weight": 0.0, "id": 2776234517, "level": 2}
+{"count": 6, "name": "Puerperal disorder", "weight": 0.0, "id": 2776964739, "level": 2}
+{"count": 8, "name": "Aetites", "weight": 0.0, "id": 2777902708, "level": 2}
+{"count": 7, "name": "Kick chart", "weight": 0.0, "id": 2781244136, "level": 2}
+{"count": 13, "name": "Unassisted childbirth", "weight": 0.0, "id": 2781393417, "level": 2}
+{"count": 8, "name": "Leopold's maneuvers", "weight": 0.0, "id": 2779468512, "level": 2}
+{"count": 9, "name": "Menstrual leave", "weight": 0.0, "id": 2776510224, "level": 2}
+{"count": 19, "name": "Hyalobarrier", "weight": 0.0, "id": 2779852257, "level": 2}
+{"count": 4, "name": "Surfactant\u2013albumin ratio", "weight": 0.0, "id": 2776900388, "level": 2}
+{"count": 28, "name": "Pudendal anesthesia", "weight": 0.0, "id": 2779485399, "level": 2}
+{"count": 5, "name": "Placental alpha microglobulin-1 (PAMG-1)", "weight": 0.0, "id": 2777332076, "level": 2}
+{"count": 3, "name": "Malinas score", "weight": 0.0, "id": 2777296810, "level": 2}
+{"count": 98, "name": "UK National Screening Committee", "weight": 0.0, "id": 2779722197, "level": 2}
+{"count": 3, "name": "Wrongful abortion", "weight": 0.0, "id": 2777490941, "level": 2}
+{"count": 14, "name": "Mizuko kuy\u014d", "weight": 0.0, "id": 2779803580, "level": 2}
+{"count": 23, "name": "Gynecologic ultrasonography", "weight": 0.0, "id": 2777878960, "level": 2}
+{"count": 7, "name": "Hypercoagulability in pregnancy", "weight": 0.0, "id": 2777928742, "level": 2}
+{"count": 3, "name": "Shock of birth", "weight": 0.0, "id": 2777435602, "level": 2}
+{"count": 5, "name": "Mexican paradox", "weight": 0.0, "id": 2777894075, "level": 2}
+{"count": 3, "name": "Spalding's sign", "weight": 0.0, "id": 2781355138, "level": 2}
+{"count": 11, "name": "Bandl's ring", "weight": 0.0, "id": 2777972346, "level": 2}
+{"count": 3, "name": "Twinless twin", "weight": 0.0, "id": 2778967178, "level": 2}
+{"count": 1, "name": "Bradley method of natural childbirth", "weight": 0.0, "id": 2777620245, "level": 2}
+{"count": 2, "name": "Ramos-Arroyo syndrome", "weight": 0.0, "id": 2778226541, "level": 2}
+{"count": 5, "name": "Psychiatric disorders of childbirth", "weight": 0.0, "id": 2780573261, "level": 2}
+{"count": 1, "name": "Abortion in the Dominican Republic", "weight": 0.0, "id": 2778286200, "level": 2}
+{"count": 4, "name": "Elastration", "weight": 0.0, "id": 2780231592, "level": 2}
+{"count": 1, "name": "Greene Menopause Index", "weight": 0.0, "id": 2780525170, "level": 2}
+{"count": 8, "name": "Proximal 18q-", "weight": 0.0, "id": 2778962439, "level": 2}
+{"count": 1, "name": "Birthgasm", "weight": 0.0, "id": 2776547346, "level": 2}
+{"count": 3, "name": "Genetics and abortion", "weight": 0.0, "id": 2779006265, "level": 2}
+{"count": 6, "name": "Nardi test", "weight": 0.0, "id": 2781421878, "level": 2}
+{"count": 2, "name": "Fetal scalp blood testing", "weight": 0.0, "id": 2778970005, "level": 2}
+{"count": 7, "name": "Childbirth positions", "weight": 0.0, "id": 2781073379, "level": 2}
+{"count": 2, "name": "Endoamnioscopy", "weight": 0.0, "id": 2780115154, "level": 2}
+{"count": 5, "name": "Conception device", "weight": 0.0, "id": 2780589615, "level": 2}
+{"count": 1, "name": "Abortion doping", "weight": 0.0, "id": 2775955809, "level": 2}
+{"count": 1, "name": "Ova bank", "weight": 0.0, "id": 148232879, "level": 2}
+{"count": 1, "name": "Asynclitic birth", "weight": 0.0, "id": 2777456657, "level": 2}
+{"count": 3, "name": "Pregnancy specific biological substances", "weight": 0.0, "id": 2777657450, "level": 2}
+{"count": 2, "name": "Woods' screw maneuver", "weight": 0.0, "id": 2778649370, "level": 2}
+{"count": 2, "name": "Uterine orgasm", "weight": 0.0, "id": 2778840943, "level": 2}
+{"count": 1, "name": "Laminaria stick", "weight": 0.0, "id": 2778901898, "level": 2}
+{"count": 4, "name": "Conduplicato corpore", "weight": 0.0, "id": 2780144347, "level": 2}
+{"count": 4, "name": "Prenatal sex discernment", "weight": 0.0, "id": 2780236159, "level": 2}
+{"count": 20, "name": "Monthly nurse", "weight": 0.0, "id": 2777259301, "level": 2}
+{"count": 4, "name": "Bismuthia", "weight": 0.0, "id": 2777323739, "level": 2}
+{"count": 2, "name": "Cryptic pregnancy", "weight": 0.0, "id": 2779307181, "level": 2}
+{"count": 188, "name": "Cotton pad", "weight": 0.0, "id": 2777378586, "level": 2}
+{"count": 2, "name": "Adolescent sexuality in the United States", "weight": 0.0, "id": 2780714559, "level": 2}
+{"count": 1, "name": "Symptoms and discomforts of pregnancy", "weight": 0.0, "id": 2779765824, "level": 2}

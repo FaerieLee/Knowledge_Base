@@ -1,0 +1,8 @@
+{"count": 9540, "name": "Multivariate interpolation", "weight": 10.0, "id": 203332170, "level": 4}
+{"count": 4020, "name": "Image scaling", "weight": 4.0, "id": 27405340, "level": 4}
+{"count": 1146, "name": "Bilinear map", "weight": 1.0, "id": 142685569, "level": 4}
+{"count": 4371, "name": "Demosaicing", "weight": 4.0, "id": 27624317, "level": 4}
+{"count": 995, "name": "Symmetric bilinear form", "weight": 1.0, "id": 79940087, "level": 4}
+{"count": 56, "name": "Bilinear program", "weight": 0.0, "id": 2780867197, "level": 4}
+{"count": 49, "name": "Composite order", "weight": 0.0, "id": 2776209069, "level": 4}
+{"count": 707, "name": "System of bilinear equations", "weight": 0.0, "id": 98908988, "level": 4}

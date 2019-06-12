@@ -1,0 +1,8 @@
+{"count": 886, "name": "RS-232", "weight": 7.0, "id": 44670236, "level": 3}
+{"count": 671, "name": "Asynchronous serial communication", "weight": 5.0, "id": 57485573, "level": 3}
+{"count": 168, "name": "High-Speed Serial Interface", "weight": 1.0, "id": 2777297576, "level": 3}
+{"count": 1174, "name": "Synchronous serial communication", "weight": 10.0, "id": 155787647, "level": 3}
+{"count": 116, "name": "Serial cable", "weight": 0.0, "id": 2781109190, "level": 3}
+{"count": 39, "name": "Digital Serial Interface", "weight": 0.0, "id": 2781297070, "level": 3}
+{"count": 96, "name": "Asynchronous serial interface", "weight": 0.0, "id": 2775885681, "level": 3}
+{"count": 23, "name": "Data Terminal Ready", "weight": 0.0, "id": 2781119726, "level": 3}

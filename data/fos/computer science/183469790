@@ -1,0 +1,16 @@
+{"count": 6363, "name": "Crashworthiness", "weight": 10.0, "id": 2779240047, "level": 3}
+{"count": 1026, "name": "Head-on collision", "weight": 1.0, "id": 2777176820, "level": 3}
+{"count": 673, "name": "Fatality Analysis Reporting System", "weight": 1.0, "id": 2776551325, "level": 3}
+{"count": 4037, "name": "Crash test", "weight": 6.0, "id": 51175575, "level": 3}
+{"count": 515, "name": "Graduated driver licensing", "weight": 0.0, "id": 2778675871, "level": 3}
+{"count": 427, "name": "Federal Motor Vehicle Safety Standards", "weight": 0.0, "id": 2779265316, "level": 3}
+{"count": 224, "name": "Wrong-way driving", "weight": 0.0, "id": 2778122575, "level": 3}
+{"count": 368, "name": "Highway Safety Manual", "weight": 0.0, "id": 2781381262, "level": 3}
+{"count": 917, "name": "Crash simulation", "weight": 1.0, "id": 2777202219, "level": 3}
+{"count": 610, "name": "Crash box", "weight": 0.0, "id": 2781072362, "level": 3}
+{"count": 778, "name": "Event data recorder", "weight": 1.0, "id": 2779265149, "level": 3}
+{"count": 170, "name": "Advanced Automatic Collision Notification", "weight": 0.0, "id": 62018533, "level": 3}
+{"count": 206, "name": "Crumple zone", "weight": 0.0, "id": 185191675, "level": 3}
+{"count": 57, "name": "Gross vehicle weight rating", "weight": 0.0, "id": 2777600414, "level": 3}
+{"count": 21, "name": "Run-off-road collision", "weight": 0.0, "id": 2779822130, "level": 3}
+{"count": 9, "name": "Crash reporter", "weight": 0.0, "id": 55707083, "level": 3}

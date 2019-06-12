@@ -1,0 +1,9 @@
+{"count": 1759, "name": "Geographic coordinate conversion", "weight": 6.0, "id": 191338504, "level": 3}
+{"count": 2744, "name": "Coordinate space", "weight": 10.0, "id": 162291796, "level": 3}
+{"count": 914, "name": "Elliptic coordinate system", "weight": 3.0, "id": 108172862, "level": 3}
+{"count": 268, "name": "Helmert transformation", "weight": 0.0, "id": 95655489, "level": 3}
+{"count": 202, "name": "ECEF", "weight": 0.0, "id": 2778789466, "level": 3}
+{"count": 363, "name": "State Plane Coordinate System", "weight": 1.0, "id": 1536725, "level": 3}
+{"count": 66, "name": "Sigma coordinate system", "weight": 0.0, "id": 2775928241, "level": 3}
+{"count": 40, "name": "Bessel ellipsoid of 1841", "weight": 0.0, "id": 129615877, "level": 3}
+{"count": 201, "name": "Axis-aligned object", "weight": 0.0, "id": 48507935, "level": 3}

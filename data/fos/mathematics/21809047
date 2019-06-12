@@ -1,0 +1,4 @@
+{"count": 9485, "name": "Fractional Fourier transform", "weight": 10.0, "id": 76563020, "level": 3}
+{"count": 421, "name": "Bluestein's FFT algorithm", "weight": 0.0, "id": 120924271, "level": 3}
+{"count": 6805, "name": "Non-uniform discrete Fourier transform", "weight": 7.0, "id": 62058723, "level": 3}
+{"count": 8918, "name": "Discrete Fourier transform (general)", "weight": 9.0, "id": 57733114, "level": 3}

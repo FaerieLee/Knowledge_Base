@@ -1,0 +1,29 @@
+{"count": 8255, "name": "Color model", "weight": 10.0, "id": 36262787, "level": 5}
+{"count": 5851, "name": "HSL and HSV", "weight": 7.0, "id": 36372059, "level": 5}
+{"count": 3815, "name": "Color quantization", "weight": 4.0, "id": 173752661, "level": 5}
+{"count": 1669, "name": "Color management", "weight": 2.0, "id": 2778489266, "level": 5}
+{"count": 2421, "name": "RGB color space", "weight": 2.0, "id": 84216515, "level": 5}
+{"count": 1735, "name": "YCbCr", "weight": 2.0, "id": 2779407163, "level": 5}
+{"count": 722, "name": "Color gradient", "weight": 0.0, "id": 90506922, "level": 5}
+{"count": 385, "name": "Lab color space", "weight": 0.0, "id": 2776114215, "level": 5}
+{"count": 247, "name": "CIELUV", "weight": 0.0, "id": 2779893516, "level": 5}
+{"count": 305, "name": "CIECAM02", "weight": 0.0, "id": 79296140, "level": 5}
+{"count": 2684, "name": "ICC profile", "weight": 3.0, "id": 95143428, "level": 5}
+{"count": 316, "name": "sRGB", "weight": 0.0, "id": 2780336056, "level": 5}
+{"count": 4529, "name": "Color normalization", "weight": 5.0, "id": 44404184, "level": 5}
+{"count": 80, "name": "CIE 1931 color space", "weight": 0.0, "id": 2777213424, "level": 5}
+{"count": 216, "name": "Munsell color system", "weight": 0.0, "id": 2777079211, "level": 5}
+{"count": 792, "name": "Additive color", "weight": 0.0, "id": 170647947, "level": 5}
+{"count": 658, "name": "3D lookup table", "weight": 0.0, "id": 126757763, "level": 5}
+{"count": 2081, "name": "Spectral color", "weight": 2.0, "id": 97991835, "level": 5}
+{"count": 35, "name": "xvYCC", "weight": 0.0, "id": 2780269087, "level": 5}
+{"count": 150, "name": "ColorChecker", "weight": 0.0, "id": 2776264002, "level": 5}
+{"count": 37, "name": "Multi-primary color display", "weight": 0.0, "id": 2779226474, "level": 5}
+{"count": 665, "name": "Web colors", "weight": 0.0, "id": 545234249, "level": 5}
+{"count": 7, "name": "scRGB", "weight": 0.0, "id": 2779874440, "level": 5}
+{"count": 232, "name": "Tertiary color", "weight": 0.0, "id": 49957799, "level": 5}
+{"count": 9, "name": "TSL color space", "weight": 0.0, "id": 2780228158, "level": 5}
+{"count": 44, "name": "YPbPr", "weight": 0.0, "id": 2777963891, "level": 5}
+{"count": 79, "name": "Bezold\u2013Br\u00fccke shift", "weight": 0.0, "id": 200118966, "level": 5}
+{"count": 59, "name": "Quattron", "weight": 0.0, "id": 175199070, "level": 5}
+{"count": 30, "name": "Coloroid", "weight": 0.0, "id": 2781030307, "level": 5}

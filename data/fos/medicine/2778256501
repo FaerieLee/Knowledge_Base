@@ -1,0 +1,25 @@
+{"count": 7364, "name": "Kaposi's sarcoma", "weight": 7.0, "id": 2779236070, "level": 3}
+{"count": 9228, "name": "Soft tissue sarcoma", "weight": 10.0, "id": 2778629024, "level": 3}
+{"count": 3855, "name": "Ewing's sarcoma", "weight": 4.0, "id": 2777586341, "level": 3}
+{"count": 4408, "name": "Synovial sarcoma", "weight": 4.0, "id": 2776910622, "level": 3}
+{"count": 2907, "name": "Reticulum", "weight": 3.0, "id": 142579037, "level": 3}
+{"count": 2646, "name": "Primitive neuroectodermal tumor", "weight": 2.0, "id": 2776891213, "level": 3}
+{"count": 993, "name": "Alveolar soft part sarcoma", "weight": 1.0, "id": 2777666782, "level": 3}
+{"count": 988, "name": "Alveolar rhabdomyosarcoma", "weight": 1.0, "id": 2776522094, "level": 3}
+{"count": 1380, "name": "Endometrial stromal sarcoma", "weight": 1.0, "id": 2780057860, "level": 3}
+{"count": 1096, "name": "Clear-cell sarcoma", "weight": 1.0, "id": 2779052582, "level": 3}
+{"count": 1119, "name": "Epithelioid sarcoma", "weight": 1.0, "id": 2781113665, "level": 3}
+{"count": 1625, "name": "Embryonal rhabdomyosarcoma", "weight": 1.0, "id": 2777176876, "level": 3}
+{"count": 681, "name": "Desmoplastic small-round-cell tumor", "weight": 0.0, "id": 2776295783, "level": 3}
+{"count": 1169, "name": "Uterine sarcoma", "weight": 1.0, "id": 2777590123, "level": 3}
+{"count": 728, "name": "Spindle cell sarcoma", "weight": 0.0, "id": 2779567097, "level": 3}
+{"count": 985, "name": "Myxoid liposarcoma", "weight": 1.0, "id": 2781225692, "level": 3}
+{"count": 559, "name": "Myxoid chondrosarcoma", "weight": 0.0, "id": 2779001881, "level": 3}
+{"count": 1045, "name": "CD99", "weight": 1.0, "id": 126226738, "level": 3}
+{"count": 291, "name": "Low-grade fibromyxoid sarcoma", "weight": 0.0, "id": 2776985296, "level": 3}
+{"count": 175, "name": "Angiomatoid fibrous histiocytoma", "weight": 0.0, "id": 2776923433, "level": 3}
+{"count": 134, "name": "Langerhans cell sarcoma", "weight": 0.0, "id": 2779679084, "level": 3}
+{"count": 163, "name": "Myosarcoma", "weight": 0.0, "id": 2777577083, "level": 3}
+{"count": 147, "name": "Ewing family of tumors", "weight": 0.0, "id": 2778814242, "level": 3}
+{"count": 48, "name": "Sclerosing rhabdomyosarcoma", "weight": 0.0, "id": 2777291405, "level": 3}
+{"count": 23, "name": "Vaccine-associated sarcoma", "weight": 0.0, "id": 2777392552, "level": 3}

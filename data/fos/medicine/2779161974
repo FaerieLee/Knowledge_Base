@@ -1,0 +1,28 @@
+{"count": 20138, "name": "Catheter ablation", "weight": 10.0, "id": 2776131983, "level": 3}
+{"count": 4370, "name": "Antiarrhythmic agent", "weight": 2.0, "id": 2778131192, "level": 3}
+{"count": 9244, "name": "P wave", "weight": 4.0, "id": 16541007, "level": 3}
+{"count": 14434, "name": "Left atrium", "weight": 7.0, "id": 2777615863, "level": 3}
+{"count": 12055, "name": "Pulmonary vein", "weight": 5.0, "id": 2780689522, "level": 3}
+{"count": 19503, "name": "Sinus rhythm", "weight": 9.0, "id": 2775914520, "level": 3}
+{"count": 11886, "name": "Amiodarone", "weight": 5.0, "id": 2778094803, "level": 3}
+{"count": 8152, "name": "Atrial flutter", "weight": 4.0, "id": 2778292772, "level": 3}
+{"count": 8624, "name": "Cardioversion", "weight": 4.0, "id": 2777289489, "level": 3}
+{"count": 6510, "name": "Dabigatran", "weight": 3.0, "id": 2778810321, "level": 3}
+{"count": 6350, "name": "Rivaroxaban", "weight": 3.0, "id": 2778661090, "level": 3}
+{"count": 1839, "name": "Vitamin K antagonist", "weight": 0.0, "id": 2776704044, "level": 3}
+{"count": 2264, "name": "Propafenone", "weight": 1.0, "id": 2781472538, "level": 3}
+{"count": 2907, "name": "Effective refractory period", "weight": 1.0, "id": 189327125, "level": 3}
+{"count": 1028, "name": "Dofetilide", "weight": 0.0, "id": 2777796741, "level": 3}
+{"count": 1107, "name": "Proarrhythmia", "weight": 0.0, "id": 2777008848, "level": 3}
+{"count": 732, "name": "Left atrial appendage occlusion", "weight": 0.0, "id": 2780434050, "level": 3}
+{"count": 340, "name": "Pilsicainide", "weight": 0.0, "id": 2779304752, "level": 3}
+{"count": 275, "name": "Concealed conduction", "weight": 0.0, "id": 2776105220, "level": 3}
+{"count": 471, "name": "CHA2DS2\u2013VASc score", "weight": 0.0, "id": 2778369440, "level": 3}
+{"count": 1215, "name": "Left atrial enlargement", "weight": 0.0, "id": 2777627335, "level": 3}
+{"count": 260, "name": "HAS-BLED", "weight": 0.0, "id": 2775946987, "level": 3}
+{"count": 175, "name": "Premature atrial contraction", "weight": 0.0, "id": 2777632338, "level": 3}
+{"count": 387, "name": "INR self-monitoring", "weight": 0.0, "id": 87510486, "level": 3}
+{"count": 570, "name": "Atrial action potential", "weight": 0.0, "id": 87520248, "level": 3}
+{"count": 1227, "name": "Management of atrial fibrillation", "weight": 0.0, "id": 2780971015, "level": 3}
+{"count": 10, "name": "Budiodarone", "weight": 0.0, "id": 2780607265, "level": 3}
+{"count": 16, "name": "Ashman phenomenon", "weight": 0.0, "id": 2778148091, "level": 3}

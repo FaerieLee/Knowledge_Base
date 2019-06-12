@@ -1,0 +1,24 @@
+{"count": 21638, "name": "Enzymatic hydrolysis", "weight": 9.0, "id": 53270655, "level": 3}
+{"count": 14130, "name": "Acid hydrolysis", "weight": 6.0, "id": 16993767, "level": 3}
+{"count": 22298, "name": "Hydrolysate", "weight": 10.0, "id": 28800991, "level": 3}
+{"count": 1401, "name": "Alkaline hydrolysis (body disposal)", "weight": 0.0, "id": 2780181884, "level": 3}
+{"count": 1607, "name": "Pullulanase", "weight": 0.0, "id": 2779423947, "level": 3}
+{"count": 1056, "name": "Nitrilase", "weight": 0.0, "id": 2780296214, "level": 3}
+{"count": 1040, "name": "Inulinase", "weight": 0.0, "id": 2780236525, "level": 3}
+{"count": 979, "name": "Chitosanase", "weight": 0.0, "id": 2777598261, "level": 3}
+{"count": 2332, "name": "Hydrolyzed protein", "weight": 1.0, "id": 198118469, "level": 3}
+{"count": 14, "name": "Spleen exonuclease", "weight": 0.0, "id": 2780481586, "level": 3}
+{"count": 804, "name": "Dextrose equivalent", "weight": 0.0, "id": 181565606, "level": 3}
+{"count": 988, "name": "Forced degradation", "weight": 0.0, "id": 2777682752, "level": 3}
+{"count": 981, "name": "Isomaltose", "weight": 0.0, "id": 2777129622, "level": 3}
+{"count": 336, "name": "Naringinase", "weight": 0.0, "id": 2777145016, "level": 3}
+{"count": 368, "name": "Thiodiglycol", "weight": 0.0, "id": 2779565376, "level": 3}
+{"count": 1310, "name": "Tetrahedral carbonyl addition compound", "weight": 0.0, "id": 192604958, "level": 3}
+{"count": 394, "name": "E1cB-elimination reaction", "weight": 0.0, "id": 205074550, "level": 3}
+{"count": 68, "name": "Aryl-acylamidase", "weight": 0.0, "id": 2778835401, "level": 3}
+{"count": 2126, "name": "Hydrolysis constant", "weight": 0.0, "id": 14332214, "level": 3}
+{"count": 36, "name": "Alpha-glucuronidase", "weight": 0.0, "id": 2779264585, "level": 3}
+{"count": 92, "name": "Burst kinetics", "weight": 0.0, "id": 2777090940, "level": 3}
+{"count": 113, "name": "Glycolonitrile", "weight": 0.0, "id": 2776925512, "level": 3}
+{"count": 56, "name": "Fish protein powder", "weight": 0.0, "id": 2778015987, "level": 3}
+{"count": 145, "name": "Glycidic acid", "weight": 0.0, "id": 2777772552, "level": 3}

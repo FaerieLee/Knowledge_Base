@@ -1,0 +1,200 @@
+{"count": 242167, "name": "Boundary value problem", "weight": 7.0, "id": 182310444, "level": 2}
+{"count": 170538, "name": "Numerical analysis", "weight": 5.0, "id": 48753275, "level": 2}
+{"count": 48628, "name": "Satisfiability", "weight": 1.0, "id": 168773769, "level": 2}
+{"count": 167558, "name": "Differential equation", "weight": 5.0, "id": 78045399, "level": 2}
+{"count": 125311, "name": "Fourier transform", "weight": 4.0, "id": 102519508, "level": 2}
+{"count": 119227, "name": "Eigenvalues and eigenvectors", "weight": 3.0, "id": 158693339, "level": 2}
+{"count": 95351, "name": "Partial differential equation", "weight": 3.0, "id": 93779851, "level": 2}
+{"count": 67154, "name": "Integral equation", "weight": 2.0, "id": 27016315, "level": 2}
+{"count": 53475, "name": "Random variable", "weight": 1.0, "id": 122123141, "level": 2}
+{"count": 51921, "name": "Inverse problem", "weight": 1.0, "id": 135252773, "level": 2}
+{"count": 57961, "name": "Initial value problem", "weight": 1.0, "id": 26955809, "level": 2}
+{"count": 69233, "name": "Functional analysis", "weight": 2.0, "id": 55112680, "level": 2}
+{"count": 140817, "name": "Polynomial", "weight": 4.0, "id": 90119067, "level": 2}
+{"count": 116708, "name": "Interpolation", "weight": 3.0, "id": 17378031, "level": 2}
+{"count": 38468, "name": "Finite difference method", "weight": 1.0, "id": 205951836, "level": 2}
+{"count": 38005, "name": "Vector field", "weight": 1.0, "id": 91188154, "level": 2}
+{"count": 31857, "name": "Exact solutions in general relativity", "weight": 1.0, "id": 520416788, "level": 2}
+{"count": 42154, "name": "Wave equation", "weight": 1.0, "id": 59696629, "level": 2}
+{"count": 101055, "name": "Inequality", "weight": 3.0, "id": 45555294, "level": 2}
+{"count": 45899, "name": "Rate of convergence", "weight": 1.0, "id": 57869625, "level": 2}
+{"count": 38820, "name": "Finite difference", "weight": 1.0, "id": 181330731, "level": 2}
+{"count": 70781, "name": "Perturbation (astronomy)", "weight": 2.0, "id": 177918212, "level": 2}
+{"count": 18186, "name": "Cross-correlation", "weight": 0.0, "id": 163018871, "level": 2}
+{"count": 24522, "name": "Conservation law", "weight": 0.0, "id": 3445786, "level": 2}
+{"count": 24740, "name": "Linear equation", "weight": 0.0, "id": 77346573, "level": 2}
+{"count": 31325, "name": "Brownian motion", "weight": 1.0, "id": 112401455, "level": 2}
+{"count": 21898, "name": "Maxwell's equations", "weight": 0.0, "id": 59282198, "level": 2}
+{"count": 19236, "name": "Lie group", "weight": 0.0, "id": 187915474, "level": 2}
+{"count": 54332, "name": "Asymptotic analysis", "weight": 1.0, "id": 205147927, "level": 2}
+{"count": 33945, "name": "Random walk", "weight": 1.0, "id": 121194460, "level": 2}
+{"count": 50224, "name": "Fixed point", "weight": 1.0, "id": 61445026, "level": 2}
+{"count": 18750, "name": "Probability theory", "weight": 0.0, "id": 122203268, "level": 2}
+{"count": 25992, "name": "Numerical integration", "weight": 0.0, "id": 127349201, "level": 2}
+{"count": 19039, "name": "Time\u2013frequency analysis", "weight": 0.0, "id": 142433447, "level": 2}
+{"count": 48409, "name": "Fractal", "weight": 1.0, "id": 40636538, "level": 2}
+{"count": 34286, "name": "Hilbert space", "weight": 1.0, "id": 62799726, "level": 2}
+{"count": 28867, "name": "Green's function", "weight": 0.0, "id": 132312353, "level": 2}
+{"count": 14567, "name": "Approximation theory", "weight": 0.0, "id": 145242015, "level": 2}
+{"count": 37685, "name": "Duality (optimization)", "weight": 1.0, "id": 185503591, "level": 2}
+{"count": 52643, "name": "Derivation", "weight": 1.0, "id": 207386681, "level": 2}
+{"count": 38684, "name": "Dynamical system", "weight": 1.0, "id": 178685544, "level": 2}
+{"count": 20031, "name": "Group theory", "weight": 0.0, "id": 81651864, "level": 2}
+{"count": 37259, "name": "Convolution", "weight": 1.0, "id": 152003226, "level": 2}
+{"count": 36300, "name": "Schr\u00f6dinger equation", "weight": 1.0, "id": 63036615, "level": 2}
+{"count": 26465, "name": "Fourier series", "weight": 0.0, "id": 207864730, "level": 2}
+{"count": 19256, "name": "Elliptic curve", "weight": 0.0, "id": 179603306, "level": 2}
+{"count": 31024, "name": "Laplace transform", "weight": 1.0, "id": 97937538, "level": 2}
+{"count": 19343, "name": "Differential geometry", "weight": 0.0, "id": 192939610, "level": 2}
+{"count": 23667, "name": "Convection\u2013diffusion equation", "weight": 0.0, "id": 17456955, "level": 2}
+{"count": 13996, "name": "Linear map", "weight": 0.0, "id": 49766605, "level": 2}
+{"count": 9781, "name": "Symmetry group", "weight": 0.0, "id": 44306375, "level": 2}
+{"count": 14936, "name": "Incompressible flow", "weight": 0.0, "id": 50415386, "level": 2}
+{"count": 33114, "name": "Banach space", "weight": 1.0, "id": 132954091, "level": 2}
+{"count": 41283, "name": "Singularity", "weight": 1.0, "id": 16171025, "level": 2}
+{"count": 27943, "name": "Integrable system", "weight": 0.0, "id": 200741047, "level": 2}
+{"count": 29183, "name": "Spline (mathematics)", "weight": 0.0, "id": 55259147, "level": 2}
+{"count": 17095, "name": "Diffusion process", "weight": 0.0, "id": 68710425, "level": 2}
+{"count": 15848, "name": "Conjugate gradient method", "weight": 0.0, "id": 81184566, "level": 2}
+{"count": 13006, "name": "Path integral formulation", "weight": 0.0, "id": 154018700, "level": 2}
+{"count": 16125, "name": "Generating function", "weight": 0.0, "id": 204911207, "level": 2}
+{"count": 24801, "name": "Impulse response", "weight": 0.0, "id": 72279823, "level": 2}
+{"count": 1283, "name": "Difference set", "weight": 0.0, "id": 188204562, "level": 2}
+{"count": 12137, "name": "Set theory", "weight": 0.0, "id": 153046414, "level": 2}
+{"count": 6356, "name": "Closed-form expression", "weight": 0.0, "id": 4530962, "level": 2}
+{"count": 4436, "name": "Invariance principle", "weight": 0.0, "id": 156387681, "level": 2}
+{"count": 17107, "name": "Algebraic geometry", "weight": 0.0, "id": 68363185, "level": 2}
+{"count": 22727, "name": "Navier\u2013Stokes equations", "weight": 0.0, "id": 2781278361, "level": 2}
+{"count": 23528, "name": "Diffusion equation", "weight": 0.0, "id": 571446, "level": 2}
+{"count": 22592, "name": "Euler equations", "weight": 0.0, "id": 38409319, "level": 2}
+{"count": 80099, "name": "Discretization", "weight": 2.0, "id": 73000952, "level": 2}
+{"count": 17048, "name": "Analytic function", "weight": 0.0, "id": 205979905, "level": 2}
+{"count": 25907, "name": "Factorization", "weight": 0.0, "id": 187834632, "level": 2}
+{"count": 15557, "name": "Lie algebra", "weight": 0.0, "id": 51568863, "level": 2}
+{"count": 25483, "name": "Numerical stability", "weight": 0.0, "id": 176321772, "level": 2}
+{"count": 8115, "name": "Calculus of variations", "weight": 0.0, "id": 97985569, "level": 2}
+{"count": 11385, "name": "Series expansion", "weight": 0.0, "id": 186080144, "level": 2}
+{"count": 11554, "name": "Spectral method", "weight": 0.0, "id": 23463724, "level": 2}
+{"count": 16577, "name": "Variational method", "weight": 0.0, "id": 64618476, "level": 2}
+{"count": 15075, "name": "Differential operator", "weight": 0.0, "id": 70915906, "level": 2}
+{"count": 28766, "name": "Residue (complex analysis)", "weight": 0.0, "id": 109033147, "level": 2}
+{"count": 15022, "name": "Variational principle", "weight": 0.0, "id": 9259290, "level": 2}
+{"count": 11993, "name": "Poisson's equation", "weight": 0.0, "id": 96716743, "level": 2}
+{"count": 17663, "name": "Number theory", "weight": 0.0, "id": 169654258, "level": 2}
+{"count": 12536, "name": "Spherical harmonics", "weight": 0.0, "id": 3768446, "level": 2}
+{"count": 19254, "name": "Random field", "weight": 0.0, "id": 130402806, "level": 2}
+{"count": 13625, "name": "Lagrange multiplier", "weight": 0.0, "id": 73684929, "level": 2}
+{"count": 14115, "name": "Vector space", "weight": 0.0, "id": 13336665, "level": 2}
+{"count": 13564, "name": "Forcing (mathematics)", "weight": 0.0, "id": 197115733, "level": 2}
+{"count": 15764, "name": "Asymptotic expansion", "weight": 0.0, "id": 11683690, "level": 2}
+{"count": 15743, "name": "Weight function", "weight": 0.0, "id": 134466208, "level": 2}
+{"count": 14532, "name": "Fokker\u2013Planck equation", "weight": 0.0, "id": 69123182, "level": 2}
+{"count": 10708, "name": "Bellman equation", "weight": 0.0, "id": 14646407, "level": 2}
+{"count": 83884, "name": "Manifold", "weight": 2.0, "id": 178207025, "level": 2}
+{"count": 10344, "name": "Runge\u2013Kutta methods", "weight": 0.0, "id": 181582579, "level": 2}
+{"count": 28450, "name": "Regularization (mathematics)", "weight": 0.0, "id": 8398441, "level": 2}
+{"count": 31445, "name": "Attractor", "weight": 1.0, "id": 164380108, "level": 2}
+{"count": 13806, "name": "Taylor series", "weight": 0.0, "id": 158946198, "level": 2}
+{"count": 26645, "name": "System of linear equations", "weight": 0.0, "id": 94523830, "level": 2}
+{"count": 15802, "name": "Bessel function", "weight": 0.0, "id": 107706756, "level": 2}
+{"count": 12161, "name": "Power series", "weight": 0.0, "id": 73905626, "level": 2}
+{"count": 50308, "name": "Dynamical systems theory", "weight": 1.0, "id": 79379906, "level": 2}
+{"count": 3540, "name": "Root system", "weight": 0.0, "id": 155868670, "level": 2}
+{"count": 14121, "name": "Euclidean space", "weight": 0.0, "id": 186450821, "level": 2}
+{"count": 65524, "name": "Exponential function", "weight": 2.0, "id": 151376022, "level": 2}
+{"count": 31087, "name": "Extrapolation", "weight": 1.0, "id": 132459708, "level": 2}
+{"count": 14361, "name": "Piecewise linear function", "weight": 0.0, "id": 17095337, "level": 2}
+{"count": 14219, "name": "Exponential decay", "weight": 0.0, "id": 180188523, "level": 2}
+{"count": 19434, "name": "Discrete Fourier transform", "weight": 0.0, "id": 21809047, "level": 2}
+{"count": 131681, "name": "Invariant (mathematics)", "weight": 4.0, "id": 49209780, "level": 2}
+{"count": 30990, "name": "Maxima and minima", "weight": 1.0, "id": 186633575, "level": 2}
+{"count": 2317, "name": "Structural stability", "weight": 0.0, "id": 155673373, "level": 2}
+{"count": 13516, "name": "Reaction\u2013diffusion system", "weight": 0.0, "id": 121231716, "level": 2}
+{"count": 6043, "name": "Local time", "weight": 0.0, "id": 41479618, "level": 2}
+{"count": 52308, "name": "Parabola", "weight": 1.0, "id": 205890394, "level": 2}
+{"count": 17675, "name": "Metric space", "weight": 0.0, "id": 198043062, "level": 2}
+{"count": 14140, "name": "Measure (mathematics)", "weight": 0.0, "id": 178042281, "level": 2}
+{"count": 7801, "name": "Integral transform", "weight": 0.0, "id": 200052193, "level": 2}
+{"count": 10918, "name": "Probability measure", "weight": 0.0, "id": 21031990, "level": 2}
+{"count": 20363, "name": "Stochastic differential equation", "weight": 0.0, "id": 51955184, "level": 2}
+{"count": 8074, "name": "Existence theorem", "weight": 0.0, "id": 2776548862, "level": 2}
+{"count": 11367, "name": "Saddle point", "weight": 0.0, "id": 2681867, "level": 2}
+{"count": 33082, "name": "Monotonic function", "weight": 1.0, "id": 72169020, "level": 2}
+{"count": 14307, "name": "Functional equation", "weight": 0.0, "id": 153576954, "level": 2}
+{"count": 21809, "name": "Invariant (physics)", "weight": 0.0, "id": 190470478, "level": 2}
+{"count": 20033, "name": "Lyapunov exponent", "weight": 0.0, "id": 191544260, "level": 2}
+{"count": 4523, "name": "Multidimensional systems", "weight": 0.0, "id": 158457486, "level": 2}
+{"count": 8944, "name": "Linear approximation", "weight": 0.0, "id": 160824197, "level": 2}
+{"count": 13405, "name": "Metric (mathematics)", "weight": 0.0, "id": 205617318, "level": 2}
+{"count": 11961, "name": "Central limit theorem", "weight": 0.0, "id": 166785042, "level": 2}
+{"count": 17675, "name": "Heat equation", "weight": 0.0, "id": 202787564, "level": 2}
+{"count": 7759, "name": "Irreducible representation", "weight": 0.0, "id": 142292226, "level": 2}
+{"count": 8301, "name": "Canonical form", "weight": 0.0, "id": 204707403, "level": 2}
+{"count": 14545, "name": "Convex function", "weight": 0.0, "id": 145446738, "level": 2}
+{"count": 8966, "name": "Projection method", "weight": 0.0, "id": 65557600, "level": 2}
+{"count": 24300, "name": "Divergence", "weight": 0.0, "id": 164098820, "level": 2}
+{"count": 10940, "name": "Moduli space", "weight": 0.0, "id": 73373263, "level": 2}
+{"count": 14083, "name": "Symbolic computation", "weight": 0.0, "id": 110812573, "level": 2}
+{"count": 26946, "name": "Conformal map", "weight": 0.0, "id": 98214594, "level": 2}
+{"count": 11948, "name": "Representation theory", "weight": 0.0, "id": 197273675, "level": 2}
+{"count": 8262, "name": "Operator algebra", "weight": 0.0, "id": 191413488, "level": 2}
+{"count": 9530, "name": "Cauchy stress tensor", "weight": 0.0, "id": 171338203, "level": 2}
+{"count": 16533, "name": "Orthogonal polynomials", "weight": 0.0, "id": 10628310, "level": 2}
+{"count": 10127, "name": "Series (mathematics)", "weight": 0.0, "id": 121152540, "level": 2}
+{"count": 31604, "name": "Exponential growth", "weight": 1.0, "id": 75235859, "level": 2}
+{"count": 15281, "name": "Multigrid method", "weight": 0.0, "id": 137119250, "level": 2}
+{"count": 15035, "name": "Equilibrium point", "weight": 0.0, "id": 94766913, "level": 2}
+{"count": 8807, "name": "Quadratic form", "weight": 0.0, "id": 75894275, "level": 2}
+{"count": 308969, "name": "Operator (computer programming)", "weight": 10.0, "id": 76449508, "level": 2}
+{"count": 12776, "name": "Variational inequality", "weight": 0.0, "id": 161999928, "level": 2}
+{"count": 17230, "name": "Fractional calculus", "weight": 0.0, "id": 154249771, "level": 2}
+{"count": 9470, "name": "Point process", "weight": 0.0, "id": 88871306, "level": 2}
+{"count": 8739, "name": "Characteristic function (probability theory)", "weight": 0.0, "id": 20538924, "level": 2}
+{"count": 16036, "name": "Jacobian matrix and determinant", "weight": 0.0, "id": 200331156, "level": 2}
+{"count": 3110, "name": "Limit set", "weight": 0.0, "id": 51337361, "level": 2}
+{"count": 8581, "name": "Riemann surface", "weight": 0.0, "id": 18556879, "level": 2}
+{"count": 11716, "name": "Stokes flow", "weight": 0.0, "id": 19191322, "level": 2}
+{"count": 20507, "name": "Fixed-point theorem", "weight": 0.0, "id": 45962547, "level": 2}
+{"count": 4059, "name": "Quantum algebra", "weight": 0.0, "id": 15353042, "level": 2}
+{"count": 9652, "name": "Function space", "weight": 0.0, "id": 142730499, "level": 2}
+{"count": 11519, "name": "Weak solution", "weight": 0.0, "id": 45137528, "level": 2}
+{"count": 38087, "name": "Affine transformation", "weight": 1.0, "id": 92757383, "level": 2}
+{"count": 12486, "name": "Convex set", "weight": 0.0, "id": 49870271, "level": 2}
+{"count": 4742, "name": "Potential theory", "weight": 0.0, "id": 24743483, "level": 2}
+{"count": 12332, "name": "Hopf bifurcation", "weight": 0.0, "id": 172435161, "level": 2}
+{"count": 24637, "name": "Multiplicity (mathematics)", "weight": 0.0, "id": 156004811, "level": 2}
+{"count": 2335, "name": "Power function", "weight": 0.0, "id": 16757182, "level": 2}
+{"count": 20653, "name": "Laplace operator", "weight": 0.0, "id": 165700671, "level": 2}
+{"count": 7478, "name": "Weak convergence", "weight": 0.0, "id": 57945734, "level": 2}
+{"count": 18515, "name": "Sobolev space", "weight": 0.0, "id": 99730327, "level": 2}
+{"count": 6066, "name": "Projection (linear algebra)", "weight": 0.0, "id": 170383328, "level": 2}
+{"count": 9116, "name": "Tensor product", "weight": 0.0, "id": 51255310, "level": 2}
+{"count": 7202, "name": "Stream function", "weight": 0.0, "id": 18932819, "level": 2}
+{"count": 7942, "name": "Complex dynamics", "weight": 0.0, "id": 126701199, "level": 2}
+{"count": 4527, "name": "Transportation theory", "weight": 0.0, "id": 31829261, "level": 2}
+{"count": 10144, "name": "Rational function", "weight": 0.0, "id": 75190567, "level": 2}
+{"count": 12190, "name": "Singular perturbation", "weight": 0.0, "id": 165160513, "level": 2}
+{"count": 20426, "name": "Compact space", "weight": 0.0, "id": 18648836, "level": 2}
+{"count": 2827, "name": "Hamilton\u2013Jacobi equation", "weight": 0.0, "id": 2778860007, "level": 2}
+{"count": 6984, "name": "Harmonic function", "weight": 0.0, "id": 627467, "level": 2}
+{"count": 4350, "name": "Differential form", "weight": 0.0, "id": 115071613, "level": 2}
+{"count": 7161, "name": "Riemann zeta function", "weight": 0.0, "id": 35235930, "level": 2}
+{"count": 12520, "name": "Minkowski space", "weight": 0.0, "id": 79464548, "level": 2}
+{"count": 6195, "name": "One-dimensional space", "weight": 0.0, "id": 175205982, "level": 2}
+{"count": 7366, "name": "Vector bundle", "weight": 0.0, "id": 95857938, "level": 2}
+{"count": 6294, "name": "Three-body problem", "weight": 0.0, "id": 34725247, "level": 2}
+{"count": 12315, "name": "Martingale (probability theory)", "weight": 0.0, "id": 48406656, "level": 2}
+{"count": 7749, "name": "Shallow water equations", "weight": 0.0, "id": 140295346, "level": 2}
+{"count": 7157, "name": "Singular point of a curve", "weight": 0.0, "id": 200917960, "level": 2}
+{"count": 40247, "name": "Generalization", "weight": 1.0, "id": 177148314, "level": 2}
+{"count": 28677, "name": "Abelian group", "weight": 0.0, "id": 136170076, "level": 2}
+{"count": 6354, "name": "Uniqueness theorem for Poisson's equation", "weight": 0.0, "id": 155940, "level": 2}
+{"count": 4494, "name": "Special functions", "weight": 0.0, "id": 50757856, "level": 2}
+{"count": 6522, "name": "Spectral theory", "weight": 0.0, "id": 98306654, "level": 2}
+{"count": 19421, "name": "Lipschitz continuity", "weight": 0.0, "id": 22324862, "level": 2}
+{"count": 6400, "name": "Recurrence relation", "weight": 0.0, "id": 201292218, "level": 2}
+{"count": 5372, "name": "Hypergeometric function", "weight": 0.0, "id": 197320386, "level": 2}
+{"count": 4766, "name": "Truncation error", "weight": 0.0, "id": 104942944, "level": 2}
+{"count": 7828, "name": "Prime number", "weight": 0.0, "id": 113429393, "level": 2}
+{"count": 20428, "name": "Geodesic", "weight": 0.0, "id": 165818556, "level": 2}
+{"count": 2228, "name": "Minimal model", "weight": 0.0, "id": 2780032228, "level": 2}

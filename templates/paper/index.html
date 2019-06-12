@@ -1,0 +1,133 @@
+{% load staticfiles %}
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Scholar Search</title>
+    <link rel="stylesheet" href='../../static/css/index.css' type="text/css">
+</head>
+
+<body>
+<div id="wrapper">
+    <div id="content">
+        <div class="content_wr">
+            <div id="m">
+                <div id="lg">
+                    <img alt="" src= '{% static '/png/demo.jpg' %}' width="230px" height="110px">
+                </div>
+
+                <div id="fm">
+                    <form name="f" action="paper/search_general" id="form" method="post">
+                        {% csrf_token %}
+                        <span class="s_ipt_wr">
+                            <input type="text" name="search_content" id="kw" maxlength="256" class="s_ipt" autocomplete="off">
+                        </span>
+                        <input type="text" style="display: none" id="aggregation" name="aggregation" value="True">
+                        <span class="s_btn_wr">
+                            <input type="submit" id="su" value="Search" class="s_btn">
+                        </span>
+                        <div class="sug-container" style="display: none;"></div>
+                    </form>
+
+                    <div class="sc_adv_triangle_down">
+                        <span><i id="advance_option" class="iconfont">
+                            <img src= '{% static '/png/dropDown.png' %}' width="27px" height="33px">
+                        </i></span>
+                    </div>
+
+                        <div id="sc_adv">
+                            <form action="paper/search_advanced" id="sc_adv_frm" method="post">
+                                {% csrf_token %}
+                                <input type="text" style="display: none" id="aggregation" name="aggregation" value="True">
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">title</span>
+                                    <span><input type="text" id="title" name="title"  data-type="all" class="sc-input" maxlength="100" value=""></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">author name</span>
+                                    <span><input type="text" name="author_name" data-type="precise" class="sc-input" maxlength="100" value=""></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">author organization</span>
+                                    <span><input type="text" name="author_org" placeholder="" data-type="or" data-name="" class="sc-input" maxlength="100" value=""></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">vneue</span>
+                                    <span><input type="text" name="vneue" placeholder="" data-type="not" data-name="" class="sc-input" maxlength="100" value=""></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">keyword</span>
+                                    <span><input type="text" name="keywords" placeholder="Separate terms with commas" data-type="not" data-name="" class="sc-input" maxlength="100" value=""></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">fos</span>
+                                    <span><input type="text" name="fos" placeholder="Separate terms with commas" data-name="author" class="sc-input" maxlength="50" value=""></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">publisher</span>
+                                    <span class="sc_adv_jour_conf">
+                                        <span>
+                                            <input type="text" name="publisher" placeholder="" data-name="journal" class="sc-input" maxlength="100" value="">
+                                        </span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">issn</span>
+                                    <span><input type="text" name="issn" placeholder="" data-name="author" class="sc-input" maxlength="50" value=""></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">doi</span>
+                                    <span><input type="text" name="doi" placeholder="" data-name="author" class="sc-input" maxlength="50" value=""></span>
+                                </div>
+                                    <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">issn</span>
+                                    <span><input type="text" name="issn" placeholder="" data-name="author" class="sc-input" maxlength="50" value=""></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">url</span>
+                                    <span><input type="text" name="url" placeholder="" data-name="author" class="sc-input" maxlength="50" value=""></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">abstract</span>
+                                    <span><input type="text" name="abstract" placeholder="" data-name="author" class="sc-input" maxlength="256" value=""></span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">year</span>
+                                    <span><input type="text" name="year" data-nolog="1" pattern="[0-9]*" size="4"  maxlength="4" class="sc-input sc-input-xmini" value="">
+                                    </span>
+                                </div>
+                                <div class="sc_adv_hatr">
+                                    <span class="sc_adv_label">language</span>
+                                        <span><input type="text" name="language" placeholder="" data-name="author" class="sc-input sc-input-xmini" maxlength="50" value=""></span>
+                                </div>
+                                <span class="sc_adv_sub s_btn_wr">
+                                    <input id="advance_submit" type="submit" value="Search" class="s_btn" >
+                                </span>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<script type="text/javascript" src= '../../static/js/jquery-3.4.1.min.js' charset="utf-8"></script>
+<script type="text/javascript">
+
+    $("#advance_option").click(function(){
+        var advanced_search = $("#sc_adv");
+        var display = advanced_search.css('display');
+        if(display === 'none'){
+            advanced_search.show();
+            $("#su").attr("disabled",false)
+        }else{
+            advanced_search.hide();
+            $("#su").attr("disabled",true)
+        }
+    });
+
+    $("#kw").click(function(){
+        $("#sc_adv").hide();
+    });
+
+</script>
+
+</body>
+</html>

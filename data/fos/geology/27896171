@@ -1,0 +1,5 @@
+{"count": 2736, "name": "Single-scattering albedo", "weight": 9.0, "id": 2778552899, "level": 4}
+{"count": 2869, "name": "AERONET", "weight": 10.0, "id": 2777634575, "level": 4}
+{"count": 1549, "name": "Angstrom exponent", "weight": 5.0, "id": 172461840, "level": 4}
+{"count": 1037, "name": "Sun photometer", "weight": 3.0, "id": 2778720773, "level": 4}
+{"count": 8, "name": "Optical depth (astrophysics)", "weight": 0.0, "id": 183830729, "level": 4}

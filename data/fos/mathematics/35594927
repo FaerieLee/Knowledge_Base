@@ -1,0 +1,14 @@
+{"count": 448, "name": "James\u2013Stein estimator", "weight": 1.0, "id": 149823167, "level": 5}
+{"count": 1864, "name": "Minimax estimator", "weight": 5.0, "id": 133939421, "level": 5}
+{"count": 425, "name": "Hodges\u2013Lehmann estimator", "weight": 1.0, "id": 199961010, "level": 5}
+{"count": 434, "name": "Nelson\u2013Aalen estimator", "weight": 1.0, "id": 201499163, "level": 5}
+{"count": 374, "name": "Rao\u2013Blackwell theorem", "weight": 1.0, "id": 121678262, "level": 5}
+{"count": 747, "name": "Newey\u2013West estimator", "weight": 2.0, "id": 147609192, "level": 5}
+{"count": 420, "name": "Orthogonality principle", "weight": 1.0, "id": 124886318, "level": 5}
+{"count": 3561, "name": "Stein's unbiased risk estimate", "weight": 10.0, "id": 134962040, "level": 5}
+{"count": 62, "name": "Pitman closeness criterion", "weight": 0.0, "id": 2778586175, "level": 5}
+{"count": 2980, "name": "Invariant estimator", "weight": 8.0, "id": 38689907, "level": 5}
+{"count": 2797, "name": "Trimmed estimator", "weight": 7.0, "id": 41020250, "level": 5}
+{"count": 418, "name": "Lehmann\u2013Scheff\u00e9 theorem", "weight": 1.0, "id": 162856786, "level": 5}
+{"count": 646, "name": "Unbiased estimation of standard deviation", "weight": 1.0, "id": 72661240, "level": 5}
+{"count": 287, "name": "Stein's example", "weight": 0.0, "id": 175831756, "level": 5}

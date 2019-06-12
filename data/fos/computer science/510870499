@@ -1,0 +1,9 @@
+{"count": 3012, "name": "SQL injection", "weight": 9.0, "id": 150451098, "level": 3}
+{"count": 1809, "name": "Open Database Connectivity", "weight": 5.0, "id": 123327596, "level": 3}
+{"count": 1825, "name": "PL/SQL", "weight": 5.0, "id": 32145003, "level": 3}
+{"count": 61, "name": "Transact-SQL", "weight": 0.0, "id": 2776160709, "level": 3}
+{"count": 3299, "name": "Data Transformation Services", "weight": 10.0, "id": 141589383, "level": 3}
+{"count": 22, "name": "Correlated subquery", "weight": 0.0, "id": 2780997903, "level": 3}
+{"count": 31, "name": "SQL:2008", "weight": 0.0, "id": 2776672635, "level": 3}
+{"count": 10, "name": "SQL/MED", "weight": 0.0, "id": 2779045879, "level": 3}
+{"count": 11, "name": "SQL PL", "weight": 0.0, "id": 2776911284, "level": 3}

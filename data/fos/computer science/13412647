@@ -1,0 +1,10 @@
+{"count": 15764, "name": "Common-mode signal", "weight": 6.0, "id": 189714311, "level": 3}
+{"count": 4315, "name": "Analog signal processing", "weight": 1.0, "id": 379707, "level": 3}
+{"count": 653, "name": "Zero-order hold", "weight": 0.0, "id": 42961345, "level": 3}
+{"count": 9843, "name": "Analog transmission", "weight": 3.0, "id": 22676131, "level": 3}
+{"count": 6850, "name": "Digital down converter", "weight": 2.0, "id": 99167442, "level": 3}
+{"count": 5631, "name": "Analog multiplier", "weight": 2.0, "id": 98142538, "level": 3}
+{"count": 5390, "name": "Analog device", "weight": 2.0, "id": 90711627, "level": 3}
+{"count": 26123, "name": "Signal transfer function", "weight": 10.0, "id": 131021393, "level": 3}
+{"count": 20242, "name": "Start signal", "weight": 7.0, "id": 122629485, "level": 3}
+{"count": 70, "name": "Time stretch analog-to-digital converter", "weight": 0.0, "id": 205241795, "level": 3}

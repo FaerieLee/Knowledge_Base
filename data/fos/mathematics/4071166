@@ -1,0 +1,71 @@
+{"count": 2145, "name": "Arithmetic progression", "weight": 5.0, "id": 130498168, "level": 3}
+{"count": 1604, "name": "Greatest common divisor", "weight": 3.0, "id": 125257309, "level": 3}
+{"count": 3783, "name": "Prime factor", "weight": 9.0, "id": 30860621, "level": 3}
+{"count": 1496, "name": "Integer sequence", "weight": 3.0, "id": 61994974, "level": 3}
+{"count": 851, "name": "Natural density", "weight": 2.0, "id": 156491182, "level": 3}
+{"count": 421, "name": "General number field sieve", "weight": 1.0, "id": 66421416, "level": 3}
+{"count": 557, "name": "Additive number theory", "weight": 1.0, "id": 126451878, "level": 3}
+{"count": 148, "name": "Jacobi symbol", "weight": 0.0, "id": 2779556793, "level": 3}
+{"count": 324, "name": "Pisot\u2013Vijayaraghavan number", "weight": 0.0, "id": 110210907, "level": 3}
+{"count": 552, "name": "Algebraic integer", "weight": 1.0, "id": 159107345, "level": 3}
+{"count": 538, "name": "Pell's equation", "weight": 1.0, "id": 114403751, "level": 3}
+{"count": 703, "name": "Least common multiple", "weight": 1.0, "id": 102607178, "level": 3}
+{"count": 469, "name": "Euler function", "weight": 1.0, "id": 51524170, "level": 3}
+{"count": 626, "name": "Euler's totient function", "weight": 1.0, "id": 198944804, "level": 3}
+{"count": 131, "name": "Hilbert basis", "weight": 0.0, "id": 2778450811, "level": 3}
+{"count": 830, "name": "Gaussian integer", "weight": 2.0, "id": 120561534, "level": 3}
+{"count": 573, "name": "Fractional part", "weight": 1.0, "id": 134069248, "level": 3}
+{"count": 53, "name": "T-coloring", "weight": 0.0, "id": 2777261766, "level": 3}
+{"count": 4105, "name": "Coprime integers", "weight": 10.0, "id": 23230895, "level": 3}
+{"count": 1478, "name": "Ring of integers", "weight": 3.0, "id": 164810661, "level": 3}
+{"count": 223, "name": "Coin problem", "weight": 0.0, "id": 88525636, "level": 3}
+{"count": 856, "name": "Additive group", "weight": 2.0, "id": 2779483109, "level": 3}
+{"count": 1263, "name": "Square-free integer", "weight": 3.0, "id": 188139237, "level": 3}
+{"count": 271, "name": "Sumset", "weight": 0.0, "id": 2779745270, "level": 3}
+{"count": 190, "name": "Unit fraction", "weight": 0.0, "id": 137272023, "level": 3}
+{"count": 245, "name": "Congruent number", "weight": 0.0, "id": 33738233, "level": 3}
+{"count": 370, "name": "Digit sum", "weight": 0.0, "id": 95532649, "level": 3}
+{"count": 85, "name": "Waring\u2013Goldbach problem", "weight": 0.0, "id": 2776949655, "level": 3}
+{"count": 132, "name": "Davenport constant", "weight": 0.0, "id": 2778825997, "level": 3}
+{"count": 778, "name": "Square number", "weight": 1.0, "id": 173808221, "level": 3}
+{"count": 37, "name": "B-coloring", "weight": 0.0, "id": 2776617150, "level": 3}
+{"count": 175, "name": "Polygonal number", "weight": 0.0, "id": 134022376, "level": 3}
+{"count": 39, "name": "Panconnectivity", "weight": 0.0, "id": 2777923450, "level": 3}
+{"count": 161, "name": "Floor and ceiling functions", "weight": 0.0, "id": 46424665, "level": 3}
+{"count": 51, "name": "Diamond operator", "weight": 0.0, "id": 2777855167, "level": 3}
+{"count": 317, "name": "Integer (computer science)", "weight": 0.0, "id": 97137487, "level": 3}
+{"count": 1094, "name": "Eisenstein integer", "weight": 2.0, "id": 38853081, "level": 3}
+{"count": 99, "name": "Egyptian fraction", "weight": 0.0, "id": 75182786, "level": 3}
+{"count": 64, "name": "Sieve theory", "weight": 0.0, "id": 2778241072, "level": 3}
+{"count": 105, "name": "Amicable numbers", "weight": 0.0, "id": 205556954, "level": 3}
+{"count": 54, "name": "Beatty sequence", "weight": 0.0, "id": 30932096, "level": 3}
+{"count": 38, "name": "Bertrand's postulate", "weight": 0.0, "id": 2780252152, "level": 3}
+{"count": 23, "name": "Sum-free set", "weight": 0.0, "id": 2778824121, "level": 3}
+{"count": 72, "name": "Powerful number", "weight": 0.0, "id": 101380249, "level": 3}
+{"count": 43, "name": "Biquadratic field", "weight": 0.0, "id": 2776678897, "level": 3}
+{"count": 20, "name": "Zero-sum problem", "weight": 0.0, "id": 2777258356, "level": 3}
+{"count": 31, "name": "Completely multiplicative function", "weight": 0.0, "id": 2777728101, "level": 3}
+{"count": 27, "name": "Freiman's theorem", "weight": 0.0, "id": 2776624463, "level": 3}
+{"count": 43, "name": "Postage stamp problem", "weight": 0.0, "id": 181325557, "level": 3}
+{"count": 32, "name": "Zarankiewicz problem", "weight": 0.0, "id": 2776104881, "level": 3}
+{"count": 32, "name": "Sidon sequence", "weight": 0.0, "id": 2778080580, "level": 3}
+{"count": 23, "name": "Delannoy number", "weight": 0.0, "id": 2778119483, "level": 3}
+{"count": 22, "name": "Kostant partition function", "weight": 0.0, "id": 2776100387, "level": 3}
+{"count": 28, "name": "Catalan's conjecture", "weight": 0.0, "id": 2779698405, "level": 3}
+{"count": 2624, "name": "Diophantine set", "weight": 6.0, "id": 40621787, "level": 3}
+{"count": 93, "name": "Reduced residue system", "weight": 0.0, "id": 116195050, "level": 3}
+{"count": 12, "name": "Cunningham project", "weight": 0.0, "id": 2780001646, "level": 3}
+{"count": 10, "name": "Fibonomial coefficient", "weight": 0.0, "id": 2779226504, "level": 3}
+{"count": 12, "name": "Zeckendorf's theorem", "weight": 0.0, "id": 2776012319, "level": 3}
+{"count": 83, "name": "Square pyramidal number", "weight": 0.0, "id": 207784524, "level": 3}
+{"count": 1299, "name": "Quadratic integer", "weight": 3.0, "id": 19875773, "level": 3}
+{"count": 16, "name": "Repdigit", "weight": 0.0, "id": 2775835051, "level": 3}
+{"count": 632, "name": "Integer square root", "weight": 1.0, "id": 198504277, "level": 3}
+{"count": 10, "name": "Supernatural number", "weight": 0.0, "id": 2779856521, "level": 3}
+{"count": 110, "name": "Divisibility sequence", "weight": 0.0, "id": 169581477, "level": 3}
+{"count": 17, "name": "Generalized arithmetic progression", "weight": 0.0, "id": 2778667103, "level": 3}
+{"count": 35, "name": "Signed zero", "weight": 0.0, "id": 42766391, "level": 3}
+{"count": 190, "name": "Self-descriptive number", "weight": 0.0, "id": 15138738, "level": 3}
+{"count": 23, "name": "Unary numeral system", "weight": 0.0, "id": 162233978, "level": 3}
+{"count": 155, "name": "Infinite arithmetic series", "weight": 0.0, "id": 84128751, "level": 3}
+{"count": 23, "name": "Signedness", "weight": 0.0, "id": 18223920, "level": 3}

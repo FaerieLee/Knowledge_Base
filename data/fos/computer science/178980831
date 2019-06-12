@@ -1,0 +1,200 @@
+{"count": 81469, "name": "Principal component analysis", "weight": 3.0, "id": 27438332, "level": 2}
+{"count": 123278, "name": "Support vector machine", "weight": 5.0, "id": 12267149, "level": 2}
+{"count": 89194, "name": "Image segmentation", "weight": 4.0, "id": 124504099, "level": 2}
+{"count": 206465, "name": "Cluster analysis", "weight": 10.0, "id": 73555534, "level": 2}
+{"count": 44325, "name": "Hidden Markov model", "weight": 2.0, "id": 23224414, "level": 2}
+{"count": 28738, "name": "k-nearest neighbors algorithm", "weight": 1.0, "id": 113238511, "level": 2}
+{"count": 16344, "name": "Cognitive neuroscience of visual object recognition", "weight": 0.0, "id": 64876066, "level": 2}
+{"count": 59622, "name": "Segmentation", "weight": 2.0, "id": 89600930, "level": 2}
+{"count": 29851, "name": "Word error rate", "weight": 1.0, "id": 40969351, "level": 2}
+{"count": 126548, "name": "Wavelet", "weight": 6.0, "id": 47432892, "level": 2}
+{"count": 40360, "name": "Object detection", "weight": 1.0, "id": 2776151529, "level": 2}
+{"count": 48959, "name": "Feature selection", "weight": 2.0, "id": 148483581, "level": 2}
+{"count": 47230, "name": "Feature vector", "weight": 2.0, "id": 83665646, "level": 2}
+{"count": 31745, "name": "Speech processing", "weight": 1.0, "id": 61328038, "level": 2}
+{"count": 62701, "name": "Kernel (linear algebra)", "weight": 3.0, "id": 99018454, "level": 2}
+{"count": 35674, "name": "Fusion", "weight": 1.0, "id": 158525013, "level": 2}
+{"count": 43993, "name": "Histogram", "weight": 2.0, "id": 53533937, "level": 2}
+{"count": 24838, "name": "Bayesian network", "weight": 1.0, "id": 33724603, "level": 2}
+{"count": 27576, "name": "Image registration", "weight": 1.0, "id": 166704113, "level": 2}
+{"count": 28888, "name": "Image retrieval", "weight": 1.0, "id": 1667742, "level": 2}
+{"count": 16238, "name": "Pattern matching", "weight": 0.0, "id": 68859911, "level": 2}
+{"count": 18722, "name": "Mutual information", "weight": 0.0, "id": 152139883, "level": 2}
+{"count": 20238, "name": "Unsupervised learning", "weight": 0.0, "id": 8038995, "level": 2}
+{"count": 16039, "name": "Similarity measure", "weight": 0.0, "id": 2776517306, "level": 2}
+{"count": 22566, "name": "Rough set", "weight": 1.0, "id": 111012933, "level": 2}
+{"count": 16626, "name": "Independent component analysis", "weight": 0.0, "id": 51432778, "level": 2}
+{"count": 18466, "name": "Supervised learning", "weight": 0.0, "id": 136389625, "level": 2}
+{"count": 18432, "name": "Euclidean distance", "weight": 0.0, "id": 120174047, "level": 2}
+{"count": 18363, "name": "Speech coding", "weight": 0.0, "id": 13895895, "level": 2}
+{"count": 21759, "name": "Anomaly detection", "weight": 1.0, "id": 739882, "level": 2}
+{"count": 24479, "name": "Statistical classification", "weight": 1.0, "id": 110083411, "level": 2}
+{"count": 10784, "name": "Synthetic data", "weight": 0.0, "id": 160920958, "level": 2}
+{"count": 9793, "name": "Viterbi algorithm", "weight": 0.0, "id": 60582962, "level": 2}
+{"count": 12105, "name": "Graphical model", "weight": 0.0, "id": 155846161, "level": 2}
+{"count": 18193, "name": "Sparse approximation", "weight": 0.0, "id": 124066611, "level": 2}
+{"count": 25038, "name": "Dimensionality reduction", "weight": 1.0, "id": 70518039, "level": 2}
+{"count": 39133, "name": "Training set", "weight": 1.0, "id": 51632099, "level": 2}
+{"count": 11813, "name": "Blind signal separation", "weight": 0.0, "id": 120317606, "level": 2}
+{"count": 18013, "name": "Naive Bayes classifier", "weight": 0.0, "id": 52001869, "level": 2}
+{"count": 31241, "name": "Curse of dimensionality", "weight": 1.0, "id": 111030470, "level": 2}
+{"count": 5046, "name": "Scale space", "weight": 0.0, "id": 99102927, "level": 2}
+{"count": 11921, "name": "Hough transform", "weight": 0.0, "id": 200518788, "level": 2}
+{"count": 27586, "name": "Outlier", "weight": 1.0, "id": 79337645, "level": 2}
+{"count": 7668, "name": "Kullback\u2013Leibler divergence", "weight": 0.0, "id": 171752962, "level": 2}
+{"count": 19920, "name": "Fingerprint", "weight": 0.0, "id": 200797679, "level": 2}
+{"count": 18458, "name": "Image fusion", "weight": 0.0, "id": 69744172, "level": 2}
+{"count": 4362, "name": "Noisy data", "weight": 0.0, "id": 2781170535, "level": 2}
+{"count": 6318, "name": "Canonical correlation", "weight": 0.0, "id": 153874254, "level": 2}
+{"count": 9764, "name": "Shape analysis (digital geometry)", "weight": 0.0, "id": 155514235, "level": 2}
+{"count": 12336, "name": "Pose", "weight": 0.0, "id": 52102323, "level": 2}
+{"count": 8076, "name": "Neural coding", "weight": 0.0, "id": 77637269, "level": 2}
+{"count": 6437, "name": "Source separation", "weight": 0.0, "id": 2776864781, "level": 2}
+{"count": 8924, "name": "Optical character recognition", "weight": 0.0, "id": 546480517, "level": 2}
+{"count": 6830, "name": "False positive rate", "weight": 0.0, "id": 95922358, "level": 2}
+{"count": 8459, "name": "Emotion recognition", "weight": 0.0, "id": 2777438025, "level": 2}
+{"count": 3855, "name": "Higher-order statistics", "weight": 0.0, "id": 2780576426, "level": 2}
+{"count": 19127, "name": "Speaker recognition", "weight": 0.0, "id": 133892786, "level": 2}
+{"count": 23622, "name": "Thresholding", "weight": 1.0, "id": 191178318, "level": 2}
+{"count": 13958, "name": "Template matching", "weight": 0.0, "id": 158096908, "level": 2}
+{"count": 12060, "name": "Fingerprint recognition", "weight": 0.0, "id": 168406668, "level": 2}
+{"count": 19180, "name": "Boosting (machine learning)", "weight": 0.0, "id": 46686674, "level": 2}
+{"count": 16303, "name": "Random forest", "weight": 0.0, "id": 169258074, "level": 2}
+{"count": 4706, "name": "Feature detection", "weight": 0.0, "id": 155455680, "level": 2}
+{"count": 4004, "name": "Component analysis", "weight": 0.0, "id": 2780692498, "level": 2}
+{"count": 27892, "name": "Classifier (linguistics)", "weight": 1.0, "id": 2781376004, "level": 2}
+{"count": 8880, "name": "Background subtraction", "weight": 0.0, "id": 32653426, "level": 2}
+{"count": 2037, "name": "Predictive coding", "weight": 0.0, "id": 2778061373, "level": 2}
+{"count": 8422, "name": "Linear prediction", "weight": 0.0, "id": 131109320, "level": 2}
+{"count": 11523, "name": "Hilbert\u2013Huang transform", "weight": 0.0, "id": 25570617, "level": 2}
+{"count": 2872, "name": "Incremental learning", "weight": 0.0, "id": 2780735816, "level": 2}
+{"count": 4979, "name": "Mean-shift", "weight": 0.0, "id": 48548287, "level": 2}
+{"count": 2860, "name": "Generalization error", "weight": 0.0, "id": 117765406, "level": 2}
+{"count": 1488, "name": "Karhunen\u2013Lo\u00e8ve theorem", "weight": 0.0, "id": 109308471, "level": 2}
+{"count": 6510, "name": "Dynamic time warping", "weight": 0.0, "id": 88516994, "level": 2}
+{"count": 5824, "name": "Conditional random field", "weight": 0.0, "id": 152565575, "level": 2}
+{"count": 3670, "name": "Dempster\u2013Shafer theory", "weight": 0.0, "id": 178011137, "level": 2}
+{"count": 11350, "name": "Semi-supervised learning", "weight": 0.0, "id": 58973888, "level": 2}
+{"count": 1369, "name": "k-d tree", "weight": 0.0, "id": 33721204, "level": 2}
+{"count": 7171, "name": "Activity recognition", "weight": 0.0, "id": 121687571, "level": 2}
+{"count": 4052, "name": "Distance transform", "weight": 0.0, "id": 73621898, "level": 2}
+{"count": 4549, "name": "Active appearance model", "weight": 0.0, "id": 83248878, "level": 2}
+{"count": 3510, "name": "Edit distance", "weight": 0.0, "id": 44359876, "level": 2}
+{"count": 9032, "name": "Maximum a posteriori estimation", "weight": 0.0, "id": 9810830, "level": 2}
+{"count": 4585, "name": "Peak signal-to-noise ratio", "weight": 0.0, "id": 154579607, "level": 2}
+{"count": 5311, "name": "Text segmentation", "weight": 0.0, "id": 98501671, "level": 2}
+{"count": 1052, "name": "Latent semantic indexing", "weight": 0.0, "id": 146172628, "level": 2}
+{"count": 2781, "name": "Word-sense disambiguation", "weight": 0.0, "id": 51646954, "level": 2}
+{"count": 8829, "name": "Spectrogram", "weight": 0.0, "id": 45273575, "level": 2}
+{"count": 1911, "name": "Error concealment", "weight": 0.0, "id": 2779751439, "level": 2}
+{"count": 7960, "name": "AdaBoost", "weight": 0.0, "id": 141404830, "level": 2}
+{"count": 8467, "name": "Ensemble learning", "weight": 0.0, "id": 45942800, "level": 2}
+{"count": 1619, "name": "Random projection", "weight": 0.0, "id": 2777036070, "level": 2}
+{"count": 4935, "name": "Active shape model", "weight": 0.0, "id": 129641003, "level": 2}
+{"count": 4443, "name": "Latent Dirichlet allocation", "weight": 0.0, "id": 500882744, "level": 2}
+{"count": 22001, "name": "Discriminative model", "weight": 1.0, "id": 97931131, "level": 2}
+{"count": 3267, "name": "Bag-of-words model", "weight": 0.0, "id": 13672336, "level": 2}
+{"count": 2508, "name": "Pattern recognition (psychology)", "weight": 0.0, "id": 153180895, "level": 2}
+{"count": 3390, "name": "Corner detection", "weight": 0.0, "id": 39499422, "level": 2}
+{"count": 6772, "name": "Cepstrum", "weight": 0.0, "id": 88485024, "level": 2}
+{"count": 9461, "name": "Codebook", "weight": 0.0, "id": 127759330, "level": 2}
+{"count": 3600, "name": "Automatic target recognition", "weight": 0.0, "id": 117623542, "level": 2}
+{"count": 10626, "name": "Salience (neuroscience)", "weight": 0.0, "id": 108154423, "level": 2}
+{"count": 1887, "name": "Conditional entropy", "weight": 0.0, "id": 101721835, "level": 2}
+{"count": 1819, "name": "Chain code", "weight": 0.0, "id": 93058836, "level": 2}
+{"count": 3343, "name": "Probabilistic latent semantic analysis", "weight": 0.0, "id": 112933361, "level": 2}
+{"count": 2219, "name": "Confusion matrix", "weight": 0.0, "id": 138602881, "level": 2}
+{"count": 404, "name": "Elastic matching", "weight": 0.0, "id": 2781424872, "level": 2}
+{"count": 2521, "name": "Point set registration", "weight": 0.0, "id": 200336642, "level": 2}
+{"count": 5283, "name": "Inpainting", "weight": 0.0, "id": 11727466, "level": 2}
+{"count": 7257, "name": "Silhouette", "weight": 0.0, "id": 58103923, "level": 2}
+{"count": 1756, "name": "Bhattacharyya distance", "weight": 0.0, "id": 24145651, "level": 2}
+{"count": 802, "name": "Earth mover's distance", "weight": 0.0, "id": 82668687, "level": 2}
+{"count": 32686, "name": "Subspace topology", "weight": 1.0, "id": 32834561, "level": 2}
+{"count": 2109, "name": "Co-occurrence", "weight": 0.0, "id": 154290570, "level": 2}
+{"count": 1711, "name": "Approximate entropy", "weight": 0.0, "id": 86859247, "level": 2}
+{"count": 400, "name": "Multiple factor analysis", "weight": 0.0, "id": 2780624117, "level": 2}
+{"count": 5252, "name": "Generative model", "weight": 0.0, "id": 167966045, "level": 2}
+{"count": 4079, "name": "RANSAC", "weight": 0.0, "id": 114744707, "level": 2}
+{"count": 2534, "name": "Distance measures", "weight": 0.0, "id": 2639959, "level": 2}
+{"count": 8316, "name": "Discriminant", "weight": 0.0, "id": 78397625, "level": 2}
+{"count": 889, "name": "Levenshtein distance", "weight": 0.0, "id": 2777515626, "level": 2}
+{"count": 9511, "name": "Blossom algorithm", "weight": 0.0, "id": 61455927, "level": 2}
+{"count": 2203, "name": "Optimal matching", "weight": 0.0, "id": 123853557, "level": 2}
+{"count": 1348, "name": "Template method pattern", "weight": 0.0, "id": 21305988, "level": 2}
+{"count": 1949, "name": "Domain adaptation", "weight": 0.0, "id": 2776434776, "level": 2}
+{"count": 1243, "name": "Multi-label classification", "weight": 0.0, "id": 2776482837, "level": 2}
+{"count": 356, "name": "Transferable belief model", "weight": 0.0, "id": 2779807306, "level": 2}
+{"count": 5356, "name": "Interpretability", "weight": 0.0, "id": 2781067378, "level": 2}
+{"count": 2389, "name": "Classification rule", "weight": 0.0, "id": 104317236, "level": 2}
+{"count": 3158, "name": "Feature model", "weight": 0.0, "id": 101814296, "level": 2}
+{"count": 3725, "name": "Minimum bounding box", "weight": 0.0, "id": 147037132, "level": 2}
+{"count": 1731, "name": "Sample entropy", "weight": 0.0, "id": 66696666, "level": 2}
+{"count": 2182, "name": "Cosine similarity", "weight": 0.0, "id": 2780762811, "level": 2}
+{"count": 364, "name": "Computational anatomy", "weight": 0.0, "id": 2779350840, "level": 2}
+{"count": 123, "name": "Product of experts", "weight": 0.0, "id": 123757993, "level": 2}
+{"count": 778, "name": "Difference of Gaussians", "weight": 0.0, "id": 170971919, "level": 2}
+{"count": 134, "name": "Steerable pyramid", "weight": 0.0, "id": 75284380, "level": 2}
+{"count": 2328, "name": "Rejection rate", "weight": 0.0, "id": 140685023, "level": 2}
+{"count": 15080, "name": "Test set", "weight": 0.0, "id": 169903167, "level": 2}
+{"count": 1451, "name": "Similarity matrix", "weight": 0.0, "id": 154215950, "level": 2}
+{"count": 1621, "name": "Structured prediction", "weight": 0.0, "id": 22367795, "level": 2}
+{"count": 403, "name": "Maximally stable extremal regions", "weight": 0.0, "id": 85440238, "level": 2}
+{"count": 523, "name": "Instance selection", "weight": 0.0, "id": 2776283888, "level": 2}
+{"count": 911, "name": "Traffic sign recognition", "weight": 0.0, "id": 6528762, "level": 2}
+{"count": 1125, "name": "Pitch contour", "weight": 0.0, "id": 2777895490, "level": 2}
+{"count": 3803, "name": "Random subspace method", "weight": 0.0, "id": 106135958, "level": 2}
+{"count": 422, "name": "Decision list", "weight": 0.0, "id": 89589953, "level": 2}
+{"count": 277, "name": "Superquadrics", "weight": 0.0, "id": 2780084034, "level": 2}
+{"count": 1688, "name": "Step detection", "weight": 0.0, "id": 293773, "level": 2}
+{"count": 936, "name": "Keyword spotting", "weight": 0.0, "id": 2781213101, "level": 2}
+{"count": 868, "name": "Iris flower data set", "weight": 0.0, "id": 33124322, "level": 2}
+{"count": 1321, "name": "Hypersphere", "weight": 0.0, "id": 2776562905, "level": 2}
+{"count": 507, "name": "Dependency relation", "weight": 0.0, "id": 2775853716, "level": 2}
+{"count": 1005, "name": "Visual descriptors", "weight": 0.0, "id": 202514520, "level": 2}
+{"count": 261, "name": "Gaussian pyramid", "weight": 0.0, "id": 37765460, "level": 2}
+{"count": 420, "name": "Shape coding", "weight": 0.0, "id": 2780435667, "level": 2}
+{"count": 2221, "name": "Recursive Bayesian estimation", "weight": 0.0, "id": 40343088, "level": 2}
+{"count": 426, "name": "Cashier's check", "weight": 0.0, "id": 25079594, "level": 2}
+{"count": 371, "name": "Similarity learning", "weight": 0.0, "id": 2779597229, "level": 2}
+{"count": 245, "name": "Landmark point", "weight": 0.0, "id": 2776358111, "level": 2}
+{"count": 195, "name": "Steerable filter", "weight": 0.0, "id": 2780500773, "level": 2}
+{"count": 1595, "name": "Interval tree", "weight": 0.0, "id": 84927040, "level": 2}
+{"count": 3035, "name": "Labeled data", "weight": 0.0, "id": 2776145971, "level": 2}
+{"count": 608, "name": "Binary Independence Model", "weight": 0.0, "id": 37061001, "level": 2}
+{"count": 238, "name": "Class discrimination", "weight": 0.0, "id": 2780343589, "level": 2}
+{"count": 144, "name": "Image derivatives", "weight": 0.0, "id": 2778954464, "level": 2}
+{"count": 105, "name": "Fischer projection", "weight": 0.0, "id": 196309389, "level": 2}
+{"count": 1273, "name": "F1 score", "weight": 0.0, "id": 148524875, "level": 2}
+{"count": 134, "name": "Relaxation labelling", "weight": 0.0, "id": 2776232135, "level": 2}
+{"count": 908, "name": "A priori probability", "weight": 0.0, "id": 163419389, "level": 2}
+{"count": 904, "name": "Local color", "weight": 0.0, "id": 2779255053, "level": 2}
+{"count": 369, "name": "Information distance", "weight": 0.0, "id": 2779709657, "level": 2}
+{"count": 728, "name": "Devanagari", "weight": 0.0, "id": 2780144916, "level": 2}
+{"count": 448, "name": "Image translation", "weight": 0.0, "id": 2779757391, "level": 2}
+{"count": 500, "name": "Spectral centroid", "weight": 0.0, "id": 2568260, "level": 2}
+{"count": 343, "name": "Voice search", "weight": 0.0, "id": 2780947055, "level": 2}
+{"count": 492, "name": "Class variable", "weight": 0.0, "id": 95057223, "level": 2}
+{"count": 344, "name": "Lexical similarity", "weight": 0.0, "id": 2778256537, "level": 2}
+{"count": 286, "name": "Hierarchical temporal memory", "weight": 0.0, "id": 148468957, "level": 2}
+{"count": 114, "name": "Color moments", "weight": 0.0, "id": 2780049045, "level": 2}
+{"count": 2142, "name": "Feature data", "weight": 0.0, "id": 82374871, "level": 2}
+{"count": 197, "name": "Noisy text", "weight": 0.0, "id": 2778252110, "level": 2}
+{"count": 174, "name": "Bark scale", "weight": 0.0, "id": 61505997, "level": 2}
+{"count": 177, "name": "Overlap coefficient", "weight": 0.0, "id": 92474644, "level": 2}
+{"count": 165, "name": "Closing (morphology)", "weight": 0.0, "id": 135623825, "level": 2}
+{"count": 136, "name": "Information projection", "weight": 0.0, "id": 2781181500, "level": 2}
+{"count": 66, "name": "Page orientation", "weight": 0.0, "id": 2776269642, "level": 2}
+{"count": 77, "name": "Form classification", "weight": 0.0, "id": 2776905306, "level": 2}
+{"count": 331, "name": "Simple Features", "weight": 0.0, "id": 82729621, "level": 2}
+{"count": 87, "name": "Nearest neighbour classifiers", "weight": 0.0, "id": 2776505898, "level": 2}
+{"count": 54, "name": "Speech verification", "weight": 0.0, "id": 2777138068, "level": 2}
+{"count": 109, "name": "Data discrimination", "weight": 0.0, "id": 2776860473, "level": 2}
+{"count": 100, "name": "Multitree", "weight": 0.0, "id": 139923344, "level": 2}
+{"count": 16, "name": "Wald\u2013Wolfowitz runs test", "weight": 0.0, "id": 2777704955, "level": 2}
+{"count": 31, "name": "Bird vocalization", "weight": 0.0, "id": 2778313053, "level": 2}
+{"count": 32, "name": "Transition constraint", "weight": 0.0, "id": 2776474303, "level": 2}
+{"count": 26, "name": "Procrustes transformation", "weight": 0.0, "id": 2778409968, "level": 2}
+{"count": 51, "name": "Character orientation", "weight": 0.0, "id": 2781162927, "level": 2}
+{"count": 44, "name": "DSSim", "weight": 0.0, "id": 2777596996, "level": 2}
+{"count": 80, "name": "Log probability", "weight": 0.0, "id": 2780782818, "level": 2}

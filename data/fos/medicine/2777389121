@@ -1,0 +1,40 @@
+{"count": 4444, "name": "Conditioned place preference", "weight": 8.0, "id": 35124327, "level": 3}
+{"count": 4017, "name": "Patient-controlled analgesia", "weight": 7.0, "id": 2776045914, "level": 3}
+{"count": 5123, "name": "Codeine", "weight": 10.0, "id": 2777866328, "level": 3}
+{"count": 4185, "name": "Oxycodone", "weight": 8.0, "id": 2776029756, "level": 3}
+{"count": 1093, "name": "Tail flick test", "weight": 2.0, "id": 52396799, "level": 3}
+{"count": 2401, "name": "Pentazocine", "weight": 4.0, "id": 2780802079, "level": 3}
+{"count": 1919, "name": "Hydromorphone", "weight": 3.0, "id": 2779158186, "level": 3}
+{"count": 519, "name": "Morphine-6-glucuronide", "weight": 1.0, "id": 2780259875, "level": 3}
+{"count": 2486, "name": "Physical dependence", "weight": 4.0, "id": 2778195246, "level": 3}
+{"count": 1312, "name": "Nalbuphine", "weight": 2.0, "id": 2778977083, "level": 3}
+{"count": 524, "name": "Cross-tolerance", "weight": 1.0, "id": 946728, "level": 3}
+{"count": 1572, "name": "Hot plate test", "weight": 3.0, "id": 197711040, "level": 3}
+{"count": 874, "name": "Nalorphine", "weight": 1.0, "id": 2776657501, "level": 3}
+{"count": 566, "name": "Levorphanol", "weight": 1.0, "id": 2779248205, "level": 3}
+{"count": 1087, "name": "Thebaine", "weight": 2.0, "id": 2776369090, "level": 3}
+{"count": 385, "name": "Ziconotide", "weight": 0.0, "id": 2777114647, "level": 3}
+{"count": 358, "name": "Levallorphan", "weight": 0.0, "id": 2778241590, "level": 3}
+{"count": 110, "name": "Etonitazene", "weight": 0.0, "id": 2780652125, "level": 3}
+{"count": 354, "name": "Normorphine", "weight": 0.0, "id": 2777677868, "level": 3}
+{"count": 153, "name": "Ketobemidone", "weight": 0.0, "id": 2778517144, "level": 3}
+{"count": 1072, "name": "Epidural administration", "weight": 2.0, "id": 2777610700, "level": 3}
+{"count": 130, "name": "Dihydroetorphine", "weight": 0.0, "id": 2780373087, "level": 3}
+{"count": 47, "name": "Nicomorphine", "weight": 0.0, "id": 2780297221, "level": 3}
+{"count": 169, "name": "Randall\u2013Selitto test", "weight": 0.0, "id": 97210371, "level": 3}
+{"count": 180, "name": "Codeinone", "weight": 0.0, "id": 2780367801, "level": 3}
+{"count": 21, "name": "Sameridine", "weight": 0.0, "id": 2780777456, "level": 3}
+{"count": 58, "name": "Pseudomorphine", "weight": 0.0, "id": 2776248526, "level": 3}
+{"count": 43, "name": "Azidomorphine", "weight": 0.0, "id": 2778601573, "level": 3}
+{"count": 347, "name": "Equianalgesic", "weight": 0.0, "id": 2778517885, "level": 3}
+{"count": 42, "name": "Metopon", "weight": 0.0, "id": 2776180968, "level": 3}
+{"count": 71, "name": "Anileridine", "weight": 0.0, "id": 2780426396, "level": 3}
+{"count": 68, "name": "Continuous wound infiltration", "weight": 0.0, "id": 2780030215, "level": 3}
+{"count": 31, "name": "Viminol", "weight": 0.0, "id": 2778659929, "level": 3}
+{"count": 14, "name": "Racemorphan", "weight": 0.0, "id": 2780819004, "level": 3}
+{"count": 10, "name": "Oxymorphazone", "weight": 0.0, "id": 2776153048, "level": 3}
+{"count": 24, "name": "Naloxol", "weight": 0.0, "id": 2778108268, "level": 3}
+{"count": 7, "name": "Morphine-N-oxide", "weight": 0.0, "id": 2779845386, "level": 3}
+{"count": 65, "name": "Amiphenazole", "weight": 0.0, "id": 2778311271, "level": 3}
+{"count": 24, "name": "Isomethadone", "weight": 0.0, "id": 2777940012, "level": 3}
+{"count": 13, "name": "Piminodine", "weight": 0.0, "id": 2779353804, "level": 3}

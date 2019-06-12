@@ -1,0 +1,200 @@
+{"count": 266146, "name": "Sediment", "weight": 10.0, "id": 2816523, "level": 2}
+{"count": 13303, "name": "Degradation (geology)", "weight": 0.0, "id": 150322381, "level": 2}
+{"count": 94885, "name": "Grain size", "weight": 3.0, "id": 192191005, "level": 2}
+{"count": 119376, "name": "Erosion", "weight": 4.0, "id": 123157820, "level": 2}
+{"count": 97173, "name": "Sedimentary rock", "weight": 3.0, "id": 6494504, "level": 2}
+{"count": 125401, "name": "Drainage basin", "weight": 4.0, "id": 126645576, "level": 2}
+{"count": 41724, "name": "Sea level", "weight": 1.0, "id": 74501621, "level": 2}
+{"count": 43374, "name": "Quaternary", "weight": 1.0, "id": 160464908, "level": 2}
+{"count": 26731, "name": "Residence time", "weight": 1.0, "id": 129065203, "level": 2}
+{"count": 95417, "name": "Tectonics", "weight": 3.0, "id": 77928131, "level": 2}
+{"count": 32214, "name": "Igneous rock", "weight": 1.0, "id": 42787717, "level": 2}
+{"count": 40354, "name": "Stratigraphy", "weight": 1.0, "id": 109281948, "level": 2}
+{"count": 19301, "name": "Cenozoic", "weight": 0.0, "id": 73707237, "level": 2}
+{"count": 31890, "name": "Volcanic rock", "weight": 1.0, "id": 192241223, "level": 2}
+{"count": 39972, "name": "Subduction", "weight": 1.0, "id": 58097730, "level": 2}
+{"count": 6325, "name": "Phanerozoic", "weight": 0.0, "id": 167570900, "level": 2}
+{"count": 49149, "name": "Holocene", "weight": 1.0, "id": 140345934, "level": 2}
+{"count": 35533, "name": "Continental shelf", "weight": 1.0, "id": 184751465, "level": 2}
+{"count": 18194, "name": "Plate tectonics", "weight": 0.0, "id": 119477230, "level": 2}
+{"count": 86795, "name": "Snow", "weight": 3.0, "id": 197046000, "level": 2}
+{"count": 70973, "name": "Frost (temperature)", "weight": 2.0, "id": 4988496, "level": 2}
+{"count": 23343, "name": "Ice sheet", "weight": 0.0, "id": 123750103, "level": 2}
+{"count": 17644, "name": "Magmatism", "weight": 0.0, "id": 162973429, "level": 2}
+{"count": 24272, "name": "Telmatology", "weight": 0.0, "id": 2776867696, "level": 2}
+{"count": 35316, "name": "Weathering", "weight": 1.0, "id": 40724407, "level": 2}
+{"count": 22901, "name": "Continental margin", "weight": 0.0, "id": 201867031, "level": 2}
+{"count": 17412, "name": "Continental crust", "weight": 0.0, "id": 141646446, "level": 2}
+{"count": 16627, "name": "Oceanic crust", "weight": 0.0, "id": 154200439, "level": 2}
+{"count": 45664, "name": "Compaction", "weight": 1.0, "id": 196715460, "level": 2}
+{"count": 43216, "name": "Basalt", "weight": 1.0, "id": 161509811, "level": 2}
+{"count": 42891, "name": "Pleistocene", "weight": 1.0, "id": 53570757, "level": 2}
+{"count": 12306, "name": "Ice core", "weight": 0.0, "id": 205325660, "level": 2}
+{"count": 18788, "name": "Radiocarbon dating", "weight": 0.0, "id": 100134115, "level": 2}
+{"count": 45083, "name": "Landslide", "weight": 1.0, "id": 186295008, "level": 2}
+{"count": 70604, "name": "Volcano", "weight": 2.0, "id": 120806208, "level": 2}
+{"count": 34135, "name": "Glacier", "weight": 1.0, "id": 100834320, "level": 2}
+{"count": 27711, "name": "Paleozoic", "weight": 1.0, "id": 13106087, "level": 2}
+{"count": 45524, "name": "Glacial period", "weight": 1.0, "id": 15739521, "level": 2}
+{"count": 16404, "name": "Shear zone", "weight": 0.0, "id": 23295444, "level": 2}
+{"count": 28175, "name": "Floodplain", "weight": 1.0, "id": 155681218, "level": 2}
+{"count": 15043, "name": "Neogene", "weight": 0.0, "id": 27492601, "level": 2}
+{"count": 58522, "name": "Cretaceous", "weight": 2.0, "id": 12294951, "level": 2}
+{"count": 21310, "name": "Provenance", "weight": 0.0, "id": 2780049196, "level": 2}
+{"count": 16165, "name": "Biostratigraphy", "weight": 0.0, "id": 61721801, "level": 2}
+{"count": 18131, "name": "Slope stability", "weight": 0.0, "id": 110069353, "level": 2}
+{"count": 21228, "name": "Petroleum reservoir", "weight": 0.0, "id": 113215200, "level": 2}
+{"count": 33653, "name": "Metamorphic rock", "weight": 1.0, "id": 26687426, "level": 2}
+{"count": 29453, "name": "Diagenesis", "weight": 1.0, "id": 130452526, "level": 2}
+{"count": 7597, "name": "Paleoecology", "weight": 0.0, "id": 177882397, "level": 2}
+{"count": 8178, "name": "Structural geology", "weight": 0.0, "id": 7251660, "level": 2}
+{"count": 16489, "name": "Precambrian", "weight": 0.0, "id": 173776410, "level": 2}
+{"count": 25774, "name": "Impact crater", "weight": 0.0, "id": 179537507, "level": 2}
+{"count": 27845, "name": "Subsidence", "weight": 1.0, "id": 180851071, "level": 2}
+{"count": 13222, "name": "Coastal plain", "weight": 0.0, "id": 185734153, "level": 2}
+{"count": 11345, "name": "Geochronology", "weight": 0.0, "id": 202746551, "level": 2}
+{"count": 17988, "name": "Bathymetry", "weight": 0.0, "id": 174943157, "level": 2}
+{"count": 50816, "name": "Crust", "weight": 1.0, "id": 2776698055, "level": 2}
+{"count": 3748, "name": "Geologic time scale", "weight": 0.0, "id": 107385308, "level": 2}
+{"count": 12848, "name": "Paleomagnetism", "weight": 0.0, "id": 189479680, "level": 2}
+{"count": 28117, "name": "Rift", "weight": 1.0, "id": 50682988, "level": 2}
+{"count": 28309, "name": "Zircon", "weight": 1.0, "id": 2778849375, "level": 2}
+{"count": 12332, "name": "Pluton", "weight": 0.0, "id": 34122518, "level": 2}
+{"count": 18441, "name": "Permafrost", "weight": 0.0, "id": 15098985, "level": 2}
+{"count": 64734, "name": "Shore", "weight": 2.0, "id": 152382732, "level": 2}
+{"count": 20426, "name": "Alluvium", "weight": 0.0, "id": 69823785, "level": 2}
+{"count": 9011, "name": "Late Miocene", "weight": 0.0, "id": 2779421809, "level": 2}
+{"count": 30989, "name": "Debris", "weight": 1.0, "id": 2776023875, "level": 2}
+{"count": 41554, "name": "Fault (geology)", "weight": 1.0, "id": 175551986, "level": 2}
+{"count": 27498, "name": "Metamorphism", "weight": 1.0, "id": 112764850, "level": 2}
+{"count": 18091, "name": "Dolomite", "weight": 0.0, "id": 2780181037, "level": 2}
+{"count": 16387, "name": "Aeolian processes", "weight": 0.0, "id": 180093795, "level": 2}
+{"count": 23844, "name": "Loess", "weight": 0.0, "id": 185515318, "level": 2}
+{"count": 28129, "name": "Karst", "weight": 1.0, "id": 182348080, "level": 2}
+{"count": 36177, "name": "Abrasion (geology)", "weight": 1.0, "id": 165955148, "level": 2}
+{"count": 5484, "name": "Fission track dating", "weight": 0.0, "id": 92217149, "level": 2}
+{"count": 13727, "name": "Archean", "weight": 0.0, "id": 149347711, "level": 2}
+{"count": 10012, "name": "Sedimentology", "weight": 0.0, "id": 104873425, "level": 2}
+{"count": 16758, "name": "Seafloor spreading", "weight": 0.0, "id": 117485682, "level": 2}
+{"count": 18136, "name": "Carboniferous", "weight": 0.0, "id": 149918038, "level": 2}
+{"count": 13807, "name": "Gneiss", "weight": 0.0, "id": 171701179, "level": 2}
+{"count": 30055, "name": "Lithology", "weight": 1.0, "id": 122792734, "level": 2}
+{"count": 20636, "name": "Calcareous", "weight": 0.0, "id": 123552892, "level": 2}
+{"count": 15683, "name": "Levee", "weight": 0.0, "id": 115038398, "level": 2}
+{"count": 21599, "name": "Bedrock", "weight": 0.0, "id": 137527640, "level": 2}
+{"count": 8209, "name": "Sand dune stabilization", "weight": 0.0, "id": 167110946, "level": 2}
+{"count": 17168, "name": "Proxy (climate)", "weight": 0.0, "id": 106166403, "level": 2}
+{"count": 20852, "name": "Devonian", "weight": 0.0, "id": 107832698, "level": 2}
+{"count": 5756, "name": "Exfoliation joint", "weight": 0.0, "id": 129162502, "level": 2}
+{"count": 13592, "name": "Proterozoic", "weight": 0.0, "id": 93033518, "level": 2}
+{"count": 14206, "name": "Dike", "weight": 0.0, "id": 83893233, "level": 2}
+{"count": 4328, "name": "Ice calving", "weight": 0.0, "id": 22641795, "level": 2}
+{"count": 10219, "name": "Breccia", "weight": 0.0, "id": 62074269, "level": 2}
+{"count": 11046, "name": "Marine transgression", "weight": 0.0, "id": 77271252, "level": 2}
+{"count": 11176, "name": "Breakwater", "weight": 0.0, "id": 25282124, "level": 2}
+{"count": 6050, "name": "Taphonomy", "weight": 0.0, "id": 10277891, "level": 2}
+{"count": 16453, "name": "Landform", "weight": 0.0, "id": 108497213, "level": 2}
+{"count": 18323, "name": "Ordovician", "weight": 0.0, "id": 91442348, "level": 2}
+{"count": 21033, "name": "Fold (geology)", "weight": 0.0, "id": 182916426, "level": 2}
+{"count": 11143, "name": "Basement", "weight": 0.0, "id": 2781297371, "level": 2}
+{"count": 8275, "name": "Gondwana", "weight": 0.0, "id": 2781148125, "level": 2}
+{"count": 14136, "name": "Terrane", "weight": 0.0, "id": 150999391, "level": 2}
+{"count": 13380, "name": "Meander", "weight": 0.0, "id": 102950494, "level": 2}
+{"count": 66868, "name": "Plateau", "weight": 2.0, "id": 82507290, "level": 2}
+{"count": 5917, "name": "Fjord", "weight": 0.0, "id": 135310875, "level": 2}
+{"count": 5293, "name": "Coastal management", "weight": 0.0, "id": 2778900803, "level": 2}
+{"count": 140434, "name": "Inlet", "weight": 5.0, "id": 201289731, "level": 2}
+{"count": 9504, "name": "Ophiolite", "weight": 0.0, "id": 23923706, "level": 2}
+{"count": 15525, "name": "Craton", "weight": 0.0, "id": 147717901, "level": 2}
+{"count": 13044, "name": "Cementation (geology)", "weight": 0.0, "id": 94556721, "level": 2}
+{"count": 6697, "name": "Seamount", "weight": 0.0, "id": 135559958, "level": 2}
+{"count": 2131, "name": "Chronostratigraphy", "weight": 0.0, "id": 192797867, "level": 2}
+{"count": 5739, "name": "Oceanic basin", "weight": 0.0, "id": 20364790, "level": 2}
+{"count": 4280, "name": "Pumice", "weight": 0.0, "id": 75268469, "level": 2}
+{"count": 428, "name": "SWEAT", "weight": 0.0, "id": 63398376, "level": 2}
+{"count": 6590, "name": "Lamination (geology)", "weight": 0.0, "id": 177841897, "level": 2}
+{"count": 4291, "name": "Trace fossil", "weight": 0.0, "id": 160937034, "level": 2}
+{"count": 3857, "name": "Barrier island", "weight": 0.0, "id": 182393718, "level": 2}
+{"count": 198436, "name": "Structural basin", "weight": 7.0, "id": 109007969, "level": 2}
+{"count": 2386, "name": "Mud volcano", "weight": 0.0, "id": 90137607, "level": 2}
+{"count": 22630, "name": "Canyon", "weight": 0.0, "id": 84859931, "level": 2}
+{"count": 13826, "name": "Surge", "weight": 0.0, "id": 154108245, "level": 2}
+{"count": 11774, "name": "Sill", "weight": 0.0, "id": 40201923, "level": 2}
+{"count": 9157, "name": "Nappe", "weight": 0.0, "id": 153220577, "level": 2}
+{"count": 19125, "name": "Geologic map", "weight": 0.0, "id": 82586738, "level": 2}
+{"count": 3269, "name": "Desert climate", "weight": 0.0, "id": 14400755, "level": 2}
+{"count": 3791, "name": "Coastal engineering", "weight": 0.0, "id": 2777554443, "level": 2}
+{"count": 26987, "name": "Tributary", "weight": 1.0, "id": 16828302, "level": 2}
+{"count": 3710, "name": "Isotope geochemistry", "weight": 0.0, "id": 165349299, "level": 2}
+{"count": 64005, "name": "Ridge", "weight": 2.0, "id": 32277403, "level": 2}
+{"count": 1646, "name": "Cold seep", "weight": 0.0, "id": 135463653, "level": 2}
+{"count": 22552, "name": "Outcrop", "weight": 0.0, "id": 169212394, "level": 2}
+{"count": 10974, "name": "Shear velocity", "weight": 0.0, "id": 94656876, "level": 2}
+{"count": 5794, "name": "Anhydrite", "weight": 0.0, "id": 2776044767, "level": 2}
+{"count": 6309, "name": "Marl", "weight": 0.0, "id": 92927620, "level": 2}
+{"count": 1307, "name": "Milankovitch cycles", "weight": 0.0, "id": 178100555, "level": 2}
+{"count": 1770, "name": "Continental drift", "weight": 0.0, "id": 172578880, "level": 2}
+{"count": 4058, "name": "Alluvial plain", "weight": 0.0, "id": 47568318, "level": 2}
+{"count": 9382, "name": "Shoal", "weight": 0.0, "id": 83877588, "level": 2}
+{"count": 2092, "name": "Paleoceanography", "weight": 0.0, "id": 11864286, "level": 2}
+{"count": 1091, "name": "Isochron dating", "weight": 0.0, "id": 46381822, "level": 2}
+{"count": 3346, "name": "Halite", "weight": 0.0, "id": 2781113784, "level": 2}
+{"count": 3630, "name": "Avulsion", "weight": 0.0, "id": 37754001, "level": 2}
+{"count": 1072, "name": "Fossil wood", "weight": 0.0, "id": 89986902, "level": 2}
+{"count": 3994, "name": "Bank", "weight": 0.0, "id": 146278227, "level": 2}
+{"count": 2078, "name": "Marine geology", "weight": 0.0, "id": 28115305, "level": 2}
+{"count": 3385, "name": "Lineation", "weight": 0.0, "id": 98742433, "level": 2}
+{"count": 1872, "name": "Geoarchaeology", "weight": 0.0, "id": 18065371, "level": 2}
+{"count": 2909, "name": "Mountaineering", "weight": 0.0, "id": 49585166, "level": 2}
+{"count": 5766, "name": "Slump", "weight": 0.0, "id": 45291354, "level": 2}
+{"count": 663, "name": "Tetrapod (structure)", "weight": 0.0, "id": 42498943, "level": 2}
+{"count": 1384, "name": "Sapropel", "weight": 0.0, "id": 2780370087, "level": 2}
+{"count": 9353, "name": "Ice age", "weight": 0.0, "id": 39996641, "level": 2}
+{"count": 3549, "name": "Rift valley", "weight": 0.0, "id": 2778697265, "level": 2}
+{"count": 4332, "name": "Flysch", "weight": 0.0, "id": 2779452743, "level": 2}
+{"count": 5814, "name": "Batholith", "weight": 0.0, "id": 172660882, "level": 2}
+{"count": 2677, "name": "Salt dome", "weight": 0.0, "id": 107729992, "level": 2}
+{"count": 4450, "name": "Chevron (geology)", "weight": 0.0, "id": 178820457, "level": 2}
+{"count": 2070, "name": "Baltica", "weight": 0.0, "id": 2777040169, "level": 2}
+{"count": 17521, "name": "River delta", "weight": 0.0, "id": 135114317, "level": 2}
+{"count": 1264, "name": "Slumping", "weight": 0.0, "id": 50050167, "level": 2}
+{"count": 4343, "name": "Diorite", "weight": 0.0, "id": 33757491, "level": 2}
+{"count": 2149, "name": "Ravine", "weight": 0.0, "id": 65340099, "level": 2}
+{"count": 4913, "name": "Fracture zone", "weight": 0.0, "id": 2778677506, "level": 2}
+{"count": 1311, "name": "Trafficability", "weight": 0.0, "id": 2780646005, "level": 2}
+{"count": 5735, "name": "\u03b418O", "weight": 0.0, "id": 69384203, "level": 2}
+{"count": 3724, "name": "Butte", "weight": 0.0, "id": 167391731, "level": 2}
+{"count": 1238, "name": "Concretion", "weight": 0.0, "id": 2776117905, "level": 2}
+{"count": 1017, "name": "Imbrication", "weight": 0.0, "id": 2780802278, "level": 2}
+{"count": 2424, "name": "Plucking", "weight": 0.0, "id": 103913367, "level": 2}
+{"count": 97, "name": "Ar\u00eate", "weight": 0.0, "id": 2780418663, "level": 2}
+{"count": 1387, "name": "Tufa", "weight": 0.0, "id": 146596784, "level": 2}
+{"count": 3157, "name": "Moulin", "weight": 0.0, "id": 2776703049, "level": 2}
+{"count": 5382, "name": "Horst", "weight": 0.0, "id": 2776074449, "level": 2}
+{"count": 1656, "name": "Glauconite", "weight": 0.0, "id": 2776386860, "level": 2}
+{"count": 1908, "name": "Metallogeny", "weight": 0.0, "id": 119127063, "level": 2}
+{"count": 1406, "name": "Stromatolite", "weight": 0.0, "id": 2781119444, "level": 2}
+{"count": 8876, "name": "Mountain range", "weight": 0.0, "id": 115131309, "level": 2}
+{"count": 438, "name": "Sedimentary Geology", "weight": 0.0, "id": 2779176636, "level": 2}
+{"count": 2404, "name": "Berm", "weight": 0.0, "id": 158048082, "level": 2}
+{"count": 862, "name": "Pangaea", "weight": 0.0, "id": 2779614968, "level": 2}
+{"count": 930, "name": "Mountain stream", "weight": 0.0, "id": 2778755839, "level": 2}
+{"count": 1333, "name": "Rock fragment", "weight": 0.0, "id": 135224663, "level": 2}
+{"count": 1106, "name": "Residuum", "weight": 0.0, "id": 2776882590, "level": 2}
+{"count": 5866, "name": "Pebble", "weight": 0.0, "id": 2777760186, "level": 2}
+{"count": 702, "name": "K\u2013Ar dating", "weight": 0.0, "id": 21285366, "level": 2}
+{"count": 785, "name": "Historical geology", "weight": 0.0, "id": 194962172, "level": 2}
+{"count": 1572, "name": "Stratotype", "weight": 0.0, "id": 62476579, "level": 2}
+{"count": 6738, "name": "Vertical displacement", "weight": 0.0, "id": 2780759522, "level": 2}
+{"count": 2680, "name": "Firth", "weight": 0.0, "id": 2778371416, "level": 2}
+{"count": 2010, "name": "Coastal hazards", "weight": 0.0, "id": 39463204, "level": 2}
+{"count": 6539, "name": "Series (stratigraphy)", "weight": 0.0, "id": 143724316, "level": 2}
+{"count": 6698, "name": "Cliff", "weight": 0.0, "id": 164139821, "level": 2}
+{"count": 4393, "name": "Wadi", "weight": 0.0, "id": 200965112, "level": 2}
+{"count": 5537, "name": "Fetch", "weight": 0.0, "id": 131918245, "level": 2}
+{"count": 502, "name": "Accretionary complex", "weight": 0.0, "id": 2778621330, "level": 2}
+{"count": 1355, "name": "Country rock", "weight": 0.0, "id": 2779200986, "level": 2}
+{"count": 1901, "name": "Seawall", "weight": 0.0, "id": 2778393890, "level": 2}
+{"count": 800, "name": "Solifluction", "weight": 0.0, "id": 94279707, "level": 2}
+{"count": 12800, "name": "Rake", "weight": 0.0, "id": 2778855872, "level": 2}
+{"count": 22622, "name": "Massif", "weight": 0.0, "id": 160776313, "level": 2}

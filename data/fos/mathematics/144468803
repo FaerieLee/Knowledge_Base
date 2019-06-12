@@ -1,0 +1,9 @@
+{"count": 3844, "name": "Spectral element method", "weight": 4.0, "id": 38961997, "level": 4}
+{"count": 5098, "name": "Method of fundamental solutions", "weight": 5.0, "id": 48395688, "level": 4}
+{"count": 8567, "name": "Smoothed finite element method", "weight": 9.0, "id": 177605945, "level": 4}
+{"count": 820, "name": "Mortar methods", "weight": 0.0, "id": 97110765, "level": 4}
+{"count": 8933, "name": "Finite element limit analysis", "weight": 10.0, "id": 93949632, "level": 4}
+{"count": 72, "name": "Finite element exterior calculus", "weight": 0.0, "id": 2778372253, "level": 4}
+{"count": 154, "name": "Interval finite element", "weight": 0.0, "id": 2776456455, "level": 4}
+{"count": 16, "name": "Hu Washizu principle", "weight": 0.0, "id": 2779150516, "level": 4}
+{"count": 2124, "name": "Finite volume method for one-dimensional steady state diffusion", "weight": 2.0, "id": 85405225, "level": 4}

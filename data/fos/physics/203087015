@@ -1,0 +1,14 @@
+{"count": 3933, "name": "Quantum gate", "weight": 6.0, "id": 58849907, "level": 3}
+{"count": 5656, "name": "Quantum teleportation", "weight": 10.0, "id": 91717678, "level": 3}
+{"count": 3078, "name": "Cluster state", "weight": 5.0, "id": 158456648, "level": 3}
+{"count": 627, "name": "Bloch sphere", "weight": 1.0, "id": 136277988, "level": 3}
+{"count": 761, "name": "Qutrit", "weight": 1.0, "id": 56085360, "level": 3}
+{"count": 2710, "name": "Flux qubit", "weight": 4.0, "id": 109546105, "level": 3}
+{"count": 632, "name": "Dynamical decoupling", "weight": 1.0, "id": 2778476455, "level": 3}
+{"count": 182, "name": "Quantum register", "weight": 0.0, "id": 2777813873, "level": 3}
+{"count": 179, "name": "Werner state", "weight": 0.0, "id": 2776905296, "level": 3}
+{"count": 3348, "name": "Phase qubit", "weight": 5.0, "id": 73214911, "level": 3}
+{"count": 97, "name": "Pauli group", "weight": 0.0, "id": 2781040351, "level": 3}
+{"count": 2981, "name": "Superconducting quantum computing", "weight": 5.0, "id": 119382340, "level": 3}
+{"count": 23, "name": "Kane quantum computer", "weight": 0.0, "id": 2780868203, "level": 3}
+{"count": 2418, "name": "Trapped ion quantum computer", "weight": 4.0, "id": 183968085, "level": 3}

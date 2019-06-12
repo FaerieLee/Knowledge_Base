@@ -1,0 +1,12 @@
+{"count": 11445, "name": "Viscoplasticity", "weight": 10.0, "id": 55359492, "level": 3}
+{"count": 6225, "name": "Hyperelastic material", "weight": 5.0, "id": 147370603, "level": 3}
+{"count": 161, "name": "Clausius\u2013Duhem inequality", "weight": 0.0, "id": 144469835, "level": 3}
+{"count": 461, "name": "Mullins effect", "weight": 0.0, "id": 2777700800, "level": 3}
+{"count": 156, "name": "Oldroyd-B model", "weight": 0.0, "id": 2778541283, "level": 3}
+{"count": 1249, "name": "Stress space", "weight": 1.0, "id": 2781314585, "level": 3}
+{"count": 498, "name": "Critical state soil mechanics", "weight": 0.0, "id": 50454708, "level": 3}
+{"count": 110, "name": "Upper-convected Maxwell model", "weight": 0.0, "id": 2778684796, "level": 3}
+{"count": 131, "name": "Cauchy\u2013Born rule", "weight": 0.0, "id": 2775971640, "level": 3}
+{"count": 15, "name": "Objective stress rates", "weight": 0.0, "id": 129623567, "level": 3}
+{"count": 1753, "name": "Cauchy elastic material", "weight": 1.0, "id": 72746482, "level": 3}
+{"count": 422, "name": "Rock mass plasticity", "weight": 0.0, "id": 166951709, "level": 3}

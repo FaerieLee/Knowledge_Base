@@ -1,0 +1,24 @@
+{"count": 28235, "name": "Bioenergy", "weight": 10.0, "id": 156380964, "level": 4}
+{"count": 18494, "name": "Ethanol fuel", "weight": 6.0, "id": 65183824, "level": 4}
+{"count": 5766, "name": "Biorefinery", "weight": 2.0, "id": 2780301381, "level": 4}
+{"count": 8292, "name": "Lignocellulosic biomass", "weight": 2.0, "id": 2778234585, "level": 4}
+{"count": 7178, "name": "Renewable fuels", "weight": 2.0, "id": 52208190, "level": 4}
+{"count": 1774, "name": "Bioproducts", "weight": 0.0, "id": 2780430855, "level": 4}
+{"count": 1076, "name": "Hydrothermal liquefaction", "weight": 0.0, "id": 2779276218, "level": 4}
+{"count": 1223, "name": "Algae fuel", "weight": 0.0, "id": 159403789, "level": 4}
+{"count": 2319, "name": "Vegetable oil refining", "weight": 0.0, "id": 175461058, "level": 4}
+{"count": 255, "name": "Raceway pond", "weight": 0.0, "id": 2778471712, "level": 4}
+{"count": 184, "name": "Neochloris oleoabundans", "weight": 0.0, "id": 2776133401, "level": 4}
+{"count": 38, "name": "Algaculture", "weight": 0.0, "id": 526797001, "level": 4}
+{"count": 164, "name": "Low-carbon fuel standard", "weight": 0.0, "id": 2777351703, "level": 4}
+{"count": 2741, "name": "Biomass to liquid", "weight": 0.0, "id": 169031021, "level": 4}
+{"count": 206, "name": "Enzymatic biofuel cell", "weight": 0.0, "id": 2780310611, "level": 4}
+{"count": 194, "name": "Energy Independence and Security Act of 2007", "weight": 0.0, "id": 2779745812, "level": 4}
+{"count": 94, "name": "Biogasoline", "weight": 0.0, "id": 2779610122, "level": 4}
+{"count": 69, "name": "Food vs. fuel", "weight": 0.0, "id": 2779037140, "level": 4}
+{"count": 104, "name": "Bioliquids", "weight": 0.0, "id": 2777895831, "level": 4}
+{"count": 69, "name": "Cellulosic sugars", "weight": 0.0, "id": 2777746857, "level": 4}
+{"count": 200, "name": "Algae bioreactor", "weight": 0.0, "id": 185220729, "level": 4}
+{"count": 21, "name": "Renewable Transport Fuel Obligation", "weight": 0.0, "id": 2779574278, "level": 4}
+{"count": 19, "name": "Gasoline gallon equivalent", "weight": 0.0, "id": 2776492541, "level": 4}
+{"count": 244, "name": "Culture of microalgae in hatcheries", "weight": 0.0, "id": 121658183, "level": 4}

@@ -1,0 +1,14 @@
+{"count": 16891, "name": "Heuristic (computer science)", "weight": 10.0, "id": 184783062, "level": 3}
+{"count": 691, "name": "Heuristic function", "weight": 0.0, "id": 34521246, "level": 3}
+{"count": 597, "name": "Arc routing", "weight": 0.0, "id": 2778536092, "level": 3}
+{"count": 291, "name": "Recognition heuristic", "weight": 0.0, "id": 175285421, "level": 3}
+{"count": 107, "name": "Simulation heuristic", "weight": 0.0, "id": 132983000, "level": 3}
+{"count": 330, "name": "Berth allocation problem", "weight": 0.0, "id": 2781148032, "level": 3}
+{"count": 56, "name": "Very large-scale neighborhood search", "weight": 0.0, "id": 2780663532, "level": 3}
+{"count": 48, "name": "Attribute substitution", "weight": 0.0, "id": 2781100651, "level": 3}
+{"count": 26, "name": "Take-the-best heuristic", "weight": 0.0, "id": 2775946569, "level": 3}
+{"count": 52, "name": "Satplan", "weight": 0.0, "id": 2777252908, "level": 3}
+{"count": 19, "name": "Silver\u2013Meal heuristic", "weight": 0.0, "id": 2778194018, "level": 3}
+{"count": 14, "name": "Gaze heuristic", "weight": 0.0, "id": 70115070, "level": 3}
+{"count": 15, "name": "Vehicle rescheduling problem", "weight": 0.0, "id": 2778977669, "level": 3}
+{"count": 27, "name": "Poisson clumping", "weight": 0.0, "id": 2779536049, "level": 3}

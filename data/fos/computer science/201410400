@@ -1,0 +1,5 @@
+{"count": 754, "name": "Simultaneous multithreading", "weight": 8.0, "id": 85717602, "level": 4}
+{"count": 875, "name": "Speculative multithreading", "weight": 10.0, "id": 15296174, "level": 4}
+{"count": 74, "name": "Cray XMT", "weight": 0.0, "id": 2778211725, "level": 4}
+{"count": 483, "name": "Temporal multithreading", "weight": 5.0, "id": 155719170, "level": 4}
+{"count": 262, "name": "Super-threading", "weight": 3.0, "id": 172114534, "level": 4}

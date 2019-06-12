@@ -1,0 +1,12 @@
+{"count": 669, "name": "Substitution-permutation network", "weight": 6.0, "id": 110060973, "level": 5}
+{"count": 301, "name": "International Data Encryption Algorithm", "weight": 2.0, "id": 114151532, "level": 5}
+{"count": 221, "name": "Galois/Counter Mode", "weight": 2.0, "id": 64918421, "level": 5}
+{"count": 198, "name": "Tiny Encryption Algorithm", "weight": 1.0, "id": 169329136, "level": 5}
+{"count": 1056, "name": "Ciphertext stealing", "weight": 10.0, "id": 134845542, "level": 5}
+{"count": 90, "name": "Content Scramble System", "weight": 0.0, "id": 86645113, "level": 5}
+{"count": 311, "name": "Rail fence cipher", "weight": 2.0, "id": 90645967, "level": 5}
+{"count": 431, "name": "Key whitening", "weight": 4.0, "id": 200909587, "level": 5}
+{"count": 234, "name": "Null cipher", "weight": 2.0, "id": 174087202, "level": 5}
+{"count": 593, "name": "Residual block termination", "weight": 5.0, "id": 142277463, "level": 5}
+{"count": 12, "name": "CWC mode", "weight": 0.0, "id": 195501074, "level": 5}
+{"count": 64, "name": "Rip van Winkle cipher", "weight": 0.0, "id": 199494038, "level": 5}

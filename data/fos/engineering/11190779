@@ -1,0 +1,12 @@
+{"count": 3750, "name": "Space vector modulation", "weight": 4.0, "id": 57917881, "level": 4}
+{"count": 5275, "name": "Resonant inverter", "weight": 6.0, "id": 115403611, "level": 4}
+{"count": 1406, "name": "Z-source inverter", "weight": 1.0, "id": 2776327661, "level": 4}
+{"count": 877, "name": "Overmodulation", "weight": 1.0, "id": 3099160, "level": 4}
+{"count": 3332, "name": "H bridge", "weight": 4.0, "id": 2778512005, "level": 4}
+{"count": 288, "name": "AC module", "weight": 0.0, "id": 2777568118, "level": 4}
+{"count": 2161, "name": "Power inverter", "weight": 2.0, "id": 2777042010, "level": 4}
+{"count": 7726, "name": "Grid-tie inverter", "weight": 10.0, "id": 35398282, "level": 4}
+{"count": 209, "name": "Inverter compressor", "weight": 0.0, "id": 2776133242, "level": 4}
+{"count": 880, "name": "FO4", "weight": 1.0, "id": 147311701, "level": 4}
+{"count": 44, "name": "Transistor fault", "weight": 0.0, "id": 2779047155, "level": 4}
+{"count": 18, "name": "Air conditioner inverter", "weight": 0.0, "id": 2780807432, "level": 4}

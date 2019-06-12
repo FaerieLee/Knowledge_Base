@@ -1,0 +1,5 @@
+{"count": 1917, "name": "Variable neighborhood search", "weight": 4.0, "id": 2776435737, "level": 3}
+{"count": 3957, "name": "Artificial bee colony algorithm", "weight": 10.0, "id": 97133563, "level": 3}
+{"count": 3639, "name": "Guided Local Search", "weight": 9.0, "id": 90189156, "level": 3}
+{"count": 145, "name": "Great Deluge algorithm", "weight": 0.0, "id": 2777761721, "level": 3}
+{"count": 41, "name": "Paradiseo", "weight": 0.0, "id": 2777593402, "level": 3}

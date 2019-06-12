@@ -1,0 +1,5 @@
+{"count": 1697, "name": "NOR gate", "weight": 10.0, "id": 126445297, "level": 3}
+{"count": 1062, "name": "NAND logic", "weight": 6.0, "id": 7234692, "level": 3}
+{"count": 274, "name": "Write amplification", "weight": 1.0, "id": 2779026995, "level": 3}
+{"count": 1123, "name": "XNOR gate", "weight": 6.0, "id": 57684291, "level": 3}
+{"count": 1126, "name": "Charge trap flash", "weight": 6.0, "id": 100780047, "level": 3}

@@ -1,0 +1,47 @@
+{"count": 27734, "name": "Interferon gamma", "weight": 10.0, "id": 2780841837, "level": 3}
+{"count": 25374, "name": "Interleukin 10", "weight": 9.0, "id": 187316574, "level": 3}
+{"count": 18930, "name": "Interleukin 4", "weight": 6.0, "id": 191732599, "level": 3}
+{"count": 17463, "name": "Interleukin 8", "weight": 6.0, "id": 68324877, "level": 3}
+{"count": 8789, "name": "Granulocyte macrophage colony-stimulating factor", "weight": 3.0, "id": 2777478134, "level": 3}
+{"count": 9672, "name": "Interleukin 17", "weight": 3.0, "id": 47348012, "level": 3}
+{"count": 4672, "name": "Macrophage colony-stimulating factor", "weight": 1.0, "id": 50442881, "level": 3}
+{"count": 6484, "name": "Interleukin 5", "weight": 2.0, "id": 181901479, "level": 3}
+{"count": 5045, "name": "T helper cell", "weight": 1.0, "id": 2781136212, "level": 3}
+{"count": 3894, "name": "Macrophage inflammatory protein", "weight": 1.0, "id": 170217031, "level": 3}
+{"count": 5356, "name": "Interleukin 13", "weight": 1.0, "id": 32046619, "level": 3}
+{"count": 4394, "name": "Leukemia inhibitory factor", "weight": 1.0, "id": 27284151, "level": 3}
+{"count": 7118, "name": "Interleukin 18", "weight": 2.0, "id": 68239362, "level": 3}
+{"count": 1350, "name": "Monokine", "weight": 0.0, "id": 2779603739, "level": 3}
+{"count": 4040, "name": "Interleukin 15", "weight": 1.0, "id": 98119934, "level": 3}
+{"count": 3799, "name": "Macrophage migration inhibitory factor", "weight": 1.0, "id": 104177226, "level": 3}
+{"count": 1708, "name": "Oncostatin M", "weight": 0.0, "id": 2777667943, "level": 3}
+{"count": 955, "name": "Interleukin 11", "weight": 0.0, "id": 91219811, "level": 3}
+{"count": 2816, "name": "SOCS3", "weight": 1.0, "id": 126042315, "level": 3}
+{"count": 2566, "name": "Glycoprotein 130", "weight": 0.0, "id": 126037660, "level": 3}
+{"count": 990, "name": "Janus kinase 1", "weight": 0.0, "id": 154390347, "level": 3}
+{"count": 4439, "name": "Interleukin 33", "weight": 1.0, "id": 122862929, "level": 3}
+{"count": 2259, "name": "Interleukin 22", "weight": 0.0, "id": 50345908, "level": 3}
+{"count": 1650, "name": "Thymic stromal lymphopoietin", "weight": 0.0, "id": 2778070265, "level": 3}
+{"count": 2249, "name": "Cytokine receptor", "weight": 0.0, "id": 2775855021, "level": 3}
+{"count": 872, "name": "Sickness behavior", "weight": 0.0, "id": 138906646, "level": 3}
+{"count": 316, "name": "Interleukin 16", "weight": 0.0, "id": 188379684, "level": 3}
+{"count": 1025, "name": "CCL3", "weight": 0.0, "id": 110015553, "level": 3}
+{"count": 2159, "name": "Suppressor of cytokine signaling 1", "weight": 0.0, "id": 14077384, "level": 3}
+{"count": 401, "name": "Interleukin 27", "weight": 0.0, "id": 2776237456, "level": 3}
+{"count": 974, "name": "Interleukin 20", "weight": 0.0, "id": 116024289, "level": 3}
+{"count": 876, "name": "Cytokine storm", "weight": 0.0, "id": 2779559532, "level": 3}
+{"count": 1466, "name": "Suppressor of cytokine signalling", "weight": 0.0, "id": 162354598, "level": 3}
+{"count": 184, "name": "TGN1412", "weight": 0.0, "id": 2778210076, "level": 3}
+{"count": 217, "name": "Interleukin 35", "weight": 0.0, "id": 2780376277, "level": 3}
+{"count": 575, "name": "Interleukin 25", "weight": 0.0, "id": 174260850, "level": 3}
+{"count": 364, "name": "EBI3", "weight": 0.0, "id": 2779233158, "level": 3}
+{"count": 33, "name": "Virokine", "weight": 0.0, "id": 2781109070, "level": 3}
+{"count": 21, "name": "Orthokine", "weight": 0.0, "id": 2780266416, "level": 3}
+{"count": 179, "name": "Secretion assay", "weight": 0.0, "id": 2778937868, "level": 3}
+{"count": 27, "name": "PGG-glucan", "weight": 0.0, "id": 2778104064, "level": 3}
+{"count": 128, "name": "Regulatory macrophages", "weight": 0.0, "id": 2777349060, "level": 3}
+{"count": 41, "name": "IL17RB", "weight": 0.0, "id": 2778469871, "level": 3}
+{"count": 53, "name": "TNFSF12", "weight": 0.0, "id": 2777079760, "level": 3}
+{"count": 27, "name": "Sentinel cell", "weight": 0.0, "id": 2779459061, "level": 3}
+{"count": 13, "name": "Interleukin 30", "weight": 0.0, "id": 2776684819, "level": 3}
+{"count": 15, "name": "Cytokine redundancy", "weight": 0.0, "id": 2778737569, "level": 3}

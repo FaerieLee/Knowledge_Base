@@ -1,0 +1,27 @@
+{"count": 36944, "name": "Contextual image classification", "weight": 10.0, "id": 75294576, "level": 3}
+{"count": 28672, "name": "Feature (computer vision)", "weight": 7.0, "id": 7374053, "level": 3}
+{"count": 6232, "name": "Handwriting recognition", "weight": 1.0, "id": 112640561, "level": 3}
+{"count": 5159, "name": "Gabor filter", "weight": 1.0, "id": 2779883129, "level": 3}
+{"count": 7406, "name": "Local binary patterns", "weight": 2.0, "id": 87335442, "level": 3}
+{"count": 8922, "name": "Mel-frequency cepstrum", "weight": 2.0, "id": 151989614, "level": 3}
+{"count": 6376, "name": "Iris recognition", "weight": 1.0, "id": 112356035, "level": 3}
+{"count": 11189, "name": "Scale-invariant feature transform", "weight": 3.0, "id": 61265191, "level": 3}
+{"count": 2463, "name": "Eigenface", "weight": 0.0, "id": 104906051, "level": 3}
+{"count": 2750, "name": "Feature recognition", "weight": 0.0, "id": 180863505, "level": 3}
+{"count": 2462, "name": "Kernel Fisher discriminant analysis", "weight": 0.0, "id": 181367576, "level": 3}
+{"count": 6070, "name": "Feature learning", "weight": 1.0, "id": 59404180, "level": 3}
+{"count": 553, "name": "FERET database", "weight": 0.0, "id": 137087632, "level": 3}
+{"count": 776, "name": "Hand geometry", "weight": 0.0, "id": 146318809, "level": 3}
+{"count": 1738, "name": "Histogram of oriented gradients", "weight": 0.0, "id": 17426736, "level": 3}
+{"count": 670, "name": "Phase congruency", "weight": 0.0, "id": 2777316791, "level": 3}
+{"count": 372, "name": "Video copy detection", "weight": 0.0, "id": 2779005806, "level": 3}
+{"count": 2471, "name": "Signature recognition", "weight": 0.0, "id": 74370796, "level": 3}
+{"count": 877, "name": "Palm print", "weight": 0.0, "id": 2777503689, "level": 3}
+{"count": 553, "name": "Finger vein recognition", "weight": 0.0, "id": 52601983, "level": 3}
+{"count": 8448, "name": "Three-dimensional face recognition", "weight": 2.0, "id": 88799230, "level": 3}
+{"count": 137, "name": "Motion History Images", "weight": 0.0, "id": 2776683197, "level": 3}
+{"count": 170, "name": "Image spam", "weight": 0.0, "id": 2778989420, "level": 3}
+{"count": 77, "name": "Hjorth parameters", "weight": 0.0, "id": 2776644985, "level": 3}
+{"count": 26, "name": "Self-similarity matrix", "weight": 0.0, "id": 2780359676, "level": 3}
+{"count": 19, "name": "Chinese character classification", "weight": 0.0, "id": 2776235881, "level": 3}
+{"count": 2946, "name": "Intelligent word recognition", "weight": 0.0, "id": 17649283, "level": 3}

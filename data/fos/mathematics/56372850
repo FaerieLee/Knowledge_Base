@@ -1,0 +1,7 @@
+{"count": 292, "name": "Nested dissection", "weight": 1.0, "id": 2777128864, "level": 4}
+{"count": 442, "name": "Sparse matrix-vector multiplication", "weight": 2.0, "id": 2780130304, "level": 4}
+{"count": 1308, "name": "Matrix-free methods", "weight": 8.0, "id": 54219892, "level": 4}
+{"count": 1518, "name": "Incomplete Cholesky factorization", "weight": 10.0, "id": 44363057, "level": 4}
+{"count": 38, "name": "Block Wiedemann algorithm", "weight": 0.0, "id": 2779890445, "level": 4}
+{"count": 789, "name": "Cuthill\u2013McKee algorithm", "weight": 5.0, "id": 118151440, "level": 4}
+{"count": 54, "name": "Skyline matrix", "weight": 0.0, "id": 92871162, "level": 4}

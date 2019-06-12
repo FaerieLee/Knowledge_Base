@@ -1,0 +1,29 @@
+{"count": 24131, "name": "Markov chain Monte Carlo", "weight": 10.0, "id": 111350023, "level": 3}
+{"count": 7320, "name": "Importance sampling", "weight": 3.0, "id": 52740198, "level": 3}
+{"count": 2583, "name": "Monte Carlo algorithm", "weight": 1.0, "id": 15482360, "level": 3}
+{"count": 13871, "name": "Quantum Monte Carlo", "weight": 5.0, "id": 16016025, "level": 3}
+{"count": 4066, "name": "Variance reduction", "weight": 1.0, "id": 62644790, "level": 3}
+{"count": 3193, "name": "Latin hypercube sampling", "weight": 1.0, "id": 20820323, "level": 3}
+{"count": 7812, "name": "Direct simulation Monte Carlo", "weight": 3.0, "id": 164916747, "level": 3}
+{"count": 17272, "name": "Hybrid Monte Carlo", "weight": 7.0, "id": 13153151, "level": 3}
+{"count": 1104, "name": "First-order reliability method", "weight": 0.0, "id": 2778275008, "level": 3}
+{"count": 1586, "name": "Event generator", "weight": 0.0, "id": 2779261216, "level": 3}
+{"count": 1039, "name": "Monte Carlo tree search", "weight": 0.0, "id": 46149586, "level": 3}
+{"count": 211, "name": "Basket option", "weight": 0.0, "id": 2780280162, "level": 3}
+{"count": 127, "name": "Sznajd model", "weight": 0.0, "id": 2780154260, "level": 3}
+{"count": 214, "name": "First-order second-moment method", "weight": 0.0, "id": 2779722798, "level": 3}
+{"count": 138, "name": "Bond fluctuation model", "weight": 0.0, "id": 2780067803, "level": 3}
+{"count": 287, "name": "Skyshine", "weight": 0.0, "id": 2776354700, "level": 3}
+{"count": 54, "name": "OpenGate", "weight": 0.0, "id": 2776963973, "level": 3}
+{"count": 132, "name": "Failure domain", "weight": 0.0, "id": 2777793726, "level": 3}
+{"count": 64, "name": "Rare Event Sampling", "weight": 0.0, "id": 143839491, "level": 3}
+{"count": 17583, "name": "Monte Carlo molecular modeling", "weight": 7.0, "id": 37669827, "level": 3}
+{"count": 31, "name": "Magnetic anomaly detector", "weight": 0.0, "id": 2776959900, "level": 3}
+{"count": 32, "name": "GEANT-3", "weight": 0.0, "id": 2779912593, "level": 3}
+{"count": 105, "name": "Hypernetted-chain equation", "weight": 0.0, "id": 2780660782, "level": 3}
+{"count": 21812, "name": "Dynamic Monte Carlo method", "weight": 9.0, "id": 122592724, "level": 3}
+{"count": 8, "name": "Monte Carlo methods in finance", "weight": 0.0, "id": 2777043878, "level": 3}
+{"count": 2144, "name": "Monte Carlo methods for option pricing", "weight": 0.0, "id": 101710237, "level": 3}
+{"count": 57, "name": "Fast Probability Integration", "weight": 0.0, "id": 2777740300, "level": 3}
+{"count": 21, "name": "Widom insertion method", "weight": 0.0, "id": 2781037801, "level": 3}
+{"count": 16, "name": "Mortran", "weight": 0.0, "id": 2777535371, "level": 3}

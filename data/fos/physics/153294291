@@ -1,0 +1,200 @@
+{"count": 30144, "name": "El Ni\u00f1o", "weight": 1.0, "id": 986699, "level": 2}
+{"count": 247918, "name": "Turbulence", "weight": 9.0, "id": 196558001, "level": 2}
+{"count": 87170, "name": "Ozone", "weight": 3.0, "id": 508106653, "level": 2}
+{"count": 204004, "name": "Precipitation", "weight": 8.0, "id": 107054158, "level": 2}
+{"count": 54058, "name": "In situ", "weight": 2.0, "id": 2777822432, "level": 2}
+{"count": 160926, "name": "Atmosphere", "weight": 6.0, "id": 143906210, "level": 2}
+{"count": 68478, "name": "Water vapor", "weight": 2.0, "id": 147534773, "level": 2}
+{"count": 112104, "name": "Aerosol", "weight": 4.0, "id": 2779345167, "level": 2}
+{"count": 77760, "name": "Wind speed", "weight": 3.0, "id": 161067210, "level": 2}
+{"count": 74261, "name": "Atmospheric pressure", "weight": 2.0, "id": 200239111, "level": 2}
+{"count": 117750, "name": "Convection", "weight": 4.0, "id": 10899652, "level": 2}
+{"count": 25139, "name": "Atmospheric model", "weight": 0.0, "id": 118365302, "level": 2}
+{"count": 41828, "name": "Troposphere", "weight": 1.0, "id": 9075549, "level": 2}
+{"count": 128781, "name": "Vortex", "weight": 5.0, "id": 140820882, "level": 2}
+{"count": 124880, "name": "Evaporation", "weight": 4.0, "id": 61441594, "level": 2}
+{"count": 40264, "name": "Temperature gradient", "weight": 1.0, "id": 137109543, "level": 2}
+{"count": 23022, "name": "Northern Hemisphere", "weight": 0.0, "id": 2778835443, "level": 2}
+{"count": 19901, "name": "Atmospheric circulation", "weight": 0.0, "id": 150284090, "level": 2}
+{"count": 36034, "name": "Sea surface temperature", "weight": 1.0, "id": 134097258, "level": 2}
+{"count": 11196, "name": "Atmospheric chemistry", "weight": 0.0, "id": 49999975, "level": 2}
+{"count": 91387, "name": "Humidity", "weight": 3.0, "id": 151420433, "level": 2}
+{"count": 59816, "name": "Air quality index", "weight": 2.0, "id": 126314574, "level": 2}
+{"count": 56348, "name": "Relative humidity", "weight": 2.0, "id": 158960510, "level": 2}
+{"count": 28440, "name": "Pressure gradient", "weight": 1.0, "id": 98156149, "level": 2}
+{"count": 21270, "name": "Diurnal temperature variation", "weight": 0.0, "id": 167678106, "level": 2}
+{"count": 26960, "name": "Stratosphere", "weight": 1.0, "id": 163861444, "level": 2}
+{"count": 33587, "name": "Sea ice", "weight": 1.0, "id": 136894858, "level": 2}
+{"count": 104639, "name": "Drop (liquid)", "weight": 4.0, "id": 13523363, "level": 2}
+{"count": 14463, "name": "Atmospheric temperature", "weight": 0.0, "id": 607359, "level": 2}
+{"count": 89857, "name": "Derecho", "weight": 3.0, "id": 161487207, "level": 2}
+{"count": 80726, "name": "Altitude", "weight": 3.0, "id": 29403383, "level": 2}
+{"count": 86795, "name": "Snow", "weight": 3.0, "id": 197046000, "level": 2}
+{"count": 70973, "name": "Frost (temperature)", "weight": 2.0, "id": 4988496, "level": 2}
+{"count": 10989, "name": "Deposition (aerosol physics)", "weight": 0.0, "id": 148613510, "level": 2}
+{"count": 23300, "name": "Latent heat", "weight": 0.0, "id": 58024561, "level": 2}
+{"count": 12423, "name": "Nitrogen dioxide", "weight": 0.0, "id": 2780723490, "level": 2}
+{"count": 37990, "name": "Pressure measurement", "weight": 1.0, "id": 80264047, "level": 2}
+{"count": 75957, "name": "Inversion (meteorology)", "weight": 2.0, "id": 78586090, "level": 2}
+{"count": 18713, "name": "Satellite imagery", "weight": 0.0, "id": 2778102629, "level": 2}
+{"count": 168846, "name": "Moisture", "weight": 6.0, "id": 176864760, "level": 2}
+{"count": 138212, "name": "Ventilation (architecture)", "weight": 5.0, "id": 200457457, "level": 2}
+{"count": 4372, "name": "MERCURE", "weight": 0.0, "id": 2780711013, "level": 2}
+{"count": 54634, "name": "Storm", "weight": 2.0, "id": 105306849, "level": 2}
+{"count": 20877, "name": "Natural disaster", "weight": 0.0, "id": 166566181, "level": 2}
+{"count": 22247, "name": "Accretion (meteorology)", "weight": 0.0, "id": 189874977, "level": 2}
+{"count": 20353, "name": "Data assimilation", "weight": 0.0, "id": 24552861, "level": 2}
+{"count": 80436, "name": "Condensation", "weight": 3.0, "id": 200093464, "level": 2}
+{"count": 39723, "name": "Lightning", "weight": 1.0, "id": 505276464, "level": 2}
+{"count": 30412, "name": "Transpiration", "weight": 1.0, "id": 157517311, "level": 2}
+{"count": 18955, "name": "Tropical cyclone", "weight": 0.0, "id": 29141058, "level": 2}
+{"count": 23148, "name": "Supercooling", "weight": 0.0, "id": 112964491, "level": 2}
+{"count": 20525, "name": "Hyperthermia", "weight": 0.0, "id": 2779949491, "level": 2}
+{"count": 4415, "name": "Annual cycle", "weight": 0.0, "id": 114148465, "level": 2}
+{"count": 13367, "name": "Weather forecasting", "weight": 0.0, "id": 21001229, "level": 2}
+{"count": 25576, "name": "Mesoscale meteorology", "weight": 1.0, "id": 40382383, "level": 2}
+{"count": 37440, "name": "Visibility", "weight": 1.0, "id": 123403432, "level": 2}
+{"count": 5636, "name": "Two-dimensional flow", "weight": 0.0, "id": 2777447984, "level": 2}
+{"count": 10988, "name": "Trace gas", "weight": 0.0, "id": 130047971, "level": 2}
+{"count": 8485, "name": "Controlled atmosphere", "weight": 0.0, "id": 92546971, "level": 2}
+{"count": 77103, "name": "Smoke", "weight": 3.0, "id": 58874564, "level": 2}
+{"count": 4253, "name": "Advanced very-high-resolution radiometer", "weight": 0.0, "id": 2777480484, "level": 2}
+{"count": 3569, "name": "Unified Model", "weight": 0.0, "id": 45493050, "level": 2}
+{"count": 11092, "name": "Natural hazard", "weight": 0.0, "id": 39410599, "level": 2}
+{"count": 7590, "name": "North Atlantic oscillation", "weight": 0.0, "id": 17093552, "level": 2}
+{"count": 5676, "name": "Atmospheric correction", "weight": 0.0, "id": 2778329001, "level": 2}
+{"count": 15962, "name": "Thermal comfort", "weight": 0.0, "id": 133913538, "level": 2}
+{"count": 3861, "name": "Cloud physics", "weight": 0.0, "id": 2776884238, "level": 2}
+{"count": 10673, "name": "Middle latitudes", "weight": 0.0, "id": 18101618, "level": 2}
+{"count": 35278, "name": "Plume", "weight": 1.0, "id": 2775840915, "level": 2}
+{"count": 1913, "name": "Trend surface analysis", "weight": 0.0, "id": 2781067393, "level": 2}
+{"count": 9975, "name": "Urban heat island", "weight": 0.0, "id": 54005896, "level": 2}
+{"count": 5233, "name": "Diurnal cycle", "weight": 0.0, "id": 63991900, "level": 2}
+{"count": 3438, "name": "Empirical orthogonal functions", "weight": 0.0, "id": 13724139, "level": 2}
+{"count": 254256, "name": "Thermal", "weight": 10.0, "id": 204530211, "level": 2}
+{"count": 11604, "name": "Thunderstorm", "weight": 0.0, "id": 80316258, "level": 2}
+{"count": 3846, "name": "Atmosphere (unit)", "weight": 0.0, "id": 65440619, "level": 2}
+{"count": 30989, "name": "Debris", "weight": 1.0, "id": 2776023875, "level": 2}
+{"count": 5843, "name": "Insolation", "weight": 0.0, "id": 68818249, "level": 2}
+{"count": 65420, "name": "Atmospheric temperature range", "weight": 2.0, "id": 39353612, "level": 2}
+{"count": 26488, "name": "Frost", "weight": 1.0, "id": 7732977, "level": 2}
+{"count": 4174, "name": "Atmospheric sounding", "weight": 0.0, "id": 64396926, "level": 2}
+{"count": 12399, "name": "Evaporative cooler", "weight": 0.0, "id": 173991790, "level": 2}
+{"count": 8454, "name": "Physical oceanography", "weight": 0.0, "id": 60500638, "level": 2}
+{"count": 31215, "name": "Cyclone", "weight": 1.0, "id": 160565873, "level": 2}
+{"count": 9594, "name": "Numerical weather prediction", "weight": 0.0, "id": 147947694, "level": 2}
+{"count": 12674, "name": "Air mass", "weight": 0.0, "id": 142669682, "level": 2}
+{"count": 4370, "name": "Synoptic scale meteorology", "weight": 0.0, "id": 41524352, "level": 2}
+{"count": 9442, "name": "Surface pressure", "weight": 0.0, "id": 101677414, "level": 2}
+{"count": 45933, "name": "Evaporator", "weight": 1.0, "id": 91311341, "level": 2}
+{"count": 8672, "name": "Ice crystals", "weight": 0.0, "id": 125388846, "level": 2}
+{"count": 13307, "name": "Haze", "weight": 0.0, "id": 79974267, "level": 2}
+{"count": 5214, "name": "Liquid water content", "weight": 0.0, "id": 85502700, "level": 2}
+{"count": 4328, "name": "Ice calving", "weight": 0.0, "id": 22641795, "level": 2}
+{"count": 4995, "name": "Forecast skill", "weight": 0.0, "id": 170061395, "level": 2}
+{"count": 1290, "name": "Critical load", "weight": 0.0, "id": 2777457327, "level": 2}
+{"count": 6441, "name": "Return period", "weight": 0.0, "id": 75007070, "level": 2}
+{"count": 775, "name": "Biometeorology", "weight": 0.0, "id": 197534560, "level": 2}
+{"count": 19772, "name": "Airway", "weight": 0.0, "id": 105922876, "level": 2}
+{"count": 13853, "name": "Cooling tower", "weight": 0.0, "id": 2778547687, "level": 2}
+{"count": 1418, "name": "Agrometeorology", "weight": 0.0, "id": 2780167305, "level": 2}
+{"count": 6572, "name": "Gulf Stream", "weight": 0.0, "id": 120221134, "level": 2}
+{"count": 4631, "name": "Sea breeze", "weight": 0.0, "id": 63974104, "level": 2}
+{"count": 2177, "name": "Arctic oscillation", "weight": 0.0, "id": 14932015, "level": 2}
+{"count": 7659, "name": "Tornado", "weight": 0.0, "id": 190930322, "level": 2}
+{"count": 2133, "name": "Potential temperature", "weight": 0.0, "id": 199641428, "level": 2}
+{"count": 1276, "name": "Degree day", "weight": 0.0, "id": 2779190337, "level": 2}
+{"count": 1610, "name": "Environmental indicator", "weight": 0.0, "id": 2777613398, "level": 2}
+{"count": 35899, "name": "Sky", "weight": 1.0, "id": 73329638, "level": 2}
+{"count": 1544, "name": "Polar front", "weight": 0.0, "id": 83133772, "level": 2}
+{"count": 13716, "name": "Typhoon", "weight": 0.0, "id": 181654704, "level": 2}
+{"count": 9304, "name": "Wind engineering", "weight": 0.0, "id": 145690102, "level": 2}
+{"count": 1421, "name": "Balanced flow", "weight": 0.0, "id": 167879884, "level": 2}
+{"count": 13826, "name": "Surge", "weight": 0.0, "id": 154108245, "level": 2}
+{"count": 8622, "name": "Radiosonde", "weight": 0.0, "id": 11999413, "level": 2}
+{"count": 4735, "name": "Ensemble forecasting", "weight": 0.0, "id": 119898033, "level": 2}
+{"count": 10619, "name": "Buoy", "weight": 0.0, "id": 2779847632, "level": 2}
+{"count": 3269, "name": "Desert climate", "weight": 0.0, "id": 14400755, "level": 2}
+{"count": 11898, "name": "Daytime", "weight": 0.0, "id": 162725370, "level": 2}
+{"count": 4423, "name": "Jet stream", "weight": 0.0, "id": 162164538, "level": 2}
+{"count": 7485, "name": "Geostrophic wind", "weight": 0.0, "id": 133877212, "level": 2}
+{"count": 1782, "name": "Chemical transformation", "weight": 0.0, "id": 2780759640, "level": 2}
+{"count": 1378, "name": "Aeronomy", "weight": 0.0, "id": 183191521, "level": 2}
+{"count": 9294, "name": "Dew point", "weight": 0.0, "id": 82210777, "level": 2}
+{"count": 11092, "name": "Icing", "weight": 0.0, "id": 2781439067, "level": 2}
+{"count": 9500, "name": "Weather Research and Forecasting Model", "weight": 0.0, "id": 133204551, "level": 2}
+{"count": 32304, "name": "Inflow", "weight": 1.0, "id": 2776132308, "level": 2}
+{"count": 516, "name": "Sea air", "weight": 0.0, "id": 2777167357, "level": 2}
+{"count": 1464, "name": "Trade wind", "weight": 0.0, "id": 137462672, "level": 2}
+{"count": 6910, "name": "Moderate-resolution imaging spectroradiometer", "weight": 0.0, "id": 2777007095, "level": 2}
+{"count": 571, "name": "Atmospheric thermodynamics", "weight": 0.0, "id": 60757611, "level": 2}
+{"count": 6116, "name": "Warm front", "weight": 0.0, "id": 83404686, "level": 2}
+{"count": 30157, "name": "Outflow", "weight": 1.0, "id": 86132830, "level": 2}
+{"count": 1354, "name": "Automatic weather station", "weight": 0.0, "id": 2779395273, "level": 2}
+{"count": 7131, "name": "Dew", "weight": 0.0, "id": 64900583, "level": 2}
+{"count": 6795, "name": "Sunset", "weight": 0.0, "id": 85148207, "level": 2}
+{"count": 9293, "name": "Siphon", "weight": 0.0, "id": 180811987, "level": 2}
+{"count": 6431, "name": "MOZART", "weight": 0.0, "id": 72768826, "level": 2}
+{"count": 1140, "name": "Frontogenesis", "weight": 0.0, "id": 65739210, "level": 2}
+{"count": 2229, "name": "Hard rime", "weight": 0.0, "id": 84254168, "level": 2}
+{"count": 5143, "name": "Sunrise", "weight": 0.0, "id": 38262639, "level": 2}
+{"count": 1070, "name": "Katabatic wind", "weight": 0.0, "id": 188310180, "level": 2}
+{"count": 1327, "name": "Rossby number", "weight": 0.0, "id": 42652486, "level": 2}
+{"count": 3663, "name": "Hindcast", "weight": 0.0, "id": 83002819, "level": 2}
+{"count": 355, "name": "Equilibrium level", "weight": 0.0, "id": 85005788, "level": 2}
+{"count": 8897, "name": "Damp", "weight": 0.0, "id": 2777482401, "level": 2}
+{"count": 925, "name": "Radiant cooling", "weight": 0.0, "id": 2777087718, "level": 2}
+{"count": 2752, "name": "Emergency evacuation", "weight": 0.0, "id": 2778309149, "level": 2}
+{"count": 18954, "name": "Mist", "weight": 0.0, "id": 6831451, "level": 2}
+{"count": 1056, "name": "Crew resource management", "weight": 0.0, "id": 2780826866, "level": 2}
+{"count": 2762, "name": "Nowcasting", "weight": 0.0, "id": 2781013037, "level": 2}
+{"count": 1025, "name": "Rip current", "weight": 0.0, "id": 166482635, "level": 2}
+{"count": 2393, "name": "Silver iodide", "weight": 0.0, "id": 2776460251, "level": 2}
+{"count": 30922, "name": "Trough (meteorology)", "weight": 1.0, "id": 71307200, "level": 2}
+{"count": 799, "name": "Princeton Ocean Model", "weight": 0.0, "id": 2778617809, "level": 2}
+{"count": 7833, "name": "Defrosting", "weight": 0.0, "id": 2779553506, "level": 2}
+{"count": 1305, "name": "Hodograph", "weight": 0.0, "id": 197766306, "level": 2}
+{"count": 2424, "name": "Plucking", "weight": 0.0, "id": 103913367, "level": 2}
+{"count": 2450, "name": "Frostbite", "weight": 0.0, "id": 2781166493, "level": 2}
+{"count": 1828, "name": "Lapse rate", "weight": 0.0, "id": 186816422, "level": 2}
+{"count": 3157, "name": "Moulin", "weight": 0.0, "id": 2776703049, "level": 2}
+{"count": 4743, "name": "Peristaltic pump", "weight": 0.0, "id": 134519083, "level": 2}
+{"count": 251, "name": "Distributed Active Archive Center", "weight": 0.0, "id": 2781224774, "level": 2}
+{"count": 824, "name": "Chlorofluorocarbon", "weight": 0.0, "id": 2779017260, "level": 2}
+{"count": 1408, "name": "Dried fish", "weight": 0.0, "id": 2777605225, "level": 2}
+{"count": 10876, "name": "Ambient pressure", "weight": 0.0, "id": 143895478, "level": 2}
+{"count": 378, "name": "Port of entry", "weight": 0.0, "id": 2779501382, "level": 2}
+{"count": 6813, "name": "Ocean gyre", "weight": 0.0, "id": 30380174, "level": 2}
+{"count": 1040, "name": "Bathythermograph", "weight": 0.0, "id": 145453713, "level": 2}
+{"count": 4260, "name": "Weather station", "weight": 0.0, "id": 2777129202, "level": 2}
+{"count": 820, "name": "Reflective surfaces", "weight": 0.0, "id": 39308168, "level": 2}
+{"count": 1778, "name": "Wave model", "weight": 0.0, "id": 35797730, "level": 2}
+{"count": 5023, "name": "Harmattan", "weight": 0.0, "id": 2781247686, "level": 2}
+{"count": 1946, "name": "Ensemble average", "weight": 0.0, "id": 51865526, "level": 2}
+{"count": 1717, "name": "SCIAMACHY", "weight": 0.0, "id": 2777812092, "level": 2}
+{"count": 300, "name": "National Geophysical Data Center", "weight": 0.0, "id": 2776295494, "level": 2}
+{"count": 2206, "name": "HEPA", "weight": 0.0, "id": 26140837, "level": 2}
+{"count": 347, "name": "Winds aloft", "weight": 0.0, "id": 2776197359, "level": 2}
+{"count": 6042, "name": "Mean radiant temperature", "weight": 0.0, "id": 42683663, "level": 2}
+{"count": 568, "name": "Prognostic variable", "weight": 0.0, "id": 164465091, "level": 2}
+{"count": 560, "name": "Loo", "weight": 0.0, "id": 125453309, "level": 2}
+{"count": 219, "name": "Dog days", "weight": 0.0, "id": 2779369948, "level": 2}
+{"count": 240, "name": "ERA-40", "weight": 0.0, "id": 2776256148, "level": 2}
+{"count": 5276, "name": "Thunder", "weight": 0.0, "id": 206554765, "level": 2}
+{"count": 119, "name": "Artificial cloud", "weight": 0.0, "id": 23341054, "level": 2}
+{"count": 9066, "name": "Splash", "weight": 0.0, "id": 2780644530, "level": 2}
+{"count": 3804, "name": "Aspirator", "weight": 0.0, "id": 2776819259, "level": 2}
+{"count": 2241, "name": "Piste", "weight": 0.0, "id": 93785673, "level": 2}
+{"count": 740, "name": "Heat illness", "weight": 0.0, "id": 2776433176, "level": 2}
+{"count": 662, "name": "1,1,1-Trichloroethane", "weight": 0.0, "id": 2779312500, "level": 2}
+{"count": 7096, "name": "Noon", "weight": 0.0, "id": 58650310, "level": 2}
+{"count": 1964, "name": "Ballooning", "weight": 0.0, "id": 2778392113, "level": 2}
+{"count": 4156, "name": "Beaufort scale", "weight": 0.0, "id": 113635682, "level": 2}
+{"count": 2135, "name": "Barometer", "weight": 0.0, "id": 107284991, "level": 2}
+{"count": 1316, "name": "Pressure-gradient force", "weight": 0.0, "id": 100722585, "level": 2}
+{"count": 426, "name": "Nuclear winter", "weight": 0.0, "id": 162336344, "level": 2}
+{"count": 3044, "name": "Air current", "weight": 0.0, "id": 2780576639, "level": 2}
+{"count": 3532, "name": "ASHRAE 90.1", "weight": 0.0, "id": 206145494, "level": 2}
+{"count": 749, "name": "Secondary circulation", "weight": 0.0, "id": 2776206649, "level": 2}
+{"count": 897, "name": "Near space", "weight": 0.0, "id": 2780391989, "level": 2}
+{"count": 4592, "name": "Haar", "weight": 0.0, "id": 187029792, "level": 2}

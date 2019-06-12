@@ -1,0 +1,200 @@
+{"count": 160787, "name": "Wireless sensor network", "weight": 3.0, "id": 24590314, "level": 2}
+{"count": 204096, "name": "Scheduling (computing)", "weight": 4.0, "id": 113200698, "level": 2}
+{"count": 54111, "name": "Wireless ad hoc network", "weight": 1.0, "id": 94523657, "level": 2}
+{"count": 409379, "name": "Wireless", "weight": 10.0, "id": 555944384, "level": 2}
+{"count": 136016, "name": "Wireless network", "weight": 3.0, "id": 108037233, "level": 2}
+{"count": 137915, "name": "Convergence (routing)", "weight": 3.0, "id": 71923881, "level": 2}
+{"count": 114982, "name": "Quality of service", "weight": 2.0, "id": 5119721, "level": 2}
+{"count": 139218, "name": "Data transmission", "weight": 3.0, "id": 557945733, "level": 2}
+{"count": 69552, "name": "Mobile computing", "weight": 1.0, "id": 144543869, "level": 2}
+{"count": 188029, "name": "Communications system", "weight": 4.0, "id": 101765175, "level": 2}
+{"count": 111710, "name": "Mobile telephony", "weight": 2.0, "id": 95491727, "level": 2}
+{"count": 26311, "name": "Spread spectrum", "weight": 0.0, "id": 105344744, "level": 2}
+{"count": 75489, "name": "Network topology", "weight": 1.0, "id": 199845137, "level": 2}
+{"count": 121268, "name": "Base station", "weight": 2.0, "id": 68649174, "level": 2}
+{"count": 36250, "name": "Routing protocol", "weight": 0.0, "id": 104954878, "level": 2}
+{"count": 82014, "name": "Telecommunications network", "weight": 2.0, "id": 192126672, "level": 2}
+{"count": 129166, "name": "Throughput", "weight": 3.0, "id": 157764524, "level": 2}
+{"count": 46516, "name": "Wavelength-division multiplexing", "weight": 1.0, "id": 160724564, "level": 2}
+{"count": 32652, "name": "Local area network", "weight": 0.0, "id": 137471899, "level": 2}
+{"count": 57805, "name": "Power control", "weight": 1.0, "id": 56685638, "level": 2}
+{"count": 117841, "name": "Authentication", "weight": 2.0, "id": 171289174, "level": 2}
+{"count": 18822, "name": "Mobile radio", "weight": 0.0, "id": 2781307350, "level": 2}
+{"count": 39276, "name": "Queueing theory", "weight": 0.0, "id": 22684755, "level": 2}
+{"count": 45120, "name": "Cellular network", "weight": 1.0, "id": 153646914, "level": 2}
+{"count": 130402, "name": "Broadcasting", "weight": 3.0, "id": 81959379, "level": 2}
+{"count": 37996, "name": "Load balancing (computing)", "weight": 0.0, "id": 139330139, "level": 2}
+{"count": 36940, "name": "Communications protocol", "weight": 0.0, "id": 12269588, "level": 2}
+{"count": 200524, "name": "STREAMS", "weight": 4.0, "id": 42090638, "level": 2}
+{"count": 51546, "name": "Access control", "weight": 1.0, "id": 527821871, "level": 2}
+{"count": 31991, "name": "Intrusion detection system", "weight": 0.0, "id": 35525427, "level": 2}
+{"count": 116050, "name": "Server", "weight": 2.0, "id": 93996380, "level": 2}
+{"count": 11862, "name": "Intelligent Network", "weight": 0.0, "id": 51675839, "level": 2}
+{"count": 30135, "name": "Peer-to-peer", "weight": 0.0, "id": 534932454, "level": 2}
+{"count": 18552, "name": "Telephony", "weight": 0.0, "id": 195358072, "level": 2}
+{"count": 37747, "name": "Network architecture", "weight": 0.0, "id": 193415008, "level": 2}
+{"count": 60206, "name": "Interconnection", "weight": 1.0, "id": 123745756, "level": 2}
+{"count": 19675, "name": "Network congestion", "weight": 0.0, "id": 195563490, "level": 2}
+{"count": 29120, "name": "Flow control (data)", "weight": 0.0, "id": 186766456, "level": 2}
+{"count": 14323, "name": "Asynchronous Transfer Mode", "weight": 0.0, "id": 194571728, "level": 2}
+{"count": 25293, "name": "Network planning and design", "weight": 0.0, "id": 114563136, "level": 2}
+{"count": 14447, "name": "Denial-of-service attack", "weight": 0.0, "id": 38822068, "level": 2}
+{"count": 106296, "name": "Encryption", "weight": 2.0, "id": 148730421, "level": 2}
+{"count": 14461, "name": "Cryptographic protocol", "weight": 0.0, "id": 33884865, "level": 2}
+{"count": 5899, "name": "Point-to-point", "weight": 0.0, "id": 174440990, "level": 2}
+{"count": 29656, "name": "Network security", "weight": 0.0, "id": 182590292, "level": 2}
+{"count": 21241, "name": "Network performance", "weight": 0.0, "id": 203274722, "level": 2}
+{"count": 56788, "name": "Internet of Things", "weight": 1.0, "id": 81860439, "level": 2}
+{"count": 9704, "name": "Propagation delay", "weight": 0.0, "id": 90806461, "level": 2}
+{"count": 65973, "name": "Asynchronous communication", "weight": 1.0, "id": 151319957, "level": 2}
+{"count": 5354, "name": "GTP'", "weight": 0.0, "id": 118716, "level": 2}
+{"count": 11834, "name": "Software-defined radio", "weight": 0.0, "id": 171115542, "level": 2}
+{"count": 17967, "name": "Client\u2013server model", "weight": 0.0, "id": 152880691, "level": 2}
+{"count": 15331, "name": "Continuum (design consultancy)", "weight": 0.0, "id": 112234599, "level": 2}
+{"count": 44830, "name": "Multicast", "weight": 1.0, "id": 32295351, "level": 2}
+{"count": 22335, "name": "Voice over IP", "weight": 0.0, "id": 171246234, "level": 2}
+{"count": 115344, "name": "Latency (engineering)", "weight": 2.0, "id": 98980195, "level": 2}
+{"count": 23803, "name": "Network management", "weight": 0.0, "id": 129763632, "level": 2}
+{"count": 12343, "name": "Mobile agent", "weight": 0.0, "id": 84875433, "level": 2}
+{"count": 21753, "name": "Data center", "weight": 0.0, "id": 153740404, "level": 2}
+{"count": 11672, "name": "Telecommunications service", "weight": 0.0, "id": 33271190, "level": 2}
+{"count": 7162, "name": "Performance metric", "weight": 0.0, "id": 2780898871, "level": 2}
+{"count": 10410, "name": "Multi-user", "weight": 0.0, "id": 2778002699, "level": 2}
+{"count": 13685, "name": "Network interface", "weight": 0.0, "id": 103987645, "level": 2}
+{"count": 28328, "name": "Access network", "weight": 0.0, "id": 62793504, "level": 2}
+{"count": 28584, "name": "GSM", "weight": 0.0, "id": 59201141, "level": 2}
+{"count": 21131, "name": "Random access", "weight": 0.0, "id": 101722063, "level": 2}
+{"count": 5278, "name": "Transport layer", "weight": 0.0, "id": 7345512, "level": 2}
+{"count": 10793, "name": "Mesh networking", "weight": 0.0, "id": 123691950, "level": 2}
+{"count": 24394, "name": "Network simulation", "weight": 0.0, "id": 139940560, "level": 2}
+{"count": 6350, "name": "Digital radio", "weight": 0.0, "id": 507880516, "level": 2}
+{"count": 15599, "name": "Signal strength", "weight": 0.0, "id": 176808163, "level": 2}
+{"count": 17441, "name": "Passive optical network", "weight": 0.0, "id": 204827203, "level": 2}
+{"count": 6746, "name": "Wide area network", "weight": 0.0, "id": 2776238582, "level": 2}
+{"count": 12061, "name": "Digital subscriber line", "weight": 0.0, "id": 201374245, "level": 2}
+{"count": 10409, "name": "Overlay network", "weight": 0.0, "id": 169851745, "level": 2}
+{"count": 10420, "name": "Next-generation network", "weight": 0.0, "id": 110994511, "level": 2}
+{"count": 11738, "name": "Integrated Services Digital Network", "weight": 0.0, "id": 536894130, "level": 2}
+{"count": 4409, "name": "Internetworking", "weight": 0.0, "id": 2780405328, "level": 2}
+{"count": 5175, "name": "Active networking", "weight": 0.0, "id": 102665078, "level": 2}
+{"count": 14983, "name": "WiMAX", "weight": 0.0, "id": 113950482, "level": 2}
+{"count": 2536, "name": "Adaptive routing", "weight": 0.0, "id": 24856439, "level": 2}
+{"count": 3263, "name": "Traffic model", "weight": 0.0, "id": 2775847900, "level": 2}
+{"count": 109243, "name": "Relay", "weight": 2.0, "id": 2778156585, "level": 2}
+{"count": 4301, "name": "Link layer", "weight": 0.0, "id": 12570599, "level": 2}
+{"count": 9219, "name": "Secure communication", "weight": 0.0, "id": 510870077, "level": 2}
+{"count": 17116, "name": "Systems management", "weight": 0.0, "id": 8816202, "level": 2}
+{"count": 8985, "name": "Access method", "weight": 0.0, "id": 70000936, "level": 2}
+{"count": 8117, "name": "Mobility model", "weight": 0.0, "id": 191485582, "level": 2}
+{"count": 44887, "name": "Port (computer networking)", "weight": 1.0, "id": 158025753, "level": 2}
+{"count": 10478, "name": "Location-based service", "weight": 0.0, "id": 155292070, "level": 2}
+{"count": 11480, "name": "Sliding window protocol", "weight": 0.0, "id": 102392041, "level": 2}
+{"count": 54294, "name": "Mobile station", "weight": 1.0, "id": 207029474, "level": 2}
+{"count": 15921, "name": "Traffic engineering", "weight": 0.0, "id": 16160715, "level": 2}
+{"count": 16100, "name": "Internet protocol suite", "weight": 0.0, "id": 65567647, "level": 2}
+{"count": 12836, "name": "Video quality", "weight": 0.0, "id": 103910844, "level": 2}
+{"count": 4402, "name": "Round-trip delay time", "weight": 0.0, "id": 73989555, "level": 2}
+{"count": 4220, "name": "Communication in small groups", "weight": 0.0, "id": 44871818, "level": 2}
+{"count": 9145, "name": "Mobility management", "weight": 0.0, "id": 2778555145, "level": 2}
+{"count": 37631, "name": "Handover", "weight": 0.0, "id": 111852164, "level": 2}
+{"count": 16939, "name": "Radio spectrum", "weight": 0.0, "id": 92545706, "level": 2}
+{"count": 30128, "name": "Ethernet", "weight": 0.0, "id": 172173386, "level": 2}
+{"count": 11410, "name": "Network monitoring", "weight": 0.0, "id": 81877898, "level": 2}
+{"count": 4052, "name": "Variable bitrate", "weight": 0.0, "id": 57667952, "level": 2}
+{"count": 5403, "name": "Mobile service", "weight": 0.0, "id": 2780559388, "level": 2}
+{"count": 203175, "name": "Network packet", "weight": 4.0, "id": 158379750, "level": 2}
+{"count": 5495, "name": "Traffic analysis", "weight": 0.0, "id": 2781317605, "level": 2}
+{"count": 10633, "name": "Data link", "weight": 0.0, "id": 182132293, "level": 2}
+{"count": 2999, "name": "Type of service", "weight": 0.0, "id": 159091166, "level": 2}
+{"count": 6634, "name": "Radio Link Protocol", "weight": 0.0, "id": 12430449, "level": 2}
+{"count": 2781, "name": "Buffer overflow", "weight": 0.0, "id": 40842320, "level": 2}
+{"count": 14281, "name": "Network layer", "weight": 0.0, "id": 117468950, "level": 2}
+{"count": 5958, "name": "W-CDMA", "weight": 0.0, "id": 120620775, "level": 2}
+{"count": 2468, "name": "Real-time communication", "weight": 0.0, "id": 2780626145, "level": 2}
+{"count": 4370, "name": "Key exchange", "weight": 0.0, "id": 99674996, "level": 2}
+{"count": 35056, "name": "Dynamic Source Routing", "weight": 0.0, "id": 9659607, "level": 2}
+{"count": 4553, "name": "Virtual circuit", "weight": 0.0, "id": 22592002, "level": 2}
+{"count": 3790, "name": "Reliability (computer networking)", "weight": 0.0, "id": 167677733, "level": 2}
+{"count": 7011, "name": "Network delay", "weight": 0.0, "id": 152623178, "level": 2}
+{"count": 28591, "name": "Router", "weight": 0.0, "id": 2775896111, "level": 2}
+{"count": 10132, "name": "Point of delivery", "weight": 0.0, "id": 137776501, "level": 2}
+{"count": 9456, "name": "Survivability", "weight": 0.0, "id": 2781133158, "level": 2}
+{"count": 4159, "name": "System monitoring", "weight": 0.0, "id": 200749887, "level": 2}
+{"count": 14862, "name": "Telephone network", "weight": 0.0, "id": 197698232, "level": 2}
+{"count": 6989, "name": "Transcoding", "weight": 0.0, "id": 134535813, "level": 2}
+{"count": 28483, "name": "Node (networking)", "weight": 0.0, "id": 46135064, "level": 2}
+{"count": 8965, "name": "UMTS frequency bands", "weight": 0.0, "id": 101618186, "level": 2}
+{"count": 13705, "name": "Paging", "weight": 0.0, "id": 50954386, "level": 2}
+{"count": 10431, "name": "Core network", "weight": 0.0, "id": 5038329, "level": 2}
+{"count": 7728, "name": "Media access control", "weight": 0.0, "id": 513196756, "level": 2}
+{"count": 6701, "name": "Session Initiation Protocol", "weight": 0.0, "id": 41878487, "level": 2}
+{"count": 9065, "name": "Wireless broadband", "weight": 0.0, "id": 85608190, "level": 2}
+{"count": 2660, "name": "Bloom filter", "weight": 0.0, "id": 147224247, "level": 2}
+{"count": 9145, "name": "Software-defined networking", "weight": 0.0, "id": 77270119, "level": 2}
+{"count": 3613, "name": "Synchronous optical networking", "weight": 0.0, "id": 198306430, "level": 2}
+{"count": 24842, "name": "Telephone line", "weight": 0.0, "id": 111943024, "level": 2}
+{"count": 11068, "name": "Frame (networking)", "weight": 0.0, "id": 126042441, "level": 2}
+{"count": 53590, "name": "SAINT", "weight": 1.0, "id": 2780415144, "level": 2}
+{"count": 4080, "name": "IP forwarding", "weight": 0.0, "id": 174809319, "level": 2}
+{"count": 2478, "name": "Stochastic geometry", "weight": 0.0, "id": 31243852, "level": 2}
+{"count": 1969, "name": "Frequency assignment", "weight": 0.0, "id": 2776628324, "level": 2}
+{"count": 7166, "name": "Hotspot (Wi-Fi)", "weight": 0.0, "id": 2776362950, "level": 2}
+{"count": 4424, "name": "Cellular communication", "weight": 0.0, "id": 30436405, "level": 2}
+{"count": 7901, "name": "IPTV", "weight": 0.0, "id": 2776855496, "level": 2}
+{"count": 15500, "name": "ANT", "weight": 0.0, "id": 97467695, "level": 2}
+{"count": 18006, "name": "Application server", "weight": 0.0, "id": 164554305, "level": 2}
+{"count": 1572, "name": "Tree network", "weight": 0.0, "id": 2781010653, "level": 2}
+{"count": 2684, "name": "Gigabit Ethernet", "weight": 0.0, "id": 2776379158, "level": 2}
+{"count": 45804, "name": "Default gateway", "weight": 1.0, "id": 187713609, "level": 2}
+{"count": 9364, "name": "Short Message Service", "weight": 0.0, "id": 74558129, "level": 2}
+{"count": 3280, "name": "Building management system", "weight": 0.0, "id": 106527866, "level": 2}
+{"count": 6574, "name": "Telephone call", "weight": 0.0, "id": 2776181593, "level": 2}
+{"count": 9048, "name": "Firewall (construction)", "weight": 0.0, "id": 192690888, "level": 2}
+{"count": 7128, "name": "Computer network programming", "weight": 0.0, "id": 113041634, "level": 2}
+{"count": 4377, "name": "OpenFlow", "weight": 0.0, "id": 192697461, "level": 2}
+{"count": 4549, "name": "Network address translation", "weight": 0.0, "id": 147873670, "level": 2}
+{"count": 2768, "name": "Fault management", "weight": 0.0, "id": 108074857, "level": 2}
+{"count": 7864, "name": "Virtual network", "weight": 0.0, "id": 2776874963, "level": 2}
+{"count": 10780, "name": "Application layer", "weight": 0.0, "id": 190793597, "level": 2}
+{"count": 7018, "name": "Transport network", "weight": 0.0, "id": 2778711553, "level": 2}
+{"count": 5856, "name": "Protocol stack", "weight": 0.0, "id": 38601921, "level": 2}
+{"count": 35844, "name": "User equipment", "weight": 0.0, "id": 2781327853, "level": 2}
+{"count": 307, "name": "IP forwarding algorithm", "weight": 0.0, "id": 135666563, "level": 2}
+{"count": 1223, "name": "Content adaptation", "weight": 0.0, "id": 2776987467, "level": 2}
+{"count": 4952, "name": "Autonomous system (Internet)", "weight": 0.0, "id": 5147268, "level": 2}
+{"count": 6725, "name": "Nat", "weight": 0.0, "id": 182516595, "level": 2}
+{"count": 2758, "name": "User agent", "weight": 0.0, "id": 71191987, "level": 2}
+{"count": 48518, "name": "Bridging (networking)", "weight": 1.0, "id": 174348530, "level": 2}
+{"count": 1903, "name": "Mean opinion score", "weight": 0.0, "id": 62897895, "level": 2}
+{"count": 3313, "name": "Eavesdropping", "weight": 0.0, "id": 2776788033, "level": 2}
+{"count": 69056, "name": "Identifier", "weight": 1.0, "id": 154504017, "level": 2}
+{"count": 599, "name": "Network operating system", "weight": 0.0, "id": 2776810965, "level": 2}
+{"count": 13847, "name": "Data as a service", "weight": 0.0, "id": 97300177, "level": 2}
+{"count": 2320, "name": "Transport Layer Security", "weight": 0.0, "id": 148176105, "level": 2}
+{"count": 31260, "name": "Hop (networking)", "weight": 0.0, "id": 29736862, "level": 2}
+{"count": 1241, "name": "Open Systems Interconnection", "weight": 0.0, "id": 147972487, "level": 2}
+{"count": 8042, "name": "Network service", "weight": 0.0, "id": 2779618445, "level": 2}
+{"count": 993, "name": "Passive monitoring", "weight": 0.0, "id": 2776943680, "level": 2}
+{"count": 25438, "name": "Networking hardware", "weight": 0.0, "id": 159631557, "level": 2}
+{"count": 1804, "name": "Over the Air", "weight": 0.0, "id": 2778286214, "level": 2}
+{"count": 3641, "name": "Local loop", "weight": 0.0, "id": 204162243, "level": 2}
+{"count": 5478, "name": "LTE Advanced", "weight": 0.0, "id": 17652562, "level": 2}
+{"count": 11107, "name": "Roaming", "weight": 0.0, "id": 194498986, "level": 2}
+{"count": 1223, "name": "Distributed Interactive Simulation", "weight": 0.0, "id": 2780442957, "level": 2}
+{"count": 27521, "name": "Ticket", "weight": 0.0, "id": 2776540713, "level": 2}
+{"count": 6517, "name": "Near field communication", "weight": 0.0, "id": 175604262, "level": 2}
+{"count": 2185, "name": "Cable modem", "weight": 0.0, "id": 182336301, "level": 2}
+{"count": 20441, "name": "Testbed", "weight": 0.0, "id": 31395832, "level": 2}
+{"count": 3393, "name": "Dedicated short-range communications", "weight": 0.0, "id": 53140260, "level": 2}
+{"count": 7689, "name": "Network interface controller", "weight": 0.0, "id": 171659815, "level": 2}
+{"count": 12690, "name": "Polling", "weight": 0.0, "id": 204854418, "level": 2}
+{"count": 2809, "name": "Honeypot", "weight": 0.0, "id": 191267431, "level": 2}
+{"count": 1851, "name": "Neighbor Discovery Protocol", "weight": 0.0, "id": 165932591, "level": 2}
+{"count": 6177, "name": "Global network", "weight": 0.0, "id": 123138037, "level": 2}
+{"count": 1793, "name": "Burstiness", "weight": 0.0, "id": 2781023610, "level": 2}
+{"count": 26613, "name": "Provisioning", "weight": 0.0, "id": 172191483, "level": 2}
+{"count": 10022, "name": "Resource (disambiguation)", "weight": 0.0, "id": 206345919, "level": 2}
+{"count": 4889, "name": "IPsec", "weight": 0.0, "id": 67396069, "level": 2}
+{"count": 1480, "name": "Stream Control Transmission Protocol", "weight": 0.0, "id": 90377713, "level": 2}
+{"count": 7809, "name": "Path length", "weight": 0.0, "id": 129045301, "level": 2}
+{"count": 9181, "name": "Broadcast communication network", "weight": 0.0, "id": 83529365, "level": 2}

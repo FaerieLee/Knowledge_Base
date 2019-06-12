@@ -1,0 +1,187 @@
+{"count": 74816, "name": "Elasticity (economics)", "weight": 10.0, "id": 113027937, "level": 2}
+{"count": 31391, "name": "Public good", "weight": 4.0, "id": 162222271, "level": 2}
+{"count": 10743, "name": "Returns to scale", "weight": 1.0, "id": 165083353, "level": 2}
+{"count": 17094, "name": "Comparative advantage", "weight": 2.0, "id": 76474335, "level": 2}
+{"count": 11920, "name": "Opportunity cost", "weight": 1.0, "id": 68359772, "level": 2}
+{"count": 8809, "name": "Endogenous growth theory", "weight": 1.0, "id": 190430219, "level": 2}
+{"count": 4128, "name": "Theory of the firm", "weight": 0.0, "id": 78173224, "level": 2}
+{"count": 12455, "name": "Rational choice theory", "weight": 1.0, "id": 141057610, "level": 2}
+{"count": 15418, "name": "Marginal cost", "weight": 2.0, "id": 66887028, "level": 2}
+{"count": 6345, "name": "Profit maximization", "weight": 0.0, "id": 2777780509, "level": 2}
+{"count": 8889, "name": "Average cost", "weight": 1.0, "id": 2780958618, "level": 2}
+{"count": 8125, "name": "Budget constraint", "weight": 1.0, "id": 8505890, "level": 2}
+{"count": 5567, "name": "Path dependence", "weight": 0.0, "id": 2779272642, "level": 2}
+{"count": 10308, "name": "Factors of production", "weight": 1.0, "id": 16927522, "level": 2}
+{"count": 9445, "name": "Monopolistic competition", "weight": 1.0, "id": 80799131, "level": 2}
+{"count": 12105, "name": "Perfect competition", "weight": 1.0, "id": 26578527, "level": 2}
+{"count": 4413, "name": "Imperfect competition", "weight": 0.0, "id": 2777098679, "level": 2}
+{"count": 8836, "name": "Institutional economics", "weight": 1.0, "id": 177821555, "level": 2}
+{"count": 2704, "name": "Substitution effect", "weight": 0.0, "id": 2778202820, "level": 2}
+{"count": 52255, "name": "Profit (economics)", "weight": 6.0, "id": 181622380, "level": 2}
+{"count": 5315, "name": "Capital good", "weight": 0.0, "id": 118661131, "level": 2}
+{"count": 2753, "name": "Sunk costs", "weight": 0.0, "id": 79179835, "level": 2}
+{"count": 5387, "name": "Social cost", "weight": 0.0, "id": 2777644927, "level": 2}
+{"count": 5624, "name": "Consumer choice", "weight": 0.0, "id": 2776314989, "level": 2}
+{"count": 5763, "name": "Allocative efficiency", "weight": 0.0, "id": 196345963, "level": 2}
+{"count": 2983, "name": "Marginal product", "weight": 0.0, "id": 202063016, "level": 2}
+{"count": 3202, "name": "Competitive equilibrium", "weight": 0.0, "id": 2780964549, "level": 2}
+{"count": 7841, "name": "Innovation system", "weight": 1.0, "id": 2781395336, "level": 2}
+{"count": 4267, "name": "Evolutionary economics", "weight": 0.0, "id": 154848440, "level": 2}
+{"count": 1889, "name": "Creative destruction", "weight": 0.0, "id": 2776838236, "level": 2}
+{"count": 1282, "name": "Indifference curve", "weight": 0.0, "id": 180715834, "level": 2}
+{"count": 3071, "name": "Search cost", "weight": 0.0, "id": 21782646, "level": 2}
+{"count": 3044, "name": "Marginal utility", "weight": 0.0, "id": 138551086, "level": 2}
+{"count": 3294, "name": "Revealed preference", "weight": 0.0, "id": 2779110102, "level": 2}
+{"count": 2444, "name": "Value of time", "weight": 0.0, "id": 2775939957, "level": 2}
+{"count": 2601, "name": "Information economics", "weight": 0.0, "id": 119982944, "level": 2}
+{"count": 2335, "name": "Diminishing returns", "weight": 0.0, "id": 39329475, "level": 2}
+{"count": 3047, "name": "Rational agent", "weight": 0.0, "id": 31772880, "level": 2}
+{"count": 4111, "name": "History of economic thought", "weight": 0.0, "id": 2781161757, "level": 2}
+{"count": 919, "name": "Tariffication", "weight": 0.0, "id": 2776471215, "level": 2}
+{"count": 2103, "name": "Price system", "weight": 0.0, "id": 2776759986, "level": 2}
+{"count": 2497, "name": "Contract theory", "weight": 0.0, "id": 79301358, "level": 2}
+{"count": 2919, "name": "National innovation system", "weight": 0.0, "id": 2778965292, "level": 2}
+{"count": 10501, "name": "Economic cost", "weight": 1.0, "id": 145096142, "level": 2}
+{"count": 1611, "name": "Economic anthropology", "weight": 0.0, "id": 502257625, "level": 2}
+{"count": 3880, "name": "Production function", "weight": 0.0, "id": 139876678, "level": 2}
+{"count": 4038, "name": "New institutional economics", "weight": 0.0, "id": 116006206, "level": 2}
+{"count": 2584, "name": "Production\u2013possibility frontier", "weight": 0.0, "id": 34778210, "level": 2}
+{"count": 2555, "name": "Austrian School", "weight": 0.0, "id": 138021795, "level": 2}
+{"count": 876, "name": "Engel curve", "weight": 0.0, "id": 81461097, "level": 2}
+{"count": 1007, "name": "Cobb\u2013Douglas production function", "weight": 0.0, "id": 2777721285, "level": 2}
+{"count": 2355, "name": "Productive efficiency", "weight": 0.0, "id": 92145119, "level": 2}
+{"count": 14329, "name": "Applied economics", "weight": 1.0, "id": 149615983, "level": 2}
+{"count": 5725, "name": "Learning effect", "weight": 0.0, "id": 10431821, "level": 2}
+{"count": 925, "name": "Gross output", "weight": 0.0, "id": 50880648, "level": 2}
+{"count": 940, "name": "Marginal value", "weight": 0.0, "id": 117410459, "level": 2}
+{"count": 399, "name": "Infant industry argument", "weight": 0.0, "id": 129228275, "level": 2}
+{"count": 1493, "name": "Methodological individualism", "weight": 0.0, "id": 2779060403, "level": 2}
+{"count": 1720, "name": "Cost curve", "weight": 0.0, "id": 8969592, "level": 2}
+{"count": 1001, "name": "Demonstration effect", "weight": 0.0, "id": 193468729, "level": 2}
+{"count": 361, "name": "Indirect utility function", "weight": 0.0, "id": 2779795751, "level": 2}
+{"count": 1600, "name": "Compensation of employees", "weight": 0.0, "id": 172123218, "level": 2}
+{"count": 1282, "name": "Social planner", "weight": 0.0, "id": 2777706055, "level": 2}
+{"count": 1644, "name": "Monopsony", "weight": 0.0, "id": 139203340, "level": 2}
+{"count": 2200, "name": "Invisible hand", "weight": 0.0, "id": 2777605291, "level": 2}
+{"count": 2701, "name": "Supply", "weight": 0.0, "id": 137535293, "level": 2}
+{"count": 1104, "name": "Dynamic efficiency", "weight": 0.0, "id": 2780695930, "level": 2}
+{"count": 320, "name": "Home market effect", "weight": 0.0, "id": 2776655292, "level": 2}
+{"count": 2059, "name": "Unpaid work", "weight": 0.0, "id": 2779266529, "level": 2}
+{"count": 269, "name": "Expenditure function", "weight": 0.0, "id": 2778224381, "level": 2}
+{"count": 2188, "name": "Homo economicus", "weight": 0.0, "id": 169355965, "level": 2}
+{"count": 2723, "name": "Veblen good", "weight": 0.0, "id": 16215860, "level": 2}
+{"count": 404, "name": "Infant industry", "weight": 0.0, "id": 191380736, "level": 2}
+{"count": 3177, "name": "Economic base analysis", "weight": 0.0, "id": 82290092, "level": 2}
+{"count": 3680, "name": "Care work", "weight": 0.0, "id": 102003337, "level": 2}
+{"count": 1545, "name": "Labor theory of value", "weight": 0.0, "id": 59753492, "level": 2}
+{"count": 446, "name": "Peak-load pricing", "weight": 0.0, "id": 2776677171, "level": 2}
+{"count": 5535, "name": "Innovation economics", "weight": 0.0, "id": 110599986, "level": 2}
+{"count": 969, "name": "Value capture", "weight": 0.0, "id": 2777569040, "level": 2}
+{"count": 1527, "name": "Value added", "weight": 0.0, "id": 80323366, "level": 2}
+{"count": 831, "name": "Complementary good", "weight": 0.0, "id": 125258956, "level": 2}
+{"count": 2031, "name": "Production theory", "weight": 0.0, "id": 92064499, "level": 2}
+{"count": 835, "name": "Praxeology", "weight": 0.0, "id": 185705657, "level": 2}
+{"count": 599, "name": "Feminist economics", "weight": 0.0, "id": 540898589, "level": 2}
+{"count": 481, "name": "Circular cumulative causation", "weight": 0.0, "id": 10843958, "level": 2}
+{"count": 668, "name": "Mature market", "weight": 0.0, "id": 2778806420, "level": 2}
+{"count": 621, "name": "Consumer sovereignty", "weight": 0.0, "id": 142925720, "level": 2}
+{"count": 1085, "name": "Substitute good", "weight": 0.0, "id": 169513642, "level": 2}
+{"count": 294, "name": "Production set", "weight": 0.0, "id": 171987176, "level": 2}
+{"count": 589, "name": "Use value", "weight": 0.0, "id": 62683194, "level": 2}
+{"count": 808, "name": "Work Intensity", "weight": 0.0, "id": 2776485689, "level": 2}
+{"count": 591, "name": "Unequal exchange", "weight": 0.0, "id": 2777992118, "level": 2}
+{"count": 593, "name": "Land economy", "weight": 0.0, "id": 132065300, "level": 2}
+{"count": 80, "name": "Household production function", "weight": 0.0, "id": 2779291321, "level": 2}
+{"count": 4280, "name": "Backwardness", "weight": 0.0, "id": 2775947652, "level": 2}
+{"count": 309, "name": "Physiocracy", "weight": 0.0, "id": 2778584913, "level": 2}
+{"count": 333, "name": "Marginalism", "weight": 0.0, "id": 157151106, "level": 2}
+{"count": 344, "name": "Transformation problem", "weight": 0.0, "id": 2781426641, "level": 2}
+{"count": 396, "name": "Giffen good", "weight": 0.0, "id": 37566846, "level": 2}
+{"count": 47, "name": "Rotten kid theorem", "weight": 0.0, "id": 2779387773, "level": 2}
+{"count": 707, "name": "Wages and salaries", "weight": 0.0, "id": 2778332525, "level": 2}
+{"count": 265, "name": "Isoquant", "weight": 0.0, "id": 45184529, "level": 2}
+{"count": 23, "name": "Law of rent", "weight": 0.0, "id": 2780520514, "level": 2}
+{"count": 157, "name": "Beggar thy neighbour", "weight": 0.0, "id": 21980080, "level": 2}
+{"count": 431, "name": "Law of value", "weight": 0.0, "id": 2779680899, "level": 2}
+{"count": 5991, "name": "Ingenuity", "weight": 0.0, "id": 2778154381, "level": 2}
+{"count": 232, "name": "Methodenstreit", "weight": 0.0, "id": 2780644464, "level": 2}
+{"count": 232, "name": "Substantivism", "weight": 0.0, "id": 93508038, "level": 2}
+{"count": 50, "name": "Harrod\u2013Domar model", "weight": 0.0, "id": 2780690446, "level": 2}
+{"count": 237, "name": "Neoclassical synthesis", "weight": 0.0, "id": 2776099544, "level": 2}
+{"count": 256, "name": "Intertemporal equilibrium", "weight": 0.0, "id": 2780480734, "level": 2}
+{"count": 267, "name": "Global Innovation Index", "weight": 0.0, "id": 2778435994, "level": 2}
+{"count": 75, "name": "Quasi-rent", "weight": 0.0, "id": 2776811488, "level": 2}
+{"count": 115, "name": "Free good", "weight": 0.0, "id": 2776560339, "level": 2}
+{"count": 112, "name": "Positional good", "weight": 0.0, "id": 2781115087, "level": 2}
+{"count": 216, "name": "Tableau \u00e9conomique", "weight": 0.0, "id": 2776240915, "level": 2}
+{"count": 191, "name": "Dispersed knowledge", "weight": 0.0, "id": 2778788176, "level": 2}
+{"count": 117, "name": "Ricardian economics", "weight": 0.0, "id": 2776315787, "level": 2}
+{"count": 12908, "name": "Schools of economic thought", "weight": 1.0, "id": 94862452, "level": 2}
+{"count": 69, "name": "Roundaboutness", "weight": 0.0, "id": 2778417206, "level": 2}
+{"count": 109, "name": "Rybczynski theorem", "weight": 0.0, "id": 2780272418, "level": 2}
+{"count": 46, "name": "Solow\u2013Swan model", "weight": 0.0, "id": 2777325939, "level": 2}
+{"count": 127, "name": "Time-use research", "weight": 0.0, "id": 52608690, "level": 2}
+{"count": 183, "name": "Homothetic preferences", "weight": 0.0, "id": 2778462684, "level": 2}
+{"count": 72, "name": "Unearned increment", "weight": 0.0, "id": 2776439226, "level": 2}
+{"count": 160, "name": "Expansion path", "weight": 0.0, "id": 2778326613, "level": 2}
+{"count": 65, "name": "Historical school of economics", "weight": 0.0, "id": 187741664, "level": 2}
+{"count": 93, "name": "Technostructure", "weight": 0.0, "id": 2776874543, "level": 2}
+{"count": 37, "name": "Bid rent theory", "weight": 0.0, "id": 2779558600, "level": 2}
+{"count": 417, "name": "Quantity adjustment", "weight": 0.0, "id": 2776072540, "level": 2}
+{"count": 15, "name": "Stone\u2013Geary utility function", "weight": 0.0, "id": 2776638435, "level": 2}
+{"count": 50, "name": "Iron law of wages", "weight": 0.0, "id": 125331498, "level": 2}
+{"count": 78, "name": "Economics of marriage", "weight": 0.0, "id": 2777146842, "level": 2}
+{"count": 5, "name": "Sonnenschein\u2013Mantel\u2013Debreu theorem", "weight": 0.0, "id": 2777036410, "level": 2}
+{"count": 19, "name": "Binary economics", "weight": 0.0, "id": 2779634359, "level": 2}
+{"count": 15, "name": "Alchian\u2013Allen effect", "weight": 0.0, "id": 2777965640, "level": 2}
+{"count": 49, "name": "Subjective theory of value", "weight": 0.0, "id": 2777742495, "level": 2}
+{"count": 45, "name": "Marginal factor cost", "weight": 0.0, "id": 2780648371, "level": 2}
+{"count": 117, "name": "Composite good", "weight": 0.0, "id": 2778377567, "level": 2}
+{"count": 123, "name": "Leontief production function", "weight": 0.0, "id": 174949452, "level": 2}
+{"count": 102, "name": "Extended order", "weight": 0.0, "id": 2776216313, "level": 2}
+{"count": 18, "name": "Nanoeconomics", "weight": 0.0, "id": 2775901687, "level": 2}
+{"count": 240, "name": "JEL classification codes", "weight": 0.0, "id": 2776558856, "level": 2}
+{"count": 10, "name": "Hicksian demand function", "weight": 0.0, "id": 2776830310, "level": 2}
+{"count": 18, "name": "Wicksell effect", "weight": 0.0, "id": 2781294519, "level": 2}
+{"count": 5, "name": "Budget-maximizing model", "weight": 0.0, "id": 2779197945, "level": 2}
+{"count": 12, "name": "Okishio's theorem", "weight": 0.0, "id": 2777558830, "level": 2}
+{"count": 7, "name": "Neo-Ricardianism", "weight": 0.0, "id": 2777369586, "level": 2}
+{"count": 8, "name": "Schumpeterian rent", "weight": 0.0, "id": 2780319827, "level": 2}
+{"count": 17, "name": "Superprofit", "weight": 0.0, "id": 2777437019, "level": 2}
+{"count": 5, "name": "Income\u2013consumption curve", "weight": 0.0, "id": 2780809277, "level": 2}
+{"count": 2, "name": "Hotelling's law", "weight": 0.0, "id": 2777241051, "level": 2}
+{"count": 11, "name": "Kaleidics", "weight": 0.0, "id": 2776501483, "level": 2}
+{"count": 10, "name": "Conditional factor demands", "weight": 0.0, "id": 2780728608, "level": 2}
+{"count": 5, "name": "Galor-Zeira model", "weight": 0.0, "id": 2776374843, "level": 2}
+{"count": 2, "name": "Gossen's second law", "weight": 0.0, "id": 2778066156, "level": 2}
+{"count": 4, "name": "Pauper labor argument", "weight": 0.0, "id": 2778098808, "level": 2}
+{"count": 1, "name": "Welfare definition of economics", "weight": 0.0, "id": 2780272419, "level": 2}
+{"count": 7, "name": "Anthropological theories of value", "weight": 0.0, "id": 2775841973, "level": 2}
+{"count": 4, "name": "Criticisms of the labour theory of value", "weight": 0.0, "id": 2778900826, "level": 2}
+{"count": 3, "name": "Expenditure minimization problem", "weight": 0.0, "id": 2778066154, "level": 2}
+{"count": 2, "name": "O-ring theory of economic development", "weight": 0.0, "id": 2778199310, "level": 2}
+{"count": 6, "name": "Environmental protection expenditure accounts", "weight": 0.0, "id": 2778968279, "level": 2}
+{"count": 4, "name": "Economic calculation problem", "weight": 0.0, "id": 2776759917, "level": 2}
+{"count": 1, "name": "Repugnancy costs", "weight": 0.0, "id": 2779030298, "level": 2}
+{"count": 7, "name": "There ain't no such thing as a free lunch", "weight": 0.0, "id": 2777483939, "level": 2}
+{"count": 3, "name": "Cost-of-production theory of value", "weight": 0.0, "id": 2778593833, "level": 2}
+{"count": 1, "name": "Economic satiation", "weight": 0.0, "id": 2778638038, "level": 2}
+{"count": 4, "name": "Power theory of economics", "weight": 0.0, "id": 2776713284, "level": 2}
+{"count": 10, "name": "Markup rule", "weight": 0.0, "id": 2777005692, "level": 2}
+{"count": 1, "name": "Abstinence theory of interest", "weight": 0.0, "id": 2780133619, "level": 2}
+{"count": 1, "name": "McCloskey critique", "weight": 0.0, "id": 2777917361, "level": 2}
+{"count": 2, "name": "Golden Rule savings rate", "weight": 0.0, "id": 2776536294, "level": 2}
+{"count": 3, "name": "Criticisms of neoclassical economics", "weight": 0.0, "id": 2776929239, "level": 2}
+{"count": 2, "name": "Joint product pricing", "weight": 0.0, "id": 2777818662, "level": 2}
+{"count": 97, "name": "Marginal use", "weight": 0.0, "id": 2778244574, "level": 2}
+{"count": 6, "name": "Glossary of economics", "weight": 0.0, "id": 2778926256, "level": 2}
+{"count": 1, "name": "Law of increasing costs", "weight": 0.0, "id": 2780517747, "level": 2}
+{"count": 2, "name": "Feminisation of the workplace", "weight": 0.0, "id": 2777805808, "level": 2}
+{"count": 10, "name": "Structuralist economics", "weight": 0.0, "id": 2776606059, "level": 2}
+{"count": 5, "name": "Instructional capital", "weight": 0.0, "id": 2776851370, "level": 2}
+{"count": 6, "name": "Marginal concepts", "weight": 0.0, "id": 2776910587, "level": 2}
+{"count": 32, "name": "Introduction to Economic Analysis", "weight": 0.0, "id": 2776378181, "level": 2}
+{"count": 116, "name": "Value of Earth", "weight": 0.0, "id": 2776432661, "level": 2}
+{"count": 3, "name": "Dollar voting", "weight": 0.0, "id": 2781178473, "level": 2}
+{"count": 15, "name": "Economics handbooks", "weight": 0.0, "id": 2779267433, "level": 2}
+{"count": 1, "name": "Coordination good", "weight": 0.0, "id": 2779760154, "level": 2}

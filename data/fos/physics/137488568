@@ -1,0 +1,9 @@
+{"count": 284, "name": "Cryogenic current comparator", "weight": 0.0, "id": 2780162694, "level": 4}
+{"count": 2630, "name": "Active load", "weight": 7.0, "id": 29760048, "level": 4}
+{"count": 768, "name": "Laser trimming", "weight": 2.0, "id": 2780461420, "level": 4}
+{"count": 30, "name": "Chua's diode", "weight": 0.0, "id": 2780776134, "level": 4}
+{"count": 343, "name": "On-die termination", "weight": 0.0, "id": 2778726939, "level": 4}
+{"count": 276, "name": "Kelvin bridge", "weight": 0.0, "id": 185316184, "level": 4}
+{"count": 3548, "name": "Pull-up resistor", "weight": 10.0, "id": 61818909, "level": 4}
+{"count": 922, "name": "Widlar current source", "weight": 2.0, "id": 98477435, "level": 4}
+{"count": 78, "name": "Liquid rheostat", "weight": 0.0, "id": 176500639, "level": 4}

@@ -1,0 +1,200 @@
+{"count": 32562, "name": "Point mutation", "weight": 4.0, "id": 176944494, "level": 4}
+{"count": 69360, "name": "Dominance (genetics)", "weight": 10.0, "id": 151913843, "level": 4}
+{"count": 24631, "name": "Missense mutation", "weight": 3.0, "id": 75563809, "level": 4}
+{"count": 16383, "name": "Germline mutation", "weight": 2.0, "id": 13514818, "level": 4}
+{"count": 2699, "name": "Mutation testing", "weight": 0.0, "id": 163565370, "level": 4}
+{"count": 11699, "name": "Mutation rate", "weight": 1.0, "id": 98638677, "level": 4}
+{"count": 4776, "name": "Single-strand conformation polymorphism", "weight": 0.0, "id": 129219603, "level": 4}
+{"count": 1819, "name": "Insertion", "weight": 0.0, "id": 118083812, "level": 4}
+{"count": 12848, "name": "Frameshift mutation", "weight": 1.0, "id": 29906990, "level": 4}
+{"count": 3462, "name": "Founder effect", "weight": 0.0, "id": 195054827, "level": 4}
+{"count": 15189, "name": "Genetic heterogeneity", "weight": 2.0, "id": 64618202, "level": 4}
+{"count": 3916, "name": "Somatic hypermutation", "weight": 0.0, "id": 128526571, "level": 4}
+{"count": 8635, "name": "Nonsense mutation", "weight": 1.0, "id": 96777560, "level": 4}
+{"count": 3851, "name": "Mutation frequency", "weight": 0.0, "id": 102306862, "level": 4}
+{"count": 2053, "name": "Human mitochondrial genetics", "weight": 0.0, "id": 151994961, "level": 4}
+{"count": 12141, "name": "Exome sequencing", "weight": 1.0, "id": 16671776, "level": 4}
+{"count": 9948, "name": "Proband", "weight": 1.0, "id": 188997412, "level": 4}
+{"count": 1919, "name": "Ethyl methanesulfonate", "weight": 0.0, "id": 2779115727, "level": 4}
+{"count": 4917, "name": "Haploinsufficiency", "weight": 0.0, "id": 68838962, "level": 4}
+{"count": 558, "name": "Allele-specific oligonucleotide", "weight": 0.0, "id": 206095074, "level": 4}
+{"count": 743, "name": "Denaturing high performance liquid chromatography", "weight": 0.0, "id": 2776053618, "level": 4}
+{"count": 219, "name": "Methylnitronitrosoguanidine", "weight": 0.0, "id": 2780625556, "level": 4}
+{"count": 2801, "name": "Heteroplasmy", "weight": 0.0, "id": 181561989, "level": 4}
+{"count": 546, "name": "Leigh disease", "weight": 0.0, "id": 2778461778, "level": 4}
+{"count": 1763, "name": "Mitotic crossover", "weight": 0.0, "id": 127764415, "level": 4}
+{"count": 1999, "name": "High Resolution Melt", "weight": 0.0, "id": 34372108, "level": 4}
+{"count": 4289, "name": "Sanger sequencing", "weight": 0.0, "id": 76818968, "level": 4}
+{"count": 2315, "name": "LRRK2", "weight": 0.0, "id": 2780427247, "level": 4}
+{"count": 773, "name": "Waardenburg syndrome", "weight": 0.0, "id": 2777259899, "level": 4}
+{"count": 821, "name": "Multiple endocrine neoplasia type 2", "weight": 0.0, "id": 2776512331, "level": 4}
+{"count": 413, "name": "Pendred syndrome", "weight": 0.0, "id": 2781419390, "level": 4}
+{"count": 1533, "name": "IDH1", "weight": 0.0, "id": 127848430, "level": 4}
+{"count": 4076, "name": "Splice site mutation", "weight": 0.0, "id": 62257209, "level": 4}
+{"count": 10696, "name": "Stop codon", "weight": 1.0, "id": 20580545, "level": 4}
+{"count": 624, "name": "Congenital myasthenic syndrome", "weight": 0.0, "id": 2777210258, "level": 4}
+{"count": 2827, "name": "Silent mutation", "weight": 0.0, "id": 195491092, "level": 4}
+{"count": 906, "name": "Adaptive mutation", "weight": 0.0, "id": 192122231, "level": 4}
+{"count": 375, "name": "Genetic hitchhiking", "weight": 0.0, "id": 133672272, "level": 4}
+{"count": 811, "name": "Epidermolysis bullosa simplex", "weight": 0.0, "id": 2778405274, "level": 4}
+{"count": 1246, "name": "C9orf72", "weight": 0.0, "id": 2777898937, "level": 4}
+{"count": 1603, "name": "MEN1", "weight": 0.0, "id": 2779469564, "level": 4}
+{"count": 1165, "name": "Palmoplantar keratoderma", "weight": 0.0, "id": 2778951404, "level": 4}
+{"count": 3095, "name": "rpoB", "weight": 0.0, "id": 2778340795, "level": 4}
+{"count": 375, "name": "Hereditary persistence of fetal hemoglobin", "weight": 0.0, "id": 2781419330, "level": 4}
+{"count": 439, "name": "Myelin protein zero", "weight": 0.0, "id": 2777899309, "level": 4}
+{"count": 889, "name": "Neutral mutation", "weight": 0.0, "id": 149129301, "level": 4}
+{"count": 465, "name": "Stickler syndrome", "weight": 0.0, "id": 2781364533, "level": 4}
+{"count": 196, "name": "Denys\u2013Drash syndrome", "weight": 0.0, "id": 2781236230, "level": 4}
+{"count": 209, "name": "Iduronate-2-sulfatase", "weight": 0.0, "id": 2777959134, "level": 4}
+{"count": 2180, "name": "Synonymous substitution", "weight": 0.0, "id": 138025448, "level": 4}
+{"count": 2252, "name": "Transversion", "weight": 0.0, "id": 64872895, "level": 4}
+{"count": 880, "name": "Leber's hereditary optic neuropathy", "weight": 0.0, "id": 2777056713, "level": 4}
+{"count": 1101, "name": "GNAS complex locus", "weight": 0.0, "id": 74231797, "level": 4}
+{"count": 1091, "name": "MEFV", "weight": 0.0, "id": 2781145326, "level": 4}
+{"count": 1418, "name": "LMNA", "weight": 0.0, "id": 2780654407, "level": 4}
+{"count": 686, "name": "Myocilin", "weight": 0.0, "id": 2781147369, "level": 4}
+{"count": 322, "name": "Hypochondroplasia", "weight": 0.0, "id": 2780765902, "level": 4}
+{"count": 1099, "name": "PTPN11", "weight": 0.0, "id": 31734879, "level": 4}
+{"count": 296, "name": "Norrie disease", "weight": 0.0, "id": 2776719946, "level": 4}
+{"count": 449, "name": "Knockdown resistance", "weight": 0.0, "id": 2780211283, "level": 4}
+{"count": 266, "name": "Muller's ratchet", "weight": 0.0, "id": 40483974, "level": 4}
+{"count": 935, "name": "Maturity onset diabetes of the young", "weight": 0.0, "id": 2780203522, "level": 4}
+{"count": 424, "name": "Neonatal diabetes mellitus", "weight": 0.0, "id": 2776865833, "level": 4}
+{"count": 1203, "name": "Deletion mapping", "weight": 0.0, "id": 150305515, "level": 4}
+{"count": 804, "name": "ATRX", "weight": 0.0, "id": 2776689207, "level": 4}
+{"count": 189, "name": "Gerstmann\u2013Str\u00e4ussler\u2013Scheinker syndrome", "weight": 0.0, "id": 2781278755, "level": 4}
+{"count": 279, "name": "Omenn syndrome", "weight": 0.0, "id": 2780174925, "level": 4}
+{"count": 786, "name": "CHEK2", "weight": 0.0, "id": 2776071976, "level": 4}
+{"count": 1525, "name": "NPM1", "weight": 0.0, "id": 2483381, "level": 4}
+{"count": 671, "name": "BAP1", "weight": 0.0, "id": 37846818, "level": 4}
+{"count": 624, "name": "Episodic ataxia", "weight": 0.0, "id": 2781164740, "level": 4}
+{"count": 337, "name": "Lattice corneal dystrophy", "weight": 0.0, "id": 2776725238, "level": 4}
+{"count": 2152, "name": "Resistance mutation", "weight": 0.0, "id": 182707283, "level": 4}
+{"count": 390, "name": "DAX1", "weight": 0.0, "id": 76880259, "level": 4}
+{"count": 1234, "name": "CEBPA", "weight": 0.0, "id": 45091340, "level": 4}
+{"count": 336, "name": "STK11", "weight": 0.0, "id": 2777983448, "level": 4}
+{"count": 241, "name": "PAX9", "weight": 0.0, "id": 2776939368, "level": 4}
+{"count": 221, "name": "Pseudoachondroplasia", "weight": 0.0, "id": 2780876583, "level": 4}
+{"count": 164, "name": "Frasier syndrome", "weight": 0.0, "id": 2778460591, "level": 4}
+{"count": 202, "name": "Retinitis pigmentosa GTPase regulator", "weight": 0.0, "id": 2780927779, "level": 4}
+{"count": 703, "name": "Germline mosaicism", "weight": 0.0, "id": 48720390, "level": 4}
+{"count": 161, "name": "Oculodentodigital dysplasia", "weight": 0.0, "id": 2778332769, "level": 4}
+{"count": 162, "name": "Transition (genetics)", "weight": 0.0, "id": 194232998, "level": 4}
+{"count": 100, "name": "Townes\u2013Brocks syndrome", "weight": 0.0, "id": 2781352265, "level": 4}
+{"count": 69, "name": "Glycine\u2014tRNA ligase", "weight": 0.0, "id": 2779113870, "level": 4}
+{"count": 284, "name": "ABCC6", "weight": 0.0, "id": 2778765848, "level": 4}
+{"count": 82, "name": "MASA syndrome", "weight": 0.0, "id": 2777765347, "level": 4}
+{"count": 301, "name": "CDKL5", "weight": 0.0, "id": 2780357552, "level": 4}
+{"count": 475, "name": "TARDBP", "weight": 0.0, "id": 2781394247, "level": 4}
+{"count": 57, "name": "Axenfeld syndrome", "weight": 0.0, "id": 2779185501, "level": 4}
+{"count": 157, "name": "Mowat\u2013Wilson syndrome", "weight": 0.0, "id": 2781295014, "level": 4}
+{"count": 60, "name": "X linked thrombocytopenia", "weight": 0.0, "id": 2776516376, "level": 4}
+{"count": 826, "name": "Suppressor mutation", "weight": 0.0, "id": 26567756, "level": 4}
+{"count": 383, "name": "Enlarged vestibular aqueduct", "weight": 0.0, "id": 2779665455, "level": 4}
+{"count": 259, "name": "NIPBL", "weight": 0.0, "id": 147062788, "level": 4}
+{"count": 311, "name": "Generalized epilepsy with febrile seizures plus", "weight": 0.0, "id": 2777361737, "level": 4}
+{"count": 187, "name": "White (mutation)", "weight": 0.0, "id": 56273599, "level": 4}
+{"count": 354, "name": "IRF6", "weight": 0.0, "id": 2779309636, "level": 4}
+{"count": 231, "name": "ABCC8", "weight": 0.0, "id": 2778537969, "level": 4}
+{"count": 150, "name": "Occipital horn syndrome", "weight": 0.0, "id": 2777224948, "level": 4}
+{"count": 3768, "name": "V600E", "weight": 0.0, "id": 2776470698, "level": 4}
+{"count": 117, "name": "Hoyeraal-Hreidarsson syndrome", "weight": 0.0, "id": 2777912323, "level": 4}
+{"count": 132, "name": "SALL1", "weight": 0.0, "id": 2776914264, "level": 4}
+{"count": 230, "name": "OCA2", "weight": 0.0, "id": 2778673506, "level": 4}
+{"count": 175, "name": "Familial atrial fibrillation", "weight": 0.0, "id": 2776823665, "level": 4}
+{"count": 233, "name": "MED12", "weight": 0.0, "id": 2776624069, "level": 4}
+{"count": 184, "name": "Timothy syndrome", "weight": 0.0, "id": 2778802284, "level": 4}
+{"count": 384, "name": "Congenital disorder of glycosylation", "weight": 0.0, "id": 2776129412, "level": 4}
+{"count": 165, "name": "SURF1", "weight": 0.0, "id": 2778622817, "level": 4}
+{"count": 66, "name": "ATP1A2", "weight": 0.0, "id": 2778330009, "level": 4}
+{"count": 90, "name": "Fechtner syndrome", "weight": 0.0, "id": 2781374067, "level": 4}
+{"count": 209, "name": "ABCA3", "weight": 0.0, "id": 2776287662, "level": 4}
+{"count": 522, "name": "TGFBI", "weight": 0.0, "id": 2778615650, "level": 4}
+{"count": 207, "name": "RASopathy", "weight": 0.0, "id": 2778534569, "level": 4}
+{"count": 229, "name": "BSCL2", "weight": 0.0, "id": 2776014877, "level": 4}
+{"count": 252, "name": "Keratin 1", "weight": 0.0, "id": 2779803648, "level": 4}
+{"count": 154, "name": "KCNJ10", "weight": 0.0, "id": 2779675473, "level": 4}
+{"count": 281, "name": "KCNE2", "weight": 0.0, "id": 2778263927, "level": 4}
+{"count": 292, "name": "CYBB", "weight": 0.0, "id": 2781217683, "level": 4}
+{"count": 333, "name": "GNAQ", "weight": 0.0, "id": 2779176653, "level": 4}
+{"count": 192, "name": "Mitochondrial DNA depletion syndrome", "weight": 0.0, "id": 2778657125, "level": 4}
+{"count": 1204, "name": "Cancer syndrome", "weight": 0.0, "id": 2777277851, "level": 4}
+{"count": 47, "name": "Hand-Foot-Genital Syndrome", "weight": 0.0, "id": 2779003339, "level": 4}
+{"count": 223, "name": "TP63", "weight": 0.0, "id": 2781156404, "level": 4}
+{"count": 237, "name": "Frontotemporal dementia and parkinsonism linked to chromosome 17", "weight": 0.0, "id": 2777059591, "level": 4}
+{"count": 107, "name": "ATP1A3", "weight": 0.0, "id": 2776285506, "level": 4}
+{"count": 296, "name": "SCN1B", "weight": 0.0, "id": 2779281278, "level": 4}
+{"count": 82, "name": "Slipped strand mispairing", "weight": 0.0, "id": 141579550, "level": 4}
+{"count": 175, "name": "ATP2A2", "weight": 0.0, "id": 2780523128, "level": 4}
+{"count": 253, "name": "CRB1", "weight": 0.0, "id": 2780390893, "level": 4}
+{"count": 135, "name": "Synpolydactyly", "weight": 0.0, "id": 2781259359, "level": 4}
+{"count": 251, "name": "GABRG2", "weight": 0.0, "id": 2777947907, "level": 4}
+{"count": 226, "name": "Permanent neonatal diabetes mellitus", "weight": 0.0, "id": 2781045103, "level": 4}
+{"count": 173, "name": "Mitochondrial trifunctional protein", "weight": 0.0, "id": 2777033522, "level": 4}
+{"count": 242, "name": "Obligate carrier", "weight": 0.0, "id": 2778773254, "level": 4}
+{"count": 326, "name": "CARD11", "weight": 0.0, "id": 2781270172, "level": 4}
+{"count": 262, "name": "CDH23", "weight": 0.0, "id": 2776701069, "level": 4}
+{"count": 228, "name": "SMC1A", "weight": 0.0, "id": 2779168256, "level": 4}
+{"count": 212, "name": "Pseudodeficiency alleles", "weight": 0.0, "id": 193051597, "level": 4}
+{"count": 164, "name": "MPV17", "weight": 0.0, "id": 2780706004, "level": 4}
+{"count": 259, "name": "SGCE", "weight": 0.0, "id": 2778621688, "level": 4}
+{"count": 392, "name": "BRIP1", "weight": 0.0, "id": 2776561399, "level": 4}
+{"count": 152, "name": "X-linked intellectual disability", "weight": 0.0, "id": 2779277417, "level": 4}
+{"count": 81, "name": "Schmid metaphyseal chondrodysplasia", "weight": 0.0, "id": 2780699192, "level": 4}
+{"count": 155, "name": "NLRP7", "weight": 0.0, "id": 2777651691, "level": 4}
+{"count": 68, "name": "Ichthyosis bullosa of Siemens", "weight": 0.0, "id": 2778698517, "level": 4}
+{"count": 65, "name": "Opitz G/BBB Syndrome", "weight": 0.0, "id": 2776989525, "level": 4}
+{"count": 197, "name": "CLN8", "weight": 0.0, "id": 2779181360, "level": 4}
+{"count": 70, "name": "Nance\u2013Horan syndrome", "weight": 0.0, "id": 2780437957, "level": 4}
+{"count": 149, "name": "IKBKAP", "weight": 0.0, "id": 2776991066, "level": 4}
+{"count": 83, "name": "Muenke syndrome", "weight": 0.0, "id": 2778538905, "level": 4}
+{"count": 629, "name": "COLD-PCR", "weight": 0.0, "id": 50524450, "level": 4}
+{"count": 25, "name": "Neuropathy, ataxia, and retinitis pigmentosa", "weight": 0.0, "id": 2779829913, "level": 4}
+{"count": 43, "name": "MT-ATP6", "weight": 0.0, "id": 2779876467, "level": 4}
+{"count": 41, "name": "Hereditary folate malabsorption", "weight": 0.0, "id": 2779589226, "level": 4}
+{"count": 60, "name": "B\u00f6rjeson-Forssman-Lehmann syndrome", "weight": 0.0, "id": 2777081292, "level": 4}
+{"count": 138, "name": "SH3BP2", "weight": 0.0, "id": 2778463715, "level": 4}
+{"count": 128, "name": "G6PC3", "weight": 0.0, "id": 2778489410, "level": 4}
+{"count": 201, "name": "PCDH15", "weight": 0.0, "id": 2776637349, "level": 4}
+{"count": 37, "name": "MT-ND1", "weight": 0.0, "id": 2778190054, "level": 4}
+{"count": 24, "name": "MT-ND5", "weight": 0.0, "id": 2776993406, "level": 4}
+{"count": 135, "name": "DGUOK", "weight": 0.0, "id": 2776571814, "level": 4}
+{"count": 78, "name": "Postzygotic mutation", "weight": 0.0, "id": 2776518116, "level": 4}
+{"count": 110, "name": "SUCLA2", "weight": 0.0, "id": 2779515569, "level": 4}
+{"count": 162, "name": "CLCNKB", "weight": 0.0, "id": 2777128927, "level": 4}
+{"count": 126, "name": "Ectodysplasin A", "weight": 0.0, "id": 2776433152, "level": 4}
+{"count": 91, "name": "GNA13", "weight": 0.0, "id": 2777935078, "level": 4}
+{"count": 30, "name": "Fisher's geometric model", "weight": 0.0, "id": 2779704962, "level": 4}
+{"count": 124, "name": "TMEM67", "weight": 0.0, "id": 2780116112, "level": 4}
+{"count": 531, "name": "Epistasis and functional genomics", "weight": 0.0, "id": 36653963, "level": 4}
+{"count": 27, "name": "Rapadilino syndrome", "weight": 0.0, "id": 2777709490, "level": 4}
+{"count": 94, "name": "BCKDHA", "weight": 0.0, "id": 2776008111, "level": 4}
+{"count": 109, "name": "Keratitis\u2013ichthyosis\u2013deafness syndrome", "weight": 0.0, "id": 2780081607, "level": 4}
+{"count": 25, "name": "N-acetylglucosamine-6-sulfatase", "weight": 0.0, "id": 2777522806, "level": 4}
+{"count": 103, "name": "Molecular lesion", "weight": 0.0, "id": 2779131952, "level": 4}
+{"count": 123, "name": "DEPDC5", "weight": 0.0, "id": 2779951358, "level": 4}
+{"count": 190, "name": "UNC13D", "weight": 0.0, "id": 2779057471, "level": 4}
+{"count": 45, "name": "Congenital tufting enteropathy", "weight": 0.0, "id": 2778997546, "level": 4}
+{"count": 92, "name": "WDR45", "weight": 0.0, "id": 2778835169, "level": 4}
+{"count": 170, "name": "POLD1", "weight": 0.0, "id": 2779169086, "level": 4}
+{"count": 15, "name": "Haim\u2013Munk syndrome", "weight": 0.0, "id": 2776707792, "level": 4}
+{"count": 71, "name": "TBX22", "weight": 0.0, "id": 2777515561, "level": 4}
+{"count": 53, "name": "USP26", "weight": 0.0, "id": 2780003361, "level": 4}
+{"count": 101, "name": "RPS6KA3", "weight": 0.0, "id": 2779429690, "level": 4}
+{"count": 39, "name": "Genitopatellar syndrome", "weight": 0.0, "id": 2777767922, "level": 4}
+{"count": 40, "name": "Ectodysplasin A receptor", "weight": 0.0, "id": 2779924500, "level": 4}
+{"count": 147, "name": "TINF2", "weight": 0.0, "id": 2778816604, "level": 4}
+{"count": 29, "name": "KCTD7", "weight": 0.0, "id": 2780823338, "level": 4}
+{"count": 128, "name": "Benign familial neonatal seizures", "weight": 0.0, "id": 2776782968, "level": 4}
+{"count": 53, "name": "Nyctalopin", "weight": 0.0, "id": 2778897975, "level": 4}
+{"count": 57, "name": "Lysosomal trafficking regulator", "weight": 0.0, "id": 2779658771, "level": 4}
+{"count": 68, "name": "SGCG", "weight": 0.0, "id": 2779385341, "level": 4}
+{"count": 65, "name": "LDB3", "weight": 0.0, "id": 2779100766, "level": 4}
+{"count": 27, "name": "Oculofaciocardiodental syndrome", "weight": 0.0, "id": 2776289765, "level": 4}
+{"count": 65, "name": "CC2D2A", "weight": 0.0, "id": 2780727363, "level": 4}
+{"count": 65, "name": "Ocular albinism type 1", "weight": 0.0, "id": 2781108473, "level": 4}
+{"count": 55, "name": "Ogden Syndrome", "weight": 0.0, "id": 2778698001, "level": 4}
+{"count": 63, "name": "L2HGDH", "weight": 0.0, "id": 2778472749, "level": 4}
+{"count": 105, "name": "Evolutionary capacitance", "weight": 0.0, "id": 110436172, "level": 4}
+{"count": 27, "name": "Singleton Merten syndrome", "weight": 0.0, "id": 2781191842, "level": 4}

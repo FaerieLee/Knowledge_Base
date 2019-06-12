@@ -1,0 +1,200 @@
+{"count": 317239, "name": "Oscillation", "weight": 4.0, "id": 26733877, "level": 2}
+{"count": 204510, "name": "Signal processing", "weight": 2.0, "id": 104267543, "level": 2}
+{"count": 254340, "name": "Optical fiber", "weight": 3.0, "id": 194232370, "level": 2}
+{"count": 418255, "name": "Dielectric", "weight": 5.0, "id": 133386390, "level": 2}
+{"count": 119703, "name": "Electromagnetic radiation", "weight": 1.0, "id": 149773537, "level": 2}
+{"count": 704540, "name": "Electrode", "weight": 9.0, "id": 17525397, "level": 2}
+{"count": 242262, "name": "Chip", "weight": 3.0, "id": 165005293, "level": 2}
+{"count": 100286, "name": "Signal-to-noise ratio", "weight": 1.0, "id": 73836528, "level": 2}
+{"count": 203554, "name": "Integrated circuit", "weight": 2.0, "id": 530198007, "level": 2}
+{"count": 201692, "name": "Calibration", "weight": 2.0, "id": 165838908, "level": 2}
+{"count": 191429, "name": "Electric power system", "weight": 2.0, "id": 89227174, "level": 2}
+{"count": 62584, "name": "Gallium arsenide", "weight": 0.0, "id": 510052550, "level": 2}
+{"count": 211971, "name": "Bandwidth (signal processing)", "weight": 2.0, "id": 74211669, "level": 2}
+{"count": 33285, "name": "Low frequency", "weight": 0.0, "id": 104892082, "level": 2}
+{"count": 154516, "name": "CMOS", "weight": 2.0, "id": 46362747, "level": 2}
+{"count": 157675, "name": "Electricity generation", "weight": 2.0, "id": 423512, "level": 2}
+{"count": 83483, "name": "Electromagnetic field", "weight": 1.0, "id": 28843909, "level": 2}
+{"count": 81427, "name": "Current density", "weight": 1.0, "id": 207740977, "level": 2}
+{"count": 66704, "name": "Error detection and correction", "weight": 0.0, "id": 103088060, "level": 2}
+{"count": 676537, "name": "Voltage", "weight": 9.0, "id": 165801399, "level": 2}
+{"count": 61183, "name": "Transfer function", "weight": 0.0, "id": 81299745, "level": 2}
+{"count": 194945, "name": "Interference (wave propagation)", "weight": 2.0, "id": 163517525, "level": 2}
+{"count": 136132, "name": "Electrical impedance", "weight": 1.0, "id": 17829176, "level": 2}
+{"count": 497273, "name": "Transmission (mechanics)", "weight": 6.0, "id": 40827391, "level": 2}
+{"count": 90844, "name": "Frequency domain", "weight": 1.0, "id": 19118579, "level": 2}
+{"count": 102563, "name": "Radio frequency", "weight": 1.0, "id": 74064498, "level": 2}
+{"count": 104346, "name": "Data acquisition", "weight": 1.0, "id": 163985040, "level": 2}
+{"count": 281063, "name": "Electronic circuit", "weight": 3.0, "id": 134146338, "level": 2}
+{"count": 47438, "name": "Phase (waves)", "weight": 0.0, "id": 120418882, "level": 2}
+{"count": 214369, "name": "Modulation", "weight": 2.0, "id": 54956558, "level": 2}
+{"count": 139218, "name": "Data transmission", "weight": 1.0, "id": 557945733, "level": 2}
+{"count": 83682, "name": "Field-effect transistor", "weight": 1.0, "id": 145598152, "level": 2}
+{"count": 87122, "name": "Transmission line", "weight": 1.0, "id": 33441834, "level": 2}
+{"count": 133178, "name": "Light-emitting diode", "weight": 1.0, "id": 176666156, "level": 2}
+{"count": 121786, "name": "Solar cell", "weight": 1.0, "id": 2780824857, "level": 2}
+{"count": 218013, "name": "Semiconductor device", "weight": 3.0, "id": 79635011, "level": 2}
+{"count": 361889, "name": "Coupling", "weight": 5.0, "id": 112833530, "level": 2}
+{"count": 472030, "name": "Detector", "weight": 6.0, "id": 94915269, "level": 2}
+{"count": 35215, "name": "Optical communication", "weight": 0.0, "id": 129404179, "level": 2}
+{"count": 214044, "name": "Microwave", "weight": 2.0, "id": 44838205, "level": 2}
+{"count": 49675, "name": "Very-large-scale integration", "weight": 0.0, "id": 14580979, "level": 2}
+{"count": 361177, "name": "Antenna (radio)", "weight": 5.0, "id": 21822782, "level": 2}
+{"count": 213928, "name": "Magnet", "weight": 2.0, "id": 16389437, "level": 2}
+{"count": 33360, "name": "Digital filter", "weight": 0.0, "id": 36390408, "level": 2}
+{"count": 90548, "name": "Energy storage", "weight": 1.0, "id": 73916439, "level": 2}
+{"count": 53102, "name": "Temperature measurement", "weight": 0.0, "id": 72293138, "level": 2}
+{"count": 50508, "name": "Equivalent circuit", "weight": 0.0, "id": 23572009, "level": 2}
+{"count": 57740, "name": "Logic gate", "weight": 0.0, "id": 131017901, "level": 2}
+{"count": 48578, "name": "Adaptive filter", "weight": 0.0, "id": 102248274, "level": 2}
+{"count": 43262, "name": "Fast Fourier transform", "weight": 0.0, "id": 75172450, "level": 2}
+{"count": 121598, "name": "Wind power", "weight": 1.0, "id": 78600449, "level": 2}
+{"count": 40979, "name": "Band-pass filter", "weight": 0.0, "id": 147788027, "level": 2}
+{"count": 92303, "name": "Field-programmable gate array", "weight": 1.0, "id": 42935608, "level": 2}
+{"count": 161681, "name": "Excitation", "weight": 2.0, "id": 83581075, "level": 2}
+{"count": 56757, "name": "Measuring instrument", "weight": 0.0, "id": 62646347, "level": 2}
+{"count": 188029, "name": "Communications system", "weight": 2.0, "id": 101765175, "level": 2}
+{"count": 27234, "name": "Detection theory", "weight": 0.0, "id": 137270730, "level": 2}
+{"count": 211945, "name": "Filter (signal processing)", "weight": 2.0, "id": 106131492, "level": 2}
+{"count": 80074, "name": "Time domain", "weight": 1.0, "id": 103824480, "level": 2}
+{"count": 220435, "name": "Capacitor", "weight": 3.0, "id": 52192207, "level": 2}
+{"count": 66968, "name": "Quantization (signal processing)", "weight": 0.0, "id": 28855332, "level": 2}
+{"count": 57991, "name": "Frequency response", "weight": 0.0, "id": 8590192, "level": 2}
+{"count": 26311, "name": "Spread spectrum", "weight": 0.0, "id": 105344744, "level": 2}
+{"count": 31734, "name": "Energy transformation", "weight": 0.0, "id": 144822601, "level": 2}
+{"count": 130620, "name": "Capacitance", "weight": 1.0, "id": 30066665, "level": 2}
+{"count": 172273, "name": "Waveguide", "weight": 2.0, "id": 200687136, "level": 2}
+{"count": 160899, "name": "Electric power", "weight": 2.0, "id": 40293303, "level": 2}
+{"count": 57852, "name": "Noise reduction", "weight": 0.0, "id": 163294075, "level": 2}
+{"count": 93626, "name": "Input/output", "weight": 1.0, "id": 196697905, "level": 2}
+{"count": 25089, "name": "Selectivity", "weight": 0.0, "id": 118792377, "level": 2}
+{"count": 250973, "name": "Pixel", "weight": 3.0, "id": 160633673, "level": 2}
+{"count": 36877, "name": "Electric potential", "weight": 0.0, "id": 58570533, "level": 2}
+{"count": 27458, "name": "Network analysis", "weight": 0.0, "id": 32946077, "level": 2}
+{"count": 96485, "name": "Pulse-width modulation", "weight": 1.0, "id": 92746544, "level": 2}
+{"count": 482701, "name": "Semiconductor", "weight": 6.0, "id": 108225325, "level": 2}
+{"count": 60836, "name": "Induction motor", "weight": 0.0, "id": 80962145, "level": 2}
+{"count": 717151, "name": "Communication channel", "weight": 10.0, "id": 156996364, "level": 2}
+{"count": 36462, "name": "Electrical network", "weight": 0.0, "id": 196796808, "level": 2}
+{"count": 38025, "name": "Circuit design", "weight": 0.0, "id": 190560348, "level": 2}
+{"count": 19080, "name": "Finite impulse response", "weight": 0.0, "id": 198386975, "level": 2}
+{"count": 170491, "name": "Radar", "weight": 2.0, "id": 554190296, "level": 2}
+{"count": 50408, "name": "Nondestructive testing", "weight": 0.0, "id": 56529433, "level": 2}
+{"count": 43177, "name": "Electron mobility", "weight": 0.0, "id": 106782819, "level": 2}
+{"count": 206339, "name": "Amplifier", "weight": 2.0, "id": 194257627, "level": 2}
+{"count": 136451, "name": "Electronics", "weight": 1.0, "id": 138331895, "level": 2}
+{"count": 32449, "name": "Low-pass filter", "weight": 0.0, "id": 44682112, "level": 2}
+{"count": 49384, "name": "Electric current", "weight": 0.0, "id": 116468062, "level": 2}
+{"count": 25235, "name": "Transient response", "weight": 0.0, "id": 85761212, "level": 2}
+{"count": 28448, "name": "Wide-bandgap semiconductor", "weight": 0.0, "id": 189278905, "level": 2}
+{"count": 58966, "name": "Electric power transmission", "weight": 0.0, "id": 140311924, "level": 2}
+{"count": 209475, "name": "Transistor", "weight": 2.0, "id": 172385210, "level": 2}
+{"count": 381825, "name": "Electrical conductor", "weight": 5.0, "id": 202374169, "level": 2}
+{"count": 28451, "name": "Power electronics", "weight": 0.0, "id": 178911571, "level": 2}
+{"count": 46516, "name": "Wavelength-division multiplexing", "weight": 0.0, "id": 160724564, "level": 2}
+{"count": 163264, "name": "Leakage (electronics)", "weight": 2.0, "id": 151763599, "level": 2}
+{"count": 28621, "name": "Dynamic range", "weight": 0.0, "id": 87133666, "level": 2}
+{"count": 60289, "name": "Power transmission", "weight": 0.0, "id": 92018576, "level": 2}
+{"count": 123293, "name": "Piezoelectricity", "weight": 1.0, "id": 100082104, "level": 2}
+{"count": 19039, "name": "Time\u2013frequency analysis", "weight": 0.0, "id": 142433447, "level": 2}
+{"count": 30459, "name": "Gaussian noise", "weight": 0.0, "id": 4199805, "level": 2}
+{"count": 33329, "name": "Space charge", "weight": 0.0, "id": 103132145, "level": 2}
+{"count": 75346, "name": "Digital signal processing", "weight": 1.0, "id": 84462506, "level": 2}
+{"count": 45908, "name": "Energy conversion efficiency", "weight": 0.0, "id": 206991015, "level": 2}
+{"count": 166540, "name": "Photovoltaic system", "weight": 2.0, "id": 41291067, "level": 2}
+{"count": 67276, "name": "Inductor", "weight": 0.0, "id": 144534570, "level": 2}
+{"count": 52071, "name": "Near and far field", "weight": 0.0, "id": 25227671, "level": 2}
+{"count": 57805, "name": "Power control", "weight": 0.0, "id": 56685638, "level": 2}
+{"count": 361294, "name": "Amplitude", "weight": 5.0, "id": 180205008, "level": 2}
+{"count": 158114, "name": "Transmitter", "weight": 2.0, "id": 47798520, "level": 2}
+{"count": 99214, "name": "Electricity", "weight": 1.0, "id": 206658404, "level": 2}
+{"count": 38102, "name": "Optical switch", "weight": 0.0, "id": 101336846, "level": 2}
+{"count": 54255, "name": "MOSFET", "weight": 0.0, "id": 2778413303, "level": 2}
+{"count": 29850, "name": "Extremely high frequency", "weight": 0.0, "id": 45764600, "level": 2}
+{"count": 18822, "name": "Mobile radio", "weight": 0.0, "id": 2781307350, "level": 2}
+{"count": 25163, "name": "Integrated circuit design", "weight": 0.0, "id": 74524168, "level": 2}
+{"count": 113901, "name": "Waveform", "weight": 1.0, "id": 197424946, "level": 2}
+{"count": 24115, "name": "System on a chip", "weight": 0.0, "id": 118021083, "level": 2}
+{"count": 43183, "name": "Phase-locked loop", "weight": 0.0, "id": 12707504, "level": 2}
+{"count": 58677, "name": "Photodetector", "weight": 0.0, "id": 23125352, "level": 2}
+{"count": 30856, "name": "Optical filter", "weight": 0.0, "id": 45613198, "level": 2}
+{"count": 218651, "name": "Wafer", "weight": 3.0, "id": 160671074, "level": 2}
+{"count": 181037, "name": "Diode", "weight": 2.0, "id": 78434282, "level": 2}
+{"count": 26131, "name": "Time constant", "weight": 0.0, "id": 81370116, "level": 2}
+{"count": 51360, "name": "Fault detection and isolation", "weight": 0.0, "id": 152745839, "level": 2}
+{"count": 32753, "name": "Noise measurement", "weight": 0.0, "id": 29265498, "level": 2}
+{"count": 11555, "name": "Radio receiver", "weight": 0.0, "id": 77602650, "level": 2}
+{"count": 143614, "name": "Distortion", "weight": 2.0, "id": 115225779, "level": 2}
+{"count": 19182, "name": "Matched filter", "weight": 0.0, "id": 50151734, "level": 2}
+{"count": 41652, "name": "Silicon on insulator", "weight": 0.0, "id": 53143962, "level": 2}
+{"count": 70106, "name": "Power factor", "weight": 0.0, "id": 64424096, "level": 2}
+{"count": 19532, "name": "System of measurement", "weight": 0.0, "id": 37649242, "level": 2}
+{"count": 33208, "name": "Power density", "weight": 0.0, "id": 21881925, "level": 2}
+{"count": 118268, "name": "Transducer", "weight": 1.0, "id": 56318395, "level": 2}
+{"count": 33509, "name": "Eddy current", "weight": 0.0, "id": 131357438, "level": 2}
+{"count": 27374, "name": "Sensor array", "weight": 0.0, "id": 66251956, "level": 2}
+{"count": 18438, "name": "System testing", "weight": 0.0, "id": 7166840, "level": 2}
+{"count": 18369, "name": "Logic synthesis", "weight": 0.0, "id": 157922185, "level": 2}
+{"count": 189536, "name": "Printed circuit board", "weight": 2.0, "id": 120793396, "level": 2}
+{"count": 154502, "name": "Transformer", "weight": 2.0, "id": 66322947, "level": 2}
+{"count": 29068, "name": "Phase noise", "weight": 0.0, "id": 89631360, "level": 2}
+{"count": 33472, "name": "Frequency modulation", "weight": 0.0, "id": 11930861, "level": 2}
+{"count": 23654, "name": "Electrical equipment", "weight": 0.0, "id": 162175671, "level": 2}
+{"count": 100372, "name": "Electric motor", "weight": 1.0, "id": 176871988, "level": 2}
+{"count": 21777, "name": "Surface micromachining", "weight": 0.0, "id": 145667562, "level": 2}
+{"count": 52498, "name": "Transceiver", "weight": 0.0, "id": 7720470, "level": 2}
+{"count": 34533, "name": "Electromagnetic interference", "weight": 0.0, "id": 184892835, "level": 2}
+{"count": 46252, "name": "Inductance", "weight": 0.0, "id": 29210110, "level": 2}
+{"count": 35426, "name": "Electric charge", "weight": 0.0, "id": 40937832, "level": 2}
+{"count": 74591, "name": "Photonics", "weight": 1.0, "id": 20788544, "level": 2}
+{"count": 212008, "name": "Ultrasonic sensor", "weight": 2.0, "id": 81288441, "level": 2}
+{"count": 164707, "name": "Aperture", "weight": 2.0, "id": 188954035, "level": 2}
+{"count": 21978, "name": "Miniaturization", "weight": 0.0, "id": 57528182, "level": 2}
+{"count": 45286, "name": "Accelerometer", "weight": 0.0, "id": 89805583, "level": 2}
+{"count": 26809, "name": "Schottky barrier", "weight": 0.0, "id": 16115445, "level": 2}
+{"count": 20606, "name": "Active filter", "weight": 0.0, "id": 85899133, "level": 2}
+{"count": 64755, "name": "Temperature control", "weight": 0.0, "id": 536315585, "level": 2}
+{"count": 24801, "name": "Impulse response", "weight": 0.0, "id": 72279823, "level": 2}
+{"count": 43528, "name": "Photodiode", "weight": 0.0, "id": 751236, "level": 2}
+{"count": 6880, "name": "CATS", "weight": 0.0, "id": 2779904517, "level": 2}
+{"count": 117049, "name": "Resonator", "weight": 1.0, "id": 97126364, "level": 2}
+{"count": 50347, "name": "Passivation", "weight": 0.0, "id": 33574316, "level": 2}
+{"count": 20737, "name": "Application-specific integrated circuit", "weight": 0.0, "id": 77390884, "level": 2}
+{"count": 22717, "name": "Reflection coefficient", "weight": 0.0, "id": 41700454, "level": 2}
+{"count": 14805, "name": "Figure of merit", "weight": 0.0, "id": 130277099, "level": 2}
+{"count": 19882, "name": "Digital electronics", "weight": 0.0, "id": 81843906, "level": 2}
+{"count": 23602, "name": "Gallium nitride", "weight": 0.0, "id": 2778871202, "level": 2}
+{"count": 25039, "name": "Insertion loss", "weight": 0.0, "id": 90327742, "level": 2}
+{"count": 60206, "name": "Interconnection", "weight": 0.0, "id": 123745756, "level": 2}
+{"count": 14647, "name": "Electrical efficiency", "weight": 0.0, "id": 118993495, "level": 2}
+{"count": 63269, "name": "Microelectromechanical systems", "weight": 0.0, "id": 37977207, "level": 2}
+{"count": 365023, "name": "Battery (electricity)", "weight": 5.0, "id": 555008776, "level": 2}
+{"count": 105640, "name": "Electromagnetic shielding", "weight": 1.0, "id": 2265751, "level": 2}
+{"count": 8136, "name": "Negative feedback", "weight": 0.0, "id": 93586867, "level": 2}
+{"count": 28427, "name": "Crosstalk", "weight": 0.0, "id": 169822122, "level": 2}
+{"count": 26071, "name": "Finite-difference time-domain method", "weight": 0.0, "id": 184880428, "level": 2}
+{"count": 9596, "name": "Linear filter", "weight": 0.0, "id": 139722471, "level": 2}
+{"count": 62532, "name": "Harmonics", "weight": 0.0, "id": 188414643, "level": 2}
+{"count": 50889, "name": "Flow measurement", "weight": 0.0, "id": 16302685, "level": 2}
+{"count": 21843, "name": "Contact resistance", "weight": 0.0, "id": 123671423, "level": 2}
+{"count": 32080, "name": "Photolithography", "weight": 0.0, "id": 105487726, "level": 2}
+{"count": 24638, "name": "Impedance matching", "weight": 0.0, "id": 612350, "level": 2}
+{"count": 51074, "name": "Demodulation", "weight": 0.0, "id": 195251586, "level": 2}
+{"count": 35060, "name": "Metamaterial", "weight": 0.0, "id": 110367647, "level": 2}
+{"count": 6202, "name": "Positive feedback", "weight": 0.0, "id": 48207687, "level": 2}
+{"count": 33320, "name": "Ohmic contact", "weight": 0.0, "id": 138230450, "level": 2}
+{"count": 12871, "name": "Electronic design automation", "weight": 0.0, "id": 64260653, "level": 2}
+{"count": 15122, "name": "Filter bank", "weight": 0.0, "id": 100515483, "level": 2}
+{"count": 96538, "name": "Insulator (electricity)", "weight": 1.0, "id": 212702, "level": 2}
+{"count": 21065, "name": "Automatic frequency control", "weight": 0.0, "id": 25915539, "level": 2}
+{"count": 29161, "name": "Linearity", "weight": 0.0, "id": 77170095, "level": 2}
+{"count": 14584, "name": "Charge-coupled device", "weight": 0.0, "id": 152213855, "level": 2}
+{"count": 39723, "name": "Lightning", "weight": 0.0, "id": 505276464, "level": 2}
+{"count": 251903, "name": "Electromagnetic coil", "weight": 3.0, "id": 30403606, "level": 2}
+{"count": 25257, "name": "Condition monitoring", "weight": 0.0, "id": 2775846686, "level": 2}
+{"count": 12234, "name": "Spatial filter", "weight": 0.0, "id": 121475858, "level": 2}
+{"count": 24576, "name": "Surface acoustic wave", "weight": 0.0, "id": 162954803, "level": 2}
+{"count": 30821, "name": "Duty cycle", "weight": 0.0, "id": 199822604, "level": 2}
+{"count": 67019, "name": "Pressure sensor", "weight": 0.0, "id": 41325743, "level": 2}
+{"count": 9771, "name": "Transmission loss", "weight": 0.0, "id": 2779753020, "level": 2}
+{"count": 7186, "name": "Spice", "weight": 0.0, "id": 2780077345, "level": 2}

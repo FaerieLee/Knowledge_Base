@@ -1,0 +1,27 @@
+{"count": 4232, "name": "Air traffic management", "weight": 4.0, "id": 2776777543, "level": 3}
+{"count": 3692, "name": "Free flight", "weight": 4.0, "id": 149947181, "level": 3}
+{"count": 8725, "name": "Airspace class", "weight": 10.0, "id": 110234634, "level": 3}
+{"count": 1083, "name": "Automatic dependent surveillance-broadcast", "weight": 1.0, "id": 183384803, "level": 3}
+{"count": 291, "name": "Instrument flight rules", "weight": 0.0, "id": 2777351170, "level": 3}
+{"count": 154, "name": "Ground delay program", "weight": 0.0, "id": 2777135535, "level": 3}
+{"count": 272, "name": "Visual flight rules", "weight": 0.0, "id": 2777384549, "level": 3}
+{"count": 660, "name": "Traffic collision avoidance system", "weight": 0.0, "id": 9028365, "level": 3}
+{"count": 368, "name": "Instrument meteorological conditions", "weight": 0.0, "id": 174577910, "level": 3}
+{"count": 147, "name": "Small Aircraft Transportation System", "weight": 0.0, "id": 2780071496, "level": 3}
+{"count": 256, "name": "Aeronautical Telecommunication Network", "weight": 0.0, "id": 139449052, "level": 3}
+{"count": 418, "name": "Airborne collision avoidance system", "weight": 0.0, "id": 81867528, "level": 3}
+{"count": 1291, "name": "ASDE-X", "weight": 1.0, "id": 168958951, "level": 3}
+{"count": 1840, "name": "Control zone", "weight": 2.0, "id": 19044487, "level": 3}
+{"count": 338, "name": "Controller\u2013pilot data link communications", "weight": 0.0, "id": 177056472, "level": 3}
+{"count": 257, "name": "VHF Data Link", "weight": 0.0, "id": 126242741, "level": 3}
+{"count": 1220, "name": "Wide area multilateration", "weight": 1.0, "id": 16310917, "level": 3}
+{"count": 441, "name": "Flight service station", "weight": 0.0, "id": 120815673, "level": 3}
+{"count": 248, "name": "Maneuvering area", "weight": 0.0, "id": 170860863, "level": 3}
+{"count": 26, "name": "Flight information service", "weight": 0.0, "id": 2778464067, "level": 3}
+{"count": 58, "name": "Terminal aerodrome forecast", "weight": 0.0, "id": 45846537, "level": 3}
+{"count": 116, "name": "Missed approach", "weight": 0.0, "id": 2780220977, "level": 3}
+{"count": 25, "name": "Short-term conflict alert", "weight": 0.0, "id": 2777637119, "level": 3}
+{"count": 19, "name": "Minimum safe altitude warning", "weight": 0.0, "id": 2778509612, "level": 3}
+{"count": 25, "name": "Initial approach fix", "weight": 0.0, "id": 183021823, "level": 3}
+{"count": 1101, "name": "Aircraft vectoring", "weight": 1.0, "id": 171436926, "level": 3}
+{"count": 54, "name": "North Atlantic Tracks", "weight": 0.0, "id": 127204668, "level": 3}

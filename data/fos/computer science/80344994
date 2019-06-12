@@ -1,0 +1,4 @@
+{"count": 876, "name": "Service virtualization", "weight": 10.0, "id": 22502294, "level": 5}
+{"count": 27, "name": "Database virtualization", "weight": 0.0, "id": 2776712778, "level": 5}
+{"count": 210, "name": "Overlay transport virtualization", "weight": 2.0, "id": 151292979, "level": 5}
+{"count": 100, "name": "Data proliferation", "weight": 1.0, "id": 185468968, "level": 5}

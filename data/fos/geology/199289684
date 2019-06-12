@@ -1,0 +1,200 @@
+{"count": 29218, "name": "Clay minerals", "weight": 5.0, "id": 40212044, "level": 2}
+{"count": 57695, "name": "Quartz", "weight": 10.0, "id": 2779870107, "level": 2}
+{"count": 156, "name": "Gemology", "weight": 0.0, "id": 85909142, "level": 2}
+{"count": 31383, "name": "Specific gravity", "weight": 5.0, "id": 93656029, "level": 2}
+{"count": 15632, "name": "Sapphire", "weight": 2.0, "id": 2780064504, "level": 2}
+{"count": 18281, "name": "Magnetite", "weight": 3.0, "id": 2777781897, "level": 2}
+{"count": 27368, "name": "Calcite", "weight": 4.0, "id": 2780191791, "level": 2}
+{"count": 18607, "name": "Crystal twinning", "weight": 3.0, "id": 6840138, "level": 2}
+{"count": 18195, "name": "Olivine", "weight": 3.0, "id": 2780364934, "level": 2}
+{"count": 1574, "name": "Oxide minerals", "weight": 0.0, "id": 535960306, "level": 2}
+{"count": 16274, "name": "Kaolinite", "weight": 2.0, "id": 2779899878, "level": 2}
+{"count": 14159, "name": "Chondrite", "weight": 2.0, "id": 116862484, "level": 2}
+{"count": 13301, "name": "Mica", "weight": 2.0, "id": 2781038479, "level": 2}
+{"count": 12992, "name": "Electron microprobe", "weight": 2.0, "id": 138411078, "level": 2}
+{"count": 21445, "name": "Pyrite", "weight": 3.0, "id": 2776062231, "level": 2}
+{"count": 17096, "name": "Apatite", "weight": 2.0, "id": 2777746296, "level": 2}
+{"count": 13635, "name": "Hematite", "weight": 2.0, "id": 2779131772, "level": 2}
+{"count": 23513, "name": "Spinel", "weight": 4.0, "id": 2776230739, "level": 2}
+{"count": 5509, "name": "Goethite", "weight": 0.0, "id": 2777787761, "level": 2}
+{"count": 17781, "name": "Petrography", "weight": 3.0, "id": 59235061, "level": 2}
+{"count": 18091, "name": "Dolomite", "weight": 3.0, "id": 2780181037, "level": 2}
+{"count": 10814, "name": "Feldspar", "weight": 1.0, "id": 2778520076, "level": 2}
+{"count": 8544, "name": "Chalcopyrite", "weight": 1.0, "id": 2778188036, "level": 2}
+{"count": 6357, "name": "Corundum", "weight": 1.0, "id": 2777519835, "level": 2}
+{"count": 4891, "name": "Chlorite", "weight": 0.0, "id": 2777844515, "level": 2}
+{"count": 5212, "name": "Vermiculite", "weight": 0.0, "id": 2780884618, "level": 2}
+{"count": 6436, "name": "Ilmenite", "weight": 1.0, "id": 2780375929, "level": 2}
+{"count": 5434, "name": "Fluorite", "weight": 0.0, "id": 2777081348, "level": 2}
+{"count": 9822, "name": "Plagioclase", "weight": 1.0, "id": 2779181077, "level": 2}
+{"count": 2028, "name": "Sepiolite", "weight": 0.0, "id": 2781151301, "level": 2}
+{"count": 8671, "name": "Biotite", "weight": 1.0, "id": 2777229588, "level": 2}
+{"count": 6099, "name": "Amphibole", "weight": 1.0, "id": 4992710, "level": 2}
+{"count": 5638, "name": "Muscovite", "weight": 0.0, "id": 2776581184, "level": 2}
+{"count": 3098, "name": "Gibbsite", "weight": 0.0, "id": 2777975867, "level": 2}
+{"count": 2948, "name": "Paragenesis", "weight": 0.0, "id": 154401813, "level": 2}
+{"count": 3439, "name": "Wollastonite", "weight": 0.0, "id": 2779405210, "level": 2}
+{"count": 10030, "name": "Microprobe", "weight": 1.0, "id": 125206250, "level": 2}
+{"count": 5794, "name": "Anhydrite", "weight": 1.0, "id": 2776044767, "level": 2}
+{"count": 3674, "name": "Forsterite", "weight": 0.0, "id": 2781137303, "level": 2}
+{"count": 5021, "name": "Chromite", "weight": 0.0, "id": 2781150389, "level": 2}
+{"count": 2978, "name": "Siderite", "weight": 0.0, "id": 2778572594, "level": 2}
+{"count": 3321, "name": "Carbonatite", "weight": 0.0, "id": 140441402, "level": 2}
+{"count": 3346, "name": "Halite", "weight": 0.0, "id": 2781113784, "level": 2}
+{"count": 3116, "name": "Diopside", "weight": 0.0, "id": 2777018398, "level": 2}
+{"count": 3511, "name": "Cristobalite", "weight": 0.0, "id": 2780490245, "level": 2}
+{"count": 3096, "name": "Mineral redox buffer", "weight": 0.0, "id": 93746451, "level": 2}
+{"count": 2437, "name": "Jarosite", "weight": 0.0, "id": 2775929177, "level": 2}
+{"count": 2992, "name": "Tourmaline", "weight": 0.0, "id": 2777980256, "level": 2}
+{"count": 790, "name": "Extinction (optical mineralogy)", "weight": 0.0, "id": 101991246, "level": 2}
+{"count": 5412, "name": "Pegmatite", "weight": 0.0, "id": 195845463, "level": 2}
+{"count": 3970, "name": "Albite", "weight": 0.0, "id": 2775859737, "level": 2}
+{"count": 5209, "name": "Hornblende", "weight": 0.0, "id": 2777212541, "level": 2}
+{"count": 2654, "name": "Anorthite", "weight": 0.0, "id": 2778993962, "level": 2}
+{"count": 1587, "name": "Pyrophyllite", "weight": 0.0, "id": 2780999085, "level": 2}
+{"count": 3872, "name": "Allende meteorite", "weight": 0.0, "id": 178715517, "level": 2}
+{"count": 2523, "name": "Nepheline", "weight": 0.0, "id": 2779289598, "level": 2}
+{"count": 2580, "name": "Phlogopite", "weight": 0.0, "id": 2778882853, "level": 2}
+{"count": 2547, "name": "Scheelite", "weight": 0.0, "id": 2780652833, "level": 2}
+{"count": 770, "name": "Titanomagnetite", "weight": 0.0, "id": 2781321838, "level": 2}
+{"count": 1299, "name": "Periclase", "weight": 0.0, "id": 2778758504, "level": 2}
+{"count": 1144, "name": "Tobermorite", "weight": 0.0, "id": 2780816545, "level": 2}
+{"count": 4596, "name": "Skarn", "weight": 0.0, "id": 195843664, "level": 2}
+{"count": 1344, "name": "Alunite", "weight": 0.0, "id": 2776222295, "level": 2}
+{"count": 4561, "name": "Lustre (mineralogy)", "weight": 0.0, "id": 102587638, "level": 2}
+{"count": 1069, "name": "Leucite", "weight": 0.0, "id": 2780049689, "level": 2}
+{"count": 1656, "name": "Glauconite", "weight": 0.0, "id": 2776386860, "level": 2}
+{"count": 727, "name": "Imogolite", "weight": 0.0, "id": 2780367224, "level": 2}
+{"count": 1529, "name": "Efflorescence", "weight": 0.0, "id": 91464221, "level": 2}
+{"count": 1543, "name": "Limonite", "weight": 0.0, "id": 2780136152, "level": 2}
+{"count": 1009, "name": "Sanidine", "weight": 0.0, "id": 2780669261, "level": 2}
+{"count": 1314, "name": "Topaz", "weight": 0.0, "id": 2777825866, "level": 2}
+{"count": 2517, "name": "Matrix (geology)", "weight": 0.0, "id": 56381285, "level": 2}
+{"count": 863, "name": "Pyrope", "weight": 0.0, "id": 76349523, "level": 2}
+{"count": 337, "name": "Hollandite", "weight": 0.0, "id": 2781084986, "level": 2}
+{"count": 2569, "name": "Emerald", "weight": 0.0, "id": 2777322498, "level": 2}
+{"count": 1001, "name": "Melilite", "weight": 0.0, "id": 2778635928, "level": 2}
+{"count": 862, "name": "Cobaltite", "weight": 0.0, "id": 2778420536, "level": 2}
+{"count": 513, "name": "Almandine", "weight": 0.0, "id": 2781374366, "level": 2}
+{"count": 477, "name": "Gehlenite", "weight": 0.0, "id": 2776458279, "level": 2}
+{"count": 697, "name": "EMPA", "weight": 0.0, "id": 2780652884, "level": 2}
+{"count": 608, "name": "Aegirine", "weight": 0.0, "id": 2781052440, "level": 2}
+{"count": 571, "name": "Mirabilite", "weight": 0.0, "id": 2780985392, "level": 2}
+{"count": 672, "name": "Tektite", "weight": 0.0, "id": 2780293443, "level": 2}
+{"count": 291, "name": "\u00c5kermanite", "weight": 0.0, "id": 2778899072, "level": 2}
+{"count": 2006, "name": "Turquoise", "weight": 0.0, "id": 2777539889, "level": 2}
+{"count": 755, "name": "Natron", "weight": 0.0, "id": 2776387513, "level": 2}
+{"count": 409, "name": "Laumontite", "weight": 0.0, "id": 2777888938, "level": 2}
+{"count": 1494, "name": "Gesso", "weight": 0.0, "id": 2781407378, "level": 2}
+{"count": 97, "name": "Peridot", "weight": 0.0, "id": 2777999846, "level": 2}
+{"count": 459, "name": "Celestine", "weight": 0.0, "id": 2778443999, "level": 2}
+{"count": 462, "name": "Xonotlite", "weight": 0.0, "id": 2776962427, "level": 2}
+{"count": 1554, "name": "Gemstone", "weight": 0.0, "id": 2780137704, "level": 2}
+{"count": 418, "name": "Flint glass", "weight": 0.0, "id": 99554922, "level": 2}
+{"count": 5844, "name": "Streak", "weight": 1.0, "id": 65185188, "level": 2}
+{"count": 232, "name": "Chrysoberyl", "weight": 0.0, "id": 2776629899, "level": 2}
+{"count": 577, "name": "Gossan", "weight": 0.0, "id": 165357019, "level": 2}
+{"count": 460, "name": "Stannite", "weight": 0.0, "id": 2778816927, "level": 2}
+{"count": 580, "name": "Grossular", "weight": 0.0, "id": 2776008383, "level": 2}
+{"count": 334, "name": "Bixbyite", "weight": 0.0, "id": 2780301529, "level": 2}
+{"count": 174, "name": "Iron gall ink", "weight": 0.0, "id": 2781305411, "level": 2}
+{"count": 355, "name": "Baryte", "weight": 0.0, "id": 2775901815, "level": 2}
+{"count": 354, "name": "Langbeinite", "weight": 0.0, "id": 2778324615, "level": 2}
+{"count": 713, "name": "Hydrometer", "weight": 0.0, "id": 2778453371, "level": 2}
+{"count": 177, "name": "Tuffite", "weight": 0.0, "id": 2780183768, "level": 2}
+{"count": 356, "name": "Prehnite", "weight": 0.0, "id": 2777242732, "level": 2}
+{"count": 225, "name": "QEMSCAN", "weight": 0.0, "id": 104559278, "level": 2}
+{"count": 308, "name": "Chamosite", "weight": 0.0, "id": 2779071597, "level": 2}
+{"count": 595, "name": "Greisen", "weight": 0.0, "id": 37282123, "level": 2}
+{"count": 274, "name": "Magnesioferrite", "weight": 0.0, "id": 2778409146, "level": 2}
+{"count": 548, "name": "Pseudomorph", "weight": 0.0, "id": 10912530, "level": 2}
+{"count": 217, "name": "Anorthoclase", "weight": 0.0, "id": 2780636784, "level": 2}
+{"count": 330, "name": "Litharge", "weight": 0.0, "id": 167635338, "level": 2}
+{"count": 457, "name": "Antiperovskite", "weight": 0.0, "id": 2776905175, "level": 2}
+{"count": 207, "name": "Petrified wood", "weight": 0.0, "id": 2778498485, "level": 2}
+{"count": 582, "name": "Hypersthene", "weight": 0.0, "id": 2781447690, "level": 2}
+{"count": 312, "name": "Mineral alteration", "weight": 0.0, "id": 2776547105, "level": 2}
+{"count": 122, "name": "Permineralization", "weight": 0.0, "id": 89409637, "level": 2}
+{"count": 179, "name": "Geode", "weight": 0.0, "id": 63634922, "level": 2}
+{"count": 96, "name": "Solnhofen limestone", "weight": 0.0, "id": 2777588047, "level": 2}
+{"count": 84, "name": "Vitrophyre", "weight": 0.0, "id": 2780617891, "level": 2}
+{"count": 141, "name": "Optical mineralogy", "weight": 0.0, "id": 50020807, "level": 2}
+{"count": 937, "name": "Platy", "weight": 0.0, "id": 2781075409, "level": 2}
+{"count": 165, "name": "Wulfenite", "weight": 0.0, "id": 2777352486, "level": 2}
+{"count": 229, "name": "Konia", "weight": 0.0, "id": 2780041053, "level": 2}
+{"count": 272, "name": "Fergusonite", "weight": 0.0, "id": 2779700124, "level": 2}
+{"count": 159, "name": "Larnite", "weight": 0.0, "id": 2780332788, "level": 2}
+{"count": 273, "name": "Majolica", "weight": 0.0, "id": 2781081723, "level": 2}
+{"count": 109, "name": "Gadolinite", "weight": 0.0, "id": 2781036526, "level": 2}
+{"count": 136, "name": "Automated mineralogy", "weight": 0.0, "id": 83496548, "level": 2}
+{"count": 130, "name": "Apophyllite", "weight": 0.0, "id": 2777174915, "level": 2}
+{"count": 98, "name": "Beudantite", "weight": 0.0, "id": 2776712377, "level": 2}
+{"count": 457, "name": "Mesothermal", "weight": 0.0, "id": 159055055, "level": 2}
+{"count": 165, "name": "Pectolite", "weight": 0.0, "id": 2776195725, "level": 2}
+{"count": 104, "name": "Libyan desert glass", "weight": 0.0, "id": 2777074168, "level": 2}
+{"count": 868, "name": "Hypogene", "weight": 0.0, "id": 145761182, "level": 2}
+{"count": 153, "name": "Sclerometer", "weight": 0.0, "id": 156127346, "level": 2}
+{"count": 352, "name": "Lapidary", "weight": 0.0, "id": 2776044262, "level": 2}
+{"count": 222, "name": "Rhodonite", "weight": 0.0, "id": 2777336604, "level": 2}
+{"count": 101, "name": "Vanadinite", "weight": 0.0, "id": 2780151513, "level": 2}
+{"count": 143, "name": "Hauyne", "weight": 0.0, "id": 2779486229, "level": 2}
+{"count": 136, "name": "Tephroite", "weight": 0.0, "id": 2781243139, "level": 2}
+{"count": 109, "name": "Chalcanthite", "weight": 0.0, "id": 2776227844, "level": 2}
+{"count": 56, "name": "Crocoite", "weight": 0.0, "id": 2780241637, "level": 2}
+{"count": 126, "name": "Obsidian hydration dating", "weight": 0.0, "id": 2778206933, "level": 2}
+{"count": 134, "name": "Chondrodite", "weight": 0.0, "id": 2780747209, "level": 2}
+{"count": 88, "name": "Hydrogrossular", "weight": 0.0, "id": 2779932699, "level": 2}
+{"count": 145, "name": "Piston-cylinder apparatus", "weight": 0.0, "id": 2778714553, "level": 2}
+{"count": 68, "name": "Sal ammoniac", "weight": 0.0, "id": 2780687442, "level": 2}
+{"count": 52, "name": "Millefiori", "weight": 0.0, "id": 72505334, "level": 2}
+{"count": 152, "name": "Rare-earth mineral", "weight": 0.0, "id": 2776419970, "level": 2}
+{"count": 45, "name": "Phosgenite", "weight": 0.0, "id": 2780766068, "level": 2}
+{"count": 100, "name": "Axinite", "weight": 0.0, "id": 2778781511, "level": 2}
+{"count": 291, "name": "Asterism (gemology)", "weight": 0.0, "id": 81955427, "level": 2}
+{"count": 91, "name": "Dioptase", "weight": 0.0, "id": 2776918060, "level": 2}
+{"count": 127, "name": "Aventurine", "weight": 0.0, "id": 2778912841, "level": 2}
+{"count": 65, "name": "Svanbergite", "weight": 0.0, "id": 2778591587, "level": 2}
+{"count": 32, "name": "Pneumatolysis", "weight": 0.0, "id": 2779357986, "level": 2}
+{"count": 66, "name": "Lazulite", "weight": 0.0, "id": 2781369778, "level": 2}
+{"count": 26, "name": "Mellite", "weight": 0.0, "id": 2779849369, "level": 2}
+{"count": 71, "name": "Gaylussite", "weight": 0.0, "id": 2777287059, "level": 2}
+{"count": 61, "name": "Afwillite", "weight": 0.0, "id": 2776773092, "level": 2}
+{"count": 117, "name": "Niter", "weight": 0.0, "id": 2777646106, "level": 2}
+{"count": 65, "name": "Euclase", "weight": 0.0, "id": 2778931091, "level": 2}
+{"count": 1028, "name": "Bort", "weight": 0.0, "id": 2780385525, "level": 2}
+{"count": 31, "name": "Fluoborite", "weight": 0.0, "id": 2780452139, "level": 2}
+{"count": 56, "name": "Norbergite", "weight": 0.0, "id": 2778115854, "level": 2}
+{"count": 28, "name": "Goldmanite", "weight": 0.0, "id": 2778576501, "level": 2}
+{"count": 108, "name": "Adamite", "weight": 0.0, "id": 2778984792, "level": 2}
+{"count": 173, "name": "Tetradymite", "weight": 0.0, "id": 2776634323, "level": 2}
+{"count": 54, "name": "Babingtonite", "weight": 0.0, "id": 2779184048, "level": 2}
+{"count": 18, "name": "Russellite", "weight": 0.0, "id": 2779876808, "level": 2}
+{"count": 21, "name": "Bowen's reaction series", "weight": 0.0, "id": 196750675, "level": 2}
+{"count": 37, "name": "Calcareous sinter", "weight": 0.0, "id": 197305736, "level": 2}
+{"count": 616, "name": "Cryptocrystalline", "weight": 0.0, "id": 127374916, "level": 2}
+{"count": 18, "name": "Kalinite", "weight": 0.0, "id": 2777564568, "level": 2}
+{"count": 9, "name": "Alleghanyite", "weight": 0.0, "id": 2778258715, "level": 2}
+{"count": 14, "name": "Boleite", "weight": 0.0, "id": 2777143143, "level": 2}
+{"count": 16, "name": "Banalsite", "weight": 0.0, "id": 2777055279, "level": 2}
+{"count": 212, "name": "Botryoidal", "weight": 0.0, "id": 2776919729, "level": 2}
+{"count": 149, "name": "Panasqueira", "weight": 0.0, "id": 2776629827, "level": 2}
+{"count": 20, "name": "Earthen plaster", "weight": 0.0, "id": 2779707106, "level": 2}
+{"count": 73, "name": "Normative mineralogy", "weight": 0.0, "id": 156632495, "level": 2}
+{"count": 23, "name": "Schmidt net", "weight": 0.0, "id": 2777214883, "level": 2}
+{"count": 15, "name": "Vauquelinite", "weight": 0.0, "id": 2776212769, "level": 2}
+{"count": 13, "name": "Kamiokite", "weight": 0.0, "id": 2778299166, "level": 2}
+{"count": 35, "name": "Danalite", "weight": 0.0, "id": 2781305837, "level": 2}
+{"count": 27, "name": "Bastn\u00e4s", "weight": 0.0, "id": 2778243549, "level": 2}
+{"count": 95, "name": "Mineral collecting", "weight": 0.0, "id": 2776875871, "level": 2}
+{"count": 10, "name": "Parisite-(Ce)", "weight": 0.0, "id": 2780234618, "level": 2}
+{"count": 38, "name": "Leadhillite", "weight": 0.0, "id": 2779410526, "level": 2}
+{"count": 11, "name": "Vauxite", "weight": 0.0, "id": 2778555208, "level": 2}
+{"count": 4, "name": "Evenkite", "weight": 0.0, "id": 2781165963, "level": 2}
+{"count": 25, "name": "Alacrite", "weight": 0.0, "id": 2781129354, "level": 2}
+{"count": 247, "name": "Macrocrystalline", "weight": 0.0, "id": 2776325749, "level": 2}
+{"count": 20, "name": "Ekanite", "weight": 0.0, "id": 2778538005, "level": 2}
+{"count": 31, "name": "Trapezohedron", "weight": 0.0, "id": 46481979, "level": 2}
+{"count": 12, "name": "Kanoite", "weight": 0.0, "id": 2780931207, "level": 2}
+{"count": 15, "name": "Knebelite", "weight": 0.0, "id": 2781076236, "level": 2}
+{"count": 21, "name": "Novocrania anomala", "weight": 0.0, "id": 2778112299, "level": 2}
+{"count": 18, "name": "Orbicular granite", "weight": 0.0, "id": 2781438780, "level": 2}

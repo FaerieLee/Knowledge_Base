@@ -1,0 +1,14 @@
+{"count": 5276, "name": "Tropospheric ozone", "weight": 8.0, "id": 2776349674, "level": 3}
+{"count": 2361, "name": "Chemical transport model", "weight": 3.0, "id": 2777517185, "level": 3}
+{"count": 6120, "name": "Tropopause", "weight": 10.0, "id": 171420983, "level": 3}
+{"count": 1138, "name": "Microwave Limb Sounder", "weight": 1.0, "id": 2776025126, "level": 3}
+{"count": 1381, "name": "Ozone Monitoring Instrument", "weight": 2.0, "id": 2779118152, "level": 3}
+{"count": 409, "name": "Brewer-Dobson circulation", "weight": 0.0, "id": 2780485806, "level": 3}
+{"count": 442, "name": "Arctic haze", "weight": 0.0, "id": 2777579577, "level": 3}
+{"count": 577, "name": "Infrared atmospheric sounding interferometer", "weight": 0.0, "id": 2779184870, "level": 3}
+{"count": 572, "name": "MOPITT", "weight": 0.0, "id": 2781270089, "level": 3}
+{"count": 404, "name": "Moist static energy", "weight": 0.0, "id": 99143079, "level": 3}
+{"count": 396, "name": "Tropospheric propagation", "weight": 0.0, "id": 141501382, "level": 3}
+{"count": 148, "name": "Isentropic analysis", "weight": 0.0, "id": 2779866934, "level": 3}
+{"count": 108, "name": "Tropospheric wave", "weight": 0.0, "id": 2778410224, "level": 3}
+{"count": 39, "name": "Long path laser", "weight": 0.0, "id": 2779114341, "level": 3}

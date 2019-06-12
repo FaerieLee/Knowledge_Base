@@ -1,0 +1,4 @@
+{"count": 294, "name": "Integer overflow", "weight": 2.0, "id": 48165567, "level": 4}
+{"count": 495, "name": "Special ordered set", "weight": 4.0, "id": 197769238, "level": 4}
+{"count": 540, "name": "Nearest integer function", "weight": 5.0, "id": 166559695, "level": 4}
+{"count": 1062, "name": "Integer points in convex polyhedra", "weight": 10.0, "id": 147700949, "level": 4}

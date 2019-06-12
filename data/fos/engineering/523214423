@@ -1,0 +1,48 @@
+{"count": 37962, "name": "Cutting tool", "weight": 9.0, "id": 2780383046, "level": 3}
+{"count": 12304, "name": "Tool wear", "weight": 3.0, "id": 2776450708, "level": 3}
+{"count": 40936, "name": "Numerical control", "weight": 10.0, "id": 175457265, "level": 3}
+{"count": 16868, "name": "Electrical discharge machining", "weight": 4.0, "id": 140075996, "level": 3}
+{"count": 1261, "name": "Virtual machining", "weight": 0.0, "id": 2778352213, "level": 3}
+{"count": 4179, "name": "Laser beam machining", "weight": 1.0, "id": 2778386843, "level": 3}
+{"count": 3533, "name": "Chip formation", "weight": 0.0, "id": 2776901715, "level": 3}
+{"count": 9356, "name": "Machinability", "weight": 2.0, "id": 2775926494, "level": 3}
+{"count": 2987, "name": "Diamond tool", "weight": 0.0, "id": 2778827957, "level": 3}
+{"count": 3898, "name": "Surface integrity", "weight": 0.0, "id": 2776363543, "level": 3}
+{"count": 3341, "name": "Electrochemical machining", "weight": 0.0, "id": 2777887233, "level": 3}
+{"count": 5332, "name": "Cutting fluid", "weight": 1.0, "id": 2777731942, "level": 3}
+{"count": 1252, "name": "Computer-aided process planning", "weight": 0.0, "id": 2777921763, "level": 3}
+{"count": 2230, "name": "Diamond turning", "weight": 0.0, "id": 2776074547, "level": 3}
+{"count": 1474, "name": "Ultrasonic machining", "weight": 0.0, "id": 2780330172, "level": 3}
+{"count": 7814, "name": "Milling cutter", "weight": 1.0, "id": 2776100724, "level": 3}
+{"count": 425, "name": "Abrasive jet machining", "weight": 0.0, "id": 2776645054, "level": 3}
+{"count": 1184, "name": "Abrasive machining", "weight": 0.0, "id": 2776592660, "level": 3}
+{"count": 2786, "name": "Rake angle", "weight": 0.0, "id": 2779571069, "level": 3}
+{"count": 3079, "name": "Hardened steel", "weight": 0.0, "id": 2778267616, "level": 3}
+{"count": 4622, "name": "Hobbing", "weight": 1.0, "id": 63401691, "level": 3}
+{"count": 3299, "name": "End mill", "weight": 0.0, "id": 2779952096, "level": 3}
+{"count": 412, "name": "Abrasive flow machining", "weight": 0.0, "id": 2779026289, "level": 3}
+{"count": 2090, "name": "Diamond grinding", "weight": 0.0, "id": 2778842137, "level": 3}
+{"count": 186, "name": "Electron beam machining", "weight": 0.0, "id": 2778514358, "level": 3}
+{"count": 1408, "name": "Diamond cutting", "weight": 0.0, "id": 2780198632, "level": 3}
+{"count": 1694, "name": "Machining time", "weight": 0.0, "id": 2780766832, "level": 3}
+{"count": 483, "name": "Stock removal", "weight": 0.0, "id": 2778069798, "level": 3}
+{"count": 2395, "name": "Headstock", "weight": 0.0, "id": 2776781563, "level": 3}
+{"count": 70, "name": "Biomachining", "weight": 0.0, "id": 2776817302, "level": 3}
+{"count": 97, "name": "MTConnect", "weight": 0.0, "id": 76170956, "level": 3}
+{"count": 178, "name": "Electrochemical grinding", "weight": 0.0, "id": 2779112055, "level": 3}
+{"count": 578, "name": "Part program", "weight": 0.0, "id": 2780692025, "level": 3}
+{"count": 305, "name": "Gun drill", "weight": 0.0, "id": 2777336476, "level": 3}
+{"count": 84, "name": "Friction drilling", "weight": 0.0, "id": 2781016859, "level": 3}
+{"count": 214, "name": "Chatter mark", "weight": 0.0, "id": 122875749, "level": 3}
+{"count": 60, "name": "Dexter cattle", "weight": 0.0, "id": 2781133825, "level": 3}
+{"count": 607, "name": "Cutter location", "weight": 0.0, "id": 2777880405, "level": 3}
+{"count": 43, "name": "Machining vibrations", "weight": 0.0, "id": 2780781055, "level": 3}
+{"count": 33, "name": "Multiaxis machining", "weight": 0.0, "id": 2777799131, "level": 3}
+{"count": 104, "name": "CNC router", "weight": 0.0, "id": 2776444453, "level": 3}
+{"count": 119, "name": "Cutting sequence", "weight": 0.0, "id": 2781088306, "level": 3}
+{"count": 39, "name": "Freeform surface machining", "weight": 0.0, "id": 2777293870, "level": 3}
+{"count": 166, "name": "Roughcast", "weight": 0.0, "id": 2779951649, "level": 3}
+{"count": 153, "name": "Dexel", "weight": 0.0, "id": 2776005719, "level": 3}
+{"count": 25, "name": "Epoxy granite", "weight": 0.0, "id": 2775874411, "level": 3}
+{"count": 6, "name": "CNC wood router", "weight": 0.0, "id": 2776744355, "level": 3}
+{"count": 35, "name": "Surface feet per minute", "weight": 0.0, "id": 2779370188, "level": 3}

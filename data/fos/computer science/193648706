@@ -1,0 +1,4 @@
+{"count": 513, "name": "U-TDOA", "weight": 3.0, "id": 72807224, "level": 5}
+{"count": 1344, "name": "Secure User Plane Location", "weight": 10.0, "id": 958218, "level": 5}
+{"count": 347, "name": "S-GPS", "weight": 2.0, "id": 94761510, "level": 5}
+{"count": 927, "name": "Defense Advanced GPS Receiver", "weight": 6.0, "id": 186407943, "level": 5}

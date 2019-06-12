@@ -1,0 +1,90 @@
+{"count": 15776, "name": "Tropical medicine", "weight": 4.0, "id": 185032368, "level": 2}
+{"count": 10266, "name": "Parasitology", "weight": 2.0, "id": 190612196, "level": 2}
+{"count": 23672, "name": "Animal welfare", "weight": 6.0, "id": 523966790, "level": 2}
+{"count": 17456, "name": "Rabies", "weight": 4.0, "id": 2776849203, "level": 2}
+{"count": 15199, "name": "Brucellosis", "weight": 4.0, "id": 2781429187, "level": 2}
+{"count": 11927, "name": "Leptospirosis", "weight": 3.0, "id": 2778033228, "level": 2}
+{"count": 583, "name": "Theriogenology", "weight": 0.0, "id": 14814345, "level": 2}
+{"count": 7288, "name": "Docking (dog)", "weight": 2.0, "id": 137616902, "level": 2}
+{"count": 6675, "name": "Ivermectin", "weight": 1.0, "id": 2777499811, "level": 2}
+{"count": 6891, "name": "Coccidiosis", "weight": 1.0, "id": 2776576699, "level": 2}
+{"count": 4584, "name": "Babesiosis", "weight": 1.0, "id": 2778145968, "level": 2}
+{"count": 8107, "name": "Lameness", "weight": 2.0, "id": 2779771469, "level": 2}
+{"count": 21060, "name": "Herd", "weight": 5.0, "id": 194775826, "level": 2}
+{"count": 4584, "name": "Myiasis", "weight": 1.0, "id": 2776756769, "level": 2}
+{"count": 2545, "name": "Travel medicine", "weight": 0.0, "id": 2779516188, "level": 2}
+{"count": 5725, "name": "Culling", "weight": 1.0, "id": 52991690, "level": 2}
+{"count": 5346, "name": "Biosecurity", "weight": 1.0, "id": 2781368420, "level": 2}
+{"count": 3453, "name": "Animal rights", "weight": 0.0, "id": 538525177, "level": 2}
+{"count": 2040, "name": "Anaplasmosis", "weight": 0.0, "id": 2781329793, "level": 2}
+{"count": 444, "name": "Picador", "weight": 0.0, "id": 2778096345, "level": 2}
+{"count": 808, "name": "Working animal", "weight": 0.0, "id": 101313458, "level": 2}
+{"count": 3779, "name": "Mange", "weight": 1.0, "id": 2780968714, "level": 2}
+{"count": 1045, "name": "Veterinary parasitology", "weight": 0.0, "id": 2780487972, "level": 2}
+{"count": 1417, "name": "Dirofilariasis", "weight": 0.0, "id": 2776444496, "level": 2}
+{"count": 831, "name": "Medical entomology", "weight": 0.0, "id": 168568655, "level": 2}
+{"count": 1108, "name": "Veterinary pathology", "weight": 0.0, "id": 2777225262, "level": 2}
+{"count": 1522, "name": "Eggs per gram", "weight": 0.0, "id": 2776026265, "level": 2}
+{"count": 1631, "name": "Epizootiology", "weight": 0.0, "id": 97070914, "level": 2}
+{"count": 853, "name": "Dirofilaria", "weight": 0.0, "id": 2778943559, "level": 2}
+{"count": 35189, "name": "Odds", "weight": 10.0, "id": 143095724, "level": 2}
+{"count": 608, "name": "Contagious bovine pleuropneumonia", "weight": 0.0, "id": 2779613618, "level": 2}
+{"count": 312, "name": "Eprinomectin", "weight": 0.0, "id": 2776078370, "level": 2}
+{"count": 427, "name": "Angiostrongylus vasorum", "weight": 0.0, "id": 2780756683, "level": 2}
+{"count": 390, "name": "Tungiasis", "weight": 0.0, "id": 2780321569, "level": 2}
+{"count": 178, "name": "Veterinary immunology", "weight": 0.0, "id": 2779189287, "level": 2}
+{"count": 529, "name": "Veterinary surgery", "weight": 0.0, "id": 2780113767, "level": 2}
+{"count": 284, "name": "Baylisascaris procyonis", "weight": 0.0, "id": 2778062167, "level": 2}
+{"count": 1, "name": "Light Shift", "weight": 0.0, "id": 2780197174, "level": 2}
+{"count": 2536, "name": "Puppy", "weight": 0.0, "id": 2778726489, "level": 2}
+{"count": 655, "name": "Demodicosis", "weight": 0.0, "id": 2776603837, "level": 2}
+{"count": 2345, "name": "Enzootic", "weight": 0.0, "id": 163698547, "level": 2}
+{"count": 213, "name": "Thelazia callipaeda", "weight": 0.0, "id": 2778767033, "level": 2}
+{"count": 292, "name": "Spirocerca lupi", "weight": 0.0, "id": 2778749144, "level": 2}
+{"count": 566, "name": "Rottweiler", "weight": 0.0, "id": 2778594232, "level": 2}
+{"count": 294, "name": "Onchocercidae", "weight": 0.0, "id": 2777766377, "level": 2}
+{"count": 421, "name": "Comparative medicine", "weight": 0.0, "id": 2776419929, "level": 2}
+{"count": 190, "name": "Shipping fever", "weight": 0.0, "id": 2781049438, "level": 2}
+{"count": 187, "name": "Anoplocephala perfoliata", "weight": 0.0, "id": 2777839335, "level": 2}
+{"count": 745, "name": "Fetlock", "weight": 0.0, "id": 2780193778, "level": 2}
+{"count": 261, "name": "Contagious equine metritis", "weight": 0.0, "id": 2779065843, "level": 2}
+{"count": 313, "name": "Gasterophilus", "weight": 0.0, "id": 2779307587, "level": 2}
+{"count": 535, "name": "Neutering", "weight": 0.0, "id": 2780000330, "level": 2}
+{"count": 111, "name": "Equine dentistry", "weight": 0.0, "id": 2777711542, "level": 2}
+{"count": 180, "name": "Melophagus ovinus", "weight": 0.0, "id": 2778931319, "level": 2}
+{"count": 284, "name": "Poultry disease", "weight": 0.0, "id": 2778153803, "level": 2}
+{"count": 273, "name": "Dog breeding", "weight": 0.0, "id": 2779673011, "level": 2}
+{"count": 173, "name": "Cervical dislocation", "weight": 0.0, "id": 118619914, "level": 2}
+{"count": 90, "name": "Bumblefoot", "weight": 0.0, "id": 2777891953, "level": 2}
+{"count": 773, "name": "Warmblood", "weight": 0.0, "id": 2778228234, "level": 2}
+{"count": 291, "name": "Mammites", "weight": 0.0, "id": 2776897648, "level": 2}
+{"count": 159, "name": "Ectoparasiticide", "weight": 0.0, "id": 2777219782, "level": 2}
+{"count": 130, "name": "Actinobacillosis", "weight": 0.0, "id": 2779346191, "level": 2}
+{"count": 80, "name": "Horse behavior", "weight": 0.0, "id": 2781352808, "level": 2}
+{"count": 152, "name": "Equine nutrition", "weight": 0.0, "id": 2777131864, "level": 2}
+{"count": 46, "name": "Salt poisoning", "weight": 0.0, "id": 2776006540, "level": 2}
+{"count": 201, "name": "Exotic pet", "weight": 0.0, "id": 2777448930, "level": 2}
+{"count": 43, "name": "Devocalization", "weight": 0.0, "id": 2778961947, "level": 2}
+{"count": 109, "name": "Veterinary anesthesia", "weight": 0.0, "id": 2778905224, "level": 2}
+{"count": 45, "name": "Milk sickness", "weight": 0.0, "id": 2780283713, "level": 2}
+{"count": 62, "name": "Stringhalt", "weight": 0.0, "id": 28057851, "level": 2}
+{"count": 51, "name": "Hippobosca", "weight": 0.0, "id": 2776151411, "level": 2}
+{"count": 22, "name": "Schistosoma nasale", "weight": 0.0, "id": 2780648212, "level": 2}
+{"count": 853, "name": "Spaniel", "weight": 0.0, "id": 2780073047, "level": 2}
+{"count": 12, "name": "Wild animal suffering", "weight": 0.0, "id": 2779531509, "level": 2}
+{"count": 89, "name": "Aegyptianella", "weight": 0.0, "id": 2776595583, "level": 2}
+{"count": 43, "name": "Equine anatomy", "weight": 0.0, "id": 2776397707, "level": 2}
+{"count": 18, "name": "Herpetoculture", "weight": 0.0, "id": 2781190498, "level": 2}
+{"count": 8, "name": "Parafilaria multipapillosa", "weight": 0.0, "id": 2776090994, "level": 2}
+{"count": 28, "name": "Snake farm", "weight": 0.0, "id": 2777495546, "level": 2}
+{"count": 86, "name": "Dog health", "weight": 0.0, "id": 2776992920, "level": 2}
+{"count": 14, "name": "Veterinary specialties", "weight": 0.0, "id": 2776495317, "level": 2}
+{"count": 62, "name": "Polled Dorset", "weight": 0.0, "id": 2779312269, "level": 2}
+{"count": 53, "name": "Fog fever", "weight": 0.0, "id": 2779789878, "level": 2}
+{"count": 194, "name": "Head pressing", "weight": 0.0, "id": 2777498407, "level": 2}
+{"count": 2, "name": "Laboratory animal sources", "weight": 0.0, "id": 86553658, "level": 2}
+{"count": 20, "name": "Ticks of domestic animals", "weight": 0.0, "id": 2778891302, "level": 2}
+{"count": 36, "name": "Animal and human bites", "weight": 0.0, "id": 2776945920, "level": 2}
+{"count": 20, "name": "Arthropod bites and stings", "weight": 0.0, "id": 2780699408, "level": 2}
+{"count": 22, "name": "Cat health", "weight": 0.0, "id": 2777128075, "level": 2}
+{"count": 11, "name": "Urban plague", "weight": 0.0, "id": 2779187471, "level": 2}

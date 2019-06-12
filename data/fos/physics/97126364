@@ -1,0 +1,22 @@
+{"count": 15163, "name": "Q factor", "weight": 10.0, "id": 187725362, "level": 3}
+{"count": 5384, "name": "Whispering-gallery wave", "weight": 3.0, "id": 77255779, "level": 3}
+{"count": 7397, "name": "Dielectric resonator", "weight": 4.0, "id": 2780204790, "level": 3}
+{"count": 5227, "name": "Split-ring resonator", "weight": 3.0, "id": 73862843, "level": 3}
+{"count": 2579, "name": "Free spectral range", "weight": 1.0, "id": 2776015930, "level": 3}
+{"count": 10109, "name": "Coupling coefficient of resonators", "weight": 6.0, "id": 91397564, "level": 3}
+{"count": 5270, "name": "Waveguide filter", "weight": 3.0, "id": 150935588, "level": 3}
+{"count": 8985, "name": "Dielectric resonator antenna", "weight": 5.0, "id": 127820260, "level": 3}
+{"count": 2113, "name": "Helmholtz resonator", "weight": 1.0, "id": 170344590, "level": 3}
+{"count": 4080, "name": "Duplexer", "weight": 2.0, "id": 47104104, "level": 3}
+{"count": 5084, "name": "Output coupler", "weight": 3.0, "id": 9986408, "level": 3}
+{"count": 216, "name": "Nanomechanical resonator", "weight": 0.0, "id": 2781274508, "level": 3}
+{"count": 657, "name": "Chipless RFID", "weight": 0.0, "id": 2775974325, "level": 3}
+{"count": 356, "name": "Resonator mode", "weight": 0.0, "id": 2779654622, "level": 3}
+{"count": 254, "name": "Thin-film bulk acoustic resonator", "weight": 0.0, "id": 2777880760, "level": 3}
+{"count": 7251, "name": "Helical resonator", "weight": 4.0, "id": 206493696, "level": 3}
+{"count": 161, "name": "Acoustic mirror", "weight": 0.0, "id": 79114327, "level": 3}
+{"count": 821, "name": "Crystal filter", "weight": 0.0, "id": 191563432, "level": 3}
+{"count": 77, "name": "Effective mode volume", "weight": 0.0, "id": 2778449044, "level": 3}
+{"count": 215, "name": "YIG sphere", "weight": 0.0, "id": 26682783, "level": 3}
+{"count": 120, "name": "Porro prism", "weight": 0.0, "id": 2776899589, "level": 3}
+{"count": 13, "name": "Nanophotonic resonator", "weight": 0.0, "id": 2779412687, "level": 3}

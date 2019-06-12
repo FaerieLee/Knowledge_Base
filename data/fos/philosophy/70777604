@@ -1,0 +1,6 @@
+{"count": 80, "name": "Heavy NP shift", "weight": 10.0, "id": 2780903217, "level": 4}
+{"count": 22, "name": "Topic-prominent language", "weight": 2.0, "id": 2778933124, "level": 4}
+{"count": 22, "name": "OV language", "weight": 2.0, "id": 2780803974, "level": 4}
+{"count": 11, "name": "V2 word order", "weight": 1.0, "id": 2780387112, "level": 4}
+{"count": 73, "name": "Sentence word", "weight": 9.0, "id": 2781347791, "level": 4}
+{"count": 32, "name": "VO language", "weight": 4.0, "id": 2776821773, "level": 4}

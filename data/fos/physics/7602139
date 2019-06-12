@@ -1,0 +1,43 @@
+{"count": 12945, "name": "Quark model", "weight": 6.0, "id": 176616139, "level": 3}
+{"count": 18944, "name": "Gluon", "weight": 10.0, "id": 123579102, "level": 3}
+{"count": 11736, "name": "Quark\u2013gluon plasma", "weight": 6.0, "id": 2292967, "level": 3}
+{"count": 13163, "name": "Lattice QCD", "weight": 6.0, "id": 3909970, "level": 3}
+{"count": 14171, "name": "Top quark", "weight": 7.0, "id": 207206121, "level": 3}
+{"count": 5418, "name": "Strange matter", "weight": 2.0, "id": 28594881, "level": 3}
+{"count": 2472, "name": "Color confinement", "weight": 1.0, "id": 98795603, "level": 3}
+{"count": 3995, "name": "Quarkonium", "weight": 2.0, "id": 2779985612, "level": 3}
+{"count": 3539, "name": "Cabibbo\u2013Kobayashi\u2013Maskawa matrix", "weight": 1.0, "id": 54909564, "level": 3}
+{"count": 2578, "name": "Semileptonic decay", "weight": 1.0, "id": 2778910143, "level": 3}
+{"count": 1616, "name": "Hadron spectroscopy", "weight": 0.0, "id": 2779547278, "level": 3}
+{"count": 882, "name": "Heavy quark effective theory", "weight": 0.0, "id": 2776643510, "level": 3}
+{"count": 1284, "name": "Flavor-changing neutral current", "weight": 0.0, "id": 2781244163, "level": 3}
+{"count": 688, "name": "Fragmentation function", "weight": 0.0, "id": 2775885684, "level": 3}
+{"count": 1720, "name": "Pseudoscalar meson", "weight": 0.0, "id": 2780767871, "level": 3}
+{"count": 3248, "name": "Deconfinement", "weight": 1.0, "id": 2781249807, "level": 3}
+{"count": 2866, "name": "Hadronization", "weight": 1.0, "id": 186022433, "level": 3}
+{"count": 1922, "name": "Diquark", "weight": 1.0, "id": 155043459, "level": 3}
+{"count": 3633, "name": "Quark star", "weight": 1.0, "id": 153195114, "level": 3}
+{"count": 4560, "name": "Strange quark", "weight": 2.0, "id": 187783895, "level": 3}
+{"count": 1633, "name": "Pentaquark", "weight": 0.0, "id": 50907047, "level": 3}
+{"count": 846, "name": "Tetraquark", "weight": 0.0, "id": 2780397245, "level": 3}
+{"count": 950, "name": "Leptoquark", "weight": 0.0, "id": 2780579170, "level": 3}
+{"count": 2994, "name": "QCD sum rules", "weight": 1.0, "id": 2776250685, "level": 3}
+{"count": 2850, "name": "Charm quark", "weight": 1.0, "id": 86040059, "level": 3}
+{"count": 744, "name": "Charmed baryons", "weight": 0.0, "id": 2775980768, "level": 3}
+{"count": 442, "name": "Renormalon", "weight": 0.0, "id": 2780079583, "level": 3}
+{"count": 45, "name": "Gell-Mann\u2013Okubo mass formula", "weight": 0.0, "id": 2778669888, "level": 3}
+{"count": 1568, "name": "Eta meson", "weight": 0.0, "id": 65744317, "level": 3}
+{"count": 1042, "name": "Exotic hadron", "weight": 0.0, "id": 48264206, "level": 3}
+{"count": 361, "name": "Roper resonance", "weight": 0.0, "id": 2779390492, "level": 3}
+{"count": 304, "name": "Preon", "weight": 0.0, "id": 2778686106, "level": 3}
+{"count": 76, "name": "Chiral color", "weight": 0.0, "id": 2780147985, "level": 3}
+{"count": 257, "name": "OZI rule", "weight": 0.0, "id": 2775956589, "level": 3}
+{"count": 97, "name": "Bilepton", "weight": 0.0, "id": 2776248513, "level": 3}
+{"count": 207, "name": "QCD string", "weight": 0.0, "id": 2777133056, "level": 3}
+{"count": 85, "name": "GIM mechanism", "weight": 0.0, "id": 2776686652, "level": 3}
+{"count": 418, "name": "Current quark", "weight": 0.0, "id": 2777464483, "level": 3}
+{"count": 16, "name": "Three-jet event", "weight": 0.0, "id": 2780556509, "level": 3}
+{"count": 30, "name": "Binary tetrahedral group", "weight": 0.0, "id": 2780234565, "level": 3}
+{"count": 47, "name": "Rishon model", "weight": 0.0, "id": 2777740951, "level": 3}
+{"count": 94, "name": "331 model", "weight": 0.0, "id": 2778422406, "level": 3}
+{"count": 33, "name": "Hexaquark", "weight": 0.0, "id": 2781233810, "level": 3}

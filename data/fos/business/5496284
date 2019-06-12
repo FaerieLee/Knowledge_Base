@@ -1,0 +1,6 @@
+{"count": 1119, "name": "Coherent risk measure", "weight": 6.0, "id": 148845407, "level": 4}
+{"count": 258, "name": "Tail value at risk", "weight": 1.0, "id": 103995592, "level": 4}
+{"count": 1667, "name": "CVAR", "weight": 10.0, "id": 2779922397, "level": 4}
+{"count": 1181, "name": "Dynamic risk measure", "weight": 7.0, "id": 167548438, "level": 4}
+{"count": 1470, "name": "Spectral risk measure", "weight": 8.0, "id": 69257216, "level": 4}
+{"count": 251, "name": "Implementation shortfall", "weight": 1.0, "id": 131872805, "level": 4}

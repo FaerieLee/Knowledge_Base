@@ -1,0 +1,56 @@
+{"count": 6584, "name": "Invariant measure", "weight": 10.0, "id": 115667082, "level": 3}
+{"count": 3064, "name": "Invariant subspace", "weight": 4.0, "id": 2777059694, "level": 3}
+{"count": 4760, "name": "Invariant manifold", "weight": 7.0, "id": 20483540, "level": 3}
+{"count": 1168, "name": "Modular invariance", "weight": 1.0, "id": 97900337, "level": 3}
+{"count": 2514, "name": "Invariant theory", "weight": 3.0, "id": 63036529, "level": 3}
+{"count": 518, "name": "Differential invariant", "weight": 0.0, "id": 2779010889, "level": 3}
+{"count": 920, "name": "Gromov\u2013Witten invariant", "weight": 1.0, "id": 207789664, "level": 3}
+{"count": 821, "name": "Linking number", "weight": 1.0, "id": 172455284, "level": 3}
+{"count": 1325, "name": "Floer homology", "weight": 2.0, "id": 121294916, "level": 3}
+{"count": 887, "name": "Alexander polynomial", "weight": 1.0, "id": 129946241, "level": 3}
+{"count": 1480, "name": "Finite type invariant", "weight": 2.0, "id": 78078846, "level": 3}
+{"count": 353, "name": "Riemann invariant", "weight": 0.0, "id": 2775847195, "level": 3}
+{"count": 565, "name": "Cross-ratio", "weight": 0.0, "id": 101586328, "level": 3}
+{"count": 1017, "name": "Scaling dimension", "weight": 1.0, "id": 175724006, "level": 3}
+{"count": 384, "name": "Geometric hashing", "weight": 0.0, "id": 2778588214, "level": 3}
+{"count": 213, "name": "Seiberg\u2013Witten invariant", "weight": 0.0, "id": 2778703940, "level": 3}
+{"count": 289, "name": "Eta invariant", "weight": 0.0, "id": 2780625808, "level": 3}
+{"count": 309, "name": "Hopf invariant", "weight": 0.0, "id": 2779442654, "level": 3}
+{"count": 200, "name": "Lie group action", "weight": 0.0, "id": 2777231576, "level": 3}
+{"count": 1095, "name": "Image moment", "weight": 1.0, "id": 108311513, "level": 3}
+{"count": 160, "name": "Donaldson theory", "weight": 0.0, "id": 136235225, "level": 3}
+{"count": 164, "name": "Casson invariant", "weight": 0.0, "id": 2780946891, "level": 3}
+{"count": 554, "name": "Loop invariant", "weight": 0.0, "id": 53788045, "level": 3}
+{"count": 1926, "name": "Invariant polynomial", "weight": 2.0, "id": 134530390, "level": 3}
+{"count": 339, "name": "Homology sphere", "weight": 0.0, "id": 104011308, "level": 3}
+{"count": 107, "name": "Invariant differential operator", "weight": 0.0, "id": 2776135400, "level": 3}
+{"count": 90, "name": "Invariant factor", "weight": 0.0, "id": 2780128404, "level": 3}
+{"count": 124, "name": "Spectral invariants", "weight": 0.0, "id": 2776161337, "level": 3}
+{"count": 117, "name": "Class invariant", "weight": 0.0, "id": 2776995594, "level": 3}
+{"count": 280, "name": "Wall-crossing", "weight": 0.0, "id": 138872476, "level": 3}
+{"count": 129, "name": "Ambient isotopy", "weight": 0.0, "id": 2781320345, "level": 3}
+{"count": 51, "name": "Dynamic link matching", "weight": 0.0, "id": 2777947043, "level": 3}
+{"count": 14, "name": "Similarity invariance", "weight": 0.0, "id": 2778097772, "level": 3}
+{"count": 178, "name": "Pseudogroup", "weight": 0.0, "id": 23962028, "level": 3}
+{"count": 115, "name": "Signature operator", "weight": 0.0, "id": 2779131876, "level": 3}
+{"count": 124, "name": "Hopf link", "weight": 0.0, "id": 2779223471, "level": 3}
+{"count": 63, "name": "Slice genus", "weight": 0.0, "id": 2780121589, "level": 3}
+{"count": 348, "name": "Conley index theory", "weight": 0.0, "id": 103749203, "level": 3}
+{"count": 851, "name": "Invariants of tensors", "weight": 1.0, "id": 158158286, "level": 3}
+{"count": 63, "name": "u-invariant", "weight": 0.0, "id": 2776455467, "level": 3}
+{"count": 57, "name": "Biquandle", "weight": 0.0, "id": 2779173686, "level": 3}
+{"count": 62, "name": "Brunnian link", "weight": 0.0, "id": 2274522, "level": 3}
+{"count": 25, "name": "Pachner moves", "weight": 0.0, "id": 198623130, "level": 3}
+{"count": 31, "name": "Gromov norm", "weight": 0.0, "id": 2778016204, "level": 3}
+{"count": 62, "name": "Donaldson\u2013Thomas theory", "weight": 0.0, "id": 2776555198, "level": 3}
+{"count": 59, "name": "Bloch group", "weight": 0.0, "id": 2777123469, "level": 3}
+{"count": 59, "name": "Kirby calculus", "weight": 0.0, "id": 2777960886, "level": 3}
+{"count": 36, "name": "Affine action", "weight": 0.0, "id": 2776371968, "level": 3}
+{"count": 34, "name": "Ribbon category", "weight": 0.0, "id": 2780065853, "level": 3}
+{"count": 23, "name": "Thom conjecture", "weight": 0.0, "id": 2781351095, "level": 3}
+{"count": 11, "name": "Liouville\u2013Arnold theorem", "weight": 0.0, "id": 2779851926, "level": 3}
+{"count": 25, "name": "Delta invariant", "weight": 0.0, "id": 2778254902, "level": 3}
+{"count": 1634, "name": "Reflexive operator algebra", "weight": 2.0, "id": 16324678, "level": 3}
+{"count": 26, "name": "Outer billiard", "weight": 0.0, "id": 2779708206, "level": 3}
+{"count": 21, "name": "Invariant basis number", "weight": 0.0, "id": 2776376052, "level": 3}
+{"count": 115, "name": "Complete set of invariants", "weight": 0.0, "id": 2777548582, "level": 3}

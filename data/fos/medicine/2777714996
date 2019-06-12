@@ -1,0 +1,134 @@
+{"count": 44674, "name": "Pulmonary function testing", "weight": 10.0, "id": 75603125, "level": 3}
+{"count": 24669, "name": "Bronchoalveolar lavage", "weight": 5.0, "id": 2777961210, "level": 3}
+{"count": 15433, "name": "Bronchus", "weight": 3.0, "id": 2780314925, "level": 3}
+{"count": 19082, "name": "Lung transplantation", "weight": 4.0, "id": 2781448352, "level": 3}
+{"count": 15934, "name": "Lung volumes", "weight": 3.0, "id": 27101514, "level": 3}
+{"count": 6928, "name": "Alveolar macrophage", "weight": 1.0, "id": 2778012055, "level": 3}
+{"count": 20044, "name": "Spirometry", "weight": 4.0, "id": 2780333948, "level": 3}
+{"count": 14371, "name": "Tidal volume", "weight": 3.0, "id": 2777257755, "level": 3}
+{"count": 17764, "name": "Pulmonary edema", "weight": 3.0, "id": 2776468924, "level": 3}
+{"count": 2713, "name": "Pulmonary alveolus", "weight": 0.0, "id": 2778543330, "level": 3}
+{"count": 7505, "name": "Breathing", "weight": 1.0, "id": 132922666, "level": 3}
+{"count": 10704, "name": "Idiopathic pulmonary fibrosis", "weight": 2.0, "id": 2778341716, "level": 3}
+{"count": 11373, "name": "Chest radiograph", "weight": 2.0, "id": 2781137159, "level": 3}
+{"count": 10004, "name": "Interstitial lung disease", "weight": 2.0, "id": 2777543607, "level": 3}
+{"count": 8294, "name": "Bronchopulmonary dysplasia", "weight": 1.0, "id": 2778721537, "level": 3}
+{"count": 7312, "name": "Respiratory epithelium", "weight": 1.0, "id": 87568996, "level": 3}
+{"count": 4275, "name": "Positive end-expiratory pressure", "weight": 0.0, "id": 2778917391, "level": 3}
+{"count": 4214, "name": "Respiratory physiology", "weight": 0.0, "id": 163498912, "level": 3}
+{"count": 8888, "name": "Hyperoxia", "weight": 1.0, "id": 2780672939, "level": 3}
+{"count": 12163, "name": "Bronchiectasis", "weight": 2.0, "id": 2779379686, "level": 3}
+{"count": 6164, "name": "Congenital diaphragmatic hernia", "weight": 1.0, "id": 2777146472, "level": 3}
+{"count": 5744, "name": "Airway resistance", "weight": 1.0, "id": 33362165, "level": 3}
+{"count": 11231, "name": "Pneumonitis", "weight": 2.0, "id": 2779524853, "level": 3}
+{"count": 3342, "name": "High-resolution computed tomography", "weight": 0.0, "id": 2777524225, "level": 3}
+{"count": 8963, "name": "Atelectasis", "weight": 2.0, "id": 2781101014, "level": 3}
+{"count": 2940, "name": "Hypersensitivity pneumonitis", "weight": 0.0, "id": 2777134676, "level": 3}
+{"count": 1327, "name": "Oxygenation index", "weight": 0.0, "id": 2780826366, "level": 3}
+{"count": 4844, "name": "Pulmonary compliance", "weight": 1.0, "id": 136936797, "level": 3}
+{"count": 1975, "name": "High-frequency ventilation", "weight": 0.0, "id": 2776691311, "level": 3}
+{"count": 2837, "name": "Mucociliary clearance", "weight": 0.0, "id": 114682108, "level": 3}
+{"count": 3028, "name": "Ventilation/perfusion ratio", "weight": 0.0, "id": 203801776, "level": 3}
+{"count": 2101, "name": "Oxygen toxicity", "weight": 0.0, "id": 2777590204, "level": 3}
+{"count": 2056, "name": "Pulmonary alveolar proteinosis", "weight": 0.0, "id": 2778972612, "level": 3}
+{"count": 3059, "name": "Pulmonary toxicity", "weight": 0.0, "id": 2781047374, "level": 3}
+{"count": 2211, "name": "Lamellar granule", "weight": 0.0, "id": 145156650, "level": 3}
+{"count": 1599, "name": "Fraction of inspired oxygen", "weight": 0.0, "id": 2780807750, "level": 3}
+{"count": 2881, "name": "Right pulmonary artery", "weight": 0.0, "id": 2779227300, "level": 3}
+{"count": 2079, "name": "Elastance", "weight": 0.0, "id": 2780729457, "level": 3}
+{"count": 2838, "name": "Left pulmonary artery", "weight": 0.0, "id": 2778435157, "level": 3}
+{"count": 7158, "name": "Lung biopsy", "weight": 1.0, "id": 2779563453, "level": 3}
+{"count": 934, "name": "Surfactant protein D", "weight": 0.0, "id": 2777438239, "level": 3}
+{"count": 925, "name": "Transfusion-related acute lung injury", "weight": 0.0, "id": 2777259802, "level": 3}
+{"count": 1917, "name": "Lymphangioleiomyomatosis", "weight": 0.0, "id": 2779997425, "level": 3}
+{"count": 2147, "name": "Pulmonary sequestration", "weight": 0.0, "id": 2778741246, "level": 3}
+{"count": 1939, "name": "Aspergilloma", "weight": 0.0, "id": 2780266170, "level": 3}
+{"count": 2326, "name": "Bronchial artery", "weight": 0.0, "id": 2780977465, "level": 3}
+{"count": 1558, "name": "Eosinophilic pneumonia", "weight": 0.0, "id": 2780942278, "level": 3}
+{"count": 2474, "name": "Lung abscess", "weight": 0.0, "id": 2780698514, "level": 3}
+{"count": 1567, "name": "Intratracheal instillation", "weight": 0.0, "id": 2779078736, "level": 3}
+{"count": 707, "name": "Bronchiole", "weight": 0.0, "id": 2780957178, "level": 3}
+{"count": 1280, "name": "Surfactant protein A", "weight": 0.0, "id": 194108754, "level": 3}
+{"count": 3502, "name": "Pulmonary angiography", "weight": 0.0, "id": 2780149156, "level": 3}
+{"count": 734, "name": "Occupational lung disease", "weight": 0.0, "id": 2781441816, "level": 3}
+{"count": 3127, "name": "Pulmonary hemorrhage", "weight": 0.0, "id": 2777050789, "level": 3}
+{"count": 894, "name": "Blastoma", "weight": 0.0, "id": 2779052392, "level": 3}
+{"count": 1041, "name": "Pulmonary pathology", "weight": 0.0, "id": 2776401088, "level": 3}
+{"count": 179, "name": "Bronchus-associated lymphoid tissue", "weight": 0.0, "id": 2778759628, "level": 3}
+{"count": 630, "name": "Air sacs", "weight": 0.0, "id": 2780027852, "level": 3}
+{"count": 1203, "name": "Chest physiotherapy", "weight": 0.0, "id": 2776705957, "level": 3}
+{"count": 817, "name": "Scimitar syndrome", "weight": 0.0, "id": 2776279631, "level": 3}
+{"count": 305, "name": "Perflubron", "weight": 0.0, "id": 2778922593, "level": 3}
+{"count": 1765, "name": "Smoke inhalation", "weight": 0.0, "id": 2777390754, "level": 3}
+{"count": 214, "name": "Ventilation/perfusion scan", "weight": 0.0, "id": 2776794118, "level": 3}
+{"count": 554, "name": "Surfactant protein C", "weight": 0.0, "id": 2778729956, "level": 3}
+{"count": 970, "name": "Pulmonary contusion", "weight": 0.0, "id": 2780229392, "level": 3}
+{"count": 331, "name": "Surfactant protein B", "weight": 0.0, "id": 2776739587, "level": 3}
+{"count": 268, "name": "Idiopathic pneumonia syndrome", "weight": 0.0, "id": 2777263979, "level": 3}
+{"count": 168, "name": "Pulmonary surfactant-associated protein B", "weight": 0.0, "id": 2778406098, "level": 3}
+{"count": 1239, "name": "Mean airway pressure", "weight": 0.0, "id": 2776596748, "level": 3}
+{"count": 437, "name": "Pleuropulmonary blastoma", "weight": 0.0, "id": 2776960910, "level": 3}
+{"count": 125, "name": "Type II pneumocyte", "weight": 0.0, "id": 2776355689, "level": 3}
+{"count": 119, "name": "Blood\u2013air barrier", "weight": 0.0, "id": 2776157080, "level": 3}
+{"count": 246, "name": "Hering\u2013Breuer reflex", "weight": 0.0, "id": 116278937, "level": 3}
+{"count": 992, "name": "Pulmonary stretch receptors", "weight": 0.0, "id": 36486301, "level": 3}
+{"count": 422, "name": "Bronchial circulation", "weight": 0.0, "id": 2778582107, "level": 3}
+{"count": 577, "name": "Congenital lobar emphysema", "weight": 0.0, "id": 2780562284, "level": 3}
+{"count": 210, "name": "Isolated lung perfusion", "weight": 0.0, "id": 2779561232, "level": 3}
+{"count": 472, "name": "Pulmonary alveolar microlithiasis", "weight": 0.0, "id": 2776786135, "level": 3}
+{"count": 647, "name": "Pulmonary gas pressures", "weight": 0.0, "id": 153899047, "level": 3}
+{"count": 415, "name": "Hydropneumothorax", "weight": 0.0, "id": 2779054139, "level": 3}
+{"count": 265, "name": "Benign metastasizing leiomyoma", "weight": 0.0, "id": 2779677543, "level": 3}
+{"count": 711, "name": "Pulmonary shunt", "weight": 0.0, "id": 2779589923, "level": 3}
+{"count": 358, "name": "Sivelestat", "weight": 0.0, "id": 2776324132, "level": 3}
+{"count": 223, "name": "Alveolar duct", "weight": 0.0, "id": 2778802680, "level": 3}
+{"count": 279, "name": "Congenital pulmonary airway malformation", "weight": 0.0, "id": 2779935494, "level": 3}
+{"count": 191, "name": "Lipid pneumonia", "weight": 0.0, "id": 2777021358, "level": 3}
+{"count": 148, "name": "Extracorporeal carbon dioxide removal", "weight": 0.0, "id": 2778542311, "level": 3}
+{"count": 347, "name": "Progressive massive fibrosis", "weight": 0.0, "id": 2780690803, "level": 3}
+{"count": 1466, "name": "Crackles", "weight": 0.0, "id": 2780908675, "level": 3}
+{"count": 685, "name": "Halo sign", "weight": 0.0, "id": 2777376946, "level": 3}
+{"count": 1435, "name": "Alveolar cells", "weight": 0.0, "id": 2779854577, "level": 3}
+{"count": 341, "name": "Intrapleural pressure", "weight": 0.0, "id": 2778362543, "level": 3}
+{"count": 167, "name": "Swyer\u2013James syndrome", "weight": 0.0, "id": 2777075476, "level": 3}
+{"count": 255, "name": "Alveolar gas equation", "weight": 0.0, "id": 32925555, "level": 3}
+{"count": 129, "name": "Lymphangitis carcinomatosa", "weight": 0.0, "id": 2780605848, "level": 3}
+{"count": 111, "name": "Club cell", "weight": 0.0, "id": 2776002751, "level": 3}
+{"count": 203, "name": "Double-lumen endobronchial tube", "weight": 0.0, "id": 2778069506, "level": 3}
+{"count": 213, "name": "Rhonchi", "weight": 0.0, "id": 2778418102, "level": 3}
+{"count": 332, "name": "Alveolar septum", "weight": 0.0, "id": 2779482559, "level": 3}
+{"count": 90, "name": "Wilson\u2013Mikity syndrome", "weight": 0.0, "id": 2778058075, "level": 3}
+{"count": 285, "name": "Lung microbiome", "weight": 0.0, "id": 2776828318, "level": 3}
+{"count": 91, "name": "Pulmonary hyalinizing granuloma", "weight": 0.0, "id": 2779837132, "level": 3}
+{"count": 97, "name": "Liquid breathing", "weight": 0.0, "id": 2780190957, "level": 3}
+{"count": 139, "name": "Gas exchange", "weight": 0.0, "id": 148071080, "level": 3}
+{"count": 145, "name": "Azygos lobe", "weight": 0.0, "id": 2779420854, "level": 3}
+{"count": 45, "name": "Neuroendocrine hyperplasia", "weight": 0.0, "id": 2779273548, "level": 3}
+{"count": 379, "name": "Pulmonary consolidation", "weight": 0.0, "id": 2781137105, "level": 3}
+{"count": 48, "name": "Pulmonary neuroendocrine tumor", "weight": 0.0, "id": 2780698671, "level": 3}
+{"count": 47, "name": "Perilla ketone", "weight": 0.0, "id": 2777867044, "level": 3}
+{"count": 85, "name": "Endothoracic fascia", "weight": 0.0, "id": 2779409626, "level": 3}
+{"count": 55, "name": "Buccal pumping", "weight": 0.0, "id": 2779651178, "level": 3}
+{"count": 32, "name": "Pulmonary talcosis", "weight": 0.0, "id": 2779858362, "level": 3}
+{"count": 77, "name": "Pulmonary hematoma", "weight": 0.0, "id": 2778473634, "level": 3}
+{"count": 96, "name": "Lung infarction", "weight": 0.0, "id": 2779514185, "level": 3}
+{"count": 148, "name": "Lung bud", "weight": 0.0, "id": 2778736251, "level": 3}
+{"count": 109, "name": "Fremitus", "weight": 0.0, "id": 2780380603, "level": 3}
+{"count": 449, "name": "Zones of the lung", "weight": 0.0, "id": 101472996, "level": 3}
+{"count": 35, "name": "Pneumocystis murina", "weight": 0.0, "id": 2778162935, "level": 3}
+{"count": 29, "name": "Acute inhalation injury", "weight": 0.0, "id": 2778773909, "level": 3}
+{"count": 30, "name": "Pleural friction rub", "weight": 0.0, "id": 2779861292, "level": 3}
+{"count": 17, "name": "Tree-in-bud sign", "weight": 0.0, "id": 2776469841, "level": 3}
+{"count": 39, "name": "Reid index", "weight": 0.0, "id": 184392475, "level": 3}
+{"count": 27, "name": "Westermark sign", "weight": 0.0, "id": 2780148694, "level": 3}
+{"count": 25, "name": "CXCL15", "weight": 0.0, "id": 2777490987, "level": 3}
+{"count": 79, "name": "Respiratory zone", "weight": 0.0, "id": 2778216920, "level": 3}
+{"count": 220, "name": "Modes of mechanical ventilation", "weight": 0.0, "id": 2780987507, "level": 3}
+{"count": 23, "name": "Pulmonary plexus", "weight": 0.0, "id": 2781111875, "level": 3}
+{"count": 28, "name": "Root of the lung", "weight": 0.0, "id": 2776881145, "level": 3}
+{"count": 7, "name": "Mucinous cystadenocarcinoma of the lung", "weight": 0.0, "id": 2776987646, "level": 3}
+{"count": 13, "name": "Epithelial-myoepithelial carcinoma of the lung", "weight": 0.0, "id": 2779550943, "level": 3}
+{"count": 18, "name": "Pulmonary carcinoid tumour", "weight": 0.0, "id": 2778605528, "level": 3}
+{"count": 8, "name": "Alveolar lung disease", "weight": 0.0, "id": 2778484765, "level": 3}
+{"count": 18, "name": "Base of lung", "weight": 0.0, "id": 2776995346, "level": 3}
+{"count": 22, "name": "Cryptoporus", "weight": 0.0, "id": 2778474981, "level": 3}

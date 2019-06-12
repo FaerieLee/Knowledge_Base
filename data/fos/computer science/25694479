@@ -1,0 +1,6 @@
+{"count": 2236, "name": "Connected-component labeling", "weight": 4.0, "id": 58737948, "level": 5}
+{"count": 4650, "name": "Range segmentation", "weight": 10.0, "id": 67561299, "level": 5}
+{"count": 479, "name": "GrabCut", "weight": 1.0, "id": 206111151, "level": 5}
+{"count": 3933, "name": "Minimum spanning tree-based segmentation", "weight": 8.0, "id": 42314347, "level": 5}
+{"count": 27, "name": "Livewire Segmentation Technique", "weight": 0.0, "id": 5632354, "level": 5}
+{"count": 17, "name": "Simple interactive object extraction", "weight": 0.0, "id": 131633510, "level": 5}

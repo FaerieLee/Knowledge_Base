@@ -1,0 +1,200 @@
+{"count": 349595, "name": "Suicide prevention", "weight": 6.0, "id": 526869908, "level": 2}
+{"count": 555941, "name": "Cognition", "weight": 10.0, "id": 169900460, "level": 2}
+{"count": 69736, "name": "Central nervous system disease", "weight": 1.0, "id": 2779281540, "level": 2}
+{"count": 123176, "name": "Respiratory disease", "weight": 2.0, "id": 2776178081, "level": 2}
+{"count": 63172, "name": "Circulatory system", "weight": 1.0, "id": 72859922, "level": 2}
+{"count": 302196, "name": "Mental health", "weight": 5.0, "id": 134362201, "level": 2}
+{"count": 49200, "name": "Psychometrics", "weight": 0.0, "id": 171606756, "level": 2}
+{"count": 38350, "name": "Etiology", "weight": 0.0, "id": 137627325, "level": 2}
+{"count": 64789, "name": "Nervous system", "weight": 1.0, "id": 545706735, "level": 2}
+{"count": 150197, "name": "Schizophrenia", "weight": 2.0, "id": 73181058, "level": 2}
+{"count": 263501, "name": "Anxiety", "weight": 4.0, "id": 558461103, "level": 2}
+{"count": 354633, "name": "Drug", "weight": 6.0, "id": 2780035454, "level": 2}
+{"count": 92086, "name": "Orthopedic surgery", "weight": 1.0, "id": 68312169, "level": 2}
+{"count": 64482, "name": "Pharmacotherapy", "weight": 1.0, "id": 500440147, "level": 2}
+{"count": 143537, "name": "Respiratory system", "weight": 2.0, "id": 534529494, "level": 2}
+{"count": 288571, "name": "Lesion", "weight": 5.0, "id": 2781156865, "level": 2}
+{"count": 30932, "name": "Side effect", "weight": 0.0, "id": 2776083868, "level": 2}
+{"count": 72002, "name": "Neuron", "weight": 1.0, "id": 2778794669, "level": 2}
+{"count": 87944, "name": "Substance abuse", "weight": 1.0, "id": 40010229, "level": 2}
+{"count": 126315, "name": "Epilepsy", "weight": 2.0, "id": 2778186239, "level": 2}
+{"count": 85657, "name": "Social support", "weight": 1.0, "id": 2778087770, "level": 2}
+{"count": 28236, "name": "Insomnia", "weight": 0.0, "id": 2781210498, "level": 2}
+{"count": 135179, "name": "Dementia", "weight": 2.0, "id": 2779483572, "level": 2}
+{"count": 127988, "name": "Coping (psychology)", "weight": 2.0, "id": 73282008, "level": 2}
+{"count": 34896, "name": "Human brain", "weight": 0.0, "id": 2777670902, "level": 2}
+{"count": 83305, "name": "Intensive care unit", "weight": 1.0, "id": 2776376669, "level": 2}
+{"count": 44502, "name": "Child development", "weight": 0.0, "id": 109260823, "level": 2}
+{"count": 41016, "name": "Cerebellum", "weight": 0.0, "id": 2779652256, "level": 2}
+{"count": 24105, "name": "Severity of illness", "weight": 0.0, "id": 30036603, "level": 2}
+{"count": 75703, "name": "Autism", "weight": 1.0, "id": 205778803, "level": 2}
+{"count": 41685, "name": "Electromyography", "weight": 0.0, "id": 2777515770, "level": 2}
+{"count": 31490, "name": "Rating scale", "weight": 0.0, "id": 83849319, "level": 2}
+{"count": 57233, "name": "Psychopathology", "weight": 1.0, "id": 123273963, "level": 2}
+{"count": 40232, "name": "Anticoagulant", "weight": 0.0, "id": 2778205648, "level": 2}
+{"count": 61558, "name": "Comorbidity", "weight": 1.0, "id": 2779159551, "level": 2}
+{"count": 28554, "name": "Respiratory tract", "weight": 0.0, "id": 2779644171, "level": 2}
+{"count": 45911, "name": "Inhalation", "weight": 0.0, "id": 2776954882, "level": 2}
+{"count": 52490, "name": "Activities of daily living", "weight": 0.0, "id": 79544238, "level": 2}
+{"count": 64430, "name": "Aggression", "weight": 1.0, "id": 2779448149, "level": 2}
+{"count": 31943, "name": "Neuroimaging", "weight": 0.0, "id": 58693492, "level": 2}
+{"count": 53342, "name": "Neurology", "weight": 0.0, "id": 16568411, "level": 2}
+{"count": 69867, "name": "Analgesic", "weight": 1.0, "id": 2780820201, "level": 2}
+{"count": 38172, "name": "Bipolar disorder", "weight": 0.0, "id": 2776174506, "level": 2}
+{"count": 102443, "name": "Vulnerability", "weight": 1.0, "id": 186191158, "level": 2}
+{"count": 50378, "name": "Morphine", "weight": 0.0, "id": 2777389121, "level": 2}
+{"count": 11086, "name": "Dissociation (psychology)", "weight": 0.0, "id": 2779807818, "level": 2}
+{"count": 43351, "name": "Learning disability", "weight": 0.0, "id": 15107229, "level": 2}
+{"count": 27593, "name": "Sleep disorder", "weight": 0.0, "id": 1513209611, "level": 2}
+{"count": 41734, "name": "Mechanical ventilation", "weight": 0.0, "id": 2777080012, "level": 2}
+{"count": 15583, "name": "Neuroplasticity", "weight": 0.0, "id": 47611674, "level": 2}
+{"count": 73512, "name": "Addiction", "weight": 1.0, "id": 48856860, "level": 2}
+{"count": 49688, "name": "Pulmonary artery", "weight": 0.0, "id": 2780940725, "level": 2}
+{"count": 8557, "name": "Neurophysiology", "weight": 0.0, "id": 152478114, "level": 2}
+{"count": 35886, "name": "Juvenile delinquency", "weight": 0.0, "id": 71376074, "level": 2}
+{"count": 35812, "name": "Neurodegeneration", "weight": 0.0, "id": 2776925932, "level": 2}
+{"count": 55694, "name": "Meningitis", "weight": 1.0, "id": 2781026528, "level": 2}
+{"count": 32453, "name": "Attention deficit hyperactivity disorder", "weight": 0.0, "id": 2780783007, "level": 2}
+{"count": 47781, "name": "Chronic pain", "weight": 0.0, "id": 2781118164, "level": 2}
+{"count": 47075, "name": "Traumatic brain injury", "weight": 0.0, "id": 2781017439, "level": 2}
+{"count": 22906, "name": "Amyotrophic lateral sclerosis", "weight": 0.0, "id": 2780596555, "level": 2}
+{"count": 17586, "name": "Peripheral nervous system", "weight": 0.0, "id": 545314008, "level": 2}
+{"count": 24722, "name": "Geriatrics", "weight": 0.0, "id": 54183767, "level": 2}
+{"count": 8343, "name": "Bruit", "weight": 0.0, "id": 2781255199, "level": 2}
+{"count": 17038, "name": "Motor neuron", "weight": 0.0, "id": 2776752467, "level": 2}
+{"count": 350103, "name": "Psychological intervention", "weight": 6.0, "id": 27415008, "level": 2}
+{"count": 26211, "name": "Brain tumor", "weight": 0.0, "id": 2779130545, "level": 2}
+{"count": 19400, "name": "Psychological testing", "weight": 0.0, "id": 163515075, "level": 2}
+{"count": 22411, "name": "Brain damage", "weight": 0.0, "id": 2781458332, "level": 2}
+{"count": 22530, "name": "Down syndrome", "weight": 0.0, "id": 2779954681, "level": 2}
+{"count": 19902, "name": "Evoked potential", "weight": 0.0, "id": 2778823896, "level": 2}
+{"count": 36721, "name": "Cerebral palsy", "weight": 0.0, "id": 2779421357, "level": 2}
+{"count": 42219, "name": "Migraine", "weight": 0.0, "id": 2778541695, "level": 2}
+{"count": 24758, "name": "Head injury", "weight": 0.0, "id": 2777975874, "level": 2}
+{"count": 26295, "name": "Respiratory failure", "weight": 0.0, "id": 2776888751, "level": 2}
+{"count": 37774, "name": "Empathy", "weight": 0.0, "id": 2779885105, "level": 2}
+{"count": 80162, "name": "Mood", "weight": 1.0, "id": 2780733359, "level": 2}
+{"count": 26234, "name": "Major depressive disorder", "weight": 0.0, "id": 2780051608, "level": 2}
+{"count": 21774, "name": "Alcohol abuse", "weight": 0.0, "id": 2780931562, "level": 2}
+{"count": 35864, "name": "Axon", "weight": 0.0, "id": 2779530196, "level": 2}
+{"count": 27408, "name": "Social skills", "weight": 0.0, "id": 86772948, "level": 2}
+{"count": 62265, "name": "Abdominal pain", "weight": 1.0, "id": 2780955771, "level": 2}
+{"count": 42484, "name": "Paralysis", "weight": 0.0, "id": 2779618896, "level": 2}
+{"count": 64528, "name": "Reflex", "weight": 1.0, "id": 83974742, "level": 2}
+{"count": 13977, "name": "Social isolation", "weight": 0.0, "id": 2776893239, "level": 2}
+{"count": 28600, "name": "Hemostasis", "weight": 0.0, "id": 2778589496, "level": 2}
+{"count": 23877, "name": "Long-term care", "weight": 0.0, "id": 2780233487, "level": 2}
+{"count": 10353, "name": "Stigma (botany)", "weight": 0.0, "id": 168285401, "level": 2}
+{"count": 24263, "name": "Intellectual disability", "weight": 0.0, "id": 551499885, "level": 2}
+{"count": 49065, "name": "Nausea", "weight": 0.0, "id": 2780580376, "level": 2}
+{"count": 14470, "name": "Haloperidol", "weight": 0.0, "id": 2780948584, "level": 2}
+{"count": 4052, "name": "Retard", "weight": 0.0, "id": 2777131613, "level": 2}
+{"count": 9856, "name": "Schwann cell", "weight": 0.0, "id": 2777004073, "level": 2}
+{"count": 16522, "name": "Apnea", "weight": 0.0, "id": 2781326671, "level": 2}
+{"count": 8111, "name": "Conduct disorder", "weight": 0.0, "id": 2780135496, "level": 2}
+{"count": 14485, "name": "Alcohol dependence", "weight": 0.0, "id": 2779436514, "level": 2}
+{"count": 5539, "name": "Nosology", "weight": 0.0, "id": 72852651, "level": 2}
+{"count": 12623, "name": "Internalization", "weight": 0.0, "id": 139770010, "level": 2}
+{"count": 12670, "name": "Fluoxetine", "weight": 0.0, "id": 2776134451, "level": 2}
+{"count": 22061, "name": "Aphasia", "weight": 0.0, "id": 2779422653, "level": 2}
+{"count": 16000, "name": "Prosocial behavior", "weight": 0.0, "id": 158608086, "level": 2}
+{"count": 34330, "name": "Anger", "weight": 0.0, "id": 2779302386, "level": 2}
+{"count": 17899, "name": "Impulsivity", "weight": 0.0, "id": 2780319597, "level": 2}
+{"count": 18038, "name": "Polysomnography", "weight": 0.0, "id": 2778205975, "level": 2}
+{"count": 28777, "name": "Eating disorders", "weight": 0.0, "id": 2776394216, "level": 2}
+{"count": 11567, "name": "Olfactory system", "weight": 0.0, "id": 201792869, "level": 2}
+{"count": 18059, "name": "Diazepam", "weight": 0.0, "id": 2776175493, "level": 2}
+{"count": 18450, "name": "Family therapy", "weight": 0.0, "id": 66509814, "level": 2}
+{"count": 18691, "name": "Group psychotherapy", "weight": 0.0, "id": 501888929, "level": 2}
+{"count": 6290, "name": "Psychophysiology", "weight": 0.0, "id": 23677625, "level": 2}
+{"count": 6320, "name": "Motor system", "weight": 0.0, "id": 171139928, "level": 2}
+{"count": 13711, "name": "Visual impairment", "weight": 0.0, "id": 2781372952, "level": 2}
+{"count": 25285, "name": "Macular degeneration", "weight": 0.0, "id": 2776403814, "level": 2}
+{"count": 11692, "name": "Hypnotic", "weight": 0.0, "id": 2780930544, "level": 2}
+{"count": 19315, "name": "Ketamine", "weight": 0.0, "id": 2780795376, "level": 2}
+{"count": 17951, "name": "Myasthenia gravis", "weight": 0.0, "id": 2778105408, "level": 2}
+{"count": 10662, "name": "Dorsal root ganglion", "weight": 0.0, "id": 2776281502, "level": 2}
+{"count": 16193, "name": "Cannabis", "weight": 0.0, "id": 2777056318, "level": 2}
+{"count": 74667, "name": "Medical diagnosis", "weight": 1.0, "id": 534262118, "level": 2}
+{"count": 19880, "name": "Triage", "weight": 0.0, "id": 2777120189, "level": 2}
+{"count": 29008, "name": "Occupational therapy", "weight": 0.0, "id": 102190203, "level": 2}
+{"count": 22652, "name": "Ataxia", "weight": 0.0, "id": 2780906641, "level": 2}
+{"count": 13991, "name": "Neocortex", "weight": 0.0, "id": 2777222312, "level": 2}
+{"count": 7853, "name": "Choroid plexus", "weight": 0.0, "id": 2776538271, "level": 2}
+{"count": 14233, "name": "Methadone", "weight": 0.0, "id": 2778767360, "level": 2}
+{"count": 15301, "name": "Fibromyalgia", "weight": 0.0, "id": 2777831278, "level": 2}
+{"count": 6203, "name": "Fragile X syndrome", "weight": 0.0, "id": 2777630245, "level": 2}
+{"count": 40333, "name": "Thrombus", "weight": 0.0, "id": 2781362458, "level": 2}
+{"count": 5840, "name": "Protective factor", "weight": 0.0, "id": 97928714, "level": 2}
+{"count": 14980, "name": "Sexual dysfunction", "weight": 0.0, "id": 2778093883, "level": 2}
+{"count": 79904, "name": "Distress", "weight": 1.0, "id": 139265228, "level": 2}
+{"count": 36371, "name": "Amputation", "weight": 0.0, "id": 2776204877, "level": 2}
+{"count": 70633, "name": "Anastomosis", "weight": 1.0, "id": 8443397, "level": 2}
+{"count": 26156, "name": "Neurosurgery", "weight": 0.0, "id": 12770488, "level": 2}
+{"count": 9699, "name": "Chronic stress", "weight": 0.0, "id": 2778654844, "level": 2}
+{"count": 16537, "name": "Hostility", "weight": 0.0, "id": 2781214261, "level": 2}
+{"count": 21139, "name": "Abstinence", "weight": 0.0, "id": 2780687700, "level": 2}
+{"count": 10610, "name": "Neuropathology", "weight": 0.0, "id": 2780130745, "level": 2}
+{"count": 7111, "name": "Psychopharmacology", "weight": 0.0, "id": 103709681, "level": 2}
+{"count": 10657, "name": "Encephalomyelitis", "weight": 0.0, "id": 2777899865, "level": 2}
+{"count": 9879, "name": "Adolescent health", "weight": 0.0, "id": 2778063736, "level": 2}
+{"count": 9393, "name": "Chronic fatigue syndrome", "weight": 0.0, "id": 2779566273, "level": 2}
+{"count": 16989, "name": "Parkinsonism", "weight": 0.0, "id": 2776525014, "level": 2}
+{"count": 17131, "name": "Medical ethics", "weight": 0.0, "id": 126086293, "level": 2}
+{"count": 11545, "name": "Methamphetamine", "weight": 0.0, "id": 2780376393, "level": 2}
+{"count": 17225, "name": "Delirium", "weight": 0.0, "id": 2779753318, "level": 2}
+{"count": 9102, "name": "Lead poisoning", "weight": 0.0, "id": 2781037878, "level": 2}
+{"count": 8299, "name": "Imipramine", "weight": 0.0, "id": 2779145073, "level": 2}
+{"count": 6143, "name": "Adaptive behavior", "weight": 0.0, "id": 68784500, "level": 2}
+{"count": 10625, "name": "Borderline personality disorder", "weight": 0.0, "id": 2780600973, "level": 2}
+{"count": 3877, "name": "Withdrawal syndrome", "weight": 0.0, "id": 2776922375, "level": 2}
+{"count": 10822, "name": "Spina bifida", "weight": 0.0, "id": 2778478650, "level": 2}
+{"count": 9610, "name": "Convergent validity", "weight": 0.0, "id": 121244757, "level": 2}
+{"count": 8285, "name": "Support group", "weight": 0.0, "id": 2778996113, "level": 2}
+{"count": 8683, "name": "Neuralgia", "weight": 0.0, "id": 2780016216, "level": 2}
+{"count": 7575, "name": "Sequela", "weight": 0.0, "id": 2777609351, "level": 2}
+{"count": 53792, "name": "Opioid", "weight": 0.0, "id": 2781063702, "level": 2}
+{"count": 36787, "name": "Antidepressant", "weight": 0.0, "id": 2779177272, "level": 2}
+{"count": 5546, "name": "Neuroanatomy", "weight": 0.0, "id": 103378370, "level": 2}
+{"count": 16409, "name": "Neonatal intensive care unit", "weight": 0.0, "id": 2777091541, "level": 2}
+{"count": 18245, "name": "Loneliness", "weight": 0.0, "id": 2779998236, "level": 2}
+{"count": 12306, "name": "End-of-life care", "weight": 0.0, "id": 2780879335, "level": 2}
+{"count": 7490, "name": "Physical disability", "weight": 0.0, "id": 2779625216, "level": 2}
+{"count": 9499, "name": "Electroconvulsive therapy", "weight": 0.0, "id": 2777330709, "level": 2}
+{"count": 10905, "name": "Intramuscular injection", "weight": 0.0, "id": 2776291583, "level": 2}
+{"count": 11638, "name": "Movement disorders", "weight": 0.0, "id": 2778261627, "level": 2}
+{"count": 6061, "name": "Paroxetine", "weight": 0.0, "id": 2777828372, "level": 2}
+{"count": 16506, "name": "Institutionalisation", "weight": 0.0, "id": 164429055, "level": 2}
+{"count": 4823, "name": "Dwell time", "weight": 0.0, "id": 151637689, "level": 2}
+{"count": 21455, "name": "Grief", "weight": 0.0, "id": 2780837026, "level": 2}
+{"count": 6147, "name": "Osteitis", "weight": 0.0, "id": 2781343496, "level": 2}
+{"count": 12236, "name": "Recidivism", "weight": 0.0, "id": 2776090404, "level": 2}
+{"count": 5770, "name": "Nerve fiber", "weight": 0.0, "id": 2776823239, "level": 2}
+{"count": 20117, "name": "Special needs", "weight": 0.0, "id": 2776206778, "level": 2}
+{"count": 20131, "name": "Otorhinolaryngology", "weight": 0.0, "id": 108516343, "level": 2}
+{"count": 61880, "name": "Specialty", "weight": 1.0, "id": 20387591, "level": 2}
+{"count": 8591, "name": "Tuberous sclerosis", "weight": 0.0, "id": 2778980267, "level": 2}
+{"count": 44826, "name": "Neglect", "weight": 0.0, "id": 2776289891, "level": 2}
+{"count": 1003, "name": "Neuroscientist", "weight": 0.0, "id": 2779746338, "level": 2}
+{"count": 8990, "name": "Discriminant validity", "weight": 0.0, "id": 120107772, "level": 2}
+{"count": 5984, "name": "Shift work", "weight": 0.0, "id": 2776176791, "level": 2}
+{"count": 14353, "name": "General anaesthesia", "weight": 0.0, "id": 2776983577, "level": 2}
+{"count": 45906, "name": "Anesthetic", "weight": 0.0, "id": 2778162923, "level": 2}
+{"count": 13077, "name": "Biofeedback", "weight": 0.0, "id": 2776377089, "level": 2}
+{"count": 11317, "name": "Tetralogy of Fallot", "weight": 0.0, "id": 2778646171, "level": 2}
+{"count": 4313, "name": "Motor coordination", "weight": 0.0, "id": 113062710, "level": 2}
+{"count": 7236, "name": "Medical genetics", "weight": 0.0, "id": 64474127, "level": 2}
+{"count": 3051, "name": "Insular cortex", "weight": 0.0, "id": 2780539906, "level": 2}
+{"count": 4909, "name": "Progressive supranuclear palsy", "weight": 0.0, "id": 2776477761, "level": 2}
+{"count": 15035, "name": "Tinnitus", "weight": 0.0, "id": 2776992516, "level": 2}
+{"count": 6573, "name": "Thrombophlebitis", "weight": 0.0, "id": 2776149422, "level": 2}
+{"count": 9130, "name": "Trigeminal neuralgia", "weight": 0.0, "id": 2780355897, "level": 2}
+{"count": 119931, "name": "Psychosocial", "weight": 2.0, "id": 150966472, "level": 2}
+{"count": 6231, "name": "Delusion", "weight": 0.0, "id": 2779043874, "level": 2}
+{"count": 6462, "name": "Amitriptyline", "weight": 0.0, "id": 2780216858, "level": 2}
+{"count": 7017, "name": "Gabapentin", "weight": 0.0, "id": 2776608144, "level": 2}
+{"count": 4040, "name": "Rett syndrome", "weight": 0.0, "id": 2777543196, "level": 2}
+{"count": 11837, "name": "Research ethics", "weight": 0.0, "id": 153997805, "level": 2}
+{"count": 4202, "name": "Child Behavior Checklist", "weight": 0.0, "id": 2781192327, "level": 2}
+{"count": 4608, "name": "Behavioral medicine", "weight": 0.0, "id": 183698672, "level": 2}
+{"count": 13827, "name": "Ductus arteriosus", "weight": 0.0, "id": 2781236024, "level": 2}

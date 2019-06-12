@@ -1,0 +1,8 @@
+{"count": 407, "name": "Platform-based design", "weight": 1.0, "id": 2778762025, "level": 3}
+{"count": 2585, "name": "MPSoC", "weight": 10.0, "id": 2777187653, "level": 3}
+{"count": 616, "name": "Transaction-level modeling", "weight": 2.0, "id": 169571997, "level": 3}
+{"count": 768, "name": "PSoC", "weight": 2.0, "id": 95421548, "level": 3}
+{"count": 83, "name": "IP-XACT", "weight": 0.0, "id": 2780771950, "level": 3}
+{"count": 123, "name": "Advanced Microcontroller Bus Architecture", "weight": 0.0, "id": 2780424445, "level": 3}
+{"count": 46, "name": "CoreConnect", "weight": 0.0, "id": 2777603568, "level": 3}
+{"count": 44, "name": "Bus Functional Model", "weight": 0.0, "id": 2780314390, "level": 3}

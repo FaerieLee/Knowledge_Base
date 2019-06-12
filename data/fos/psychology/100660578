@@ -1,0 +1,27 @@
+{"count": 7444, "name": "Free recall", "weight": 10.0, "id": 36668950, "level": 3}
+{"count": 7075, "name": "Autobiographical memory", "weight": 9.0, "id": 144814538, "level": 3}
+{"count": 2661, "name": "False memory", "weight": 3.0, "id": 2779086471, "level": 3}
+{"count": 663, "name": "Generation effect", "weight": 0.0, "id": 119478370, "level": 3}
+{"count": 2121, "name": "Levels-of-processing effect", "weight": 2.0, "id": 49790547, "level": 3}
+{"count": 435, "name": "Spacing effect", "weight": 0.0, "id": 188785363, "level": 3}
+{"count": 809, "name": "Eyewitness memory", "weight": 1.0, "id": 2780291845, "level": 3}
+{"count": 608, "name": "Motivated forgetting", "weight": 0.0, "id": 95012187, "level": 3}
+{"count": 748, "name": "Retrieval-induced forgetting", "weight": 1.0, "id": 14606030, "level": 3}
+{"count": 267, "name": "Incidental memory", "weight": 0.0, "id": 2780377305, "level": 3}
+{"count": 658, "name": "Encoding specificity principle", "weight": 0.0, "id": 14482466, "level": 3}
+{"count": 173, "name": "Spaced retrieval", "weight": 0.0, "id": 2777865167, "level": 3}
+{"count": 145, "name": "Transfer-appropriate processing", "weight": 0.0, "id": 207317066, "level": 3}
+{"count": 218, "name": "Rey\u2013Osterrieth complex figure", "weight": 0.0, "id": 2781038240, "level": 3}
+{"count": 92, "name": "Mood congruence", "weight": 0.0, "id": 2780213767, "level": 3}
+{"count": 133, "name": "Picture superiority effect", "weight": 0.0, "id": 2780568905, "level": 3}
+{"count": 142, "name": "Method of loci", "weight": 0.0, "id": 2776735564, "level": 3}
+{"count": 79, "name": "Drug recall", "weight": 0.0, "id": 2775946258, "level": 3}
+{"count": 76, "name": "Memory augmentation", "weight": 0.0, "id": 2776866682, "level": 3}
+{"count": 71, "name": "Memory inhibition", "weight": 0.0, "id": 2777715432, "level": 3}
+{"count": 280, "name": "Posthypnotic amnesia", "weight": 0.0, "id": 36630064, "level": 3}
+{"count": 345, "name": "Testing effect", "weight": 0.0, "id": 19378033, "level": 3}
+{"count": 28, "name": "Mood-dependent memory", "weight": 0.0, "id": 2780671973, "level": 3}
+{"count": 38, "name": "Mnemic neglect", "weight": 0.0, "id": 2779877381, "level": 3}
+{"count": 26, "name": "Self-referential encoding", "weight": 0.0, "id": 62883977, "level": 3}
+{"count": 103, "name": "Elaborative encoding", "weight": 0.0, "id": 2777896725, "level": 3}
+{"count": 63, "name": "Active recall", "weight": 0.0, "id": 2777661211, "level": 3}

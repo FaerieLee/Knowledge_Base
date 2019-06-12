@@ -1,0 +1,109 @@
+{"count": 13493, "name": "Packet switching", "weight": 5.0, "id": 113508815, "level": 3}
+{"count": 23988, "name": "Packet loss", "weight": 10.0, "id": 54108766, "level": 3}
+{"count": 12037, "name": "Linear network coding", "weight": 5.0, "id": 138293262, "level": 3}
+{"count": 10477, "name": "Circuit switching", "weight": 4.0, "id": 74294265, "level": 3}
+{"count": 4737, "name": "Automatic repeat request", "weight": 1.0, "id": 171952454, "level": 3}
+{"count": 11844, "name": "End-to-end delay", "weight": 4.0, "id": 37624559, "level": 3}
+{"count": 7323, "name": "Transmission Control Protocol", "weight": 3.0, "id": 33588617, "level": 3}
+{"count": 2179, "name": "Packet radio", "weight": 0.0, "id": 167465779, "level": 3}
+{"count": 6112, "name": "Packet forwarding", "weight": 2.0, "id": 120317029, "level": 3}
+{"count": 3560, "name": "Active queue management", "weight": 1.0, "id": 34793927, "level": 3}
+{"count": 2178, "name": "Multiple description coding", "weight": 0.0, "id": 135554599, "level": 3}
+{"count": 4321, "name": "Network processor", "weight": 1.0, "id": 74366991, "level": 3}
+{"count": 2391, "name": "Carrier sense multiple access with collision avoidance", "weight": 0.0, "id": 59229178, "level": 3}
+{"count": 1540, "name": "Class of service", "weight": 0.0, "id": 170635541, "level": 3}
+{"count": 1422, "name": "Weighted fair queueing", "weight": 0.0, "id": 102486512, "level": 3}
+{"count": 808, "name": "IP traceback", "weight": 0.0, "id": 2776059407, "level": 3}
+{"count": 288, "name": "Bandwidth-delay product", "weight": 0.0, "id": 58817359, "level": 3}
+{"count": 1061, "name": "Exponential backoff", "weight": 0.0, "id": 30777684, "level": 3}
+{"count": 3017, "name": "User Datagram Protocol", "weight": 1.0, "id": 20636137, "level": 3}
+{"count": 761, "name": "Capture effect", "weight": 0.0, "id": 187077762, "level": 3}
+{"count": 1594, "name": "Deep packet inspection", "weight": 0.0, "id": 204679922, "level": 3}
+{"count": 18418, "name": "Transmission delay", "weight": 7.0, "id": 108921912, "level": 3}
+{"count": 14794, "name": "Retransmission", "weight": 6.0, "id": 180611318, "level": 3}
+{"count": 361, "name": "Congestion window", "weight": 0.0, "id": 73135967, "level": 3}
+{"count": 485, "name": "Time to live", "weight": 0.0, "id": 44690807, "level": 3}
+{"count": 1383, "name": "Internet Control Message Protocol", "weight": 0.0, "id": 195219913, "level": 3}
+{"count": 756, "name": "Weighted round robin", "weight": 0.0, "id": 141306801, "level": 3}
+{"count": 1255, "name": "IP address spoofing", "weight": 0.0, "id": 111814575, "level": 3}
+{"count": 1459, "name": "Goodput", "weight": 0.0, "id": 94022561, "level": 3}
+{"count": 635, "name": "traceroute", "weight": 0.0, "id": 157497606, "level": 3}
+{"count": 130, "name": "Virtual Output Queues", "weight": 0.0, "id": 165715116, "level": 3}
+{"count": 11505, "name": "Packet analyzer", "weight": 4.0, "id": 95362637, "level": 3}
+{"count": 1786, "name": "RTP Control Protocol", "weight": 0.0, "id": 56626739, "level": 3}
+{"count": 4163, "name": "Protocol data unit", "weight": 1.0, "id": 21853045, "level": 3}
+{"count": 3180, "name": "Packet switch", "weight": 1.0, "id": 50217831, "level": 3}
+{"count": 4239, "name": "Forwarding plane", "weight": 1.0, "id": 10597312, "level": 3}
+{"count": 3422, "name": "Packet processing", "weight": 1.0, "id": 2779581428, "level": 3}
+{"count": 333, "name": "Point-to-Point Protocol", "weight": 0.0, "id": 2779088108, "level": 3}
+{"count": 538, "name": "Protocol overhead", "weight": 0.0, "id": 2779913931, "level": 3}
+{"count": 69, "name": "Multipacket reception", "weight": 0.0, "id": 2780350764, "level": 3}
+{"count": 373, "name": "Segmentation and Reassembly", "weight": 0.0, "id": 143472682, "level": 3}
+{"count": 594, "name": "SYN flood", "weight": 0.0, "id": 143127707, "level": 3}
+{"count": 310, "name": "NetFPGA", "weight": 0.0, "id": 2776767758, "level": 3}
+{"count": 439, "name": "Middlebox", "weight": 0.0, "id": 2780584376, "level": 3}
+{"count": 13495, "name": "Processing delay", "weight": 5.0, "id": 21434264, "level": 3}
+{"count": 1092, "name": "Token bucket", "weight": 0.0, "id": 135135165, "level": 3}
+{"count": 255, "name": "Head-of-line blocking", "weight": 0.0, "id": 103512785, "level": 3}
+{"count": 2379, "name": "Datagram", "weight": 0.0, "id": 152298349, "level": 3}
+{"count": 211, "name": "Energy-Efficient Ethernet", "weight": 0.0, "id": 2781374625, "level": 3}
+{"count": 500, "name": "Robust Header Compression", "weight": 0.0, "id": 100600661, "level": 3}
+{"count": 305, "name": "Packet aggregation", "weight": 0.0, "id": 2777041118, "level": 3}
+{"count": 111, "name": "One-way delay", "weight": 0.0, "id": 2780233680, "level": 3}
+{"count": 811, "name": "IP header", "weight": 0.0, "id": 2779993465, "level": 3}
+{"count": 2184, "name": "Connection-oriented communication", "weight": 0.0, "id": 139205394, "level": 3}
+{"count": 1272, "name": "Traffic flow (computer networking)", "weight": 0.0, "id": 207512268, "level": 3}
+{"count": 892, "name": "Link aggregation", "weight": 0.0, "id": 2781244618, "level": 3}
+{"count": 731, "name": "Offered load", "weight": 0.0, "id": 54273483, "level": 3}
+{"count": 114, "name": "Silence suppression", "weight": 0.0, "id": 2778376838, "level": 3}
+{"count": 2667, "name": "Connectionless communication", "weight": 1.0, "id": 153043593, "level": 3}
+{"count": 330, "name": "IP fragmentation", "weight": 0.0, "id": 148429269, "level": 3}
+{"count": 20, "name": "UDP Lite", "weight": 0.0, "id": 126030532, "level": 3}
+{"count": 247, "name": "Promiscuous mode", "weight": 0.0, "id": 78194185, "level": 3}
+{"count": 924, "name": "Payload (computing)", "weight": 0.0, "id": 134066672, "level": 3}
+{"count": 57, "name": "Next-generation network services", "weight": 0.0, "id": 2779098542, "level": 3}
+{"count": 190, "name": "MPEG transport stream", "weight": 0.0, "id": 2780525874, "level": 3}
+{"count": 288, "name": "Virtual Extensible LAN", "weight": 0.0, "id": 87603110, "level": 3}
+{"count": 159, "name": "Packet injection", "weight": 0.0, "id": 2781088261, "level": 3}
+{"count": 277, "name": "TCP window scale option", "weight": 0.0, "id": 27143522, "level": 3}
+{"count": 36, "name": "QoS Class Identifier", "weight": 0.0, "id": 2776134089, "level": 3}
+{"count": 124, "name": "Wake-on-LAN", "weight": 0.0, "id": 2778181027, "level": 3}
+{"count": 321, "name": "Maximum transmission unit", "weight": 0.0, "id": 125615248, "level": 3}
+{"count": 114, "name": "Elephant flow", "weight": 0.0, "id": 2778457190, "level": 3}
+{"count": 298, "name": "Collision domain", "weight": 0.0, "id": 75513984, "level": 3}
+{"count": 664, "name": "PDCP", "weight": 0.0, "id": 2779061185, "level": 3}
+{"count": 176, "name": "Frame check sequence", "weight": 0.0, "id": 2776024985, "level": 3}
+{"count": 146, "name": "Talkspurt", "weight": 0.0, "id": 2778122772, "level": 3}
+{"count": 294, "name": "Path MTU Discovery", "weight": 0.0, "id": 62810208, "level": 3}
+{"count": 83, "name": "Network Driver Interface Specification", "weight": 0.0, "id": 2777810022, "level": 3}
+{"count": 76, "name": "Link Layer Discovery Protocol", "weight": 0.0, "id": 2780534532, "level": 3}
+{"count": 77, "name": "Parallel Redundancy Protocol", "weight": 0.0, "id": 2776440382, "level": 3}
+{"count": 54, "name": "In-band control", "weight": 0.0, "id": 2781396619, "level": 3}
+{"count": 194, "name": "Generic Routing Encapsulation", "weight": 0.0, "id": 172697091, "level": 3}
+{"count": 473, "name": "Anti-replay", "weight": 0.0, "id": 148718273, "level": 3}
+{"count": 2087, "name": "Port mirroring", "weight": 0.0, "id": 135415073, "level": 3}
+{"count": 29, "name": "Berkeley Packet Filter", "weight": 0.0, "id": 2781305104, "level": 3}
+{"count": 58, "name": "VoATM", "weight": 0.0, "id": 2781038914, "level": 3}
+{"count": 270, "name": "Virtual network interface", "weight": 0.0, "id": 2777411940, "level": 3}
+{"count": 99, "name": "Packet telephony", "weight": 0.0, "id": 2779616436, "level": 3}
+{"count": 586, "name": "Proxy ARP", "weight": 0.0, "id": 86116768, "level": 3}
+{"count": 1997, "name": "Application layer DDoS attack", "weight": 0.0, "id": 120865594, "level": 3}
+{"count": 125, "name": "Broadcast address", "weight": 0.0, "id": 2779742664, "level": 3}
+{"count": 83, "name": "Multimedia telephony", "weight": 0.0, "id": 2779411559, "level": 3}
+{"count": 449, "name": "Time Protocol", "weight": 0.0, "id": 2778647566, "level": 3}
+{"count": 161, "name": "Switched fabric", "weight": 0.0, "id": 2777827354, "level": 3}
+{"count": 58, "name": "D2-MAC", "weight": 0.0, "id": 2779569955, "level": 3}
+{"count": 34, "name": "Interpacket gap", "weight": 0.0, "id": 2777366960, "level": 3}
+{"count": 14, "name": "Remote Digital Terminal", "weight": 0.0, "id": 2780810472, "level": 3}
+{"count": 70, "name": "IP Flow Information Export", "weight": 0.0, "id": 2778355978, "level": 3}
+{"count": 209, "name": "Packet data serving node", "weight": 0.0, "id": 2777327500, "level": 3}
+{"count": 200, "name": "Virtual IP address", "weight": 0.0, "id": 2777928263, "level": 3}
+{"count": 10, "name": "Long-tail traffic", "weight": 0.0, "id": 49654473, "level": 3}
+{"count": 2686, "name": "Switched communication network", "weight": 1.0, "id": 43118282, "level": 3}
+{"count": 19, "name": "System Packet Interface", "weight": 0.0, "id": 2778726669, "level": 3}
+{"count": 29, "name": "Packet Assembler/Disassembler", "weight": 0.0, "id": 622046, "level": 3}
+{"count": 1898, "name": "Port triggering", "weight": 0.0, "id": 176431041, "level": 3}
+{"count": 18, "name": "Media access unit", "weight": 0.0, "id": 2780230161, "level": 3}
+{"count": 12, "name": "Network Virtualization using Generic Routing Encapsulation", "weight": 0.0, "id": 2780571879, "level": 3}
+{"count": 53, "name": "Video sender", "weight": 0.0, "id": 2777075687, "level": 3}
+{"count": 748, "name": "VLAN access control list", "weight": 0.0, "id": 102242181, "level": 3}

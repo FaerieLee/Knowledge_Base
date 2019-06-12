@@ -1,0 +1,20 @@
+{"count": 6705, "name": "Antigen processing", "weight": 10.0, "id": 108249834, "level": 5}
+{"count": 4574, "name": "CD1", "weight": 6.0, "id": 37386791, "level": 5}
+{"count": 984, "name": "Cross-presentation", "weight": 1.0, "id": 2778973524, "level": 5}
+{"count": 527, "name": "Tapasin", "weight": 0.0, "id": 2775987129, "level": 5}
+{"count": 1594, "name": "Transporter associated with antigen processing", "weight": 2.0, "id": 22845430, "level": 5}
+{"count": 5094, "name": "MHC restriction", "weight": 7.0, "id": 197695756, "level": 5}
+{"count": 2332, "name": "CD74", "weight": 3.0, "id": 119997001, "level": 5}
+{"count": 470, "name": "TAP1", "weight": 0.0, "id": 2779774174, "level": 5}
+{"count": 140, "name": "CD94/NKG2", "weight": 0.0, "id": 2777295156, "level": 5}
+{"count": 148, "name": "HLA-DO", "weight": 0.0, "id": 2779916567, "level": 5}
+{"count": 377, "name": "TAP2", "weight": 0.0, "id": 2778725064, "level": 5}
+{"count": 167, "name": "NLRC5", "weight": 0.0, "id": 2776790776, "level": 5}
+{"count": 298, "name": "NKG2", "weight": 0.0, "id": 2780794590, "level": 5}
+{"count": 46, "name": "Leukocyte immunoglobulin-like receptors", "weight": 0.0, "id": 2775868527, "level": 5}
+{"count": 43, "name": "MHC multimer", "weight": 0.0, "id": 2778340666, "level": 5}
+{"count": 62, "name": "Milatuzumab", "weight": 0.0, "id": 2776119865, "level": 5}
+{"count": 42, "name": "Vacuolar pathway", "weight": 0.0, "id": 2780698312, "level": 5}
+{"count": 28, "name": "Qa-1b", "weight": 0.0, "id": 2776712306, "level": 5}
+{"count": 41, "name": "Immune Epitope Database and Analysis Resource", "weight": 0.0, "id": 2780614124, "level": 5}
+{"count": 36, "name": "PSMB10", "weight": 0.0, "id": 2781255752, "level": 5}

@@ -1,0 +1,3 @@
+{"count": 280, "name": "Randomness extractor", "weight": 2.0, "id": 148109522, "level": 3}
+{"count": 488, "name": "Degenerate distribution", "weight": 3.0, "id": 123765380, "level": 3}
+{"count": 1261, "name": "Convolution random number generator", "weight": 10.0, "id": 116643974, "level": 3}

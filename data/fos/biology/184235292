@@ -1,0 +1,84 @@
+{"count": 35033, "name": "Mitogen-activated protein kinase", "weight": 10.0, "id": 132149769, "level": 3}
+{"count": 15284, "name": "Cyclin-dependent kinase", "weight": 4.0, "id": 124320809, "level": 3}
+{"count": 5210, "name": "Cyclin", "weight": 1.0, "id": 120089663, "level": 3}
+{"count": 16525, "name": "Protein phosphorylation", "weight": 4.0, "id": 87325107, "level": 3}
+{"count": 7183, "name": "GSK-3", "weight": 2.0, "id": 182996813, "level": 3}
+{"count": 3796, "name": "Phosphoinositide 3-kinase", "weight": 1.0, "id": 2781322055, "level": 3}
+{"count": 4326, "name": "Protein kinase domain", "weight": 1.0, "id": 32619005, "level": 3}
+{"count": 17826, "name": "Phosphatidylinositol", "weight": 5.0, "id": 2780610907, "level": 3}
+{"count": 2976, "name": "Protein kinase inhibitor", "weight": 0.0, "id": 2779033064, "level": 3}
+{"count": 2543, "name": "Histidine kinase", "weight": 0.0, "id": 2778905257, "level": 3}
+{"count": 1116, "name": "Src family kinase", "weight": 0.0, "id": 2779976819, "level": 3}
+{"count": 4075, "name": "Casein kinase 2", "weight": 1.0, "id": 143910341, "level": 3}
+{"count": 2780, "name": "Cyclin-dependent kinase 5", "weight": 0.0, "id": 121738310, "level": 3}
+{"count": 6454, "name": "c-jun", "weight": 1.0, "id": 2779087070, "level": 3}
+{"count": 7175, "name": "Autophosphorylation", "weight": 2.0, "id": 150109051, "level": 3}
+{"count": 828, "name": "Maturation promoting factor", "weight": 0.0, "id": 6902291, "level": 3}
+{"count": 7819, "name": "Cyclin-dependent kinase 1", "weight": 2.0, "id": 120504264, "level": 3}
+{"count": 1517, "name": "Nucleoside-diphosphate kinase", "weight": 0.0, "id": 151903565, "level": 3}
+{"count": 1389, "name": "Integrin-linked kinase", "weight": 0.0, "id": 66417403, "level": 3}
+{"count": 2553, "name": "Casein kinase 1", "weight": 0.0, "id": 160110348, "level": 3}
+{"count": 384, "name": "Guanylate kinase", "weight": 0.0, "id": 172078151, "level": 3}
+{"count": 427, "name": "A-kinase-anchoring protein", "weight": 0.0, "id": 2778965603, "level": 3}
+{"count": 2408, "name": "Polo-like kinase", "weight": 0.0, "id": 84815855, "level": 3}
+{"count": 6318, "name": "Wortmannin", "weight": 1.0, "id": 2778308172, "level": 3}
+{"count": 4565, "name": "P70-S6 Kinase 1", "weight": 1.0, "id": 104202773, "level": 3}
+{"count": 4252, "name": "Syk", "weight": 1.0, "id": 35174551, "level": 3}
+{"count": 1097, "name": "Deoxycytidine kinase", "weight": 0.0, "id": 2779268695, "level": 3}
+{"count": 2789, "name": "FYN", "weight": 0.0, "id": 37686147, "level": 3}
+{"count": 1595, "name": "Aurora kinase", "weight": 0.0, "id": 2780808130, "level": 3}
+{"count": 846, "name": "SKP2", "weight": 0.0, "id": 2776787872, "level": 3}
+{"count": 1044, "name": "MARCKS", "weight": 0.0, "id": 2780780085, "level": 3}
+{"count": 2026, "name": "LY294002", "weight": 0.0, "id": 2776912716, "level": 3}
+{"count": 283, "name": "Thymidine monophosphate", "weight": 0.0, "id": 2780785780, "level": 3}
+{"count": 2433, "name": "Hippo signaling pathway", "weight": 0.0, "id": 172512520, "level": 3}
+{"count": 2378, "name": "AKT1", "weight": 0.0, "id": 154137905, "level": 3}
+{"count": 630, "name": "Arginine kinase", "weight": 0.0, "id": 2776277561, "level": 3}
+{"count": 1873, "name": "PLK1", "weight": 0.0, "id": 146276462, "level": 3}
+{"count": 533, "name": "Mevalonate kinase", "weight": 0.0, "id": 2777199029, "level": 3}
+{"count": 3882, "name": "Hyperphosphorylation", "weight": 1.0, "id": 2778198054, "level": 3}
+{"count": 999, "name": "PAK1", "weight": 0.0, "id": 24901178, "level": 3}
+{"count": 107, "name": "Sulfate adenylyltransferase", "weight": 0.0, "id": 2779931592, "level": 3}
+{"count": 1247, "name": "Tyrosine kinase 2", "weight": 0.0, "id": 130523297, "level": 3}
+{"count": 712, "name": "CDC25A", "weight": 0.0, "id": 2777228722, "level": 3}
+{"count": 1063, "name": "Kinome", "weight": 0.0, "id": 54174078, "level": 3}
+{"count": 400, "name": "DYRK1A", "weight": 0.0, "id": 2777736865, "level": 3}
+{"count": 909, "name": "SGK1", "weight": 0.0, "id": 184150571, "level": 3}
+{"count": 346, "name": "Uridine kinase", "weight": 0.0, "id": 2777785080, "level": 3}
+{"count": 363, "name": "K252a", "weight": 0.0, "id": 2780094326, "level": 3}
+{"count": 494, "name": "Phosphagen", "weight": 0.0, "id": 2779220172, "level": 3}
+{"count": 428, "name": "P110\u03b1", "weight": 0.0, "id": 2781465904, "level": 3}
+{"count": 833, "name": "Substrate-level phosphorylation", "weight": 0.0, "id": 173990801, "level": 3}
+{"count": 129, "name": "IRAK1", "weight": 0.0, "id": 2777048366, "level": 3}
+{"count": 606, "name": "Aurora A kinase", "weight": 0.0, "id": 2779425043, "level": 3}
+{"count": 162, "name": "Polo kinase", "weight": 0.0, "id": 2776611190, "level": 3}
+{"count": 607, "name": "PIM1", "weight": 0.0, "id": 98175054, "level": 3}
+{"count": 344, "name": "Thymidylate kinase", "weight": 0.0, "id": 2778951522, "level": 3}
+{"count": 1200, "name": "Aurora inhibitor", "weight": 0.0, "id": 20552341, "level": 3}
+{"count": 373, "name": "IRAK4", "weight": 0.0, "id": 2778366702, "level": 3}
+{"count": 142, "name": "Ribokinase", "weight": 0.0, "id": 2776630591, "level": 3}
+{"count": 70, "name": "Forkhead-associated domain", "weight": 0.0, "id": 2780351259, "level": 3}
+{"count": 231, "name": "PHLPP", "weight": 0.0, "id": 51900197, "level": 3}
+{"count": 355, "name": "WNK4", "weight": 0.0, "id": 2776950962, "level": 3}
+{"count": 328, "name": "WNK1", "weight": 0.0, "id": 2778500417, "level": 3}
+{"count": 113, "name": "Glycerate kinase", "weight": 0.0, "id": 2778531546, "level": 3}
+{"count": 106, "name": "PTK6", "weight": 0.0, "id": 2777770654, "level": 3}
+{"count": 130, "name": "N-Acetylmannosamine", "weight": 0.0, "id": 2779378577, "level": 3}
+{"count": 61, "name": "Wall-Associated Kinase", "weight": 0.0, "id": 2781357096, "level": 3}
+{"count": 257, "name": "Protein kinase D1", "weight": 0.0, "id": 2777207633, "level": 3}
+{"count": 120, "name": "Non-receptor tyrosine kinase", "weight": 0.0, "id": 2778552002, "level": 3}
+{"count": 142, "name": "IRAK2", "weight": 0.0, "id": 2781196876, "level": 3}
+{"count": 389, "name": "P110\u03b4", "weight": 0.0, "id": 2776502849, "level": 3}
+{"count": 110, "name": "TNIK", "weight": 0.0, "id": 2776261670, "level": 3}
+{"count": 219, "name": "Quizartinib", "weight": 0.0, "id": 2778007064, "level": 3}
+{"count": 92, "name": "NUAK1", "weight": 0.0, "id": 2777055182, "level": 3}
+{"count": 156, "name": "DYRK1B", "weight": 0.0, "id": 2777170010, "level": 3}
+{"count": 143, "name": "NDR kinase", "weight": 0.0, "id": 2777678975, "level": 3}
+{"count": 88, "name": "PFKFB4", "weight": 0.0, "id": 2780662858, "level": 3}
+{"count": 75, "name": "MAP3K14", "weight": 0.0, "id": 2779684893, "level": 3}
+{"count": 35, "name": "MAP3K11", "weight": 0.0, "id": 2777138809, "level": 3}
+{"count": 16, "name": "LYK5", "weight": 0.0, "id": 2781221399, "level": 3}
+{"count": 28, "name": "BCKDK", "weight": 0.0, "id": 2776174878, "level": 3}
+{"count": 39, "name": "DYRK3", "weight": 0.0, "id": 2776343215, "level": 3}
+{"count": 34, "name": "STYK1", "weight": 0.0, "id": 2780894918, "level": 3}
+{"count": 23, "name": "MINK1", "weight": 0.0, "id": 2778998353, "level": 3}

@@ -1,0 +1,23 @@
+{"count": 4104, "name": "Replication factor C", "weight": 9.0, "id": 188036394, "level": 5}
+{"count": 444, "name": "Geminin", "weight": 1.0, "id": 2778999261, "level": 5}
+{"count": 636, "name": "Replication timing", "weight": 1.0, "id": 2778512757, "level": 5}
+{"count": 1808, "name": "Minichromosome maintenance", "weight": 4.0, "id": 175248279, "level": 5}
+{"count": 2761, "name": "DNA replication factor CDT1", "weight": 6.0, "id": 175193931, "level": 5}
+{"count": 54, "name": "MCM10", "weight": 0.0, "id": 2777437345, "level": 5}
+{"count": 4339, "name": "Pre-replication complex", "weight": 10.0, "id": 41141232, "level": 5}
+{"count": 1414, "name": "SeqA protein domain", "weight": 3.0, "id": 55468747, "level": 5}
+{"count": 2397, "name": "Licensing factor", "weight": 5.0, "id": 54266558, "level": 5}
+{"count": 82, "name": "RFC1", "weight": 0.0, "id": 2776736360, "level": 5}
+{"count": 33, "name": "DNA unwinding element", "weight": 0.0, "id": 2775937677, "level": 5}
+{"count": 243, "name": "MCM6", "weight": 0.0, "id": 2776345325, "level": 5}
+{"count": 1055, "name": "Semiconservative replication", "weight": 2.0, "id": 13052165, "level": 5}
+{"count": 2646, "name": "DNA re-replication", "weight": 6.0, "id": 67419583, "level": 5}
+{"count": 2119, "name": "S phase", "weight": 4.0, "id": 35195891, "level": 5}
+{"count": 139, "name": "ORC6", "weight": 0.0, "id": 2778946105, "level": 5}
+{"count": 480, "name": "S-phase-promoting factor", "weight": 1.0, "id": 165870085, "level": 5}
+{"count": 2085, "name": "Prokaryotic DNA replication", "weight": 4.0, "id": 66072924, "level": 5}
+{"count": 56, "name": "RFC4", "weight": 0.0, "id": 2778997811, "level": 5}
+{"count": 495, "name": "RFC2", "weight": 1.0, "id": 102352515, "level": 5}
+{"count": 320, "name": "G2 phase", "weight": 0.0, "id": 66212668, "level": 5}
+{"count": 347, "name": "D-loop replication", "weight": 0.0, "id": 95646663, "level": 5}
+{"count": 1782, "name": "Ter protein", "weight": 4.0, "id": 22840021, "level": 5}

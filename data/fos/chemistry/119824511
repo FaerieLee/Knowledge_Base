@@ -1,0 +1,16 @@
+{"count": 20095, "name": "Extended X-ray absorption fine structure", "weight": 10.0, "id": 107861141, "level": 3}
+{"count": 14752, "name": "X-ray absorption spectroscopy", "weight": 7.0, "id": 62284982, "level": 3}
+{"count": 10992, "name": "Two-photon absorption", "weight": 5.0, "id": 101075120, "level": 3}
+{"count": 17977, "name": "Absorption band", "weight": 8.0, "id": 191274033, "level": 3}
+{"count": 1644, "name": "Differential optical absorption spectroscopy", "weight": 0.0, "id": 194072897, "level": 3}
+{"count": 2103, "name": "Cavity ring-down spectroscopy", "weight": 1.0, "id": 155552310, "level": 3}
+{"count": 202, "name": "Judd\u2013Ofelt theory", "weight": 0.0, "id": 2776694963, "level": 3}
+{"count": 6486, "name": "Absorption cross section", "weight": 3.0, "id": 32448512, "level": 3}
+{"count": 1053, "name": "HITRAN", "weight": 0.0, "id": 2776032251, "level": 3}
+{"count": 171, "name": "Schumann\u2013Runge bands", "weight": 0.0, "id": 2778748510, "level": 3}
+{"count": 282, "name": "Saturated absorption spectroscopy", "weight": 0.0, "id": 2781257117, "level": 3}
+{"count": 180, "name": "Racah parameter", "weight": 0.0, "id": 2778276516, "level": 3}
+{"count": 30, "name": "Brus equation", "weight": 0.0, "id": 2776123539, "level": 3}
+{"count": 50, "name": "Total absorption spectroscopy", "weight": 0.0, "id": 2779093621, "level": 3}
+{"count": 19, "name": "McCumber relation", "weight": 0.0, "id": 66432955, "level": 3}
+{"count": 9, "name": "Incoherent broad-band cavity-enhanced absorption spectroscopy", "weight": 0.0, "id": 2777666235, "level": 3}

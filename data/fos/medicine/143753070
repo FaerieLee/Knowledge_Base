@@ -1,0 +1,25 @@
+{"count": 9037, "name": "Elastography", "weight": 10.0, "id": 2777690781, "level": 3}
+{"count": 5466, "name": "High-intensity focused ultrasound", "weight": 6.0, "id": 2777365067, "level": 3}
+{"count": 8871, "name": "Microbubbles", "weight": 9.0, "id": 64012434, "level": 3}
+{"count": 3274, "name": "3D ultrasound", "weight": 3.0, "id": 2780170424, "level": 3}
+{"count": 2057, "name": "Acoustic radiation force", "weight": 2.0, "id": 2781325599, "level": 3}
+{"count": 4302, "name": "Contrast-enhanced ultrasound", "weight": 4.0, "id": 2779585989, "level": 3}
+{"count": 2081, "name": "Therapeutic ultrasound", "weight": 2.0, "id": 2779727089, "level": 3}
+{"count": 1258, "name": "Mechanical index", "weight": 1.0, "id": 138010386, "level": 3}
+{"count": 428, "name": "Sonophoresis", "weight": 0.0, "id": 2780447682, "level": 3}
+{"count": 595, "name": "Emergency ultrasound", "weight": 0.0, "id": 2779278165, "level": 3}
+{"count": 908, "name": "Low-intensity pulsed ultrasound", "weight": 1.0, "id": 2778550726, "level": 3}
+{"count": 411, "name": "Histotripsy", "weight": 0.0, "id": 2778840821, "level": 3}
+{"count": 118, "name": "Interventional ultrasonography", "weight": 0.0, "id": 2780205713, "level": 3}
+{"count": 1185, "name": "Ultrasound energy", "weight": 1.0, "id": 2776101711, "level": 3}
+{"count": 1182, "name": "Sonographer", "weight": 1.0, "id": 2778941581, "level": 3}
+{"count": 867, "name": "Non-contact ultrasound", "weight": 0.0, "id": 198865145, "level": 3}
+{"count": 138, "name": "Time gain compensation", "weight": 0.0, "id": 2779843985, "level": 3}
+{"count": 147, "name": "Ultrasonic hearing", "weight": 0.0, "id": 41162867, "level": 3}
+{"count": 113, "name": "Neuromuscular ultrasound", "weight": 0.0, "id": 2777653827, "level": 3}
+{"count": 34, "name": "Ultrasonic drug delivery", "weight": 0.0, "id": 2779802832, "level": 3}
+{"count": 1091, "name": "Photoacoustic Doppler effect", "weight": 1.0, "id": 31771446, "level": 3}
+{"count": 130, "name": "Modulated ultrasound", "weight": 0.0, "id": 2779720571, "level": 3}
+{"count": 21, "name": "Alosinae", "weight": 0.0, "id": 2780010687, "level": 3}
+{"count": 13, "name": "Ultrasound avoidance", "weight": 0.0, "id": 59878750, "level": 3}
+{"count": 107, "name": "Ultrasound Identification", "weight": 0.0, "id": 2778401986, "level": 3}

@@ -1,0 +1,200 @@
+{"count": 92164, "name": "Lattice (order)", "weight": 6.0, "id": 135789939, "level": 2}
+{"count": 69233, "name": "Functional analysis", "weight": 5.0, "id": 55112680, "level": 2}
+{"count": 38005, "name": "Vector field", "weight": 2.0, "id": 91188154, "level": 2}
+{"count": 19236, "name": "Lie group", "weight": 1.0, "id": 187915474, "level": 2}
+{"count": 50224, "name": "Fixed point", "weight": 3.0, "id": 61445026, "level": 2}
+{"count": 48409, "name": "Fractal", "weight": 3.0, "id": 40636538, "level": 2}
+{"count": 34286, "name": "Hilbert space", "weight": 2.0, "id": 62799726, "level": 2}
+{"count": 45179, "name": "Critical value", "weight": 3.0, "id": 71773600, "level": 2}
+{"count": 52643, "name": "Derivation", "weight": 3.0, "id": 207386681, "level": 2}
+{"count": 20031, "name": "Group theory", "weight": 1.0, "id": 81651864, "level": 2}
+{"count": 19256, "name": "Elliptic curve", "weight": 1.0, "id": 179603306, "level": 2}
+{"count": 19343, "name": "Differential geometry", "weight": 1.0, "id": 192939610, "level": 2}
+{"count": 13996, "name": "Linear map", "weight": 1.0, "id": 49766605, "level": 2}
+{"count": 33114, "name": "Banach space", "weight": 2.0, "id": 132954091, "level": 2}
+{"count": 113541, "name": "Curvature", "weight": 8.0, "id": 195065555, "level": 2}
+{"count": 27943, "name": "Integrable system", "weight": 2.0, "id": 200741047, "level": 2}
+{"count": 12137, "name": "Set theory", "weight": 0.0, "id": 153046414, "level": 2}
+{"count": 17107, "name": "Algebraic geometry", "weight": 1.0, "id": 68363185, "level": 2}
+{"count": 17048, "name": "Analytic function", "weight": 1.0, "id": 205979905, "level": 2}
+{"count": 15557, "name": "Lie algebra", "weight": 1.0, "id": 51568863, "level": 2}
+{"count": 15075, "name": "Differential operator", "weight": 1.0, "id": 70915906, "level": 2}
+{"count": 17663, "name": "Number theory", "weight": 1.0, "id": 169654258, "level": 2}
+{"count": 14115, "name": "Vector space", "weight": 1.0, "id": 13336665, "level": 2}
+{"count": 13564, "name": "Forcing (mathematics)", "weight": 1.0, "id": 197115733, "level": 2}
+{"count": 83884, "name": "Manifold", "weight": 6.0, "id": 178207025, "level": 2}
+{"count": 31445, "name": "Attractor", "weight": 2.0, "id": 164380108, "level": 2}
+{"count": 3540, "name": "Root system", "weight": 0.0, "id": 155868670, "level": 2}
+{"count": 14121, "name": "Euclidean space", "weight": 1.0, "id": 186450821, "level": 2}
+{"count": 9505, "name": "Configuration space", "weight": 0.0, "id": 90738871, "level": 2}
+{"count": 10122, "name": "Conformal field theory", "weight": 0.0, "id": 54613284, "level": 2}
+{"count": 131681, "name": "Invariant (mathematics)", "weight": 10.0, "id": 49209780, "level": 2}
+{"count": 2317, "name": "Structural stability", "weight": 0.0, "id": 155673373, "level": 2}
+{"count": 17675, "name": "Metric space", "weight": 1.0, "id": 198043062, "level": 2}
+{"count": 14140, "name": "Measure (mathematics)", "weight": 1.0, "id": 178042281, "level": 2}
+{"count": 8074, "name": "Existence theorem", "weight": 0.0, "id": 2776548862, "level": 2}
+{"count": 33082, "name": "Monotonic function", "weight": 2.0, "id": 72169020, "level": 2}
+{"count": 7944, "name": "Conformal symmetry", "weight": 0.0, "id": 173848574, "level": 2}
+{"count": 14307, "name": "Functional equation", "weight": 1.0, "id": 153576954, "level": 2}
+{"count": 13405, "name": "Metric (mathematics)", "weight": 1.0, "id": 205617318, "level": 2}
+{"count": 7759, "name": "Irreducible representation", "weight": 0.0, "id": 142292226, "level": 2}
+{"count": 8301, "name": "Canonical form", "weight": 0.0, "id": 204707403, "level": 2}
+{"count": 14545, "name": "Convex function", "weight": 1.0, "id": 145446738, "level": 2}
+{"count": 10940, "name": "Moduli space", "weight": 0.0, "id": 73373263, "level": 2}
+{"count": 26946, "name": "Conformal map", "weight": 2.0, "id": 98214594, "level": 2}
+{"count": 11948, "name": "Representation theory", "weight": 0.0, "id": 197273675, "level": 2}
+{"count": 8262, "name": "Operator algebra", "weight": 0.0, "id": 191413488, "level": 2}
+{"count": 8807, "name": "Quadratic form", "weight": 0.0, "id": 75894275, "level": 2}
+{"count": 12754, "name": "Convex hull", "weight": 0.0, "id": 206194317, "level": 2}
+{"count": 8660, "name": "Compactification (physics)", "weight": 0.0, "id": 170536752, "level": 2}
+{"count": 3110, "name": "Limit set", "weight": 0.0, "id": 51337361, "level": 2}
+{"count": 8581, "name": "Riemann surface", "weight": 0.0, "id": 18556879, "level": 2}
+{"count": 20507, "name": "Fixed-point theorem", "weight": 1.0, "id": 45962547, "level": 2}
+{"count": 4059, "name": "Quantum algebra", "weight": 0.0, "id": 15353042, "level": 2}
+{"count": 9652, "name": "Function space", "weight": 0.0, "id": 142730499, "level": 2}
+{"count": 38087, "name": "Affine transformation", "weight": 2.0, "id": 92757383, "level": 2}
+{"count": 12486, "name": "Convex set", "weight": 0.0, "id": 49870271, "level": 2}
+{"count": 11761, "name": "Finite group", "weight": 0.0, "id": 2777404646, "level": 2}
+{"count": 12332, "name": "Hopf bifurcation", "weight": 0.0, "id": 172435161, "level": 2}
+{"count": 24637, "name": "Multiplicity (mathematics)", "weight": 1.0, "id": 156004811, "level": 2}
+{"count": 20653, "name": "Laplace operator", "weight": 1.0, "id": 165700671, "level": 2}
+{"count": 18515, "name": "Sobolev space", "weight": 1.0, "id": 99730327, "level": 2}
+{"count": 9116, "name": "Tensor product", "weight": 0.0, "id": 51255310, "level": 2}
+{"count": 7942, "name": "Complex dynamics", "weight": 0.0, "id": 126701199, "level": 2}
+{"count": 20426, "name": "Compact space", "weight": 1.0, "id": 18648836, "level": 2}
+{"count": 6984, "name": "Harmonic function", "weight": 0.0, "id": 627467, "level": 2}
+{"count": 49474, "name": "Embedding", "weight": 3.0, "id": 41608201, "level": 2}
+{"count": 4350, "name": "Differential form", "weight": 0.0, "id": 115071613, "level": 2}
+{"count": 7161, "name": "Riemann zeta function", "weight": 0.0, "id": 35235930, "level": 2}
+{"count": 12520, "name": "Minkowski space", "weight": 0.0, "id": 79464548, "level": 2}
+{"count": 7366, "name": "Vector bundle", "weight": 0.0, "id": 95857938, "level": 2}
+{"count": 7507, "name": "Connected component", "weight": 0.0, "id": 193435613, "level": 2}
+{"count": 4188, "name": "Model theory", "weight": 0.0, "id": 47030870, "level": 2}
+{"count": 7157, "name": "Singular point of a curve", "weight": 0.0, "id": 200917960, "level": 2}
+{"count": 28677, "name": "Abelian group", "weight": 2.0, "id": 136170076, "level": 2}
+{"count": 6522, "name": "Spectral theory", "weight": 0.0, "id": 98306654, "level": 2}
+{"count": 19421, "name": "Lipschitz continuity", "weight": 1.0, "id": 22324862, "level": 2}
+{"count": 20428, "name": "Geodesic", "weight": 1.0, "id": 165818556, "level": 2}
+{"count": 2228, "name": "Minimal model", "weight": 0.0, "id": 2780032228, "level": 2}
+{"count": 9683, "name": "Current algebra", "weight": 0.0, "id": 81999800, "level": 2}
+{"count": 8289, "name": "Quantum group", "weight": 0.0, "id": 148647251, "level": 2}
+{"count": 15620, "name": "Ergodic theory", "weight": 1.0, "id": 122044880, "level": 2}
+{"count": 3639, "name": "Linear space", "weight": 0.0, "id": 176370821, "level": 2}
+{"count": 12027, "name": "Topological space", "weight": 0.0, "id": 81332173, "level": 2}
+{"count": 8093, "name": "Partially ordered set", "weight": 0.0, "id": 180645754, "level": 2}
+{"count": 6726, "name": "Hausdorff dimension", "weight": 0.0, "id": 194198291, "level": 2}
+{"count": 22139, "name": "Torus", "weight": 1.0, "id": 9767117, "level": 2}
+{"count": 26941, "name": "Classification of discontinuities", "weight": 2.0, "id": 15627037, "level": 2}
+{"count": 30510, "name": "Isomorphism", "weight": 2.0, "id": 155905171, "level": 2}
+{"count": 3450, "name": "Direct product", "weight": 0.0, "id": 58193220, "level": 2}
+{"count": 16045, "name": "Enumeration", "weight": 1.0, "id": 156340839, "level": 2}
+{"count": 5943, "name": "Hopf algebra", "weight": 0.0, "id": 29712632, "level": 2}
+{"count": 14675, "name": "Continuous function", "weight": 1.0, "id": 184825909, "level": 2}
+{"count": 9755, "name": "Substructure", "weight": 0.0, "id": 99679407, "level": 2}
+{"count": 16656, "name": "Symplectic geometry", "weight": 1.0, "id": 168619227, "level": 2}
+{"count": 16569, "name": "Cohomology", "weight": 1.0, "id": 78606066, "level": 2}
+{"count": 4467, "name": "Minimal surface", "weight": 0.0, "id": 30707913, "level": 2}
+{"count": 4093, "name": "Category theory", "weight": 0.0, "id": 54884031, "level": 2}
+{"count": 24561, "name": "Neighbourhood (mathematics)", "weight": 1.0, "id": 161677786, "level": 2}
+{"count": 6013, "name": "Modular form", "weight": 0.0, "id": 75764964, "level": 2}
+{"count": 15102, "name": "Homotopy", "weight": 1.0, "id": 5961521, "level": 2}
+{"count": 6708, "name": "Equivalence relation", "weight": 0.0, "id": 156103551, "level": 2}
+{"count": 5790, "name": "Formal concept analysis", "weight": 0.0, "id": 76363472, "level": 2}
+{"count": 14068, "name": "Polyhedron", "weight": 1.0, "id": 54829058, "level": 2}
+{"count": 4591, "name": "Dirac operator", "weight": 0.0, "id": 158650840, "level": 2}
+{"count": 3893, "name": "Symmetric space", "weight": 0.0, "id": 139941754, "level": 2}
+{"count": 25933, "name": "Pairing", "weight": 1.0, "id": 14103023, "level": 2}
+{"count": 6310, "name": "Entire function", "weight": 0.0, "id": 6128204, "level": 2}
+{"count": 24121, "name": "Homogeneous space", "weight": 1.0, "id": 96469262, "level": 2}
+{"count": 12614, "name": "Algebra representation", "weight": 0.0, "id": 14394260, "level": 2}
+{"count": 1086, "name": "Generic point", "weight": 0.0, "id": 65157940, "level": 2}
+{"count": 7048, "name": "Symmetric group", "weight": 0.0, "id": 128622974, "level": 2}
+{"count": 26553, "name": "Smoothness", "weight": 2.0, "id": 102634674, "level": 2}
+{"count": 3450, "name": "Projective geometry", "weight": 0.0, "id": 185362025, "level": 2}
+{"count": 5400, "name": "Uniform convergence", "weight": 0.0, "id": 157709441, "level": 2}
+{"count": 6952, "name": "Half-space", "weight": 0.0, "id": 91588493, "level": 2}
+{"count": 4916, "name": "Absolute continuity", "weight": 0.0, "id": 118733216, "level": 2}
+{"count": 1236, "name": "Two-dimensional space", "weight": 0.0, "id": 87195055, "level": 2}
+{"count": 3195, "name": "Self-similarity", "weight": 0.0, "id": 119453123, "level": 2}
+{"count": 4996, "name": "Correlation dimension", "weight": 0.0, "id": 110601934, "level": 2}
+{"count": 5906, "name": "Elliptic operator", "weight": 0.0, "id": 70610323, "level": 2}
+{"count": 8808, "name": "Projective space", "weight": 0.0, "id": 75280867, "level": 2}
+{"count": 79956, "name": "Vertex (geometry)", "weight": 6.0, "id": 118311129, "level": 2}
+{"count": 2577, "name": "Mirror symmetry", "weight": 0.0, "id": 188374626, "level": 2}
+{"count": 12984, "name": "Congruence (geometry)", "weight": 0.0, "id": 132074034, "level": 2}
+{"count": 1690, "name": "Crossed product", "weight": 0.0, "id": 2776379255, "level": 2}
+{"count": 16111, "name": "Euclidean geometry", "weight": 1.0, "id": 129782007, "level": 2}
+{"count": 4567, "name": "Extreme point", "weight": 0.0, "id": 39847760, "level": 2}
+{"count": 11331, "name": "Bifurcation diagram", "weight": 0.0, "id": 86243350, "level": 2}
+{"count": 1099, "name": "Relation algebra", "weight": 0.0, "id": 10282146, "level": 2}
+{"count": 18087, "name": "Semigroup", "weight": 1.0, "id": 207405024, "level": 2}
+{"count": 2701, "name": "Representation theorem", "weight": 0.0, "id": 2776230367, "level": 2}
+{"count": 6321, "name": "Function (mathematics)", "weight": 0.0, "id": 58442840, "level": 2}
+{"count": 2324, "name": "Unitary representation", "weight": 0.0, "id": 2776122010, "level": 2}
+{"count": 3828, "name": "Line bundle", "weight": 0.0, "id": 137134375, "level": 2}
+{"count": 3722, "name": "Algebraic curve", "weight": 0.0, "id": 207043602, "level": 2}
+{"count": 2678, "name": "Comparison theorem", "weight": 0.0, "id": 2779396167, "level": 2}
+{"count": 8936, "name": "Meromorphic function", "weight": 0.0, "id": 190333341, "level": 2}
+{"count": 3049, "name": "Directional derivative", "weight": 0.0, "id": 2011187, "level": 2}
+{"count": 3844, "name": "Compact group", "weight": 0.0, "id": 130133044, "level": 2}
+{"count": 5095, "name": "Hausdorff distance", "weight": 0.0, "id": 141898687, "level": 2}
+{"count": 2619, "name": "Discrete geometry", "weight": 0.0, "id": 4107886, "level": 2}
+{"count": 3954, "name": "Binary relation", "weight": 0.0, "id": 65180967, "level": 2}
+{"count": 8419, "name": "Polytope", "weight": 0.0, "id": 145691206, "level": 2}
+{"count": 2673, "name": "Braid group", "weight": 0.0, "id": 33840335, "level": 2}
+{"count": 2829, "name": "Morse theory", "weight": 0.0, "id": 156730297, "level": 2}
+{"count": 3807, "name": "Bilinear form", "weight": 0.0, "id": 8828549, "level": 2}
+{"count": 5873, "name": "Commutative ring", "weight": 0.0, "id": 161491579, "level": 2}
+{"count": 8350, "name": "Unit sphere", "weight": 0.0, "id": 191948623, "level": 2}
+{"count": 11036, "name": "Noncommutative geometry", "weight": 0.0, "id": 68797384, "level": 2}
+{"count": 2924, "name": "Algebraic group", "weight": 0.0, "id": 187173678, "level": 2}
+{"count": 1599, "name": "Granulometry", "weight": 0.0, "id": 195615627, "level": 2}
+{"count": 4393, "name": "Lebesgue measure", "weight": 0.0, "id": 2777105136, "level": 2}
+{"count": 4426, "name": "Normed vector space", "weight": 0.0, "id": 171739935, "level": 2}
+{"count": 2740, "name": "A priori estimate", "weight": 0.0, "id": 2775918384, "level": 2}
+{"count": 3612, "name": "Topological group", "weight": 0.0, "id": 96386209, "level": 2}
+{"count": 3093, "name": "Algebraic variety", "weight": 0.0, "id": 165761256, "level": 2}
+{"count": 5291, "name": "Support function", "weight": 0.0, "id": 173278390, "level": 2}
+{"count": 3507, "name": "Theta function", "weight": 0.0, "id": 105546189, "level": 2}
+{"count": 2101, "name": "Topological quantum field theory", "weight": 0.0, "id": 7503960, "level": 2}
+{"count": 1344, "name": "Random measure", "weight": 0.0, "id": 205301714, "level": 2}
+{"count": 3466, "name": "Operator space", "weight": 0.0, "id": 176691602, "level": 2}
+{"count": 6098, "name": "Conjugacy class", "weight": 0.0, "id": 87945829, "level": 2}
+{"count": 12827, "name": "Dirichlet distribution", "weight": 0.0, "id": 169214877, "level": 2}
+{"count": 3111, "name": "Free group", "weight": 0.0, "id": 77021192, "level": 2}
+{"count": 9573, "name": "Dilation (morphology)", "weight": 0.0, "id": 22479172, "level": 2}
+{"count": 2674, "name": "Euler characteristic", "weight": 0.0, "id": 196433757, "level": 2}
+{"count": 4113, "name": "Clifford algebra", "weight": 0.0, "id": 100856211, "level": 2}
+{"count": 2348, "name": "Group representation", "weight": 0.0, "id": 11516046, "level": 2}
+{"count": 7401, "name": "Topological quantum number", "weight": 0.0, "id": 77223115, "level": 2}
+{"count": 3928, "name": "Orbifold", "weight": 0.0, "id": 143782950, "level": 2}
+{"count": 2812, "name": "Weyl group", "weight": 0.0, "id": 40233952, "level": 2}
+{"count": 1238, "name": "Loop space", "weight": 0.0, "id": 107773030, "level": 2}
+{"count": 2475, "name": "Discrete group", "weight": 0.0, "id": 46467970, "level": 2}
+{"count": 2417, "name": "Socle", "weight": 0.0, "id": 2776306272, "level": 2}
+{"count": 4422, "name": "Projective plane", "weight": 0.0, "id": 39290043, "level": 2}
+{"count": 1515, "name": "Associative algebra", "weight": 0.0, "id": 51292594, "level": 2}
+{"count": 2805, "name": "Catastrophe theory", "weight": 0.0, "id": 33474566, "level": 2}
+{"count": 2862, "name": "Convex cone", "weight": 0.0, "id": 28340159, "level": 2}
+{"count": 3399, "name": "Von Neumann algebra", "weight": 0.0, "id": 153408630, "level": 2}
+{"count": 4451, "name": "Plane curve", "weight": 0.0, "id": 43809302, "level": 2}
+{"count": 2735, "name": "Besov space", "weight": 0.0, "id": 129698243, "level": 2}
+{"count": 7133, "name": "Equivalence class", "weight": 0.0, "id": 192390876, "level": 2}
+{"count": 3238, "name": "Unitary group", "weight": 0.0, "id": 99072794, "level": 2}
+{"count": 3161, "name": "Sequence space", "weight": 0.0, "id": 30711495, "level": 2}
+{"count": 1321, "name": "Parametric surface", "weight": 0.0, "id": 2187777, "level": 2}
+{"count": 5938, "name": "Homoclinic orbit", "weight": 0.0, "id": 200581526, "level": 2}
+{"count": 9015, "name": "Convex combination", "weight": 0.0, "id": 111110010, "level": 2}
+{"count": 5614, "name": "Involution (mathematics)", "weight": 0.0, "id": 143010463, "level": 2}
+{"count": 17937, "name": "Holomorphic function", "weight": 1.0, "id": 204575570, "level": 2}
+{"count": 2495, "name": "Free product", "weight": 0.0, "id": 47527751, "level": 2}
+{"count": 4384, "name": "Linear form", "weight": 0.0, "id": 20050597, "level": 2}
+{"count": 3289, "name": "Simplicial complex", "weight": 0.0, "id": 187929450, "level": 2}
+{"count": 6537, "name": "Isometry", "weight": 0.0, "id": 154384420, "level": 2}
+{"count": 8622, "name": "Compact operator", "weight": 0.0, "id": 79013869, "level": 2}
+{"count": 4121, "name": "Geometry and topology", "weight": 0.0, "id": 156135169, "level": 2}
+{"count": 2303, "name": "Product topology", "weight": 0.0, "id": 123222754, "level": 2}
+{"count": 2821, "name": "Dual space", "weight": 0.0, "id": 45633534, "level": 2}
+{"count": 2642, "name": "Information geometry", "weight": 0.0, "id": 109546454, "level": 2}
+{"count": 9806, "name": "Homomorphism", "weight": 0.0, "id": 4042151, "level": 2}
+{"count": 5012, "name": "Matroid", "weight": 0.0, "id": 106286213, "level": 2}

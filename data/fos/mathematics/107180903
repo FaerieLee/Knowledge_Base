@@ -1,0 +1,31 @@
+{"count": 4089, "name": "Stress\u2013energy tensor", "weight": 8.0, "id": 191696108, "level": 3}
+{"count": 689, "name": "Multilinear algebra", "weight": 1.0, "id": 60321788, "level": 3}
+{"count": 3047, "name": "Tensor field", "weight": 6.0, "id": 166077713, "level": 3}
+{"count": 937, "name": "Tensor calculus", "weight": 1.0, "id": 90952326, "level": 3}
+{"count": 1308, "name": "Structure tensor", "weight": 2.0, "id": 113315163, "level": 3}
+{"count": 865, "name": "Tensor operator", "weight": 1.0, "id": 126412783, "level": 3}
+{"count": 308, "name": "Trifocal tensor", "weight": 0.0, "id": 133090833, "level": 3}
+{"count": 1353, "name": "Metric tensor", "weight": 2.0, "id": 8466233, "level": 3}
+{"count": 383, "name": "Torsion tensor", "weight": 0.0, "id": 142236769, "level": 3}
+{"count": 280, "name": "Tucker decomposition", "weight": 0.0, "id": 42704193, "level": 3}
+{"count": 1073, "name": "Strain rate tensor", "weight": 2.0, "id": 74691360, "level": 3}
+{"count": 1266, "name": "Covariance and contravariance of vectors", "weight": 2.0, "id": 206236147, "level": 3}
+{"count": 264, "name": "Orientation tensor", "weight": 0.0, "id": 118026978, "level": 3}
+{"count": 86, "name": "Einstein notation", "weight": 0.0, "id": 206426125, "level": 3}
+{"count": 203, "name": "Spin tensor", "weight": 0.0, "id": 2781166899, "level": 3}
+{"count": 227, "name": "Ricci calculus", "weight": 0.0, "id": 78966895, "level": 3}
+{"count": 367, "name": "Multilinear principal component analysis", "weight": 0.0, "id": 91352546, "level": 3}
+{"count": 187, "name": "Killing tensor", "weight": 0.0, "id": 2776842123, "level": 3}
+{"count": 162, "name": "Index notation", "weight": 0.0, "id": 110663894, "level": 3}
+{"count": 169, "name": "Pseudotensor", "weight": 0.0, "id": 2779050163, "level": 3}
+{"count": 17, "name": "Sugawara theory", "weight": 0.0, "id": 2779407008, "level": 3}
+{"count": 851, "name": "Invariants of tensors", "weight": 1.0, "id": 158158286, "level": 3}
+{"count": 5001, "name": "Tensor contraction", "weight": 10.0, "id": 124007464, "level": 3}
+{"count": 133, "name": "Gyration tensor", "weight": 0.0, "id": 2779362010, "level": 3}
+{"count": 503, "name": "Multilinear subspace learning", "weight": 1.0, "id": 26689484, "level": 3}
+{"count": 13, "name": "Tensor rank decomposition", "weight": 0.0, "id": 2776457489, "level": 3}
+{"count": 31, "name": "Tensor network theory", "weight": 0.0, "id": 2776289335, "level": 3}
+{"count": 48, "name": "Tidal tensor", "weight": 0.0, "id": 2776729485, "level": 3}
+{"count": 10, "name": "Total position spread", "weight": 0.0, "id": 2777349581, "level": 3}
+{"count": 84, "name": "Mixed tensor", "weight": 0.0, "id": 2778405819, "level": 3}
+{"count": 10, "name": "Tensor software", "weight": 0.0, "id": 2776062871, "level": 3}

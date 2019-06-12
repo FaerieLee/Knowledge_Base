@@ -1,0 +1,44 @@
+{"count": 1190, "name": "Software quality assurance", "weight": 0.0, "id": 2776969324, "level": 5}
+{"count": 10285, "name": "Personal software process", "weight": 5.0, "id": 39890963, "level": 5}
+{"count": 2465, "name": "Feature-oriented domain analysis", "weight": 1.0, "id": 21632574, "level": 5}
+{"count": 187, "name": "Software Process simulation", "weight": 0.0, "id": 2780755236, "level": 5}
+{"count": 1987, "name": "Software quality management", "weight": 1.0, "id": 48306297, "level": 5}
+{"count": 381, "name": "Software assurance", "weight": 0.0, "id": 2780920589, "level": 5}
+{"count": 4687, "name": "Team software process", "weight": 2.0, "id": 51845450, "level": 5}
+{"count": 5000, "name": "Software architecture description", "weight": 2.0, "id": 73219336, "level": 5}
+{"count": 40, "name": "Software architecture analysis method", "weight": 0.0, "id": 2781309241, "level": 5}
+{"count": 18653, "name": "Software sizing", "weight": 10.0, "id": 201515116, "level": 5}
+{"count": 132, "name": "Software architecture recovery", "weight": 0.0, "id": 2780801907, "level": 5}
+{"count": 107, "name": "Lehman's laws of software evolution", "weight": 0.0, "id": 53789174, "level": 5}
+{"count": 72, "name": "Adaptive software development", "weight": 0.0, "id": 21114493, "level": 5}
+{"count": 2138, "name": "Avionics software", "weight": 1.0, "id": 109905503, "level": 5}
+{"count": 140, "name": "Cleanroom software engineering", "weight": 0.0, "id": 106000735, "level": 5}
+{"count": 2226, "name": "Long-term support", "weight": 1.0, "id": 20298536, "level": 5}
+{"count": 87, "name": "Reuse metrics", "weight": 0.0, "id": 2779555159, "level": 5}
+{"count": 26, "name": "Knowledge Based Software Assistant", "weight": 0.0, "id": 2778692369, "level": 5}
+{"count": 4859, "name": "System integration testing", "weight": 2.0, "id": 111524372, "level": 5}
+{"count": 1331, "name": "Crowdsourcing software development", "weight": 0.0, "id": 32810761, "level": 5}
+{"count": 267, "name": "Software archaeology", "weight": 0.0, "id": 86187959, "level": 5}
+{"count": 119, "name": "Software rot", "weight": 0.0, "id": 104172830, "level": 5}
+{"count": 223, "name": "User exit", "weight": 0.0, "id": 38891204, "level": 5}
+{"count": 436, "name": "Pair testing", "weight": 0.0, "id": 56352134, "level": 5}
+{"count": 15, "name": "Timeboxing", "weight": 0.0, "id": 2776039174, "level": 5}
+{"count": 47, "name": "Hackystat", "weight": 0.0, "id": 98625067, "level": 5}
+{"count": 16704, "name": "Software design description", "weight": 8.0, "id": 56909552, "level": 5}
+{"count": 25, "name": "Feature toggle", "weight": 0.0, "id": 204778213, "level": 5}
+{"count": 11066, "name": "Backporting", "weight": 5.0, "id": 21491501, "level": 5}
+{"count": 7116, "name": "Software quality analyst", "weight": 3.0, "id": 188329197, "level": 5}
+{"count": 49, "name": "Dependency hell", "weight": 0.0, "id": 177545051, "level": 5}
+{"count": 15122, "name": "Software Engineering Process Group", "weight": 8.0, "id": 44416564, "level": 5}
+{"count": 48, "name": "V-Model (software development)", "weight": 0.0, "id": 127644382, "level": 5}
+{"count": 143, "name": "Darwin (ADL)", "weight": 0.0, "id": 206118921, "level": 5}
+{"count": 8939, "name": "Goal-Driven Software Development Process", "weight": 4.0, "id": 42669973, "level": 5}
+{"count": 352, "name": "COSMIC software sizing", "weight": 0.0, "id": 49622512, "level": 5}
+{"count": 206, "name": "Package", "weight": 0.0, "id": 203306386, "level": 5}
+{"count": 31, "name": "Definitive Media Library", "weight": 0.0, "id": 48753664, "level": 5}
+{"count": 23, "name": "Market fragmentation", "weight": 0.0, "id": 167662435, "level": 5}
+{"count": 1845, "name": "Software technical review", "weight": 0.0, "id": 6586637, "level": 5}
+{"count": 297, "name": "Portability testing", "weight": 0.0, "id": 124960375, "level": 5}
+{"count": 43, "name": "Software package metrics", "weight": 0.0, "id": 4442578, "level": 5}
+{"count": 441, "name": "Best coding practices", "weight": 0.0, "id": 176354593, "level": 5}
+{"count": 201, "name": "Imagix 4D", "weight": 0.0, "id": 148675669, "level": 5}

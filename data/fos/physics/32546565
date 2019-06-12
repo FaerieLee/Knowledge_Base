@@ -1,0 +1,31 @@
+{"count": 46913, "name": "Magnetic anisotropy", "weight": 10.0, "id": 32938098, "level": 3}
+{"count": 17696, "name": "Magnetic hysteresis", "weight": 3.0, "id": 47441113, "level": 3}
+{"count": 28169, "name": "Magnetic domain", "weight": 6.0, "id": 182260160, "level": 3}
+{"count": 30228, "name": "Saturation (magnetic)", "weight": 6.0, "id": 181817255, "level": 3}
+{"count": 3375, "name": "Magnetization reversal", "weight": 0.0, "id": 2776503169, "level": 3}
+{"count": 16068, "name": "Remanence", "weight": 3.0, "id": 155058782, "level": 3}
+{"count": 4070, "name": "Micromagnetics", "weight": 0.0, "id": 119835096, "level": 3}
+{"count": 17688, "name": "Demagnetizing field", "weight": 3.0, "id": 60434167, "level": 3}
+{"count": 8432, "name": "Magnetic refrigeration", "weight": 1.0, "id": 186116631, "level": 3}
+{"count": 6409, "name": "Permalloy", "weight": 1.0, "id": 55357998, "level": 3}
+{"count": 4117, "name": "Magneto-optic Kerr effect", "weight": 0.0, "id": 191364105, "level": 3}
+{"count": 2737, "name": "Barkhausen effect", "weight": 0.0, "id": 71076449, "level": 3}
+{"count": 1597, "name": "Landau\u2013Lifshitz\u2013Gilbert equation", "weight": 0.0, "id": 196076714, "level": 3}
+{"count": 20689, "name": "Magnetic energy", "weight": 4.0, "id": 162565982, "level": 3}
+{"count": 11270, "name": "Ferrimagnetism", "weight": 2.0, "id": 779372, "level": 3}
+{"count": 1889, "name": "Single-molecule magnet", "weight": 0.0, "id": 2777336399, "level": 3}
+{"count": 5013, "name": "Curie\u2013Weiss law", "weight": 1.0, "id": 500440979, "level": 3}
+{"count": 3877, "name": "Spontaneous magnetization", "weight": 0.0, "id": 77048121, "level": 3}
+{"count": 7877, "name": "Magnetic shape-memory alloy", "weight": 1.0, "id": 100454173, "level": 3}
+{"count": 1115, "name": "Inverse magnetostrictive effect", "weight": 0.0, "id": 146743932, "level": 3}
+{"count": 2812, "name": "Spin-transfer torque", "weight": 0.0, "id": 609986, "level": 3}
+{"count": 2591, "name": "Magnetization dynamics", "weight": 0.0, "id": 2778381111, "level": 3}
+{"count": 2097, "name": "Nanomagnet", "weight": 0.0, "id": 131872197, "level": 3}
+{"count": 407, "name": "Magnetic logic", "weight": 0.0, "id": 2778854999, "level": 3}
+{"count": 233, "name": "Photomagnetic effect", "weight": 0.0, "id": 2780851602, "level": 3}
+{"count": 13133, "name": "Magnetic pressure", "weight": 2.0, "id": 33643480, "level": 3}
+{"count": 1003, "name": "Brillouin and Langevin functions", "weight": 0.0, "id": 188641701, "level": 3}
+{"count": 146, "name": "Exchange spring magnet", "weight": 0.0, "id": 2780936582, "level": 3}
+{"count": 338, "name": "Ferromagnetic superconductor", "weight": 0.0, "id": 2780230900, "level": 3}
+{"count": 38, "name": "Barnett effect", "weight": 0.0, "id": 68008528, "level": 3}
+{"count": 53, "name": "Soft reference", "weight": 0.0, "id": 132505909, "level": 3}

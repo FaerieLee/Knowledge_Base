@@ -1,0 +1,6 @@
+{"count": 1490, "name": "Geological Strength Index", "weight": 10.0, "id": 72490741, "level": 3}
+{"count": 1376, "name": "Rock mass rating", "weight": 9.0, "id": 95918197, "level": 3}
+{"count": 853, "name": "Hoek\u2013Brown failure criterion", "weight": 5.0, "id": 111715473, "level": 3}
+{"count": 109, "name": "Excavatability", "weight": 0.0, "id": 139584282, "level": 3}
+{"count": 96, "name": "Rippability", "weight": 0.0, "id": 48606022, "level": 3}
+{"count": 422, "name": "Rock mass plasticity", "weight": 2.0, "id": 166951709, "level": 3}

@@ -1,0 +1,5 @@
+{"count": 1189, "name": "Memory leak", "weight": 10.0, "id": 156731835, "level": 3}
+{"count": 91, "name": "Write barrier", "weight": 0.0, "id": 2777408773, "level": 3}
+{"count": 265, "name": "Heap overflow", "weight": 2.0, "id": 120288556, "level": 3}
+{"count": 44, "name": "Finalizer", "weight": 0.0, "id": 35991421, "level": 3}
+{"count": 1142, "name": "Manual memory management", "weight": 9.0, "id": 82810778, "level": 3}

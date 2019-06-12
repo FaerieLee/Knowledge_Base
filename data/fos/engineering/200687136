@@ -1,0 +1,22 @@
+{"count": 85232, "name": "Waveguide (optics)", "weight": 10.0, "id": 31511573, "level": 3}
+{"count": 18050, "name": "Power dividers and directional couplers", "weight": 2.0, "id": 202988678, "level": 3}
+{"count": 8590, "name": "Guided wave testing", "weight": 1.0, "id": 74046356, "level": 3}
+{"count": 9370, "name": "Coplanar waveguide", "weight": 1.0, "id": 3736036, "level": 3}
+{"count": 3811, "name": "Coupled mode theory", "weight": 0.0, "id": 2781181084, "level": 3}
+{"count": 9462, "name": "Transverse mode", "weight": 1.0, "id": 194136796, "level": 3}
+{"count": 5192, "name": "Propagation constant", "weight": 0.0, "id": 52638558, "level": 3}
+{"count": 4944, "name": "Slow light", "weight": 0.0, "id": 151662813, "level": 3}
+{"count": 5270, "name": "Waveguide filter", "weight": 0.0, "id": 150935588, "level": 3}
+{"count": 1051, "name": "Eigenmode expansion", "weight": 0.0, "id": 124644919, "level": 3}
+{"count": 1567, "name": "Waveguide (acoustics)", "weight": 0.0, "id": 179314111, "level": 3}
+{"count": 2184, "name": "Coupling loss", "weight": 0.0, "id": 21792228, "level": 3}
+{"count": 1349, "name": "Leaky wave antenna", "weight": 0.0, "id": 2778112244, "level": 3}
+{"count": 791, "name": "Refractive index contrast", "weight": 0.0, "id": 2776000941, "level": 3}
+{"count": 484, "name": "Orthomode transducer", "weight": 0.0, "id": 37027561, "level": 3}
+{"count": 151, "name": "Goubau line", "weight": 0.0, "id": 2777707694, "level": 3}
+{"count": 163, "name": "Photonic Chip", "weight": 0.0, "id": 58636561, "level": 3}
+{"count": 121, "name": "Multipactor effect", "weight": 0.0, "id": 2779623182, "level": 3}
+{"count": 151, "name": "Waveguide flange", "weight": 0.0, "id": 2775916975, "level": 3}
+{"count": 20, "name": "Digital waveguide synthesis", "weight": 0.0, "id": 2778545397, "level": 3}
+{"count": 32, "name": "Atmospheric waveguide", "weight": 0.0, "id": 2778500363, "level": 3}
+{"count": 320, "name": "Port (circuit theory)", "weight": 0.0, "id": 32802771, "level": 3}

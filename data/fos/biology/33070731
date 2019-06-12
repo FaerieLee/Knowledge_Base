@@ -1,0 +1,98 @@
+{"count": 41189, "name": "Carcinogen", "weight": 10.0, "id": 114246631, "level": 2}
+{"count": 9657, "name": "Mode of action", "weight": 2.0, "id": 121587506, "level": 2}
+{"count": 2476, "name": "Dose\u2013response relationship", "weight": 0.0, "id": 79410662, "level": 2}
+{"count": 12967, "name": "Xenobiotic", "weight": 3.0, "id": 115448650, "level": 2}
+{"count": 20073, "name": "Genotoxicity", "weight": 4.0, "id": 2778959862, "level": 2}
+{"count": 6267, "name": "Ames test", "weight": 1.0, "id": 117632636, "level": 2}
+{"count": 7457, "name": "Biomonitoring", "weight": 1.0, "id": 109051061, "level": 2}
+{"count": 4605, "name": "Antidote", "weight": 1.0, "id": 2779365888, "level": 2}
+{"count": 7171, "name": "Lethal dose", "weight": 1.0, "id": 2777544843, "level": 2}
+{"count": 4777, "name": "Biological warfare", "weight": 1.0, "id": 59411770, "level": 2}
+{"count": 5285, "name": "Permethrin", "weight": 1.0, "id": 2779752676, "level": 2}
+{"count": 6147, "name": "Deltamethrin", "weight": 1.0, "id": 2777553912, "level": 2}
+{"count": 4493, "name": "Smokeless tobacco", "weight": 1.0, "id": 138040679, "level": 2}
+{"count": 4289, "name": "Lethality", "weight": 1.0, "id": 20379349, "level": 2}
+{"count": 2009, "name": "Hormesis", "weight": 0.0, "id": 186256576, "level": 2}
+{"count": 2518, "name": "Piperonyl butoxide", "weight": 0.0, "id": 2777338454, "level": 2}
+{"count": 8482, "name": "Pyrethroid", "weight": 2.0, "id": 2776035571, "level": 2}
+{"count": 2050, "name": "Forensic toxicology", "weight": 0.0, "id": 158342456, "level": 2}
+{"count": 2470, "name": "Environmental toxicology", "weight": 0.0, "id": 41157215, "level": 2}
+{"count": 1098, "name": "Tolerable daily intake", "weight": 0.0, "id": 2776657025, "level": 2}
+{"count": 1503, "name": "Maximum Residue Limit", "weight": 0.0, "id": 2779675693, "level": 2}
+{"count": 1869, "name": "Rodenticide", "weight": 0.0, "id": 2777289206, "level": 2}
+{"count": 830, "name": "Occupational exposure limit", "weight": 0.0, "id": 2781195946, "level": 2}
+{"count": 1378, "name": "DEET", "weight": 0.0, "id": 2780008190, "level": 2}
+{"count": 1481, "name": "Solanum nigrum", "weight": 0.0, "id": 2779702287, "level": 2}
+{"count": 864, "name": "Chironomus riparius", "weight": 0.0, "id": 2777957339, "level": 2}
+{"count": 1896, "name": "Eupatorium", "weight": 0.0, "id": 2776754197, "level": 2}
+{"count": 1876, "name": "Insect repellent", "weight": 0.0, "id": 2777563944, "level": 2}
+{"count": 1204, "name": "Reference dose", "weight": 0.0, "id": 51671895, "level": 2}
+{"count": 390, "name": "Lewisite", "weight": 0.0, "id": 2776243630, "level": 2}
+{"count": 372, "name": "Etofenprox", "weight": 0.0, "id": 2780684958, "level": 2}
+{"count": 218, "name": "Hydramethylnon", "weight": 0.0, "id": 2780975359, "level": 2}
+{"count": 401, "name": "Thiamylal", "weight": 0.0, "id": 2778349805, "level": 2}
+{"count": 349, "name": "Chloracne", "weight": 0.0, "id": 2779171680, "level": 2}
+{"count": 355, "name": "Cyclododecane", "weight": 0.0, "id": 2780605846, "level": 2}
+{"count": 133, "name": "1-Bromopropane", "weight": 0.0, "id": 2776547041, "level": 2}
+{"count": 343, "name": "Collective protection", "weight": 0.0, "id": 2777027683, "level": 2}
+{"count": 319, "name": "Big Four", "weight": 0.0, "id": 2776617455, "level": 2}
+{"count": 101, "name": "Solanum aviculare", "weight": 0.0, "id": 2778138057, "level": 2}
+{"count": 1750, "name": "Pimephales", "weight": 0.0, "id": 2775896292, "level": 2}
+{"count": 401, "name": "Medical toxicology", "weight": 0.0, "id": 2780985462, "level": 2}
+{"count": 116, "name": "Metepa", "weight": 0.0, "id": 2775899195, "level": 2}
+{"count": 88, "name": "Mexacarbate", "weight": 0.0, "id": 2775923104, "level": 2}
+{"count": 225, "name": "Croton tiglium", "weight": 0.0, "id": 2776750934, "level": 2}
+{"count": 137, "name": "Lead abatement", "weight": 0.0, "id": 2778780766, "level": 2}
+{"count": 85, "name": "Environmental disease", "weight": 0.0, "id": 2778016915, "level": 2}
+{"count": 235, "name": "Sistrurus", "weight": 0.0, "id": 2776809993, "level": 2}
+{"count": 153, "name": "Cleistanthus", "weight": 0.0, "id": 2777535107, "level": 2}
+{"count": 74, "name": "Silafluofen", "weight": 0.0, "id": 2778343816, "level": 2}
+{"count": 15, "name": "Chlormephos", "weight": 0.0, "id": 2780485341, "level": 2}
+{"count": 29, "name": "Aircraft disinsection", "weight": 0.0, "id": 2781303567, "level": 2}
+{"count": 134, "name": "Regulation of chemicals", "weight": 0.0, "id": 2781354713, "level": 2}
+{"count": 6, "name": "Dermatoxin", "weight": 0.0, "id": 2780146935, "level": 2}
+{"count": 55, "name": "Organothiophosphate", "weight": 0.0, "id": 2776330436, "level": 2}
+{"count": 2, "name": "CIOMS/RUCAM scale", "weight": 0.0, "id": 2777277404, "level": 2}
+{"count": 11, "name": "Amurca", "weight": 0.0, "id": 2776850924, "level": 2}
+{"count": 21, "name": "Phosgene oxime", "weight": 0.0, "id": 2779904498, "level": 2}
+{"count": 7, "name": "Galerina vittiformis", "weight": 0.0, "id": 2779390357, "level": 2}
+{"count": 79, "name": "Globally Harmonized System of Classification and Labelling of Chemicals", "weight": 0.0, "id": 2780931113, "level": 2}
+{"count": 13, "name": "Carphophis amoenus", "weight": 0.0, "id": 2778101784, "level": 2}
+{"count": 72, "name": "Agada", "weight": 0.0, "id": 2778305187, "level": 2}
+{"count": 9, "name": "Ecological death", "weight": 0.0, "id": 2780298103, "level": 2}
+{"count": 1, "name": "Macrodelphinus", "weight": 0.0, "id": 2779864534, "level": 2}
+{"count": 9, "name": "Ophryacus", "weight": 0.0, "id": 2777673323, "level": 2}
+{"count": 1, "name": "Uatchitodon", "weight": 0.0, "id": 2778986691, "level": 2}
+{"count": 3, "name": "Acecarbromal", "weight": 0.0, "id": 2778140069, "level": 2}
+{"count": 3, "name": "Novichok agent", "weight": 0.0, "id": 2780713829, "level": 2}
+{"count": 6, "name": "Venomoid", "weight": 0.0, "id": 2777313258, "level": 2}
+{"count": 1, "name": "Amanita albocreata", "weight": 0.0, "id": 2780252945, "level": 2}
+{"count": 10, "name": "Adenium multiflorum", "weight": 0.0, "id": 2781331579, "level": 2}
+{"count": 5, "name": "Mussurana", "weight": 0.0, "id": 2778156987, "level": 2}
+{"count": 6, "name": "Reed\u2013Muench method", "weight": 0.0, "id": 2780184645, "level": 2}
+{"count": 43, "name": "Committee on Toxicity", "weight": 0.0, "id": 2776381304, "level": 2}
+{"count": 3, "name": "7-Methylindole", "weight": 0.0, "id": 2776557128, "level": 2}
+{"count": 5, "name": "2-Methyl-2-pentanol", "weight": 0.0, "id": 2775870805, "level": 2}
+{"count": 2, "name": "Heptabarb", "weight": 0.0, "id": 2776424499, "level": 2}
+{"count": 68, "name": "The dose makes the poison", "weight": 0.0, "id": 207981465, "level": 2}
+{"count": 1, "name": "Bothrops lojanus", "weight": 0.0, "id": 2780821798, "level": 2}
+{"count": 27, "name": "Parocneria", "weight": 0.0, "id": 2778711377, "level": 2}
+{"count": 13, "name": "Disease causative agent", "weight": 0.0, "id": 2777656082, "level": 2}
+{"count": 7, "name": "ZebraBox", "weight": 0.0, "id": 2778547134, "level": 2}
+{"count": 3, "name": "Aspidelaps lubricus", "weight": 0.0, "id": 2778926739, "level": 2}
+{"count": 1, "name": "Tetrabarbital", "weight": 0.0, "id": 2777047948, "level": 2}
+{"count": 15, "name": "Hexapropymate", "weight": 0.0, "id": 2777781084, "level": 2}
+{"count": 3, "name": "Apronal", "weight": 0.0, "id": 2781075235, "level": 2}
+{"count": 1, "name": "Binary chemical weapon", "weight": 0.0, "id": 2777941491, "level": 2}
+{"count": 5, "name": "Crotylbarbital", "weight": 0.0, "id": 2777935065, "level": 2}
+{"count": 46, "name": "Mad as a hatter", "weight": 0.0, "id": 2779757271, "level": 2}
+{"count": 24, "name": "Toxic capacity", "weight": 0.0, "id": 2777474404, "level": 2}
+{"count": 7, "name": "Cacophis", "weight": 0.0, "id": 2775974894, "level": 2}
+{"count": 5, "name": "Sleeping gas", "weight": 0.0, "id": 2780981852, "level": 2}
+{"count": 3, "name": "Aipysurus duboisii", "weight": 0.0, "id": 2781116460, "level": 2}
+{"count": 3, "name": "Bromobenzyl cyanide", "weight": 0.0, "id": 2779819834, "level": 2}
+{"count": 14, "name": "Xenohormone", "weight": 0.0, "id": 2780638427, "level": 2}
+{"count": 1, "name": "Lowest published toxic dose", "weight": 0.0, "id": 2776075328, "level": 2}
+{"count": 23, "name": "Sigmodal", "weight": 0.0, "id": 2777925736, "level": 2}
+{"count": 6, "name": "Ethyldichloroarsine", "weight": 0.0, "id": 2780097406, "level": 2}
+{"count": 3, "name": "Ithycyphus", "weight": 0.0, "id": 2776477572, "level": 2}

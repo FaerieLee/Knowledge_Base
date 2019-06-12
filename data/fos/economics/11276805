@@ -1,0 +1,12 @@
+{"count": 2297, "name": "Vickrey auction", "weight": 7.0, "id": 83426474, "level": 4}
+{"count": 901, "name": "Spectrum auction", "weight": 2.0, "id": 94253299, "level": 4}
+{"count": 2706, "name": "Reverse auction", "weight": 8.0, "id": 194291561, "level": 4}
+{"count": 3156, "name": "Revenue equivalence", "weight": 10.0, "id": 143684077, "level": 4}
+{"count": 335, "name": "All-pay auction", "weight": 1.0, "id": 2781109436, "level": 4}
+{"count": 3087, "name": "Vickrey\u2013Clarke\u2013Groves auction", "weight": 9.0, "id": 147220207, "level": 4}
+{"count": 2964, "name": "Generalized second-price auction", "weight": 9.0, "id": 48278072, "level": 4}
+{"count": 65, "name": "Dollar auction", "weight": 0.0, "id": 30937968, "level": 4}
+{"count": 2537, "name": "Forward auction", "weight": 8.0, "id": 160903226, "level": 4}
+{"count": 9, "name": "Japanese auction", "weight": 0.0, "id": 2778421156, "level": 4}
+{"count": 2605, "name": "Eauction", "weight": 8.0, "id": 91196458, "level": 4}
+{"count": 2310, "name": "Unique bid auction", "weight": 7.0, "id": 205871297, "level": 4}

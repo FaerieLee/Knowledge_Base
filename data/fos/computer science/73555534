@@ -1,0 +1,25 @@
+{"count": 15759, "name": "k-means clustering", "weight": 6.0, "id": 207968372, "level": 3}
+{"count": 15176, "name": "Hierarchical clustering", "weight": 6.0, "id": 92835128, "level": 3}
+{"count": 9850, "name": "Clustering high-dimensional data", "weight": 4.0, "id": 184509293, "level": 3}
+{"count": 23997, "name": "Fuzzy clustering", "weight": 10.0, "id": 17212007, "level": 3}
+{"count": 6590, "name": "Document clustering", "weight": 2.0, "id": 177937566, "level": 3}
+{"count": 4942, "name": "Clustering coefficient", "weight": 2.0, "id": 22047676, "level": 3}
+{"count": 3587, "name": "Spectral clustering", "weight": 1.0, "id": 105611402, "level": 3}
+{"count": 826, "name": "Spike sorting", "weight": 0.0, "id": 2777613131, "level": 3}
+{"count": 456, "name": "Information bottleneck method", "weight": 0.0, "id": 60008888, "level": 3}
+{"count": 541, "name": "Rand index", "weight": 0.0, "id": 111442797, "level": 3}
+{"count": 130, "name": "Multi-hop routing", "weight": 0.0, "id": 2780361066, "level": 3}
+{"count": 81, "name": "Cluster graph", "weight": 0.0, "id": 2780290708, "level": 3}
+{"count": 511, "name": "Local outlier factor", "weight": 0.0, "id": 169029474, "level": 3}
+{"count": 22199, "name": "Correlation clustering", "weight": 9.0, "id": 94641424, "level": 3}
+{"count": 290, "name": "Sequence clustering", "weight": 0.0, "id": 2778425067, "level": 3}
+{"count": 154, "name": "MinHash", "weight": 0.0, "id": 2080492, "level": 3}
+{"count": 394, "name": "Data cluster", "weight": 0.0, "id": 29440503, "level": 3}
+{"count": 459, "name": "Stochastic block model", "weight": 0.0, "id": 2779982251, "level": 3}
+{"count": 158, "name": "Cluster labeling", "weight": 0.0, "id": 2777273560, "level": 3}
+{"count": 579, "name": "Medoid", "weight": 0.0, "id": 63085389, "level": 3}
+{"count": 267, "name": "Chinese restaurant process", "weight": 0.0, "id": 5357010, "level": 3}
+{"count": 2760, "name": "Hierarchical network model", "weight": 1.0, "id": 64900535, "level": 3}
+{"count": 164, "name": "Word-sense induction", "weight": 0.0, "id": 2779582041, "level": 3}
+{"count": 173, "name": "Coreset", "weight": 0.0, "id": 2777150392, "level": 3}
+{"count": 700, "name": "Similarity (network science)", "weight": 0.0, "id": 89604369, "level": 3}

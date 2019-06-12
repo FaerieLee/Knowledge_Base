@@ -1,0 +1,18 @@
+{"count": 456, "name": "Logical link control", "weight": 1.0, "id": 168962991, "level": 5}
+{"count": 2275, "name": "Network allocation vector", "weight": 9.0, "id": 643704, "level": 5}
+{"count": 232, "name": "IEEE 802.11i-2004", "weight": 0.0, "id": 17076569, "level": 5}
+{"count": 168, "name": "IEEE 802.11ah", "weight": 0.0, "id": 2780352317, "level": 5}
+{"count": 1404, "name": "IEEE 802.1X", "weight": 5.0, "id": 28722885, "level": 5}
+{"count": 1036, "name": "IEEE 802.6", "weight": 4.0, "id": 171348249, "level": 5}
+{"count": 34, "name": "IEEE 802.20", "weight": 0.0, "id": 2777325914, "level": 5}
+{"count": 98, "name": "IEEE 802.11ax", "weight": 0.0, "id": 2776923346, "level": 5}
+{"count": 505, "name": "DySPAN", "weight": 2.0, "id": 198171092, "level": 5}
+{"count": 1059, "name": "IEEE 802.1Q", "weight": 4.0, "id": 176672177, "level": 5}
+{"count": 1174, "name": "IEEE 802.1AE", "weight": 4.0, "id": 87626647, "level": 5}
+{"count": 1778, "name": "IEEE 802.11r-2008", "weight": 7.0, "id": 155978914, "level": 5}
+{"count": 142, "name": "Provider Backbone Bridge Traffic Engineering", "weight": 0.0, "id": 18898458, "level": 5}
+{"count": 2504, "name": "IEEE 802.11u", "weight": 10.0, "id": 21651964, "level": 5}
+{"count": 608, "name": "IEEE 802.2", "weight": 2.0, "id": 157078075, "level": 5}
+{"count": 16, "name": "Super G", "weight": 0.0, "id": 140198179, "level": 5}
+{"count": 105, "name": "Xpress technology", "weight": 0.0, "id": 59310676, "level": 5}
+{"count": 2201, "name": "IEEE 802.11w-2009", "weight": 8.0, "id": 40261086, "level": 5}

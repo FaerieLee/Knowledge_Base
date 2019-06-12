@@ -1,0 +1,19 @@
+{"count": 928, "name": "Triangulated irregular network", "weight": 7.0, "id": 131509275, "level": 3}
+{"count": 1271, "name": "Terrain rendering", "weight": 10.0, "id": 118350294, "level": 3}
+{"count": 451, "name": "Geomorphometry", "weight": 3.0, "id": 172150952, "level": 3}
+{"count": 505, "name": "Terramechanics", "weight": 3.0, "id": 2779636902, "level": 3}
+{"count": 741, "name": "Raised-relief map", "weight": 5.0, "id": 99695388, "level": 3}
+{"count": 378, "name": "DTED", "weight": 2.0, "id": 131908665, "level": 3}
+{"count": 221, "name": "Controlled flight into terrain", "weight": 1.0, "id": 2778183312, "level": 3}
+{"count": 88, "name": "Polyhedral terrain", "weight": 0.0, "id": 2778674934, "level": 3}
+{"count": 261, "name": "Open terrain", "weight": 2.0, "id": 2779477720, "level": 3}
+{"count": 184, "name": "GTOPO30", "weight": 1.0, "id": 191479756, "level": 3}
+{"count": 97, "name": "Heightmap", "weight": 0.0, "id": 25628540, "level": 3}
+{"count": 58, "name": "Bevameter", "weight": 0.0, "id": 2775839214, "level": 3}
+{"count": 283, "name": "Ground proximity warning system", "weight": 2.0, "id": 165981476, "level": 3}
+{"count": 21, "name": "Scenery generator", "weight": 0.0, "id": 160576556, "level": 3}
+{"count": 25, "name": "Chaos terrain", "weight": 0.0, "id": 2776286054, "level": 3}
+{"count": 11, "name": "LandSerf", "weight": 0.0, "id": 2780967278, "level": 3}
+{"count": 15, "name": "Global Relief Model", "weight": 0.0, "id": 2778199097, "level": 3}
+{"count": 71, "name": "Terrain cartography", "weight": 0.0, "id": 559082409, "level": 3}
+{"count": 27, "name": "SIGMET", "weight": 0.0, "id": 2781159826, "level": 3}

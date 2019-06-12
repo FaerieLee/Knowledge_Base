@@ -1,0 +1,6 @@
+{"count": 507, "name": "Solar azimuth angle", "weight": 10.0, "id": 1374934, "level": 3}
+{"count": 253, "name": "Hour angle", "weight": 5.0, "id": 12576009, "level": 3}
+{"count": 87, "name": "Gyrotheodolite", "weight": 1.0, "id": 82825549, "level": 3}
+{"count": 98, "name": "Prime vertical", "weight": 1.0, "id": 136554849, "level": 3}
+{"count": 27, "name": "Ex-meridian", "weight": 0.0, "id": 2780388405, "level": 3}
+{"count": 24, "name": "Azimuth compass", "weight": 0.0, "id": 83653095, "level": 3}

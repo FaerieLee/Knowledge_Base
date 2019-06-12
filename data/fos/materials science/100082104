@@ -1,0 +1,18 @@
+{"count": 10278, "name": "Piezoelectric sensor", "weight": 10.0, "id": 173677008, "level": 3}
+{"count": 4704, "name": "Electrostriction", "weight": 4.0, "id": 117911374, "level": 3}
+{"count": 3707, "name": "Poling", "weight": 3.0, "id": 2781372846, "level": 3}
+{"count": 2578, "name": "Interdigital transducer", "weight": 2.0, "id": 9066896, "level": 3}
+{"count": 809, "name": "Flexoelectricity", "weight": 0.0, "id": 2778070859, "level": 3}
+{"count": 8236, "name": "Piezoelectric coefficient", "weight": 8.0, "id": 135405054, "level": 3}
+{"count": 2782, "name": "Nanogenerator", "weight": 2.0, "id": 175616097, "level": 3}
+{"count": 2831, "name": "Electromechanical coupling coefficient", "weight": 2.0, "id": 86194701, "level": 3}
+{"count": 4244, "name": "Bimorph", "weight": 4.0, "id": 2778393539, "level": 3}
+{"count": 4261, "name": "Piezoelectric motor", "weight": 4.0, "id": 149878695, "level": 3}
+{"count": 1849, "name": "Electric displacement field", "weight": 1.0, "id": 57470404, "level": 3}
+{"count": 1120, "name": "Unimorph", "weight": 1.0, "id": 2779055265, "level": 3}
+{"count": 5707, "name": "PMUT", "weight": 5.0, "id": 57693265, "level": 3}
+{"count": 254, "name": "Thin-film bulk acoustic resonator", "weight": 0.0, "id": 2777880760, "level": 3}
+{"count": 212, "name": "Ferroelectret", "weight": 0.0, "id": 2779905650, "level": 3}
+{"count": 274, "name": "Piezoelectric speaker", "weight": 0.0, "id": 2777657240, "level": 3}
+{"count": 37, "name": "Amplified piezoelectric actuator", "weight": 0.0, "id": 2778149568, "level": 3}
+{"count": 49, "name": "Lanthanum gallium silicate", "weight": 0.0, "id": 2775983189, "level": 3}

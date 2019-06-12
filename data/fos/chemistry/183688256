@@ -1,0 +1,63 @@
+{"count": 16461, "name": "Photosystem II", "weight": 9.0, "id": 80298142, "level": 3}
+{"count": 17176, "name": "Chlorophyll a", "weight": 9.0, "id": 2778902199, "level": 3}
+{"count": 17454, "name": "Stomatal conductance", "weight": 10.0, "id": 2781045423, "level": 3}
+{"count": 10419, "name": "Photosynthetic reaction centre", "weight": 5.0, "id": 188231169, "level": 3}
+{"count": 14046, "name": "Chlorophyll fluorescence", "weight": 8.0, "id": 24630173, "level": 3}
+{"count": 12958, "name": "Thylakoid", "weight": 7.0, "id": 101692577, "level": 3}
+{"count": 3525, "name": "Photosynthetic pigment", "weight": 2.0, "id": 2780505102, "level": 3}
+{"count": 7843, "name": "RuBisCO", "weight": 4.0, "id": 50212798, "level": 3}
+{"count": 4350, "name": "Photosynthetically active radiation", "weight": 2.0, "id": 131366478, "level": 3}
+{"count": 5908, "name": "Photoinhibition", "weight": 3.0, "id": 172256273, "level": 3}
+{"count": 469, "name": "Rhodospirillales", "weight": 0.0, "id": 2776964511, "level": 3}
+{"count": 592, "name": "Rhodospirillaceae", "weight": 0.0, "id": 2779291864, "level": 3}
+{"count": 3723, "name": "Rhodobacter sphaeroides", "weight": 2.0, "id": 2777897970, "level": 3}
+{"count": 3178, "name": "Light-harvesting complex", "weight": 1.0, "id": 193357725, "level": 3}
+{"count": 3772, "name": "Photoprotection", "weight": 2.0, "id": 2780542282, "level": 3}
+{"count": 3899, "name": "Phosphoenolpyruvate carboxylase", "weight": 2.0, "id": 111341932, "level": 3}
+{"count": 3403, "name": "Photorespiration", "weight": 1.0, "id": 117534273, "level": 3}
+{"count": 5298, "name": "Synechocystis", "weight": 3.0, "id": 2780238584, "level": 3}
+{"count": 6255, "name": "Carbon fixation", "weight": 3.0, "id": 199873434, "level": 3}
+{"count": 2310, "name": "Crassulacean acid metabolism", "weight": 1.0, "id": 186154404, "level": 3}
+{"count": 3805, "name": "Bacteriochlorophyll", "weight": 2.0, "id": 2780784151, "level": 3}
+{"count": 2435, "name": "Rhodospirillum rubrum", "weight": 1.0, "id": 2777082638, "level": 3}
+{"count": 1404, "name": "Phycobilisome", "weight": 0.0, "id": 198044025, "level": 3}
+{"count": 5257, "name": "Photosynthetic capacity", "weight": 3.0, "id": 2779796136, "level": 3}
+{"count": 2503, "name": "Photophosphorylation", "weight": 1.0, "id": 26793543, "level": 3}
+{"count": 382, "name": "Chromatiaceae", "weight": 0.0, "id": 2779686340, "level": 3}
+{"count": 1314, "name": "Rhodopseudomonas palustris", "weight": 0.0, "id": 2778418169, "level": 3}
+{"count": 4359, "name": "Photosynthetic efficiency", "weight": 2.0, "id": 125564181, "level": 3}
+{"count": 296, "name": "Mycosporine-like amino acid", "weight": 0.0, "id": 2777741330, "level": 3}
+{"count": 2948, "name": "Phototroph", "weight": 1.0, "id": 197322856, "level": 3}
+{"count": 1107, "name": "Chromatium", "weight": 0.0, "id": 2777444609, "level": 3}
+{"count": 810, "name": "Chlorobium", "weight": 0.0, "id": 2775992220, "level": 3}
+{"count": 360, "name": "Phosphoribulokinase", "weight": 0.0, "id": 2779592452, "level": 3}
+{"count": 254, "name": "Prochloron", "weight": 0.0, "id": 2781051773, "level": 3}
+{"count": 898, "name": "Hill reaction", "weight": 0.0, "id": 2779323193, "level": 3}
+{"count": 1808, "name": "Compensation point", "weight": 1.0, "id": 133500307, "level": 3}
+{"count": 422, "name": "Flaveria", "weight": 0.0, "id": 2780471819, "level": 3}
+{"count": 204, "name": "Photosynthate partitioning", "weight": 0.0, "id": 2777064904, "level": 3}
+{"count": 262, "name": "Scytonemin", "weight": 0.0, "id": 2776467500, "level": 3}
+{"count": 1377, "name": "Anoxygenic photosynthesis", "weight": 0.0, "id": 98614847, "level": 3}
+{"count": 224, "name": "Isoprene synthase", "weight": 0.0, "id": 2776245577, "level": 3}
+{"count": 371, "name": "Purple sulfur bacteria", "weight": 0.0, "id": 2776105273, "level": 3}
+{"count": 209, "name": "Phycobilin", "weight": 0.0, "id": 2781246410, "level": 3}
+{"count": 147, "name": "Daily light integral", "weight": 0.0, "id": 2778582329, "level": 3}
+{"count": 680, "name": "Photosynthesis system", "weight": 0.0, "id": 91447561, "level": 3}
+{"count": 84, "name": "Variation potential", "weight": 0.0, "id": 2777761466, "level": 3}
+{"count": 164, "name": "Rhodovulum", "weight": 0.0, "id": 2779651850, "level": 3}
+{"count": 60, "name": "Rhodovulum sulfidophilum", "weight": 0.0, "id": 2776372912, "level": 3}
+{"count": 33, "name": "Roseobacter denitrificans", "weight": 0.0, "id": 2779913670, "level": 3}
+{"count": 7, "name": "Scrophularia desertorum", "weight": 0.0, "id": 2778155949, "level": 3}
+{"count": 187, "name": "Moricandia", "weight": 0.0, "id": 2780965954, "level": 3}
+{"count": 59, "name": "Elysia viridis", "weight": 0.0, "id": 2776344170, "level": 3}
+{"count": 46, "name": "3-Phosphoglyceric acid", "weight": 0.0, "id": 2776806502, "level": 3}
+{"count": 32, "name": "Eleocharis vivipara", "weight": 0.0, "id": 2778243428, "level": 3}
+{"count": 482, "name": "Photoassimilate", "weight": 0.0, "id": 2779915172, "level": 3}
+{"count": 19, "name": "Alloteropsis semialata", "weight": 0.0, "id": 2778277824, "level": 3}
+{"count": 26, "name": "Triose phosphate translocator", "weight": 0.0, "id": 2777747260, "level": 3}
+{"count": 64, "name": "PI curve", "weight": 0.0, "id": 70671659, "level": 3}
+{"count": 19, "name": "Cypripedium flavum", "weight": 0.0, "id": 2779538753, "level": 3}
+{"count": 220, "name": "Evolution of photosynthesis", "weight": 0.0, "id": 173837035, "level": 3}
+{"count": 56, "name": "Biophotovoltaic", "weight": 0.0, "id": 2776279517, "level": 3}
+{"count": 20, "name": "Claoxylon", "weight": 0.0, "id": 2776318060, "level": 3}
+{"count": 33, "name": "Free-air concentration enrichment", "weight": 0.0, "id": 2780367144, "level": 3}

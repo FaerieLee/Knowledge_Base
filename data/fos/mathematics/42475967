@@ -1,0 +1,55 @@
+{"count": 52193, "name": "Analytic hierarchy process", "weight": 10.0, "id": 87345402, "level": 2}
+{"count": 50518, "name": "Arboriculture", "weight": 9.0, "id": 67961754, "level": 2}
+{"count": 48989, "name": "Arborist", "weight": 9.0, "id": 2779543577, "level": 2}
+{"count": 13623, "name": "Multiple-criteria decision analysis", "weight": 2.0, "id": 11105738, "level": 2}
+{"count": 7711, "name": "Military strategy", "weight": 1.0, "id": 118813454, "level": 2}
+{"count": 5236, "name": "Military tactics", "weight": 1.0, "id": 190989730, "level": 2}
+{"count": 3935, "name": "Military intelligence", "weight": 0.0, "id": 49504249, "level": 2}
+{"count": 7146, "name": "Infantry", "weight": 1.0, "id": 198766705, "level": 2}
+{"count": 2660, "name": "Information warfare", "weight": 0.0, "id": 2781349506, "level": 2}
+{"count": 2445, "name": "Combat readiness", "weight": 0.0, "id": 2775923906, "level": 2}
+{"count": 1152, "name": "Aerial warfare", "weight": 0.0, "id": 2779971420, "level": 2}
+{"count": 1438, "name": "Information Operations", "weight": 0.0, "id": 121858775, "level": 2}
+{"count": 1383, "name": "Network-centric warfare", "weight": 0.0, "id": 2781187084, "level": 2}
+{"count": 328, "name": "Target of opportunity", "weight": 0.0, "id": 2779493218, "level": 2}
+{"count": 1568, "name": "Combat support", "weight": 0.0, "id": 111611456, "level": 2}
+{"count": 1190, "name": "Unconventional warfare", "weight": 0.0, "id": 182165825, "level": 2}
+{"count": 13493, "name": "Military science", "weight": 2.0, "id": 451841, "level": 2}
+{"count": 950, "name": "Conventional warfare", "weight": 0.0, "id": 2781157960, "level": 2}
+{"count": 1314, "name": "Special forces", "weight": 0.0, "id": 2776126810, "level": 2}
+{"count": 478, "name": "Urban warfare", "weight": 0.0, "id": 2779454666, "level": 2}
+{"count": 1530, "name": "Strategic Defense Initiative", "weight": 0.0, "id": 4639250, "level": 2}
+{"count": 608, "name": "Low intensity conflict", "weight": 0.0, "id": 2780378559, "level": 2}
+{"count": 1731, "name": "Decision matrix", "weight": 0.0, "id": 137402852, "level": 2}
+{"count": 2118, "name": "ELECTRE", "weight": 0.0, "id": 47431972, "level": 2}
+{"count": 1628, "name": "Firepower", "weight": 0.0, "id": 2780048507, "level": 2}
+{"count": 2172, "name": "Indirect approach", "weight": 0.0, "id": 14744740, "level": 2}
+{"count": 438, "name": "Flexible response", "weight": 0.0, "id": 2777837046, "level": 2}
+{"count": 751, "name": "Civilian casualties", "weight": 0.0, "id": 2775839188, "level": 2}
+{"count": 13141, "name": "Offensive", "weight": 2.0, "id": 176856949, "level": 2}
+{"count": 395, "name": "Signals intelligence", "weight": 0.0, "id": 56983722, "level": 2}
+{"count": 758, "name": "Irregular warfare", "weight": 0.0, "id": 2781457908, "level": 2}
+{"count": 403, "name": "Hybrid warfare", "weight": 0.0, "id": 2780973374, "level": 2}
+{"count": 436, "name": "Jointness", "weight": 0.0, "id": 2778923841, "level": 2}
+{"count": 238, "name": "Effects-based operations", "weight": 0.0, "id": 2781114426, "level": 2}
+{"count": 738, "name": "Force protection", "weight": 0.0, "id": 2778548246, "level": 2}
+{"count": 532, "name": "Seamanship", "weight": 0.0, "id": 86838182, "level": 2}
+{"count": 2819, "name": "Combatant", "weight": 0.0, "id": 2778638182, "level": 2}
+{"count": 391, "name": "Multi-attribute utility", "weight": 0.0, "id": 2780750474, "level": 2}
+{"count": 463, "name": "Base Realignment and Closure", "weight": 0.0, "id": 2776902624, "level": 2}
+{"count": 75, "name": "Tactical bombing", "weight": 0.0, "id": 2778661292, "level": 2}
+{"count": 450, "name": "Wargame", "weight": 0.0, "id": 2781271820, "level": 2}
+{"count": 108, "name": "Defence in depth", "weight": 0.0, "id": 2781376611, "level": 2}
+{"count": 1549, "name": "Battlespace", "weight": 0.0, "id": 2781438671, "level": 2}
+{"count": 181, "name": "Precision-guided munition", "weight": 0.0, "id": 104096267, "level": 2}
+{"count": 1201, "name": "Combat service support", "weight": 0.0, "id": 166832852, "level": 2}
+{"count": 67, "name": "Morphological box", "weight": 0.0, "id": 64301856, "level": 2}
+{"count": 321, "name": "Fog of war", "weight": 0.0, "id": 24459378, "level": 2}
+{"count": 354, "name": "Principles of war", "weight": 0.0, "id": 2778512024, "level": 2}
+{"count": 781, "name": "Behavioral operations research", "weight": 0.0, "id": 190929874, "level": 2}
+{"count": 16, "name": "Weather warfare", "weight": 0.0, "id": 88418033, "level": 2}
+{"count": 10, "name": "Multi-attribute global inference of quality", "weight": 0.0, "id": 130267952, "level": 2}
+{"count": 10, "name": "Decision-making paradox", "weight": 0.0, "id": 2779272393, "level": 2}
+{"count": 108, "name": "Railway time", "weight": 0.0, "id": 96715074, "level": 2}
+{"count": 1, "name": "Government Operational Research Service", "weight": 0.0, "id": 2779563354, "level": 2}
+{"count": 1, "name": "Combat operations process", "weight": 0.0, "id": 2778300402, "level": 2}

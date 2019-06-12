@@ -1,0 +1,24 @@
+{"count": 1042, "name": "Network File System", "weight": 1.0, "id": 64448361, "level": 5}
+{"count": 843, "name": "Virtual file system", "weight": 1.0, "id": 58861120, "level": 5}
+{"count": 416, "name": "Secure Shell", "weight": 0.0, "id": 147734436, "level": 5}
+{"count": 91, "name": "Global file system", "weight": 0.0, "id": 2776422543, "level": 5}
+{"count": 2034, "name": "Memory-mapped file", "weight": 3.0, "id": 123084682, "level": 5}
+{"count": 107, "name": "Andrew File System", "weight": 0.0, "id": 13194111, "level": 5}
+{"count": 5415, "name": "SSH File Transfer Protocol", "weight": 10.0, "id": 88520388, "level": 5}
+{"count": 276, "name": "FTPS", "weight": 0.0, "id": 86298955, "level": 5}
+{"count": 44, "name": "Steganographic file system", "weight": 0.0, "id": 121022587, "level": 5}
+{"count": 72, "name": "Clustered file system", "weight": 0.0, "id": 2776219585, "level": 5}
+{"count": 91, "name": "File locking", "weight": 0.0, "id": 2776033464, "level": 5}
+{"count": 2787, "name": "Fork (file system)", "weight": 5.0, "id": 165121294, "level": 5}
+{"count": 34, "name": "Managed file transfer", "weight": 0.0, "id": 2777531848, "level": 5}
+{"count": 123, "name": "Installable File System", "weight": 0.0, "id": 48132188, "level": 5}
+{"count": 3726, "name": "Torrent file", "weight": 6.0, "id": 40350719, "level": 5}
+{"count": 923, "name": "Global Namespace", "weight": 1.0, "id": 73829397, "level": 5}
+{"count": 13, "name": "File system permissions", "weight": 0.0, "id": 2779663344, "level": 5}
+{"count": 863, "name": "fstab", "weight": 1.0, "id": 92292633, "level": 5}
+{"count": 522, "name": "Everything is a file", "weight": 0.0, "id": 77487227, "level": 5}
+{"count": 2798, "name": "Design rule for Camera File system", "weight": 5.0, "id": 81961946, "level": 5}
+{"count": 3551, "name": "File area network", "weight": 6.0, "id": 129187258, "level": 5}
+{"count": 20, "name": "Virtual file server", "weight": 0.0, "id": 2778085896, "level": 5}
+{"count": 965, "name": "resolv.conf", "weight": 1.0, "id": 205757877, "level": 5}
+{"count": 310, "name": "Archive bit", "weight": 0.0, "id": 125158212, "level": 5}

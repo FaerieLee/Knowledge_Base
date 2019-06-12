@@ -1,0 +1,5 @@
+{"count": 3662, "name": "Motion blur", "weight": 4.0, "id": 2777708103, "level": 4}
+{"count": 3736, "name": "Deblurring", "weight": 4.0, "id": 2777693668, "level": 4}
+{"count": 2140, "name": "Gaussian blur", "weight": 2.0, "id": 104317376, "level": 4}
+{"count": 8038, "name": "Image gradient", "weight": 10.0, "id": 182037307, "level": 4}
+{"count": 834, "name": "Ringing artifacts", "weight": 1.0, "id": 17828673, "level": 4}

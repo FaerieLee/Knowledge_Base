@@ -1,0 +1,9 @@
+{"count": 2975, "name": "Discrete sine transform", "weight": 6.0, "id": 167058841, "level": 4}
+{"count": 4641, "name": "Discrete-time Fourier transform", "weight": 10.0, "id": 122444316, "level": 4}
+{"count": 4223, "name": "Discrete Fourier series", "weight": 9.0, "id": 175225751, "level": 4}
+{"count": 2695, "name": "Prime-factor FFT algorithm", "weight": 5.0, "id": 77928272, "level": 4}
+{"count": 1093, "name": "DFT matrix", "weight": 2.0, "id": 103945485, "level": 4}
+{"count": 2367, "name": "Split-radix FFT algorithm", "weight": 5.0, "id": 103755468, "level": 4}
+{"count": 3961, "name": "Fourier inversion theorem", "weight": 8.0, "id": 175146775, "level": 4}
+{"count": 3483, "name": "Fourier transform on finite groups", "weight": 7.0, "id": 50826107, "level": 4}
+{"count": 453, "name": "Scale space implementation", "weight": 0.0, "id": 200030154, "level": 4}

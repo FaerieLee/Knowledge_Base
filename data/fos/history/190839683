@@ -1,0 +1,11 @@
+{"count": 1593, "name": "Automatic train control", "weight": 5.0, "id": 2779060153, "level": 3}
+{"count": 811, "name": "Automatic train operation", "weight": 2.0, "id": 2776202055, "level": 3}
+{"count": 2747, "name": "Rail freight transport", "weight": 10.0, "id": 519458232, "level": 3}
+{"count": 442, "name": "Positive train control", "weight": 1.0, "id": 2778787886, "level": 3}
+{"count": 599, "name": "Tilting train", "weight": 2.0, "id": 2780620191, "level": 3}
+{"count": 546, "name": "Automatic train protection", "weight": 1.0, "id": 2777019676, "level": 3}
+{"count": 51, "name": "Slack action", "weight": 0.0, "id": 2776533561, "level": 3}
+{"count": 95, "name": "Cant deficiency", "weight": 0.0, "id": 2778773026, "level": 3}
+{"count": 22, "name": "Curve resistance", "weight": 0.0, "id": 2780326424, "level": 3}
+{"count": 57, "name": "Fiddle yard", "weight": 0.0, "id": 163460002, "level": 3}
+{"count": 47, "name": "Head-end power", "weight": 0.0, "id": 153338880, "level": 3}

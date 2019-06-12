@@ -1,0 +1,37 @@
+{"count": 13853, "name": "Coaxial cable", "weight": 5.0, "id": 2777663116, "level": 3}
+{"count": 26079, "name": "Electrical connector", "weight": 10.0, "id": 2781266609, "level": 3}
+{"count": 24267, "name": "Cable harness", "weight": 9.0, "id": 180761244, "level": 3}
+{"count": 758, "name": "Mating plug", "weight": 0.0, "id": 107048319, "level": 3}
+{"count": 2160, "name": "Polarity symbols", "weight": 0.0, "id": 109825930, "level": 3}
+{"count": 10003, "name": "Ferrule", "weight": 3.0, "id": 2776351503, "level": 3}
+{"count": 3274, "name": "Optical fiber connector", "weight": 1.0, "id": 2779370546, "level": 3}
+{"count": 2340, "name": "Pin grid array", "weight": 0.0, "id": 82077477, "level": 3}
+{"count": 326, "name": "Mechanical splice", "weight": 0.0, "id": 182087806, "level": 3}
+{"count": 1680, "name": "Edge connector", "weight": 0.0, "id": 2778184349, "level": 3}
+{"count": 828, "name": "Patch panel", "weight": 0.0, "id": 187696735, "level": 3}
+{"count": 1497, "name": "Ribbon cable", "weight": 0.0, "id": 2775881415, "level": 3}
+{"count": 248, "name": "Daughterboard", "weight": 0.0, "id": 161190481, "level": 3}
+{"count": 806, "name": "Zero insertion force", "weight": 0.0, "id": 47949662, "level": 3}
+{"count": 374, "name": "RF connector", "weight": 0.0, "id": 2779441441, "level": 3}
+{"count": 604, "name": "Phone connector", "weight": 0.0, "id": 43732023, "level": 3}
+{"count": 492, "name": "Multicore cable", "weight": 0.0, "id": 2778757313, "level": 3}
+{"count": 243, "name": "Board-to-board connector", "weight": 0.0, "id": 2777479678, "level": 3}
+{"count": 35, "name": "Small form-factor pluggable transceiver", "weight": 0.0, "id": 2779674007, "level": 3}
+{"count": 128, "name": "BNC connector", "weight": 0.0, "id": 2781242608, "level": 3}
+{"count": 62, "name": "Registered jack", "weight": 0.0, "id": 2777231837, "level": 3}
+{"count": 108, "name": "Pothead", "weight": 0.0, "id": 2777603538, "level": 3}
+{"count": 517, "name": "Modular connector", "weight": 0.0, "id": 2779932685, "level": 3}
+{"count": 427, "name": "Low insertion force", "weight": 0.0, "id": 161231455, "level": 3}
+{"count": 79, "name": "Tee connector", "weight": 0.0, "id": 2778690675, "level": 3}
+{"count": 52, "name": "DIN connector", "weight": 0.0, "id": 2781187433, "level": 3}
+{"count": 116, "name": "Patch cable", "weight": 0.0, "id": 2780700471, "level": 3}
+{"count": 18, "name": "D-subminiature", "weight": 0.0, "id": 2776454998, "level": 3}
+{"count": 2622, "name": "Riser card", "weight": 1.0, "id": 55935407, "level": 3}
+{"count": 159, "name": "Mating connection", "weight": 0.0, "id": 2780041164, "level": 3}
+{"count": 315, "name": "Insulation-displacement connector", "weight": 0.0, "id": 2776779769, "level": 3}
+{"count": 22, "name": "SCSI connector", "weight": 0.0, "id": 2779015230, "level": 3}
+{"count": 102, "name": "Telephone plug", "weight": 0.0, "id": 2779726537, "level": 3}
+{"count": 7, "name": "DIN 41612", "weight": 0.0, "id": 2776277676, "level": 3}
+{"count": 67, "name": "Cigarette lighter receptacle", "weight": 0.0, "id": 2778438806, "level": 3}
+{"count": 11, "name": "XLR connector", "weight": 0.0, "id": 2780141751, "level": 3}
+{"count": 31, "name": "Twist-on wire connector", "weight": 0.0, "id": 2779528219, "level": 3}

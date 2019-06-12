@@ -1,0 +1,4 @@
+{"count": 469, "name": "Recursive descent parser", "weight": 10.0, "id": 77735154, "level": 5}
+{"count": 218, "name": "LL parser", "weight": 4.0, "id": 85626723, "level": 5}
+{"count": 212, "name": "LL grammar", "weight": 4.0, "id": 115355334, "level": 5}
+{"count": 14, "name": "LALR parser generator", "weight": 0.0, "id": 2778249883, "level": 5}

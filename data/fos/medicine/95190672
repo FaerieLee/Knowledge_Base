@@ -1,0 +1,11 @@
+{"count": 5930, "name": "Publication bias", "weight": 10.0, "id": 2780439572, "level": 3}
+{"count": 1545, "name": "Meta-regression", "weight": 2.0, "id": 124936440, "level": 3}
+{"count": 903, "name": "Strictly standardized mean difference", "weight": 1.0, "id": 28804328, "level": 3}
+{"count": 1687, "name": "Diagnostic odds ratio", "weight": 2.0, "id": 157481446, "level": 3}
+{"count": 564, "name": "Individual participant data", "weight": 0.0, "id": 2777871799, "level": 3}
+{"count": 110, "name": "Galbraith plot", "weight": 0.0, "id": 60279393, "level": 3}
+{"count": 180, "name": "Newcastle\u2013Ottawa scale", "weight": 0.0, "id": 202351980, "level": 3}
+{"count": 611, "name": "Q-statistic", "weight": 1.0, "id": 134942579, "level": 3}
+{"count": 108, "name": "Signed differential mapping", "weight": 0.0, "id": 26533602, "level": 3}
+{"count": 602, "name": "Study heterogeneity", "weight": 1.0, "id": 119423318, "level": 3}
+{"count": 150, "name": "Inverse-variance weighting", "weight": 0.0, "id": 2778944087, "level": 3}

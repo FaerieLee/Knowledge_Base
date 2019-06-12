@@ -1,0 +1,5 @@
+{"count": 1349, "name": "Biotelemetry", "weight": 10.0, "id": 192278026, "level": 3}
+{"count": 1121, "name": "Telemeter", "weight": 8.0, "id": 24517339, "level": 3}
+{"count": 608, "name": "Telecommand", "weight": 4.0, "id": 2775866887, "level": 3}
+{"count": 848, "name": "Portable telemetry", "weight": 6.0, "id": 105671743, "level": 3}
+{"count": 5, "name": "XML Telemetric and Command Exchange", "weight": 0.0, "id": 2781323030, "level": 3}

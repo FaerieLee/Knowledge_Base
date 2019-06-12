@@ -1,0 +1,5 @@
+{"count": 964, "name": "ChIP-on-chip", "weight": 5.0, "id": 191608507, "level": 5}
+{"count": 1735, "name": "ChIP-sequencing", "weight": 10.0, "id": 176619506, "level": 5}
+{"count": 35, "name": "FAIRE-Seq", "weight": 0.0, "id": 84945105, "level": 5}
+{"count": 866, "name": "Bivalent chromatin", "weight": 5.0, "id": 137338518, "level": 5}
+{"count": 115, "name": "ChIP-exo", "weight": 0.0, "id": 110640306, "level": 5}

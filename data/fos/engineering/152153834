@@ -1,0 +1,15 @@
+{"count": 3198, "name": "Hidden node problem", "weight": 1.0, "id": 156738730, "level": 4}
+{"count": 10948, "name": "Base transceiver station", "weight": 4.0, "id": 116593020, "level": 4}
+{"count": 4213, "name": "Service set", "weight": 1.0, "id": 31910662, "level": 4}
+{"count": 4496, "name": "Wired communication", "weight": 1.0, "id": 136708747, "level": 4}
+{"count": 23143, "name": "Wireless WAN", "weight": 10.0, "id": 87379069, "level": 4}
+{"count": 2527, "name": "Wireless access point", "weight": 1.0, "id": 2780909510, "level": 4}
+{"count": 1829, "name": "Wireless router", "weight": 0.0, "id": 2780616939, "level": 4}
+{"count": 19308, "name": "Fixed wireless", "weight": 8.0, "id": 58074150, "level": 4}
+{"count": 554, "name": "Wireless gateway", "weight": 0.0, "id": 2776745980, "level": 4}
+{"count": 50, "name": "Long-range Wi-Fi", "weight": 0.0, "id": 2174479, "level": 4}
+{"count": 485, "name": "Wireless repeater", "weight": 0.0, "id": 2780039793, "level": 4}
+{"count": 4950, "name": "Inter-Access Point Protocol", "weight": 2.0, "id": 84035377, "level": 4}
+{"count": 34, "name": "Wireless Gigabit Alliance", "weight": 0.0, "id": 2777461622, "level": 4}
+{"count": 2718, "name": "Multiple Access with Collision Avoidance for Wireless", "weight": 1.0, "id": 156643399, "level": 4}
+{"count": 4456, "name": "NeuRFon", "weight": 1.0, "id": 161691276, "level": 4}

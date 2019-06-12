@@ -1,0 +1,7 @@
+{"count": 1401, "name": "Quantum Fourier transform", "weight": 10.0, "id": 59500034, "level": 4}
+{"count": 477, "name": "Grover's algorithm", "weight": 3.0, "id": 39977646, "level": 4}
+{"count": 136, "name": "Deutsch\u2013Jozsa algorithm", "weight": 0.0, "id": 35221674, "level": 4}
+{"count": 64, "name": "Continuous-time quantum walk", "weight": 0.0, "id": 2779419628, "level": 4}
+{"count": 299, "name": "Time-evolving block decimation", "weight": 2.0, "id": 174371627, "level": 4}
+{"count": 186, "name": "Simon's problem", "weight": 1.0, "id": 39084254, "level": 4}
+{"count": 1140, "name": "Quantum algorithm for linear systems of equations", "weight": 8.0, "id": 101471828, "level": 4}

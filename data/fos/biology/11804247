@@ -1,0 +1,6 @@
+{"count": 163, "name": "Human Protein Reference Database", "weight": 3.0, "id": 2781161767, "level": 3}
+{"count": 286, "name": "Human interactome", "weight": 5.0, "id": 2779743229, "level": 3}
+{"count": 520, "name": "Protein\u2013protein interaction prediction", "weight": 10.0, "id": 69610006, "level": 3}
+{"count": 11, "name": "Protein\u2013protein interaction screening", "weight": 0.0, "id": 2777326501, "level": 3}
+{"count": 23, "name": "3did", "weight": 0.0, "id": 2778931690, "level": 3}
+{"count": 17, "name": "Critical Assessment of Prediction of Interactions", "weight": 0.0, "id": 2779140721, "level": 3}

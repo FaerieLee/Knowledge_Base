@@ -1,0 +1,65 @@
+{"count": 18743, "name": "Spectral resolution", "weight": 10.0, "id": 124967146, "level": 3}
+{"count": 8363, "name": "Equivalent width", "weight": 4.0, "id": 169791425, "level": 3}
+{"count": 7095, "name": "Stellar atmosphere", "weight": 3.0, "id": 101638190, "level": 3}
+{"count": 6684, "name": "Astronomical spectroscopy", "weight": 3.0, "id": 131432281, "level": 3}
+{"count": 6144, "name": "Balmer series", "weight": 3.0, "id": 173220165, "level": 3}
+{"count": 6033, "name": "Spectral index", "weight": 3.0, "id": 42061751, "level": 3}
+{"count": 5829, "name": "Supergiant", "weight": 3.0, "id": 198785896, "level": 3}
+{"count": 4048, "name": "Vibronic spectroscopy", "weight": 2.0, "id": 182498248, "level": 3}
+{"count": 4431, "name": "Effective temperature", "weight": 2.0, "id": 13565188, "level": 3}
+{"count": 8327, "name": "Doppler broadening", "weight": 4.0, "id": 62103226, "level": 3}
+{"count": 1007, "name": "Space Telescope Imaging Spectrograph", "weight": 0.0, "id": 2780250205, "level": 3}
+{"count": 2111, "name": "Fermi resonance", "weight": 1.0, "id": 2776565987, "level": 3}
+{"count": 7193, "name": "Stellar classification", "weight": 3.0, "id": 180690934, "level": 3}
+{"count": 729, "name": "Late-type star", "weight": 0.0, "id": 2777371749, "level": 3}
+{"count": 738, "name": "Diffuse interstellar band", "weight": 0.0, "id": 79514266, "level": 3}
+{"count": 635, "name": "Faint Object Spectrograph", "weight": 0.0, "id": 2781341254, "level": 3}
+{"count": 1767, "name": "Spectral shape analysis", "weight": 0.0, "id": 152822103, "level": 3}
+{"count": 15480, "name": "Spectrograph", "weight": 8.0, "id": 2778861254, "level": 3}
+{"count": 247, "name": "Chemically peculiar star", "weight": 0.0, "id": 2780006096, "level": 3}
+{"count": 786, "name": "Raman optical activity", "weight": 0.0, "id": 2777634753, "level": 3}
+{"count": 1053, "name": "HITRAN", "weight": 0.0, "id": 2776032251, "level": 3}
+{"count": 3510, "name": "Hot band", "weight": 1.0, "id": 57061188, "level": 3}
+{"count": 571, "name": "K-line", "weight": 0.0, "id": 2779295263, "level": 3}
+{"count": 794, "name": "Forbidden mechanism", "weight": 0.0, "id": 31406616, "level": 3}
+{"count": 4068, "name": "Isotopomers", "weight": 2.0, "id": 127124265, "level": 3}
+{"count": 255, "name": "Hopkins Ultraviolet Telescope", "weight": 0.0, "id": 2781362884, "level": 3}
+{"count": 692, "name": "Fraunhofer lines", "weight": 0.0, "id": 14164350, "level": 3}
+{"count": 962, "name": "Voigt profile", "weight": 0.0, "id": 47553751, "level": 3}
+{"count": 104, "name": "Ring spectrum", "weight": 0.0, "id": 2781109694, "level": 3}
+{"count": 742, "name": "Transverse mass", "weight": 0.0, "id": 157773166, "level": 3}
+{"count": 1274, "name": "Excitation temperature", "weight": 0.0, "id": 2780837039, "level": 3}
+{"count": 4538, "name": "Photoluminescence excitation", "weight": 2.0, "id": 159242009, "level": 3}
+{"count": 1390, "name": "Spectral slope", "weight": 0.0, "id": 2776845940, "level": 3}
+{"count": 902, "name": "Spectral line shape", "weight": 0.0, "id": 204787275, "level": 3}
+{"count": 1346, "name": "Hydrogen line", "weight": 0.0, "id": 164918935, "level": 3}
+{"count": 3219, "name": "Overtone", "weight": 1.0, "id": 38615331, "level": 3}
+{"count": 1099, "name": "Isotopic shift", "weight": 0.0, "id": 52003146, "level": 3}
+{"count": 2476, "name": "Isotopologue", "weight": 1.0, "id": 13934619, "level": 3}
+{"count": 736, "name": "LAMOST", "weight": 0.0, "id": 2778139282, "level": 3}
+{"count": 131, "name": "Coster\u2013Kronig transition", "weight": 0.0, "id": 2781205861, "level": 3}
+{"count": 751, "name": "Symbiotic star", "weight": 0.0, "id": 2780725113, "level": 3}
+{"count": 234, "name": "Am star", "weight": 0.0, "id": 2776967040, "level": 3}
+{"count": 30, "name": "SN 1972E", "weight": 0.0, "id": 2778254463, "level": 3}
+{"count": 345, "name": "Isomeric shift", "weight": 0.0, "id": 71167089, "level": 3}
+{"count": 2418, "name": "Doubly ionized oxygen", "weight": 1.0, "id": 26141928, "level": 3}
+{"count": 236, "name": "Polyad", "weight": 0.0, "id": 2778816083, "level": 3}
+{"count": 444, "name": "Lyman series", "weight": 0.0, "id": 129883227, "level": 3}
+{"count": 253, "name": "Model spectrum", "weight": 0.0, "id": 2780688951, "level": 3}
+{"count": 79, "name": "U Scorpii", "weight": 0.0, "id": 2776857217, "level": 3}
+{"count": 180, "name": "Racah parameter", "weight": 0.0, "id": 2778276516, "level": 3}
+{"count": 85, "name": "Isotropic line", "weight": 0.0, "id": 2776290486, "level": 3}
+{"count": 41, "name": "Rydberg\u2013Ritz combination principle", "weight": 0.0, "id": 154777888, "level": 3}
+{"count": 84, "name": "Pake doublet", "weight": 0.0, "id": 2777431244, "level": 3}
+{"count": 253, "name": "Spectral atlas", "weight": 0.0, "id": 2776994050, "level": 3}
+{"count": 583, "name": "K-alpha", "weight": 0.0, "id": 13568960, "level": 3}
+{"count": 477, "name": "Amagat", "weight": 0.0, "id": 197013669, "level": 3}
+{"count": 261, "name": "Iron peak", "weight": 0.0, "id": 2780378193, "level": 3}
+{"count": 118, "name": "Gaussian broadening", "weight": 0.0, "id": 2781044631, "level": 3}
+{"count": 19, "name": "McCumber relation", "weight": 0.0, "id": 66432955, "level": 3}
+{"count": 41, "name": "Sharp series", "weight": 0.0, "id": 2781380140, "level": 3}
+{"count": 25, "name": "Chloryl fluoride", "weight": 0.0, "id": 2777453651, "level": 3}
+{"count": 875, "name": "Pair-instability supernova", "weight": 0.0, "id": 85107622, "level": 3}
+{"count": 47, "name": "Birmingham Solar Oscillations Network", "weight": 0.0, "id": 2779510150, "level": 3}
+{"count": 30, "name": "Kilosecond", "weight": 0.0, "id": 66757839, "level": 3}
+{"count": 44, "name": "Spectral line ratios", "weight": 0.0, "id": 2779950543, "level": 3}

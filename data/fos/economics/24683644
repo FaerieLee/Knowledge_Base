@@ -1,0 +1,9 @@
+{"count": 304, "name": "Short-term trading", "weight": 1.0, "id": 2781313594, "level": 5}
+{"count": 1520, "name": "Dark liquidity", "weight": 9.0, "id": 11906137, "level": 5}
+{"count": 279, "name": "Swing trading", "weight": 1.0, "id": 2778957530, "level": 5}
+{"count": 233, "name": "Flash crash", "weight": 1.0, "id": 2780956978, "level": 5}
+{"count": 377, "name": "Day trading", "weight": 2.0, "id": 2780245254, "level": 5}
+{"count": 45, "name": "Regulation NMS", "weight": 0.0, "id": 2777410747, "level": 5}
+{"count": 68, "name": "Low latency (capital markets)", "weight": 0.0, "id": 46637626, "level": 5}
+{"count": 14, "name": "Quote stuffing", "weight": 0.0, "id": 2777740763, "level": 5}
+{"count": 1590, "name": "Trading turret", "weight": 10.0, "id": 65972490, "level": 5}

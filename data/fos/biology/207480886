@@ -1,0 +1,30 @@
+{"count": 29311, "name": "Allergen", "weight": 10.0, "id": 2780510475, "level": 3}
+{"count": 15374, "name": "Atopy", "weight": 5.0, "id": 2777697326, "level": 3}
+{"count": 14040, "name": "Contact dermatitis", "weight": 4.0, "id": 2778091633, "level": 3}
+{"count": 19225, "name": "Anaphylaxis", "weight": 6.0, "id": 2775933838, "level": 3}
+{"count": 13785, "name": "Food allergy", "weight": 4.0, "id": 2776027960, "level": 3}
+{"count": 9642, "name": "Allergic contact dermatitis", "weight": 3.0, "id": 2776056826, "level": 3}
+{"count": 3491, "name": "Occupational asthma", "weight": 1.0, "id": 2778781276, "level": 3}
+{"count": 1852, "name": "Food intolerance", "weight": 0.0, "id": 2777903966, "level": 3}
+{"count": 3929, "name": "Hay fever", "weight": 1.0, "id": 2777917907, "level": 3}
+{"count": 2375, "name": "Drug allergy", "weight": 0.0, "id": 2779060952, "level": 3}
+{"count": 5277, "name": "Allergic inflammation", "weight": 1.0, "id": 2779675166, "level": 3}
+{"count": 2635, "name": "Allergic conjunctivitis", "weight": 0.0, "id": 2780870513, "level": 3}
+{"count": 1607, "name": "Hygiene hypothesis", "weight": 0.0, "id": 78635009, "level": 3}
+{"count": 1847, "name": "Latex allergy", "weight": 0.0, "id": 2780731369, "level": 3}
+{"count": 4592, "name": "Intoxicative inhalant", "weight": 1.0, "id": 131140426, "level": 3}
+{"count": 1321, "name": "Hand eczema", "weight": 0.0, "id": 2781418243, "level": 3}
+{"count": 885, "name": "Vernal keratoconjunctivitis", "weight": 0.0, "id": 2776469317, "level": 3}
+{"count": 82, "name": "Cromoglicic acid", "weight": 0.0, "id": 2777519816, "level": 3}
+{"count": 540, "name": "Nonallergic rhinitis", "weight": 0.0, "id": 2778160538, "level": 3}
+{"count": 294, "name": "Parietaria", "weight": 0.0, "id": 2777465220, "level": 3}
+{"count": 501, "name": "Pollen count", "weight": 0.0, "id": 2778700634, "level": 3}
+{"count": 1455, "name": "Hypoallergenic", "weight": 0.0, "id": 2780717550, "level": 3}
+{"count": 133, "name": "Lodoxamide", "weight": 0.0, "id": 2781033767, "level": 3}
+{"count": 114, "name": "Pseudoallergy", "weight": 0.0, "id": 2779291749, "level": 3}
+{"count": 360, "name": "Allergy test", "weight": 0.0, "id": 2776454104, "level": 3}
+{"count": 96, "name": "Flea allergy dermatitis", "weight": 0.0, "id": 2780135037, "level": 3}
+{"count": 264, "name": "Type IV hypersensitivity", "weight": 0.0, "id": 2776167774, "level": 3}
+{"count": 20, "name": "Pramocaine", "weight": 0.0, "id": 2778534511, "level": 3}
+{"count": 15, "name": "Enzyme potentiated desensitization", "weight": 0.0, "id": 2776174089, "level": 3}
+{"count": 12, "name": "Allergic salute", "weight": 0.0, "id": 2778592781, "level": 3}

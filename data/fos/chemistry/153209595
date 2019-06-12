@@ -1,0 +1,68 @@
+{"count": 28571, "name": "Genome-wide association study", "weight": 10.0, "id": 106208931, "level": 4}
+{"count": 19950, "name": "Linkage disequilibrium", "weight": 6.0, "id": 35605836, "level": 4}
+{"count": 27813, "name": "Genetic association", "weight": 9.0, "id": 186413461, "level": 4}
+{"count": 5052, "name": "SNP", "weight": 1.0, "id": 139275648, "level": 4}
+{"count": 695, "name": "Multifactor dimensionality reduction", "weight": 0.0, "id": 25249476, "level": 4}
+{"count": 747, "name": "FTO gene", "weight": 0.0, "id": 2780428817, "level": 4}
+{"count": 4286, "name": "SNP array", "weight": 1.0, "id": 122060243, "level": 4}
+{"count": 3971, "name": "Nonsynonymous substitution", "weight": 1.0, "id": 149904235, "level": 4}
+{"count": 903, "name": "Single-base extension", "weight": 0.0, "id": 91478977, "level": 4}
+{"count": 1150, "name": "PTPN22", "weight": 0.0, "id": 2779356809, "level": 4}
+{"count": 1839, "name": "TCF7L2", "weight": 0.0, "id": 39263347, "level": 4}
+{"count": 4808, "name": "SNP genotyping", "weight": 1.0, "id": 163691529, "level": 4}
+{"count": 283, "name": "ADAM33", "weight": 0.0, "id": 2777659048, "level": 4}
+{"count": 179, "name": "CYP4F2", "weight": 0.0, "id": 2776595318, "level": 4}
+{"count": 73, "name": "GABRA2", "weight": 0.0, "id": 2777563678, "level": 4}
+{"count": 1414, "name": "dbSNP", "weight": 0.0, "id": 35794970, "level": 4}
+{"count": 202, "name": "ANKK1", "weight": 0.0, "id": 2781116522, "level": 4}
+{"count": 423, "name": "TNFAIP3", "weight": 0.0, "id": 2779223816, "level": 4}
+{"count": 236, "name": "SLC22A5", "weight": 0.0, "id": 2779975750, "level": 4}
+{"count": 228, "name": "Interleukin-23 receptor", "weight": 0.0, "id": 12188311, "level": 4}
+{"count": 209, "name": "SORL1", "weight": 0.0, "id": 2778578986, "level": 4}
+{"count": 293, "name": "Runs of Homozygosity", "weight": 0.0, "id": 2776116246, "level": 4}
+{"count": 118, "name": "GRIK2", "weight": 0.0, "id": 2779078134, "level": 4}
+{"count": 260, "name": "MTHFD1", "weight": 0.0, "id": 2779013074, "level": 4}
+{"count": 222, "name": "IL1RL1", "weight": 0.0, "id": 23259582, "level": 4}
+{"count": 64, "name": "FCGR3A", "weight": 0.0, "id": 2776618974, "level": 4}
+{"count": 201, "name": "OLR1", "weight": 0.0, "id": 2780796266, "level": 4}
+{"count": 719, "name": "Lung cancer susceptibility", "weight": 0.0, "id": 2779372377, "level": 4}
+{"count": 112, "name": "ATP2B1", "weight": 0.0, "id": 2777218811, "level": 4}
+{"count": 404, "name": "rs6265", "weight": 0.0, "id": 2778163459, "level": 4}
+{"count": 137, "name": "HBG2", "weight": 0.0, "id": 2779940082, "level": 4}
+{"count": 91, "name": "FCGR2A", "weight": 0.0, "id": 2778532791, "level": 4}
+{"count": 105, "name": "HTR3B", "weight": 0.0, "id": 2777175794, "level": 4}
+{"count": 128, "name": "ALOX12", "weight": 0.0, "id": 2777463237, "level": 4}
+{"count": 85, "name": "PSMA6", "weight": 0.0, "id": 2776812823, "level": 4}
+{"count": 96, "name": "FCER1A", "weight": 0.0, "id": 2776988797, "level": 4}
+{"count": 84, "name": "Melatonin receptor 1B", "weight": 0.0, "id": 2777471605, "level": 4}
+{"count": 434, "name": "rs4680", "weight": 0.0, "id": 2778524067, "level": 4}
+{"count": 62, "name": "GABRA4", "weight": 0.0, "id": 2776985218, "level": 4}
+{"count": 47, "name": "TPCN2", "weight": 0.0, "id": 2778029154, "level": 4}
+{"count": 76, "name": "GABRA6", "weight": 0.0, "id": 2779146471, "level": 4}
+{"count": 29, "name": "CHRNA10", "weight": 0.0, "id": 2778898621, "level": 4}
+{"count": 49, "name": "Neuregulin 3", "weight": 0.0, "id": 2780653048, "level": 4}
+{"count": 115, "name": "CEBPE", "weight": 0.0, "id": 2780564954, "level": 4}
+{"count": 109, "name": "IL2RB", "weight": 0.0, "id": 2780744705, "level": 4}
+{"count": 30, "name": "ACYP2", "weight": 0.0, "id": 2779493970, "level": 4}
+{"count": 46, "name": "GRIN3A", "weight": 0.0, "id": 2776753366, "level": 4}
+{"count": 112, "name": "rs6311", "weight": 0.0, "id": 2779291823, "level": 4}
+{"count": 210, "name": "IL12A", "weight": 0.0, "id": 2781099223, "level": 4}
+{"count": 24, "name": "P2RY2", "weight": 0.0, "id": 2781217727, "level": 4}
+{"count": 60, "name": "SORBS1", "weight": 0.0, "id": 2781463439, "level": 4}
+{"count": 48, "name": "MS4A2", "weight": 0.0, "id": 2777505961, "level": 4}
+{"count": 40, "name": "ALPK1", "weight": 0.0, "id": 2778574004, "level": 4}
+{"count": 14, "name": "Transition nuclear protein", "weight": 0.0, "id": 2779585917, "level": 4}
+{"count": 17, "name": "APBB2", "weight": 0.0, "id": 2781092678, "level": 4}
+{"count": 63, "name": "CHRNA6", "weight": 0.0, "id": 2775906534, "level": 4}
+{"count": 33, "name": "ABCA13", "weight": 0.0, "id": 2777978080, "level": 4}
+{"count": 22, "name": "RPS6KB2", "weight": 0.0, "id": 2780307390, "level": 4}
+{"count": 12, "name": "PupaSuite", "weight": 0.0, "id": 2776825599, "level": 4}
+{"count": 36, "name": "CCHCR1", "weight": 0.0, "id": 2778409483, "level": 4}
+{"count": 109, "name": "Rs6313", "weight": 0.0, "id": 2777867762, "level": 4}
+{"count": 30, "name": "MYPN", "weight": 0.0, "id": 2779354762, "level": 4}
+{"count": 34, "name": "TAAR6", "weight": 0.0, "id": 2776582916, "level": 4}
+{"count": 15, "name": "Rare functional variant", "weight": 0.0, "id": 2780382133, "level": 4}
+{"count": 34, "name": "PSMA4", "weight": 0.0, "id": 2779865826, "level": 4}
+{"count": 20, "name": "TEAD3", "weight": 0.0, "id": 2780458251, "level": 4}
+{"count": 24, "name": "ICAM4", "weight": 0.0, "id": 2776667740, "level": 4}
+{"count": 22, "name": "NT5C3", "weight": 0.0, "id": 2777137809, "level": 4}

@@ -1,0 +1,16 @@
+{"count": 3306, "name": "Normal pressure hydrocephalus", "weight": 10.0, "id": 2781389367, "level": 3}
+{"count": 1775, "name": "Ventriculostomy", "weight": 5.0, "id": 2778604727, "level": 3}
+{"count": 1464, "name": "Endoscopic third ventriculostomy", "weight": 4.0, "id": 2779184262, "level": 3}
+{"count": 773, "name": "Colloid cyst", "weight": 2.0, "id": 2779296933, "level": 3}
+{"count": 1172, "name": "Ventriculitis", "weight": 3.0, "id": 2779862588, "level": 3}
+{"count": 794, "name": "Aqueductal stenosis", "weight": 2.0, "id": 2777861590, "level": 3}
+{"count": 490, "name": "Cerebral aqueduct", "weight": 1.0, "id": 2776820357, "level": 3}
+{"count": 2354, "name": "Ventriculomegaly", "weight": 7.0, "id": 2776212519, "level": 3}
+{"count": 477, "name": "Dandy\u2013Walker syndrome", "weight": 1.0, "id": 2778831302, "level": 3}
+{"count": 612, "name": "External ventricular drain", "weight": 1.0, "id": 2778863898, "level": 3}
+{"count": 2045, "name": "Ventricular system", "weight": 6.0, "id": 2781223406, "level": 3}
+{"count": 66, "name": "Hydrolethalus syndrome", "weight": 0.0, "id": 2778631674, "level": 3}
+{"count": 276, "name": "Cerebrospinal fluid diversion", "weight": 0.0, "id": 2780460860, "level": 3}
+{"count": 77, "name": "Low pressure hydrocephalus", "weight": 0.0, "id": 2778311132, "level": 3}
+{"count": 26, "name": "Lumbar\u2013peritoneal shunt", "weight": 0.0, "id": 2778739850, "level": 3}
+{"count": 27, "name": "Interventricular foramina", "weight": 0.0, "id": 2778840493, "level": 3}

@@ -1,0 +1,74 @@
+{"count": 23569, "name": "Risk perception", "weight": 10.0, "id": 163355716, "level": 2}
+{"count": 21672, "name": "Anchoring", "weight": 9.0, "id": 18483071, "level": 2}
+{"count": 4868, "name": "Philosophy of mind", "weight": 2.0, "id": 24726157, "level": 2}
+{"count": 6831, "name": "Functionalism (philosophy of mind)", "weight": 2.0, "id": 43252294, "level": 2}
+{"count": 4183, "name": "Overconfidence effect", "weight": 1.0, "id": 51110983, "level": 2}
+{"count": 1379, "name": "Atmospherics", "weight": 0.0, "id": 2779697222, "level": 2}
+{"count": 1816, "name": "Folk psychology", "weight": 0.0, "id": 128482177, "level": 2}
+{"count": 2359, "name": "Externalism", "weight": 1.0, "id": 159977948, "level": 2}
+{"count": 973, "name": "Sense of direction", "weight": 0.0, "id": 2776947765, "level": 2}
+{"count": 1321, "name": "Number sense", "weight": 0.0, "id": 173600914, "level": 2}
+{"count": 748, "name": "Eliminative materialism", "weight": 0.0, "id": 39045501, "level": 2}
+{"count": 229, "name": "Gopnik", "weight": 0.0, "id": 2780612909, "level": 2}
+{"count": 392, "name": "Availability heuristic", "weight": 0.0, "id": 186150311, "level": 2}
+{"count": 651, "name": "Debiasing", "weight": 0.0, "id": 2779458634, "level": 2}
+{"count": 1288, "name": "Mentalism (psychology)", "weight": 0.0, "id": 22060866, "level": 2}
+{"count": 732, "name": "Emergentism", "weight": 0.0, "id": 135924530, "level": 2}
+{"count": 11601, "name": "Personal experience", "weight": 4.0, "id": 41831101, "level": 2}
+{"count": 333, "name": "Biolinguistics", "weight": 0.0, "id": 35511919, "level": 2}
+{"count": 212, "name": "Mental event", "weight": 0.0, "id": 2779166344, "level": 2}
+{"count": 539, "name": "Melioration theory", "weight": 0.0, "id": 22089603, "level": 2}
+{"count": 42, "name": "Duration neglect", "weight": 0.0, "id": 2779075243, "level": 2}
+{"count": 339, "name": "Chinese room", "weight": 0.0, "id": 2777421509, "level": 2}
+{"count": 460, "name": "Integrative neuroscience", "weight": 0.0, "id": 32562604, "level": 2}
+{"count": 161, "name": "Faculty psychology", "weight": 0.0, "id": 2779123455, "level": 2}
+{"count": 593, "name": "Degustation", "weight": 0.0, "id": 2781022858, "level": 2}
+{"count": 234, "name": "Private language argument", "weight": 0.0, "id": 2777963100, "level": 2}
+{"count": 186, "name": "Problem of other minds", "weight": 0.0, "id": 2777110924, "level": 2}
+{"count": 395, "name": "Elicitation technique", "weight": 0.0, "id": 2778550719, "level": 2}
+{"count": 1, "name": "Ti\u00e3o", "weight": 0.0, "id": 2780739714, "level": 2}
+{"count": 547, "name": "Copycat", "weight": 0.0, "id": 130191384, "level": 2}
+{"count": 40, "name": "Human\u2013animal communication", "weight": 0.0, "id": 2779769539, "level": 2}
+{"count": 92, "name": "Methodological solipsism", "weight": 0.0, "id": 2777805798, "level": 2}
+{"count": 324, "name": "Litigation strategy", "weight": 0.0, "id": 2777305114, "level": 2}
+{"count": 57, "name": "Plato's Problem", "weight": 0.0, "id": 2776175851, "level": 2}
+{"count": 701, "name": "Limen", "weight": 0.0, "id": 102629751, "level": 2}
+{"count": 66, "name": "Psychophysical parallelism", "weight": 0.0, "id": 2776105995, "level": 2}
+{"count": 135, "name": "Transformation design", "weight": 0.0, "id": 2777699114, "level": 2}
+{"count": 77, "name": "Curse of knowledge", "weight": 0.0, "id": 2781381119, "level": 2}
+{"count": 49, "name": "Neuropsychophysiology", "weight": 0.0, "id": 2775931170, "level": 2}
+{"count": 200, "name": "Decision cycle", "weight": 0.0, "id": 2776053346, "level": 2}
+{"count": 50, "name": "Swampman", "weight": 0.0, "id": 2777822361, "level": 2}
+{"count": 312, "name": "Ghost in the machine", "weight": 0.0, "id": 2779281934, "level": 2}
+{"count": 223, "name": "Mind games", "weight": 0.0, "id": 2779427200, "level": 2}
+{"count": 30, "name": "Cognitive geography", "weight": 0.0, "id": 2777194108, "level": 2}
+{"count": 13, "name": "Familiarity heuristic", "weight": 0.0, "id": 2780027822, "level": 2}
+{"count": 3, "name": "Subgoal labeling", "weight": 0.0, "id": 2778237823, "level": 2}
+{"count": 66, "name": "Mind machine", "weight": 0.0, "id": 21899576, "level": 2}
+{"count": 4, "name": "Computational-representational understanding of mind", "weight": 0.0, "id": 2780467097, "level": 2}
+{"count": 2, "name": "Indiana Archives of Cognitive Science", "weight": 0.0, "id": 2779417135, "level": 2}
+{"count": 4, "name": "Primacy of mind", "weight": 0.0, "id": 2780680706, "level": 2}
+{"count": 5, "name": "Scarcity heuristic", "weight": 0.0, "id": 2779297595, "level": 2}
+{"count": 7, "name": "Kharkov school of psychology", "weight": 0.0, "id": 2780290538, "level": 2}
+{"count": 6, "name": "Thought identification", "weight": 0.0, "id": 34391929, "level": 2}
+{"count": 4, "name": "Korte's law", "weight": 0.0, "id": 44155451, "level": 2}
+{"count": 7, "name": "Flashed Face Distortion Effect", "weight": 0.0, "id": 2778528195, "level": 2}
+{"count": 328, "name": "Mind over matter", "weight": 0.0, "id": 2776300987, "level": 2}
+{"count": 11, "name": "Thatcher effect", "weight": 0.0, "id": 2775850777, "level": 2}
+{"count": 8, "name": "Availability cascade", "weight": 0.0, "id": 2777091963, "level": 2}
+{"count": 5, "name": "Navon figure", "weight": 0.0, "id": 2780246989, "level": 2}
+{"count": 9, "name": "Dog intelligence", "weight": 0.0, "id": 106992644, "level": 2}
+{"count": 4, "name": "Cetacean intelligence", "weight": 0.0, "id": 2777604225, "level": 2}
+{"count": 4, "name": "Ryle's regress", "weight": 0.0, "id": 2780032753, "level": 2}
+{"count": 2, "name": "Heuristics in judgment and decision-making", "weight": 0.0, "id": 2777759057, "level": 2}
+{"count": 18, "name": "Android epistemology", "weight": 0.0, "id": 2776782905, "level": 2}
+{"count": 14, "name": "Anecdotal value", "weight": 0.0, "id": 2779555571, "level": 2}
+{"count": 3, "name": "Bird intelligence", "weight": 0.0, "id": 70072173, "level": 2}
+{"count": 1, "name": "Infinity Walk", "weight": 0.0, "id": 2777500285, "level": 2}
+{"count": 13, "name": "Talking bird", "weight": 0.0, "id": 2776065667, "level": 2}
+{"count": 13, "name": "Hiapo", "weight": 0.0, "id": 2777523189, "level": 2}
+{"count": 2, "name": "Bongard problem", "weight": 0.0, "id": 2778090737, "level": 2}
+{"count": 1, "name": "Theory of mind in animals", "weight": 0.0, "id": 2781072827, "level": 2}
+{"count": 2, "name": "Personoid", "weight": 0.0, "id": 2780044931, "level": 2}
+{"count": 4, "name": "Nonprimary motor cortex", "weight": 0.0, "id": 2780257603, "level": 2}
+{"count": 14, "name": "Physics of Life Reviews", "weight": 0.0, "id": 2780218621, "level": 2}

@@ -1,0 +1,5 @@
+{"count": 5599, "name": "Histogram matching", "weight": 9.0, "id": 127449775, "level": 5}
+{"count": 5728, "name": "Image histogram", "weight": 10.0, "id": 62725073, "level": 5}
+{"count": 4024, "name": "Adaptive histogram equalization", "weight": 7.0, "id": 30387639, "level": 5}
+{"count": 21, "name": "Geo warping", "weight": 0.0, "id": 206642101, "level": 5}
+{"count": 3623, "name": "Balanced histogram thresholding", "weight": 6.0, "id": 202577368, "level": 5}

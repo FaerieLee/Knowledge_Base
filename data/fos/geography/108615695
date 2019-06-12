@@ -1,0 +1,23 @@
+{"count": 7516, "name": "Underground mining (hard rock)", "weight": 10.0, "id": 126297098, "level": 4}
+{"count": 4590, "name": "Surface mining", "weight": 6.0, "id": 516820309, "level": 4}
+{"count": 4808, "name": "Coalbed methane", "weight": 6.0, "id": 2776469828, "level": 4}
+{"count": 3018, "name": "Longwall mining", "weight": 4.0, "id": 130446744, "level": 4}
+{"count": 2056, "name": "Rock burst", "weight": 2.0, "id": 2781130035, "level": 4}
+{"count": 2486, "name": "Mine safety", "weight": 3.0, "id": 2779141794, "level": 4}
+{"count": 2886, "name": "Groundwater-related subsidence", "weight": 3.0, "id": 46814834, "level": 4}
+{"count": 1630, "name": "Underground coal gasification", "weight": 2.0, "id": 2778601115, "level": 4}
+{"count": 1359, "name": "Dragline excavator", "weight": 1.0, "id": 207485544, "level": 4}
+{"count": 203, "name": "Tonstein", "weight": 0.0, "id": 2775992458, "level": 4}
+{"count": 384, "name": "Hydraulic mining", "weight": 0.0, "id": 127200247, "level": 4}
+{"count": 433, "name": "Firedamp", "weight": 0.0, "id": 5907387, "level": 4}
+{"count": 43, "name": "Peak coal", "weight": 0.0, "id": 2778118556, "level": 4}
+{"count": 333, "name": "Stripping ratio", "weight": 0.0, "id": 22164496, "level": 4}
+{"count": 1096, "name": "Enhanced coal bed methane recovery", "weight": 1.0, "id": 58467406, "level": 4}
+{"count": 16, "name": "Coalworker's pneumoconiosis", "weight": 0.0, "id": 2778911001, "level": 4}
+{"count": 49, "name": "Coal pipeline", "weight": 0.0, "id": 2779541213, "level": 4}
+{"count": 38, "name": "Spoil tip", "weight": 0.0, "id": 2778054723, "level": 4}
+{"count": 32, "name": "Coal seam fire", "weight": 0.0, "id": 2780954945, "level": 4}
+{"count": 48, "name": "Slope mining", "weight": 0.0, "id": 2776294853, "level": 4}
+{"count": 994, "name": "Problems in coal mining", "weight": 1.0, "id": 28860762, "level": 4}
+{"count": 20, "name": "Seatearth", "weight": 0.0, "id": 2781292507, "level": 4}
+{"count": 45, "name": "Mining in India", "weight": 0.0, "id": 2778268879, "level": 4}

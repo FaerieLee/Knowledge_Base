@@ -1,0 +1,7 @@
+{"count": 1106, "name": "Lexical database", "weight": 10.0, "id": 2780403423, "level": 3}
+{"count": 164, "name": "Normalized Google distance", "weight": 1.0, "id": 41988192, "level": 3}
+{"count": 264, "name": "EuroWordNet", "weight": 2.0, "id": 2776139846, "level": 3}
+{"count": 19, "name": "Troponymy", "weight": 0.0, "id": 2778582995, "level": 3}
+{"count": 299, "name": "eXtended WordNet", "weight": 2.0, "id": 32206222, "level": 3}
+{"count": 24, "name": "IndoWordNet", "weight": 0.0, "id": 2777154642, "level": 3}
+{"count": 94, "name": "GermaNet", "weight": 0.0, "id": 2776988655, "level": 3}

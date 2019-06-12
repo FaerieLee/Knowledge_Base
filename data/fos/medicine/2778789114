@@ -1,0 +1,5 @@
+{"count": 2824, "name": "EuroSCORE", "weight": 10.0, "id": 2779040412, "level": 3}
+{"count": 819, "name": "Minimally invasive cardiac surgery", "weight": 2.0, "id": 2776511277, "level": 3}
+{"count": 292, "name": "Postpericardiotomy syndrome", "weight": 1.0, "id": 2777562514, "level": 3}
+{"count": 502, "name": "Aortic cross-clamp", "weight": 1.0, "id": 2776483784, "level": 3}
+{"count": 159, "name": "Vasoplegic syndrome", "weight": 0.0, "id": 2776367662, "level": 3}

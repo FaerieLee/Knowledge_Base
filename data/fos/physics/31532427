@@ -1,0 +1,32 @@
+{"count": 2685, "name": "Direct energy conversion", "weight": 3.0, "id": 530734308, "level": 4}
+{"count": 8631, "name": "Current sheet", "weight": 10.0, "id": 13966519, "level": 4}
+{"count": 4389, "name": "Dynamo theory", "weight": 5.0, "id": 105094362, "level": 4}
+{"count": 3707, "name": "Alfv\u00e9n wave", "weight": 4.0, "id": 2776906135, "level": 4}
+{"count": 4008, "name": "Reversed field pinch", "weight": 4.0, "id": 36704743, "level": 4}
+{"count": 326, "name": "Ballooning instability", "weight": 0.0, "id": 2781135223, "level": 4}
+{"count": 1420, "name": "Kink instability", "weight": 1.0, "id": 2779205237, "level": 4}
+{"count": 1404, "name": "Magnetohydrodynamic turbulence", "weight": 1.0, "id": 2781065038, "level": 4}
+{"count": 2519, "name": "Plasma stability", "weight": 2.0, "id": 33807043, "level": 4}
+{"count": 4001, "name": "Magnetic Reynolds number", "weight": 4.0, "id": 179407788, "level": 4}
+{"count": 1487, "name": "Bootstrap current", "weight": 1.0, "id": 2779766045, "level": 4}
+{"count": 1866, "name": "Hartmann number", "weight": 2.0, "id": 2777869274, "level": 4}
+{"count": 6970, "name": "Magnetohydrodynamic drive", "weight": 8.0, "id": 42471609, "level": 4}
+{"count": 3081, "name": "Magnetohydrodynamic generator", "weight": 3.0, "id": 47462728, "level": 4}
+{"count": 315, "name": "Grad\u2013Shafranov equation", "weight": 0.0, "id": 2776082076, "level": 4}
+{"count": 1408, "name": "Magnetorotational instability", "weight": 1.0, "id": 51841911, "level": 4}
+{"count": 1486, "name": "Magnetic helicity", "weight": 1.0, "id": 2781048686, "level": 4}
+{"count": 483, "name": "Induction equation", "weight": 0.0, "id": 2777106248, "level": 4}
+{"count": 998, "name": "Spheromak", "weight": 1.0, "id": 2779782575, "level": 4}
+{"count": 440, "name": "Magnetic diffusivity", "weight": 0.0, "id": 2780868250, "level": 4}
+{"count": 207, "name": "Coronal seismology", "weight": 0.0, "id": 2776788627, "level": 4}
+{"count": 237, "name": "Plasma shaping", "weight": 0.0, "id": 2781239251, "level": 4}
+{"count": 35, "name": "Magnetoelectrochemistry", "weight": 0.0, "id": 2778597090, "level": 4}
+{"count": 147, "name": "Firehose instability", "weight": 0.0, "id": 2779499754, "level": 4}
+{"count": 75, "name": "Spitzer resistivity", "weight": 0.0, "id": 2778533098, "level": 4}
+{"count": 268, "name": "Computational magnetohydrodynamics", "weight": 0.0, "id": 3358924, "level": 4}
+{"count": 122, "name": "Tokamak \u00e0 configuration variable", "weight": 0.0, "id": 2777119184, "level": 4}
+{"count": 62, "name": "Resistive ballooning mode", "weight": 0.0, "id": 2778978686, "level": 4}
+{"count": 61, "name": "Magnetic tension force", "weight": 0.0, "id": 2779288781, "level": 4}
+{"count": 374, "name": "Shocks and discontinuities", "weight": 0.0, "id": 40309751, "level": 4}
+{"count": 27, "name": "Numerical resistivity", "weight": 0.0, "id": 2779515587, "level": 4}
+{"count": 27, "name": "H-1NF", "weight": 0.0, "id": 2780182739, "level": 4}

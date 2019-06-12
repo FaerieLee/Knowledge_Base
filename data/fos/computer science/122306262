@@ -1,0 +1,6 @@
+{"count": 6106, "name": "Star network", "weight": 10.0, "id": 71976206, "level": 4}
+{"count": 668, "name": "Resilient Packet Ring", "weight": 1.0, "id": 167256223, "level": 4}
+{"count": 176, "name": "Self-healing ring", "weight": 0.0, "id": 2776009728, "level": 4}
+{"count": 3920, "name": "Node (circuits)", "weight": 6.0, "id": 92988658, "level": 4}
+{"count": 363, "name": "Ring protection", "weight": 0.0, "id": 2778944907, "level": 4}
+{"count": 24, "name": "Ring latency", "weight": 0.0, "id": 2780130949, "level": 4}

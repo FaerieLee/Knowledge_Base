@@ -1,0 +1,124 @@
+{"count": 36796, "name": "Kidney transplantation", "weight": 10.0, "id": 2780303639, "level": 4}
+{"count": 34838, "name": "Nephrectomy", "weight": 9.0, "id": 2780227381, "level": 4}
+{"count": 19421, "name": "Renal artery", "weight": 5.0, "id": 2776634560, "level": 4}
+{"count": 3822, "name": "Proximal tubule", "weight": 1.0, "id": 2780222010, "level": 4}
+{"count": 20820, "name": "Nephrotoxicity", "weight": 5.0, "id": 126189478, "level": 4}
+{"count": 9988, "name": "Renal biopsy", "weight": 2.0, "id": 2781087799, "level": 4}
+{"count": 12580, "name": "Renal blood flow", "weight": 3.0, "id": 142225936, "level": 4}
+{"count": 12156, "name": "Blood urea nitrogen", "weight": 3.0, "id": 2778176769, "level": 4}
+{"count": 5690, "name": "Polycystic kidney disease", "weight": 1.0, "id": 2780145431, "level": 4}
+{"count": 5007, "name": "Glomerular basement membrane", "weight": 1.0, "id": 2776115139, "level": 4}
+{"count": 13095, "name": "Hydronephrosis", "weight": 3.0, "id": 2781040948, "level": 4}
+{"count": 4356, "name": "Autosomal dominant polycystic kidney disease", "weight": 1.0, "id": 2776266639, "level": 4}
+{"count": 4909, "name": "Podocyte", "weight": 1.0, "id": 2777146197, "level": 4}
+{"count": 971, "name": "Tubulopathy", "weight": 0.0, "id": 2776356786, "level": 4}
+{"count": 4516, "name": "Pancreas transplantation", "weight": 1.0, "id": 2778064082, "level": 4}
+{"count": 5813, "name": "Natriuresis", "weight": 1.0, "id": 174459258, "level": 4}
+{"count": 6068, "name": "Renal cortex", "weight": 1.0, "id": 2778577996, "level": 4}
+{"count": 10373, "name": "Renal physiology", "weight": 2.0, "id": 161457703, "level": 4}
+{"count": 10896, "name": "Nephron", "weight": 2.0, "id": 2781231759, "level": 4}
+{"count": 5697, "name": "Glomerulosclerosis", "weight": 1.0, "id": 2777390665, "level": 4}
+{"count": 2491, "name": "Renal medulla", "weight": 0.0, "id": 2780512574, "level": 4}
+{"count": 3651, "name": "Acute tubular necrosis", "weight": 0.0, "id": 2777350860, "level": 4}
+{"count": 7477, "name": "Tubule", "weight": 2.0, "id": 2780498532, "level": 4}
+{"count": 4158, "name": "Interstitial nephritis", "weight": 1.0, "id": 2780888721, "level": 4}
+{"count": 10395, "name": "Reabsorption", "weight": 2.0, "id": 56906281, "level": 4}
+{"count": 6997, "name": "Renal pelvis", "weight": 1.0, "id": 2777521186, "level": 4}
+{"count": 4210, "name": "Angiomyolipoma", "weight": 1.0, "id": 2779052135, "level": 4}
+{"count": 2660, "name": "Nephrocalcinosis", "weight": 0.0, "id": 2781145721, "level": 4}
+{"count": 5865, "name": "Renal vein", "weight": 1.0, "id": 2779774813, "level": 4}
+{"count": 1603, "name": "Aquaporin 2", "weight": 0.0, "id": 85562759, "level": 4}
+{"count": 1255, "name": "Tamm\u2013Horsfall protein", "weight": 0.0, "id": 74460091, "level": 4}
+{"count": 1195, "name": "Macula densa", "weight": 0.0, "id": 2781236342, "level": 4}
+{"count": 4584, "name": "Kidney stones", "weight": 1.0, "id": 2779403450, "level": 4}
+{"count": 1430, "name": "Kidney development", "weight": 0.0, "id": 2777632694, "level": 4}
+{"count": 1794, "name": "Oncocytoma", "weight": 0.0, "id": 2780674462, "level": 4}
+{"count": 1305, "name": "Juxtaglomerular apparatus", "weight": 0.0, "id": 2779078858, "level": 4}
+{"count": 823, "name": "Mesonephros", "weight": 0.0, "id": 43768951, "level": 4}
+{"count": 2296, "name": "Renal agenesis", "weight": 0.0, "id": 2781218831, "level": 4}
+{"count": 1952, "name": "Horseshoe kidney", "weight": 0.0, "id": 2775908106, "level": 4}
+{"count": 1462, "name": "Mesangium", "weight": 0.0, "id": 2779937669, "level": 4}
+{"count": 721, "name": "Renal papilla", "weight": 0.0, "id": 2780371755, "level": 4}
+{"count": 1228, "name": "Cardiorenal syndrome", "weight": 0.0, "id": 2781309322, "level": 4}
+{"count": 4452, "name": "Renal ischemia", "weight": 1.0, "id": 2780721119, "level": 4}
+{"count": 2346, "name": "Renal pathology", "weight": 0.0, "id": 133397671, "level": 4}
+{"count": 723, "name": "Pronephros", "weight": 0.0, "id": 31697123, "level": 4}
+{"count": 1885, "name": "Urine osmolality", "weight": 0.0, "id": 2778534349, "level": 4}
+{"count": 1093, "name": "Renal capsule", "weight": 0.0, "id": 2778881546, "level": 4}
+{"count": 303, "name": "20-Hydroxyeicosatetraenoic acid", "weight": 0.0, "id": 2779358156, "level": 4}
+{"count": 937, "name": "Free water clearance", "weight": 0.0, "id": 33893070, "level": 4}
+{"count": 445, "name": "Radioisotope renography", "weight": 0.0, "id": 2781182678, "level": 4}
+{"count": 656, "name": "Mesoblastic nephroma", "weight": 0.0, "id": 2779601148, "level": 4}
+{"count": 793, "name": "Ureteric bud", "weight": 0.0, "id": 130010870, "level": 4}
+{"count": 420, "name": "Alanine aminopeptidase", "weight": 0.0, "id": 2777151492, "level": 4}
+{"count": 582, "name": "Vasa recta", "weight": 0.0, "id": 2779066075, "level": 4}
+{"count": 1314, "name": "Renal vein thrombosis", "weight": 0.0, "id": 2777858928, "level": 4}
+{"count": 702, "name": "Multicystic dysplastic kidney", "weight": 0.0, "id": 2781230498, "level": 4}
+{"count": 891, "name": "Glomerular hyperfiltration", "weight": 0.0, "id": 2776179406, "level": 4}
+{"count": 426, "name": "Collecting duct carcinoma", "weight": 0.0, "id": 2780759135, "level": 4}
+{"count": 3493, "name": "Artificial kidney", "weight": 0.0, "id": 128540205, "level": 4}
+{"count": 535, "name": "Analgesic nephropathy", "weight": 0.0, "id": 2777065209, "level": 4}
+{"count": 1115, "name": "Machine perfusion", "weight": 0.0, "id": 2779288732, "level": 4}
+{"count": 532, "name": "ROMK", "weight": 0.0, "id": 51201719, "level": 4}
+{"count": 932, "name": "Ectopic ureter", "weight": 0.0, "id": 2780257150, "level": 4}
+{"count": 294, "name": "Cubilin", "weight": 0.0, "id": 2778112405, "level": 4}
+{"count": 637, "name": "Peritubular capillaries", "weight": 0.0, "id": 2780829873, "level": 4}
+{"count": 302, "name": "Efferent arteriole", "weight": 0.0, "id": 2780020492, "level": 4}
+{"count": 499, "name": "Urea transporter", "weight": 0.0, "id": 2779540063, "level": 4}
+{"count": 587, "name": "Cystic kidney disease", "weight": 0.0, "id": 2780337666, "level": 4}
+{"count": 259, "name": "Nephrotomy", "weight": 0.0, "id": 2775866090, "level": 4}
+{"count": 830, "name": "Afferent arterioles", "weight": 0.0, "id": 2780636983, "level": 4}
+{"count": 1240, "name": "Urine flow rate", "weight": 0.0, "id": 2779805383, "level": 4}
+{"count": 720, "name": "Urinoma", "weight": 0.0, "id": 2781456509, "level": 4}
+{"count": 1017, "name": "Fractional excretion of sodium", "weight": 0.0, "id": 2780343553, "level": 4}
+{"count": 570, "name": "Renal papillary necrosis", "weight": 0.0, "id": 2780229479, "level": 4}
+{"count": 419, "name": "Medullary sponge kidney", "weight": 0.0, "id": 2779557838, "level": 4}
+{"count": 209, "name": "Renal medullary carcinoma", "weight": 0.0, "id": 2779898830, "level": 4}
+{"count": 89, "name": "Osmotic nephrosis", "weight": 0.0, "id": 2778545252, "level": 4}
+{"count": 80, "name": "OK cells", "weight": 0.0, "id": 2778626563, "level": 4}
+{"count": 628, "name": "Renal sinus", "weight": 0.0, "id": 2781428559, "level": 4}
+{"count": 1108, "name": "Renal stem cell", "weight": 0.0, "id": 138798377, "level": 4}
+{"count": 183, "name": "Mucinous tubular and spindle cell carcinoma", "weight": 0.0, "id": 2781194759, "level": 4}
+{"count": 292, "name": "Renalase", "weight": 0.0, "id": 41752080, "level": 4}
+{"count": 276, "name": "Juxtaglomerular cell", "weight": 0.0, "id": 2776130683, "level": 4}
+{"count": 237, "name": "Kidney infection", "weight": 0.0, "id": 2778474838, "level": 4}
+{"count": 412, "name": "Nephropexy", "weight": 0.0, "id": 2776008196, "level": 4}
+{"count": 17, "name": "Iotalamic acid", "weight": 0.0, "id": 2776924304, "level": 4}
+{"count": 226, "name": "Nephromegaly", "weight": 0.0, "id": 2779679045, "level": 4}
+{"count": 209, "name": "Juxtaglomerular cell tumor", "weight": 0.0, "id": 2777637904, "level": 4}
+{"count": 689, "name": "Pelvic kidney", "weight": 0.0, "id": 2780184260, "level": 4}
+{"count": 829, "name": "Renal glucose reabsorption", "weight": 0.0, "id": 90466245, "level": 4}
+{"count": 1664, "name": "Adipose capsule of kidney", "weight": 0.0, "id": 26254459, "level": 4}
+{"count": 160, "name": "Countercurrent multiplication", "weight": 0.0, "id": 109304830, "level": 4}
+{"count": 126, "name": "Duplicated ureter", "weight": 0.0, "id": 2779033873, "level": 4}
+{"count": 112, "name": "Bowman's capsule", "weight": 0.0, "id": 2777945796, "level": 4}
+{"count": 653, "name": "Renal ectopia", "weight": 0.0, "id": 2781019087, "level": 4}
+{"count": 49, "name": "Glomerulocystic kidney disease", "weight": 0.0, "id": 2778246193, "level": 4}
+{"count": 246, "name": "Clear-cell sarcoma of the kidney", "weight": 0.0, "id": 2778343607, "level": 4}
+{"count": 339, "name": "Nephroptosis", "weight": 0.0, "id": 2778936991, "level": 4}
+{"count": 207, "name": "Sickle cell nephropathy", "weight": 0.0, "id": 2776173147, "level": 4}
+{"count": 163, "name": "Myeloma cast nephropathy", "weight": 0.0, "id": 2779306499, "level": 4}
+{"count": 152, "name": "Renal fascia", "weight": 0.0, "id": 2777648514, "level": 4}
+{"count": 94, "name": "Benign nephrosclerosis", "weight": 0.0, "id": 2780992289, "level": 4}
+{"count": 21, "name": "Stauffer syndrome", "weight": 0.0, "id": 2775949388, "level": 4}
+{"count": 154, "name": "Transport maximum", "weight": 0.0, "id": 70827105, "level": 4}
+{"count": 126, "name": "Supernumerary kidney", "weight": 0.0, "id": 2781072215, "level": 4}
+{"count": 128, "name": "Ammonia transporter", "weight": 0.0, "id": 2777144031, "level": 4}
+{"count": 59, "name": "Isosthenuria", "weight": 0.0, "id": 2778964572, "level": 4}
+{"count": 62, "name": "HAVCR1", "weight": 0.0, "id": 2778181144, "level": 4}
+{"count": 333, "name": "Interlobular arteries", "weight": 0.0, "id": 2777788787, "level": 4}
+{"count": 63, "name": "Sinistrin", "weight": 0.0, "id": 2781012055, "level": 4}
+{"count": 23, "name": "Renal-hepatic-pancreatic dysplasia", "weight": 0.0, "id": 2777100223, "level": 4}
+{"count": 100, "name": "Renal compensation", "weight": 0.0, "id": 2776105512, "level": 4}
+{"count": 93, "name": "Renal pyramids", "weight": 0.0, "id": 2776295608, "level": 4}
+{"count": 103, "name": "Medullary ray (anatomy)", "weight": 0.0, "id": 2778442909, "level": 4}
+{"count": 33, "name": "Opisthonephros", "weight": 0.0, "id": 2776848584, "level": 4}
+{"count": 101, "name": "Hypertensive kidney disease", "weight": 0.0, "id": 2779539593, "level": 4}
+{"count": 9, "name": "Arcuate vein", "weight": 0.0, "id": 2780594580, "level": 4}
+{"count": 439, "name": "Aminohippuric acid", "weight": 0.0, "id": 2776982352, "level": 4}
+{"count": 206, "name": "Papillary renal cell carcinomas", "weight": 0.0, "id": 2776531350, "level": 4}
+{"count": 19, "name": "Ascending limb of loop of Henle", "weight": 0.0, "id": 2780966343, "level": 4}
+{"count": 22, "name": "Metanephrogenic blastema", "weight": 0.0, "id": 2778606065, "level": 4}
+{"count": 9, "name": "Renal lobe", "weight": 0.0, "id": 2780065962, "level": 4}
+{"count": 15, "name": "Renal clearance ratio", "weight": 0.0, "id": 2780320136, "level": 4}
+{"count": 31, "name": "Osmolarity gradient", "weight": 0.0, "id": 58590750, "level": 4}

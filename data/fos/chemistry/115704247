@@ -1,0 +1,200 @@
+{"count": 553765, "name": "Thin film", "weight": 10.0, "id": 19067145, "level": 2}
+{"count": 226461, "name": "Mass spectrometry", "weight": 4.0, "id": 162356407, "level": 2}
+{"count": 277978, "name": "Scanning electron microscope", "weight": 5.0, "id": 26771246, "level": 2}
+{"count": 80809, "name": "Quantitative analysis (chemistry)", "weight": 1.0, "id": 95986675, "level": 2}
+{"count": 88510, "name": "Electron microscope", "weight": 1.0, "id": 93877712, "level": 2}
+{"count": 115779, "name": "Transmission electron microscopy", "weight": 2.0, "id": 146088050, "level": 2}
+{"count": 176922, "name": "Infrared spectroscopy", "weight": 3.0, "id": 153642686, "level": 2}
+{"count": 203748, "name": "High-performance liquid chromatography", "weight": 3.0, "id": 179998833, "level": 2}
+{"count": 320487, "name": "Spectroscopy", "weight": 5.0, "id": 32891209, "level": 2}
+{"count": 204228, "name": "Raman spectroscopy", "weight": 3.0, "id": 40003534, "level": 2}
+{"count": 147628, "name": "Absorption spectroscopy", "weight": 2.0, "id": 119824511, "level": 2}
+{"count": 271553, "name": "Fluorescence", "weight": 4.0, "id": 91881484, "level": 2}
+{"count": 105029, "name": "Gas chromatography", "weight": 1.0, "id": 123460561, "level": 2}
+{"count": 68450, "name": "Atomic force microscopy", "weight": 1.0, "id": 102951782, "level": 2}
+{"count": 90324, "name": "Detection limit", "weight": 1.0, "id": 119128265, "level": 2}
+{"count": 92916, "name": "Microscopy", "weight": 1.0, "id": 147080431, "level": 2}
+{"count": 121620, "name": "X-ray photoelectron spectroscopy", "weight": 2.0, "id": 175708663, "level": 2}
+{"count": 134591, "name": "Photoluminescence", "weight": 2.0, "id": 85080765, "level": 2}
+{"count": 18929, "name": "Metabolomics", "weight": 0.0, "id": 21565614, "level": 2}
+{"count": 44041, "name": "Near-infrared spectroscopy", "weight": 0.0, "id": 43571822, "level": 2}
+{"count": 105146, "name": "Emission spectrum", "weight": 1.0, "id": 96141758, "level": 2}
+{"count": 39749, "name": "Electrophoresis", "weight": 0.0, "id": 40250595, "level": 2}
+{"count": 121786, "name": "Solar cell", "weight": 2.0, "id": 2780824857, "level": 2}
+{"count": 140812, "name": "Epitaxy", "weight": 2.0, "id": 110738630, "level": 2}
+{"count": 34492, "name": "Sample preparation", "weight": 0.0, "id": 2778576202, "level": 2}
+{"count": 53102, "name": "Temperature measurement", "weight": 0.0, "id": 72293138, "level": 2}
+{"count": 78042, "name": "Biosensor", "weight": 1.0, "id": 160756335, "level": 2}
+{"count": 26797, "name": "Optical microscope", "weight": 0.0, "id": 77017923, "level": 2}
+{"count": 119333, "name": "Chemical vapor deposition", "weight": 2.0, "id": 57410435, "level": 2}
+{"count": 91971, "name": "Nanowire", "weight": 1.0, "id": 74214498, "level": 2}
+{"count": 101613, "name": "Heterojunction", "weight": 1.0, "id": 79794668, "level": 2}
+{"count": 57365, "name": "Fourier transform infrared spectroscopy", "weight": 1.0, "id": 160892712, "level": 2}
+{"count": 39071, "name": "Attenuation coefficient", "weight": 0.0, "id": 159774933, "level": 2}
+{"count": 36545, "name": "Quantum efficiency", "weight": 0.0, "id": 205507967, "level": 2}
+{"count": 43177, "name": "Electron mobility", "weight": 0.0, "id": 106782819, "level": 2}
+{"count": 81629, "name": "Argon", "weight": 1.0, "id": 547737533, "level": 2}
+{"count": 37407, "name": "Scanning tunneling microscope", "weight": 0.0, "id": 6518042, "level": 2}
+{"count": 28448, "name": "Wide-bandgap semiconductor", "weight": 0.0, "id": 189278905, "level": 2}
+{"count": 30419, "name": "Spectrophotometry", "weight": 0.0, "id": 2780343419, "level": 2}
+{"count": 23992, "name": "Atomic absorption spectroscopy", "weight": 0.0, "id": 33619061, "level": 2}
+{"count": 33052, "name": "Capillary electrophoresis", "weight": 0.0, "id": 2900643, "level": 2}
+{"count": 56340, "name": "Dielectric spectroscopy", "weight": 1.0, "id": 7040849, "level": 2}
+{"count": 21048, "name": "Time of flight", "weight": 0.0, "id": 98960154, "level": 2}
+{"count": 54203, "name": "Microfluidics", "weight": 0.0, "id": 8673954, "level": 2}
+{"count": 33794, "name": "Field electron emission", "weight": 0.0, "id": 121029787, "level": 2}
+{"count": 113370, "name": "Spectrometer", "weight": 2.0, "id": 33390570, "level": 2}
+{"count": 24826, "name": "Ion chromatography", "weight": 0.0, "id": 206967267, "level": 2}
+{"count": 21777, "name": "Surface micromachining", "weight": 0.0, "id": 145667562, "level": 2}
+{"count": 28679, "name": "Work function", "weight": 0.0, "id": 115235246, "level": 2}
+{"count": 26809, "name": "Schottky barrier", "weight": 0.0, "id": 16115445, "level": 2}
+{"count": 6150, "name": "Charge-carrier density", "weight": 0.0, "id": 109724073, "level": 2}
+{"count": 24829, "name": "Thin-layer chromatography", "weight": 0.0, "id": 190196608, "level": 2}
+{"count": 23432, "name": "Phosphate buffered saline", "weight": 0.0, "id": 96616956, "level": 2}
+{"count": 34096, "name": "Photoconductivity", "weight": 0.0, "id": 201999631, "level": 2}
+{"count": 23602, "name": "Gallium nitride", "weight": 0.0, "id": 2778871202, "level": 2}
+{"count": 24185, "name": "Auger electron spectroscopy", "weight": 0.0, "id": 25442681, "level": 2}
+{"count": 23092, "name": "Organic semiconductor", "weight": 0.0, "id": 94003879, "level": 2}
+{"count": 32080, "name": "Photolithography", "weight": 0.0, "id": 105487726, "level": 2}
+{"count": 33320, "name": "Ohmic contact", "weight": 0.0, "id": 138230450, "level": 2}
+{"count": 18455, "name": "Full width at half maximum", "weight": 0.0, "id": 108649604, "level": 2}
+{"count": 13436, "name": "Scintillation counter", "weight": 0.0, "id": 47663296, "level": 2}
+{"count": 10890, "name": "Colorimetry", "weight": 0.0, "id": 64299311, "level": 2}
+{"count": 24911, "name": "Chemiluminescence", "weight": 0.0, "id": 145802702, "level": 2}
+{"count": 11482, "name": "Diffuse reflection", "weight": 0.0, "id": 82261727, "level": 2}
+{"count": 14903, "name": "Nanolithography", "weight": 0.0, "id": 162117346, "level": 2}
+{"count": 53477, "name": "Transmittance", "weight": 0.0, "id": 150493377, "level": 2}
+{"count": 18879, "name": "Dynamic light scattering", "weight": 0.0, "id": 14631669, "level": 2}
+{"count": 15220, "name": "Scanning probe microscopy", "weight": 0.0, "id": 36628996, "level": 2}
+{"count": 9352, "name": "Chemometrics", "weight": 0.0, "id": 151304367, "level": 2}
+{"count": 1380, "name": "Parts-per notation", "weight": 0.0, "id": 56819118, "level": 2}
+{"count": 67772, "name": "Capillary action", "weight": 1.0, "id": 196806460, "level": 2}
+{"count": 8319, "name": "Microanalysis", "weight": 0.0, "id": 31033462, "level": 2}
+{"count": 70690, "name": "Microscope", "weight": 1.0, "id": 67649825, "level": 2}
+{"count": 6296, "name": "Densitometry", "weight": 0.0, "id": 136496925, "level": 2}
+{"count": 11456, "name": "Electron energy loss spectroscopy", "weight": 0.0, "id": 178187954, "level": 2}
+{"count": 229, "name": "Transfer technique", "weight": 0.0, "id": 2778180606, "level": 2}
+{"count": 12030, "name": "Cavity magnetron", "weight": 0.0, "id": 123408415, "level": 2}
+{"count": 12608, "name": "Neutron activation analysis", "weight": 0.0, "id": 4666530, "level": 2}
+{"count": 23247, "name": "Reactive-ion etching", "weight": 0.0, "id": 130472188, "level": 2}
+{"count": 19245, "name": "Partial least squares regression", "weight": 0.0, "id": 22354355, "level": 2}
+{"count": 4560, "name": "Evanescent wave", "weight": 0.0, "id": 89953854, "level": 2}
+{"count": 10775, "name": "Equivalent series resistance", "weight": 0.0, "id": 14485415, "level": 2}
+{"count": 43838, "name": "Nanorod", "weight": 0.0, "id": 126201875, "level": 2}
+{"count": 7562, "name": "Confocal laser scanning microscopy", "weight": 0.0, "id": 88412794, "level": 2}
+{"count": 18172, "name": "Ultra-high vacuum", "weight": 0.0, "id": 82225425, "level": 2}
+{"count": 12992, "name": "Electron microprobe", "weight": 0.0, "id": 138411078, "level": 2}
+{"count": 19369, "name": "Isotropic etching", "weight": 0.0, "id": 33220542, "level": 2}
+{"count": 11533, "name": "Cathodoluminescence", "weight": 0.0, "id": 139861200, "level": 2}
+{"count": 13235, "name": "Corona discharge", "weight": 0.0, "id": 6025432, "level": 2}
+{"count": 19742, "name": "Molar absorptivity", "weight": 0.0, "id": 76046532, "level": 2}
+{"count": 7767, "name": "Liquid scintillation counting", "weight": 0.0, "id": 194097036, "level": 2}
+{"count": 5953, "name": "Gas detector", "weight": 0.0, "id": 2779300254, "level": 2}
+{"count": 9041, "name": "Environmental analysis", "weight": 0.0, "id": 18276189, "level": 2}
+{"count": 19063, "name": "Buffer solution", "weight": 0.0, "id": 2778117296, "level": 2}
+{"count": 3372, "name": "Ultracentrifuge", "weight": 0.0, "id": 54689828, "level": 2}
+{"count": 12863, "name": "Microfabrication", "weight": 0.0, "id": 527607, "level": 2}
+{"count": 9055, "name": "Magnetic force microscope", "weight": 0.0, "id": 181635281, "level": 2}
+{"count": 5206, "name": "Absorptance", "weight": 0.0, "id": 2780851986, "level": 2}
+{"count": 21014, "name": "Potentiometric titration", "weight": 0.0, "id": 124614425, "level": 2}
+{"count": 4512, "name": "Certified reference materials", "weight": 0.0, "id": 100859065, "level": 2}
+{"count": 14306, "name": "Molecular beam", "weight": 0.0, "id": 54419926, "level": 2}
+{"count": 12161, "name": "Electrokinetic phenomena", "weight": 0.0, "id": 27703432, "level": 2}
+{"count": 7835, "name": "X-ray absorption fine structure", "weight": 0.0, "id": 150244406, "level": 2}
+{"count": 39975, "name": "Absorbance", "weight": 0.0, "id": 98015330, "level": 2}
+{"count": 5159, "name": "Electronic nose", "weight": 0.0, "id": 23895516, "level": 2}
+{"count": 15324, "name": "Gravimetric analysis", "weight": 0.0, "id": 96278889, "level": 2}
+{"count": 19877, "name": "Microchannel", "weight": 0.0, "id": 63662833, "level": 2}
+{"count": 15842, "name": "Aptamer", "weight": 0.0, "id": 128972844, "level": 2}
+{"count": 3576, "name": "Free induction decay", "weight": 0.0, "id": 90199342, "level": 2}
+{"count": 14623, "name": "Polarography", "weight": 0.0, "id": 188518856, "level": 2}
+{"count": 13640, "name": "Absorption edge", "weight": 0.0, "id": 50792271, "level": 2}
+{"count": 10669, "name": "Thermionic emission", "weight": 0.0, "id": 143979616, "level": 2}
+{"count": 4886, "name": "Sulfur hexafluoride", "weight": 0.0, "id": 2778282533, "level": 2}
+{"count": 65233, "name": "Spectrum analyzer", "weight": 1.0, "id": 158007255, "level": 2}
+{"count": 10901, "name": "Photoacoustic imaging in biomedicine", "weight": 0.0, "id": 54932901, "level": 2}
+{"count": 9800, "name": "Pharmaceutical formulation", "weight": 0.0, "id": 106186310, "level": 2}
+{"count": 9169, "name": "Photometer", "weight": 0.0, "id": 11494860, "level": 2}
+{"count": 15819, "name": "Two-photon excitation microscopy", "weight": 0.0, "id": 47785574, "level": 2}
+{"count": 2943, "name": "Soft lithography", "weight": 0.0, "id": 118524077, "level": 2}
+{"count": 4223, "name": "Electrochemiluminescence", "weight": 0.0, "id": 38965407, "level": 2}
+{"count": 2433, "name": "Nuclear reaction analysis", "weight": 0.0, "id": 2780839960, "level": 2}
+{"count": 11663, "name": "Nanopore", "weight": 0.0, "id": 141795571, "level": 2}
+{"count": 2219, "name": "Conductometry", "weight": 0.0, "id": 70468152, "level": 2}
+{"count": 7384, "name": "Streptavidin", "weight": 0.0, "id": 2776190903, "level": 2}
+{"count": 1965, "name": "Pulsed field gradient", "weight": 0.0, "id": 2779880339, "level": 2}
+{"count": 3640, "name": "Micropump", "weight": 0.0, "id": 76272257, "level": 2}
+{"count": 21427, "name": "Dry etching", "weight": 0.0, "id": 1291036, "level": 2}
+{"count": 4384, "name": "Colorimetry (chemical method)", "weight": 0.0, "id": 91599548, "level": 2}
+{"count": 2397, "name": "Microcontact printing", "weight": 0.0, "id": 58943365, "level": 2}
+{"count": 3394, "name": "Integrating sphere", "weight": 0.0, "id": 2780877732, "level": 2}
+{"count": 4688, "name": "Nanosensor", "weight": 0.0, "id": 41858301, "level": 2}
+{"count": 3274, "name": "Acoustic microscopy", "weight": 0.0, "id": 2781117724, "level": 2}
+{"count": 1648, "name": "X-ray microtomography", "weight": 0.0, "id": 2777825092, "level": 2}
+{"count": 821, "name": "Turbidimetry", "weight": 0.0, "id": 2780777798, "level": 2}
+{"count": 5221, "name": "Coulometry", "weight": 0.0, "id": 109379892, "level": 2}
+{"count": 25540, "name": "Photocurrent", "weight": 0.0, "id": 2779845233, "level": 2}
+{"count": 12437, "name": "Photothermal therapy", "weight": 0.0, "id": 182606246, "level": 2}
+{"count": 4807, "name": "Nanoimprint lithography", "weight": 0.0, "id": 2777046567, "level": 2}
+{"count": 22000, "name": "Confocal", "weight": 0.0, "id": 136009344, "level": 2}
+{"count": 2678, "name": "Lipidomics", "weight": 0.0, "id": 58017582, "level": 2}
+{"count": 1773, "name": "Lateral diffusion", "weight": 0.0, "id": 45509928, "level": 2}
+{"count": 1898, "name": "Nanofluidics", "weight": 0.0, "id": 57527310, "level": 2}
+{"count": 2033, "name": "Free molecular flow", "weight": 0.0, "id": 126350175, "level": 2}
+{"count": 6928, "name": "Biochip", "weight": 0.0, "id": 87892846, "level": 2}
+{"count": 1917, "name": "Dried blood spot", "weight": 0.0, "id": 2776597655, "level": 2}
+{"count": 10030, "name": "Microprobe", "weight": 0.0, "id": 125206250, "level": 2}
+{"count": 1366, "name": "Particle-induced X-ray emission", "weight": 0.0, "id": 165699444, "level": 2}
+{"count": 32224, "name": "Elemental analysis", "weight": 0.0, "id": 64885871, "level": 2}
+{"count": 1025, "name": "Loss on ignition", "weight": 0.0, "id": 2779712921, "level": 2}
+{"count": 3091, "name": "Electrochemical potential", "weight": 0.0, "id": 125086356, "level": 2}
+{"count": 651, "name": "Single-particle tracking", "weight": 0.0, "id": 2779972868, "level": 2}
+{"count": 2951, "name": "Atomic spectroscopy", "weight": 0.0, "id": 161451022, "level": 2}
+{"count": 2438, "name": "Microtiter plate", "weight": 0.0, "id": 2778810118, "level": 2}
+{"count": 4333, "name": "Bioanalysis", "weight": 0.0, "id": 137535248, "level": 2}
+{"count": 2050, "name": "Forensic toxicology", "weight": 0.0, "id": 158342456, "level": 2}
+{"count": 3092, "name": "Thermopile", "weight": 0.0, "id": 47279676, "level": 2}
+{"count": 1659, "name": "Micropatterning", "weight": 0.0, "id": 2859760, "level": 2}
+{"count": 3106, "name": "Densitometer", "weight": 0.0, "id": 45586990, "level": 2}
+{"count": 1626, "name": "Hair analysis", "weight": 0.0, "id": 2781400828, "level": 2}
+{"count": 1503, "name": "Maximum Residue Limit", "weight": 0.0, "id": 2779675693, "level": 2}
+{"count": 21036, "name": "Vacuum chamber", "weight": 0.0, "id": 2777527079, "level": 2}
+{"count": 8743, "name": "Pipette", "weight": 0.0, "id": 151552171, "level": 2}
+{"count": 792, "name": "Counts per minute", "weight": 0.0, "id": 50440113, "level": 2}
+{"count": 9256, "name": "Monochromator", "weight": 0.0, "id": 14112920, "level": 2}
+{"count": 2250, "name": "Cell counting", "weight": 0.0, "id": 2583947, "level": 2}
+{"count": 790, "name": "Extinction (optical mineralogy)", "weight": 0.0, "id": 101991246, "level": 2}
+{"count": 3158, "name": "Tin dioxide", "weight": 0.0, "id": 2779667129, "level": 2}
+{"count": 2858, "name": "Resistance thermometer", "weight": 0.0, "id": 144086978, "level": 2}
+{"count": 1389, "name": "Thionine", "weight": 0.0, "id": 2778860571, "level": 2}
+{"count": 1990, "name": "Dithizone", "weight": 0.0, "id": 2779665717, "level": 2}
+{"count": 1881, "name": "Breath gas analysis", "weight": 0.0, "id": 93353639, "level": 2}
+{"count": 11058, "name": "Field effect", "weight": 0.0, "id": 31500677, "level": 2}
+{"count": 1157, "name": "Process analytical technology", "weight": 0.0, "id": 178144697, "level": 2}
+{"count": 6736, "name": "Microscale chemistry", "weight": 0.0, "id": 179428855, "level": 2}
+{"count": 4622, "name": "Nanodot", "weight": 0.0, "id": 66344492, "level": 2}
+{"count": 2356, "name": "Scanning electrochemical microscopy", "weight": 0.0, "id": 2779266040, "level": 2}
+{"count": 914, "name": "Beer\u2013Lambert law", "weight": 0.0, "id": 127339321, "level": 2}
+{"count": 1735, "name": "Stopped flow", "weight": 0.0, "id": 152987353, "level": 2}
+{"count": 5108, "name": "Ashing", "weight": 0.0, "id": 99293441, "level": 2}
+{"count": 15085, "name": "Electric discharge in gases", "weight": 0.0, "id": 30254895, "level": 2}
+{"count": 6891, "name": "Electrical measurements", "weight": 0.0, "id": 107820106, "level": 2}
+{"count": 3215, "name": "Parylene", "weight": 0.0, "id": 2777385008, "level": 2}
+{"count": 71571, "name": "Blank", "weight": 1.0, "id": 2778089247, "level": 2}
+{"count": 1267, "name": "Biological imaging", "weight": 0.0, "id": 2779884411, "level": 2}
+{"count": 4676, "name": "Microbeam", "weight": 0.0, "id": 2777152588, "level": 2}
+{"count": 1128, "name": "Xylenol orange", "weight": 0.0, "id": 2780392101, "level": 2}
+{"count": 4322, "name": "Saturation current", "weight": 0.0, "id": 155891486, "level": 2}
+{"count": 1584, "name": "Coulter counter", "weight": 0.0, "id": 206772107, "level": 2}
+{"count": 52485, "name": "Analyte", "weight": 0.0, "id": 10390740, "level": 2}
+{"count": 776, "name": "Bland\u2013Altman plot", "weight": 0.0, "id": 143310123, "level": 2}
+{"count": 1528, "name": "Coprinus", "weight": 0.0, "id": 2781135107, "level": 2}
+{"count": 7245, "name": "Shaker", "weight": 0.0, "id": 2779421379, "level": 2}
+{"count": 816, "name": "Nanometrology", "weight": 0.0, "id": 148402106, "level": 2}
+{"count": 8555, "name": "Gas-filled tube", "weight": 0.0, "id": 39248633, "level": 2}
+{"count": 875, "name": "Multichannel analyzer", "weight": 0.0, "id": 2780291173, "level": 2}
+{"count": 5053, "name": "Schlieren", "weight": 0.0, "id": 117248102, "level": 2}
+{"count": 1281, "name": "Colorimetric analysis", "weight": 0.0, "id": 23034840, "level": 2}
+{"count": 2595, "name": "Colorimeter", "weight": 0.0, "id": 156423089, "level": 2}
+{"count": 3361, "name": "Nanopillar", "weight": 0.0, "id": 25479853, "level": 2}
+{"count": 1387, "name": "Benzoylecgonine", "weight": 0.0, "id": 2777537440, "level": 2}

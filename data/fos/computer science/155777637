@@ -1,0 +1,20 @@
+{"count": 8737, "name": "Lifting scheme", "weight": 4.0, "id": 199550912, "level": 5}
+{"count": 2023, "name": "Complex wavelet transform", "weight": 0.0, "id": 2777885455, "level": 5}
+{"count": 2972, "name": "Fast wavelet transform", "weight": 1.0, "id": 132736078, "level": 5}
+{"count": 21110, "name": "Stationary wavelet transform", "weight": 10.0, "id": 73339587, "level": 5}
+{"count": 1154, "name": "Daubechies wavelet", "weight": 0.0, "id": 2779855323, "level": 5}
+{"count": 1129, "name": "Biorthogonal wavelet", "weight": 0.0, "id": 2778869661, "level": 5}
+{"count": 1480, "name": "Orthogonal wavelet", "weight": 0.0, "id": 2777451244, "level": 5}
+{"count": 350, "name": "Meyer wavelet", "weight": 0.0, "id": 61437152, "level": 5}
+{"count": 11408, "name": "Cascade algorithm", "weight": 5.0, "id": 88829872, "level": 5}
+{"count": 8212, "name": "Constant Q transform", "weight": 3.0, "id": 153705960, "level": 5}
+{"count": 18037, "name": "Second-generation wavelet transform", "weight": 8.0, "id": 111350171, "level": 5}
+{"count": 110, "name": "Fractional wavelet transform", "weight": 0.0, "id": 2775905746, "level": 5}
+{"count": 10970, "name": "Harmonic wavelet transform", "weight": 5.0, "id": 1109138, "level": 5}
+{"count": 96, "name": "Wavelet modulation", "weight": 0.0, "id": 2775846696, "level": 5}
+{"count": 109, "name": "Dual wavelet", "weight": 0.0, "id": 2776497825, "level": 5}
+{"count": 512, "name": "Wavelet noise", "weight": 0.0, "id": 15904848, "level": 5}
+{"count": 22, "name": "Beta wavelet", "weight": 0.0, "id": 2779268866, "level": 5}
+{"count": 22, "name": "Hermitian wavelet", "weight": 0.0, "id": 2780777932, "level": 5}
+{"count": 34, "name": "Generalized lifting", "weight": 0.0, "id": 2776416761, "level": 5}
+{"count": 25, "name": "Modified Morlet wavelet", "weight": 0.0, "id": 2778641334, "level": 5}

@@ -1,0 +1,27 @@
+{"count": 3408, "name": "Mitophagy", "weight": 10.0, "id": 2779324830, "level": 4}
+{"count": 3194, "name": "Autophagosome", "weight": 9.0, "id": 168296220, "level": 4}
+{"count": 129, "name": "Cytoplasm-to-vacuole targeting", "weight": 0.0, "id": 2777743584, "level": 4}
+{"count": 373, "name": "Chaperone-mediated autophagy", "weight": 1.0, "id": 2777895418, "level": 4}
+{"count": 280, "name": "GABARAP", "weight": 0.0, "id": 198632942, "level": 4}
+{"count": 1756, "name": "ATG5", "weight": 5.0, "id": 2781000418, "level": 4}
+{"count": 242, "name": "ULK1", "weight": 0.0, "id": 71680706, "level": 4}
+{"count": 703, "name": "TFEB", "weight": 2.0, "id": 132647116, "level": 4}
+{"count": 676, "name": "Lipid-anchored protein", "weight": 1.0, "id": 193469717, "level": 4}
+{"count": 738, "name": "ATG16L1", "weight": 2.0, "id": 187092789, "level": 4}
+{"count": 1222, "name": "BAG3", "weight": 3.0, "id": 99089365, "level": 4}
+{"count": 457, "name": "LAMP1", "weight": 1.0, "id": 2777135640, "level": 4}
+{"count": 481, "name": "BECN1", "weight": 1.0, "id": 2777122948, "level": 4}
+{"count": 232, "name": "Danon disease", "weight": 0.0, "id": 2777239600, "level": 4}
+{"count": 141, "name": "Xenophagy", "weight": 0.0, "id": 179957513, "level": 4}
+{"count": 285, "name": "LAMP2", "weight": 0.0, "id": 2776438823, "level": 4}
+{"count": 262, "name": "IRGM", "weight": 0.0, "id": 2780350355, "level": 4}
+{"count": 357, "name": "Atg1", "weight": 1.0, "id": 2777710547, "level": 4}
+{"count": 279, "name": "Microautophagy", "weight": 0.0, "id": 188344839, "level": 4}
+{"count": 88, "name": "ULK2", "weight": 0.0, "id": 2780680019, "level": 4}
+{"count": 155, "name": "MAP1LC3B", "weight": 0.0, "id": 2781420056, "level": 4}
+{"count": 65, "name": "Vici syndrome", "weight": 0.0, "id": 2780418016, "level": 4}
+{"count": 49, "name": "MAP1LC3A", "weight": 0.0, "id": 2780211447, "level": 4}
+{"count": 31, "name": "ATG4D", "weight": 0.0, "id": 2776004238, "level": 4}
+{"count": 34, "name": "ATG4A", "weight": 0.0, "id": 2779185202, "level": 4}
+{"count": 23, "name": "EIF2S1", "weight": 0.0, "id": 2778071469, "level": 4}
+{"count": 255, "name": "Autophagy database", "weight": 0.0, "id": 167661972, "level": 4}

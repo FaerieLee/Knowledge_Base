@@ -1,0 +1,7 @@
+{"count": 2248, "name": "Polarizable continuum model", "weight": 4.0, "id": 2776122248, "level": 4}
+{"count": 5586, "name": "Solvation shell", "weight": 10.0, "id": 149823470, "level": 4}
+{"count": 2141, "name": "Implicit solvation", "weight": 3.0, "id": 64147673, "level": 4}
+{"count": 139, "name": "Born equation", "weight": 0.0, "id": 2779990225, "level": 4}
+{"count": 712, "name": "Solvent models", "weight": 1.0, "id": 2779455329, "level": 4}
+{"count": 46, "name": "COSMO solvation model", "weight": 0.0, "id": 2779736409, "level": 4}
+{"count": 172, "name": "Protein pKa calculations", "weight": 0.0, "id": 40784130, "level": 4}

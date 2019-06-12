@@ -1,0 +1,9 @@
+{"count": 455, "name": "Bone-anchored hearing aid", "weight": 8.0, "id": 2779025105, "level": 3}
+{"count": 533, "name": "Digital hearing aid", "weight": 10.0, "id": 2780775834, "level": 3}
+{"count": 256, "name": "Occlusion effect", "weight": 4.0, "id": 2780049770, "level": 3}
+{"count": 159, "name": "Adaptive feedback cancellation", "weight": 3.0, "id": 2777122376, "level": 3}
+{"count": 281, "name": "Insertion gain", "weight": 5.0, "id": 147345325, "level": 3}
+{"count": 56, "name": "Real ear measurement", "weight": 1.0, "id": 2780771926, "level": 3}
+{"count": 228, "name": "Earmold", "weight": 4.0, "id": 2777861004, "level": 3}
+{"count": 48, "name": "Tinnitus masker", "weight": 0.0, "id": 2777422588, "level": 3}
+{"count": 49, "name": "Assistive listening device", "weight": 0.0, "id": 2780537764, "level": 3}

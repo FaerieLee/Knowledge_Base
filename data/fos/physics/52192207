@@ -1,0 +1,24 @@
+{"count": 10240, "name": "Switched capacitor", "weight": 7.0, "id": 103357873, "level": 3}
+{"count": 12324, "name": "Electrolytic capacitor", "weight": 8.0, "id": 79100374, "level": 3}
+{"count": 2544, "name": "Metal-insulator-metal", "weight": 1.0, "id": 2776605731, "level": 3}
+{"count": 5310, "name": "Snubber", "weight": 3.0, "id": 58018660, "level": 3}
+{"count": 2533, "name": "Current conveyor", "weight": 1.0, "id": 110252649, "level": 3}
+{"count": 14366, "name": "Decoupling capacitor", "weight": 10.0, "id": 35196352, "level": 3}
+{"count": 7642, "name": "Ceramic capacitor", "weight": 5.0, "id": 115974795, "level": 3}
+{"count": 3139, "name": "Electric double-layer capacitor", "weight": 2.0, "id": 2779402669, "level": 3}
+{"count": 1010, "name": "Pulse forming network", "weight": 0.0, "id": 2780868961, "level": 3}
+{"count": 1902, "name": "Plate electrode", "weight": 1.0, "id": 2776227388, "level": 3}
+{"count": 4262, "name": "Differential capacitance", "weight": 2.0, "id": 150072415, "level": 3}
+{"count": 5451, "name": "Capacitance probe", "weight": 3.0, "id": 203455917, "level": 3}
+{"count": 1303, "name": "Dielectric absorption", "weight": 0.0, "id": 164771162, "level": 3}
+{"count": 4797, "name": "Filter capacitor", "weight": 3.0, "id": 157808515, "level": 3}
+{"count": 6066, "name": "Film capacitor", "weight": 4.0, "id": 6432897, "level": 3}
+{"count": 371, "name": "MIS capacitor", "weight": 0.0, "id": 2779200529, "level": 3}
+{"count": 414, "name": "Farad", "weight": 0.0, "id": 29683548, "level": 3}
+{"count": 687, "name": "Lithium-ion capacitor", "weight": 0.0, "id": 2776552312, "level": 3}
+{"count": 310, "name": "Linear transformer driver", "weight": 0.0, "id": 2777062854, "level": 3}
+{"count": 178, "name": "Cascade converter", "weight": 0.0, "id": 2780998737, "level": 3}
+{"count": 620, "name": "DC block", "weight": 0.0, "id": 121088438, "level": 3}
+{"count": 24, "name": "Back-to-back connection", "weight": 0.0, "id": 2780333409, "level": 3}
+{"count": 71, "name": "Niobium monoxide", "weight": 0.0, "id": 2779773823, "level": 3}
+{"count": 16, "name": "Types of capacitor", "weight": 0.0, "id": 110122999, "level": 3}

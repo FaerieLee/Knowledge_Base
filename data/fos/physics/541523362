@@ -1,0 +1,42 @@
+{"count": 11456, "name": "Pressurized water reactor", "weight": 5.0, "id": 2780406361, "level": 3}
+{"count": 21934, "name": "Nuclear reactor core", "weight": 10.0, "id": 37750225, "level": 3}
+{"count": 6429, "name": "Light-water reactor", "weight": 2.0, "id": 2777773879, "level": 3}
+{"count": 7403, "name": "Boiling water reactor", "weight": 3.0, "id": 2778644327, "level": 3}
+{"count": 15376, "name": "Reactor pressure vessel", "weight": 7.0, "id": 179498184, "level": 3}
+{"count": 3430, "name": "Loss-of-coolant accident", "weight": 1.0, "id": 2778917722, "level": 3}
+{"count": 5820, "name": "Research reactor", "weight": 2.0, "id": 2779154452, "level": 3}
+{"count": 735, "name": "Post Irradiation Examination", "weight": 0.0, "id": 2780628859, "level": 3}
+{"count": 1071, "name": "High Flux Isotope Reactor", "weight": 0.0, "id": 2781310676, "level": 3}
+{"count": 7370, "name": "Control rod", "weight": 3.0, "id": 113603800, "level": 3}
+{"count": 2100, "name": "Scram", "weight": 0.0, "id": 124184767, "level": 3}
+{"count": 690, "name": "Pebble-bed reactor", "weight": 0.0, "id": 2779190491, "level": 3}
+{"count": 725, "name": "Advanced Test Reactor", "weight": 0.0, "id": 2780307667, "level": 3}
+{"count": 650, "name": "Very-high-temperature reactor", "weight": 0.0, "id": 2781417593, "level": 3}
+{"count": 364, "name": "Next Generation Nuclear Plant", "weight": 0.0, "id": 2780028244, "level": 3}
+{"count": 2477, "name": "Decay heat", "weight": 1.0, "id": 150328934, "level": 3}
+{"count": 4044, "name": "Breeder reactor", "weight": 1.0, "id": 2777108887, "level": 3}
+{"count": 798, "name": "MELCOR", "weight": 0.0, "id": 2776779305, "level": 3}
+{"count": 1981, "name": "VVER", "weight": 0.0, "id": 2777769504, "level": 3}
+{"count": 1286, "name": "TRIGA", "weight": 0.0, "id": 2778003068, "level": 3}
+{"count": 86, "name": "International Reactor Innovative and Secure", "weight": 0.0, "id": 2776187617, "level": 3}
+{"count": 2305, "name": "Containment building", "weight": 1.0, "id": 106221998, "level": 3}
+{"count": 542, "name": "CANDU reactor", "weight": 0.0, "id": 2780479465, "level": 3}
+{"count": 271, "name": "Gas-cooled fast reactor", "weight": 0.0, "id": 2778084261, "level": 3}
+{"count": 82, "name": "AVR reactor", "weight": 0.0, "id": 2779267019, "level": 3}
+{"count": 300, "name": "Pressurized heavy-water reactor", "weight": 0.0, "id": 2780993271, "level": 3}
+{"count": 100, "name": "Ford Nuclear Reactor", "weight": 0.0, "id": 2777825016, "level": 3}
+{"count": 129, "name": "Lead-cooled fast reactor", "weight": 0.0, "id": 2778780679, "level": 3}
+{"count": 127, "name": "Nuclear reactor physics", "weight": 0.0, "id": 2776170670, "level": 3}
+{"count": 741, "name": "RBMK", "weight": 0.0, "id": 2779404431, "level": 3}
+{"count": 176, "name": "Generation IV reactor", "weight": 0.0, "id": 2776361902, "level": 3}
+{"count": 37, "name": "Maria reactor", "weight": 0.0, "id": 2776573969, "level": 3}
+{"count": 775, "name": "Fast Flux Test Facility", "weight": 0.0, "id": 2776760297, "level": 3}
+{"count": 342, "name": "Experimental Breeder Reactor II", "weight": 0.0, "id": 2777820549, "level": 3}
+{"count": 151, "name": "Liquid metal cooled reactor", "weight": 0.0, "id": 2776447137, "level": 3}
+{"count": 14, "name": "BN-800 reactor", "weight": 0.0, "id": 2779371988, "level": 3}
+{"count": 51, "name": "CANFLEX", "weight": 0.0, "id": 2780265304, "level": 3}
+{"count": 307, "name": "Nuclear reactor coolant", "weight": 0.0, "id": 2779974686, "level": 3}
+{"count": 91, "name": "B Reactor", "weight": 0.0, "id": 2779650280, "level": 3}
+{"count": 167, "name": "Reactor operator", "weight": 0.0, "id": 2781065220, "level": 3}
+{"count": 48, "name": "THTR-300", "weight": 0.0, "id": 2775908633, "level": 3}
+{"count": 33, "name": "Clinch River Breeder Reactor Project", "weight": 0.0, "id": 2779789733, "level": 3}

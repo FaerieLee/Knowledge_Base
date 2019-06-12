@@ -1,0 +1,200 @@
+{"count": 57941, "name": "Data compression", "weight": 5.0, "id": 78548338, "level": 2}
+{"count": 29792, "name": "Parallel processing", "weight": 2.0, "id": 106515295, "level": 2}
+{"count": 58719, "name": "Cryptography", "weight": 5.0, "id": 178489894, "level": 2}
+{"count": 32369, "name": "Parallel algorithm", "weight": 3.0, "id": 120373497, "level": 2}
+{"count": 29217, "name": "Finite-state machine", "weight": 2.0, "id": 167822520, "level": 2}
+{"count": 22847, "name": "Formal specification", "weight": 2.0, "id": 116253237, "level": 2}
+{"count": 18369, "name": "Logic synthesis", "weight": 1.0, "id": 157922185, "level": 2}
+{"count": 22665, "name": "Block code", "weight": 2.0, "id": 157125643, "level": 2}
+{"count": 26457, "name": "Complex network", "weight": 2.0, "id": 34947359, "level": 2}
+{"count": 20237, "name": "Cellular automaton", "weight": 1.0, "id": 35527583, "level": 2}
+{"count": 13169, "name": "Boolean function", "weight": 1.0, "id": 187455244, "level": 2}
+{"count": 21624, "name": "Model checking", "weight": 2.0, "id": 110251889, "level": 2}
+{"count": 10481, "name": "Automated theorem proving", "weight": 0.0, "id": 206880738, "level": 2}
+{"count": 24675, "name": "Discrete cosine transform", "weight": 2.0, "id": 2221639, "level": 2}
+{"count": 15020, "name": "Digital signature", "weight": 1.0, "id": 118463975, "level": 2}
+{"count": 18355, "name": "Formal verification", "weight": 1.0, "id": 111498074, "level": 2}
+{"count": 29928, "name": "Hash function", "weight": 2.0, "id": 99138194, "level": 2}
+{"count": 9233, "name": "Functional programming", "weight": 0.0, "id": 42383842, "level": 2}
+{"count": 20887, "name": "Formal methods", "weight": 1.0, "id": 75606506, "level": 2}
+{"count": 106296, "name": "Encryption", "weight": 10.0, "id": 148730421, "level": 2}
+{"count": 7960, "name": "Temporal logic", "weight": 0.0, "id": 25016198, "level": 2}
+{"count": 24608, "name": "Programming paradigm", "weight": 2.0, "id": 34165917, "level": 2}
+{"count": 18552, "name": "Concurrency", "weight": 1.0, "id": 193702766, "level": 2}
+{"count": 14083, "name": "Symbolic computation", "weight": 1.0, "id": 110812573, "level": 2}
+{"count": 8487, "name": "High-level programming language", "weight": 0.0, "id": 19024347, "level": 2}
+{"count": 11709, "name": "Specification language", "weight": 1.0, "id": 201677973, "level": 2}
+{"count": 15512, "name": "Code generation", "weight": 1.0, "id": 133162039, "level": 2}
+{"count": 18365, "name": "Linear code", "weight": 1.0, "id": 2400350, "level": 2}
+{"count": 13156, "name": "Logic programming", "weight": 1.0, "id": 128838566, "level": 2}
+{"count": 4625, "name": "Divide and conquer algorithms", "weight": 0.0, "id": 71559656, "level": 2}
+{"count": 9833, "name": "Information hiding", "weight": 0.0, "id": 3073032, "level": 2}
+{"count": 7271, "name": "Program analysis", "weight": 0.0, "id": 98183937, "level": 2}
+{"count": 5681, "name": "Regular expression", "weight": 0.0, "id": 121329065, "level": 2}
+{"count": 3511, "name": "Discrete logarithm", "weight": 0.0, "id": 173259116, "level": 2}
+{"count": 6003, "name": "Control flow", "weight": 0.0, "id": 160191386, "level": 2}
+{"count": 5764, "name": "Communication complexity", "weight": 0.0, "id": 179145077, "level": 2}
+{"count": 9846, "name": "Description logic", "weight": 0.0, "id": 102993220, "level": 2}
+{"count": 6910, "name": "Automata theory", "weight": 0.0, "id": 116248031, "level": 2}
+{"count": 6581, "name": "Process calculus", "weight": 0.0, "id": 161771561, "level": 2}
+{"count": 3539, "name": "Abstract data type", "weight": 0.0, "id": 175971053, "level": 2}
+{"count": 3139, "name": "Expressive power", "weight": 0.0, "id": 195818886, "level": 2}
+{"count": 3340, "name": "Mutual exclusion", "weight": 0.0, "id": 56348326, "level": 2}
+{"count": 3839, "name": "Program transformation", "weight": 0.0, "id": 2778361913, "level": 2}
+{"count": 3980, "name": "Program optimization", "weight": 0.0, "id": 139571649, "level": 2}
+{"count": 5779, "name": "Random number generation", "weight": 0.0, "id": 201866948, "level": 2}
+{"count": 3361, "name": "Automatic programming", "weight": 0.0, "id": 2777394884, "level": 2}
+{"count": 5615, "name": "Binary decision diagram", "weight": 0.0, "id": 3309909, "level": 2}
+{"count": 5707, "name": "Visual programming language", "weight": 0.0, "id": 128644962, "level": 2}
+{"count": 3718, "name": "Coding theory", "weight": 0.0, "id": 113709454, "level": 2}
+{"count": 12254, "name": "Steganography", "weight": 1.0, "id": 108801101, "level": 2}
+{"count": 3731, "name": "State diagram", "weight": 0.0, "id": 16671368, "level": 2}
+{"count": 3620, "name": "Abstract interpretation", "weight": 0.0, "id": 2780654840, "level": 2}
+{"count": 14759, "name": "JPEG", "weight": 1.0, "id": 198751489, "level": 2}
+{"count": 5314, "name": "Vector processor", "weight": 0.0, "id": 161824985, "level": 2}
+{"count": 5747, "name": "Secure multi-party computation", "weight": 0.0, "id": 18396474, "level": 2}
+{"count": 10261, "name": "Modeling language", "weight": 0.0, "id": 179603123, "level": 2}
+{"count": 6996, "name": "Secret sharing", "weight": 0.0, "id": 3087436, "level": 2}
+{"count": 4996, "name": "Model transformation", "weight": 0.0, "id": 2779791154, "level": 2}
+{"count": 2755, "name": "Breadth-first search", "weight": 0.0, "id": 138843760, "level": 2}
+{"count": 1817, "name": "Generic programming", "weight": 0.0, "id": 7051814, "level": 2}
+{"count": 3999, "name": "Domain-specific language", "weight": 0.0, "id": 135257023, "level": 2}
+{"count": 6211, "name": "Quantum key distribution", "weight": 0.0, "id": 95466800, "level": 2}
+{"count": 9250, "name": "General-purpose computing on graphics processing units", "weight": 0.0, "id": 50630238, "level": 2}
+{"count": 8267, "name": "Reachability", "weight": 0.0, "id": 136643341, "level": 2}
+{"count": 8738, "name": "Constraint programming", "weight": 0.0, "id": 173404611, "level": 2}
+{"count": 2835, "name": "Abstract machine", "weight": 0.0, "id": 88977235, "level": 2}
+{"count": 11463, "name": "Prolog", "weight": 1.0, "id": 81721847, "level": 2}
+{"count": 4767, "name": "Linear temporal logic", "weight": 0.0, "id": 4777664, "level": 2}
+{"count": 2009, "name": "Intermediate language", "weight": 0.0, "id": 77660490, "level": 2}
+{"count": 2602, "name": "Symbolic execution", "weight": 0.0, "id": 2779639559, "level": 2}
+{"count": 12595, "name": "Pseudorandom number generator", "weight": 1.0, "id": 140642157, "level": 2}
+{"count": 2062, "name": "Type inference", "weight": 0.0, "id": 198370458, "level": 2}
+{"count": 2438, "name": "Dependence analysis", "weight": 0.0, "id": 27390822, "level": 2}
+{"count": 3947, "name": "Automated reasoning", "weight": 0.0, "id": 195344581, "level": 2}
+{"count": 2609, "name": "Erasure code", "weight": 0.0, "id": 137529215, "level": 2}
+{"count": 7334, "name": "Graphics processing unit", "weight": 0.0, "id": 2779851693, "level": 2}
+{"count": 1790, "name": "Partial evaluation", "weight": 0.0, "id": 195701839, "level": 2}
+{"count": 7142, "name": "Least significant bit", "weight": 0.0, "id": 4305246, "level": 2}
+{"count": 15031, "name": "Massively parallel", "weight": 1.0, "id": 190475519, "level": 2}
+{"count": 2886, "name": "Control flow graph", "weight": 0.0, "id": 27458966, "level": 2}
+{"count": 3083, "name": "Transition system", "weight": 0.0, "id": 2779167558, "level": 2}
+{"count": 2457, "name": "Symbolic data analysis", "weight": 0.0, "id": 65620979, "level": 2}
+{"count": 1031, "name": "Call graph", "weight": 0.0, "id": 102379954, "level": 2}
+{"count": 1546, "name": "Structured programming", "weight": 0.0, "id": 77781355, "level": 2}
+{"count": 1097, "name": "Logic in computer science", "weight": 0.0, "id": 2779740250, "level": 2}
+{"count": 2462, "name": "Automatic differentiation", "weight": 0.0, "id": 133512626, "level": 2}
+{"count": 2730, "name": "Theory of computation", "weight": 0.0, "id": 24858836, "level": 2}
+{"count": 4175, "name": "Quadtree", "weight": 0.0, "id": 151416825, "level": 2}
+{"count": 1129, "name": "Metaprogramming", "weight": 0.0, "id": 35390924, "level": 2}
+{"count": 3265, "name": "Vectorization (mathematics)", "weight": 0.0, "id": 41681595, "level": 2}
+{"count": 603, "name": "Standard ML", "weight": 0.0, "id": 2777758133, "level": 2}
+{"count": 4319, "name": "Boolean circuit", "weight": 0.0, "id": 141796577, "level": 2}
+{"count": 4874, "name": "Liveness", "weight": 0.0, "id": 15569618, "level": 2}
+{"count": 1502, "name": "Program synthesis", "weight": 0.0, "id": 2776937632, "level": 2}
+{"count": 1361, "name": "Deductive database", "weight": 0.0, "id": 2777502361, "level": 2}
+{"count": 1233, "name": "Natural computing", "weight": 0.0, "id": 192979234, "level": 2}
+{"count": 720, "name": "Integer factorization", "weight": 0.0, "id": 119677069, "level": 2}
+{"count": 28184, "name": "Certificate", "weight": 2.0, "id": 96865113, "level": 2}
+{"count": 327, "name": "Coroutine", "weight": 0.0, "id": 100602654, "level": 2}
+{"count": 3175, "name": "Type safety", "weight": 0.0, "id": 44779574, "level": 2}
+{"count": 4422, "name": "Data parallelism", "weight": 0.0, "id": 61483411, "level": 2}
+{"count": 665, "name": "Safety property", "weight": 0.0, "id": 2779128345, "level": 2}
+{"count": 1103, "name": "Separation logic", "weight": 0.0, "id": 173856430, "level": 2}
+{"count": 1099, "name": "Problem solving environment", "weight": 0.0, "id": 2780665868, "level": 2}
+{"count": 622, "name": "Message sequence chart", "weight": 0.0, "id": 82074703, "level": 2}
+{"count": 2849, "name": "Octree", "weight": 0.0, "id": 141297171, "level": 2}
+{"count": 855, "name": "Constructive solid geometry", "weight": 0.0, "id": 188032258, "level": 2}
+{"count": 903, "name": "Streaming algorithm", "weight": 0.0, "id": 187166803, "level": 2}
+{"count": 2843, "name": "Timed automaton", "weight": 0.0, "id": 30788636, "level": 2}
+{"count": 4075, "name": "Haskell", "weight": 0.0, "id": 2780624054, "level": 2}
+{"count": 2314, "name": "Datalog", "weight": 0.0, "id": 148230440, "level": 2}
+{"count": 1766, "name": "Imperative programming", "weight": 0.0, "id": 90871949, "level": 2}
+{"count": 2088, "name": "Dependency graph", "weight": 0.0, "id": 16311509, "level": 2}
+{"count": 6336, "name": "Dataflow", "weight": 0.0, "id": 96324660, "level": 2}
+{"count": 8202, "name": "Verifiable secret sharing", "weight": 0.0, "id": 85847156, "level": 2}
+{"count": 1614, "name": "Data dependency", "weight": 0.0, "id": 2776292856, "level": 2}
+{"count": 2303, "name": "Hybrid computer", "weight": 0.0, "id": 18789546, "level": 2}
+{"count": 1063, "name": "Control flow analysis", "weight": 0.0, "id": 176359209, "level": 2}
+{"count": 2049, "name": "Formal proof", "weight": 0.0, "id": 94461902, "level": 2}
+{"count": 1456, "name": "Basic block", "weight": 0.0, "id": 57584150, "level": 2}
+{"count": 5223, "name": "Block size", "weight": 0.0, "id": 41431624, "level": 2}
+{"count": 1271, "name": "Boolean data type", "weight": 0.0, "id": 7342684, "level": 2}
+{"count": 885, "name": "Out-of-core algorithm", "weight": 0.0, "id": 79470037, "level": 2}
+{"count": 2108, "name": "Exponentiation", "weight": 0.0, "id": 81539297, "level": 2}
+{"count": 1018, "name": "Communicating sequential processes", "weight": 0.0, "id": 155214134, "level": 2}
+{"count": 783, "name": "Predicate transformer semantics", "weight": 0.0, "id": 30128091, "level": 2}
+{"count": 1492, "name": "Satisfiability modulo theories", "weight": 0.0, "id": 164155591, "level": 2}
+{"count": 341, "name": "Assignment", "weight": 0.0, "id": 143749490, "level": 2}
+{"count": 551, "name": "Termination analysis", "weight": 0.0, "id": 194587824, "level": 2}
+{"count": 422, "name": "Binary space partitioning", "weight": 0.0, "id": 114279263, "level": 2}
+{"count": 2053, "name": "Simulation language", "weight": 0.0, "id": 141218545, "level": 2}
+{"count": 231, "name": "Programming by example", "weight": 0.0, "id": 2778999678, "level": 2}
+{"count": 848, "name": "Design rule checking", "weight": 0.0, "id": 206047858, "level": 2}
+{"count": 2891, "name": "Arbitrary-precision arithmetic", "weight": 0.0, "id": 83581934, "level": 2}
+{"count": 1549, "name": "Language construct", "weight": 0.0, "id": 48859967, "level": 2}
+{"count": 500, "name": "Approximate computing", "weight": 0.0, "id": 2781036252, "level": 2}
+{"count": 2610, "name": "Trie", "weight": 0.0, "id": 190290938, "level": 2}
+{"count": 1322, "name": "Geometric primitive", "weight": 0.0, "id": 181095308, "level": 2}
+{"count": 777, "name": "Boolean operations in computer-aided design", "weight": 0.0, "id": 22126921, "level": 2}
+{"count": 818, "name": "Refinement calculus", "weight": 0.0, "id": 90483712, "level": 2}
+{"count": 23953, "name": "AND gate", "weight": 2.0, "id": 10418432, "level": 2}
+{"count": 977, "name": "Composability", "weight": 0.0, "id": 2778814252, "level": 2}
+{"count": 335, "name": "Cycle detection", "weight": 0.0, "id": 44883547, "level": 2}
+{"count": 148, "name": "Call site", "weight": 0.0, "id": 2777149120, "level": 2}
+{"count": 297, "name": "Primitive data type", "weight": 0.0, "id": 76219332, "level": 2}
+{"count": 2733, "name": "HOL", "weight": 0.0, "id": 17435882, "level": 2}
+{"count": 4093, "name": "Bitwise operation", "weight": 0.0, "id": 134765980, "level": 2}
+{"count": 636, "name": "Loop tiling", "weight": 0.0, "id": 11799548, "level": 2}
+{"count": 49, "name": "Verification condition generator", "weight": 0.0, "id": 2781286951, "level": 2}
+{"count": 339, "name": "Strong and weak typing", "weight": 0.0, "id": 147054249, "level": 2}
+{"count": 1875, "name": "Algebraic operation", "weight": 0.0, "id": 136003732, "level": 2}
+{"count": 1663, "name": "Descriptive complexity theory", "weight": 0.0, "id": 133142742, "level": 2}
+{"count": 837, "name": "Interaction overview diagram", "weight": 0.0, "id": 68438427, "level": 2}
+{"count": 282, "name": "Data compaction", "weight": 0.0, "id": 174457722, "level": 2}
+{"count": 1168, "name": "Precomputation", "weight": 0.0, "id": 159379195, "level": 2}
+{"count": 458, "name": "Bio-inspired computing", "weight": 0.0, "id": 169492733, "level": 2}
+{"count": 2419, "name": "Worst-case complexity", "weight": 0.0, "id": 96563100, "level": 2}
+{"count": 560, "name": "Karnaugh map", "weight": 0.0, "id": 63328687, "level": 2}
+{"count": 717, "name": "Programming style", "weight": 0.0, "id": 2776245389, "level": 2}
+{"count": 152, "name": "Algorithmic logic", "weight": 0.0, "id": 2777230049, "level": 2}
+{"count": 554, "name": "MathML", "weight": 0.0, "id": 7398558, "level": 2}
+{"count": 318, "name": "Object graph", "weight": 0.0, "id": 2778051648, "level": 2}
+{"count": 967, "name": "Image sharing", "weight": 0.0, "id": 2780639701, "level": 2}
+{"count": 832, "name": "Set operations", "weight": 0.0, "id": 2777168461, "level": 2}
+{"count": 665, "name": "Pseudocode", "weight": 0.0, "id": 176822592, "level": 2}
+{"count": 660, "name": "Intersection (set theory)", "weight": 0.0, "id": 41547737, "level": 2}
+{"count": 287, "name": "Dynamic dispatch", "weight": 0.0, "id": 2779717432, "level": 2}
+{"count": 351, "name": "Bigraph", "weight": 0.0, "id": 122857504, "level": 2}
+{"count": 271, "name": "Alloy Analyzer", "weight": 0.0, "id": 193237570, "level": 2}
+{"count": 353, "name": "While loop", "weight": 0.0, "id": 134224410, "level": 2}
+{"count": 122, "name": "Defunctionalization", "weight": 0.0, "id": 185359450, "level": 2}
+{"count": 759, "name": "Turing completeness", "weight": 0.0, "id": 112123754, "level": 2}
+{"count": 208, "name": "NESSIE", "weight": 0.0, "id": 2776437066, "level": 2}
+{"count": 58, "name": "All-to-all communication", "weight": 0.0, "id": 83585413, "level": 2}
+{"count": 421, "name": "Iterator", "weight": 0.0, "id": 2779466404, "level": 2}
+{"count": 1585, "name": "Structural complexity theory", "weight": 0.0, "id": 131583701, "level": 2}
+{"count": 1233, "name": "Fan-in", "weight": 0.0, "id": 179431463, "level": 2}
+{"count": 1018, "name": "Intel iPSC", "weight": 0.0, "id": 199115840, "level": 2}
+{"count": 360, "name": "Core language", "weight": 0.0, "id": 184422994, "level": 2}
+{"count": 93, "name": "Anamorphism", "weight": 0.0, "id": 2780338566, "level": 2}
+{"count": 217, "name": "Subject reduction", "weight": 0.0, "id": 2775861425, "level": 2}
+{"count": 125, "name": "Referential transparency", "weight": 0.0, "id": 126492120, "level": 2}
+{"count": 158, "name": "General-purpose programming language", "weight": 0.0, "id": 2778984776, "level": 2}
+{"count": 479, "name": "Coinduction", "weight": 0.0, "id": 40220748, "level": 2}
+{"count": 283, "name": "Order of operations", "weight": 0.0, "id": 182018041, "level": 2}
+{"count": 279, "name": "Type signature", "weight": 0.0, "id": 200660054, "level": 2}
+{"count": 304, "name": "ILLIAC", "weight": 0.0, "id": 93155101, "level": 2}
+{"count": 17, "name": "Communication-avoiding algorithms", "weight": 0.0, "id": 2780540825, "level": 2}
+{"count": 292, "name": "Serial code", "weight": 0.0, "id": 2777310852, "level": 2}
+{"count": 173, "name": "GapP", "weight": 0.0, "id": 2781289498, "level": 2}
+{"count": 192, "name": "Liskov substitution principle", "weight": 0.0, "id": 56349677, "level": 2}
+{"count": 2663, "name": "Gas meter prover", "weight": 0.0, "id": 159718280, "level": 2}
+{"count": 171, "name": "Union type", "weight": 0.0, "id": 11778016, "level": 2}
+{"count": 147, "name": "Explicit parallelism", "weight": 0.0, "id": 2776985760, "level": 2}
+{"count": 176, "name": "Bounds checking", "weight": 0.0, "id": 135629752, "level": 2}
+{"count": 170, "name": "Reverse Polish notation", "weight": 0.0, "id": 76481851, "level": 2}
+{"count": 126, "name": "SNOBOL", "weight": 0.0, "id": 150911734, "level": 2}
+{"count": 146, "name": "Backus\u2013Naur Form", "weight": 0.0, "id": 165234147, "level": 2}
+{"count": 13, "name": "Book cipher", "weight": 0.0, "id": 2779603537, "level": 2}
+{"count": 11753, "name": "Inductive programming", "weight": 1.0, "id": 50033165, "level": 2}

@@ -1,0 +1,11 @@
+{"count": 1754, "name": "Image subtraction", "weight": 2.0, "id": 37672646, "level": 4}
+{"count": 8038, "name": "Image gradient", "weight": 10.0, "id": 182037307, "level": 4}
+{"count": 2861, "name": "Free boundary condition", "weight": 3.0, "id": 84703498, "level": 4}
+{"count": 4541, "name": "Top-hat transform", "weight": 5.0, "id": 180064427, "level": 4}
+{"count": 1976, "name": "U-matrix", "weight": 2.0, "id": 60350092, "level": 4}
+{"count": 433, "name": "Morphological skeleton", "weight": 0.0, "id": 122695362, "level": 4}
+{"count": 4237, "name": "Pixel connectivity", "weight": 5.0, "id": 42177820, "level": 4}
+{"count": 1987, "name": "Microscope image processing", "weight": 2.0, "id": 6972705, "level": 4}
+{"count": 308, "name": "Neighborhood operation", "weight": 0.0, "id": 15903119, "level": 4}
+{"count": 333, "name": "Erect image", "weight": 0.0, "id": 29696803, "level": 4}
+{"count": 2953, "name": "Clipping (photography)", "weight": 3.0, "id": 96755915, "level": 4}

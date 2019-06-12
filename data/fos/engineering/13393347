@@ -1,0 +1,40 @@
+{"count": 15563, "name": "Aeroelasticity", "weight": 10.0, "id": 117185709, "level": 3}
+{"count": 10322, "name": "Aerodynamic force", "weight": 6.0, "id": 132557482, "level": 3}
+{"count": 3558, "name": "Delta wing", "weight": 2.0, "id": 94531399, "level": 3}
+{"count": 2540, "name": "Swept wing", "weight": 1.0, "id": 207390838, "level": 3}
+{"count": 5663, "name": "Lift-to-drag ratio", "weight": 3.0, "id": 107157880, "level": 3}
+{"count": 1923, "name": "Stability derivatives", "weight": 1.0, "id": 59681308, "level": 3}
+{"count": 3413, "name": "Crosswind", "weight": 2.0, "id": 95082708, "level": 3}
+{"count": 3870, "name": "Pitching moment", "weight": 2.0, "id": 46820840, "level": 3}
+{"count": 723, "name": "Vortex lattice method", "weight": 0.0, "id": 2778715912, "level": 3}
+{"count": 249, "name": "Wind-turbine aerodynamics", "weight": 0.0, "id": 2777751561, "level": 3}
+{"count": 130, "name": "Supersonic airfoils", "weight": 0.0, "id": 2779798683, "level": 3}
+{"count": 369, "name": "Lifting-line theory", "weight": 0.0, "id": 93187555, "level": 3}
+{"count": 443, "name": "Fineness ratio", "weight": 0.0, "id": 97401097, "level": 3}
+{"count": 1934, "name": "Blade element theory", "weight": 1.0, "id": 55589367, "level": 3}
+{"count": 384, "name": "Gurney flap", "weight": 0.0, "id": 2779943039, "level": 3}
+{"count": 1284, "name": "Reduced frequency", "weight": 0.0, "id": 2777152854, "level": 3}
+{"count": 2432, "name": "NACA airfoil", "weight": 1.0, "id": 189360488, "level": 3}
+{"count": 603, "name": "Downforce", "weight": 0.0, "id": 64970572, "level": 3}
+{"count": 411, "name": "Supercritical airfoil", "weight": 0.0, "id": 2778796009, "level": 3}
+{"count": 48, "name": "V formation", "weight": 0.0, "id": 2779067692, "level": 3}
+{"count": 312, "name": "Post stall", "weight": 0.0, "id": 2781202724, "level": 3}
+{"count": 363, "name": "XFOIL", "weight": 0.0, "id": 2778597625, "level": 3}
+{"count": 386, "name": "Aeromechanics", "weight": 0.0, "id": 67808751, "level": 3}
+{"count": 156, "name": "Ballute", "weight": 0.0, "id": 2781033438, "level": 3}
+{"count": 314, "name": "United States Air Force Stability and Control Digital DATCOM", "weight": 0.0, "id": 189996062, "level": 3}
+{"count": 91, "name": "T-tail", "weight": 0.0, "id": 2780733711, "level": 3}
+{"count": 269, "name": "Static margin", "weight": 0.0, "id": 120255206, "level": 3}
+{"count": 34, "name": "Thorax (insect anatomy)", "weight": 0.0, "id": 97834683, "level": 3}
+{"count": 3733, "name": "Wing twist", "weight": 2.0, "id": 137990359, "level": 3}
+{"count": 112, "name": "Trapezoidal wing", "weight": 0.0, "id": 2777745747, "level": 3}
+{"count": 267, "name": "Tailplane", "weight": 0.0, "id": 2780266537, "level": 3}
+{"count": 47, "name": "Decambering", "weight": 0.0, "id": 2776767746, "level": 3}
+{"count": 45, "name": "Unpowered flight", "weight": 0.0, "id": 542223264, "level": 3}
+{"count": 294, "name": "Steady flight", "weight": 0.0, "id": 2779826969, "level": 3}
+{"count": 42, "name": "Wing-shape optimization", "weight": 0.0, "id": 2778037175, "level": 3}
+{"count": 20, "name": "Drag count", "weight": 0.0, "id": 2776933366, "level": 3}
+{"count": 47, "name": "Aeroacoustic analogy", "weight": 0.0, "id": 2780570235, "level": 3}
+{"count": 20, "name": "Cyclorotor", "weight": 0.0, "id": 2776370381, "level": 3}
+{"count": 75, "name": "Clean configuration", "weight": 0.0, "id": 2776487565, "level": 3}
+{"count": 67, "name": "Aeroprediction", "weight": 0.0, "id": 2776298355, "level": 3}

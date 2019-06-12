@@ -1,0 +1,5 @@
+{"count": 244, "name": "UMAC", "weight": 9.0, "id": 79746689, "level": 5}
+{"count": 106, "name": "Cryptographic Message Syntax", "weight": 3.0, "id": 105377143, "level": 5}
+{"count": 277, "name": "Length extension attack", "weight": 10.0, "id": 174176344, "level": 5}
+{"count": 7, "name": "DRYAD", "weight": 0.0, "id": 27337787, "level": 5}
+{"count": 117, "name": "Random number generator attack", "weight": 4.0, "id": 174659292, "level": 5}

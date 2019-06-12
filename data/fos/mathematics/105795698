@@ -1,0 +1,200 @@
+{"count": 222738, "name": "Monte Carlo method", "weight": 3.0, "id": 19499675, "level": 2}
+{"count": 38487, "name": "Seasonality", "weight": 0.0, "id": 125403950, "level": 2}
+{"count": 135324, "name": "Mathematical model", "weight": 1.0, "id": 76969082, "level": 2}
+{"count": 163601, "name": "Computer simulation", "weight": 2.0, "id": 500300565, "level": 2}
+{"count": 144225, "name": "Regression analysis", "weight": 2.0, "id": 152877465, "level": 2}
+{"count": 281977, "name": "Randomized controlled trial", "weight": 3.0, "id": 168563851, "level": 2}
+{"count": 89983, "name": "Stochastic process", "weight": 1.0, "id": 8272713, "level": 2}
+{"count": 134585, "name": "Cohort study", "weight": 1.0, "id": 201903717, "level": 2}
+{"count": 101419, "name": "Confidence interval", "weight": 1.0, "id": 44249647, "level": 2}
+{"count": 302137, "name": "Sampling (statistics)", "weight": 4.0, "id": 90842384, "level": 2}
+{"count": 236743, "name": "Data collection", "weight": 3.0, "id": 133462117, "level": 2}
+{"count": 49267, "name": "Maximum likelihood", "weight": 0.0, "id": 49781872, "level": 2}
+{"count": 25218, "name": "Statistical significance", "weight": 0.0, "id": 65409693, "level": 2}
+{"count": 86859, "name": "Estimation theory", "weight": 1.0, "id": 167928553, "level": 2}
+{"count": 43350, "name": "Multivariate analysis", "weight": 0.0, "id": 38180746, "level": 2}
+{"count": 90711, "name": "Least squares", "weight": 1.0, "id": 176012381, "level": 2}
+{"count": 50182, "name": "Spatial distribution", "weight": 0.0, "id": 2777016058, "level": 2}
+{"count": 55104, "name": "Case-control study", "weight": 0.0, "id": 146304588, "level": 2}
+{"count": 201692, "name": "Calibration", "weight": 2.0, "id": 165838908, "level": 2}
+{"count": 61223, "name": "Statistical model", "weight": 0.0, "id": 114289077, "level": 2}
+{"count": 97345, "name": "Linear regression", "weight": 1.0, "id": 48921125, "level": 2}
+{"count": 93313, "name": "Cross-sectional study", "weight": 1.0, "id": 142052008, "level": 2}
+{"count": 176350, "name": "Retrospective cohort study", "weight": 2.0, "id": 167135981, "level": 2}
+{"count": 43837, "name": "Analysis of variance", "weight": 0.0, "id": 99476002, "level": 2}
+{"count": 90324, "name": "Detection limit", "weight": 1.0, "id": 119128265, "level": 2}
+{"count": 204933, "name": "Empirical research", "weight": 2.0, "id": 120936955, "level": 2}
+{"count": 11412, "name": "Cumulant", "weight": 0.0, "id": 172686274, "level": 2}
+{"count": 63418, "name": "Logistic regression", "weight": 0.0, "id": 151956035, "level": 2}
+{"count": 57016, "name": "Statistical hypothesis testing", "weight": 0.0, "id": 87007009, "level": 2}
+{"count": 74695, "name": "Probability distribution", "weight": 1.0, "id": 149441793, "level": 2}
+{"count": 83300, "name": "Standard deviation", "weight": 1.0, "id": 22679943, "level": 2}
+{"count": 59409, "name": "Probability density function", "weight": 0.0, "id": 197055811, "level": 2}
+{"count": 37792, "name": "Power law", "weight": 0.0, "id": 87040749, "level": 2}
+{"count": 33779, "name": "Test validity", "weight": 0.0, "id": 116211729, "level": 2}
+{"count": 10133, "name": "Randomization", "weight": 0.0, "id": 204243189, "level": 2}
+{"count": 47265, "name": "Spatial variability", "weight": 0.0, "id": 94747663, "level": 2}
+{"count": 30199, "name": "Information theory", "weight": 0.0, "id": 52622258, "level": 2}
+{"count": 28623, "name": "Degrees of freedom (statistics)", "weight": 0.0, "id": 6841354, "level": 2}
+{"count": 83254, "name": "Program evaluation", "weight": 1.0, "id": 5395021, "level": 2}
+{"count": 54596, "name": "Time series", "weight": 0.0, "id": 151406439, "level": 2}
+{"count": 55006, "name": "Markov process", "weight": 0.0, "id": 159886148, "level": 2}
+{"count": 142175, "name": "Decoding methods", "weight": 1.0, "id": 57273362, "level": 2}
+{"count": 53475, "name": "Random variable", "weight": 0.0, "id": 122123141, "level": 2}
+{"count": 52087, "name": "Spectral density", "weight": 0.0, "id": 168110828, "level": 2}
+{"count": 43107, "name": "Linear model", "weight": 0.0, "id": 163175372, "level": 2}
+{"count": 38732, "name": "Correlation function", "weight": 0.0, "id": 124897322, "level": 2}
+{"count": 69930, "name": "Sample size determination", "weight": 0.0, "id": 129848803, "level": 2}
+{"count": 78551, "name": "Coding (social sciences)", "weight": 1.0, "id": 179518139, "level": 2}
+{"count": 58962, "name": "Correlation coefficient", "weight": 0.0, "id": 2780092901, "level": 2}
+{"count": 19281, "name": "Survival analysis", "weight": 0.0, "id": 10515644, "level": 2}
+{"count": 83802, "name": "Field experiment", "weight": 1.0, "id": 75639521, "level": 2}
+{"count": 69128, "name": "Longitudinal study", "weight": 0.0, "id": 2777895361, "level": 2}
+{"count": 27234, "name": "Detection theory", "weight": 0.0, "id": 137270730, "level": 2}
+{"count": 62988, "name": "Bayesian probability", "weight": 0.0, "id": 107673813, "level": 2}
+{"count": 77735, "name": "Markov chain", "weight": 1.0, "id": 98763669, "level": 2}
+{"count": 46634, "name": "Research design", "weight": 0.0, "id": 2779318504, "level": 2}
+{"count": 36197, "name": "Covariance matrix", "weight": 0.0, "id": 185142706, "level": 2}
+{"count": 59190, "name": "Relative risk", "weight": 0.0, "id": 82789193, "level": 2}
+{"count": 55363, "name": "Mean squared error", "weight": 0.0, "id": 139945424, "level": 2}
+{"count": 31343, "name": "Structural equation modeling", "weight": 0.0, "id": 71104824, "level": 2}
+{"count": 34973, "name": "Observational error", "weight": 0.0, "id": 19619285, "level": 2}
+{"count": 125813, "name": "Odds ratio", "weight": 1.0, "id": 156957248, "level": 2}
+{"count": 36564, "name": "Parametrization", "weight": 0.0, "id": 106199856, "level": 2}
+{"count": 40348, "name": "Autocorrelation", "weight": 0.0, "id": 5297727, "level": 2}
+{"count": 717151, "name": "Communication channel", "weight": 10.0, "id": 156996364, "level": 2}
+{"count": 33139, "name": "Stochastic modelling", "weight": 0.0, "id": 127491075, "level": 2}
+{"count": 44171, "name": "Panel data", "weight": 0.0, "id": 6422946, "level": 2}
+{"count": 26336, "name": "Gaussian process", "weight": 0.0, "id": 61326573, "level": 2}
+{"count": 40876, "name": "State space", "weight": 0.0, "id": 72434380, "level": 2}
+{"count": 18186, "name": "Cross-correlation", "weight": 0.0, "id": 163018871, "level": 2}
+{"count": 20764, "name": "Expectation\u2013maximization algorithm", "weight": 0.0, "id": 182081679, "level": 2}
+{"count": 33945, "name": "Random walk", "weight": 0.0, "id": 121194460, "level": 2}
+{"count": 36599, "name": "Linear discriminant analysis", "weight": 0.0, "id": 69738355, "level": 2}
+{"count": 18750, "name": "Probability theory", "weight": 0.0, "id": 122203268, "level": 2}
+{"count": 28142, "name": "White noise", "weight": 0.0, "id": 112633086, "level": 2}
+{"count": 23003, "name": "Normal distribution", "weight": 0.0, "id": 102094743, "level": 2}
+{"count": 17359, "name": "Decision theory", "weight": 0.0, "id": 28901747, "level": 2}
+{"count": 30459, "name": "Gaussian noise", "weight": 0.0, "id": 4199805, "level": 2}
+{"count": 50115, "name": "Community structure", "weight": 0.0, "id": 133079900, "level": 2}
+{"count": 104586, "name": "Observational study", "weight": 1.0, "id": 23131810, "level": 2}
+{"count": 38793, "name": "Autoregressive model", "weight": 0.0, "id": 159877910, "level": 2}
+{"count": 50999, "name": "Spatial analysis", "weight": 0.0, "id": 159620131, "level": 2}
+{"count": 45179, "name": "Critical value", "weight": 0.0, "id": 71773600, "level": 2}
+{"count": 35522, "name": "Optimal design", "weight": 0.0, "id": 186394612, "level": 2}
+{"count": 25708, "name": "Trend analysis", "weight": 0.0, "id": 127142870, "level": 2}
+{"count": 55604, "name": "Survey data collection", "weight": 0.0, "id": 198477413, "level": 2}
+{"count": 74275, "name": "Hazard ratio", "weight": 1.0, "id": 207103383, "level": 2}
+{"count": 19023, "name": "Goodness of fit", "weight": 0.0, "id": 132480984, "level": 2}
+{"count": 18676, "name": "Standard error", "weight": 0.0, "id": 18747219, "level": 2}
+{"count": 19110, "name": "Cross-validation", "weight": 0.0, "id": 27181475, "level": 2}
+{"count": 26876, "name": "Missing data", "weight": 0.0, "id": 9357733, "level": 2}
+{"count": 90112, "name": "Multivariate statistics", "weight": 1.0, "id": 161584116, "level": 2}
+{"count": 31537, "name": "Construct validity", "weight": 0.0, "id": 49453240, "level": 2}
+{"count": 27811, "name": "Mixture model", "weight": 0.0, "id": 61224824, "level": 2}
+{"count": 23326, "name": "Parameter space", "weight": 0.0, "id": 73586568, "level": 2}
+{"count": 37259, "name": "Convolution", "weight": 0.0, "id": 152003226, "level": 2}
+{"count": 25056, "name": "Curve fitting", "weight": 0.0, "id": 184389593, "level": 2}
+{"count": 23349, "name": "Econometric model", "weight": 0.0, "id": 180075932, "level": 2}
+{"count": 29220, "name": "Bayesian inference", "weight": 0.0, "id": 160234255, "level": 2}
+{"count": 27374, "name": "Sensor array", "weight": 0.0, "id": 66251956, "level": 2}
+{"count": 15556, "name": "Random effects model", "weight": 0.0, "id": 168743327, "level": 2}
+{"count": 28041, "name": "Receiver operating characteristic", "weight": 0.0, "id": 58471807, "level": 2}
+{"count": 16823, "name": "Coefficient of variation", "weight": 0.0, "id": 89838059, "level": 2}
+{"count": 17421, "name": "Relative species abundance", "weight": 0.0, "id": 122325731, "level": 2}
+{"count": 7812, "name": "Interaction", "weight": 0.0, "id": 855514, "level": 2}
+{"count": 37688, "name": "Data reduction", "weight": 0.0, "id": 153914771, "level": 2}
+{"count": 16830, "name": "Posterior probability", "weight": 0.0, "id": 57830394, "level": 2}
+{"count": 10964, "name": "Instrumental variable", "weight": 0.0, "id": 162144332, "level": 2}
+{"count": 11841, "name": "Analysis of covariance", "weight": 0.0, "id": 119340705, "level": 2}
+{"count": 26677, "name": "Bayes' theorem", "weight": 0.0, "id": 207201462, "level": 2}
+{"count": 11831, "name": "Mixed model", "weight": 0.0, "id": 16012445, "level": 2}
+{"count": 17095, "name": "Diffusion process", "weight": 0.0, "id": 68710425, "level": 2}
+{"count": 18733, "name": "Intelligence quotient", "weight": 0.0, "id": 166047926, "level": 2}
+{"count": 23268, "name": "Repeated measures design", "weight": 0.0, "id": 102959455, "level": 2}
+{"count": 19038, "name": "Model selection", "weight": 0.0, "id": 93959086, "level": 2}
+{"count": 8726, "name": "Reproducibility", "weight": 0.0, "id": 9893847, "level": 2}
+{"count": 16835, "name": "Principle of maximum entropy", "weight": 0.0, "id": 9679016, "level": 2}
+{"count": 9663, "name": "Statistical power", "weight": 0.0, "id": 96608239, "level": 2}
+{"count": 7875, "name": "Multiple comparisons problem", "weight": 0.0, "id": 183905921, "level": 2}
+{"count": 19290, "name": "Expected value", "weight": 0.0, "id": 141042865, "level": 2}
+{"count": 49206, "name": "Poisson distribution", "weight": 0.0, "id": 100906024, "level": 2}
+{"count": 23386, "name": "Multilevel model", "weight": 0.0, "id": 53059260, "level": 2}
+{"count": 44958, "name": "Covariance", "weight": 0.0, "id": 178650346, "level": 2}
+{"count": 21092, "name": "Conditioning", "weight": 0.0, "id": 45262634, "level": 2}
+{"count": 48356, "name": "Nonparametric statistics", "weight": 0.0, "id": 102366305, "level": 2}
+{"count": 16850, "name": "Extreme value theory", "weight": 0.0, "id": 147581598, "level": 2}
+{"count": 25765, "name": "Data envelopment analysis", "weight": 0.0, "id": 22088475, "level": 2}
+{"count": 16583, "name": "Statistical inference", "weight": 0.0, "id": 134261354, "level": 2}
+{"count": 18768, "name": "Decision rule", "weight": 0.0, "id": 84839998, "level": 2}
+{"count": 19254, "name": "Random field", "weight": 0.0, "id": 130402806, "level": 2}
+{"count": 8229, "name": "Computer experiment", "weight": 0.0, "id": 87466663, "level": 2}
+{"count": 13049, "name": "Information flow (information theory)", "weight": 0.0, "id": 107054480, "level": 2}
+{"count": 15743, "name": "Weight function", "weight": 0.0, "id": 134466208, "level": 2}
+{"count": 12960, "name": "Random graph", "weight": 0.0, "id": 47458327, "level": 2}
+{"count": 11895, "name": "Mean squared prediction error", "weight": 0.0, "id": 167085575, "level": 2}
+{"count": 14731, "name": "Exponential distribution", "weight": 0.0, "id": 55350006, "level": 2}
+{"count": 9352, "name": "Scale invariance", "weight": 0.0, "id": 135593079, "level": 2}
+{"count": 9645, "name": "Density estimation", "weight": 0.0, "id": 189508267, "level": 2}
+{"count": 7946, "name": "Phenomenological model", "weight": 0.0, "id": 2779569378, "level": 2}
+{"count": 46585, "name": "Shrinkage", "weight": 0.0, "id": 180145272, "level": 2}
+{"count": 10197, "name": "Likelihood-ratio test", "weight": 0.0, "id": 9483764, "level": 2}
+{"count": 12808, "name": "Uniform distribution (continuous)", "weight": 0.0, "id": 108882938, "level": 2}
+{"count": 13773, "name": "Design of experiments", "weight": 0.0, "id": 34559072, "level": 2}
+{"count": 22520, "name": "Information exchange", "weight": 0.0, "id": 189693848, "level": 2}
+{"count": 12469, "name": "Failure rate", "weight": 0.0, "id": 163164238, "level": 2}
+{"count": 10066, "name": "Log-normal distribution", "weight": 0.0, "id": 151620405, "level": 2}
+{"count": 10114, "name": "Selection bias", "weight": 0.0, "id": 40423286, "level": 2}
+{"count": 26345, "name": "Data stream", "weight": 0.0, "id": 2778484313, "level": 2}
+{"count": 15516, "name": "Moving average", "weight": 0.0, "id": 175706884, "level": 2}
+{"count": 26242, "name": "Confirmatory factor analysis", "weight": 0.0, "id": 40722632, "level": 2}
+{"count": 7362, "name": "Chi-square test", "weight": 0.0, "id": 32809988, "level": 2}
+{"count": 26770, "name": "Homogeneity (statistics)", "weight": 0.0, "id": 142259097, "level": 2}
+{"count": 8816, "name": "Gibbs sampling", "weight": 0.0, "id": 158424031, "level": 2}
+{"count": 10885, "name": "Order statistic", "weight": 0.0, "id": 44082924, "level": 2}
+{"count": 14675, "name": "Factorial experiment", "weight": 0.0, "id": 169222746, "level": 2}
+{"count": 8344, "name": "Bootstrapping (electronics)", "weight": 0.0, "id": 17144299, "level": 2}
+{"count": 24743, "name": "Metrology", "weight": 0.0, "id": 195766429, "level": 2}
+{"count": 14855, "name": "Predictive validity", "weight": 0.0, "id": 20685875, "level": 2}
+{"count": 12083, "name": "Path analysis (statistics)", "weight": 0.0, "id": 82793941, "level": 2}
+{"count": 31087, "name": "Extrapolation", "weight": 0.0, "id": 132459708, "level": 2}
+{"count": 49436, "name": "Test method", "weight": 0.0, "id": 132519959, "level": 2}
+{"count": 21437, "name": "Educational assessment", "weight": 0.0, "id": 188231857, "level": 2}
+{"count": 9389, "name": "Multidimensional scaling", "weight": 0.0, "id": 91682802, "level": 2}
+{"count": 63583, "name": "Variables", "weight": 0.0, "id": 27574286, "level": 2}
+{"count": 16732, "name": "Response surface methodology", "weight": 0.0, "id": 150077022, "level": 2}
+{"count": 7324, "name": "Communication theory", "weight": 0.0, "id": 3716254, "level": 2}
+{"count": 23725, "name": "Weibull distribution", "weight": 0.0, "id": 173291955, "level": 2}
+{"count": 6650, "name": "Geometric mean", "weight": 0.0, "id": 40222840, "level": 2}
+{"count": 11498, "name": "Conditional probability", "weight": 0.0, "id": 44492722, "level": 2}
+{"count": 21434, "name": "Prior probability", "weight": 0.0, "id": 177769412, "level": 2}
+{"count": 19119, "name": "Information transfer", "weight": 0.0, "id": 8854915, "level": 2}
+{"count": 6379, "name": "Poisson process", "weight": 0.0, "id": 166144826, "level": 2}
+{"count": 11082, "name": "Statistical theory", "weight": 0.0, "id": 48057537, "level": 2}
+{"count": 6043, "name": "Local time", "weight": 0.0, "id": 41479618, "level": 2}
+{"count": 8974, "name": "Unit root", "weight": 0.0, "id": 195561663, "level": 2}
+{"count": 18712, "name": "Measurement uncertainty", "weight": 0.0, "id": 137209882, "level": 2}
+{"count": 27300, "name": "Decision analysis", "weight": 0.0, "id": 186116695, "level": 2}
+{"count": 10918, "name": "Probability measure", "weight": 0.0, "id": 21031990, "level": 2}
+{"count": 6966, "name": "Contingency table", "weight": 0.0, "id": 91998498, "level": 2}
+{"count": 13496, "name": "Latent variable", "weight": 0.0, "id": 51167844, "level": 2}
+{"count": 3693, "name": "Specification", "weight": 0.0, "id": 117222624, "level": 2}
+{"count": 17683, "name": "Narrowband", "weight": 0.0, "id": 2776096036, "level": 2}
+{"count": 10969, "name": "Inter-rater reliability", "weight": 0.0, "id": 61863361, "level": 2}
+{"count": 15602, "name": "Propensity score matching", "weight": 0.0, "id": 17923572, "level": 2}
+{"count": 10371, "name": "Conditional probability distribution", "weight": 0.0, "id": 43555835, "level": 2}
+{"count": 12718, "name": "Discrete event simulation", "weight": 0.0, "id": 147203929, "level": 2}
+{"count": 14000, "name": "Stochastic programming", "weight": 0.0, "id": 137631369, "level": 2}
+{"count": 1357, "name": "Chi-squared distribution", "weight": 0.0, "id": 89447420, "level": 2}
+{"count": 11961, "name": "Central limit theorem", "weight": 0.0, "id": 166785042, "level": 2}
+{"count": 7915, "name": "Errors-in-variables models", "weight": 0.0, "id": 179024874, "level": 2}
+{"count": 7834, "name": "Generalized linear model", "weight": 0.0, "id": 41587187, "level": 2}
+{"count": 13740, "name": "Method of moments (statistics)", "weight": 0.0, "id": 60135418, "level": 2}
+{"count": 121442, "name": "Probabilistic logic", "weight": 1.0, "id": 49937458, "level": 2}
+{"count": 10536, "name": "Expected utility hypothesis", "weight": 0.0, "id": 205706631, "level": 2}
+{"count": 5425, "name": "Pareto distribution", "weight": 0.0, "id": 190373308, "level": 2}
+{"count": 24168, "name": "Randomness", "weight": 0.0, "id": 125112378, "level": 2}
+{"count": 21375, "name": "Confounding", "weight": 0.0, "id": 77350462, "level": 2}
+{"count": 47606, "name": "Questionnaire", "weight": 0.0, "id": 59364581, "level": 2}
+{"count": 7744, "name": "Fisher information", "weight": 0.0, "id": 29406490, "level": 2}
+{"count": 12850, "name": "Item response theory", "weight": 0.0, "id": 19875794, "level": 2}

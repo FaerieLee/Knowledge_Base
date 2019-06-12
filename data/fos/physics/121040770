@@ -1,0 +1,25 @@
+{"count": 7186, "name": "Quantum nonlocality", "weight": 7.0, "id": 138622882, "level": 3}
+{"count": 3768, "name": "Spontaneous parametric down-conversion", "weight": 4.0, "id": 203103908, "level": 3}
+{"count": 5656, "name": "Quantum teleportation", "weight": 6.0, "id": 91717678, "level": 3}
+{"count": 1880, "name": "EPR paradox", "weight": 2.0, "id": 171811987, "level": 3}
+{"count": 1391, "name": "Von Neumann entropy", "weight": 1.0, "id": 101973423, "level": 3}
+{"count": 1046, "name": "Quantum correlation", "weight": 1.0, "id": 198377831, "level": 3}
+{"count": 3601, "name": "Bell state", "weight": 3.0, "id": 118704821, "level": 3}
+{"count": 9077, "name": "Quantum discord", "weight": 10.0, "id": 139356082, "level": 3}
+{"count": 1715, "name": "Photon entanglement", "weight": 1.0, "id": 104434177, "level": 3}
+{"count": 3078, "name": "Cluster state", "weight": 3.0, "id": 158456648, "level": 3}
+{"count": 5891, "name": "W state", "weight": 6.0, "id": 20593774, "level": 3}
+{"count": 93, "name": "Linear entropy", "weight": 0.0, "id": 99220025, "level": 3}
+{"count": 487, "name": "Quantum indeterminacy", "weight": 0.0, "id": 146852627, "level": 3}
+{"count": 761, "name": "Qutrit", "weight": 0.0, "id": 56085360, "level": 3}
+{"count": 2172, "name": "Multipartite", "weight": 2.0, "id": 166733315, "level": 3}
+{"count": 202, "name": "Delayed choice quantum eraser", "weight": 0.0, "id": 181631915, "level": 3}
+{"count": 179, "name": "Werner state", "weight": 0.0, "id": 2776905296, "level": 3}
+{"count": 379, "name": "Heisenberg limit", "weight": 0.0, "id": 2778361524, "level": 3}
+{"count": 110, "name": "Reduction criterion", "weight": 0.0, "id": 2776363262, "level": 3}
+{"count": 130, "name": "NOON state", "weight": 0.0, "id": 2777821179, "level": 3}
+{"count": 5875, "name": "Amplitude damping channel", "weight": 6.0, "id": 206040425, "level": 3}
+{"count": 7889, "name": "Squashed entanglement", "weight": 8.0, "id": 32270708, "level": 3}
+{"count": 39, "name": "AKLT model", "weight": 0.0, "id": 2776850526, "level": 3}
+{"count": 14, "name": "ER=EPR", "weight": 0.0, "id": 2779224425, "level": 3}
+{"count": 3101, "name": "No-communication theorem", "weight": 3.0, "id": 139234882, "level": 3}

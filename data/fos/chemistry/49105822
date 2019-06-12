@@ -1,0 +1,17 @@
+{"count": 14370, "name": "DNA extraction", "weight": 10.0, "id": 78063203, "level": 4}
+{"count": 608, "name": "DNA-directed DNA polymerase", "weight": 0.0, "id": 2778992626, "level": 4}
+{"count": 12291, "name": "Multiplex polymerase chain reaction", "weight": 8.0, "id": 90583042, "level": 4}
+{"count": 8333, "name": "Nested polymerase chain reaction", "weight": 5.0, "id": 157431215, "level": 4}
+{"count": 1247, "name": "Taq polymerase", "weight": 0.0, "id": 2779186596, "level": 4}
+{"count": 6282, "name": "TaqMan", "weight": 4.0, "id": 143660080, "level": 4}
+{"count": 558, "name": "Allele-specific oligonucleotide", "weight": 0.0, "id": 206095074, "level": 4}
+{"count": 3814, "name": "Multiple displacement amplification", "weight": 2.0, "id": 156385826, "level": 4}
+{"count": 1625, "name": "SYBR Green I", "weight": 1.0, "id": 2780968160, "level": 4}
+{"count": 1239, "name": "Variants of PCR", "weight": 0.0, "id": 33935397, "level": 4}
+{"count": 188, "name": "Asymmetric PCR", "weight": 0.0, "id": 2781071906, "level": 4}
+{"count": 670, "name": "Thermal cycler", "weight": 0.0, "id": 2781400507, "level": 4}
+{"count": 2173, "name": "Primer dimer", "weight": 1.0, "id": 52001828, "level": 4}
+{"count": 629, "name": "COLD-PCR", "weight": 0.0, "id": 50524450, "level": 4}
+{"count": 128, "name": "Pfu DNA polymerase", "weight": 0.0, "id": 2780350421, "level": 4}
+{"count": 10, "name": "Pwo DNA polymerase", "weight": 0.0, "id": 2781100160, "level": 4}
+{"count": 378, "name": "Detection of genetically modified organisms", "weight": 0.0, "id": 149629, "level": 4}

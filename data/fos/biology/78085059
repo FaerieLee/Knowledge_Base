@@ -1,0 +1,28 @@
+{"count": 4244, "name": "End-diastolic volume", "weight": 8.0, "id": 21143770, "level": 5}
+{"count": 2582, "name": "End-systolic volume", "weight": 4.0, "id": 65882447, "level": 5}
+{"count": 2509, "name": "Diastolic heart failure", "weight": 4.0, "id": 2779781611, "level": 5}
+{"count": 2017, "name": "Gated SPECT", "weight": 3.0, "id": 2776902491, "level": 5}
+{"count": 5172, "name": "Ischemic cardiomyopathy", "weight": 10.0, "id": 2775932942, "level": 5}
+{"count": 2648, "name": "Speckle tracking echocardiography", "weight": 5.0, "id": 2778296771, "level": 5}
+{"count": 3178, "name": "Heart failure with preserved ejection fraction", "weight": 6.0, "id": 2777099384, "level": 5}
+{"count": 2119, "name": "Radionuclide ventriculography", "weight": 4.0, "id": 2778535784, "level": 5}
+{"count": 2027, "name": "Radionuclide angiography", "weight": 3.0, "id": 2780088680, "level": 5}
+{"count": 919, "name": "Heart rate turbulence", "weight": 1.0, "id": 2776108986, "level": 5}
+{"count": 1328, "name": "Isovolumic relaxation time", "weight": 2.0, "id": 2779868719, "level": 5}
+{"count": 1201, "name": "Killip class", "weight": 2.0, "id": 2776045837, "level": 5}
+{"count": 203, "name": "Bucindolol", "weight": 0.0, "id": 2776979882, "level": 5}
+{"count": 351, "name": "Multicenter Automatic Defibrillator Implantation Trial", "weight": 0.0, "id": 2778740772, "level": 5}
+{"count": 1262, "name": "Ventricular dyssynchrony", "weight": 2.0, "id": 2776720267, "level": 5}
+{"count": 479, "name": "Sacubitril, Valsartan", "weight": 0.0, "id": 2775999527, "level": 5}
+{"count": 335, "name": "Myocardial scarring", "weight": 0.0, "id": 2777787486, "level": 5}
+{"count": 553, "name": "Regurgitant fraction", "weight": 1.0, "id": 2778793143, "level": 5}
+{"count": 206, "name": "Cardiac contractility modulation", "weight": 0.0, "id": 2781018478, "level": 5}
+{"count": 152, "name": "Dor procedure", "weight": 0.0, "id": 2777212785, "level": 5}
+{"count": 460, "name": "Sacubitril", "weight": 0.0, "id": 2776754050, "level": 5}
+{"count": 36, "name": "N-terminal prohormone of brain natriuretic peptide", "weight": 0.0, "id": 2776445476, "level": 5}
+{"count": 21, "name": "Indecainide", "weight": 0.0, "id": 2780307312, "level": 5}
+{"count": 164, "name": "New York Heart Association Functional Classification", "weight": 0.0, "id": 2779566164, "level": 5}
+{"count": 25, "name": "PARAMOUNT trial", "weight": 0.0, "id": 2778879742, "level": 5}
+{"count": 69, "name": "EF50", "weight": 0.0, "id": 2776739070, "level": 5}
+{"count": 72, "name": "Ventricular reduction", "weight": 0.0, "id": 2776238825, "level": 5}
+{"count": 41, "name": "Cardiovascular Cell Therapy Research Network", "weight": 0.0, "id": 2780882146, "level": 5}

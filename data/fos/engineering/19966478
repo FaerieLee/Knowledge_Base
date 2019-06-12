@@ -1,0 +1,33 @@
+{"count": 22487, "name": "Robot kinematics", "weight": 4.0, "id": 74222875, "level": 3}
+{"count": 46014, "name": "Robot control", "weight": 10.0, "id": 65401140, "level": 3}
+{"count": 13680, "name": "Obstacle avoidance", "weight": 2.0, "id": 6683253, "level": 3}
+{"count": 6325, "name": "Telerobotics", "weight": 1.0, "id": 196467688, "level": 3}
+{"count": 6569, "name": "Autonomous robot", "weight": 1.0, "id": 2778835581, "level": 3}
+{"count": 6861, "name": "Simultaneous localization and mapping", "weight": 1.0, "id": 86369673, "level": 3}
+{"count": 7913, "name": "Nonholonomic system", "weight": 1.0, "id": 138632511, "level": 3}
+{"count": 4165, "name": "Service robot", "weight": 0.0, "id": 2776228582, "level": 3}
+{"count": 15222, "name": "Robot learning", "weight": 3.0, "id": 188888258, "level": 3}
+{"count": 1510, "name": "Occupancy grid mapping", "weight": 0.0, "id": 57077369, "level": 3}
+{"count": 2786, "name": "Swarm robotics", "weight": 0.0, "id": 169337768, "level": 3}
+{"count": 2229, "name": "Visual odometry", "weight": 0.0, "id": 5799516, "level": 3}
+{"count": 2267, "name": "Monte Carlo localization", "weight": 0.0, "id": 106480740, "level": 3}
+{"count": 609, "name": "Urban search and rescue", "weight": 0.0, "id": 2777811059, "level": 3}
+{"count": 3236, "name": "Odometry", "weight": 0.0, "id": 49441653, "level": 3}
+{"count": 2050, "name": "Rescue robot", "weight": 0.0, "id": 17006198, "level": 3}
+{"count": 1177, "name": "Reflection mapping", "weight": 0.0, "id": 34612862, "level": 3}
+{"count": 367, "name": "Subsumption architecture", "weight": 0.0, "id": 201516958, "level": 3}
+{"count": 924, "name": "Topological map", "weight": 0.0, "id": 199538142, "level": 3}
+{"count": 1046, "name": "Grid reference", "weight": 0.0, "id": 156172958, "level": 3}
+{"count": 335, "name": "Robotic mapping", "weight": 0.0, "id": 149835862, "level": 3}
+{"count": 155, "name": "Real-time path planning", "weight": 0.0, "id": 2775920481, "level": 3}
+{"count": 209, "name": "Kinodynamic planning", "weight": 0.0, "id": 81641196, "level": 3}
+{"count": 132, "name": "Boustrophedon", "weight": 0.0, "id": 121726456, "level": 3}
+{"count": 424, "name": "Robot software", "weight": 0.0, "id": 2779110910, "level": 3}
+{"count": 113, "name": "Omni wheel", "weight": 0.0, "id": 2778052968, "level": 3}
+{"count": 89, "name": "Robotino", "weight": 0.0, "id": 2779085683, "level": 3}
+{"count": 56, "name": "Military robot", "weight": 0.0, "id": 2777212369, "level": 3}
+{"count": 33, "name": "CMUcam", "weight": 0.0, "id": 2779607621, "level": 3}
+{"count": 155, "name": "Roomba", "weight": 0.0, "id": 2777698322, "level": 3}
+{"count": 18, "name": "Maze solving algorithm", "weight": 0.0, "id": 2777514010, "level": 3}
+{"count": 15, "name": "PatrolBot", "weight": 0.0, "id": 2777787616, "level": 3}
+{"count": 73, "name": "Sidewinding", "weight": 0.0, "id": 183711841, "level": 3}

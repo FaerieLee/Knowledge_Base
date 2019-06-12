@@ -1,0 +1,141 @@
+{"count": 69453, "name": "Nonlinear optics", "weight": 10.0, "id": 78854221, "level": 3}
+{"count": 40046, "name": "Ordinary differential equation", "weight": 5.0, "id": 51544822, "level": 3}
+{"count": 37012, "name": "Exponential stability", "weight": 5.0, "id": 167964875, "level": 3}
+{"count": 15320, "name": "Newton's method", "weight": 2.0, "id": 85189116, "level": 3}
+{"count": 50974, "name": "Soliton", "weight": 7.0, "id": 87651913, "level": 3}
+{"count": 55242, "name": "Lyapunov function", "weight": 7.0, "id": 60640748, "level": 3}
+{"count": 28052, "name": "Nonlinear control", "weight": 4.0, "id": 91581856, "level": 3}
+{"count": 29715, "name": "Sliding mode control", "weight": 4.0, "id": 36662352, "level": 3}
+{"count": 12508, "name": "Limit cycle", "weight": 1.0, "id": 93357160, "level": 3}
+{"count": 31299, "name": "Linearization", "weight": 4.0, "id": 11210021, "level": 3}
+{"count": 11144, "name": "Distributed parameter system", "weight": 1.0, "id": 112714845, "level": 3}
+{"count": 5327, "name": "Nonlinear filter", "weight": 0.0, "id": 137685913, "level": 3}
+{"count": 7782, "name": "Nonlinear distortion", "weight": 1.0, "id": 173413354, "level": 3}
+{"count": 15132, "name": "Simultaneous equations", "weight": 2.0, "id": 170036204, "level": 3}
+{"count": 10801, "name": "Lyapunov stability", "weight": 1.0, "id": 2776829284, "level": 3}
+{"count": 13892, "name": "State observer", "weight": 2.0, "id": 3031470, "level": 3}
+{"count": 10700, "name": "Algebraic equation", "weight": 1.0, "id": 23917780, "level": 3}
+{"count": 7898, "name": "Burgers' equation", "weight": 1.0, "id": 129747778, "level": 3}
+{"count": 1060, "name": "Nonlinear partial differential equation", "weight": 0.0, "id": 2776177519, "level": 3}
+{"count": 6852, "name": "Relaxation (iterative method)", "weight": 0.0, "id": 136954975, "level": 3}
+{"count": 16774, "name": "Differential algebraic equation", "weight": 2.0, "id": 186219872, "level": 3}
+{"count": 5029, "name": "Elliptic function", "weight": 0.0, "id": 123958593, "level": 3}
+{"count": 17856, "name": "Stability theory", "weight": 2.0, "id": 41949839, "level": 3}
+{"count": 8027, "name": "Delay differential equation", "weight": 1.0, "id": 147504518, "level": 3}
+{"count": 15107, "name": "Parabolic partial differential equation", "weight": 2.0, "id": 186867907, "level": 3}
+{"count": 3201, "name": "Volterra series", "weight": 0.0, "id": 2778532037, "level": 3}
+{"count": 5825, "name": "Harmonic balance", "weight": 0.0, "id": 121758426, "level": 3}
+{"count": 2623, "name": "Describing function", "weight": 0.0, "id": 147317941, "level": 3}
+{"count": 3517, "name": "Nonlinear acoustics", "weight": 0.0, "id": 184112787, "level": 3}
+{"count": 6372, "name": "Local convergence", "weight": 0.0, "id": 117898588, "level": 3}
+{"count": 6259, "name": "Volterra integral equation", "weight": 0.0, "id": 21965488, "level": 3}
+{"count": 3822, "name": "Phase portrait", "weight": 0.0, "id": 122283620, "level": 3}
+{"count": 3463, "name": "Poincar\u00e9 map", "weight": 0.0, "id": 21955772, "level": 3}
+{"count": 7837, "name": "Hyperbolic function", "weight": 1.0, "id": 92047909, "level": 3}
+{"count": 5441, "name": "Shooting method", "weight": 0.0, "id": 4195266, "level": 3}
+{"count": 3339, "name": "Nonlinear system identification", "weight": 0.0, "id": 22157029, "level": 3}
+{"count": 4722, "name": "Nonlinear resonance", "weight": 0.0, "id": 167020490, "level": 3}
+{"count": 4927, "name": "Homotopy analysis method", "weight": 0.0, "id": 173636693, "level": 3}
+{"count": 1154, "name": "Non-linear sigma model", "weight": 0.0, "id": 69481024, "level": 3}
+{"count": 1497, "name": "Surrogate data", "weight": 0.0, "id": 142806159, "level": 3}
+{"count": 3917, "name": "Van der Pol oscillator", "weight": 0.0, "id": 98010927, "level": 3}
+{"count": 3694, "name": "Duffing equation", "weight": 0.0, "id": 132323500, "level": 3}
+{"count": 2959, "name": "Hamilton\u2013Jacobi\u2013Bellman equation", "weight": 0.0, "id": 196978813, "level": 3}
+{"count": 2972, "name": "Adomian decomposition method", "weight": 0.0, "id": 120317633, "level": 3}
+{"count": 1454, "name": "Inverse system", "weight": 0.0, "id": 122129529, "level": 3}
+{"count": 1132, "name": "Nonlinear Oscillations", "weight": 0.0, "id": 2779437913, "level": 3}
+{"count": 3842, "name": "Lorenz system", "weight": 0.0, "id": 151510863, "level": 3}
+{"count": 1226, "name": "Small-gain theorem", "weight": 0.0, "id": 27385263, "level": 3}
+{"count": 606, "name": "F\u00f6ppl\u2013von K\u00e1rm\u00e1n equations", "weight": 0.0, "id": 55510962, "level": 3}
+{"count": 3196, "name": "Modulational instability", "weight": 0.0, "id": 125755039, "level": 3}
+{"count": 1221, "name": "Chua's circuit", "weight": 0.0, "id": 2781300247, "level": 3}
+{"count": 956, "name": "Recurrence plot", "weight": 0.0, "id": 173134143, "level": 3}
+{"count": 2568, "name": "Rogue wave", "weight": 0.0, "id": 189201455, "level": 3}
+{"count": 1261, "name": "Fixed-point index", "weight": 0.0, "id": 2780668686, "level": 3}
+{"count": 933, "name": "Numerical continuation", "weight": 0.0, "id": 2775978667, "level": 3}
+{"count": 755, "name": "Bent function", "weight": 0.0, "id": 84185955, "level": 3}
+{"count": 262, "name": "Inertial manifold", "weight": 0.0, "id": 2779932132, "level": 3}
+{"count": 799, "name": "Nonlinear modelling", "weight": 0.0, "id": 2781141662, "level": 3}
+{"count": 991, "name": "Fractional Laplacian", "weight": 0.0, "id": 2775913539, "level": 3}
+{"count": 1096, "name": "Mountain pass theorem", "weight": 0.0, "id": 2779779452, "level": 3}
+{"count": 844, "name": "Contraction principle", "weight": 0.0, "id": 2775958659, "level": 3}
+{"count": 1048, "name": "Recurrence quantification analysis", "weight": 0.0, "id": 43456602, "level": 3}
+{"count": 353, "name": "Riemann invariant", "weight": 0.0, "id": 2775847195, "level": 3}
+{"count": 258, "name": "Non-autonomous system", "weight": 0.0, "id": 2779083812, "level": 3}
+{"count": 387, "name": "Strichartz estimate", "weight": 0.0, "id": 2779309509, "level": 3}
+{"count": 257, "name": "Correlation immunity", "weight": 0.0, "id": 2781037745, "level": 3}
+{"count": 3365, "name": "Phase plane", "weight": 0.0, "id": 157626765, "level": 3}
+{"count": 648, "name": "Slowly varying envelope approximation", "weight": 0.0, "id": 97287314, "level": 3}
+{"count": 675, "name": "Banach fixed-point theorem", "weight": 0.0, "id": 2780549194, "level": 3}
+{"count": 1660, "name": "Newmark-beta method", "weight": 0.0, "id": 124982011, "level": 3}
+{"count": 193, "name": "Linear medium", "weight": 0.0, "id": 2778243099, "level": 3}
+{"count": 1917, "name": "Multiple-scale analysis", "weight": 0.0, "id": 40678858, "level": 3}
+{"count": 615, "name": "Nehari manifold", "weight": 0.0, "id": 40332964, "level": 3}
+{"count": 443, "name": "Conservation form", "weight": 0.0, "id": 2780456837, "level": 3}
+{"count": 3291, "name": "Circle criterion", "weight": 0.0, "id": 65521940, "level": 3}
+{"count": 444, "name": "Bouc\u2013Wen model of hysteresis", "weight": 0.0, "id": 197396851, "level": 3}
+{"count": 47, "name": "Newton\u2013Krylov method", "weight": 0.0, "id": 2777420300, "level": 3}
+{"count": 594, "name": "Bicoherence", "weight": 0.0, "id": 160354207, "level": 3}
+{"count": 1358, "name": "Nonlinear element", "weight": 0.0, "id": 2781256830, "level": 3}
+{"count": 959, "name": "OpenSees", "weight": 0.0, "id": 140590641, "level": 3}
+{"count": 302, "name": "Hartree equation", "weight": 0.0, "id": 2780386874, "level": 3}
+{"count": 149, "name": "G-expectation", "weight": 0.0, "id": 2776313120, "level": 3}
+{"count": 356, "name": "Broyden's method", "weight": 0.0, "id": 80716112, "level": 3}
+{"count": 318, "name": "Colombeau algebra", "weight": 0.0, "id": 18880391, "level": 3}
+{"count": 870, "name": "Time-invariant system", "weight": 0.0, "id": 35324005, "level": 3}
+{"count": 244, "name": "Swift\u2013Hohenberg equation", "weight": 0.0, "id": 2778649608, "level": 3}
+{"count": 9, "name": "Artstein's theorem", "weight": 0.0, "id": 2781393962, "level": 3}
+{"count": 577, "name": "Rank condition", "weight": 0.0, "id": 2778095854, "level": 3}
+{"count": 1678, "name": "Method of averaging", "weight": 0.0, "id": 5555538, "level": 3}
+{"count": 142, "name": "False position method", "weight": 0.0, "id": 167501436, "level": 3}
+{"count": 754, "name": "Nonlinear metamaterials", "weight": 0.0, "id": 161352937, "level": 3}
+{"count": 1273, "name": "Variation of parameters", "weight": 0.0, "id": 62689967, "level": 3}
+{"count": 493, "name": "Brusselator", "weight": 0.0, "id": 14028793, "level": 3}
+{"count": 2641, "name": "Quintic function", "weight": 0.0, "id": 124966035, "level": 3}
+{"count": 430, "name": "Topological degree theory", "weight": 0.0, "id": 2780027144, "level": 3}
+{"count": 119, "name": "Nonlinear expectation", "weight": 0.0, "id": 2778685247, "level": 3}
+{"count": 337, "name": "Amplitude death", "weight": 0.0, "id": 2779135890, "level": 3}
+{"count": 285, "name": "Nonlinear functional analysis", "weight": 0.0, "id": 2777983202, "level": 3}
+{"count": 224, "name": "Trace identity", "weight": 0.0, "id": 2777196683, "level": 3}
+{"count": 26193, "name": "Numerical partial differential equations", "weight": 3.0, "id": 97826883, "level": 3}
+{"count": 288, "name": "Kirchhoff equations", "weight": 0.0, "id": 2777008652, "level": 3}
+{"count": 109, "name": "Kernel-independent component analysis", "weight": 0.0, "id": 2777843426, "level": 3}
+{"count": 3466, "name": "Split-step method", "weight": 0.0, "id": 134206417, "level": 3}
+{"count": 336, "name": "Lie point symmetry", "weight": 0.0, "id": 2779606896, "level": 3}
+{"count": 118, "name": "X-parameters", "weight": 0.0, "id": 2779491486, "level": 3}
+{"count": 128, "name": "Set inversion", "weight": 0.0, "id": 2778524455, "level": 3}
+{"count": 88, "name": "Nonlinear realization", "weight": 0.0, "id": 2777982725, "level": 3}
+{"count": 670, "name": "Inversion of control", "weight": 0.0, "id": 10676104, "level": 3}
+{"count": 194, "name": "Sumudu transform", "weight": 0.0, "id": 64825560, "level": 3}
+{"count": 11378, "name": "Independent equation", "weight": 1.0, "id": 200602138, "level": 3}
+{"count": 263, "name": "Zakharov system", "weight": 0.0, "id": 2776667088, "level": 3}
+{"count": 148, "name": "Whitham equation", "weight": 0.0, "id": 2778584200, "level": 3}
+{"count": 51, "name": "Krein\u2013Rutman theorem", "weight": 0.0, "id": 2776913801, "level": 3}
+{"count": 103, "name": "Fermi\u2013Pasta\u2013Ulam problem", "weight": 0.0, "id": 14559683, "level": 3}
+{"count": 257, "name": "Coulomb damping", "weight": 0.0, "id": 2775895872, "level": 3}
+{"count": 442, "name": "Ball and beam", "weight": 0.0, "id": 2778187056, "level": 3}
+{"count": 11052, "name": "Synchronization of chaos", "weight": 1.0, "id": 202759130, "level": 3}
+{"count": 47, "name": "Nonlinear eigenproblem", "weight": 0.0, "id": 2777188943, "level": 3}
+{"count": 37, "name": "Nash\u2013Moser theorem", "weight": 0.0, "id": 2776357772, "level": 3}
+{"count": 156, "name": "Averaged Lagrangian", "weight": 0.0, "id": 2780251713, "level": 3}
+{"count": 27, "name": "Routh\u2013Hurwitz theorem", "weight": 0.0, "id": 198343119, "level": 3}
+{"count": 63, "name": "Hasegawa\u2013Mima equation", "weight": 0.0, "id": 2780213042, "level": 3}
+{"count": 82, "name": "Shanks transformation", "weight": 0.0, "id": 70409757, "level": 3}
+{"count": 26, "name": "Kautz filter", "weight": 0.0, "id": 2777466447, "level": 3}
+{"count": 137, "name": "Periodic travelling wave", "weight": 0.0, "id": 2778560555, "level": 3}
+{"count": 37, "name": "Cobweb plot", "weight": 0.0, "id": 40454921, "level": 3}
+{"count": 87, "name": "Elastica theory", "weight": 0.0, "id": 2779615899, "level": 3}
+{"count": 104, "name": "Ikeda map", "weight": 0.0, "id": 2780892003, "level": 3}
+{"count": 28, "name": "Titchmarsh convolution theorem", "weight": 0.0, "id": 2776005614, "level": 3}
+{"count": 102, "name": "Ursell number", "weight": 0.0, "id": 38031521, "level": 3}
+{"count": 4080, "name": "Poincar\u00e9\u2013Lindstedt method", "weight": 0.0, "id": 153359094, "level": 3}
+{"count": 38, "name": "Bred vector", "weight": 0.0, "id": 2779252034, "level": 3}
+{"count": 804, "name": "Damped wave", "weight": 0.0, "id": 66908091, "level": 3}
+{"count": 17, "name": "Painlev\u00e9 conjecture", "weight": 0.0, "id": 2776382264, "level": 3}
+{"count": 26, "name": "Toda oscillator", "weight": 0.0, "id": 2778299593, "level": 3}
+{"count": 19, "name": "Additive state decomposition", "weight": 0.0, "id": 2780427172, "level": 3}
+{"count": 23, "name": "Cybernetical physics", "weight": 0.0, "id": 2777357102, "level": 3}
+{"count": 72, "name": "Aizerman's conjecture", "weight": 0.0, "id": 131108914, "level": 3}
+{"count": 41, "name": "MINPACK", "weight": 0.0, "id": 2780476221, "level": 3}
+{"count": 22, "name": "Chaotic bubble", "weight": 0.0, "id": 2776257889, "level": 3}
+{"count": 582, "name": "Boussinesq approximation (buoyancy)", "weight": 0.0, "id": 181152433, "level": 3}

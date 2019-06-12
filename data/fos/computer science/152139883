@@ -1,0 +1,6 @@
+{"count": 725, "name": "Pointwise mutual information", "weight": 6.0, "id": 7797323, "level": 3}
+{"count": 1160, "name": "Conditional mutual information", "weight": 10.0, "id": 124805900, "level": 3}
+{"count": 578, "name": "Total correlation", "weight": 4.0, "id": 109510780, "level": 3}
+{"count": 163, "name": "Maximal information coefficient", "weight": 1.0, "id": 2780226845, "level": 3}
+{"count": 387, "name": "Multivariate mutual information", "weight": 3.0, "id": 119584393, "level": 3}
+{"count": 549, "name": "Variation of information", "weight": 4.0, "id": 125969835, "level": 3}

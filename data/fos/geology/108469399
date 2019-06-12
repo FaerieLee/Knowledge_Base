@@ -1,0 +1,27 @@
+{"count": 3015, "name": "Bacterioplankton", "weight": 10.0, "id": 172459030, "level": 3}
+{"count": 1424, "name": "Picoplankton", "weight": 4.0, "id": 9121260, "level": 3}
+{"count": 392, "name": "Continuous Plankton Recorder", "weight": 1.0, "id": 2776854206, "level": 3}
+{"count": 534, "name": "Gelatinous zooplankton", "weight": 1.0, "id": 2777807006, "level": 3}
+{"count": 1194, "name": "Acartia", "weight": 3.0, "id": 2778043853, "level": 3}
+{"count": 389, "name": "Neuston", "weight": 1.0, "id": 25427112, "level": 3}
+{"count": 408, "name": "Keratella cochlearis", "weight": 1.0, "id": 2777945777, "level": 3}
+{"count": 576, "name": "Planktivore", "weight": 1.0, "id": 159463551, "level": 3}
+{"count": 426, "name": "Meroplankton", "weight": 1.0, "id": 202733679, "level": 3}
+{"count": 133, "name": "Myrionecta rubra", "weight": 0.0, "id": 2780674914, "level": 3}
+{"count": 266, "name": "Dinobryon", "weight": 0.0, "id": 2781312282, "level": 3}
+{"count": 252, "name": "Eudiaptomus", "weight": 0.0, "id": 2778600955, "level": 3}
+{"count": 405, "name": "Tintinnid", "weight": 1.0, "id": 2778573672, "level": 3}
+{"count": 416, "name": "Nanophytoplankton", "weight": 1.0, "id": 2776456457, "level": 3}
+{"count": 110, "name": "Paradox of the plankton", "weight": 0.0, "id": 164542323, "level": 3}
+{"count": 259, "name": "Oncaea", "weight": 0.0, "id": 2778044870, "level": 3}
+{"count": 165, "name": "Oligotrich", "weight": 0.0, "id": 2777872925, "level": 3}
+{"count": 34, "name": "Dolioletta gegenbauri", "weight": 0.0, "id": 2778876718, "level": 3}
+{"count": 38, "name": "Actinocyclus normanii", "weight": 0.0, "id": 2776979964, "level": 3}
+{"count": 16, "name": "Telonema", "weight": 0.0, "id": 2777386923, "level": 3}
+{"count": 86, "name": "Muggiaea atlantica", "weight": 0.0, "id": 2777066397, "level": 3}
+{"count": 22, "name": "Doliolida", "weight": 0.0, "id": 2779484176, "level": 3}
+{"count": 44, "name": "Hesperodiaptomus", "weight": 0.0, "id": 2776950292, "level": 3}
+{"count": 25, "name": "Copilia", "weight": 0.0, "id": 2778027385, "level": 3}
+{"count": 20, "name": "Closteriopsis", "weight": 0.0, "id": 2780219246, "level": 3}
+{"count": 16, "name": "Planctonema", "weight": 0.0, "id": 2776355863, "level": 3}
+{"count": 352, "name": "High-Nutrient, low-chlorophyll", "weight": 1.0, "id": 170042080, "level": 3}

@@ -1,0 +1,200 @@
+{"count": 147628, "name": "Absorption spectroscopy", "weight": 4.0, "id": 119824511, "level": 2}
+{"count": 271553, "name": "Fluorescence", "weight": 7.0, "id": 91881484, "level": 2}
+{"count": 111690, "name": "Reaction rate constant", "weight": 3.0, "id": 93391505, "level": 2}
+{"count": 134591, "name": "Photoluminescence", "weight": 3.0, "id": 85080765, "level": 2}
+{"count": 341915, "name": "Ligand", "weight": 10.0, "id": 85551212, "level": 2}
+{"count": 65585, "name": "Electron transfer", "weight": 1.0, "id": 123669783, "level": 2}
+{"count": 78968, "name": "Electron paramagnetic resonance", "weight": 2.0, "id": 187961010, "level": 2}
+{"count": 106549, "name": "Luminescence", "weight": 3.0, "id": 148869448, "level": 2}
+{"count": 67834, "name": "Bicyclic molecule", "weight": 1.0, "id": 24961977, "level": 2}
+{"count": 26803, "name": "Aliphatic compound", "weight": 0.0, "id": 2780129066, "level": 2}
+{"count": 30616, "name": "Kinetic isotope effect", "weight": 0.0, "id": 69928629, "level": 2}
+{"count": 44335, "name": "Photodissociation", "weight": 1.0, "id": 54582936, "level": 2}
+{"count": 53186, "name": "Electroluminescence", "weight": 1.0, "id": 31625292, "level": 2}
+{"count": 112983, "name": "Benzene", "weight": 3.0, "id": 2777691172, "level": 2}
+{"count": 39905, "name": "Circular dichroism", "weight": 1.0, "id": 133571119, "level": 2}
+{"count": 87659, "name": "Halide", "weight": 2.0, "id": 171560689, "level": 2}
+{"count": 28703, "name": "Lactone", "weight": 0.0, "id": 2776612806, "level": 2}
+{"count": 56261, "name": "Toluene", "weight": 1.0, "id": 2778142098, "level": 2}
+{"count": 127630, "name": "Radical", "weight": 3.0, "id": 139066938, "level": 2}
+{"count": 62864, "name": "Ketone", "weight": 1.0, "id": 2777738585, "level": 2}
+{"count": 67866, "name": "Phosphor", "weight": 1.0, "id": 124385694, "level": 2}
+{"count": 11364, "name": "Group 2 organometallic chemistry", "weight": 0.0, "id": 91967747, "level": 2}
+{"count": 24321, "name": "Equilibrium constant", "weight": 0.0, "id": 10710636, "level": 2}
+{"count": 14110, "name": "Reactivity (chemistry)", "weight": 0.0, "id": 153785938, "level": 2}
+{"count": 41442, "name": "OLED", "weight": 1.0, "id": 150759737, "level": 2}
+{"count": 44725, "name": "Lanthanide", "weight": 1.0, "id": 201770740, "level": 2}
+{"count": 31109, "name": "Total synthesis", "weight": 0.0, "id": 35753019, "level": 2}
+{"count": 24911, "name": "Chemiluminescence", "weight": 0.0, "id": 145802702, "level": 2}
+{"count": 52204, "name": "Stereoselectivity", "weight": 1.0, "id": 181647583, "level": 2}
+{"count": 21000, "name": "Lactam", "weight": 0.0, "id": 2776131168, "level": 2}
+{"count": 6929, "name": "Nitro compound", "weight": 0.0, "id": 2780554229, "level": 2}
+{"count": 25842, "name": "Halogenation", "weight": 0.0, "id": 65973085, "level": 2}
+{"count": 105967, "name": "Chirality (chemistry)", "weight": 3.0, "id": 116737940, "level": 2}
+{"count": 61150, "name": "Dimer", "weight": 1.0, "id": 2779546866, "level": 2}
+{"count": 31760, "name": "Acetylene", "weight": 0.0, "id": 2777517455, "level": 2}
+{"count": 28955, "name": "Nitrile", "weight": 0.0, "id": 2779240715, "level": 2}
+{"count": 43525, "name": "Carboxylate", "weight": 1.0, "id": 2778074193, "level": 2}
+{"count": 19407, "name": "Quinone", "weight": 0.0, "id": 2780643102, "level": 2}
+{"count": 95444, "name": "Pyridine", "weight": 2.0, "id": 2779485729, "level": 2}
+{"count": 29109, "name": "Naphthalene", "weight": 0.0, "id": 2779255514, "level": 2}
+{"count": 41827, "name": "Cycloaddition", "weight": 1.0, "id": 2779664164, "level": 2}
+{"count": 19468, "name": "Radiolysis", "weight": 0.0, "id": 66887884, "level": 2}
+{"count": 69955, "name": "Adduct", "weight": 2.0, "id": 108204754, "level": 2}
+{"count": 21333, "name": "Europium", "weight": 0.0, "id": 502696234, "level": 2}
+{"count": 14057, "name": "Photosensitizer", "weight": 0.0, "id": 2781469039, "level": 2}
+{"count": 34642, "name": "Chromophore", "weight": 1.0, "id": 192468462, "level": 2}
+{"count": 39450, "name": "Porphyrin", "weight": 1.0, "id": 2779480358, "level": 2}
+{"count": 9570, "name": "Enone", "weight": 0.0, "id": 2779746879, "level": 2}
+{"count": 56143, "name": "Steric effects", "weight": 1.0, "id": 201194858, "level": 2}
+{"count": 29565, "name": "Cyclohexane", "weight": 0.0, "id": 2778237882, "level": 2}
+{"count": 11064, "name": "Samarium", "weight": 0.0, "id": 536819264, "level": 2}
+{"count": 27417, "name": "Aniline", "weight": 0.0, "id": 2779244968, "level": 2}
+{"count": 25957, "name": "Pyrene", "weight": 0.0, "id": 2778951431, "level": 2}
+{"count": 2383, "name": "Halocarbon", "weight": 0.0, "id": 2780055204, "level": 2}
+{"count": 8335, "name": "Flash photolysis", "weight": 0.0, "id": 13472781, "level": 2}
+{"count": 12005, "name": "Phenanthrene", "weight": 0.0, "id": 2776891815, "level": 2}
+{"count": 14590, "name": "Stereospecificity", "weight": 0.0, "id": 187921627, "level": 2}
+{"count": 51226, "name": "Carbon-13 NMR", "weight": 1.0, "id": 163111631, "level": 2}
+{"count": 21616, "name": "Anthracene", "weight": 0.0, "id": 2779563022, "level": 2}
+{"count": 8636, "name": "Diketone", "weight": 0.0, "id": 2779539111, "level": 2}
+{"count": 18932, "name": "Rhenium", "weight": 0.0, "id": 505216180, "level": 2}
+{"count": 4838, "name": "Photoelectrochemical cell", "weight": 0.0, "id": 20744434, "level": 2}
+{"count": 18241, "name": "Acetal", "weight": 0.0, "id": 2777731525, "level": 2}
+{"count": 7289, "name": "Solvolysis", "weight": 0.0, "id": 2779293432, "level": 2}
+{"count": 29668, "name": "Thiophene", "weight": 0.0, "id": 2779953032, "level": 2}
+{"count": 83382, "name": "Proton NMR", "weight": 2.0, "id": 103319777, "level": 2}
+{"count": 11499, "name": "Gauche effect", "weight": 0.0, "id": 161003726, "level": 2}
+{"count": 15632, "name": "Absolute configuration", "weight": 0.0, "id": 25170562, "level": 2}
+{"count": 10774, "name": "Isoprene", "weight": 0.0, "id": 2780959689, "level": 2}
+{"count": 16154, "name": "Photochromism", "weight": 0.0, "id": 81180622, "level": 2}
+{"count": 50411, "name": "Protonation", "weight": 1.0, "id": 30095370, "level": 2}
+{"count": 17009, "name": "Sulfone", "weight": 0.0, "id": 2778806918, "level": 2}
+{"count": 7472, "name": "Calixarene", "weight": 0.0, "id": 83263248, "level": 2}
+{"count": 13842, "name": "Nucleophilic substitution", "weight": 0.0, "id": 135731615, "level": 2}
+{"count": 4787, "name": "Azo compound", "weight": 0.0, "id": 2777307218, "level": 2}
+{"count": 15477, "name": "Ferrocene", "weight": 0.0, "id": 2777237805, "level": 2}
+{"count": 16283, "name": "Electron acceptor", "weight": 0.0, "id": 2900893, "level": 2}
+{"count": 19940, "name": "Azide", "weight": 0.0, "id": 2780997848, "level": 2}
+{"count": 23527, "name": "Phthalocyanine", "weight": 0.0, "id": 2780761128, "level": 2}
+{"count": 6345, "name": "Bacteriorhodopsin", "weight": 0.0, "id": 189542057, "level": 2}
+{"count": 2489, "name": "Benzoates", "weight": 0.0, "id": 2777538812, "level": 2}
+{"count": 14634, "name": "Alkoxide", "weight": 0.0, "id": 2778839380, "level": 2}
+{"count": 36671, "name": "Indole test", "weight": 1.0, "id": 192527728, "level": 2}
+{"count": 15281, "name": "Perchlorate", "weight": 0.0, "id": 2780709120, "level": 2}
+{"count": 14860, "name": "Substitution reaction", "weight": 0.0, "id": 111185830, "level": 2}
+{"count": 8226, "name": "Terbium", "weight": 0.0, "id": 549856995, "level": 2}
+{"count": 1289, "name": "Template reaction", "weight": 0.0, "id": 2778974814, "level": 2}
+{"count": 16241, "name": "Biphenyl", "weight": 0.0, "id": 2780591471, "level": 2}
+{"count": 17161, "name": "Bond cleavage", "weight": 0.0, "id": 3044715, "level": 2}
+{"count": 8647, "name": "Pentane", "weight": 0.0, "id": 2777589835, "level": 2}
+{"count": 35343, "name": "Pyrimidine", "weight": 1.0, "id": 2779321679, "level": 2}
+{"count": 21199, "name": "Silylation", "weight": 0.0, "id": 5304478, "level": 2}
+{"count": 4169, "name": "Reversible reaction", "weight": 0.0, "id": 151325208, "level": 2}
+{"count": 11448, "name": "Sulfoxide", "weight": 0.0, "id": 2778448320, "level": 2}
+{"count": 12102, "name": "Nitration", "weight": 0.0, "id": 2775856698, "level": 2}
+{"count": 14213, "name": "Electron donor", "weight": 0.0, "id": 2778148179, "level": 2}
+{"count": 14713, "name": "Octane", "weight": 0.0, "id": 2776624427, "level": 2}
+{"count": 25403, "name": "Diastereomer", "weight": 0.0, "id": 138716334, "level": 2}
+{"count": 16871, "name": "Oxime", "weight": 0.0, "id": 2779648554, "level": 2}
+{"count": 19726, "name": "Imine", "weight": 0.0, "id": 2776573223, "level": 2}
+{"count": 42714, "name": "Tris", "weight": 1.0, "id": 2781014771, "level": 2}
+{"count": 2485, "name": "Cyclic compound", "weight": 0.0, "id": 2779444677, "level": 2}
+{"count": 3427, "name": "Bridged compounds", "weight": 0.0, "id": 2778217376, "level": 2}
+{"count": 11073, "name": "Hydrazone", "weight": 0.0, "id": 2780349576, "level": 2}
+{"count": 7444, "name": "Diels\u2013Alder reaction", "weight": 0.0, "id": 2779940776, "level": 2}
+{"count": 22049, "name": "Tautomer", "weight": 0.0, "id": 111233374, "level": 2}
+{"count": 4156, "name": "Phototoxicity", "weight": 0.0, "id": 20639190, "level": 2}
+{"count": 20397, "name": "Pyrrole", "weight": 0.0, "id": 2779400197, "level": 2}
+{"count": 55631, "name": "Nucleophile", "weight": 1.0, "id": 178907741, "level": 2}
+{"count": 16534, "name": "Aromaticity", "weight": 0.0, "id": 192386470, "level": 2}
+{"count": 5212, "name": "Amidine", "weight": 0.0, "id": 2778622868, "level": 2}
+{"count": 22908, "name": "Quinoline", "weight": 0.0, "id": 2776309666, "level": 2}
+{"count": 5333, "name": "Ozonolysis", "weight": 0.0, "id": 2779173278, "level": 2}
+{"count": 15153, "name": "Triethylamine", "weight": 0.0, "id": 2781283055, "level": 2}
+{"count": 17989, "name": "Ethylenediamine", "weight": 0.0, "id": 2780728571, "level": 2}
+{"count": 46725, "name": "Double bond", "weight": 1.0, "id": 68381374, "level": 2}
+{"count": 6665, "name": "Chalcone", "weight": 0.0, "id": 2780764945, "level": 2}
+{"count": 10028, "name": "Benzophenone", "weight": 0.0, "id": 2778279444, "level": 2}
+{"count": 8954, "name": "Wittig reaction", "weight": 0.0, "id": 24292678, "level": 2}
+{"count": 10126, "name": "Protecting group", "weight": 0.0, "id": 2779746882, "level": 2}
+{"count": 10243, "name": "Nitrobenzene", "weight": 0.0, "id": 2780809723, "level": 2}
+{"count": 27615, "name": "Electrophile", "weight": 0.0, "id": 50027330, "level": 2}
+{"count": 8020, "name": "Perylene", "weight": 0.0, "id": 2779189646, "level": 2}
+{"count": 8617, "name": "Carbanion", "weight": 0.0, "id": 82894169, "level": 2}
+{"count": 13070, "name": "Carbazole", "weight": 0.0, "id": 2776127813, "level": 2}
+{"count": 7582, "name": "Nucleophilic addition", "weight": 0.0, "id": 20774148, "level": 2}
+{"count": 27016, "name": "Iodide", "weight": 0.0, "id": 2778870691, "level": 2}
+{"count": 18536, "name": "Furan", "weight": 0.0, "id": 2778659115, "level": 2}
+{"count": 6463, "name": "Ylide", "weight": 0.0, "id": 2779167645, "level": 2}
+{"count": 2796, "name": "Acyl chloride", "weight": 0.0, "id": 2780014951, "level": 2}
+{"count": 5472, "name": "Glyoxal", "weight": 0.0, "id": 2777603720, "level": 2}
+{"count": 4626, "name": "Metalation", "weight": 0.0, "id": 2775855785, "level": 2}
+{"count": 28217, "name": "Tetrahydrofuran", "weight": 0.0, "id": 2776701986, "level": 2}
+{"count": 5414, "name": "Adamantane", "weight": 0.0, "id": 2779556047, "level": 2}
+{"count": 5288, "name": "Carbocation", "weight": 0.0, "id": 109057382, "level": 2}
+{"count": 9037, "name": "Crown ether", "weight": 0.0, "id": 2777255693, "level": 2}
+{"count": 7077, "name": "Cyclopentadiene", "weight": 0.0, "id": 2778176622, "level": 2}
+{"count": 4959, "name": "Thermochromism", "weight": 0.0, "id": 194365794, "level": 2}
+{"count": 5530, "name": "Enamine", "weight": 0.0, "id": 2776378156, "level": 2}
+{"count": 33753, "name": "Chemical shift", "weight": 0.0, "id": 111429119, "level": 2}
+{"count": 3503, "name": "Boranes", "weight": 0.0, "id": 2778553741, "level": 2}
+{"count": 1617, "name": "Oxazines", "weight": 0.0, "id": 2776092724, "level": 2}
+{"count": 1848, "name": "Catenane", "weight": 0.0, "id": 50837382, "level": 2}
+{"count": 4029, "name": "Zwitterion", "weight": 0.0, "id": 2778743342, "level": 2}
+{"count": 2432, "name": "Rotaxane", "weight": 0.0, "id": 121897927, "level": 2}
+{"count": 2601, "name": "Chain reaction", "weight": 0.0, "id": 168931907, "level": 2}
+{"count": 5584, "name": "Benzoquinone", "weight": 0.0, "id": 2779686393, "level": 2}
+{"count": 12602, "name": "Enol", "weight": 0.0, "id": 2777495281, "level": 2}
+{"count": 2886, "name": "Cyanogen", "weight": 0.0, "id": 2777088479, "level": 2}
+{"count": 9709, "name": "Pyrazine", "weight": 0.0, "id": 2777765701, "level": 2}
+{"count": 44225, "name": "Methylene", "weight": 1.0, "id": 2777454769, "level": 2}
+{"count": 5575, "name": "Methyl iodide", "weight": 0.0, "id": 2780073701, "level": 2}
+{"count": 1849, "name": "Plastocyanin", "weight": 0.0, "id": 96806796, "level": 2}
+{"count": 4175, "name": "Electrophilic aromatic substitution", "weight": 0.0, "id": 122085161, "level": 2}
+{"count": 5701, "name": "Acridine", "weight": 0.0, "id": 2776924795, "level": 2}
+{"count": 21613, "name": "Methyl group", "weight": 0.0, "id": 2778565081, "level": 2}
+{"count": 3978, "name": "Electrophilic substitution", "weight": 0.0, "id": 2777965246, "level": 2}
+{"count": 6636, "name": "Benzothiazole", "weight": 0.0, "id": 2777456753, "level": 2}
+{"count": 5162, "name": "SN2 reaction", "weight": 0.0, "id": 96765332, "level": 2}
+{"count": 3507, "name": "Claisen rearrangement", "weight": 0.0, "id": 2780567667, "level": 2}
+{"count": 2121, "name": "Cycloalkane", "weight": 0.0, "id": 2776066709, "level": 2}
+{"count": 4061, "name": "Aminolysis", "weight": 0.0, "id": 2777998946, "level": 2}
+{"count": 922, "name": "Aminoketone", "weight": 0.0, "id": 2778498671, "level": 2}
+{"count": 4262, "name": "18-Crown-6", "weight": 0.0, "id": 2776995031, "level": 2}
+{"count": 11208, "name": "Cyclopropane", "weight": 0.0, "id": 2779200411, "level": 2}
+{"count": 1612, "name": "Pi interaction", "weight": 0.0, "id": 88291069, "level": 2}
+{"count": 3930, "name": "Carborane", "weight": 0.0, "id": 2781231350, "level": 2}
+{"count": 7268, "name": "Borane", "weight": 0.0, "id": 2778826510, "level": 2}
+{"count": 21272, "name": "Cis\u2013trans isomerism", "weight": 0.0, "id": 176788430, "level": 2}
+{"count": 5257, "name": "Benzoyl peroxide", "weight": 0.0, "id": 2778885487, "level": 2}
+{"count": 3770, "name": "Diphenylamine", "weight": 0.0, "id": 2777040443, "level": 2}
+{"count": 6533, "name": "Chlorobenzene", "weight": 0.0, "id": 2776041390, "level": 2}
+{"count": 5223, "name": "Benzonitrile", "weight": 0.0, "id": 2779953769, "level": 2}
+{"count": 3441, "name": "Molecular switch", "weight": 0.0, "id": 32123652, "level": 2}
+{"count": 3938, "name": "Isatin", "weight": 0.0, "id": 2777256644, "level": 2}
+{"count": 16511, "name": "Dimethylformamide", "weight": 0.0, "id": 2777712214, "level": 2}
+{"count": 5103, "name": "Sigmatropic reaction", "weight": 0.0, "id": 58590140, "level": 2}
+{"count": 3795, "name": "Protoporphyrin IX", "weight": 0.0, "id": 2779671804, "level": 2}
+{"count": 2378, "name": "Grignard reaction", "weight": 0.0, "id": 2780616238, "level": 2}
+{"count": 18087, "name": "Ene reaction", "weight": 0.0, "id": 27777614, "level": 2}
+{"count": 2021, "name": "Hemiacetal", "weight": 0.0, "id": 2776572972, "level": 2}
+{"count": 4897, "name": "Allene", "weight": 0.0, "id": 2778652500, "level": 2}
+{"count": 2287, "name": "Thioamide", "weight": 0.0, "id": 2777650178, "level": 2}
+{"count": 4742, "name": "Nitromethane", "weight": 0.0, "id": 2777327210, "level": 2}
+{"count": 1827, "name": "Mitsunobu reaction", "weight": 0.0, "id": 2779377163, "level": 2}
+{"count": 3667, "name": "Stille reaction", "weight": 0.0, "id": 145255805, "level": 2}
+{"count": 5890, "name": "Elimination reaction", "weight": 0.0, "id": 183767904, "level": 2}
+{"count": 8324, "name": "Morpholine", "weight": 0.0, "id": 2781056017, "level": 2}
+{"count": 3102, "name": "Aryne", "weight": 0.0, "id": 171811041, "level": 2}
+{"count": 1389, "name": "Thionine", "weight": 0.0, "id": 2778860571, "level": 2}
+{"count": 10380, "name": "Transition state", "weight": 0.0, "id": 89031862, "level": 2}
+{"count": 3212, "name": "Action spectrum", "weight": 0.0, "id": 12530168, "level": 2}
+{"count": 1597, "name": "Orthoester", "weight": 0.0, "id": 2780387816, "level": 2}
+{"count": 4772, "name": "Cyclopentane", "weight": 0.0, "id": 2778556512, "level": 2}
+{"count": 4044, "name": "Benzylamine", "weight": 0.0, "id": 2776276205, "level": 2}
+{"count": 31579, "name": "Diene", "weight": 0.0, "id": 2778733088, "level": 2}
+{"count": 4330, "name": "Reaction coordinate", "weight": 0.0, "id": 18553476, "level": 2}
+{"count": 3092, "name": "Naphthoquinone", "weight": 0.0, "id": 2776183150, "level": 2}
+{"count": 2775, "name": "Nitrene", "weight": 0.0, "id": 38489247, "level": 2}
+{"count": 6083, "name": "Oxadiazole", "weight": 0.0, "id": 2779448499, "level": 2}

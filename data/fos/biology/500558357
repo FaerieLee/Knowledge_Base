@@ -1,0 +1,51 @@
+{"count": 37881, "name": "Acute coronary syndrome", "weight": 6.0, "id": 2777698277, "level": 4}
+{"count": 45778, "name": "Percutaneous coronary intervention", "weight": 8.0, "id": 2780400711, "level": 4}
+{"count": 14669, "name": "Troponin", "weight": 2.0, "id": 36036425, "level": 4}
+{"count": 57025, "name": "Infarction", "weight": 10.0, "id": 2777798775, "level": 4}
+{"count": 50039, "name": "Revascularization", "weight": 8.0, "id": 2779464278, "level": 4}
+{"count": 18164, "name": "Clopidogrel", "weight": 3.0, "id": 2777849778, "level": 4}
+{"count": 27755, "name": "Thrombolysis", "weight": 4.0, "id": 2779581417, "level": 4}
+{"count": 8248, "name": "Streptokinase", "weight": 1.0, "id": 2776336681, "level": 4}
+{"count": 12087, "name": "Cardiogenic shock", "weight": 2.0, "id": 2776850375, "level": 4}
+{"count": 7544, "name": "Troponin T", "weight": 1.0, "id": 144469398, "level": 4}
+{"count": 56596, "name": "Angina", "weight": 9.0, "id": 2778425758, "level": 4}
+{"count": 11673, "name": "ST elevation", "weight": 2.0, "id": 2776291336, "level": 4}
+{"count": 5002, "name": "Reperfusion therapy", "weight": 0.0, "id": 2780387585, "level": 4}
+{"count": 12497, "name": "Right coronary artery", "weight": 2.0, "id": 2778088351, "level": 4}
+{"count": 8795, "name": "Left coronary artery", "weight": 1.0, "id": 2780231137, "level": 4}
+{"count": 9899, "name": "Ventricular remodeling", "weight": 1.0, "id": 2779537366, "level": 4}
+{"count": 4129, "name": "Coronary care unit", "weight": 0.0, "id": 2777260377, "level": 4}
+{"count": 14710, "name": "ST segment", "weight": 2.0, "id": 2771771, "level": 4}
+{"count": 7659, "name": "Coronary occlusion", "weight": 1.0, "id": 2780393670, "level": 4}
+{"count": 3119, "name": "Coronary thrombosis", "weight": 0.0, "id": 2778976402, "level": 4}
+{"count": 1757, "name": "Intra-aortic balloon pump", "weight": 0.0, "id": 2778223703, "level": 4}
+{"count": 5180, "name": "Coronary stent", "weight": 0.0, "id": 2780911114, "level": 4}
+{"count": 641, "name": "Heart Aneurysm", "weight": 0.0, "id": 2777988727, "level": 4}
+{"count": 2078, "name": "Signal-averaged electrocardiogram", "weight": 0.0, "id": 61702054, "level": 4}
+{"count": 1497, "name": "Coronary artery aneurysm", "weight": 0.0, "id": 2776055304, "level": 4}
+{"count": 1244, "name": "Glycoprotein IIb/IIIa", "weight": 0.0, "id": 2776650865, "level": 4}
+{"count": 949, "name": "Myocardial bridge", "weight": 0.0, "id": 2776021941, "level": 4}
+{"count": 2709, "name": "Ventricular aneurysm", "weight": 0.0, "id": 2776725844, "level": 4}
+{"count": 634, "name": "Heart-type fatty acid binding protein", "weight": 0.0, "id": 2779280647, "level": 4}
+{"count": 920, "name": "Left ventricular thrombus", "weight": 0.0, "id": 2777650959, "level": 4}
+{"count": 429, "name": "Myocardial rupture", "weight": 0.0, "id": 2776700923, "level": 4}
+{"count": 102, "name": "Myocardial infarction complications", "weight": 0.0, "id": 2779580112, "level": 4}
+{"count": 183, "name": "Myocardial infarction diagnosis", "weight": 0.0, "id": 2778050738, "level": 4}
+{"count": 362, "name": "Cellular cardiomyoplasty", "weight": 0.0, "id": 2780289084, "level": 4}
+{"count": 774, "name": "Asynergy", "weight": 0.0, "id": 2781231445, "level": 4}
+{"count": 270, "name": "Revised Cardiac Risk Index", "weight": 0.0, "id": 2776094978, "level": 4}
+{"count": 638, "name": "Cardiac marker", "weight": 0.0, "id": 2778532138, "level": 4}
+{"count": 266, "name": "Accelerated idioventricular rhythm", "weight": 0.0, "id": 2777259047, "level": 4}
+{"count": 12, "name": "International Studies of Infarct Survival", "weight": 0.0, "id": 2780983864, "level": 4}
+{"count": 232, "name": "Contraction band necrosis", "weight": 0.0, "id": 2777958798, "level": 4}
+{"count": 635, "name": "Coronary ischemia", "weight": 0.0, "id": 2777524694, "level": 4}
+{"count": 127, "name": "Wellens' syndrome", "weight": 0.0, "id": 2781220044, "level": 4}
+{"count": 280, "name": "Cardiac Arrhythmia Suppression Trial", "weight": 0.0, "id": 2779322654, "level": 4}
+{"count": 233, "name": "Primary ventricular fibrillation", "weight": 0.0, "id": 2776217453, "level": 4}
+{"count": 108, "name": "KIF6", "weight": 0.0, "id": 2778072024, "level": 4}
+{"count": 43, "name": "Spontaneous coronary artery dissection (SCAD)", "weight": 0.0, "id": 2778675212, "level": 4}
+{"count": 137, "name": "Pericardial friction rub", "weight": 0.0, "id": 2780481226, "level": 4}
+{"count": 101, "name": "Current of injury", "weight": 0.0, "id": 2776180551, "level": 4}
+{"count": 22, "name": "Automated ECG interpretation", "weight": 0.0, "id": 2781197936, "level": 4}
+{"count": 92, "name": "High Frequency QRS", "weight": 0.0, "id": 2777610512, "level": 4}
+{"count": 16148, "name": "Electrocardiography in myocardial infarction", "weight": 2.0, "id": 78981884, "level": 4}

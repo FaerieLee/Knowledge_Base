@@ -1,0 +1,200 @@
+{"count": 46526, "name": "Semiconductor laser theory", "weight": 9.0, "id": 121477167, "level": 3}
+{"count": 40867, "name": "Single-mode optical fiber", "weight": 8.0, "id": 180861198, "level": 3}
+{"count": 29683, "name": "Optical pumping", "weight": 6.0, "id": 148651041, "level": 3}
+{"count": 25879, "name": "Spontaneous emission", "weight": 5.0, "id": 111154242, "level": 3}
+{"count": 21898, "name": "Fabry\u2013P\u00e9rot interferometer", "weight": 4.0, "id": 169268690, "level": 3}
+{"count": 19607, "name": "Continuous wave", "weight": 4.0, "id": 99568719, "level": 3}
+{"count": 40289, "name": "Laser diode", "weight": 8.0, "id": 2777048131, "level": 3}
+{"count": 42616, "name": "Fiber laser", "weight": 8.0, "id": 17163034, "level": 3}
+{"count": 41111, "name": "Pulsed laser deposition", "weight": 8.0, "id": 37982897, "level": 3}
+{"count": 29955, "name": "Laser ablation", "weight": 6.0, "id": 2779188808, "level": 3}
+{"count": 15247, "name": "Solid-state laser", "weight": 3.0, "id": 2779580267, "level": 3}
+{"count": 21071, "name": "High harmonic generation", "weight": 4.0, "id": 64672749, "level": 3}
+{"count": 20415, "name": "Laser-induced fluorescence", "weight": 4.0, "id": 1342733, "level": 3}
+{"count": 18418, "name": "Stimulated emission", "weight": 3.0, "id": 30282128, "level": 3}
+{"count": 19635, "name": "Excimer laser", "weight": 4.0, "id": 2780477314, "level": 3}
+{"count": 11380, "name": "Optical tweezers", "weight": 2.0, "id": 20198109, "level": 3}
+{"count": 24707, "name": "Optical cavity", "weight": 5.0, "id": 190269828, "level": 3}
+{"count": 17924, "name": "Dye laser", "weight": 3.0, "id": 60760409, "level": 3}
+{"count": 19583, "name": "Neodymium", "weight": 4.0, "id": 540262125, "level": 3}
+{"count": 32404, "name": "Tunable laser", "weight": 6.0, "id": 97749803, "level": 3}
+{"count": 18542, "name": "Extreme ultraviolet", "weight": 3.0, "id": 146024833, "level": 3}
+{"count": 13390, "name": "Inertial confinement fusion", "weight": 2.0, "id": 107430045, "level": 3}
+{"count": 25792, "name": "Laser scanning", "weight": 5.0, "id": 141349535, "level": 3}
+{"count": 20226, "name": "Vertical-cavity surface-emitting laser", "weight": 4.0, "id": 106246969, "level": 3}
+{"count": 13972, "name": "Free-electron laser", "weight": 2.0, "id": 2775876984, "level": 3}
+{"count": 11744, "name": "Mode-locking", "weight": 2.0, "id": 72959635, "level": 3}
+{"count": 10992, "name": "Two-photon absorption", "weight": 2.0, "id": 101075120, "level": 3}
+{"count": 9080, "name": "Free-space optical communication", "weight": 1.0, "id": 197000039, "level": 3}
+{"count": 8488, "name": "Amplified spontaneous emission", "weight": 1.0, "id": 194564183, "level": 3}
+{"count": 36280, "name": "Distributed feedback laser", "weight": 7.0, "id": 927094, "level": 3}
+{"count": 10391, "name": "Q-switching", "weight": 2.0, "id": 118742737, "level": 3}
+{"count": 29555, "name": "Laser beam welding", "weight": 6.0, "id": 89344249, "level": 3}
+{"count": 45214, "name": "Femtosecond", "weight": 9.0, "id": 167735695, "level": 3}
+{"count": 46068, "name": "Ultrashort pulse", "weight": 9.0, "id": 178596936, "level": 3}
+{"count": 11225, "name": "Saturable absorption", "weight": 2.0, "id": 22116519, "level": 3}
+{"count": 5839, "name": "Injection locking", "weight": 1.0, "id": 101476363, "level": 3}
+{"count": 14780, "name": "Excimer", "weight": 3.0, "id": 74561354, "level": 3}
+{"count": 25593, "name": "Laser pumping", "weight": 5.0, "id": 10730404, "level": 3}
+{"count": 6831, "name": "Laser cooling", "weight": 1.0, "id": 91275184, "level": 3}
+{"count": 6289, "name": "Quantum cascade laser", "weight": 1.0, "id": 2776957298, "level": 3}
+{"count": 20456, "name": "Picosecond", "weight": 4.0, "id": 55005982, "level": 3}
+{"count": 8643, "name": "Distributed Bragg reflector", "weight": 1.0, "id": 34082928, "level": 3}
+{"count": 12512, "name": "Pulsed laser", "weight": 2.0, "id": 2778979257, "level": 3}
+{"count": 19602, "name": "Ultrafast laser spectroscopy", "weight": 4.0, "id": 95503338, "level": 3}
+{"count": 5777, "name": "Thomson scattering", "weight": 1.0, "id": 2779146573, "level": 3}
+{"count": 9462, "name": "Transverse mode", "weight": 1.0, "id": 194136796, "level": 3}
+{"count": 4309, "name": "Coherent control", "weight": 0.0, "id": 78594624, "level": 3}
+{"count": 15677, "name": "Heterodyne", "weight": 3.0, "id": 202792700, "level": 3}
+{"count": 18710, "name": "Fluence", "weight": 3.0, "id": 22078206, "level": 3}
+{"count": 7919, "name": "Gas laser", "weight": 1.0, "id": 2779367622, "level": 3}
+{"count": 6925, "name": "Holmium", "weight": 1.0, "id": 540056406, "level": 3}
+{"count": 3624, "name": "Plasma acceleration", "weight": 0.0, "id": 198861627, "level": 3}
+{"count": 2066, "name": "Biophotonics", "weight": 0.0, "id": 46465826, "level": 3}
+{"count": 23914, "name": "Far-infrared laser", "weight": 5.0, "id": 133033976, "level": 3}
+{"count": 29284, "name": "Laser linewidth", "weight": 6.0, "id": 142181693, "level": 3}
+{"count": 3626, "name": "Photoacoustic effect", "weight": 0.0, "id": 163740662, "level": 3}
+{"count": 5626, "name": "Keratomileusis", "weight": 1.0, "id": 2778609529, "level": 3}
+{"count": 5854, "name": "Laser surgery", "weight": 1.0, "id": 2776829320, "level": 3}
+{"count": 13929, "name": "Photon upconversion", "weight": 2.0, "id": 11630735, "level": 3}
+{"count": 5658, "name": "Population inversion", "weight": 1.0, "id": 185020441, "level": 3}
+{"count": 6127, "name": "Laser-induced breakdown spectroscopy", "weight": 1.0, "id": 50497907, "level": 3}
+{"count": 4023, "name": "Self-focusing", "weight": 0.0, "id": 45290791, "level": 3}
+{"count": 4510, "name": "Photoacoustic spectroscopy", "weight": 0.0, "id": 2777286522, "level": 3}
+{"count": 6161, "name": "Selective laser sintering", "weight": 1.0, "id": 54237361, "level": 3}
+{"count": 2579, "name": "Free spectral range", "weight": 0.0, "id": 2776015930, "level": 3}
+{"count": 4179, "name": "Laser beam machining", "weight": 0.0, "id": 2778386843, "level": 3}
+{"count": 11419, "name": "Free electron model", "weight": 2.0, "id": 86453669, "level": 3}
+{"count": 11619, "name": "Nd:YAG laser", "weight": 2.0, "id": 2777806098, "level": 3}
+{"count": 28251, "name": "Pulse duration", "weight": 5.0, "id": 169150495, "level": 3}
+{"count": 18517, "name": "Nanosecond", "weight": 3.0, "id": 51141536, "level": 3}
+{"count": 9987, "name": "Laser cutting", "weight": 2.0, "id": 2780180705, "level": 3}
+{"count": 2152, "name": "Magneto-optical trap", "weight": 0.0, "id": 2778183165, "level": 3}
+{"count": 4607, "name": "Selective laser melting", "weight": 0.0, "id": 26796778, "level": 3}
+{"count": 2081, "name": "Satellite laser ranging", "weight": 0.0, "id": 81005367, "level": 3}
+{"count": 3323, "name": "Relative intensity noise", "weight": 0.0, "id": 204517386, "level": 3}
+{"count": 3032, "name": "Filamentation", "weight": 0.0, "id": 4907923, "level": 3}
+{"count": 2089, "name": "Pockels effect", "weight": 0.0, "id": 186419263, "level": 3}
+{"count": 3685, "name": "Retroreflector", "weight": 0.0, "id": 135339813, "level": 3}
+{"count": 2103, "name": "Cavity ring-down spectroscopy", "weight": 0.0, "id": 155552310, "level": 3}
+{"count": 2390, "name": "Ponderomotive force", "weight": 0.0, "id": 2778175000, "level": 3}
+{"count": 891, "name": "Regenerative amplification", "weight": 0.0, "id": 2778727045, "level": 3}
+{"count": 2237, "name": "Laser guide star", "weight": 0.0, "id": 55743289, "level": 3}
+{"count": 1080, "name": "Acousto-optic modulator", "weight": 0.0, "id": 2779137583, "level": 3}
+{"count": 6637, "name": "Supercontinuum", "weight": 1.0, "id": 191154138, "level": 3}
+{"count": 28111, "name": "Lasing threshold", "weight": 5.0, "id": 40637687, "level": 3}
+{"count": 115, "name": "Argon compounds", "weight": 0.0, "id": 2777398585, "level": 3}
+{"count": 34842, "name": "Laser beam quality", "weight": 7.0, "id": 115171683, "level": 3}
+{"count": 47410, "name": "Laser power scaling", "weight": 10.0, "id": 200649887, "level": 3}
+{"count": 6747, "name": "Slope efficiency", "weight": 1.0, "id": 33163612, "level": 3}
+{"count": 2582, "name": "Laser drilling", "weight": 0.0, "id": 2780997931, "level": 3}
+{"count": 1430, "name": "Laser pointer", "weight": 0.0, "id": 2777180402, "level": 3}
+{"count": 3813, "name": "Streak camera", "weight": 0.0, "id": 12880257, "level": 3}
+{"count": 4181, "name": "Carbon dioxide laser", "weight": 0.0, "id": 2780902700, "level": 3}
+{"count": 15867, "name": "X-ray laser", "weight": 3.0, "id": 100536367, "level": 3}
+{"count": 5572, "name": "Frequency comb", "weight": 1.0, "id": 138234222, "level": 3}
+{"count": 2279, "name": "Er:YAG laser", "weight": 0.0, "id": 2776954444, "level": 3}
+{"count": 1346, "name": "Laser safety", "weight": 0.0, "id": 2779528045, "level": 3}
+{"count": 1456, "name": "Laser science", "weight": 0.0, "id": 38655281, "level": 3}
+{"count": 946, "name": "Chemical oxygen iodine laser", "weight": 0.0, "id": 2780571739, "level": 3}
+{"count": 469, "name": "High energy density physics", "weight": 0.0, "id": 2778705231, "level": 3}
+{"count": 1633, "name": "Spectral purity", "weight": 0.0, "id": 2778838624, "level": 3}
+{"count": 7547, "name": "Undulator", "weight": 1.0, "id": 2777284552, "level": 3}
+{"count": 2681, "name": "Blue laser", "weight": 0.0, "id": 88815150, "level": 3}
+{"count": 1077, "name": "Warm dense matter", "weight": 0.0, "id": 2780973484, "level": 3}
+{"count": 668, "name": "TEA laser", "weight": 0.0, "id": 2776417069, "level": 3}
+{"count": 3863, "name": "Ruby laser", "weight": 0.0, "id": 2778613923, "level": 3}
+{"count": 1398, "name": "Photothermal effect", "weight": 0.0, "id": 2777742735, "level": 3}
+{"count": 1168, "name": "Potassium titanyl phosphate", "weight": 0.0, "id": 2778901449, "level": 3}
+{"count": 983, "name": "Atomic coherence", "weight": 0.0, "id": 2776134477, "level": 3}
+{"count": 3944, "name": "Frequency standard", "weight": 0.0, "id": 131221115, "level": 3}
+{"count": 1611, "name": "Axicon", "weight": 0.0, "id": 2776024604, "level": 3}
+{"count": 2861, "name": "Plasma channel", "weight": 0.0, "id": 49063409, "level": 3}
+{"count": 771, "name": "Differential gain", "weight": 0.0, "id": 2780630149, "level": 3}
+{"count": 1951, "name": "Chemical laser", "weight": 0.0, "id": 2779304445, "level": 3}
+{"count": 713, "name": "Radiation trapping", "weight": 0.0, "id": 2776052136, "level": 3}
+{"count": 2997, "name": "Double heterostructure", "weight": 0.0, "id": 14174561, "level": 3}
+{"count": 1217, "name": "Atom laser", "weight": 0.0, "id": 43071845, "level": 3}
+{"count": 1147, "name": "Heat-assisted magnetic recording", "weight": 0.0, "id": 2776578331, "level": 3}
+{"count": 4171, "name": "Spectral width", "weight": 0.0, "id": 133807990, "level": 3}
+{"count": 5084, "name": "Output coupler", "weight": 1.0, "id": 9986408, "level": 3}
+{"count": 1798, "name": "Superluminescent diode", "weight": 0.0, "id": 112098571, "level": 3}
+{"count": 1707, "name": "Interference lithography", "weight": 0.0, "id": 159395582, "level": 3}
+{"count": 1672, "name": "Laser tracker", "weight": 0.0, "id": 43210895, "level": 3}
+{"count": 5251, "name": "Longitudinal mode", "weight": 1.0, "id": 57172181, "level": 3}
+{"count": 880, "name": "Photodarkening", "weight": 0.0, "id": 2781003497, "level": 3}
+{"count": 3143, "name": "Ring laser gyroscope", "weight": 0.0, "id": 187615540, "level": 3}
+{"count": 422, "name": "Optogalvanic effect", "weight": 0.0, "id": 2779331706, "level": 3}
+{"count": 542, "name": "Photosensitive glass", "weight": 0.0, "id": 2779251990, "level": 3}
+{"count": 2682, "name": "Ion laser", "weight": 0.0, "id": 2779229411, "level": 3}
+{"count": 14818, "name": "Quantum dot laser", "weight": 3.0, "id": 74130334, "level": 3}
+{"count": 498, "name": "Laser guidance", "weight": 0.0, "id": 2778606476, "level": 3}
+{"count": 1126, "name": "Laser ignition", "weight": 0.0, "id": 2779853127, "level": 3}
+{"count": 307, "name": "Lithium iodate", "weight": 0.0, "id": 2780388862, "level": 3}
+{"count": 260, "name": "Indium gallium phosphide", "weight": 0.0, "id": 2776453884, "level": 3}
+{"count": 689, "name": "Barium borate", "weight": 0.0, "id": 2776140481, "level": 3}
+{"count": 1620, "name": "Laser engraving", "weight": 0.0, "id": 2779295775, "level": 3}
+{"count": 1184, "name": "Laser printing", "weight": 0.0, "id": 2777804526, "level": 3}
+{"count": 155, "name": "Shadowgraphy", "weight": 0.0, "id": 2778260026, "level": 3}
+{"count": 3858, "name": "Hohlraum", "weight": 0.0, "id": 52551758, "level": 3}
+{"count": 1173, "name": "Copper vapor laser", "weight": 0.0, "id": 2776000872, "level": 3}
+{"count": 4742, "name": "Buffer gas", "weight": 1.0, "id": 48597763, "level": 3}
+{"count": 587, "name": "Laser hair removal", "weight": 0.0, "id": 2779617641, "level": 3}
+{"count": 915, "name": "Yttrium aluminium garnet", "weight": 0.0, "id": 2779117258, "level": 3}
+{"count": 576, "name": "Tattoo removal", "weight": 0.0, "id": 2776120641, "level": 3}
+{"count": 390, "name": "Copper bromide", "weight": 0.0, "id": 2777684502, "level": 3}
+{"count": 242, "name": "Laser-induced thermotherapy", "weight": 0.0, "id": 2778508824, "level": 3}
+{"count": 376, "name": "Laser engineered net shaping", "weight": 0.0, "id": 2779202306, "level": 3}
+{"count": 684, "name": "Water window", "weight": 0.0, "id": 2780884700, "level": 3}
+{"count": 798, "name": "Dielectric mirror", "weight": 0.0, "id": 2779878699, "level": 3}
+{"count": 1405, "name": "Nitrogen laser", "weight": 0.0, "id": 2780346610, "level": 3}
+{"count": 144, "name": "Yttrium orthovanadate", "weight": 0.0, "id": 2776574406, "level": 3}
+{"count": 738, "name": "Autocorrelator", "weight": 0.0, "id": 96717886, "level": 3}
+{"count": 101, "name": "Autler\u2013Townes effect", "weight": 0.0, "id": 2779567988, "level": 3}
+{"count": 877, "name": "Laser projector", "weight": 0.0, "id": 2776194044, "level": 3}
+{"count": 128, "name": "Spiker", "weight": 0.0, "id": 2780167580, "level": 3}
+{"count": 453, "name": "Sodium layer", "weight": 0.0, "id": 176563613, "level": 3}
+{"count": 278, "name": "Gas dynamic laser", "weight": 0.0, "id": 2779380293, "level": 3}
+{"count": 317, "name": "Laser bonding", "weight": 0.0, "id": 2776300531, "level": 3}
+{"count": 554, "name": "Laser medicine", "weight": 0.0, "id": 520413478, "level": 3}
+{"count": 196, "name": "Transistor laser", "weight": 0.0, "id": 2778062210, "level": 3}
+{"count": 282, "name": "Saturated absorption spectroscopy", "weight": 0.0, "id": 2781257117, "level": 3}
+{"count": 165, "name": "Abbe error", "weight": 0.0, "id": 83648862, "level": 3}
+{"count": 153, "name": "AgInSbTe", "weight": 0.0, "id": 2780494709, "level": 3}
+{"count": 282, "name": "Laser scalpel", "weight": 0.0, "id": 2776704550, "level": 3}
+{"count": 64, "name": "GSD microscopy", "weight": 0.0, "id": 95462814, "level": 3}
+{"count": 38, "name": "Laser rapid manufacturing", "weight": 0.0, "id": 2780753228, "level": 3}
+{"count": 225, "name": "Position sensitive device", "weight": 0.0, "id": 2780843109, "level": 3}
+{"count": 356, "name": "Resonator mode", "weight": 0.0, "id": 2779654622, "level": 3}
+{"count": 246, "name": "Optical beam-induced current", "weight": 0.0, "id": 2781246154, "level": 3}
+{"count": 146, "name": "Golay cell", "weight": 0.0, "id": 2777215697, "level": 3}
+{"count": 386, "name": "Picometre", "weight": 0.0, "id": 79381769, "level": 3}
+{"count": 131, "name": "Caesium standard", "weight": 0.0, "id": 186132226, "level": 3}
+{"count": 107, "name": "Directed-energy weapon", "weight": 0.0, "id": 2780316374, "level": 3}
+{"count": 94, "name": "Microprinting", "weight": 0.0, "id": 70929209, "level": 3}
+{"count": 291, "name": "Optical table", "weight": 0.0, "id": 2776073647, "level": 3}
+{"count": 284, "name": "Dental laser", "weight": 0.0, "id": 2779470980, "level": 3}
+{"count": 570, "name": "HiPER", "weight": 0.0, "id": 2776636252, "level": 3}
+{"count": 270, "name": "Plasma recombination", "weight": 0.0, "id": 2776130070, "level": 3}
+{"count": 239, "name": "Laser detuning", "weight": 0.0, "id": 2776929978, "level": 3}
+{"count": 113, "name": "Laser warning receiver", "weight": 0.0, "id": 143700934, "level": 3}
+{"count": 44, "name": "Nd:YCOB", "weight": 0.0, "id": 2780552978, "level": 3}
+{"count": 36, "name": "Lamb Dicke regime", "weight": 0.0, "id": 2780615684, "level": 3}
+{"count": 228, "name": "Optical chopper", "weight": 0.0, "id": 2778574973, "level": 3}
+{"count": 222, "name": "Atomic recoil", "weight": 0.0, "id": 2780948669, "level": 3}
+{"count": 101, "name": "Aluminium arsenide", "weight": 0.0, "id": 2777459713, "level": 3}
+{"count": 18, "name": "Strontium vapor laser", "weight": 0.0, "id": 153983431, "level": 3}
+{"count": 22, "name": "Grotrian diagram", "weight": 0.0, "id": 2777145137, "level": 3}
+{"count": 331, "name": "Quantum clock", "weight": 0.0, "id": 35800261, "level": 3}
+{"count": 589, "name": "Facula", "weight": 0.0, "id": 11825730, "level": 3}
+{"count": 120, "name": "Porro prism", "weight": 0.0, "id": 2776899589, "level": 3}
+{"count": 178, "name": "Phelix", "weight": 0.0, "id": 11750347, "level": 3}
+{"count": 107, "name": "Shock hardening", "weight": 0.0, "id": 2780845781, "level": 3}
+{"count": 133, "name": "Central Laser Facility", "weight": 0.0, "id": 2780019069, "level": 3}
+{"count": 146, "name": "Dazzler", "weight": 0.0, "id": 2776349104, "level": 3}
+{"count": 1091, "name": "Photoacoustic Doppler effect", "weight": 0.0, "id": 31771446, "level": 3}
+{"count": 149, "name": "Mercury laser", "weight": 0.0, "id": 2779806528, "level": 3}
+{"count": 26, "name": "Toda oscillator", "weight": 0.0, "id": 2778299593, "level": 3}
+{"count": 806, "name": "Quantum heterostructure", "weight": 0.0, "id": 114850418, "level": 3}
+{"count": 12, "name": "Babinet\u2013Soleil compensator", "weight": 0.0, "id": 2776605163, "level": 3}
+{"count": 97, "name": "Hydrogen fluoride laser", "weight": 0.0, "id": 2779968242, "level": 3}

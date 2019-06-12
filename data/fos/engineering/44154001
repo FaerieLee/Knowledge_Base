@@ -1,0 +1,3 @@
+{"count": 770, "name": "Mean time to repair", "weight": 10.0, "id": 32655205, "level": 3}
+{"count": 431, "name": "Mean time to first failure", "weight": 5.0, "id": 119302715, "level": 3}
+{"count": 77, "name": "Maintenance-free operating period", "weight": 1.0, "id": 95370735, "level": 3}

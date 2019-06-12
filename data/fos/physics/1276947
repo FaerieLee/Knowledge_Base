@@ -1,0 +1,200 @@
+{"count": 7156, "name": "Complication", "weight": 0.0, "id": 81182388, "level": 2}
+{"count": 254379, "name": "Infrared", "weight": 6.0, "id": 158355884, "level": 2}
+{"count": 320487, "name": "Spectroscopy", "weight": 7.0, "id": 32891209, "level": 2}
+{"count": 400974, "name": "Spectral line", "weight": 10.0, "id": 4839761, "level": 2}
+{"count": 33285, "name": "Low frequency", "weight": 0.0, "id": 104892082, "level": 2}
+{"count": 163134, "name": "Satellite", "weight": 4.0, "id": 19269812, "level": 2}
+{"count": 86623, "name": "Gamma ray", "weight": 2.0, "id": 7910260, "level": 2}
+{"count": 67865, "name": "Cosmic ray", "weight": 1.0, "id": 111309251, "level": 2}
+{"count": 62292, "name": "Black hole", "weight": 1.0, "id": 98851261, "level": 2}
+{"count": 76756, "name": "Ionosphere", "weight": 1.0, "id": 116403925, "level": 2}
+{"count": 105146, "name": "Emission spectrum", "weight": 2.0, "id": 96141758, "level": 2}
+{"count": 160926, "name": "Atmosphere", "weight": 4.0, "id": 143906210, "level": 2}
+{"count": 28630, "name": "Cosmology", "weight": 0.0, "id": 26405456, "level": 2}
+{"count": 66067, "name": "Surface wave", "weight": 1.0, "id": 84174578, "level": 2}
+{"count": 48275, "name": "Solar wind", "weight": 1.0, "id": 108411613, "level": 2}
+{"count": 126434, "name": "Galaxy", "weight": 3.0, "id": 98444146, "level": 2}
+{"count": 40571, "name": "Recombination", "weight": 1.0, "id": 156695909, "level": 2}
+{"count": 24660, "name": "Natural science", "weight": 0.0, "id": 193235544, "level": 2}
+{"count": 123971, "name": "Interferometry", "weight": 3.0, "id": 166689943, "level": 2}
+{"count": 36889, "name": "Solar System", "weight": 0.0, "id": 539450922, "level": 2}
+{"count": 40400, "name": "Dark matter", "weight": 1.0, "id": 159249277, "level": 2}
+{"count": 23916, "name": "Present day", "weight": 0.0, "id": 2779383114, "level": 2}
+{"count": 91941, "name": "Doppler effect", "weight": 2.0, "id": 142757262, "level": 2}
+{"count": 30782, "name": "Interstellar medium", "weight": 0.0, "id": 196939603, "level": 2}
+{"count": 29442, "name": "Gravitational wave", "weight": 0.0, "id": 190330329, "level": 2}
+{"count": 33992, "name": "Neutron star", "weight": 0.0, "id": 192887742, "level": 2}
+{"count": 53699, "name": "Gravitation", "weight": 1.0, "id": 124017977, "level": 2}
+{"count": 25539, "name": "Stellar evolution", "weight": 0.0, "id": 110472602, "level": 2}
+{"count": 10902, "name": "Accretion disc", "weight": 0.0, "id": 195803813, "level": 2}
+{"count": 43553, "name": "Corona", "weight": 1.0, "id": 186072955, "level": 2}
+{"count": 104709, "name": "Stars", "weight": 2.0, "id": 150846664, "level": 2}
+{"count": 25361, "name": "Solar flare", "weight": 0.0, "id": 185001636, "level": 2}
+{"count": 67324, "name": "Silicate", "weight": 1.0, "id": 2777335606, "level": 2}
+{"count": 19532, "name": "System of measurement", "weight": 0.0, "id": 37649242, "level": 2}
+{"count": 48274, "name": "Photometry (optics)", "weight": 1.0, "id": 68271606, "level": 2}
+{"count": 51173, "name": "Luminosity", "weight": 1.0, "id": 12287442, "level": 2}
+{"count": 28491, "name": "Solar cycle", "weight": 0.0, "id": 43867161, "level": 2}
+{"count": 21319, "name": "Molecular cloud", "weight": 0.0, "id": 86021447, "level": 2}
+{"count": 37430, "name": "Supernova", "weight": 0.0, "id": 127592171, "level": 2}
+{"count": 27506, "name": "Radial velocity", "weight": 0.0, "id": 41074950, "level": 2}
+{"count": 18966, "name": "Cosmic microwave background", "weight": 0.0, "id": 207297109, "level": 2}
+{"count": 75957, "name": "Inversion (meteorology)", "weight": 1.0, "id": 78586090, "level": 2}
+{"count": 20170, "name": "White dwarf", "weight": 0.0, "id": 197445014, "level": 2}
+{"count": 20967, "name": "Binary star", "weight": 0.0, "id": 193786831, "level": 2}
+{"count": 22172, "name": "Globular cluster", "weight": 0.0, "id": 113461152, "level": 2}
+{"count": 39783, "name": "Earth's magnetic field", "weight": 0.0, "id": 199635899, "level": 2}
+{"count": 27391, "name": "Gamma-ray burst", "weight": 0.0, "id": 17599544, "level": 2}
+{"count": 54420, "name": "Planet", "weight": 1.0, "id": 51244244, "level": 2}
+{"count": 10049, "name": "Space technology", "weight": 0.0, "id": 77304879, "level": 2}
+{"count": 22152, "name": "Nova (rocket)", "weight": 0.0, "id": 199364081, "level": 2}
+{"count": 22073, "name": "Space exploration", "weight": 0.0, "id": 104060986, "level": 2}
+{"count": 22247, "name": "Accretion (meteorology)", "weight": 0.0, "id": 189874977, "level": 2}
+{"count": 23694, "name": "Adaptive optics", "weight": 0.0, "id": 132771110, "level": 2}
+{"count": 12294, "name": "Maser", "weight": 0.0, "id": 46061668, "level": 2}
+{"count": 12498, "name": "Spectral energy distribution", "weight": 0.0, "id": 50425793, "level": 2}
+{"count": 67497, "name": "Universe", "weight": 1.0, "id": 84999194, "level": 2}
+{"count": 14584, "name": "Charge-coupled device", "weight": 0.0, "id": 152213855, "level": 2}
+{"count": 81918, "name": "Mars Exploration Program", "weight": 2.0, "id": 83260615, "level": 2}
+{"count": 12008, "name": "Brightness temperature", "weight": 0.0, "id": 53802167, "level": 2}
+{"count": 22636, "name": "Meteorite", "weight": 0.0, "id": 130635790, "level": 2}
+{"count": 24610, "name": "Pulsar", "weight": 0.0, "id": 110363677, "level": 2}
+{"count": 12437, "name": "Binary system", "weight": 0.0, "id": 182283691, "level": 2}
+{"count": 10507, "name": "Hair follicle", "weight": 0.0, "id": 2777216303, "level": 2}
+{"count": 7172, "name": "SPHERES", "weight": 0.0, "id": 72422203, "level": 2}
+{"count": 17394, "name": "Variable star", "weight": 0.0, "id": 17352008, "level": 2}
+{"count": 13599, "name": "Radio astronomy", "weight": 0.0, "id": 150143219, "level": 2}
+{"count": 7038, "name": "Brown dwarf", "weight": 0.0, "id": 163531172, "level": 2}
+{"count": 46843, "name": "Latitude", "weight": 1.0, "id": 122523270, "level": 2}
+{"count": 9161, "name": "Radiation pressure", "weight": 0.0, "id": 68337447, "level": 2}
+{"count": 8305, "name": "Secular variation", "weight": 0.0, "id": 112197492, "level": 2}
+{"count": 25574, "name": "Gravitational field", "weight": 0.0, "id": 14257148, "level": 2}
+{"count": 24185, "name": "Asteroid", "weight": 0.0, "id": 58142911, "level": 2}
+{"count": 9197, "name": "Energy flux", "weight": 0.0, "id": 55519028, "level": 2}
+{"count": 14760, "name": "Spitzer Space Telescope", "weight": 0.0, "id": 522977591, "level": 2}
+{"count": 14445, "name": "Planetary nebula", "weight": 0.0, "id": 95373548, "level": 2}
+{"count": 7487, "name": "Gravitational collapse", "weight": 0.0, "id": 118396296, "level": 2}
+{"count": 9555, "name": "Nucleosynthesis", "weight": 0.0, "id": 4397270, "level": 2}
+{"count": 7947, "name": "Elongation", "weight": 0.0, "id": 33947775, "level": 2}
+{"count": 8183, "name": "Celestial mechanics", "weight": 0.0, "id": 27638517, "level": 2}
+{"count": 6553, "name": "Structure formation", "weight": 0.0, "id": 146867326, "level": 2}
+{"count": 36469, "name": "Comet", "weight": 0.0, "id": 94081185, "level": 2}
+{"count": 23917, "name": "Light curve", "weight": 0.0, "id": 130726490, "level": 2}
+{"count": 18450, "name": "Coalescence (physics)", "weight": 0.0, "id": 149792144, "level": 2}
+{"count": 31111, "name": "Coronal mass ejection", "weight": 0.0, "id": 72886185, "level": 2}
+{"count": 6749, "name": "Solar physics", "weight": 0.0, "id": 183682340, "level": 2}
+{"count": 9951, "name": "Cosmic dust", "weight": 0.0, "id": 190841160, "level": 2}
+{"count": 42976, "name": "Azimuth", "weight": 1.0, "id": 159737794, "level": 2}
+{"count": 4823, "name": "Prima materia", "weight": 0.0, "id": 172796168, "level": 2}
+{"count": 63634, "name": "Orbit", "weight": 1.0, "id": 148554410, "level": 2}
+{"count": 12333, "name": "Void (astronomy)", "weight": 0.0, "id": 84643079, "level": 2}
+{"count": 10526, "name": "Radio propagation", "weight": 0.0, "id": 202311505, "level": 2}
+{"count": 13362, "name": "Biosphere", "weight": 0.0, "id": 107218244, "level": 2}
+{"count": 14000, "name": "Radio telescope", "weight": 0.0, "id": 161813005, "level": 2}
+{"count": 8540, "name": "X-ray astronomy", "weight": 0.0, "id": 55504214, "level": 2}
+{"count": 8844, "name": "Cataclysmic variable star", "weight": 0.0, "id": 196778148, "level": 2}
+{"count": 56729, "name": "Spacecraft", "weight": 1.0, "id": 29829512, "level": 2}
+{"count": 11881, "name": "Rod", "weight": 0.0, "id": 162184086, "level": 2}
+{"count": 14925, "name": "Angular resolution", "weight": 0.0, "id": 13303506, "level": 2}
+{"count": 15252, "name": "Space Shuttle", "weight": 0.0, "id": 106125477, "level": 2}
+{"count": 24681, "name": "Sunlight", "weight": 0.0, "id": 170853661, "level": 2}
+{"count": 12102, "name": "Open cluster", "weight": 0.0, "id": 52348108, "level": 2}
+{"count": 6220, "name": "Atomic clock", "weight": 0.0, "id": 196597080, "level": 2}
+{"count": 18769, "name": "Sunspot", "weight": 0.0, "id": 197370839, "level": 2}
+{"count": 8552, "name": "Photosphere", "weight": 0.0, "id": 108884401, "level": 2}
+{"count": 14848, "name": "History of science", "weight": 0.0, "id": 85659524, "level": 2}
+{"count": 4526, "name": "Open science", "weight": 0.0, "id": 2778149293, "level": 2}
+{"count": 11068, "name": "Volatiles", "weight": 0.0, "id": 34468078, "level": 2}
+{"count": 8281, "name": "Mass distribution", "weight": 0.0, "id": 134222618, "level": 2}
+{"count": 5899, "name": "Red giant", "weight": 0.0, "id": 2776026716, "level": 2}
+{"count": 17668, "name": "Foot (unit)", "weight": 0.0, "id": 145015628, "level": 2}
+{"count": 11016, "name": "Space weather", "weight": 0.0, "id": 151325931, "level": 2}
+{"count": 49548, "name": "Delta", "weight": 1.0, "id": 5072461, "level": 2}
+{"count": 19681, "name": "Ellipsoid", "weight": 0.0, "id": 57489055, "level": 2}
+{"count": 4353, "name": "Stellar dynamics", "weight": 0.0, "id": 98176478, "level": 2}
+{"count": 13664, "name": "Cosmos", "weight": 0.0, "id": 164663123, "level": 2}
+{"count": 20440, "name": "Jupiter", "weight": 0.0, "id": 526627942, "level": 2}
+{"count": 15061, "name": "Darkness", "weight": 0.0, "id": 2779027399, "level": 2}
+{"count": 12220, "name": "International Space Station", "weight": 0.0, "id": 520752033, "level": 2}
+{"count": 11021, "name": "Titan (rocket family)", "weight": 0.0, "id": 50805821, "level": 2}
+{"count": 7478, "name": "Astrometry", "weight": 0.0, "id": 133725777, "level": 2}
+{"count": 5771, "name": "Interplanetary dust cloud", "weight": 0.0, "id": 32449521, "level": 2}
+{"count": 10688, "name": "Spectral bands", "weight": 0.0, "id": 114700698, "level": 2}
+{"count": 5585, "name": "Earth's rotation", "weight": 0.0, "id": 142670403, "level": 2}
+{"count": 61719, "name": "Telescope", "weight": 1.0, "id": 2780848835, "level": 2}
+{"count": 14659, "name": "Flare", "weight": 0.0, "id": 2779588948, "level": 2}
+{"count": 4051, "name": "Weightlessness", "weight": 0.0, "id": 37752432, "level": 2}
+{"count": 4992, "name": "Plage", "weight": 0.0, "id": 74880916, "level": 2}
+{"count": 1720, "name": "Dynamic method", "weight": 0.0, "id": 2779169096, "level": 2}
+{"count": 3537, "name": "Position angle", "weight": 0.0, "id": 195475122, "level": 2}
+{"count": 2447, "name": "Abundance of the chemical elements", "weight": 0.0, "id": 68944897, "level": 2}
+{"count": 3832, "name": "Protoplanetary disk", "weight": 0.0, "id": 2780909310, "level": 2}
+{"count": 37352, "name": "Horizon", "weight": 0.0, "id": 159176650, "level": 2}
+{"count": 5381, "name": "Spheroid", "weight": 0.0, "id": 175369904, "level": 2}
+{"count": 5403, "name": "Mobile service", "weight": 0.0, "id": 2780559388, "level": 2}
+{"count": 12518, "name": "Precession", "weight": 0.0, "id": 81502235, "level": 2}
+{"count": 11113, "name": "Cherenkov radiation", "weight": 0.0, "id": 72591435, "level": 2}
+{"count": 7932, "name": "Meteoroid", "weight": 0.0, "id": 10393806, "level": 2}
+{"count": 79145, "name": "Shadow", "weight": 1.0, "id": 196998284, "level": 2}
+{"count": 10963, "name": "Very-long-baseline interferometry", "weight": 0.0, "id": 79896159, "level": 2}
+{"count": 4764, "name": "Stellar rotation", "weight": 0.0, "id": 88991977, "level": 2}
+{"count": 9620, "name": "NASA Deep Space Network", "weight": 0.0, "id": 187107819, "level": 2}
+{"count": 7808, "name": "Regolith", "weight": 0.0, "id": 41642174, "level": 2}
+{"count": 6233, "name": "Occultation", "weight": 0.0, "id": 131040042, "level": 2}
+{"count": 12222, "name": "Saturn", "weight": 0.0, "id": 511503438, "level": 2}
+{"count": 8767, "name": "Pitch angle", "weight": 0.0, "id": 2777581452, "level": 2}
+{"count": 1219, "name": "Cosmochemistry", "weight": 0.0, "id": 102900547, "level": 2}
+{"count": 5757, "name": "Ion thruster", "weight": 0.0, "id": 163368183, "level": 2}
+{"count": 9169, "name": "Photometer", "weight": 0.0, "id": 11494860, "level": 2}
+{"count": 7115, "name": "Planetary science", "weight": 0.0, "id": 152551177, "level": 2}
+{"count": 1599, "name": "Two-body problem", "weight": 0.0, "id": 28215138, "level": 2}
+{"count": 2612, "name": "Very Large Telescope", "weight": 0.0, "id": 2780174078, "level": 2}
+{"count": 5059, "name": "Life support system", "weight": 0.0, "id": 84795859, "level": 2}
+{"count": 9454, "name": "Illuminance", "weight": 0.0, "id": 36365805, "level": 2}
+{"count": 687, "name": "Computational astrophysics", "weight": 0.0, "id": 194286251, "level": 2}
+{"count": 3604, "name": "Lunar soil", "weight": 0.0, "id": 2777139587, "level": 2}
+{"count": 35899, "name": "Sky", "weight": 0.0, "id": 73329638, "level": 2}
+{"count": 25326, "name": "Halo", "weight": 0.0, "id": 184665706, "level": 2}
+{"count": 6974, "name": "Space Science", "weight": 0.0, "id": 17967879, "level": 2}
+{"count": 14841, "name": "Daylight", "weight": 0.0, "id": 149277555, "level": 2}
+{"count": 7388, "name": "Space research", "weight": 0.0, "id": 92851284, "level": 2}
+{"count": 11120, "name": "Parallax", "weight": 0.0, "id": 15759828, "level": 2}
+{"count": 2629, "name": "Medium frequency", "weight": 0.0, "id": 85885044, "level": 2}
+{"count": 6235, "name": "Cepheid variable", "weight": 0.0, "id": 150739758, "level": 2}
+{"count": 15411, "name": "Eclipse", "weight": 0.0, "id": 2778505590, "level": 2}
+{"count": 234, "name": "Line (formation)", "weight": 0.0, "id": 161142120, "level": 2}
+{"count": 8886, "name": "Ejecta", "weight": 0.0, "id": 92150305, "level": 2}
+{"count": 1776, "name": "Color index", "weight": 0.0, "id": 33584711, "level": 2}
+{"count": 19807, "name": "Radius", "weight": 0.0, "id": 83053163, "level": 2}
+{"count": 3700, "name": "Nuclear astrophysics", "weight": 0.0, "id": 54116275, "level": 2}
+{"count": 1504, "name": "Universal Time", "weight": 0.0, "id": 84853838, "level": 2}
+{"count": 2237, "name": "Effective radius", "weight": 0.0, "id": 2779406902, "level": 2}
+{"count": 16569, "name": "Ellipse", "weight": 0.0, "id": 74261601, "level": 2}
+{"count": 5629, "name": "Virial theorem", "weight": 0.0, "id": 189549420, "level": 2}
+{"count": 32967, "name": "Palm", "weight": 0.0, "id": 94598645, "level": 2}
+{"count": 4418, "name": "Magnetic dip", "weight": 0.0, "id": 60365795, "level": 2}
+{"count": 5090, "name": "Parabolic reflector", "weight": 0.0, "id": 116903202, "level": 2}
+{"count": 5923, "name": "Hypervelocity", "weight": 0.0, "id": 117740565, "level": 2}
+{"count": 937, "name": "Planetary ring", "weight": 0.0, "id": 43147651, "level": 2}
+{"count": 3517, "name": "Astroparticle physics", "weight": 0.0, "id": 534381523, "level": 2}
+{"count": 4275, "name": "Citizen science", "weight": 0.0, "id": 197352329, "level": 2}
+{"count": 2210, "name": "H-alpha", "weight": 0.0, "id": 180119722, "level": 2}
+{"count": 3504, "name": "Critical ionization velocity", "weight": 0.0, "id": 22713304, "level": 2}
+{"count": 13945, "name": "Opposition (planets)", "weight": 0.0, "id": 24911777, "level": 2}
+{"count": 8887, "name": "Outgassing", "weight": 0.0, "id": 1012414, "level": 2}
+{"count": 2393, "name": "Atmospheric entry", "weight": 0.0, "id": 6405472, "level": 2}
+{"count": 11898, "name": "Daytime", "weight": 0.0, "id": 162725370, "level": 2}
+{"count": 2541, "name": "K band", "weight": 0.0, "id": 118121272, "level": 2}
+{"count": 12501, "name": "Flattening", "weight": 0.0, "id": 19444555, "level": 2}
+{"count": 743, "name": "Gravitational instability", "weight": 0.0, "id": 2776761751, "level": 2}
+{"count": 2662, "name": "Night sky", "weight": 0.0, "id": 2779613214, "level": 2}
+{"count": 1483, "name": "Information display systems", "weight": 0.0, "id": 2776506782, "level": 2}
+{"count": 3317, "name": "S band", "weight": 0.0, "id": 2777592538, "level": 2}
+{"count": 8277, "name": "Spider", "weight": 0.0, "id": 2780181586, "level": 2}
+{"count": 2460, "name": "Apparent magnitude", "weight": 0.0, "id": 188984411, "level": 2}
+{"count": 25, "name": "Negative sign", "weight": 0.0, "id": 2776269556, "level": 2}
+{"count": 2240, "name": "Extreme environment", "weight": 0.0, "id": 93642007, "level": 2}
+{"count": 3898, "name": "Differential rotation", "weight": 0.0, "id": 155008239, "level": 2}
+{"count": 5689, "name": "Extraterrestrial life", "weight": 0.0, "id": 98536072, "level": 2}
+{"count": 3163, "name": "Libration", "weight": 0.0, "id": 175527776, "level": 2}
+{"count": 810, "name": "Astronomical unit", "weight": 0.0, "id": 129001420, "level": 2}

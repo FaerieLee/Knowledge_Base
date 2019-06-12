@@ -1,0 +1,3 @@
+{"count": 3792, "name": "Nonlinear conjugate gradient method", "weight": 10.0, "id": 26362088, "level": 3}
+{"count": 56, "name": "LOBPCG", "weight": 0.0, "id": 2781436268, "level": 3}
+{"count": 2994, "name": "Conjugate residual method", "weight": 7.0, "id": 91394653, "level": 3}

@@ -1,0 +1,23 @@
+{"count": 2950, "name": "Complexity class", "weight": 10.0, "id": 39637292, "level": 3}
+{"count": 2377, "name": "Polynomial-time approximation scheme", "weight": 8.0, "id": 99140742, "level": 3}
+{"count": 747, "name": "Polynomial hierarchy", "weight": 2.0, "id": 2776013622, "level": 3}
+{"count": 223, "name": "Random-access machine", "weight": 0.0, "id": 2779862694, "level": 3}
+{"count": 1613, "name": "PSPACE", "weight": 5.0, "id": 197685441, "level": 3}
+{"count": 1957, "name": "Average-case complexity", "weight": 6.0, "id": 24604422, "level": 3}
+{"count": 68, "name": "Range minimum query", "weight": 0.0, "id": 2777449258, "level": 3}
+{"count": 59, "name": "Implicit computational complexity", "weight": 0.0, "id": 2776033624, "level": 3}
+{"count": 42, "name": "Disjoint-set", "weight": 0.0, "id": 100469373, "level": 3}
+{"count": 772, "name": "NP", "weight": 2.0, "id": 91331118, "level": 3}
+{"count": 154, "name": "Parity game", "weight": 0.0, "id": 2777110149, "level": 3}
+{"count": 332, "name": "Stable roommates problem", "weight": 1.0, "id": 26389778, "level": 3}
+{"count": 88, "name": "Polyhedral terrain", "weight": 0.0, "id": 2778674934, "level": 3}
+{"count": 37, "name": "B-coloring", "weight": 0.0, "id": 2776617150, "level": 3}
+{"count": 365, "name": "Exponential time hypothesis", "weight": 1.0, "id": 71017364, "level": 3}
+{"count": 33, "name": "PQ tree", "weight": 0.0, "id": 2777636804, "level": 3}
+{"count": 20, "name": "Prune and search", "weight": 0.0, "id": 2781251248, "level": 3}
+{"count": 301, "name": "Reduction (recursion theory)", "weight": 1.0, "id": 117885697, "level": 3}
+{"count": 65, "name": "Maximum subarray problem", "weight": 0.0, "id": 1634158, "level": 3}
+{"count": 16, "name": "Generic-case complexity", "weight": 0.0, "id": 2776840705, "level": 3}
+{"count": 113, "name": "NTIME", "weight": 0.0, "id": 6319563, "level": 3}
+{"count": 12, "name": "Truth-table reduction", "weight": 0.0, "id": 2780235641, "level": 3}
+{"count": 96, "name": "Computing the permanent", "weight": 0.0, "id": 2780878606, "level": 3}

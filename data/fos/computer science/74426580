@@ -1,0 +1,15 @@
+{"count": 3784, "name": "Cache-only memory architecture", "weight": 4.0, "id": 3720319, "level": 5}
+{"count": 803, "name": "Region-based memory management", "weight": 1.0, "id": 146444710, "level": 5}
+{"count": 1524, "name": "Demand paging", "weight": 1.0, "id": 188873839, "level": 5}
+{"count": 3521, "name": "Extended memory", "weight": 4.0, "id": 171675096, "level": 5}
+{"count": 373, "name": "Memory ordering", "weight": 0.0, "id": 133482787, "level": 5}
+{"count": 4655, "name": "Memory segmentation", "weight": 6.0, "id": 116957924, "level": 5}
+{"count": 244, "name": "Memory barrier", "weight": 0.0, "id": 111094320, "level": 5}
+{"count": 230, "name": "Placement syntax", "weight": 0.0, "id": 195546690, "level": 5}
+{"count": 173, "name": "Slab allocation", "weight": 0.0, "id": 10145245, "level": 5}
+{"count": 37, "name": "Write-only memory (joke)", "weight": 0.0, "id": 88307930, "level": 5}
+{"count": 352, "name": "Memory management (operating systems)", "weight": 0.0, "id": 169768912, "level": 5}
+{"count": 299, "name": "Memory geometry", "weight": 0.0, "id": 44877061, "level": 5}
+{"count": 207, "name": "Unreachable memory", "weight": 0.0, "id": 155698447, "level": 5}
+{"count": 102, "name": "DOS memory management", "weight": 0.0, "id": 74094525, "level": 5}
+{"count": 7653, "name": "Conventional memory", "weight": 10.0, "id": 53838383, "level": 5}

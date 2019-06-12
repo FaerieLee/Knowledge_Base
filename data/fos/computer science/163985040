@@ -1,0 +1,9 @@
+{"count": 3399, "name": "Virtual instrumentation", "weight": 10.0, "id": 2781331281, "level": 3}
+{"count": 2151, "name": "Computer Automated Measurement and Control", "weight": 6.0, "id": 148137211, "level": 3}
+{"count": 1898, "name": "VMEbus", "weight": 5.0, "id": 117180269, "level": 3}
+{"count": 1479, "name": "Instrument control", "weight": 4.0, "id": 2777628319, "level": 3}
+{"count": 154, "name": "Advanced Telecommunications Computing Architecture", "weight": 0.0, "id": 65770563, "level": 3}
+{"count": 36, "name": "Power Analytics", "weight": 0.0, "id": 2779121243, "level": 3}
+{"count": 103, "name": "PCI eXtensions for Instrumentation", "weight": 0.0, "id": 2776453228, "level": 3}
+{"count": 26, "name": "CompactDAQ", "weight": 0.0, "id": 2778737335, "level": 3}
+{"count": 16, "name": "Nuclear Instrumentation Module", "weight": 0.0, "id": 2781202829, "level": 3}
